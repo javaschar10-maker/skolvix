@@ -27,7 +27,7 @@ const DAFTAR_BAB = {
       label: "Bab 1",
       judul: "Bilangan Bulat",
       tersedia: true,
-      file: "Matematika kelas 7 bab1 bilangan bulat-BS-KLS-VII.pdf",
+      file: "matematika_kelas_7.pdf",
       sumber: "Buku Matematika untuk SMP/MTs Kelas VII, Kurikulum Merdeka (SIBI - buku.kemdikbud.go.id)"
     },
     { id: "bab2", label: "Bab 2", judul: "Bilangan Rasional", tersedia: false },
