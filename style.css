@@ -378,3 +378,101 @@ body {
     font-size: 14px;
     padding: 20px 0;
 }
+
+/* ============================================
+   DESKTOP LAYOUT (min-width: 768px)
+   Mobile layout stays unchanged below 768px
+   ============================================ */
+@media (min-width: 768px) {
+    body {
+        padding: 32px 40px;
+    }
+
+    .container {
+        max-width: 920px;
+    }
+
+    /* HEADER — more spacious on desktop */
+    .header {
+        margin-bottom: 32px;
+    }
+
+    .logo {
+        font-size: 28px;
+    }
+
+    .stat-pill {
+        padding: 8px 16px;
+        font-size: 14px;
+    }
+
+    /* LOGIN CARD — stay centered & readable */
+    #loginCard {
+        max-width: 480px;
+        margin: 40px auto;
+    }
+
+    /* DASHBOARD — 2-column card grid */
+    #dashboard {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    #dashboard .card {
+        margin-bottom: 0;
+    }
+
+    /* Card 1: Welcome banner — full width */
+    #dashboard .card:nth-child(1) {
+        grid-column: span 2;
+    }
+
+    /* Cards 2-5: naturally fill 2 columns */
+
+    /* Card 6: Leaderboard — full width */
+    #dashboard .card:nth-child(6) {
+        grid-column: span 2;
+    }
+
+    /* Cards look better with slightly more padding on desktop */
+    .card {
+        padding: 24px;
+    }
+
+    .card h2 {
+        font-size: 18px;
+    }
+
+    .card .subtitle {
+        font-size: 14px;
+    }
+
+    /* Persona grid — keep 3 cols, slightly bigger items */
+    .persona-select-grid {
+        gap: 12px;
+    }
+
+    .persona-select-card {
+        padding: 14px 8px;
+    }
+
+    /* Buttons — not full width on desktop for a cleaner look */
+    .btn {
+        width: auto;
+        display: inline-block;
+        padding: 14px 28px;
+    }
+
+    .btn.btn-primary,
+    .btn.btn-secondary {
+        min-width: 200px;
+    }
+}
+
+/* LARGE DESKTOP (min-width: 1200px) — even more room */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1080px;
+    }
+}
