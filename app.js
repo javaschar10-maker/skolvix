@@ -59,7 +59,7 @@ async function handleLogin() {
     // Buat user baru
     const { data: newUser, error: insertError } = await supabaseClient
       .from("user_progress")
-      .insert([{ username, koin_iq: 0, energi: 5, streak: 0, last_login: new Date().toISOString().slice(0,10) }])
+      .insert([{ username, koin_iq: 0, energi: 5, streak: 0, last_login: new Date().toISOString().slice(0, 10) }])
       .select()
       .single();
 
@@ -105,6 +105,13 @@ async function checkDailyReset(user) {
 
   // Reset energi setiap hari baru
   newEnergi = 5;
+
+  // Cek bonus energi dari spin wheel di landing page
+  const bonusEnergi = parseInt(localStorage.getItem('skolvix_bonus_energi')) || 0;
+  if (bonusEnergi > 0) {
+    newEnergi += bonusEnergi;
+    localStorage.removeItem('skolvix_bonus_energi'); // Pakai sekali saja
+  }
 
   const { data: updated, error } = await supabaseClient
     .from("user_progress")
@@ -181,7 +188,7 @@ function renderPersonaSelector() {
   });
 }
 
- 
+
 
 
 function renderBadges() {
