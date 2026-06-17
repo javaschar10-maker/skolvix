@@ -77,7 +77,8 @@
         /* NAV */
         nav {
             position: fixed;
-            top: 0;background-clip: text;
+            top: 0;
+            background-clip: text;
             left: 0;
             right: 0;
             z-index: 100;
@@ -85,7 +86,8 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
-            background: rgba(5, 13, 26, 0.85);background-clip: text;
+            background: rgba(5, 13, 26, 0.85);
+            background-clip: text;
             backdrop-filter: blur(20px);
             border-bottom: 1px solid var(--white10);
         }
@@ -95,7 +97,8 @@
             font-size: 22px;
             font-weight: 700;
             background: linear-gradient(135deg, var(--blue-bright), var(--cyan));
-            -webkit-background-clip: text;background-clip: text;
+            -webkit-background-clip: text;
+            background-clip: text;
             background-clip: text;
             -webkit-text-fill-color: transparent;
             letter-spacing: -0.5px;
@@ -1333,7 +1336,8 @@
             font-size: 56px;
             font-weight: 800;
             background: linear-gradient(135deg, var(--blue-bright), var(--cyan));
-            -webkit-background-clip: text;background-clip: text;
+            -webkit-background-clip: text;
+            background-clip: text;
             -webkit-text-fill-color: transparent;
             line-height: 1;
         }
@@ -1994,6 +1998,290 @@
             margin: 0;
         }
 
+        /* SPIN WHEEL SECTION */
+        .spin-section {
+            padding: 100px 48px;
+            max-width: 900px;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .spin-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 48px;
+            margin-top: 48px;
+        }
+
+        .spin-wheel-wrap {
+            position: relative;
+            width: 340px;
+            height: 360px;
+            flex-shrink: 0;
+        }
+
+        .spin-wheel {
+            width: 340px;
+            height: 340px;
+            position: relative;
+            transition: transform 5s cubic-bezier(0.15, 0.60, 0.10, 1.00);
+        }
+
+        .spin-canvas {
+            width: 340px;
+            height: 340px;
+            border-radius: 50%;
+            box-shadow:
+                0 0 0 6px var(--navy2),
+                0 0 0 10px rgba(59, 139, 255, 0.5),
+                0 0 0 14px var(--navy),
+                0 0 40px rgba(29, 106, 229, 0.35),
+                0 0 80px rgba(0, 212, 255, 0.10);
+        }
+
+        .spin-pointer {
+            position: absolute;
+            top: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            z-index: 10;
+            width: 0;
+            height: 0;
+            border-left: 14px solid transparent;
+            border-right: 14px solid transparent;
+            border-top: 30px solid var(--gold);
+            filter: drop-shadow(0 3px 8px rgba(245, 200, 66, 0.5));
+        }
+
+        .spin-pointer::after {
+            content: '';
+            position: absolute;
+            top: -34px;
+            left: -7px;
+            width: 14px;
+            height: 14px;
+            background: var(--gold);
+            border-radius: 50%;
+            box-shadow: 0 0 12px rgba(245, 200, 66, 0.6);
+        }
+
+        .spin-info {
+            text-align: left;
+            max-width: 340px;
+        }
+
+        .spin-info h3 {
+            font-family: var(--font-display);
+            font-size: 28px;
+            font-weight: 700;
+            margin-bottom: 12px;
+            background: linear-gradient(135deg, var(--white), var(--cyan-soft));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .spin-info p {
+            font-size: 14px;
+            color: var(--white80);
+            line-height: 1.7;
+            margin-bottom: 24px;
+        }
+
+        .spin-btn {
+            background: linear-gradient(135deg, var(--blue), var(--cyan));
+            border: none;
+            color: white;
+            padding: 18px 40px;
+            border-radius: 14px;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.25s;
+            font-family: var(--font-display);
+            letter-spacing: 0.5px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .spin-btn::before {
+            content: '';
+            position: absolute;
+            inset: -2px;
+            border-radius: 16px;
+            background: linear-gradient(135deg, var(--blue), var(--cyan), var(--gold), var(--blue));
+            background-size: 300% 300%;
+            animation: btnShimmer 3s ease infinite;
+            z-index: -1;
+            opacity: 0;
+            transition: opacity 0.3s;
+        }
+
+        .spin-btn:hover::before {
+            opacity: 1;
+        }
+
+        @keyframes btnShimmer {
+            0% {
+                background-position: 0% 50%;
+            }
+
+            50% {
+                background-position: 100% 50%;
+            }
+
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        .spin-btn:hover:not(:disabled) {
+            transform: translateY(-2px) scale(1.02);
+            box-shadow: 0 8px 28px rgba(29, 106, 229, 0.5);
+        }
+
+        .spin-btn:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .spin-result-box {
+            display: none;
+            margin-top: 24px;
+            padding: 24px;
+            background: linear-gradient(135deg, rgba(0, 229, 160, 0.12), rgba(245, 200, 66, 0.08));
+            border: 1px solid rgba(0, 229, 160, 0.3);
+            border-radius: 16px;
+            text-align: center;
+        }
+
+        .spin-result-box.show {
+            display: block;
+            animation: fadeUp 0.5s ease both;
+        }
+
+        .spin-result-label {
+            font-size: 12px;
+            color: var(--green);
+            font-weight: 700;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            margin-bottom: 8px;
+        }
+
+        .spin-result-prize {
+            font-family: var(--font-display);
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--gold);
+            margin-bottom: 6px;
+            text-shadow: 0 0 20px rgba(245, 200, 66, 0.3);
+        }
+
+        .spin-result-desc {
+            font-size: 13px;
+            color: var(--white80);
+        }
+
+        .spin-discount-banner {
+            display: none;
+            margin-top: 32px;
+            padding: 20px 28px;
+            background: linear-gradient(135deg, rgba(245, 200, 66, 0.12), rgba(0, 229, 160, 0.06));
+            border: 1px solid rgba(245, 200, 66, 0.35);
+            border-radius: 16px;
+            font-size: 15px;
+            color: var(--white80);
+            animation: fadeUp 0.5s ease both;
+            text-align: center;
+        }
+
+        .spin-discount-banner.show {
+            display: block;
+        }
+
+        .spin-discount-banner strong {
+            color: var(--gold);
+        }
+
+        @keyframes spinGlow {
+
+            0%,
+            100% {
+                box-shadow: 0 0 0 6px var(--navy2), 0 0 0 10px rgba(59, 139, 255, 0.5), 0 0 0 14px var(--navy), 0 0 40px rgba(29, 106, 229, 0.35), 0 0 80px rgba(0, 212, 255, 0.10);
+            }
+
+            50% {
+                box-shadow: 0 0 0 6px var(--navy2), 0 0 0 10px rgba(0, 212, 255, 0.6), 0 0 0 14px var(--navy), 0 0 60px rgba(0, 212, 255, 0.45), 0 0 100px rgba(245, 200, 66, 0.15);
+            }
+        }
+
+        .spin-canvas.spinning {
+            animation: spinGlow 0.35s ease infinite;
+        }
+
+        /* Confetti */
+        @keyframes confettiFall {
+            0% {
+                transform: translateY(-10px) rotate(0deg);
+                opacity: 1;
+            }
+
+            100% {
+                transform: translateY(120px) rotate(720deg);
+                opacity: 0;
+            }
+        }
+
+        .confetti-piece {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            border-radius: 2px;
+            animation: confettiFall 2s ease-out forwards;
+            pointer-events: none;
+            z-index: 20;
+        }
+
+        .price-card .price-discount-tag {
+            display: inline-block;
+            background: rgba(0, 229, 160, 0.15);
+            color: var(--green);
+            font-size: 11px;
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 100px;
+            margin-bottom: 10px;
+        }
+
+        @media (max-width: 768px) {
+            .spin-container {
+                flex-direction: column;
+                gap: 28px;
+            }
+
+            .spin-info {
+                text-align: center;
+                max-width: 100%;
+            }
+
+            .spin-wheel-wrap {
+                width: 280px;
+                height: 300px;
+            }
+
+            .spin-wheel,
+            .spin-canvas {
+                width: 280px;
+                height: 280px;
+            }
+
+            .spin-section {
+                padding: 60px 20px;
+            }
+        }
+
         @media (max-width: 768px) {
             .features-grid {
                 grid-template-columns: 1fr;
@@ -2042,32 +2330,34 @@
             .main-content {
                 margin-left: 60px;
                 padding: 20px;
-            }/* ── Perbaikan tampilan mobile: hero section overflow ── */
-@media (max-width: 480px) {
-    .hero {
-        padding: 100px 20px 60px;
-    }
+            }
 
-    .hero h1 {
-        font-size: clamp(32px, 10vw, 48px);
-        letter-spacing: -1px;
-    }
+            /* ── Perbaikan tampilan mobile: hero section overflow ── */
+            @media (max-width: 480px) {
+                .hero {
+                    padding: 100px 20px 60px;
+                }
 
-    .hero-stats {
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 24px;
-        max-width: 100%;
-    }
+                .hero h1 {
+                    font-size: clamp(32px, 10vw, 48px);
+                    letter-spacing: -1px;
+                }
 
-    .hero-stat-num {
-        font-size: 26px;
-    }
+                .hero-stats {
+                    flex-wrap: wrap;
+                    justify-content: center;
+                    gap: 24px;
+                    max-width: 100%;
+                }
 
-    .hero-divider {
-        display: none;
-    }
-}
+                .hero-stat-num {
+                    font-size: 26px;
+                }
+
+                .hero-divider {
+                    display: none;
+                }
+            }
         }
     </style>
 </head>
@@ -2265,42 +2555,85 @@
                         <li>Streak system</li>
                     </ul><button class="price-btn outline" onclick="scrollToLogin()">Mulai Gratis</button>
                 </div>
-                <div class="price-card featured fade-up">
+                <div class="price-card featured fade-up" data-plan="1">
                     <div class="price-badge">Paling Populer</div>
                     <div class="price-tier">Pro Bulanan</div>
-                    <div class="price-amount">Rp 19.000</div>
+                    <div class="price-original"
+                        style="display:none;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
+                    </div>
+                    <div class="price-amount">Rp 40.000</div>
                     <div class="price-period">/bulan</div>
-                    <div class="price-save">≈ harga jajan 1 hari</div>
                     <ul class="price-features">
                         <li>Semua fitur gratis</li>
                         <li>25 Energi Arena/hari</li>
                         <li>Sandbox Learning (Area 3)</li>
                         <li>Tanya Ai Unlimited</li>
-                        
                     </ul><button class="price-btn solid" onclick="scrollToLogin()">Coba Sekarang</button>
                 </div>
-                <div class="price-card fade-up">
+                <div class="price-card fade-up" data-plan="3">
                     <div class="price-tier">Pro 3 Bulan</div>
-                    <div class="price-amount">Rp 45.000</div>
+                    <div class="price-original"
+                        style="display:none;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
+                    </div>
+                    <div class="price-amount">Rp 90.000</div>
                     <div class="price-period">/3 bulan</div>
-                    <div class="price-save">Hemat 21%</div>
+                    <div class="price-save">Hemat 25%</div>
                     <ul class="price-features">
                         <li>Semua Fitur Pro Bulanan</li>
-                        <li>Streak Shield+1 Bonus</li>
+                        <li>Streak Shield +1 Bonus</li>
                     </ul><button class="price-btn outline" onclick="scrollToLogin()">Pilih Paket Ini</button>
                 </div>
-                <div class="price-card fade-up">
+                <div class="price-card fade-up" data-plan="6">
                     <div class="price-tier">Pro 6 Bulan</div>
-                    <div class="price-amount">Rp 75.000</div>
+                    <div class="price-original"
+                        style="display:none;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
+                    </div>
+                    <div class="price-amount">Rp 150.000</div>
                     <div class="price-period">/6 bulan</div>
-                    <div class="price-save">Hemat 34%</div>
+                    <div class="price-save">Hemat 37%</div>
                     <ul class="price-features">
                         <li>Semua fitur pro 3 bulan</li>
-                        <li>Badge Exclusive "CHAMPION" </li>
+                        <li>Badge Exclusive "CHAMPION"</li>
                     </ul><button class="price-btn outline" onclick="scrollToLogin()">Pilih Paket Ini</button>
                 </div>
             </div>
-        </section><!-- CTA / LOGIN -->
+        </section>
+
+        <!-- SPIN WHEEL -->
+        <section class="section fade-up" id="spinWheel">
+            <div class="section-eyebrow">🎰 Putar & Menangkan</div>
+            <h2 class="section-title">Putar Roda Keberuntungan!</h2>
+            <p class="section-sub">Dapatkan diskon hingga 50% atau bonus energi gratis untuk Premium. Satu kali putaran
+                per pengguna!</p>
+
+            <div class="spin-container">
+                <div class="spin-wheel-wrap">
+                    <div class="spin-pointer"></div>
+                    <div class="spin-wheel" id="spinWheelEl">
+                        <canvas class="spin-canvas" id="spinCanvas" width="680" height="680"></canvas>
+                    </div>
+                </div>
+
+                <div class="spin-info">
+                    <h3>Coba Keberuntunganmu!</h3>
+                    <p>Setiap pengguna mendapat <strong>1 kali putaran gratis</strong>. Hadiah berupa diskon Premium
+                        atau bonus energi tambahan untuk kuis. Diskon otomatis diterapkan di bawah!</p>
+                    <button class="spin-btn" id="spinBtn" onclick="spinWheel()">🎯 PUTAR SEKARANG</button>
+                    <div class="spin-result-box" id="spinResult">
+                        <div class="spin-result-label">🎉 SELAMAT! KAMU MENDAPAT</div>
+                        <div class="spin-result-prize" id="spinPrize"></div>
+                        <div class="spin-result-desc" id="spinDesc"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="spin-discount-banner" id="spinBanner">
+                ✨ <strong>Harga diskon sudah diterapkan</strong> di bagian harga di atas. Scroll ke atas untuk melihat
+                harga barumu!
+            </div>
+        </section>
+
+        <hr class="section-divider"><!-- CTA / LOGIN -->
         <section class="cta-section" id="cta">
             <div class="cta-bg"></div>
             <h2>Siap buktikan<br>kamu yang terpintar?</h2>
@@ -2323,16 +2656,268 @@
     </div>
 
     <script>
-        // ─── NAVIGASI KE SKOLVIX LITE ───
+        // ─── SPIN WHEEL CONFIG ───
+        const SPIN_PRIZES = [
+            { type: 'discount', value: 5, label: 'Diskon 5%', desc: 'Harga Premium turun 5%! Cek bagian harga di atas.' },
+            { type: 'discount', value: 10, label: 'Diskon 10%', desc: 'Lumayan! Harga Premium turun 10%.' },
+            { type: 'energy', value: 5, label: '+5 Energi', desc: 'Bonus 5 energi tambahan untuk kuis besok!' },
+            { type: 'discount', value: 20, label: 'Diskon 20%', desc: 'Mantap! Harga Premium turun 20%.' },
+            { type: 'energy', value: 10, label: '+10 Energi', desc: 'Bonus 10 energi tambahan untuk kuis besok!' },
+            { type: 'discount', value: 50, label: 'Diskon 50%', desc: 'JACKPOT! Harga Premium turun separuh!' },
+        ];
+
+        const SEGMENT_COLORS = [
+            { bg: '#e74c3c', bg2: '#c0392b' },
+            { bg: '#9b59b6', bg2: '#7d3c98' },
+            { bg: '#27ae60', bg2: '#1e8449' },
+            { bg: '#2980b9', bg2: '#1a5276' },
+            { bg: '#e67e22', bg2: '#ca6f1e' },
+            { bg: '#f5c842', bg2: '#d4a017' },
+        ];
+
+        let hasSpun = false;
+
+        // ─── DRAW WHEEL ON CANVAS ───
+        function drawWheel() {
+            const canvas = document.getElementById('spinCanvas');
+            if (!canvas) return;
+            const ctx = canvas.getContext('2d');
+            const cx = 340, cy = 340, r = 325;
+
+            ctx.clearRect(0, 0, 680, 680);
+            const segAngle = (2 * Math.PI) / 6;
+
+            // Draw segments
+            for (let i = 0; i < 6; i++) {
+                const startAngle = i * segAngle - Math.PI / 2;
+                const endAngle = startAngle + segAngle;
+
+                // Gradient fill
+                const grad = ctx.createRadialGradient(cx, cy, 40, cx, cy, r);
+                grad.addColorStop(0, SEGMENT_COLORS[i].bg);
+                grad.addColorStop(1, SEGMENT_COLORS[i].bg2);
+
+                ctx.beginPath();
+                ctx.moveTo(cx, cy);
+                ctx.arc(cx, cy, r, startAngle, endAngle);
+                ctx.closePath();
+                ctx.fillStyle = grad;
+                ctx.fill();
+
+                // Segment border
+                ctx.strokeStyle = 'rgba(255,255,255,0.12)';
+                ctx.lineWidth = 2;
+                ctx.stroke();
+
+                // Text
+                ctx.save();
+                ctx.translate(cx, cy);
+                ctx.rotate(startAngle + segAngle / 2);
+                ctx.textAlign = 'center';
+                ctx.fillStyle = '#fff';
+                ctx.shadowColor = 'rgba(0,0,0,0.5)';
+                ctx.shadowBlur = 4;
+                ctx.font = 'bold 24px Inter, sans-serif';
+
+                const prize = SPIN_PRIZES[i];
+                const lines = prize.label.split(' ');
+                if (lines.length === 2) {
+                    ctx.fillText(lines[0], r * 0.60, -8);
+                    ctx.fillText(lines[1], r * 0.60, 18);
+                } else {
+                    ctx.fillText(prize.label, r * 0.60, 6);
+                }
+                ctx.restore();
+            }
+
+            // Outer ring
+            ctx.beginPath();
+            ctx.arc(cx, cy, r, 0, 2 * Math.PI);
+            ctx.strokeStyle = 'rgba(255,255,255,0.15)';
+            ctx.lineWidth = 6;
+            ctx.stroke();
+
+            // Decorative pegs around the edge
+            for (let i = 0; i < 24; i++) {
+                const angle = (i / 24) * 2 * Math.PI - Math.PI / 2;
+                const px = cx + Math.cos(angle) * (r - 4);
+                const py = cy + Math.sin(angle) * (r - 4);
+                ctx.beginPath();
+                ctx.arc(px, py, 5, 0, 2 * Math.PI);
+                ctx.fillStyle = i % 2 === 0 ? '#f5c842' : '#ffffff';
+                ctx.fill();
+                ctx.strokeStyle = 'rgba(0,0,0,0.3)';
+                ctx.lineWidth = 1;
+                ctx.stroke();
+            }
+
+            // Center circle
+            const centerGrad = ctx.createRadialGradient(cx, cy, 0, cx, cy, 36);
+            centerGrad.addColorStop(0, '#0f2040');
+            centerGrad.addColorStop(1, '#050d1a');
+            ctx.beginPath();
+            ctx.arc(cx, cy, 36, 0, 2 * Math.PI);
+            ctx.fillStyle = centerGrad;
+            ctx.fill();
+            ctx.strokeStyle = '#3b8bff';
+            ctx.lineWidth = 4;
+            ctx.stroke();
+
+            // Center emoji
+            ctx.font = '28px serif';
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.shadowColor = 'transparent';
+            ctx.fillText('🎰', cx, cy);
+        }
+
+        // ─── CONFETTI EFFECT ───
+        function launchConfetti() {
+            const wrap = document.querySelector('.spin-wheel-wrap');
+            const colors = ['#f5c842', '#00d4ff', '#00e5a0', '#ff4d6d', '#3b8bff', '#ffffff'];
+            for (let i = 0; i < 40; i++) {
+                const piece = document.createElement('div');
+                piece.className = 'confetti-piece';
+                piece.style.background = colors[Math.floor(Math.random() * colors.length)];
+                piece.style.left = (Math.random() * 100) + '%';
+                piece.style.top = (Math.random() * 40) + '%';
+                piece.style.animationDelay = (Math.random() * 0.8) + 's';
+                piece.style.animationDuration = (1.5 + Math.random()) + 's';
+                piece.style.width = (6 + Math.random() * 6) + 'px';
+                piece.style.height = (6 + Math.random() * 6) + 'px';
+                piece.style.borderRadius = Math.random() > 0.5 ? '50%' : '2px';
+                wrap.appendChild(piece);
+                setTimeout(() => piece.remove(), 3000);
+            }
+        }
+
+        // ─── SPIN LOGIC (always lands on 50% discount — index 5) ───
+        function spinWheel() {
+            if (hasSpun) return;
+            hasSpun = true;
+
+            const spinBtn = document.getElementById('spinBtn');
+            const spinWheelEl = document.getElementById('spinWheelEl');
+            const spinCanvas = document.getElementById('spinCanvas');
+            spinBtn.disabled = true;
+            spinBtn.textContent = '⏳ Memutar...';
+            spinCanvas.classList.add('spinning');
+
+            // Always land on index 5 (Diskon 50%)
+            const prizeIndex = 5;
+            const prize = SPIN_PRIZES[prizeIndex];
+
+            // Calculate target rotation
+            const segmentAngle = prizeIndex * 60 + 30;
+            const extraSpins = 7;
+            const targetRotation = extraSpins * 360 + (360 - segmentAngle);
+
+            spinWheelEl.style.transition = 'transform 5s cubic-bezier(0.15, 0.60, 0.10, 1.00)';
+            spinWheelEl.style.transform = `rotate(${targetRotation}deg)`;
+
+            // After animation
+            setTimeout(() => {
+                spinCanvas.classList.remove('spinning');
+                spinBtn.textContent = '✅ Selesai!';
+
+                // Confetti!
+                launchConfetti();
+
+                // Show result
+                const resultBox = document.getElementById('spinResult');
+                resultBox.classList.add('show');
+                document.getElementById('spinPrize').textContent = prize.label;
+                document.getElementById('spinDesc').textContent = prize.desc;
+
+                // Save discount & update pricing
+                localStorage.setItem('skolvix_discount', prize.value);
+                updatePricingWithDiscount(prize.value);
+                document.getElementById('spinBanner').classList.add('show');
+
+                // Scroll to pricing after a beat
+                setTimeout(() => {
+                    document.getElementById('harga').scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }, 1200);
+
+                // Highlight pricing cards
+                document.querySelectorAll('.price-card[data-plan]').forEach(card => {
+                    card.style.transition = 'all 0.4s ease';
+                    card.style.borderColor = 'rgba(0, 229, 160, 0.5)';
+                });
+            }, 5200);
+        }
+
+        function updatePricingWithDiscount(discountPercent) {
+            const plans = { 1: 40000, 3: 90000, 6: 150000 };
+            const discount = discountPercent / 100;
+
+            for (const [months, original] of Object.entries(plans)) {
+                const discounted = Math.round(original * (1 - discount) / 100) * 100;
+                const card = document.querySelector(`.price-card[data-plan="${months}"]`);
+                if (!card) continue;
+
+                const originalEl = card.querySelector('.price-original');
+                if (originalEl) {
+                    originalEl.textContent = `Rp ${original.toLocaleString('id-ID')}`;
+                    originalEl.style.display = 'block';
+                }
+
+                card.querySelector('.price-amount').textContent = `Rp ${discounted.toLocaleString('id-ID')}`;
+                card.querySelector('.price-amount').style.color = 'var(--green)';
+
+                let saveEl = card.querySelector('.price-save');
+                if (!saveEl) {
+                    saveEl = document.createElement('div');
+                    saveEl.className = 'price-save';
+                    card.querySelector('.price-period').after(saveEl);
+                }
+                saveEl.style.color = 'var(--gold)';
+                saveEl.textContent = `🎉 Diskon ${discountPercent}% berlaku!`;
+
+                if (!card.querySelector('.price-discount-tag')) {
+                    const tag = document.createElement('div');
+                    tag.className = 'price-discount-tag';
+                    tag.textContent = `🎰 -${discountPercent}% DARI SPIN`;
+                    card.querySelector('.price-tier').after(tag);
+                }
+            }
+        }
+
+        // ─── CHECK PREVIOUS SPIN ON LOAD ───
+        function checkPreviousSpin() {
+            const savedDiscount = localStorage.getItem('skolvix_discount');
+            const savedEnergy = localStorage.getItem('skolvix_bonus_energi');
+
+            if (savedDiscount || savedEnergy) {
+                hasSpun = true;
+                const spinBtn = document.getElementById('spinBtn');
+                if (spinBtn) {
+                    spinBtn.disabled = true;
+                    spinBtn.textContent = '✅ Sudah Diputar';
+                }
+
+                const resultBox = document.getElementById('spinResult');
+                if (resultBox) resultBox.classList.add('show');
+
+                if (savedDiscount) {
+                    document.getElementById('spinPrize').textContent = `Diskon ${savedDiscount}%`;
+                    document.getElementById('spinDesc').textContent = 'Diskon ini sudah diterapkan di harga Premium.';
+                    updatePricingWithDiscount(parseInt(savedDiscount));
+                    document.getElementById('spinBanner').classList.add('show');
+                } else if (savedEnergy) {
+                    document.getElementById('spinPrize').textContent = `+${savedEnergy} Energi Bonus`;
+                    document.getElementById('spinDesc').textContent = 'Bonus energi akan aktif saat kamu login di app.';
+                }
+            }
+        }
+
+        // ─── NAVIGASI ───
         function goToApp() {
-            // Arahkan ke dashboard Skolvix Lite
             window.location.href = "app.html";
         }
 
         function scrollToLogin() {
-            document.getElementById('cta').scrollIntoView({
-                behavior: 'smooth'
-            });
+            document.getElementById('cta').scrollIntoView({ behavior: 'smooth' });
         }
 
         // ─── SCROLL ANIMATIONS ───
@@ -2340,10 +2925,14 @@
             entries.forEach(e => {
                 if (e.isIntersecting) e.target.classList.add('visible');
             });
-        }, {
-            threshold: 0.1
-        });
+        }, { threshold: 0.1 });
         document.querySelectorAll('.fade-up').forEach(el => observer.observe(el));
+
+        // ─── INIT ───
+        window.addEventListener('load', () => {
+            drawWheel();
+            checkPreviousSpin();
+        });
     </script>
 
 
