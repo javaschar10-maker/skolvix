@@ -1,0 +1,488 @@
+{
+    "mapel": "Bahasa Indonesia",
+    "jenjang": "SMP Umum",
+    "bab": "Bahasa Indonesia Umum",
+    "sumber_buku": "Kurikulum Merdeka",
+    "soal": [
+        {
+            "id": 1,
+            "pertanyaan": "Kalimat yang mengandung perintah disebut kalimat...",
+            "opsi": [
+                "Deklaratif",
+                "Imperatif",
+                "Interogatif",
+                "Ekslamatif"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kalimat imperatif adalah kalimat yang berisi perintah atau permintaan, biasanya diakhiri tanda seru (!)."
+        },
+        {
+            "id": 2,
+            "pertanyaan": "Kata 'berlari' termasuk jenis kata...",
+            "opsi": [
+                "Kata benda",
+                "Kata kerja",
+                "Kata sifat",
+                "Kata keterangan"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Berlari' adalah kata kerja (verba) karena menunjukkan suatu tindakan atau perbuatan."
+        },
+        {
+            "id": 3,
+            "pertanyaan": "Sinonim dari kata 'pandai' adalah...",
+            "opsi": [
+                "Bodoh",
+                "Cerdas",
+                "Malas",
+                "Lambat"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Sinonim adalah kata yang memiliki arti sama/similar. 'Pandai' bersinonim dengan 'cerdas', 'pintar', 'cendekia'."
+        },
+        {
+            "id": 4,
+            "pertanyaan": "Antonim dari kata 'gelap' adalah...",
+            "opsi": [
+                "Suram",
+                "Terang",
+                "Redup",
+                "Kelam"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Antonim adalah kata yang berlawanan arti. Antonim 'gelap' adalah 'terang'."
+        },
+        {
+            "id": 5,
+            "pertanyaan": "Paragraf yang kalimat utamanya terletak di akhir paragraf disebut paragraf...",
+            "opsi": [
+                "Deduktif",
+                "Induktif",
+                "Campuran",
+                "Deskriptif"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Paragraf induktif memiliki kalimat utama di akhir, dimulai dari hal-hal khusus menuju kesimpulan umum."
+        },
+        {
+            "id": 6,
+            "pertanyaan": "Unsur intrinsik cerpen yang menunjukkan pesan atau amanat disebut...",
+            "opsi": [
+                "Alur",
+                "Tema",
+                "Amanat",
+                "Latar"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Amanat adalah pesan moral atau pelajaran yang ingin disampaikan pengarang melalui cerita."
+        },
+        {
+            "id": 7,
+            "pertanyaan": "Kata berimbuhan 'me- + tulis' menjadi...",
+            "opsi": [
+                "Menulis",
+                "Menulis",
+                "Nulis",
+                "Ditulis"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Prefiks 'me-' + 'tulis' = 'menulis'. Huruf 't' luluh menjadi 'n' karena aturan peluluhan fonetik."
+        },
+        {
+            "id": 8,
+            "pertanyaan": "Majas yang membandingkan dua hal menggunakan kata 'seperti' atau 'bagai' disebut majas...",
+            "opsi": [
+                "Metafora",
+                "Hiperbola",
+                "Simile",
+                "Personifikasi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Simile membandingkan secara eksplisit menggunakan kata hubung: seperti, bagai, laksana, ibarat."
+        },
+        {
+            "id": 9,
+            "pertanyaan": "Teks yang bertujuan membujuk pembaca disebut teks...",
+            "opsi": [
+                "Narasi",
+                "Eksposisi",
+                "Persuasi",
+                "Deskripsi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Teks persuasi bertujuan membujuk atau mengajak pembaca melakukan sesuatu dengan argumen yang meyakinkan."
+        },
+        {
+            "id": 10,
+            "pertanyaan": "Kalimat langsung ditandai dengan penggunaan...",
+            "opsi": [
+                "Tanda koma",
+                "Tanda petik",
+                "Tanda titik",
+                "Tanda hubung"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kalimat langsung menggunakan tanda petik (\"...\") untuk mengapit perkataan yang diucapkan secara langsung."
+        },
+        {
+            "id": 11,
+            "pertanyaan": "Subjek dalam kalimat 'Ibu memasak nasi di dapur' adalah...",
+            "opsi": [
+                "Memasak",
+                "Nasi",
+                "Ibu",
+                "Di dapur"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Subjek adalah pelaku dalam kalimat. 'Ibu' adalah yang melakukan kegiatan memasak."
+        },
+        {
+            "id": 12,
+            "pertanyaan": "Kata baku dari 'nasehat' adalah...",
+            "opsi": [
+                "Nasehat",
+                "Nasihat",
+                "Naseihat",
+                "Nassihat"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kata baku yang benar menurut KBBI adalah 'nasihat', bukan 'nasehat'."
+        },
+        {
+            "id": 13,
+            "pertanyaan": "Teks yang menceritakan suatu peristiwa secara berurutan disebut teks...",
+            "opsi": [
+                "Deskripsi",
+                "Narasi",
+                "Eksposisi",
+                "Argumentasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teks narasi menceritakan peristiwa secara kronologis/berurutan dengan alur cerita yang jelas."
+        },
+        {
+            "id": 14,
+            "pertanyaan": "Kata 'sangat' dalam kalimat 'Ia sangat rajin' berfungsi sebagai...",
+            "opsi": [
+                "Subjek",
+                "Predikat",
+                "Keterangan",
+                "Pelengkap"
+            ],
+            "jawaban": 2,
+            "penplanation": "'Sangat' adalah kata keterangan (adverbia) yang menerangkan kata sifat 'rajin'."
+        },
+        {
+            "id": 15,
+            "pertanyaan": "Konjungsi yang menunjukkan hubungan pertentangan adalah...",
+            "opsi": [
+                "Dan",
+                "Tetapi",
+                "Karena",
+                "Sehingga"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Tetapi' adalah konjungsi pertentangan. 'Dan' untuk penambahan, 'karena' untuk sebab, 'sehingga' untuk akibat."
+        },
+        {
+            "id": 16,
+            "pertanyaan": "Karya sastra yang terdiri dari bait dan baris disebut...",
+            "opsi": [
+                "Prosa",
+                "Puisi",
+                "Drama",
+                "Novel"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Puisi adalah karya sastra yang tersusun dari bait-bait dan baris-baris dengan rima dan irama."
+        },
+        {
+            "id": 17,
+            "pertanyaan": "Kata 'ke- + indah- + -an' membentuk kata...",
+            "opsi": [
+                "Keindahan",
+                "Mengindahkan",
+                "Indah",
+                "Diperindah"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Konfiks 'ke-...-an' + 'indah' = 'keindahan' yang berarti hal yang indah (kata benda abstrak)."
+        },
+        {
+            "id": 18,
+            "pertanyaan": "Kalimat efektif harus memenuhi syarat berikut, KECUALI...",
+            "opsi": [
+                "Memiliki subjek dan predikat",
+                "Hemat kata",
+                "Menggunakan bahasa gaul",
+                "Tidak ambigu"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kalimat efektif memiliki S-P, hemat kata, tidak ambigu, dan menggunakan bahasa baku. Bahasa gaul bukan syarat kalimat efektif."
+        },
+        {
+            "id": 19,
+            "pertanyaan": "Tokoh utama dalam sebuah cerita disebut...",
+            "opsi": [
+                "Antagonis",
+                "Protagonis",
+                "Figuran",
+                "Tritagonis"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Protagonis adalah tokoh utama/cerita yang biasanya bersifat baik. Antagonis adalah tokoh penentang."
+        },
+        {
+            "id": 20,
+            "pertanyaan": "Ejaan yang berlaku saat ini di Indonesia adalah...",
+            "opsi": [
+                "EYD",
+                "EYD V",
+                "PUEBI",
+                "Ejaan Van Ophuijsen"
+            ],
+            "jawaban": 2,
+            "penjelasan": "PUEBI (Pedoman Umum Ejaan Bahasa Indonesia) adalah ejaan yang berlaku sejak 2015 menggantikan EYD."
+        },
+        {
+            "id": 21,
+            "pertanyaan": "Latar dalam cerita meliputi...",
+            "opsi": [
+                "Tokoh dan watak",
+                "Tempat, waktu, dan suasana",
+                "Alur dan konflik",
+                "Tema dan amanat"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Latar (setting) mencakup tiga dimensi: tempat (di mana), waktu (kapan), dan suasana (bagaimana suasana)."
+        },
+        {
+            "id": 22,
+            "pertanyaan": "Kalimat 'Buku itu sudah dibaca oleh adik' adalah contoh kalimat...",
+            "opsi": [
+                "Kalimat aktif",
+                "Kalimat pasif",
+                "Kalimat perintah",
+                "Kalimat langsung"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kalimat pasif ditandai oleh prefiks 'di-' pada kata kerja dan subjek sebagai penerima tindakan."
+        },
+        {
+            "id": 23,
+            "pertanyaan": "Tanda baca yang digunakan untuk mengapit keterangan tambahan adalah...",
+            "opsi": [
+                "Tanda titik",
+                "Tanda koma",
+                "Tanda hubung",
+                "Tanda kurung"
+            ],
+            "jawaban": 3,
+            "penjelasan": "Tanda kurung (...) digunakan untuk mengapit keterangan tambahan atau penjelasan yang bukan bagian utama kalimat."
+        },
+        {
+            "id": 24,
+            "pertanyaan": "Kata 'di' yang ditulis terpisah berfungsi sebagai...",
+            "opsi": [
+                "Awalan",
+                "Kata depan",
+                "Akhiran",
+                "Konjungsi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Di' sebagai kata depan ditulis terpisah (di rumah, di sekolah) dan menunjukkan tempat. 'Di-' sebagai awalan ditulis serangkai (dimakan)."
+        },
+        {
+            "id": 25,
+            "pertanyaan": "Struktur teks eksposisi yang benar adalah...",
+            "opsi": [
+                "Orientasi - Komplikasi - Resolusi",
+                "Tesis - Argumen - Penegasan",
+                "Abstrak - Orientasi - Krisis",
+                "Deskripsi - Identifikasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teks eksposisi memiliki struktur: Tesis (pendapat), Argumen (alasan/bukti), Penegasan Ulang (kesimpulan)."
+        },
+        {
+            "id": 26,
+            "pertanyaan": "Majas 'angin berbisik lembut di telingaku' termasuk majas...",
+            "opsi": [
+                "Hiperbola",
+                "Simile",
+                "Personifikasi",
+                "Ironi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Personifikasi memberikan sifat manusia pada benda mati. 'Angin berbisik' = angin seolah-olah bisa berbisik seperti manusia."
+        },
+        {
+            "id": 27,
+            "pertanyaan": "Kalimat yang menyatakan pendapat atau opini disebut kalimat...",
+            "opsi": [
+                "Fakta",
+                "Opini",
+                "Perintah",
+                "Tanya"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kalimat opini berisi pendapat/pandangan subjektif yang belum tentu benar bagi semua orang."
+        },
+        {
+            "id": 28,
+            "pertanyaan": "Imbuhan yang berfungsi mengubah kata benda menjadi kata kerja adalah...",
+            "opsi": [
+                "-an",
+                "ke-an",
+                "me-",
+                "-lah"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Prefiks 'me-' mengubah kata benda menjadi kata kerja: 'sapu' → 'menyapu', 'cat' → 'mencat'."
+        },
+        {
+            "id": 29,
+            "pertanyaan": "Alur cerita yang dimulai dari akhir cerita disebut alur...",
+            "opsi": [
+                "Maju",
+                "Mundur",
+                "Campuran",
+                "Linear"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Alur mundur (flashback/regresif) menceritakan peristiwa dari akhir ke awal, mengungkap masa lalu secara bertahap."
+        },
+        {
+            "id": 30,
+            "pertanyaan": "Teks yang bertujuan menggambarkan suatu objek secara rinci disebut teks...",
+            "opsi": [
+                "Narasi",
+                "Deskripsi",
+                "Eksposisi",
+                "Argumentasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teks deskripsi menggambarkan objek secara rinci sehingga pembaca seolah-olah bisa melihat, mendengar, atau merasakannya."
+        },
+        {
+            "id": 31,
+            "pertanyaan": "Kata ganti orang kedua tunggal yang sopan adalah...",
+            "opsi": [
+                "Kamu",
+                "Engkau",
+                "Anda",
+                "Kalian"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Anda' adalah kata ganti orang kedua yang sopan dan formal. 'Kamu' dan 'engkau' kurang formal."
+        },
+        {
+            "id": 32,
+            "pertanyaan": "Puisi lama yang terdiri dari 4 baris per bait dengan rima a-b-a-b disebut...",
+            "opsi": [
+                "Syair",
+                "Pantun",
+                "Gurindam",
+                "Seloka"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Pantun memiliki ciri: 4 baris per bait, rima a-b-a-b, baris 1-2 sampiran, baris 3-4 isi."
+        },
+        {
+            "id": 33,
+            "pertanyaan": "Kata 'rumah sakit' termasuk jenis kata...",
+            "opsi": [
+                "Kata tunggal",
+                "Kata majemuk",
+                "Kata ulang",
+                "Kata berimbuhan"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Rumah sakit' adalah kata majemuk (gabungan dua kata yang membentuk makna baru) yang ditulis terpisah."
+        },
+        {
+            "id": 34,
+            "pertanyaan": "Frasa 'sangat indah' termasuk jenis frasa...",
+            "opsi": [
+                "Frasa verbal",
+                "Frasa nominal",
+                "Frasa adjektival",
+                "Frasa preposisional"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Sangat indah' adalah frasa adjektival karena inti frasanya adalah kata sifat 'indah' yang diterangkan oleh 'sangat'."
+        },
+        {
+            "id": 35,
+            "pertanyaan": "Penulisan judul karangan yang benar adalah...",
+            "opsi": [
+                "Huruf kecil semua",
+                "Huruf kapital semua",
+                "Huruf kapital di awal setiap kata penting",
+                "Huruf kapital hanya di kata pertama"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Penulisan judul menggunakan huruf kapital di awal setiap kata penting (kata benda, kerja, sifat), kecuali kata tugas (di, ke, dari, dan)."
+        },
+        {
+            "id": 36,
+            "pertanyaan": "Kalimat 'Wah, indahnya pemandangan ini!' termasuk kalimat...",
+            "opsi": [
+                "Deklaratif",
+                "Imperatif",
+                "Interogatif",
+                "Ekslamatif"
+            ],
+            "jawaban": 3,
+            "penjelasan": "Kalimat ekslamatif menyatakan kekaguman, kegembiraan, atau perasaan kuat, biasanya ditandai 'wah', 'alangkah'."
+        },
+        {
+            "id": 37,
+            "pertanyaan": "Unsur cerita yang menunjukkan watak tokoh disebut...",
+            "opsi": [
+                "Alur",
+                "Latar",
+                "Karakterisasi",
+                "Tema"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Karakterisasi/penokohan adalah cara pengarang menggambarkan watak tokoh, bisa langsung atau tidak langsung."
+        },
+        {
+            "id": 38,
+            "pertanyaan": "Kata 'mempermasalahkan' memiliki imbuhan...",
+            "opsi": [
+                "me- dan -kan",
+                "memper- dan -kan",
+                "mem- dan -kan",
+                "me- dan per-"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Mempermasalahkan' = memper- + masalah + -kan. Konfiks 'memper-...-kan' berarti membuat jadi/menganggap sebagai."
+        },
+        {
+            "id": 39,
+            "pertanyaan": "Teks iklan termasuk jenis teks...",
+            "opsi": [
+                "Narasi",
+                "Persuasi",
+                "Deskripsi",
+                "Eksplanasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teks iklan bersifat persuasif karena bertujuan membujuk pembaca untuk membeli atau menggunakan produk/jasa."
+        },
+        {
+            "id": 40,
+            "pertanyaan": "Huruf kapital TIDAK digunakan untuk...",
+            "opsi": [
+                "Awal kalimat",
+                "Nama orang",
+                "Nama geografi",
+                "Kata sifat biasa"
+            ],
+            "jawaban": 3,
+            "penjelasan": "Huruf kapital digunakan di awal kalimat, nama orang, dan nama geografi. Kata sifat biasa tidak memerlukan huruf kapital."
+        }
+    ]
+}

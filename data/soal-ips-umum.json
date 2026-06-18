@@ -1,0 +1,488 @@
+{
+    "mapel": "IPS",
+    "jenjang": "SMP Umum",
+    "bab": "IPS Umum",
+    "sumber_buku": "Kurikulum Merdeka",
+    "soal": [
+        {
+            "id": 1,
+            "pertanyaan": "Ibu kota negara Indonesia adalah...",
+            "opsi": [
+                "Jakarta",
+                "Surabaya",
+                "Bandung",
+                "Nusantara"
+            ],
+            "jawaban": 3,
+            "penjelasan": "Nusantara (di Kalimantan Timur) ditetapkan sebagai ibu kota baru Indonesia melalui UU No. 3 Tahun 2022."
+        },
+        {
+            "id": 2,
+            "pertanyaan": "Benua terbesar di dunia adalah...",
+            "opsi": [
+                "Afrika",
+                "Amerika",
+                "Asia",
+                "Eropa"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Asia adalah benua terbesar dengan luas sekitar 44,58 juta km², mencakup sekitar 30% daratan Bumi."
+        },
+        {
+            "id": 3,
+            "pertanyaan": "Sistem pemerintahan Indonesia adalah...",
+            "opsi": [
+                "Monarki",
+                "Presidensial",
+                "Parlementer",
+                "Federal"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Indonesia menganut sistem pemerintahan presidensial dimana presiden adalah kepala negara sekaligus kepala pemerintahan."
+        },
+        {
+            "id": 4,
+            "pertanyaan": "Proklamasi kemerdekaan Indonesia dibacakan pada tanggal...",
+            "opsi": [
+                "17 Agustus 1945",
+                "17 Agustus 1944",
+                "1 Juni 1945",
+                "28 Oktober 1928"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Proklamasi kemerdekaan Indonesia dibacakan oleh Ir. Soekarno pada 17 Agustus 1945 di Jakarta."
+        },
+        {
+            "id": 5,
+            "pertanyaan": "Lembaga negara yang bertugas membuat undang-undang adalah...",
+            "opsi": [
+                "MA",
+                "DPR",
+                "BPK",
+                "KY"
+            ],
+            "jawaban": 1,
+            "penjelasan": "DPR (Dewan Perwakilan Rakyat) memiliki fungsi legislasi yaitu membuat dan menetapkan undang-undang."
+        },
+        {
+            "id": 6,
+            "pertanyaan": "Kegiatan ekonomi yang mengolah bahan mentah menjadi barang jadi disebut...",
+            "opsi": [
+                "Ekstraktif",
+                "Industri",
+                "Perdagangan",
+                "Jasa"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kegiatan industri mengolah bahan mentah/baku menjadi barang setengah jadi atau barang jadi yang bernilai lebih."
+        },
+        {
+            "id": 7,
+            "pertanyaan": "Selat yang memisahkan Pulau Jawa dan Sumatera adalah...",
+            "opsi": [
+                "Selat Malaka",
+                "Selat Sunda",
+                "Selat Lombok",
+                "Selat Karimata"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Selat Sunda memisahkan Pulau Jawa dan Pulau Sumatera, menghubungkan Laut Jawa dengan Samudra Hindia."
+        },
+        {
+            "id": 8,
+            "pertanyaan": "Kerajaan Hindu tertua di Indonesia adalah...",
+            "opsi": [
+                "Majapahit",
+                "Sriwijaya",
+                "Kutai",
+                "Tarumanegara"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kerajaan Kutai (abad ke-4 M) di Kalimantan Timur adalah kerajaan Hindu tertua di Indonesia."
+        },
+        {
+            "id": 9,
+            "pertanyaan": "Permintaan dan penawaran bertemu pada titik yang disebut...",
+            "opsi": [
+                "Titik impas",
+                "Keseimbangan pasar",
+                "Titik untung",
+                "Surplus"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Titik keseimbangan pasar (equilibrium) adalah saat jumlah yang diminta sama dengan jumlah yang ditawarkan."
+        },
+        {
+            "id": 10,
+            "pertanyaan": "Gunung tertinggi di Indonesia adalah...",
+            "opsi": [
+                "Gunung Semeru",
+                "Gunung Rinjani",
+                "Puncak Jaya",
+                "Gunung Kerinci"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Puncak Jaya (Carstensz Pyramid) di Papua adalah gunung tertinggi di Indonesia dengan ketinggian 4.884 mdpl."
+        },
+        {
+            "id": 11,
+            "pertanyaan": "ASEAN didirikan pada tanggal...",
+            "opsi": [
+                "8 Agustus 1967",
+                "8 Agustus 1945",
+                "1 Januari 1976",
+                "17 Agustus 1967"
+            ],
+            "jawaban": 0,
+            "penjelasan": "ASEAN didirikan pada 8 Agustus 1967 di Bangkok melalui Deklarasi Bangkok oleh 5 negara pendiri."
+        },
+        {
+            "id": 12,
+            "pertanyaan": "Sila pertama Pancasila berbunyi...",
+            "opsi": [
+                "Kemanusiaan yang adil dan beradab",
+                "Ketuhanan Yang Maha Esa",
+                "Persatuan Indonesia",
+                "Keadilan sosial bagi seluruh rakyat Indonesia"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Sila pertama Pancasila: 'Ketuhanan Yang Maha Esa' yang menjadi dasar spiritual bangsa Indonesia."
+        },
+        {
+            "id": 13,
+            "pertanyaan": "Danau terbesar di Indonesia adalah...",
+            "opsi": [
+                "Danau Toba",
+                "Danau Maninjau",
+                "Danau Tempe",
+                "Danau Sentani"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Danau Toba di Sumatera Utara adalah danau terbesar di Indonesia dan Asia Tenggara dengan luas 1.130 km²."
+        },
+        {
+            "id": 14,
+            "pertanyaan": "Perjanjian Linggarjati dilakukan antara Indonesia dan...",
+            "opsi": [
+                "Inggris",
+                "Belanda",
+                "Jepang",
+                "Amerika Serikat"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Perjanjian Linggarjati (1946) dilakukan antara Indonesia dan Belanda untuk menyelesaikan konflik pasca proklamasi."
+        },
+        {
+            "id": 15,
+            "pertanyaan": "Lembaga yang bertugas mengawasi keuangan negara adalah...",
+            "opsi": [
+                "DPR",
+                "MA",
+                "BPK",
+                "KPK"
+            ],
+            "jawaban": 2,
+            "penjelasan": "BPK (Badan Pemeriksa Keuangan) bertugas memeriksa pengelolaan dan tanggung jawab keuangan negara."
+        },
+        {
+            "id": 16,
+            "pertanyaan": "Batas wilayah Indonesia sebelah utara berbatasan dengan...",
+            "opsi": [
+                "Australia",
+                "Malaysia dan Singapura",
+                "Timor Leste",
+                "India"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Batas utara Indonesia berbatasan dengan Malaysia, Singapura, Filipina, dan Laut Cina Selatan."
+        },
+        {
+            "id": 17,
+            "pertanyaan": "Tokoh yang dikenal sebagai Bapak Koperasi Indonesia adalah...",
+            "opsi": [
+                "Ir. Soekarno",
+                "Moh. Hatta",
+                "Ki Hajar Dewantara",
+                "Tan Malaka"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Mohammad Hatta (Bung Hatta) dijuluki Bapak Koperasi Indonesia karena perjuangannya memajukan koperasi."
+        },
+        {
+            "id": 18,
+            "pertanyaan": "Laut terluas di dunia adalah...",
+            "opsi": [
+                "Laut Mediterania",
+                "Laut Cina Selatan",
+                "Laut Filipina",
+                "Laut Karibia"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Laut Filipina adalah laut terluas di dunia dengan luas sekitar 5,7 juta km²."
+        },
+        {
+            "id": 19,
+            "pertanyaan": "Sumber daya alam yang tidak dapat diperbarui contohnya adalah...",
+            "opsi": [
+                "Air",
+                "Kayu",
+                "Minyak bumi",
+                "Sinar matahari"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Minyak bumi termasuk SDA tidak terbarukan karena memerlukan jutaan tahun untuk terbentuk dan akan habis jika terus ditambang."
+        },
+        {
+            "id": 20,
+            "pertanyaan": "Pahlawan nasional yang memimpin perlawanan di Banten melawan Belanda adalah...",
+            "opsi": [
+                "Pangeran Diponegoro",
+                "Sultan Hasanuddin",
+                "Sultan Ageng Tirtayasa",
+                "Tuanku Imam Bonjol"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Sultan Ageng Tirtayasa memimpin Kesultanan Banten dan gigih melawan VOC Belanda pada abad ke-17."
+        },
+        {
+            "id": 21,
+            "pertanyaan": "Garis khayal yang membagi Bumi menjadi belahan utara dan selatan disebut...",
+            "opsi": [
+                "Garis bujur",
+                "Garis khatulistiwa",
+                "Garis meridian",
+                "Garis Wallace"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Garis khatulistiwa (ekuador) adalah garis khayal di 0° lintang yang membagi Bumi menjadi belahan utara dan selatan."
+        },
+        {
+            "id": 22,
+            "pertanyaan": "Jepang menjajah Indonesia selama...",
+            "opsi": [
+                "350 tahun",
+                "3,5 tahun",
+                "10 tahun",
+                "5 tahun"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Jepang menjajah Indonesia selama ±3,5 tahun (1942-1945), berbeda dengan Belanda yang menjajah selama ±350 tahun."
+        },
+        {
+            "id": 23,
+            "pertanyaan": "Iklim Indonesia termasuk iklim...",
+            "opsi": [
+                "Subtropis",
+                "Tropis",
+                "Kutub",
+                "Sedang"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Indonesia beriklim tropis karena terletak di antara garis khatulistiwa, dengan suhu rata-rata tinggi dan curah hujan besar."
+        },
+        {
+            "id": 24,
+            "pertanyaan": "Organisasi pergerakan nasional pertama di Indonesia adalah...",
+            "opsi": [
+                "Sarekat Islam",
+                "Budi Utomo",
+                "Muhammadiyah",
+                "Indische Partij"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Budi Utomo (didirikan 20 Mei 1908) dianggap sebagai organisasi pergerakan nasional pertama di Indonesia."
+        },
+        {
+            "id": 25,
+            "pertanyaan": "Mata uang negara Jepang adalah...",
+            "opsi": [
+                "Won",
+                "Yuan",
+                "Yen",
+                "Ringgit"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Mata uang Jepang adalah Yen (¥). Won untuk Korea, Yuan untuk Tiongkok, Ringgit untuk Malaysia."
+        },
+        {
+            "id": 26,
+            "pertanyaan": "Sumpah Pemuda diikrarkan pada tanggal...",
+            "opsi": [
+                "28 Oktober 1928",
+                "20 Mei 1908",
+                "17 Agustus 1945",
+                "1 Juni 1945"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Sumpah Pemuda diikrarkan pada 28 Oktober 1928, berisi satu tanah air, satu bangsa, dan satu bahasa: Indonesia."
+        },
+        {
+            "id": 27,
+            "pertanyaan": "Pulau terluas di Indonesia adalah...",
+            "opsi": [
+                "Jawa",
+                "Sumatera",
+                "Kalimantan",
+                "Papua"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kalimantan adalah pulau terluas di Indonesia (±743.330 km²) dan merupakan pulau terbesar ketiga di dunia."
+        },
+        {
+            "id": 28,
+            "pertanyaan": "Konferensi Asia-Afrika diselenggarakan di...",
+            "opsi": [
+                "Jakarta",
+                "Bandung",
+                "Yogyakarta",
+                "Surabaya"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Konferensi Asia-Afrika (KAA) diselenggarakan di Bandung pada 18-24 April 1955, dihadiri 29 negara."
+        },
+        {
+            "id": 29,
+            "pertanyaan": "Pelaku ekonomi terdiri dari rumah tangga, perusahaan, pemerintah, dan...",
+            "opsi": [
+                "Bank",
+                "Masyarakat luar negeri",
+                "Koperasi",
+                "Pasar"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Empat pelaku ekonomi: rumah tangga konsumen, perusahaan, pemerintah, dan masyarakat luar negeri (ekspor-impor)."
+        },
+        {
+            "id": 30,
+            "pertanyaan": "Candi Borobudur terletak di provinsi...",
+            "opsi": [
+                "Jawa Timur",
+                "DI Yogyakarta",
+                "Jawa Tengah",
+                "Jawa Barat"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Candi Borobudur terletak di Magelang, Jawa Tengah. Dibangun pada abad ke-9 oleh Dinasti Syailendra."
+        },
+        {
+            "id": 31,
+            "pertanyaan": "Perang Dunia II berakhir pada tahun...",
+            "opsi": [
+                "1943",
+                "1944",
+                "1945",
+                "1946"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Perang Dunia II berakhir pada 1945 setelah Jepang menyerah kepada Sekutu pada 15 Agustus 1945."
+        },
+        {
+            "id": 32,
+            "pertanyaan": "Alat tukar yang sah dan diterima secara umum dalam transaksi ekonomi disebut...",
+            "opsi": [
+                "Barter",
+                "Uang",
+                "Emas",
+                "Saham"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Uang adalah alat tukar yang sah, diterima umum, dan ditetapkan oleh pemerintah sebagai alat pembayaran yang sah."
+        },
+        {
+            "id": 33,
+            "pertanyaan": "Lembaga PBB yang mengurus pendidikan dan kebudayaan adalah...",
+            "opsi": [
+                "WHO",
+                "UNICEF",
+                "UNESCO",
+                "ILO"
+            ],
+            "jawaban": 2,
+            "penjelasan": "UNESCO (United Nations Educational, Scientific and Cultural Organization) menangani pendidikan, ilmu pengetahuan, dan kebudayaan."
+        },
+        {
+            "id": 34,
+            "pertanyaan": "Angkatan bersenjata Indonesia disebut...",
+            "opsi": [
+                "ABRI",
+                "TNI",
+                "Polri",
+                "Hansip"
+            ],
+            "jawaban": 1,
+            "penjelasan": "TNI (Tentara Nasional Indonesia) adalah angkatan bersenjata Indonesia yang terdiri dari Angkatan Darat, Laut, dan Udara."
+        },
+        {
+            "id": 35,
+            "pertanyaan": "Sungai terpanjang di dunia adalah...",
+            "opsi": [
+                "Sungai Amazon",
+                "Sungai Nil",
+                "Sungai Mississippi",
+                "Sungai Yangtze"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Sungai Nil di Afrika adalah sungai terpanjang di dunia dengan panjang sekitar 6.650 km."
+        },
+        {
+            "id": 36,
+            "pertanyaan": "PBB didirikan pada tanggal...",
+            "opsi": [
+                "24 Oktober 1945",
+                "1 Januari 1946",
+                "17 Agustus 1945",
+                "10 Desember 1948"
+            ],
+            "jawaban": 0,
+            "penjelasan": "PBB didirikan pada 24 Oktober 1945 setelah Piagam PBB ditandatangani oleh 51 negara anggota awal."
+        },
+        {
+            "id": 37,
+            "pertanyaan": "Pahlawan yang dikenal dengan julukan 'Singa dari Aceh' adalah...",
+            "opsi": [
+                "Cut Nyak Dhien",
+                "Teuku Umar",
+                "Tuanku Umar",
+                "Cut Nyak Meutia"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teuku Umar dijuluki 'Singa dari Aceh' karena keberaniannya melawan Belanda dalam Perang Aceh."
+        },
+        {
+            "id": 38,
+            "pertanyaan": "Mobilitas sosial vertikal ke atas disebut juga...",
+            "opsi": [
+                "Social climbing",
+                "Social sinking",
+                "Horizontal mobility",
+                "Lateral mobility"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Social climbing adalah perpindahan status sosial ke posisi yang lebih tinggi, misalnya dari karyawan menjadi manajer."
+        },
+        {
+            "id": 39,
+            "pertanyaan": "Pasar yang hanya menjual satu jenis barang tertentu disebut pasar...",
+            "opsi": [
+                "Pasar tradisional",
+                "Pasar modern",
+                "Pasar khusus",
+                "Pasar monopoli"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Pasar khusus adalah pasar yang hanya menjual satu jenis komoditas, misalnya pasar ikan, pasar bunga."
+        },
+        {
+            "id": 40,
+            "pertanyaan": "Bendera Indonesia pertama kali dijahit oleh...",
+            "opsi": [
+                "Kartini",
+                "Fatmawati",
+                "Megawati",
+                "Cut Nyak Dhien"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Bendera Merah Putih pertama kali dijahit oleh Fatmawati (istri Soekarno) dan dikibarkan saat proklamasi 17 Agustus 1945."
+        }
+    ]
+}

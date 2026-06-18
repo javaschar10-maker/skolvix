@@ -1,0 +1,488 @@
+{
+    "mapel": "IPA",
+    "jenjang": "SMP Umum",
+    "bab": "IPA Umum",
+    "sumber_buku": "Kurikulum Merdeka",
+    "soal": [
+        {
+            "id": 1,
+            "pertanyaan": "Planet terbesar dalam tata surya kita adalah...",
+            "opsi": [
+                "Jupiter",
+                "Saturnus",
+                "Neptunus",
+                "Uranus"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Jupiter adalah planet terbesar dengan diameter sekitar 142.984 km, hampir 11 kali diameter Bumi."
+        },
+        {
+            "id": 2,
+            "pertanyaan": "Proses tumbuhan mengubah cahaya matahari menjadi makanan disebut...",
+            "opsi": [
+                "Respirasi",
+                "Fotosintesis",
+                "Transpirasi",
+                "Fermentasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Fotosintesis adalah proses tumbuhan menggunakan cahaya matahari, CO₂, dan air untuk menghasilkan glukosa dan oksigen."
+        },
+        {
+            "id": 3,
+            "pertanyaan": "Satuan gaya dalam Sistem Internasional (SI) adalah...",
+            "opsi": [
+                "Joule",
+                "Watt",
+                "Newton",
+                "Pascal"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Newton (N) adalah satuan SI untuk gaya, dinamai dari Sir Isaac Newton. 1 N = 1 kg⋅m/s²."
+        },
+        {
+            "id": 4,
+            "pertanyaan": "Organ tubuh manusia yang berfungsi memompa darah adalah...",
+            "opsi": [
+                "Paru-paru",
+                "Hati",
+                "Jantung",
+                "Ginjal"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Jantung berfungsi memompa darah ke seluruh tubuh melalui sistem peredaran darah."
+        },
+        {
+            "id": 5,
+            "pertanyaan": "Gas yang paling banyak terdapat di atmosfer Bumi adalah...",
+            "opsi": [
+                "Oksigen",
+                "Karbon dioksida",
+                "Nitrogen",
+                "Hidrogen"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Nitrogen (N₂) menyusun sekitar 78% atmosfer Bumi, sedangkan oksigen hanya sekitar 21%."
+        },
+        {
+            "id": 6,
+            "pertanyaan": "Perubahan wujud dari padat menjadi gas disebut...",
+            "opsi": [
+                "Menguap",
+                "Menyublim",
+                "Mencair",
+                "Mengembun"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Sublimasi adalah perubahan wujud langsung dari padat ke gas tanpa melalui fase cair, contohnya kapur barus."
+        },
+        {
+            "id": 7,
+            "pertanyaan": "Hewan yang termasuk mamalia adalah...",
+            "opsi": [
+                "Buaya",
+                "Elang",
+                "Lumba-lumba",
+                "Kadal"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Lumba-lumba adalah mamalia karena melahirkan anak, menyusui, dan bernapas dengan paru-paru."
+        },
+        {
+            "id": 8,
+            "pertanyaan": "Alat yang digunakan untuk mengukur suhu adalah...",
+            "opsi": [
+                "Barometer",
+                "Higrometer",
+                "Termometer",
+                "Amperemeter"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Termometer adalah alat ukur suhu. Barometer untuk tekanan udara, higrometer untuk kelembapan."
+        },
+        {
+            "id": 9,
+            "pertanyaan": "Tumbuhan hijau memiliki klorofil yang berfungsi untuk...",
+            "opsi": [
+                "Menyerap air",
+                "Menyerap cahaya matahari",
+                "Menyerap oksigen",
+                "Menyerap mineral"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Klorofil adalah pigmen hijau yang menyerap energi cahaya matahari untuk proses fotosintesis."
+        },
+        {
+            "id": 10,
+            "pertanyaan": "Bunyi dapat merambat melalui medium berikut, KECUALI...",
+            "opsi": [
+                "Zat padat",
+                "Zat cair",
+                "Gas",
+                "Ruang hampa"
+            ],
+            "jawaban": 3,
+            "penjelasan": "Bunyi memerlukan medium untuk merambat. Di ruang hampa (vakum) tidak ada partikel yang bisa menghantarkan bunyi."
+        },
+        {
+            "id": 11,
+            "pertanyaan": "Sel darah merah berfungsi untuk...",
+            "opsi": [
+                "Melawan kuman",
+                "Mengangkut oksigen",
+                "Membekukan darah",
+                "Memproduksi antibodi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Sel darah merah (eritrosit) mengandung hemoglobin yang mengikat dan mengangkut oksigen ke seluruh tubuh."
+        },
+        {
+            "id": 12,
+            "pertanyaan": "Energi tidak dapat diciptakan atau dimusnahkan, hanya dapat berubah bentuk. Pernyataan ini adalah...",
+            "opsi": [
+                "Hukum Newton",
+                "Hukum Kekekalan Energi",
+                "Hukum Archimedes",
+                "Hukum Gravitasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Hukum Kekekalan Energi menyatakan energi total dalam sistem tertutup selalu tetap, hanya berubah bentuk."
+        },
+        {
+            "id": 13,
+            "pertanyaan": "Contoh sumber energi terbarukan adalah...",
+            "opsi": [
+                "Batu bara",
+                "Minyak bumi",
+                "Energi matahari",
+                "Gas alam"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Energi matahari termasuk terbarukan karena tidak akan habis. Batu bara, minyak bumi, dan gas alam adalah energi tak terbarukan."
+        },
+        {
+            "id": 14,
+            "pertanyaan": "Bagian bunga yang berfungsi sebagai alat reproduksi jantan adalah...",
+            "opsi": [
+                "Kelopak",
+                "Putik",
+                "Benang sari",
+                "Mahkota"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Benang sari (stamen) adalah alat reproduksi jantan pada bunga yang menghasilkan serbuk sari (polen)."
+        },
+        {
+            "id": 15,
+            "pertanyaan": "Gerhana bulan terjadi ketika...",
+            "opsi": [
+                "Bulan berada di antara Bumi dan Matahari",
+                "Bumi berada di antara Matahari dan Bulan",
+                "Matahari berada di antara Bumi dan Bulan",
+                "Bulan menjauh dari Bumi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Gerhana bulan terjadi saat Bumi berada di antara Matahari dan Bulan, sehingga bayangan Bumi menutupi Bulan."
+        },
+        {
+            "id": 16,
+            "pertanyaan": "pH air murni adalah...",
+            "opsi": [
+                "0",
+                "7",
+                "14",
+                "1"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Air murni memiliki pH 7 yang bersifat netral. pH di bawah 7 bersifat asam, di atas 7 bersifat basa."
+        },
+        {
+            "id": 17,
+            "pertanyaan": "Sistem pencernaan manusia dimulai dari...",
+            "opsi": [
+                "Lambung",
+                "Kerongkongan",
+                "Mulut",
+                "Usus halus"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Pencernaan dimulai di mulut dimana makanan dikunyah secara mekanis dan dicerna secara kimiawi oleh enzim amilase."
+        },
+        {
+            "id": 18,
+            "pertanyaan": "Logam yang bersifat cair pada suhu ruang adalah...",
+            "opsi": [
+                "Besi",
+                "Aluminium",
+                "Raksa",
+                "Tembaga"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Raksa (merkuri/Hg) adalah satu-satunya logam yang berwujud cair pada suhu ruang (titik leleh -38.83°C)."
+        },
+        {
+            "id": 19,
+            "pertanyaan": "Tulangan yang соединени dengan tulang lain oleh sendi disebut...",
+            "opsi": [
+                "Tulang rawan",
+                "Rangka",
+                "Otot",
+                "Ligamen"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Rangka adalah susunan tulang-tulang yang saling berhubungan melalui sendi untuk membentuk kerangka tubuh."
+        },
+        {
+            "id": 20,
+            "pertanyaan": "Cahaya merambat paling cepat di medium...",
+            "opsi": [
+                "Air",
+                "Kaca",
+                "Ruang hampa",
+                "Minyak"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Cahaya merambat paling cepat di ruang hampa dengan kecepatan sekitar 300.000 km/s."
+        },
+        {
+            "id": 21,
+            "pertanyaan": "Vitamin yang larut dalam air adalah...",
+            "opsi": [
+                "Vitamin A",
+                "Vitamin D",
+                "Vitamin C",
+                "Vitamin K"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Vitamin C dan B kompleks larut dalam air. Vitamin A, D, E, K larut dalam lemak."
+        },
+        {
+            "id": 22,
+            "pertanyaan": "Contoh reaksi kimia adalah...",
+            "opsi": [
+                "Es mencair",
+                "Besi berkarat",
+                "Air mendidih",
+                "Gula larut dalam air"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Besi berkarat adalah reaksi kimia karena menghasilkan zat baru (Fe₂O₃). Yang lain hanya perubahan fisika."
+        },
+        {
+            "id": 23,
+            "pertanyaan": "Ekosistem terdiri dari komponen biotik dan abiotik. Yang termasuk komponen abiotik adalah...",
+            "opsi": [
+                "Tumbuhan",
+                "Hewan",
+                "Batu dan air",
+                "Bakteri"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Komponen abiotik adalah unsur tak hidup seperti batu, air, tanah, suhu, dan cahaya matahari."
+        },
+        {
+            "id": 24,
+            "pertanyaan": "Alat optik yang digunakan untuk melihat benda sangat kecil adalah...",
+            "opsi": [
+                "Teleskop",
+                "Mikroskop",
+                "Periskop",
+                "Kaleidoskop"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Mikroskop digunakan untuk melihat benda-benda yang sangat kecil seperti sel dan bakteri."
+        },
+        {
+            "id": 25,
+            "pertanyaan": "Simbol kimia untuk emas adalah...",
+            "opsi": [
+                "Ag",
+                "Fe",
+                "Au",
+                "Cu"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Au (dari bahasa Latin 'Aurum') adalah simbol kimia untuk emas. Ag = perak, Fe = besi, Cu = tembaga."
+        },
+        {
+            "id": 26,
+            "pertanyaan": "Proses pernapasan pada manusia menghasilkan gas...",
+            "opsi": [
+                "Oksigen",
+                "Nitrogen",
+                "Karbon dioksida",
+                "Hidrogen"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Saat bernapas, manusia menghirup O₂ dan menghembuskan CO₂ sebagai hasil pembakaran makanan di sel."
+        },
+        {
+            "id": 27,
+            "pertanyaan": "Tumbuhan menyimpan cadangan makanan di bagian berikut, KECUALI...",
+            "opsi": [
+                "Akar",
+                "Batang",
+                "Bunga",
+                "Daun"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Cadangan makanan disimpan di akar (singkong), batang (tebu), daun (bayam). Bunga bukan tempat menyimpan cadangan makanan."
+        },
+        {
+            "id": 28,
+            "pertanyaan": "Hukum I Newton menyatakan bahwa benda akan tetap diam atau bergerak lurus beraturan jika...",
+            "opsi": [
+                "Gaya total sama dengan nol",
+                "Gaya total besar",
+                "Ada gesekan",
+                "Massa benda besar"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Hukum I Newton (Hukum Inersia): benda tetap diam/bergerak lurus beraturan jika resultan gaya = 0."
+        },
+        {
+            "id": 29,
+            "pertanyaan": "Lapisan atmosfer yang paling dekat dengan permukaan Bumi adalah...",
+            "opsi": [
+                "Stratosfer",
+                "Mesosfer",
+                "Troposfer",
+                "Termosfer"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Troposfer adalah lapisan terbawah atmosfer (0-12 km) dimana terjadi cuaca dan tempat kita tinggal."
+        },
+        {
+            "id": 30,
+            "pertanyaan": "Benda yang bersifat konduktor panas yang baik adalah...",
+            "opsi": [
+                "Karet",
+                "Kayu",
+                "Logam",
+                "Plastik"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Logam adalah konduktor panas yang baik karena elektron bebasnya dapat menghantarkan energi panas dengan cepat."
+        },
+        {
+            "id": 31,
+            "pertanyaan": "Siklus hidup kupu-kupu yang benar adalah...",
+            "opsi": [
+                "Telur → Kepompong → Ulat → Kupu-kupu",
+                "Telur → Ulat → Kepompong → Kupu-kupu",
+                "Kupu-kupu → Ulat → Telur → Kepompong",
+                "Ulat → Telur → Kupu-kupu → Kepompong"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Metamorfosis sempurna kupu-kupu: Telur → Ulat (larva) → Kepompong (pupa) → Kupu-kupu (imago)."
+        },
+        {
+            "id": 32,
+            "pertanyaan": "Gempa bumi diukur menggunakan alat yang disebut...",
+            "opsi": [
+                "Barometer",
+                "Seismograf",
+                "Anemometer",
+                "Higrometer"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Seismograf adalah alat pencatat getaran gempa bumi. Skala Richter digunakan untuk mengukur kekuatannya."
+        },
+        {
+            "id": 33,
+            "pertanyaan": "Zat yang tidak dapat diuraikan lagi menjadi zat yang lebih sederhana disebut...",
+            "opsi": [
+                "Senyawa",
+                "Campuran",
+                "Unsur",
+                "Larutan"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Unsur adalah zat tunggal yang tidak bisa diuraikan lagi. Contoh: oksigen (O), besi (Fe), emas (Au)."
+        },
+        {
+            "id": 34,
+            "pertanyaan": "Peredaran darah besar (sistemik) mengalirkan darah dari...",
+            "opsi": [
+                "Jantung ke paru-paru",
+                "Paru-paru ke jantung",
+                "Jantung ke seluruh tubuh",
+                "Seluruh tubuh ke paru-paru"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Peredaran darah besar mengalirkan darah kaya oksigen dari bilik kiri jantung ke seluruh tubuh."
+        },
+        {
+            "id": 35,
+            "pertanyaan": "Batu apung dapat terapung di air karena...",
+            "opsi": [
+                "Massanya ringan",
+                "Memiliki banyak rongga udara",
+                "Terbuat dari kayu",
+                "Berat jenisnya lebih besar dari air"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Batu apung memiliki banyak rongga udara sehingga berat jenisnya lebih kecil dari air, membuatnya bisa terapung."
+        },
+        {
+            "id": 36,
+            "pertanyaan": "Matahari termasuk jenis bintang karena...",
+            "opsi": [
+                "Bercahaya di malam hari",
+                "Memancarkan cahaya sendiri",
+                "Mengelilingi planet",
+                "Terbuat dari batu"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Matahari adalah bintang karena dapat memancarkan cahaya sendiri melalui reaksi fusi nuklir di intinya."
+        },
+        {
+            "id": 37,
+            "pertanyaan": "Tumbuhan menyerap air dari tanah melalui...",
+            "opsi": [
+                "Daun",
+                "Batang",
+                "Akar",
+                "Bunga"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Akar tumbuhan menyerap air dan mineral dari tanah melalui rambut-rambut akar secara osmosis."
+        },
+        {
+            "id": 38,
+            "pertanyaan": "Energi kinetik adalah energi yang dimiliki benda karena...",
+            "opsi": [
+                "Ketinggiannya",
+                "Geraknya",
+                "Suhunya",
+                "Bentuknya"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Energi kinetik adalah energi yang dimiliki benda karena gerak/kecepatannya. Rumus: Ek = ½mv²."
+        },
+        {
+            "id": 39,
+            "pertanyaan": "Rantai makanan di ekosistem sawa yang benar adalah...",
+            "opsi": [
+                "Padi → Ular → Tikus → Elang",
+                "Padi → Tikus → Ular → Elang",
+                "Elang → Ular → Tikus → Padi",
+                "Tikus → Padi → Elang → Ular"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Rantai makanan dimulai dari produsen (padi) → konsumen I (tikus) → konsumen II (ular) → konsumen III (elang)."
+        },
+        {
+            "id": 40,
+            "pertanyaan": "Pemanasan global terutama disebabkan oleh meningkatnya gas...",
+            "opsi": [
+                "Oksigen",
+                "Nitrogen",
+                "Karbon dioksida",
+                "Helium"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Gas CO₂ dari pembakaran bahan bakar fosil meningkatkan efek rumah kaca yang menyebabkan pemanasan global."
+        }
+    ]
+}

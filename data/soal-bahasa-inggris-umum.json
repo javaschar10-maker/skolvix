@@ -1,0 +1,488 @@
+{
+    "mapel": "Bahasa Inggris",
+    "jenjang": "SMP Umum",
+    "bab": "Umum",
+    "sumber_buku": "Buku Bahasa Inggris Kelas VII-VIII Kurikulum Merdeka",
+    "soal": [
+        {
+            "id": 1,
+            "pertanyaan": "What is the correct form? 'She ___ to school every day.'",
+            "opsi": [
+                "go",
+                "goes",
+                "going",
+                "gone"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Subjek 'She' adalah orang ketiga tunggal, sehingga kata kerja harus ditambah -s/-es. 'Go' menjadi 'goes'."
+        },
+        {
+            "id": 2,
+            "pertanyaan": "'I ___ a student.' Choose the correct answer.",
+            "opsi": [
+                "is",
+                "am",
+                "are",
+                "be"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Subjek 'I' selalu berpasangan dengan 'am' dalam simple present tense."
+        },
+        {
+            "id": 3,
+            "pertanyaan": "What does 'beautiful' mean in Indonesian?",
+            "opsi": [
+                "Jelek",
+                "Cantik/Indah",
+                "Besar",
+                "Kecil"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Beautiful' berarti cantik atau indah, biasanya digunakan untuk menggambarkan sesuatu yang menarik secara visual."
+        },
+        {
+            "id": 4,
+            "pertanyaan": "Which sentence is correct?",
+            "opsi": [
+                "They is playing football.",
+                "They are playing football.",
+                "They am playing football.",
+                "They be playing football."
+            ],
+            "jawaban": 1,
+            "penjelasan": "Subjek 'They' berpasangan dengan 'are' dalam present continuous tense. Pola: Subject + are + verb-ing."
+        },
+        {
+            "id": 5,
+            "pertanyaan": "What is the past tense of 'eat'?",
+            "opsi": [
+                "eated",
+                "ate",
+                "eaten",
+                "eating"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Eat' adalah irregular verb. Bentuk past tense-nya adalah 'ate', bukan 'eated'."
+        },
+        {
+            "id": 6,
+            "pertanyaan": "'There ___ many books on the table.' Choose the correct answer.",
+            "opsi": [
+                "is",
+                "are",
+                "am",
+                "be"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Many books' adalah subjek jamak (plural), sehingga menggunakan 'are' dalam struktur 'There are'."
+        },
+        {
+            "id": 7,
+            "pertanyaan": "What is the opposite of 'hot'?",
+            "opsi": [
+                "warm",
+                "cool",
+                "cold",
+                "big"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Lawan kata 'hot' (panas) adalah 'cold' (dingin). 'Warm' artinya hangat, 'cool' artinya sejuk."
+        },
+        {
+            "id": 8,
+            "pertanyaan": "'My mother ___ cooking in the kitchen right now.'",
+            "opsi": [
+                "is",
+                "are",
+                "am",
+                "was"
+            ],
+            "jawaban": 0,
+            "penjelasan": "'My mother' adalah subjek orang ketiga tunggal, dan 'right now' menandakan present continuous tense, sehingga menggunakan 'is'."
+        },
+        {
+            "id": 9,
+            "pertanyaan": "Which word is a noun?",
+            "opsi": [
+                "run",
+                "happy",
+                "table",
+                "quickly"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Table' (meja) adalah noun (kata benda). 'Run' adalah verb, 'happy' adalah adjective, 'quickly' adalah adverb."
+        },
+        {
+            "id": 10,
+            "pertanyaan": "How do you say 'Selamat pagi' in English?",
+            "opsi": [
+                "Good night",
+                "Good afternoon",
+                "Good morning",
+                "Good evening"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Selamat pagi' dalam bahasa Inggris adalah 'Good morning'. 'Good night' = selamat malam, 'Good afternoon' = selamat siang."
+        },
+        {
+            "id": 11,
+            "pertanyaan": "'We ___ to the cinema last night.'",
+            "opsi": [
+                "go",
+                "goes",
+                "went",
+                "going"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Last night' menandakan past tense. Bentuk past tense dari 'go' adalah 'went' (irregular verb)."
+        },
+        {
+            "id": 12,
+            "pertanyaan": "What is the plural form of 'child'?",
+            "opsi": [
+                "childs",
+                "childrens",
+                "children",
+                "childes"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Child' memiliki bentuk jamak irregular yaitu 'children', bukan ditambah -s/-es seperti noun biasa."
+        },
+        {
+            "id": 13,
+            "pertanyaan": "'He ___ like coffee. He prefers tea.'",
+            "opsi": [
+                "doesn't",
+                "don't",
+                "isn't",
+                "aren't"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Subjek 'He' (orang ketiga tunggal) menggunakan 'doesn't' untuk kalimat negatif dalam simple present tense."
+        },
+        {
+            "id": 14,
+            "pertanyaan": "Which sentence uses the correct pronoun?",
+            "opsi": [
+                "Him is my friend.",
+                "He is my friend.",
+                "His is my friend.",
+                "Her is my friend."
+            ],
+            "jawaban": 1,
+            "penjelasan": "'He' adalah subject pronoun untuk laki-laki. 'Him' adalah object pronoun, 'His' adalah possessive adjective."
+        },
+        {
+            "id": 15,
+            "pertanyaan": "What is the comparative form of 'big'?",
+            "opsi": [
+                "more big",
+                "biggest",
+                "bigger",
+                "most big"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kata sifat satu suku kata seperti 'big' membentuk comparative dengan menambah -er: 'bigger'. Huruf konsonan terakhir digandakan."
+        },
+        {
+            "id": 16,
+            "pertanyaan": "'___ is your name?'",
+            "opsi": [
+                "Who",
+                "What",
+                "Where",
+                "When"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'What' digunakan untuk menanyakan informasi tentang sesuatu (nama). 'Who' untuk orang, 'Where' untuk tempat, 'When' untuk waktu."
+        },
+        {
+            "id": 17,
+            "pertanyaan": "Choose the correct preposition: 'The cat is ___ the table.'",
+            "opsi": [
+                "in",
+                "on",
+                "at",
+                "under"
+            ],
+            "jawaban": 3,
+            "penjelasan": "'Under the table' berarti 'di bawah meja'. 'On' = di atas, 'in' = di dalam, 'at' = di (titik tertentu)."
+        },
+        {
+            "id": 18,
+            "pertanyaan": "'I have ___ homework today.'",
+            "opsi": [
+                "many",
+                "much",
+                "a lot",
+                "few"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Homework' adalah uncountable noun (kata benda tak bisa dihitung), sehingga menggunakan 'much', bukan 'many'."
+        },
+        {
+            "id": 19,
+            "pertanyaan": "What does 'always' mean?",
+            "opsi": [
+                "Tidak pernah",
+                "Kadang-kadang",
+                "Selalu",
+                "Sering"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Always' berarti 'selalu' (100% frekuensi). 'Never' = tidak pernah, 'Sometimes' = kadang-kadang, 'Often' = sering."
+        },
+        {
+            "id": 20,
+            "pertanyaan": "'She ___ English every Monday.'",
+            "opsi": [
+                "study",
+                "studies",
+                "studying",
+                "studied"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Every Monday' menandakan simple present tense. Subjek 'She' memerlukan verb + es: 'studies'."
+        },
+        {
+            "id": 21,
+            "pertanyaan": "Which is the correct question?",
+            "opsi": [
+                "Where you live?",
+                "Where do you live?",
+                "Where does you live?",
+                "Where are you live?"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Pertanyaan dalam simple present tense menggunakan pola: Question word + do/does + subject + verb. 'You' menggunakan 'do'."
+        },
+        {
+            "id": 22,
+            "pertanyaan": "'This is ___ umbrella.'",
+            "opsi": [
+                "a",
+                "an",
+                "the",
+                "some"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kata 'umbrella' dimulai dengan huruf vokal (u), sehingga menggunakan artikel 'an', bukan 'a'."
+        },
+        {
+            "id": 23,
+            "pertanyaan": "What is the superlative form of 'good'?",
+            "opsi": [
+                "gooder",
+                "goodest",
+                "better",
+                "best"
+            ],
+            "jawaban": 3,
+            "penjelasan": "'Good' adalah irregular adjective: good (positive) → better (comparative) → best (superlative)."
+        },
+        {
+            "id": 24,
+            "pertanyaan": "'They ___ football when it started to rain.'",
+            "opsi": [
+                "play",
+                "played",
+                "were playing",
+                "are playing"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Past continuous tense (were playing) digunakan untuk aksi yang sedang berlangsung di masa lalu ketika aksi lain terjadi."
+        },
+        {
+            "id": 25,
+            "pertanyaan": "Which word means 'hewan' in English?",
+            "opsi": [
+                "plant",
+                "animal",
+                "human",
+                "flower"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Animal' berarti 'hewan'. 'Plant' = tumbuhan, 'Human' = manusia, 'Flower' = bunga."
+        },
+        {
+            "id": 26,
+            "pertanyaan": "'I ___ never been to Japan.'",
+            "opsi": [
+                "has",
+                "have",
+                "had",
+                "having"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Present perfect tense dengan subjek 'I' menggunakan 'have'. Polanya: Subject + have/has + past participle."
+        },
+        {
+            "id": 27,
+            "pertanyaan": "What time is 'half past three'?",
+            "opsi": [
+                "3:00",
+                "3:15",
+                "3:30",
+                "3:45"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Half past three' berarti setengah lewat tiga, yaitu jam 3:30. 'Half' = setengah, 'past' = lewat."
+        },
+        {
+            "id": 28,
+            "pertanyaan": "'Could you ___ me the salt, please?'",
+            "opsi": [
+                "pass",
+                "passing",
+                "passed",
+                "to pass"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Setelah modal 'could', kata kerja menggunakan bentuk dasar (bare infinitive) tanpa -ing, -ed, atau 'to'."
+        },
+        {
+            "id": 29,
+            "pertanyaan": "Which sentence is in the passive voice?",
+            "opsi": [
+                "The chef cooks the food.",
+                "The food is cooked by the chef.",
+                "The chef is cooking.",
+                "The food cooks well."
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kalimat pasif (passive voice) memiliki pola: Subject + be + past participle. 'The food is cooked by the chef' adalah passive."
+        },
+        {
+            "id": 30,
+            "pertanyaan": "'If it rains, I ___ stay at home.'",
+            "opsi": [
+                "will",
+                "would",
+                "can",
+                "shall"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Conditional sentence type 1: If + present simple, ... will + bare infinitive. Digunakan untuk kemungkinan di masa depan."
+        },
+        {
+            "id": 31,
+            "pertanyaan": "What is the correct spelling?",
+            "opsi": [
+                "tomorrow",
+                "tommorow",
+                "tomorow",
+                "tommorrow"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Ejaan yang benar adalah 'tomorrow' dengan dua huruf 'r' di tengah. Ini adalah kata yang sering salah dieja."
+        },
+        {
+            "id": 32,
+            "pertanyaan": "'She is ___ than her sister.'",
+            "opsi": [
+                "tall",
+                "taller",
+                "tallest",
+                "more tall"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kata 'than' menandakan perbandingan (comparative). Kata sifat satu suku kata menggunakan -er: 'taller'."
+        },
+        {
+            "id": 33,
+            "pertanyaan": "What does 'borrow' mean?",
+            "opsi": [
+                "Meminjamkan",
+                "Meminjam",
+                "Membeli",
+                "Menjual"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Borrow' berarti 'meminjam' (menerima). 'Lend' berarti 'meminjamkan' (memberi). Keduanya sering tertukar."
+        },
+        {
+            "id": 34,
+            "pertanyaan": "'We should ___ more water every day.'",
+            "opsi": [
+                "drink",
+                "drinks",
+                "drinking",
+                "drank"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Setelah modal 'should', kata kerja menggunakan bentuk dasar (bare infinitive): 'drink', tanpa tambahan -s/-ing/-ed."
+        },
+        {
+            "id": 35,
+            "pertanyaan": "Which word is an adverb?",
+            "opsi": [
+                "quick",
+                "quickly",
+                "quicker",
+                "quickest"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Quickly' adalah adverb (kata keterangan) karena berakhiran -ly. 'Quick' adalah adjective, 'quicker/quickest' adalah comparative/superlative."
+        },
+        {
+            "id": 36,
+            "pertanyaan": "'I wish I ___ fly.'",
+            "opsi": [
+                "can",
+                "could",
+                "will",
+                "may"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'I wish' diikuti past tense untuk menyatakan keinginan yang tidak nyata di masa sekarang. 'Could' adalah bentuk past dari 'can'."
+        },
+        {
+            "id": 37,
+            "pertanyaan": "What is the meaning of 'look forward to'?",
+            "opsi": [
+                "Melihat ke depan",
+                "Menantikan dengan antusias",
+                "Mencari sesuatu",
+                "Berhati-hati"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Look forward to' adalah phrasal verb yang berarti 'menantikan dengan antusias/senang', bukan arti harfiah 'melihat ke depan'."
+        },
+        {
+            "id": 38,
+            "pertanyaan": "'The movie ___ at 7 PM tomorrow.'",
+            "opsi": [
+                "start",
+                "starts",
+                "starting",
+                "started"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'The movie' adalah subjek orang ketiga tunggal. Jadwal tetap menggunakan simple present tense: 'starts'."
+        },
+        {
+            "id": 39,
+            "pertanyaan": "Which is a correct greeting?",
+            "opsi": [
+                "How old are you?",
+                "How do you do?",
+                "How many are you?",
+                "How much are you?"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'How do you do?' adalah sapaan formal dalam bahasa Inggris, biasanya dijawab dengan 'How do you do?' juga."
+        },
+        {
+            "id": 40,
+            "pertanyaan": "'He told me that he ___ tired.'",
+            "opsi": [
+                "is",
+                "was",
+                "were",
+                "be"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Reported speech (kalimat tidak langsung) mengubah tense ke bentuk lampau. 'Is' menjadi 'was' karena reporting verb-nya 'told' (past tense)."
+        }
+    ]
+}
