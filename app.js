@@ -261,7 +261,7 @@ async function loadLeaderboard() {
     .from("user_progress")
     .select("username, koin_iq")
     .order("koin_iq", { ascending: false })
-    .limit(5);
+    .limit(100);
 
   const container = document.getElementById("leaderboardList");
 
