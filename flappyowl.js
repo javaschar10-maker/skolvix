@@ -18,7 +18,8 @@ const ENERGY_INTERVAL_MIN = 55; // meters between pickups
 const ENERGY_INTERVAL_MAX = 75; // meters between pickups
 const ENERGY_R = 12;
 
-const GAME_COST = 0;          // free — earn energy!
+const ENERGY_CAP = 25;           // max daily energy
+const KOIN_PER_PICKUP = 20;      // koin earned per pickup when energy is full
 
 // ─── STATE ───
 let state = "idle"; // idle | playing | dead | finished
@@ -670,12 +671,21 @@ async function showResult(completed) {
 
     const distFloor = Math.floor(distance);
     document.getElementById("resDistance").textContent = distFloor + "m";
-    document.getElementById("resEnergy").textContent = energyEarned;
 
-    // Each pickup collected = 1 energy earned
+    // If energy is already at cap, convert pickups to Koin IQ
+    const energyIsFull = currentUser && currentUser.energi >= ENERGY_CAP;
     let reward = energyEarned;
+    let koinReward = 0;
 
-    document.getElementById("resEnergy").textContent = reward;
+    if (energyIsFull) {
+        reward = 0;
+        koinReward = energyEarned * KOIN_PER_PICKUP;
+        document.getElementById("resEnergy").textContent = `🪙 ${koinReward}`;
+        document.querySelector("#resultCard .result-stat:nth-child(2) .rs-label").textContent = "Koin IQ (energi full)";
+    } else {
+        document.getElementById("resEnergy").textContent = reward;
+        document.querySelector("#resultCard .result-stat:nth-child(2) .rs-label").textContent = "Energi Dapat";
+    }
 
     let emoji, title, message;
     if (completed) {
@@ -698,19 +708,28 @@ async function showResult(completed) {
 
     document.getElementById("resultEmoji").textContent = emoji;
     document.getElementById("resultTitle").textContent = title;
+    if (energyIsFull && koinReward > 0) {
+        message += `\n\n⚡ Energi sudah full (${ENERGY_CAP}), pickup diubah jadi 🪙 ${koinReward} Koin IQ!`;
+    }
     document.getElementById("resultMessage").textContent = message;
 
     // Save to Supabase
-    if (reward > 0 && currentUser) {
+    if (currentUser && (reward > 0 || koinReward > 0)) {
+        const updateData = {};
+        if (reward > 0) updateData.energi = currentUser.energi + reward;
+        if (koinReward > 0) updateData.koin_iq = currentUser.koin_iq + koinReward;
+
         await supabaseClient
             .from("user_progress")
-            .update({ energi: currentUser.energi + reward })
+            .update(updateData)
             .eq("username", currentUser.username);
 
-        currentUser.energi += reward;
+        if (reward > 0) currentUser.energi += reward;
+        if (koinReward > 0) currentUser.koin_iq += koinReward;
     }
 
     document.getElementById("energiDisplay").textContent = currentUser ? currentUser.energi : 0;
+    document.getElementById("koinDisplay").textContent = currentUser ? currentUser.koin_iq : 0;
 }
 
 // ─── INIT ───
