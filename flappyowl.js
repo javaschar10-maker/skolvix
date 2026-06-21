@@ -36,7 +36,8 @@ let nextBuildX = 0;
 // Energy pickups
 let pickups = [];
 let energyEarned = 0;
-let nextPickupAt = 0; // distance in meters when next pickup spawns
+let buildingsSincePickup = 0;  // how many buildings created since last pickup
+let nextPickupAfter = 0;       // next pickup after this many buildings (6-9 = ~55-80m)
 
 // Distance & time
 let distance = 0;
@@ -144,39 +145,43 @@ function createBuilding(x) {
         topWins, botWins,
         hasAntenna, hasLedge,
         passed: false,
-        hue: Math.random() * 30 + 210 // blue-ish variation
+        hue: Math.random() * 30 + 210,
+        // Energy pickup in this building's gap (only if hasPickup = true)
+        hasPickup: false,
+        pickupCollected: false,
+        pickupPulse: 0,
+        pickupOffsetY: randInt(-25, 25)
     };
 }
 
 function initBuildings() {
     buildings = [];
     nextBuildX = W + 100;
+    buildingsSincePickup = 0;
+    // First pickup after 3-5 buildings (~25-45m)
+    nextPickupAfter = randInt(3, 5);
     for (let i = 0; i < 6; i++) {
         const b = createBuilding(nextBuildX);
+        // Decide if this building gets a pickup
+        buildingsSincePickup++;
+        if (buildingsSincePickup >= nextPickupAfter) {
+            b.hasPickup = true;
+            buildingsSincePickup = 0;
+            nextPickupAfter = randInt(6, 9); // subsequent: ~55-80m apart
+        }
         buildings.push(b);
         nextBuildX += b.w + randInt(160, 240);
     }
 }
 
 // ─── ENERGY PICKUP ───
+// Pickups are assigned at building creation time (every 6-9 buildings ≈ 55-80m)
 
-function spawnEnergyPickup() {
-    // Find a building pair ahead of the owl to place the energy between
-    const target = buildings.find(b => !b.passed && b.x > owl.x + 80 && b.x < owl.x + 400);
-    if (!target) return;
-
-    const px = target.x + target.w / 2;
-    const gapCenter = target.topH + BUILD_GAP / 2;
-    const py = gapCenter + randInt(-30, 30);
-
-    pickups.push({
-        x: px, y: py,
-        collected: false,
-        pulse: 0
-    });
-
-    // Schedule next pickup
-    nextPickupAt = distance + randInt(ENERGY_INTERVAL_MIN, ENERGY_INTERVAL_MAX);
+function activatePickupIfNeeded(b) {
+    // Activate pickup as soon as building scrolls on-screen
+    if (b.hasPickup && !b.pickupCollected && b.x < W && !b.passed && !b._pickupActive) {
+        b._pickupActive = true; // mark as visible
+    }
 }
 
 // ─── GAME ACTIONS ───
@@ -189,7 +194,6 @@ function resetGame() {
     distance = 0;
     elapsed = 0;
     energyEarned = 0;
-    nextPickupAt = randInt(ENERGY_INTERVAL_MIN, ENERGY_INTERVAL_MAX);
     pickups = [];
     generateStars();
     generateClouds();
@@ -238,14 +242,21 @@ function update(dt) {
     // Scroll buildings
     const scrollAmt = SCROLL_SPEED * dt;
     buildings.forEach(b => { b.x -= scrollAmt; });
-    pickups.forEach(p => { p.x -= scrollAmt; p.pulse += dt * 3; });
 
     // Remove off-screen buildings & add new ones
     buildings = buildings.filter(b => b.x + b.w > -50);
     while (buildings.length < 6) {
         const last = buildings[buildings.length - 1];
         const newX = last.x + last.w + randInt(160, 240);
-        buildings.push(createBuilding(newX));
+        const newB = createBuilding(newX);
+        // Assign pickup if enough buildings have passed since last pickup
+        buildingsSincePickup++;
+        if (buildingsSincePickup >= nextPickupAfter && distance < MAX_DIST - 50) {
+            newB.hasPickup = true;
+            buildingsSincePickup = 0;
+            nextPickupAfter = randInt(6, 9);
+        }
+        buildings.push(newB);
     }
 
     // Scroll parallax
@@ -269,17 +280,33 @@ function update(dt) {
         farBuildings.push({ x: newX, w: randInt(20, 35), h: randInt(30, 70) });
     }
 
-    // Check building pass (for distance feedback)
+    // Check building pass + activate pickups + collect pickups
     buildings.forEach(b => {
         if (!b.passed && b.x + b.w < owl.x) {
             b.passed = true;
         }
-    });
 
-    // Energy pickup spawn — continuously throughout the run
-    if (distance >= nextPickupAt && distance < MAX_DIST - 50) {
-        spawnEnergyPickup();
-    }
+        // Activate pickup if building is on-screen
+        activatePickupIfNeeded(b);
+
+        // Update pickup pulse animation
+        if (b.hasPickup && b._pickupActive && !b.pickupCollected) {
+            b.pickupPulse += dt * 3;
+        }
+
+        // Check pickup collection (owl touches building gap area)
+        if (b.hasPickup && b._pickupActive && !b.pickupCollected) {
+            const px = b.x + b.w / 2;
+            const py = b.topH + BUILD_GAP / 2 + b.pickupOffsetY;
+            const dx = owl.x - px;
+            const dy = owl.y - py;
+            const dist = Math.sqrt(dx * dx + dy * dy);
+            if (dist < OWL_R + ENERGY_R + 10) {
+                b.pickupCollected = true;
+                energyEarned++;
+            }
+        }
+    });
 
     // Collision detection
     checkCollisions();
@@ -299,18 +326,6 @@ function update(dt) {
         finish();
         return;
     }
-
-    // Check pickup collection
-    pickups.forEach(p => {
-        if (!p.collected) {
-            const dx = owl.x - p.x;
-            const dy = owl.y - p.y;
-            if (Math.sqrt(dx * dx + dy * dy) < OWL_R + ENERGY_R) {
-                p.collected = true;
-                energyEarned++;
-            }
-        }
-    });
 
     // Update HUD
     document.getElementById("hudDist").textContent = Math.floor(distance) + "m";
@@ -488,27 +503,30 @@ function drawBuildings() {
 }
 
 function drawPickups() {
-    pickups.forEach(p => {
-        if (p.collected) return;
-        const pulse = Math.sin(p.pulse) * 3;
+    buildings.forEach(b => {
+        if (!b.hasPickup || !b._pickupActive || b.pickupCollected) return;
+
+        const px = b.x + b.w / 2;
+        const py = b.topH + BUILD_GAP / 2 + b.pickupOffsetY;
+        const pulse = Math.sin(b.pickupPulse) * 3;
         const r = ENERGY_R + pulse;
 
         // Outer glow
-        const glow = ctx.createRadialGradient(p.x, p.y, 0, p.x, p.y, r * 2.5);
+        const glow = ctx.createRadialGradient(px, py, 0, px, py, r * 2.5);
         glow.addColorStop(0, "rgba(0, 212, 255, 0.3)");
         glow.addColorStop(1, "rgba(0, 212, 255, 0)");
         ctx.fillStyle = glow;
         ctx.beginPath();
-        ctx.arc(p.x, p.y, r * 2.5, 0, Math.PI * 2);
+        ctx.arc(px, py, r * 2.5, 0, Math.PI * 2);
         ctx.fill();
 
         // Inner orb
-        const inner = ctx.createRadialGradient(p.x, p.y, 0, p.x, p.y, r);
+        const inner = ctx.createRadialGradient(px, py, 0, px, py, r);
         inner.addColorStop(0, "#00ffff");
         inner.addColorStop(1, "rgba(0, 212, 255, 0.5)");
         ctx.fillStyle = inner;
         ctx.beginPath();
-        ctx.arc(p.x, p.y, r, 0, Math.PI * 2);
+        ctx.arc(px, py, r, 0, Math.PI * 2);
         ctx.fill();
 
         // Lightning symbol
@@ -516,7 +534,7 @@ function drawPickups() {
         ctx.font = "bold 14px 'Space Grotesk', sans-serif";
         ctx.textAlign = "center";
         ctx.textBaseline = "middle";
-        ctx.fillText("⚡", p.x, p.y + 1);
+        ctx.fillText("⚡", px, py + 1);
     });
 }
 
@@ -677,14 +695,15 @@ async function showResult(completed) {
     let reward = energyEarned;
     let koinReward = 0;
 
+    const energyLabel = document.querySelectorAll(".result-stat .rs-label")[1];
     if (energyIsFull) {
         reward = 0;
         koinReward = energyEarned * KOIN_PER_PICKUP;
         document.getElementById("resEnergy").textContent = `🪙 ${koinReward}`;
-        document.querySelector("#resultCard .result-stat:nth-child(2) .rs-label").textContent = "Koin IQ (energi full)";
+        if (energyLabel) energyLabel.textContent = "Koin IQ (energi full)";
     } else {
         document.getElementById("resEnergy").textContent = reward;
-        document.querySelector("#resultCard .result-stat:nth-child(2) .rs-label").textContent = "Energi Dapat";
+        if (energyLabel) energyLabel.textContent = "Energi Dapat";
     }
 
     let emoji, title, message;
@@ -714,18 +733,38 @@ async function showResult(completed) {
     document.getElementById("resultMessage").textContent = message;
 
     // Save to Supabase
+    console.log(`[FlappyOwl] Game over! energyEarned=${energyEarned}, reward=${reward}, koinReward=${koinReward}, energyIsFull=${energyIsFull}, currentUser=`, currentUser);
     if (currentUser && (reward > 0 || koinReward > 0)) {
-        const updateData = {};
-        if (reward > 0) updateData.energi = currentUser.energi + reward;
-        if (koinReward > 0) updateData.koin_iq = currentUser.koin_iq + koinReward;
-
-        await supabaseClient
+        // Re-fetch fresh user data to avoid stale values
+        const { data: freshUser, error: fetchErr } = await supabaseClient
             .from("user_progress")
-            .update(updateData)
-            .eq("username", currentUser.username);
+            .select("*")
+            .eq("username", currentUser.username)
+            .maybeSingle();
 
-        if (reward > 0) currentUser.energi += reward;
-        if (koinReward > 0) currentUser.koin_iq += koinReward;
+        if (fetchErr || !freshUser) {
+            console.error("[FlappyOwl] Failed to fetch fresh user data:", fetchErr);
+        } else {
+            currentUser = freshUser;
+
+            const updateData = {};
+            if (reward > 0) updateData.energi = currentUser.energi + reward;
+            if (koinReward > 0) updateData.koin_iq = currentUser.koin_iq + koinReward;
+
+            console.log("[FlappyOwl] Saving to Supabase:", updateData, "for user:", currentUser.username);
+            const { error } = await supabaseClient
+                .from("user_progress")
+                .update(updateData)
+                .eq("username", currentUser.username);
+
+            if (error) {
+                console.error("[FlappyOwl] Supabase update FAILED:", error);
+            } else {
+                console.log("[FlappyOwl] Supabase update SUCCESS");
+                if (reward > 0) currentUser.energi += reward;
+                if (koinReward > 0) currentUser.koin_iq += koinReward;
+            }
+        }
     }
 
     document.getElementById("energiDisplay").textContent = currentUser ? currentUser.energi : 0;
