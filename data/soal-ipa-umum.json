@@ -482,7 +482,367 @@
                 "Helium"
             ],
             "jawaban": 2,
-            "penjelasan": "Gas CO₂ dari pembakaran bahan bakar fosil meningkatkan efek rumah kaca yang menyebabkan pemanasan global."
+            "penjelasan": "Gas CO\u2082 dari pembakaran bahan bakar fosil meningkatkan efek rumah kaca yang menyebabkan pemanasan global."
+        },
+        {
+            "id": 41,
+            "pertanyaan": "Organ tubuh yang berfungsi menyaring racun dari darah adalah...",
+            "opsi": [
+                "Ginjal",
+                "Jantung",
+                "Paru-paru",
+                "Lambung"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Ginjal berfungsi menyaring darah, membuang racun dan limbah metabolisme, lalu mengeluarkannya sebagai urine."
+        },
+        {
+            "id": 42,
+            "pertanyaan": "Simbol kimia untuk unsur besi adalah...",
+            "opsi": [
+                "Be",
+                "Bi",
+                "Fe",
+                "Fi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Simbol kimia besi adalah Fe (dari bahasa Latin 'Ferrum')."
+        },
+        {
+            "id": 43,
+            "pertanyaan": "Perubahan wujud dari gas menjadi cair disebut...",
+            "opsi": [
+                "Menguap",
+                "Menyublim",
+                "Mengembun",
+                "Mencair"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Mengembun (kondensasi) adalah perubahan wujud dari gas menjadi cair karena penurunan suhu."
+        },
+        {
+            "id": 44,
+            "pertanyaan": "Bagian tumbuhan yang berfungsi mengangkut air dari akar ke daun adalah...",
+            "opsi": [
+                "Floem",
+                "Xilem",
+                "Kambium",
+                "Korteks"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Xilem adalah jaringan pengangkut yang mengalirkan air dan mineral dari akar ke daun."
+        },
+        {
+            "id": 45,
+            "pertanyaan": "Planet yang dikenal sebagai 'planet merah' adalah...",
+            "opsi": [
+                "Venus",
+                "Mars",
+                "Jupiter",
+                "Merkurius"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Mars disebut planet merah karena permukaannya mengandung besi oksida yang berwarna kemerahan."
+        },
+        {
+            "id": 46,
+            "pertanyaan": "Proses pemisahan campuran berdasarkan perbedaan titik didih disebut...",
+            "opsi": [
+                "Filtrasi",
+                "Distilasi",
+                "Evaporasi",
+                "Kristalisasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Distilasi adalah metode pemisahan campuran dengan memanfaatkan perbedaan titik didih komponen-komponennya."
+        },
+        {
+            "id": 47,
+            "pertanyaan": "Selain oksigen, udara yang kita hirup juga mengandung gas penting lainnya. Gas yang digunakan tumbuhan untuk fotosintesis adalah...",
+            "opsi": [
+                "Nitrogen",
+                "Karbon dioksida",
+                "Hidrogen",
+                "Helium"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Tumbuhan menggunakan karbon dioksida (CO\u2082) bersama air dan cahaya matahari untuk fotosintesis menghasilkan glukosa dan oksigen."
+        },
+        {
+            "id": 48,
+            "pertanyaan": "Gerhana matahari terjadi ketika...",
+            "opsi": [
+                "Bumi berada di antara Matahari dan Bulan",
+                "Bulan berada di antara Bumi dan Matahari",
+                "Matahari berada di antara Bumi dan Bulan",
+                "Bumi menjauh dari Matahari"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Gerhana matahari terjadi saat Bulan berada di antara Bumi dan Matahari, sehingga bayangan Bulan menutupi sebagian permukaan Bumi."
+        },
+        {
+            "id": 49,
+            "pertanyaan": "Alat indera yang berfungsi sebagai indra peraba adalah...",
+            "opsi": [
+                "Mata",
+                "Telinga",
+                "Kulit",
+                "Hidung"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kulit adalah indra peraba yang mengandung reseptor untuk mendeteksi sentuhan, tekanan, suhu, dan nyeri."
+        },
+        {
+            "id": 50,
+            "pertanyaan": "Jenis gaya yang menyebabkan benda jatuh ke tanah adalah...",
+            "opsi": [
+                "Gaya gesek",
+                "Gaya gravitasi",
+                "Gaya pegas",
+                "Gaya magnet"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Gaya gravitasi Bumi menarik semua benda ke pusat Bumi, sehingga benda jatuh ke bawah/tanah."
+        },
+        {
+            "id": 51,
+            "pertanyaan": "Mamalia yang bertelur adalah...",
+            "opsi": [
+                "Kanguru",
+                "Platipus",
+                "Kelelawar",
+                "Singa"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Platipus adalah salah satu mamalia monotremata yang unik karena bertelur, bukan melahirkan anak."
+        },
+        {
+            "id": 52,
+            "pertanyaan": "Senyawa air memiliki rumus kimia...",
+            "opsi": [
+                "H\u2082O\u2082",
+                "HO",
+                "H\u2082O",
+                "OH\u2082"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Air tersusun dari 2 atom hidrogen dan 1 atom oksigen, sehingga rumusnya H\u2082O."
+        },
+        {
+            "id": 53,
+            "pertanyaan": "Tulang yang melindungi otak manusia adalah...",
+            "opsi": [
+                "Tulang rusuk",
+                "Tulang belakang",
+                "Tulang tengkorak",
+                "Tulang panggul"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Tulang tengkorak (kranium) berfungsi melindungi otak yang merupakan organ vital tubuh."
+        },
+        {
+            "id": 54,
+            "pertanyaan": "Contoh perubahan fisika adalah...",
+            "opsi": [
+                "Kertas dibakar",
+                "Besi berkarat",
+                "Es mencair",
+                "Makanan membusuk"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Es mencair adalah perubahan fisika karena tidak menghasilkan zat baru, hanya berubah wujud dari padat ke cair."
+        },
+        {
+            "id": 55,
+            "pertanyaan": "Hewan yang mengalami metamorfosis tidak sempurna adalah...",
+            "opsi": [
+                "Kupu-kupu",
+                "Nyamuk",
+                "Belalang",
+                "Katak"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Belalang mengalami metamorfosis tidak sempurna: telur \u2192 nimfa \u2192 belalang dewasa (tanpa tahap pupa)."
+        },
+        {
+            "id": 56,
+            "pertanyaan": "Enzim amilase berfungsi untuk...",
+            "opsi": [
+                "Mencerna protein",
+                "Mencerna lemak",
+                "Mencerna karbohidrat",
+                "Mencerna vitamin"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Enzim amilase mengubah zat tepung (amilum/karbohidrat) menjadi maltosa (gula sederhana)."
+        },
+        {
+            "id": 57,
+            "pertanyaan": "Ciri-ciri makhluk hidup yang menunjukkan kemampuan menyesuaikan diri dengan lingkungan disebut...",
+            "opsi": [
+                "Respirasi",
+                "Adaptasi",
+                "Evolusi",
+                "Mutasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Adaptasi adalah kemampuan makhluk hidup menyesuaikan diri dengan lingkungannya agar dapat bertahan hidup."
+        },
+        {
+            "id": 58,
+            "pertanyaan": "Warna cahaya yang memiliki panjang gelombang terpendek adalah...",
+            "opsi": [
+                "Merah",
+                "Kuning",
+                "Hijau",
+                "Ungu"
+            ],
+            "jawaban": 3,
+            "penjelasan": "Cahaya ungu memiliki panjang gelombang terpendek dalam spektrum cahaya tampak (sekitar 380-450 nm)."
+        },
+        {
+            "id": 59,
+            "pertanyaan": "Sistem ekskresi manusia yang utama terdiri dari...",
+            "opsi": [
+                "Jantung dan paru-paru",
+                "Ginjal, kulit, paru-paru, dan hati",
+                "Lambung dan usus",
+                "Otak dan sumsum tulang"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Organ ekskresi utama: ginjal (urine), kulit (keringat), paru-paru (CO\u2082), hati (empedu)."
+        },
+        {
+            "id": 60,
+            "pertanyaan": "Benda langit yang mengelilingi planet disebut...",
+            "opsi": [
+                "Bintang",
+                "Komet",
+                "Satelit",
+                "Asteroid"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Satelit adalah benda langit yang mengelilingi planet. Bulan adalah satelit alami Bumi."
+        },
+        {
+            "id": 61,
+            "pertanyaan": "Tekanan zat cair disebut juga...",
+            "opsi": [
+                "Tekanan udara",
+                "Tekanan hidrostatis",
+                "Tekanan gas",
+                "Tekanan atmosfer"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Tekanan hidrostatis adalah tekanan yang disebabkan oleh zat cair karena beratnya sendiri."
+        },
+        {
+            "id": 62,
+            "pertanyaan": "Fungsi utama dinding sel pada tumbuhan adalah...",
+            "opsi": [
+                "Mengatur keluar masuknya zat",
+                "Memberi bentuk dan melindungi sel",
+                "Menghasilkan energi",
+                "Menyimpan cadangan makanan"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Dinding sel tersusun dari selulosa yang kaku, memberi bentuk dan melindungi sel tumbuhan."
+        },
+        {
+            "id": 63,
+            "pertanyaan": "Proses penguapan air dari daun tumbuhan disebut...",
+            "opsi": [
+                "Fotosintesis",
+                "Respirasi",
+                "Transpirasi",
+                "Gutasi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Transpirasi adalah proses penguapan air dari permukaan daun melalui stomata."
+        },
+        {
+            "id": 64,
+            "pertanyaan": "Benda yang bersifat isolator adalah...",
+            "opsi": [
+                "Besi",
+                "Tembaga",
+                "Karet",
+                "Aluminium"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Karet adalah isolator yang tidak dapat menghantarkan listrik atau panas dengan baik."
+        },
+        {
+            "id": 65,
+            "pertanyaan": "Reproduksi tumbuhan secara vegetatif alami contohnya adalah...",
+            "opsi": [
+                "Menyetek",
+                "Mencangkok",
+                "Tunas pada bambu",
+                "Menyambung"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Tunas pada bambu adalah reproduksi vegetatif alami karena terjadi tanpa campur tangan manusia."
+        },
+        {
+            "id": 66,
+            "pertanyaan": "Gas yang digunakan dalam proses pembakaran adalah...",
+            "opsi": [
+                "Nitrogen",
+                "Karbon dioksida",
+                "Oksigen",
+                "Hidrogen"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Pembakaran memerlukan oksigen (O\u2082) sebagai zat pembakar. Tanpa oksigen, api akan padam."
+        },
+        {
+            "id": 67,
+            "pertanyaan": "Contoh simbiosis mutualisme adalah...",
+            "opsi": [
+                "Cacing pita di usus manusia",
+                "Kutu di kepala manusia",
+                "Kupu-kupu dengan bunga",
+                "Benalu pada pohon"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kupu-kupu mendapat nektar bunga sebagai makanan, sementara bunga mendapat bantuan penyerbukan. Keduanya diuntungkan."
+        },
+        {
+            "id": 68,
+            "pertanyaan": "Lapisan kulit bumi yang paling luar disebut...",
+            "opsi": [
+                "Mantel bumi",
+                "Inti bumi",
+                "Kerak bumi",
+                "Astenosfer"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kerak bumi (crust) adalah lapisan paling luar bumi dengan ketebalan 5-70 km, tempat manusia tinggal."
+        },
+        {
+            "id": 69,
+            "pertanyaan": "Hukum II Newton menyatakan bahwa...",
+            "opsi": [
+                "Setiap aksi ada reaksi",
+                "F = m \u00d7 a",
+                "Benda cenderung mempertahankan keadaannya",
+                "Gravitasi menarik semua benda"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Hukum II Newton: Gaya = massa \u00d7 percepatan (F = m \u00d7 a). Semakin besar massa, semakin besar gaya yang dibutuhkan."
+        },
+        {
+            "id": 70,
+            "pertanyaan": "Bagian mata yang berfungsi mengatur jumlah cahaya yang masuk adalah...",
+            "opsi": [
+                "Lensa",
+                "Retina",
+                "Iris",
+                "Kornea"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Iris mengatur besar kecilnya pupil untuk mengontrol jumlah cahaya yang masuk ke mata."
         }
     ]
 }

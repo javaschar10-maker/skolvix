@@ -483,6 +483,366 @@
             ],
             "jawaban": 1,
             "penjelasan": "Bendera Merah Putih pertama kali dijahit oleh Fatmawati (istri Soekarno) dan dikibarkan saat proklamasi 17 Agustus 1945."
+        },
+        {
+            "id": 41,
+            "pertanyaan": "Semboyan negara Indonesia yang terdapat dalam lambang Garuda Pancasila adalah...",
+            "opsi": [
+                "Bhinneka Tunggal Ika",
+                "Tut Wuri Handayani",
+                "Pancasila Sakti",
+                "Merdeka atau Mati"
+            ],
+            "jawaban": 0,
+            "penjelasan": "'Bhinneka Tunggal Ika' berasal dari bahasa Jawa Kuno yang berarti berbeda-beda tetapi tetap satu."
+        },
+        {
+            "id": 42,
+            "pertanyaan": "Negara tetangga Indonesia yang berbentuk kepulauan adalah...",
+            "opsi": [
+                "Thailand",
+                "Vietnam",
+                "Filipina",
+                "Kamboja"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Filipina adalah negara kepulauan dengan sekitar 7.641 pulau, mirip dengan Indonesia."
+        },
+        {
+            "id": 43,
+            "pertanyaan": "Ekonomi kerakyatan di Indonesia berdasarkan pada...",
+            "opsi": [
+                "Sistem liberal",
+                "Sistem kapitalis",
+                "Sistem ekonomi Pancasila",
+                "Sistem sosialis"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Indonesia menganut sistem ekonomi Pancasila yang berlandaskan UUD 1945 Pasal 33 dan nilai-nilai Pancasila."
+        },
+        {
+            "id": 44,
+            "pertanyaan": "Perang Diponegoro terjadi pada tahun...",
+            "opsi": [
+                "1825-1830",
+                "1830-1835",
+                "1820-1825",
+                "1840-1845"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Perang Diponegoro (Perang Jawa) berlangsung 1825-1830 dipimpin Pangeran Diponegoro melawan Belanda di Yogyakarta."
+        },
+        {
+            "id": 45,
+            "pertanyaan": "Organisasi ASEAN beranggotakan negara-negara di kawasan...",
+            "opsi": [
+                "Asia Timur",
+                "Asia Tenggara",
+                "Asia Selatan",
+                "Asia Barat"
+            ],
+            "jawaban": 1,
+            "penjelasan": "ASEAN (Association of Southeast Asian Nations) adalah organisasi negara-negara Asia Tenggara."
+        },
+        {
+            "id": 46,
+            "pertanyaan": "Anggaran Pendapatan dan Belanja Negara (APBN) ditetapkan oleh...",
+            "opsi": [
+                "Presiden saja",
+                "DPR saja",
+                "Presiden bersama DPR",
+                "BPK"
+            ],
+            "jawaban": 2,
+            "penjelasan": "APBN ditetapkan oleh Presiden bersama DPR berdasarkan UUD 1945 Pasal 23."
+        },
+        {
+            "id": 47,
+            "pertanyaan": "Kerajaan Islam terbesar di Pulau Jawa adalah...",
+            "opsi": [
+                "Kerajaan Demak",
+                "Kerajaan Mataram Islam",
+                "Kerajaan Banten",
+                "Kerajaan Cirebon"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kerajaan Mataram Islam adalah kerajaan Islam terbesar di Jawa, terutama pada masa Sultan Agung."
+        },
+        {
+            "id": 48,
+            "pertanyaan": "Letak astronomis Indonesia adalah...",
+            "opsi": [
+                "6°LU - 11°LS dan 95°BT - 141°BT",
+                "0° - 23°LU dan 90°BT - 145°BT",
+                "10°LU - 10°LS dan 95°BT - 141°BT",
+                "6°LU - 11°LS dan 90°BT - 130°BT"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Indonesia terletak pada 6°LU - 11°LS dan 95°BT - 141°BT, menjadikannya beriklim tropis."
+        },
+        {
+            "id": 49,
+            "pertanyaan": "Peristiwa Rengasdengklok terjadi pada tanggal...",
+            "opsi": [
+                "16 Agustus 1945",
+                "17 Agustus 1945",
+                "18 Agustus 1945",
+                "15 Agustus 1945"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Peristiwa Rengasdengklok terjadi 16 Agustus 1945, ketika Soekarno-Hatta diamankan ke Rengasdengklok."
+        },
+        {
+            "id": 50,
+            "pertanyaan": "Pasar yang menjual barang-barang kebutuhan sehari-hari disebut pasar...",
+            "opsi": [
+                "Pasar modal",
+                "Pasar tradisional",
+                "Pasar valuta asing",
+                "Pasar abstrak"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Pasar tradisional menjual kebutuhan sehari-hari seperti sayur, buah, daging, dan bumbu dengan tawar-menawar."
+        },
+        {
+            "id": 51,
+            "pertanyaan": "Gubernur pertama Bank Indonesia adalah...",
+            "opsi": [
+                "Sjafruddin Prawiranegara",
+                "Soekarno",
+                "Moh. Hatta",
+                "Ali Sastroamidjojo"
+            ],
+            "jawaban": 0,
+            "penjelasan": "Sjafruddin Prawiranegara adalah Gubernur pertama Bank Indonesia (1953-1958)."
+        },
+        {
+            "id": 52,
+            "pertanyaan": "Benua yang terdiri dari satu negara saja adalah...",
+            "opsi": [
+                "Asia",
+                "Eropa",
+                "Australia",
+                "Afrika"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Benua Australia hanya terdiri dari satu negara yaitu Australia (Commonwealth of Australia)."
+        },
+        {
+            "id": 53,
+            "pertanyaan": "Perjanjian Roem-Royen dilakukan pada tahun...",
+            "opsi": [
+                "1945",
+                "1946",
+                "1949",
+                "1950"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Perjanjian Roem-Royen ditandatangani 7 Mei 1949 sebagai pembuka jalan menuju Konferensi Meja Bundar."
+        },
+        {
+            "id": 54,
+            "pertanyaan": "Provinsi Indonesia yang paling timur adalah...",
+            "opsi": [
+                "Maluku",
+                "Maluku Utara",
+                "Papua",
+                "Nusa Tenggara Timur"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Papua (dan Papua Barat) adalah provinsi paling timur Indonesia, berbatasan langsung dengan Papua Nugini."
+        },
+        {
+            "id": 55,
+            "pertanyaan": "Tokoh yang merumuskan Pancasila bersama Soekarno adalah...",
+            "opsi": [
+                "Moh. Hatta",
+                "Moh. Yamin",
+                "Soepomo",
+                "Semua benar"
+            ],
+            "jawaban": 3,
+            "penjelasan": "Tiga tokoh yang mengusulkan dasar negara pada sidang BPUPKI adalah Moh. Yamin, Soepomo, dan Soekarno."
+        },
+        {
+            "id": 56,
+            "pertanyaan": "Gunung berapi tertinggi di dunia adalah...",
+            "opsi": [
+                "Gunung Fuji",
+                "Gunung Kilimanjaro",
+                "Gunung Ojos del Salado",
+                "Gunung Vesuvius"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Gunung Ojos del Salado di perbatasan Argentina-Chili adalah gunung berapi aktif tertinggi di dunia (6.893 m)."
+        },
+        {
+            "id": 57,
+            "pertanyaan": "Suku bangsa asli dari Sumatera Barat adalah...",
+            "opsi": [
+                "Suku Batak",
+                "Suku Minangkabau",
+                "Suku Aceh",
+                "Suku Melayu"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Suku Minangkabau adalah suku asli Sumatera Barat yang dikenal dengan sistem kekerabatan matrilineal."
+        },
+        {
+            "id": 58,
+            "pertanyaan": "Kegiatan ekonomi yang menyalurkan barang dari produsen ke konsumen disebut...",
+            "opsi": [
+                "Produksi",
+                "Konsumsi",
+                "Distribusi",
+                "Investasi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Distribusi adalah kegiatan menyalurkan barang dan jasa dari produsen ke konsumen melalui saluran distribusi."
+        },
+        {
+            "id": 59,
+            "pertanyaan": "UUD 1945 disahkan oleh PPKI pada tanggal...",
+            "opsi": [
+                "17 Agustus 1945",
+                "18 Agustus 1945",
+                "19 Agustus 1945",
+                "20 Agustus 1945"
+            ],
+            "jawaban": 1,
+            "penjelasan": "UUD 1945 disahkan oleh PPKI pada 18 Agustus 1945, sehari setelah proklamasi kemerdekaan."
+        },
+        {
+            "id": 60,
+            "pertanyaan": "Samudra terluas di dunia adalah...",
+            "opsi": [
+                "Samudra Atlantik",
+                "Samudra Hindia",
+                "Samudra Pasifik",
+                "Samudra Arktik"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Samudra Pasifik adalah samudra terluas di dunia dengan luas sekitar 165,25 juta km\u00b2."
+        },
+        {
+            "id": 61,
+            "pertanyaan": "Pahlawan wanita dari Jepara yang dikenal karena surat-suratnya adalah...",
+            "opsi": [
+                "Cut Nyak Dhien",
+                "R.A. Kartini",
+                "Dewi Sartika",
+                "Martha Tiahahu"
+            ],
+            "jawaban": 1,
+            "penjelasan": "R.A. Kartini dari Jepara dikenal karena surat-suratnya tentang emansipasi wanita, dibukukan sebagai 'Habis Gelap Terbitlah Terang'."
+        },
+        {
+            "id": 62,
+            "pertanyaan": "Perubahan dari masyarakat agraris menuju masyarakat industri disebut...",
+            "opsi": [
+                "Modernisasi",
+                "Industrialisasi",
+                "Urbanisasi",
+                "Globalisasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Industrialisasi adalah proses perubahan dari masyarakat agraris menjadi masyarakat industri."
+        },
+        {
+            "id": 63,
+            "pertanyaan": "Lembaga yudikatif di Indonesia adalah...",
+            "opsi": [
+                "DPR",
+                "MA dan MK",
+                "Presiden",
+                "BPK"
+            ],
+            "jawaban": 1,
+            "penjelasan": "MA (Mahkamah Agung) dan MK (Mahkamah Konstitusi) adalah lembaga yudikatif yang menjalankan kekuasaan kehakiman."
+        },
+        {
+            "id": 64,
+            "pertanyaan": "Perang Padri terjadi di daerah...",
+            "opsi": [
+                "Jawa Tengah",
+                "Sumatera Barat",
+                "Sulawesi Selatan",
+                "Kalimantan"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Perang Padri (1803-1838) terjadi di Sumatera Barat, dipimpin Tuanku Imam Bonjol melawan Belanda."
+        },
+        {
+            "id": 65,
+            "pertanyaan": "Zona Ekonomi Eksklusif (ZEE) Indonesia membentang sejauh...",
+            "opsi": [
+                "12 mil laut",
+                "100 mil laut",
+                "200 mil laut",
+                "350 mil laut"
+            ],
+            "jawaban": 2,
+            "penjelasan": "ZEE Indonesia membentang 200 mil laut dari garis pantai sesuai UNCLOS 1982."
+        },
+        {
+            "id": 66,
+            "pertanyaan": "Kota yang dikenal sebagai Kota Pelajar di Indonesia adalah...",
+            "opsi": [
+                "Jakarta",
+                "Bandung",
+                "Yogyakarta",
+                "Surabaya"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Yogyakarta dikenal sebagai Kota Pelajar karena banyaknya perguruan tinggi dan institusi pendidikan."
+        },
+        {
+            "id": 67,
+            "pertanyaan": "Perpindahan penduduk dari desa ke kota disebut...",
+            "opsi": [
+                "Imigrasi",
+                "Emigrasi",
+                "Urbanisasi",
+                "Transmigrasi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Urbanisasi adalah perpindahan penduduk dari desa ke kota, biasanya untuk mencari pekerjaan."
+        },
+        {
+            "id": 68,
+            "pertanyaan": "Indonesia pernah menjadi tuan rumah Konferensi Asia-Afrika pada tahun...",
+            "opsi": [
+                "1945",
+                "1955",
+                "1965",
+                "1975"
+            ],
+            "jawaban": 1,
+            "penjelasan": "KAA diselenggarakan di Bandung pada 18-24 April 1955, diikuti 29 negara Asia dan Afrika."
+        },
+        {
+            "id": 69,
+            "pertanyaan": "Sistem ekonomi yang menekankan pada kebebasan individu dan persaingan bebas adalah...",
+            "opsi": [
+                "Sistem sosialis",
+                "Sistem komunis",
+                "Sistem liberal/kapitalis",
+                "Sistem campuran"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Sistem ekonomi liberal/kapitalis menekankan kepemilikan individu dan persaingan bebas di pasar."
+        },
+        {
+            "id": 70,
+            "pertanyaan": "Wilayah Indonesia yang termasuk zona Waktu Indonesia Tengah (WITA) adalah...",
+            "opsi": [
+                "Jakarta",
+                "Bali",
+                "Papua",
+                "Sumatera"
+            ],
+            "jawaban": 1,
+            "penjelasan": "WITA (UTC+8) mencakup Bali, Kalimantan Timur/Selatan, Sulawesi, dan Nusa Tenggara."
         }
     ]
 }

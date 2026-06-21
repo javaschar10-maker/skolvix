@@ -483,6 +483,366 @@
             ],
             "jawaban": 1,
             "penjelasan": "Reported speech (kalimat tidak langsung) mengubah tense ke bentuk lampau. 'Is' menjadi 'was' karena reporting verb-nya 'told' (past tense)."
+        },
+        {
+            "id": 41,
+            "pertanyaan": "What is the past participle of 'write'?",
+            "opsi": [
+                "writed",
+                "wrote",
+                "written",
+                "writing"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Write' adalah irregular verb: write (base) \u2192 wrote (past) \u2192 written (past participle)."
+        },
+        {
+            "id": 42,
+            "pertanyaan": "'She is the ___ student in our class.'",
+            "opsi": [
+                "smart",
+                "smarter",
+                "smartest",
+                "most smart"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Superlative degree untuk kata sifat satu suku kata: the + adj + -est. 'Smart' menjadi 'smartest'."
+        },
+        {
+            "id": 43,
+            "pertanyaan": "Which word is an adjective?",
+            "opsi": [
+                "quickly",
+                "happiness",
+                "beautiful",
+                "sing"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Beautiful' adalah adjective (kata sifat). 'Quickly' = adverb, 'happiness' = noun, 'sing' = verb."
+        },
+        {
+            "id": 44,
+            "pertanyaan": "'I ___ to the gym twice a week.'",
+            "opsi": [
+                "goes",
+                "go",
+                "going",
+                "gone"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Subjek 'I' dalam simple present tense menggunakan bentuk dasar (bare infinitive) tanpa -es: 'go'."
+        },
+        {
+            "id": 45,
+            "pertanyaan": "What does 'enormous' mean?",
+            "opsi": [
+                "Very small",
+                "Very big",
+                "Very fast",
+                "Very slow"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Enormous' berarti sangat besar (very big/huge). Sinonimnya: huge, massive, gigantic."
+        },
+        {
+            "id": 46,
+            "pertanyaan": "'He ___ already ___ lunch when I arrived.'",
+            "opsi": [
+                "has / eaten",
+                "have / eaten",
+                "had / eaten",
+                "was / eating"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Past perfect tense: had + past participle. Digunakan untuk aksi yang sudah selesai sebelum aksi lain di masa lalu."
+        },
+        {
+            "id": 47,
+            "pertanyaan": "Which sentence is grammatically correct?",
+            "opsi": [
+                "She don't like apples.",
+                "She doesn't likes apples.",
+                "She doesn't like apples.",
+                "She not like apples."
+            ],
+            "jawaban": 2,
+            "penjelasan": "Pola negatif simple present untuk he/she/it: doesn't + bare infinitive (tanpa -s). 'She doesn't like apples.'"
+        },
+        {
+            "id": 48,
+            "pertanyaan": "'Would you mind ___ the window, please?'",
+            "opsi": [
+                "open",
+                "opening",
+                "opened",
+                "to open"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Setelah 'Would you mind' digunakan verb-ing (gerund): 'Would you mind opening...'"
+        },
+        {
+            "id": 49,
+            "pertanyaan": "What is the meaning of 'give up'?",
+            "opsi": [
+                "Memberikan sesuatu",
+                "Menyerah",
+                "Mengambil sesuatu",
+                "Berjuang"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Give up' adalah phrasal verb yang berarti 'menyerah' atau 'berhenti mencoba'."
+        },
+        {
+            "id": 50,
+            "pertanyaan": "'My parents ___ to Bali last summer.'",
+            "opsi": [
+                "travel",
+                "travels",
+                "traveled",
+                "traveling"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Last summer' menandakan past tense. Bentuk past tense 'travel' adalah 'traveled' (regular verb)."
+        },
+        {
+            "id": 51,
+            "pertanyaan": "Which is a possessive pronoun?",
+            "opsi": [
+                "I",
+                "my",
+                "me",
+                "mine"
+            ],
+            "jawaban": 3,
+            "penjelasan": "'Mine' adalah possessive pronoun (kata ganti kepemilikan). 'My' adalah possessive adjective, bukan pronoun."
+        },
+        {
+            "id": 52,
+            "pertanyaan": "'The book ___ by millions of people.'",
+            "opsi": [
+                "has read",
+                "has been read",
+                "has reading",
+                "have been read"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Passive voice dalam present perfect: has/have + been + past participle. 'The book has been read.'"
+        },
+        {
+            "id": 53,
+            "pertanyaan": "What does 'run out of' mean?",
+            "opsi": [
+                "Berlari keluar",
+                "Kehabisan",
+                "Berlari cepat",
+                "Masuk"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Run out of' adalah phrasal verb yang berarti 'kehabisan' sesuatu. Contoh: 'We ran out of milk.'"
+        },
+        {
+            "id": 54,
+            "pertanyaan": "'You ___ wear a helmet when riding a motorcycle.'",
+            "opsi": [
+                "might",
+                "could",
+                "must",
+                "would"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Must' digunakan untuk menyatakan kewajiban (obligation). Memakai helm saat berkendara adalah kewajiban."
+        },
+        {
+            "id": 55,
+            "pertanyaan": "Which word is a conjunction?",
+            "opsi": [
+                "because",
+                "quickly",
+                "beautiful",
+                "table"
+            ],
+            "jawaban": 0,
+            "penjelasan": "'Because' adalah conjunction (kata hubung) yang menunjukkan sebab. Lainnya: adverb, adjective, noun."
+        },
+        {
+            "id": 56,
+            "pertanyaan": "'She speaks English ___.'",
+            "opsi": [
+                "fluent",
+                "fluently",
+                "fluency",
+                "more fluent"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kata kerja 'speaks' diterangkan oleh adverb. 'Fluently' adalah adverb dari 'fluent'."
+        },
+        {
+            "id": 57,
+            "pertanyaan": "'Neither Tom ___ Jerry came to the party.'",
+            "opsi": [
+                "or",
+                "and",
+                "nor",
+                "but"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Neither...nor' adalah pasangan conjunction yang benar. 'Neither Tom nor Jerry' = baik Tom maupun Jerry tidak."
+        },
+        {
+            "id": 58,
+            "pertanyaan": "What is the antonym of 'generous'?",
+            "opsi": [
+                "kind",
+                "stingy",
+                "friendly",
+                "polite"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Generous' (murah hati) berlawanan dengan 'stingy' (pelit/kikir)."
+        },
+        {
+            "id": 59,
+            "pertanyaan": "'He asked me where I ___.",
+            "opsi": [
+                "live",
+                "lived",
+                "living",
+                "lives"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Reported speech mengubah tense ke lampau. 'Where do you live?' menjadi 'where I lived'."
+        },
+        {
+            "id": 60,
+            "pertanyaan": "Which sentence uses 'since' correctly?",
+            "opsi": [
+                "I have lived here since 2010.",
+                "I lived here since 2010.",
+                "I live here since 2010.",
+                "I am living here since 2010."
+            ],
+            "jawaban": 0,
+            "penjelasan": "'Since' digunakan dengan present perfect tense (have/has + past participle) untuk menunjukkan titik waktu tertentu."
+        },
+        {
+            "id": 61,
+            "pertanyaan": "What is the plural form of 'tooth'?",
+            "opsi": [
+                "tooths",
+                "teeth",
+                "toothes",
+                "teeths"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Tooth' memiliki bentuk jamak irregular: 'teeth'. Contoh lain: foot \u2192 feet, goose \u2192 geese."
+        },
+        {
+            "id": 62,
+            "pertanyaan": "'She ___ the piano beautifully.'",
+            "opsi": [
+                "play",
+                "plays",
+                "playing",
+                "played"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Subjek 'She' (orang ketiga tunggal) dalam simple present tense memerlukan verb + s: 'plays'."
+        },
+        {
+            "id": 63,
+            "pertanyaan": "What does 'look after' mean?",
+            "opsi": [
+                "Mencari",
+                "Merawat/menjaga",
+                "Melihat ke belakang",
+                "Mengejar"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Look after' adalah phrasal verb yang berarti 'merawat' atau 'menjaga'. Contoh: 'She looks after her baby.'"
+        },
+        {
+            "id": 64,
+            "pertanyaan": "'If I ___ rich, I would travel the world.'",
+            "opsi": [
+                "am",
+                "was",
+                "were",
+                "be"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Conditional type 2 (unreal present): If + subject + were (untuk semua subjek), ... would + bare infinitive."
+        },
+        {
+            "id": 65,
+            "pertanyaan": "Which word means 'kemarin' in English?",
+            "opsi": [
+                "tomorrow",
+                "today",
+                "yesterday",
+                "tonight"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Yesterday' berarti 'kemarin'. 'Tomorrow' = besok, 'today' = hari ini, 'tonight' = malam ini."
+        },
+        {
+            "id": 66,
+            "pertanyaan": "'There isn't ___ milk in the fridge.'",
+            "opsi": [
+                "some",
+                "any",
+                "many",
+                "few"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Dalam kalimat negatif dan tanya, gunakan 'any' untuk uncountable noun. 'Some' digunakan dalam kalimat positif."
+        },
+        {
+            "id": 67,
+            "pertanyaan": "What is the noun form of 'happy'?",
+            "opsi": [
+                "happier",
+                "happily",
+                "happiness",
+                "unhappy"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Happiness' adalah noun (kata benda) dari 'happy'. Dibentuk dengan menambahkan akhiran '-ness'."
+        },
+        {
+            "id": 68,
+            "pertanyaan": "'I'm looking forward ___ you soon.'",
+            "opsi": [
+                "to see",
+                "to seeing",
+                "seeing",
+                "see"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Setelah 'look forward to' digunakan verb-ing (gerund): 'looking forward to seeing'. 'To' di sini adalah preposisi."
+        },
+        {
+            "id": 69,
+            "pertanyaan": "Which sentence is in the present perfect tense?",
+            "opsi": [
+                "I eat breakfast.",
+                "I ate breakfast.",
+                "I have eaten breakfast.",
+                "I am eating breakfast."
+            ],
+            "jawaban": 2,
+            "penjelasan": "Present perfect tense: have/has + past participle. 'I have eaten breakfast.'"
+        },
+        {
+            "id": 70,
+            "pertanyaan": "'He is ___ tallest boy in our class.'",
+            "opsi": [
+                "a",
+                "an",
+                "the",
+                "some"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Superlative selalu menggunakan artikel 'the': 'the tallest', 'the best', 'the most beautiful'."
         }
     ]
 }

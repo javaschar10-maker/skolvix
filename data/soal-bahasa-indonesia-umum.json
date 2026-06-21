@@ -170,7 +170,7 @@
                 "Pelengkap"
             ],
             "jawaban": 2,
-            "penplanation": "'Sangat' adalah kata keterangan (adverbia) yang menerangkan kata sifat 'rajin'."
+            "penjelasan": "'Sangat' adalah kata keterangan (adverbia) yang menerangkan kata sifat 'rajin'."
         },
         {
             "id": 15,
@@ -483,6 +483,366 @@
             ],
             "jawaban": 3,
             "penjelasan": "Huruf kapital digunakan di awal kalimat, nama orang, dan nama geografi. Kata sifat biasa tidak memerlukan huruf kapital."
+        },
+        {
+            "id": 41,
+            "pertanyaan": "Kata 'bermain' termasuk jenis kata...",
+            "opsi": [
+                "Kata benda",
+                "Kata kerja",
+                "Kata sifat",
+                "Kata bilangan"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Bermain' adalah kata kerja (verba) karena menunjukkan suatu tindakan atau aktivitas."
+        },
+        {
+            "id": 42,
+            "pertanyaan": "Sinonim dari kata 'gembira' adalah...",
+            "opsi": [
+                "Sedih",
+                "Senang",
+                "Marah",
+                "Takut"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Gembira' bersinonim dengan 'senang', 'riang', 'bahagia'. Semuanya menunjukkan perasaan positif."
+        },
+        {
+            "id": 43,
+            "pertanyaan": "Kalimat tanya menggunakan kata tanya berikut, KECUALI...",
+            "opsi": [
+                "Apa",
+                "Siapa",
+                "Karena",
+                "Mengapa"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Karena' adalah konjungsi sebab, bukan kata tanya. Kata tanya: apa, siapa, mengapa, kapan, di mana, bagaimana."
+        },
+        {
+            "id": 44,
+            "pertanyaan": "Kata 'keindahan' termasuk dalam golongan kata...",
+            "opsi": [
+                "Kata kerja",
+                "Kata sifat",
+                "Kata benda",
+                "Kata keterangan"
+            ],
+            "jawaban": 2,
+            "penjelasan": "'Keindahan' adalah kata benda abstrak yang terbentuk dari konfiks 'ke-an' + kata sifat 'indah'."
+        },
+        {
+            "id": 45,
+            "pertanyaan": "Majas 'suaranya memecah gendang telingaku' termasuk majas...",
+            "opsi": [
+                "Simile",
+                "Personifikasi",
+                "Hiperbola",
+                "Ironi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Hiperbola adalah majas yang melebih-lebihkan sesuatu. 'Memecah gendang telinga' adalah ungkapan yang berlebihan."
+        },
+        {
+            "id": 46,
+            "pertanyaan": "Struktur teks narasi yang benar adalah...",
+            "opsi": [
+                "Tesis - Argumen - Penegasan",
+                "Orientasi - Komplikasi - Resolusi",
+                "Identifikasi - Deskripsi",
+                "Orientasi - Krisis - Reaksi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teks narasi memiliki struktur: Orientasi (pengenalan), Komplikasi (konflik), Resolusi (penyelesaian)."
+        },
+        {
+            "id": 47,
+            "pertanyaan": "Kata baku dari 'resiko' adalah...",
+            "opsi": [
+                "Resiko",
+                "Risiko",
+                "Resqiko",
+                "Resikoe"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Menurut KBBI, kata yang benar adalah 'risiko', bukan 'resiko'."
+        },
+        {
+            "id": 48,
+            "pertanyaan": "Paragraf yang kalimat utamanya di awal disebut paragraf...",
+            "opsi": [
+                "Induktif",
+                "Deduktif",
+                "Campuran",
+                "Naratif"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Paragraf deduktif dimulai dari pernyataan umum (kalimat utama) lalu diikuti kalimat penjelas."
+        },
+        {
+            "id": 49,
+            "pertanyaan": "Unsur intrinsik drama yang menunjukkan percakapan antar tokoh disebut...",
+            "opsi": [
+                "Monolog",
+                "Dialog",
+                "Narasi",
+                "Prolog"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Dialog adalah percakapan antara dua tokoh atau lebih dalam drama. Monolog adalah percakapan satu orang."
+        },
+        {
+            "id": 50,
+            "pertanyaan": "Kata depan 'di' digunakan untuk menunjukkan...",
+            "opsi": [
+                "Waktu",
+                "Tempat",
+                "Orang",
+                "Benda"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kata depan 'di' digunakan untuk menunjukkan tempat atau lokasi. Contoh: di rumah, di sekolah, di pasar."
+        },
+        {
+            "id": 51,
+            "pertanyaan": "Kalimat 'Pak guru mengajar di kelas' memiliki pola...",
+            "opsi": [
+                "S-P",
+                "S-P-O",
+                "S-P-K",
+                "S-P-O-K"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Pak guru (S) mengajar (P) di kelas (Keterangan tempat). Kalimat ini memiliki pola S-P-K."
+        },
+        {
+            "id": 52,
+            "pertanyaan": "Teks yang menjelaskan proses terjadinya suatu fenomena disebut teks...",
+            "opsi": [
+                "Narasi",
+                "Deskripsi",
+                "Eksplanasi",
+                "Argumentasi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Teks eksplanasi menjelaskan proses terjadinya suatu fenomena alam atau sosial."
+        },
+        {
+            "id": 53,
+            "pertanyaan": "Antonim dari kata 'tradisional' adalah...",
+            "opsi": [
+                "Kuno",
+                "Modern",
+                "Asli",
+                "Klasik"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Antonim 'tradisional' adalah 'modern'. Tradisional = cara lama, modern = cara baru/maju."
+        },
+        {
+            "id": 54,
+            "pertanyaan": "Kata 'me- + sapu' menjadi...",
+            "opsi": [
+                "Mesapu",
+                "Menyapu",
+                "Memsapu",
+                "Mesapu"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Prefiks 'me-' + 'sapu' = 'menyapu'. Huruf 's' luluh menjadi 'ny' karena aturan peluluhan."
+        },
+        {
+            "id": 55,
+            "pertanyaan": "Teks laporan hasil observasi memiliki struktur...",
+            "opsi": [
+                "Tesis - Argumen",
+                "Pernyataan umum - Deskripsi",
+                "Orientasi - Resolusi",
+                "Abstrak - Orientasi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teks laporan hasil observasi memiliki struktur: Pernyataan umum (definisi) dan Deskripsi (rincian)."
+        },
+        {
+            "id": 56,
+            "pertanyaan": "Kata 'berlari kencang' termasuk jenis frasa...",
+            "opsi": [
+                "Frasa nominal",
+                "Frasa verbal",
+                "Frasa adjektival",
+                "Frasa preposisional"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Berlari kencang' adalah frasa verbal karena intinya adalah kata kerja 'berlari' yang diterangkan oleh 'kencang'."
+        },
+        {
+            "id": 57,
+            "pertanyaan": "Tanda baca yang tepat untuk mengakhiri kalimat tanya adalah...",
+            "opsi": [
+                "Tanda titik (.)",
+                "Tanda koma (,)",
+                "Tanda tanya (?)",
+                "Tanda seru (!)"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Kalimat tanya selalu diakhiri dengan tanda tanya (?). Tanda titik untuk kalimat berita, tanda seru untuk perintah."
+        },
+        {
+            "id": 58,
+            "pertanyaan": "Kata 'pemadam kebakaran' termasuk kata majemuk yang berarti...",
+            "opsi": [
+                "Pemadam yang kebakaran",
+                "Alat/orang yang memadamkan kebakaran",
+                "Kebakaran yang padam",
+                "Api yang padam"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Pemadam kebakaran' = alat atau orang yang memadamkan kebakaran. Ini adalah kata majemuk yang sudah menyatu maknanya."
+        },
+        {
+            "id": 59,
+            "pertanyaan": "Kalimat 'Adik bermain bola di halaman' predikatnya adalah...",
+            "opsi": [
+                "Adik",
+                "Bermain",
+                "Bola",
+                "Di halaman"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Predikat adalah bagian kalimat yang menunjukkan tindakan atau keadaan. 'Bermain' adalah predikat (kata kerja)."
+        },
+        {
+            "id": 60,
+            "pertanyaan": "Gurindam adalah puisi lama yang terdiri dari...",
+            "opsi": [
+                "4 baris per bait",
+                "2 baris per bait",
+                "6 baris per bait",
+                "8 baris per bait"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Gurindam terdiri dari 2 baris per bait dengan rima a-a. Baris pertama sebab, baris kedua akibat/nasihat."
+        },
+        {
+            "id": 61,
+            "pertanyaan": "Kalimat majemuk setara menggunakan konjungsi...",
+            "opsi": [
+                "Ketika, karena",
+                "Dan, tetapi, atau",
+                "Agar, supaya",
+                "Sehingga, maka"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Konjungsi setara: dan (penambahan), tetapi (pertentangan), atau (pemilihan). Yang lain adalah konjungsi bertingkat."
+        },
+        {
+            "id": 62,
+            "pertanyaan": "Kata baku dari 'praktek' adalah...",
+            "opsi": [
+                "Praktek",
+                "Praktik",
+                "Practik",
+                "Prakteq"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Menurut KBBI, kata yang benar adalah 'praktik', bukan 'praktek'. Begitu juga 'praktis' bukan 'praktis'."
+        },
+        {
+            "id": 63,
+            "pertanyaan": "Teks yang berisi langkah-langkah melakukan sesuatu disebut teks...",
+            "opsi": [
+                "Narasi",
+                "Deskripsi",
+                "Prosedur",
+                "Eksposisi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Teks prosedur berisi langkah-langkah atau tahapan untuk melakukan sesuatu secara berurutan."
+        },
+        {
+            "id": 64,
+            "pertanyaan": "Imbuhan 'pe- + tulis' menjadi...",
+            "opsi": [
+                "Petulis",
+                "Penulis",
+                "Pertulis",
+                "Penetulis"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Prefiks 'pe-' + 'tulis' = 'penulis' (orang yang menulis). Huruf 't' luluh menjadi 'n'."
+        },
+        {
+            "id": 65,
+            "pertanyaan": "Paragraf yang berisi fakta dan data disebut paragraf...",
+            "opsi": [
+                "Paragraf opini",
+                "Paragraf argumentasi",
+                "Paragraf eksposisi",
+                "Paragraf narasi"
+            ],
+            "jawaban": 2,
+            "penjelasan": "Paragraf eksposisi memaparkan fakta dan data untuk menambah pengetahuan pembaca."
+        },
+        {
+            "id": 66,
+            "pertanyaan": "Majas 'ia menjadi anak emas di kelasnya' mengandung makna...",
+            "opsi": [
+                "Anak yang berwarna emas",
+                "Anak kesayangan guru",
+                "Anak yang kaya",
+                "Anak yang memakai emas"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Anak emas' adalah ungkapan/idiom yang bermakna anak kesayangan atau orang yang mendapat perlakuan istimewa."
+        },
+        {
+            "id": 67,
+            "pertanyaan": "Kata 'di-' yang ditulis serangkai berfungsi sebagai...",
+            "opsi": [
+                "Kata depan",
+                "Awalan/prefiks",
+                "Akhiran",
+                "Konjungsi"
+            ],
+            "jawaban": 1,
+            "penjelasan": "'Di-' sebagai prefiks ditulis serangkai (dimakan, dibaca) dan membentuk kalimat pasif."
+        },
+        {
+            "id": 68,
+            "pertanyaan": "Kata sapaan yang tepat dalam surat resmi adalah...",
+            "opsi": [
+                "Hai bro",
+                "Yang terhormat (Yth.)",
+                "Hey kawan",
+                "Sobat"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Dalam surat resmi digunakan sapaan 'Yang terhormat (Yth.)' untuk menghormati penerima surat."
+        },
+        {
+            "id": 69,
+            "pertanyaan": "Kalimat yang hanya memiliki satu klausa disebut kalimat...",
+            "opsi": [
+                "Kalimat majemuk",
+                "Kalimat tunggal",
+                "Kalimat kompleks",
+                "Kalimat efektif"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Kalimat tunggal hanya memiliki satu klausa (satu S-P), tanpa anak kalimat."
+        },
+        {
+            "id": 70,
+            "pertanyaan": "Teks editorial/opini di media massa termasuk jenis teks...",
+            "opsi": [
+                "Narasi",
+                "Argumentasi",
+                "Deskripsi",
+                "Prosedur"
+            ],
+            "jawaban": 1,
+            "penjelasan": "Teks editorial berisi pendapat/argumentasi redaksi media terhadap isu tertentu, termasuk teks argumentasi."
         }
     ]
 }

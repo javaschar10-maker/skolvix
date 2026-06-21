@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flappy Owl - Skolvix</title>
+    <link rel="stylesheet" href="style.css?v=2.0">
+    <style>
+        body {
+            background: var(--bg);
+            padding: 16px;
+            overflow: hidden;
+        }
+
+        .game-wrapper {
+            max-width: 440px;
+            margin: 0 auto;
+        }
+
+        .canvas-container {
+            position: relative;
+            width: 100%;
+            aspect-ratio: 4/5;
+            border-radius: var(--radius);
+            overflow: hidden;
+            border: 1px solid var(--card-border);
+            background: var(--bg);
+        }
+
+        #gameCanvas {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+
+        /* ── Overlays ── */
+        .overlay {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(5, 13, 26, 0.85);
+            z-index: 10;
+            padding: 24px;
+        }
+
+        .overlay.hidden {
+            display: none;
+        }
+
+        .overlay-card {
+            text-align: center;
+            max-width: 340px;
+            width: 100%;
+        }
+
+        .overlay-card .game-icon {
+            font-size: 56px;
+            margin-bottom: 12px;
+        }
+
+        .overlay-card h2 {
+            font-family: var(--font-display);
+            font-size: 22px;
+            margin-bottom: 8px;
+        }
+
+        .overlay-card .game-desc {
+            font-size: 13px;
+            color: var(--text-dim);
+            line-height: 1.6;
+            margin-bottom: 16px;
+        }
+
+        .overlay-card .game-desc strong {
+            color: var(--cyan);
+        }
+
+        /* ── In-game HUD ── */
+        .hud {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            padding: 12px 16px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            z-index: 5;
+            pointer-events: none;
+        }
+
+        .hud-item {
+            background: rgba(10, 22, 40, 0.7);
+            backdrop-filter: blur(6px);
+            border: 1px solid var(--card-border);
+            border-radius: 999px;
+            padding: 6px 14px;
+            font-size: 13px;
+            font-weight: 700;
+            font-family: var(--font-display);
+        }
+
+        .hud-item .hud-label {
+            color: var(--text-dim);
+            font-size: 10px;
+            font-weight: 500;
+            margin-right: 4px;
+        }
+
+        .hud-item .hud-val {
+            color: var(--text);
+        }
+
+        .hud-item.energy-hud .hud-val {
+            color: var(--cyan);
+        }
+
+        /* ── Progress bar (bottom of canvas) ── */
+        .progress-bar-bg {
+            position: absolute;
+            bottom: 12px;
+            left: 16px;
+            right: 16px;
+            height: 5px;
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 999px;
+            z-index: 5;
+            pointer-events: none;
+        }
+
+        .progress-bar-fill {
+            height: 100%;
+            border-radius: 999px;
+            background: linear-gradient(90deg, var(--primary), var(--cyan));
+            transition: width 0.2s;
+        }
+
+        /* ── Result screen ── */
+        .result-stats {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-bottom: 16px;
+        }
+
+        .result-stat {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--card-border);
+            border-radius: 10px;
+            padding: 12px 8px;
+        }
+
+        .result-stat .rs-value {
+            font-family: var(--font-display);
+            font-size: 22px;
+            font-weight: 800;
+        }
+
+        .result-stat .rs-value.cyan {
+            color: var(--cyan);
+        }
+
+        .result-stat .rs-value.gold {
+            color: var(--gold);
+        }
+
+        .result-stat .rs-value.green {
+            color: var(--green);
+        }
+
+        .result-stat .rs-value.red {
+            color: var(--red);
+        }
+
+        .result-stat .rs-label {
+            font-size: 11px;
+            color: var(--text-dim);
+            margin-top: 2px;
+        }
+
+        .result-message {
+            font-size: 13px;
+            color: var(--text-dim);
+            margin-bottom: 16px;
+            line-height: 1.5;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 8px;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+
+        .btn-group .btn {
+            flex: 1;
+            min-width: 120px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="game-wrapper">
+        <div class="header" style="margin-bottom:12px;">
+            <div class="logo" style="font-size:18px;">⚡ Skol<span>vix</span></div>
+            <div class="user-stats">
+                <div class="stat-pill koin">🪙 <span id="koinDisplay">0</span></div>
+                <div class="stat-pill energi">⚡ <span id="energiDisplay">25</span>/25</div>
+                <a href="app.html" class="stat-pill"
+                    style="text-decoration:none;color:var(--text-dim);font-size:12px;">← Keluar</a>
+            </div>
+        </div>
+
+        <div class="canvas-container">
+            <canvas id="gameCanvas"></canvas>
+
+            <!-- HUD (in-game) -->
+            <div class="hud" id="hud" style="display:none;">
+                <div class="hud-item"><span class="hud-label">JARAK</span><span class="hud-val" id="hudDist">0m</span>
+                </div>
+                <div class="hud-item energy-hud"><span class="hud-label">⚡</span><span class="hud-val"
+                        id="hudEnergy">0</span></div>
+            </div>
+
+            <!-- Progress bar -->
+            <div class="progress-bar-bg" id="progressBar" style="display:none;">
+                <div class="progress-bar-fill" id="progressFill" style="width:0%"></div>
+            </div>
+
+            <!-- START OVERLAY -->
+            <div class="overlay" id="startOverlay">
+                <div class="overlay-card">
+                    <div class="game-icon">🦉</div>
+                    <h2>Flappy Owl</h2>
+                    <p class="game-desc">
+                        Terbangkan owl melewati gedung-gedung kota!<br>
+                        Tap / klik / spasi untuk <strong>mengepak</strong>.<br>
+                        Kumpulkan <strong>⚡ energi</strong> di antara celah gedung.<br>
+                        <strong>Gratis!</strong> Main sepuasnya untuk dapat energi.
+                    </p>
+                    <button class="btn btn-primary" id="startBtn" style="width:100%;">Mulai Terbang (Gratis)</button>
+                    <p id="noEnergyMsg" style="color:var(--red);font-size:12px;margin-top:8px;display:none;"></p>
+                </div>
+            </div>
+
+            <!-- RESULT OVERLAY -->
+            <div class="overlay hidden" id="resultOverlay">
+                <div class="overlay-card">
+                    <div class="game-icon" id="resultEmoji">🦉</div>
+                    <h2 id="resultTitle">Hasil</h2>
+                    <div class="result-stats">
+                        <div class="result-stat">
+                            <div class="rs-value cyan" id="resDistance">0m</div>
+                            <div class="rs-label">Jarak</div>
+                        </div>
+                        <div class="result-stat">
+                            <div class="rs-value gold" id="resEnergy">0</div>
+                            <div class="rs-label">Energi Dapat</div>
+                        </div>
+                    </div>
+                    <p class="result-message" id="resultMessage"></p>
+                    <div class="btn-group">
+                        <button class="btn btn-secondary" id="retryBtn">Coba Lagi</button>
+                        <button class="btn btn-secondary" id="backBtn">Dashboard</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="supabase-config.js"></script>
+    <script src="flappyowl.js"></script>
+</body>
+
+</html>

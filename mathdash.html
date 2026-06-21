@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math Dash - Skolvix</title>
+    <link rel="stylesheet" href="style.css?v=2.0">
+    <style>
+        body {
+            background: var(--bg);
+            padding: 16px;
+        }
+
+        .dash-container {
+            max-width: 520px;
+            margin: 0 auto;
+        }
+
+        /* Start Screen */
+        .start-card {
+            text-align: center;
+            padding: 40px 24px;
+        }
+
+        .start-card .game-icon {
+            font-size: 64px;
+            margin-bottom: 16px;
+        }
+
+        .start-card h2 {
+            font-family: var(--font-display);
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
+
+        .start-card .game-desc {
+            font-size: 14px;
+            color: var(--text-dim);
+            line-height: 1.6;
+            margin-bottom: 24px;
+        }
+
+        .start-card .game-desc strong {
+            color: var(--cyan);
+        }
+
+        /* Game Screen */
+        .game-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 12px;
+        }
+
+        .game-info {
+            font-size: 12px;
+            color: var(--text-dim);
+            font-weight: 600;
+        }
+
+        .game-info .points-display {
+            color: var(--gold);
+            font-size: 14px;
+        }
+
+        /* Timer */
+        .timer-bar-bg {
+            width: 100%;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 999px;
+            overflow: hidden;
+            margin-bottom: 16px;
+        }
+
+        .timer-bar-fill {
+            height: 100%;
+            border-radius: 999px;
+            transition: width 0.1s linear;
+            background: linear-gradient(90deg, var(--green), var(--cyan));
+        }
+
+        .timer-bar-fill.warning {
+            background: linear-gradient(90deg, var(--gold), #ff9800);
+        }
+
+        .timer-bar-fill.danger {
+            background: linear-gradient(90deg, var(--red), #ff6b6b);
+        }
+
+        /* Question */
+        .math-question {
+            font-family: var(--font-display);
+            font-size: 32px;
+            font-weight: 800;
+            text-align: center;
+            padding: 24px 0;
+            color: var(--text);
+            letter-spacing: 1px;
+        }
+
+        /* Options grid */
+        .dash-options {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .dash-option {
+            background: rgba(255, 255, 255, 0.05);
+            border: 2px solid transparent;
+            border-radius: 12px;
+            padding: 18px;
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+            cursor: pointer;
+            color: var(--text);
+            transition: all 0.15s ease;
+            font-family: var(--font-display);
+        }
+
+        .dash-option:hover:not(:disabled) {
+            border-color: var(--primary-light);
+            background: rgba(29, 106, 229, 0.12);
+        }
+
+        .dash-option.correct {
+            border-color: var(--green);
+            background: rgba(0, 229, 160, 0.2);
+        }
+
+        .dash-option.wrong {
+            border-color: var(--red);
+            background: rgba(255, 77, 109, 0.2);
+        }
+
+        .dash-option:disabled {
+            cursor: default;
+            opacity: 0.85;
+        }
+
+        .dash-option.timeout {
+            border-color: var(--gold);
+            background: rgba(245, 200, 66, 0.15);
+        }
+
+        /* Points animation */
+        .points-popup {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-family: var(--font-display);
+            font-size: 36px;
+            font-weight: 800;
+            pointer-events: none;
+            z-index: 999;
+            animation: popUp 0.8s ease-out forwards;
+        }
+
+        .points-popup.positive {
+            color: var(--green);
+        }
+
+        .points-popup.negative {
+            color: var(--red);
+        }
+
+        @keyframes popUp {
+            0% {
+                opacity: 1;
+                transform: translate(-50%, -50%) scale(0.5);
+            }
+
+            50% {
+                transform: translate(-50%, -70%) scale(1.2);
+            }
+
+            100% {
+                opacity: 0;
+                transform: translate(-50%, -100%) scale(1);
+            }
+        }
+
+        /* Result Screen */
+        .result-final {
+            text-align: center;
+            padding: 32px 20px;
+        }
+
+        .result-final .trophy {
+            font-size: 48px;
+            margin-bottom: 8px;
+        }
+
+        .result-final .final-score {
+            font-family: var(--font-display);
+            font-size: 56px;
+            font-weight: 800;
+            color: var(--gold);
+        }
+
+        .result-final .final-label {
+            font-size: 14px;
+            color: var(--text-dim);
+            margin-bottom: 20px;
+        }
+
+        .result-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .result-stat {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--card-border);
+            border-radius: 10px;
+            padding: 12px 8px;
+            text-align: center;
+        }
+
+        .result-stat .rs-value {
+            font-family: var(--font-display);
+            font-size: 22px;
+            font-weight: 800;
+        }
+
+        .result-stat .rs-value.green {
+            color: var(--green);
+        }
+
+        .result-stat .rs-value.red {
+            color: var(--red);
+        }
+
+        .result-stat .rs-value.gold {
+            color: var(--gold);
+        }
+
+        .result-stat .rs-label {
+            font-size: 11px;
+            color: var(--text-dim);
+            margin-top: 2px;
+        }
+
+        .combo-display {
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--cyan);
+            margin-bottom: 12px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="dash-container">
+        <div class="header">
+            <div class="logo">⚡ Skolvix by javas</div>
+            <div class="user-stats">
+                <div class="stat-pill koin">🪙 <span id="koinDisplay">0</span></div>
+                <div class="stat-pill energi">⚡ <span id="energiDisplay">25</span>/25</div>
+                <a href="app.html" class="stat-pill" style="text-decoration:none;color:var(--text-dim);">← Dashboard</a>
+            </div>
+        </div>
+
+        <!-- START SCREEN -->
+        <div class="card start-card" id="startCard">
+            <div class="game-icon">⚡</div>
+            <h2>Math Dash</h2>
+            <p class="game-desc">
+                Jawab <strong>15 soal hitung cepat</strong> secepat mungkin!<br>
+                Timer 5 detik per soal. Semakin cepat, semakin banyak poin.<br>
+                Benar = <strong>+poin + bonus waktu</strong><br>
+                Salah/waktu habis = <strong>combo reset</strong><br><br>
+                Biaya: <strong>2 Energi</strong> | Hadiah: <strong>Koin IQ</strong>
+            </p>
+            <button class="btn btn-primary" id="startBtn">Mulai Math Dash (2 Energi)</button>
+            <p class="subtitle mt-10" id="noEnergyMsg" style="color:var(--red);"></p>
+        </div>
+
+        <!-- GAME SCREEN -->
+        <div class="card hidden" id="gameCard">
+            <div class="game-header">
+                <div class="game-info">Soal <span id="soalNum">1</span>/<span id="totalSoal">15</span></div>
+                <div class="combo-display" id="comboDisplay"></div>
+                <div class="game-info points-display">⭐ <span id="pointsDisplay">0</span></div>
+            </div>
+            <div class="timer-bar-bg">
+                <div class="timer-bar-fill" id="timerBar" style="width:100%;"></div>
+            </div>
+            <div class="math-question" id="question">...</div>
+            <div class="dash-options" id="options"></div>
+        </div>
+
+        <!-- RESULT SCREEN -->
+        <div class="card hidden" id="resultCard">
+            <div class="result-final">
+                <div class="trophy" id="trophyEmoji">🏆</div>
+                <div class="final-score" id="finalScore">0</div>
+                <div class="final-label">Total Poin</div>
+                <div class="result-stats">
+                    <div class="result-stat">
+                        <div class="rs-value green" id="correctCount">0</div>
+                        <div class="rs-label">Benar</div>
+                    </div>
+                    <div class="result-stat">
+                        <div class="rs-value red" id="wrongCount">0</div>
+                        <div class="rs-label">Salah</div>
+                    </div>
+                    <div class="result-stat">
+                        <div class="rs-value gold" id="koinEarned">0</div>
+                        <div class="rs-label">Koin IQ</div>
+                    </div>
+                </div>
+                <p class="subtitle" id="resultMessage"></p>
+                <button class="btn btn-primary mt-10" id="backBtn">Kembali ke Dashboard</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="supabase-config.js"></script>
+    <script src="mathdash.js"></script>
+</body>
+
+</html>

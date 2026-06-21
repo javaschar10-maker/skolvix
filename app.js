@@ -87,7 +87,7 @@ async function handleLogin() {
     // Buat user baru
     const { data: newUser, error: insertError } = await supabaseClient
       .from("user_progress")
-      .insert([{ username, koin_iq: 0, energi: 5, streak: 0, last_login: new Date().toISOString().slice(0, 10) }])
+      .insert([{ username, koin_iq: 0, energi: 25, streak: 0, last_login: new Date().toISOString().slice(0, 10) }])
       .select()
       .single();
 
@@ -132,7 +132,7 @@ async function checkDailyReset(user) {
   }
 
   // Reset energi setiap hari baru
-  newEnergi = 5;
+  newEnergi = 25;
 
   // Cek bonus energi dari spin wheel di landing page
   const bonusEnergi = parseInt(localStorage.getItem('skolvix_bonus_energi')) || 0;
@@ -270,7 +270,11 @@ async function loadLeaderboard() {
     return;
   }
 
-  container.innerHTML = data.map((u, i) =>
-    `<div>${i + 1}. ${u.username} — 🪙 ${u.koin_iq}</div>`
-  ).join("");
+  const medals = ["\uD83E\uDD47", "\uD83E\uDD48", "\uD83E\uDD49"]; // gold, silver, bronze
+
+  container.innerHTML = data.map((u, i) => {
+    const rank = i < 3 ? medals[i] : `${i + 1}.`;
+    const cls = i < 3 ? ` top-${i + 1}` : "";
+    return `<div class="lb-row${cls}"><span class="lb-rank">${rank}</span><span class="lb-name">${u.username}</span><span class="lb-koin">\uD83E\uDE99 ${u.koin_iq}</span></div>`;
+  }).join("");
 }

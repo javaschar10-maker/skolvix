@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tebak Istilah - Skolvix</title>
+    <link rel="stylesheet" href="style.css?v=2.0">
+    <style>
+        body {
+            background: var(--bg);
+            padding: 16px;
+        }
+
+        .tebak-container {
+            max-width: 520px;
+            margin: 0 auto;
+        }
+
+        .start-card {
+            text-align: center;
+            padding: 40px 24px;
+        }
+
+        .start-card .game-icon {
+            font-size: 64px;
+            margin-bottom: 16px;
+        }
+
+        .start-card h2 {
+            font-family: var(--font-display);
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
+
+        .start-card .game-desc {
+            font-size: 14px;
+            color: var(--text-dim);
+            line-height: 1.6;
+            margin-bottom: 24px;
+        }
+
+        .start-card .game-desc strong {
+            color: var(--cyan);
+        }
+
+        /* Game Screen */
+        .game-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+
+        .game-info {
+            font-size: 12px;
+            color: var(--text-dim);
+            font-weight: 600;
+        }
+
+        .game-info .points-display {
+            color: var(--gold);
+            font-size: 14px;
+        }
+
+        /* Category badge */
+        .category-badge {
+            display: inline-block;
+            font-size: 11px;
+            font-weight: 700;
+            padding: 4px 12px;
+            border-radius: 999px;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .category-badge.ipa {
+            background: rgba(0, 229, 160, 0.15);
+            color: var(--green);
+        }
+
+        .category-badge.ips {
+            background: rgba(245, 200, 66, 0.15);
+            color: var(--gold);
+        }
+
+        .category-badge.bahasa {
+            background: rgba(29, 106, 229, 0.15);
+            color: var(--cyan);
+        }
+
+        .category-badge.umum {
+            background: rgba(168, 85, 247, 0.15);
+            color: #a855f7;
+        }
+
+        /* Definition card */
+        .definition-box {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--card-border);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+
+        .definition-box .def-label {
+            font-size: 11px;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .definition-box .def-text {
+            font-size: 16px;
+            color: var(--text);
+            line-height: 1.6;
+            font-style: italic;
+        }
+
+        /* Options */
+        .tebak-options {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .tebak-option {
+            background: rgba(255, 255, 255, 0.04);
+            border: 2px solid var(--card-border);
+            border-radius: 10px;
+            padding: 14px 16px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            color: var(--text);
+            text-align: left;
+            transition: all 0.15s ease;
+        }
+
+        .tebak-option:hover:not(:disabled) {
+            border-color: var(--primary-light);
+            background: rgba(29, 106, 229, 0.08);
+        }
+
+        .tebak-option.correct {
+            border-color: var(--green);
+            background: rgba(0, 229, 160, 0.15);
+            color: var(--green);
+        }
+
+        .tebak-option.wrong {
+            border-color: var(--red);
+            background: rgba(255, 77, 109, 0.15);
+            color: var(--red);
+        }
+
+        .tebak-option:disabled {
+            cursor: default;
+        }
+
+        /* Feedback */
+        .feedback-text {
+            font-size: 12px;
+            color: var(--text-dim);
+            margin-top: 12px;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 8px;
+            text-align: center;
+            line-height: 1.5;
+        }
+
+        /* Streak display */
+        .streak-bar {
+            display: flex;
+            justify-content: center;
+            gap: 4px;
+            margin-bottom: 12px;
+        }
+
+        .streak-dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .streak-dot.correct {
+            background: var(--green);
+        }
+
+        .streak-dot.wrong {
+            background: var(--red);
+        }
+
+        /* Result */
+        .result-final {
+            text-align: center;
+            padding: 32px 20px;
+        }
+
+        .result-final .trophy {
+            font-size: 48px;
+            margin-bottom: 8px;
+        }
+
+        .result-final .final-score {
+            font-family: var(--font-display);
+            font-size: 48px;
+            font-weight: 800;
+            color: var(--cyan);
+        }
+
+        .result-final .final-label {
+            font-size: 14px;
+            color: var(--text-dim);
+            margin-bottom: 20px;
+        }
+
+        .result-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .result-stat {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--card-border);
+            border-radius: 10px;
+            padding: 12px 8px;
+            text-align: center;
+        }
+
+        .result-stat .rs-value {
+            font-family: var(--font-display);
+            font-size: 22px;
+            font-weight: 800;
+        }
+
+        .result-stat .rs-value.green {
+            color: var(--green);
+        }
+
+        .result-stat .rs-value.red {
+            color: var(--red);
+        }
+
+        .result-stat .rs-value.gold {
+            color: var(--gold);
+        }
+
+        .result-stat .rs-label {
+            font-size: 11px;
+            color: var(--text-dim);
+            margin-top: 2px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="tebak-container">
+        <div class="header">
+            <div class="logo">⚡ Skolvix by javas</div>
+            <div class="user-stats">
+                <div class="stat-pill koin">🪙 <span id="koinDisplay">0</span></div>
+                <div class="stat-pill energi">⚡ <span id="energiDisplay">25</span>/25</div>
+                <a href="app.html" class="stat-pill" style="text-decoration:none;color:var(--text-dim);">← Dashboard</a>
+            </div>
+        </div>
+
+        <!-- START SCREEN -->
+        <div class="card start-card" id="startCard">
+            <div class="game-icon">🧩</div>
+            <h2>Tebak Istilah</h2>
+            <p class="game-desc">
+                Baca definisinya, tebak istilah yang tepat!<br>
+                Soal dari <strong>IPA, IPS, Bahasa, dan Umum</strong>.<br>
+                10 soal per ronde, <strong>tanpa timer</strong>.<br><br>
+                Biaya: <strong>1 Energi</strong> | Hadiah: <strong>Koin IQ</strong>
+            </p>
+            <button class="btn btn-primary" id="startBtn">Mulai Tebak Istilah (1 Energi)</button>
+            <p class="subtitle mt-10" id="noEnergyMsg" style="color:var(--red);"></p>
+        </div>
+
+        <!-- GAME SCREEN -->
+        <div class="card hidden" id="gameCard">
+            <div class="game-header">
+                <div class="game-info">Soal <span id="soalNum">1</span>/<span id="totalSoal">10</span></div>
+                <div class="game-info points-display">⭐ <span id="pointsDisplay">0</span></div>
+            </div>
+            <div class="streak-bar" id="streakBar"></div>
+            <div class="definition-box">
+                <span class="category-badge" id="categoryBadge">IPA</span>
+                <div class="def-label">Definisi:</div>
+                <div class="def-text" id="defText">...</div>
+            </div>
+            <div class="tebak-options" id="options"></div>
+            <div class="feedback-text hidden" id="feedbackText"></div>
+        </div>
+
+        <!-- RESULT SCREEN -->
+        <div class="card hidden" id="resultCard">
+            <div class="result-final">
+                <div class="trophy" id="trophyEmoji">🧠</div>
+                <div class="final-score" id="finalScore">0/10</div>
+                <div class="final-label">Jawaban Benar</div>
+                <div class="result-stats">
+                    <div class="result-stat">
+                        <div class="rs-value green" id="correctCount">0</div>
+                        <div class="rs-label">Benar</div>
+                    </div>
+                    <div class="result-stat">
+                        <div class="rs-value red" id="wrongCount">0</div>
+                        <div class="rs-label">Salah</div>
+                    </div>
+                    <div class="result-stat">
+                        <div class="rs-value gold" id="koinEarned">0</div>
+                        <div class="rs-label">Koin IQ</div>
+                    </div>
+                </div>
+                <p class="subtitle" id="resultMessage"></p>
+                <button class="btn btn-primary mt-10" id="backBtn">Kembali ke Dashboard</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="supabase-config.js"></script>
+    <script src="tebakistilah.js"></script>
+</body>
+
+</html>
