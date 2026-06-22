@@ -9,19 +9,29 @@
     <style>
         body {
             background: var(--bg);
-            padding: 16px;
+            padding: 0;
+            margin: 0;
             overflow: hidden;
+            height: 100vh;
+            height: 100dvh;
+            /* dynamic viewport for mobile browsers */
         }
 
         .game-wrapper {
             max-width: 440px;
             margin: 0 auto;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            padding: 8px;
+            box-sizing: border-box;
         }
 
         .canvas-container {
             position: relative;
             width: 100%;
-            aspect-ratio: 4/5;
+            flex: 1;
+            min-height: 0;
             border-radius: var(--radius);
             overflow: hidden;
             border: 1px solid var(--card-border);
@@ -204,7 +214,7 @@
 
 <body>
     <div class="game-wrapper">
-        <div class="header" style="margin-bottom:12px;">
+        <div class="header" style="margin-bottom:8px;flex-shrink:0;">
             <div class="logo" style="font-size:18px;">⚡ Skol<span>vix</span></div>
             <div class="user-stats">
                 <div class="stat-pill koin">🪙 <span id="koinDisplay">0</span></div>
