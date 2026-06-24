@@ -181,6 +181,7 @@ function showDashboard() {
 
   renderBadges();
   renderPersonaSelector();
+  showWelcomeMessage();
   loadLeaderboard();
 }
 
@@ -216,6 +217,29 @@ function renderPersonaSelector() {
     }
 
     container.appendChild(card);
+  });
+}
+
+function showWelcomeMessage() {
+  const personaKey = localStorage.getItem("skolvix_persona") || "kakAlex";
+  const username = currentUser.username || "Kamu";
+  const displayName = username.charAt(0).toUpperCase() + username.slice(1);
+  const welcome = getWelcomeMessage(personaKey, displayName);
+
+  document.getElementById("welcomeEmoji").textContent = welcome.emoji;
+  document.getElementById("welcomeName").textContent = welcome.nama;
+  document.getElementById("welcomeMsg").textContent = welcome.pesan;
+
+  // Show popup
+  const overlay = document.getElementById("welcomeOverlay");
+  overlay.classList.remove("hidden");
+
+  // Close handlers
+  const closePopup = () => overlay.classList.add("hidden");
+  document.getElementById("welcomeCloseBtn").addEventListener("click", closePopup);
+  document.getElementById("welcomeOkBtn").addEventListener("click", closePopup);
+  overlay.addEventListener("click", (e) => {
+    if (e.target === overlay) closePopup();
   });
 }
 

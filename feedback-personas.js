@@ -175,3 +175,100 @@ function getFeedback(personaKey, jumlahBenar, namaUser) {
   const template = list[Math.floor(Math.random() * list.length)];
   return `${persona.emoji} ${persona.nama}: ${template.replace("{nama}", namaUser)}`;
 }
+
+// ─────────────────────────────────────────────
+// WELCOME MESSAGES — ucapan selamat datang saat login
+// 10 kalimat per persona, diambil acak
+// ─────────────────────────────────────────────
+
+const WELCOME_MESSAGES = {
+  kakAlex: [
+    "Selamat datang kembali, {nama}. Mari lanjutkan progres belajarmu hari ini.",
+    "{nama}, satu sesi belajar hari ini lebih baik daripada menunda sampai besok.",
+    "Setiap materi yang kamu selesaikan hari ini akan mengurangi bebanmu di masa depan.",
+    "Selamat datang, {nama}. Apa target belajarmu hari ini?",
+    "Konsistensi kecil yang dilakukan berulang akan menghasilkan perubahan besar, {nama}.",
+    "Mari fokus pada satu langkah berikutnya, {nama}. Tidak perlu memikirkan semuanya sekaligus.",
+    "{nama}, progres yang lambat tetap lebih baik daripada tidak bergerak sama sekali.",
+    "Data menunjukkan bahwa belajar rutin jauh lebih efektif daripada belajar mendadak, {nama}.",
+    "Selamat datang kembali. Mari tingkatkan pemahamanmu sedikit demi sedikit.",
+    "{nama}, setiap hari adalah kesempatan untuk memperkuat apa yang sudah kamu pelajari."
+  ],
+  kakTara: [
+    "WOIII {nama}!! Senang banget lihat kamu balik lagi!! 🔥",
+    "GASS BELAJAR LAGI YUKK {nama}!! 🚀",
+    "Mantap!! Kamu datang lagi hari ini, {nama}!! 💪",
+    "Sedikit demi sedikit tetap kemajuan, {nama}!! Jangan berhenti!!",
+    "Aku suka semangatmu, {nama}!! Yuk lanjut!!",
+    "Hari ini kesempatan baru buat naik level, {nama}!!",
+    "Jangan kasih kendor semangatmu ya, {nama}!! 🔥",
+    "Belajar hari ini = hadiah untuk dirimu di masa depan, {nama}!!",
+    "Keren!! Kamu masih konsisten datang ke sini, {nama}!!",
+    "OKEEEE {nama}!! Saatnya tambah ilmu lagi hari ini!!"
+  ],
+  ibuDian: [
+    "Selamat datang kembali ya, {nama}. Semoga harimu menyenangkan.",
+    "Senang sekali melihatmu datang lagi hari ini, {nama}.",
+    "Tidak perlu terburu-buru, {nama}. Belajar pelan-pelan juga tidak apa-apa.",
+    "Semoga hari ini ada satu hal baru yang bisa kamu pelajari, {nama}.",
+    "Ibu senang kamu masih meluangkan waktu untuk belajar hari ini.",
+    "Apa pun hasilmu nanti, yang penting kamu terus berusaha ya, {nama}.",
+    "Mari belajar dengan tenang hari ini, {nama}.",
+    "Sedikit kemajuan tetaplah kemajuan, {nama}.",
+    "Ibu percaya kamu bisa memahami materi yang sedang kamu pelajari.",
+    "Selamat datang kembali, {nama}. Yuk lanjutkan perjalanan belajarmu."
+  ],
+  kakRey: [
+    "Oh, kamu datang lagi, {nama}? Ya sudah, ayo belajar.",
+    "Hmph. Aku kira kamu bakal bolos hari ini.",
+    "Jangan salah paham ya, {nama}. Aku cuma kebetulan ada di sini.",
+    "Ya lumayanlah. Setidaknya kamu masih membuka Skolvix.",
+    "Cepat mulai belajar sana, {nama}. Jangan cuma lihat-lihat doang.",
+    "Aku nggak bilang aku senang lihat kamu datang lagi ya... tapi ya, lumayan.",
+    "Hmph. Kalau sudah datang, sekalian belajar yang serius ya, {nama}.",
+    "Jangan bikin aku kecewa hari ini, {nama}. Bukan karena aku peduli atau apa.",
+    "Yaudah, ayo mulai. Kebanyakan mikir malah nggak jadi belajar.",
+    "Aku penasaran sih sejauh apa kamu bisa berkembang hari ini... eh, lupakan."
+  ],
+  kakSaga: [
+    "Selamat datang kembali, {nama}. Hari ini adalah kesempatan baru untuk bertumbuh.",
+    "Pengetahuan tidak datang sekaligus, {nama}. Ia datang melalui langkah kecil yang konsisten.",
+    "Bahkan satu konsep yang dipahami hari ini dapat mengubah masa depanmu.",
+    "Jangan fokus pada seberapa jauh tujuanmu. Fokuslah pada langkah berikutnya.",
+    "Setiap kali kamu kembali belajar, kamu sedang berinvestasi pada dirimu sendiri.",
+    "Kesabaran dan disiplin selalu berjalan beriringan, {nama}.",
+    "Tidak ada usaha yang benar-benar sia-sia jika ia membuatmu berkembang.",
+    "Apa yang kamu pelajari hari ini mungkin menjadi solusi bagi dirimu di masa depan.",
+    "Teruslah bergerak maju, walaupun perlahan.",
+    "Selamat datang kembali, {nama}. Mari lanjutkan perjalanan ini dengan tenang."
+  ],
+  kakVictor: [
+    "Kamu kembali lagi, {nama}. Bagus. Banyak orang sudah menyerah sebelum sampai sejauh ini.",
+    "Masa depanmu dibentuk oleh apa yang kamu lakukan hari ini, bukan besok.",
+    "Selamat datang kembali. Jangan sia-siakan kesempatan untuk berkembang.",
+    "Aku harap kamu datang bukan sekadar login, tapi untuk menjadi lebih baik.",
+    "Kemajuan kecil hari ini lebih berharga daripada rencana besar yang tidak pernah dimulai.",
+    "Orang yang konsisten selalu mengalahkan orang yang hanya bersemangat sesaat.",
+    "Jangan fokus pada alasan. Fokus pada hasil yang ingin kamu capai.",
+    "Kesempatan belajar hari ini tidak akan kembali besok, {nama}.",
+    "Banyak orang ingin berhasil. Sedikit yang mau bekerja untuk itu.",
+    "Pilihan kecil hari ini menentukan apakah kamu akan bangga atau menyesal di masa depan."
+  ]
+};
+
+/**
+ * Ambil ucapan selamat datang random dari persona yang dipilih user.
+ * @param {string} personaKey - key persona (kakAlex, kakTara, ibuDian, kakRey, kakSaga, kakVictor)
+ * @param {string} namaUser
+ * @returns {{ emoji: string, nama: string, pesan: string }}
+ */
+function getWelcomeMessage(personaKey, namaUser) {
+  const persona = FEEDBACK_TEMPLATES[personaKey] || FEEDBACK_TEMPLATES.kakAlex;
+  const messages = WELCOME_MESSAGES[personaKey] || WELCOME_MESSAGES.kakAlex;
+  const template = messages[Math.floor(Math.random() * messages.length)];
+  return {
+    emoji: persona.emoji,
+    nama: persona.nama,
+    pesan: template.replace("{nama}", namaUser)
+  };
+}
