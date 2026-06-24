@@ -221,6 +221,9 @@ function renderPersonaSelector() {
 }
 
 function showWelcomeMessage() {
+  // Only show once per session (not on every dashboard visit)
+  if (sessionStorage.getItem("welcomeShown") === "true") return;
+
   const personaKey = localStorage.getItem("skolvix_persona") || "kakAlex";
   const username = currentUser.username || "Kamu";
   const displayName = username.charAt(0).toUpperCase() + username.slice(1);
@@ -233,6 +236,9 @@ function showWelcomeMessage() {
   // Show popup
   const overlay = document.getElementById("welcomeOverlay");
   overlay.classList.remove("hidden");
+
+  // Mark as shown for this session
+  sessionStorage.setItem("welcomeShown", "true");
 
   // Close handlers
   const closePopup = () => overlay.classList.add("hidden");
