@@ -6,137 +6,1000 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Skolvix</title>
     <link rel="stylesheet" href="style.css?v=2.0">
+    <style>
+        /* ═══════════════════════════════════════════════════
+           FUTURISTIC DASHBOARD LAYOUT — Skolvix Web-App
+           ═══════════════════════════════════════════════════ */
+
+        /* ─── TOPBAR ─── */
+        .topbar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 200;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+            background: rgba(5, 13, 26, 0.88);
+            backdrop-filter: blur(24px) saturate(1.4);
+            -webkit-backdrop-filter: blur(24px) saturate(1.4);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+        }
+
+        .topbar-logo {
+            font-family: var(--font-display);
+            font-size: 20px;
+            font-weight: 700;
+            background: linear-gradient(135deg, var(--primary-light), var(--cyan));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: -0.5px;
+            flex-shrink: 0;
+        }
+
+        .topbar-search {
+            flex: 1;
+            max-width: 320px;
+            margin: 0 20px;
+            position: relative;
+        }
+
+        .topbar-search input {
+            width: 100%;
+            padding: 9px 16px 9px 38px;
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            background: rgba(255, 255, 255, 0.04);
+            color: var(--text);
+            font-size: 13px;
+            font-family: var(--font-body);
+            outline: none;
+            transition: border-color 0.25s ease, box-shadow 0.25s ease;
+        }
+
+        .topbar-search input::placeholder {
+            color: var(--text-dim);
+        }
+
+        .topbar-search input:focus {
+            border-color: rgba(0, 212, 255, 0.35);
+            box-shadow: 0 0 0 3px rgba(0, 212, 255, 0.08);
+        }
+
+        .topbar-search::before {
+            content: '🔍';
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 13px;
+            pointer-events: none;
+            opacity: 0.5;
+        }
+
+        .topbar-stats {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            flex-shrink: 0;
+        }
+
+        .topbar-stat {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 999px;
+            padding: 5px 12px;
+            font-size: 12px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: border-color 0.2s ease;
+        }
+
+        .topbar-stat:hover {
+            border-color: rgba(255, 255, 255, 0.15);
+        }
+
+        .topbar-stat.koin {
+            color: var(--gold);
+        }
+
+        .topbar-stat.energi {
+            color: var(--green);
+        }
+
+        /* ─── SIDEBAR (Desktop) ─── */
+        .sidebar-nav {
+            position: fixed;
+            top: 60px;
+            left: 0;
+            bottom: 0;
+            width: 220px;
+            z-index: 150;
+            background: rgba(5, 13, 26, 0.92);
+            backdrop-filter: blur(24px) saturate(1.4);
+            -webkit-backdrop-filter: blur(24px) saturate(1.4);
+            border-right: 1px solid rgba(255, 255, 255, 0.06);
+            display: none;
+            flex-direction: column;
+            padding: 24px 12px;
+            overflow-y: auto;
+        }
+
+        .sidebar-nav-label {
+            font-size: 10px;
+            font-weight: 700;
+            letter-spacing: 0.12em;
+            text-transform: uppercase;
+            color: var(--text-dim);
+            padding: 0 12px;
+            margin-bottom: 12px;
+        }
+
+        .sidebar-nav-items {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .sidebar-btn {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px 14px;
+            border-radius: 12px;
+            border: none;
+            background: transparent;
+            color: rgba(255, 255, 255, 0.5);
+            font-size: 14px;
+            font-weight: 500;
+            font-family: var(--font-body);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-align: left;
+            width: 100%;
+            position: relative;
+        }
+
+        .sidebar-btn:hover {
+            background: rgba(255, 255, 255, 0.04);
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        .sidebar-btn.active {
+            background: rgba(29, 106, 229, 0.12);
+            color: var(--cyan);
+        }
+
+        .sidebar-btn.active::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 8px;
+            bottom: 8px;
+            width: 3px;
+            border-radius: 0 4px 4px 0;
+            background: var(--cyan);
+        }
+
+        .sidebar-btn-icon {
+            font-size: 18px;
+            width: 24px;
+            text-align: center;
+            flex-shrink: 0;
+        }
+
+        .sidebar-spacer {
+            flex: 1;
+        }
+
+        .sidebar-logout {
+            margin-top: auto;
+            padding-top: 16px;
+            border-top: 1px solid rgba(255, 255, 255, 0.06);
+        }
+
+        .sidebar-logout .sidebar-btn {
+            color: rgba(255, 77, 109, 0.6);
+        }
+
+        .sidebar-logout .sidebar-btn:hover {
+            background: rgba(255, 77, 109, 0.08);
+            color: var(--red);
+        }
+
+        /* ─── BOTTOM NAV (Mobile) ─── */
+        .bottom-nav {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            z-index: 200;
+            height: 64px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            background: rgba(5, 13, 26, 0.94);
+            backdrop-filter: blur(24px) saturate(1.4);
+            -webkit-backdrop-filter: blur(24px) saturate(1.4);
+            border-top: 1px solid rgba(255, 255, 255, 0.06);
+            padding: 0 8px;
+            padding-bottom: env(safe-area-inset-bottom, 0);
+        }
+
+        .bottom-nav-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 3px;
+            padding: 8px 12px;
+            border: none;
+            background: transparent;
+            color: rgba(255, 255, 255, 0.35);
+            font-size: 10px;
+            font-weight: 600;
+            font-family: var(--font-body);
+            cursor: pointer;
+            transition: color 0.2s ease;
+            position: relative;
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        .bottom-nav-btn.active {
+            color: var(--cyan);
+        }
+
+        .bottom-nav-btn.active::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 20px;
+            height: 2px;
+            border-radius: 0 0 4px 4px;
+            background: var(--cyan);
+            box-shadow: 0 0 8px rgba(0, 212, 255, 0.5);
+        }
+
+        .bottom-nav-icon {
+            font-size: 20px;
+            line-height: 1;
+        }
+
+        /* ─── FAB (Floating Action Button) ─── */
+        .fab-chat {
+            position: fixed;
+            z-index: 180;
+            width: 56px;
+            height: 56px;
+            border-radius: 16px;
+            border: 1px solid rgba(0, 212, 255, 0.25);
+            background: linear-gradient(135deg, rgba(29, 106, 229, 0.8), rgba(0, 212, 255, 0.6));
+            color: white;
+            font-size: 24px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow:
+                0 4px 24px rgba(0, 212, 255, 0.25),
+                0 0 40px rgba(0, 212, 255, 0.08);
+            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            /* Mobile: above bottom-nav */
+            bottom: 80px;
+            right: 16px;
+        }
+
+        .fab-chat:hover {
+            transform: scale(1.08);
+            box-shadow:
+                0 6px 32px rgba(0, 212, 255, 0.35),
+                0 0 60px rgba(0, 212, 255, 0.12);
+        }
+
+        .fab-chat:active {
+            transform: scale(0.95);
+        }
+
+        /* ─── APP SHELL ─── */
+        .app-shell {
+            padding-top: 60px;
+            min-height: 100vh;
+        }
+
+        /* Mobile: padding for bottom nav */
+        .app-shell.has-bottom-nav {
+            padding-bottom: 72px;
+        }
+
+        /* ─── TAB PANELS ─── */
+        .tab-panel {
+            display: none;
+        }
+
+        .tab-panel.active {
+            display: block;
+        }
+
+        /* ─── MAIN CONTENT ─── */
+        .main-content {
+            padding: 20px 16px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        /* ─── WELCOME BANNER ─── */
+        .welcome-banner {
+            background: linear-gradient(135deg, rgba(29, 106, 229, 0.12), rgba(0, 212, 255, 0.06));
+            border: 1px solid rgba(59, 139, 255, 0.15);
+            border-radius: var(--radius);
+            padding: 24px;
+            margin-bottom: 16px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .welcome-banner::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            right: -20%;
+            width: 200px;
+            height: 200px;
+            background: radial-gradient(circle, rgba(0, 212, 255, 0.06), transparent 70%);
+            pointer-events: none;
+        }
+
+        .welcome-banner h2 {
+            font-family: var(--font-display);
+            font-size: 20px;
+            font-weight: 700;
+            margin-bottom: 4px;
+            position: relative;
+        }
+
+        .welcome-banner p {
+            font-size: 13px;
+            color: var(--text-dim);
+            position: relative;
+        }
+
+        /* ─── STREAK CARD ─── */
+        .streak-card {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            padding: 20px;
+        }
+
+        .streak-number {
+            font-family: var(--font-display);
+            font-size: 36px;
+            font-weight: 800;
+            background: linear-gradient(135deg, var(--gold), #ff9500);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            line-height: 1;
+        }
+
+        .streak-info h3 {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 2px;
+        }
+
+        .streak-info p {
+            font-size: 12px;
+            color: var(--text-dim);
+        }
+
+        /* ─── HORIZONTAL CAROUSEL ─── */
+        .carousel-section {
+            margin-bottom: 24px;
+        }
+
+        .carousel-section h2 {
+            font-family: var(--font-display);
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+
+        .carousel-section .subtitle {
+            font-size: 13px;
+            color: var(--text-dim);
+            margin-bottom: 12px;
+        }
+
+        .carousel {
+            display: flex;
+            gap: 12px;
+            overflow-x: auto;
+            padding-bottom: 8px;
+            scroll-snap-type: x mandatory;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .carousel::-webkit-scrollbar {
+            height: 4px;
+        }
+
+        .carousel::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 999px;
+        }
+
+        .carousel::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 999px;
+        }
+
+        .carousel-item {
+            flex-shrink: 0;
+            scroll-snap-align: start;
+        }
+
+        /* ─── SECTION DIVIDER ─── */
+        .section-divider-futuristic {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.06), transparent);
+            margin: 24px 0;
+            border: none;
+        }
+
+        /* ─── QUICK ACTIONS ─── */
+        .quick-actions {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 16px;
+        }
+
+        .quick-action-card {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            padding: 20px 16px;
+        }
+
+        .quick-action-card .qa-icon {
+            font-size: 28px;
+        }
+
+        .quick-action-card h3 {
+            font-size: 14px;
+        }
+
+        .quick-action-card .subtitle {
+            margin-bottom: 8px;
+        }
+
+        /* ─── ARENA TAB SPECIFIC ─── */
+        .arena-section {
+            margin-bottom: 28px;
+        }
+
+        .arena-section h2 {
+            font-family: var(--font-display);
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .arena-section .subtitle {
+            font-size: 13px;
+            color: var(--text-dim);
+            margin-bottom: 14px;
+        }
+
+        .arena-carousel .minigame-card {
+            width: 160px;
+        }
+
+        .arena-carousel .subject-card {
+            width: 150px;
+            flex-shrink: 0;
+        }
+
+        .arena-carousel .persona-select-card {
+            width: 110px;
+            flex-shrink: 0;
+        }
+
+        /* ─── PROFIL TAB ─── */
+        .profil-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 24px;
+            padding: 24px;
+        }
+
+        .profil-avatar {
+            width: 56px;
+            height: 56px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary), var(--cyan));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            font-weight: 700;
+            font-family: var(--font-display);
+            flex-shrink: 0;
+        }
+
+        .profil-info h2 {
+            font-family: var(--font-display);
+            font-size: 18px;
+            font-weight: 700;
+        }
+
+        .profil-info p {
+            font-size: 13px;
+            color: var(--text-dim);
+        }
+
+        .badge-section {
+            margin-bottom: 24px;
+        }
+
+        .badge-section h3 {
+            font-family: var(--font-display);
+            font-size: 15px;
+            font-weight: 700;
+            margin-bottom: 12px;
+        }
+
+        .logout-section {
+            margin-top: 32px;
+        }
+
+        .btn-logout {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            width: 100%;
+            padding: 14px;
+            border: 1px solid rgba(255, 77, 109, 0.2);
+            border-radius: 12px;
+            background: rgba(255, 77, 109, 0.06);
+            color: var(--red);
+            font-size: 14px;
+            font-weight: 600;
+            font-family: var(--font-body);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-decoration: none;
+        }
+
+        .btn-logout:hover {
+            background: rgba(255, 77, 109, 0.12);
+            border-color: rgba(255, 77, 109, 0.35);
+            box-shadow: 0 0 20px rgba(255, 77, 109, 0.08);
+        }
+
+        /* ─── LEADERBOARD SCROLL ─── */
+        #leaderboardList {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        #leaderboardList::-webkit-scrollbar {
+            width: 4px;
+        }
+
+        #leaderboardList::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 999px;
+        }
+
+        #leaderboardList::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 999px;
+        }
+
+        /* ═══════════════════════════════════════════════════
+           DESKTOP LAYOUT (≥768px)
+           ═══════════════════════════════════════════════════ */
+        @media (min-width: 768px) {
+            .topbar {
+                padding: 0 32px;
+                height: 64px;
+            }
+
+            .topbar-logo {
+                font-size: 22px;
+            }
+
+            .topbar-search {
+                max-width: 400px;
+                margin: 0 32px;
+            }
+
+            .topbar-stat {
+                padding: 6px 14px;
+                font-size: 13px;
+            }
+
+            /* Show sidebar */
+            .sidebar-nav {
+                display: flex;
+            }
+
+            /* Hide bottom nav on desktop */
+            .bottom-nav {
+                display: none;
+            }
+
+            /* FAB repositioned for desktop */
+            .fab-chat {
+                bottom: 32px;
+                right: 32px;
+            }
+
+            /* App shell offset for sidebar */
+            .app-shell {
+                padding-top: 64px;
+                padding-left: 220px;
+                padding-bottom: 0;
+            }
+
+            .app-shell.has-bottom-nav {
+                padding-bottom: 0;
+            }
+
+            .main-content {
+                padding: 32px 40px;
+                max-width: 960px;
+                margin: 0;
+            }
+
+            /* Welcome banner bigger */
+            .welcome-banner {
+                padding: 32px;
+            }
+
+            .welcome-banner h2 {
+                font-size: 24px;
+            }
+
+            /* Quick actions 2x2 */
+            .quick-actions {
+                gap: 16px;
+            }
+
+            .quick-action-card {
+                padding: 24px 20px;
+            }
+
+            /* Cards get neon hover */
+            .card:hover {
+                box-shadow: 0 0 24px rgba(0, 212, 255, 0.06);
+                border-color: rgba(59, 139, 255, 0.2);
+            }
+
+            /* Subject cards in grid on desktop */
+            .arena-carousel .subject-card {
+                width: auto;
+            }
+
+            .arena-carousel.carousel {
+                display: grid;
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                gap: 12px;
+                overflow: visible;
+            }
+
+            .arena-carousel .minigame-card {
+                width: auto;
+            }
+
+            .arena-carousel .persona-select-card {
+                width: auto;
+            }
+
+            /* Profil header */
+            .profil-header {
+                padding: 32px;
+            }
+
+            .profil-avatar {
+                width: 64px;
+                height: 64px;
+                font-size: 28px;
+            }
+
+            /* Leaderboard */
+            #leaderboardList {
+                max-height: 500px;
+            }
+        }
+
+        /* ═══════════════════════════════════════════════════
+           LARGE DESKTOP (≥1200px)
+           ═══════════════════════════════════════════════════ */
+        @media (min-width: 1200px) {
+            .main-content {
+                max-width: 1080px;
+                padding: 40px 48px;
+            }
+
+            .topbar-search {
+                max-width: 480px;
+            }
+        }
+
+        /* ═══════════════════════════════════════════════════
+           SMALL MOBILE (≤380px)
+           ═══════════════════════════════════════════════════ */
+        @media (max-width: 380px) {
+            .topbar {
+                padding: 0 12px;
+            }
+
+            .topbar-search {
+                display: none;
+            }
+
+            .topbar-stat {
+                padding: 4px 8px;
+                font-size: 11px;
+            }
+
+            .main-content {
+                padding: 16px 12px;
+            }
+
+            .welcome-banner {
+                padding: 18px;
+            }
+
+            .welcome-banner h2 {
+                font-size: 17px;
+            }
+        }
+    </style>
 </head>
 
 <body>
-    <div class="container">
 
-        <!-- HEADER -->
-        <div class="header">
-            <div class="logo">⚡ Skol<span>vix</span> by javas</div>
-            <div class="user-stats">
-                <div class="stat-pill koin">🪙 <span id="koinDisplay">0</span></div>
-                <div class="stat-pill energi">⚡ <span id="energiDisplay">25</span>/25</div>
-                <a href="index.html" class="stat-pill" style="text-decoration:none;color:var(--text-dim);"
-                    https:>Keluar</a>
-            </div>
+    <!-- ═══ TOPBAR ═══ -->
+    <header class="topbar">
+        <div class="topbar-logo">⚡ Skol<span>vix</span></div>
+        <div class="topbar-search">
+            <input type="text" placeholder="Cari teman, grup belajar...">
         </div>
-
-        <!-- LOGIN (username sederhana, tanpa password untuk MVP) -->
-        <div class="card" id="loginCard">
-            <h2>Masuk dengan Nama</h2>
-            <p class="subtitle">MVP ini pakai nama unik saja (tanpa password) untuk simpel. Nanti bisa diupgrade ke
-                login Google.</p>
-            <input type="text" id="usernameInput" placeholder="Contoh: SENKU"
-                style="width:100%;padding:12px;border-radius:10px;border:none;background:#2d3748;color:#fff;margin-bottom:10px;font-size:14px;">
-            <button class="btn btn-primary" id="loginBtn">Masuk / Daftar</button>
+        <div class="topbar-stats">
+            <div class="topbar-stat koin">🪙 <span id="koinDisplay">0</span></div>
+            <div class="topbar-stat energi">⚡ <span id="energiDisplay">25</span>/25</div>
         </div>
+    </header>
 
-        <!-- DASHBOARD (muncul setelah login) -->
-        <div id="dashboard" class="hidden">
+    <!-- ═══ SIDEBAR (Desktop) ═══ -->
+    <nav class="sidebar-nav">
+        <div class="sidebar-nav-label">Menu</div>
+        <div class="sidebar-nav-items">
+            <button class="sidebar-btn active" data-tab="beranda">
+                <span class="sidebar-btn-icon">🏠</span>
+                <span>Beranda</span>
+            </button>
+            <button class="sidebar-btn" data-tab="arena">
+                <span class="sidebar-btn-icon">⚔️</span>
+                <span>Arena</span>
+            </button>
+            <button class="sidebar-btn" data-tab="komunitas">
+                <span class="sidebar-btn-icon">🏆</span>
+                <span>Komunitas</span>
+            </button>
+            <button class="sidebar-btn" data-tab="profil">
+                <span class="sidebar-btn-icon">👤</span>
+                <span>Profil</span>
+            </button>
+        </div>
+        <div class="sidebar-spacer"></div>
+        <div class="sidebar-logout">
+            <a href="index.html" class="sidebar-btn" style="text-decoration:none;">
+                <span class="sidebar-btn-icon">🚪</span>
+                <span>Keluar</span>
+            </a>
+        </div>
+    </nav>
 
-            <div class="card">
-                <h2>Halo, <span id="namaUserDisplay"></span> 👋</h2>
-                <p class="subtitle">Streak harian: <span id="streakDisplay">0</span> hari 🔥</p>
+    <!-- ═══ BOTTOM NAV (Mobile) ═══ -->
+    <nav class="bottom-nav">
+        <button class="bottom-nav-btn active" data-tab="beranda">
+            <span class="bottom-nav-icon">🏠</span>
+            <span>Beranda</span>
+        </button>
+        <button class="bottom-nav-btn" data-tab="arena">
+            <span class="bottom-nav-icon">⚔️</span>
+            <span>Arena</span>
+        </button>
+        <button class="bottom-nav-btn" data-tab="komunitas">
+            <span class="bottom-nav-icon">🏆</span>
+            <span>Komunitas</span>
+        </button>
+        <button class="bottom-nav-btn" data-tab="profil">
+            <span class="bottom-nav-icon">👤</span>
+            <span>Profil</span>
+        </button>
+    </nav>
+
+    <!-- ═══ FAB: Chat AI ═══ -->
+    <button class="fab-chat" title="Chat AI">💬</button>
+
+    <!-- ═══ APP SHELL ═══ -->
+    <div class="app-shell has-bottom-nav">
+        <div class="main-content">
+
+            <!-- LOGIN (muncul sebelum login) -->
+            <div class="card" id="loginCard">
+                <h2>Masuk dengan Nama</h2>
+                <p class="subtitle">MVP ini pakai nama unik saja (tanpa password) untuk simpel. Nanti bisa diupgrade ke
+                    login Google.</p>
+                <input type="text" id="usernameInput" placeholder="Contoh: SENKU"
+                    style="width:100%;padding:12px;border-radius:10px;border:none;background:#2d3748;color:#fff;margin-bottom:10px;font-size:14px;">
+                <button class="btn btn-primary" id="loginBtn">Masuk / Daftar</button>
             </div>
 
-            <div class="card">
-                <h2>📚 Ruang Belajar Mandiri</h2>
-                <p class="subtitle">Baca materi resmi dari kurikulum (SIBI/Kemendikbud), gratis tanpa batas energi.</p>
-                <a href="materi/belajar.html" class="btn btn-secondary">Buka Ruang Belajar</a>
-            </div>
+            <!-- ═══ TAB: BERANDA ═══ -->
+            <div class="tab-panel active" id="tab-beranda">
+                <div class="welcome-banner" id="dashboard">
+                    <h2>Halo, <span id="namaUserDisplay"></span> 👋</h2>
+                    <p>Streak harian: <span id="streakDisplay">0</span> hari 🔥</p>
+                </div>
 
-            <div class="card">
-                <h2>📊 Analisis Performa</h2>
-                <p class="subtitle">Lihat grafik perkembangan belajarmu, skor rata-rata, dan rekomendasi belajar.</p>
-                <a href="analytics.html" class="btn btn-secondary">Buka Analisis</a>
-            </div>
+                <div class="quick-actions">
+                    <div class="card quick-action-card">
+                        <div class="qa-icon">📚</div>
+                        <h3>Ruang Belajar Mandiri</h3>
+                        <p class="subtitle">Baca materi resmi dari kurikulum (SIBI/Kemendikbud), gratis tanpa batas
+                            energi.</p>
+                        <a href="materi/belajar.html" class="btn btn-secondary">Buka Ruang Belajar</a>
+                    </div>
+                    <div class="card quick-action-card">
+                        <div class="qa-icon">📊</div>
+                        <h3>Analisis Performa</h3>
+                        <p class="subtitle">Lihat grafik perkembangan belajarmu, skor rata-rata, dan rekomendasi
+                            belajar.</p>
+                        <a href="analytics.html" class="btn btn-secondary">Buka Analisis</a>
+                    </div>
+                </div>
 
-            <div class="card">
-                <h2>🎮 Minigames</h2>
-                <p class="subtitle">Games untuk mengasah kemampuan. Butuh energi, tapi hadiahnya worth it!</p>
-                <div class="minigame-grid">
-                    <a href="mathdash.html" class="minigame-card">
-                        <div class="minigame-emoji">⚡</div>
-                        <div class="minigame-name">Math Dash</div>
-                        <div class="minigame-desc">Hitung cepat 15 soal dalam 5 detik per soal</div>
-                        <div class="minigame-cost">2 Energi</div>
-                    </a>
-                    <a href="tebakistilah.html" class="minigame-card">
-                        <div class="minigame-emoji">🧩</div>
-                        <div class="minigame-name">Tebak Istilah</div>
-                        <div class="minigame-desc">Baca definisi, tebak istilahnya!</div>
-                        <div class="minigame-cost">1 Energi</div>
-                    </a>
-                    <a href="flappyowl.html" class="minigame-card">
-                        <div class="minigame-emoji">🦉</div>
-                        <div class="minigame-name">Flappy Owl</div>
-                        <div class="minigame-desc">Terbang melewati gedung, kumpulkan energi!</div>
-                        <div class="minigame-cost">Gratis ⚡</div>
-                    </a>
+                <div class="card streak-card">
+                    <div class="streak-number" id="streakDisplayBig">0</div>
+                    <div class="streak-info">
+                        <h3>Hari Berturut-turut 🔥</h3>
+                        <p>Terus belajar setiap hari untuk menjaga streak-mu!</p>
+                    </div>
                 </div>
             </div>
 
-            <div class="card">
-                <h2>👨‍🏫 Pilih Guru AI</h2>
-                <p class="subtitle">Guru ini akan memberi feedback setelah kamu menyelesaikan kuis.</p>
-                <div class="persona-select-grid" id="personaSelectGrid">
-                    <!-- diisi oleh JS -->
+            <!-- ═══ TAB: ARENA ═══ -->
+            <div class="tab-panel" id="tab-arena">
+
+                <!-- Pilih Kuis -->
+                <div class="arena-section">
+                    <h2>📚 Pilih Kuis</h2>
+                    <p class="subtitle">Pilih mata pelajaran yang ingin kamu kerjakan.</p>
+                    <div class="carousel arena-carousel" id="subjectGrid">
+                        <button class="subject-card carousel-item" data-subject="matematika"
+                            data-file="soal-matematika-bab1.json">
+                            <div class="subject-emoji">🔢</div>
+                            <div class="subject-name">Matematika</div>
+                            <div class="subject-desc">Bilangan Bulat - Bab 1</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="ipa" data-file="soal-ipa-umum.json">
+                            <div class="subject-emoji">🔬</div>
+                            <div class="subject-name">IPA</div>
+                            <div class="subject-desc">Sains Umum</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="ips" data-file="soal-ips-umum.json">
+                            <div class="subject-emoji">🌍</div>
+                            <div class="subject-name">IPS</div>
+                            <div class="subject-desc">Ilmu Pengetahuan Sosial</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="bahasa-indonesia"
+                            data-file="soal-bahasa-indonesia-umum.json">
+                            <div class="subject-emoji">📖</div>
+                            <div class="subject-name">B. Indonesia</div>
+                            <div class="subject-desc">Umum</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="bahasa-inggris"
+                            data-file="soal-bahasa-inggris-umum.json">
+                            <div class="subject-emoji">🇬🇧</div>
+                            <div class="subject-name">B. Inggris</div>
+                            <div class="subject-desc">General English</div>
+                        </button>
+                    </div>
+                    <button class="btn btn-primary mt-10 hidden" id="startQuizBtn" style="margin-top:16px;">Mulai Kuis
+                        (1 Energi)</button>
+                    <p class="empty-energy-msg hidden" id="noEnergyMsg">
+                        Energi kamu habis. Tunggu reset besok jam 00:00, atau lanjut baca materi (gratis tanpa batas).
+                    </p>
+                </div>
+
+                <hr class="section-divider-futuristic">
+
+                <!-- Minigames -->
+                <div class="arena-section">
+                    <h2>🎮 Minigames</h2>
+                    <p class="subtitle">Games untuk mengasah kemampuan. Butuh energi, tapi hadiahnya worth it!</p>
+                    <div class="carousel arena-carousel">
+                        <a href="mathdash.html" class="minigame-card carousel-item">
+                            <div class="minigame-emoji">⚡</div>
+                            <div class="minigame-name">Math Dash</div>
+                            <div class="minigame-desc">Hitung cepat 15 soal dalam 5 detik per soal</div>
+                            <div class="minigame-cost">2 Energi</div>
+                        </a>
+                        <a href="tebakistilah.html" class="minigame-card carousel-item">
+                            <div class="minigame-emoji">🧩</div>
+                            <div class="minigame-name">Tebak Istilah</div>
+                            <div class="minigame-desc">Baca definisi, tebak istilahnya!</div>
+                            <div class="minigame-cost">1 Energi</div>
+                        </a>
+                        <a href="flappyowl.html" class="minigame-card carousel-item">
+                            <div class="minigame-emoji">🦉</div>
+                            <div class="minigame-name">Flappy Owl</div>
+                            <div class="minigame-desc">Terbang melewati gedung, kumpulkan energi!</div>
+                            <div class="minigame-cost">Gratis ⚡</div>
+                        </a>
+                    </div>
+                </div>
+
+                <hr class="section-divider-futuristic">
+
+                <!-- Pilih Guru AI -->
+                <div class="arena-section">
+                    <h2>👨‍🏫 Pilih Guru AI</h2>
+                    <p class="subtitle">Guru ini akan memberi feedback setelah kamu menyelesaikan kuis.</p>
+                    <div class="carousel arena-carousel" id="personaSelectGrid">
+                        <!-- diisi oleh JS -->
+                    </div>
                 </div>
             </div>
 
-            <div class="card">
-                <h2>📚 Pilih Kuis</h2>
-                <p class="subtitle">Pilih mata pelajaran yang ingin kamu kerjakan.</p>
-                <div class="subject-grid" id="subjectGrid">
-                    <button class="subject-card" data-subject="matematika" data-file="soal-matematika-bab1.json">
-                        <div class="subject-emoji">🔢</div>
-                        <div class="subject-name">Matematika</div>
-                        <div class="subject-desc">Bilangan Bulat - Bab 1</div>
-                    </button>
-                    <button class="subject-card" data-subject="ipa" data-file="soal-ipa-umum.json">
-                        <div class="subject-emoji">🔬</div>
-                        <div class="subject-name">IPA</div>
-                        <div class="subject-desc">Sains Umum</div>
-                    </button>
-                    <button class="subject-card" data-subject="ips" data-file="soal-ips-umum.json">
-                        <div class="subject-emoji">🌍</div>
-                        <div class="subject-name">IPS</div>
-                        <div class="subject-desc">Ilmu Pengetahuan Sosial</div>
-                    </button>
-                    <button class="subject-card" data-subject="bahasa-indonesia"
-                        data-file="soal-bahasa-indonesia-umum.json">
-                        <div class="subject-emoji">📖</div>
-                        <div class="subject-name">Bahasa Indonesia</div>
-                        <div class="subject-desc">Umum</div>
-                    </button>
-                    <button class="subject-card" data-subject="bahasa-inggris"
-                        data-file="soal-bahasa-inggris-umum.json">
-                        <div class="subject-emoji">🇬🇧</div>
-                        <div class="subject-name">Bahasa Inggris</div>
-                        <div class="subject-desc">General English</div>
-                    </button>
-                </div>
-                <button class="btn btn-primary mt-10 hidden" id="startQuizBtn">Mulai Kuis (1 Energi)</button>
-                <p class="empty-energy-msg hidden" id="noEnergyMsg">
-                    Energi kamu habis. Tunggu reset besok jam 00:00, atau lanjut baca materi (gratis tanpa batas).
-                </p>
-            </div>
-
-            <div class="card">
-                <h2>🏆 Badge Kamu</h2>
-                <div class="badge-list" id="badgeList">
-                    <!-- diisi oleh JS -->
+            <!-- ═══ TAB: KOMUNITAS ═══ -->
+            <div class="tab-panel" id="tab-komunitas">
+                <div class="card">
+                    <h2>📊 Leaderboard</h2>
+                    <p class="subtitle">Peringkat terbaik di Skolvix</p>
+                    <div id="leaderboardList">Memuat...</div>
                 </div>
             </div>
 
-            <div class="card">
-                <h2>📊 Leaderboard</h2>
-                <div id="leaderboardList" class="subtitle">Memuat...</div>
+            <!-- ═══ TAB: PROFIL ═══ -->
+            <div class="tab-panel" id="tab-profil">
+                <div class="card profil-header">
+                    <div class="profil-avatar" id="profilAvatar">?</div>
+                    <div class="profil-info">
+                        <h2 id="profilUsername">User</h2>
+                        <p>Pelajar Skolvix</p>
+                    </div>
+                </div>
+
+                <div class="card badge-section">
+                    <h3>🏆 Badge Kamu</h3>
+                    <div class="badge-list" id="badgeList">
+                        <!-- diisi oleh JS -->
+                    </div>
+                </div>
+
+                <div class="logout-section">
+                    <a href="index.html" class="btn-logout">🚪 Keluar</a>
+                </div>
             </div>
 
         </div>
-
     </div>
 
     <!-- WELCOME POPUP -->

@@ -165,10 +165,22 @@ function showDashboard() {
   document.getElementById("loginCard").classList.add("hidden");
   document.getElementById("dashboard").classList.remove("hidden");
 
+  const displayName = currentUser.username.charAt(0).toUpperCase() + currentUser.username.slice(1);
+
   document.getElementById("namaUserDisplay").textContent = currentUser.username;
   document.getElementById("koinDisplay").textContent = currentUser.koin_iq;
   document.getElementById("energiDisplay").textContent = currentUser.energi;
   document.getElementById("streakDisplay").textContent = currentUser.streak;
+
+  // Update new layout elements
+  const streakBig = document.getElementById("streakDisplayBig");
+  if (streakBig) streakBig.textContent = currentUser.streak;
+
+  const profilName = document.getElementById("profilUsername");
+  if (profilName) profilName.textContent = displayName;
+
+  const profilAvatar = document.getElementById("profilAvatar");
+  if (profilAvatar) profilAvatar.textContent = currentUser.username.charAt(0).toUpperCase();
 
   // Tampilkan/sembunyikan tombol kuis berdasarkan energi
   if (currentUser.energi <= 0) {
@@ -308,3 +320,45 @@ async function loadLeaderboard() {
     return `<div class="lb-row${cls}"><span class="lb-rank">${rank}</span><span class="lb-name">${u.username}</span><span class="lb-koin">\uD83E\uDE99 ${u.koin_iq}</span></div>`;
   }).join("");
 }
+
+// ═══════════════════════════════════════════════════
+// TAB SWITCHING — Futuristic Dashboard Navigation
+// ═══════════════════════════════════════════════════
+
+function switchTab(tabName) {
+  // Switch tab panels
+  document.querySelectorAll('.tab-panel').forEach(panel => {
+    panel.classList.remove('active');
+  });
+  const target = document.getElementById('tab-' + tabName);
+  if (target) target.classList.add('active');
+
+  // Sync sidebar buttons
+  document.querySelectorAll('.sidebar-btn[data-tab]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.tab === tabName);
+  });
+
+  // Sync bottom nav buttons
+  document.querySelectorAll('.bottom-nav-btn[data-tab]').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.tab === tabName);
+  });
+
+  // Scroll to top when switching tabs
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// Sidebar navigation click handlers
+document.querySelectorAll('.sidebar-btn[data-tab]').forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+// Bottom navigation click handlers
+document.querySelectorAll('.bottom-nav-btn[data-tab]').forEach(btn => {
+  btn.addEventListener('click', () => switchTab(btn.dataset.tab));
+});
+
+// FAB Chat AI button (placeholder — future feature)
+document.querySelector('.fab-chat')?.addEventListener('click', () => {
+  // Future: open chat AI panel
+  console.log('Chat AI — coming soon!');
+});
