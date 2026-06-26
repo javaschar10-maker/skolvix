@@ -3,6 +3,28 @@ name: redesign-existing-projects
 description: Upgrades existing websites and apps to premium quality. Audits current design, identifies generic AI patterns, and applies high-end design standards without breaking functionality. Works with any CSS framework or vanilla CSS.
 ---
 
+# PONYTAIL MODE — ULTRA TERSE & MAXIMUM TOKEN SAVER
+
+## 🪜 THE PONYTAIL LADDER (Read and check before writing any code):
+Before writing or modifying code, stop at the first rung that holds:
+1. Does this need to exist? → No: skip it (YAGNI - You Aren't Gonna Need It).
+2. Already in this codebase? → Reuse it, do not rewrite.
+3. Stdlib does it? → Use it.
+4. Native platform feature? → Use it (e.g., use native <input> instead of a custom component).
+5. Installed dependency? → Use it.
+6. One line? → Write it in one line.
+7. Only then: write the absolute minimum code that works.
+
+## 🛡️ LAZY BUT NOT NEGLIGENT RULE:
+- Write ONLY what the task strictly needs. 
+- Lower cost, minimal lines, and low latency are the primary goals.
+- NEVER cut trust-boundary validation, error handling, security, or accessibility on the chopping block. The code must end up small because it is necessary, not golfed.
+
+## 📄 OUTPUT ENFORCEMENT:
+- Never rewrite untouched code.
+- Use PARTIAL OUTPUT format. Only output the exact lines or blocks that need to be changed, added, or deleted. 
+- If a task can be solved by deleting code or using native features, do that first.
+
 # Redesign Skill
 
 ## How This Works
@@ -16,9 +38,6 @@ When applied to an existing project, follow this sequence:
 ## Design Audit
 
 ### Typography
-
-Check for these problems and fix them:
-
 - **Browser default fonts or Inter everywhere.** Replace with a font that has character. Good options: `Geist`, `Outfit`, `Cabinet Grotesk`, `Satoshi`. For editorial/creative projects, pair a serif header with a sans-serif body.
 - **Headlines lack presence.** Increase size for display text, tighten letter-spacing, reduce line-height. Headlines should feel heavy and intentional.
 - **Body text too wide.** Limit paragraph width to roughly 65 characters. Increase line-height for readability.
@@ -29,7 +48,6 @@ Check for these problems and fix them:
 - **Orphaned words.** Single words sitting alone on the last line. Fix with `text-wrap: balance` or `text-wrap: pretty`.
 
 ### Color and Surfaces
-
 - **Pure `#000000` background.** Replace with off-black, dark charcoal, or tinted dark (`#0a0a0a`, `#121212`, or a dark navy).
 - **Oversaturated accent colors.** Keep saturation below 80%. Desaturate accents so they blend with neutrals instead of screaming.
 - **More than one accent color.** Pick one. Remove the rest. Consistency beats variety.
@@ -43,7 +61,6 @@ Check for these problems and fix them:
 - **Empty, flat sections with no visual depth.** Sections that are just text on a plain background feel unfinished. Add high-quality background imagery (blurred, overlaid, or masked), subtle patterns, or ambient gradients. Use reliable placeholder sources like `https://picsum.photos/seed/{name}/1920/1080` when real assets are not available. Experiment with background images behind hero sections, feature blocks, or CTAs — even a subtle full-width photo at low opacity adds presence.
 
 ### Layout
-
 - **Everything centered and symmetrical.** Break symmetry with offset margins, mixed aspect ratios, or left-aligned headers over centered content.
 - **Three equal card columns as feature row.** This is the most generic AI layout. Replace with a 2-column zig-zag, asymmetric grid, horizontal scroll, or masonry layout.
 - **Using `height: 100vh` for full-screen sections.** Replace with `min-height: 100dvh` to prevent layout jumping on mobile browsers (iOS Safari viewport bug).
@@ -61,7 +78,6 @@ Check for these problems and fix them:
 - **Mathematical alignment that looks optically wrong.** Centering by the math doesn't always look centered to the eye. Icons next to text, play buttons in circles, or text in buttons often need 1-2px optical adjustments to feel right.
 
 ### Interactivity and States
-
 - **No hover states on buttons.** Add background shift, slight scale, or translate on hover.
 - **No active/pressed feedback.** Add a subtle `scale(0.98)` or `translateY(1px)` on press to simulate a physical click.
 - **Instant transitions with zero duration.** Add smooth transitions (200-300ms) to all interactive elements.
@@ -75,7 +91,6 @@ Check for these problems and fix them:
 - **Animations using `top`, `left`, `width`, `height`.** Switch to `transform` and `opacity` for GPU-accelerated, smooth animation.
 
 ### Content
-
 - **Generic names like "John Doe" or "Jane Smith".** Use diverse, realistic-sounding names.
 - **Fake round numbers like `99.99%`, `50%`, `$100.00`.** Use organic, messy data: `47.2%`, `$99.00`, `+1 (312) 847-1928`.
 - **Placeholder company names like "Acme Corp", "Nexus", "SmartFlow".** Invent contextual, believable brand names.
@@ -89,7 +104,6 @@ Check for these problems and fix them:
 - **Title Case On Every Header.** Use sentence case instead.
 
 ### Component Patterns
-
 - **Generic card look (border + shadow + white background).** Remove the border, or use only background color, or use only spacing. Cards should exist only when elevation communicates hierarchy.
 - **Always one filled button + one ghost button.** Add text links or tertiary styles to reduce visual noise.
 - **Pill-shaped "New" and "Beta" badges.** Try square badges, flags, or plain text labels.
@@ -102,7 +116,6 @@ Check for these problems and fix them:
 - **Footer link farm with 4 columns.** Simplify. Focus on main navigational paths and legally required links.
 
 ### Iconography
-
 - **Lucide or Feather icons exclusively.** These are the "default" AI icon choice. Use Phosphor, Heroicons, or a custom set for differentiation.
 - **Rocketship for "Launch", shield for "Security".** Replace cliche metaphors with less obvious icons (bolt, fingerprint, spark, vault).
 - **Inconsistent stroke widths across icons.** Audit all icons and standardize to one stroke weight.
@@ -110,7 +123,6 @@ Check for these problems and fix them:
 - **Stock "diverse team" photos.** Use real team photos, candid shots, or a consistent illustration style instead of uncanny stock imagery.
 
 ### Code Quality
-
 - **Div soup.** Use semantic HTML: `<nav>`, `<main>`, `<article>`, `<aside>`, `<section>`.
 - **Inline styles mixed with CSS classes.** Move all styling to the project's styling system.
 - **Hardcoded pixel widths.** Use relative units (`%`, `rem`, `em`, `max-width`) for flexible layouts.
@@ -121,7 +133,6 @@ Check for these problems and fix them:
 - **Missing meta tags.** Add proper `<title>`, `description`, `og:image`, and social sharing meta tags.
 
 ### Strategic Omissions (What AI Typically Forgets)
-
 - **No legal links.** Add privacy policy and terms of service links in the footer.
 - **No "back" navigation.** Dead ends in user flows. Every page needs a way back.
 - **No custom 404 page.** Design a helpful, branded "page not found" experience.
