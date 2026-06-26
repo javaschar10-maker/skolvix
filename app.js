@@ -352,6 +352,30 @@ document.querySelectorAll('.sidebar-btn[data-tab]').forEach(btn => {
   btn.addEventListener('click', () => switchTab(btn.dataset.tab));
 });
 
+// ─── Collapsible Sidebar Toggle ───
+(function () {
+  const sidebarNav = document.getElementById('sidebarNav');
+  const sidebarToggle = document.getElementById('sidebarToggle');
+  const appShell = document.querySelector('.app-shell');
+
+  if (sidebarNav && sidebarToggle) {
+    // Restore saved state
+    const isMinimized = localStorage.getItem('skolvix_sidebar_minimized') === 'true';
+    if (isMinimized) {
+      sidebarNav.classList.add('minimized');
+      if (appShell) appShell.classList.add('sidebar-collapsed');
+      sidebarToggle.textContent = '☰';
+    }
+
+    sidebarToggle.addEventListener('click', () => {
+      const nowMinimized = sidebarNav.classList.toggle('minimized');
+      if (appShell) appShell.classList.toggle('sidebar-collapsed', nowMinimized);
+      sidebarToggle.textContent = '☰';
+      localStorage.setItem('skolvix_sidebar_minimized', nowMinimized);
+    });
+  }
+})();
+
 // Bottom navigation click handlers
 document.querySelectorAll('.bottom-nav-btn[data-tab]').forEach(btn => {
   btn.addEventListener('click', () => switchTab(btn.dataset.tab));
