@@ -876,3 +876,106 @@ body {
         pointer-events: auto;
     }
 }
+
+/* ========================================================
+   MANUAL RESET: MENSTERILKAN POP-UP GAME DARI EFEK GLOW
+   ======================================================== */
+
+/* Memaksa kotak game kembali menggunakan border asli tanpa neon */
+.welcome-overlay .welcome-popup {
+    border: 1px solid var(--card-border) !important;
+    /* Balik ke border tipis bawaan */
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6) !important;
+    /* Hapus radiasi lampu cyan */
+    background: var(--card) !important;
+    /* Balik ke warna dasar asli */
+    transform: none !important;
+    /* Mencegah kotak bergeser naik turun */
+}
+
+/* Memastikan saat kursor tidak sengaja menyentuh pop-up, dia tidak ikutan menyala */
+.welcome-overlay .welcome-popup:hover {
+    border-color: var(--card-border) !important;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.6) !important;
+    transform: none !important;
+}
+
+/* ========================================================
+   ULTRA GLOW NEON TEXT (SUPPORT DESKTOP & MOBILE MENU)
+   ======================================================== */
+
+/* Menargetkan tombol aktif di Sidebar (Laptop) DAN Bottom Nav (Mobile) */
+.sidebar-nav .sidebar-btn.active,
+.sidebar-menu .nav-item.active,
+.bottom-nav-btn.active,
+/* <-- Kunci penyelamat versi mobile */
+.mobile-nav-btn.active,
+.nav-btn.active {
+    color: #ffffff !important;
+    font-weight: 700 !important;
+
+    /* Efek radiasi lampu neon 4 lapis */
+    text-shadow:
+        0 0 5px #00d2ff,
+        0 0 15px #00d2ff,
+        0 0 0px #00d2ff,
+        0 0 0px rgba(0, 210, 255, 0.8) !important;
+}
+
+/* Bikin ikon/emoji di sebelahnya ikut glowing tipis di semua perangkat */
+.sidebar-nav .sidebar-btn.active .menu-icon,
+.sidebar-nav .sidebar-btn.active i,
+.bottom-nav-btn.active i,
+.bottom-nav-btn.active .menu-icon {
+    filter: drop-shadow(0 0 8px #00d2ff) brightness(1.2) !important;
+}
+
+/* ========================================================
+   EQUALIZER: MENYAMAKAN TERANG GLOW BERANDA & ARENA
+   ======================================================== */
+
+/* Menargetkan semua kartu di Beranda saat disentuh kursor */
+.card:hover,
+.dashboard-box:hover,
+.ruang-belajar-box:hover {
+    border-color: #00d2ff !important;
+    /* Garis biru muda neon tajam */
+    /* Efek radiasi luar dan dalam disamakan dengan Arena */
+    box-shadow: 0 0 20px rgba(0, 210, 255, 0.25),
+        inset 0 0 10px rgba(0, 210, 255, 0.1) !important;
+    transform: translateY(-1px) !important;
+    /* Efek membal/naik saat disentuh */
+}
+
+/* ========================================================
+   PERMANENT GLOW KHUSUS KOTAK LEADERBOARD (KOMUNITAS)
+   ======================================================== */
+
+/* Otomatis mencari .card yang di dalamnya ada baris ranking (.lb-row) */
+.card:has(.lb-row),
+.leaderboard-container,
+[class*="leaderboard"] {
+    border: 2px solid #00d2ff !important;
+    /* Garis biru muda neon tebal permanen */
+
+    /* Efek radiasi lampu menyala terus menerus tanpa perlu di-hover */
+    box-shadow: 0 0 30px rgba(0, 210, 255, 0.35),
+        inset 0 0 15px rgba(0, 210, 255, 0.15) !important;
+
+    background: rgba(11, 19, 41, 0.7) !important;
+    /* Latar belakang sedikit lebih gelap agar neon memantul */
+    transition: all 0.3s ease;
+}
+
+/* Tambahan: Bikin nomor 1, 2, dan 3 (Top 3) di dalam leaderboard ikut glowing tipis */
+.lb-row.top-1 {
+    box-shadow: 0 0 15px rgba(245, 200, 66, 0.2);
+}
+
+.lb-row.top-2 {
+    box-shadow: 0 0 15px rgba(192, 192, 192, 0.2);
+}
+
+.lb-row.top-3 {
+    box-shadow: 0 0 15px rgba(205, 127, 50, 0.2);
+}
