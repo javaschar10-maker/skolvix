@@ -491,6 +491,7 @@
             grid-template-columns: 1fr 1fr;
             gap: 12px;
             margin-bottom: 16px;
+
         }
 
         .quick-action-card {
@@ -498,6 +499,18 @@
             flex-direction: column;
             gap: 8px;
             padding: 20px 16px;
+        }
+
+        .quick-action-card .btn {
+            margin-top: auto !important;
+            height: 65px !important;
+            display: flex !important;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px !important;
+            line-height: 1.3;
+            padding: 8px !important;
+            text-align: center;
         }
 
         .quick-action-card .qa-icon {
@@ -792,6 +805,7 @@
 
 <body>
 
+
     <!-- ═══ TOPBAR ═══ -->
     <header class="topbar">
         <div class="topbar-logo">⚡ Skol<span>vix</span></div>
@@ -886,15 +900,13 @@
                     <div class="card quick-action-card">
                         <div class="qa-icon">📚</div>
                         <h3>Ruang Belajar Mandiri</h3>
-                        <p class="subtitle">Baca materi resmi dari kurikulum (SIBI/Kemendikbud), gratis tanpa batas
-                            energi.</p>
+                        <p class="subtitle">Baca materi resmi dari kurikulum.</p>
                         <a href="materi/belajar.html" class="btn btn-secondary">Buka Ruang Belajar</a>
                     </div>
                     <div class="card quick-action-card">
                         <div class="qa-icon">📊</div>
                         <h3>Analisis Performa</h3>
-                        <p class="subtitle">Lihat grafik perkembangan belajarmu, skor rata-rata, dan rekomendasi
-                            belajar.</p>
+                        <p class="subtitle">Lihat grafik perkembangan belajarmu.</p>
                         <a href="analytics.html" class="btn btn-secondary">Buka Analisis</a>
                     </div>
                 </div>
@@ -1044,5 +1056,7 @@
     <script src="feedback-personas.js"></script>
     <script src="app.js"></script>
 </body>
+
+
 
 </html>
