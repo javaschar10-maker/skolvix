@@ -362,3 +362,27 @@ document.querySelector('.fab-chat')?.addEventListener('click', () => {
   // Future: open chat AI panel
   console.log('Chat AI — coming soon!');
 });
+
+// Ambil elemen Search Box berdasarkan id yang kita buat tadi
+const searchContainer = document.getElementById('searchContainer');
+const searchIconBtn = document.getElementById('searchIconBtn');
+const searchInput = document.getElementById('searchInput');
+
+// Logika ketika ikon kaca pembesar diklik
+searchIconBtn.addEventListener('click', (e) => {
+  // Hanya berjalan kalau layar berukuran mobile (di bawah atau sama dengan 768px)
+  if (window.innerWidth <= 768) {
+    if (!searchContainer.classList.contains('active')) {
+      e.preventDefault(); // Mencegah reload halaman jika ada form
+      searchContainer.classList.add('active'); // Aktifkan kelas .active di CSS
+      searchInput.focus(); // Otomatis memunculkan keyboard di HP
+    }
+  }
+});
+
+// Otomatis menutup kotak pencarian jika user mengklik di luar area search-box
+document.addEventListener('click', (e) => {
+  if (!searchContainer.contains(e.target)) {
+    searchContainer.classList.remove('active');
+  }
+});

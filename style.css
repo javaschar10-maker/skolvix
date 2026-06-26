@@ -822,3 +822,57 @@ body {
         grid-template-columns: repeat(3, 1fr);
     }
 }
+
+/* === ATURAN KHUSUS LAYAR HP (MOBILE) OPSI A === */
+@media (max-width: 768px) {
+
+    /* Sembunyikan input teks secara default di HP */
+    .search-box input {
+        width: 0;
+        opacity: 0;
+        padding: 0;
+        margin: 0;
+        transition: all 0.3s ease;
+        pointer-events: none;
+        /* Biar tidak bisa diketik pas sembunyi */
+    }
+
+    /* Buat container/kotak pencariannya mengecil seukuran ikon saja */
+    .search-box {
+        background: transparent !important;
+        /* Hilangkan background panjangnya */
+        border: none !important;
+        padding: 8px !important;
+        width: auto !important;
+        cursor: pointer;
+    }
+
+    /* Ikon kaca pembesarnya kita buat sedikit lebih kelihatan/nyaman dikiik */
+    .search-box i {
+        font-size: 20px;
+        color: white;
+    }
+
+    /* KONDISI AKTIF: Saat ikon diklik di HP, kotak pencarian akan meluncur lebar */
+    .search-box.active {
+        position: absolute;
+        left: 15px;
+        right: 15px;
+        background: #0f172a !important;
+        /* Beri warna background solid gelap agar tidak menabrak logo/koin */
+        border: 1px solid rgba(255, 255, 255, 0.2) !important;
+        z-index: 999;
+        border-radius: 20px;
+        padding: 8px 15px !important;
+        display: flex;
+        align-items: center;
+        width: calc(100% - 30px) !important;
+    }
+
+    .search-box.active input {
+        width: 100%;
+        opacity: 1;
+        padding-left: 10px;
+        pointer-events: auto;
+    }
+}

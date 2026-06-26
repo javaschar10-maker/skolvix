@@ -41,45 +41,6 @@
             flex-shrink: 0;
         }
 
-        .topbar-search {
-            flex: 1;
-            max-width: 320px;
-            margin: 0 20px;
-            position: relative;
-        }
-
-        .topbar-search input {
-            width: 100%;
-            padding: 9px 16px 9px 38px;
-            border-radius: 12px;
-            border: 1px solid rgba(255, 255, 255, 0.08);
-            background: rgba(255, 255, 255, 0.04);
-            color: var(--text);
-            font-size: 13px;
-            font-family: var(--font-body);
-            outline: none;
-            transition: border-color 0.25s ease, box-shadow 0.25s ease;
-        }
-
-        .topbar-search input::placeholder {
-            color: var(--text-dim);
-        }
-
-        .topbar-search input:focus {
-            border-color: rgba(0, 212, 255, 0.35);
-            box-shadow: 0 0 0 3px rgba(0, 212, 255, 0.08);
-        }
-
-        .topbar-search::before {
-            content: '🔍';
-            position: absolute;
-            left: 12px;
-            top: 50%;
-            transform: translateY(-50%);
-            font-size: 13px;
-            pointer-events: none;
-            opacity: 0.5;
-        }
 
         .topbar-stats {
             display: flex;
@@ -620,11 +581,6 @@
                 font-size: 22px;
             }
 
-            .topbar-search {
-                max-width: 400px;
-                margin: 0 32px;
-            }
-
             .topbar-stat {
                 padding: 6px 14px;
                 font-size: 13px;
@@ -733,9 +689,6 @@
                 padding: 40px 48px;
             }
 
-            .topbar-search {
-                max-width: 480px;
-            }
         }
 
         /* ═══════════════════════════════════════════════════
@@ -744,10 +697,6 @@
         @media (max-width: 380px) {
             .topbar {
                 padding: 0 12px;
-            }
-
-            .topbar-search {
-                display: none;
             }
 
             .topbar-stat {
@@ -775,12 +724,15 @@
     <!-- ═══ TOPBAR ═══ -->
     <header class="topbar">
         <div class="topbar-logo">⚡ Skol<span>vix</span></div>
-        <div class="topbar-search">
-            <input type="text" placeholder="Cari teman, grup belajar...">
-        </div>
         <div class="topbar-stats">
             <div class="topbar-stat koin">🪙 <span id="koinDisplay">0</span></div>
             <div class="topbar-stat energi">⚡ <span id="energiDisplay">25</span>/25</div>
+        </div>
+        <div class="topbar-profile">
+            <div class="topbar-profile-picture">
+                <img src="https://cdn.skoolvix.com/images/default-avatar.png" alt="Avatar">
+            </div>
+            <div class="topbar-profile-name" id="namaUserDisplay">Nama</div>
         </div>
     </header>
 
