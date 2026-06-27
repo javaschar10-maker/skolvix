@@ -819,6 +819,14 @@
 </head>
 
 <body>
+
+
+    <div id="skolvix-cosmic-bg">
+        <div class="cosmic-glow-3"></div>
+        <div class="cosmic-glow-4"></div>
+    </div>
+
+
     <!-- ⚡ INSTANT SKELETON: Rendered before any CSS/JS loads -->
     <div id="skeleton"
         style="position:fixed;inset:0;z-index:9999;background:#050d1a;display:flex;align-items:center;justify-content:center;transition:opacity 0.3s ease;">
@@ -843,6 +851,18 @@
             100% {
                 transform: translateX(350%)
             }
+        }
+
+        /* 🌟 PREMIUM GLASSMORPHISM EFFECT 🌟
+           Membuat Topbar, Sidebar, dan Mobile Nav menjadi kaca tembus pandang */
+        .topbar,
+        .sidebar-nav,
+        .bottom-nav {
+            background: rgba(4, 8, 20, 0.45) !important;
+            /* Ditipiskan agar aurora tembus pandang */
+            backdrop-filter: blur(25px) saturate(1.5) !important;
+            /* Efek blur kaca super mewah */
+            -webkit-backdrop-filter: blur(25px) saturate(1.5) !important;
         }
     </style>
 
@@ -964,7 +984,8 @@
             <!-- LOGIN (muncul sebelum login) -->
             <div class="card" id="loginCard">
                 <h2>Masuk dengan Nama</h2>
-                <p class="subtitle">MVP ini pakai nama unik saja (tanpa password) untuk simpel. Nanti bisa diupgrade ke
+                <p class="subtitle">MVP ini pakai nama unik saja (tanpa password) untuk simpel. Nanti bisa diupgrade
+                    ke
                     login Google.</p>
                 <input type="text" id="usernameInput" placeholder="Contoh: SENKU"
                     style="width:100%;padding:12px;border-radius:10px;border:none;background:#2d3748;color:#fff;margin-bottom:10px;font-size:14px;">
@@ -1039,10 +1060,12 @@
                             <div class="subject-desc">General English</div>
                         </button>
                     </div>
-                    <button class="btn btn-primary mt-10 hidden" id="startQuizBtn" style="margin-top:16px;">Mulai Kuis
+                    <button class="btn btn-primary mt-10 hidden" id="startQuizBtn" style="margin-top:16px;">Mulai
+                        Kuis
                         (1 Energi)</button>
                     <p class="empty-energy-msg hidden" id="noEnergyMsg">
-                        Energi kamu habis. Tunggu reset besok jam 00:00, atau lanjut baca materi (gratis tanpa batas).
+                        Energi kamu habis. Tunggu reset besok jam 00:00, atau lanjut baca materi (gratis tanpa
+                        batas).
                     </p>
                 </div>
 
