@@ -161,16 +161,69 @@ async function checkDailyReset(user) {
   return updated;
 }
 
+// ─── TIME-BASED PERSONA GREETING ───
+function getTimePeriod() {
+  const hour = new Date().getHours();
+  if (hour >= 4 && hour <= 10) return { key: 'pagi', emoji: '🌅', label: 'Pagi' };
+  if (hour >= 11 && hour <= 14) return { key: 'siang', emoji: '☀️', label: 'Siang' };
+  if (hour >= 15 && hour <= 17) return { key: 'sore', emoji: '🌇', label: 'Sore' };
+  return { key: 'malam', emoji: '🌙', label: 'Malam' };
+}
+
+function renderDashboardGreeting(displayName) {
+  const personaKey = localStorage.getItem('skolvix_persona') || 'kakAlex';
+  const period = getTimePeriod();
+  const greetings = DASHBOARD_GREETINGS[personaKey];
+  if (!greetings || !greetings[period.key]) return;
+
+  // Get persona emoji & name from FEEDBACK_TEMPLATES
+  const persona = FEEDBACK_TEMPLATES[personaKey] || FEEDBACK_TEMPLATES.kakAlex;
+
+  const pool = greetings[period.key];
+
+  // Reuse saved greeting index for this persona+period+date, or pick a new one
+  const today = new Date().toDateString();
+  const storageKey = 'skolvix_greeting_' + personaKey + '_' + period.key + '_' + today;
+  let savedIdx = localStorage.getItem(storageKey);
+  let idx;
+  if (savedIdx !== null && savedIdx < pool.length) {
+    idx = parseInt(savedIdx, 10);
+  } else {
+    idx = Math.floor(Math.random() * pool.length);
+    localStorage.setItem(storageKey, idx);
+  }
+
+  let msg = pool[idx].replace('{nama}', displayName);
+
+  // Strip the "emoji Name: " prefix since it's now shown in the header
+  const prefixMatch = msg.match(/^[^:]+:\s*/);
+  if (prefixMatch) msg = msg.slice(prefixMatch[0].length);
+
+  // Populate header: emoji + name
+  const greetingEmoji = document.getElementById('greetingEmoji');
+  if (greetingEmoji) greetingEmoji.textContent = persona.emoji;
+  const greetingName = document.getElementById('greetingName');
+  if (greetingName) greetingName.textContent = persona.nama;
+
+  const greetingText = document.getElementById('greetingText');
+  if (greetingText) greetingText.textContent = msg;
+
+  const greetingSub = document.getElementById('greetingSub');
+  if (greetingSub) greetingSub.textContent = period.emoji + ' ' + period.label;
+}
+
 function showDashboard() {
   document.getElementById("loginCard").classList.add("hidden");
   document.getElementById("dashboard").classList.remove("hidden");
 
   const displayName = currentUser.username.charAt(0).toUpperCase() + currentUser.username.slice(1);
 
-  document.getElementById("namaUserDisplay").textContent = currentUser.username;
   document.getElementById("koinDisplay").textContent = currentUser.koin_iq;
   document.getElementById("energiDisplay").textContent = currentUser.energi;
   document.getElementById("streakDisplay").textContent = currentUser.streak;
+
+  // ─── TIME-BASED PERSONA GREETING ───
+  renderDashboardGreeting(displayName);
 
   // Update new layout elements
   const streakBig = document.getElementById("streakDisplayBig");

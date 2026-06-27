@@ -401,6 +401,31 @@
             position: relative;
         }
 
+        .greeting-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+
+        .greeting-emoji {
+            font-size: 28px;
+        }
+
+        .greeting-name {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--cyan);
+        }
+
+        .greeting-sub {
+            font-size: 12px;
+            color: var(--cyan);
+            font-weight: 600;
+            margin-bottom: 6px !important;
+            opacity: 0.8;
+        }
+
         /* ─── STREAK CARD ─── */
         .streak-card {
             display: flex;
@@ -995,8 +1020,13 @@
             <!-- ═══ TAB: BERANDA ═══ -->
             <div class="tab-panel active" id="tab-beranda">
                 <div class="welcome-banner" id="dashboard">
-                    <h2>Halo, <span id="namaUserDisplay"></span> 👋</h2>
-                    <p>Streak harian: <span id="streakDisplay">0</span> hari 🔥</p>
+                    <div class="greeting-header" id="greetingHeader">
+                        <span class="greeting-emoji" id="greetingEmoji"></span>
+                        <span class="greeting-name" id="greetingName"></span>
+                    </div>
+                    <h2 id="greetingText"></h2>
+                    <p class="greeting-sub" id="greetingSub"></p>
+                    <p>Streak harian: <span id="streakDisplay">0</span> hari </p>
                 </div>
 
                 <div class="quick-actions">
@@ -1159,6 +1189,7 @@
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="supabase-config.js"></script>
     <script src="feedback-personas.js"></script>
+    <script src="greetings.js"></script>
     <script src="app.js"></script>
 </body>
 
