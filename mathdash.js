@@ -125,7 +125,7 @@ let isAnswered = false;
 
 document.getElementById("startBtn").addEventListener("click", startGame);
 document.getElementById("backBtn").addEventListener("click", () => {
-    window.location.href = "app.html";
+    window.location.href = "app.html?tab=arena";
 });
 
 window.addEventListener("load", async () => {

@@ -175,7 +175,7 @@ async function finishQuiz() {
     });
 
     document.getElementById("backToHomeBtn").addEventListener("click", () => {
-        window.location.href = "app.html";
+        window.location.href = "app.html?tab=arena";
     });
 }
 

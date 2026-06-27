@@ -834,7 +834,7 @@ window.addEventListener("load", async () => {
     });
 
     document.getElementById("backBtn").addEventListener("click", () => {
-        window.location.href = "app.html";
+        window.location.href = "app.html?tab=arena";
     });
 
     // Input

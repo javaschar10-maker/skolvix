@@ -800,11 +800,93 @@
                 font-size: 17px;
             }
         }
+
+        /* ⚡ Zero-flicker Arena tab via head-placed class */
+        html.force-arena #tab-beranda {
+            display: none !important;
+        }
+
+        html.force-arena #tab-arena {
+            display: block !important;
+        }
     </style>
+    <script>
+        if (new URLSearchParams(location.search).get('tab') === 'arena') {
+            document.documentElement.className += ' force-arena';
+        }
+    </script>
+
 </head>
 
 <body>
+    <!-- ⚡ INSTANT SKELETON: Rendered before any CSS/JS loads -->
+    <div id="skeleton"
+        style="position:fixed;inset:0;z-index:9999;background:#050d1a;display:flex;align-items:center;justify-content:center;transition:opacity 0.3s ease;">
+        <div style="display:flex;flex-direction:column;align-items:flex-start;">
+            <div style="font-size:36px;font-weight:800;letter-spacing:-1px;display:flex;align-items:center;gap:6px;">
+                <div class="topbar-logo">⚡ Skol<span>vix</span></div>
+            </div>
+            <div
+                style="margin-top:14px;width:140px;height:4px;border-radius:99px;background:rgba(255,255,255,0.06);overflow:hidden;">
+                <div
+                    style="width:40%;height:100%;border-radius:99px;background:linear-gradient(90deg,#00d4ff,#1d69e5);animation:skel-load 0.8s ease infinite;">
+                </div>
+            </div>
+        </div>
+    </div>
+    <style>
+        @keyframes skel-load {
+            0% {
+                transform: translateX(-100%)
+            }
 
+            100% {
+                transform: translateX(350%)
+            }
+        }
+    </style>
+
+    <script>
+        // ─── TAB SWITCHING (DOM ready) ───
+        document.addEventListener('DOMContentLoaded', function () {
+            if (new URLSearchParams(location.search).get('tab') === 'arena') {
+                document.querySelectorAll('.tab-panel').forEach(function (p) { p.classList.remove('active'); });
+                var arena = document.getElementById('tab-arena');
+                if (arena) arena.classList.add('active');
+
+                document.querySelectorAll('.sidebar-btn[data-tab]').forEach(function (b) {
+                    b.classList.toggle('active', b.dataset.tab === 'arena');
+                });
+                document.querySelectorAll('.bottom-nav-btn[data-tab]').forEach(function (b) {
+                    b.classList.toggle('active', b.dataset.tab === 'arena');
+                });
+            }
+            document.documentElement.classList.remove('force-arena');
+        });
+
+        // ─── SKELETON DISMISS (all resources loaded) ───
+        (function () {
+            var startTime = Date.now();
+            var MIN_SKELETON_MS = 500; // minimum display time
+
+            function dismissSkeleton() {
+                var skel = document.getElementById('skeleton');
+                if (!skel) return;
+                var elapsed = Date.now() - startTime;
+                var remaining = Math.max(0, MIN_SKELETON_MS - elapsed);
+                setTimeout(function () {
+                    skel.style.opacity = '0';
+                    setTimeout(function () { skel.remove(); }, 300);
+                }, remaining);
+            }
+
+            if (document.readyState === 'complete') {
+                dismissSkeleton();
+            } else {
+                window.addEventListener('load', dismissSkeleton);
+            }
+        })();
+    </script>
 
     <!-- ═══ TOPBAR ═══ -->
     <header class="topbar">
