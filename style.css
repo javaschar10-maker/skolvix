@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 :root {
+    --bg-main: #0F172A;
+    --bg-card: #1E293B;
+    --primary-accent: #38BDF8;
+    --gamify-accent: #F59E0B;
+    --text-main: #F8FAFC;
+    --text-muted: #94A3B8;
     --bg: #050d1a;
     --card: #0a1628;
     --card-border: rgba(255, 255, 255, 0.08);
@@ -744,8 +750,8 @@ body {
 .minigame-cost {
     font-size: 11px;
     font-weight: 700;
-    color: var(--gold);
-    background: rgba(245, 200, 66, 0.1);
+    color: #000000;
+    background: var(--gamify-accent);
     padding: 3px 10px;
     border-radius: 999px;
 }
@@ -951,33 +957,30 @@ body {
    PERMANENT GLOW KHUSUS KOTAK LEADERBOARD (KOMUNITAS)
    ======================================================== */
 
-/* Otomatis mencari .card yang di dalamnya ada baris ranking (.lb-row) */
+/* Leaderboard: subtle card style, no neon glow */
 .card:has(.lb-row),
 .leaderboard-container,
 [class*="leaderboard"] {
-    border: 2px solid #00d2ff !important;
-    /* Garis biru muda neon tebal permanen */
-
-    /* Efek radiasi lampu menyala terus menerus tanpa perlu di-hover */
-    box-shadow: 0 0 30px rgba(0, 210, 255, 0.35),
-        inset 0 0 15px rgba(0, 210, 255, 0.15) !important;
-
-    background: rgba(11, 19, 41, 0.7) !important;
-    /* Latar belakang sedikit lebih gelap agar neon memantul */
+    border: 1px solid var(--card-border) !important;
+    box-shadow: none !important;
+    background: var(--bg-card) !important;
     transition: all 0.3s ease;
 }
 
-/* Tambahan: Bikin nomor 1, 2, dan 3 (Top 3) di dalam leaderboard ikut glowing tipis */
+/* Soft gradient highlight for Top 3 ONLY */
 .lb-row.top-1 {
-    box-shadow: 0 0 15px rgba(245, 200, 66, 0.2);
+    background: linear-gradient(135deg, rgba(245, 200, 66, 0.12), rgba(245, 200, 66, 0.04));
+    border-left: 3px solid var(--gold);
 }
 
 .lb-row.top-2 {
-    box-shadow: 0 0 15px rgba(192, 192, 192, 0.2);
+    background: linear-gradient(135deg, rgba(192, 192, 192, 0.1), rgba(192, 192, 192, 0.03));
+    border-left: 3px solid #c0c0c0;
 }
 
 .lb-row.top-3 {
-    box-shadow: 0 0 15px rgba(205, 127, 50, 0.2);
+    background: linear-gradient(135deg, rgba(205, 127, 50, 0.1), rgba(205, 127, 50, 0.03));
+    border-left: 3px solid #cd7f32;
 }
 
 /* ========================================================
@@ -986,7 +989,7 @@ body {
 
 /* 1. Base body warna gelap pekat */
 body {
-    background-color: #030712 !important;
+    background-color: var(--bg-main) !important;
     position: relative;
 }
 
@@ -997,8 +1000,8 @@ body {
     left: 0;
     width: 100vw;
     height: 100vh;
-    background: #040814;
-    /* Warna dasar hitam kebiruan dalam */
+    background: var(--bg-main);
+    /* Warna dasar sesuai bg-main */
     z-index: -999;
     /* Berada di lapisan paling dasar */
     overflow: hidden;

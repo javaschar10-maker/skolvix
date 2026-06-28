@@ -11,6 +11,15 @@
            FUTURISTIC DASHBOARD LAYOUT — Skolvix Web-App
            ═══════════════════════════════════════════════════ */
 
+        :root {
+            --bg-main: #0F172A;
+            --bg-card: #1E293B;
+            --primary-accent: #38BDF8;
+            --gamify-accent: #F59E0B;
+            --text-main: #F8FAFC;
+            --text-muted: #94A3B8;
+        }
+
         /* ─── TOPBAR ─── */
         .topbar {
             position: fixed;
@@ -636,7 +645,7 @@
             align-items: center;
             justify-content: center;
             gap: 8px;
-            width: 100%;
+            width: auto;
             padding: 14px;
             border: 1px solid rgba(255, 77, 109, 0.2);
             border-radius: 12px;
@@ -724,8 +733,8 @@
 
             .main-content {
                 padding: 32px 40px;
-                max-width: 960px;
-                margin: 0;
+                max-width: 1200px;
+                margin: 0 auto;
             }
 
             /* Welcome banner bigger */
@@ -735,6 +744,18 @@
 
             .welcome-banner h2 {
                 font-size: 24px;
+            }
+
+            /* Beranda: 2-column grid on desktop */
+            #tab-beranda {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 16px;
+                align-items: start;
+            }
+
+            #tab-beranda>.welcome-banner {
+                grid-column: span 2;
             }
 
             /* Quick actions 2x2 */
@@ -759,7 +780,7 @@
 
             .arena-carousel.carousel {
                 display: grid;
-                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
                 gap: 12px;
                 overflow: visible;
             }
@@ -794,7 +815,7 @@
            ═══════════════════════════════════════════════════ */
         @media (min-width: 1200px) {
             .main-content {
-                max-width: 1080px;
+                max-width: 1200px;
                 padding: 40px 48px;
             }
 

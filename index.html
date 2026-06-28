@@ -11,6 +11,12 @@
         rel="stylesheet">
     <style>
         :root {
+            --bg-main: #0F172A;
+            --bg-card: #1E293B;
+            --primary-accent: #38BDF8;
+            --gamify-accent: #F59E0B;
+            --text-main: #F8FAFC;
+            --text-muted: #94A3B8;
             --navy: #050d1a;
             --navy2: #0a1628;
             --navy3: #0f2040;
@@ -478,7 +484,7 @@
         }
 
         .feat-card {
-            background: var(--white05);
+            background: var(--bg-card);
             border: 1px solid var(--white10);
             border-radius: var(--radius);
             padding: 32px 28px;
@@ -556,7 +562,7 @@
         .persona-card {
             flex-shrink: 0;
             width: 220px;
-            background: var(--white05);
+            background: var(--bg-card);
             border: 1px solid var(--white10);
             border-radius: var(--radius);
             padding: 24px;
@@ -636,7 +642,7 @@
 
         .price-card {
             background: var(--white05);
-            border: 1px solid var(--white10);
+            border: 1px solid #334155;
             border-radius: var(--radius);
             padding: 32px 24px;
             position: relative;
@@ -652,7 +658,7 @@
 
         .price-card.featured {
             background: linear-gradient(135deg, rgba(29, 106, 229, 0.15), rgba(0, 212, 255, 0.08));
-            border-color: rgba(59, 139, 255, 0.4);
+            border: 2px solid var(--primary-accent);
             box-shadow: 0 8px 32px rgba(29, 106, 229, 0.15);
         }
 
@@ -2845,12 +2851,12 @@
         ];
 
         const SEGMENT_COLORS = [
-            { bg: '#e74c3c', bg2: '#c0392b' },
-            { bg: '#9b59b6', bg2: '#7d3c98' },
-            { bg: '#27ae60', bg2: '#1e8449' },
-            { bg: '#2980b9', bg2: '#1a5276' },
-            { bg: '#e67e22', bg2: '#ca6f1e' },
-            { bg: '#f5c842', bg2: '#d4a017' },
+            { bg: '#8b3a3a', bg2: '#6b2c2c' },
+            { bg: '#6b4a7a', bg2: '#553a63' },
+            { bg: '#2a7a52', bg2: '#1e5e3e' },
+            { bg: '#2a5f8a', bg2: '#1e4266' },
+            { bg: '#8a5a2a', bg2: '#6b4420' },
+            { bg: '#a08530', bg2: '#7a6520' },
         ];
 
         let hasSpun = false;
@@ -2922,7 +2928,7 @@
                 const py = cy + Math.sin(angle) * (r - 4);
                 ctx.beginPath();
                 ctx.arc(px, py, 5, 0, 2 * Math.PI);
-                ctx.fillStyle = i % 2 === 0 ? '#f5c842' : '#ffffff';
+                ctx.fillStyle = i % 2 === 0 ? '#a08530' : '#94a3b8';
                 ctx.fill();
                 ctx.strokeStyle = 'rgba(0,0,0,0.3)';
                 ctx.lineWidth = 1;
