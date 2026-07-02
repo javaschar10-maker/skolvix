@@ -1,0 +1,1311 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Fisika untuk SMA/MA Kelas XI
+Penulis 
+: Marianna Magdalena Radjawane, Alvius Tinambunan, Lim Suntar Jono
+ISBN 
+: 978-623-472-721-0 (jil.1)
+Gelombang, Bunyi 
+dan Cahaya
+BAB 5
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian dapat 
+menentukan 
+persamaan 
+cepat 
+rambat 
+gelombang 
+bunyi, 
+menerapkan 
+persamaan 
+efek 
+Doppler 
+dalam 
+pemecahan 
+masalah, 
+menentukan hubungan antara besaran yang 
+memengaruhi frekuensi gelombang pada dawai 
+dan pipa organa, menentukan jumlah layangan 
+bunyi tiap detik, menentukan intensitas bunyi 
+dan taraf intensitas bunyi, menerapkan konsep 
+dan sifat gelombang cahaya dalam pemecahan 
+masalah dan menerapkan konsep gelombang 
+bunyi dan gelombang cahaya pada teknologi.
+Kata-kata kunci:
+• 
+Gelombang 
+• 
+Beda fase 
+• 
+Bunyi 
+• 
+Cahaya
+• 
+Intensitas
+• 
+Sifat gelombang
+• 
+Efek Doppler
+• 
+Difraksi
+• 
+Interferensi
+Sumber: Supreet/Pexels.com (2022)
+116
+Fisika untuk SMA/MA Kelas XI
+Pada tanggal 26 Desember 2004 terjadi gempa yang sangat besar di daerah 
+Aceh. Gempa ini memicu gelombang tsunami yang besar dan menyapu 
+pemukiman dan gedung menjadi rata dengan tanah. Gempa merupakan efek 
+dari rambatan energi yang sangat kuat. Tahukah kalian bahwa gempa adalah 
+salah satu fenomena gelombang? Pada bab ini kalian akan mempelajari 
+pengaruh fenomena gelombang dalam kehidupan sehari-hari.     
+Gambar 5.1. Gelombang tsunami dan dampak gempa bumi
+Sumber: Елена Кузьмина/pexel (2021) dan Ray Bilcliff/pexel (2005)
+Peta Konsep
+mengkaji
+mencakup
+mencakup
+contohnya
+memiliki sifat
+terdiri atas
+menimbulkan
+merambatkan
+Cahaya
+Bunyi
+Getaran
+Energi
+Sifat
+Cahaya
+Releksi
+Interferensi
+Refraksi
+Difraksi
+Polarisasi
+Spektrum
+Cahaya
+Sumber
+Bunyi
+Intensitas
+Bunyi
+Dawai
+Pipa Organa
+Gelombang
+117
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+Carilah informasi mengenai hubungan antara gelombang, getaran, 
+gempa dan tsunami. Sampaikan pengetahuanmu kepada teman-
+temanmu.
+A. Gelombang 
+ 
+Pernahkah kalian melihat riakan di permukaan air, baik itu di sungai ataupun 
+di kolam? Riakan yang kalian amati adalah fenomena yang kita sebut dengan 
+gelombang. Fenomena gelombang sangat luas aplikasinya dan sering ditemui 
+dalam kehidupan sehari-hari seperti cahaya dan bunyi. Salah satu teknologi 
+yang sering kita gunakan dan memanfaatkan sifat-sifat dari gelombang ada-
+lah internet. Internet memanfaatkan gelombang radio untuk menghantarkan 
+informasi dalam bentuk digital. 
+Untuk memahami apa itu gelombang, 
+perhatikan percobaan pada Gambar 
+5.3. Energi mekanik pada bandul 
+akan diubah menjadi getaran pada 
+permukaan air, kemudian getaran 
+tersebut merambat dan membentuk 
+gelombang. 
+Secara 
+sederhana, 
+gelombang adalah gangguan yang 
+menjalar. Gerak gelombang dapat 
+dipandang sebagai perpindahan energi dan momentum dari suatu tempat 
+ke tempat lain tanpa mengikutsertakan perpindahan partikel atau 
+medium. 
+Gambar 5.3 Demonstrasi gelombang pada permukaan air
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 5.2. Pemanfaatan internet di era modern
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berteknologi!
+118
+Fisika untuk SMA/MA Kelas XI
+Lingkaran-lingkaran yang terbentuk pada Gambar 5.3 disebut muka 
+gelombang. Muka gelombang adalah tempat sekumpulan titik dengan fase 
+yang sama. Jarak antara lingkaran menunjukkan panjang gelombang (λ), dan 
+arah rambat gelombang dari sumber disebut sebagai sinar gelombang. Muka 
+gelombang dan sinar gelombang selalu tegak lurus satu dengan yang lain.
+Gelombang merambatkan energi secara periodik sehingga fungsi 
+gelombang akan memenuhi bentuk persamaan berulang (periodik) baik itu 
+pada ruang (jarak) ataupun waktu.  Adapun interpretasi gelombang dalam 
+masing-masing fungsi waktu dan jarak dapat ditunjukkan pada Gambar 5.4 
+berikut ini.
+Dari Gambar 5.4 kalian dapat menemukan beberapa besaran seperti 
+simpangan gelombang maksimum atau amplitudo (A), periode (T), panjang 
+gelombang (λ) dan frekuensi (f). Adapun besaran cepat rambat gelombang (v) 
+dapat dituliskan dengan persamaan 5.1. 
+v
+f
+T
+λ
+λ
+=
+=
+Dengan : v  = cepat rambat gelombang (m/s), 
+λ  =  panjang gelombang (m), 
+T  =  waktu periode (sekon atau s),
+f   =  frekuensi ( Hertz atau Hz). 
+Gambar 5.4. Interpretasi gelombang pada jarak dan waktu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(5.1)
+119
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+1. Jenis-Jenis Gelombang 
+a. Berdasarkan arah getaran dan arah rambatnya 
+Berdasarkan arah getaran dan arah rambatnya gelombang dapat dibagi 
+menjadi gelombang longitudinal dan gelombang transversal. Gelombang 
+longitudinal adalah gelombang yang arah getarannya berimpit dengan 
+arah rambatnya, contohnya adalah gelombang bunyi. Gelombang transver-
+sal adalah gelombang yang arah getarannya tegak lurus dengan arah ram-
+batnya, misalnya gelombang pada tali dan gelombang cahaya. Terdapat ge-
+lombang yang arah getarnya bisa tegak lurus dan searah dengan rambatan 
+gelombangnya, yaitu gelombang seismik (gempa).  
+Lakukanlah aktivitas sederhana berikut secara berpasangan.
+1. 
+Buatlah 
+skema 
+percobaan 
+seperti pada Gambar 5.5. 
+2. 
+Gerakkan 
+pen 
+naik 
+turun 
+secara teratur menggunakan 
+timer, sebagai contoh pen naik 
+turun diatur selama 2 detik. 
+3. 
+Mintalah 
+teman 
+untuk 
+menggerakkan kertas kekanan 
+secara perlahan dengan kecepatan yang dipertahankan tetap.
+4. Diskusikan dan presentasikan kecepatan gelombang dan amplitudo 
+dari gelombang yang terbentuk. 
+Gambar 5.5. Percobaan membuat pola gelombang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berdiskusi!
+Aktivitas 5.1
+Gambar 5.6. (a)Gelombang longitudinal (b)Gelombang transversal
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+120
+Fisika untuk SMA/MA Kelas XI
+Ayo, Amati!
+Aktivitas 5.2
+1. 
+Dalam aktivitas ini kalian bisa menggunakan karet gelang yang 
+disambung ataupun slinki.
+2. 
+Buatlah demonstrasi seperti yang ditunjukkan pada Gambar 5.6b. 
+3. 
+Mintalah 1 teman untuk mengambil video dari samping dan 
+dari hasil video tersebut, tentukan panjang gelombang dari hasil 
+demonstrasi kalian.
+b. Berdasarkan perantara(medium) rambatannya 
+Berdasarkan perantara (medium)rambatannya, gelombang dapat dibagi 
+menjadi gelombang mekanik dan gelombang elektromagnetik. Gelombang 
+mekanik adalah gelombang yang memerlukan medium untuk merambat Contoh 
+dari gelombang mekanik adalah bunyi 
+dan gempa. Gelombang elektromagnetik 
+adalah gelombang yang tidak memerlukan 
+medium untuk merambat. Contoh 
+dari gelombang elektromagnetik adalah 
+cahaya dan gelombang radio.
+Gambar 5.7. Gelombang radio dan gelombang seismik
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Indonesia merupakan negara dengan intensitas gempa yang cukup 
+tinggi, karena Indonesia terletak pada Cincin Api Pasiik atau 
+Lingkaran Api Pasiik (Ring of Fire). Terdapat dua jenis gelombang 
+seismik, yaitu gelombang P dan gelombang S. Gelombang P merupakan 
+gelombang longitudinal yang mampu menembus inti bumi karena 
+energinya dirambatkan melalui media cair sedangkan gelombang S 
+berbentuk gelombang transversal dan tidak bisa menembus inti bumi. 
+Gelombang S memiliki daya hancur yang lebih tinggi dibandingkan 
+gelombang P. Gelombang seisimik di bawah permukaan bumi akan 
+mengalami pembiasan karena melewati medium yang berbeda. Oleh 
+sebab itu penyebaran efek gempa bisa menjadi lebih luas.  
+Tahukah Kalian
+121
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+2. Beda Fase Gelombang
+Gambar 5.8. Sudut fase pada gelombang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gelombang merupakan getaran yang merambat, sehingga posisi simpangan 
+gelombang dapat juga dinyatakan dengan fase (Gambar 5.8) . 
+Fase gelombang tidak memiliki kuantitas yang pasti karena bergantung 
+pada posisi dan waktu dari titik yang diamati. Fase gelombang dapat dinyatakan 
+dengan persamaan  berikut.
+2
+2
+t
+kx
+t
+x
+T
+θ
+ω
+ϕ
+π
+π
+λ
+−
+=
+=
+=
+−
+Dengan : 
+θ = sudut fase (radian/derajat)
+ϕ = fase gelombang 
+ω = kecepatan sudut gelombang (rad/s)
+t = lamanya gelombang bergetar (s)
+T = periode gelombang (s)
+x = jarak titik ke sumber getar (m)
+λ = panjang gelombang (m)
+k = 
+2π
+λ = bilangan gelombang (m-1) 
+(5.2)
+Perbedaan fase di dua titik yang berbeda pada waktu yang sama diberikan 
+dalam Gambar 5.9.
+Gambar 5.9.  Beda fase antara dua titik pada sebuah gelombang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+122
+Fisika untuk SMA/MA Kelas XI
+Secara matematis beda fase dapat dinyatakan dengan persamaan berikut. 
+B
+B
+B
+A
+x
+x
+x
+ϕ
+ϕ
+ϕ
+ϕ
+λ
+ϕ
+λ
+∆
+=
+−
+−
+∆
+=
+∆
+∆
+=
+  Dua buah titik bisa memiliki fase sama dengan syarat beda sudut fasenya 
+adalah 0, 2π, 4π … 2nπ atau beda fasenya adalah 0,λ,2λ,3λ…nλ. Dua buah titik 
+bisa memiliki fase berlawanan dengan syarat  beda sudut fasenya adalah π, 
+3π, 5π, … (2n+1)π atau beda fasenya adalah λ/2, 3λ/2, 5λ/2 …, (2n+1) λ/2 dengan 
+n = 0,1,2,3,….
+Adapun beda fase antara dua gelombang dengan ukuran sudut (derajat) 
+dan panjang gelombang (meter) dapat ditunjukkan pada Gambar 5.10. Konsep 
+beda fase sangat penting untuk memahami sifat-sifat gelombang pada cahaya 
+dan bunyi.
+Ayo, Cek Pemahaman!
+Suatu gelombang dinyatakan dengan persamaan:
+ y =2sinθ , di mana sudut fase gelombang dinyatakan dengan 
+2 (0,5
+0,2 )
+t
+x
+θ
+π
+=
+−
+ (x dalam m dan t dalam sekon)
+Tentukan:  
+a. fase pada x = 5 m dan t = 4 sekon, 
+b. beda fase pada x = 3 m dan 3,5 m,
+c. cepat rambat gelombang.   
+Gambar 5.10.  Beda fase antara dua gelombang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(5.3)
+123
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+Ayo, Berteknologi!
+Aktivitas 5 .3
+Prosedur
+1. Lakukanlah percoban secara mandiri, masuklah ke dalam tautan 
+berikut:
+https://phet.colorado.edu/sims/html/wave-on-a-string/latest/wave-on-
+a-string_in.html
+2. Ikuti Pengaturan seperti pada Gambar 5.11. Amati setiap posisi manik-
+manik. Gantilah pilihan osilasi (oscillate) menjadi sinyal (pulse), amati 
+perbedaan dan buatlah kesimpulan. 
+Gambar 5.11. Pengaturan percobaan virtual
+Sumber: Alvius Tinambunan/Screenshot Phet.colorado (2022)
+3. Dari eksperimen tentukan: 
+a. Simpangan dan fase dari manik-manik ke-4 pada detik ke 
+1,5 
+b. Beda fase pada 1 sekon dan 1,5 sekon. Bandingkan hasil 
+jawaban dengan persamaan 5.2.                                                   
+4. Tentukan panjang gelombang serta kecepatan gelombang 
+tersebut. Setelah mendapatkan jawaban, coba bereksperimen 
+dengan mengubah nilai frekuensi dan amati perubahan panjang 
+gelombang
+124
+Fisika untuk SMA/MA Kelas XI
+3. Prinsip-Prinsip dalam Gelombang 
+ 
+Kombinasi nada pada lagu, warna-warni pada lukisan dan teknologi internet 
+yang kita bisa nikmati saat ini tidak lepas dari peran pengaplikasian dari si-
+fat-sifat gelombang. Untuk memahami perilaku gelombang perlu diperkenal-
+kan beberapa prinsip yang dapat ditemukan dari fenomena gelombang. 
+a. Prinsip Superposisi  
+ 
+Apabila dua gelombang atau lebih merambat pada medium yang sama, 
+maka gelombang-gelombang tersebut akan bertemu pada suatu titik 
+dan waktu yang sama. Simpangan kedua gelombang tersebut dapat 
+dijumlahkan 
+dan 
+menghasilkan 
+sebuah 
+gelombang 
+baru 
+dengan 
+simpangan yang berbeda sehingga terjadilah superposisi gelombang.  
+ 
+Gambar 5.12. Superposisi dua sinyal
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+ 
+Syarat dari superposisi gelombang adalah kedua gelombang yang 
+bersuperposisi harus saling koheren atau memiliki frekuensi dan bentuk yang 
+sama (identik). Kedua gelombang yang berasal dari sumber yang sama dapat 
+dikatakan sebagai dua gelombang yang saling koheren.
+b. Prinsip Huygens-Fresnel  
+Prinsip Huygens menyatakan bahwa: 
+“setiap titik yang dilewati sumber gelombang akan menghasilkan muka 
+gelombang yang panjang gelombangnya sama dengan gelombang sumbernya“
+Fresnel kemudian menemukan bahwa prinsip Huygens dapat menjelaskan 
+fenomena interferensi dan difraksi. Prinsip ini dapat menjelaskan sifat-sifat 
+gelombang baik pada gelombang cahaya maupun gelombang bunyi.
+125
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+Besar intensitas dari sumber gelombang secara matematis dapat 
+dinyatakan dengan persamaan berikut. 
+P
+I
+A
+=
+Dengan : 
+ P = energi per satuan waktu (watt), 
+ I = intensitas (watt/m
+2),
+A = luas (m
+2).
+Hukum ini berlaku untuk keadaan apapun. Sebagai contoh semakin jauh 
+kita dari sumber bunyi ataupun sumber cahaya, maka intensitasnya (nyaring 
+/tingkat kecerahan) semakin melemah.
+c. Intensitas gelombang  
+ 
+Kecerahan lampu, kebisingan suara, dan daya hancur gempa bergantung pada 
+energi yang berasal dari sumber gelombang. Energi ini berbanding lurus den-
+gan kuadrat amplitudonya. 
+2
+E
+A
+∝
+Besaran yang dinyatakan dengan laju perubahan energi per satuan luas 
+disebut dengan intensitas. Adapun intensitas gelombang memenuhi hukum 
+kuadrat terbalik, artinya besar intensitas akan berbanding terbalik dengan 
+kudrat jarak dari titik ke sumber gelombang.
+Gambar 5.14. Hukum kuadrat terbalik pada intensitas gelombang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 5.13. Prinsip Huygens-Fresnel pada muka gelombang bidang dan gelombang sferis
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(5.4)
+(5.5)
+126
+Fisika untuk SMA/MA Kelas XI
+pertama mengikuti hukum kuadrat terbalik dengan celah pertama se-
+bagai titik sumber gelombang. Tentukan perbandingan intensitas dari 
+titik x:y. 
+a. Anggap amplitudo yang terbentuk pada gelombang dari celah 
+kedua selalu sama, yaitu A. Tentukan simpangan gelombang di 
+titik P dan titik Q.  
+b. Tentukan cepat rambat gelombang dari kedua gelombang pada 
+celah kedua.
+B. Gelombang Bunyi
+Kita semua suka mendengar musik. Musik 
+merupakan perpaduan dari frekuensi dan 
+amplitudo dari benda-benda yang bergetar. 
+Benda yang bergetar disebut sumber bunyi. 
+Keras lemah suatu bunyi tergantung pada 
+amplitudo getarannya, sedangkan tinggi 
+rendah bunyi bergantung pada frekuensi 
+getarannya.
+Gambar 5.16. Seorang pelajar mendengarkan musik
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Sebuah eksperimen menggunakan dua celah seperti yang ditunjuk-
+kan oleh Gambar 5.15. Pada eksperimen, frekuensi yang digunakan 
+untuk membuat riakan adalah tetap, yaitu 20 Hz.Anggap gelombang 
+Ayo, Cek Pemahaman!
+Gambar 5.15. Percobaan dua celah ganda pada gelombang air
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+127
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+Medium
+Kecepatan rambat bunyi (m/s)
+Udara (0o C)
+331
+Udara (100o C)
+386
+Air
+1490
+Air Laut
+1530
+Alumunium
+5100
+Besi
+5130
+Materi Pengayaan
+1. Cepat Rambat Bunyi  
+ 
+Bunyi hanya bisa merambat melalui medium, baik itu berbentuk padat, cair 
+ataupun gas. Bunyi ditransfer melalui rapatan dan regangan molekul-molekul 
+medium sehingga tekanan dan suhu sangat mempengaruhi cepat rambat 
+bunyi dalam suatu medium.
+Berikut beberapa data mengenai cepat rambat bunyi dalam suatu medium. 
+Tabel 5.1.  Cepat rambat bunyi pada beberapa medium 
+(5.6)
+Cepat rambat bunyi bergantung kepada sifat elastisitas material dan massa 
+jenisnya. Kedua besaran ini akan mempengaruhi kecepatan perambatan 
+energi getaran pada medium, baik itu pada fase padat, cair ataupun gas. 
+a. Cepat rambat bunyi pada zat padat 
+ 
+Pada benda padat, cepat rambat bunyi dihitung dengan akar perbandingan 
+modulus elastistas (E) terhadap massa jenis (ρ) bahan tersebut, menggunakan 
+persamaan berikut.
+E
+v
+ρ
+=
+Dengan : 
+E = modulus elastisitas (N/m
+2),
+ ρ = massa jenis bahan (kg/m
+3).
+128
+Fisika untuk SMA/MA Kelas XI
+b. Cepat rambat bunyi pada benda cair  
+ 
+Pada benda cair, cepat rambat bunyi dipengaruhi oleh modulus Bulk (B) dan 
+massa jenis (ρ) benda yang ditunjukkan dengan persamaan
+B
+v
+ρ
+=
+Dengan : 
+B = modulus bulk (N/m
+2),
+ ρ = massa jenis zat cair (kg/m
+3).
+Adapaun modulus Bulk benda adalah ukuran elastisitas bahan pada 
+satuan volume. 
+c. Cepat rambat bunyi pada gas 
+ 
+Pada gas, kecepatan molekul dipengaruhi oleh suhu, semakin cepat molekul 
+bergerak maka bunyi akan semakin cepat untuk dirambatkan. Adapun mod-
+ulus Bulk pada udara akan bergantung pada tekanan dan keadaan adibatik 
+yang ditunjukkan dengan persamaan berikut.
+B
+P
+γ
+=
+Dengan : 
+γ = konstanta Laplace, 
+p = tekanan (N/m
+2). 
+Pada bab Termodinamika, kalian akan mempelajari persamaan gas ideal 
+yang ditunjukkan dengan persamaan:
+pM=ρRT
+Substitusikan pada persamaan (5.7) diperoleh: 
+p
+RT
+v
+M
+γ
+γ
+ρ
+=
+=
+Dengan : 
+R = tetapan gas dengan nilai 8.31 J/mol.K, 
+M = massa molar gas (kg/mol), 
+T  = suhu dengan satuan Kelvin.
+(5.7)
+(5.9)
+(5.8)
+129
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+1. 
+Bagaimanakah para astronot berkomunikasi di luar angkasa, 
+sedangkan di luar angkasa tidak ada medium atau hampa udara?
+2. 
+Bagaimana perbedaan bunyi menurut pengamat pada waktu 
+siang ataupun malam?
+3. 
+Pada suatu keadaan gas normal, nilai γ=1,4 , massa molar 
+adalah 0,029 kg/mol. Tunjukkan bahwa persamaan (5.9) dapat 
+ditunjukkan dengan persamaan:
+331m/s 273K
+T
+T =
+Ayo, Cek Pemahaman!
+2.  Sumber Bunyi
+Gambar 5.17. (a) alat musik gesek dan (b) alat musik tiup
+Sumber: Yan Kruvov/pexels.com (2021) dan pixabay/pexels.com (2016)
+a
+b
+Apakah kalian suka bermain musik? Tahukah kalian bagaimana cara kerja 
+alat musik? Sumber bunyi musik dapat berupa dawai, pipa organa, kulit 
+maupun logam. Semua sumber ini bekerja berdasarkan perubahan frekuensi 
+dan amplitudo.
+130
+Fisika untuk SMA/MA Kelas XI
+Gambar 5.18. Pola gelombang stasioner pada dawai
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(5.10)
+(5.11)
+a. Sumber bunyi dawai 
+ 
+Pada waktu kalian memetik dawai/senar, kalian akan menghasilkan gelom-
+bang stasioner dengan ujung terikat yang merupakan hasil superposisi gelom-
+bang. Frekuensi yang dihasilkan akan beresonansi dengan udara di sekitar 
+dan  sampai ke telinga kalian. Perhatikan Gambar 5.18. 
+Nada dasar adalah nada dengan panjang gelombang 1/2 λ dan nada atas 
+pertama adalah nada dengan panjang gelombang 1 λ. Pola ini akan terus 
+naik dengan beda 1/2 λ. Besarnya ferkuensi nada ke-n (fn) pada dawai dapat 
+dinyatakan dengan persamaan berikut. 
+2
+n
+n
+v
+n
+f
+v
+L
+λ
+=
+=
+Dengan : 
+f =  frekuensi (Hz),
+v = cepat rambat gelombang bunyi (m/s),
+λn= panjang gelombang bunyi (m),
+L = panjang dawai (m),
+ n =1,2,3…
+Contoh dari alat musik dawai adalah sasando, gitar dan biola. 
+Adapun cepat rambat bunyi (v) pada dawai tergantung kepada tegangan 
+dawai (F), massa dawai (m) dan panjang dawai (L), yang secara matematis 
+dapat dinyatakan dengan persamaan berikut. 
+F
+FL
+v
+A
+m
+ρ
+=
+=
+ 
+Dengan : 
+F = tegangan dawai (N),
+L = panjang dawai (m),
+m = massa dawai (kg).
+131
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+(2
+1)
+4
+n
+n
+f
+v
+L
+−
+=
+Dengan : 
+L = panjang kolom pipa organa (m),
+fn  = frekuensi nada ke-n (Hz).
+b. Sumber bunyi pipa organa 
+Seruling, terompet dan alat musik tiup lain memanfaatkan kolom udara yang 
+ditiup sehingga udara yang bergetar akan menghasilkan suara yang teratur. 
+Kolom tempat udara bergetar disebut pipa organa. Terdapat dua jenis pipa 
+organa, yaitu pipa organa terbuka dan pipa organa tertutup.
+1) Pipa organa terbuka
+Pipa 
+organa 
+terbuka 
+merupakan 
+sebuah pipa dengan kolom udara 
+tanpa penutup pada kedua ujungnya, 
+seperti yang ditunjukkan pada Gambar 
+5.19. Sama halnya dengan dawai, 
+frekuensi pada pipa organa dimulai 
+dengan panjang gelombang 1/2 λ dan 
+terus naik dengan beda 1/2 λ, sehingga 
+penentuan frekuensi nada ke-n dapat 
+ditentukan dengan Persamaan (5.10). 
+Adapun contoh dari alat musik pipa 
+organa terbuka adalah pianika dan 
+terompet.  
+Gambar 5.19. Pola gelombang stasioner pada pipa 
+organa terbuka
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+b) Sumber bunyi pipa organa tertutup
+Pada pipa organa tertutup, salah 
+satu ujung dari kolom udara pada 
+pipa berada dalam posisi tertutup. 
+Hubungan panjang gelombang dan 
+panjang kolom, dapat dilihat pada 
+Gambar 5.20. Frekuensi tiap tingkatan 
+nada 
+dapat 
+ditunjukkan 
+dengan 
+persamaan (5.12)
+Gambar 5.20. Pola gelombang stasioner pada 
+pipa organa tertutup
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(5.12)
+132
+Fisika untuk SMA/MA Kelas XI
+1. 
+Siapkan sebuah gitar, sebuah 
+capo 
+dan 
+sebuah 
+aplikasi 
+frekuensi meter. 
+2. 
+Bunyikan senar dari paling 
+bawah 
+hingga 
+paling 
+atas, 
+catat 
+semua 
+frekuensinya 
+menggunakan tuner.
+3. 
+Lakukan eksperimen dengan senar yang sama (senar 1 sebagai 
+contoh). Kendorkan tegangan gitar, ukur dan bandingkan 
+frekuensinya sebelum dan sesudah dikendorkan. 
+4. 
+Sekarang lakukan pada senar yang sama, gunakan capo untuk 
+memendekkan senar dari leher gitar. Ukur dan bandingkan 
+frekuensinya sebelum dan sesudah dipasang capo. 
+5. 
+Simpulkan beberapa hubungan berikut: 
+a. 
+massa senar terhadap frekuensi
+b. 
+tegangan senar terhadap frekuensi
+c. 
+panjang senar terhadap frekuensi
+4. 
+Lakukan perbandingan dengan Persamaan 5.11.
+Lakukan percobaan ini secara berkelompok
+Ayo, Amati!
+Aktivitas 5.4
+Gambar 5.21.  Alat dan bahan percobaan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+3. Efek Doppler 
+Ling-Ling dan Siti mengukur frekuensi ambulans dari posisi yang berbeda 
+seperti yang ditunjukkan pada Gambar 5.22. Menurut Ling-ling frekuensi bunyi 
+sirene adalah 958 Hz, sedangkan menurut Siti frekuensinya sebesar 848,5 Hz. 
+Frekuensi sumber adalah 900 Hz. Mengapa hal ini bisa terjadi? Fenomena ini 
+dikenal dengan istilah efek Doppler. Efek ini terjadi karena panjang gelombang 
+sumber bunyi akan berubah secara relatif ketika mendekat atau menjauhi 
+pengamat. Menurut Siti frekuensi yang didengar menjadi lebih rendah 
+sedangkan menurut menurut Ling-Ling frekuensi yang didengar lebih tinggi.
+133
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+Efek Doppler juga akan berlaku apabila pengamat bergerak bersamaan 
+dengan sumber. Secara umum persamaan efek Doppler dapat dituliskan 
+sebagai berikut:
+p
+p
+s
+s
+v
+v
+f
+v
+v
+v
+±
+=
+±
+Dengan : 
+vp = kecepatan gerak pengamat (m/s),
+vS = kecepatan gerak sumber (m/s), 
+fs  = frekuensi sumber bunyi (Hz),
+fp  = frekuensi yang didengar pengamat (Hz).
+Kecepatan pengamat vp akan bertanda (+) apabila mendekati sumber 
+dan akan bertanda (-) apabila menjauhi sumber, sedangkan vS menunjukkan 
+kecepatan gerak sumber, vS akan bertanda (+) apabila menjauhi pengamat dan 
+bertanda (-) apabila mendekati pengamat.
+Gambar 5.22. Efek Doppler pada dua pengamat
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Lakukan percobaan ini secara berkelompok
+1. 
+Unduh aplikasi frequency generator, pitch tuner dan perekam layar 
+di Handphone kalian. 
+2. 
+Nyalakan frequency generator pada HP 1 dan catatlah nilai frekuensi 
+tersebut. 
+3. 
+Buatlah rangkaian seperti pada 
+Gambar 5.23. 
+4. 
+Pada HP 2, nyalakan pitch tuner 
+beserta aplikasi perekam layar. 
+Ayo, Berkolaborasi!
+Aktivitas 5.5
+(5.13)
+Gambar 5.23. Contoh rangkaian percobaan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+134
+Fisika untuk SMA/MA Kelas XI
+5. 
+Kemudian biarkan HP 2 bergerak menjauhi dan mendekat sumber 
+bunyi (rangkaian percobaan bisa diubah sesuai kreativitas kalian). 
+6. 
+Buatlah kesimpulan dari data yang diperoleh dan bandingkan 
+dengan materi yang telah dipelajari.
+4. Resonansi  
+ 
+3. 
+Buatlah 
+percobaan 
+seperti 
+Gambar 5.25.
+4. 
+Simpangkan salah satu bandul 
+kemudian lepaskan, amati gerak 
+bandul yang lain. 
+5. 
+Catat pengamatan kalian dan 
+coba jelaskan kepada teman 
+ataupun guru tentang hasil 
+percobaan kalian. 
+1. 
+Lakukankah percobaan ini secara berpasangan.
+2. 
+Ukurlah panjang lima (5) benang sebagai berikut 30 cm, 30 cm, 30 
+cm, 20 cm dan 10 cm. Siapkan plastisin sebagai pemberat/bandul.
+Ayo, Amati!
+Aktivitas 5.6
+Gambar 5.25. Percobaan resonansi bandul
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 5.24. Gelas yang retak karena resonansi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tahukah 
+kalian 
+bahwa 
+seorang 
+penyanyi dapat memecahkan gelas 
+dengan 
+menggunakan 
+suaranya? 
+Hal ini disebabkan frekuensi suara 
+penyanyi tersebut beresonansi dengan 
+frekuensi alami gelas. Saat material 
+gelas 
+bergetar, 
+susunan 
+bahannya 
+menjadi tidak stabil dan akhirnya 
+pecah. Resonansi adalah proses ikut 
+bergetarnya suatu benda karena frekuensi alaminya sama dengan frekuensi 
+dari suatu sumber bunyi.  Resonansi sering ditemukan dalam fenomena sehari-
+hari seperti ikut bergetarnya jendela saat terjadi halilintar. Dalam alat musik 
+seperti gitar terdapat kotak resonansi di mana udara dalam kotak resonansi 
+ikut bergetar saat dawai dipetik.
+135
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+5. Pelayangan Bunyi 
+ 
+Pernahkah kalian mendengar bunyi peluit? Bunyi melengking yang kita den-
+gar sebenarnya tidak berasal hanya dari satu frekuensi saja, tetapi dari berb-
+agai frekuensi dan seringkali terdengar suaranya pelan kemudian melengk-
+ing. Fenomena ini disebut sebagai pelayangan bunyi. Pelayangan bunyi dapat 
+dijelaskan melalui prinsip superposisi gelombang seperti yang ditunjukkan 
+pada Gambar 5.26.
+Kombinasi dari dua gelombang ini disebut dengan interferensi. Saat 
+mendengar suara yang keras, berarti kedua gelombang memiliki beda fase 
+nλ . Keadaan ini disebut dengan interferensi konstruktif, sedangkan bunyi 
+yang terdengar lemah dikarenakan kedua gelombang memiliki beda fase nλ/2. 
+Adapun persamaan untuk menentukan layangan bunyi adalah:
+2
+1
+nf
+f
+f
+=
+−
+Dengan : fn         = frekuensi layangan bunyi (Hz)
+                 f1/ f2 = frekuensi benda yang berinterferensi (Hz)
+Gambar 5.26. Peristiwa layangan bunyi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Seorang anak memainkan piano dengan frekuensi 440 Hz dan anak 
+yang lain memainkan gitar dengan frekuensi 330 Hz. Berapa ketukan 
+per detikkah yang akan didengar?
+Ayo, Cek Pemahaman!
+(5.14)
+136
+Fisika untuk SMA/MA Kelas XI
+Taraf Intensitas
+Sumber
+0 dB
+Ambang pendengaran manusia
+10-20 dB
+Bisikan Kecil
+30-40 dB
+Perpustakaan
+50-70 dB
+Percakapan sehari-hari
+70-80 dB
+Lalu lintas yang ramai
+90 dB
+Alat pengebor beton
+> 90 dB
+Mesin jet
+6. Intensitas dan Taraf Intensitas Bunyi 
+Telinga manusia memiliki batas/ambang pendengaran yang berkisar 10-12 
+watt/m
+2. Jika kurang dari batas tersebut itu telinga tidak dapat mendengar 
+bunyi dari sumber bunyi. Adapun ukuran kekuatan dari bunyi dinyatakan 
+dengan istilah Taraf Intensitas Bunyi. Taraf intensitas bunyi merupakan 
+logaritma perbandingan antara intensitas yang diukur dengan intensitas 
+ambang pendengaran, yang secara matematis dapat dinyatakan dengan 
+persamaan sebagai berikut.
+0
+10log
+I
+TI
+I
+
+
+=
+
+
+
+
+Taraf intensitas memiliki satuan desiBel (dB). 
+Berikut merupakan contoh beberapa taraf intensitas beserta sumbernya.
+Tabel 5.2. Taraf Intensitas bunyi beserta sumbernya
+Lakukan percobaan ini secara berkelompok.
+1. 
+Unduhlah aplikasi Soundlevel meter, frequency generator dan pitch 
+tuner di Handphone kalian. 
+2. 
+Siapkan meteran untuk mengukur jarak antara sumber bunyi dan 
+pengukur taraf intensitas seperti Gambar 5.27.
+Ayo, Berkolaborasi!
+Aktivitas 5.7
+(5.15)
+137
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+3. 
+Nyalakan frequency generator pada HP 1 dan ukurlah level bunyi 
+menggunakan HP 2. Lakukan pengukuran berulang dengan 
+perubahan jarak 1 meter hingga 4 meter. Amati perubahan taraf 
+intensitas bunyi tersebut. Catatlah nilai pengamatan pada tabel 
+berikut:
+Tabel 5.3. Data pengamatan jarak terhadap Intensitas bunyi 
+4. 
+Buatlah graik dari hubungan taraf intensitas bunyi terhadap jarak. 
+Tariklah simpulan dari hasil percobaan.
+Gambar 5.27. Skema Percobaan taraf intensitas bunyi terhadap jarak
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+7. Aplikasi Gelombang Bunyi  
+ 
+Prinsip gelombang bunyi memiliki banyak aplikasi dalam kehidupan sehari-
+hari, salah satunya adalah NDT (Non-destructive testing) yaitu menguji 
+atau mengecek cacat bahan tanpa harus merusak material tersebut. NDT 
+menggunakan prinsip pemantulan gelombang dengan menggunakan frekuensi 
+ultrasonik. Frekuensi ultrasonik memiliki rentang frekuensi Di atas 20.000 Hz
+Jarak (m)
+Taraf Intensitas (dB)
+1.
+2.
+3.
+4.
+138
+Fisika untuk SMA/MA Kelas XI
+Saat sinyal ultrasonik mengenai suatu benda asing, maka layar akan 
+menunjukkan adanya suatu sinyal yang tidak sesuai. Selain menguji bahan, 
+NDT juga dapat dimanfaatkan dalam dunia medis, dengan menggunakan 
+prinsip yang sama yaitu mendeteksi benda asing atau suatu cacat di dalam 
+tubuh menggunakan pemantulan gelombang. 
+C. Gelombang Cahaya 
+Jika kalian melihat pelangi dengan langit biru sebagai latar belakangnya, 
+apa yang ada dalam benak kalian? Tahukah kalian bahwa pelangi adalah 
+proses penguraian cahaya polikromatis (banyak warna) menjadi cahaya 
+monokromatis (satu warna) dengan proses pemantulan dan pembiasan seperti 
+yang ditunjukkan pada Gambar 5.29. Dan tahukah kalian bahwa langit terlihat 
+berwarna biru dikarenakan adanya hamburan cahaya oleh partikel-partikel 
+yang ada di atmosfer?
+Gambar 5.29. Proses pembentukan pelangi oleh butiran air
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 5.28. Skema cara kerja NDT
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+139
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+Cahaya 
+tampak 
+merupakan 
+salah 
+satu 
+bagian 
+dari 
+gelombang 
+elektromagnetik yang rentang panjang gelombangnya dapat ditangkap oleh 
+mata kita. 
+Banyak fenomena cahaya yang kita amati sehari-hari yang dapat dijelaskan 
+dengan sifat-sifat gelombang seperti yang dijelaskan berikut ini.
+1. Interferensi Cahaya 
+ 
+Pernahkah kalian melihat warna-warni pada lapisan gelembung sabun dan 
+indahnya warna pada sayap kupu- kupu? Warna-warna tersebut merupakan 
+efek dari gabungan beberapa sumber cahaya pada selaput tipis.
+Gambar 5.31 memperlihatkan terjadinya interferensi cahaya pada 
+selaput tipis oleh gelembung sabun dan sayap kupu-kupu. Sebagian cahaya 
+dibiaskan melalui selaput tipis kemudian dipantulkan dan sebagian langsung 
+dipantulkan. Kombinasi dari dua superposisi gelombang ini akan membentuk 
+pola interferensi baik dari kombinasi panjang gelombang dan kecerahan yang 
+kemudian diterjemahkan oleh mata kita sebagai kombinasi warna yang indah.
+Gambar 5.31. Interferensi pada selaput tipis
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 5.30. Spektrum gelombang elektromagnetik
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+140
+Fisika untuk SMA/MA Kelas XI
+Tampilan layar menunjukkan hasil interferensi dua gelombang yang 
+mengakibatkan pelemahan (pola gelap) dan penguatan (pola terang). Pola 
+terang terjadi jika pertemuan kedua gelombang memiliki beda fase 0, λ, 2λ …, 
+nλ sedangkan pola gelap terjadi jika pertemuan kedua gelombang memiliki 
+beda fase λ/2, 3λ/2, 5λ/2 …, (2n+1) λ/2. 
+Percobaan interferensi cahaya pertama dilakukan oleh ilmuwan bernama 
+Thomas Young (1773 -1829). Adapun hasil yang diperoleh dari percobaan 
+yang menghubungkan lebar celah (d), pola ke-n gelap/ terang dan panjang 
+gelombang (λ) dapat dinyatakan dengan kesimpulan berikut :
+• 
+Interferensi konstruktif (saling menguatkan/membuat terang):
+sin
+d
+n
+θ
+λ
+=
+• 
+Interferensi destruktif (saling melemahkan/membuat gelap)
+(2
+1)
+sin
+2
+n
+d
+λ
+θ
++
+=
+                         
+Dengan  
+ θ = sudut simpangan antara sinar dan layar(derajat),
+ 
+ 
+ λ = panjang gelombang (m),
+d = jarak antar celah (m),
+n = 0, ±1, ±2, ±3 … (n adalah orde terang/gelap ke-n).
+(5.16)
+(5.17)
+Percobaan tentang interferensi dapat dilihat pada Gambar 5.32. Gelombang 
+datang akan melewati dua celah sehingga terbentuk dua gelombang. Menurut 
+prinsip Huygens dua gelombang ini akan koheren satu sama lain sehingga 
+kedua gelombang bisa bersuperposisi. 
+Gambar 5.32. Pola interferensi pada cahaya
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+141
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+2. Difraksi Cahaya
+Jika kita melihat ke langit, terkadang 
+kita bisa melihat cahaya menyebar 
+melalui awan, seperti pada Gambar 
+5.34. Fenomena yang kalian lihat 
+adalah salah satu contoh fenomena 
+yang disebut dengan difraksi.
+Gambar 5.34. Fenomena difraksi di alam
+Sumber: pixabay/pexels.com (2016)
+Gambar 5.35. Pembentukan difraksi pada suatu celah
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Perbedaan panjang lintasan pada gelombang cahaya berlaku juga 
+untuk gelombang bunyi dalam menentukan jenis interferensi. 
+Menggunakan prinsip yang sama, siapakah yang mendengar 
+interferensi konstruktif dan siapakah yang mendengar interferensi 
+destruktif dari kasus berikut.
+Ayo, Cek Pemahaman!
+Gambar 5.33. Beda lintasan gelombang pada dua pengamat
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Difraksi adalah efek pembelokan atau penyebaran arah muka gelombang 
+yang terjadi saat gelombang menemui sebuah ujung penghalang ataupun 
+celah sempit. Gambar 5.35 menunjukkan hubungan antara lebar celah dan 
+pola penyebaran arah muka gelombang.
+142
+Fisika untuk SMA/MA Kelas XI
+Fenomena difraksi secara umum dibagi menjadi difraksi celah tunggal 
+dan difraksi pada kisi. 
+Perhatikan 
+Gambar 
+5.36. 
+Ketika 
+sebuah sumber gelombang melewati 
+celah 
+sempit, 
+gelombang 
+akan 
+menyebar dan membentuk suatu 
+pola apabila tertangkap oleh layar.
+Pola menunjukkan daerah dengan 
+intensitas 
+tinggi 
+dan 
+intensitas 
+rendah. 
+Adapun 
+penentuan 
+pola 
+intensitas terendah pada difraksi 
+celah tunggal dengan lebar celah 
+(d) dan panjang gelombang (λ) akan 
+mengikuti persamaan (5.16), dengan 
+nilai n = ±1, ±2, ±3 …
+a. Difraksi celah tunggal
+Gambar 5.36. Pola difraksi cahaya pada celah tunggal 
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+1. 
+Siapkan sebuah laser pointer, meteran dan penggaris. Lakukan 
+percobaan di ruang gelap untuk mendapatkan pengamatan yang 
+lebih baik.
+2. 
+Buatlah sebuah celah yang sangat kecil, menggunakan kertas atau 
+plastik, kemudian rancanglah percobaan seperti pada Gambar 5.37. 
+Prosedur
+Ayo, Berkolaborasi!
+Aktivitas 5.8
+Gambar 5.37. Rancangan percobaan difraksi cahaya
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+143
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+3. Dari percobaan tentukan tebal rambut/benang (d) yang diperoleh 
+menggunakan persamaan: 
+sin
+y
+d
+d
+n
+L
+θ
+λ
+≈
+=
+Dengan :  
+L = jarak dari celah ke sumber sinar, 
+λ = panjang gelombang yang tertera di laser 
+ataupun bisa di cek nilai kisarannya di 
+internet, 
+n = orde terang ke-n,
+y = simpangan panjang gelombang dari terang 
+pusat.
+4. Dari hasil percobaan gambarkan juga pola difraksi yang terbentuk. 
+(5.18)
+Salah satu aplikasi difraksi kisi adalah penentuan struktur kristal pada 
+suatu bahan. Pola difraksi yang terbentuk dapat ditunjukkan dalam Gambar 
+5.38. Untuk penentuan pola terang pada difraksi kisi, dapat digunakan persa-
+maan (5.16).
+b. Difraksi Kisi 
+ 
+Kisi adalah banyak celah sangat sempit dengan jarak antara celahnya dibuat 
+sama untuk mendapatkan pola yang sama. Salah satu contoh aplikasi difrak-
+si pada kisi adalah penentuan struktur kristal karena kristal memiliki pola 
+yang berulang. Jumlah kisi per satuan panjang disebut dengan konstanta kisi. 
+Hubungan antara konstanta kisi dan lebar kisi dapat dihitung dengan persa-
+maan berikut.
+1
+d
+N
+=
+Contoh 200 garis/1 cm berarti dalam 1 cm terdapat 200 kisi.
+Gambar 5.38. Pola difraksi pada kisi dan kisi difraksi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(5.19)
+144
+Fisika untuk SMA/MA Kelas XI
+Polarisasi adalah peristiwa penyerapan arah bidang getar dari suatu 
+gelombang. Polarisasi hanya berlaku pada gelombang transversal saja karena 
+arah getarnya tegak lurus dengan arah rambatnya. Untuk memahami cara 
+kerja dari polarisasi, perhatikan Gambar 5.40.
+Cahaya 
+adalah 
+gelombang 
+transversal 
+sehingga 
+cahaya 
+dapat 
+dipolarisasikan, sedangkan bunyi tidak dapat mengalami polarisasi. Cahaya 
+yang dihasilkan oleh sinar matahari merupakan gelombang yang tidak 
+terpolarisasi karena gelombang cahaya mempunyai banyak kemungkinan 
+arah getar. Adapun alat untuk menyerap arah getar gelombang cahaya disebut 
+dengan polarisator yang dapat dilihat pada Gambar 5.41. 
+Intensitas cahaya yang diamati pengamat akan tereduksi yang besarnya 
+dapat dihitung  dengan persamaan
+2
+0 cos
+I
+I
+θ
+=
+Dengan : 
+I0   =  intensitas mula-mula (Watt/m
+2), 
+I   =  intensitas setelah melewati polarisator (Watt/m
+2), 
+θ = sudut antara sumbu polarisator dan 
+sumbu analisator (derajat).
+Gambar 5.40. Prinsip kerja polarisasi 
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 5.41. Proses polarisator menyerap arah getar gelombang cahaya
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(5.20)
+Gambar 5.39. Prinsip kerja kacamata 3D
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+3. Polarisasi  
+Apakah kalian pernah menonton 
+bioskop dengan itur 3D?  kita 
+menggunakan  kacamata khusus 
+yaitu kacamata 3D. Kacamata ini 
+menggunakan 
+salah 
+satu 
+sifat 
+gelombang yang disebut dengan 
+polarisasi.
+145
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+Suatu berkas cahaya dengan intensitas I0 melewati polarisator dan 
+analisator seperti yang ditunjukkan pada Gambar 5.42!
+Apabila setelah melewati polarisator intensitas turun menjadi 
+setengah intensitas awal, tentukan persentase intensitas cahaya 
+setelah melewati analisator. 
+Ayo, Cek Pemahaman!
+Gambar 5.42. Cahaya yang melewati polarisator
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+4. Aplikasi Gelombang Cahaya 
+ 
+Televisi merupakan salah satu teknologi yang sangat mengubah muka dunia 
+ini. Dahulu televisi berukuran besar dan sangat boros energi tetapi sekarang 
+ukurannya lebih ramping dan lebih hemat energi.
+Gambar 5.43. TV tabung, TV LCD dan TV LED dan cara kerjanya
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+146
+Fisika untuk SMA/MA Kelas XI
+Gelombang merupakan fenomena dalam isika yang memiliki 
+aplikasi luas pada teknologi masa kini. Gelombang merupakan energi 
+yang merambat. Sifat gelombang adalah releksi, refreksi, difraksi, 
+interferensi dan pada gelombang transversal terdapat tambahan 
+sifat polarisasi. Adapun sifat-sifat gelombang dapat dijelaskan 
+dengan prinsip-prinsip gelombang seperti prinsip Huygens-Fresnel, 
+superposisi dan intensitas gelombang.
+Difraksi cahaya merupakan pembelokan arah muka gelombang 
+karena melalui suatu celah atau penghalang. Interferensi konstruktif 
+merupakan gabungan dua gelombang koheren dengan beda fase n 
+sedangkan interferensi destruktif gabungan dua gelombang dengan 
+beda fase n/2.  
+Efek Doppler adalah efek dimana pengamat mendengar 
+frekuensi yang berbeda dari sumber karena adanya perubahan 
+panjang gelombang relatif antara pengamat dan sumber bunyi, 
+Sumber bunyi sendiri dapat berupa dawai, pipa organa, kulit dan 
+logam.
+Intisari
+Teknologi yang mendukung eisiensi dan ukuran TV kini didominasi 
+oleh LCD dan LED.  
+Liquid crystal device (LCD) merupakan suatu teknologi dimana 
+cairan kristal dapat diatur posisinya sehingga bisa menyaring beberapa 
+sumber arah getar dan menampilkan arah getar yang diharapkan 
+dengan menggunakan prinsip polarisasi. Layar LCD memanfaatkan 
+sifat-sifat cahaya seperti releksi, refraksi, difraksi dan polarisasi untuk 
+menampilkan gambar yang diharapkan. 
+Berbeda dengan LCD, layar light emmiting diode (LED) memanfaatkan 
+banyak led sebagai sumber cahaya yang kecerahannya dapat diatur secara 
+elektronik. Sumber ini kemudian dilewatkan pada beberapa lapisan dan 
+akan melewati layar RGB. Layar RGB terdiri atas jutaan elemen dengan 
+warna merah, hijau dan biru. Ketiga warna ini dikombinasikan secara 
+elektronik untuk menampilkan gambar dengan kecerahan dan warna 
+yang diharapkan.
+147
+ Bab 5 | Gelombang, Bunyi dan Cahaya
+1. Bagaimanakah pandangan kalian akan prinsip gelombang dalam 
+kemajuan teknologi? 
+2. Bagaimana kalian bisa memanfaatkan prinsip-prinsip gelombang 
+untuk menjelaskan beberapa fenomena yang berhubungan 
+dengan bunyi dan cahaya?
+Releksi
+1. 
+Sebuah layar yang dihubungkan dengan roller berdiameter 10 cm 
+digunakan 
+untuk 
+mendemonstrasikan 
+pergerakan 
+gelombang 
+menggunakan dua sistem pegas yang identik yang dihubungkan dengan 
+kuas berwarna beserta sumber getaran seperti yang ditunjukkan pada 
+gambar di bawah. 
+2. Joko dan Susan memainkan sumber bunyi yang berbeda, Joko memetik 
+dawai sepanjang L cm sedangkan Susan meniup pipa organa dengan 
+ujung tertutup sepanjang D cm di mana D : L = 3 : 4. Menggunakan tuner 
+mereka mengambil kesimpulan bahwa nada dasar dawai akan sama 
+dengan nada atas pertama dari pipa organa ujung tertutup, dan frekuensi 
+nada dasar dari pipa organa adalah 250 Hz. Jika cepat rambat bunyi pada 
+dawai adalah 650 m/s, tentukan cepat rambat bunyi di dalam pipa organa!
+Anggap kuas berosilasi tanpa gesekan terhadap permukaan dan roller 
+berputar tanpa slip. Saat kedua pegas ditarik bersamaan sejauh 40 cm 
+(pegas1) dan 20 cm (pegas 2), tentukan:
+a. panjang gelombang yang dihasilkan masing-masing sistem pegas,
+b. beda simpangan antara dua beban pada detik ke-1,
+c. perbandingan energi potensial pegas 1 dan 2. 
+Asesmen
+148
+Fisika untuk SMA/MA Kelas XI
+3. Siti bersepeda dengan kecepatan 10 m/s kemudian dari arah berlawanan 
+sebuah ambulans mendekat dan kemudian melewati Siti dengan kecepatan 
+72 km/jam sambil membunyikan sirene dengan frekuensi 900 Hz. Jika 
+cepat rambat bunyi udara adalah 330 m/s dan di depan ambulans terdapat 
+tembok yang dapat memantulkan suara (anggap kecepatan suara tidak 
+berubah), tentukan:
+4. Seorang peneliti melakukan pengukuran hubungan taraf intensitas bunyi 
+suatu mesin di sebuah pabrik terhadap jarak pengamat. Berdasarkan hasil 
+pengukuran diperoleh graik sebagai berikut.
+5. Pada percobaan celah ganda, digunakan sebuah laser dengan panjang 
+gelombang 700 nm dan lebar antar celah 2 mm. Di seberang celah terdapat 
+layar dengan jarak 2 meter. Dari percobaan tersebut, tentukan:
+a. perbandingan frekuensi sirene yang terdengar oleh Siti saat ambulans 
+mendekati dan menjauhi dirinya, 
+b. layangan bunyi yang didengar karena pantulan suara setelah ambulans 
+melewati Siti.
+Dari data tersebut.
+a. bagaimanakah hubungan jarak dan taraf intensitas bunyi
+b. tentukan nilai intensitas mesin pada jarak 2 meter
+c. tentukan taraf intensitas pada jarak 5 meter hingga ketelitian 0,01 dB 
+a. jarak pola terang kedua dari terang pusat,
+b. jumlah orde terang maksimum yang masih dapat teramati di layar,
+c. jarak pola terang kedua dari terang pusat, jika celah ganda diganti 
+dengan kisi difraksi dengan ukuran 200 kisi/cm.

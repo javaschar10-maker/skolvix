@@ -1,0 +1,2638 @@
+Bab 4
+Bab 4
+Peluang
+Peluang
+Konsep peluang dapat digunakan untuk menyusun strategi dalam 
+pertandingan sepak bola. Bagaimana cara seorang pelatih menggunakan 
+konsep peluang dalam menyusun strategi untuk melawan tim lawan? 
+?
+KEMENTERIAN PENDIDIKAN DASAR DAN MENENGAH
+REPUBLIK INDONESIA, 2025
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+Penulis: Mohammad Tohir, dkk 
+ISBN: 978-634-00-3118-8 (jil.3 PDF)
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+124
+Tujuan Pembelajaran 	
+Setelah kamu mempelajari bab ini,  diharapkan dapat menerapkan konsep 
+kombinatorik dalam menentukan peluang kejadian dan kejadian majemuk 
+untuk menganalisis situasi nyata yang melibatkan ketidakpastian secara logis 
+dan menyenangkan.
+Kata Kunci 	
+	
+ࡋ
+Peluang
+	
+ࡋ
+Kejadian     
+	
+ࡋ
+Ruang sampel 
+	
+ࡋ
+Kejadian majemuk    
+	
+ࡋ
+Frekuensi harapan
+	
+ࡋ
+Kejadian saling bebas     
+	
+ࡋ
+Kejadian saling lepas
+	
+ࡋ
+Kejadian bersyarat     
+Peta Konsep 	
+Ruang Sampel
+Peluang Kejadian
+ Kejadian Majemuk
+Saling Lepas
+ Kejadian Majemuk
+Saling Bebas
+ Kejadian Majemuk
+ Saling Bebas
+Bersyarat
+ Peluang Suatu
+Kejadian
+ Peluang Kejadian
+Majemuk
+Frekuensi Harapan
+Berhubungan
+Memuat
+Memuat
+Memuat
+Dibagi menjadi tiga bagian
+Peluang
+Bab 4 | Peluang
+125
+A.	 Peluang Suatu Kejadian 
+Ayo, Mengingat Kembali
+Coba kamu amati dengan cermat terhadap kedua masalah berikut. Apa 
+yang dapat kamu simpulkan dari materi permutasi dan kombinasi? 
+Jelaskan.
+Masalah A
+Menjelang pergantian kepengurusan OSIS SMA Semangat 45, dibentuk 
+panitia inti sebanyak 4 orang yang terdiri dari ketua, wakil ketua, sekretaris, 
+dan bendahara, terdapat 9 orang yang menjadi calon panitia tersebut. 
+Berapa banyak cara memilih panitia inti?
+Alternatif penyelesaian:
+Misalkan 9 orang tersebut adalah a, b, c, d, e, f, g, h, dan i.
+Perhatikan bahwa pada soal ini susunan diperhatikan. Misalkan 4 siswa 
+yang terpilih adalah a, b, c dan d. Dengan intuisi, jelas bahwa jika a sebagai 
+ketua, b sebagai wakil ketua, c sebagai sekretaris, dan d sebagai bendahara, 
+berbeda susunannya jika a sebagai ketua, d sebagai wakil ketua, c sebagai 
+sekretaris, dan b sebagai bendahara.
+Penyelesaian masalah A ini dapat dilakukan dengan permutasi 4 objek 
+yang dipilih dari 9 objek.
+!
+!
+P
+n
+r
+n
+r
+n =
+-
+^
+h
+!
+!
+!
+. . . . !
+P
+9
+4
+9
+5
+9 8 7 6 5
+4
+9 =
+-
+=
+^
+h
+= 9 × 8 × 7 × 6 = 3.024
+Jadi, banyak cara memilih panitia inti tersebut ada 3.024 cara.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+126
+Masalah B
+Menjelang pergantian kepengurusan OSIS SMA Semangat 45, akan 
+dibentuk panitia inti sebanyak 4 orang saja. Calon panitia tersebut ada 
+9 orang. Berapa banyak cara memilih panitia inti tersebut?
+Alternatif penyelesaian:
+Perhatikan bahwa pada soal ini susunan tidak diperhatikan dari orang 
+yang dipilih, sehingga dapat menggunakan formula kombinasi, yaitu 
+sebagai berikut.
+!. !
+!
+C
+n
+r
+r
+n
+r
+n =
+-
+^
+h
+!. !
+!
+. . . . !
+!. !
+C
+9
+4
+4
+9
+9 8 7 6 5
+5 4
+4
+9 =
+-
+=
+^
+h
+= 9 × 2 × 7 = 126
+Jadi, banyak cara memilih panitia inti tersebut ada 126 cara.
+Setelah kamu mengamati kedua masalah tersebut dan memperoleh 
+kesimpulan dengan pemahaman yang sama, coba perhatikan uraian berikut 
+untuk memperdalam pengetahuanmu tentang peluang suatu kejadian.   
+Tahukah Kalian
+Blaise Pascal lahir di Prancis pada tanggal 19 
+Juni 1623. Ia lahir dalam keluarga yang makmur. 
+Ayahnya adalah seorang penasihat kerajaan yang 
+akhirnya menjadi kepala organisasi The Court 
+of Aids yang berpusat di Clermont. Pascal tidak 
+pernah bertemu ibunya sejak ia berusia empat 
+tahun. Meskipun ia tidak bersekolah formal, Pascal 
+dikenal karena kecerdasannya. Pada usia 12 tahun, 
+ia mampu membuat mesin hitung untuk membantu 
+ayahnya bekerja. Pekerjaannya berkembang dari membuat bangunan 
+segi enam (heksagram) hingga menemukan prinsip kerja barometer dan 
+mekanisme pengoperasian jam, serta terlibat dalam pembangunan sistem 
+transit bawah tanah Paris.
+Gambar 4.1 Blaise Pascal 
+(1623–1662 M)
+Bab 4 | Peluang
+127
+Blaise Pascal menulis beberapa karya tentang matematika, termasuk teori 
+peluang. Masalah perjudian memotivasi pengembangan teori peluang. 
+Pada tahun 1654, seorang penjudi bernama Chevalier de Mere menyadari 
+adanya masalah dalam permainan. Ketika Chevalier kalah dalam 
+permainan, ia memerintahkan Pascal untuk menyelidiki penyebabnya. 
+Pascal menemukan bahwa sistem permainan tidak akan pernah berpihak 
+pada penjudi. Hal ini menunjukkan bahwa peluang penjudi untuk kalah 
+jauh lebih besar daripada kemungkinannya untuk menang. Ia juga meneliti 
+masalah peluang dengan Pierre de Fermat (1601–1665), matematikawan 
+terkenal lainnya. Antara bulan Juni dan Oktober 1654, Blaise Pascal dan 
+Pierre de Fermat meneliti konsep peluang dalam tujuh surat.
+Beberapa pelajaran dapat diambil dari narasi singkat di atas, di antaranya 
+seperti berikut.
+1.	
+Terlepas dari tempat kelahiran dan status keluargamu, kamu tidak 
+boleh berhenti bekerja keras untuk selalu belajar.
+2.	
+Hal-hal yang dipandang negatif dan bahkan dilarang oleh agama 
+terkadang muncul dalam budayamu. Jika sebagai generasi penerus 
+bangsa berusaha mencari sumbernya, maka tidak ada yang salah. Seperti 
+yang dilakukan Pascal, dengan mengamati dan menganalisis perjudian 
+secara saksama, kamu akan mengerti mengapa perjudian itu buruk.
+Ayo, Bereksplorasi
+∑
+Adi dan Ani pergi ke ruang komputer 
+sekolah 
+bersama-sama 
+saat 
+istirahat 
+untuk 
+menyelesaikan 
+tugas 
+mereka. 
+Setelah berunding, mereka sepakat untuk 
+bergantian 
+menggunakan 
+komputer 
+selama 
+satu 
+jam. 
+Permasalahannya, 
+siapa yang akan menggunakan komputer 
+terlebih dahulu? Menurutmu, bagaimana 
+strateginya agar masalah ini terselesaikan 
+secara tepat? Jelaskan jawabanmu.
+Gambar 4.2 Dua Anak Menggunakan Komputer
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+128
+Adi dan Ani mempertimbangkan cara yang adil agar hasilnya memberikan 
+kemungkinan yang sama. Adi menyarankan untuk mengundi dengan tiga 
+pilihan berikut ini.
+1.	
+Mengetos satu koin uang logam (2 sisi) sekali. 
+Jika muncul sisi angka pada pengetosan, maka 
+Adi yang berhak menggunakan komputer lebih 
+dulu. Jika sisi gambar yang muncul, maka Ani 
+yang berhak menggunakan komputer lebih dulu.
+2.	
+Mengambil satu kelereng dari tiga kelereng 
+yang disiapkan dengan mata tertutup. Kelereng 
+yang disiapkan adalah warna merah, kuning, 
+dan hijau. Adi meminta Ani untuk memikirkan 
+satu kelereng warna sebarang. Kemudian Ani 
+mengambil (dengan mata tertutup) satu kelereng 
+dari dalam kantong yang sudah dipersiapkan. Jika 
+kelereng yang diambil Ani sesuai dengan yang 
+dia pikirkan, maka Ani berhak menggunakan 
+komputer lebih dulu. 
+3.	
+Menggelindingkan satu dadu bersisi enam. Jika 
+yang muncul di sisi atas adalah bilangan genap, 
+maka 
+Ani 
+berhak 
+menggunakan 
+komputer 
+terlebih dahulu. Jika yang muncul di sisi atas 
+adalah 
+bilangan 
+ganjil, 
+maka 
+Adi 
+berhak 
+menggunakan komputer terlebih dahulu.
+Petunjuk
+Suatu cara dikatakan adil dalam masalah Adi dan Ani di atas, jika dengan 
+cara tersebut Adi dan Ani mempunyai kesempatan yang sama untuk 
+mendapatkan giliran menggunakan komputer terlebih dahulu. Untuk 
+mengetahui cara yang digunakan tersebut adil atau tidak, kamu dapat 
+melakukan percobaan dengan mengikuti langkah-langkah berikut.
+Gambar 4.3 Koin Uang Logam
+Gambar 4.4 Tiga Kelereng
+Gambar 4.5 Dadu Bilangan
+Bab 4 | Peluang
+129
+Alat dan bahan:
+	
+ࡋ	 Satu koin.
+	
+ࡋ	 Tiga kelereng (warna merah, kuning, dan hijau) dalam satu kantong 
+terbungkus rapi.
+	
+ࡋ	 Satu dadu.
+Langkah percobaan:
+1.	
+Lakukan percobaan dengan langkah berikut.
+a.	
+Mengetos satu koin minimal sebanyak  50 kali.
+b.	
+Ambil satu kelereng dari dalam kantong dengan mata tertutup 
+minimal sebanyak 60 kali.
+c.	
+Gelindingkan dadu minimal sebanyak  120 kali.
+2.	
+Amati hasil yang didapatkan pada setiap percobaan.
+3.	
+Gunakan tabel seperti berikut agar catatanmu rapi.
+Percobaan koin
+Tabel 4.1 Hasil Percobaan Koin
+Kejadian
+Turus
+Banyak muncul 
+(f)
+Rasio f terhadap n(P)
+n P
+f
+^ h
+Sisi Angka
+Sisi Gambar
+Total percobaan (n(P))
+Percobaan kelereng
+Tabel 4.2 Hasil Percobaan Kelereng
+Kejadian
+Turus
+Banyak muncul 
+(f)
+Rasio f terhadap n(P)
+n P
+f
+^ h
+Kelereng merah
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+130
+Kejadian
+Turus
+Banyak muncul 
+(f)
+Rasio f terhadap n(P)
+n P
+f
+^ h
+Kelereng kuning
+Kelereng hijau
+Total percobaan (n(P))
+Percobaan dadu
+Tabel 4.3 Hasil Percobaan Dadu
+Kejadian
+Turus
+Banyak muncul 
+(f)
+Rasio f terhadap n(P)
+n P
+f
+^ h
+Mata dadu “1”
+Mata dadu “2”
+Mata dadu “3”
+Mata dadu “4”
+Mata dadu “5”
+Mata dadu “6”
+Total percobaan (n(P))
+	 Pada kolom keempat, rasio (hasil bagi) frekuensi terhadap banyaknya 
+percobaan disebut peluang empirik.
+Tahukah Kalian
+Turus merupakan bentuk penulisan frekuensi dalam tabel dengan 
+menggunakan garis lurus dan garis miring. Misalkan, turus “|||” berarti 
+ada 3 data.
+Bab 4 | Peluang
+131
+Ayo, Berkolaborasi
+Banyak situasi dalam kehidupan sekitar yang menuntut kalian untuk 
+membuat keputusan secara adil. Untuk membuat keputusan yang adil, kalian 
+harus menggunakan cara yang adil juga. Pada kegiatan eksplorasi di atas 
+telah disajikan tiga benda, yaitu koin, kelereng, dan dadu untuk membantu 
+membuat keputusan adil. Masih banyak benda di sekitar kalian yang dapat 
+digunakan untuk membuat keputusan yang adil. 
+1.	
+Sebutkan contoh benda yang dapat digunakan untuk mengundi suatu 
+kondisi yang memungkinkan terjadi 4 kejadian secara adil.
+2.	
+Sebutkan contoh benda yang dapat digunakan untuk mengundi suatu 
+kondisi yang memungkinkan terjadi n kejadian secara adil.
+3.	
+Jika m menyatakan banyak percobaan dan n menyatakan banyak 
+kemunculan kejadian A dari percobaan tersebut, maka nyatakan peluang 
+empirik kejadian A.
+Tahukah Kalian
+Kehadiran suatu eksperimen atau kejadian sebelumnya terkait erat 
+dengan istilah peluang. Kemungkinan terjadinya suatu peristiwa dari 
+percobaan terbatas dapat dipahami sebagai peluang dalam konteks teori 
+peluang. Kisaran nilai nyata, dari 0 hingga 1, digunakan untuk menentukan 
+kemungkinan terjadinya suatu peristiwa sebagai akibat dari percobaan. 
+Peristiwa yang tidak mungkin terjadi atau mempunyai kemungkinan 
+terjadi sangat rendah diberi nilai 0 atau peluangnya nol, sedangkan 
+peristiwa dengan kemungkinan besar terjadi diberi nilai 1 atau peluangnya 
+1. Suatu kejadian yang peluangnya bernilai 0 disebut dengan kemustahilan, 
+sedangkan kejadian yang peluangnya bernilai 1 disebut dengan kepastian.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+132
+1.	 Ruang Sampel
+DefinisiáʙŔnǊêŔȜɝeȊ
+Ruang sampel adalah himpunan semua hasil percobaan yang mungkin 
+terjadi. Misalkan S sebagai ruang sampel dan A merupakan sebarang 
+kejadian dalam S, maka P(A) disebut sebagai peluang pada ruang sampel 
+S apabila kisaran nilai peluangnnya mulai dari 0 sampai dengan 1 atau 
+dapat ditulis seperti aksioma berikut.
+0 ≤ P(A) ≤ 1 
+Misalkan A merupakan suatu kejadian pada semesta yang peluangnya dapat 
+dinotasikan oleh P(A). Sementara itu, Ac merupakan kejadian selain dari 
+kejadian A yang ada pada semesta atau dapat disebut juga kejadian komplemen 
+(pelengkap) A. Komplemen dari kejadian A memiliki peluang P(Ac).
+P(A) + P(Ac) = 1 atau P(Ac) = 1 - P(A)
+2.	 Peluang Suatu Kejadian
+DefinisiÚeȊʙŔnǊêʙŔʄʙeǼŔƌiŔn
+Peluang adalah angka atau besaran yang digunakan untuk mengekspresikan 
+seberapa mungkin sesuatu terjadi. Jika suatu percobaan mempunyai 
+n percobaan secara keseluruhan dan suatu kejadian A terjadi dalam 
+m percobaan, maka peluang terjadinya kejadian A adalah P(A). Secara 
+matematis ditunjukkan sebagai berikut.
+P(A) = n
+m
+Contoh
+4.1
+Dua koin uang logam dilempar empat kali berturut-
+turut. Berapakah peluang muncul angka pertama 
+kali pada pelemparan keempat?
+Alternatif penyelesaian:
+Tentukan semua hasil yang mungkin (ruang sampel) 
+dari pelemparan dua koin uang logam tersebut.
+Gambar 4.6 Dua Koin Uang 
+Logam
+Bab 4 | Peluang
+133
+Ada sebanyak 4 kemungkinan pada pelemparan pertama, semua hasil yang 
+mungkin, yaitu {AA, AG, GA, GG}.
+Perhatikan ilustrasi gambar berikut. 
+A/G
+A
+G
+A
+AA
+AG
+G
+GA
+GG
+Koin uang logam I
+Koin uang logam II
+Demikian pula, ada empat kemungkinan untuk lemparan kedua.
+Pada upaya pelemparan ketiga, ada empat kemungkin yang terjadi.
+Pada upaya pelemparan keempat, juga ada empat kemungkin yang terjadi.
+Jadi, banyaknya semua hasil yang mungkin dari empat kali pelemparan 
+sebanyak 4 × 4 × 4 × 4 = 44.
+Misalkan N adalah kejadian munculnya angka (A) pertama kali pada 
+pelemparan keempat dan nilai N menyatakan kejadian munculya, maka 
+N = {AA, AG, GA}, sehingga P(N) = 4
+3
+4 .
+Jadi, peluang munculnya angka pertama kali pada pelemparan keempat 
+adalah 4
+1
+4
+1
+4
+1
+4
+3
+4
+3
+4
+#
+#
+#
+#=
+.
+Contoh
+4.2
+Diberikan 3 kelereng merah, 4 kelereng hijau, 
+dan 5 kelereng biru dalam suatu kotak. Jika 
+diambil tiga kelereng sekaligus dari kotak, 
+berapakah 
+peluang 
+terjadinya 
+kejadian 
+berikut?
+a.	
+Tiga kelereng yang diambil semuanya 
+berwarna merah. 
+Gambar 4.7 Kelereng dalam Kotak
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+134
+b.	
+Tiga kelereng tersebut semuanya berwarna biru.
+c.	
+Terambil dua kelereng berwarna merah dan satu kelereng berwarna 
+hijau.
+d.	
+Masing-masing satu kelereng berwarna merah, hijau, dan biru.
+Alternatif penyelesaian:
+Diketahui jumlah seluruh kelereng yang ada sebanyak 12 butir. 
+Adapun banyak cara dalam memilih 3 kelereng dari 12 kelereng adalah C3
+12 = 220. 
+a.	
+Banyak cara dalam memilih 3 kelereng berwarna merah dari 3 kelereng 
+berwarna merah adalah C3
+3 = 1.
+	
+Jadi, peluang tiga kelereng yang terambil semuanya merah adalah 220
+1
+.
+b.	
+Banyak cara dalam memilih 3 kelereng berwarna biru dari 5 kelereng 
+berwarna biru adalah C3
+5 = 10.
+	
+Jadi,  peluang tiga kelereng yang terambil semuanya biru adalah 220
+10
+22
+1
+=
+.
+c.	
+Banyak cara dalam memilih 2 kelereng berwarna merah dari 3 kelereng 
+berwarna merah adalah C2
+3 = 3.
+	
+Banyak cara dalam memilih 1 kelereng berwarna hijau dari 4 kelereng 
+berwarna hijau adalah C1
+4 = 4.
+	
+Sesuai kaidah perkalian, banyaknya cara memilih 2 kelereng berwarna 
+merah dan 1 kelereng berwarna hijau adalah 3 × 4 = 12.
+	
+Jadi, peluang yang terambil dua kelereng berwarna merah dan satu 
+kelereng berwarna hijau adalah 220
+12 .
+d.	
+Banyak cara dalam memilih 1 kelereng berwarna merah dari 3 kelereng 
+berwarna merah adalah C1
+3 = 3.
+	
+Banyak cara dalam memilih 1 kelereng berwarna hijau dari 4 kelereng 
+berwarna hijau adalah C1
+4 = 4.
+	
+Banyak cara dalam memilih 1 kelereng berwarna biru dari 5 kelereng 
+berwarna biru adalah C1
+5 = 5.
+Dengan demikian,  banyak cara dalam memilih 1 kelereng berwarna merah, 1 
+kelereng berwarna hijau, dan 1 kelereng berwarna biru adalah 3 × 4 × 5 = 60. 
+Jadi, peluang yang terambil masing-masing satu kelereng berwarna merah, 
+hijau, dan biru adalah 220
+60 .
+Bab 4 | Peluang
+135
+Ayo, Berpikir Kritis
+Seorang pembudidaya ikan menambahkan enam puluh ikan ke dalam 
+kolam. Kolam ikan terendam banjir dua hari sebelumnya karena hujan 
+lebat, pembudidaya ikan berupaya memperkirakan jumlah ikan saat ini di 
+kolam dengan menangkap dan menghitungnya. Awalnya, dia menangkap 
+dan menandai hingga tiga puluh ikan sebelum mengembalikannya 
+ke kolam. Dia menangkap empat puluh ikan keesokan harinya, dua di 
+antaranya diberi tanda. Pembudidaya ikan optimistis hasil tangkapannya 
+tidak akan berkurang. Apakah kamu mempunyai sudut pandang yang 
+sama dengan pembudidaya ikan? Jelaskan.
+Latihan
+4.1
+1.	
+Frekuensi gempa bumi menjadi subjek 
+film dRkumenter 7Rpik tentang seberapa 
+mudah gempa bumi diprediksi juga 
+disertakan dalam film tersebut
+	
+Menurut 
+seorang 
+ahli 
+geologi, 
+kemungkinan terjadinya gempa bumi di 
+Kota A selama 20 tahun ke depan adalah 
+dua per tiga.
+	
+Manakah dari pernyataan berikut yang paling akurat sesuai komentar 
+ahli geologi tersebut?
+a.	
+Dikarenakan 3
+2 × 20 = 13,3; maka Kota A akan mengalami gempa 
+bumi dalam 13 atau 14 tahun.
+b.	
+Dikarenakan 3
+2 lebih besar dari 2
+1 , maka Kota A kemungkinan akan 
+mengalami gempa bumi dalam 20 tahun ke depan.
+c.	
+Kemungkinan gempa bumi terjadi di Kota A dalam 20 tahun ke depan 
+lebih besar daripada kemungkinan tidak terjadi sama sekali.
+d.	
+Karena tidak ada yang dapat memprediksi kapan gempa bumi akan 
+terjadi, manusia tidak dapat memprediksi apa yang akan terjadi.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+136
+2.	
+Mahira mulai mengunduh jadwal pertandingan sepak bola Piala Dunia 
+yang akan datang dimulai dari babak perempat final %erikut bagan yang 
+diperoleh Mahira.
+URUGUAY
+PRANCIS
+BRAZIL
+BELGIA
+SWEDIA
+INGGRIS
+RUSIA
+KROASIA
+SEMIFINAL
+SEMIFINAL
+SEMIFINAL
+SEMIFINAL
+FINAL
+JUARA
+FINAL
+	
+Selanjutnya, Mahira memberikan jajak pendapat kepada teman-temannya 
+yang dahulu rutin menonton pertandingan sepak bola dan menikmati 
+permainan tersebut. Berdasarkan jajak pendapat yang dilakukan Mahira, 
+ia dapat menghitung peluang masing-masing tim tersebut untuk menang 
+di babak perempat final, seperti yang ditunMukkan pada tabel berikut ini 
+Namun, semua tim memiliki peluang yang sama untuk menang, yakni 
+, di babak selanMutnya, yang terdiri dari semifinal dan final
+Prakiraan Perempat Final Piala Dunia
+Pertandingan
+Asal Negara
+Peluang Menang
+Total Peluang
+1
+Uruguay
+0,5
+1
+Prancis
+0,5
+2
+Brazil
+0,8
+1
+Belgia
+0,2
+3
+Swedia
+0,3
+1
+Inggris
+0,7
+4
+Rusia
+0,4
+1
+Kroasia
+0,6
+Bab 4 | Peluang
+137
+	
+Berdasarkan bagan pertandingan Piala Dunia dan tabel peluang yang 
+dikumpulkan data oleh Mahira menunjukkan bahwa peluang Inggris 
+untuk memenangkan turnamen tersebut adalah ....
+A.	 0,125	
+	
+	
+	
+B.	
+0,175	
+	
+	
+	
+C.	
+0,343
+D.	 0,95	
+	
+	
+	
+E.	
+1	
+3.	
+Jika tiga dadu standar bersisi enam dilempar bersama-sama, berapakah 
+peluang jumlah total dadu pada ketiga pelemparan sama dengan 12?
+4.	
+Indonesia berencana untuk mengirimkan delegasi siswa SMA ke Olimpiade 
+Matematika Internasional (IMO) tahun 2026. Ada sepuluh peserta yang 
+mungkin mengikuti, yaitu terdiri dari 6 siswa aljabar, dan 4 siswa ilmu 
+komputer. Delegasi terdiri dari 3 siswa saja yang harus dipilih secara 
+acak dari sepuluh kandidat yang ada. Sebagai anggota panitia seleksi, 
+kamu bertugas mengembangkan berbagai skenario pemilihan delegasi 
+untuk memastikan bahwa tim memiliki bakat yang seimbang dan peluang 
+menang tertinggi. Buatlah setidaknya dua strategi pemilihan delegasi yang 
+menurutmu paling adil dan efektif berdasarkan latar belakang kandidat. 
+Kemudian, hitung kemungkinan salah satu skenario yang kamu usulkan 
+terpilih, misal 2 siswa aljabar dan 1 siswa ilmu komputer. Jelaskan alasan 
+logis dan matematis mengapa kamu yakin strategi tersebut ideal untuk 
+tim IMO.
+5.	
+	
+Pada sisi-sisi sebuah dadu terdapat angka unik, 
+yakni: 1, 2, 4, 5, 6, dan 7.
+	
+	
+Berapa peluang terambilnya angka kedua lebih 
+kecil dari angka pertama jika sebuah dadu 
+dilempar sebanyak dua kali?
+6.	
+Nomor baru diberikan pada masing-masing dari dua dadu bersisi enam. 
+Nomor pada sisi dadu pertama adalah 1, 1, 2, 3, 3, dan 3, sedangkan nomor 
+pada sisi dadu kedua adalah -1, -1, -1, -2, -2, -3. Tentukan peluang terjadinya 
+pelemparan dadu sebanyak dua kali berturut-turut akan menghasilkan 
+angka positif pada masing-masing sisinya.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+138
+7.	
+Kode lima digit yang memiliki ciri-ciri berikut ini dikenali sebagai kode 
+kartu ATM.
+	
+Digit puluhannya sebesar dua kali lipat dari digit ribuannya.
+	
+Jika digit satuan dan ratusan ditukar, maka nilai bilangan tersebut 
+tidak berubah.
+	
+Digit puluhannya dan ribuannya bukan nol.
+	
+Hitunglah peluang kemungkinan pemegang kartu dapat langsung menebak 
+kode dengan benar jika dia lupa tetapi mengingat ciri-ciri tersebut.
+B.	 Peluang Kejadian Majemuk 
+Ayo, Bereksplorasi
+∑
+Azkiya sedang memainkan permainan di 
+mana dia harus memilih opsi 1 atau opsi 2, 
+serta memutar roda permainan, melempar 
+koin, dan melempar dadu bernomor 1 hingga 
+6. Agar ia memenangkan pertandingan, 
+semua kondisi yang tercantum pada opsi 
+yang dipilih harus terpenuhi. Opsi mana yang 
+harus dipilih Azkiya?
+Opsi 1
+Opsi 2
+1.	
+Roda permainan berhenti di 
+S,
+2. 	 koin berhenti di sisi gambar, 
+dan
+3. 	 angka genap dadu.
+1.	
+Roda permainan berhenti di 
+Z, 
+2. 	 koin berhenti di sisi angka, 
+dan
+3. 	 angka 3 dadu.
+Berdasarkan ketentuan pada opsi 1 dan 2, diskusikan tiga pertanyaan berikut 
+dengan terlebih dahulu melakukan percobaan permainan spin.
+Gambar 4.8 Permainan Spin
+Bab 4 | Peluang
+139
+1.	
+Analisislah opsi manakah yang harus dipilih oleh Azkiya untuk 
+memenangkan pertandingan.
+2.	
+Bagaimana kalian dapat menggunakan pengetahuan tentang ruang 
+sampel untuk memilih opsi terbaik?
+3.	
+Misalkan opsi 3 ditambahkan ke permainan spin tersebut, dengan syarat 
+roda permainan berhenti di Q, koin berhenti di sisi angka, dan angka ganjil 
+dadu. Haruskah Azkiya mengubah pilihannya ke opsi 3? Jelaskan.
+Ayo, Bereksplorasi
+∑
+Kegiatan ini akan menunjukkan cara mengetahui 
+kemungkinan 
+terjadinya 
+dua 
+kejadian 
+atau 
+lebih. Ada banyak keputusan yang harus diambil 
+dalam hidup. Banyak alternatif yang muncul dari 
+banyaknya pilihan ini, sehingga memberi variasi 
+tersendiri untuk dipilih. Setiap pertandingan sepak 
+bola diawali dengan pelemparan koin oleh wasit 
+untuk menentukan siapa yang mendapatkan bola 
+pertama atau sisi lapangan. Kejadian lainnya, misal terjadi pelemparan dadu 
+di tingkat RT/RW saat perayaan Hari Kemerdekaan 17 Agustus.
+Cobalah melakukan latihan melempar koin dan dadu secara bersamaan. 
+Jika percobaan melempar dilakukan secara akurat, Tabel 4.4 berikut 
+mencantumkan hasil potensial dari pelemparan tersebut.
+Tabel 4.4 Pelemparan Satu Koin dan Satu Set Dadu
+A
+Dadu
+Koin
+Gambar 4.9 Satu Set Dadu  
+dan Koin
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+140
+G
+Akibatnya, skenario berikut mungkin terjadi:
+{(A, 1), (A, 2), (A, 3), (A, 4), (A, 5), (A, 6), (G, 1), (G, 2), (G, 3), (G, 4), (G, 5), (G, 6)}. 
+Tuliskan ekspresi matematika berdasarkan hasil percobaan kalian.
+Selanjutnya, diskusikan dua pertanyaan berikut.
+a)	
+Paling sedikit, berapa banyak kejadian dalam percobaan yang membentuk 
+kejadian majemuk? Hal ini merupakan pertanyaan yang diajukan Mahira 
+kepada Azkiya tentang kemungkinan terjadi pada suatu percobaan. Bantu 
+Azkiya menanggapi pertanyaan ini. 
+b)	 Menyusul tanggapan Azkiya kepada Mahira, Azkiya mengajukan 
+pertanyaan lain kepada Mahira. Bagaimana hubungan khusus yang 
+memungkinkan terjadinya kejadian majemuk? Cobalah untuk membantu 
+Mahira dalam menjawab pertanyaan ini juga.
+1.	 Kejadian Majemuk
+DefinisieǼŔƌiŔnŔǼeȜʙȄ
+Kejadian majemuk adalah suatu kejadian yang dapat dijelaskan 
+dalam bentuk gabungan, irisan, atau pelengkap kejadian. Pendekatan 
+antarhimpunan akan digunakan untuk menghitung kemungkinan suatu 
+kejadian gabungan. Hubungan antara dua himpunan dapat dinyatakan 
+sebagai perpotongan himpunan tersebut.
+Dadu
+Koin
+Bab 4 | Peluang
+141
+Contoh
+4.3
+Satu keping koin dan satu set dadu dilantunkan 
+secara 
+bersamaan. 
+Perkirakan 
+kemungkinan 
+munculnya lebih dari dua pada dadu, jika diketahui 
+bahwa angka akan muncul pada koin.
+Alternatif penyelesaian:
+Misalkan:
+K = sekeping koin, sehingga K = {A, G}, dan n(SK) = 2.
+L = sebuah dadu, sehingga L = {1, 2, 3, 4, 5, 6}, dan n(SL) = 6.
+Diketahui muncul angka pada koin, n(K) = 1, 
+sehingga peluangnya P(K) = n S
+n K
+K
+^
+^ h
+h = 2
+1 .
+Ditanyakan peluang munculnya mata dadu lebih dari dua, yaitu angka-angka 
+{3, 4, 5, 6} n(L) = 4, 
+sehingga peluangnya P(L) = n S
+n L
+6
+4
+3
+2
+L
+=
+=
+^
+^ h
+h
+.
+Jadi, peluang munculnya angka mata dadu lebih dari dua adalah 2
+1
+3
+2
+3
+1
+#
+=
+.
+2.	 Frekuensi Harapan dari Kejadian Majemuk
+Definisi`ɧeȄʙensioŔɧŔɝŔnƌŔɧieǼŔƌiŔnŔǼeȜʙȄ
+Frekuensi harapan dari kejadian majemuk adalah harapan banyaknya 
+kejadian majemuk yang dapat terjadi dari sejumlah percobaan yang 
+dilakukan.
+Jika Kj adalah suatu kejadian majemuk A dan B, sehingga P(Kj) adalah 
+peluang terjadinya A dan B, maka besarnya frekuensi harapan (Fh) kejadian 
+A dan B dalam n kali percobaan dapat dirumuskan sebagai berikut.
+Fh = P(Kj) × n
+Gambar 4.10 Koin dan Dadu
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+142
+Contoh
+4.4
+Dua buah dadu dilempar sebanyak 360 kali. Berapa frekuensi harapan muncul 
+mata dadu 3 untuk dadu pertama dan mata dadu 5 untuk dadu kedua?
+Alternatif penyelesaian:
+Misalkan banyak ruang sampel 
+n(S) = {(1,1), (1,2), (1,3), (1,4), (1,5), (1,6), (2,1), (2,2), (2,3), (2,4), (2,5), (2,6), 
+(3,1), (3,2), (3,3), (3,4), (3,5), (3,6), (4,1), (4,2), (4,3), (4,4), (4,5), (4,6), (5,1), 
+(5,2), (5,3), (5,4), (5,5), (5,6), (6,1), (6,2), (6,3), (6,4), (6,5), (6,6)} = 36.
+Banyak muncul mata dadu 3 untuk dadu pertama, 
+n(A) = {(3, 1), (3, 2) (3, 3), (3, 4), (3, 5), (3, 6)} = 6.
+Banyak muncul mata dadu 5 untuk dadu kedua, 
+n(B) = {(1, 5), (2, 5) (3, 5), (4, 5), (5, 5), (6, 5)} = 6.
+Dengan demikian, peluangnya adalah
+P(A) = n S
+n A
+^
+^ h
+h = 36
+6
+6
+1
+=
+P(B) = n S
+n B
+^
+^ h
+h = 36
+6
+6
+1
+=
+P(M) = 6
+1
+6
+1
+36
+1
+#
+=
+Sehingga, Fh = P(Kj) × n = 36
+1 × 360 = 10.
+Jadi, frekuensi harapan muncul mata dadu 3 untuk dadu pertama dan mata 
+dadu 5 untuk dadu kedua adalah 10.
+3.	 Peluang Kejadian Majemuk 
+DefinisiÚeȊʙŔnǊeǼŔƌiŔnŔǼeȜʙȄ
+Peluang terjadinya dua kejadian atau lebih secara bersamaan disebut 
+peluang kejadian majemuk. Notasi dari "dan" adalah ∩ dan "atau" adalah 
+∪, keduanya masing-masing menunjukkan kejadian majemuk. Rumus 
+umum untuk kasus dua kejadian A dan B adalah sebagai berikut.
+P(A ∪ B) = P(A) + P(B) - P(A ∩ B)
+Bab 4 | Peluang
+143
+Contoh
+4.5
+Jumlah siswa Sekolah Menengah Atas kelas XII adalah 34. Terdapat 23 siswa 
+yang menyukai Matematika, ada 19 siswa yang menyukai Fisika, dan 12 siswa 
+yang menyukai kedua disiplin ilmu tersebut. Bagaimana cara memastikan 
+kemungkinan bahwa seorang siswa yang dipilih secara acak akan menyukai 
+Matematika atau Fisika?
+Alternatif penyelesaian:
+Misalkan banyak ruang sample, n(S) = 34.
+Siswa yang menyukai Matematika, n(M) = 23.
+Siswa yang menyukai Fisika, n(F) = 19.
+Siswa yang menyukai Matematika dan Fisika, n(M ∩ F) = 12.
+Perhatikan diagram venn berikut.
+4
+S
+23 – 12 = 11 
+19 – 12 = 7
+12
+M
+F
+ 
+Peluang terpilihnya siswa yang menyukai Matematika atau Fisika dapat 
+diuraikan sebagai berikut.
+P(M ∪ F) 	= P(M) + P(F) - P(M ∩ F)
+	
+= 4
+23
+34
+19
+34
+12
++
+-
+  
+	
+= 
+34
+23
+19
+12
++
+-
+  
+	
+= 34
+30
+	
+= 17
+15
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+144
+Petunjuk
+Pertimbangkan untuk mencatat hasil pencarian yang kamu temukan.
+a.	
+Apa yang kamu dapatkan pada bagian pendahuluan tentang peluang 
+kejadian majemuk?
+b.	
+Apa yang dimaksud dengan kejadian yang pasti atau tidak mungkin 
+terjadi? Bagaimana kemungkinan peluangnya? Uraikan jawabanmu.
+c.	
+Apa yang kamu ketahui tentang peluang kejadian gabungan?
+d.	
+Tunjukkan banyaknya jenis kejadian majemuk berbeda dan berikan 
+simbolnya masing-masing. 
+4.	 Peluang Kejadian Majemuk Saling Lepas
+Jacques sangat berharap bahwa salah satu 
+temannya 
+menelepon 
+untuk 
+membicarakan 
+latihan softball atau band. Mungkinkah panggilan 
+itu membahas keduanya?
+Dalam situasi seperti itu, lebih dari satu kejadian 
+dapat terjadi selama satu kali percobaan. Kamu 
+perlu membandingkan kejadian-kejadian tersebut 
+berdasarkan hasil yang menyusunnya. Berapa 
+peluang terjadinya minimal satu kejadian? Apakah 
+situasinya "salah satu," atau kedua kejadian dapat 
+terjadi?
+Gambar 4.11 Telepon 
+Berdering
+Bab 4 | Peluang
+145
+Ayo, Bereksplorasi
+∑
+Marina, yang memukul untuk Cintia, menghadapi 
+Anton, yang melempar untuk Power Trippers. Anton 
+menggunakan tiga lemparan: fastball, curveball, 
+dan slider. Marina merasa ia memiliki peluang 
+bagus untuk melakukan pukulan dasar, atau lebih 
+baik, jika Anton melempar fastball atau slider. 
+Hitungannya adalah dua strike dan tiga bola. Dalam 
+situasi hitungan penuh seperti itu, Anton melempar 
+curveball sepertiga dari waktu, slider setengah lebih 
+sering, dan fastball di sisa waktu.
+Lakukan percobaan permainan fastball untuk 
+menjawab pertanyaan berikut dengan benar.
+a.	
+Tentukan peluang Anton melempar
+1)	
+curveball	
+	
+2) 	 slider 	
+	
+3) 	 fastball
+b.	
+Berapa peluang Marina akan mendapatkan lemparan yang tidak 
+diinginkannya?  Bagaimana kamu dapat menggunakan informasi ini 
+untuk menentukan peluang Marina akan mendapatkan lemparan yang 
+disukainya.
+c.	
+Tunjukkan metode lain untuk menentukan peluang ini. Jelaskan metode 
+tersebut.
+d.	
+Apakah jawabanmu untuk pertanyaan 2 dan 3 menunjukkan peluang 
+kejadian yang tidak dapat terjadi secara bersamaan?
+Kejadian-kejadian yang mungkin terjadi dalam penyelidikan ini dapat 
+dikatakan kejadian majemuk saling lepas (saling eksklusif), karena tidak dapat 
+terjadi pada saat yang bersamaan. Misalnya, lemparan tidak dapat berupa 
+bola cepat dan slider. Dalam soal khusus ini, hanya memperhatikan peluang 
+salah satu dari dua kejadian yang menguntungkan. Kamu dapat menggunakan 
+notasi P(A ∪ B) untuk menyatakan peluang terjadinya A atau B.
+Gambar 4.12 Pelemparan 
+Fastball
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+146
+DefinisieǼŔƌiŔnŔǼeȜʙȄêŔȊinǊeɝŔs
+Kejadian majemuk saling lepas adalah dua kejadian yang tidak dapat 
+terjadi secara bersamaan. Misalkan kejadian A dan B tidak dapat terjadi 
+secara bersamaan atau tidak mempunyai hubungan satu sama lain, maka 
+kejadian A dan B disebut sebagai kejadian majemuk saling lepas; atau 
+dengan kata lain kejadian A dan B tidak memiliki irisan. Rumus yang 
+didapat adalah seperti berikut.
+P(A ∩ B) = 0
+P(A ∪ B) = P(A) + P(B)
+Contoh
+4.6
+Raka membuat sepuluh kartu bernomor dan memasukkannya ke dalam saku. 
+Raka mengeluarkan kartu secara acak dari saku. Diketahui kartu berbilangan 
+genap melambangkan kejadian pertama (A) dan kartu berbilangan prima 
+ganjil melambangkan kejadian kedua (B).
+a.	
+Bagaimana cara menentukan apakah kejadian A dan B tidak dapat terjadi 
+bersamaan?
+b.	
+Berapa besar peluang kejadian A dan B?
+Jika percobaan berhasil diselesaikan, bandingkan pendekatan berikut dengan 
+pendekatan yang kamu temukan.
+Alternatif penyelesaian:
+Perhatikan ilustrasi kejadian A dan B pada diagram Venn berikut.
+ 
+2
+4
+6
+8
+10
+1
+3
+5
+7
+A
+B
+S
+Bab 4 | Peluang
+147
+a.	
+Karena kejadian A dan B saling lepas atau tidak memiliki irisan, maka 
+hubungan kejadian keduanya adalah (A ∩ B) = { }.
+b.	 S = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}, sehingga banyak anggota ruang sampelnya, 
+n(S) = 10.
+A = {2, 4, 6, 8, 10}, sehingga banyak anggota A adalah n(A) = 5.
+B = {3, 5, 7}, sehingga banyak anggota B adalah n(B) = 3.
+Dengan demikian, didapat sebagai berikut.
+P(A) = 10
+5 , P(B) = 10
+3 , P(A ∩ B) = 0
+Jadi, didapat nilai P(A ∪ B) sebagai berikut.
+P(A ∪ B) 	= P(A) + P(B)
+	
+= 10
+5
+10
+3
++
+	
+= 10
+8
+	
+= 5
+4
+Berdasarkan Contoh 4.6, coba tuliskan istilah matematika yang digunakan. 
+Selanjutnya, diskusikan pertanyaan berikut.
+a.	
+Kejadian seperti apa yang dapat digabungkan untuk menghasilkan 
+kejadian majemuk saling lepas?
+b.	
+Mengenai kejadian majemuk saling lepas, apa yang kalian ketahui?
+c.	
+Dapatkah sifat-sifat suatu kejadian digambarkan sebagai kejadian 
+majemuk saling lepas?
+d.	
+Bagaimana cara menghitung peluang kejadian majemuk saling lepas?
+Ayo, Berpikir Kritis
+Menurut Azkiya, jika dipilih tiga buah apel secara 
+acak dari keranjang yang berisi empat buah apel 
+merah dan empat buah apel hijau, kemungkinan 
+terpilihnya dua buah apel merah dan dua buah apel 
+hijau adalah nol (0). Bagaimana pendapat kalian 
+mengenai pernyataan Azkiya? Jelaskan.
+Gambar 4.13 Keranjang 
+Apel
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+148
+Contoh
+4.7
+Bagaimana cara menghitung peluang munculnya mata dadu berjumlah 5 atau 
+7 jika kedua dadu dilempar secara bersamaan?
+Alternatif penyelesaian:
+Misalkan: 	A = kejadian muncul mata dadu berjumlah 5
+	
+B = kejadian muncul mata dadu berjumlah 7
+Peristiwa ini merupakan kejadian saling lepas, karena tidak mungkin terjadian 
+secara bersamaan untuk pelemparan mata dadu berjumlah 7 sekaligus 
+berjumlah 5.
+Berikut peluang terjadinya muncul mata dadu berjumlah 5 atau 7.
+Banyak sampel seluruhnya adalah 36 atau n(S) = 36.
+Banyak sampel mata dadu berjumlah 5 ada sebanyak 4 atau n(A) = 4, yaitu 
+A = {(1, 4), (4, 1), (2, 3), (3, 2)}.
+Bayak sampel mata dadu berjumlah 7 ada sebanyak 6 atau n(B) = 6, yaitu 
+B = {(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1)}.
+Dengan demikian, peluang muncul mata dadu berjumlah 5 atau berjumlah 7 
+adalah sebagai berikut.
+P(A ∪ B)	 = P(A) + P(B)
+	
+= 36
+4
+36
+6
++
+	
+= 36
+10
+	
+= 18
+5
+Jadi, peluang muncul mata dadu berjumlah 5 atau 7 adalah 18
+5 .
+Contoh
+4.8
+Seorang manajer perusahaan Y memilih berkas lamaran pekerjaan secara acak 
+dari 15 berkas yang diserahkan oleh lima orang lulusan perguruan tinggi B dan 
+sepuluh orang lulusan perguruan tinggi A. Untuk semua kandidat, tujuh orang 
+mempunyai pengalaman kerja di atas 2 tahun, lima orang tidak mempunyai 
+Bab 4 | Peluang
+149
+pengalaman kerja, dan tiga orang diketahui telah bekerja di perusahaan atau 
+organisasi tertentu di bawah 2 tahun. Tentukan cara mengekstrak kejadian 
+saling lepas dan peluang kejadian tersebut.
+Alternatif penyelesaian:
+Misalkan: 	A = pelamar dari lulusan perguruan tinggi A
+	
+B = pelamar dari lulusan perguruan tinggi B
+	
+C = pelamar memiliki pengalaman kerja di bawah 2 tahun
+	
+D = pelamar memiliki pengalaman kerja di atas 2 tahun
+	
+E = pelamar belum memiliki pengalaman kerja
+Kemungkinan Kejadian Pertama 	
+Notasi suatu kejadian pelamar dari lulusan perguruan tinggi A atau B adalah 
+A ∪ B.
+Karena pada saat pemilihan berkas lamaran lulusan perguruan tinggi A dan 
+B tidak dapat terjadi secara bersamaan, maka kejadian ini bersifat saling 
+lepas. Berikut gambaran kemungkinan terpilihnya secara acak untuk berkas 
+lamaran lulusan perguruan tinggi A atau perguruan tinggi B.
+P(A ∪ B) 	= P(A) + P(B)
+	
+= 15
+10
+15
+5
++
+ 
+	
+= 15
+15 
+	
+= 1
+Kemungkinan Kejadian Kedua 	
+Notasi suatu kejadian pelamar memiliki pengalaman kerja adalah C ∪ D.
+Karena kandidat dengan pengalaman di bawah 2 tahun dan di atas 2 tahun 
+tidak dapat dipilih pada saat yang bersamaan, maka kejadian ini bersifat 
+saling lepas. Berikut peluang terpilihnya individu dengan pengalaman kerja di 
+bawah 2 tahun atau yang memiliki pengalaman kerja di atas 2 tahun.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+150
+P(C ∪ D)	 = P(C) + P(D)
+	
+= 15
+3
+15
+7
++
+	
+= 15
+10
+	
+= 3
+2
+Kemungkinan Kejadian Ketiga 	
+Notasi suatu kejadian pelamar dengan pengalaman kerja di bawah 2 tahun 
+adalah C ∪ E.
+Karena tidak mungkin untuk memilih pelamar tanpa pengalaman kerja dan 
+pelamar yang memiliki pengalaman profesional di bawah 2 tahun pada saat 
+bersamaan, maka kejadian ini bersifat saling lepas. Berikut peluang memilih 
+berkas kandidat dengan pengalaman kerja di bawah 2 tahun atau tidak sama 
+sekali.
+P(C ∪ E) 	 = P(C) + P(E)
+	
+= 15
+3
+15
+5
++
+	
+= 15
+8
+Kemungkinan Kejadian Keempat 	
+Notasi suatu kejadian pelamar berpengalaman di atas 2 tahun atau tidak 
+memiliki pengalaman kerja adalah D ∪ E.
+Karena pemilihan individu yang mempunyai pengalaman kerja di atas 2 
+tahun atau tidak memiliki pengalaman kerja tidak dapat dilakukan secara 
+bersamaan, maka kejadian ini bersifat saling lepas. Berikut peluang kejadian 
+untuk memilih kandidat dengan atau tanpa pengalaman kerja di atas 2 tahun.
+P(D ∪ E) 	= P(D) + P(E)
+	
+= 15
+7
+15
+5
++
+ 
+	
+= 15
+12
+	
+= 5
+4 
+Bab 4 | Peluang
+151
+Ayo, Berkomunikasi
+Cobalah untuk menyimpulkan penjelasan pada Contoh 4.6 dan 4.7. Apa yang 
+dapat kamu simpulkan mengenai peluang kejadian majemuk saling lepas? 
+Selanjutnya, berkonsultasilah dengan guru dan diskusikan dengan temanmu 
+untuk mendapatkan jawaban yang benar dan komprehensif.
+Petunjuk
+a.	
+Sebagaimana sajian pada bagian pendahuluan, seberapa sering 
+kejadian majemuk saling lepas terjadi?
+b.	
+Tentukan banyaknya diagram Venn untuk kejadian majemuk saling 
+lepas yang ada.
+c.	
+Bagaimana cara menghitung peluang terjadinya dua kejadian majemuk 
+saling lepas?
+d	
+,dentifikasi dan daftarkan banyaknya Menis kejadian majemuk yang 
+saling lepas.
+5. 	 Peluang Kejadian Majemuk Saling Bebas 
+Ayo, Bereksplorasi
+∑
+Bekerja 
+samalah 
+dengan 
+seorang 
+teman. 
+Dengan 
+menggunakan kelereng yang tersedia, ambil sebutir 
+kelereng secara acak dari kantong. Kemudian, masukkan 
+kembali kelereng ke dalam kantong dan ambil kelereng 
+kedua. 
+a. 	 Gunakan diagram cabang untuk mencari peluang 
+kedua kelereng berwarna hijau.
+b. 	 Dalam diagram cabang, apakah peluang mendapatkan 
+kelereng hijau pada pengambilan kedua bergantung 
+pada warna kelereng pertama? Jelaskan.
+Gambar 4.14 Tiga 
+Kelereng dan Kantong
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+152
+Melakukan Percobaan 	
+Lakukan dua percobaan berikut.
+a.	
+Dalam percobaan pertama, ambil dua kelereng secara acak dari kantong 
+sebanyak 36 kali. Catat setiap hasil sebagai GG atau GP. Buat diagram 
+cabang dari hasil percobaan kalian. 
+Undian Pertama
+Undian Kedua
+GG
+GG
+GP
+GG
+GG
+GP
+PG
+PG
+PP
+	
+Berapa peluang terambil dua kelereng hijau? Apakah jawaban ini tampak 
+masuk akal? Jelaskan.
+b.	
+Dalam percobaan kedua, ambil satu kelereng secara acak dari kantong. 
+Kemudian, masukkan kembali dan ambil kelereng kedua. Ulangi 
+percobaan ini sebanyak 36 kali. Catat setiap hasil sebagai GG, GP, atau PP. 
+Buat diagram cabang dari hasil percobaan kalian.
+	
+Berapa peluang eksperimental untuk mengambil dua kelereng hijau? 
+Apakah jawaban ini tampak masuk akal? Jelaskan.
+ 
+GG
+GP
+GG
+GP
+PP
+Percobaan Pertama
+Frekuensi
+Hasil
+Hasil
+GG
+GG
+0
+5
+10
+15
+20
+25
+30
+35
+40
+0
+5
+10
+15
+20
+25
+30
+35
+40
+GP
+GP
+PP
+Frekuensi
+Percobaan Kedua
+Hasil Percobaan 1
+Hasil Percobaan 2
+Bab 4 | Peluang
+153
+Ayo, Mencoba
+Amati dengan cermat percobaan yang dilakukan 
+oleh Farizwan.
+Jika Farizwan melempar dua dadu merah 
+dan putih secara bersamaan, maka peluang 
+munculnya angka 2 pada dadu merah dan angka 
+5 pada dadu putih adalah sebagai berikut.
+Misalkan: 	 A = 	kejadian muncul angka 2 pada 
+dadu merah
+	
+B = 	kejadian muncul angka 5 pada dadu putih
+Peristiwa ini merupakan kejadian majemuk saling bebas, artinya tampilan 
+pada dadu merah tidak mempengaruhi tampilan pada dadu putih. Oleh 
+karena itu, dapat berdiri sendiri atau tidak bergantung pada kejadian lainnya. 
+Peluang munculnya angka 2 pada dadu merah dan angka 5 pada dadu putih 
+adalah sebagai berikut.
+Banyak sampel keseluruhannya yaitu n(S) = 36.
+Kejadian muncul mata dadu 2 pada dadu warna merah ada 6 atau n(A) = 6, 
+yaitu A = {(2, 1), (2, 2), (2, 3), (2, 4), (2, 5), (2, 6)}.
+Kejadian muncul mata dadu 5 pada dadu warna putih ada 6 atau n(B) = 6, 
+yaitu B = {(1, 5), (2, 5), (3, 5), (4, 5), (5, 5), (6, 5)}.
+P(A ∩ B) 	= P(A) × P(B)
+	
+= 36
+6
+36
+6
+#
+	
+= 6
+1
+6
+1
+#
+	
+= 36
+1
+Jadi, peluang munculnya 2 pada dadu merah dan 5 pada dadu putih adalah 
+36
+1 .
+Cobalah eksplorasikan pengetahuanmu dan diskusikan ketiga pertanyaan berikut.
+1.	
+Apa jenis kejadian untuk menghasilkan kejadian majemuk yang tidak 
+bergantung satu sama lain?
+Gambar 4.15 Dua Dadu
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+154
+2.	
+Apa rumus untuk menghitung peluang kejadian majemuk yang terjadi 
+secara independen satu sama lain?
+	
+$pakah mungkin untuk mendefinisikan suatu peristiZa sebagai peristiZa 
+majemuk yang independen dalam keadaan tertentu?
+DefinisieǼŔƌiŔnŔǼeȜʙȄêŔȊinǊ%eŸŔs
+Jika suatu kejadian tidak mempengaruhi kejadian yang lainnya, maka dua 
+kejadian A dan B dapat disebut sebagai kejadian majemuk yang saling 
+bebas. Artinya, ada hubungan antara kejadian A dan B, namun tidak lepas 
+satu sama lain. Secara matematis, rumus berikut menyatakan kejadian A 
+dan B sebagai kejadian yang saling bebas.
+P(A ∩ B) = P(A) × P(B)
+Contoh
+4.9
+Secara bersamaan, dilemparkan dua dadu dan sekeping koin sebanyak satu 
+kali. Berapakah peluang muncul angka genap pada dadu dan muncul gambar 
+(G) pada koin?
+Alternatif penyelesaian:
+Misalkan: 	 A = kejadian munculnya angka genap pada dadu
+	
+B = kejadian munculnya gambar (G) pada koin
+Kejadian ini merupakan kejadian yang berdiri sendiri. Hal ini dikarenakan 
+munculnya angka genap pada dadu tidak mengubah gambar (G) pada uang 
+logam tersebut.
+Peluang munculnya angka genap pada dadu dan gambar (G) pada koin adalah 
+sebagai berikut.
+Banyak sampel keseluruhannya yaitu n(S) = 12.
+Banyak sampel munculnya angka genap pada dadu ada 6 atau n(A) = 6, 
+yaitu A = {(2, A), (2, G), (4, A), (4, G), (6, A), (6, G)}.
+Sampel dari munculnya gambar (G) ada 6 atau n(B) = 6, yaitu B = {(1, G), 
+(2, G), (3, G), (4, G), (5, G), (6, G)}.
+Bab 4 | Peluang
+155
+P(A ∩ B) = P(A) × P(B)
+	
+= 12
+6
+12
+6
+#
+	
+= 2
+1
+2
+1
+#
+	
+= 4
+1
+Jadi, peluang muncul angka genap pada dadu dan muncul gambar (G) pada 
+koin tersebut adalah 4
+1 .
+Contoh
+4.10
+Jika dua dadu dilemparkan bersama sebanyak dua kali, berapa peluang 
+munculnya mata dadu berjumlah 7 dan 11?
+Alternatif penyelesaian:
+Misalkan: 	Y1	 =	 kejadian munculnya mata dadu berjumlah 7 pada lemparan 
+pertama 
+	
+Y2	 =	 kejadian munculnya mata dadu berjumlah 7 pada lemparan 
+kedua
+	
+Z1	 =	 kejadian munculnya mata dadu berjumlah 11 pada lemparan 
+pertama
+	
+Z2	 =	 kejadian munculnya mata dadu berjumlah 11 pada lemparan 
+kedua
+Peristiwa-peristiwa di atas disebut sebagai kejadian yang berdiri sendiri 
+atau saling bebas. Misalnya, lemparan pertama berjumlah 7 dan lemparan 
+kedua berjumlah 11 muncul secara terpisah. Begitu pula lemparan pertama 
+berjumlah 11 dan lemparan kedua berjumlah 7. Berikut penjelasan peluang 
+mata dadu berjumlah 7 dan 11 akan muncul dalam dua lemparan.
+P[(Y1 ∩ Z2) ∪ (Z1 ∩ Y2)]	 = P(Y1) × P(Z2) + P(Y2) × P(Z1)
+	
+= 6
+1
+18
+1
+18
+1
+6
+1
+#
+#
++
+	
+= 108
+1
+108
+1
+#
+	
+= 54
+1
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+156
+Jadi, peluang muncul mata dadu berjumlah 7 dan 11 pada dua kali lemparan 
+adalah 54
+1 .
+Ayo, Berpikir Kreatif
+Berdasarkan uraian pada Contoh 4.9 dan 4.10, coba buatlah kesimpulan 
+tentang peluang kejadian majemuk saling bebas.
+Ayo, Berkomunikasi
+Sajikan jawaban kalian terhadap hasil diskusi pada kegiatan Ayo, Berpikir 
+Kreatif di depan kelas. Kemudian, diskusikan dengan guru dan teman untuk 
+mendapatkan jawaban yang benar dan lengkap.
+Petunjuk
+Coba tulislah hasil penelusuranmu.
+1.	
+Apa yang kamu ketahui tentang peluang kejadian majemuk saling bebas?
+2.	
+Temukan berapa banyak bentuk diagram Venn untuk kejadian 
+majemuk saling bebas?
+3.	
+Bagaimana cara menemukan rumus peluang kejadian majemuk saling 
+bebas?
+4.	
+Sebutkan jenis kejadian majemuk saling bebas dan sebutkan simbolnya.
+Ayo, Bereﬂeksi 
+Tuliskan apa yang kamu pelajari tentang kejadian majemuk saling lepas dan 
+saling bebas.
+1.	
+Apa yang dimaksud dengan kejadian majemuk, kejadian majemuk saling 
+lepas, dan kejadian majemuk saling bebas?
+2.	
+Bagaimana cara menentukan peluang dari kejadian majemuk?
+Bab 4 | Peluang
+157
+3.	
+Bagaimana cara menentukan peluang dari kejadian majemuk saling lepas?
+4.	
+Bagaimana cara menentukan peluang dari kejadian majemuk saling bebas?
+5.	
+Apakah ada hubungannya antara kejadian majemuk saling lepas dengan 
+kejadian majemuk saling bebas?
+Latihan
+4.2
+1.	
+Sekelompok ilmuwan ingin melakukan penelitian serangga berbahaya di 
+Sulawesi Tenggara. Misalkan A mewakili kemungkinan cuaca buruk, B 
+mewakili kemungkinan masalah dengan instansi pemerintah daerah, dan 
+& meZakili kemungkinan masalah dengan peralatan fRtRgrafi mereka 
+Tentukan minimal tiga kejadian majemuk yang mungkin terjadi.
+2.	
+Jika kejadian A adalah kejadian muncul mata dadu habis dibagi 6 dan 
+kejadian B adalah kejadian muncul mata dadu habis dibagi 5. Tentukan 
+tentukan peluang dari P(A ∩ B) dan P(A ∪ B).
+3.	
+Rudi melempar dua dadu merah dan putih secara bersamaan. Eko yang 
+melihatnya mengatakan bahwa peluang munculnya angka 2 pada dadu 
+merah atau angka 4 pada dadu putih adalah 3
+1 . Anita tidak setuju dengan 
+pendapat Eko. Anita memiliki pendapat sendiri terhadap peluang yang 
+dimaksud, yaitu sebesar 36
+11 . Pendapat siapa yang lebih tepat? Jelaskan.
+4.	
+Diketahui dalam suatu keranjang berisi 4 buah apel berwara merah 
+dan 4 buah apel berwarna hijau. Jika kamu mengambil 3 buah apel dari 
+keranjang tersebut, tentukan peluang terpilih 2 buah apel merah dan 2 
+buah apel hijau.
+5.	
+Dalam suatu tas terdapat 5 bola merah dan 2 bola biru. Tas lain berisi tiga 
+bola merah dan satu bola biru. Tentukan peluang terambilnya bola biru 
+secara acak dari salah satu tas.
+6.	
+Dua set kartu ada di atas meja. Setiap set kartu berisi 52 lembar dengan 
+empat warna, yaitu merah, kuning, hijau, dan biru. Ada 13 kartu dalam 
+setiap warna, bernomor 1 sampai 13. Satu kartu dari dua set kartu akan 
+dipilih secara acak. Tentukan peluang kemungkinan mendapat kartu 
+merah atau angka 13.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+158
+6.	 Peluang Kejadian Majemuk Saling Bebas Bersyarat  
+Ayo, Bereksplorasi
+∑
+Jika kamu memiliki informasi parsial, ini secara efektif mengecilkan ruang 
+sampel yang tersedia dan mengubah peluang. Marilah mulai dengan sebuah 
+pertunjukan.
+Permainan Pintu Rahasia 	
+Permainan di mana ada suatu hadiah tersembunyi di balik salah satu dari tiga 
+pintu. Misalnya, pintu-pintu tersebut X, Y, dan Z. Kalian dapat memenangkan 
+hadiah dengan menebak pintu yang tepat.
+Gambar 4.16 Pintu Rahasia
+Langkah 1. Kamu memilih satu pintu.
+Ini menyisakan dua pintu yang tidak kamu pilih dan setidaknya satu di antaranya 
+tidak menyembunyikan hadiah. Pembawa acara membuka satu pintu ini dan 
+dengan cara ini menunjukkan tidak ada hadiah yang disembunyikan di sana. 
+Kemudian, ia bertanya apakah kamu ingin mempertimbangkannya kembali. 
+Apakah kamu mau?
+Bab 4 | Peluang
+159
+Langkah 2A. Kamu tetap pada pilihan awal.
+Langkah 2B. Kamu beralih ke pintu lain yang tersedia. Mungkin mengejutkan, 
+Langkah 2B adalah strategi yang lebih baik. Seperti yang ditunjukkan pada 
+Gambar 4.17, ini menggandakan peluangmu untuk memenangkan hadiah.
+ 
+1
+2A
+1
+1
+1/3
+1/3
+1/3
+X
+Y
+Z
+X
+Y
+Z
+1
+2B
+1
+1
+1/3
+1/3
+1/3
+X
+Y
+Z
+Z
+X
+X
+Gambar 4.17 Peluang Langkah 2A dan Langkah 2B
+Misalkan hadiah berada di balik pintu X. Peluang untuk menang meningkat 
+dari 3
+1 di Langkah 2A menjadi 3
+2 di Langkah 2B.
+Ayo, Mencoba
+Tersedia satu set 52 kartu. Berikut kemungkinan mendapatkan kartu hati. 
+Percobaan ini dapat dilakukan jika dua kartu diambil secara acak, berturut-
+turut, dan tanpa jeda.
+Perhatikan Gambar 4.18 berikut.     
+Gambar 4.18 Kumpulan Kartu
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+160
+Banyak sampel keseluruhannya yaitu n(S) = 52.
+Banyak sampel dari munculnya kartu hati yaitu n(A) = 13. 
+Misalkan: 	 A = kejadian terambil kartu hati pada pengambilan pertama
+	
+B = kejadian terambil kartu hati pada pengambilan kedua
+Pada pengambilan pertama diperoleh kartu hati ada sebanyak 13 kartu, 
+sedangkan banyak kartu hati pada pengambilan kedua sudah berkurang satu 
+kartu, sehingga banyak kartu hati menjadi 12. Hal ini terjadi karena kejadian 
+pengambilan kartu hati pertama berdampak pada kejadian pengambilan kartu 
+hati kedua. Peluang terambilnya kedua kartu hati adalah sebagai berikut.
+P(A) = 52
+13 dan P(B|A) = 51
+12 , sehingga peluang seluruhnya adalah sebagai 
+berikut.
+P(A ∩ B) 	= P(A) × P(B|A)
+	
+= 52
+13 × 51
+12
+	
+= 
+.2 652
+156 
+	
+= 51
+3
+Tahukah Kalian
+Kejadian B|A merupakan suatu kejadian B terjadi setelah A terjadi.
+Coba kamu tuliskan istilah-istilah matematika pada kagiatan ekplorasi ini, 
+kemudian diskusikanlah pertanyaan berikut.
+a.	
+Kejadian seperti apa yang dapat dikatakan sebagai kejadian majemuk 
+saling bebas bersyarat?
+b.	
+Bagaimana cara menentukan peluang dari kejadian majemuk saling 
+bebas bersyarat?
+Bab 4 | Peluang
+161
+DefinisieǼŔƌiŔnŔǼeȜʙȄêŔȊinǊ%eŸŔs%eɧs˃ŔɧŔʄ
+Dua kejadian A dan B dapat dikatakan sebagai kejadian majemuk saling 
+bebas bersyarat, apabila memenuhi persyaratan saling bebas dan 
+terjadinya secara urutan.
+Kejadian A dan B dikatakan kejadian majemuk bebas bersyarat yang secara 
+matematis didefinisikan sebagai berikut
+Dari rumus ini dapat pula diturunkan ke rumus berikut.
+P(A ∩ B) = P(A) × P(B|A)
+P(B|A) = 
+P A
+P A
+B
+]
+^ h
+g
+∩
+ = 
+( )
+( )
+( )
+n s
+n A
+n s
+n A
+B
+]
+g
+∩
+ = 
+( )
+(
+)
+n A
+n A
+B
+∩
+ atau P(B|A) = 
+( )
+(
+)
+n A
+n A
+B
+∩
+Dengan P(B|A) dibaca peluang kejadian B setelah A.
+Contoh
+4.11
+Satu kartu dari 52 kartu dipilih secara acak. Berapa peluang terambilnya kartu 
+berwarna merah jika terambil kartu bernomor lebih dari dua dan kurang dari 
+sepuluh?
+Alternatif penyelesaian:
+Misalkan: 	 C	 =	 kejadian terambil kartu berwarna merah 
+	
+D	=	 kejadian terambil kartu yang lebih besar dari dua dan lebih 
+kecil dari sepuluh
+Kejadian ini merupakan kejadian mejemuk bebas bersyarat, karena kartu 
+yang diambil adalah kartu merah dengan nilai lebih dari dua dan kurang dari 
+sepuluh. Peluang kemungkinan terambilnya kartu merah lebih dari dua tetapi 
+kurang dari sepuluh adalah sebagai berikut.
+P(C ∩ D) 	= P(C) × P(D|C)
+	
+= 52
+26
+26
+14
+#
+	
+= 52
+14
+	
+= 26
+7
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+162
+Contoh
+4.12
+Formasi manajemen 200 manajer pada suatu perusahaan ditunjukkan pada 
+tabel berikut.
+Tabel 4.5 Formasi Manajer
+Manajer
+Laki-laki (L)
+Wanita (W)
+Manajer Senior (S)
+18
+2  
+Manajer Menengah (M)
+36
+24
+Manajer Bawah (B)
+24
+96
+a.	
+Berapa kemungkinan dipilih satu manajer secara acak untuk manajer 
+laki-laki atau manajer senior?
+b.	
+Jika 2 manajer dipilih secara acak, berapa kemungkinan terpilih manajer 
+laki-laki dan manajer wanita?
+c.	
+Berapa peluang pilihan pertama manajer laki-laki dan pilihan kedua 
+manajer pria lain?
+Alternatif penyelesaian:
+a.	
+Prosedur penyelesaian berikut digunakan untuk memilih peluang bagi 
+manajer laki-laki atau senior.
+P(L ∪ S) 	= P(L) + P(S) - P(L ∩ S)
+	
+	
+= 200
+78
+200
+20
+200
+18
++
+-
+	
+	
+= 200
+80
+	
+	
+= 5
+2
+Jadi, peluang terpilih manajer laki-laki atau manajer senior adalah 5
+2 .
+b.	
+Peluang terpilih manajer pria dan wanita dari sampel acak dua manajer 
+ditentukan dengan cara sebagai berikut.
+Bab 4 | Peluang
+163
+P(1L, 1W) 	= 
+C
+C
+C
+2
+200
+1
+78
+1
+122
+#
+	
+	
+= 
+2
+200
+199
+78
+122
+#
+#
+	
+	
+= 
+.
+.
+19 900
+9 516
+	
+	
+= 
+.
+.
+4 975
+2 379
+	
+Jadi, peluang terpilih seorang manajer seorang pria dan wanita dari 
+pemilihan secara acak dua orang manajer adalah 
+.
+.
+4 975
+2 379 .
+c.	
+Peluang terpilih manajer laki-laki dari dua kali pemilihan secara terurut 
+didapat dengan cara sebagai berikut.
+P (L1 ∩ L2) 	= P(L1) × P(L2|L1) 
+	
+	
+= 200
+78
+199
+77
+#
+	
+	
+= 
+.
+.
+39 800
+6 006
+	
+	
+= 
+.
+.
+3 003
+19 900
+	
+Jadi, peluang terpilih manajer laki-laki dari dua kali pemilihan berturut-
+turut adalah 
+.
+.
+3 003
+19 900 .
+Ayo, Berpikir Kreatif
+Berdasarkan uraian pada Contoh 4.11 dan 4.12, coba buatlah kesimpulan 
+yang dapat kamu tulis tentang peluang majemuk saling bebas bersyarat.
+Ayo, Berkomunikasi
+Sampaikan hasil diskusimu bersama teman pada kegiatan Ayo, Berpikir 
+Kreatif di depan kelas. Kemudian, diskusikan bersama teman dan guru untuk 
+mendapatkan jawaban yang benar dan lengkap.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+164
+Petunjuk
+Coba tulislah hasil penelusuranmu.
+1.	
+Apa yang kamu ketahui tentang peluang kejadian majemuk saling 
+bebas bersyarat?
+2.	
+Temukan, adakah bentuk diagram Venn untuk kejadian majemuk 
+saling bebas bersyarat?
+3.	
+Bagaimana cara menemukan rumus peluang kejadian majemuk saling 
+bebas bersyarat?
+4.	
+Sebutkan ada berapa jenis kejadian majemuk saling bebas bersyarat 
+dan sebutkan simbolnya.
+Ayo, Bereﬂeksi 
+Tuliskan apa yang telah kamu pelajari tentang kejadian majemuk saling bebas 
+bersyarat.
+1.	
+Apa saja syarat suatu kejadian termasuk dalam kategori kejadian majemuk 
+saling bebas bersyarat?
+2.	
+Apa yang dimaksud dengan kejadian majemuk saling bebas bersyarat?
+3.	
+Bagaimana cara menentukan peluang kejadian majemuk saling bebas 
+bersyarat?
+4.	
+Apakah ada hubungannya antara kejadian majemuk saling lepas, kejadian 
+majemuk saling bebas, dengan kejadian majemuk saling bebas bersyarat?
+Latihan
+4.3
+1.	
+Dalam waktu yang bersamaan, dua dadu dilemparkan. Jika A adalah 
+kejadian muncul dua dadu yang hasil kalinya 12 dan B adalah kejadian 
+muncul dua mata dadu berjumlah 8, tentukanlah P(A|B) dan P(B|A).
+2.	
+Dua kartu dipilih secara acak satu per satu dari tumpukan 52 kartu tanpa 
+pengembalian. Tentukan peluang terpilihnya kartu pertama adalah kartu 
+As dan kartu kedua adalah kartu King.
+Bab 4 | Peluang
+165
+3.	
+Dalam satu kelas terdapat 40 siswa, 34 siswa menyukai matematika, 22 
+sisZa menyukai fisika, serta  sisZa tidak menyukai keduanya .etika 
+seorang siswa dipilih secara acak, temukan minimal sebanyak tiga cara 
+berbeda untuk menentukan berapa banyak peluang siswa tersebut 
+menyukai matematika setelah mengetahui dia menyukai fisika
+4.	
+Diketahui pada suatu kotak berisi 4 bola hijau dan 6 bola kuning. Jika 
+diambil 4 bola secara acak satu per satu dari dalam kotak tersebut, 
+tentukanlah peluang bahwa pada pengambilan pertama dan kedua 
+terambil bola hijau serta pada pengambilan ketiga dan keempat terambil 
+bola kuning. Jika syarat pengambilan itu: 
+a.	
+tanpa pengembalian, dan
+b.	
+dengan pengembalian.
+5.	
+Ada 5 bola hitam dan 5 bola putih dalam satu kantong. Jika dua bola 
+diambil secara acak sebanyak tiga kali berturut-turut, tentukanlah 
+peluang kemungkinan akan terambilnya dua bola hitam, dua bola hitam, 
+dan dua bola putih pada pengambilan pertama, kedua, dan ketiga. Jika 
+syarat pengambilan tersebut: 
+a.	
+tanpa pengembalian, dan
+b.	
+dengan pengembalian.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+166
+Uji Kompetensi Bab 4 	
+1.	
+Luas Daerah Istimewa Yogyakarta (DIY) terbilang kecil jika dibandingkan 
+dengan provinsi lain di sekitarnya. Selama ini, selalu ada wisatawan yang 
+berkunjung ke DIY, khususnya di Kota Yogyakarta, dari berbagai seluruh 
+pelosok negeri. Salah satu lokasi yang paling diminati oleh anak-anak 
+sekRlah adalah 7aman 3intar ,nfRrmasi demRgrafi ',< ditunMukkan pada 
+tabel berikut, sedangkan proporsi luas wilayah masing-masing kabupaten 
+DIY ditunjukkan pada diagram.
+ 
+Sumber: https://yogyakarta.bps.go.id
+Gunung Kidul
+46%
+Diagram Proporsi Luas 
+Wilayah Kabupaten di DIY
+Kulon Progo
+19%
+Kota Yogyakarta
+1%
+Sleman
+18%
+Bantul
+16%
+Jumlah Penduduk menurut Jenis Kelamin
+di Provinsi DI Yogyakarta
+(Hasil Sensus Penduduk Tahun 2020)
+Kota atau 
+Kabupaten
+Laki-Laki
+Perempuan
+Total
+Kulon Progo
+216.167
+220.228
+436.395
+Bantul
+491.003
+494.737
+985.770
+Gunung Kidul
+369.323
+377.838
+747.161
+Sleman
+559.385
+566.419
+1.125.804
+Kota Yogyakarta
+182.019
+191.570
+373.589
+Provinsi DIY
+1.817.927
+1.850.792
+3.668.719
+Sumber: https://sensus.bps.go.id/topik/tabular/sp2020/2/15/0
+	
+Proses seleksi untuk menjadi pemandu di Taman Pintar telah berlangsung 
+pada tahun 2020. Seseorang dari DIY mengajukan lamaran pada waktu 
+yang ditentukan dan saat ini sedang menjalani wawancara.
+Pernyataan
+Benar
+Salah
+Jika pelamar tersebut ternyata berdomisili di 
+Bantul, pada tingkat ketelitian tertentu peluang 
+dia laki-laki atau perempuan sama besar.
+Peluang pelamar tersebut mahasiswa 
+perempuan dan berdomisili di Kota Yogyakarta 
+lebih besar, karena persentase perempuan di 
+Kota Yogyakarta lebih besar.
+Bab 4 | Peluang
+167
+Pernyataan
+Benar
+Salah
+Kemungkinan pelamar tersebut laki-laki dan 
+berdomisili Gunung Kidul paling besar, karena 
+luas daerahnya paling besar, yaitu 46%.
+Nilai kemungkinan pelamar tersebut laki-laki 
+dan berdomisili di Kota Yogyakarta paling kecil, 
+karena persentase penduduk Kota Yogyakarta 
+paling kecil.
+2.	
+Berfoto Bersama Boy Band
+ 
+	
+Aksa, Dafa, Zavi, Evan, dan Reksa adalah anggota grup musik yang 
+berpose berjajar untuk difoto. Antusiasme mereka terhadap latihan ini 
+bermula dari keinginan mereka untuk membuat poster. Rencananya akan 
+mereka lakukan dengan memamerkan gaya mereka yang beragam secara 
+bergantian. Sebelum mereka menyadari berapa banyak foto yang telah 
+diambil, sang fotografer hanya menuruti permintaan mereka.
+	
+Berdasarkan wacana di atas, berilah tanda centang dan bisa lebih dari 
+satu jawaban yang benar dari pernyataan berikut.
+	 Jika mereka berfoto tidak ada aturan maka, peluangnya adalah 120
+120 = 1.
+	 Jika mereka berfoto ada aturannya, maka peluangnya adalah 120
+120 = 1.
+	 Jika Evan selalu ingin berfoto di sebelah kiri pojok, maka peluang 
+kejadiannya adalah 5
+1 .
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+168
+3.	
+Suatu percobaan dilakukan dengan ketentuan sebagai berikut.
+	
+Pertama kali dilakukan pelemparan sekeping uang logam.
+	
+Jika dalam pelemparan uang logam muncul sisi gambar, maka 
+percobaan dilanjutkan dengan pelemparan uang logam. Sementara 
+itu, jika muncul sisi angka, maka percobaan dilanjutkan dengan 
+sebuah dadu bersisi enam.
+	
+Jika sampai dengan pelemparan uang logam untuk ketiga kalinya 
+selalu muncul gambar, percobaan dihentikan.
+	
+Jika dalam pelemparan dadu muncul angka genap, pelemparan 
+dihentikan.
+	
+Jika dalam pelemparan dadu muncul angka ganjil, pelemparan 
+diulang sekali dan selanjutnya pelemparan dihentikan apapun angka 
+yang muncul.
+	
+Peluang bahwa dalam percobaan tersebut tidak pernah terjadi pelemparan 
+dadu adalah ....
+a.	
+1	
+	
+	
+	
+	
+d.	
+32
+1 	
+b.	
+2
+1 	 	
+	
+	
+	
+e. 	
+64
+1 	
+c. 	
+16
+1
+4.	
+Dua dadu dan sekeping koin akan dilemparkan secara bersamaan dan 
+sisi dadu yang muncul akan dicatat. Jika kemunculan masing-masing 
+dadu diyakini seimbang dan kemunculan masing-masing koin seimbang, 
+peluang muncul sisi angka pada koin dan kedua mata dadu yang berjumlah 
+5 adalah ....
+a. 	
+16
+1 		
+	
+	
+	
+	
+b.	
+18
+1 		
+	
+	
+	
+	
+c. 	
+36
+1
+d.	
+72
+1
+e. 	
+144
+1
+Bab 4 | Peluang
+169
+5.	
+Ada dua set kartu yang diletakkan di atas meja. Setiap set terdiri dari 
+52 lembar kartu dan setiap set masing-masing memiliki empat warna 
+berbeda, yaitu merah, kuning, hijau, dan biru. Ada sebanyak 13 kartu yang 
+bernomor 1 hingga 13 pada setiap warna. Akan diambil satu kartu secara 
+acak dari dua set kartu tersebut. Peluang terambilnya kartu bernomor 13 
+atau kartu berwarna merah adalah ....
+a. 	
+104
+31 	
+	
+	
+	
+	
+b.	
+104
+26 	
+	
+	
+	
+	
+c. 	
+52
+19
+d.	
+26
+8
+e. 	
+13
+5 	
+6.	
+Jalan satu arah ditunjukkan oleh tanda panah pada peta jalan pada gambar 
+berikut mulai dari titik P ke Q.
+P
+A
+Q
+	
+Ervina akan pergi dari P ke Q. Berapa peluang ia akan mengambil rute A? 
+7.	
+Suatu kotak berisi 3 kelereng merah, 4 kelereng hijau, dan 5 kelereng biru. 
+Berapa peluang terambilnya 3 kelereng dari kotak tersebut, jika:
+a.	
+semua kelereng merah;
+b.	
+semua kelereng biru;
+c.	
+dua merah dan satu hijau; serta
+d.	
+satu merah, satu hijau, dan satu biru.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+170
+8.	
+Suatu dompet berisi 4 keping uang logam seribu rupiah dan 3 keping 
+uang logam lima ratus rupiah. Dompet kedua berisi 3 keping uang logam 
+seribu rupiah dan 5 keping uang lima ratus ripuah. Satu koin diambil 
+dari dompet pertama dan dimasukkan ke dompet kedua. Jika kemudian 
+diambil sekeping uang logam dari dompet kedua, berapa peluang bahwa 
+uang logam yang diambil dari dompet kedua tersebut adalah logam lima 
+ratus rupiah?
+9.	
+Suatu kantong berisi enam bola merah dan empat bola biru. Dari kantong 
+tersebut akan diambil dua bola berturut-turut. Berapa peluang terambilnya 
+dua bola biru, jika:
+a.	
+dengan pengembalian, dan
+b.	
+tanpa pengembalian.
+10.	 Sumarji adalah manajer Timnas Indonesia. Suatu ketika Timnas 
+bertanding di Final Piala Dunia 2026 melawan Agentina. Suatu ketika 
+saat pertandingan sedang berjalan, pada menit ke 87 Timnas Indonesia 
+mendapatkan hadiah Penalti. Skor sementara adalah 3 – 3. Pemain yang 
+siap menendang adalah Marcelino Ferdinan, Rafel Struick, Risky Ridho, 
+Egy Maulana Vikri, dan Dendy Sulistyawan. Seandainya Sumarji diminta 
+untuk menentukan penendang penalti tersebut, siapakah yang akan 
+Sumarji tunjuk agar Timnas Indonesia meraih kemenangan. Berikut 
+catatan tendangan penalti kelima pemain tersebut.
+Nama
+Penalti 
+(Kali)
+Masuk
+Terblok 
+Kiper
+Melenceng
+Rafel Struick
+20
+12
+6
+2
+Marcelino 
+Ferdinan
+18
+14
+2
+2
+Risky Ridho
+16
+9
+4
+3
+Egy Maulana Vikri
+14
+10
+3
+1
+Dendy Sulistyawan
+10
+5
+4
+1
+Bab 4 | Peluang
+171
+Refleksi 	
+Setelah mempelajari bab ini, berikan tanggapan atas beberapa pertanyaan di 
+bawah ini.
+1.	
+Kendala apa saja yang dapat kamu selesaikan untuk mempelajari materi 
+peluang?
+2.	
+Strategi apa yang kamu gunakan untuk memahami secara mendalam 
+terhadap soal cerita tentang materi peluang kejadian majemuk?
+3.	
+Bagaimana kamu melihat konsep peluang diterapkan dalam tindakan dan 
+pengalamanmu sehari-hari?
+4.	
+Apakah ada kesamaan antara materi ini dengan situasi dalam kehidupan 
+nyata?
+5.	
+Pada materi peluang, kegitan pembelajaran manakah yang membuat 
+kamu menyukainya? Apa alasannya?
+6.	
+Bagaimana perasaan kalian saat memainkan permainan atau melakukan 
+eksperimen berdasarkan materi peluang?
+172
+Glosarium 	
+A
+anggota himpunan 		
+suatu objek dalam suatu himpunan.
+anuitas		
+	
+	
+	
+serangkaian pembayaran atau penerimaan yang 
+dilakukan atau diterima pada jangka waktu yang 
+teratur dalam jumlah yang sama, sering digunakan 
+pada pinjaman atau investasi.
+anuitas pada kasus 	
+anuitas pada kasus pinjaman biasanya merupakan 
+pinjaman 	 	
+	
+	
+sistem pembayaran yang dilakukan pada periode 
+waktu yang teratur dalam jumlah yang sama atas 
+sebuah pinjaman.
+	
+	
+	
+	
+	
+	
+anuitas = angsuran + bunga.
+angsuran 	 	
+	
+	
+bagian dari anuitas dalam kasus pinjaman, di mana 
+anuitas = angsuran + bunga
+angsuran pokok	
+	
+	 bagian dari pembayaran angsuran (pinjaman atau 
+kredit) yang digunakan untuk melunasi nilai hutang 
+asli, tidak termasuk bunga.
+aturan penjumlahan	 salah satu aturan dalam Kaidah Pencacahan untuk 
+menentukan jumlah cara suatu kejadian dapat 
+terjadi, biasanya digunakan ketika pilihan-pilihan 
+tersebut saling lepas (tidak terjadi bersamaan).
+aturan pengisian	
+	
+prinsip dasar dalam Kombinatorik untuk menentukan
+tempat		
+	
+	
+	
+banyaknya cara suatu kejadian dapat terjadi, 
+biasanya melibatkan perkalian banyaknya pilihan di 
+setiap tahap.
+aturan perkalian	
+	
+salah satu aturan dalam Kaidah Pencacahan untuk 
+menentukan jumlah cara suatu rangkaian kejadian 
+dapat terjadi, biasanya digunakan ketika kejadian-
+kejadian tersebut saling bebas (kejadian satu tidak 
+memengaruhi kejadian lain).
+173
+B
+barisan bilangan 	
+	
+barisan bilangan merupakan kumpulan bilangan 
+yang memiliki urutan dan disusun menurut pola 
+tertentu.
+barisan aritmetika		
+urutan bilangan yang memiliki beda (selisih) tetap 
+antara suku yang berurutan.
+beda	
+	
+	
+	
+	
+selisih konstan antara dua suku yang berurutan 
+dalam barisan aritmatika, yang dilambangkan 
+dengan huruf b.
+besar bunga	
+	
+	
+besar bunga dapat menggunakan rumus B = M × p% × n.
+bunga majemuk	
+	
+bunga yang dihitung berdasarkan uang pokok 
+(modal awal) ditambah dengan bunga yang sudah 
+diakumulasikan dari periode bunga sebelumnya 
+(bunga berbunga). Misalkan seseorang menyimpan 
+uang di bank sebesar M dengan bunga majemuk i 
+per tahun, maka saldo uang yang disimpan di bank 
+setelah n periode adalah Mn = M × (1 + i)n.
+bunga tunggal	 	
+	
+imbalan atau balas jasa yang diberikan atas 
+simpanan atau pinjaman dalam periode tertentu 
+yang dihitung secara tunggal (hanya dari modal 
+awal), menyebabkan penambahan besar bunga dan 
+modal akhir secara linear.
+D
+data 	
+	
+	
+	
+	
+ukuran dari suatu nilai. Data biasanya dalam bentuk 
+bilangan, dikumpulkan dalam bentuk tabel, diolah 
+dalam bentuk diagram.
+data kontinu 	
+	
+	
+data yang dihubungkan Rleh garis pada grafik 
+0isalnya, grafik hubungan tinggi badan dengan usia
+datum	 	
+	
+	
+	
+satu ukuran dari suatu nilai.
+data berkelompok	 	
+data yang sudah dikelompokkan dalam kelaskelas.
+data tunggal 	
+	
+	
+data mentah yang belum diolah atau di kelompokkan.
+174
+deret	
+	
+	
+	
+	
+jumlahan dari suku-suku suatu barisan (aritmetika 
+atau geometri).
+deret bilangan 		
+	
+penjumlahan suku-suku pada barisan bilangan.
+deret divergen 		
+	
+deret bilangan yang tidak dapat ditentukan 
+jumlahnya.
+deret konvergen 	
+	
+deret bilangan yang dapat ditentukan jumlahnya.
+deret geometri		
+	
+jumlahan bilangan dari Barisan Geometri.
+desil 	
+	
+	
+	
+	
+nilai yang membagi data menjadi 10 kelompok sama 
+banyak.
+desmos		
+	
+	
+	
+aplikasi atau alat teknologi (kalkulator ilmiah) 
+yang disarankan untuk membantu peserta didik 
+dalam memahami konsep, khususnya Investasi dan 
+Pinjaman.
+deviasi standar 	
+	
+akar dari jumlah kuadrat deviasi dibagi banyaknya 
+data.
+diameter	
+	
+	
+	
+garis lurus yang menghungkan dua titik pada 
+lengkungan dua titik sebarang di lengkungan tersebut.
+diagram venn 	 	
+	
+suatu representasi grafis dari suatu himpunan atau 
+himpunan-himpunan.
+diagram batang 	
+	
+gambar yang menggunakan batang secara horizontal 
+atau vertikal untuk menunjukkan suatu data.
+distribusi binomial		
+salah satu jenis distribusi probabilitas diskrit untuk 
+menggambarkan peluang sukses/gagal dari sejumlah 
+percobaan Bernoulli yang dilakukan secara berulang 
+dan saling bebas.
+F
+faktorial	
+	
+	
+	
+hasil kali bilangan bulat positif mulai dari 1 sampai 
+dengan bilangan itu sendiri (misalnya, n! = n × (n – 
+1) × (n – 2) × … × 1), digunakan dalam perhitungan 
+permutasi dan kombinasi.
+frekuensi harapan	 	
+harapan banyaknya suatu kejadian akan terjadi dari 
+sejumlah percobaan.
+175
+fungsi linear	
+	
+	
+sebuah fungsi yang mana variabelnya berpangkat satu 
+atau suatu fungsi yang grafiknya adalah garis lurus
+fungsi kuadrat	 	
+	
+sebuah fungsi polinom yang memiliki peubah/
+variabel dengan pangkat tertingginya adalah 2 (dua).
+G
+gabungan Himpunan	 suatu operasi himpunan yang menghasilkan 
+himpunan baru yang anggotanya terdiri dari semua 
+anggota himpunan yang digabungkan, di mana 
+anggota yang sama hanya ditulis satu kali.
+grafik	 	
+	
+	
+	
+suatu kerangka atau gambar yang digunakan untuk 
+membuat objek visualisasi dari data-data pada tabel.
+H
+himpunan	 	
+	
+	
+unit yang terdiri beberapa anggota.
+himpunan berhingga 	 suatu himpunan dengan n elemen di mana n adalah 
+suatu bilangan bulat tak negatif Himpunan tak 
+berhingga Suatu himpunan yang anggotanya tak 
+berhingga.
+himpunan semesta		
+himpunan yang memuat semua objek di bawah 
+pertimbangan. 
+K
+karakteristik	
+	
+	
+Firi khas atau sifat spesifik yang membedakan satu 
+hal dari yang lain.
+kejadian 	
+	
+	
+	
+himpunan bagian dari ruang sampel
+kejadian majemuk 		
+dua atau lebih kejadian yang terjadi secara 
+bersamaan
+kejadian saling bebas	 dua kejadian atau lebih yang kemunculannya tidak 
+saling mempengaruhi satu sama lain.
+kejadian saling lepas 	 kejadian di mana tidak mungkin untuk terjadi pada 
+hasil yang sama.
+176
+kombinasi 		
+	
+	
+susunan yang mungkin dari unsurunsur yang 
+berbeda dengan tidak memperhatikan urutannya.
+kombinasi berulang	
+pengambilan objek  dengan urutan tidak 
+diperhitungkan (pengulangan/pengembalian 
+diperbolehkan)
+L
+linear	 	
+	
+	
+	
+posisi yang terletak pada suatu garis lurus
+N
+nilai masa depan 	 	
+perhitungan total uang yang ditabung dengan bunga 
+dan sistem anuitas. 
+notasi 	 	
+	
+	
+	
+lambang/simbol
+P
+peluang 	
+	
+	
+	
+kemungkinan munculnya suatu kejadian/peristiwa.
+peluang bersyarat 	 	
+peluang dua kejadian yang saling bergantung 
+apabila terjadi atau tidak terjadinya kejadian A akan 
+mempengaruhi terjadi atau tidak terjadinya kejadian 
+B.
+peluang saling bebas 	 peluang dua atau lebih kejadian yang tidak saling 
+memengaruhi.
+peluang saling lepas 	 peluang dua atau lebih kejadian yang tidak mungkin 
+terjadi bersama-sama.
+periode	
+	
+	
+	
+angka waktu atau durasi tertentu di mana bunga 
+dihitung dan diterapkan pada pokok investasi atau 
+pinjaman. 
+permutasi 	 	
+	
+	
+jumlah kemungkinan urutan objek-objek yang dipilih 
+dengan memperhatikan urutan objek.
+permutasi siklis	
+	
+permutasi yang susunannya melingkar (urutan 
+melingkar).
+177
+R
+rasio	
+	
+	
+	
+	
+nilai pengali tetap yang menghubungkan setiap suku 
+yang berdekatan, atau hasil bagi dari suatu suku 
+dengan suku sebelumnya. 
+ruang sampel 	 	
+	
+himpunan semua hasil yang mungkin dalam suatu 
+eksperimen (dalam materi peluang). 
+S
+simpanan	 	
+	
+	
+dana yang dititipkan atau ditabung pada suatu 
+lembaga keuangan (seperti bank) dengan harapan 
+mendapatkan bunga atau imbal hasil.
+simpanan akhir	
+	
+	 total jumlah uang yang ada di rekening tabungan 
+atau investasi pada akhir periode tertentu, termasuk 
+simpanan awal dan bunga yang diperoleh.
+suku bunga	
+	
+	
+suku bunga dapat diartikan sebagai balas jasa yang 
+diberikan nasabah kepada bank atas peminjaman 
+uang di bank atau balas jasa yang diberikan pihak 
+bank kepada nasabah atas penyimpanan uang di bank.
+susunan	
+	
+	
+	
+hasil dari Kaidah Pencacahan (baik permutasi 
+maupun kombinasi), merujuk pada tata letak atau 
+urutan objek.
+T
+titik sampel 	
+	
+	
+setiap hasil yang mungkin terjadi pada suatu 
+percobaan.
+V
+variabel 	
+	
+	
+	
+huruf atau simbol lain yang digunakan untuk 
+mewakili bilangan atau nilai yang tidak ditentukan. 

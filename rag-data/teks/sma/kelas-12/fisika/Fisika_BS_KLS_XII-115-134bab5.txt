@@ -1,0 +1,730 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Lia Laela Sarah, Irma Rahma Suwarma
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 5
+GELOMBANG
+ELEKTROMAGNETIK
+Kata Kunci
+Sifat-sifat GEM • Spektrum GEM • Laju GEM • Energi GEM • Manfaat GEM
+Setelah mempelajari bab ini, kalian dapat mengidentifikasi gelombang 
+elektromagnetik (proses terjadinya, sifat-sifat, spektrum, dan laju gelombang 
+elektromagnetik), serta pemanfaatannya dalam kehidupan sehari-hari.
+Tujuan Pembelajaran
+Sumber: kjpargeter/freepik (2022)
+96
+Fisika untuk SMA/MA Kelas XII 
+Gambar 5. 1 Peta Konsep Gelombang Elektromagnetik
+Sumber : Kinkin Suartini/Kemendikbudristek (2022)
+Gelombang 
+elektromagnetik 
+dalam 
+kehidupan 
+sehari-hari, 
+digunakan 
+untuk 
+berbagai 
+kebutuhan, seperti berkomunikasi 
+melalui 
+panggilan 
+telepon 
+seluler 
+dan 
+memeriksa 
+suhu 
+tubuh. 
+Bagaimana 
+gelombang 
+elektromagnetik ini dihasilkan? 
+Apa saja yang termasuk gelombang 
+elektromagnetik?
+Gambar 5. 2 Contoh aplikasi GEM 
+sumber: unknown/freepik(2022)
+97
+BAB 5 | Gelombang Elektromagnetik
+Ayo, Mengingat Kembali!
+Berdasarkan arah perambatan, gelombang dibagi menjadi gelombang 
+longitudinal 
+dan 
+gelombang 
+transversal. 
+Arah 
+rambat 
+gelombang 
+transversal tegak lurus terhadap arah getarnya, sedangkan arah rambat 
+gelombang longitudinal sejajar dengan arah getarnya. Berdasarkan medium 
+perambatannya terdiri dari gelombang mekanik dan elektromagnetik. 
+Gelombang mekanik adalah gelombang yang memerlukan medium 
+perambatan sedangkan gelombang elektromagnetik tidak memerlukan 
+medium perambatan.
+Coba diskusikan dan identifikasi, gelombang elektromagnetik 
+apa saja yang ada di sekitar kalian!
+Diskusikan 
+bagaimana 
+gelombang 
+elektromagnetik dihasilkan dan bagaimana 
+sifat-sifatnya. Jika akses internet tersedia, 
+dapat dilakukan simulasi pada tautan di 
+bawah atau pindai kode QR.
+https://javalab.org/en/electromagnetic_wave_en/
+Aktivitas 5.1
+A.	 Perambatan Gelombang Elektromagnetik
+Gelombang elektromagnetik dihasilkan dari perambatan medan listrik dan 
+medan magnet yang saling tegak lurus melewati ruang. Teori gelombang 
+elektromagnetik pertama kali dikemukakan oleh James Clark Maxwell 
+(1831-1879) pada tahun 1865 dengan hipotesisnya bahwa “Perubahan medan 
+magnet dapat menimbulkan medan listrik, sebaliknya perubahan medan listrik 
+dapat menimbulkan perubahan medan magnet.” Hipotesis ini merupakan 
+penggabungan teori kelistrikan dan kemagnetan yang dikemukakan oleh 
+Hans Christian Oersted (1777-1851), Michael Faraday (1791-1867), dan André-
+Marie Ampère (1775–1836). 
+Medan listrik dihasilkan dari sebuah muatan listrik sedangkan medan 
+magnet dihasilkan oleh perubahan medan listrik, sehingga ketika muatan 
+98
+Fisika untuk SMA/MA Kelas XII 
+Besar medan listrik dan medan magnet yang dihasilkan dipengaruhi oleh 
+besar arus listrik dari sumber tegangan, demikian juga arahnya dipengaruhi 
+oleh arah arus pada kawat tersebut. Jika tiang pemancar diberi arus bolak-
+balik dengan persamaan sinusoidal, maka besar medan listrik dan medan 
+magnet juga berupa fungsi sinusoidal. 
+Ingatlah bahwa besar medan listrik ditentukan oleh besar muatan. 
+Oleh karena itu, saat tiang pemancar mengalami perubahan listrik maka 
+medan listriknya akan mengalami perubahan. Perubahan arus listrik ini 
+menghasilkan medan magnet. Besar medan magnet ditentukan oleh besar 
+dan arah arus listrik sehingga ketika ada perubahan arus, medan magnet 
+juga mengalami perubahan. 
+Arah medan magnet selalu tegak lurus dengan arah medan listrik yang 
+dihasilkan (ingat kembali konsep bab 3) dan arah keduanya selalu tegak 
+lurus dengan arah perambatan gelombangnya. Bentuk sederhana persamaan 
+medan listrik (E) dan medan magnet (B) dari gelombang elektromagnetik 
+dapat dinyatakan menggunakan fungsi sinusoidal (sinus atau cosinus), 
+misalnya:
+E = Emax sin(ωt±kx)	
+	
+	
+(5-1)
+B = Bmax sin(ωt±kx)	
+	
+	
+(5-2)
+Gambar 5. 3 Perambatan GEM
+sumber: unknown/javalab(2022), Cutnell/Physics(2012)
+berosilasi dihasilkan perubahan medan listrik dan medan magnet. Jika 
+proses ini berulang secara terus menerus, maka medan listrik dan medan 
+magnet yang arahnya tegak lurus akan merambat membentuk gelombang 
+elektromagnetik.
+Perhatikan Gambar 5.3, nampak sebuah tiang konduktor pemancar yang 
+mentransmisikan gelombang elektromagnetik. 
+99
+BAB 5 | Gelombang Elektromagnetik
+dengan Emax adalah medan listrik maksimum dan Bmax adalah medan 
+magnet maksimum sedangkan ω adalah frekuensi sudut osilasi dari sumber 
+gelombang.
+Laju 
+gelombang 
+elektromagnetik 
+di 
+ruang 
+hampa, 
+Maxwell 
+menentukannya secara teori dengan persamaan:
+                                                       (5-3)
+dengan ε0 adalah permitivitas listrik di ruang hampa sebesar 8,85 x 10-12 
+C2 (N m2) dan μ0 adalah permeabilitas magnetik di ruang hampa sebesar 4 π 
+x 10-7 Tm/A. Coba sekarang kalian hitung nilai laju perambatan gelombang 
+elektromagnetik dengan memasukan nilai ε0 dan μ0.
+Ayo, Tentukan!
+ Laju gelombang elektromagnetik di ruang hampa =
+Laju gelombang elektromagnetik bergantung jenis mediumnya, sehingga 
+persamaannya menjadi:
+dengan ε adalah permitivitas listrik di medium dan μ adalah permeabilitas 
+magnetik medium.
+Contoh fenomena laju gelombang elektromagnetik dalam medium air. 
+Besar laju gelombang elektromagnetik menjadi lebih kecil saat merambat 
+dalam medium air karena panjang gelombangnya menjadi lebih kecil 
+meskipun frekuensinya tetap.
+dengan v adalah laju cahaya (m/s) dan berlaku untuk gelombang 
+elektromagnetik lainnya sebesar 3 x 108 m/s, λ adalah panjang gelombang 
+(m) dan f adalah frekuensi (Hz). Frekuensi gelombang elektromagnetik 
+ditentukan oleh frekuensi osilasi muatan sebagai sumber gelombangnya. 
+Misalnya untuk gelombang radio FM frekuensinya 88 sampai 108 MHz.
+Laju rambat gelombang elektromagnetik dapat dinyatakan dengan 
+persamaan:
+v = λf  
+(5-4)
+v =
+ε0 μ0
+1
+v =
+ε0 μ0
+1
+= ...
+v =
+εμ
+1
+100
+Fisika untuk SMA/MA Kelas XII 
+Aktivitas 5.2
+Perhatikan gambar spektum gelombang elektromagnetik Gambar 5.4 
+dan eksplorasi dari berbagai sumber.
+Gambar 5. 4 Frekuensi spektrum GEM
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+5.1  Ayo, Cek Pemahaman!
+1.	 Berdasarkan informasi pada materi di atas, tentukan rentang 
+panjang gelombang untuk gelombang radio FM.
+2.	 Komang yang sedang berada di Bali melakukan panggilan telepon 
+seluler pada Ridwan, temannya di Bandung. Perkirakan berapa 
+lama sinyal gelombang elektromagnetik dari Bali akan sampai ke 
+Bandung jika sinyal ditransmisikan melewati satelit yang berjarak 
+36000 km dari permukaan bumi?
+B.	Spektrum Gelombang Elektromagnetik
+Gelombang elektromagnetik memiliki rentang frekuensi yang sangat 
+lebar. Urutan rentang frekuensi atau panjang gelombang dari gelombang 
+elektromagnetik ini disebut spektrum elektromagnetik. 
+Perhatikan 
+Gambar 
+5.4, 
+spektrum 
+elektromagnetik 
+berdasarkan 
+frekuensinya secara berurutan terdiri dari sinar gamma, sinar X, sinar UV, 
+cahaya tampak, inframerah, gelombang mikro dan gelombang radio. Berapa 
+panjang gelombang, frekuensi dan energi untuk masing-masing spektrum 
+gelombang elektromagnetik?
+Lengkapi nilai panjang gelombang, frekuensi, dan contoh aplikasi 
+setiap gelombang elektromagnetik pada Tabel 5.1.
+101
+BAB 5 | Gelombang Elektromagnetik
+Gelombang elektromagnetik dihasilkan oleh berbagai sumber. Misalnya 
+sinar gamma dihasilkan oleh peluruhan zat radioaktif dan radiasi kosmik, 
+sinar X dihasilkan oleh perlambatan elektron berkecepatan tinggi secara tiba-
+tiba dalam tabung ruang hampa sedangkan gelombang mikro dihasilkan oleh 
+tabung elektron. Sinar gamma memiliki frekuensi tertinggi, demikian juga 
+energinya. Energi radiasi yang berasal dari peluruhan radioaktif ini mampu 
+mengionisasi atom lain (ionizing radiation) sehingga sangat berbahaya jika 
+ Gambar 5. 5 Penguraian cahaya matahari
+Sumber : Peo/commonswiki (2022)
+seseorang terpapar radiasi sinar gamma.
+Cahaya tampak merupakan spektrum 
+gelombang elektromagnetik yang dapat 
+dilihat mata. Cahaya tampak diemisikan 
+oleh benda panas seperti matahari dan 
+filamen lampu. Cahaya tampak mulai dari 
+sinar merah dengan panjang gelombang 
+terpanjang sampai sinar ungu dengan 
+panjang gelombang terpendek. Panjang 
+gelombangnya antara 400 nm sampai 
+750 nm. Sinar merah, ungu dan cahaya 
+tampak lainnya dikenal dengan cahaya 
+Gelombang 
+Elektromagnetik
+Panjang 
+Gelombang (m)
+Frekuensi 
+(Hz)
+Contoh 
+Pemanfaatan
+Sinar Gamma
+Sinar X
+Sinar Ultraviolet
+Cahaya Tampak
+  - Ungu
+  - Biru
+  - Hijau
+  - Kuning
+  - Jingga
+  - Merah
+Infra Merah
+Gelombang Mikro
+Gelombang Radio
+ 
+Tabel 5.1 Spektrum Gelombang Elektromagnetik
+102
+Fisika untuk SMA/MA Kelas XII 
+5.2  Ayo, Cek Pemahaman!
+Berikut ini beberapa pernyataan mengenai spektrum gelombang 
+elektromagnetik. Berikan tanda ceklis pada pernyataan yang benar.
+1
+Urutan 
+spektrum 
+gelombang 
+elektromagnetik 
+cahaya 
+tampak 
+mulai 
+panjang 
+gelombang 
+terbesar 
+yaitu: 
+Ungu – biru – hijau – kuning – jingga - merah
+2
+Gelombang mikro tidak dapat digunakan pada bidang 
+telekomunikasi
+3
+Radiasi sinar gamma berbahaya bagi Kesehatan karena 
+energinya dapat mengionisasi atom.
+monokromatik, yaitu cahaya yang hanya memiliki satu warna atau satu 
+panjang gelombang. 
+Sinar matahari merupakan cahaya polikromatik yaitu cahaya yang 
+dapat diuraikan menjadi spektrum cahaya monokromatik. Contoh terjadi 
+pada peristiwa pembentukan pelangi dan penguraian cahaya matahari oleh 
+ Gambar 5. 6 Eksperimen Herschel
+Sumber : Coolcosmos/Caltech.edu (2022)
+prisma kaca. Hasil penguraian cahaya 
+matahari pada prisma tidak hanya 
+menghasilkan cahaya tampak namun 
+juga 
+gelombang 
+elektromagnetik 
+lainnya yang tidak terlihat seperti 
+inframerah.
+William Herschel (1738-1822) pada 
+tahun 1800 melakukan eksperimen 
+untuk menemukan perubahan suhu 
+pada setiap warna yang dihasilkan 
+dari 
+penguraian 
+cahaya 
+matahari 
+melalui 
+prisma 
+kaca. 
+Herschel 
+menemukan 
+cahaya 
+yang 
+tidak 
+terlihat disamping cahaya  merah 
+memiliki perubahan suhu tertinggi. 
+Berdasarkan eksperimennya, Herschel 
+menyimpulkan keberadaan sinar inframerah dari hasil penguraian sinar 
+matahari oleh prisma kaca. Selain dipancarkan oleh sinar matahari, sinar 
+inframerah juga dipancarkan oleh benda-benda lainnya yang disebabkan 
+vibrasi dan rotasi molekul di dalam material.
+103
+BAB 5 | Gelombang Elektromagnetik
+C.	 Energi Gelombang Elektromagnetik
+Gelombang elektromagnetik sama seperti gelombang lainnya, merambat 
+dengan membawa energi. Energinya dibawa oleh medan listrik dan medan 
+magnet yang biasa dinyatakan dalam rapat energi. Rapat energi adalah besar 
+energi tiap satuan volume ruang dimana energi merambat. Total rapat energi 
+gelombang elektromagnetik besarnya dapat dinyatakan:
+(5-5)
+dengan u adalah rapat energi (Joule/m3), E adalah kuat medan listrik (N/C) 
+dan B adalah kuat medan magnet (tesla). Gelombang elektromagnetik saat 
+merambat di udara atau ruang hampa, medan listrik dan medan magnetnya 
+membawa sejumlah energi yang sama tiap satuan volumenya,
+(5-6) 
+maka persamaan rapat energi dapat dinyatakan:
+u = ε0 E2                                                        (5-7)
+atau
+ 
+                                                       (5-8)
+Pada keadaan maksimum, hubungan antara medan listrik dan medan 
+magnet dapat dinyatakan:
+Substitusikan persamaan laju gelombang elektromagnetik maka:
+4
+Termometer tembak menggunakan fakta bahwa seluruh 
+objek memancarkan radiasi infra merah karena vibrasi dan 
+rotasi molekul di dalam material
+5
+Panjang gelombang radio dan televisi lebih besar dari panjang 
+gelombang yang dapat dideteksi mata manusia.
+u =
+volume
+energi
+ε0E2 +
+= 1
+2
+1
+2μ0
+B2
+ε0E2  =
+1
+2
+1
+2μ0
+B2
+u  = 1
+μ0
+B2
+E0
+2
+B0
+2 =
+1
+ε0 μ0
+104
+Fisika untuk SMA/MA Kelas XII 
+Untuk gelombang elektromagnetik yang merambat di udara atau 
+ruang hampa, hubungan medan listrik maksimum dan medan magnet 
+maksimum dapat dinyatakan sebagai:
+                                               (5-9)
+persamaan intensitas gelombang rata-ratanya:
+dengan E0 adalah medan listrik maksimum (N/C), B0 adalah medan magnet 
+maksimum (tesla) dan c adalah laju gelombang elektromagnetik (m/s).
+Energi yang melewati tiap satuan luas tiap satuan waktu atau 
+intensitasnya dinyatakan dengan:
+ 
+Intensitas gelombang elektromagnetik dapat dinyatakan:
+dengan S adalah intensitas gelombang elektromagnetik (Watt/m2). Karena 
+medan listrik dan medan magnet pada gelombang elektromagnetik berupa 
+fungsi sinusoidal, maka persamaan di atas berlaku untuk kondisi sesaat. 
+Untuk mendapatkan nilai efektifnya, dapat menggunakan analogi dengan 
+persamaan arus bolak balik. Medan listrik efektif (root mean square) yaitu:
+ 
+ 
+dan medan magnet efektif (root mean square)
+ 
+Substitusi nilai efektifnya, sehingga
+E0
+B0
+= c
+Bef = B0
+ef
+Bef = B0
+√2
+atau
+S =
+total energi
+waktu x luas
+rapat energi x volume
+waktu x luas
+=
+=
+u(ctA)
+tA
+= uc
+105
+BAB 5 | Gelombang Elektromagnetik
+D.	Pemanfaatan Gelombang Elektromagnetik
+1.	 Sinar Gamma dan Sinar X
+kemudian dimanfaatkan dalam pencitraan jaringan tubuh untuk mengetahui 
+beberapa jenis penyakit. 
+Gelombang 
+elektromagnetik 
+banyak 
+dimanfaatkan 
+dalam 
+kehidupan 
+sehari- 
+hari sesuai dengan tingkat energinya. Misal 
+sinar gamma, dengan tingkat energi yang 
+tinggi 
+mampu 
+mengionisasi 
+sel 
+sehingga 
+dimanfaatkan untuk membunuh sel kanker, 
+sterilisasi alat kedokteran dan bedah saraf otak. 
+Demikian pula dengan energi sinar X dapat 
+mengionisasi sel sehingga sangat berbahaya 
+jika terpapar berlebihan. Energi sinar X dapat 
+diserap oleh jaringan tubuh, karenanya sinar X 
+  Gambar 5. 7 Hasil pencitraan sinar X
+sumber: Nevit Dilmen/Wikimedia Commons(2011)
+Intensitas radiasi sinar matahari mencapai ke bumi (di atas atmosfer) 
+sekitar 1350 Watt / m2. Asumsikan radiasi ini merupakan gelombang 
+elektromagnetik tunggal, hitung kuat medan listrik dan medan magnet 
+maksimumnya
+5.3 Ayo, Cek Pemahaman!
+atau
+                                      (5-10)
+Baca 
+dan 
+pahami 
+beberapa 
+contoh 
+pemanfaatan 
+gelombang 
+elektromagnetik (GEM) dalam kehidupan sehari-hari di bawah ini. 
+Kemudian secara berkelompok, pilih salah satu tema pemanfaatan yang 
+menarik untuk kalian bahas dan diskusikan lebih mendalam. Lakukan 
+tinjauan pustaka dari berbagai sumber untuk melengkapi dasar teori 
+bagaimana pemanfaatan GEM tersebut kemudian secara kreatif sajikan 
+hasil diskusi kalian baik secara digital atau karya kreatif lainnya 
+kemudian presentasikan.
+Aktivitas 5.3
+S =
+Eef Bef
+μ0
+106
+Fisika untuk SMA/MA Kelas XII 
+Sinar X akan diserap jaringan tubuh sehingga intensitasnya berkurang 
+saat melewatinya. Semakin padat material penyusun tubuh (seperti jaringan 
+tulang) intensitas sinar X yang diserap akan semakin besar. Perbedaan 
+intensitas yang diproyeksikan menjadi gambar ini dianalisis untuk 
+menentukan apakah ada kelainan pada jaringan tersebut. Pembahasan 
+mengenai sinar X dan sinar gamma lebih lanjut dijabarkan pada bab 8 dan 
+bab 9.
+2.	 Sinar Ultraviolet (UV)
+Sinar ultraviolet (UV) memiliki panjang gelombang lebih pendek dari sinar 
+ungu namun lebih panjang dari sinar X, antara 40 – 400 nm. Sinar ultraviolet 
+banyak terdapat pada sinar matahari. Sekitar 10% spektrum yang dihasilkan 
+dari cahaya matahari adalah ultraviolet. Selain itu ultraviolet juga dihasilkan 
+oleh lampu-lampu khusus seperti lampu uap merkuri dan lampu fluorescent. 
+Sinar ultraviolet tidak dapat dilihat oleh mata manusia namun beberapa 
+jenis hewan seperti burung, serangga dan beberapa jenis mamalia dapat 
+melihat sinar ultraviolet pada panjang gelombang 300 – 400 nm yang disebut 
+Near-UV.
+Radiasi UV dari Matahari berperan penting dalam kehidupan dan 
+mempengaruhi hampir semua organisme hidup. Ada keuntungan atau 
+manfaat dari sinar UV namun terdapat pula efek bahayanya. Mendapatkan 
+radiasi sinar ultraviolet dari Matahari yang berlebihan berbahaya bagi tubuh 
+namun jika radiasi yang didapatkan sesuai kebutuhan, maka akan sangat 
+bermanfaat. Radiasi UV pada panjang gelombang 320-400 nm, yang disebut 
+UV-A, bermanfaat dalam pembentukan Vitamin D oleh tubuh. 
+Sinar Matahari juga menjadi alternatif untuk penyembuhan salah satu 
+penyakit yang dikenal dengan psoriasis dan eksfolif cheilitis, yaitu kondisi 
+penyakit ketika sel-sel tubuh membelah lebih cepat dari seharusnya. 
+Radiasi yang berlebihan juga berbahaya bagi kulit yakni menyebabkan kulit 
+terbakar, berbagai sindrom penyakit kulit dan katarak. Radiasi yang masuk 
+pada panjang gelombang lebih pendek, 280-320 nm yang disebut UV-B dapat 
+menyebabkan kerusakan pada tingkat molekuler sel jaringan tubuh bahkan 
+kanker kulit.
+Sinar UV yang bukan bersumber dari sinar matahari banyak 
+dimanfaatkan dalam berbagai bidang kesehatan, industri maupun biologi. 
+Ultraviolet juga digunakan pada bidang kesehatan, yaitu untuk sterilisasi 
+fasilitas medis dengan menggunakan lampu ultraviolet. Pada tingkat energi 
+yang cukup, sinar ultraviolet dapat membuat mikroorganisme tidak dapat 
+bereproduksi dan tidak berbahaya. UV juga digunakan untuk sterilisasi jenis 
+makanan dan air minum. Begitu pula pada bidang industri, ultraviolet banyak 
+107
+BAB 5 | Gelombang Elektromagnetik
+Gambar 5. 9 Prinsip kerja termometer inframerah
+Sumber : Mansi/BeingWell (2022)
+digunakan baik sebagai pendeteksi kebakaran, teknologi semikonduktor 
+maupun teknologi polimer.
+3.	 Cahaya Tampak
+4.	 Inframerah
+Penggunaan cahaya tampak dalam kehidupan sehari-hari selain untuk 
+membantu melihat juga banyak diaplikasikan dalam bidang kedokteran, 
+kecantikan dan industri. Salah satu yang paling populer adalah sinar laser. 
+Sinar laser digunakan dalam bidang kecantikan untuk meratakan kulit, 
+menghilangkan tato dan bekas jerawat serta untuk terapi lasik pada mata 
+minus. Selain itu sinar laser juga digunakan dalam bidang kedokteran seperti 
+untuk menghancurkan batu ginjal, empedu atau tumor.
+pada jarak tertentu, tanpa harus disentuhkan untuk mengukur suhu tubuh 
+manusia. Prinsip kerjanya memanfaatkan fakta bahwa setiap orang akan 
+memancarkan radiasi inframerah karena suhunya di atas 0K (nol Kelvin). 
+Radiasi yang inframerah yang dipancarkan seseorang akan dikumpulkan 
+oleh lensa menuju sensor yang disebut thermofile, kemudian diolah menjadi 
+data digital dan ditampilkan pada layar sebagai suhu yang terbaca.
+  Gambar 5.8 Layar hasil kamera Infra merah
+Sumber: Jung Yeon Je/nbcnews.com(2009)
+Saat ini pemanfaatan sinar inframerah 
+selain digunakan pada remote control 
+juga digunakan pada alat pendeteksi suhu 
+tanpa harus menyentuh orang yang akan 
+diukur suhunya. Termometer inframerah 
+menjadi 
+sangat 
+populer 
+ketika 
+masa 
+pandemi Covid19 ketika setiap orang 
+satu sama lain tidak boleh bersentuhan. 
+Termometer inframerah cukup diarahkan 
+108
+Fisika untuk SMA/MA Kelas XII 
+5.	 Gelombang Mikro
+a.	 Telepon Seluler
+Termometer inframerah yang digunakan di pusat perbelanjaan modern 
+atau bandara, biasanya berupa kamera. Contoh Gambar 5.8 menunjukkan 
+layar yang menampilkan suhu beberapa orang di dalam gedung menggunakan 
+kamera pendeteksi suhu.
+Gelombang mikro banyak dimanfaatkan dalam kehidupan sehari-hari 
+seperti pada microwave oven. Frekuensi yang digunakan lebih rendah, antara 
+gelombang mikro dan gelombang radio yaitu pada frekuensi 450 – 1800 MHz. 
+Gelombang mikro juga dimanfaatkan untuk alat telekomunikasi modern 
+telepon seluler yang prinsip kerjanya dapat dilihat pada Gambar 5.10.
+Gambar 5. 10 Prinsip kerja telepon seluler
+sumber: Nevit Dilmen/Wikimedia Commons(2011)
+Setiap area layanan dibagi dalam wilayah kecil yang disebut cells (sel). 
+Masing-masing sel memiliki antena yang dikontrol oleh Base Station dan 
+setiap Base Station dikontrol dengan sebuah Mobile Switching Centre (MSC). 
+Saat ponsel melakukan panggilan, gelombang elektromagnetik diteruskan 
+dari ponsel pemanggil ke Base Traveler Stations (BTS) terdekat kemudian ke 
+MSC yang kemudian diteruskan lagi ke BTS lain sampai ke penerima.
+b.	 Radar
+Radio detection and ranging (radar) merupakan salah satu aplikasi gelombang 
+mikro yang pada umumnya digunakan untuk mengukur jarak, sudut 
+dan kecepatan objek. Radar biasa digunakan untuk mendeteksi pesawat, 
+mengukur kedalaman laut bahkan digunakan sebagai alat untuk mendeteksi 
+laju mobil yang sedang bergerak.
+109
+BAB 5 | Gelombang Elektromagnetik
+Gambar 5. 11 Radar pendeteksi jarak pesawat
+Sumber: Unknown/Canva edu(2022)
+6.	 Gelombang Radio
+Gelombang radio selain digunakan sebagai media komunikasi juga 
+dimanfaatkan dalam teleskop radio. Tahun 1957, Grote Reber (1911-2002) 
+menemukan bahwa matahari memancarkan gelombang radio seperti 
+bintang yang lainnya. Spektrum ini tidak dapat dilihat dengan teleskop optik. 
+Reber membuat teleskop radio pertama yang digunakan untuk mengamati 
+spektrum ini. Informasi yang diterima oleh teleskop ini berupa angka yang 
+menunjukkan intensitas dengan panjang gelombang berbeda. Pada teleskop 
+radio modern, informasi angka ini diubah oleh komputer menjadi sebuah 
+gambar sehingga mudah dianalisis. 
+Teleskop radio juga difungsikan sebagai teleskop radar untuk mengamati 
+benda-benda langit yang jaraknya dekat dengan Bumi seperti Bulan, Mars, 
+Merkurius dan Venus. Sinyal radio dikirim ke permukaan benda langit 
+tersebut, kemudian dipantulkan kembali. Berdasarkan sinyal pantulan ini, 
+digunakan untuk memetakan permukaan benda langit tersebut. Prinsip 
+kerja ini menjadi solusi kelemahan dari teleskop optik yang tidak mampu 
+Radar untuk mendeteksi sebuah pesawat akan mengirimkan gelombang 
+mikro ke arah pesawat. Kemudian pesawat akan memantulkan kembali 
+gelombang tersebut. Beda waktu antara sinyal gelombang yang diberikan 
+dan dipantulkan menghasilkan jarak pesawat dengan persamaan :
+                                                   (5-6)
+dengan s adalah jarak pesawat, t adalah waktu yang diperlukan oleh 
+gelombang mikro mulai dipancarkan sampai kembali lagi dan v adalah 
+laju gelombang mikro, yaitu 3 x 108 m/s. Tanda setengah karena waktu yg 
+ditempuh merupakan waktu saat dipancarkan hingga kembali karena 
+dipantulkan.
+1
+2
+S =
+v x t
+110
+Fisika untuk SMA/MA Kelas XII 
+mengamati permukaan benda langit akibat awan gas dan debu atau nebula 
+di antariksa.
+Selain dengan teleskop radio yang ditempatkan di Bumi, observasi 
+benda-benda langit juga dilakukan melalui teleskop yang mengorbit di luar 
+angkasa. Ide mengorbitkan teleskop ke luar angkasa muncul agar dapat 
+melakukan pengamatan benda-benda langit tanpa terhalang atmosfer Bumi. 
+Hal ini karena gelombang elektromagnetik ternyata sebagian besar terhalang 
+oleh atmosfer Bumi dan tidak sampai ke permukaan Bumi.
+Teleskop 
+paling 
+terkenal 
+yang 
+mengorbit bumi diluncurkan pada tahun 
+1990 yaitu teleskop Hubble.  Teleskop 
+Hubble 
+dapat 
+mengamati 
+radiasi 
+gelombang elektromagnetik pada panjang 
+gelombang ultraviolet, cahaya tampak, 
+dan inframerah. Teleskop ini juga dapat 
+menganalisis 
+spektrum 
+cahaya 
+untuk 
+mendapatkan informasi suhu, komposisi, 
+dan jarak dari sebuah bintang dan galaksi.
+Gambar 5. 12 Teleskop Hubble antariksa
+Sumber : NASA/ Wikimedia Commons (1990)
+5.4 Ayo, Cek Pemahaman!
+1.	 Sinar ultraviolet memiliki manfaat tapi juga berbahaya jika terpapar 
+secara berlebihan. Jelaskan bahaya dan manfaat sinar ultraviolet 
+tersebut!
+2.	 Sebuah antena radar mengirimkan sinyal gelombang elektromagnet ke 
+sebuah pesawat yang melintas dan menerima kembali sinyal pantulannya 
+setelah 2 x 10-4 sekon. Tentukan jarak pesawat terhadap antena radar 
+tersebut!
+3.	 Apa kelebihan teleskop radio dibandingkan dengan teleskop optik?
+Aktivitas 5.5. Literasi
+Pemanasan Global
+Radiasi elektromagnetik yang dipancarkan Matahari terdiri dari ultraviolet 
+antara 7 - 8%, cahaya tampak 43% dan inframerah 49 – 50%. Adanya atmosfer 
+Bumi, radiasi yang dipancarkan Matahari sebagian besar dipantulkan 
+111
+BAB 5 | Gelombang Elektromagnetik
+Radiasi yang paling dominan diteruskan ke permukaan Bumi adalah 
+cahaya tampak. Cahaya tampak ini memanaskan permukaan Bumi dan 
+karenanya permukaan Bumi memacarkan radiasi inframerah. Karena gas-
+gas rumah kaca di atmosfer seperti karbondioksida, radiasi inframerah yang 
+diemisikan permukaan Bumi tidak seluruhnya dipancarkan kembali ke luar 
+atmosfer tapi dipantulkan kembali ke permukaan Bumi dan menjadikan 
+Bumi tetap hangat. 
+Gas-gas rumah kaca jika terlalu berlebihan, jumlah radiasi inframerah 
+yang terperangkap menjadi lebih besar sehingga menyebabkan suhu Bumi 
+lebih tinggi dari kondisi normal, mengalami kenaikan suhu terus menerus 
+dan memperburuk terjadinya pemanasan global. Akibat pemanasan global 
+ini menyebabkan perubahan curah hujan sehingga badai lebih sering 
+terjadi, perubahan iklim, kenaikan permukaan air laut, mencairnya es di 
+kutub utara, kebakaran hutan dan kenaikan suhu Bumi yang menyebabkan 
+kekeringan serta berbagai penyakit akibat cuaca panas.
+Gambar 5. 13 Efek rumah kaca
+Sumber : Own Work / Wikimedia Commons (2019)
+Diskusikan dan jawab pertanyaan berikut:
+1.	 Berdasarkan tabel, buatlah kesimpulan mengenai energi radiasi sinar 
+matahari.
+2.	 Jelaskan kembali bagaimana proses terjadinya pemanasan global.
+kembali ke ruang angkasa sehingga tidak sampai ke permukaan Bumi seratus 
+persen.
+112
+Fisika untuk SMA/MA Kelas XII 
+Rangkuman
+1.	 Gelombang elektromagnetik merupakan perambatan medan 
+listrik dan medan magnet yang saling tegak lurus dengan arah 
+perambatannya.
+2.	 Spektrum gelombang elektromagnetik dari frekuensi tertinggi 
+terdiri dari sinar gamma, sinar X, sinar ultraviolet, cahaya tampak, 
+infra merah, gelombang mikro dan radio.
+3.	 Laju gelombang elektromagnetik di ruang vakum sama dengan 
+lajunya di udara sebesar 3 x 108 m/s.
+4.	 Di udara atau ruang hampa, hubungan medan listrik dan medan 
+magnet adalah = 
+1.	 Tujuh jenis spektrum gelombang elektromagnetik digambarkan 
+dengan diagram blok dengan cahaya tampak ditunjukkan pada 
+nomor D panjang gelombangnya 500 nm.
+Tentukan :
+a.	 jenis gelombang A, B, C, D, E, F, G, H
+b.	 frekuensi gelombang cahaya tampak
+A
+B
+C
+D
+E
+F
+G
+Asesmen
+2.	 Produk elektronik di bawah ini memanfaatkan gelombang 
+elektromagnetik. Buat tanda panah yang sesuai antara produk 
+teknologi dengan jenis gelombangnya.
+3.	 Berdasarkan bacaan, buatlah 2 pertanyaan berbeda terkait tema yang 
+disajikan. Berikan pertanyaan tersebut kepada temanmu untuk dijawab 
+olehnya!
+4.	 Upaya apa saja yang dapat mengurangi pemanasan global.
+E
+B
+= c
+113
+BAB 5 | Gelombang Elektromagnetik
+3.	 Sebuah antena radar di bandara mengirimkan sinyal gelombang 
+elektromagnetik  mendeteksi keberadaan pesawat yang berada 
+pada pada jarak 20 km dari bandara. Tentukan waktu yang 
+dibutuhkan sinyal tersebut sampai mengenai pesawat.
+4.	 Seseorang melakukan panggilan telepon seluler ke penerima 
+yang berada di dalam mobil dengan perambatan gelombang 
+elektromagnetik yang memiliki medan magnet efektif sebesar 2 x 
+10-10 T. Gelombang melewati jendela terbuka yang luasnya 0,20 m2 
+secara tegak lurus. Berapa banyak energi yang dibawa gelombang 
+ini melalui jendela selama panggilan telepon 45 detik?
+114
+Fisika untuk SMA/MA Kelas XII 
+Refleksi
+Setelah kalian mempelajari Bab 5  Gelombang Elektromagnetik:
+1.	 Hal apa yang menarik menurut kalian pada bab ini?
+2.	 Apakah manfaat dan kerugian gelombang elektromagnetik dalam 
+kehidupan sehari-hari?
+3.	 Apakah kalian sudah memahami konsep-konsep esensial pada 
+materi gelombang elektromagnetik?
+4.	 Strategi apa yang dapat kalian lakukan untuk lebih memahami 
+materi gelombang elektromagnetik?
+Pengayaan
+Gelombang mikro yang berfrekuensi lebih tinggi dari gelombang 
+yang digunakan telepon seluler digunakan untuk menghasilkan 
+gelombang panas. Gelombang ini digunakan pada oven microwave 
+untuk memasak. Oven microwave disebut sebagai pemanas pintar 
+karena kemampuannya yang mampu memanaskan makanan tanpa 
+memanaskan wadahnya. Selain itu, gelombang mikro juga digunakan 
+pada bidang kedokteran untuk terapi jaringan tumor. Coba eksplorasi 
+lebih lanjut bagaimana prinsip kerja pemanfaatan gelombang mikro 
+pada oven microwave dan terapi tumor ini.

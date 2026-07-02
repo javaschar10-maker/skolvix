@@ -1,0 +1,891 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi  
+Republik Indonesia, 2023
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-623-118-558-7
+Sistem Persamaan dan 
+Pertidaksamaan Linear
+4
+Bab
+Bagaimana menggunakan sistem 
+persamaan/pertidaksamaan linear 
+untuk menyelesaikan masalah?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+108
+Tujuan Pembelajaran 	
+Setelah mempelajari bab ini, diharapkan kamu dapat memodelkan masalah 
+ke dalam sistem persamaan linear dan pertidaksamaan linear serta 
+menyelesaikannya.
+Kata Kunci 	
+•	
+sistem persamaan linear
+•	
+sistem pertidaksamaan linear
+•	
+solusi/penyelesaian
+•	
+variabel
+Peta Materi 	
+Dalam kehidupan sehari-hari kamu pasti pernah menemui keadaan berikut.
+1.	
+Daftar menu terdiri atas berbagai paket. Di setiap paket, jenis makanan 
+sama, namun berbeda-beda banyaknya. Apakah lebih ekonomis membeli 
+paket makanan atau memesan setiap jenis makanan secara terpisah?
+2.	
+Seekor pemangsa mengejar mangsanya. Jika diketahui kecepatan dan 
+posisi awal masing-masing, akankah pemangsa berhasil mengejar 
+mangsanya?
+Sistem Persamaan dan  
+Pertidaksamaan Linear
+Sistem  
+Persamaan Linear
+Sistem  
+Pertidaksamaan Linear
+109
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+3.	
+Dalam produksi, ada biaya tetap (misalnya pembelian mesin, sewa 
+tempat) dan ada biaya yang tergantung pada banyaknya benda yang 
+diproduksi (misalnya bahan baku). Harga penjualan hanya tergantung 
+pada banyaknya benda yang dijual. Setidaknya berapa banyak benda 
+yang harus terjual supaya perusahaan tidak merugi?
+4.	
+Panitia karya wisata perlu menentukan jenis dan banyaknya kendaraan 
+yang disewa. Kapasitas angkut setiap jenis kendaraan berbeda dan biaya 
+sewanya pun berbeda-beda. Dengan memperhitungkan banyaknya siswa 
+dan guru yang mengikuti karya wisata serta biaya yang dianggarkan, 
+bagaimana panitia menentukan jenis dan banyaknya kendaraan yang 
+disewa?
+5.	
+Seorang pedagang hendak membeli beberapa barang untuk dijual 
+kembali. Modal dagang maupun kapasitas pengangkutnya terbatas. 
+Jika diketahui harga dan berat masing-masing barang, bagaimana ia 
+menentukan jenis barang yang dibelinya serta berapa banyak untuk tiap 
+jenisnya?
+Persoalan seperti pada contoh 1–5 adalah contoh persoalan yang 
+dapat dijawab dengan menggunakan sistem persamaan linear atau sistem 
+pertidaksamaan linear.
+Sistem persamaan linear adalah gabungan beberapa persamaan 
+linear. Penyelesaiannya adalah nilai yang memenuhi semua persamaan 
+linear. Mirip dengan itu, sistem pertidaksamaan linear terdiri atas 
+beberapa pertidaksamaan linear dan penyelesaiannya membuat semua 
+pertidaksamaan linear bernilai benar.
+Di SMP kamu telah mempelajari sistem persamaan linear dengan dua variabel. 
+Sistem persamaan linear adalah kumpulan beberapa persamaan linear yang 
+saling terkait. Penyelesaian dari sistem persamaan linear adalah nilai-nilai yang 
+memenuhi semua persamaan tersebut.
+Ayo, Mengingat Kembali
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+110
+Selesaikan masalah berikut untuk  
+melihat apakah kamu masih ingat tentang 
+sistem persamaan linear dengan dua 
+variabel.
+Sebuah toko alat tulis menjual paket 
+alat tulis. Paket A seharga Rp18.000,00 
+berisi lima buku tulis dan dua pensil. Paket 
+B berisi sebuah buku tulis dan dua pensil 
+dihargai Rp10.000,00. Berapakah harga 
+masing-masing buku tulis dan pensil?
+A.	 Sistem Persamaan Linear
+Setelah menguasai tentang sistem persamaan linear dengan dua variabel, 
+mari mempelajari sistem persamaan linear dengan tiga variabel. Apa hal-hal 
+yang sama dengan sistem persamaan linear dengan dua variabel? Apa saja 
+perbedaannya?
+Eksplorasi   4.1	
+Menimbang Bola yang Ada di Sekolah
+Kinan menimbang bola yang ada di lemari sekolah. Pada penimbangan 
+pertama, Kinan menimbang dua bola basket, sebuah bola kaki, dan tiga bola 
+voli dan hasilnya 2.500 g. Penimbangan kedua, sebuah bola basket, dua buah 
+bola kaki, dan dua buah bola voli beratnya 2.050 g. Penimbangan ketiga, dua 
+buah bola basket dan sebuah bola voli beratnya 1.550 g. Berapa berat tiap 
+jenis bola?
+Gambar 4.1 Bola yang ada di lemari sekolah
+PROMO BESAR!
+Rp18.000,00
+Paket A
+5 Buku tulis
+2 Pensil
+Rp10.000,00
+Paket B
+1 Buku tulis
+2 Pensil
+Ayo, Bereksplorasi
+111
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+1.	
+Apakah di sekolahmu terdapat bola-bola yang sama dengan yang ada 
+di sekolah Kinan? Jika ada, lakukan penimbangan seperti yang Kinan 
+lakukan. Jika tidak ada, kamu dapat menggunakan bola/benda lain yang 
+tersedia.
+Bola/benda yang digunakan: 
+•	
+bola basket diganti dengan _______________
+•	
+bola kaki diganti dengan _______________
+•	
+bola voli diganti dengan _______________
+2.	
+Pilih variabel untuk menyatakan nilai yang akan dicari.
+a.	
+x : berat bola     basket    
+b.	
+y : berat bola ___________
+c.	
+z : berat bola ___________
+3.	
+Setiap penimbangan menghasilkan sebuah persamaan linear. Tuliskan 
+persamaan-persamaan linear yang kamu dapatkan.
+a.	
+Penimbangan pertama: dua bola basket, sebuah bola kaki, dan 
+tiga bola voli seberat 2.500 g (sesuaikan dengan bola/benda yang 
+digunakan dan hasil penimbanganmu).
+2x + y + 3z = 2.500 ……….. (1)
+b.	
+Penimbangan kedua: sebuah bola _____, dua bola _____, dan dua bola 
+_____ seberat _______ (sesuaikan dengan bola/benda yang digunakan 
+dan hasil penimbanganmu).
+_________________________________ ………(2)
+c.	
+Penimbangan ketiga: dua bola _____ dan 
+sebuah bola _____ seberat _______ . 
+ ________________________________ ……….. (3)
+Diskusikan dengan teman-temanmu: Bagaimana kamu menyelesaikan masalah 
+ini? 
+Ayo, Berdiskusi
+berapa bola kaki yang 
+ditimbang dalam 
+penimbangan ketiga?
+Petunjuk
+i
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+112
+4.	
+Gabungan persamaan linear (1), (2), dan (3) disebut sistem persamaan 
+linear. 
+5.	
+Perhatikan bahwa persamaan (3) hanya memiliki variabel x dan z, tetapi 
+sistem persamaan linear pada no. 4 tetaplah dianggap sebagai sistem 
+persamaan linear dengan tiga variabel. Bagaimana mengubah 
+persamaan (1) dan (2) menjadi sebuah persamaan linear dengan dua 
+variabel (juga x dan z)? Persamaan yang dihasilkan: 
+_______________________________ ……… (4)
+6.	
+Persamaan (3) dan (4) menghasilkan sistem persamaan linear dengan 
+dua variabel. Selesaikan.
+_______________________________
+_______________________________
+x = · · ·
+z = · · ·
+7.	
+Substitusi nilai x dan z ke dalam persamaan (1) atau (2) untuk 
+mendapatkan  nilai y. 
+y = · · ·
+8.	
+Periksalah, apakah hasil perhitunganmu sesuai dengan kenyataan. 
+Timbanglah bola/benda satu per satu, dan tuliskan hasilnya pada tabel.
+Nama Bola/
+Benda
+Berat (Hasil 
+Perhitungan)
+Berat (Hasil 
+Penimbangan)
+Kesesuaian dengan 
+Hasil Perhitungan (Beri 
+Tanda ✓)
+Sesuai
+Tidak Sesuai
+8
+>
+>
+<
+>
+>
+:
+2x
++
+y
++
+3z
+=
+2500
+113
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+9.	
+Solusi/penyelesaian adalah nilai yang memenuhi semua persamaan. 
+Benarkah solusi yang kamu dapatkan memenuhi semua persamaan 
+awal?
+10.	
+11.	
+12.	 Kamu telah mengenal metode eliminasi dan substitusi untuk 
+menyelesaikan sistem persamaan linear dengan dua variabel. Pada 
+langkah (5) kamu mengeliminasi variabel y untuk mendapatkan sistem 
+persamaan linear dengan dua variabel. 
+13.	
+Perhatikan bahwa persamaan (3) tidak mengandung variabel y. Jika 
+kamu mengeliminasi variabel y dari persamaan (1) dan (2) maka 
+hasilnya dapat kamu gabungkan dengan persamaan (3) menghasilkan 
+sistem persamaan linear dengan dua variabel (dan kamu dapat 
+menyelesaikannya).
+Apakah kamu dapat memikirkan cara yang berbeda untuk menyelesaikan 
+permasalahan ini? Apakah hasilnya sama atau berbeda?
+Ayo, Berpikir Kreatif
+Mengapa Kinan melakukan tiga kali penimbangan? Apa yang terjadi jika 
+penimbangan dilakukan dua kali? Bagaimana kalau lebih dari tiga kali?
+Ayo, Berpikir Kritis
+Mengapa variabel y yang dieliminasi?
+Ayo, Berpikir Kritis
+Apakah sistem persamaan linear dapat diselesaikan dengan mengeliminasi 
+variabel selain y? Apa perbedaannya?
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+114
+Ada berapa solusi yang dimiliki sistem persamaan linear? 
+Dalam sistem persamaan linear dengan dua variabel, ada 3 
+kemungkinan banyaknya solusi:
+•	
+Sistem persamaan linear memiliki satu solusi. Grafiknya berupa dua 
+garis yang berpotongan. Solusinya adalah titik potong kedua garis.
+•	
+Sistem persamaan linear tidak memiliki solusi. Grafiknya berupa 
+dua garis yang sejajar.
+•	
+Sistem persamaan linear memiliki banyak solusi. Grafiknya berupa 
+dua garis yang berimpit. Semua titik pada garis ini merupakan 
+solusi.
+Tabel 4.1 menunjukkan contoh sistem persamaan linear untuk setiap 
+jenis solusi, dengan grafik masing-masing.
+Tabel 4.1 Contoh Sistem Persamaan Linear dengan Banyaknya Solusi yang Berbeda-beda
+No.
+Sistem Persamaan 
+Linear
+Grafik
+Titik Potong
+1.
+1 titik potong di 
+(-1,2)
+2.
+tidak ada titik 
+potong
+(
+3x −2y = 1
+6x −4y = 7
+115
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+3.
+banyak titik 
+potong
+Pada sistem persamaan linear dengan tiga variabel, juga ada tiga 
+kemungkinan banyaknya solusi.
+Sistem persamaan linear dengan tiga variabel juga memiliki tiga 
+kemungkinan banyaknya solusi. Untuk menggambarkan persamaan linear 
+dengan tiga variabel dibutuhkan grafik tiga dimensi. Bagaimana cara 
+mengidentifikasi banyaknya solusi tanpa menggambarkan grafiknya?
+•	
+Amati contoh sistem persamaan linear dengan dua variabel yang tidak 
+memiliki solusi.
+Perhatikan bahwa setelah melakukan eliminasi, didapatkan sebuah 
+ketidaksamaan, pernyataan 0 = −3 tidak pernah benar, atau tidak 
+memiliki solusi.
+•	
+Amati contoh sistem persamaan linear dengan dua variabel yang 
+memiliki banyak solusi.
+Perhatikan bahwa setelah melakukan eliminasi, didapatkan sebuah 
+kesamaan, pernyataan 
+ selalu benar, berapa pun nilai variabel-
+variabelnya, atau memiliki banyak solusi.
+–
+3x
+−
+2y
+=
+1
+| × 2|
+6x
+−
+4y
+=
+2
+6x
+−
+4y
+=
+5
+| × 1|
+6x
+−
+4y
+=
+5
+0
+=
+−3
+_
+2x
++
+3y
+=
+1
+| × 2|
+4x
++
+6y
+=
+2
+4x
++
+6y
+=
+2
+| × 1|
+4x
++
+6y
+=
+2
+0
+=
+0
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+116
+•	
+Bedakan dengan sistem persamaan linear yang memiliki satu solusi. 
+Hanya ada satu pasangan nilai yang menyebabkan persamaan linear 
+bernilai benar.
+Prinsip yang sama dapat diterapkan pada sistem persamaan linear 
+dengan tiga (atau lebih) variabel. Lakukan eliminasi dan perhatikan 
+apa yang kamu dapatkan. Tentukan banyaknya solusi berdasarkan hasil 
+eliminasi.
+Latihan   4.1	
+1.	
+Asep memiliki beberapa jenis tongkat untuk olahraga: tongkat kasti, 
+tongkat hoki, dan tongkat bisbol. Asep menjajarkan 3 tongkat kasti, 
+2 tongkat hoki, dan 1 tongkat bisbol dan panjangnya 455 cm. Asep 
+menjajarkan sebuah tongkat kasti, 3 tongkat ukuran hoki, dan 2 tongkat 
+bisbol dan panjangnya 545 cm. Asep juga mengamati bahwa 2 tongkat 
+kasti sama panjang dengan tongkat bisbol.
+a.	
+Tuliskan pengukuran pertama ke dalam persamaan matematika.
+b.	
+Tuliskan hasil pengukuran kedua dan ketiga ke dalam persamaan 
+matematika juga untuk menghasilkan sistem persamaan.
+c.	
+Apakah sistem persamaan itu sebuah sistem persamaan linear? 
+Bagaimana kamu tahu?
+d.	
+Selesaikan sistem persamaan tersebut.
+e.	
+Ada berapa solusi yang ada?
+f.	
+Berapakah panjang tiap jenis tongkat?
++
+2x
+−
+y
+=
+−4
+| × 2|
+4x
+−
+2y
+=
+−8
+x
++
+2y
+=
+3
+| × 1|
+x
++
+2y
+=
+3
+5x
+=
+−5
+x
+=
+−1
+y
+=
+2
+Ayo kerjakan soal-soal berikut bersama teman-temanmu.
+Ayo, Bekerja Sama
+117
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+2.	
+Sebuah minuman dijual dalam tiga kemasan berbeda: kecil, sedang, dan 
+besar. Jika Bonar membeli 3 kemasan kecil, 2 kemasan sedang, dan 3 
+kemasan besar, dia mendapat minuman sebanyak 4.700 ml. Jika Bonar 
+membeli 3 kemasan kecil, 1 kemasan sedang, dan 2 kemasan besar, 
+dia mendapat 3.300 ml. Jika Bonar membeli 2 kemasan sedang dan 2 
+kemasan besar, dia mendapat 2.800 ml minuman. Berapakah volume tiap 
+jenis kemasan?
+a.	
+Tuliskan sistem persamaan yang bersesuaian dengan permasalahan 
+tersebut.
+b.	
+Apakah sistem persamaan itu termasuk sistem persamaan linear? 
+Tuliskan alasannya.
+c.	
+Selesaikan sistem persamaan tersebut.
+d.	
+Ada berapa solusi yang ada? Jelaskan.
+e.	
+Apa artinya bagi Bonar jika sistem persamaan linear ini memiliki 
+banyak solusi?
+3.	
+Bu Wati membeli tiga jenis buah. Kalau ia membeli 3 kg jeruk, 3 kg 
+pepaya, dan 1 kg salak, ia harus membayar Rp130.000,00. Jika Bu Wati 
+membeli 2 kg jeruk, 2 kg pepaya, dan 1 kg salak, ia harus membayar 
+Rp100.000,00. Jika Bu Wati mau membeli 1 kg jeruk dan 1 kg pepaya, ia 
+harus membayar Rp50.000,00. Berapakah harga tiap kg setiap jenis buah?
+a.	
+Tuliskan sistem persamaan yang bersesuaian dengan permasalahan 
+tersebut.
+b.	
+Apakah sistem persamaan itu termasuk sistem persamaan linear? 
+Tuliskan alasannya.
+c.	
+Selesaikan sistem persamaan tersebut.
+d.	
+Ada berapa solusi yang ada? Jelaskan.
+e.	
+Apa artinya bagi Bu Wati jika sistem persamaan linear ini tidak 
+memiliki solusi?
+4.	
+Untuk setiap model matematika berikut, tentukan apakah model 
+matematika tersebut merupakan sistem persamaan linear atau bukan. 
+Jelaskan.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+118
+a.	
+b.	
+c.	
+d.	
+5.	
+Pak Musa memiliki toko beras dan menjual campuran beras. Campuran 2 
+kg beras A, 2 kg beras B, dan 1 kg beras C dihargai Rp50.000,00. Campuran 
+4 kg beras A, 2 kg beras B, dan 3 kg beras C dihargai Rp91.000,00. 
+Campuran 4 kg beras A, 4 kg beras B, dan 2 kg beras C dihargai 
+Rp95.000,00. Tentukan harga tiap kg beras A, beras B, dan beras C.
+a.	
+Tuliskan model matematikanya.
+b.	
+Apakah model matematika itu merupakan sistem persamaan linear?
+c.	
+Ada berapa solusi yang dimiliki oleh sistem ini? Bagaimana kamu 
+tahu?
+Ayo, Berpikir Kritis
+Apakah kamu menjawab ya untuk semua pertanyaan berikut? Jika ada 
+pertanyaan yang kamu jawab tidak, apa yang perlu kamu lakukan?
+Bisa
+Perlu 
+Bantuan
+Belum 
+Bisa
+1.	
+Saya bisa memodelkan masalah ke 
+dalam sistem persamaan linear.
+2.	
+Saya bisa menyelesaikan sistem 
+persamaan linear.
+3.	
+Saya bisa mengenali sistem persamaan 
+linear yang tidak mempunyai solusi.
+4.	
+Saya bisa mengenali sistem 
+persamaan linear yang mempunyai 
+banyak solusi.
+Ayo, Berefleksi
+119
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+B.	Sistem Pertidaksamaan Linear
+Selain ada istilah persamaan, dikenal juga istilah pertidaksamaan. Demikian 
+juga selain ada sistem persamaan linear, ada juga sistem pertidaksamaan 
+linear. Bagaimana kaitannya?
+Eksplorasi   4.2	
+Menimbang Buah
+Pak Eko menimbang buah menggunakan 
+timbangan bebek. Dua buah apel dan lima 
+buah jeruk beratnya kurang dari 1 kg. Enam 
+buah apel dan dua buah jeruk beratnya 
+lebih dari 1 kg. Jika dianggap setiap apel 
+beratnya sama dan setiap jeruk beratnya 
+sama, berapakah berat setiap apel? 
+Berapakah berat setiap jeruk?
+1.	
+Cobalah mengerjakan soal ini dengan metode coba dan perbaiki.
+Berat 1 Apel
+Berat 1 Jeruk
+Berat 2 Apel 
+dan 5 Jeruk
+Berat 6 Apel dan  
+2 Jeruk
+2.	
+Apakah yang telah kamu pelajari tentang sistem persamaan linear dapat 
+membantumu menyelesaikan masalah ini?
+Ayo, Bereksplorasi
+Gambar 4.2 Timbangan Bebek
+1kg
+Strategi apa lagi yang dapat kamu coba?	 	
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+120
+Permasalahan yang dihadapi oleh Pak Eko dapat dituliskan model 
+matematikanya.
+1.	
+Tentukan variabelnya. Pikirkan: apa yang diketahui? Apa yang ditanya? 
+Untuk soal ini berat 1 apel (misal disebut x) dan berat 1 jeruk (misal 
+disebut y)
+2.	
+Model matematikanya (dalam satuan ons, 1 kg = 10 ons):
+ 
+3.	
+Model matematika ini mengingatkan kita pada sistem persamaan linear
+4.	
+Grafik sistem persamaan linear ini
+a.	
+Apakah titik (0,0) merupakan daerah hasil pertidaksamaan 
+2x + 5y < 10 ? Petunjuk: substitusi nilai x = 0 dan y = 0 ke dalam 
+pertidaksamaan dan periksalah apakah pertidaksamaan bernilai 
+benar.
+b.	
+Apakah titik (0,0) merupakan daerah hasil pertidaksamaan 
+6x + 2y > 10 ? Petunjuk: substitusi nilai x = 0 dan y = 0 ke dalam 
+pertidaksamaan dan periksalah apakah pertidaksamaan bernilai 
+benar.
+Ayo, Berpikir Kritis
+121
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+Eksplorasi   4.3	
+Perayaan Hari Kemerdekaan
+Gambar 4.3 Lomba Balap Karung
+Kiki adalah panitia perayaan hari kemerdekaan di RT. Dari kas RT ada 
+uang sebesar Rp500.000,00 yang dapat digunakan. Untuk penyelenggaraan 
+perlombaan, dibutuhkan Rp20.000,00 per anak. Hadiah untuk pemenang 
+dianggarkan Rp40.000,00 untuk setiap jenis perlombaan. Diharapkan ada 
+lebih dari 13 anak yang berpartisipasi. Tentukan apa saja kemungkinannya.
+1.	
+Salah satu strategi yang dapat kamu gunakan adalah tebak dan 
+perbaiki. Tebak, hitung nilainya. Jika tidak memenuhi syarat, perbaiki 
+tebakanmu. 	
+Banyaknya 
+Perlombaan
+Biaya 
+Hadiah
+Banyaknya 
+Anak
+Biaya 
+Penyelenggaraan
+Biaya 
+Total
+Ayo, Bereksplorasi
+Diskusikan dengan teman-temanmu: Bagaimana kamu menyelesaikan masalah 
+ini?
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+122
+2.	
+Tuliskan strategi lain yang kamu coba.
+3.	
+Apakah yang telah kamu pelajari tentang sistem persamaan linear dapat 
+membantumu menyelesaikan masalah ini?
+Alternatif Penyelesaian
+Masalah yang dihadapi Kiki dapat diselesaikan dengan sistem 
+pertidaksamaan linear.
+1.	
+Tentukan model matematikanya. Jika x menyatakan banyaknya peserta 
+dan y menyatakan banyaknya perlombaan maka model matematikanya 
+adalah:
+Ini adalah sebuah sistem pertidaksamaan linear dengan dua variabel
+2.	
+Kalian telah belajar menyelesaikan sistem persamaan linear. 
+Pengetahuan ini dapat dimanfaatkan untuk menyelesaikan sistem 
+pertidaksamaan linear.
+a.	
+Gambarkan grafik sistem persamaan linear yang berpadanan, yaitu 
+sistem persamaan linear yang didapat dengan mengubah tanda 
+pertidaksamaan menjadi tanda persamaan.
+b.	
+Perlu dicatat bahwa garis yang didapat dari pertidaksamaan lebih 
+atau sama dengan dan kurang atau sama dengan digambarkan 
+dengan garis utuh (artinya garis tersebut termasuk daerah jawaban) 
+sedangkan garis yang didapat dari pertidaksamaan lebih dari atau 
+kurang dari digambarkan dengan garis putus-putus (artinya garis 
+tersebut hanya batas, tidak termasuk daerah jawaban).
+c.	
+Pilih sebuah titik, misalnya (0,0), lalu substitusikan ke dalam 
+pertidaksamaan. Jika nilainya memenuhi ketidaksamaan maka 
+Apakah strategi yang berbeda menghasilkan jawaban yang sama? Mengapa?
+Ayo, Berpikir Kritis
+123
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+daerah yang memuat (0,0) diarsir untuk menunjukkan bahwa 
+daerah inilah yang merupakan daerah hasil. Garis persamaan linear 
+menjadi pembatas antara daerah jawab dan bukan daerah jawab.
+d.	
+Lakukan hal yang sama untuk pertidaksamaan yang lain.
+e.	
+Solusinya adalah daerah yang merupakan irisan semua daerah 
+jawab.
+f.	
+Tentukan makna solusi ini dalam masalah awal.
+Kamu dapat menggunakan GeoGebra untuk menggambarkan grafik sistem 
+pertidaksamaan linear ini. Bandingkan hasilnya dengan grafik yang kamu buat.
+Ayo, Menggunakan Teknologi
+124
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+Latihan   4.2	
+1.	
+Bonar memiliki dua pekerjaan paruh waktu. Untuk mengantar barang, 
+Bonar dibayar Rp15.000,00 per jam. Untuk pekerjaan mencuci piring di 
+restoran, Bonar dibayar Rp9.000,00 per jam. Dia tidak dapat bekerja lebih 
+dari 10 jam. Bonar membutuhkan uang sebesar Rp120.000,00. Berapa jam 
+dia harus bekerja untuk masing-masing pekerjaan?
+a.	
+Tuliskan model matematikanya.
+b.	
+Apakah model matematika tersebut merupakan sistem 
+pertidaksamaan linear?
+c.	
+Gambarkan grafiknya.
+d.	
+Tentukan koordinat titik-titik potongnya.
+e.	
+Tentukan daerah yang memenuhi sistem pertidaksamaan linear.
+f.	
+Apakah Bonar bisa mendapatkan uang yang dia butuhkan dengan 
+bekerja mengantar barang selama 4 jam?
+g.	
+Apakah Bonar bisa mendapatkan uang yang dibutuhkan jika bekerja 
+selama 9 jam?
+2.	
+Nova membeli pupuk dan tanaman untuk kebunnya. Nova memiliki uang 
+sebesar Rp100.000,00. Setiap kantong pupuk harganya Rp20.000,00 dan 
+setiap tanaman harganya Rp10.000,00. Nova ingin membeli setidaknya 5 
+tanaman. Berapa banyak tanaman dan pupuk yang dapat Nova beli?
+3.	
+Bu Dini membutuhkan telur ayam dan telur puyuh. Telur ayam harganya 
+Rp22.000,00 per kg dan telur puyuh harganya Rp30.000,00 per kg. Bu Dini 
+memiliki uang sebesar Rp150.000,00. Karena khawatir telurnya pecah di 
+perjalanan, Bu Dini tidak mau membawa lebih dari 6 kg telur. Apakah Bu 
+Dini dapat membeli 6 kg telur?
+4.	
+Sebuah UMKM memproduksi dua jenis sabun cair, yaitu sabun mandi 
+dan sabun cuci tangan. Untuk setiap liter sabun mandi, dibutuhkan 
+biaya produksi Rp15.000,00 per liter. Biaya produksi sabun cuci tangan 
+Rp10.000,00 per liter. Selain itu, pabrik juga harus mengeluarkan biaya 
+tetap sebesar Rp500.000,00. UMKM tersebut memiliki modal sebesar 
+Rp2.500.000,00. Gudang yang ada dapat menampung 150 liter sabun cair. 
+Ayo, Mencoba
+125
+
+ 
+125
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+Sabun mandi dijual seharga Rp25.000,00 per liter dan sabun cuci tangan 
+Rp20.000,00 per liter. Apakah mereka bisa mendapatkan keuntungan 
+dengan harga tersebut? Berikan contoh banyaknya sabun mandi dan 
+sabun cuci masing-masing yang dijual sehingga pendapatan mereka 
+lebih dari pengeluaran.
+Uji Kompetensi 	
+1.	
+Bu Sri bertugas untuk menyiapkan hadiah untuk siswa berprestasi di 
+sekolah. Bu Sri telah menetapkan bahwa hadiah berupa alat tulis (buku 
+tulis, pena, dan penghapus). Bu Sri mengunjungi dua toko alat tulis dan 
+mendapati alat tulis dijual dalam bentuk paket sebagai berikut.
+Berdasarkan harga tiap paket yang tersedia di toko A dan toko B, 
+hitunglah harga dari setiap alat tulis di masing-masing toko (buku tulis, 
+pena, dan penghapus) dan jawablah pertanyaan berikut.
+a.	
+Manakah yang lebih mahal: harga sebuah buku tulis di toko A atau di 
+toko B?
+b.	
+Manakah yang lebih mahal: harga sebuah penghapus di toko A atau 
+di toko B?
+c.	
+Manakah yang lebih mahal: harga sebuah pena di toko A atau di toko 
+B?
+H
+G
+F
+E
+D
+C
+B
+A
+Paket Hemat
+Rp62.000,00
+E
+D
+C
+B
+A
+Paket Ekonomis
+Rp57.000,00
+C
+B
+A
+Paket Murah
+Rp17.000,00
+Toko A
+Toko B
+Paket Lengkap
+Rp64.000,00
+E
+D
+C
+B
+A
+H
+G
+F
+E
+D
+C
+B
+A
+Paket Besar
+Rp90.000,00
+E
+D
+C
+B
+A
+Paket Sedang
+Rp48.000,00
+
+126
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+126
+2.	
+Pak Budi memiliki uang sebanyak Rp100.000.000,00. Ia ingin 
+mendepositokan uangnya. Bank A memberikan bunga sebesar 4% dan 
+bank B memberikan bunga sebesar 6%. Pak Budi ingin mendapatkan 
+bunga setidaknya Rp550.000,00 namun ia tidak ingin mendepositokan 
+uangnya pada satu bank saja. Apakah hal itu mungkin? Jika ya, sebutkan 
+salah satu kemungkinannya.
+3.	
+Maria adalah penjaga tiket di sirkus. Ada tiga jenis tiket yang dijual. 
+Keluarga Andi membeli 4 tiket anak-anak, 2 tiket dewasa, dan 1 tiket 
+lansia dan membayar Rp640.000,00. Keluarga Butet membeli 1 tiket anak-
+anak, 3 tiket dewasa, dan 2 tiket lansia dan membayar Rp550.000,00. 
+Keluarga Danu membeli 3 tiket anak-anak, 1 tiket dewasa, dan 1 tiket 
+lansia dan membayar Rp450.000,00. Berapakah harga setiap jenis tiket 
+yang dijual Maria?
+4.	
+Butet ingin membeli buah. Semua buah yang ada sudah dikemas menjadi 
+paket. Paket A terdiri atas 5 jeruk, 1 mangga, dan 8 salak beratnya 1,5 kg. 
+Paket B terdiri atas 10 jeruk, 2 mangga, dan 4 salak beratnya 2 kg. Paket 
+C terdiri atas 3 mangga, dan 12 salak beratnya 2 kg. Jika setiap jenis buah 
+itu identik, berapakah berat masing-masing jenis buah?
+5.	
+Siswa kelas 10 akan melakukan studi lapangan. Mereka perlu menyewa 
+bus selama satu hari. Ada 168 siswa dan 12 guru yang akan mengikuti 
+studi lapangan. Berikut tabel harga sewa bus berdasarkan ukurannya. 
+Anggaran yang tersedia sebesar Rp11.000.000,00.
+Ukuran
+Kapasitas
+Tarif per hari
+Bus besar
+50
+Rp2.520.000,00
+Bus kecil
+18
+Rp1.600.000,00
+Tentukan semua kemungkinan kendaraan yang mereka sewa (jenis dan 
+banyak kendaraan yang mereka sewa).
+6.	
+Selesaikan sistem persamaan linear berikut
+⎧
+⎨
+⎩
+25x −15y + 10z = 100
+32x + 16y −12z = 240
+−21x + 7y + 14z = 140
+127
+
+ 
+127
+
+ Bab 4 | Sistem Persamaan dan Pertidaksamaan Linear
+7.	
+Gambarkan daerah hasil dari sistem pertidaksamaan linear berikut
+Pengayaan 	
+Kamu akan bermain dengan bidang koordinat. 
+Peserta: dua orang siswa
+Alat dan bahan: kertas berpetak atau jika tersedia, kamu juga dapat 
+menggunakan aplikasi Graphing Calculator seperti GeoGebra atau Desmos.
+Tujuan: Menentukan sistem pertidaksamaan linear yang daerah hasilnya 
+memuat titik target, tetapi tidak memuat dua titik lainnya.
+Langkah-langkah:
+1.	
+Pemain pertama menentukan sebuah titik target (sebut titik K) pada 
+bidang koordinat.
+2.	
+Pemain kedua menentukan dua titik lain (sebut titik P dan Q) pada 
+bidang koordinat.
+3.	
+Pemain pertama menentukan sebuah pertidaksamaan (yang memuat 
+titik K, tetapi tidak memuat titik P maupun titik Q).
+4.	
+Pemain kedua menentukan pertidaksamaan lain (yang memuat titik K, 
+tetapi tidak memuat titik P maupun titik Q).
+5.	
+Demikian bergantian sampai titik K berada di dalam daerah yang 
+tertutup.
+6.	
+Apakah kamu bisa mendapatkan daerah yang memenuhi syarat tersebut 
+dengan lebih sedikit garis?
+a.	
+Jika bisa, buatlah daerah tersebut.
+b.	
+Jika tidak bisa, apa alasanmu untuk yakin bahwa ini adalah yang 
+paling sedikit?
+7.	
+Ulangi untuk titik K, P, dan Q yang berbeda.
+(
+3x + y < 10
+x −2y ≥5
+
+128
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+128
+Refleksi 	
+Pertanyaan Asesmen Diri
+Bisa
+Perlu 
+Bantuan
+Belum 
+Bisa
+1.	
+Saya bisa mengenali masalah yang 
+dapat diselesaikan dengan sistem 
+pertidaksamaan linear.
+2.	
+Saya bisa memodelkan masalah 
+menjadi sistem pertidaksamaan linear.
+3.	
+Saya bisa menyelesaikan sistem 
+pertidaksamaan linear.
+4.	
+Saya bisa membedakan masalah 
+yang bisa diselesaikan dengan sistem 
+persamaan linear dengan masalah 
+yang bisa diselesaikan dengan sistem 
+pertidaksamaan linear.
+5.	
+Saya bisa menggambarkan grafik yang 
+menunjukkan sistem pertidaksamaan 
+linear.

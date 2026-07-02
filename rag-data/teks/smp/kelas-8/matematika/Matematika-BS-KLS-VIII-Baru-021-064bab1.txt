@@ -1,0 +1,3512 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VIII
+Penulis: Mohammad Tohir, dkk. 
+ISBN: 978-602-427-919-6 (Jil.2)
+Bab 1
+BILANGAN BERPANGKAT
+Mengapa perlu menggunakan bilangan 
+berpangkat, apa bedanya dengan bilangan akar?
+Matematika untuk SMP/MTs Kelas VIII
+2
+Pengantar Bab
+Ukuran benda yang sangat besar seperti diameter Matahari, diameter 
+Bumi dan diameter benda-benda langit lainnya lebih sederhana ditulis 
+dalam bilangan berpangkat positif. Demikian juga dengan  ukuran 
+benda yang sangat kecil seperti diameter  virus omicron, amuba, dan 
+bakteri juga lebih mudah dan sederhana jika ditulis dalam bilangan 
+berpangkat negatif. Pangkat positif, pangkat negatif, sifat-sifatnya, 
+operasi bilangan berpangkat akan kalian pelajari dalam Bab ini.
+Tahukah kalian berapa 
+diameter  benda yang 
+sangat besar seperti 
+Matahari, Bumi dan benda-
+benda langit yang ada  di 
+Galaksi Bima Sakti? 
+Dengan kemajuan 
+teknologi, para Ahli 
+Astronomi  berhasil 
+mengukur diameter benda-
+benda langit tersebut.
+Tahukah kalian berapa 
+diameter benda yang 
+sangat kecil sekali seperti 
+virus omicron, amuba, 
+bakteri?
+Dengan menggunakan 
+mikroskop elektron 
+transmisi para ahli berhasil 
+melihat diameter dari virus, 
+amuba dan bakteri
+Gambar 1.1 Matahari
+Gambar 1.2 Virus Covid-19
+Bab 1 | Bilangan Berpangkat
+3
+Tujuan Pembelajaran
+Setelah mempelajari Bab ini, diharapkan kalian dapat:
+ 
+√Memahami bilangan berpangkat 
+ 
+√Memahami sifat-sifat bilangan berpangkat 
+ 
+√Menyelesaikan operasi bilangan berpangkat 
+ 
+√Memahami bilangan bentuk akar
+ 
+√Menyelesaikan operasi bilangan bentuk akar 
+ 
+√Merasionalkan penyebut bentuk akar
+ 
+√Menulis bentuk baku bilangan
+Pertanyaan Pemantik
+ 
+■
+Apa makna dari bilangan berpangkat?
+ 
+■
+Apa makna bilangan bentuk akar?
+Kata Kunci
+ 
+■
+Bilangan berpangkat 
+ 
+■
+Bilangan bentuk akar
+ 
+■
+Merasionalkan penyebut
+ 
+■
+Bentuk Baku Bilangan Bulat
+Matematika untuk SMP/MTs Kelas VIII
+4
+Peta Konsep
+Berpangkatan dan
+Bentuk Akar
+Bilangan
+Berpangkat
+Bilangan
+Bentuk Akar
+Penulisan
+Bentuk Baku
+Pangkat 0
+dan Negatif
+Pangkat
+Rasional
+1-2
+Pangkat
+Positif
+Operasi
+Bentuk Akar
+Bab 1 | Bilangan Berpangkat
+5
+A. Bilangan Berpangkat Bulat
+1. Pengertian Bilangan Berpangkat
+Setiap komputer atau laptop pastinya dilengkapi dengan memori untuk 
+menyimpan data. Satuan memori biasanya dalam byte. Byte adalah 
+istilah yang biasa digunakan sebagai satuan dari penyimpanan data 
+dalam komputer. Satu Byte terdiri dari 23 bit. Mengapa terdiri dari 8 
+bit? Untuk mengetahui lebih jauh tentang hal tersebut, kalian dapat 
+mempelajari lebih dalam dengan cara mencari di laman pencarian 
+dengan kata kunci "bilangan biner". Menurut International Systems of 
+Units, 1 KB setara dengan 1.024 Byte atau 210 Byte. Lebih lengkapnya 
+ada pada tabel berikut.
+Tabel 1.1 Data International Systems of Units
+Metrik
+Byte
+Nilai
+Kilobyte (KB) 
+210
+1.024
+Megabyte (MB)
+220
+1.048.576
+GigaByte (GB)
+230
+1.073.741.824
+Terabyte (TB)
+240
+1.099.511.627.776
+Petabyte (PB)
+250
+1.125.899.906.824.624
+Exabyte (EB)
+260
+1.152.921.504.606.846.976
+Zettabyte (ZB)
+270
+1.180.591.620.717.411.303.424
+Yottabyte (YB)
+280
+1.208.925.819.614.629.174.706.176
+Menggali Informasi
+Matematika untuk SMP/MTs Kelas VIII
+6
+Dari tabel  tersebut dapat diperoleh informasi bahwa 1 Kilobyte (KB) 
+sama dengan 210 = 1.024 byte, kemudian 1 Megabyte (MB) sama dengan 
+220 = 1.048.576 byte, kemudian 1 Gigabyte (GB)  sama dengan 230 = 
+1.073.741.824 byte dan seterusnya. Dari penulisan kapasitas memori 
+tersebut terlihat bahwa penulisan 210 lebih sederhana dan memiliki 
+nilai yang sama dengan 1.024, penulisan 220 lebih sederhana dan 
+memiliki nilai yang sama dengan 1.048.576, penulisan bilangan 230 
+lebih sederhana dan memiliki nilai yang sama dengan  1.073.741.824. 
+Dengan demikian, dapat disimpulkan bahwa penulisan bilangan 
+dengan menggunakan pangkat lebih sederhana untuk bilangan yang 
+memuat banyak angka.
+Dalam kehidupan sehari-hari, kalian tentu mengenal satuan volume, 
+yang menggunakan bilangan berpangkat tiga. Bilangan berpangkat tiga 
+atau kubik dapat kalian lihat pada tabel berikut.
+Coba perhatikan banyak kotak satuan dalam gambar kubus berikut.
+Gambar Kubus
+Banyak kotak satuan
+Bentuk 
+perkalian 
+Bilangan 
+Berpangkat
+Kotak     
+satuan 
+1×1×1 
+13
+1 
+2×2×2
+23
+8 
+3×3×3
+33
+27
+Ayo Bereksplorasi
+Bab 1 | Bilangan Berpangkat
+7
+Gambar Kubus
+Banyak kotak satuan
+Bentuk 
+perkalian 
+Bilangan 
+Berpangkat
+Kotak     
+satuan 
+4×4×4
+43
+64
+5×5×5
+53
+125
+Dari tabel tersebut diperoleh bahwa untuk menentukan banyak kotak 
+satuan pada gambar kubus, dapat dituliskan dalam bentuk bilangan 
+berpangkat, yaitu
+1×1×1 dapat ditulis dalam bilangan berpangkat, yaitu 13, 
+2×2×2 dapat ditulis dalam bilangan berpangkat, yaitu 23, 
+3×3×3 dapat ditulis dalam bilangan berpangkat, yaitu 33,
+4×4×4 dapat ditulis dalam bilangan berpangkat, yaitu 43,
+5×5×5 dapat ditulis dalam bilangan berpangkat, yaitu 53
+Untuk mengetahui bilangan berpangkat lebih dari 3 perhatikan tabel 
+berikut
+Bilangan 
+Berpangkat
+Bentuk Perkalian
+Nilai
+21
+2
+2
+22
+2×2
+4
+23
+2×2×2
+8
+24
+2×2×2×2
+16
+25
+2×2×2×2×2
+32
+...
+...
+...
+2n
+2
+2
+2
+2
+2
+2
+sebanyak
+kali
+n
+#
+#
+#
+#
+#
+#
+f
+1
+2
+3
+4444444444444 4444444444444
+Matematika untuk SMP/MTs Kelas VIII
+8
+Dari tabel tersebut dapat dijabarkan bahwa
+21 artinya 2 dikalikan berulang sebanyak 1 kali
+22 artinya 2 dikalikan berulang sebanyak 2  kali, yaitu 2×2
+23 artinya 2 dikalikan berulang sebanyak 3 kali, yaitu 2×2×2
+24 artinya 2 dikalikan berulang sebanyak 4 kali, yaitu 2×2×2×2
+25 artinya 2 dikalikan berulang sebanyak 5 kali, yaitu 2×2×2×2×2
+…………………………………………………………………….
+…………………………………………………………………….
+…………………………………………………………………….
+2n artinya 2 dikalikan berulang sebanyak n kali, yaitu 2×2×2×2×2…..×2
+Berdasarkan tabel tersebut dapat disimpulkan bahwa
+Jika a bilangan positif
+dan n bilangan bulat positif, maka a
+a
+a
+a
+a
+sebanyak
+kali
+n
+n
+#
+#
+#
+#
+g
+= 1
+2
+3
+444444444 444444444
+an dinamakan bilangan berpangkat, a dinamakan bilangan pokok 
+(basis), dan n disebut pangkat (eksponen). Bilangan berpangkat an 
+artinya a dikalikan berulang sebanyak n kali.
+Setelah kalian memahami konsep bilangan berpangkat, coba perhatikan 
+contoh soal berikut,
+Contoh 1.1
+Tentukan nilai dari bilangan berpangkat berikut 
+1. 
+28     
+2. 
+35  
+Alternatif penyelesaian
+1. 
+28 artinya 2 dikalikan berulang sebanyak 8 kali, sehingga dapat 
+ditulis → 2×2×2×2×2×2×2×2 = 256
+2. 
+35 artinya 3 dikalikan berulang sebanyak 5 kali, sehingga dapat 
+ditulis → 3×3×3×3×3 = 243
+Bab 1 | Bilangan Berpangkat
+9
+Dalam sebuah permainan kartu angka, 6 orang siswa mengambil satu 
+kartu angka secara acak. 
+Byoma mengambil kartu angka  6, Pranawa mengambil angka 5, 
+Lestari mengambil kartu angka 7, Rahagi  mengambil kartu angka 4, 
+Bathari mengambil kartu angka 8, dan Dwi mengambil kartu angka 3. Jika 
+setiap siswa berpasangan dengan siswa yang lain, 
+a. 
+Siapa yang harus diajak berpasangan oleh Rahagi agar 
+kelompoknya menghasilkan angka terbesar jika angka Rahagi 
+dipangkatkan dengan pasangannya atau sebaliknya? 
+b. 
+Siapa yang harus diajak berpasangan oleh Lestari agar 
+kelompoknya menghasilkan angka terkecil jika angka Lestari 
+dipangkatkan dengan pasangannya atau sebaliknya?
+c. 
+Siapa yang diajak berpasangan oleh Byoma agar kelompoknya 
+menghasilkan angka lebih kecil dari kelompok yang satu 
+dan lebih besar dari kelompok yang lain jika angka Byoma 
+dipangkatkan dengan pasangannya atau sebaliknya?
+d. 
+Jika angka milik Byoma dipangkatkan dengan kartu milik Lestari 
+berapa banyak pasangan yang nilainya lebih besar dari pasangan 
+Byoma dan Lestari?
+Untuk mempermudah menyelesaikan Ayo Berikir Kreatif, kalian dapat 
+menggunakan kalkulator pada link berikut ini https://www.geogebra.org/
+calculator atau https://www.desmos.com/scientiic?lang=id 
+1. 
+Anton berpendapat bahwa (-2)3  hasilnya sama dengan -23. 
+Bagaimana menurut pendapatmu? Coba jelaskan. 
+2. 
+Joni berpendapat bahwa (2a)4  hasilnya sama dengan 2a4.  
+Bagaimana menurut pendapatmu? Coba jelaskan.
+3. 
+Nadiva berpendapat bahwa (-2b)5  hasilnya sama dengan -2b5.
+Bagaimana menurut pendapatmu? Coba jelaskan.
+Ayo Berpikir Kreatif
+Ayo Berteknologi
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VIII
+10
+Ayo Berlatih
+1. 
+Tulislah dalam bentuk bilangan berpangkat. 
+a. 
+0,5 × 0,5 × 0,5 × 0,5  = ………..
+b. (-6)×(-6)×(-6) ×(-6) ×(-6) = …………
+c. 
+5 × 5 × 5 × 5 × a × a × a =………
+d. (-3b)×(-3b)×(-3b)×(-3b) = …………
+e. 
+(2×2)×(2×2)×(2×2) = ………..
+2. 
+Nyatakan bilangan berpangkat berikut dalam perkalian berulang.
+a. 
+(3a)3
+b. 
+(-6y)4
+c. 
+(1,5a)3
+d. 
+(xyz)3
+3. 
+Tentukan hasil dari bilangan berpangkat berikut.
+a. 
+(-3)6
+b. 
+(-5)5
+c. 
+23y4
+d. 
+5
+2
+3
+b
+l
+4. 
+Tentukan nilai x dari persamaan berikut.
+a. 
+3x = 81
+b. 
+6x = 1.296
+c. 
+x5  = 3.125
+d. 
+4x = 4.096
+5. 
+Coba diskusikan dengan  temanmu.
+Tentukan bilangan mana yang lebih besar :  20222023  atau  20232022
+Ayo Berkomunikasi
+Bab 1 | Bilangan Berpangkat
+11
+6. 
+Dua temanmu punya pendapat, yaitu
+a. 
+Dwi Lestari berpendapat  bahwa (3a)4  nilainya sama dengan 
+3a4. Bagaimana menurut pendapat kalian? Coba jelaskan 
+alasan kalian.
+b. 
+Christina berpendapat bahwa 
+1) 
+-(5×5×5×5) senilai  dengan (-5)×(-5)×(-5)×(-5)
+2) 
+-(5×5×5) senilai  dengan (-5)×(-5)×(-5)
+Bagaimana menurut kalian? Coba jelaskan pendapat kalian.
+7. 
+Apa yang dapat kalian simpulkan dari an 
+a. 
+Jika a bilangan negatif, dan n bilangan genap?
+b. 
+Jika a bilangan negatif, dan n bilangan ganjil? 
+8. 
+Apa yang dapat kalian simpulkan dari ab
+a. 
+Jika a bilangan genap, dan b bilangan genap?
+b. 
+Jika a bilangan genap, dan b bilangan ganjil? 
+c. 
+Jika a bilangan ganjil, dan b bilangan genap?
+d. 
+Jika a bilangan ganjil, dan b bilangan ganjil?
+9. 
+Tim Peneliti dari salah satu Universitas terkemuka di Indonesia 
+sedang melakukan penelitian wabah yang melanda di dua desa 
+x dan desa y. Ternyata tim peneliti menemukan dua virus yang 
+berbeda sebagai penyebab dari wabah tersebut. Setelah diteliti 
+di Laboratorium, diperoleh fakta bahwa virus di desa x dapat 
+membelah menjadi 2 virus  setiap 1 menit, sementara virus di desa 
+y dapat membelah menjadi 3 bagian setiap 2 menit. 
+a. 
+Tentukan banyak virus yang ada di desa x dan di desa y  yang 
+ada setelah 10 menit dan nyatakan dalam bentuk bilangan 
+berpangkat.
+b. 
+Setelah sehari apakah banyak virus di desa y melebihi dari 
+banyak virus di desa x? Jelaskan jawabanmu.
+Ayo Berpikir Kritis
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VIII
+12
+2. Sifat-sifat Bilangan Berpangkat
+a. Sifat Perkalian Bilangan Berpangkat
+Perhatikan gambar berikut ini
+Gambar 1.3 Kelengkapan Internet
+Pada zaman sekarang, kebutuhan internet menjadi hal yang penting 
+dalam menunjang aktivitas manusia. Setiap manusia memiliki 
+kebutuhan internet yang berbeda beda. Sebagian besar internet 
+digunakan untuk chatting di media sosial, mendownload, membrowsing 
+atau streaming video. Misalnya untuk kebutuhahan Internet Ahmad 
+membutuhkan  paket data 10 GB setiap hari. Berapa KB jika Ahmad 
+menggunakan selama 100 hari? 
+Untuk menyelesaikan permasalahan ini kita lihat dulu bahwa 1 GB = 
+1000 MB dan 1 MB = 1000 KB, sehingga 1 GB = 1.000.000 MB atau 106 
+Kalau Ahmad membeli 10 GB setiap hari berarti 10 × 1.000.000 KB = 
+10.000.000 KB atau 107 KB dalam sehari. Jika Ahmad membeli selama 
+100  atau 102  hari maka 
+ 
+Dalam 100 hari Ahmad membutuhkan  102 × 107  = 102+7 = 109   KB
+Ayo Bereksplorasi
+Paket Data Merdeka 10GB
+INTERNET
+GB
+Rp. 21.000
+10
+Masa Aktif 7 Hari
+Beli
+(
+)
+(
+)
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+2
+7
+9
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+=
+=
+=
+Bab 1 | Bilangan Berpangkat
+13
+Contoh 1.2
+Tentukan bentuk sederhana dari 34×35
+Alternatif jawaban:
+Misalnya 
+Jadi bentuk sederhana dari 34 × 35 adalah 39 
+Untuk lebih jelas pemahaman kalian tentang operasi perkalian, coba 
+lengkapi tabel berikut ini
+Tabel 1.2 Perpangkatan Pada Perkalian Bilangan
+Operasi 
+Perkalian 
+Operasi Perkalian 
+Bentuk Sederhana 
+35×32
+(3×3×3×3×3) ×(3×3) 
+37 = 35+2
+126 ×12
+……………………
+………….
+(-5)4 ×(-5)6
+……………………
+………….
+(0,7)3 ×(0,7)2
+……………………
+………….
+(4b)5 ×(4b)3
+……………………
+………….
+Berdasarkan tabel tersebut didapat bahwa bahwa perkalian dua 
+bilangan berpangkat dengan bilangan pokok yang sama dapat 
+disederhanakan dengan menjumlahkan pangkat dari kedua bilangan 
+berpangkat, sehingga secara umum dapat ditulis 
+am×an = am+n
+untuk a bilangan bulat dan m, n bilangan bulat positif
+(
+)
+(
+)
+(
+)
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+faktor
+faktor
+faktor
+faktor
+4
+5
+4
+5
+4
+5
+9
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+=
+=
+=
+=
++
++
+1
+2
+3
+4444444 4444444
+1
+2
+3
+444444444444444444 444444444444444444
+1
+2
+3
+444444444 444444444
+Matematika untuk SMP/MTs Kelas VIII
+14
+b. Sifat Pembagian Bilangan Berpangkat
+Gambar 1.4 Penyimpan Data
+Dalam aktivitas pekerjaan sehari-hari, setiap orang yang menggunakan 
+internet tidak akan lepas dari menyimpan data. Biasanya kapasitas 
+menyimpan data dalam sistem Terabyte. Besaran ile size video atau 
+ilm berbanding lurus dengan durasi video atau ilm tersebut. Video 
+atau ilm durasi rata-rata satu setengah jam biasanya berukuran 1 
+sampai 1,5 Gigabyte (GB). 1 Terabyte (TB) sama dengan 1.000 Gigabyte 
+(GB) atau 106 Megabyte (MB). Jika satu ilm diperkirakan membutuhkan 
+1000 MB, berapa banyak ilm yang dapat disimpan dalam 1 TB?
+1 TB = 106 MB dan 1 ilm = 103 MB 
+Maka dapat dihitung 
+Jadi, 1 TB dapat menyimpan sebanyak 1.000 video atau ilm durasi 
+rata-rata satu setengah jam. 
+Agar pemahaman kalian lebih lengkap tentang pembagian bilangan 
+berpangkat, coba lengkapi tabel pada halaman berikut.
+Ayo Bereksplorasi
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+3
+6
+3
+#
+#
+#
+#
+#
+|
+#
+#
+#
+#
+=
+=
+=
+Bab 1 | Bilangan Berpangkat
+15
+Tabel 1.3 Perpangkatan Pada Pembagian Bilangan
+Operasi 
+Pembagian 
+Bentuk Panjang
+Bentuk sederhana 
+2
+2
+3
+5
+2
+2
+2
+2
+3
+5
+5
+3
+2
+=
+=
+-
+5
+5
+2
+6
+………….
+………….
+(
+)
+(
+)
+3
+3
+3
+4
+-
+-
+………….
+………….
+4
+4
+2
+3
+………….
+………….
+(
+)
+(
+)
+5
+5
+5
+-
+-
+………….
+………….
+Berdasarkan tabel tersebut dapat ditulis bahwa 2
+2
+2
+2
+3
+5
+5
+3
+2
+=
+=
+-
+, artinya 
+bahwa  pembagian dua bilangan berpangkat dengan bilangan pokok 
+yang sama dapat disederhanakan dengan mengurangkan  pangkat 
+bilangan yang dibagi dengan pangkat bilangan yang membagi, 
+sehingga dalam bentuk  umum dapat disimpulkan bahwa
+untuk a bilangan bulat dan m, n bilangan bulat positif
+Contoh 1.3
+Tentukan bentuk sederhana dari 4
+4
+3
+5
+Alternatif jawaban:
+ 
+Jadi, bentuk sederhana dari 4
+4
+3
+5
+ adalah 4
+2 .
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+#
+#
+#
+#
+#
+#
+#
+=
+=
+a
+a
+a
+n
+m
+m
+n
+=
+-
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+5
+5
+3
+2
+#
+#
+#
+#
+#
+#
+#
+=
+=
+=
+=
+-
+Matematika untuk SMP/MTs Kelas VIII
+16
+Ayo Berpikir Kreatif
+Diberikan persamaan 3
+3
+3
+b
+a
+4
+=
+ Tentukan nilai a dan b dari 1 sampai 
+dengan 9 sehingga memenuhi persamaan tersebut.
+c. Sifat Perpangkatan Bilangan Berpangkat
+Perhatikan tabel berikut ini
+Tabel 1.4 Perpangkatan Bilangan berpangkat
+Operasi 
+Perpangkatan 
+Bentuk Perkalian Berulang
+Bilangan 
+Berpangkat
+(22)2
+(22) × (22) =(2×2) ×(2×2)
+  24     
+(43)2
+…………..…………………….
+   ………………..
+(0,54)2
+…………..…………………….
+   ………………..
+(75)2
+…………..…………………….
+   ………………..
+(a2)3
+…………..…………………….
+   ………………..
+ 
+Berdasarkan tabel tersebut dapat ditulis bahwa 2
+2
+2
+2 2
+2
+2
+4
+=
+=
+#
+^
+h
+, artinya 
+bahwa bilangan berpangkat yang dipangkatkan  dapat disederhanakan 
+dengan mengalikan   pangkat dari bilangan tersebut, sehingga dalam 
+bentuk umum dapat disimpulkan bahwa
+(
+)
+a
+a
+m
+n
+m
+n
+=
+#
+untuk a bilangan bulat dan m, n bilangan bulat positif
+Contoh 1.4
+Tulislah dalam bentuk yang sederhana dari ( )
+3
+4
+3
+Bab 1 | Bilangan Berpangkat
+17
+Alternatif jawaban:
+Jadi bentuk sederhana dari ( )
+3
+4
+3 adalah 3
+12
+d. Perpangkatan Pada Perkalian Bilangan 
+Untuk memahami perpangkatan pada perkalian bilangan, coba 
+perhatikan tabel berikut
+Tabel 1.5 Perpangkatan pada Perkalian Bilangan
+Perpangkatan pada 
+Perkalian Bilangan 
+Bentuk Perkalian berulang 
+Bentuk 
+Perpangkatan
+(4×3)3
+(4×3) × (4×3) × (4×3)
+= 4 × 3 × 4 × 3 × 4 × 3
+= (4×4×4) × (3×3×3)
+43 × 33
+(2×6)4
+(2×6) × (2×6) × (2×6) × (2×6)
+= 2 × 6 × 2 × 6 × 2 × 6 × 2 × 6
+= (2×2×2×2) × (6×6×6×6)
+24 × 64
+(p×2)2
+…………………………….
+…………………………….
+…………………………….
+………….
+(5×m)3
+…………………………….
+…………………………….
+…………………………….
+………….
+(a×b)5
+…………………………….
+…………………………….
+…………………………….
+………….
+( )
+( )
+( )
+( )
+(
+)
+(
+)
+(
+)
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+4
+3
+4
+4
+4
+12
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+=
+=
+=
+=
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+18
+Dari tabel tersebut (
+)
+4
+3
+3
+#
+, artinya setiap bilangan yang ada dalam 
+kurung masing-masing dipangkatkan sehingga menghasilkan 4
+3
+3
+3
+#
+. 
+Dalam bentuk umum dapat ditulis
+(
+)
+a
+b
+a
+b
+m
+m
+m
+#
+#
+=
+untuk a, b bilangan bulat dan m bilangan bulat positif
+Kadek, Sinaga, dan Suparman   diminta gurunya menyederhanakan 
+bentuk perpangkatan 
+Kadek  menyederhanakan      :    
+(
+)
+4
+4
+4
+4
+16
+2
+5
+2
+5
+7
+#
+#
+=
+=
++
+ 
+Sinaga menyederhanakan      :    4
+4
+4
+4
+2
+5
+2
+5
+7
+#
+=
+=
++
+Suparman menyederhanakan :    
+( )
+( )
+4
+4
+2
+2
+2
+2
+2
+2
+5
+2
+2
+2
+5
+4
+10
+14
+#
+#
+#
+=
+=
+=
+Bagaimanakah menurut pendapat kalian ketiga bentuk sederhana 
+dari perpangkatan tersebut? Coba jelaskan jawaban kalian?
+3. Bilangan Pangkat Nol dan Pangkat Negatif
+Sebelum kalian belajar bilangan berpangkat negatif, alangkah lebih 
+baik jika kalian lengkapi tabel berikut ini
+Operasi Pembagian 
+Hasil Operasinya
+Kesimpulan 
+2
+2
+2
+2
+3
+3
+3
+3
+0
+=
+=
+-
+2
+2
+2
+2
+2
+2
+1
+#
+#
+#
+#
+=
+2
+2
+1
+3
+3
+=
+15
+15
+2
+2
+= ……..
+……………………
+………….
+,
+,
+1 3
+1 3
+4
+4
+= ……..
+……………………
+………….
+Ayo Berpikir Kreatif
+Ayo Bereksplorasi
+Bab 1 | Bilangan Berpangkat
+19
+Operasi Pembagian 
+Hasil Operasinya
+Kesimpulan 
+,
+,
+0 4
+0 4
+5
+5
+= ……..
+……………………
+………….
+700
+700
+3
+3
+=  ……..
+……………………
+………….
+a
+a
+n
+n
+= ……..
+……………………
+………….
+Berdasarkan tabel tersebut, apa yang dapat kalian simpulkan? Coba 
+diskusikan dengan temanmu.
+Berdasarkan kesimpulan yang kalian buat maka dapat ditulis bentuk 
+umum 
+a
+1
+0 =
+untuk bilangan bulat a yang tak nol
+Agar pemahaman kalian lebih bagus, coba perhatikan contoh berikut 
+ini
+Contoh 1.5
+Tentukan hasil dari 3
+3
+2
+2
+|
+Alternatif jawaban:
+3
+3
+3
+3
+3
+3
+9
+9
+1
+2
+2
+|
+#
+|
+#
+|
+=
+=
+=
+Untuk memahami pangkat negatif, coba kalian perhatikan gambar 
+berikut ini
+Gelombang Elektromagnetik (Panjang Gelombang dan Frekuensi)
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+20
+Gambar 1.5 Gelombang Elektromagnetik
+Gambar di atas menunjukkan bahwa gelombang elektromagnetik 
+memiliki panjang gelombang yang menggunakan bilangan berpangkat 
+negatif yang berbeda-beda dari gelombang radio sampai sinar 
+ultraviolet, sedangkan frekuensinya menggunakan bilangan pangkat 
+positif. Berdasarkan gambar tersebut kalian dapat menentukan bahwa 
+panjang gelombang radio adalah 10-3   dan frekuensinya 104 , berapakah 
+sebenarnya nilai dari  10-3 ? 
+Untuk menjawab pertanyaan tersebut coba perhatikan pola berikut ini
+Berdasarkan dari pola tersebut jika 102 = 100 kemudian 101 = 10  maka 
+dapat diperoleh bahwa 100 = 1, kemudian 10-1  memiliki nilai yang 
+Gamma Ray
+X-Ray
+Ultraviolet
+Visible
+Infrared
+Microwave
+Radio
+(metres)
+10-12
+10-10
+10-8
+10-6
+10-5
+10-2
+103
+104
+108
+1012
+1015
+1016
+1018
+1020
+Wavelength
+(hz)
+Frequency
+.
+10
+1 000
+10
+100
+10
+10
+10
+1
+10
+10
+1
+10
+1
+10
+10
+1
+100
+1
+10
+10
+1
+1000
+1
+3
+2
+1
+0
+1
+1
+2
+2
+3
+3
+=
+=
+=
+=
+=
+=
+=
+=
+=
+=
+-
+-
+-
+Bab 1 | Bilangan Berpangkat
+21
+kurang dari 1, artinya 10-1 senilai dengan 10
+1
+10
+1
+1 =
+. Dengan demikian 
+bahwa nilai dari 10-3 
+.
+10
+1
+1 000
+1
+3
+=
+=
+.
+Agar kalian memiliki pemahaman yang lengkap terhadap bilangan 
+pangkat negatif, coba lengkapilah  tabel berikut.
+Tabel 1.6 Bilangan Pangkat Negatif
+Gelombang 
+Elektromagnetik
+Panjang 
+Gelombang 
+(m)
+Bilangan 
+Berpangkat Positif
+Bentuk 
+Desimal 
+Gelombang radio
+10-3
+.
+10
+1
+1 000
+1
+3 =
+0,001
+Sinar inframerah
+10 -5
+.
+10
+1
+100 000
+1
+=
+f
+……………
+Cahaya tampak
+10-6
+……… = …………….
+0,000001
+Sinar ultraviolet
+10-8
+……………
+Sinar X
+10-10
+.
+.
+.
+10 000 000 000
+1
+ff =
+……………
+Sinar gamma
+10-12
+……… = …………….
+……………
+Berdasarkan pola tersebut, maka dapat disimpulkan bahwa
+1
+a
+a
+n
+n
+=
+-
+untuk a bilangan bulat dan n bilangan bulat positif
+Untuk melengkapi pengetahuan kalian tentang bilangan pangkat 
+negatif, coba cari informasi dalam bidang teknologi, objek atau benda 
+dengan ukuran yang sangat kecil dan menggunakan bilangan pangkat 
+negatif, namun sangat bermanfaat untuk kehidupan manusia dan 
+10
+1
+8
+ffff
+=
+Tahukah Kalian?
+?
+Matematika untuk SMP/MTs Kelas VIII
+22
+salah satunya adalah ukuran nano meter. Banyak sekali terobosan 
+dalam bidang teknologi indutri yang menggunakan teknologi nano. 
+Nanometer adalah sebuah ukuran panjang  1×10-9 meter. Bila kalian 
+tertarik dengan bidang ini, kalian bisa mencari informasi tentang ilmu 
+nano teknologi di laman pencarian dengan kata kunci "nano teknologi". 
+Beberapa objek yang menggunakan ukuran nano meter terlihat di tabel 
+berikut. Coba lengkapi tabel berikut.
+Ukuran
+Obyek
+Ukuran dalam 
+meter 
+2 nm
+Diameter dari Heliks DNA alfa
+……………………..
+6 nm
+Diameter ilamen aktin
+……………………..
+7 nm
+Ketebalan rata-rata membran sel
+……………………..
+20 nm 
+Ukuran ribosom
+……………………..
+30 nm
+Virus terkecil didunia
+……………………..
+100 nm
+Ukuran rata-rata retrovirus
+……………………..
+120 nm
+Virus besar (termasuk Inluenza)
+……………………..
+Sumber :https://id.wikipedia.org/wiki/Nanometer
+Contoh 1.6
+Sebuah Amuba memiliki diameter 5-3 cm , berapa cm diameter Amuba 
+dalam bentuk desimal?
+Alternatif jawaban: 
+diameter amuba adalah 5-3 cm,
+artinya 
+,
+5
+5
+1
+5
+5
+5
+1
+125
+1
+0 008
+3
+3
+#
+#
+=
+=
+=
+=
+-
+Jadi, panjang amuba dalam bentuk desimal adalah 0,008 m.
+Bab 1 | Bilangan Berpangkat
+23
+Agar kalian memiliki pemahaman yang baik, coba selesaikan soal 
+berikut dengan berdiskusi dengan teman sebangku.
+1. 
+Ubahlah bentuk berikut dalam bentuk pangkat positif
+a. 5-3
+b. (-7)-8
+c. 
+9
+1
+4
+-
+d. 
+(
+)
+8
+1
+5
+-
+-
+2. 
+Ubahlah bentuk berikut dalam bentuk pangkat negatif
+a. 75
+b. (-9)4
+c. 
+5
+1
+4
+d. 
+8
+1
+3
+4. Bilangan Pecahan Berpangkat
+Setelah kalian memahami bilangan berpangkat negatif, sekarang 
+bagaimana kalau bilangan pecahan berpangkat. Untuk memahami 
+pecahan berpangkat coba diskusikan dengan temanmu untuk 
+melengkapi tabel berikut ini.
+Pecahan berpangkat 
+Hasil Operasinya
+Kesimpulan 
+3
+2
+3
+a
+k
+ 
+3
+2
+3
+3
+Ayo Mencoba
+Ayo Bereksplorasi
+3
+2
+3
+2
+3
+2
+3
+2
+3
+2
+3
+2
+3
+3
+3
+2
+2
+2
+#
+#
+#
+#
+#
+#
+#
+#
+=
+=
+=
+a
+a
+a
+k
+k
+k
+Matematika untuk SMP/MTs Kelas VIII
+24
+Pecahan berpangkat 
+Hasil Operasinya
+Kesimpulan 
+6
+5
+4
+a
+k
+……………………
+………….
+9
+3
+3
+-
+a
+k
+……………………
+………….
+8
+7
+5
+-
+a
+k
+……………………
+………….
+Dari tabel tersebut dapat diperoleh bahwa 3
+2
+3
+a
+k artinya 
+3
+2
+3
+2
+3
+2
+#
+#
+a
+a
+a
+k
+k
+k dan dapat ditulis dalam bentuk 
+3
+2
+3
+2
+3
+2
+3
+3
+3
+2
+2
+2
+#
+#
+#
+#
+#
+#
+=
+ sehingga dapat ditulis dalam bentuk yang 
+sederhana menjadi 3
+2
+3
+3
+. Berdasarkan tabel Pecahan berpangkat dapat 
+disimpulkan bahwa
+b
+a
+b
+a
+n
+n
+n
+=
+b
+l
+untuk a, b bilangan bulat dan n bilangan bulat positif
+1. 
+Sederhanakan bentuk pangkat berikut.
+a. 
+4
+4
+3
+5
+  
+b. 
+(
+)
+(
+)
+6
+6
+3
+7
+-
+-
+  
+c. 
+(
+, )
+(
+, )
+0 3
+0 3
+3
+5
+-
+-
+d. 
+4
+4
+4
+6
+5
+3
+#
+2. 
+Tulislah dalam bentuk yang paling sederhana.
+a. 
+4
+2
+16
+2
+3
+5
+#
+  
+b. 
+:
+3
+9
+27
+3
+5
+4
+2
+2
+  
+c. 
+4
+16
+8
+32
+5
+4
+3
+2
+#
+d. 
+5
+625
+25
+125
+2
+2
+3
+2
+#
+#
+Soal Laihan
+1.1
+Bab 1 | Bilangan Berpangkat
+25
+3. 
+Tulislah dalam bentuk bilangan berpangkat.
+a. 
+……
+625
+1
+=
+  
+b. 
+……
+1000
+125 =
+  
+c. 
+(
+)
+.
+……
+a
+a
+1024
+8
+2
+#
+=
+^
+h
+d. 
+,0 00000343 =
+4. 
+Ubahlah menjadi pangkat positif.
+a. 
+2
+2
+-  
+b. 
+b
+3
+4
+-
+^
+h  
+c. 
+q
+6
+5
+-
+d. 
+b
+a
+4
+5
+-
+e. 
+c
+16
+4
+8
+-
+5. 
+Sederhanakan bentuk berikut.
+a. 
+5
+1
+5
+1
+5
+4
+a
+a
+k
+k
+  
+b. 
+32
+8
+16
+4
+2
+3
+a
+a
+k
+k
+  
+c. 
+4
+8
+16
+32
+3
+2
+2
+5
+#
+d. 
+4
+3
+27
+8
+3
+2
+3
+2
+3
+|
+#a
+k
+6. 
+Sederhanakan bilangan berpangkat berikut.
+a. 
+,
+,
+,
+1 5
+1 5
+1 5
+5
+3
+4
+#
+  
+b. 
+(
+)
+(
+)
+(
+)
+4
+4
+4
+4
+3
+5
+|
+-
+-
+-
+  
+c. 
+9
+9
+4
+4
+4
+2
+7
+4
+-
+d. 
+2
+8
+8
+5
+4
+2
+-
+7. 
+Sederhanakan bilangan berpangkat berikut dan tentukan nilai p.
+a. 
+p
+2
+4
+4
+3
+2
+=
+  
+b. 
+(
+)
+(
+)
+2
+4
+16
+8
+2
+p
+3
+2
+2
+4
+#
+-
+-
+=
+  
+c. 
+4
+9
+2
+27
+3
+p
+3
+6
+2
+8
+|
+=
+d. 
+(
+)
+5
+9
+81
+625
+3
+p
+8
+2
+4
+2
+#
+-
+-
+=
+^
+h
+Matematika untuk SMP/MTs Kelas VIII
+26
+8. 
+Sederhanakan bilangan berpangkat berikut.
+a. 
+(
+)
+3
+2
+2
+3
+4
+5
+2
+#
+|
+#
+  
+b. 
+3
+4
+5
+2
+2
+3
+2
+2
+#
+#
++
+  
+c. 
+(
+)
+3
+2
+23
+5
+#
+|
+d. 
+(
+)
+(
+)
+(
+)
+3
+3
+4
+2
+2
+3
+2
+#
+#
+-
+-
+-
+9. 
+Setrika listrik memiliki hambatan 3 × 102 ohm dialiri arus 
+2  ampere selama 15 menit. Berapa joule besarnya energi listrik 
+yang digunakan ? (W = I2 × R × t, I adalah hambatan, R adalah 
+arus listrik, dan t adalah satuan waktu dalam detik).
+10. Menurut para Ahli,  cahaya Matahari membutuhkan waktu kira-
+kira 450 detik untuk sampai ke Bumi,  jarak Matahari ke Bumi 
+adalah 1,5 ×109 km dan jarak  ke beberapa planet sebagai berikut.
+Jarak Matahari  ke planet
+Merkurius
+Venus
+Mars
+Uranus
+5,79 ×107 km
+1,08 ×108 km
+2,28×108 km
+2,88 ×109 km
+a. 
+Tentukan berapa detik waktu yang ditempuh cahaya dari 
+matahari ke Merkurius, Venus, Mars, dan Uranus.
+b. 
+Berapa kira-kira perbandingan jarak Matahari ke Bumi dengan 
+jarak Matahari  ke Uranus.
+c. 
+Berapa km kira-kira jarak dari Merkurius ke Uranus jika 
+Matahari, Merkurius, Venus, Bumi, dan  Uranus terletak pada 
+garis lurus.
+B. Bilangan  Bentuk Akar
+1. Mengubah Bilangan Berpangkat Pecahan ke dalam 
+bentuk akar
+Christina mempunyai saputangan yang berbentuk persegi dengan luas 
+625 cm2. Berapa panjang sisi saputangan Christina? Misal panjang sisi 
+Ayo Bereksplorasi
+Bab 1 | Bilangan Berpangkat
+27
+saputangan adalah a cm maka Christina 
+harus menentukan a × a = 625. Dalam hal 
+ini a = 25, karena 25 × 25 = 625 atau  252  = 
+625. Menentukan a = 25 berarti melakukan 
+penarikan akar dari 625 atau dapat ditulis 
+625
+25
+=
+ (dibaca “akar kuadrat dari 625 
+adalah 25”). Jadi, dapat disimpulkan bahwa 
+panjang sisi sapu tangan Christina adalah 
+25 cm.
+Untuk lebih memahami hubungan bilangan bentuk akar dan 
+bilangan berpangkat, coba lengkapi tabel berikut ini.
+Tabel 1.7 Hubungan Bilangan Berpangkat dengan Bentuk Akar
+Bentuk Akar 
+Hubungan Bilangan Berpangkat
+dengan Bentuk Akar
+25
+25  = 52   ⇔ 25 = 5
+36
+36  = …  ⇔ 36 = ….
+81
+81  = …  ⇔ 81 = ….
+100
+100  = ….  ⇔ 100 = …..
+144
+144  = …..   ⇔ 144 = …..
+225
+225  = …..    ⇔  225 =…….
+Dari tabel tersebut untuk selanjutnya, akan diperoleh
+a
+b
+b
+a
+n
+n
++
+=
+=
+dengan catatan a dan b keduanya positif serta n bilangan asli
+Matematika untuk SMP/MTs Kelas VIII
+28
+2. Sifat-sifat Operasi Aljabar Bilangan bentuk Akar
+a. Penjumlahan dan Pengurangan Bentuk akar
+Perhatikan gambar segiempat berikut
+Tentukan keliling gambar tersebut?
+Keliling segiempat 
+Jadi, keliling segiempat adalah 10 5 cm.
+Ayo Mencoba
+Lengkapi tabel berikut
+Penjumlahan 
+Bentuk Akar
+Bentuk Panjang 
+Kesimpulan 
+2 3
+6 3
++
+(
+)
+2
+6
+3
++
+8 3
+7 5
+8 5
++
+…………………..
+…………………..
+…………………..
+)
+9
+3
+6
+10
+-
++
+…………………..
+3√5 cm
+D
+C
+A
+B
+2√5 cm 
+(
+)
+AB
+BC
+CD
+DA
+3 5
+2 5
+3 5
+2 5
+3
+2
+3
+2
+5
+10 5
+=
++
++
++
+=
++
++
++
+=
++
++
++
+=
+Bab 1 | Bilangan Berpangkat
+29
+Penjumlahan 
+Bentuk Akar
+Bentuk Panjang 
+Kesimpulan 
+12 6
+8 6
+-
+…………………
+…………………..
+10 7
+2 7
+-
+…………………..
+…………………..
+…………………..
+(
+)
+10
+1
+4
+13
++
+-
+…………………..
+Berdasarkan tabel tersebut dapat disimpulkan bahwa
+(
+)
+(
+)
+a m
+b m
+a
+b
+m
+a m
+b m
+a
+b
+m
++
+=
++
+-
+=
+-
+Ayo Berkomunikasi
+Coba diskusikan dengan temanmu untuk menyelesaikan operasi berikut
+1. 
+5 3
+2 12
++
+ = 
+2. 
+12 2
+3 8
+-
+=
+Untuk dapat menyelesaikan soal tersebut, terlebih dahulu coba 
+kalian pahami menyederhanakan bilangan bentuk akar. Untuk 
+menyederhanakan bentuk akar, kalian dapat melengkapi tabel berikut.
+Bentuk akar
+Bentuk Sederhana 
+8
+8
+4
+2
+4
+2
+2
+2
+2 2
+#
+#
+#
+=
+=
+=
+=
+72
+72
+2
+2
+2
+2
+#
+#
+#
+f
+f
+f
+f
+=
+=
+=
+=
+75
+…………………………………………………………
+128
+…………………………………………………………
+147
+…………………………………………………………
+Matematika untuk SMP/MTs Kelas VIII
+30
+Contoh 1.7
+Tentukan bentuk sederhana dari 2 8
+6 18
++
+Alternatif jawaban: 
+b. Perkalian Bentuk Akar
+Perhatikan gambar persegi panjang berikut
+Tentukan luas dari persegi panjang tersebut?
+Alternatif Penyelesaian
+Jadi luas persegi panjang adalah 
+cm
+10
+2
+Untuk memahami perkalian bentuk akar lebih lanjut, coba kalian 
+lengkapi tabel berikut. 
+Perhatikan tabel pada halaman berikut, dan isilah titik-titik dalam 
+tabel.
+.
+.
+.
+.
+(
+)
+2 8
+6 18
+2 4 2
+6 9 2
+2 2 2
+6 3 2
+4 2
+18 2
+4
+18
+2
+22 2
++
+=
++
+=
++
+=
++
+=
++
+=
+√5 cm
+√2 cm
+D
+C
+A
+B
+Luas persegi panjang
+panjang
+lebar
+5
+2
+10
+#
+#
+=
+=
+=
+Bab 1 | Bilangan Berpangkat
+31
+Tabel 1.8 Perkalian Bentuk Akar
+Perkalian Bentuk 
+Akar
+Bentuk Panjang 
+Bentuk Sederhana 
+2 2
+2 3
+#
+(
+)
+.
+2
+2
+2 3
+4 6
+#
+#
+=
+4 6
+3 5
+5 10
+#
+75 2
+4 8
+3 18
+#
+…………………….
+…………………….
+3 6
+6 12
+#
+…………………….
+…………………….
+4 12
+7 48
+#
+…………………….
+…………………….
+Berdasarkan tabel tersebut dapat disimpulkan bahwa
+a
+p
+b
+q
+a
+b
+p
+q
+#
+#
+#
+=
+dengan a, b, p, q bilangan bulat, p dan q positif
+c. Pembagian Bentuk Akar
+Untuk memahami perkalian bentuk akar lebih lanjut, coba kalian 
+lengkapi tabel berikut. 
+Perhatikan tabel berikut, dan isilah titik-titik dalam tabel.
+Tabel 1.9 Perkalian Bentuk Akar
+Pembagian Bentuk 
+Akar
+Bentuk Panjang 
+Bentuk Sederhana 
+3
+30 
+3
+30
+10
+=
+10
+4 3
+10 24 
+……………………..
+……………………..
+(
+)
+.
+3
+5
+5 10
+15 50
+15 25
+2
+15
+5 2
+#
+#
+#
+#
+=
+=
+=
+Matematika untuk SMP/MTs Kelas VIII
+32
+Pembagian Bentuk 
+Akar
+Bentuk Panjang 
+Bentuk Sederhana 
+3 2
+6 54
+ 
+……………………..
+……………………..
+4 3
+2 108
+……………………..
+……………………..
+3 3
+6 96
+……………………..
+…………………….
+Dengan demikian, berdasarkan tabel tersebut dapat ditulis dalam 
+bentuk umum sebagai beikut.
+b
+a
+b
+a
+=
+dengan a dan b bilangan bulat positif
+Untuk memahami pembagian dalam bentuk akar, coba  kalian  
+pahami contoh berikut ini.
+Contoh 1.8
+Sederhanakan pembagian bentuk akar berikut
+a. 
+...
+3
+12 =
+b. 
+...
+3 3
+9 24 =
+Alternatif jawaban:
+a. 
+3
+12
+3
+12
+4
+2
+=
+=
+=
+b. 
+.
+.
+3 3
+9 24
+3
+9
+3
+24
+3 8
+3 4 2
+3 2 2
+6 2
+=
+=
+=
+=
+=
+Bab 1 | Bilangan Berpangkat
+33
+1. 
+Coba buatlah dalam bentuk yang paling sederhana.
+a. 
+3 2
+5 2
++
+  
+b. 
+7 5
+8 5
++
+c. 
+20 6
+12 6
++
+d. 
+12 3
+8 3
+-
+-
+e. 
+6 8
+5 2
++
+f. 
+10 12
+7 3
++
+g. 
+9 20
+8 5
+-
+h. 
+15 48
+4 12
+-
+i. 
+8 125
+6 45
+-
+j. 
+3 216
+7 54
+-
+2. 
+Coba sederhanakan bentuk akar berikut.
+a. 
+3 2
+6 6
+#
+  
+b. 
+4 3
+5 8
+#
+c. 
+3 5
+8 10
+#
+d. 
+5 6
+7 8
+#
+e. 
+9 6
+7 12
+#
+3. 
+Sederhanakan pembagian bentuk akar berikut.
+a. 
+3
+18  
+b. 
+5
+2 20
+c. 
+3 2
+72
+d. 
+2 3
+8 45
+e. 
+4 3
+12 108
+4. 
+Sederhanakan bentuk berikut ini.
+a. 
+5 2
+2 8
+7 2
+2 18
+#
+#
++
+ 
+b. 
+3 8
+2 50
+24 12
+2 3
+#
+|
++
+c. 
+2 32
+2 50
+4 8
++
+d. 
+2 2
+5 3
+3 27
++
+e. 
+2 2
+2 5
+5 10
+#
+5. 
+Persegi panjang mempunyai panjang 
+cm
+10 72
+ dan lebar 
+cm
+4 8
+ 
+Tentukan luas dan keliling persegi panjang tersebut. Tulislah 
+jawaban kalian dalam bentuk yang paling sederhana.
+Soal Laihan
+1.2
+Matematika untuk SMP/MTs Kelas VIII
+34
+3. Merasionalkan Penyebut
+Bilangan bentuk akar ada yang berupa bilangan irasional, yaitu 
+bilangan real yang tidak bisa dinyatakan dalam bentuk b
+a dengan a dan 
+b bilangan bulat, b tidak nol. Dengan kata lain, bilangan irasional adalah 
+bilangan real yang hasil baginya tidak berhenti. Contoh 
+,
+,
+2
+3
+5 g 
+Jika kalian hitung dengan komputer maka  nilai dari 
+2 = 
+1,414213562373095048801688724 
+Jelas terlihat bahwa tidak ada angka yang terulang dan tidak 
+berhenti. Merasionalkan  penyebut maksudnya adalah menjadikan 
+bilangan bentuk akar yang menjadi  penyebut dari bilangan irasional 
+menjadi bilangan rasional. Untuk lebih jelasnya dalam merasionalkan 
+penyebut, coba pelajari materi berikut ini. Pecahan bentuk akar yang 
+merupakan bilangan irasional seperti 
+,
+,
+,
+3
+1
+5
+3
+3
+3
+2
+3
+6
+5
+gg
++
++
+Pecahan penyebut tersebut dapat diubah menjadi pecahan rasional 
+dengan cara mengalikan pembilang dan penyebutnya dengan pasangan 
+bentuk akar sekawannya. Pasangan bentuk akar sekawan adalah 
+sebagai berikut.
+1. 
+Pasangan bentuk akar sekawan  dari a adalah a karena 
+a × a =a
+2. 
+Pasangan bentuk akar sekawan dari (
+)
+a
+b
++
+ adalah (
+)
+a
+b
+-
+, 
+karena (
+)(
+)
+a
+b
+a
+b
+a
+b
+2
++
+-
+=
+-
+3. 
+Pasangan bentuk akar sekawan dari (
+)
+a
+b
++
+ adalah (
+)
+a
+b
+-
+, 
+karena (
+)(
+)
+(
+)
+a
+b
+a
+b
+a
+b
++
+-
+=
+-
+Agar lebih jelas bagaimana merasionalkan penyebut, coba kalian 
+pelajari lebih lanjut beberapa contoh berikut ini.
+Contoh 1.9
+Penyebut berbentuk  a 
+Sederhanakan bilangan pecahan  berikut dengan merasionalkan 
+penyebutnya 
+3
+1
+Bab 1 | Bilangan Berpangkat
+35
+Contoh 1.10
+Penyebut berbentuk  (
+)
+a
+b
++
+Sederhanakan bilangan pecahan  berikut dengan merasionalkan  
+penyebutnya 5
+3
+6
++
+(
+)(
+)
+(
+)
+5
+3
+6
+5
+3
+6
+5
+3
+5
+3
+5
+3
+5
+3
+6 5
+3
+25
+9
+30
+6 3
+25
+3
+30
+6 3
+22
+30
+6 3
+11
+15
+3 3
+#
++
+=
++
+-
+-
+=
++
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
+=
+-
+Contoh 1.11
+Penyebut berbentuk (
+)
+a
+b
++
+Sederhanakan bilangan pecahan  berikut dengan merasionalkan 
+penyebutnya 
+7
+5
+4
++
+ 
+3
+1
+3
+1
+3
+3
+9
+3
+3
+3
+3
+1
+3
+#
+=
+=
+=
+=
+Matematika untuk SMP/MTs Kelas VIII
+36
+Contoh 1.12
+Penyebut berbentuk (
+)
+a
+b
+-
+Sederhanakan bilangan pecahan  berikut dengan merasionalkan 
+penyebutnya 
+6
+2
+3
+5
+-
++
+ 
+(
+)(
+)
+(
+)(
+)
+6
+2
+3
+5
+6
+2
+3
+5
+6
+2
+6
+2
+6
+2
+6
+2
+3
+5
+6
+2
+36
+4
+3 6
+3 2
+5
+6
+5
+2
+6
+2
+3 6
+3 2
+30
+10
+4
+3 6
+3 2
+30
+10
+#
+-
++
+=
+-
++
++
++
+=
+-
++
++
++
+=
+-
++
++
++
+=
+-
++
++
++
+=
++
++
++
+(
+)(
+)
+(
+)
+7
+5
+4
+7
+5
+4
+7
+5
+7
+5
+7
+5
+7
+5
+4
+7
+5
+49
+25
+4 7
+4 5
+2
+4 7
+4 5
+2 7
+2 5
+#
++
+=
++
+-
+-
+=
++
+-
+-
+=
+-
+-
+=
+-
+=
+-
+Bab 1 | Bilangan Berpangkat
+37
+Ayo Mencoba
+Rasionalkan bentuk akar berikut ini
+1. 
+6
+3
+2. 
+2 10
+5
+3. 
+6
+5
+4. 
+5 7
+3
+5. 
+18
+4
+6. 
+50
+10
+7. 
+2 20
+8
+8. 
+5
+3
+9. 
+27
+18
+10. 5 50
+2 12
+11. 4
+2
+3
++
+12. 5
+2 3
+5
++
+13. 
+6
+5
+7
+-
+14. 
+3
+1
+3
++
+15. 3 3
+6
+5
+-
+16. 3
+3 3
+6
+-
+17. 
+5
+2
+7
+-
+18. 5 3
+5
+2 6
+-
+19. 
+7
+2
+5
+5
+-
++
+20. 4 5
+2 2
+3
+3 6
+-
++
+C. Penulisan Bentuk Baku
+Ayo Bereksplorasi
+Menurut para ahli, Bumi memiliki berat sekitar 
+6.000.000.000.000.000.000.000 ton. 
+Penulisan berat ini tentunya kurang 
+efektif karena terlalu panjang. Agar 
+lebih hemat dalam penulisan berat 
+bumi, dapat ditulis dalam bentuk 
+bilangan berpangkat. 
+Matematika untuk SMP/MTs Kelas VIII
+38
+Berat Bumi jika ditulis dalam bentuk perkalian adalah 
+6.000.000.000.000.000.000.000 ton
+= 6 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 10 × 
+10 × 10 × 10 × 10 ton
+= 6 × 1018 ton
+Dengan demikian berat Bumi dapat ditulis dengan angka yang jauh 
+lebih sederhana yaitu 6 × 1018 ton.
+Truk Caterpillar 797F yang digunakan di PT. 
+Freeport memiliki daya angkut mencapai 
+400.000 kg serta berat operasinya 687.500 
+kg. Jika ditulis dalam bentuk baku, daya 
+angkut 400.000 kg = 4 ×105 kg dan berat 
+operasinya 687.500 kg = 6,875 ×105 kg. 
+Penulisan 4 ×105 kg dan 6,875 ×105 kg 
+lebih singkat dan eisien.
+Untuk memahami lebih jauh tentang penulisan bentuk baku coba 
+lengkapi tabel berikut ini
+Penulisan Bentuk biasa
+Penulisan bentuk baku
+40.000.000.000
+4 × 1010
+456.000.000
+4,56 × 108
+0,00004
+4 × 10-5
+0,0000000796
+7,96 × 10-8
+38.564.000
+…………
+2.903.000.000
+………….
+203.400.000.000
+…………
+0,00000907
+………….
+0,0000000000745
+…………
+0,000000009045
+………….
+Bab 1 | Bilangan Berpangkat
+39
+Berdasarkan tabel tersebut dapat disimpulkan bahwa penulisan 
+bentuk baku dari bilangan positif  dapat ditulis dengan
+dengan
+a
+a
+10
+1
+10
+n
+#
+1
+1
+Contoh 1.13
+Tulislah dalam bentuk biasa
+1. 
+2,3 × 106
+2. 
+5,89 × 10-9
+Alternatif jawaban:
+1. 
+2,3 × 106   = 2,3 × 1.000.000 = 2.300.000 
+2. 
+5,89 × 10-9  = 5,89 × .
+.
+.
+1 000 000 000
+1
+  = 0,00000000589
+1. 
+Tulislah bilangan berikut dalam bentuk biasa.
+a. 
+2,5 × 108
+b. 
+4,58 × 1010
+c. 
+9,0387 × 10-8   
+d. 
+2,0007 × 10-4
+e. 
+1,56004 × 10-1     
+2. 
+Tulislah bilangan berikut dalam bentuk baku.
+a. 
+34.000.000.000
+b. 
+890.000.000.000
+c. 
+0,00000000783
+d. 
+0,000000392
+e. 
+0,0303929  
+3. 
+Sederhanakan bentuk berikut.
+a. 
+(2 × 106) × (8 × 104)
+b. 
+(8 × 1010) : (1,2 × 10-5)
+c. 
+(
+)
+( ,
+)
+(
+)
+2
+10
+1 5
+10
+8
+10
+3
+3
+3
+#
+#
+#
+#
+4. 
+Satu karung berisi beras memiliki berat 50 kg. Jika diasumsikan 
+berat tiap-tiap butir beras adalah sama, yaitu 5 × 10-3 gram. 
+Soal Laihan
+1.3
+Matematika untuk SMP/MTs Kelas VIII
+40
+Berapakah banyak butir beras dalam karung tersebut? Tuliskan 
+jawaban kalian dalam bilangan berpangkat sederhana.
+5. 
+Dwi Puji Lestari membeli lashdisk berkapasitas 64 GB, dan yang 
+bisa digunakan adalah  92% Tentukan berapa Byte kapasitas 
+lashdisk yang dapat digunakan? (1 GB = 210 Byte).
+6. 
+Kecepatan cahaya adalah 3 × 108 m/detik. Berapa km cahaya 
+bergerak dalam waktu 6 jam? Tulislah jawaban kalian dalam 
+bentuk baku.
+Refleksi
+Setelah kalian mempelajari Bab ini, sekarang coba lakukan releksi 
+apakah kalian 
+1. 
+Dapat memahami sifat-sifat bilangan berpangkat 
+2. 
+Dapat menyelesaikan operasi bilangan berpangkat 
+3. 
+Dapat menyelesaikan operasi bilangan bentuk akar 
+4. 
+Dapat merasionalkan penyebut bentuk akar
+5. 
+Dapat menulis bilangan dalam  Bentuk Baku
+Uji Kompetensi Bab 1
+1. 
+Tulislah dalam bentuk pangkat yang paling sederhana.
+a. 
+625
+20
+b. 
+243
+75
+c. 
+729
+128
+d. 
+1296
+3125
+2. 
+Sederhanakan bentuk perpangkatan berikut.
+a. 
+,
+,
+,
+0 5
+0 5
+0 5
+5
+9
+2
+#
+-
+b. 
+(
+)
+(
+)
+(
+)
+6
+6
+6
+5
+9
+4
+#
+-
+-
+-
+-
+c. 
+81
+27
+4
+64
+3
+6
+3
+4
++
+d. 
+3
+243
+27
+6
+2
+3
++
+Bab 1 | Bilangan Berpangkat
+41
+3. 
+Tentukan hasil perpangkatan berikut ini.
+a. 
+6
+2
+3
+2
+3
+2
+#
+b. 
+3
+5
+5
+3
+2
+3
+3
+#
+#
+c. 
+8
+32
+8
+2
+2
+2
++
+d. 
+10
+4
+15
+3
+10
+2
+2
+2
+#
+#
++
+4. 
+Sederhanakan bentuk perpangkatan berikut ke dalam bentuk 
+baku.
+a. 
+83 × 25 ×10-6
+b. 
+(0,63 × 10-3) – (0,52 ×10-8)
+c. 
+(2,16 × 107) : (0,62 ×10-10)
+d. 
+2,43 × 10-6 × 0,32 ×10-5 × 1.000.000
+5. 
+Jika  a = 32 dan b = 243. Tentukan hasil operasi dalam bentuk 
+perpangkatan yang paling sederhana.
+a. 
+a
+b
+2
+3
+#
+b. 
+a
+b
+2
+3
+2
+3
++
+-
+^
+^
+h
+h
+c. 
+(
+)
+ab
+a
+b
+3
+2
+3
+2
+#
+d. 
+a
+b
+2
+3
++
+6. 
+Rasionalkan bentuk akar berikut ini.
+a. 
+8
+5
+b. 
+5 18
+3 6
+c. 
+5
+2 2
+8
++
+d. 
+18
+5
+8
++
+e. 
+3 5
+6
+2
+2 3
+-
++
+7. 
+Nabila membeli paket internet dengan kapasitas 6 GB, berlaku 
+selama 30 hari.  
+a. 
+Berapakah KB kapasitas rata-rata tiap hari yang digunakan 
+Nabila agar cukup selama sebulan? 
+b. 
+Jika pada bulan berikutnya Nabila membeli lagi 12 GB, berapa 
+KB rata-rata kapasitas yang digunakan Nabila setiap hari agar 
+cukup selama 2 bulan?
+Matematika untuk SMP/MTs Kelas VIII
+42
+8. 
+Setiap orang yang akan donor darah berisi 0,5 liter darah. 
+a. 
+Setiap 1ml darah terdapat 2,5 ×104 sel darah putih, berapa 
+banyak sel darah putih jika ada 10 orang yang donor darah?
+b. 
+Setiap 1ml darah terdapat 7,5 ×108 sel darah merah, berapa 
+banyak sel darah merah dalam 6 hari apabila setiap hari ada 5 
+orang yang donor darah?
+9. 
+Ada berapa detik selama 100  tahun, jika 1 tahun sama dengan 365 
+hari? Tulislah jawaban kalian dalam bentuk baku.
+10. Pak Amin memiliki kolam renang dengan ukuran panjang 
+m
+12 12
+ 
+dan lebar 
+m
+6 27
+ dan memiliki kedalaman 2m. Jika kolam terisi 
+85% air, tentukan berapa liter volume air yang ada?
+Pengayaan
+1. 
+32
+2
+2
+2
+2
+a
+2023
+2024
+2025
+#
+#
+=
+ Tentukan nilai dari a.
+2. 
+Perhatikan tabel berikut
+Jenis Truk 
+Kapasitas angkut(kg)
+Tronton Wingbox
+1,8 × 104  
+Tronton
+1,5 × 104  
+Fuso Berat
+8 × 103  
+Fuso Ringan 
+5 × 103  
+Doble Engkel
+2 × 103  
+Engkel Box
+2,2 × 103  
+Picup
+8 × 102  
+Van
+7,2 × 102  
+Bab 1 | Bilangan Berpangkat
+43
+Tabel pada halaman sebelumnya menunjukkan jenis truk dan 
+kapasitas angkutnya.
+a. 
+Tumpukan pasir memiliki berat sekitar 6 × 104 kg. Jika semua 
+jenis truk mampu mengangkut penuh, tentukan jenis truk apa 
+yang digunakan untuk mengangkut pasir agar tidak ada pasir 
+yang tersisa?
+b. 
+Jika 
+semua 
+truk 
+mampu 
+mengangkut 
+sesuai 
+dengan 
+kapasitasnya, berapa ton pasir yang mampu diangkut dengan 
+oleh truk tronton dan truk fuso Berat jika masing-masing 
+mengangkut sebanyak 8 kali.
+c. 
+Jika Truk Tronton Wingbox mengangkut pasir sebanyak 5 kali, 
+tentukan berapa ton pasir yang mampu diangkut? Jika pasir 
+tersebut diangkut oleh truk Doble Engkel, berapa kali Doble 
+Engkel mampu mengangkut pasir tersebut sampai habis?
+d. 
+Jika semua jenis truk mengangkut pasir sebanyak 3 kali, 
+tentukan berapa ton pasir yang mampu diangkut?
+3. 
+Seorang guru bidang Kesiswaan ingin mengirim pengumuman 
+yang penting dan cepat kepada semua siswa di sekolahnya. Dia 
+mulai mengirim pengumuman pesan berantai WA kepada 5 siswa, 
+selanjutnya 5 siswa tadi mengirim pengumuman pesan berantai 
+kepada 5 siswa yang lainnya, demikian seterusnya. Waktu yang 
+diperlukan untuk mengirim pesan berantai WA kepada 5 siswa 
+adalah 15 detik. 
+a. 
+Berapa siswa yang sudah menerima pengumuman lewat WA 
+dalam waktu 1 menit?
+b. 
+Berapa waktu minimal yang dibutuhkan agar pengumuman 
+lewat pesan WA tersebut sudah diterima 3000 siswa?
+c. 
+Ahmad beranggapan bahwa pesan berantai kepada 5 siswa 
+dalam waktu 15 detik lebih cepat daripada pesan berantai 
+kepada 3 siswa dalam waktu 10 detik dalam waktu satu menit? 
+Jelaskan.
+Matematika untuk SMP/MTs Kelas VIII
+44
+4. 
+Menurut para ahli Astronomi gaya gravitasi planet berbeda-beda 
+seperti pada tabel berikut.
+Planet
+Gaya Gravitasi
+Merkuri 
+0,38
+Venus
+0,91
+Bumi 
+1,00
+Mars 
+0,38
+Jupiter 
+2,34
+Saturnus 
+1,06
+Uranus 
+0,92
+Neptunus 
+1,19
+Pluto 
+0,06
+Sumber https://www.kompas.com/sains/read
+a. 
+Jika kalian memiliki berat 68 kg, maka berat tubuh kalian akan 
+menjadi 159 kg di planet Jupiter, di Mars kalian akan memiliki 
+berat 26 kg. Tentukan bagaimana cara menentukan berat 
+badan di di planet lain?
+b. 
+Jika Arman berat badan di Bumi 58 kg, berapa berat badan 
+Arman di planet Venus? 
+c. 
+Coba selidiki mana yang antara 60 kg di venus  dengan 50 kg 
+di Saturnus?

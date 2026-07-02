@@ -1,0 +1,1306 @@
+89
+Bab IV  Hidrokarbon
+Bab
+IV
+Hidrokarbon
+Setelah mempelajari bab ini, kalian dapat memahami tentang kekhasan atom 
+karbon, klasiikasi hidrokarbon, alkana, alkena, alkuna, dan hidrokarbon 
+aromatik, serta dampak penggunaan bahan bakar hidrokarbon melalui 
+berbagai aktivitas.
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XI
+Penulis 
+: Munasprianto Ramli, dkk.
+ISBN 
+: 978-602-427-923-3 (jil.1)
+90
+Kimia untuk SMA/MA Kelas XI
+Mind Map
+Komik Kimia
+91
+Bab IV  Hidrokarbon
+Tahukah kalian apa saja jenis bahan bakar yang sering digunakan? Ibu kalian 
+atau kalian sendiri menggunakan gas elpiji untuk memasak. Alat transportasi 
+yang kita gunakan seperti motor dan mobil menggunakan bensin, kereta api 
+menggunakan batu bara atau diesel, dan pesawat menggunakan avtur sebagai 
+bahan bakar. Bahan bakar sudah menjadi kebutuhan pokok untuk kehidupan 
+manusia saat ini. Tahukah kalian bahwa semua bahan bakar tersebut tergolong 
+jenis hidrokarbon? 
+Aktivitas 4.1
+Untuk mengetahui bahan bakar yang paling banyak 
+digunakan oleh manusia, silakan kalian baca artikel 
+dengan memindai QR-code di samping.
+Gambar 4.1 Berbagai bahan bakar yang sering digunakan
+https://www.kompas.com/skola/
+read/2022/02/26/160538369/
+bahan-bakar-fosil-yang-paling-
+banyak-di-dunia
+92
+Kimia untuk SMA/MA Kelas XI
+Pada bab ini kalian akan belajar mengenai hidrokarbon melalui berbagai 
+cara dan aktivitas. Mari ikuti pembelajarannya dengan hati yang terbuka dan 
+riang gembira.
+A. Kekhasan Atom Karbon
+Pada bab sebelumnya kalian telah mempelajari konigurasi elektron dan letak 
+unsur pada tabel periodik unsur. Karbon dengan nomor atom 6 memiliki 
+konigurasi elektron 2 4 atau 1s2 2s2 2p2. Karbon terletak pada golongan IVA 
+(golongan 14) dan periode 2 dalam tabel periodik unsur. Karbon merupakan 
+unsur yang sangat dekat dengan kita karena dalam setiap makhluk hidup pasti 
+mengandung unsur karbon. Untuk membuktikan hal tersebut, mari lakukan 
+aktivitas berikut.
+Aktivitas 4.2
+Lakukan salah satu atau beberapa kegiatan berikut ini dan pastikan dalam 
+kondisi aman.
+1. 
+Membakar kertas
+2. 
+Membakar sampah plastik
+3. 
+Membakar sate
+4. 
+Membakar kayu 
+Dari sejumlah aktivitas pembakaran yang telah kalian lakukan, apakah ada 
+sisa pembakarannya? Bagaimana wujud dan warna sisa pembakaran tersebut? 
+Apabila kalian perhatikan, sisa pembakaran benda-benda tersebut ter-
+dapat padatan berwarna hitam. Padatan tersebut kita sebut arang. Tahukah 
+kalian zat apa yang terkandung di dalam arang? Zat yang tersusun dalam 
+arang adalah karbon.
+Unsur 
+karbon 
+memiliki 
+beberapa 
+kekhasan 
+yang 
+menyebabkan 
+senyawanya sangat melimpah dan beragam di alam. Kekhasan tersebut 
+berkaitan dengan sifat dari unsur karbon. Berikut ini adalah kekhasan atom 
+karbon yang perlu kalian ketahui. 
+93
+Bab IV  Hidrokarbon
+1. Membentuk empat ikatan kovalen
+Atom karbon memiliki empat elektron valensi. Untuk mencapai kestabilan, 
+keempat elektron valensi tersebut dapat membentuk empat ikatan kovalen 
+yang kuat dengan atom nonlogam lainnya. Kuatnya ikatan kovalen ini terjadi 
+akibat ukuran atom karbon yang kecil. Salah satu contoh senyawa kovalen 
+tersebut adalah satu atom karbon berikatan dengan empat atom hidrogen 
+membentuk molekul metana, CH4. 
+1 atom 
+karbon
+4 atom 
+hidrogen
+1 molekul 
+metana
++
+Untuk menunjukkan struktur senyawa karbon, ada beberapa cara representasi. 
+Sebagai contoh untuk senyawa metana, penulisan dan penggambaran 
+strukturnya disajikan pada gambar berikut.
+Gambar 4.2 Berbagai representasi struktur metana 
+2. Membentuk rantai karbon
+Selain dapat membentuk ikatan kovalen dengan atom lain, atom karbon 
+juga dapat berikatan kovalen yang kuat dengan sesama atom karbon 
+membentuk rantai karbon. Banyaknya senyawa karbon di alam terjadi karena 
+terbentuknya rantai karbon ini. Dalam satu golongan IVA, atom karbon dapat 
+menyusun rantai yang sangat panjang, sedangkan untuk atom silikon rantai 
+terpanjangnya adalah delapan atom, lima atom untuk germanium, dua atom 
+untuk timah, dan satu atom untuk timbal.
+Ikatan kovalen yang terbentuk antaratom karbon dapat berupa ikatan 
+tunggal, ikatan rangkap dua, dan ikatan rangkap tiga. 
+94
+Kimia untuk SMA/MA Kelas XI
+etana
+etena
+etuna
+Selain membentuk rantai lurus, sesama atom karbon juga dapat membentuk 
+rantai yang bercabang dan siklis. 
+butana
+2-metilpropana
+siklobutana
+sikloheksana
+Dengan adanya rantai karbon, atom karbon dapat dibagi menjadi empat 
+jenis sesuai dengan posisinya dalam rantai. Jenis atom karbon tersebut adalah:
+a. 
+Atom karbon primer (1°), yaitu atom karbon yang mengikat satu atom 
+karbon lainnya.
+b. 
+Atom karbon sekunder (2°), yaitu atom karbon yang mengikat dua atom 
+karbon lainnya.
+c. 
+Atom karbon tersier (3°), yaitu atom karbon yang mengikat tiga atom 
+karbon lainnya.
+d. 
+Atom karbon kuartener (4°), atom karbon yang mengikat empat atom 
+karbon lainnya.
+95
+Bab IV  Hidrokarbon
+Contoh
+Neoheksana merupakan salah satu senyawa yang berfungsi sebagai zat aditif 
+pada bahan bakar. Senyawa ini juga digunakan dalam beberapa produk lem 
+dan semir. Struktur neoheksana ditunjukkan pada gambar berikut.
+Tentukanlah jumlah atom karbon primer, sekunder, dan tersier pada struktur 
+neoheksana tersebut!
+Penyelesaian:
+Beri tanda pada atom karbon dengan angka-angka yang melambangkan 
+masing-masing jenis atom karbon seperti berikut ini.
+Dengan melihat struktur di atas maka jumlah atom karbon primer ada 4, 
+karbon sekunder ada 1, dan karbon kuartener ada 1. Pada struktur tersebut 
+tidak ada atom karbon tersier.
+Aktivitas 4.3
+Diskusikanlah dengan teman kalian apakah atom C dalam CH4 termasuk ke 
+dalam jenis atom C primer, sekunder, atau tersier?
+96
+Kimia untuk SMA/MA Kelas XI
+Ikatan antara atom karbon dengan hidrogen tidak selalu ditunjukkan 
+dalam bentuk garis. Ada beberapa cara penggambaran struktur rantai karbon, 
+yaitu struktur terurai, termampatkan, dan struktur garis. Pada struktur garis, 
+penulisan atom C dan H ada yang lengkap, sebagian, dan ada yang tidak 
+dituliskan. Akan tetapi, kalian harus tetap mengingat bahwa setiap atom 
+karbon memiliki total empat ikatan dan sisa ikatan yang tidak tergambarkan 
+adalah ikatan karbon dengan hidrogen. Oleh karena itu, atom karbon di ujung 
+akan selalu mewakili 
+CH3 untuk ikatan jenuh. 
+Untuk melihat berbagai cara penulisan struktur rantai karbon, perhatikan 
+penulisan struktur 3-metilpentana pada gambar di bawah ini.
+struktur terurai
+CH3CH2CH(CH3)CH2CH3 
+atau 
+C2H5CH(CH3)C2H5
+struktur termampatkan
+struktur garis
+struktur garis
+struktur garis
+Gambar 4.3 Beberapa cara penulisan struktur senyawa 3-metilpentana
+Ayo Berlatih
+Kerjakan soal-soal berikut ini! 
+1. 
+Jelaskan apa saja kekhasan atom karbon!
+2. 
+Tuliskan struktur senyawa berikut dalam struktur termampatkan dan 
+struktur garis!
+97
+Bab IV  Hidrokarbon
+H3C
+CH3
+CH3
+CH3
+H3C
+CH3
+3. 
+Tentukan jumlah atom karbon primer, sekunder, dan tersier dari 
+struktur berikut ini!
+H3C
+H3C
+CH3
+CH3
+CH3
+CH3 H3C
+4. 
+Gambarkan struktur rantai karbon yang memiliki 1 atom karbon 
+kuartener, 1 atom karbon tersier, 2 atom karbon sekunder, dan 5 atom 
+karbon primer!
+5. 
+Gambar ulang struktur-struktur berikut!
+CH3
+C
+C
+C
+H
+H
+H3C
+CH3
+H
+CH3
+CH3
+         
+H2C
+CH2
+CH2
+H2C
+Tentukan jumlah atom C primer, sekunder, tersier, dan kuartener 
+pada struktur yang telah kalian gambar. Beri label dengan 1° untuk 
+primer, 2° untuk sekunder, dan seterusnya!
+B. Klasiikasi Hidrokarbon
+Senyawa karbon yang paling sederhana adalah hidrokarbon, yaitu senyawa 
+yang terdiri atas atom hidrogen dan karbon saja. Meskipun hanya terdiri atas 
+dua jenis atom, hidrokarbon di alam sangat beragam. Selain bahan bakar 
+yang telah disebutkan pada awal bab ini, contoh hidrokarbon lainnya adalah 
+asetilena (gas karbit), lilin, styrofoam, karet alam, dan berbagai plastik.
+ 
+98
+Kimia untuk SMA/MA Kelas XI
+Gambar 4.4 Berbagai produk berbahan hidrokarbon
+Aktivitas 4.4
+Bagaimana cara membuktikan adanya unsur karbon dan hidrogen dalam 
+suatu senyawa? Coba kalian lakukan aktivitas berikut ini.
+1. 
+Rangkailah alat seperti gambar di 
+samping. Gunakan bahan-bahan yang 
+tidak terpakai atau beli yang paling 
+murah.
+2. 
+Lakukan percobaan ini dan amati 
+perubahan yang terjadi.
+3. 
+Tuliskan persamaan reaksi yang terjadi.
+4. 
+Apa yang dapat kalian simpulkan dari 
+percobaan ini?
+Hidrokarbon dapat digolongkan menjadi hidrokarbon alifatik dan 
+hidrokarbon aromatik. Hidrokarbon alifatik adalah senyawa hidrokarbon 
+rantai terbuka (asiklik) maupun rantai tertutup (siklik) yang tidak memenuhi 
+aturan aromatisitas, sedangkan hidrokarbon aromatik adalah senyawa karbon 
+yang memenuhi aturan aromatisitas (akan dibahas di bagian berikutnya). 
+99
+Bab IV  Hidrokarbon
+Selain itu, senyawa hidrokarbon juga dapat dikelompokkan berdasarkan 
+jenis ikatan yang terbentuk antaratom karbon, yaitu hidrokarbon jenuh dan 
+tidak jenuh. Senyawa hidrokarbon jenuh terdiri atas alkana dan sikloalkana, 
+sedangkan senyawa hidrokarbon tidak jenuh terdiri atas alkena, alkuna, 
+sikloalkena, dan sikloalkuna.
+C. Alkana
+Pada hidrokarbon alifatik jenuh, atom karbon dapat mengikat atom hidrogen 
+secara maksimal. Senyawa yang tergolong alifatik jenuh adalah alkana dan 
+sikloalkana.
+1. Struktur alkana
+Alkana hanya memiliki ikatan tunggal antaratom karbonnya. Sisa ikatan yang 
+tidak digunakan dengan atom karbon lain akan diisi oleh atom hidrogen. Tabel 
+3.1 berikut ini menunjukkan sepuluh senyawa pertama senyawa alkana.
+Tabel 3.1  Sepuluh senyawa alkana paling sederhana
+Rumus 
+molekul
+Nama 
+Massa molekul 
+(g.mol–1)
+Titik didih 
+(°C)
+Jumlah 
+struktur
+CH4 
+Metana 
+16
+–162
+1
+C2H6 
+Etana 
+30
+–89
+1
+C3H8 
+Propana 
+44
+–42
+1
+C4H10 
+Butana
+58
+0
+2
+C5H12 
+Pentana
+72
+36
+3
+C6H14 
+Heksana
+86
+68
+5
+C7H16 
+Heptana
+100
+98
+9
+C8H18 
+Oktana
+114
+126
+18
+C9H20 
+Nonana
+128
+151
+35
+C10H22 
+Dekana
+142
+174
+75
+Pada Tabel 3.1 dapat dilihat bahwa rumus molekul dari dua senyawa yang 
+berurutan memiliki selisih 
+CH2
+ (metilen). Dengan selisih yang sama, 
+deret tersebut dinamakan deret homolog. Jika kalian perhatikan dengan 
+teliti, perbandingan jumlah atom C dan H dalam alkana sama dengan n : 2n+2. 
+Oleh karena itu, alkana dapat dinyatakan dengan suatu rumus umum CnH2n+2. 
+100
+Kimia untuk SMA/MA Kelas XI
+Struktur alkana juga dapat ditulis sebagai R
+H, di mana R adalah gugus alkil. 
+Penamaan dan struktur alkil dapat dilihat pada Tabel 3.2.
+Tabel 3.2 Struktur dan tata nama alkil yang paling umum
+Jumlah 
+karbon
+Rumus 
+molekul
+Struktur
+Nama
+1
+CH3
+   
+CH3
+metil
+2
+C2H5
+   
+CH3
+CH2
+etil 
+3
+C3H7
+   
+CH3
+CH2
+CH2
+propil 
+CH3
+CH
+ 
+ 
+ 
+CH3
+isopropil 
+4
+C4H9
+   
+CH3
+CH2
+CH2
+CH2
+n-butil
+CH3
+CH
+CH2
+ 
+ 
+ 
+CH3
+isobutil 
+CH3
+CH2
+CH
+ 
+ 
+ 
+CH3
+sekunder 
+butil (sek-
+butil)
+ 
+CH3
+ 
+ 
+CH3
+C
+ 
+ 
+ 
+CH3
+tersier butil 
+(ters-butil)
+Ingat kembali bahwa atom karbon dapat membentuk rantai bercabang, 
+maka baik alkana maupun alkil dapat memiliki berbagai variasi penulisan 
+struktur yang disebut sebagai isomer. Pembahasan mengenai isomer akan 
+dilakukan setelah pembahasan tata nama alkana.
+2. Tata nama alkana
+Untuk menyeragamkan penyebutan nama hidrokarbon di seluruh dunia, 
+maka IUPAC memberikan panduan tata nama untuk alkana dan hidrokarbon 
+lainnya.
+Semua nama alkana mempunyai akhiran “-ana”. Alkana rantai lurus 
+diberi nama sesuai dengan jumlah atom karbonnya sebagaimana tercantum 
+dalam Tabel 3.1. Untuk alkana dengan jumlah atom karbon empat atau lebih, 
+101
+Bab IV  Hidrokarbon
+nama untuk rantai lurusnya ditambahkan huruf “n-” (normal) di depan nama 
+alkananya, seperti n-butana dan n-pentana berikut ini.
+CH3
+CH2
+CH2
+CH3  
+n-butana
+CH3
+CH2
+CH2
+CH2
+CH3  
+n-pentana
+Alkana rantai tertutup (siklis) diberi nama menurut banyaknya atom 
+karbon dalam cincin dengan penambahan awalan “siklo-”. Jumlah karbon 
+terkecil yang dapat membentuk cincin adalah tiga buah dan memiliki nama 
+siklopropana. Contoh sikloalkana lainnya adalah siklopentana dengan lima 
+atom karbon dan sikloheksana yang memiliki enam atom karbon seperti 
+berikut ini.
+siklopentana
+sikloheksana
+Jika alkana memiliki rantai bercabang maka penamaannya mengikuti 
+aturan berikut.
+a. 
+Menentukan rantai utama, yaitu rantai karbon yang paling panjang dan 
+diberi nama alkana sesuai jumlah atom karbonnya.
+b. 
+Menentukan cabang, yaitu gugus-gugus yang terikat pada rantai utama 
+dan diberi nama alkil.
+c. 
+Rantai utama diberi nomor dari ujung yang terdekat dengan cabang.
+d. 
+Jika ada beberapa cabang yang sejenis maka jumlah cabang dinyatakan 
+sebagai awalan: di- (2), tri- (3), tetra- (4), dan seterusnya.
+e. 
+Jika ada beberapa jenis cabang maka nama cabang dituliskan sesuai 
+urutan alfabet. Misalnya, etil disebutkan sebelum metil.
+f. 
+Jika ada beberapa pilihan rantai utama maka rantai utama dipilih yang 
+mengikat cabang terbanyak.
+g. 
+Penyusunan nama alkana ditulis dengan urutan: posisi cabang + nama 
+cabang + nama rantai utama.
+h. 
+Untuk memisahkan angka dengan angka, digunakan tanda koma (,), 
+sedangkan untuk memisahkan angka dengan huruf digunakan tanda 
+hubung (-).
+102
+Kimia untuk SMA/MA Kelas XI
+Contoh
+Berilah nama untuk senyawa-senyawa dengan struktur berikut ini!
+a. 
+C
+CH3
+H3C
+H
+C
+H
+H
+CH3 
+c. 
+H3C
+H3C
+CH3
+H3C
+CH3
+b. 
+CH3CH2CH(CH3)C(CH3)3
+ 
+ 
+d. 
+Penyelesaian:
+a. 
+1           2             3               4
+cabang
+metil
+rantai utama
+C
+CH3
+H3C
+H
+C
+H
+H
+CH3
+ 
+c. 
+H3C
+H3C
+CH3
+H3C
+CH3
+2            1
+4          3
+6            5
+cabang
+metil
+cabang
+etil
+cabang
+metil
+ 
+            2-metilbutana
+ 
+ 
+ 
+         4-etil-2,3-dimetilheksana
+b. 
+5            4         3             2               1
+cabang
+metil
+rantai utama
+H2
+C
+H3C
+C
+H
+CH3
+C
+CH3
+CH3
+CH3
+cabang
+metil
+ d. 
+1
+2        3             4
+5          6
+cabang
+etil
+cabang
+metil
+                2,2,3-trimetilpentana
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3,4-dietil-2,3,5-trimetilheksana
+103
+Bab IV  Hidrokarbon
+Ayo Berlatih
+Kerjakan soal-soal berikut ini! 
+1. 
+Beri nama senyawa-senyawa berikut ini sesuai aturan IUPAC!
+a. 
+H3C
+H
+C
+H
+C
+CH3
+CH3
+CH2
+CH3
+ 
+d. 
+H3C
+CH3
+CH3
+CH3
+CH3
+CH3
+b. 
+H3C
+H2
+C
+H
+C
+H2
+C
+CH3
+CH
+CH3
+H3C
+ 
+e. 
+c. 
+(CH3)3CCH2CH(CH3)2  
+2. 
+Gambarlah struktur yang sesuai untuk nama-nama senyawa berikut 
+ini!
+a. 
+2-metilpropana
+b. 
+2,3-dimetilbutana
+c. 
+3-etil-2,4-dimetilpentana
+d. 
+4-etil-2,2,3-trimetilheksana
+e. 
+4-isopropil-2,6-dimetilheptana
+3. 
+Periksalah nama berikut ini, apakah sudah sesuai aturan IUPAC? Jika 
+tidak, tulis nama yang sesuai untuk senyawa tersebut! 
+a. 
+3-metilbutana
+b. 
+2-etilbutana
+c. 
+3,4-dimetilpentana
+d. 
+2-metil-3-etilpentana
+e. 
+3-isopropilheksana
+104
+Kimia untuk SMA/MA Kelas XI
+D. Alkena dan Alkuna
+Alkena dan alkuna merupakan contoh senyawa alifatik tidak jenuh karena 
+memiliki ikatan rangkap antaratom karbon dalam senyawanya. Alkena 
+memiliki ikatan rangkap dua, sedangkan alkuna memiliki ikatan rangkap tiga. 
+Jumlah atom karbon pada alkena dan alkuna minimal dua. Rumus umum 
+alkena adalah CnH2n, sedangkan alkuna CnH2n–2. Tabel 3.3 berikut menunjukkan 
+senyawa alkena dan alkuna sederhana.
+Tabel 3.3  Senyawa alkena dan alkuna sederhana
+Rumus alkena
+Nama alkena
+Rumus alkuna
+Nama alkuna
+C2H4 
+Etena
+C2H2 
+Etuna
+C3H6 
+Propena
+C3H4 
+Propuna
+C4H8
+Butena
+C4H6 
+Butuna
+C5H10 
+Pentena
+C5H8 
+Pentuna
+C6H12 
+Heksena
+C6H10 
+Heksuna
+C7H14 
+Heptena
+C7H12 
+Heptuna
+C8H16 
+Oktena
+C8H14 
+Oktuna
+C9H10 
+Nonena
+C9H16 
+Nonuna
+C10H20 
+Dekena
+C10H18 
+Dekuna
+Penamaan alkena dan alkuna mirip dengan penamaan alkana. Semua 
+nama alkena diberi akhiran “-ena”, sedangkan alkuna diberi akhiran “-una”. 
+Beberapa hal penting yang berbeda dari alkana yang harus diperhatikan 
+adalah pada poin-poin berikut ini.
+1. 
+Menentukan rantai utama, yaitu rantai karbon yang paling panjang dan 
+wajib mengandung ikatan rangkap. Rantai utama diberi nama alkena 
+untuk rangkap dua dan alkuna untuk rangkap tiga.
+2. 
+Menentukan cabang, yaitu gugus-gugus yang terikat pada rantai utama 
+dan diberi nama alkil.
+3. 
+Rantai utama diberi nomor dari ujung yang terdekat dengan ikatan 
+rangkap.
+Tahapan tata nama berikutnya sama seperti pada alkana. Untuk alkena 
+dan alkuna, ada beberapa senyawa yang sudah memiliki nama populer atau 
+nama dagang. Nama ini disebut dengan nama trivial, misalnya C2H4 diberi 
+nama etilena, sedangkan C2H2 diberi nama asetilena.
+105
+Bab IV  Hidrokarbon
+Contoh
+Berikan nama untuk senyawa-senyawa berikut ini!
+H3C
+C
+C
+C
+H
+CH3
+CH3
+H3C
+C
+CH3
+CH3
+CH
+CH2
+Penyelesaian:
+Dengan menggunakan langkah-langkah penamaan alkena dan alkuna, maka 
+nama dari senyawa-senyawa di atas adalah sebagai berikut
+H3C
+C
+CH3
+CH3
+CH
+CH2
+4          3
+          
+           2               
+           1 
+cabang
+metil
+rantai utama
+cabang
+metil
+H3C
+C
+C
+C
+H
+CH3
+CH3
+1            2            3               4        5
+rantai utama
+     3,3-dimetil-1-butena 
+ 
+      4-metil-2-pentuna
+Ayo Berlatih
+Kerjakan soal-soal berikut ini! 
+1. 
+Beri nama IUPAC yang tepat untuk senyawa-senyawa berikut ini!
+a. 
+H2C
+C
+H
+H
+C
+CH3
+CH3
+106
+Kimia untuk SMA/MA Kelas XI
+b. 
+CH
+C
+C
+CH3
+H3C
+H3C
+c. 
+CH3C(CH3)CHCH(CH3)2 
+d. 
+CH3CCC(CH3)3
+e. 
+2. 
+Gambarkan struktur dari nama-nama senyawa berikut ini!
+a. 
+2-metil-2-butena
+b. 
+3,4-dimetil-1-pentuna
+c. 
+2-etil-1-butena
+d. 
+propilena
+e. 
+metilasetilena 
+3. 
+Tentukan apakah nama senyawa-senyawa berikut sudah sesuai aturan 
+IUPAC? Jika belum, tentukan nama yang sesuai! 
+a. 
+2-metil-1-butena
+b. 
+2-metil-3-butuna
+c. 
+2,3-dimetil-4-pentuna
+d. 
+2-etil-2-butena
+e. 
+3-etil-4-metil-3-pentena
+E. Hidrokarbon Aromatik
+Hidrokarbon aromatik adalah hidrokarbon siklis yang memiiki ikatan rangkap 
+dua berselang-seling dan memenuhi aturan Huckel. Hidrokarbon yang paling 
+umum dari golongan ini adalah benzena dengan rumus C6H6. Berbagai cara 
+penggambaran benzena dapat dilihat pada Gambar 4.5. Pembahasan lebih 
+rinci mengenai hidrokarbon aromatik akan dipelajari di kelas XII.
+107
+Bab IV  Hidrokarbon
+Struktur Kekulé
+(bentuk resonansi)
+Cincin benzena
+(gambar disederhanakan)
+Gambar 4.5 Variasi penggambaran benzena 
+F. Sifat Fisis dan Kimia Hidrokarbon
+Sifat hidrokarbon meliputi sifat isis dan sifat kimia.
+1. Sifat isis 
+Sifat isis hidrokarbon yang mudah untuk dibandingkan adalah wujud zat 
+pada suhu ruang, titik didih, dan titik leleh. Beberapa ketentuan sifat isis pada 
+hidrokarbon adalah sebagai berikut.
+a. 
+Semakin panjang rantai utama, massa molekul (Mr) semakin besar, dan 
+gaya antarmolekul semakin kuat, maka semakin tinggi titik leleh dan titik 
+didih hidrokarbon, semakin menuju ke wujud padat. 
+b. 
+Semakin banyak ikatan rangkap, titik leleh dan titik didih hidrokarbon 
+dengan jumlah atom C yang sama akan semakin tinggi. Hal ini dikarenakan 
+gaya antarmolekul antarikatan rangkap lebih kuat daripada antarikatan 
+tunggal.
+c. 
+Senyawa hidrokarbon rantai lurus memiliki titik didih lebih tinggi 
+dibandingkan dengan hidrokarbon rantai bercabang. Hal ini disebabkan 
+oleh gaya van der Waals yang lebih kuat pada senyawa hidrokarbon rantai 
+lurus.
+2. Sifat kimia 
+Sifat kimia pada senyawa hidrokarbon dapat diamati dari reaksi-reaksi kimia 
+berikut ini.
+a. 
+Reaksi oksidasi/pembakaran
+Reaksi oksidasi adalah reaksi antara senyawa hidrokarbon dengan 
+oksigen.
+108
+Kimia untuk SMA/MA Kelas XI
+1) 
+Pembakaran sempurna, terjadi ketika ketersediaan oksigen cukup. 
+Hasil reaksinya adalah karbon dioksida dan uap air.
+CxHy + O2 
+ CO2 + H2O
+2) 
+Pembakaran tidak sempurna, terjadi ketika ketersediaan oksigen 
+kurang. Hasil reaksinya dapat berupa campuran antara karbon, 
+karbon monoksida, karbon dioksida dan uap air.
+CxHy + O2 
+ C + CO + CO2 + H2O
+b. Reaksi substitusi 
+Reaksi substitusi adalah reaksi penggantian atom hidrogen dengan atom 
+lain pada alkana.
+Contoh:
+CH4 + Cl2 
+ CH3Cl + HCl
+atau
+diganti
+c. 
+Reaksi adisi
+Reaksi adisi adalah reaksi penambahan gugus pada ikatan rangkap dengan 
+cara memutuskan ikatan rangkap pada alkena dan alkuna. Terdapat 
+beberapa jenis reaksi adisi, yaitu:
+1) 
+Adisi atom hidrogen/hidrogenasi
+CH2
+CH2 + H2 
+ CH3
+CH3 
+2) 
+Adisi atom halogen/halogenasi
+CH2
+CH2 + Cl2 
+ ClCH2
+CH2Cl
+3) 
+Adisi asam halida 
+Adisi jenis ini harus memenuhi kaidah Markovnikov, yaitu atom 
+hidrogen dari asam halida akan terikat pada atom C yang mengikat 
+atom hidrogen lebih banyak.
+CH3
+CH
+CH2 + HCl 
+ CH3
+CHCl
+CH3 
+ 
+(bukan CH3
+CH2
+CH2Cl)
+Akan tetapi, apabila reaksi tersebut menggunakan sinar UV atau 
+katalis H2O2 maka akan berlaku aturan anti-markovnikov, yaitu atom 
+hidrogen akan terikat pada atom C yang memiliki lebih sedikit atom 
+hidrogen.
+CH3
+CH
+CH2 + HCl 
+UV
+ CH3
+CH2
+CH2Cl
+109
+Bab IV  Hidrokarbon
+Kedua aturan tersebut, baik Markovnikov maupun anti-Markovnikov, 
+menghasilkan senyawa yang lebih stabil disesuaikan dengan kondisi 
+saat bereaksi. Aturan Markovnikov menekankan pada karbokation 
+yang lebih stabil, sedangkan aturan anti-Markovnikov menekankan 
+pada radikal yang lebih stabil. Hal ini dapat dijelaskan melalui 
+mekanisme reaksi pada tautan berikut.
+https://chem.libretexts.
+org/Bookshelves/Organic_
+Chemistry/Supplemental_
+Modules_(Organic_Chemistry)/
+Alkenes/Reactivity_of_Alkenes/
+Free_Radical_Reactions_of_
+Alkenes/Radical_Additions%3A_
+Anti-Markovnikov_Product_
+Formation
+https://chem.libretexts.
+org/Bookshelves/Organic_
+Chemistry/Supplemental_
+Modules_(Organic_Chemistry)/
+Alkenes/Reactivity_of_Alkenes/
+Electrophilic_Addition_of_
+Hydrogen_Halides
+d. Reaksi eliminasi
+Reaksi eliminasi adalah reaksi pengurangan/eliminasi gugus atau 
+substituen tertentu dari hidrokarbon sehingga terbentuk ikatan rangkap. 
+Reaksi eliminasi biasanya ditandai dengan terlepasnya molekul kecil 
+seperti air, amonia, HCl, atau HBr.
+ 
+Br
+ 
+ 
+CH3
+CH
+CH3 + OH– 
+ CH3
+CH
+CH2 + H2O + Br–
+    bromopropana  
+  propena
+Beberapa contoh reaksi eliminasi lain adalah reaksi dehidrasi pada 
+alkohol.
+H2C
+CH2 
+ H2C
+CH2 + H2O 
+       
+  
+                  etena
+     H 
+OH
+      etanol
+110
+Kimia untuk SMA/MA Kelas XI
+Ayo Berlatih
+Kerjakan soal-soal berikut ini! 
+1. 
+Tentukan jenis reaksi yang tepat untuk masing-masing reaksi berikut!
+a. 
+C2H2 + H2O 
+ C2H4O
+b. 
+C8H18 + 12,5O2 
+ 8CO2 + 9H2O
+c. 
+CH3CH2CH2OH 
+ CH3CHCH2 + H2O
+d. 
+CH3CH2OH + HCl 
+ CH3CH2Cl + H2O 
+2. 
+Tuliskan persamaan reaksi yang sesuai untuk pembakaran sempurna:
+a. 
+metana 
+d. 
+heksena
+b. 
+propana 
+e. 
+benzena
+c. 
+asetilena
+3. 
+Tentukan produk utama dari reaksi-reaksi berikut!
+a. 
+1-butena dengan HCl
+b. 
+1-pentena dengan HBr menggunakan katalis H2O2 
+c. 
+3-metil-1-butena dengan HCl
+G. Isomer pada Hidrokarbon
+Perhatikan rumus struktur dua senyawa alkana di bawah ini.
+CH3
+CH2
+CH2
+CH3  
+n-butana
+CH3
+CH
+CH3  
+2-metil propana
+     
+    CH3
+Dari dua senyawa tersebut, nama dan rumus strukturnya berbeda, tetapi 
+keduanya memiliki rumus molekul yang sama, yaitu C4H10. Kedua senyawa 
+tersebut memiliki hubungan yang disebut isomer. Dengan demikian, isomer 
+dapat dinyatakan sebagai dua senyawa atau lebih yang memiliki rumus kimia 
+yang sama, tetapi struktur atau penataan ruangnya berbeda.
+Isomer pada hidrokarbon dapat dibedakan menjadi dua jenis isomer 
+utama, yaitu isomer struktur dan isomer ruang.
+111
+Bab IV  Hidrokarbon
+1. Isomer struktur
+Dua senyawa atau lebih dengan rumus molekul sama, tetapi strukturnya 
+berbeda disebut isomer struktur. Isomer struktur dapat dibedakan kembali 
+menjadi isomer rantai/rangka, isomer posisi, dan isomer gugus fungsi.
+a. 
+Isomer rantai/rangka
+Apabila dua senyawa atau lebih dengan rumus molekul sama, tetapi 
+penulisan rantainya berbeda, senyawa ini disebut sebagai pasangan 
+isomer rantai. Contohnya pentana, 2-metilbutana, dan 2,2-dimetilpropana.
+b. Isomer posisi
+Apabila dua senyawa atau lebih dengan rumus molekul sama, tetapi posisi 
+ikatan rangkapnya berbeda, senyawa-senyawa ini disebut dengan isomer 
+posisi. Contohnya 1-butena dengan 2-butena.
+c. 
+Isomer gugus fungsi
+Isomer ini terjadi jika dua senyawa atau lebih memiliki rumus molekul 
+sama, tetapi dengan gugus fungsi yang berbeda. Pasangan senyawa 
+hidrokarbon yang merupakan isomer gugus fungsi adalah alkena dengan 
+sikloalkana, alkuna dengan sikloalkena, dan alkuna dengan alkadiena. 
+Contoh senyawa yang berisomer gugus fungsi adalah 1-heksena dengan 
+sikloheksana.
+Ayo Berlatih
+Dari penjelasan isomer struktur di atas, ada beberapa nama pasangan 
+senyawa yang disebutkan, yaitu:
+1. 
+pentana, 2-metilbutana, dan 2,2-dimetilpropana
+2. 
+1-butena dan 2-butena
+3. 
+1-heksena dan sikloheksana
+Gambarlah struktur dari senyawa-senyawa tersebut!
+2. Isomer ruang
+Dua senyawa atau lebih dengan rumus molekul sama, tetapi dengan penataan 
+ruang yang berbeda, disebut dengan isomer ruang. Terdapat dua jenis isomer 
+ruang, yaitu isomer geometri dan isomer optik.
+112
+Kimia untuk SMA/MA Kelas XI
+a. 
+Isomer geometri
+Isomer geometri terjadi akibat adanya ikatan yang sulit diputar, yaitu 
+ikatan rangkap pada alkena dan ikatan pada sikloalkana. 
+Pada ikatan tunggal C
+C, rotasi antaratom karbon dapat mudah terjadi. 
+Akan tetapi, pada ikatan rangkap C
+C, rotasi atom karbon cenderung 
+terbatas karena adanya ikatan pi. Oleh karena itu, posisi gugus atau atom 
+yang terikat pada atom C ikatan rangkap tidak dapat berubah. Di sisi lain, 
+pada ikatan C
+C siklik, rotasi antaratom karbon terbatas karena saling 
+terkait satu sama lain. Kekakuan posisi pada ikatan C
+C dan C
+C siklik 
+ini disebut pula ketegangan (rigidity).
+Berdasarkan posisi gugus atau atomnya, isomer geometri dibagi menjadi 
+bentuk cis-trans dan bentuk E-Z.
+1) 
+Isomer cis dan trans
+Bentuk isomer cis terjadi ketika gugus atau atom sejenis terletak pada 
+sisi yang sama. Sebaliknya, bentuk isomer trans terjadi ketika gugus 
+atau atom sejenis terletak pada sisi berlawanan. Syarat utama isomer 
+cis-trans adalah adanya ikatan C
+C dan setiap atom C pada ikatan 
+rangkap itu mengikat gugus atau atom yang berbeda.
+Coba kalian perhatikan struktur senyawa 1-propena dan 2-butena 
+berikut ini.
+a) 
+Senyawa 1-propena (CH2
+CH
+CH3) dapat digambarkan sebagai 
+berikut.
+Atom C sebelah kiri mengikat dua atom yang sama, yaitu atom H, 
+sedangkan atom C sebelah kanan mengikat dua gugus berbeda, 
+yaitu gugus 
+CH3 dan atom H.
+b) Senyawa 2-butena (CH3
+CH
+CH
+CH3) dapat digambarkan 
+sebagai berikut.
+113
+Bab IV  Hidrokarbon
+Atom C sebelah kiri maupun kanan mengikat dua gugus yang 
+berbeda, yaitu atom H dan gugus –CH3.
+Dengan demikian, 1-propena tidak memiliki isomer cis-trans, 
+sedangkan 2-butena memiliki isomer cis-trans.
+Isomer cis-trans dari 2-butena dapat digambarkan sebagai berikut.
+cis-2-butena
+trans-2-butena
+2) 
+Isomer E-Z
+Isomer E-Z mirip dengan cis-trans. Biasanya isomer ini digunakan 
+untuk menentukan posisi gugus di sekitar ikatan rangkap yang 
+semuanya berbeda. Dasar penamaan isomer E-Z adalah Mr dari gugus 
+yang diikat. Isomer E mirip trans, sedangkan isomer Z mirip cis.
+b. Isomer optik
+Isomer optik adalah isomer yang terjadi akibat adanya atom karbon 
+asimetris atau disebut juga atom karbon khiral. Isomer optik akan dibahas 
+pada bab Gugus Fungsi dan Senyawa Karbon di kelas XII.
+H. Dampak Pembakaran Hidrokarbon
+Seperti dijelaskan pada awal bab Hidrokarbon, saat ini penggunaan bahan 
+bakar yang bersumber dari hidrokarbon sangatlah besar dan menjadi salah 
+satu kebutuhan utama bahan bakar di seluruh dunia. Penggunaan bahan 
+bakar ini tentu memiliki berbagai dampak terhadap kehidupan kita.
+Hidrokarbon menjadi bahan bakar utama saat ini diiringi oleh masifnya 
+kegiatan penambangan batu bara dan minyak bumi yang merupakan salah 
+satu penambangan terbesar dan tersebar di seluruh dunia. Akan tetapi, suatu 
+saat kedua bahan bakar ini akan habis karena sumber keduanya merupakan 
+fosil yang telah mengendap ratusan juta tahun sehingga sulit untuk diperbarui. 
+Oleh karena itu, sumber energi alternatif harus segera digunakan. 
+114
+Kimia untuk SMA/MA Kelas XI
+Pembakaran bahan bakar hidrokarbon, seperti telah dijelaskan pada 
+subbab sifat kimia senyawa hirokarbon, jika terbakar sempurna akan 
+menghasilkan karbon dioksida, uap air, dan energi. Jumlah energi yang 
+dihasilkan dari berbagai hidrokarbon akan dipelajari pada bab berikutnya, 
+yaitu termokimia. Semakin banyak pembakaran hidrokarbon, semakin 
+banyak pula karbon dioksida yang dihasilkan. Kondisi ini akan menyebabkan 
+polusi udara dan menjadi penyebab terjadinya penumpukan gas rumah kaca. 
+Pada jumlah yang alami, gas rumah kaca bermanfaat untuk menghangatkan 
+bumi, tetapi penggunaan bahan bakar fosil menyebabkan jumlah gas rumah 
+kaca jauh meningkat sehingga suhu bumi menjadi semakin panas seperti 
+terlihat pada Gambar 4.6. Peningkatan suhu bumi juga akan berakibat pada 
+mencairnya es di kedua kutub bumi yang akan menaikkan permukaan laut 
+ke daratan. Selain itu, beberapa spesies yang hidup di laut juga terpengaruh 
+akibat peningkatan suhu air laut sehingga menurunkan populasinya.
+ 
+Gambar 4.6 Perbandingan efek rumah kaca alami dan pengaruh meningkatnya produksi 
+karbon dioksida
+Dengan berbagai dampak tersebut, maka perlu dilakukan berbagai 
+tindakan nyata untuk menyelamatkan bumi kita. Salah satunya adalah 
+dengan mengurangi penggunaan bahan bakar fosil. Tindakan nyata yang 
+dapat kita lakukan diantaranya menggunakan kendaraan umum untuk jarak 
+115
+Bab IV  Hidrokarbon
+cukup jauh, menggunakan sepeda untuk beergian jarak dekat, mengurangi 
+penggunaan plastik sekali pakai, dan meminimalisasi penggunaan listrik. 
+Tindakan sederhana kita dapat menyelamatkan dunia.
+Inti Sari
+Senyawa yang paling banyak tersedia di alam adalah senyawa karbon. Hal 
+ini disebabkan oleh kekhasan dari atom karbon yang dapat membentuk 
+empat ikatan, baik dengan sesama atom karbon maupun dengan atom-
+atom lain. Senyawa karbon paling sederhana adalah hidrokarbon.
+Hidrokarbon dapat digolongkan menjadi hidrokarbon alifatik dan 
+aromatik. Hidrokarbon alifatik terbagi lagi menjadi hidrokarbon rantai 
+terbuka dan rantai tertutup. Berdasarkan kejenuhannya, hidrokarbon 
+rantai terbuka dibagi menjadi hidrokarbon jenuh, yaitu alkana, dan 
+hidrokarbon tak jenuh, yaitu alkena yang mengandung ikatan rangkap 
+dua dan alkuna yang mengandung ikatan rangkap tiga.
+Hidrokarbon memiliki tata nama resmi yang berasal dari IUPAC dan 
+juga memiliki nama umum atau trivial. Dalam penamaan hidrokarbon 
+menurut IUPAC, dasar utamanya adalah tata nama alkana. Untuk alkena 
+dan alkuna prinsip penamaannya mengikuti alkana dengan sedikit 
+penyesuaian. 
+Hidrokarbon memiliki reaksi-reaksi yang umum, yaitu reaksi adisi, 
+eliminasi, substitusi, dan pembakaran. Reaksi-reaksi ini memiliki karak-
+teristik masing-masing. Selain itu, hidrokarbon dengan jumlah atom 
+karbon tertentu dapat memiliki isomer, yaitu senyawa-senyawa dengan 
+rumus kimia sama, tetapi struktur atau tata letak ruangnya berbeda. Hal ini 
+menjadi penyebab banyaknya senyawa karbon di alam seperti disebutkan 
+di bagian awal.
+116
+Kimia untuk SMA/MA Kelas XI
+Ayo Releksi
+Setelah mempelajari materi Hidrokarbon, silakan kalian mereleksi diri. 
+Berilah ceklis (√) pada kolom Ya/Tidak untuk pernyataan di bawah ini.
+No.
+Pernyataan
+Tanggapan
+Ya
+Tidak
+1.
+Saya telah memahami kekhasan atom karbon dan ikatan 
+dalam rantai karbon.
+2.
+Saya telah memahami klasiikasi hidrokarbon, tata nama 
+senyawa alkana, alkena, dan alkuna, serta pengertian 
+hidrokarbon aromatik.
+3.
+Saya telah memahami sifat isis dan beragam reaksi 
+kimia senyawa hidrokarbon.
+4.
+Saya telah memahami isomer-isomer senyawa 
+hidrokarbon.
+5.
+Saya telah memahami dampak penggunaan bahan bakar 
+hidrokarbon.
+Menurut kalian, materi manakah yang sulit untuk dipahami dalam bab 
+Hidrokarbon? Jelaskan alasannya!
+Ayo Cek Pemahaman
+Pilihlah jawaban yang paling tepat!
+1. 
+Jumlah atom karbon primer, sekunder, tersier, dan kuartener dari 
+senyawa 2,2,3-trimetilpentana berturut-turut adalah ….
+a. 
+5, 1, 1, 1
+b. 
+5, 0, 2, 1
+c. 
+5, 1, 2, 0
+d. 
+4, 1, 2, 1
+e. 
+4, 2, 1, 1
+117
+Bab IV  Hidrokarbon
+2. 
+Berikut ini tata nama yang sesuai dengan IUPAC adalah ….
+a. 
+2-etilbutana 
+d. 
+2-etil-2-butena
+b. 
+2-etil-1-butena 
+e. 
+2-metil-3-butena
+c. 
+2-etilpentana
+3. 
+Berikut ini nama senyawa yang bukan merupakan isomer dari heptana 
+adalah ….
+a. 
+2,2,3,3-tetrametilpropana 
+d. 
+2,3-dimetilpentana
+b. 
+2,2,3-trimetilbutana 
+e. 
+3-metilheksana
+c. 
+2,2-dimetilpentana
+4. 
+Hasil reaksi yang dominan antara HCl dengan 1-pentena adalah ….
+a. 
+2-kloropentana
+b. 
+1-kloropentana
+c. 
+3-kloropentana
+d. 
+2-metil-2-klorobutana
+e. 
+2-kloro-3-metilbutana
+5. 
+Perhatikan reaksi-reaksi senyawa hidrokarbon berikut.
+1) 
+H2C
+CH2 + H2 
+ H3C
+CH3
+2) 
+CH4 + Cl2 
+ CH3Cl + HCl
+3) 
+H3C
+CH3 
+ H2C
+CH2 + H2
+4) 
+CH4 + 2O2 
+ CO2 + 2H2O
+Urutan jenis reaksi yang benar dari reaksi-reaksi tersebut adalah ….
+a. 
+eliminasi, substitusi, adisi, pembakaran
+b. 
+eliminasi, adisi, substitusi, pembakaran
+c. 
+adisi, eliminasi, substitusi, pembakaran
+d. 
+adisi, substitusi, eliminasi, oksidasi
+e. 
+adisi, substitusi, eliminasi, substitusi
+Jawablah pertanyaan di bawah ini dengan tepat!
+1. 
+Tentukan nama IUPAC yang sesuai untuk struktur berikut!
+a. 
+ 
+b. 
+118
+Kimia untuk SMA/MA Kelas XI
+c. 
+2. 
+Tuliskan persamaan reaksi setara untuk:
+a. 
+pembakaran n-heptana
+b. 
+adisi HCl pada 2-metil-1-pentena
+3. 
+Gambarkan dan beri nama: 
+a. 
+semua isomer dari C5H12
+b. 
+semua isomer struktur dari C4H8
+c. 
+isomer struktur dari C4H6 yang merupakan alkuna dan sikloalkena

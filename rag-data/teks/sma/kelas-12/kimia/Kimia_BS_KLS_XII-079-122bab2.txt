@@ -1,0 +1,1219 @@
+65
+Bab II ELEKTROKIMIA
+Bab
+II
+Pada bab elektrokimia, kalian akan mengidentifikasi reaksi redoks dan 
+membedakan antara elektrolit kuat, lemah, dan nonelektrolit. Kalian akan 
+mampu merancang sel volta dan sel elektrolisis, menggambarkan komponen 
+dari tiap sel, dan menuliskan reaksi kimia yang terjadi. Kalian juga akan 
+mampu membandingkan reaktivitas logam berdasarkan potensial elektrode 
+standar dan memprediksi reaksi elektrokimia spontan. Selain itu, kalian juga 
+akan memahami aplikasi sel elektrokimia dalam kehidupan sehari-hari.
+ELEKTROKIMIA
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XII
+Penulis	 : 	Galuh Yuliani, dkk
+ISBN	
+: 	978-602-427-968-4 (jil.2)
+66
+Kimia untuk SMA/MA Kelas XII
+Mobil listrik memiliki popularitas tinggi saat ini. Dengan karakteristik 
+bebas kebisingan, bebas polusi dan memiliki performa tinggi, mobil 
+ini disebut-sebut sebagai mobil masa depan. Bagaimana mobil listrik 
+dapat beroperasi? Apa sumber energinya? Pada bab elektrokimia, 
+kalian akan memperoleh jawabannya.
+A.	 Elektrolit
+Pernahkah kalian mengalami kesemutan, kram otot, pusing bahkan 
+kejang-kejang? Berhati-hatilah, kemungkinan kalian mengalami 
+gangguan kekurangan atau kelebihan elektrolit tubuh. Elektrolit 
+merupakan zat penting yang membantu tubuh dalam mengoptimalkan 
+fungsi otak, meningkatkan fungsi saraf dan otot, bahkan membantu 
+memperbaiki 
+jaringan 
+tubuh 
+yang 
+rusak. 
+Ketidakseimbangan 
+elektrolit dapat menimbulkan komplikasi serius pada tubuh kita, 
+karenanya menjaga keseimbangan elektrolit tubuh sangat penting 
+untuk dilakukan. Beberapa elektrolit vital dalam tubuh antara lain 
+Mind Map
+Oksidasi
+Reduksi
+Reaksi redoks
+Bilangan Oksidasi
+Elektrode Hidrogen 
+Standar
+Reaksi Elektrokimia 
+Spontan
+Potensi Elektrode 
+Standar
+Mobil Listrik
+Pelapisan Logam
+Gaya Gerak Listrik
+Elektrokimia
+Elektrolit
+Sel Elektrokimia
+Aplikasi 
+Elektrokimia
+Elektrolit Kuat
+Elektrolit Lemah
+Non-elektrolit
+Sel Volta
+Sel Elektrolisis
+Notasi Sel
+67
+Bab II ELEKTROKIMIA
+kalsium, natrium, magnesium dan kalium. Tubuh kita mendapatkan 
+asupan elektrolit esensial dari minuman dan makanan. Tanpa kita 
+sadari, berbagai asupan elektrolit esensial telah tersedia di alam dari 
+minuman dan makanan yang biasa kita konsumsi sehari-hari sebagai 
+anugerah dan nikmat yang tidak terhingga dari Tuhan YME. Apa saja 
+contohnya? Air minum yang biasa kita peroleh dari sumber-sumber 
+mata air alami bukanlah air murni yang hanya terdiri atas molekul-
+molekul H2O saja, tetapi air minum tersebut kaya akan mineral serta 
+ion-ion esensial yang diperlukan tubuh. Beberapa jenis makanan juga 
+kaya akan ion-ion elektrolit antara lain kacang-kacangan, kerang, telur, 
+coklat, dan alpukat.
+Pada mata pelajaran fisika, kalian 
+sudah belajar tentang benda-benda 
+yang bersifat konduktor, yaitu benda 
+yang 
+dapat 
+berperan 
+sebagai 
+penghantar listrik. Kalian tentu masih 
+ingat bahwa logam-logam umumnya 
+merupakan penghantar listrik yang 
+baik. 
+Itulah 
+sebabnya, 
+beberapa 
+peralatan elektronik seperti kabel-
+kabel listrik misalnya, terbuat dari 
+logam. Seperti halnya logam, beberapa 
+senyawa kimia dapat menghantarkan 
+listrik saat dilelehkan atau terlarut dalam air. Senyawa kimia ini 
+dinamakan elektrolit. Saat ditambahkan ke dalam air, zat yang bersifat 
+elektrolit dapat meningkatkan konduktivitas air. 
+Apa sebenarnya elektrolit?
+Elektrolit adalah zat yang mengandung ion-ion bebas, sehingga 
+menghasilkan media yang dapat menghantarkan listrik. Namun, 
+hantaran listrik dari elektrolit-elektrolit tidak selalu sama. Mari 
+kita dalami kemampuan hantaran listrik larutan elektrolit dengan 
+melakukan aktivitas berikut.
+68
+Kimia untuk SMA/MA Kelas XII
+Aktivitas 2.1
+MENGUJI LARUTAN ELEKTROLIT DAN NON-ELEKTROLIT
+Secara berkelompok, gunakan laman laboratorium maya pada 
+link: 
+https://vlab.belajar.kemdikbud.go.id/Home/ContentList 
+untuk 
+melakukan aktivitas berikut. Pada bagian menu, pilih “Daya Hantar 
+Listrik dan Reaksi Redoks” (Gambar 2.1). Pada laboratorium maya, 
+terdapat set alat pengujian sifat elektrolit dari larutan. Larutan uji 
+disimpan di dalam gelas kimia. Ke dalam larutan uji, dicelupkan dua 
+buah elektrode yang dihubungkan dengan sirkuit eksternal yang 
+terhubung dengan lampu Light Emitting Diode (LED). 
+Lakukan pengujian untuk beberapa jenis larutan yang tersedia pada 
+daftar di samping kanan. Melalui pengamatan terhadap larutan dan 
+nyala lampu, tetapkan apakah larutan uji tersebut elektrolit atau non 
+elektrolit, kemudian beri alasan penetapan tersebut. Kalian disarankan 
+membuat gambaran molekul/ion di level submikroskopik pada larutan 
+uji yang dipilih. 
+Gambar 2.1	 Eksperimen daya hantar listrik pada laboratorium virtual kemdikbud
+Sumber: Kemendikbudristek/vlab.belajar.kemdikbud.go.id (2022)
+69
+Bab II ELEKTROKIMIA
+Dengan menggunakan set alat ini, kalian juga dapat membedakan 
+elektrolit kuat dan lemah. Bagaimana caranya? Diskusikan dengan 
+teman kalian. Setelah menguji beberapa larutan, kelompokkan larutan 
+uji ke dalam non-elektrolit, elektrolit lemah dan elektrolit kuat. Buatlah 
+tabel pengamatan yang sesuai. Siswa diharapkan dapat bekerjasama 
+dengan baik dan saling membantu antar tiap-tiap anggota kelompok. 
+Diskusikan bersama anggota kelompok dengan tetap menjunjung tinggi 
+nilai kesopanan, sikap saling harga-menghargai, dan sikap kejujuran.
+1.	 Elektrolit Kuat, Elektrolit Lemah dan Non-elektrolit
+Berdasarkan kemampuan hantaran listriknya, kita mengenal zat yang 
+bersifat elektrolit kuat, elektrolit lemah dan non-elektrolit (Gambar 2.2). 
+Umumnya, senyawa yang berperan sebagai elektrolit adalah senyawa 
+ionik atau senyawa polar seperti asam, basa dan garam. Garam sebagai 
+senyawa anorganik yang berbentuk padatan memiliki struktur yang 
+demikian teratur dengan pengaturan posisi ion-ion yang tetap, sehingga 
+tidak menghantarkan listrik. Namun, saat senyawa ionik dilelehkan 
+atau dilarutkan dalam air, ion-ionnya dapat bergerak bebas. Dengan 
+demikian, lelehan garam atau larutan garam dapat menghantarkan 
+listrik dan bersifat elektrolit. Contoh dari elektrolit adalah larutan asam 
+klorida, asam sulfat, natrium hidroksida, dan natrium klorida.
+Larutan/lelehan
+berdasarkan 
+hantaran listriknya
+Elektrolit
+Non elektrolit
+Elektrolit kuat
+Elektrolit lemah
+Gambar 2.2	 Klasifikasi zat berdasarkan kemampuan hantaran listrik
+70
+Kimia untuk SMA/MA Kelas XII
+a.  Elektrolit kuat
+Suatu zat disebut elektrolit kuat apabila dapat terurai sempurna 
+menjadi ion-ion nya saat dilarutkan dalam air. 
+AB(s,l,g) → A+(aq) + B‾(aq)
+Pada reaksi di atas, ikatan pada AB putus, sehingga AB terurai 
+menjadi ion-ion komponennya. Pada elektrolit kuat, derajat ionisasinya 
+besar, sehingga zat akan terdisosiasi sempurna. Reaksi kimia yang 
+terjadi pada pelarutan elektrolit kuat menghasilkan larutan dengan 
+konsentrasi ion yang tinggi. Contoh larutan yang merupakan elektrolit 
+kuat adalah larutan natrium klorida dan kalium nitrat. Gambaran 
+submikroskopik dari larutan NaCl sebagai elektrolit kuat disajikan 
+pada Gambar 2.3.
+NaCl(s,l,g) → Na+(aq) + Cl‾(aq)
+Gambar 2.3	 Senyawa ionik NaCl sebagai elektrolit kuat
+71
+Bab II ELEKTROKIMIA
+b.  Elektrolit lemah
+Pada elektrolit lemah, tidak semua zat terdisosiasi menjadi ion-ion 
+saat dilarutkan dalam air. Derajat ionisasi dari elektrolit lemah kecil, 
+karenanya konsentrasi ion yang dihasilkan rendah.
+AB(aq) → AB(aq) ⇌ A+(aq) + B–(aq)
+Perhatikan tanda panah dua arah dari reaksi di atas. Tanda panah 
+dua arah menandakan reaksi tidak berlangsung sempurna, artinya 
+sebagian molekul tidak terurai menjadi ion-ion nya. Pada reaksi 
+tersebut, senyawa AB masih ada setelah reaksi bersama dengan  ion-ion 
+yang dihasilkan oleh reaksi tersebut. Contoh elektrolit lemah adalah 
+larutan asam cuka.
+CH3COOH(l) → CH3COOH(aq) ⇌  CH3COO–(aq) + H+(aq)
+c.  Non elektrolit
+Non elektrolit adalah senyawa kimia yang tidak menghantarkan listrik 
+dalam kondisi lelehan maupun terlarut dalam air. Zat yang bersifat non 
+elektrolit tidak akan meningkatkan konduktivitas air saat dilarutkan. 
+Saat dilarutkan, senyawa non elektrolit akan dilingkupi oleh molekul-
+molekul air yang membuat senyawa tersebut dapat larut baik di dalam 
+air. Proses pelarutan senyawa non elektrolit tidak menyebabkan 
+pemutusan ikatan, sehingga tidak dihasilkan ion-ion bebas. Proses 
+pelarutan ini termasuk ke dalam perubahan fisika. Senyawa yang 
+termasuk non elektrolit adalah sukrosa, etanol dan urea. Contoh reaksi 
+pelarutan molekul non elektrolit ditunjukkan sebagai berikut.
+C2H5OH(l) → C2H5OH(aq)
+72
+Kimia untuk SMA/MA Kelas XII
+Ayo Berpikir Kritis
+Jawablah pertanyaan berikut secara mandiri. Perhatikan gambaran 
+submikroskopik dari beberapa sistem larutan pada Gambar 
+2.4. Manakah larutan yang dapat menghantarkan listrik? Beri 
+penjelasan.
+Gambar 2.4	 Representasi submikroskopik dari larutan
+B.	 Reaksi Redoks
+Kalian sudah mempelajari berbagai jenis reaksi kimia, seperti misalnya 
+reaksi asam basa. Setiap reaksi kimia memiliki ciri tersendiri. Misalnya, 
+reaksi asam basa dapat kalian kenali dari adanya peningkatan 
+konsentrasi H3O+ atau OH– dalam larutan. Bagaimana dengan reaksi 
+perkaratan besi? Jenis reaksi apakah itu? Apakah ciri reaksi tersebut?
+Pada bab ini, kita akan mempelajari jenis reaksi kimia yang ditandai 
+adanya pertukaran elektron antara spesi yang bereaksi dan perubahan 
+bilangan oksidasi. Reaksi ini dinamakan reaksi redoks. Pada reaksi 
+redoks terdapat perubahan bilangan oksidasi dari spesi-spesi yang 
+bereaksi. Sebelum membahas reaksi redoks, kalian harus memahami 
+73
+Bab II ELEKTROKIMIA
+konsep bilangan oksidasi terlebih dahulu dan harus menguasai cara 
+penentuan bilangan oksidasi suatu unsur. Apabila kalian masih belum 
+menguasai cara penentuan bilangan oksidasi unsur, cermatilah contoh 
+berikut.
+Contoh Soal
+Tentukan bilangan oksidasi dari tiap-tiap unsur pada molekul  berikut:
+a.	 CO2
+b.	 KMnO4
+Jawaban:
+a.	 Pada molekul CO2, tiap-tiap atom oksigen memiliki bilangan 
+oksidasi –2. Artinya, muatan dari kedua atom oksigen yang terikat 
+pada karbon adalah –4. Molekul CO2 bersifat netral, sehingga atom 
+karbon harus memiliki bilangan oksidasi +4.
+b.	 Molekul KMnO4 bersifat netral, artinya jumlah keseluruhan bilangan 
+oksidasi unsur-unsur dalam molekul tersebut sama dengan nol. 
+Kalium memiliki bilangan oksidasi +1, oksigen memiliki bilangan 
+oksidasi –2, sehingga total bilangan oksidasi unsur kalium dan 
+oksigen adalah –7 (1 + (–2 × 4) = –7). Artinya, untuk mendapatkan 
+molekul netral, bilangan oksidasi dari Mn harus sama dengan +7.
+Ayo Berlatih
+Kerjakan tugas berikut secara mandiri. 
+Tentukan bilangan oksidasi untuk unsur-unsur dalam senyawa 
+berikut: CH4, PCl3, H3PO4, H2SO4, dan MgCO3.
+74
+Kimia untuk SMA/MA Kelas XII
+1.	 Oksidasi dan Reduksi
+Kalian telah mengetahui cara penentuan bilangan oksidasi dari unsur-
+unsur dalam suatu molekul. Pada reaksi kimia, kalian akan melihat 
+bahwa pada reaksi redoks selalu terdapat spesi yang mengalami 
+kenaikan dan penurunan bilangan oksidasi. Dari data kenaikan dan 
+penurunan  bilangan oksidasi, kalian dapat mengetahui apakah suatu 
+unsur mengalami oksidasi atau reduksi.
+Contoh:
+Perhatikan  reaksi berikut.
+Mg(s)  + Cl2(g)  → MgCl2(s)  
+Magnesium, sebagai pereaksi, memiliki bilangan oksidasi nol. 
+Namun, atom magnesium pada produk magnesium klorida memiliki 
+bilangan oksidasi +2. Artinya, magnesium kehilangan dua buah elektron 
+atau mengalami oksidasi. Proses ini dapat ditulis secara terpisah 
+sebagai setengah reaksi. Setengah reaksi yang melibatkan magnesium 
+ditulis sebagai berikut:
+Mg(s) → Mg2+(aq) + 2e
+Molekul klorin (Cl2), sebagai pereaksi, memiliki bilangan oksidasi 
+nol. Namun, atom klorin pada produk magnesium klorida memiliki 
+bilangan oksidasi -1. Tiap-tiap atom klorin dari molekul klorin menarik 
+satu buah elektron, karenanya mengalami reduksi. Setengah reaksi 
+yang melibatkan klorin, dapat dituliskan sebagai berikut.
+Cl2(g) + 2e → 2Cl‾(aq)
+Setengah reaksi dituliskan untuk memisahkan bagian reaksi 
+reduksi dan oksidasi dari reaksi redoks keseluruhan. Setengah reaksi 
+diperoleh dengan memperhatikan perubahan keadaan oksidasi dari 
+tiap-tiap zat yang terlibat dalam reaksi redoks.
+Kalian dapat mengingat reaksi redoks dengan cara berikut:
+	
+Oksidasi adalah reaksi hilangnya elektron, sedangkan reduksi 
+adalah reaksi pengambilan elektron.
+75
+Bab II ELEKTROKIMIA
+	
+Unsur yang mengalami oksidasi disebut sebagai agen pereduksi
+	
+Unsur yang mengalami reduksi disebut sebagai agen pengoksidasi
+ 	Reaksi redoks adalah reaksi yang melibatkan oksidasi dan reduksi, 
+ditandai dengan berubahnya bilangan oksidasi dari unsur-unsur 
+yang terlibat.
+Oksidasi adalah hilangnya elektron dari suatu molekul, atom atau 
+ion, sehingga mengalami kenaikan bilangan oksidasi.
+Reduksi adalah pengambilan elektron oleh suatu molekul, atom atau 
+ion, sehingga mengalami penurunan bilangan oksidasi.
+Aktivitas 2.2
+MENGIDENTIFIKASI REAKSI REDOKS
+Guru kalian akan mendemonstrasikan satu reaksi redoks antara 
+padatan seng dengan larutan tembaga sulfat. 
+Bahan yang dibutuhkan
+1. 	 Seng berbentuk granul atau lempengan kecil
+2. 	 Larutan tembaga (II) sulfat berwarna biru sebanyak 15 ml
+3. 	 Gelas Kimia
+Cara Kerja
+Tambahkan seng ke dalam larutan tembaga sulfat yang berada dalam 
+gelas kimia dan amati yang terjadi. Lakukan pengamatan yang teliti 
+terhadap granul seng dan amati pula perubahan warna dari larutan!
+Tugas 
+Buatlah laporan hasil pengamatan berdasarkan demonstrasi di atas. Untuk 
+membantu kalian menuliskan laporan, jawablah pertanyaan berikut.
+76
+Kimia untuk SMA/MA Kelas XII
+	
+Jelaskan apa yang terjadi di dalam gelas kimia. Penjelasan dapat 
+berupa gambaran submikroskopik dari molekul atau ion sebelum dan 
+setelah reaksi
+ 	Tuliskan setengah reaksi untuk setiap reaktan yang terlibat
+ 	Tuliskan reaksi redoks keseluruhan
+ 	Buatlah kesimpulan untuk percobaan di atas.
+C.	 Sel elektrokimia
+Pada aktivitas yang telah dilakukan sebelumnya, kalian telah 
+mereaksikan granul seng dengan larutan tembaga(II) sulfat. Kalian 
+juga telah berhasil menuliskan reaksi yang berlangsung. Sekarang, 
+mari kita cermati Gambar 2.5 yang memperlihatkan lempengan seng 
+yang dicelupkan dalam larutan tembaga sulfat. Apa yang terjadi?
+Gambar 2.5	 Reaksi lempengan seng dengan larutan tembaga (II) sulfat
+     Sumber: fotografer/chemdemos.uoregon.edu (2012) oleh Randy Sullivan
+CuSO4(aq)
+Cu(s)
+Zn(s)
+77
+Bab II ELEKTROKIMIA
+Ion-ion Cu2+ dari larutan tembaga(II) sulfat mengalami reduksi 
+menjadi logam tembaga. Logam tembaga yang dihasilkan kemudian 
+terdeposisi pada permukaan lempengan seng. Atom-atom Zn pada 
+logam Zn mengalami oksidasi menjadi ion Zn2+ yang kemudian terlarut 
+dalam larutan.
+Setengah reaksi reduksi
+Cu2+(aq) + 2e → Cu(s)
+Setengah reaksi oksidasi
+Zn(s) → Zn2+(aq) + 2e 
+Reaksi redoks keseluruhan
+Cu2+(aq) + Zn(s) → Cu(s) + Zn2+(aq) 
+Apabila kalian amati dengan teliti, kalian tentu menyadari adanya 
+panas yang dihasilkan dari reaksi tersebut. Dapatkah kita mengkonversi 
+panas yang dihasilkan dari reaksi menjadi energi listrik? Dapatkah 
+reaksi kimia yang melibatkan pertukaran elektron dimanfaatkan untuk 
+menghasilkan listrik? Jawabannya adalah Ya, dan reaksi ini dinamakan 
+reaksi elektrokimia.
+Reaksi elektrokimia adalah reaksi kimia yang menghasilkan 
+perbedaan tegangan, sehingga dapat menghasilkan aliran listrik. Jenis 
+sel elektrokimia ini dinamakan sel Volta. Namun, saat suatu reaksi 
+kimia berlangsung dengan bantuan aliran listrik dari luar, reaksi ini 
+juga dinamakan sebagai reaksi elektrokimia, yaitu sel elektrolisis. 
+Kedua jenis reaksi elektrokimia ini akan dibahas kemudian. Jadi, reaksi 
+elektrokimia dapat didefinisikan sebagai reaksi kimia yang berlangsung 
+akibat adanya voltase (energi listrik dari) luar, atau reaksi kimia yang 
+menghasilkan voltase (energi listrik).
+Elektrokimia merupakan cabang ilmu kimia yang mempelajari 
+tentang perpindahan elektron yang terjadi pada media pengantar listrik 
+(elektrode). Pada bab ini, kalian akan mempelajari jenis-jenis reaksi 
+78
+Kimia untuk SMA/MA Kelas XII
+elektrokimia dan bagaimana reaksi ini dapat dimanfaatkan dalam 
+kehidupan, misalnya sebagai baterai (Gambar 2.6).
+Gambar 2.6	 Berbagai Jenis Baterai
+Sumber: Galuh Yuliani/Kemendikbudristek (2022)
+1.	 SEL VOLTA
+Sebelum kalian mempelajari tentang sel Volta, mari kita melakukan 
+aktivitas eksperimen terlebih dahulu.
+Aktivitas 2.3
+EKSPERIMEN MERANCANG SEL Zn-Cu
+Tujuan:
+(1)	 Merancang sel elektrokimia Zn-Cu
+(2)	 Menyelidiki reaksi yang berlangsung pada sel Zn-Cu
+Alat dan bahan:
+Plat seng, plat tembaga, larutan seng sulfat (1 M), larutan tembaga sulfat 
+(1 M), dua buah gelas kimia 250 ml, tabung U, larutan garam natrium 
+sulfat, wool katun, ammeter dan kabel penghubung.
+Baterai aki
+Baterai 
+koin
+Baterai
+rechageable
+79
+Bab II ELEKTROKIMIA
+Metode:
+(1)	 Timbang kedua plat dalam keadaan bersih dan kering. Catat 
+pengamatan kalian.
+CuSO4(aq)
+ZnSO4(aq)
+Gambar 2.7	 Sel Volta Zn-Cu
+(2)	 Masukkan 200 ml larutan seng sulfat ke dalam gelas kimia dan 
+celupkan plat seng ke dalamnya.
+(3)	 Masukkan 200 ml larutan tembaga sulfat ke dalam gelas kimia 
+lain, dan celupkan plat tembaga ke dalamnya.
+(4)	 Penuhi tabung U dengan larutan Na2SO4 dan sekat kedua ujung 
+tabung menggunakan wool katun. Penyumbatan dengan wool 
+katun ini akan menjaga larutan Na2SO4 tetap didalam saat tabung 
+U dibalikkan.
+(5)	 Hubungkan plat seng dan tembaga dengan ammeter dan amati 
+angka yang ditunjukkan pada ammeter. Adakah bacaan angka 
+yang ditampilkan pada ammeter?
+(6)	 Tempatkan tabung U secara terbalik pada kedua gelas kimia, 
+sehingga tiap ujung tabung menyentuh larutan dalam kedua gelas 
+80
+Kimia untuk SMA/MA Kelas XII
+kimia (Gambar 2.7). Adakah angka yang tampil pada ammeter? ke 
+arah mana arus mengalir?
+(7)	 Lepaskan ammeter kemudian hubungkan plat seng dan tembaga 
+secara langsung. Tinggalkan selama 24 jam. Setelah ditinggalkan 
+seharian, cuci kedua plat dan keringkan. Setelah kering, timbang 
+kedua plat dan catat hasilnya. Apa pengamatan kalian?
+Tugas
+Untuk setiap tahap percobaan, lakukan pengamatan yang teliti dan 
+catat pengamatan kalian. Jawab seluruh pertanyaan yang diberikan 
+pada setiap tahap pekerjaan dengan baik. Diskusikan hasil pengamatan 
+dan jawaban setiap pertanyaan di kelas.
+a.	
+Sel volta Zn-Cu
+Pada eksperimen yang telah dilakukan, kalian telah merancang satu sel 
+volta seng-tembaga. Sel elektrokimia ini dibuat dengan menghubungkan 
+setengah sel seng dan setengah sel tembaga. Setengah sel elektrokimia 
+adalah struktur yang terdiri dari elektrode konduktif yang dikelilingi 
+oleh elektrolit konduktif. Contohnya, setengah sel seng terdiri atas 
+plat logam seng (sebagai elektrode konduktif) yang dicelupkan dalam 
+larutan seng sulfat (sebagai elektrolit konduktif). Bagaimana penjelasan 
+dari hasil observasi eksperimen yang telah dilakukan?
+Plat tembaga
+Plat seng
+Plat tembaga mengalami kenaikan 
+massa. Ini berarti bahwa ion-ion 
+Cu2+ dari  larutan tembaga sulfat 
+terdeposisi pada plat tembaga.
+Plat 
+seng 
+mengalami 
+penurunan 
+massa. Artinya, sebagian padatan Zn 
+terlarut menjadi ion-ion Zn2+. 
+81
+Bab II ELEKTROKIMIA
+Reaksi: 
+Cu2+(aq) + 2e → Cu(s) (Reduksi)
+Reaksi:
+Zn(s) → Zn2+
+ (aq) + 2e (Oksidasi)
+Tempat 
+berlangsungnya 
+reaksi 
+reduksi disebut katode
+Tempat 
+berlangsungnya 
+reaksi 
+oksidasi disebut anode.
+Notasi: Cu2+(aq)/Cu.
+Notasi: Zn/Zn2+(aq)
+Kedua setengah reaksi ini dapat digabungkan untuk menghasilkan 
+reaksi:
+Zn(s)  + Cu2+(aq) + 2e → Zn2+(aq) + Cu(s)  + 2e
+dengan menghilangkan elektron pada kedua sisi, dihasilkan 
+persamaan reaksi total berikut: 
+Zn(s) + Cu2+(aq) → Zn2+(aq) + Cu(s)  
+b.	
+Notasi sel standar
+Rancangan sel volta dapat dituliskan dengan lebih sederhana 
+menggunakan notasi sel standar. Notasi sel standar untuk sel Zn-Cu:
+Zn(s)|Zn2+(aq)||Cu2+(aq)|Cu(s)
+dimana, 
+tanda | adalah batas fasa antara padatan dan larutan 
+tanda || adalah jembatan garam
+Pada notasi yang digunakan, setengah reaksi oksidasi pada anode 
+dituliskan di sebelah kiri, sedangkan setengah reaksi reduksi pada 
+katode dituliskan di sebelah kanan. Pada sel elektrokimia Zn-Cu, arus 
+elektron mengalir melalui sirkuit eksternal dari elektrode seng dimana 
+elektron dihasilkan menuju ke elektrode tembaga.
+Pada sel seng-tembaga, terdapat larutan elektrolit yang berperan 
+menghantarkan listrik. Larutan elektrolit yang digunakan adalah 
+82
+Kimia untuk SMA/MA Kelas XII
+larutan seng sulfat dan larutan tembaga sulfat. Kedua larutan ini 
+mengandung ion-ion bebas dan berperan sebagai penghantar listrik.
+Jembatan garam berupa tabung U memiliki peran penting dalam 
+sel elektrokimia ini. Pada setengah sel Zn(s)/Zn2+(aq), dihasilkan 
+penumpukan muatan positif karena berlangsungnya reaksi oksidasi 
+(menghasilkan Zn2+). Penumpukan muatan positif dalam larutan 
+menyebabkan ketidakseimbangan muatan yang akan menyebabkan 
+aliran elektron melalui sirkuit luar terhenti. Dengan adanya jembatan 
+garam, ion-ion SO4
+2– (dari jembatan garam yang diisi larutan garam 
+Na2SO4) akan mengalir ke sisi anode yang memiliki terlalu banyak ion-
+ion positif dan menetralkannya. Dengan demikian, jembatan garam 
+berperan sebagai medium transfer yang menyuplai ion-ion yang 
+dibutuhkan tanpa adanya pencampuran medium.
+Hal yang menarik dari sel volta seng-tembaga adalah berlangsungnya 
+reaksi kimia pada kedua elektrode yang menyebabkan adanya aliran 
+elektron ke sirkuit luar. Artinya, pada sel elektrokimia ini, energi kimia 
+dikonversi menjadi energi listrik. Sel volta seringkali disebut sebagai 
+sel galvani, sesuai dengan nama penemunya yaitu Luigi Galvani dan 
+Alessandro Guiseppe Volta. Sel volta menghasilkan listrik dari reaksi 
+kimia yang berlangsung pada dua plat logam yang memiliki perbedaan 
+potensial reaksi. Apa yang dimaksud dengan perbedaan potensial 
+reaksi? Konsep potensial reaksi akan dibahas pada Bagian D.
+c.	
+Kegunaan dari sel volta
+Prinsip kerja dari sel volta diaplikasikan untuk membuat baterai 
+listrik. Pada beragam teknologi, baterai digunakan sebagai alat untuk 
+menyimpan energi kimia yang dapat dimanfaatkan untuk menghasilkan 
+listrik. Baterai telah banyak dikembangkan dari satu jenis atau beberapa 
+jenis sel volta atau sel bahan bakar. Aplikasi baterai pada kehidupan 
+sehari-hari amat luas, misalnya pada lampu senter, peralatan listrik 
+rumah tangga, kamera digital, alat bantu dengar, dan jam digital.
+83
+Bab II ELEKTROKIMIA
+Ayo Berlatih
+Suatu sel volta terdiri dari: setengah sel elektrode Cr dengan larutan 
+elektrolit Cr(NO3)3 dan setengah sel elektrode Ag dengan larutan 
+elektrolit AgNO3. Sel volta dilengkapi dengan jembatan garam KNO3. 
+Dari pengukuran, diketahui bahwa elektrode Cr bermuatan negatif 
+relatif terhadap elektrode Ag.
+Lengkapi diagram sel volta pada Gambar 2.8. Ganti huruf a, b, c, 
+d dan e dengan komponen-komponen elektrode, elektrolit dan 
+jembatan garam yang sesuai. Kemudian, tuliskan reaksi pada 
+masing-masing setengah sel dan reaksi keseluruhan. Lengkapi pula 
+Gambar 2.8 dengan arah aliran elektron selama reaksi berlangsung.
+Gambar 2.8	 Sel Volta Ag-Cr
+84
+Kimia untuk SMA/MA Kelas XII
+2.	 Sel elektrolisis
+Pada bagian sebelumnya, kalian sudah mempelajari reaksi kimia yang 
+melibatkan transfer elektron dan dimanfaatkan untuk menghasilkan 
+arus listrik. Pada bagian ini, kita akan melihat apakah proses sebaliknya, 
+dimana listrik yang dialirkan dari luar dapat dimanfaatkan untuk 
+menjalankan reaksi kimia.
+Sel elektrolisis adalah sel elektrokimia yang menggunakan listrik 
+untuk menjalankan reaksi kimia yang tidak spontan. Sel ini diaktivasi 
+dengan mengaplikasikan potensial listrik ke sisi anode dan katode 
+untuk ‘memaksa’ terjadinya reaksi kimia pada ion-ion yang terdapat 
+dalam larutan elektrolit. Elektrolisis digunakan di berbagai industri 
+manufaktur sebagai metode untuk memisahkan unsur-unsur dari 
+suatu senyawa dengan cara melewatkan aliran listrik kepadanya.
+Aktivitas 2.4
+DEMONSTRASI ELEKTROLISIS LARUTAN TEMBAGA SULFAT
+Guru kalian akan mendemonstrasikan elektrolisis larutan tembaga 
+sulfat. Lakukan pengamatan demonstrasi secara berkelompok. Dua 
+elektrode tembaga ditempatkan dalam larutan tembaga sulfat yang 
+berwarna biru dan dihubungkan dengan sumber arus listrik seperti 
+ditunjukkan pada Gambar 2.9. 
+Gambar 2.9	 Diagram sel elektrolisis
+85
+Bab II ELEKTROKIMIA
+Jawablah pertanyaan berikut:
+	
+Apa yang teramati di katode?
+	 Apa yang teramati di anode?
+	 Apa yang teramati pada larutan elektrolit?
+Tuliskan reaksi yang terjadi di anode dan katode. Diskusikan jawaban 
+kalian secara berkelompok, kemudian presentasikan di kelas.
+a.	
+Elektrolisis larutan tembaga sulfat
+Perhatikan kembali Gambar 2.9, pada katode yang bermuatan negatif, 
+ion-ion Cu2+ yang bermuatan positif akan mendekat. Ion-ion ini menarik 
+elektron dan mengalami reduksi untuk menghasilkan logam tembaga. 
+Logam tembaga kemudian terdeposisi pada katode Cu, sehingga katode 
+ini mengalami penebalan. Setengah reaksi reduksi yang berlangsung 
+pada sisi katode adalah:
+Cu2+(aq) + 2e → Cu(s)
+Pada anode yang bermuatan positif, logam tembaga teroksidasi 
+membentuk ion Cu2+. Pada sisi ini, tembaga pada elektrode terlihat 
+melarut. Setengah reaksi yang berlangsung pada sisi anode adalah:
+Cu(s) → Cu2+(aq) + 2e
+Jumlah tembaga yang terdeposisi pada katode mendekati jumlah 
+tembaga yang larut pada anode, sehingga jumlah ion Cu2+ dalam larutan 
+akan tetap dan warna larutan tidak berubah. Pada sel elektrolisis ini, 
+sejumlah arus listrik digunakan untuk memecah CuSO4 menjadi logam 
+Cu.
+b.	
+Elektrolisis air
+Air dapat mengalami elektrolisis untuk membentuk gas hidrogen dan 
+gas oksigen, sesuai reaksi berikut:
+2 H2O(l) → 2 H2(g) + O2(g)
+86
+Kimia untuk SMA/MA Kelas XII
+Gambar 2.10	Elektrolisis air
+Reaksi ini sangat penting karena menunjukkan bahwa gas hidrogen 
+sebagai sumber energi masa depan dapat diperoleh dari air. Sel 
+elektrolisis untuk reaksi ini terdiri dari dua elektrode (biasanya logam 
+platina) yang dicelupkan dalam elektrolit dan dihubungkan dengan 
+sumber listrik (Gambar 2.10).
+Setengah reaksi reduksi yang berlangsung di katode adalah:
+2 H2O(l) + 2e → H2(g) + 2 OH–(aq)
+Setengah reaksi oksidasi yang berlangsung di anode adalah:
+2 H2O(l)  →  O2(g) + 4 H+(aq) + 4e
+87
+Bab II ELEKTROKIMIA
+Pengayaan
+MOBIL DENGAN BAHAN BAKAR AIR
+Sumber: https://www.motor1.com/news/855/japanese-
+company-creates-car-that-can-run-on-water/
+Sebuah perusahaan Jepang mengklaim telah berhasil menemukan 
+suatu sistem sel bahan bakar yang menggunakan air untuk memperoleh 
+gas hidrogen. Sebuah mobil mini berhasil dioperasikan menggunakan 
+dua sistem sel, yaitu sel bahan bakar 120W dan 300W. Mobil mini ini 
+mampu berjalan pada kecepatan 80 km/jam hanya menggunakan 1 L 
+air, baik dari air laut, sungai maupun air hujan. Namun, artikel tersebut 
+juga membahas berbagai fakta-fakta saintifik yang mengindikasikan 
+berbagai masalah terkait mobil tersebut. Bacalah dengan teliti dan 
+diskusikan masalah-masalah yang dibahas terkait penemuan mobil 
+dengan bahan bakar air ini.
+3.	 Perbandingan sel volta dan sel elektrolisis
+Kalian telah mengetahui tentang sel volta dan sel elektrolisis. Ada 
+beberapa perbedaan dari kedua sel elektrokimia ini dan perbedaan-
+perbedaan tersebut ditabulasikan pada Tabel 2.1.
+Tabel 2.1 Perbandingan sel volta dan sel elektrolisis
+Karakteristik
+Sel volta
+Sel elektrolisis
+Logam yang digunakan 
+sebagai elektrode
+Digunakan dua buah logam 
+yang memiliki perbedaan 
+potensial reaksi
+Digunakan logam yang 
+sama sebagai katode dan 
+anode
+Muatan dari anode
+negatif
+positif
+Muatan dari katode
+positif
+negatif
+88
+Kimia untuk SMA/MA Kelas XII
+Larutan elektrolit
+Larutan elektrolit berada 
+dalam wadah terpisah yang 
+dihubungkan oleh jembatan 
+garam
+Katode dan anode berada 
+dalam elektrolit yang 
+sama
+Perubahan energi
+Energi potensial kimia dari 
+reaksi kimia dikonversi 
+menjadi energi listrik
+Aliran sumber listrik 
+eksternal menyebabkan 
+reaksi kimia berlangsung 
+Aplikasi
+Baterai kering, aki mobil
+elektrolisis air, 
+pemisahan komponen 
+menjadi senyawanya.
+Ayo Berpikir Kritis
+Elektrolisis natrium klorida merupakan salah satu proses industri 
+penting untuk menghasilkan produk-produk zat kimia komersial, 
+seperti gas klorin dan logam natrium. Seorang ilmuwan kimia ingin 
+mendapatkan logam natrium murni melalui proses elektrolisis 
+natrium klorida. Berikut metode-metode yang diusulkan:
+1.	 Elektrolisis larutan natrium klorida encer
+2.	 Elektrolisis larutan natrium klorida pekat
+3.	 Elektrolisis lelehan natrium klorida
+Berikan analisis kalian terhadap ketiga metode tersebut. 
+Manakah yang dapat kalian pilih?
+D.	 Potensial elektrode standar
+1.	 Mengukur potensial elektrode
+Apabila sebuah voltmeter dihubungkan dengan sirkuit dari suatu sel 
+elektrokimia, maka voltmeter akan menunjukkan angka tertentu. Angka 
+yang ditampilkan ini menunjukkan perbedaan potensial antara dua buah 
+setengah sel. 
+89
+Bab II ELEKTROKIMIA
+Setiap logam memiliki kereaktifan yang berbeda-beda. Ketika logam 
+bereaksi, elektron dilepaskan dan ion positif dihasilkan. Beberapa 
+logam bereaksi lebih mudah dibandingkan logam lainnya. Mari kita 
+cermati dua reaksi berikut:
+Zn(s) → Zn2+(aq) + 2e
+Cu(s) → Cu2+(aq) + 2e
+Apabila dibandingkan, seng bersifat lebih reaktif dari tembaga, 
+karenanya seng lebih cenderung melepaskan elektron dan membentuk 
+ion Zn2+ dalam larutan. 
+Mari kita tinjau kembali sel elektrokimia Zn-Cu yang telah dibahas 
+sebelumnya (lihat Bagian C.1). Sel elektrokimia ini terbuat dari dua 
+setengah sel, dimana reaksi yang berlangsung adalah:
+Zn(s) → Zn2+(aq) + 2e
+Cu(s) → Cu2+(aq) + 2e
+Pada elektrode seng, logam seng kehilangan elektron dan 
+membentuk ion Zn2+. Elektron akan berkumpul pada logam seng, 
+sedangkan ion Zn2+ akan berpindah ke dalam larutan. 
+Bagaimana dengan elektrode tembaga?
+Situasi yang berbeda terjadi pada sisi elektrode tembaga. Tembaga 
+kurang reaktif dibandingkan seng, sehingga lebih cenderung tetap 
+sebagai logam tembaga dan bukan sebagai ion Cu2+. Pada elektrode 
+tembaga, ion-ion Cu2+ yang akan mengalami reduksi membentuk Cu(s).
+Apabila kita bandingkan kondisi di tiap-tiap setengah sel, 
+terdapat perbedaan potensial diantara keduanya. Elektrode Zn lebih 
+negatif dibandingkan elektrode Cu. Perbedaan potensial inilah yang 
+menyebabkan elektron mengalir dari elektrode yang lebih negatif ke 
+elektrode yang kurang negatif. Dengan demikian, terjadi aliran arus 
+listrik yang terekam sebagai tegangan pada alat voltmeter.
+90
+Kimia untuk SMA/MA Kelas XII
+Meskipun perbedaan potensial antara dua elektrode dapat terekam 
+pada voltmeter, potensial elektrode dari satu logam tertentu tidak dapat 
+ditentukan secara pasti. Padahal nilai potensial elektrode dari masing-
+masing elektrode dapat digunakan untuk menghitung perbedaan 
+potensial antara dua elektrode. Dari kesulitan inilah, kemudian 
+diperkenalkan nilai potensial elektrode standar, dimana potensial 
+elektrode suatu logam dibandingkan secara relatif terhadap satu 
+standar yang sama. Untuk keperluan ini, kita memerlukan elektrode 
+acuan standar.
+2.	 Potensial elektrode acuan standar
+Konsep potensial elektrode standar dapat kalian pahami menggunakan 
+analogi berikut. Pada suatu hari kalian pergi berenang dengan 
+teman sekelas. Kalian melihat tiga orang sedang berdiri di kolam 
+renang, sehingga hanya sebagian badan mereka yang terlihat. Kalian 
+ingin membandingkan tinggi badan mereka. Maka, kalian dapat 
+membandingkan tinggi badan mereka berdasarkan sebagian badan 
+yang terlihat. Kalian dapat menentukan tinggi ketiga orang tersebut 
+relatif terhadap tiang yang ada di sisi kolam renang. A memiliki tinggi 
+10 cm di bawah tiang, B memiliki tinggi 5 cm di bawah tiang, sedangkan 
+C memiliki tinggi 5 cm di atas tiang. Meskipun kalian tidak memiliki 
+tinggi absolut dari masing-masing orang, namun tinggi relatif yang 
+diukur dapat menjadi acuan untuk mengurutkan tinggi dari ketiganya. 
+Kita dapat simpulkan bahwa C paling tinggi, lebih tinggi 10 cm dari B 
+dan 15 cm dari A. B memiliki tinggi diantara A dan C, tinggi B adalah 5 
+cm di atas A dan 10 cm di bawah C. A paling pendek diantara ketiganya 
+(Lihat Gambar 2.11). Tiang berperan sebagai standar acuan untuk 
+menentukan tinggi ketiganya.
+91
+Bab II ELEKTROKIMIA
+                                                             A                               B                                  C
+Gambar 2.11	Tinggi A, B dan C relatif terhadap tiang
+Dengan konsep yang sama, kita dapat membandingkan  potensial 
+elektrode satu logam terhadap logam lainnya. Elektrode acuan yang 
+digunakan adalah elektrode hidrogen standar. Elektrode hidrogen 
+standar adalah elektrode redoks yang menjadi dasar skala potensial 
+oksidasi-reduksi. Potensial elektrode standar bagi elektrode hidrogen 
+dianggap sama dengan nol pada semua suhu dan dijadikan acuan 
+untuk perbandingan dengan elektrode lainnya. Reaksi redoks dari 
+elektrode hidrogen adalah sebagai berikut. Pengukuran potensial 
+elektrode standar dilakukan pada kondisi tekanan 1 atm, suhu 298 K 
+dan konsentrasi 1 M.
+2H+(aq) + 2e ⇋ H2(g)
+Pada aplikasinya, elektrode hidrogen harus dirangkaikan dengan 
+sistem elektrode yang akan dicari nilai potensial elektrodenya. 
+Misalnya, untuk menentukan potensial elektrode dari seng, kalian 
+harus menghubungkan setengah sel seng dengan elektrode hidrogen, 
+seperti pada Gambar 2.12. Saat setengah sel Zn dihubungkan dengan 
+elektrode hidrogen, Zn cenderung membentuk ion Zn2+ dan melepaskan 
+elektron. Elektrode Zn akan bermuatan lebih negatif karena elektron 
+92
+Kimia untuk SMA/MA Kelas XII
+yang dilepaskan saat Zn teroksidasi menyebabkan akumulasi elektron 
+pada elektrode Zn.
+Gambar 2.12	Penentuan potensial elektrode Zn menggunakan elektrode standar hidrogen
+Kesetimbangan reaksi Zn dan gas hidrogen dapat dituliskan sebagai 
+berikut.
+Zn2+(aq) + 2e ⇋ Zn(g)
+2H+(aq) + 2e ⇋ H2(g)
+Kesetimbangan reaksi pada elektrode Zn mengarah ke kiri yaitu 
+pada pembentukan ion Zn2+, sedangkan kesetimbangan reaksi pada 
+elektrode hidrogen mengarah ke kanan, yaitu pada pembentukan 
+gas hidrogen. Voltmeter mengukur perbedaan potensial antara kedua 
+elektrode tersebut, dan menghasilkan nilai 0,76 V. Zn merupakan 
+elektrode yang bermuatan lebih negatif, karena banyaknya elektron 
+yang terakumulasi.
+Bagaimana saat setengah sel Zn diganti dengan tembaga (Cu)?
+93
+Bab II ELEKTROKIMIA
+Tembaga memiliki kecenderungan yang lebih kecil untuk 
+menghasilkan ion Cu2+ dibandingkan dengan hidrogen. Dengan 
+demikian elektrode hidrogen yang akan mengalami oksidasi dan 
+melepaskan elektron. Hidrogen akan lebih bermuatan negatif 
+dibandingkan dengan Cu.
+Cu2+(aq) + 2e ⇋ Cu(g)
+2H+(aq) + 2e ⇋ H2(g)
+Voltmeter akan menunjukkan nilai perbedaan potensial sebesar 
+0,34 V dan Cu berperan sebagai elektrode yang positif karena memiliki 
+elektron yang lebih sedikit. Nilai-nilai voltase yang ditunjukkan pada 
+rangkaian setengah sel Zn dan Cu saat dihubungkan dengan elektrode 
+standar hidrogen adalah potensial elektrode standar bagi Zn dan Cu. 
+Perlu dipahami bahwa nilai potensial elektrode standar ini bukanlah 
+nilai absolut, namun merupakan nilai relatif terhadap elektrode 
+hidrogen standar yang dianggap sama dengan nol.
+Berdasarkan kesepakatan konvensi, elektrode hidrogen ditulis di 
+sebelah kiri dari sel, sedangkan tanda voltase yang diperoleh pada 
+voltmeter merupakan tanda bagi elektrode logam tersebut. Dengan 
+demikian, potensial elektrode Zn adalah –0,76 V, sedangkan potensial 
+elektrode Cu adalah +0,34 V. Dapat disimpulkan bahwa logam dengan 
+nilai potensial elektrode standar negatif adalah logam yang mudah 
+membentuk ion. Semakin negatif nilai potensial elektrodenya, semakin 
+mudah logam tersebut membentuk ion. Sebaliknya, apabila logam 
+memiliki nilai potensial elektrode positif, maka logam tersebut tidak 
+mudah membentuk ion. Potensial elektrode standar untuk berbagai 
+logam sudah diukur menggunakan cara ini dan hasilnya dapat kalian 
+lihat pada Tabel 2.2. 
+Dapat kalian amati bahwa logam-logam di bagian atas memiliki nilai 
+potensial elektrode standar negatif. Hal ini berarti bahwa logam-logam 
+ini mudah membentuk ion dan melepaskan elektron. Artinya, logam-
+logam ini mudah teroksidasi dan merupakan agen pereduksi yang baik. 
+94
+Kimia untuk SMA/MA Kelas XII
+Logam-logam di bagian bawah memiliki nilai potensial elektrode positif, 
+berarti logam-logam ini bersifat penerima elektron. Logam-logam ini 
+mudah mengalami reduksi dan merupakan agen pengoksidasi yang 
+baik. Dapat kita simpulkan bahwa pada Tabel 2.2, semakin ke atas maka 
+kemampuan mereduksi logam akan meningkat, sedangkan dari atas ke 
+bawah  kemampuan mengoksidasi akan meningkat.
+Tabel 2.2 Potensial elektrode standar
+3.	 Penggunaan data potensial elektrode standar
+a.  Menghitung potensial sel elektrokimia
+Data potensial elektrode standar dapat dimanfaatkan untuk menghitung 
+gaya gerak listrik (GGL) dari sel elektrokimia. Untuk menghitung GGL 
+dari suatu sel elektrokimia, kalian dapat menggunakan beberapa 
+persamaan berikut.
+Eo
+(sel) = Eo
+(kanan) – Eo
+(kiri)
+95
+Bab II ELEKTROKIMIA
+Istilah ‘kanan’ berarti elektrode yang di sebelah kanan pada notasi 
+sel standar (lihat kembali subbab sel volta Zn-Cu), sedangkan ‘kiri’ 
+merujuk pada setengah reaksi yang dituliskan di sebelah kiri notasi sel 
+standar. Persamaan di atas dapat juga dituliskan sebagai berikut.
+Eo
+(sel) = Eo
+(setengah reaksi reduksi) – Eo
+(setengah reaksi oksidasi)
+Eo
+(sel) = Eo
+(agen pengoksidasi) – Eo
+(agen pereduksi)
+Eo
+(sel) = Eo
+(katoda) – Eo
+(anoda)
+Dengan demikian, untuk sel Zn-Cu, GGL dapat dihitung sebagai 
+berikut.
+Contoh Soal
+Pada reaksi elektrokimia di bawah ini:
+Cu(s) + Ag+(aq) → Cu2+(aq) + Ag(s)
+Tuliskan notasi sel standar dan hitunglah potensial sel dari sel 
+elektrokimia tersebut.
+Jawaban
+Langkah 1: tuliskan persamaan setengah reaksi yang terlibat 
+menggunakan data potensial elektrode standar.
+Cu2+ + 2e ⇋ Cu  
+Ag+ + e ⇋ Ag     
+96
+Kimia untuk SMA/MA Kelas XII
+Langkah 2: tentukan reaksi yang berlangsung di katode dan anode
+Kedua potensial elektrode memiliki nilai positif, namun perak memiliki 
+nilai lebih besar. Artinya, perak tidak mudah mengion dibandingkan 
+dengan tembaga. Dengan demikian, tembaga akan mengalami reaksi 
+oksidasi membentuk ion tembaga, sedangkan perak mengalami reaksi 
+reduksi. Tembaga adalah anode dan perak adalah katode.
+Langkah 3: tuliskan notasi standar sel.
+Cu|Cu2+ (1mol.dm–3)||Ag+ (1mol.dm–3)|Ag
+Langkah 4: hitung potensial sel
+SOAL LATIHAN
+Hitunglah potensial sel dan tuliskan notasi sel standar dari sel 
+elektrokimia dengan reaksi total sebagai berikut.
+Mg(s) + 2H+(aq) → Mg2+(aq) + H2(s)
+b.  Menyetarakan reaksi redoks
+Konsep setengah reaksi dapat digunakan untuk menyetarakan 
+persamaan reaksi redoks seperti pada contoh berikut.
+Misalnya untuk reaksi berikut yang berlangsung pada media asam.
+Cr2O7
+2‾ + H2S → Cr3+ + S
+Langkah 1: tuliskan setengah reaksi oksidasi 
+Cr2O7
+2‾ → Cr3+ 
+Langkah 2: setarakan jumlah atom di kedua sisi.
+Kalian harus mengalikan sisi kanan dengan 2, sehingga jumlah atom Cr 
+setara. Untuk menyetarakan jumlah atom oksigen, tambahkan molekul 
+air ke sisi kanan.
+97
+Bab II ELEKTROKIMIA
+Cr2O7
+2– → 2Cr3+ + 7H2O
+Sekarang jumlah atom oksigen sudah setara, namun jumlah atom 
+hidrogen belum setara. Kalian harus menambahkan ion hidrogen ke 
+sisi kiri.
+Cr2O7
+2– + 14H+ → 2Cr3+ + 7H2O
+Langkah 3: Setelah semua atom setara, periksa kesetaraan muatan.
+Muatan di sisi kiri adalah (–2 + 14) = +12, namun muatan di sisi kanan 
+adalah +6. Untuk menyetarakan, enam elektron ditambahkan ke sisi kiri. 
+Cr2O7
+2– + 14H+ +6e → 2Cr3+ + 7H2O
+Langkah 4: Lakukan langkah 1-3 untuk setengah reaksi reduksi.
+S2– → S + 2e
+Langkah 5: Kalikan setengah reaksi yang setara dengan angka tertentu, 
+sehingga jumlah elektron pada setengah reaksi oksidasi sama dengan 
+setengah reaksi reduksi.
+Kalian dapat mengalikan setengah reaksi reduksi dengan 3, sehingga 
+jumlah elektronnya sama dengan setengah reaksi oksidasi.
+3S2– → 3S + 6e
+Langkah 6: Jumlahkan kedua setengah reaksi untuk mendapatkan 
+reaksi total.
+Cr2O7
+2– + 14H+ +6e → 2Cr3+ + 7H2O 
+  3S2– → 3S + 6eCr2O7
+2– + 14H+ + 3S2– → 3S + 2Cr3++ 7H2O
+Langkah 7: Periksa kembali kesetaraan reaksi.
+c.  Memprediksi reaksi-reaksi elektrokimia spontan
+Selain untuk menghitung potensial sel, data potensial elektrode standar 
+dapat digunakan untuk memprediksi apakah suatu reaksi elektrokimia 
+akan berlangsung spontan atau tidak spontan.
+98
+Kimia untuk SMA/MA Kelas XII
+Perhatikan reaksi berikut.
+Pb2+(aq) + 2 Br ‾(aq)  → Br2(l) + Pb(s)
+Setengah reaksi yang terlibat berikut nilai potensial elektrode 
+standarnya adalah sebagai berikut.
+Pb2– + 2e ⇋ Pb     Eo = –0,13 V
+Br2 + 2e ⇋ 2Br–     Eo = +1,06 V     
+Perhatikan nilai potensial elektrode untuk setengah reaksi Pb, tanda 
+negatif menandakan bahwa timbal mudah kehilangan elektron untuk 
+membentuk ion timbal. Artinya, timbal mudah mengalami oksidasi. 
+Maka, reaksi ini akan cenderung berlangsung dari kanan ke kiri. Namun 
+pada reaksi total, terlihat bahwa reaksi sebaliknya yang terjadi, dimana 
+ion Pb2+ direduksi menjadi Pb. Dapat kita simpulkan bahwa setengah 
+reaksi ini tidak spontan. Di sisi lain, potensial elektrode bromin yang 
+bernilai positif menandakan bahwa bromin mudah tereduksi, artinya 
+reaksi cenderung berlangsung dari kiri ke kanan. Kembali kita amati 
+bahwa pada reaksi total posisi bromin terbalik, sehingga reaksi ini juga 
+tidak spontan. Kalian dapat menyimpulkan bahwa reaksi elektrokimia 
+tersebut tidak spontan.
+Cara lain untuk memprediksi apakah suatu reaksi akan berlangsung 
+spontan atau tidak spontan adalah dengan menghitung potensial sel 
+dan melihat nilainya. Apabila potensial sel berharga positif, maka reaksi 
+adalah spontan. Sebaliknya, apabila potensial sel bernilai negatif, maka 
+reaksi tersebut tidak spontan.
+Contoh
+Menggunakan Tabel 2.2, tentukanlah reaksi mana yang akan 
+berlangsung di katode dan anode pada sel volta Cu-Ag. Diketahui reaksi 
+setengah sel berikut:
+99
+Bab II ELEKTROKIMIA
+Cu2+(aq) + 2e ⇋ Cu(s) 
+Ag+(aq)  + e ⇋ Ag(s) 
+Petunjuk
+Katode adalah tempat berlangsungnya reaksi reduksi, sedangkan anode 
+adalah tempat berlangsungnya reaksi oksidasi. Untuk menentukan 
+reaksi yang terjadi pada elektrode Cu dan Ag, ikuti langkah berikut.
+Langkah 1: Tentukan potensial elektrode bagi masing-masing logam.
+Pada Tabel 2.2 dapat kalian cermati bahwa potensial elektrode untuk 
+tembaga adalah +0,34 V, sedangkan perak adalah +0,80 V.
+Langkah 2: Gunakan data potensial elektrode untuk menentukan logam 
+mana yang akan mengalami oksidasi dan reduksi.
+Kedua logam memiliki nilai potensial elektrode positif, namun 
+perak memiliki nilai potensial elektrode yang lebih besar. Ini berarti 
+bahwa perak lebih sulit menjadi ion dibandingkan dengan tembaga, 
+karena cenderung mengalami reduksi. Dengan demikian, tembaga 
+akan mengalami oksidasi untuk membentuk ion dan melepaskan 
+elektron. Tembaga merupakan setengah reaksi oksidasi terjadi di anode, 
+sedangkan perak adalah setengah reaksi reduksi terjadi di katode. Jadi, 
+reaksi yang terjadi:
+Katode: Ag+(aq) + e → Ag(s)
+Anode:  Cu(s) → Cu2+(aq) + 2e
+Ayo Berlatih
+Prediksikan apakah logam tembaga akan bereaksi dengan asam 
+sulfat encer. Gunakan persamaan reaksi berikut.
+Cu2+(aq) + 2e ⇋ Cu(s)           
+	
+2H+(aq)  + 2e ⇋ H2(g)       
+	
+100
+Kimia untuk SMA/MA Kelas XII
+E.	 Aplikasi elektrokimia
+Elektrokimia merupakan salah satu cabang ilmu kimia yang memiliki 
+aplikasi yang luas, terutama di sektor industri. Berikut adalah contoh 
+aplikasi elektrokimia dalam keseharian.
+1.	 Pelapisan logam
+Pelapisan logam, atau dikenal pula dengan istilah electroplating, 
+adalah proses penggunaan arus listrik untuk melapisi objek yang 
+bersifat konduktif terhadap listrik dengan lapisan tipis logam. 
+Aplikasi ini banyak dimanfaatkan untuk melapisi suatu bahan agar 
+menghasilkan karakteristik bahan yang lebih baik dari semula 
+(misalnya menjadi tahan lama, tahan terhadap abrasi, anti-korosi, 
+atau untuk meningkatkan estetika benda). Teknik ini juga seringkali 
+digunakan untuk mendapatkan logam murni dari campuran logam, 
+misalnya pada pemurnian tembaga. Tembaga adalah salah satu logam 
+yang banyak dimanfaatkan pada industri kelistrikan, yaitu sebagai 
+bahan kabel listrik. Satu masalah yang seringkali dihadapi adalah 
+rendahnya kemurnian tembaga saat ditambang. Padahal untuk 
+menjadi penghantar arus listrik yang baik, tembaga harus murni. 
+Teknik electroplating digunakan untuk mendapatkan tembaga murni 
+dari campuran tembaga, seperti yang ditunjukkan pada Gambar 2.13.
+  
+Gambar 2.13	Diagram pemurnian campuran tembaga untuk memperoleh tembaga murni
+101
+Bab II ELEKTROKIMIA
+2.	 Mobil listrik
+Komponen paling penting dari mobil listrik adalah baterai yang 
+digunakannya. Baterai yang dipakai pada mobil listrik adalah 
+baterai dengan daya yang dapat diisi ulang (Gambar 2.14). Baterai 
+ini mengadopsi sel elektrokimia yang dapat mengkonversi energi 
+kimia menjadi energi listrik, dan sebaliknya. Kinerja baterai sangat 
+bergantung pada material penyusunnya.
+Gambar 2.14	Contoh disain baterai mobil listrik 
+Baterai pada mobil listrik dirancang untuk memberikan daya 
+yang cukup untuk menunjang keseluruhan operasi mobil, seperti 
+starter, pencahayaan dan ignisi. Baterai ini harus mampu bekerja 
+pada jangka waktu yang cukup lama, memiliki kapasitas daya besar, 
+dan ringan. 
+Salah satu baterai yang banyak digunakan pada mobil listrik modern 
+adalah litium-ion (Li-ion) dan polimer litium. Jenis baterai lainnya 
+adalah nikel-kadmium, timbal-asam, dan nikel-hidrida logam. Besaran 
+energi listrik yang tersimpan dalam baterai mobil listrik diukur dalam 
+satuan ampere-jam atau coulomb, dengan total energinya dinyatakan 
+sebagai kilowatt-jam (kWh). Apabila harga bahan bakar minyak (BBM) 
+dibandingkan dengan konsumsi listrik dari mobil listrik, kisaran 
+102
+Kimia untuk SMA/MA Kelas XII
+harga energi listrik yang terpakai masih lebih murah dibandingkan 
+dengan konsumsi BBM dari mobil konvensional. Artinya, selain ramah 
+lingkungan karena tiadanya emisi buangan karbon, mobil listrik 
+memiliki efisiensi energi yang tinggi.
+a.  Baterai Litium-ion
+Baterai Li-ion awalnya dikembangkan untuk digunakan pada laptop 
+dan barang elektronik lainnya. Baterai ini memiliki densitas energi 
+besar dan waktu operasional panjang. Baterai Li-ion yang digunakan 
+umumnya terdiri atas beberapa sel individu yang dihubungkan satu 
+sama lain. Setiap sel individu terdiri atas katode, anode dan larutan 
+elektrolit.
+Seperti halnya baterai alkaline biasa, baterai Li-ion menghasilkan 
+listrik dari pergerakan ion-ion nya. Litium merupakan unsur yang sangat 
+reaktif. Bisakah kalian mengecek kembali nilai potensial elektrode 
+dari Litium untuk mengkonfirmasi ini? Baterai ini tidak menggunakan 
+unsur litium sebagai elektrode karena sangat reaktif, sehingga digunakan 
+bentuk oksida logamnya, misalnya LiCoO2. Oksida logam inilah yang akan 
+menyuplai ion litium. Oksida logam litium digunakan sebagai katode dan 
+karbon-litium digunakan sebagai anode. Karbon merupakan material 
+yang dapat memerangkap ion litium, atau disebut sebagai interkalasi. 
+Interkalasi adalah penyisipan sesuatu molekul pada molekul lainnya 
+yang lebih besar secara reversibel.
+Reaksi pada katode
+Pada katode, terjadi reaksi reduksi. Oksida logam litium bereaksi 
+dengan ion-ion litium untuk membentuk LiCoO2. Setengah reaksi yang 
+terjadi pada katode:
+CoO2 + Li+  + e → LiCoO2
+103
+Bab II ELEKTROKIMIA
+Reaksi pada anode
+Pada anode, terjadi reaksi oksidasi. Litium yang mengalami interkalasi 
+pada karbon sebagai senyawa LiC6 terurai kembali menjadi grafit (C6) 
+dan ion litium. Setengah reaksi pada anode:
+LiC6 → C6 + Li+ + e
+Reaksi keseluruhan adalah:
+LiC6 + CoO2   ↔ LiCoO2 + C6 
+Reaksi ke arah kanan terjadi saat penggunaan baterai, sedangkan 
+reaksi ke arah kiri terjadi saat pengisian daya (Gambar 2.15).
+                             SAAT PEMAKAIAN                    SAAT PENGISIAN DAYA
+Ion-ion litium bergerak dari anode ke 
+katode melewati larutan elektrolit.
+Elektron bergerak dari anode ke katode
+Ion-ion litium kembali bergerak dari 
+katode ke anode Elektron bergerak 
+dari anode ke katode
+KATODE
+KATODE
+ANODE
+ANODE
+SUMBER LISTRIK
+Gambar 2.15	Cara kerja baterai Li-ion saat pemakaian dan pengisian daya
+© 2019 Let's Talk Science based on an image by ser_igor via iStockphoto)
+Pada baterai Li-ion, ion-ion litium terikat pada bahan anode. Ketika 
+dioperasikan, ion-ion litium akan teroksidasi, dilepaskan dari anode 
+yang bermuatan negatif dan melepaskan elektron. Ion litium yang 
+dilepaskan akan masuk ke larutan elektrolit dan mengalami interkalasi 
+pada katode yang bermuatan positif. Setelah daya baterai habis, baterai 
+Li-ion harus diisi ulang. Pada kondisi ini, ion-ion litium terikat pada 
+katode. Baterai dapat diisi daya dengan cara mengalirkan listrik 
+sehingga elektron mengalir ke katode, menyebabkan ion-ion litium 
+bergerak kembali dari katode ke anode. 
+104
+Kimia untuk SMA/MA Kelas XII
+Aktivitas 2.5
+FENOMENA MOBIL LISTRIK 
+(PROBLEM BASED LEARNING)
+Kalian akan bermain peran sebagai seorang ahli lingkungan yunior 
+yang bekerja pada suatu lembaga organisasi lingkungan hidup. Kalian 
+memiliki misi untuk meningkatkan kualitas lingkungan dengan cara 
+mengurangi emisi kendaraan bermotor. Kalian ditugasi untuk membuat 
+laporan kajian oleh atasan berisi analisis keunggulan dan kelemahan 
+dari mobil listrik sebagai alternatif dari mobil dengan bahan bakar 
+bensin. Kalian diminta mengkaji fenomena mobil listrik dari berbagai 
+sisi, yaitu sisi sains kimia (elektrokimia), teknologi, ekonomi, lingkungan 
+dan masyarakat. Gunakan semua sumber bacaan, baik dari buku teks 
+maupun dari sumber eksternal, yang dapat kalian temukan. Apabila 
+kalian menggunakan sumber online, pastikan kalian menggunakan 
+sumber bacaan pada situs-situs terpercaya. Buatlah laporan kajian ini 
+secara berkelompok.
+Inti Sari
+Pada bab elektrokimia, kalian telah mempelajari tentang konsep 
+elektrolit, reaksi redoks, sel elektrokimia dan aplikasinya dalam 
+keseharian. Reaksi elektrokimia adalah reaksi yang menghasilkan 
+arus listrik atau reaksi yang membutuhkan arus listrik agar dapat 
+berlangsung. Pada sel volta, reaksi kimia menghasilkan arus listrik 
+melalui sirkuit luar yang dapat dimanfaatkan, misalnya pada sel 
+Zn-Cu. 
+105
+Bab II ELEKTROKIMIA
+Pada sel volta, terdapat dua elektrode yang dipisahkan pada dua 
+gelas kimia berisi larutan elektrolit. Kedua elektrode ini dihubungkan 
+dengan jembatan garam. Sel elektrolisis adalah sel elektrokimia yang 
+menggunakan arus listrik untuk menjalankan reaksi tidak spontan. 
+Contoh sel elektrolisis adalah pada pembuatan ion tembaga dan ion 
+sulfat dari padatan tembaga sulfat. Tiap-tiap logam memiliki potensial 
+reaksi yang berbeda. Potensial reaksi logam pada dasarnya adalah 
+kemampuan logam tersebut untuk membentuk ion. 
+Potensial reaksi dinyatakan sebagai potensial elektrode standar 
+dimana semakin negatif nilainya maka semakin besar kecenderungan 
+logam untuk teroksidasi. Semakin positif nilai potensial elektrode 
+standar, maka semakin besar kecenderungan logam tersebut untuk 
+mengalami reduksi. Sel elektrokimia banyak dimanfaatkan dalam 
+industri, diantaranya pada pelapisan logam dan baterai.
+Ayo Cek Pemahaman
+Bagian I. Pilihan Berganda
+Pilihlah satu jawaban yang paling tepat
+1.	 Manakah dari reaksi berikut yang dikategorikan sebagai reaksi 
+redoks?
+A.	Fe + S → FeS
+B.	 CO2 + H2O → H2CO3
+C.	 AgNO3 + NaCl → AgCl + NaNO3
+D.	HCl + NaOH → NaCl + H2O
+E.	 Na2CO3 + H2SO4 → Na2SO4 + H2O + CO2
+106
+Kimia untuk SMA/MA Kelas XII
+2.	 Untuk persamaan reaksi berikut:
+2Cr(s) + 3Pb2+(aq)  → 2Cr3+(aq) + 3Pb(s) 
+Manakah yang merupakah setengah reaksi reduksi?
+A.	Cr(s) + 3e → Cr3+(aq) 
+B.	 Cr(s) → Cr3+(aq) + 3e 
+C.	 Pb2+(aq)  → Pb(s) + 2e
+D.	Pb2+(aq) + 2e → Pb(s) 
+E.	 Cr(s) + 2e → Pb2+(aq)  
+3.	 Katode dan anode adalah komponen penting dalam sel elektrokimia. 
+Manakah pernyataan yang benar tentang katode?
+A.	 Katode adalah tempat berlangsungnya reaksi oksidasi
+B.	 Elektron bergerak menuju ke arah katode
+C.	 Katode selalu memiliki tanda negatif
+D.	 Katode terbuat dari material non-konduktif
+E.	 Katode merupakan elektrode yang dapat menghasilkan arus 
+listrik
+4.	 Konduktivitas dari larutan elektrolit disebabkan oleh…
+A.	 Aliran bebas elektron
+B.	 Pergerakan ion-ion
+C.	 Adanya senyawa terlarut
+D.	 Pelarut yang bersifat polar
+E.	 Adanya air dalam larutan
+107
+Bab II ELEKTROKIMIA
+5.	 Suatu cincin besi dilapisi dengan logam Zn menggunakan sel alat 
+seperti pada gambar. Manakah pernyataan yang benar?
+A.	 Sel di samping adalah sel volta, dimana 
+reaksi berlangsung spontan
+B.	 Sel di samping adalah sel volta, dimana 
+reaksi berlangsung tidak spontan
+C.	 Sel di samping adalah sel elektrolisis, 
+dimana reaksi berlangsung spontan
+D.	 Sel di samping adalah sel elektrolisis, 
+dimana 
+reaksi 
+berlangsung 
+tidak 
+spontan
+E.	 Sel di samping bukan sel volta maupun 
+elektrolisis.
+Bagian II Essay
+Jawablah pertanyaan berikut dengan singkat dan benar
+1.	 Reaksi berikut berlangsung pada suatu sel elektrokimia:
+Cu(s) + 2 AgNO3(aq)  → Cu(NO3)2(aq)  + 2 Ag(s) 
+	
+i.	 Gambarkan rancangan sel elektrokimia yang dihasilkan
+	
+ii. 	Tuliskan setengah reaksi yang terjadi
+	
+iii. 	Logam mana yang berperan sebagai anode? Mengapa?
+	
+iv. 	Tentukan potensial sel standar bagi sel elektrokimia tersebut.
+2.	 Diantara 
+unsur-unsur 
+berikut, 
+manakah 
+yang 
+memiliki 
+kecenderungan untuk teroksidasi: Zn, Li dan S. Jelaskan jawabanmu.
+3.	 Diantara logam-logam berikut: Al, Na, Cu dan Ag. Logam manakah 
+yang tidak dapat diperoleh melalui elektrolisis dari larutan 
+garamnya? Jelaskan alasanmu! 
+108
+Kimia untuk SMA/MA Kelas XII
+Ayo Refleksi
+Setelah mempelajari Bab 2 tentang elektrokimia pilihlah respon yang 
+paling sesuai untuk pertanyaan  berikut.
+No.
+Pertanyaan
+Tanggapan
+Ya
+Tidak
+1
+Apakah kalian memahami reaksi redoks 
+dan karakteristiknya?
+2
+Apakah kalian memahami jenis sel 
+elektrokimia dan rancangannya?
+3
+Apakah 
+kalian 
+memahami 
+peran 
+elektrokimia dalam kehidupan sehari-
+hari?
+4
+Apakah 
+kalian 
+tertarik 
+mendalami 
+aplikasi elektrokimia di bidang industri 
+dan teknologi?

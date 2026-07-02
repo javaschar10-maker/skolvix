@@ -1,0 +1,2746 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi  
+Republik Indonesia, 2023
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-623-118-558-7
+Representasi dan 
+Interpretasi Data
+6
+Bab
+Bagaimana representasi dan 
+interpretasi data dapat membantu kita 
+dalam pengambilan keputusan?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+178
+Tujuan Pembelajaran 	
+Setelah mempelajari bab ini, diharapkan kamu dapat merepresentasikan 
+data dalam berbagai bentuk grafik dan menganalisisnya, menentukan grafik 
+mana yang sesuai dengan jenis data yang ingin ditampilkan serta mampu 
+menghitung ukuran pemusatan dan ukuran penyebaran dari suatu kelompok 
+data serta menggunakannya untuk membandingkan dua kelompok.
+Kata Kunci 	
+•	
+histogram
+•	
+mean
+•	
+median
+•	
+modus
+•	
+kuartil
+•	
+box plot
+•	
+diagram pencar
+Peta Materi 	
+Box Plot
+Diagram Pencar
+Representasi Data Lanjutan
+Representasi dan 
+Interpretasi Data
+Histogram
+Frekuensi Relatif
+Representasi Data
+Ukuran Pemusatan
+Ukuran Penempatan
+Statistik Deskriptif
+179
+
+ Bab 6 | Representasi dan Interpretasi Data
+Dalam kehidupan sehari-hari, kita selalu berhubungan dengan data. 
+Pernahkah kamu melihat kumpulan data, atau pernahkah kamu 
+mengumpulkan data? Saat pandemi Covid-19, kita dapat melihat data 
+berapa banyak orang yang terkena infeksi karena virus korona. Dari data 
+harian yang kita kumpulkan, kita dapat melakukan analisis sederhana, 
+seperti daerah mana yang tingkat penularannya sudah makin turun, mana 
+daerah yang justru tingkat penularannya semakin naik. Selain itu, kita juga 
+dapat melihat berapa rata-rata tingkat kesembuhan dari pasien Covid-19 
+setiap harinya. Untuk dapat menarik kesimpulan dari hal-hal di atas, kita 
+memerlukan data lalu mengolahnya sehingga kita dapat memahami situasi 
+yang sesungguhnya berdasarkan fakta yang aktual, bukan berdasarkan 
+perasaan atau berita hoaks.
+Sebagai contoh, ketika vaksin Covid-19 berhasil ditemukan di beberapa 
+negara, muncul berita hoaks yang menyebutkan bahwa vaksin tersebut 
+bermasalah. Dari data yang berhasil dikumpulkan dan diolah, ternyata dari 
+setiap 40.000 orang yang divaksin, rata-rata akan ada 5 orang atau sekitar 
+0,01% yang mengalami masalah. Hal ini disebabkan berbagai hal seperti usia 
+lanjut, penyakit bawaan, dan sebagainya. Sementara itu, diketahui bahwa 
+rata-rata tingkat kematian dari pasien Covid-19 yang tidak sempat divaksin di 
+Indonesia mencapai 3%, atau jika ada 6.000 pasien baru, maka diperkirakan 
+rata-rata 200 pasien akan berakhir dengan kematian. Dari fakta ini kita 
+dapat melihat bahwa persentase pasien Covid-19 yang tidak divaksin 300 kali 
+lebih berisiko daripada persentase orang yang bermasalah karena vaksin. 
+Wow! 300 kali lebih berisiko tanpa vaksin. Jumlah yang tidak sedikit. Jadi, 
+dengan melihat data tersebut kita dapat memahami situasi dengan lebih baik 
+sehingga kita mampu mengambil keputusan dengan lebih tepat. 
+Statistik adalah ilmu yang akan membantumu menguasai berbagai 
+hal yang terkait dengan data, mulai dari pengumpulan data, mengolahnya, 
+menganalisis sampai akhirnya mengambil keputusan berdasarkan data. Pada 
+waktu SMP, kamu telah belajar bagaimana untuk melihat ukuran pemusatan 
+dari sekumpulan data, kamu mencari rata-rata atau mean, modus, dan 
+median. Saat ini, kamu akan mempelajari jenis data, ukuran penyebaran 
+serta ukuran lokasi dari sekumpulan data supaya kamu dapat menarik 
+kesimpulan dengan lebih baik. 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+180
+A.	 Representasi Data
+1.	
+Diagram lingkaran sederhana atau diagram batang sederhana dapat 
+digunakan untuk menampilkan informasi yang tersedia, baik dalam bentuk 
+data tunggal maupun dalam bentuk tabel frekuensi.
+2.	
+Dari data tunggal sederhana atau data dalam tabel distribusi frekuensi, 
+dapat diperoleh ukuran pemusatan: mean, modus, dan median yang dapat 
+memberikan gambaran tentang kumpulan data tersebut.
+Eksplorasi   6.1	
+Penggunaan Diagram Batang untuk 
+Menganalisis Data
+Ayo, Bereksplorasi
+Pandemi Covid-19 melanda seluruh dunia pata tahun 2020. Setiap harinya 
+jumlah pasien yang terinfeksi virus Covid-19 terus bertambah. Pada tabel 
+berikut, kamu dapat melihat rata-rata pertambahan pasien baru positif 
+Covid-19 setiap minggunya di Provinsi DKI Jakarta.
+Tabel 6.1 Frekuensi Banyaknya Pasien Baru Covid-19
+Tanggal
+Banyaknya Pasien Baru Positif Covid-19*
+Minggu ke-1 Desember 2020
+1.170
+Minggu ke-2 Desember 2020
+1.220
+Minggu ke-3 Desember 2020
+1.520
+Minggu ke-4 Desember 2020
+1.830
+Minggu ke-5 Desember 2020
+1.900
+Minggu ke-1 Januari 2021
+2.120
+*jumlah dibulatkan ke puluhan terdekat. Sumber: corona.jakarta.go.id
+Ayo, Mengingat Kembali
+181
+
+ Bab 6 | Representasi dan Interpretasi Data
+1.	
+Dari Tabel 6.1, pada minggu ke berapakah yang mengalami rata-rata 
+kenaikan jumlah pasien positif Covid-19 yang paling besar?
+2.	
+Berdasarkan Tabel 6.1, lengkapilah diagram batang di bawah ini.
+Setiap siswa memberikan estimasinya disertai alasannya.
+3.	
+Jika pola penambahan rata-rata mingguan jumlah pasien positif Covid-19 
+ini terus bertambah, berikan estimasimu untuk jumlah pasien positif 
+Covid-19 pada minggu ke-2 Januari 2021. Jelaskan alasanmu!
+Pemilihan grafik yang tepat akan memberikan gambaran yang lebih tepat.
+Banyaknya Pasien Baru Covid-19
+di Provinsi DKI Jakarta Rata-Rata Per Minggu
+Banyaknya Pasien Baru Covid-19
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+2200
+2400
+2600
+Mg. 1
+ 
+Des 20
+Mg. 2
+ 
+Des 20
+Mg. 3
+ 
+Des 20
+Mg. 4
+Des 20
+Mg. 5
+Des 20
+Mg. 1
+Jan 21
+Ayo, Berdiskusi
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+182
+4.	
+Saat menentukan kenaikan jumlah pasien Covid-19 yang paling besar, 
+manakah yang lebih mudah digunakan, tabel atau diagram batang? 
+Jelaskan!
+1.	 Histogram
+Ada berbagai tipe diagram. Diagram mana yang paling baik untuk digunakan 
+sangat tergantung pada data apa yang kamu miliki dan informasi apa yang 
+ingin kamu sampaikan.
+Salah satu diagram yang dapat kamu gunakan adalah histogram. 
+Histogram hampir serupa dengan diagram batang, namun histogram berbeda 
+dengan diagram batang. Gambar 6.1 dan 6.2 menunjukkan contoh histogram 
+dan diagram batang.
+Dari Gambar 6.1 dan Gambar 6.2, carilah perbedaan dari histogram dan 
+diagram batang.
+Lama Penggunaan HP (Jam)
+0
+12
+20
+10
+40
+30
+2
+4
+6
+8
+10
+Banyak Siswa (Dalam Persen)
+Histogram Penggunaan Telepon
+Genggam oleh Siswa SMA
+Jumlah Siswa (orang)
+Merek
+4
+2
+8
+6
+10
+14
+12
+Diagram Batang Merek Telepon Genggam 
+yang Digunakan Siswa SMA X
+X
+A
+V
+S
+O
+L
+N
+Gambar 6.1 Histogram Penggunaan Telepon 
+Genggam oleh Siswa SMA
+Gambar 6.2 Diagram Batang Merek Telepon 
+Genggam yang digunakan Siswa SMA
+Histogram biasanya digunakan untuk menunjukkan distribusi dari 
+suatu kelompok data, sedangkan diagram batang digunakan untuk 
+membandingkan data. Histogram menampilkan data yang sifatnya 
+Ayo, Berdiskusi
+183
+
+ Bab 6 | Representasi dan Interpretasi Data
+kuantitatif dengan rentang data yang dikelompokkan ke dalam interval, 
+sedangkan diagram batang menampilkan data yang sifatnya kategori. 
+Perbedaan lainnya, pada histogram, gambar batang menempel satu sama 
+lain, sedangkan pada diagram batang, ada spasi antarbatang. Perbedaan 
+terakhir, diagram batang biasanya memiliki batang dengan lebar yang 
+sama, sedangkan lebar batang dalam histogram tidak perlu sama selama 
+luas totalnya seratus persen jika digunakan persen atau luas total sama 
+dengan jumlah data. Oleh karena itu, frekuensi data dalam diagram batang 
+dilihat dari panjang batang, sedangkan frekuensi dalam histogram diberikan 
+berdasarkan area pada masing-masing batang.
+Perhatikan Gambar 6.3. Kedua histogram menampilkan data yang sama. 
+Cobalah mencari bagaimana kedua histogram ini menjelaskan data yang sama 
+walaupun terlihat berbeda.
+Gambar 6.3 Tampilan Data yang Sama Menggunakan Dua Histogram yang Berbeda
+Kamu dapat menggunakan pendekatan luas persegi panjang dalam 
+menggambar histogram.
+Pada histogram sebelah kiri:
+•	
+Frekuensi Kelas 0–2 adalah 8, luas persegi panjangnya adalah 2 # 8 = 16 
+•	
+Frekuensi Kelas 2–4 adalah 16, luas persegi panjangnya adalah 
+2 # 16 = 32
+Ayo, Berdiskusi
+Lama Penggunaan HP (Jam)
+0
+12
+20
+10
+40
+30
+2
+4
+6
+8
+10
+Banyak Siswa (Dalam Persen)
+Histogram Penggunaan Telepon
+Genggam oleh Siswa SMA
+Lama Penggunaan HP (Jam)
+0
+12
+20
+10
+40
+30
+2
+4
+6
+8
+10
+Banyak Siswa (Dalam Persen)
+Histogram Penggunaan Telepon
+Genggam oleh Siswa SMA
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+184
+•	
+Luas gabungan kedua kelas tersebut adalah 16 + 32
+48
+=
+Pada histogram sebelah kanan:
+•	
+Frekuensi Kelas 0–4 adalah 12, luas persegi panjangnya adalah 
+4 × 12 = 48
+Jadi, kelas 0–2 dan 2–4 pada histogram kiri memiliki luas yang sama 
+dengan kelas 2–4 pada histogram kanan, sehingga dapat dikatakan bahwa  
+histogram kiri dan histogram kanan menjelaskan data yang sama.
+Coba kamu buktikan mengapa kelas 8–10 dan kelas 10–12 pada histogram kiri 
+dapat digabung menjadi kelas 8–12 pada histogram kanan. Jelaskan jawabanmu.
+Latihan   6.1	
+1.	
+Perhatikan diagram batang berikut. Diagram berikut menunjukkan 
+waktu yang ditempuh oleh para atlet di Olimpiade 1998 cabang Lintas 
+Alam 10 km.
+Gambar 6.4 Diagram Batang Waktu yang Ditempuh Peserta Lintas Alam Olimpiade 1998
+Sumber: https://www.olympic.org/nagano-1998/cross-country-skiing
+Ayo, Mencoba
+185
+
+ Bab 6 | Representasi dan Interpretasi Data
+a.	
+Dari Gambar 6.4, ada berapa atlet yang berpartisipasi dalam cabang 
+lintas alam? Ada berapa negara yang berpartisipasi dalam cabang 
+ini?
+Untuk dapat memahami diagram dengan lebih baik, kamu perlu memahami 
+situasi dan konteks dari diagram.
+b.	
+Peserta dari negara manakah yang mendapatkan medali emas? 
+Berapakah catatan waktunya?
+c.	
+Berapakah atlet yang menyelesaikan lomba ini dengan interval 
+catatan waktu antara 31 menit dan 32 menit 59 detik?
+Ayo berpikir kreatif dalam menyesuaikan tampilan diagram batang untuk 
+menjawab permasalahan.
+d.	
+Gambar 6.4 disusun berdasarkan abjad dari nama depan asal negara 
+atlet. Pikirkanlah cara lain untuk menyusun diagram batang ini. 
+Pertanyaan seperti apakah yang mudah untuk dijawab dari susunan 
+diagram batang yang baru tersebut?
+Saat menjawab soal bagian c) di atas, mungkin kamu memerlukan waktu 
+yang lebih lama karena harus melihat catatan waktu dari tiap atlet peserta. 
+Meskipun kamu mudah membaca catatan waktu dari tiap atlet, tidak terlalu 
+mudah untuk menemukan banyaknya atlet yang menyelesaikan lomba 
+dengan interval catatan waktu tertentu.
+Sekarang, kamu akan menggunakan histogram untuk menampilkan data 
+catatan waktu dari para atlet. Dalam histogram, data dibagi ke dalam interval 
+yang sama, dengan 1 gambar batang untuk setiap interval. Tinggi dari setiap 
+batang menunjukkan banyaknya data yang masuk dalam interval tersebut.
+Ayo, Berpikir Kritis
+Ayo, Berpikir Kreatif
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+186
+2.	
+Dari data catatan waktu para atlet cabang Lintas Alam pada Gambar 6.4,  
+selesaikan soal berikut.
+a.	
+Lengkapilah kolom Frekuensi pada Tabel 6.2.
+Tabel 6.2 Tabel Distribusi Frekuensi Catatan Waktu Atlet
+Catatan Waktu Atlet (menit:detik)
+Frekuensi
+27:00–28:59
+29:00–30:59
+31:00–32:59
+33:00–36:59
+37:00–38:59
+39:00–40:59
+41:00–42:59
+43:00–44:59
+45:00–46:59
+47:00–48:59
+b.	
+Buatlah histogram yang menunjukkan banyaknya atlet yang 
+menyelesaikan lomba Lintas Alam dalam tiap interval catatan waktu. 
+Satu batang untuk interval waktu 31:00–32:59 telah digambar pada 
+histogram di bawah ini.
+Waktu (menit)
+Frekuensi
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+33
+35
+31
+29
+27
+37
+39
+41
+43
+45
+47
+49
+Catatan Waktu Atlet Lintas Alam
+187
+
+ Bab 6 | Representasi dan Interpretasi Data
+c.	
+Interval waktu manakah yang memiliki jumlah atlet paling banyak?
+d.	
+Bentuk dari susunan batang-batang pada histogram menunjukkan 
+distribusi dari data-data yang ada. Distribusi data menunjukkan 
+bagaimana data tersebar, seperti di mana kebanyakan data berada, 
+di mana tidak ditemui data apa pun, dan di mana data sangat sedikit. 
+Apa yang dapat kamu simpulkan dari distribusi data catatan waktu 
+para atlet pada Tabel 6.2?
+2.	 Frekuensi Relatif
+Frekuensi pada histogram tidak harus selalu menunjukkan banyaknya 
+data yang ada dalam setiap interval. Histogram juga dapat menggunakan 
+persentase sebagai frekuensi relatif dari setiap kelas intervalnya.
+Eksplorasi   6.2	
+Frekuensi Relatif dalam Histogram
+Ayo, Bereksplorasi
+Ayo, berdiskusi dengan menjawab pertanyaan berikut.
+60
+65
+70
+75
+80
+85
+90
+95
+100
+30
+20
+10
+Persentase Jumlah Siswa
+Hasil Ulangan Matematika
+Gambar 6.5 Histogram Hasil Nilai Ulangan Matematika
+Dari histogram pada Gambar 6.5, ditunjukkan bahwa ada 16% siswa yang 
+mendapatkan nilai matematika antara 70 sampai 75.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+188
+•	
+Apakah ini berarti ada 16 siswa yang berada di kelas tersebut? Jelaskan.
+•	
+Interval kelas manakah yang memiliki persentase terbesar? Berapa 
+persen kelas dengan interval tersebut?
+Misalkan ada 200 siswa yang mengikuti ulangan matematika tersebut. 
+Berapakah banyaknya siswa yang mendapatkan nilai 85 ke atas tapi di 
+bawah 90? 
+Apabila kamu menambahkan seluruh persen pada setiap interval, 
+berapakah seharusnya jumlah total persen yang kamu peroleh? Jelaskan.
+Histogram dengan frekuensi relatif sangat efektif jika digunakan untuk 
+membandingkan dua kelompok data dengan jumlah data yang berbeda, 
+misalnya, jika kamu ingin membandingkan data harian berapa persen 
+penduduk di Jakarta dengan penduduk di Bali yang telah sembuh dari 
+Covid-19. Karena jumlah total penduduk yang terinfeksi Covid-19 di Jakarta 
+berbeda dengan Bali, maka penggunaan persentase sebagai frekuensi relatif 
+memberikan gambaran yang lebih baik.
+Latihan   6.2	
+ 
+Ayo, bekerja sama dalam melengkapi tabel di bawah ini agar waktu yang 
+diperlukan menjadi lebih sedikit.
+1.	
+Kamu pernah belajar mengenai perkalian dari 0 # 0 sampai 12
+12
+#
+. 
+Lengkapilah tabel perkalian di bawah ini.
+×
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+0
+1
+2
+3
+4
+Ayo, Bekerja Sama
+189
+
+ Bab 6 | Representasi dan Interpretasi Data
+×
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+5
+6
+7
+8
+9
+10
+11
+12
+Kamu dapat membuat kelompok hasil perkalian di atas dengan 
+mengelompokkan ke dalam kelas-kelas dengan panjang kelas 10. Sebagai 
+contoh, kelas pertama adalah kelas 0–9, kelas kedua: 10–19, kelas ketiga: 
+20–29, dan seterusnya sampai kelas: 140–149.
+a.	
+Buatlah tabel frekuensi dengan panjang kelas 10.
+b.	
+Lalu gambarlah histogramnya.
+c.	
+Menurutmu, apakah hasil kali tersebut akan terdistribusi merata 
+ke setiap kelas yang panjang kelasnya 10? Atau apakah ada kelas 
+tertentu yang memiliki hasil kali lebih banyak dari kelas lainnya?
+d.	
+Sekarang buatlah histogram lainnya dengan panjang kelas 20, 
+dimulai dari 0–19, 20–39, 40–59, dan seterusnya.
+e.	
+Jelaskanlah persamaan dan perbedaan dari kedua histogram yang 
+kamu hasilkan.
+2.	
+Dari sebuah survei terhadap siswa SMP mengenai berapa banyak waktu 
+yang mereka habiskan bersama orang tua mereka di akhir pekan, 
+diperoleh hasil survei sebagai berikut.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+190
+Tabel 6.3 Waktu yang Dihabiskan Siswa di Akhir Pekan
+Waktu yang Dihabiskan Bersama 
+Keluarga di Akhir Pekan
+Siswa Laki-Laki 
+(persen)
+Siswa Perempuan 
+(persen)
+Sepanjang Sabtu dan Minggu
+40,5
+49,6
+Hanya di salah satu hari saja
+18,6
+21,8
+Hanya 1
+2 hari saja
+15,8
+17,1
+Kurang dari 1
+2 hari
+25,1
+11,5
+Jika kamu ingin membandingkan hasil survei siswa laki-laki dengan hasil 
+survei siswa perempuan, kamu dapat menampilkannya dalam 2 buah 
+diagram lingkaran.
+Gambar 6.6 Perbandingan Diagram Lingkaran Siswa Laki-Laki dan Perempuan
+Ayo, Berpikir Kritis
+a.	
+Mengapa data yang ditampilkan dalam bentuk persentase?
+b.	
+Kamu juga dapat menampilkan data-data di atas dalam grafik 
+batang ganda, yang dalam setiap kategori memiliki 2 batang, 
+yang satu menunjukkan persentase banyaknya siswa laki-laki di 
+kategori tersebut dan yang lainnya menunjukkan persentase siswa 
+perempuan.
+Waktu yang Dihabiskan Bersama
+Keluarga di Akhir Pekan
+Siswa Perempuan
+Siswa Laki-laki
+49,6%
+Sepanjang 
+Sabtu-Minggu
+40.5%
+Sepanjang 
+Sabtu-Minggu
+11,5%
+Kurang dari 
+1/2 hari
+21,8%
+Hanya 1 hari
+saja
+17,1%
+Hanya 1/2 hari
+25,1%
+Kurang dari 
+1/2 hari
+18,6%
+Hanya 1 hari
+saja
+15,8%
+Hanya 1/2
+hari
+191
+
+ Bab 6 | Representasi dan Interpretasi Data
+Lengkapilah diagram batang berikut.
+Gambar 6.7 Diagram Batang Ganda Waktu Akhir Pekan Siswa
+Dengan memilih representasi grafik yang tepat, akan memudahkan kita 
+dalam membandingkan 2 kelompok data.
+c.	
+Menurutmu, diagram manakah yang lebih mudah digunakan untuk 
+membandingkan 2 kelompok data? Berikan alasan dari pilihanmu.
+3.	
+Dani sering bermain games online sehingga nilai kuis matematikanya 
+jelek. Orang tua Dani melarang Dani untuk bermain games online 
+sampai hasil nilai kuis matematika Dani berubah secara signifikan. Guru 
+matematika Dani setiap minggu memberikan kuis matematika dengan 
+nilai tertinggi 100. Dani membuat grafik batang untuk menunjukkan 
+kepada orang tuanya bahwa nilai kuisnya sudah membaik dalam 5 
+minggu terakhir.
+Ayo, Berpikir Kritis
+a.	
+Panjang batang nilai kuis 5 Dani tiga kali lebih tinggi dari panjang 
+batang nilai kuis 1-nya. Apakah nilai kuis 5-nya tiga kali dari nilai 
+kuis 1-nya?
+Waktu yang Dihabiskan Bersama
+Keluarga di Akhir Pekan
+Persentase
+Sepanjang 
+Sabtu Minggu
+Hanya 1 hari
+Hanya 1/2 hari
+Kurang dari 1/2 hari
+50
+40
+30
+20
+10
+Siswa Laki-laki
+Perempuan
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+192
+b.	
+Orang tua Dani mengatakan bahwa grafik batang yang dibuat Dani 
+menyesatkan karena dari grafik ini terlihat ada perbaikan signifikan 
+dari nilai kuis Dani dibandingkan dengan kenyataannya. Hal 
+manakah pada grafik ini yang menyebabkan grafik ini memberikan 
+kesimpulan yang salah?
+Gambar 6.8 Diagram Batang Buatan Dani
+Penguatan Karakter
+c.	
+Buatlah diagram batang yang baru yang dapat memberikan hasil 
+yang lebih akurat dan menggambarkan performa Dani yang 
+sebenarnya di kuis matematika mingguan.
+Dalam subbab ini, kamu sudah belajar mengenai diagram batang dan 
+histogram. Selain itu, kamu juga telah mengenal frekuensi dan frekuensi 
+relatif dalam diagram batang dan histogram. 
+1.	
+Apa saja perbedaan diagram batang dengan histogram?
+2.	
+Kapan kita sebaiknya menggunakan frekuensi relatif daripada 
+frekuensi?
+Ayo, Berefleksi
+193
+
+ Bab 6 | Representasi dan Interpretasi Data
+B.	Statistik Deskriptif
+1.	 Ukuran Pemusatan
+a.	 Modus dan Median
+Modus dan median adalah dua ukuran pemusatan untuk melihat 
+kecenderungan kumpulan data. 
+Median adalah nilai data yang berada tepat di tengah ketika seluruh 
+data diurutkan dari yang terkecil sampai yang terbesar. Untuk mencari letak 
+median, bagilah banyaknya data dengan 2. 
+•	
+Jika hasilnya adalah bilangan bulat, m, maka median terletak di tengah-
+tengah antara urutan ke-m dan ke-(m + 1).
+•	
+Jika hasil baginya bukan merupakan bilangan bulat, bulatkanlah 
+hasilnya ke atas, maka median terletak di urutan sesuai hasil 
+pembulatan.
+Modus dari sebuah kumpulan data adalah data yang paling sering 
+muncul atau memiliki frekuensi paling besar. Kedua ukuran pemusatan ini 
+memiliki keuntungan, yaitu tidak terpengaruh jika kumpulan data memiliki 
+data pencilan atau data yang berbeda dari kumpulan datanya.
+Selain modus dan median, kamu dapat melihat rentang dari kumpulan 
+data melalui range atau jangkauan. Jangkauan adalah selisih antara data 
+terkecil dengan data terbesar. 
+Eksplorasi   6.3	
+Dot Plot
+Ayo, Bereksplorasi
+Basket merupakan olahraga yang digandrungi banyak siswa SMA/MA, 
+khususnya pria. Untuk dapat bermain basket, kamu perlu menggunakan 
+sepatu olahraga. Berikut adalah data penjualan sepatu olahraga di toko A 
+yang terdiri atas beberapa merek dan ukuran pada akhir pekan pertama 
+bulan Januari.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+194
+Tabel 6.4 Data Penjualan Sepatu di Toko A
+No
+Merek
+Ukuran
+No
+Merek
+Ukuran
+1.
+A
+43
+14.
+A
+44
+2.
+B
+44
+15.
+C
+40
+3.
+C
+38
+16.
+D
+41
+4.
+A
+43
+17.
+B
+42
+5.
+C
+44
+18.
+D
+43
+6.
+D
+42
+19.
+E
+42
+7.
+A
+42
+20.
+A
+40
+8.
+A
+39
+21.
+A
+45
+9.
+B
+43
+22.
+C
+41
+10.
+E
+43
+23.
+A
+41
+11.
+C
+44
+24.
+A
+42
+12.
+E
+45
+25.
+C
+43
+13.
+B
+44
+1.	
+Buatlah Diagram Dot Plot untuk menunjukkan ukuran sepatu yang 
+terjual pada akhir pekan pertama bulan Januari. Diagram Dot Plot adalah 
+sebuah garis bilangan dengan banyaknya tanda X yang menunjukkan 
+banyaknya data yang muncul dengan nilai tertentu. Sebagai contoh, 45 
+muncul dua kali. Jadi, kamu tuliskan tanda X di atas angka 45.
+Gambar 6.9 Dot Plot Ukuran Sepatu
+2.	
+Jelaskan bentuk dari Dot Plot yang kamu hasilkan. Bagaimana bentuk 
+Dot Plot ini dapat menjelaskan distribusi data ukuran sepatu di atas?
+Ketika kamu mendeskripsikan sebuah kumpulan data, biasanya kamu 
+juga perlu menentukan data terkecil dan data terbesar dari kumpulan 
+data tersebut.
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+x
+x
+195
+
+ Bab 6 | Representasi dan Interpretasi Data
+3.	
+Tentukanlah data terkecil dan data terbesar dari kumpulan data ukuran 
+sepatu yang terjual.
+4.	
+Bagaimana kamu dapat menemukan data terkecil dan data terbesar 
+dengan melihat Diagram Dot Plot?
+5.	
+Tentukanlah jangkauan dari data ukuran sepatu pada Tabel 6.4.
+6.	
+Tentukanlah modus dari data ukuran sepatu pada Tabel 6.4.
+7.	
+Bagaimana kamu dapat menentukan modus sekumpulan data dari 
+Diagram Dot Plot?
+8.	
+Urutkanlah data ukuran sepatu di atas dari yang terkecil sampai yang 
+terbesar, lalu tentukanlah mediannya.
+9.	
+Bagaimana kamu dapat menentukan median dari sekumpulan data 
+dengan melihat Diagram Dot Plot?
+Jika terjadi penambahan data baru, bagaimana modus, median, dan jangkauan 
+akan terpengaruh?
+10.	 Ternyata ada data penjualan di toko sepatu A yang tertinggal. Data-data 
+tersebut adalah 41, 43, 44, 44, dan 46. Berapakah nilai dari jangkauannya 
+sekarang? Berapakah modusnya sekarang?
+Bagaimana perbedaan mencari median pada kelompok dengan banyaknya data 
+ganjil dan genap?
+11.	 Ketika banyaknya data adalah bilangan genap, maka tidak ada data yang 
+diambil sebagai median tunggal. Dalam hal ini, median diambil dari nilai 
+tengah di antara dua nilai data yang berada di tengah. Carilah median 
+dari kumpulan data yang baru. 
+Ayo, Berdiskusi
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+196
+b.	 Mean (Rerata atau Rata-Rata)
+Rerata atau mean adalah ukuran pemusatan lain selain median dan modus. 
+Mean dari sebuah kumpulan data adalah bilangan yang diperoleh dengan 
+mendistribusikan secara merata ke seluruh anggota dari kumpulan data. 
+Kamu dapat menghitung mean dengan cara menambahkan seluruh nilai data 
+dan membagi dengan total banyaknya data.
+Atau jika ditulis dalam bentuk formula: 
+ dengan:
+ adalah mean, dibaca  bar. 
+ menyatakan jumlah total data dan 
+menunjukkan banyaknya data.
+Eksplorasi   6.4	
+Mean
+Ayo, Bereksplorasi
+OSIS Sekolah A yang beranggotakan 10 orang akan melakukan aksi sosial 
+untuk membantu para korban bencana alam. Mereka sepakat untuk 
+mengumpulkan pakaian bekas layak pakai untuk membantu para korban 
+bencana alam. Adapun jumlah baju yang dikumpulkan setiap pengurus OSIS 
+adalah sebagai berikut.
+3
+5
+7
+10
+5
+3
+4
+6
+9
+8
+1.	
+Tentukanlah nilai mean, median, dan modus dari jumlah baju yang 
+dikumpulkan oleh para pengurus tersebut.
+Bagaimana penambahan data berpengaruh terhadap ukuran pemusatan?
+2.	
+Keesokan harinya, ada dua siswa yang bukan pengurus OSIS, namun 
+mereka terinspirasi dengan aksi sosial yang dilakukan oleh para 
+pengurus OSIS. Mereka langsung ikut menyumbangkan baju layak pakai 
+sebanyak 20 dan 22 buah. Tentukan mean, median, dan modus dari 
+kumpulan data yang baru.
+Ayo, Berdiskusi
+197
+
+ Bab 6 | Representasi dan Interpretasi Data
+c.	 Penggunaan Ukuran Pemusatan
+Setelah kamu mempelajari cara menentukan mean, median, dan modus, 
+maka hal yang juga penting adalah mengetahui karakteristik dari setiap 
+ukuran pemusatan ini, agar kita dapat memilih ukuran pemusatan mana 
+yang paling tepat sesuai dengan konteks permasalahan.
+Eksplorasi   6.5	
+Memilih Ukuran Pemusatan
+Ayo, Bereksplorasi
+Masih dari kisah para pengurus OSIS Sekolah A sebelumnya. Bagaimana 
+hasil pengamatanmu setelah membandingkan mean, median, dan modus 
+data sumbangan 10 pengurus OSIS dengan mean, modus dan median data 
+sumbangan ke-12 siswa?
+Di antara mean, median, dan modus, manakah nilai yang tetap? Manakah 
+nilai yang berubah? Jelaskan.   
+Cobalah berpikir ekstrem dengan mengganti 1 data dengan nilai yang sangat 
+berbeda, lalu amati perubahannya.
+Bagaimana jika seandainya siswa ke-12 bukan menyumbang 22 buah, 
+tetapi menyumbang 100 pakaian. Menurutmu, tanpa menghitung dahulu 
+mean, median, dan modus yang baru, manakah di antara mean, median, dan 
+modus yang nilainya berubah? Manakah yang nilainya tetap? Jelaskan.
+Sekarang cobalah kamu menghitung mean, median, dan modus yang 
+baru. Apakah analisis kamu di atas sudah benar?
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+198
+Modus
+Digunakan ketika jenis data adalah data kualitatif, atau 
+jenis data kuantitatif yang memiliki 1 modus atau 2 modus 
+(bimodal).
+Median
+Digunakan untuk jenis data kuantitatif. Biasanya median 
+digunakan ketika ada data yang memiliki nilai yang ekstrem 
+(pencilan), sehingga data ekstrem tersebut tidak memiliki 
+dampak yang besar seperti pada mean.
+Mean
+Digunakan untuk jenis data kuantitatif dan menggunakan 
+seluruh data. Namun, mean terpengaruh oleh data dengan 
+nilai yang ekstrem.
+d.	 Mean (Rata-Rata) Data Kelompok
+Data penjualan sepatu di toko A pada Tabel 6.4 merupakan kumpulan data 
+tunggal. Kalian dapat mengelompokkan data-data ini menjadi data kelompok 
+dengan panjang kelas sama dengan 2 sehingga menjadi tabel frekuensi data 
+kelompok sebagai berikut.
+Tabel 6.5 Distribusi Frekuensi Data Kelompok Penjualan Sepatu di Toko A
+Ukuran
+37–39
+40–42
+43–45
+46–48
+Frekuensi
+2
+11
+16
+1
+Cara menghitung rata-rata dari data kelompok di atas adalah 
+menggunakan nilai tengah dari tiap kelompok. Data tunggal dalam kelompok 
+diasumsikan tersebar secara merata, sehingga nilai tengah dari setiap 
+kelompok dapat diasumsikan mewakili kelompok tersebut. 
+Nilai tengah kelompok 37–39 adalah 38, Nilai tengah kelompok 40–42 
+adalah 41, Nilai tengah kelompok 43–45 adalah 44, dan Nilai tengah kelompok 
+46–48 adalah 47. 
+Rata-rata dari kelompok di atas:
+199
+
+ Bab 6 | Representasi dan Interpretasi Data
+Bagaimana rata-rata data tunggal dibandingkan dengan rata-rata data 
+kelompok? Apakah masih bisa merepresentasikan kelompok data?
+Bandingkanlah hasil rata-rata data kelompok ini dengan hasil rata-rata 
+data tunggal dari penjualan sepatu di toko A. Apakah menurutmu, kedua 
+hasil rata-rata masih cukup dekat?
+Latihan   6.3	
+1.	
+Jika data penjualan sepatu di toko A pada Tabel 6.4 kita ubah menjadi 
+tabel Frekuensi data tunggal sebagai berikut.
+Tabel 6.6 Tabel Frekuensi Data Tunggal Penjualan Sepatu di Toko A
+Ukuran
+38
+39
+40
+41
+42
+43
+44
+45
+46
+Frekuensi
+1
+1
+2
+4
+5
+7
+7
+2
+1
+a.	
+Tentukanlah modus, median, dan mean dari kumpulan data di atas.
+b.	
+Untuk menentukan rencana pemesanan sepatu bulan depan, 
+jelaskan mengapa pemilik toko sebaiknya menggunakan modus.
+2.	
+Data berikut menunjukkan jumlah kue yang dijual melalui situs online 
+setiap harinya:
+0
+3
+2
+7
+4
+2
+3
+0
+4
+0
+6
+5
+5
+2
+4
+0
+a.	
+Tentukanlah modus dan median dari data di atas.
+b.	
+Menurutmu, ukuran pemusatan manakah yang lebih untuk data di 
+atas, modus atau median? Jelaskan.
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+200
+Ayo, Berpikir Kreatif
+3.	
+Buatlah kumpulan data dengan banyaknya data, ada sebanyak 13 buah 
+dan memenuhi kondisi:
+•	 Data terkecil = 3
+•	 Data terbesar = 13
+•	 Modus = 4, dan
+•	 Median = 8
+4.	
+Dari 2 kelas siswa SD di sekolah “Pancasila” diperoleh data tinggi siswa 
+(dalam cm) sebagai berikut:
+•	
+Kelas A: 117, 117, 119, 122, 127, 127, 104, 137, 99, 107, 114, 127,   122, 
+114, 120, 125, 119
+•	
+Kelas B: 130, 147, 137, 142, 140, 135, 135, 142, 142, 137, 135, 132, 135, 
+120, 119, 125, 142
+a.	
+Untuk masing-masing kelas, buatlah grafik Box Plot.
+b.	
+Tentukanlah range, modus, dan median dari setiap kelas.
+c.	
+Kedua kelas berasal dari tingkat yang berbeda. Kelas manakah 
+menurutmu yang memiliki tingkat yang lebih tinggi?
+d.	
+Berapa persen siswa dari kelas B yang memiliki tinggi sama atau 
+lebih tinggi dari median tinggi badan siswa kelas A?
+5.	
+Pernahkah kamu mendengar bahwa Indonesia adalah salah satu paru-
+paru dunia? Hutan tropis di Indonesia memiliki peranan yang sangat 
+penting untuk memberikan sumbangan terhadap lingkungan dunia. 
+Pohon Borneo adalah salah satu jenis pohon yang banyak ditemukan di 
+hutan Kalimantan.
+Tabel 6.7 Tabel Frekuensi Data Kelompok Diameter Pohon Borneo di Daerah A
+Diameter Pohon Borneo (cm)
+19–21
+22–24
+25–27
+28–30
+Frekuensi
+4
+17
+25
+14
+a.	
+Tentukanlah kelas modus.
+b.	
+Prediksi nilai mean dari data kelompok di atas.
+c.	
+Tentukan kelas median.
+201
+
+ Bab 6 | Representasi dan Interpretasi Data
+Dalam subbab ini, kamu sudah belajar mengenai ukuran pemusatan: 
+mean, median, dan modus. Kamu juga telah menentukan manakah ukuran 
+pemusatan yang sesuai. 
+1.	
+Ukuran pemusatan manakah yang terpengaruh dengan pencilan? 
+Manakah yang tidak terpengaruh pencilan?
+2.	
+Saat data tunggal dikelompokkan, lalu kamu menghitung mean data 
+tunggal dan mean data kelompok, bagaimana hasil dari kedua mean 
+tersebut? Apakah berbeda jauh atau berbeda sedikit?
+e.	 Median dan Kelas Modus Data Kelompok
+Eksplorasi   6.6	
+Membandingkan Modus dan Median Data 
+Tunggal dengan Data Kelompok
+Ayo, Bereksplorasi
+Kita masih akan menggunakan data penjualan sepatu di toko A pada Tabel 
+6.5 yang merupakan Tabel Distribusi Data Kelompok. Sekarang, mari kita 
+bandingkan modus. Pada data tunggal, kelompok data ini memiliki dua 
+modus atau disebut bimodal, yaitu 43 dan 44 karena kedua data tersebut 
+memiliki frekuensi yang paling tinggi yaitu 7.
+Pada data kelompok, kita dapat melihat bahwa kelas modus adalah 
+kelas 43–45 yaitu dengan frekuensi 16. Jadi, walaupun data tunggal diubah 
+ke dalam data kelompok, ternyata kelas modus tetap dapat memberikan 
+gambaran estimasi di mana data modus berada.
+Bagaimana dengan median?
+Untuk data tunggal, karena jumlah data ada sebanyak 30 data, maka 
+karena 30 dibagi 2 adalah 15, sehingga median terletak di antara data ke-
+15 dan data ke-16. Data yang terletak di urutan ke-15 adalah 43 dan data di 
+urutan ke-16 adalah 43. Maka median dari kelompok data tunggal adalah 
+ = 43.
+Ayo, Berefleksi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+202
+Untuk mencari median dari data kelompok, kita akan menggunakan 
+interpolasi. Bagaimana interpolasi bekerja? Pertama, tentukan dahulu kelas 
+median. Karena jumlah data sebanyak 30, maka data median berada di 
+urutan ke  × 30 = 15. Data ke-15 berada di kelas 43–45.
+Tepi bawah kelas 43–45 adalah 42,5 dan tepi atasnya adalah 45,5. Setelah 
+itu kamu perlu menentukan banyaknya data yang nilainya di bawah 42,5 dan 
+45,5.
+Banyaknya data yang nilainya di bawah 42,5 yaitu banyaknya data di 
+kelas 37–39 dan kelas 40–42 yaitu ada sebanyak 2 + 11 = 13.
+Banyaknya data yang nilainya di bawah 45,5 yaitu banyaknya data di 
+kelas 37–39, kelas 40–42 dan kelas 43–45 yaitu ada sebanyak 2 + 11 + 16 = 29.
+Semua data yang diperoleh, diletakkan dalam garis bilangan berikut:
+Bilangan di atas garis merupakan tepi bawah dan tepi atas dari kelas 
+median. Bilangan di bawah garis merupakan banyaknya data yang terletak di 
+bawah 42,5, di bawah urutan median, dan di bawah 45,5.
+Lalu, kamu tinggal membandingkan selisih dari bilangan-bilangan yang 
+ada pada garis bilangan tersebut:
+Ternyata median dari data berkelompok, yaitu 42,875 tidak jauh 
+berbeda dengan median dari data tunggal, yaitu 43. Jadi, walaupun data 
+dikelompokkan, median data kelompok dapat tetap mewakili median dari 
+data tunggal.
+203
+
+ Bab 6 | Representasi dan Interpretasi Data
+2.	 Ukuran Penempatan (Measure of Location)
+Kuartil Data Tunggal
+Sebelumnya kamu telah mempelajari mengenai median. Median membagi 
+kumpulan data yang telah diurutkan menjadi 2 sama besar (50%). Kamu 
+dapat menentukan ukuran penempatan lainnya seperti kuartil dan persentil.
+85%
+10%
+Nilai 
+maksimum
+Q1
+25%
+25%
+25%
+25%
+Q2
+Q3
+Nilai
+minimum
+Kuartil Bawah berada
+di urutan 25% dari
+kelompok data
+85% data berada 
+di bawah P85 atau
+Persentil ke 85 dan
+15% data berada 
+di atas P85
+Persentil membagi data
+menjadi 100 bagian 
+yang sama.
+P10   atau Persentil ke 10
+berada di urutan 10%
+dari kelompok data
+Kuartil Atas berada 
+di urutan 75% dari
+kelompok data 
+ini adalah median
+Gambar 6.10 Letak Kuartil dan Persentil dalam Kelompok Data
+Serupa dengan mencari letak median, maka untuk mencari letak kuartil 
+bawah atau Q1, bagilah banyaknya data dengan 4.
+•	
+Jika hasilnya adalah bilangan bulat, m, maka Q1 terletak di tengah-tengah 
+antara urutan ke-m dan ke-(m + 1). 
+•	
+Tetapi jika hasil baginya bukan merupakan bilangan bulat, bulatkanlah 
+hasilnya ke atas, maka Q1 terletak di urutan sesuai hasil pembulatan.
+Misalkan jika banyaknya data ada 20 buah, di manakah letak median? Di 
+manakah letak Q1?
+Untuk median, 20 dibagi 2 = 10, maka median terletak di antara data 
+urutan ke-10 dan ke-11.
+Untuk Q1, 20 dibagi 4 = 5, maka Q1 terletak di antara data urutan ke-5 dan 
+ke-6. Agar lebih jelas, kamu dapat melihat ilustrasi berikut.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+204
+median
+data
+ke-20
+data
+ke-1
+data
+ke-5
+data
+ke-6
+5 data5
+ data
+10 data
+Q1
+Q2
+20 data
+data
+ke-10
+data
+ke-11
+Gambar 6.11 Letak Q1 dan Q2 dalam Kelompok Data n = 20
+Dari ilustrasi di atas, kamu dapat melihat bahwa Median = Q1, yaitu 
+membagi kumpulan data menjadi 2 sama besar yaitu, 10 data di sebelah kiri 
+dan 10 data di sebelah kanan. 
+Adapun Q1 membagi dua ke-10 data yang berada di sebelah kiri menjadi 
+masing-masing sebanyak 5 data.
+Nah, dapatkah kamu mencari di mana letak Q3 atau kuartil atas agar dia 
+membagi ke-10 data di sebelah kanan Q2 sama banyak?
+Benar sekali, Q3 terletak di antara data ke-15 dan ke-16.
+median
+data
+ke-20
+data
+ke-1
+data
+ke-15
+data
+ke-16
+5 data
+5 data
+Q1
+Q2
+Q2
+20 data
+5 data
+5 data
+Gambar 6.12 Letak Kuartil dalam Kelompok Data n = 20
+Dari ilustrasi di atas, kamu dapat melihat bahwa Q1, Q2 dan Q3 membagi 
+kumpulan data menjadi 4 bagian yang sama besar, yaitu masing-masing 
+terdiri dari 5 data. 
+Ayo, Mencoba
+205
+
+ Bab 6 | Representasi dan Interpretasi Data
+Atau dapat dikatakan bahwa di antara Q1 dan Q2 terdapat 25% data. 
+Demikian juga di antara Q2 dan Q3 terdapat 25% data.
+Dapatkah kamu menentukan rumus untuk mencari Q3? Coba pikirkan 
+dulu sejenak.
+Benar, serupa dengan mencari letak median dan Q1, maka untuk mencari 
+letak kuartil atas atau Q3 adalah dengan mengalikan banyaknya data 
+dengan . 
+•	
+Jika hasilnya adalah bilangan bulat m, maka Q3 terletak di tengah-tengah 
+antara urutan ke-m dan ke-(m + 1). 
+•	
+Tapi jika hasil baginya bukan merupakan bilangan bulat, bulatkanlah 
+hasilnya ke atas, maka Q3 terletak di urutan sesuai hasil pembulatan.
+Jika banyaknya data ada 20 buah, maka  × 20 = 15. Karena 15 
+merupakan bilangan bulat, maka letak Q3 ada di antara data ke-15 dan ke-16.
+Bandingkan hasilnya dengan ilustrasi di atas. Apakah sama atau berbeda?
+Carilah Q1, Q2, dan Q3 dari data penjualan sepatu pada Tabel 6.6.
+C.	 Representasi Data Lanjutan
+1.	 Diagram Box-and-Whisker atau Box plot
+Mari, kita perhatikan Gambar 6.13 . Ada bilangan-bilangan yang kamu lihat 
+pada gambar ini.
+Bilangan-bilangan berapa sajakah yang tertulis?
+Cobalah mengaitkan bilangan-bilangan ini dengan tugas Ayo, Mencoba 
+yang baru saja kamu hitung sebelum ini. Apakah yang kamu temukan?
+Ayo, Mencoba
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+206
+Gambar 6.13 
+38
+41
+43 44
+46
+Diagram Box-and-Whisker Penjualan Sepatu
+Diskusikan temuan kamu dan kaitannya dengan konsep kuartil yang telah 
+kamu pelajari.
+Diagram Box-and-Whisker (atau dikenal juga dengan box plot) adalah 
+salah satu cara memvisualkan distribusi data dalam satu diagram. Diagram 
+ini menampilkan data berdasarkan lima ukuran data yaitu: nilai minimum, 
+kuartil pertama (Q1), median, kuartil ketiga (Q3), dan nilai maksimum.
+Penjelasan kelima ukuran data yang akan digunakan dalam box plot 
+adalah sebagai berikut.
+•	
+Nilai Minimum dan Maksimum, merupakan data terkecil dan terbesar 
+dalam kumpulan data.
+•	
+Kuartil, membagi data menjadi empat bagian sama besar.
+•	
+Kuartil Pertama (Q1): 25% data.
+•	
+Kuartil Ketiga (Q3): 75% data.
+•	
+Median (Q2): 50% data.
+•	
+Jangkauan Inter Kuartil atau Inter Quartile Range (IQR), adalah 
+rentang dengan 50% data  tengah berada. IQR dihitung dengan cara  
+IQR = Q3 - Q1
+•	
+Pencilan, adalah data yang letaknya jauh dari data-data lainnya. Biasanya 
+lebih dari 1,5 kali IQR di atas Q3 atau di bawah Q1.
+Kelima ukuran data ini digambar menjadi Diagram Box-and-Whisker 
+berikut ini.
+207
+
+ Bab 6 | Representasi dan Interpretasi Data
+IQR
+Q1
+Q2
+Q3
+pencilan
+minimum
+maksimum
+pencilan
+whisker
+whisker
+ 
+Gambar 6.14 Diagram Box-and-Whisker 
+Untuk lebih jelas lagi marilah kita melihat contoh berikut.
+Sebuah perusahaan penyedia layanan internet ingin menilai kecepatan unduh 
+yang diterima oleh pelanggannya di sebuah kota besar. Dari 20 pelanggan yang 
+diambil sampelnya, perusahaan mendapatkan data kecepatan unduh (dalam 
+Mbps) sebagai berikut:
+20, 25, 23, 22, 26, 24, 23, 22, 23, 21, 36, 24, 25, 26, 23, 25, 24, 27, 25, 26
+1.	
+Buatlah Diagram Box and Whisker dari data di atas.  
+2.	
+Apakah kumpulan data ini memiliki pencilan? Jika ada, jelaskan kenapa?
+3.	
+Dari gambar box plot, berapa persenkah banyaknya data yang terletak 
+antara 24 dan 27?
+Mari kita selesaikan masing-masing soal dengan analisis deskriptif 
+berdasarkan data yang diberikan:
+1.	
+Pertama, urutkan data: 20, 21, 22, 22, 23, 23, 23, 23, 24, 24, 24, 25, 25, 25, 
+25, 26, 26, 26, 27, 36
+Lalu kita tentukan nilai Q1, Median, dan Q3: 
+Q1: Nilai tengah antara angka pertama dan median = (23+23)/2 = 23 
+Median: (24+24)/2 = 24 
+Q3: Nilai tengah antara median dan angka terakhir = (25+26)/2 = 25,5
+Selanjutnya kita tentukan IQR.  
+IQR = Q3 – Q1 = 25,5 – 23 = 2,5
+Tentukan batas atas dan bawah untuk pencilan:
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+208
+Batas bawah: Q1 – 1.5 x IQR = 23 – 3,75 = 19,25 (tidak ada data di bawah 
+ini) Batas atas: Q3 + 1.5 x IQR = 26 + 3.75 = 29,75
+Gambar 6.15 Diagram Box-and-Whisker Kecepatan Unduh Internet
+2.	
+Dari data yang ada, 36 jelas melebihi batas atas, 36 > 29,75 sehingga 36 
+adalah pencilan. 
+Diagram Box-and-Whisker akan memiliki whisker atau “kumis” atas yang 
+panjang, menunjukkan adanya outlier di angka 36. Angka ini mungkin 
+disebabkan oleh kesalahan teknis atau kondisi lain yang membuat 
+kecepatan unduh sangat tinggi. Saat meletakkan data tersebut dalam 
+Diagram Box-and-Whisker, data 36 Mbps tampak sebagai pencilan 
+karena jauh dari data lainnya.
+3.	
+Dari gambar Box Plot, dapat dilihat bahwa Q2 = 24 dan data maksimum = 
+27. 
+Antara Q2 dan Q3, terdapat 25% data 
+Antara Q3 dan data maksimum, juga terdapat 25% data 
+Maka antara Q2 dan data maksimum, terdapat 50% data.
+Dalam upaya untuk mempromosikan penggunaan energi yang efisien, Kota 
+Tangerang melakukan survei terhadap konsumsi listrik bulanan (dalam kWh) 
+dari 10 rumah tangga:
+300, 320, 310, 305, 315, 320, 750, 310, 325, 315
+1.	
+Buatlah Diagram Box-and-Whisker dari data di atas.
+2.	
+Mengapa angka 750 kWh dapat dianggap sebagai pencilan? 
+3.	
+Apa yang mungkin menyebabkan pencilan tersebut?
+Pencilan
+19,25
+29,75
+Batas atas
+Batas bawah
+18
+20
+22
+24
+26
+28
+30
+32
+34
+36
+38
+Ayo, Mencoba
+209
+
+ Bab 6 | Representasi dan Interpretasi Data
+Menggunakan Box Plot Untuk Membandingkan Dua atau Lebih 
+Kelompok Data
+Box Plot tidak hanya berguna untuk melihat bagaimana sebaran dari 
+suatu kelompok data, namun  diagram ini juga dapat membantu kita 
+untuk menganalisis  dua atau lebih kelompok data, sehingga kita dapat 
+membandingkannya lalu mengambil keputusan terkait data yang 
+ditampilkan.
+Mari, kita lihat contoh berikut.
+Jika kita menggunakan bola lampu 60 watt selama satu jam, maka 
+artinya lampu tersebut akan  membutuhkan listrik sebesar 0.06 kilowatt 
+hour. Bila digunakan selama seribu jam, maka akan membutuhkan 60 
+kilowatt jam listrik. Bila bola lampu 60 watt dinyalakan selama 8 jam per hari 
+selama 30 hari, energi yang digunakan adalah 0,06 kWh  x 8 jam x 30 hari = 
+14.4 kWh . Jadi mari menghemat listrik dengan cara sederhana yaitu matikan 
+lampu saat tidak sedang digunakan.
+Jumlah penduduk dunia yang terus bertambah, artinya semakin banyak 
+membutuhkan energi. Ditambah dengan isu lingkungan dan dunia yang lebih 
+bersih, maka banyak negara terus mencoba mengganti penggunaan energi 
+yang berasal dari fosil atau batu bara dengan energi terbarukan yang lebih 
+bersih, antara lain energi dari panel surya dan energi dari turbin angin. 
+Dua kota, A dan B, sedang menguji sumber energi terbarukan mereka. 
+Kota A mengandalkan panel surya, sedangkan Kota B menggunakan turbin 
+angin. Selama sepuluh hari, mereka mencatat jumlah energi (dalam kilowatt-
+hour atau kWh) yang mereka hasilkan:
+Kota A (Energi Surya): 150, 170, 160, 155, 165, 158, 162, 168, 163, 159 
+Kota B (Energi Angin): 140, 142, 145, 147, 141, 150, 146, 143, 148, 144
+Berdasarkan Diagram Box-and-Whisker dari kedua dataset, kota mana 
+yang memiliki produksi energi yang lebih konsisten? Jelaskan alasanmu.
+Kita perlu menentukan 5 data yang diperlukan untuk menggambar 
+masing-masing Box Plot.
+Pada tabel di bawah ini, sudah dilengkapi 5 ukuran data, range dan IQR 
+untuk energi surya. Lengkapilah 5 ukuran data, range dan IQR untuk energi 
+turbin angin.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+210
+Energi Surya
+Turbin Angin
+Data Minimum
+150
+………
+Data Q1
+158
+………
+Data Q2
+161
+………
+Data Q3
+165
+147
+Data Maksimum
+170
+………
+Kita juga dapat menentukan range dan IQR dari masing-masing kelompok.
+Energi Surya
+Turbin Angin
+Range
+20
+………
+IQR
+7
+………
+Dari data di atas, kita gambar kedua Box Plot.
+Gambar 6.16 Diagram Box-and-Whisker Energi Angin dan Tenaga Surya
+Diskusikanlah dengan teman sebangkumu, hal-hal apa saja yang dapat 
+kamu peroleh dari diagram pada Gambar 6.16. Setelah selesai berdiskusi, 
+kamu dapat melihat beberapa contoh analisis dari Box Plot pada Gambar 6.16.
+•	
+Secara umum, energi yang dihasilkan oleh tenaga surya lebih besar dari 
+energi yang dihasilkan oleh turbin angin.
+•	
+Box Plot turbin angin memiliki IQR dan range yang lebih kecil daripada 
+energi surya, artinya energi yang dihasilkan oleh turbin angin walaupun 
+lebih kecil, namun  lebih konsisten.
+Turbin Angin
+Panel Surya
+140 142 144,5 147
+150
+158
+161
+165
+170
+211
+
+ Bab 6 | Representasi dan Interpretasi Data
+•	
+50% data energi turbin angin yang dihasilkan terletak di antara 142 kwh 
+sampai 147 kwh 
+•	
+50% data energi tenaga surya yang dihasilkan terletak di antara 158 kwh 
+sampai 165 kwh 
+•	
+Energi terbesar yang dihasilkan oleh turbin angin adalah 150 kWh, ini 
+sama dengan besar energi terkecil yang dihasilkan oleh panel surya.
+•	
+Batas atas turbin angin = 147 + 1,5 x 5 = 154,5 
+Batas bawah turbin angin = 142 – 1,5 x 5 = 134,5 
+Artinya tidak ada pencilan pada kumpulan data energi turbin angin
+•	
+Batas atas energi surya = 165 + 1,5 x 7 = 175,5 
+Batas bawah energi surya = 158 – 1,5 x 7 = 147,5 
+Artinya tidak ada pencilan pada kumpulan data energi panel surya
+Jika kota kamu akan menerapkan penggunaan energi terbarukan, manakah 
+yang akan kamu pilih? Energi tenaga surya atau energi turbin angin? 
+Pertimbangkan juga kondisi daerahmu, antara lain apakah daerahmu sering 
+berawan atau kondisi angin kurang kencang untuk memutar turbin.
+Selain energi surya dan energi angin, salah satu sumber energi lainnya adalah 
+energi hidro atau energi yang dihasilkan oleh tenaga air untuk memutar turbin 
+listrik. Energi hidro termasuk salah satu sumber energi terbarukan yang ramah 
+lingkungan. Hanya saja saat musim kemarau panjang, energi hidro ini menjadi 
+sulit dihasilkan.
+Dua rumah tangga membandingkan konsumsi energi bulanan (dalam kwh) 
+mereka setelah memasang sumber energi terbarukan. Rumah A menggunakan 
+energi surya, sedangkan Rumah B menggunakan energi hidro:
+•	
+Rumah A (Energi Surya): 320, 325, 310, 315, 320, 328, 319, 321, 322, 317
+•	
+Rumah B (Energi Hidro): 300, 305, 310, 308, 306, 307, 309, 304, 302, 301
+Rumah mana yang memiliki konsumsi energi median yang lebih tinggi? 
+Berdasarkan rentang interkuartil, konsumsi energi rumah tangga mana 
+yang lebih konsisten?
+Ayo, Berpikir Kritis
+Ayo, Mencoba
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+212
+Latihan   6.4	
+1.	
+Perhatikan Box Plot dari data waktu yang diperlukan (dalam menit) 
+untuk pengisian HP dari 0% sampai 100%. 
+Gambar 6.17  
+68
+70
+72
+Box Plot waktu yang diperlukan untuk pengisian daya HP
+dari 0 % sampai 100 % (dalam menit)
+74
+76
+80
+Diagram Box-and-Whisker Kecepatan Pengisian HP dari 0 sampai 100%
+a.	
+Tentukanlah nilai dari data minimum, Q1, Q2, Q3 dan data 
+maksimum dari data tersebut.
+b.	
+Buatlah kumpulan data dengan banyaknya data sebanyak 10 buah 
+yang memiliki Box Plot di atas.
+2.	
+Dalam upaya untuk mempromosikan penggunaan energi yang efisien, 
+sebuah kota melakukan survei terhadap konsumsi listrik bulanan (dalam 
+kWh) dari 10 rumah tangga diperoleh data sebagai berikut.
+300, 320, 310, 305, 315, 320, 750, 310, 325, 315 
+a.	
+Buat Diagram Box-and-Whisker dari data di atas. 
+b.	
+Mengapa angka 750 kWh dapat dianggap sebagai pencilan? 
+c.	
+Apa yang mungkin menyebabkan pencilan tersebut?
+3.	
+Dua model Artificial Intelligence (AI) dilatih untuk mengenali gambar. 
+Waktu pelatihan (dalam jam) untuk setiap model selama sepuluh sesi 
+pelatihan berbeda adalah sebagai berikut.
+Model P: 5; 5,5; 5,2; 5,3; 5,4; 5,1; 5,3; 5,2; 5,4; 5,3 
+Model Q: 4,5; 5; 4,8; 5,1; 4,9; 4,7; 4,8; 5,2; 4,6; 4,7
+Berdasarkan Diagram Box-and-Whisker dari kedua kumpulan data di 
+atas, model mana yang umumnya memerlukan waktu lebih sedikit untuk 
+pelatihan? Model mana yang memiliki rentang waktu pelatihan yang 
+lebih seragam?
+213
+
+ Bab 6 | Representasi dan Interpretasi Data
+4.	
+Selama 20 hari, empat siswa mencatat lamanya mereka belajar untuk 
+mengerjakan pekerjaan rumah/PR setiap malamnya (dalam menit). Data 
+tersebut disajikan dalam Diagram Box-and-Whisker berikut. 
+Gambar 6.18 
+Andi
+Budi
+Clara
+Waktu (menit)
+0
+10
+20
+30
+40
+50
+60
+70
+90
+100
+Troy
+80
+Diagram Box-and-Whisker Waktu Lama Belajar
+a.	
+Siswa manakah yang memiliki median yang paling tinggi?
+b.	
+Jika sekolah menyarankan untuk setiap siswa, bahwa median dari 
+waktu belajar yang paling pas adalah 70 menit, siswa manakah yang 
+paling mengikuti saran dari sekolah?
+c.	
+Siswa manakah yang waktu belajarnya paling lama dalam semalam?
+d.	
+Siswa manakah yang memiliki range waktu belajar paling kecil?
+e.	
+Siswa manakah yang memiliki waktu belajar setidaknya 50 menit?
+f.	
+Berapa banyakkah siswa yang belajar lebih dari 2 jam dalam 1 
+malam?
+2.	 Diagram Pencar (Scatter Plot)
+Ayo, Berdiskusi
+Ibu Tuti, guru Bahasa Indonesia Sekolah Pancasila menyampaikan ke 
+para siswanya, bahwa agar mereka dapat berhasil dalam ulangan Bahasa 
+Indonesia, mereka perlu rajin membaca buku-buku nonfiksi yang disarankan 
+Bu Tuti.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+214
+Untuk membuktikan pernyataan Bu Tuti tersebut, Bima mencoba 
+mengumpulkan data jumlah buku yang dia baca dan hasil nilai ulangan 
+Bahasa Indonesia tiap bulannya selama 10 bulan. Data-data ini ditulis dalam 
+Tabel 6.8.
+Tabel 6.8 Tabel Jumlah Buku yang Dibaca dan Nilai Ulangan Bahasa Indonesia
+Jumlah Buku yang 
+Dibaca per Bulan
+2
+4
+1
+3
+5
+0
+6
+7
+3
+2
+Nila Ulangan Bahasa 
+Indonesia
+60
+70
+55
+65
+75
+50
+80
+85
+67
+58
+Lalu Bima menggambar diagram pencar dari tabel tersebut seperti 
+gambar berikut.
+Coba diskusikan dengan teman-
+teman sekelasmu. Bagaimana 
+menggambar diagram pencar di 
+samping berdasarkan tabel yang 
+diberikan.
+Dari data yang diberikan, kita 
+dapat membuat Diagram Pencar 
+dengan sumbu x menunjukkan 
+jumlah buku yang dibaca dan 
+sumbu y menunjukkan nilai ujian 
+bahasa.
+Menurutmu, apakah kita boleh membalik kedua kelompok data ini, dengan nilai 
+ujian bahasa di sumbu x dan jumlah buku yang dibaca di sumbu y?
+Dengan memplot data ke diagram, kita akan melihat titik-titik data 
+menunjukkan kecenderungan naik. Ini berarti, seiring dengan meningkatnya 
+jumlah buku yang dibaca oleh siswa, nilai ujian bahasa mereka juga 
+cenderung meningkat. Berdasarkan Diagram Pencar tersebut, dapat 
+Jumlah Buku yang Dibaca
+tiap Bulan
+Nilai Ulangan Bahasa
+Indonesia
+100
+80
+60
+40
+20
+2
+4
+6
+8
+Gambar 6.19 Diagram Pencar Buku yang Dibaca 
+dan Nilai Ulangan Bahasa Indonesia
+Ayo, Berpikir Kritis
+215
+
+ Bab 6 | Representasi dan Interpretasi Data
+dikatakan bahwa ada korelasi positif antara jumlah buku yang dibaca per 
+bulan dengan nilai ujian bahasa siswa. Korelasi positif menunjukkan bahwa 
+kedua variabel bergerak ke arah yang sama; jika satu variabel bertambah, 
+maka variabel lainnya juga jadi meningkat atau dalam konteks ini dapat 
+disimpulkan hubungan sebab-akibat sebagai berikut: makin banyak buku 
+yang dibaca, maka nilai ujian bahasa akan makin baik.
+Teman Bima, Nakula juga membaca buku sama banyaknya dengan Bima setiap 
+bulannya, namun nilainya hanya mendapatkan nilai 40 sampai 45. Kenapa hal 
+ini bisa terjadi? Diskusikan dengan temanmu.
+Apa itu Diagram Pencar?
+Diagram Pencar (juga dikenal sebagai Scatter Plot) adalah diagram dengan 
+dua set data direpresentasikan sebagai titik-titik di sebuah bidang dengan 
+koordinat Kartesius. Setiap titik mewakili dua nilai data yang dipasangkan 
+dengan koordinat x (sumbu horizontal) mewakili satu nilai dan koordinat 
+y (sumbu vertikal) mewakili nilai lainnya. Tujuan dari diagram pencar ini 
+adalah untuk memvisualisasikan hubungan atau korelasi antara dua set data.
+Ketika menganalisis Scatter Plot, salah satu hal yang sering kita cari 
+adalah pola atau tren dalam titik-titik data. 
+Jenis-jenis korelasi dalam Diagram Pencar adalah sebagai berikut.
+•	
+Korelasi Positif: Ketika nilai satu variabel meningkat, nilai variabel 
+lainnya juga meningkat.
+•	
+Korelasi Negatif: Ketika nilai satu variabel meningkat, nilai variabel 
+lainnya menurun.
+•	
+Tidak Ada Korelasi: Tidak ada hubungan yang jelas antara dua variabel.
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+216
+Gambar 6.20 Berbagai Jenis Korelasi
+Menurutmu, bagaimana korelasi antar kelompok data yang ditunjukkan 
+pada masing-masing diagram? Diskusikanlah terlebih dahulu dengan 
+temanmu.
+Diagram a dan c, keduanya menunjukkan korelasi positif yang kuat, 
+makin besar nilai x maka makin besar pula nilai y-nya. Apa perbedaan 
+antara diagram a dengan diagram c?
+Walaupun sama-sama memiliki korelasi positif, diagram a dapat 
+dikatakan memiliki korelasi positif kuat, sedangkan diagram c memiliki 
+korelasi positif sedang. Menurutmu apakah alasannya?
+Perbedaan antara korelasi positif kuat dan korelasi positif sedang pada 
+Scatter Plot umumnya dapat dilihat pada seberapa dekat titik-titik data 
+tersebut membentuk suatu garis lurus. Pada korelasi positif kuat, titik-titik 
+data pada Scatter Plot cenderung sangat dekat dan menyerupai garis linear. 
+Distribusi titik-titik data mengikuti pola garis lurus yang cenderung naik. 
+Seiring dengan meningkatnya nilai variabel x, nilai variabel y juga meningkat 
+dengan konsistensi yang jelas.
+12
+14
+16
+18
+20
+22
+24
+12
+14
+16
+18
+20
+22
+24
+y
+x
+a.
+12
+14
+16
+18
+20
+22
+24
+0
+2
+4
+6
+8
+10
+12
+y
+x
+b.
+12,5
+17,5
+22,5
+27,5
+12
+16
+20
+24
+28
+y
+x
+c.
+0
+5
+15
+25
+10
+20
+12
+16
+20
+24
+28
+y
+x
+d.
+217
+
+ Bab 6 | Representasi dan Interpretasi Data
+Adapun pada korelasi positif sedang, titik-titik data pada Scatter Plot 
+cenderung berada di sekitar garis linear, tetapi dengan deviasi yang lebih 
+besar dibandingkan dengan korelasi positif kuat. Meskipun ada pola 
+kenaikan yang terlihat, beberapa titik mungkin jauh dari garis linear. Ada 
+hubungan positif antara variabel X dan Y, tetapi hubungannya tidak sekuat 
+dalam kasus korelasi positif kuat.
+Bagaimana dengan diagram b dan d? Apakah  persamaan dan perbedaan 
+dari kedua diagram ini? Kedua diagram, sama-sama memiliki korelasi 
+negatif. Ketika nilai x makin bertambah, ternyata nilai y makin berkurang. 
+Perbedaannya adalah diagram b menunjukkan korelasi negatif kuat, 
+sedangkan diagram d memiliki korelasi negatif sedang.
+Polusi udara  adalah masalah yang seringkali muncul di kota-kota besar. 
+Bagaimana mengetahui seberapa bersih atau kotornya udara di sekitar kita?
+Tingkat polusi udara merupakan seberapa banyak kumpulan dari 
+berbagai jenis partikel dan gas yang berasal dari berbagai sumber, dan 
+PM2.5 adalah salah satu komponen utama dari banyak zat pencemar yang 
+ditemukan di udara. Dari semua zat pencemar udara, PM2.5 sering kali 
+dianggap sebagai yang paling berbahaya bagi kesehatan manusia karena 
+ukurannya yang sangat kecil memungkinkan partikel-partikel ini menembus 
+lebih dalam ke dalam sistem pernapasan, mencapai paru-paru dan bahkan 
+dapat memasuki aliran darah. PM2.5 dapat berasal dari berbagai sumber, 
+termasuk pembakaran bahan bakar fosil, kebakaran hutan, kegiatan industri, 
+dan kendaraan bermotor. PM2.5 diukur dalam mikrogram per meter kubik 
+(μg/m3) untuk menentukan kualitas udara. Berdasarkan pengukuran ini, 
+berbagai organisasi dan pemerintah menetapkan standar atau batasan untuk 
+konsentrasi PM2.5 untuk melindungi kesehatan masyarakat. Di Indonesia, 
+batas PM2.5 adalah 55 μg/m3.
+Mengurangi konsentrasi PM2.5 di udara sering kali menjadi fokus 
+utama dalam upaya mengurangi polusi udara, karena partikel ini memiliki 
+dampak kesehatan yang signifikan. Strategi pengurangan dapat meliputi 
+peningkatan efisiensi pembakaran, penggunaan bahan bakar yang lebih 
+Ayo, Mencoba
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+218
+bersih, pengendalian emisi dari industri, dan promosi transportasi yang 
+ramah lingkungan.
+Dengan kata lain, PM2.5 adalah salah satu faktor kunci yang 
+berkontribusi pada polusi udara dan memiliki dampak kesehatan yang 
+signifikan, sehingga memahami dan mengendalikannya penting dalam upaya 
+untuk meningkatkan kualitas udara dan kesehatan masyarakat.
+Berikut adalah 20 data yang menunjukkan jumlah pohon yang ditanam 
+setiap tahun dengan tingkat polusi udara (diukur dalam level PM2.5).
+Tabel 6.9 Tabel Jumlah Pohon Ditanam dan Tingkat Polusi (Level PM2.5)
+Jumlah Pohon 
+Ditanam (tiap tahun)
+Tingkat Polusi 
+(Level PM 2.5)
+Jumlah Pohon 
+Ditanam (tiap tahun)
+Tingkat Polusi 
+(Level PM 2.5)
+200
+50
+230
+47
+250
+47
+245
+46
+220
+49
+240
+46
+275
+46
+250
+45
+280
+45
+235
+47
+230
+48
+255
+45
+210
+50
+225
+48
+290
+44
+260
+45
+260
+46
+240
+46
+270
+45
+230
+47
+1.	
+Buatlah Diagram Pencar dari data pada Tabel 6.9, dengan jumlah pohon 
+sebagai sumbu x dan tingkat polusi udara sebagai sumbu y.
+2.	
+Tentukanlah jenis korelasinya, lalu apakah masuk dalam kategori kuat 
+atau sedang?
+219
+
+ Bab 6 | Representasi dan Interpretasi Data
+Sebuah kota telah melakukan pengukuran tingkat polusi udara berdasarkan 
+konsentrasi PM2.5 selama 20 hari. Pengukuran dilakukan untuk menilai kualitas 
+udara dan potensi dampaknya terhadap kesehatan masyarakat. Data yang 
+diperoleh diberikan dalam tabel berikut.
+1.	
+Buatlah diagram pencar dengan sumbu x menunjukkan hari pengukuran 
+dan sumbu y menunjukkan konsentrasi PM 2.5 
+2.	
+Korelasi apakah yang kamu temui dari diagram pencar ini? Jelaskan.
+3.	
+Menurutmu, apakah ada kebutuhan untuk pemerintah setempat melakukan 
+tindakan pengurangan polusi udara di kota tersebut? Mengapa?
+4.	
+Bagaimana dengan tingkat polusi di kotamu? Kamu dapat mengumpulkan 
+data tingkat polusi harian selama 1 bulan melalui website https://www.
+iqair.com. Lalu cobalah membuat diagram pencar dari data yang kamu 
+kumpulkan. Analisislah korelasi dari data yang kamu kumpulkan.
+Perlu kamu ketahui, bahwa tidak semua korelasi menunjukkan 
+hubungan sebab-akibat ya. Seperti pada contoh di atas, bahwa data yang 
+menunjukkan urutan hari, tidak ada kaitannya dengan tingkat polusi. Namun 
+kita dapat melihat bagaimana kecenderungan tren dari tingkat polusi di kota 
+tersebut.
+Ayo, Mencoba
+Hari ke- 
+Konsentrasi PM2.5 
+Hari ke- 
+Konsentrasi PM2.5 
+1
+35
+11
+36
+2
+32
+12
+43
+3
+40
+13
+48
+4
+38
+14
+46
+5
+45
+15
+35
+6
+50
+16
+31
+7
+42
+17
+33
+8
+37
+18
+41
+9
+34
+19
+45
+10
+39
+20
+44
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+220
+Latihan   6.5	
+1.	
+Sebuah perusahaan teknologi melakukan penelitian terhadap 15 
+aplikasi AI yang mereka kembangkan. Mereka mencatat jumlah jam 
+pelatihan yang diberikan kepada setiap model AI dan akurasinya dalam 
+menyelesaikan tugas tertentu.
+Jumlah Jam 
+Pelatihan
+Akurasi Model 
+(%)
+Jumlah Jam 
+Pelatihan
+Akurasi Model 
+(%)
+5
+60
+13
+66
+10
+62
+14
+68
+7
+61
+15
+70
+12
+65
+16
+71
+8
+62
+18
+73
+11
+64
+20
+75
+6
+60
+19
+74
+9
+63
+Buatlah diagram pencar berdasarkan data yang diberikan, dengan 
+sumbu x menunjukkan jumlah jam pelatihan dan sumbu y 
+menunjukkan akurasi model. Apakah terdapat korelasi antara jumlah 
+jam pelatihan dan akurasi model? Jelaskan.
+2.	
+Sebuah studi dilakukan untuk mengetahui hubungan antara jumlah 
+postingan per minggu di media sosial oleh selebriti dengan jumlah 
+pengikut baru yang mereka peroleh. Data dikumpulkan selama 8 minggu.
+Jumlah Posting 
+per Minggu
+Jumlah Pengikut 
+Baru
+Jumlah Posting 
+per Minggu
+Jumlah Pengikut 
+Baru
+3
+2000
+3
+2100
+4
+2400
+8
+3400
+1
+1500
+4
+2500
+5
+2900
+9
+3600
+2
+1800
+5
+2800
+221
+
+ 
+221
+
+ Bab 6 | Representasi dan Interpretasi Data
+Jumlah Posting 
+per Minggu
+Jumlah Pengikut 
+Baru
+Jumlah Posting 
+per Minggu
+Jumlah Pengikut 
+Baru
+6
+3100
+6
+3000
+2
+1700
+7
+3200
+3
+2100
+Dengan menggunakan Diagram Pencar, gambarkan hubungan antara 
+jumlah postingan per minggu (sumbu x) dan jumlah pengikut baru 
+(sumbu y). Apakah selebriti yang lebih sering memposting mendapatkan 
+lebih banyak pengikut baru? Analisis dan interpretasikan pola yang 
+kamu lihat.
+Uji Kompetensi 	
+1.	
+Di antara keempat grafik di bawah ini, manakah yang merupakan grafik 
+dari:
+a.	
+Perubahan berat badan seekor kucing dari lahir sampai usia 2 tahun.
+b.	
+Aktivitas kegiatan anak dari sebelum tidur dan setelah tidur.
+c.	
+Jumlah penduduk di 6 kota yang berbeda.
+d.	
+Ketinggian permukaan air laut dari kondisi pasang ke kondisi surut.
+
+222
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+222
+2.	
+Saat pelajaran Matematika, para siswa di kelas 10 menggambar Box Plot 
+yang menunjukkan banyaknya anggota keluarga dari setiap siswa.
+a.	
+Berapakah banyaknya orang yang terdapat dalam keluarga para 
+siswa di kelas tersebut?
+b.	
+Seorang siswa yang bernama Jono berkata, “Dot plot ini salah! 
+Anggota keluarga saya berjumlah 8 orang. Saya memiliki jumlah 
+anggota keluarga yang terbanyak, mengapa tanda X di atas angka 8 
+malah jadi yang paling pendek?” Jawablah pertanyaan Jono.
+3.	
+Hasil 4 ulangan Matematika Dodi adalah 81, 79, 90, dan 70. Ulangan ke-5 
+baru akan dibagikan. Guru Dodi menyampaikan ke Dodi bahwa Dodi 
+boleh memilih apakah mau menggunakan median atau mean sebagai 
+nilai rapornya, tetapi Dodi harus menentukan sebelum ia menerima hasil 
+tes matematika yang ke-5.
+a.	
+Hitunglah mean dan median dari keempat hasil ulangan Matematika 
+Dodi.
+b.	
+Jika Dodi tidak yakin dengan hasil ulangan ke-5 nya, manakah yang 
+sebaiknya ia pilih, mean atau median? Jelaskan.
+c.	
+Jika Dodi yakin dengan hasil ulangan ke-5 nya, manakah yang 
+sebaiknya ia pilih, mean atau median? Jelaskan.
+4.	
+Dalam ujian Fisika, rata-rata nilai dari delapan siswa adalah 65. Rata-
+rata grup kedua yang berjumlah 12 siswa adalah 72. Hitunglah rata-rata 
+gabungan dari kedua kelompok ini yang berjumlah 20 siswa.
+223
+
+ 
+223
+
+ Bab 6 | Representasi dan Interpretasi Data
+5.	
+Selama tahun ajaran yang lalu, diperoleh data banyaknya hari saat siswa 
+tidak hadir.
+Jumlah Hari Absen
+0
+1
+2
+3
+4
+Frekuensi
+12
+20
+10
+7
+5
+a.	
+Hitunglah Q1 dari data ini, lalu interpretasikan hasilnya.
+b.	
+Hitunglah jangkauan interkuartil dari data ini. 
+c.	
+Hitunglah standar deviasi dari data jumlah hari absen tersebut.
+6.	
+Dalam suatu lomba lari, diperoleh data catatan waktu sebagai berikut:
+Waktu yang 
+ditempuh, t (menit)
+20–29
+30–39
+40–49
+50–59
+60–69
+Frekuensi
+5
+10
+36
+20
+9
+a.	
+Hitunglah mean.
+b.	
+Gunakanlah interpolasi untuk menghitung jangkauan interkuartil.
+c.	
+Jika diketahui 
+ dan 
+ dengan x adalah 
+nilai tengah dari tiap kelas, maka tentukanlah nilai dari varian dan 
+simpangan baku dari catatan waktu para pelari.
+dikerjakan setelah materi pengayaan dibahas
+Pengayaan 	
+Kuartil Data Kelompok
+Sama seperti menentukan median (Q2) dalam data kelompok, menentukan Q1 
+dan Q3 juga menggunakan cara yang sama, yaitu dengan cara interpolasi.
+Dalam data kelompok, letak Q1, Q2 dan Q3  adalah sebagai berikut.
+Kelompok data ditampilkan dalam tabel frekuensi kumulatif, lalu letak 
+kuartil adalah sebagai berikut:
+•	
+Q1 = data ke 1
+4 dari total data
+•	
+Q2 = data ke 1
+2  dari total data
+•	
+Q3 = data ke 3
+4 dari total data
+
+224
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+224
+Mari kita gunakan contoh penjualan sepatu di toko A pada Tabel 6.5.
+Karena total data ada sebanyak 30 buah, maka letak Q1 ada di data ke 
+1
+4 × 30 = 7, 5
+Pada tabel, data ke 7,5 terletak pada kelas 40–42. Masihkah kamu ingat 
+metode interpolasi?
+Tepi bawah kelas 40–42 adalah 39,5 dan tepi atas kelas 40–42 adalah 42,5. 
+Banyaknya data yang berada sebelum 39,5 ada sebanyak 2 buah. 
+Banyaknya data yang berada sebelum 42,5 ada sebanyak 13 buah. 
+Tempatkan angka-angka tersebut dalam garis bilangan sebagai berikut.
+Q1 = 41, artinya 25% dari sepatu yang terjual memiliki ukuran lebih kecil 
+sama dengan 41, atau ukuran 38, 39, 40, dan 41.
+Sebanyak 75% sepatu yang terjual merupakan sepatu dengan ukuran di 
+atas 41.
+Carilah Q3 dari data berkelompok penjualan sepatu di toko A pada Tabel 6.5. 
+Bandingkanlah hasil Q1 dan Q3 dari data berkelompok dengan Q1 dan Q1 dari 
+data tunggal. Jelaskan.
+Ayo, Mencoba
+225
+
+ 
+225
+
+ Bab 6 | Representasi dan Interpretasi Data
+Jadi, saat menghitung kuartil, pastikan terlebih dahulu apakah data yang 
+kamu akan hitung adalah data tunggal atau data kelompok agar metode yang 
+dipilih lebih tepat.
+Persentil Data Kelompok
+Sebelumnya kamu telah mempelajari bahwa kuartil membagi data menjadi 
+4 bagian sama besar. Ukuran penempatan yang lain adalah persentil. Hanya 
+saja persentil membagi data menjadi 100 bagian sama besar. Persentil ke-10 
+ditulis dengan simbol P10 artinya sebelum P10 terdapat 10% data dan sesudah 
+P10 terdapat 90% data.
+Cara menentukan persentil dalam data kelompok, sama dengan cara 
+menentukan kuartil dalam data kelompok. yaitu dengan cara interpolasi.
+Kelompok data ditampilkan dalam tabel frekuensi kumulatif, lalu letak 
+persentil adalah sebagai berikut.
+•	
+P10 = data ke 10
+100 dari total data
+•	
+P10 = data ke 85
+100 dari total data
+Eksplorasi   6.7	
+Persentil Data Kelompok
+Ayo, Bereksplorasi
+1.	
+Mari, kita lihat data berikut. Data berikut menampilkan lamanya waktu 
+yang diperlukan ketika seseorang mengurus KTP di kelurahan M selama 
+1 minggu.
+Waktu yang diperlukan,  
+t (menit)
+20–29
+30–39
+40–49
+50–59
+60–69
+Frekuensi
+6
+10
+18
+13
+2
+Hitunglah P65.
+
+226
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+226
+Ketika kita melihat pengumuman atau klaim dari seseorang atau siapa pun, 
+ada baiknya kita mempertanyakan dasar dari klaim atau pengumuman 
+tersebut, tidak begitu saja menerimanya tanpa data pendukung. Kehati-
+hatian ini menjadi bekal yang sangat penting saat menghadapi berbagai 
+masalah.
+2.	
+Di papan pengumuman kantor kelurahan tertulis poster sebagai berikut.
+Untuk pengurusan KTP 
+Hanya 10% dari warga yang perlu menunggu lebih dari 56 menit
+Dengan menghitung persentil yang sesuai, berikan komentarmu tentang 
+benar atau tidaknya isi dari poster tersebut.
+Alternatif Penyelesaian
+1.	
+Karena data di atas merupakan data kelompok, maka kita akan 
+menggunakan interpolasi untuk menemukan persentil ke-65.
+Pertama kita tentukan dahulu letak P65. Total frekuensi ada sebanyak 49 
+buah.
+•	
+P65 terletak pada data ke 65
+100 × 49 = 31, 85
+•	
+Jadi P65 ada di kelas dengan interval 40–49. 
+Tepi bawah kelas 40–49 adalah 39,5 dan tepi atas kelas 40–49 adalah 49,5.   
+Banyaknya data sebelum 39,5 ada sebanyak 16 data. 
+Banyaknya data sebelum 49,5 ada sebanyak 34 data.
+Tempatkan angka-angka tersebut dalam garis bilangan sebagai berikut:
+Ayo, Berpikir Kritis
+227
+
+ 
+227
+
+ Bab 6 | Representasi dan Interpretasi Data
+Lalu kita gunakan interpolasi:
+P65 = 48,31 artinya 65% warga menunggu kurang dari 48,31 menit atau 
+35% warga menunggu lebih dari 46,31 menit.
+2.	
+Untuk menentukan apakah isi poster tersebut benar atau tidak, maka 
+kamu perlu mencari Persentil ke-90. 
+Pertama kita tentukan dahulu letak P65.
+•	
+P65 terletak pada data ke 
+ × 49 = 44,1
+•	
+Data ke-44,1 terletak pada kelas 50–59
+•	
+Jadi P65 ada di kelas 50–59.
+Kelas 50–59 memiliki tepi bawah = 49,5 dan tepi atas = 59,5.     
+Banyaknya data sebelum 49,5 ada sebanyak 34 data. 
+Banyaknya data sebelum 59,5 ada sebanyak 47 data.
+Tempatkan angka-angka tersebut dalam garis bilangan sebagai berikut:
+
+228
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+228
+Lalu, kita kembali menggunakan interpolasi:
+Interpretasi dari hasil P90 = 57,3 artinya 90% warga menunggu 
+pengurusan KTP sampai 57,3 menit dan ada 10% warga yang menunggu 
+lebih dari 57,3 menit. Jadi isi poster yang menyebutkan bahwa hanya 
+10% warga yang menunggu lebih dari 56 menit tidak tepat. Karena pasti 
+lebih dari 10% warga yang menunggu lebih dari 56 menit.
+Alternatif lain, kamu dapat mencari banyaknya warga yang menunggu 
+lebih dari 56 menit.
+Data 56 menit berada di kelas 50–59. 
+Tepi bawah dan tepi atas kelas 50–59 adalah 49,5 dan 59,5.     
+Banyaknya data sebelum 49,5 ada sebanyak 34 data. 
+Banyaknya data sebelum 59,5 ada sebanyak 47 data.
+Tempatkan angka-angka tersebut dalam garis bilangan sebagai berikut.
+ 
+Sama seperti sebelumnya, kita kembali menggunakan metode 
+interpolasi:
+229
+
+ 
+229
+
+ Bab 6 | Representasi dan Interpretasi Data
+Setelah mendapatkan hasil di atas kita coba interpretasikan hasilnya.
+Total data = 49.
+42,45 warga menunggu pengurusan KTP kurang dari 56 menit.
+Banyaknya warga menunggu pengurusan KTP lebih dari 56 menit =
+49 – 42,45 = 6,55
+Persentase warga yang menunggu lebih dari 56 menit =
+Jadi, klaim kantor kelurahan bahwa hanya 10% warga yang menunggu 
+lebih dari 56 menit tidak benar.
+Latihan   6.6	
+1.	
+Secara geografis Indonesia dilalui oleh garis khatulistiwa sehingga hanya 
+terdapat 2 musim, yaitu musim panas dan musim hujan. Oleh karena itu, 
+sangat penting bagi kita untuk memahami faktor penting apa saja yang 
+ada pada kedua musim tersebut agar kita dapat mempersiapkan diri 
+dengan lebih baik dalam usaha hidup berdamai dengan alam. Salah satu 
+faktor yang penting yang menentukan musim adalah faktor curah hujan. 
+Curah hujan adalah jumlah air hujan yang turun pada suatu daerah 
+dalam kurun waktu tertentu. Dengan kata lain, curah hujan adalah 
+
+230
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+230
+volume air hujan yang terkumpul dalam bidang datar dalam periode 
+tertentu. 
+Biasanya curah hujan dinyatakan dalam satuan milimeter. Data curah 
+hujan yang ditampilkan adalah ketinggian air hujan yang terkumpul 
+di tempat datar seluas 1 meter persegi. Jadi, jika curah hujan sebesar 
+1 mm artinya volume air hujan yang terkumpul pada tempat datar 
+seluas 1 meter persegi ada sebanyak 1 liter. Pada umumnya curah hujan 
+dikategorikan menjadi 3 kategori, yaitu rendah (0–100 mm), menengah 
+(100–300 mm), dan tinggi (300–500 mm).
+Perhatikan data curah hujan di Kota Samarinda sepanjang tahun 2017 
+berikut (dalam mm, dibulatkan ke satuan terdekat):
+161
+139
+88
+343
+309
+421
+161
+250
+100
+152
+219
+223
+Sumber: https://samarindakota.bps.go.id
+a.	
+Tentukanlah median dari data tersebut.
+b.	
+Tentukanlah Q1 dan Q3 dari data tersebut. Apakah kamu perlu 
+melakukan interpolasi?
+2.	
+Menjelang Hari Raya Kurban, biasanya para peternak sapi 
+mempersiapkan sapi-sapi yang akan dijual. Berikut data berat 31 ekor 
+sapi yang akan dijual oleh peternak.
+Berat sapi (kg)
+300–349
+350–399
+400–449
+450–499
+500–549
+Frekuensi
+3
+6
+10
+7
+5
+a.	
+Tentukanlah estimasi dari median berat sapi di atas.
+b.	
+Carilah Q1. Apakah kamu perlu melakukan interpolasi?
+c.	
+Carilah Q3.
+d.	
+Interpretasikanlah hasil Q3 yang kamu dapatkan di bagian c.
+e.	
+Carilah P10, lalu interpretasikan hasilnya.
+3.	
+Indonesia adalah negara yang kaya dan terkenal dengan faunanya 
+yang beraneka ragam. Bahkan, banyak hewan yang hanya terdapat di 
+Indonesia karena keunikan kondisi alamnya. Karena itulah kita harus 
+melestarikan dan memperhatikan hewan langka yang masih tersisa agar 
+kelak generasi selanjutnya tetap dapat menyaksikan kelangsungan hidup 
+231
+
+ 
+231
+
+ Bab 6 | Representasi dan Interpretasi Data
+hewan langka ini. Salah satu contoh hewan langka adalah burung elang 
+jawa (Nisaetus bartelsi). Jumlahnya saat ini diperkirakan hanya tinggal 
+sekitar 300–500 ekor saja.
+Tabel di bawah ini menunjukkan panjang bentang sayap elang jawa 
+dalam meter yang berhasil dikumpulkan oleh para peneliti lingkungan.
+Panjang Bentang 
+Sayap (cm)
+166–170
+171–175
+176–180
+181–185
+Lebih 
+dari 186
+Frekuensi
+4
+20
+37
+28
+11
+a.	
+Tentukanlah Q1 dan Q3.
+b.	
+Tentukanlah persentil ke-80 dan interpretasikanlah hasilnya.
+c.	
+Jelaskan mengapa tidak mungkin dapat menemukan persentil ke-90.
+Dalam subbab ini, kamu sudah belajar mengenai ukuran lokasi: kuartil dan 
+persentil. 
+1.	
+Kuartil berapakah yang sama dengan median?
+2.	
+Ada berapa persen datakah yang di atas Q3?
+3.	
+Ada berapa persen datakah yang di atas Q1?
+4.	
+Ada berapa persen datakah yang di bawah P15?
+5.	
+Kuartil berapakah yang nilainya sama dengan P25? P75?
+Ukuran Penyebaran
+1.	 Jangkauan Interkuartil
+Ukuran penyebaran dari sekumpulan data mengukur seberapa jauh data-
+data tersebut tersebar. Dua kelompok data yang memiliki mean yang sama, 
+dapat memiliki uluran penyebaran yang sangat berbeda.
+Ayo, Berefleksi
+
+232
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+232
+Eksplorasi   6.8	 Membandingkan Ukuran Penyebaran dari Dua 
+Kelompok Data Tunggal
+Ayo, Bereksplorasi
+Kelompok pertama yang terdiri atas 12 orang memiliki umur: 13, 14, 15, 15, 
+16, 16, 17, 17, 17, 17, 17, 18
+Kelompok kedua yang juga terdiri atas 12 orang memiliki umur: 1, 3, 4, 5, 
+7, 8, 12, 27, 28, 29, 32, 36
+Hitunglah mean, Q1, dan Q3 dari kedua kelompok di atas.
+Rata-rata umur dari kelompok pertama maupun kelompok kedua adalah 16 
+tahun.
+Walaupun kedua kelompok memiliki mean yang sama, jika kamu 
+memperhatikan setiap data dari kedua kelompok, manakah yang menurutmu 
+lebih mewakili kelompok umur siswa? Manakah yang lebih mewakili umur 
+orang dewasa dan anak kecil? Jelaskan alasanmu.
+Salah satu ukuran penyebaran yang telah kamu pelajari sebelumnya 
+adalah jangkauan (range).
+Range kelompok pertama = 18 – 13 = 5
+Range kelompok kedua = 36 – 1 = 35
+Range kelompok kedua lebih besar dari range kelompok pertama, berarti 
+data pada kelompok kedua jauh lebih tersebar dibanding kelompok pertama. 
+Ukuran penyebaran lain yang dapat digunakan adalah jangkauan 
+interkuartil. Jangkauan interkuartil diperoleh dengan cara mencari selisih 
+antara kuartil atas (Q3) dan kuartil bawah (Q1).
+Menghitung Q1 dan Q3 kelompok pertama, tidak perlu menggunakan 
+metode interpolasi karena data merupakan data tunggal.
+Karena  data =  × 12 = 3, maka Q1 terletak di antara data ke-3 dan ke-4
+Sedangkan  × 12 = 9, maka Q3 terletak di antara data ke-9 dan ke-10 
+Kelompok pertama: Q1 = 15 dan Q3 = 17
+Kelompok kedua: Q1 = 4,5 dan Q3 = 28,5
+233
+
+ 
+233
+
+ Bab 6 | Representasi dan Interpretasi Data
+Jangkauan interkuartil kelompok pertama = 17–15 = 2, sedangkan 
+jangkauan interkuartil kelompok kedua = 28,5 – 4,5 = 24.
+Jika hasil di atas kita tampilkan dalam tabel, akan diperoleh hasil sebagai 
+berikut.
+Tabel 6.10 Perbandingan Mean, Range dan Jangkauan Interkuartil 
+Antara Kelompok Pertama dan Kedua
+Kelompok
+Mean
+Range
+Jangkauan 
+Interkuartil
+Pertama
+16
+5
+2
+Kedua
+16
+35
+24
+Maka dari itu, kita dapat menyimpulkan bahwa walaupun kedua 
+kelompok memiliki rata-rata umur yang sama yaitu 16, kamu akan dapat 
+menemukan teman-teman yang seumuran denganmu pada kelompok 
+pertama daripada kelompok kedua. Hal ini dikarenakan data-data yang 
+tersebar pada kelompok pertama memiliki ukuran penyebaran (range dan 
+jangkauan interkuartil) yang lebih kecil dibanding kelompok kedua. Jadi, 
+data pada  kelompok pertama banyak yang besarnya di sekitar mean.
+2.	 Varian dan Simpangan Baku Data Tunggal
+Ukuran penyebaran lainnya yang biasa digunakan untuk mengetahui 
+sebaran data adalah varian.
+Makin kecil varian, maka data-data dalam kelompok tersebut makin 
+seragam mendekati mean kelompok. Demikian juga sebaliknya. 
+Varian diperoleh dengan cara mengurangi setiap data dengan mean, atau 
+dengan rumus berikut:
+Varian = 
+, dengan  adalah mean.
+Varian sering diberikan ditulis dalam simbol σ².
+Adapun simpangan baku adalah akar dari varian. Simbol untuk 
+simpangan baku adalah σ.
+
+234
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+234
+Eksplorasi   6.9	
+Membandingkan Varian dari Dua Kelompok Data 
+Tunggal
+Ayo, Bereksplorasi
+Kembali ke soal kelompok umur:
+Kelompok pertama yang terdiri atas 12 orang memiliki umur: 13, 14, 15, 
+15, 16, 16, 17, 17, 17, 17, 17, 18.
+Kelompok kedua yang juga terdiri atas 12 orang memiliki umur: 1, 3, 4, 5, 
+7, 8, 12, 27, 28, 29, 32, 36.
+Hitunglah varian dan simpangan baku dari kedua kelompok umur ini.
+Rata-rata dari kelompok pertama maupun kedua = 16. Selanjutnya, mari 
+kita hitung varian masing-masing kelompok.
+σ² Kelompok 1 
+σ² Kelompok 2
+ 
+ 
+Simpangan baku (σ) kelompok 1 = σ¹ = 
+Simpangan baku (σ) kelompok 2 = σ² = 
+Kita dapat melihat bahwa nilai σ² yang besar menunjukkan bahwa 
+data-data umur pada kelompok 2 memiliki sebaran yang jauh dari mean 
+kelompok 2. Adapun kelompok 1 memiliki data-data yang relatif seragam dan 
+mendekati mean kelompok 1.
+Cara lain dalam menghitung varian:
+	
+235
+
+ 
+235
+
+ Bab 6 | Representasi dan Interpretasi Data
+Mari, kita menghitung ulang nilai dari varian kelompok 1 dengan rumus 
+di atas dan membandingkan hasilnya dengan cara sebelumnya.
+Karena jumlah data ada sebanyak 12, maka n = 12
+Mengapa rumus kedua bisa memberikan hasil yang sama?
+Bagaimana hasil varian dengan cara ini dibanding cara sebelumnya? Apakah 
+sama?
+Ayo, Mencoba
+1.	
+Kamu dapat mencoba untuk mencari varian dengan rumus σ² = 
+P x2
+n
+−
+✓P x
+n
+◆2
+untuk kelompok yang kedua. 
+2.	
+Jika ada kelompok ketiga yang juga beranggotakan 12 orang, 
+dan semuanya berusia 16 tahun, tanpa melakukan perhitungan 
+menggunakan rumus, dapatkah kamu menentukan mean, varian, dan 
+simpangan baku dari kelompok ketiga ini?
+3.	 Varian dan Simpangan Baku Data Kelompok
+Sama halnya seperti mencari mean dari data kelompok, kita akan selalu 
+mengasumsikan bahwa data-data yang terdapat dalam kelas interval tertentu 
+diasumsikan tersebar merata sehingga kita dapat menggunakan nilai tengah 
+dari setiap kelas interval. Mari, kita lihat soal berikut.
+Ayo, Berdiskusi
+
+236
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+236
+Eksplorasi   6.10	 Varian dalam Data Kelompok
+Ayo, Bereksplorasi
+Dari suatu penelitian mengenai lamanya baterai HP, diperoleh data sebagai 
+berikut.
+Tabel 6.11 Tabel Distribusi Frekuensi Data Kelompok Durasi Baterai HP
+Durasi Baterai (jam)
+6–10
+11–15
+16–20
+21–25
+26–30
+Frekuensi
+2
+10
+18
+45
+5
+Tentukanlah varian dan simpangan dari durasi baterai tersebut.
+Untuk data berkelompok, maka kita perlu menentukan nilai tengah dari 
+masing-masing kelas terlebih dahulu. Lalu mencari nilai 
+ dan 
+. Agar 
+lebih mudah, kita tempatkan semua nilai dalam tabel berikut.
+Durasi 
+Baterai (jam)
+Nilai Tengah, 
+xi
+Frekuensi, f
+f · xi
+f · xi²
+6–10
+8
+2
+16
+128
+11–15
+13
+10
+130
+1.690
+16–20
+18
+18
+324
+5.832
+21–25
+23
+45
+1.035
+23.805
+26–30
+28
+5
+140
+3.920
+80
+1.645
+35.375
+Dari tabel di atas kita memperoleh:
+Maka varian 
+Simpangan baku σ = 
+σ2 = ⌃(fx2)
+⌃(f)
+−
+✓⌃(fx)
+⌃(f)
+◆2
+= 35.375
+80
+−
+✓1.645
+80
+◆2
+= 19, 37
+237
+
+ 
+237
+
+ Bab 6 | Representasi dan Interpretasi Data
+Latihan   6.7	
+1.	
+Dari suatu survei tentang banyaknya buku yang dibaca oleh siswa SMA 
+dalam 1 bulan, diperoleh hasil yang diambil secara acak. Banyaknya 
+buku yang dibaca 7 orang siswa adalah sebagai berikut. 
+3
+4
+6
+2
+8
+8
+5
+Tentukanlah varian dan simpangan dari data tersebut.
+2.	
+Sebelum pandemi Covid-19, sekolah mencatat waktu yang diperlukan 
+oleh siswa untuk makan siang di kantin (dibulatkan ke menit terdekat). 
+Hasilnya adalah sebagai berikut: 
+Waktu yang diperlukan, t (menit)
+35
+36
+37
+38
+Frekuensi
+3
+17
+29
+34
+a.	
+Tentukanlah rata-rata dari data tersebut.
+b.	
+Tentukanlah simpangan bakunya.
+3.	
+Diketahui sekumpulan data memiliki data-data sebagai berikut.
+Carilah:
+a.	
+mean
+b.	
+Varian, σ²
+c.	
+Simpangan baku, σ
+4.	
+Dari data kelompok pertama yang terdiri atas 10 bilangan diperoleh 
+sebagai berikut.
+Sedangkan kelompok kedua yang terdiri atas 15 bilangan diperoleh 
+sebagai berikut.
+Tentukanlah mean dan simpangan baku dari gabungan kedua kelompok 
+tersebut yang terdiri atas 25 bilangan.
+5.	
+Guru berbeda mengajar 2 kelas yang berbeda, kelas A dan kelas 
+B, dengan beda metode mengajar. Siswa dari kedua kelas tersebut 
+
+238
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+238
+mengikuti ujian yang sama pada akhir semester. Berikut hasil ujian dari 
+kedua kelas.
+Hasil Ujian
+20–29
+30–39
+40–49
+50–59
+60–69
+70–79
+80–89
+Frekuensi A
+1
+3
+6
+6
+11
+10
+8
+Frekuensi B
+1
+2
+4
+13
+15
+6
+3
+a.	
+Hitunglah mean dari masing-masing kelompok.
+b.	
+Dari hasil a, menurutmu, apakah metode guru yang satu lebih baik 
+dari metode guru lainnya? Jelaskan alasan dari jawabanmu.
+Refleksi 	
+Dalam bab ini, kamu sudah belajar mengenai ukuran pemusatan dan ukuran 
+lokasi dari suatu kelompok data dan menggunakan berbagai ukuran tersebut 
+dalam melakukan pengambilan keputusan.
+1.	
+Bagaimana menemukan mean, modus, dan median data kelompok? 
+2.	
+Bagaimana menemukan ukuran lokasi seperti persentil dan kuartil 
+dalam data tunggal? 
+3.	
+Bagaimana memilih ukuran pemusatan yang tepat dan sesuai dengan 
+konteks masalah?

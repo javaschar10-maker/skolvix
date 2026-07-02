@@ -1,0 +1,741 @@
+75
+BAB 4 | Arus Bolak-Balik
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Lia Laela Sarah, Irma Rahma Suwarma
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 4
+ARUS BOLAK-BALIK
+Kata Kunci
+Tegangan maksimum • Tegangan efektif • Reaktansi • Impedansi • Daya disipasi
+Setelah mempelajari bab ini, kalian dapat menerapkan konsep arus bolak balik 
+dan mengidentifikasi karakteristik rangkaian arus bolak balik.
+Tujuan Pembelajaran
+Sumber: Jane Halpern/eecs.mit.edu(2020)
+76
+Fisika untuk SMA/MA Kelas XII
+Arus bolak balik saat ini merupakan jenis kelistrikan yang paling banyak 
+digunakan di rumah-rumah. Sumber arus listrik sebagai kebutuhan 
+primer masyarakat, dihasilkan secara masal dan diatur distribusinya oleh 
+Perusahaan Listrik Negara (PLN). Arus listrik bolak balik (Alternating Current 
+/ AC) yang berasal dari PLN ini memiliki frekuensi 50 Hz dengan tegangan 
+efektif sekitar 220 V.
+Gambar 4. 1 Peta Konsep Arus Bolak Balik
+Sumber : Kinkin Suartini/Kemendikbudristek (2022)
+77
+BAB 4 | Arus Bolak-Balik
+A.	 Persamaan Arus Bolak Balik
+Sebelum 
+mempelajari 
+lebih 
+lanjut 
+bagaimana 
+karakteristik rangkaian arus bolak balik, perhatikan 
+terlebih dulu bagaimana cara menggunakan osiloskop 
+melalui tautan atau pindai kode QR, kemudian cermati 
+membaca grafik osiloskop berikut ini.
+https://www.youtube.com/watch?v=bm9sDtKmCOY
+V = Vmax  sinωt
+ (4-1)
+Ayo, Bernalar Kritis!
+Berdasarkan pemaparan di atas, coba ajukan sebuah pertanyaan 
+terkait penggunaan arus bolak balik dan osiloskop.
+dengan 
+Vmax 
+adalah 
+tegangan 
+maksimumnya. 
+Tegangan 
+maksimum 
+dapat diketahui menggunakan alat yang 
+menampilkan grafik tegangan sebagai 
+fungsi waktu. Alat yang biasa digunakan 
+untuk melihat grafik ini disebut osiloskop.
+Osiloskop banyak digunakan dalam 
+kehidupan 
+sehari-hari. 
+Misalnya 
+di 
+bidang 
+otomotif, 
+osiloskop 
+digunakan 
+Pada Bab 3, sudah dibahas bagaimana tegangan bolak balik ini dihasilkan 
+oleh generator. GGL atau tegangan yang dihasilkan memiliki grafik berupa 
+sinusoidal, lihat persamaan (3- 17). Pada arus bolak balik, persamaan 
+tegangan dapat dituliskan sebagai:
+untuk mendeteksi kerusakan mobil berdasarkan analisis sinyal listriknya. 
+Sedangkan 
+dalam 
+bidang 
+kedokteran, 
+osiloskop 
+digunakan 
+untuk 
+menganalisis gelombang otak pada pasien.
+Pada arus bolak balik polaritas kutub positif negatifnya selalu berubah 
+secara sinusoidal. Hal ini, berbeda dengan sumber arus searah yang akan 
+selalu mengalir serarah, yaitu dari kutub positif ke kutub negatif. Mengapa 
+hal ini dapat terjadi? Kalian dapat membaca kembali konsep generator.
+Gambar 4. 2 Osiloskop
+a) CRO OS 310  b) DSO Mini 0138
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+78
+Fisika untuk SMA/MA Kelas XII
+Gambar 4. 3 Membaca osiloskop
+Sumber: MIT/mathlets (2022)
+Berdasarkan Gambar 4.3, grafik ke arah vertikal, dari puncak ke puncak 
+ada 4 kotak (4 div), maka tegangan puncak ke puncak (Vpp) yaitu :
+Vpp = 4 div x 2 Volt/div = 8Volt
+atau tegangan maksimumnya diukur dari garis tengah ke puncak sebesar 2 
+kotak (2 div), sehingga tegangan maksimumnya yaitu :
+Vmaks  = 2 div x 2 volt/div = 4 Volt 
+atau Vmaks = 1⁄2 Vpp = 4 volt. 
+Sedangkan ke arah horizontal, Kalian perhatikan untuk satu gelombang ada 
+4 kotak (10 kotak untuk 2,5 gelombang) atau 4 div, sehingga periodenya :
+T = 4 div x 20m/div = 80 ms (milisekon)
+Besar frekuensinya =
+Selain menggunakan osiloskop, pengukuran tegangan juga dapat dilakukan 
+menggunakan voltmeter. Jika mengukur tegangan bolak balik menggunakan 
+voltmeter, maka akan diperoleh satu nilai terukur. Nilai yang diukur oleh 
+voltmeter ini disebut dengan tegangan efektif atau root mean square (Vrms 
+atau Vef).
+Gelombang yang terlihat pada layar osiloskop dibaca dua arah, yaitu vertikal 
+dan horizontal. Arah vertikal, yang dibaca adalah besar tegangan. Sedangkan 
+pada arah horizontal yang dibaca periode atau frekuensi.
+Misalnya, pada layar terlihat sinyal listrik seperti Gambar 4.3 dan 
+pengaturan ke arah vertikal 2 volt/div serta pengaturan ke arah horizontal 
+20 ms/div.
+Cara Membaca Osiloskop
+Ayo, Cermati!
+1
+T
+f =
+=
+1
+80. 10-3 =
+1
+8. 10-2 =
+100
+8
+= 12,5 Hz
+79
+BAB 4 | Arus Bolak-Balik
+Aktivitas 4.1
+Tujuan 
+Mengetahui hubungan antara tegangan maksimum dan tegangan efektif.
+Alat dan Bahan
+•	
+multimeter
+•	
+osiloskop 
+•	
+catu daya.
+Langkah kegiatan
+1.	 Rangkai catu daya dan osiloskop, dan hidupkan osiloskop.
+2.	 Kalibrasi 
+terlebih 
+dulu 
+osiloskop 
+dengan cara menekan tombol Default 
+Setup. Hubungkan kabel pada  digital 
+osiloskop ke tempat kalibrasinya, lalu 
+tekan tombol Auto sebanyak dua kali. 
+Biarkan sejenak sampai tegangan 
+yang terbaca pada osiloskop sebesar 3 
+V. Setelah berhasil lepaskan kabel dari 
+tempat kalibrasinya.
+Jika osiloskop CRO tidak 
+ada, sebagai alternatif, dapat 
+digunakan osiloskop mini DSO 
+seperti Gambar 4.5.
+Gambar 4. 5 Rangkaian osiloskop mini DSO
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Gambar 4. 4 Rangkaian 
+eksperimen osiloskop
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+3.	 Hubungkan kabel osiloskop dengan ujung-ujung catu daya.
+4.	 Nyalakan catu daya pada mode AC dan berikan tegangan 6 V pada 
+rangkaian. Perhatikan grafik yang ditampilkan oleh osiloskop, tentukan 
+nilai tegangan maksimumnya, catat dalam tabel.
+5.	 Ukur tegangan efektif catu daya (Vef) menggunakan voltmeter,kemudian 
+catat dalam tabel.
+6.	 Ubah tegangan catu daya menjadi 12V, 9V dan 3V kemudian lakukan 
+Langkah 6 dan 7
+7.	 Buat kesimpulan masing-masing tabel pengamatan mengenai hubungan 
+tegangan maksimum (Vmaks) dan tegangan efektif (Vef).
+80
+Fisika untuk SMA/MA Kelas XII
+Ayo, Cek Pemahaman
+Seorang siswa melakukan pengukuran tegangan arus bolak balik 
+menggunakan osiloskop. Kontrol sensitivitas vertikal diatur ke 0,5 volt/
+div, dan kontrol timebase ke arah horizontal diatur ke 2,5 ms/div.
+Berdasarkan Gambar 4.7, tentukan:
+a.	 tegangan maksimum,
+b.	 tegangan puncak ke puncak,
+c.	 tegangan efektif
+d.	 frekuensi.
+Gambar 4. 7 Pembacaan osiloskop
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+sedangkan hubungan tegangan maksimum (Vmaks) dengan tegangan puncak 
+ke puncak (Vpp) sebesar:
+Vpp = 2 Vmaks                                    
+Demikian juga dengan arus bolak balik, arus bolak balik dapat dinyatakan 
+sebagai:
+I = Imaks sin ωt                               
+dengan Imaks yaitu tegangan maksimumnya. Sedangkan arus efektifnya Ief, 
+yaitu
+(4-3)
+(4-4)
+(4-5)
+Pada tegangan bolak balik, persamaan 
+tegangan dapat dinyatakan dengan:
+V = Vmaks  sin ωt
+atau:
+V = Vmaks  sin 2πft,
+Grafiknya terlihat pada Gambar 4.6.
+Gambar 4. 6 Grafik tegangan bolak balik
+Sumber : MIT/mathlets (2022)
+Hubungan antara tegangan maksimum dan tegangan efektif yaitu:
+Vmaks = Vef √2
+(4-2)
+Ief =
+Imaks
+√2
+81
+BAB 4 | Arus Bolak-Balik
+Saat komponen elektronik seperti resistor, induktor dan kapasitor 
+dihubungkan dengan sumber tegangan AC, masing- masing memiliki 
+karakteristik tersendiri. Misal untuk kapasitor, saat dihubungkan dengan 
+tegangan DC. Kapasitor akan mengisi muatan sampai penuh kemudian 
+arusnya terputus. Jika kapasitor dihubungkan 
+dengan tegangan AC, maka arus listrik akan 
+mengalir 
+pada 
+kapasitor 
+seperti halnya 
+resistor.
+Karakteristik masing-masing komponen 
+digambarkan berupa grafik sinusoidal antara 
+tegangan terhadap arus listriknya (V-I). Cara 
+untuk memudahkan perhitungan matematis 
+baik 
+penjumlahan 
+perkalian 
+maupun 
+pembagiannya, fungsi sinusoidal dinyatakan 
+Gambar 4. 8 Diagram fasor
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+B.	Karakteristik Rangkaian RLC
+Aktivitas 4.2
+Diskusikan bagaimana grafik tegangan dan arus listrik 
+pada 
+rangkaian 
+resistor, 
+induktor 
+dan 
+kapasitor. 
+Jika akses internet tersedia, klik tautan atau pindai kode 
+QR.https://mathlets.org/mathlets/series-rlc-circuit/
+dalam bentuk diagram fasor (fase vektor). Diagram fasor adalah diagram 
+yang menampilkan variabel fungsi sinusoidal dalam bentuk vektor.
+Misal jika terdapat dua fungsi sinusoidal y1 = 8 Sin 30o dan y2 = 6 Sin 
+90o, maka dibuat diagram fasornya berupa dua vektor garis dengan panjang 
+masing-masing 8 dan 10 satuan yang saling membentuk sudut 60o , lihat 
+Gambar 4.8
+Gambar 4. 9. Pengamatan virtual
+Sumber : MIT / mathlets (2022)
+82
+Fisika untuk SMA/MA Kelas XII
+ Gambar 4. 11 Grafik V dan I resistor
+Sumber : MIT / mathlets (2022)
+Gambar 4. 12 Diagram fasor resistor
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Jika persamaan tegangan pada 
+rangkaian murni resistor adalah:
+V = Vmaks  sin ωt
+maka arus listriknya, 
+I = Imaks  sin ωt 
+Ingatlah kembali hubungan arus 
+dan tegangan saat belajar hukum Ohm, 
+adalah V = I.R
+Oleh karena itu, pada Gambar 4. 11, 
+dapat terlihat grafik arus listrik lebih 
+rendah 
+amplitudonya 
+dibandingkan 
+grafik tegangan.
+Adapun diagram fasornya dapat 
+digambarkan searah (Gambar 4.12), V 
+sefase dengan I.
+1.   Atur nilai resistor, induktor dan kapasitor sesuai yang diinginkan.
+2.   Gambarkan masing-masing grafik komponen
+a.	 Resistor: VR dan I
+b.	 Kapasitor: VC dan I
+c.	 Induktor: VL dan I
+d.	 Tegangan total V dan I
+3.   Tampilkan dan gambarkan diagram fasor untuk masing-masing komponen.
+Gambar 4. 10 Rangkaian resistor
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Diagram resistor saat dihubungkan dengan 
+tegangan bolak balik terlihat pada Gambar 
+4.10. Arus bolak balik mengalir pada resistor 
+dengan fase sama dengan tegangannya.
+Grafik tegangan V dan arus I terlihat pada 
+Gambar 4.11. Saat tegangan naik, arus listrik 
+naik pada interval waktu yang sama dengan 
+amplitudo yang berbeda.
+1.	 Resistor
+83
+BAB 4 | Arus Bolak-Balik
+2.	 Induktor
+Pada umumnya induktor merupakan lilitan 
+kawat. Saat ada perubahan arus listrik yang 
+mengalir melalui induktor, maka timbul GGL 
+induksi. 
+Besar 
+GGL 
+induksi 
+bergantung 
+pada 
+induktansi diri dan laju perubahan arusnya. 
+Ingat kembali induktansi diri pada Bab 3. Ketika 
+induktor dihubungkan dengan tegangan bolak 
+(4-7)
+Grafik tegangan dan arus listrik 
+pada 
+induktor 
+saat 
+dihubungkan 
+dengan tegangan bolak-balik terlihat 
+pada Gambar 4.14. Grafik tegangan 
+lebih dulu dari arus dengan beda fase 
+      radian. 
+Hal ini terjadi karena saat ada perubahan arus listrik, pada induktor 
+timbul fluks induksi magnetik yang berlawanan sehingga arus listriknya 
+Gambar 4. 14 Grafik V dan I induktor
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+atau
+XL = 2πfL
+dengan L induktansi diri (Henry), f adalah frekuensi (Hz) dan XL adalah 
+reaktansi induktif (Ω).
+Berdasarkan persamaan reaktansi induktif di atas, kalian dapat 
+memahami bahwa semakin besar frekuensi arus bolak balik, reaktansi 
+induktif semakin besar. Namun jika induktor dihubungkan dengan arus 
+searah (f = 0), maka induktor tidak memiliki reaktansi induktif.
+balik yang menyebabkan arus padanya berubah secara sinusoidal, induktor 
+akan memiliki reaktansi induktif. 
+Reaktansi induktif serupa dengan hambatan pada resistor. Saat arus 
+listrik bolak balik mengalir pada induktor, induktor memiliki hambatan 
+terhadap aliran arus listrik. Hal ini disebabkan adanya perubahan fluks 
+magnet yang terjadi saat ada perubahan arus pada kumparan.
+Analogi dengan hambatan pada resistor, hubungan tegangan VL dan arus 
+listrik I pada induktor adalah:
+VL  =  IXL                                                      (4-6)
+dengan XL yaitu reaktansi induktif (Ω) yang besarnya adalah
+	
+	
+	
+	
+	
+XL = ωL
+π
+2
+Gambar 4. 13 Diagram induktor
+Sumber : Lia L. Sarah/Kemendikbudristek 
+(2022)
+84
+Fisika untuk SMA/MA Kelas XII
+VC = IXC
+dengan XC = reaktansi kapasitif (Ω) yang besarnya yaitu
+C = kapasitas kapasitor (Farad) dan ω = 2πf
+Gambar 4. 17 Grafik V dan I Kapasitor
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Grafik tegangan dan arus 
+listrik bolak balik pada rangkaian 
+kapasitor 
+dapat 
+dilihat 
+pada 
+Gambar 4.17. Pada kapasitor, 
+arus listrik terlebih dulu mengalir 
+sampai 
+kapasitor 
+memiliki 
+tegangan sama dengan tegangan 
+sumber.
+(4-10)
+(4-11)
+tertinggal seperempat siklus dari tegangan. Persamaan tegangan pada 
+induktor:
+VL = Vmaks  sin (ωt +     )                                              
+sedangkan persamaan arus listriknya:
+I = Imaks  sin ωt
+dengan ω = 2πf.
+(4-8)
+(4-9)
+3.	 Kapasitor
+Saat kapasitor dihubungkan dengan arus searah, 
+kapasitor akan terisi muatan sampai penuh 
+kemudian arus listriknya terputus. Berbeda 
+karakteristiknya, saat kapasitor dihubungkan 
+dengan arus bolak balik. Analogi dengan resistor, 
+kapasitor memiliki hambatan terhadap arus 
+listrik saat dihubungkan dengan tegangan AC. 
+Adapun 
+diagram 
+fasor 
+untuk 
+induktor dapat dilihat pada Gambar 
+4.15. Pada diagram, dapat dilihat V dan I 
+berbeda sebesar 90o (      radian) dengan 
+V  mendahului arus listrik I.
+Gambar 4. 15 Diagram fasor induktor murni
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Hambatan pada kapasitor saat dihubungkan tegangan bolek balik dikenal 
+dengan reaktansi kapasitif. Hubungan tegangan dan arus kapasitor dapat 
+dinyatakan sebagai:
+π
+2
+π
+2
+Xc = 1
+ωC
+Gambar 4. 16 Diagram kapasitor
+Sumber : Lia L. Sarah/Kemendikbudristek 
+(2022)
+85
+BAB 4 | Arus Bolak-Balik
+Gambar 4. 18 Diagram fasor kapasitor
+Sarah/Kemendikbudristek(2022) Sarah/Kemendikbudristek
+(2022)
+Oleh karena itu grafik arus listrik 
+mendahului tegangan sebesar      radian 
+atau 90o. Adapun & diagram fasor untuk 
+kapasitor terlihat pada Gambar 4.18.
+4.	 Rangkaian R L C
+Gambar 4. 19 Rangkaian RLC
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Kapasitor 
+(C) 
+dan 
+induktor 
+(L) 
+sering 
+dirangkai secara seri dengan resistor (R) 
+pada sebuah rangkaian kelistrikan. Analogi 
+dengan rangkaian seri resistor yang memiliki 
+hambatan total, rangkaian seri RLC memiliki 
+besaran yang disebut impedansi, disimbolkan 
+Z. Impedansi merupakan hambatan terhadap 
+aliran arus yang merupakan perpaduan dari hambatan R, reaktansi induktif 
+XL dan reaktansi kapasitif XC. Cara menentukan impedansi rangkaian arus 
+bolak balik berbeda dengan cara menentukan hambatan total dari rangkaian 
+arus searah, besar impedansi rangkaian bukan aljabar dari nilai hambatan 
+dan reaktansinya. Sama juga dengan tegangan pada rangkaian, jika kalian 
+mendapatkan nilai tegangan ujung- ujung resistor VR, tegangan induktor VL 
+dan tegangan kapasitor VC maka tegangan totalnya bukan hasil penjumlahan 
+secara aljabar.
+Perhatikan rangkaian RLC seperti pada Gambar 
+4.19. 
+Diskusikan 
+bagaimanakah 
+hubungan 
+besar tegangan total V dengan tegangan ujung 
+resistor VR, induktor VL dan kapasitor VC? 
+Jika akses internet tersedia, penyelidikan virtual 
+dapat dilakukan melalui tautan atau pindai kode 
+QR.
+Aktivitas 4.3
+https://phet.colorado.edu/sims/html/circuit-construction-kit-ac-virtual-lab/latest/circuit- 
+construction-kit-ac-virtual-lab_en.html
+π
+2
+86
+Fisika untuk SMA/MA Kelas XII
+Jika persamaan arus bolak balik pada rangkaian RLC adalah
+I = Imaks sinωt
+Maka persamaan tegangannya dapat dinyatakan sebagai :
+V = Vmaks sin (ωt ±Ω)
+Sudut Ω merupakan beda sudut fase antara tegangan V dan arus listrik I. 
+Sudut Ω dapat dicari dengan:  
+(4-14)
+(4-15)
+(4-16)
+Selain melalui penyelidikan, untuk mendapatkan tegangan total pada 
+rangkaian RLC, dapat dilakukan dengan menganalisis diagram fasornya. 
+dengan V adalah tegangan total (volt), VR adalah tegangan resistor (volt), 
+VL adalah tegangan induktor (volt) danVC adalah tegangan kapasitor (volt). 
+Analogikan hukum Ohm tentang persamaan tegangan dan arus listrik, 
+maka persamaan di atas dapat diuraikan menjadi:
+(IZ)2 = (IR)2 + (IXL - IXC )2.
+Karena arus listrik yang mengalir pada rangkaian seri untuk semua 
+komponen sama besar maka:
+Gambar 4. 20 Diagram fasor RLC
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Perhatikan Gambar 4. 20. Arus listrik 
+sefase dengan VR namun berbeda fase 90o 
+dengan VL dan VC. Karena berlawanan arah, 
+resultan VL dan VC yaitu VL - VC. Arah VL - VC 
+tegak lurus terhadap VR sehingga:
+Tegangan total pada rangkaian RLC adalah:
+V2 = VR
+2 + (VL - VC )2
+Impedansi rangkaian RLC dapat dinyatakan sebagai:
+(Z)2 = (R)2 + (XL - XC )2
+atau
+(4-12)
+(4-13)
+dengan Z adalah impedansi (Ω), R adalah hambatan (Ω), XL adalah 
+reaktansi induktif (Ω) dan XC adalah reaktansi kapasitif (Ω).
+Z = √ (R)2 + (XL - XC )2
+tan θ = 
+XL - XC
+R
+87
+BAB 4 | Arus Bolak-Balik
+1.	 Rangkaian RLC terdiri dari resistor 100 Ω, kapasitor 10μF dan induktor 
+yang belum diketahui induktansinya dihubungkan secara seri pada 
+sumber tegangan 9V, 50Hz. Jika hasil pengukuran tegangan ujung-ujung 
+resistor sebesar VR = 4V, tentukan:
+a.	 arus rangkaian,
+b.	 impedansi rangkaian total,
+c.	 teganganinduktor
+d.	 induktansi induktor
+Diagram antara XL, XC dan R terlihat pada 
+Gambar 4.21. Persamaan tangensial (4-16) juga 
+dapat dinyatakan dalam persamaan cosinus 
+menjadi:
+Sudut fase ini sangat penting karena berpengaruh dalam memberi 
+daya disipasi rata-rata pada rangkaian. Daya disipasi pada rangkaian RLC 
+dihasilkan oleh resistor akibat panas yang timbul pada resistor saat mengalir 
+arus listrik. Daya disipasi ini tidak timbul pada induktor dan kapasitor, 
+sehingga
+dengan P adalah daya disipasi (watt), Ief adalah arus efektif atau arus rms 
+(ampere), R adalah hambatan (Ω). Karena R=Z cos θ, maka persamaan daya 
+disipasi dapat dinyatakan juga sebagai:
+P = Ief
+2 Z cos θ                                               (4-19)
+oleh karena itu cos θ disebut sebagai faktor daya.
+besar daya disipasi pada rangkaian RLC adalah:
+P = Ief
+2 R                                                  (4-18)
+Ayo, Cek Pemahaman!
+Aktivitas 4.4. Aplikasi Konsep
+Tujuan 
+Menentukan induktansi kumparan saat dihubungkan dengan tegangan 
+AC.
+ (4-17)
+Gambar 4. 21 Diagram impedansi
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+cos θ = 
+R
+Z
+88
+Fisika untuk SMA/MA Kelas XII
+Alat dan Bahan 
+•	
+resistor 100 Ω
+•	
+kapasitor 10 μF 
+•	
+kumparan 1200 lilitan / kumparan 600 lilitan
+•	
+inti besi
+•	
+papan rangkaian
+•	
+catu day
+•	
+multimeter.
+Langkah Kegiatan:
+1.	 Rangkai resistor, kapasitor, induktor (dalam hal ini kumparan 
+berperan sebagai induktor) secara seri kemudian hubungkan 
+dengan catu daya.
+2.	 Hidupkan catu daya pada mode AC dengan tegangan 12V.
+3.	 Ukur tegangan resistor (VR), tegangan kapasitor (VC), tegangan 
+induktor (VL), tegangan total rangkaian (V) serta arus pada 
+rangkaian.
+4.	 Ubah tegangan catu daya menjadi 9V, 6V dan 3V kemudian ukur 
+kembali tegangan dan arusnya seperti pada langkah nomor 3 dan 
+tuliskan pada tabel pengamatan.
+5.	 Berdasarkan data yang diperoleh, tentukan besar induktansi 
+kumparan.
+6.	 Masukan inti besi ke dalam kumparan, kemudian tentukan 
+kembali induktansi kumparan dengan mengikuti langkah nomor 2 
+sampai 4. Buat kesimpulan hasil percobaan.
+Radio merupakan salah satu produk teknologi yang menggunakan prinsip 
+resonansi pada tuner pencari frekuensi. Popularitas radio memang sudah 
+menurun karena adanya perkembangan teknologi video daring atau podcast 
+(siniar daring), tapi radio relatif masih banyak digunakan sampai sekarang.
+ Teknologi tuner radio terdiri dari resistor dan kapasitor varibel. Saat 
+ingin menangkap sinyal radio berfrekuensi tertentu, tuner mengubah 
+nilai kapasitor sehingga rangkaian memiliki frekuensi yang sama dengan 
+frekuensi sinyal. 
+C.	 Resonansi Rangkaian
+89
+BAB 4 | Arus Bolak-Balik
+Pada materi getaran, kalian belajar bagaimana resonansi terjadi pada 
+sebuah benda akibat benda lain yang bergetar didekatnya. Frekuensi terjadi 
+saat frekuensi getaran sama dengan frekuensi alamiah dari benda. Misalkan 
+pada sistem pegas, frekuensi alamiahnya yaitu                        . Analogi dengan 
+getaran, pada rangkaian RLC, peristiwa resonansi dapat terjadi jika frekuensi 
+tegangan memenuhi nilai tertentu.
+Arus maksimum diperoleh saat impedansinya minimum. Impedansi 
+minimum terjadi saat frekuensinya menyebabkan reaktansi induktif sama 
+dengan reaktansi kapasitif (XL = XC) atau Z = R,
+Gambar 4. 22 Beberapa frekuensi radio
+Sumber :UF Physics/University of Florida (2022)
+Coba diskusikan bagaimana syarat terjadinya 
+resonansi 
+pada 
+rangkaian 
+RLC, 
+kemudian 
+tentukan frekuensi resonansi rangkaian RLC yang 
+dihubungkan tegangan AC.
+Jika akses internet tersedia, penyelidikan virtual 
+dapat dilakukan pada tautan atau pindai kode QR.
+Aktivitas 4.5
+Perhatikan gambar 4.22 tersebut, beberapa frekuensi radio yang 
+dipancarkan stasiun terlihat pada Gambar. Ketika rangkaian diinginkan 
+menangkap sinyal tertentu maka tuner digunakan untuk mengubah nilai 
+kapasitansi rangkaian sampai diperoleh frekuensi rangkaian yang sama 
+dengan frekuensi radio. Frekuensi yang ditangkap rangkaian yaitu 104 MHz. 
+Selain pada tuner radio, prinsip resonansi juga digunakan pada alat BIA 
+(Bioelectrical Impedance Analysis) dan microphone (speaker telepon).
+http://www.phy.hk/wiki/j/Eng/RLC/RLC_js.htm
+Klik pada tombol “set resonance”, kemudian lihat nilai frekuensi 
+resonansinya.
+f = 
+1
+2π
+k
+m
+90
+Fisika untuk SMA/MA Kelas XII
+Frekuensi resonansi (f) rangkaian RLC dipengaruhi oleh besar induktansi 
+(L) dan kapasitansi rangkaian (C), tapi tidak dipengaruhi besar hambatan 
+resistornya (R).
+Sebuah radio menggunakan prinsip resonansi rangkaian RLC untuk 
+menangkap siaran yang dipancarkan dengan frekuensi tertentu. 
+Jika saat menangkap siaran dengan frekuensi 90 MHz, kapasitas 
+kapasitornya adalah C, maka tentukan kapasitas kapasitor saat radio 
+menangkap sinyal radio berfrekuensi 105 MHz.
+frekuensi resonansi rangkaian RLC:
+                                                (4-20)
+Ayo, Cek Pemahaman!
+1.	 Persamaan tegangan bolak balik berupa sinusoidal,
+V = Vmaks sinωt
+2.	 Hubungan tegangan efektif dan tegangan maksimum :
+ Vmaks = Vef√2
+3.	 Nilai arus atau tegangan efektif setara dengan nilai arus searah atau 
+tegangan searah yang terukur oleh amperemeter atau voltmeter.
+4.	 Induktor dan kapasitor akan memiliki karankteristik hambatan 
+saat diberi sumber arus bolak balik.
+5.	 Reaktansi induktif dimiliki oleh induktor saat dihubungkan dengan 
+tegangan AC, XL=ωL
+6.	 Reaktansi kapasitif dimiliki oleh kapsitor saat dihubungkan dengan 
+tegangan AC, 
+XL = XC atau
+Rangkuman
+maka,
+atau
+f = 1
+2π
+1
+LC
+91
+BAB 4 | Arus Bolak-Balik
+7.	 Tegangan rangkaian RLC, V2 = VR
+2 + (VL-VC )2
+8.	 Impedansi rangkaian RLC,
+9.	 Daya disipasi pada rangkaian RLC merupakan daya yang 
+dihasilkan oleh resistor yang berubah menjadi panas sehingga 
+persamaannya, P = Ief
+2 R
+10.	Resonansi rangkaian RLC terjadi ketika reaktansi induktif sama 
+dengan reaktansi kapasitif rangkaian.
+11.	Besar frekuensi resonansi rangkaian RLC,
+1.	 Sebuah osiloskop digunakan untuk melihat sinyal kelistrikan yang 
+dihasilkan dinamo sebuah mobil. Grafik pada osiloskop terlihat 
+seperti Gambar 4.23. 
+Gambar 4. 23 Grafiksinyal dinamo AC
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Asesmen
+Jika pada arah vertikal pengaturan osiloskop yaitu 2,5 V/div, maka 
+tentukan tegangan efektif berdasarkan grafik tersebut.
+2.	 Sebuah rangkaian RLC dihubungkan dengan AC secara seri seperti 
+Gambar 4.24. 
+Z =   (R)2 + (XL -XC)2
+f = 
+1
+2π
+1
+LC
+92
+Fisika untuk SMA/MA Kelas XII
+3.	 Gambar 4.25 menunjukkan alat pendeteksi 
+logam 
+yang 
+sedang 
+digunakan. 
+Alat 
+pendeteksi ini menggunakan dua rangkaian 
+osilator kapasitor induktor, A dan B. Masing- 
+masing osilator menghasilkan frekuensi 
+resonansinya sendiri,                                                	
+dan                      .Adanya  logam  yang 
+terdeteksi  menyebabkan beda frekuensi 
+ketukan |f0A – f0B|. Jika tidak ada logam di 
+dekat osilator, induktansi LA sama dengan 
+induktansi LB, dan f0A sama dengan f0B, serta 
+ Gambar 4. 25 Pendeteksi logam
+Sumber : Miya/Wikimedia Commons (2004)
+tidak ada frekuensi ketukan. Ketika induktor B (kumparan pencari 
+mendekati  sepotong logam, induktansi LB meningkat, frekuensi 
+osilator f0B menurun, dan barulah frekuensi ketukan terdengar. 
+Mula-mula setiap induktor diatur sehingga LB = LA, dan masing- 
+masing osilator memiliki frekuensi resonansi 855,5 kHz. Asumsikan 
+bahwa induktansi kumparan B meningkat sebesar 1.000% karena 
+sepotong logam di dekatnya, tentukan frekuensi ketukan yang 
+terdengar melalui pengeras suara.
+Gambar 4. 24 Rangkaian RLC
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Jika arus pada rangkaian sebesar 0,1 A dan frekuensi tegangannya 
+50 Hz, tentukan:
+a.	 impedansi rangkaian
+b.	 tegangan total pada rangkaian
+c.	 diagram grafik tegangan.
+93
+BAB 4 | Arus Bolak-Balik
+Refleksi
+Setelah kalian mempelajari Bab 4 Arus Listrik Bolak-Balik:
+1.	 Hal apa yang menarik pada materi arus bolak-balik?
+2.	 Apakah kalian sudah memahami konsep-konsep esensial pada 
+materi arus listrik bolak balik?
+3.	 Materi apa pada Bab 4 Arus Listrik Bolak-balik yang masih belum 
+dipahami?
+Pengayaan
+BIA (Bioelectrical Impedance Analysis)
+Bioelectrical Impedance Analysis (BIA) merupakan teknik pengukuran 
+komposisi tubuh. Pada umumnya pengukuran ini dilakukan untuk 
+mengetahui tingkat kesehatan seseorang. Komposisi tubuh meliputi 
+kadar lemak, kadar air dan massa otot dianalisis melalui pengukuran 
+ini, berdasarkan prinsip impedansi rangkaian. Coba lakukan 
+penyelidikan lebih lanjut mengenai prinsip kerjanya dari berbagai 
+sumber.
+Gambar 4.26  Prinsip Kerja BIA
+Sumber : Nanda Auliarahma/Kemendikbudristek (2022)
+94
+Fisika untuk SMA/MA Kelas XII
+4.	 Keterampilan 
+apa 
+yang 
+baru 
+kalian 
+untuk 
+meningkatkan 
+pemahaman materi arus bolak balik ini?

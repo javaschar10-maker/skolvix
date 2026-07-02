@@ -1,0 +1,1453 @@
+175
+BAB 9 | Fisika Inti dan Radioaktivitas
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Irma Rahma Suwarma, Lia Laela Sarah
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 9
+FISIKA INTI DAN
+RADIOAKTIVITAS
+Kata Kunci
+Proton • Neutron • Elektron • Karakteristik inti • Defek massa • Energi ikat • Kestabilan inti
+• Radioisotop • Peluruhan • Alfa • Beta • Gamma • Waktu paruh • Deret Radioaktif • Reaksi inti • Fisi
+• Fusi • Energi reaksi
+Setelah mempelajari bab ini, kalian dapat menganalisis karakteristik inti atom, 
+proses peluruhan alfa, beta, gamma, radioaktivitas, dan penerapannya dalam 
+kehidupan sehari-hari.
+Tujuan Pembelajaran
+Sumber: Getty/MarySan (2022)
+176
+Fisika untuk SMA/MA Kelas XII 
+A.	 Penemuan Inti Atom
+Ayo, Bernalar Kritis!
+1.	 Bagaimana inti atom ditemukan?
+2.	 Apa saja penyusun inti atom?
+3.	 Apa karakteristik penyusun inti atom?
+4.	 Bagaimana model inti atom?
+Gambar 9. 1 Peta konsep Fisika Inti dan Radioaktivitas
+Sumber : Kinkin Suartini/Kemendikbudristek (2022)
+177
+BAB 9 | Fisika Inti dan Radioaktivitas
+Ayo, Cermati!
+1.	 Sejarah Penemuan Inti Atom
+Cermati 
+Gambar 
+9.2, 
+ceritakan 
+kembali 
+bagaimana 
+sejarah 
+perkembangan penemuan inti atom.
+Gambar 9. 2 Alur perkembangan penemuan atom
+Sumber : Nanda Auliarahma/kemendikbudristek(2022)
+Gambar 9. 3 Percobaan lempeng emas Rutherford
+Sumber : Paul G. Hewitt/Conceptual Physics(2015)
+Gambar 9.3 menunjukan ilustrasi percobaan lempeng emas yang dilakukan 
+oleh Hans Geiger (1882-1945) dan Ernest Marsden (1889-1970), kemudian 
+Rutherford (1871-1937) pada 1911 menjelaskan hasil percobaan tersebut 
+sebagai awal ditemukannya model inti atom yang sampai saat ini masih 
+diyakini 
+kebenarannya 
+oleh 
+para 
+ilmuwan. 
+Rutherford 
+mengawali 
+eksperimennya berdasarkan penemuan elektron oleh J.J Thomson (1856-
+1940). Ayo, lakukan simulasi percobaan Rutherford tersebut!
+178
+Fisika untuk SMA/MA Kelas XII 
+Kunjungi link:  
+https://phet.colorado.edu/sims/html/rutherford-scattering/latest/
+rutherford-scattering_en.html
+a.	 Set jumlah proton pada 40, tekan tombol “trace”, partikel alfa, dan 
+play apa yang kalian amati dari lintasan gerak partikel alfa tersebut?
+b.	 Jika jumlah proton diatur pada angka 60, apa yang kamu 
+c.	 Ubah ke dalam bentuk bola yang berwarma merah abu.
+d.	 Amati lintasan partikel alfa. Apa yang kalian temukan?
+e.	 Jika jumlah proton dinaikan menjadi 100, apa yang kalian cermati 
+pada lintasan partikel alfa?
+Berdasarkan hasil pengamatanmu pada percobaan Rutherford, 
+apa yang dapat kalian prediksi?
+Percobaan Rutherford menembakkan seberkas partikel bermuatan 
+positif (partikel alfa) dari sumber radioaktif diarahkan melalui selembar 
+179
+BAB 9 | Fisika Inti dan Radioaktivitas
+lempeng emas yang sangat tipis. Partikel alfa ribuan kali lebih masif daripada 
+elektron sehingga diharapkan aliran partikel alfa tidak akan terhambat saat 
+melewati lautan elektron. Berdasarkan hasil eksperimen, hampir semua 
+partikel alfa melewati lempeng emas dengan sedikit atau tanpa defleksi 
+dan menghasilkan titik cahaya ketika mereka mengenai layar fluoresen di 
+luar lempeng. Tapi beberapa partikel dibelokkan dari jalur garis lurusnya 
+saat muncul. Beberapa partikel alfa dibelokkan dan ada sebagian kecil yang 
+terpantulkan ke belakang. 
+Partikel alfa ini pasti menabrak sesuatu yang relatif kuat,tapi apa? 
+Rutherford beralasan bahwa partikel yang tidak dibelokkan bergerak 
+melalui ruang kosong di daerah lempeng emas. Sejumlah kecil partikel yang 
+dibelokkan ditolak dari pusat inti bermuatan positif yang sangat padat. Oleh 
+karena itu, Rutherford menyimpulkan bahwa setiap atom pasti memiliki inti 
+yang seperti ini yang disebut sebagai inti atom.
+Ayo, Cek Pemahaman!
+1.	 Apa yang meyakinkan Rutherford bahwa kertas emas itu sebagian 
+besar adalah ruang kosong? 
+2.	 Apa yang meyakinkan Rutherford bahwa partikel dalam kertas 
+emas itu masif?
+2.	 Karakteristik Inti Atom
+Atom setiap unsur terdiri dari tiga partikel penyusun, yaitu proton, neutron, 
+dan elektron. Sejak 1930-an  para ilmuwan telah menemukan penyusun 
+partikel inti yang lebih mikroskopik. 
+Atom tidak bermuatan karena mengandung jumlah proton dan elektron 
+yang sama dan elektron tersebut berlawanan dengan muatan proton. Jika 
+suatu atom kehilangan satu atau lebih elektronsehingga jumlah proton dan 
+elektron tidak sama, maka atom tersebut akan berubah menjadi partikel 
+yang bermuatan yang disebut dengan ion.
+Inti atom di dalamnya terdapat sejumlah proton dan neutron yang disebut 
+dengan nukleon. Proton dan neutron ini mengisi inti yang menunjukkan 
+karakteristik suatu unsur dan disebut sebagai nuklida. Nuklida suatu unsur 
+dilambangkan sebagai berikut.
+X
+A
+Z
+180
+Fisika untuk SMA/MA Kelas XII 
+A = jumlah nukleon (proton + neutron) = nomor massa
+Z = jumlah proton = jumlah elektron = nomor atom
+Suatu unsur akan berubah menjadi unsur lain jika jumlah Z (jumlah 
+proton) berubah sehingga lambang X juga berubah.
+Ayo, Cermati!
+Carilah informasi dari berbagai sumber mengenai proton, neutron, dan 
+elektron. Identifikasi dan jelaskan perbedaan serta proton, neutron, 
+dan elektron berdasarkan penyusunnya, sifat penyusunnya, dan gaya 
+interaksi yang dimilikinya.
+Karakteristik lain dari inti atom dapat dilihat dari massa. Massa atom dan 
+partikel penyusunnya lebih mudah dinyatakan dalam satuan massa atom (u) 
+daripada satuan SI massa kilogram. (1 u = 1,66 × 10-27 kg). Satuan massa atom 
+ini sering juga disingkat menjadi “sma”.
+Proton dan neutron keduanya memiliki massa sekitar satu satuan massa 
+atom u. Massa elektron sangat kecil, sekitar 0.0005 u. Oleh karena itu, sebagian 
+besar massa atom berada di dalam inti. Karakteristik inti atom berdasarkan 
+massanya dijelaskan pada Tabel 9.1.
+massa/sma
+muatan
+posisi
+proton
+1,0773
++e
+dalam inti
+neutron
+1,0087
+0
+dalam inti
+elektron
+0,00056
+-e
+mengorbit inti
+Tabel 9.1 Karakteristik inti atom berdasarkan massanya
+Ayo, Cek Pemahaman!
+Inti Natrium diwakili oleh lambang 
+Jelaskan karakteristik dan jumlah proton dan neutron Natrium!
+181
+BAB 9 | Fisika Inti dan Radioaktivitas
+B.	Defek Massa dan Energi Ikat
+Proton dan neutron di dalam inti berikatan sangat kuat, sehingga memerlukan 
+energi yang sangat besar untuk memisahkannya.
+Ayo, Bernalar Kritis!
+Apa yang menyebabkan proton dan neutron berikatan sangat kuat? 
+Apakah massa masing-masing partikel penyusun atom ketika 
+dijumlahkan sama dengan massa atom tersebut?
+Ayo, Cermati!
+Isilah Tabel 9.3 dengan menggunakan data pada Tabel 9.2.
+sma = satuan massa atom, didefinisikan sebagai 1/12 massa  1 atom 
+karbon. 
+1 sma = 1,66053 x 10-27 = 931,49 MeV/c2
+Unsur
+Massa(sma)
+N
+12.018613
+O
+14.008595
+Al
+23.999941
+proton
+1,0773
+neutron
+1,0087
+Unsur
+Jumlah 
+Proton 
+(Z)
+(a)
+Nomer 
+Massa 
+(A)
+(b)
+Jumlah 
+Neutron
+(c)
+Jumlah 
+Proton 
+x Massa 
+Proton
+(d)
+Jumlah 
+Neutron 
+x Massa 
+Neutron
+(e)
+Total 
+Massa
+(d+e)
+N
+7
+12
+O
+8
+14
+Al
+13
+24
+Tabel. 9.2 Massa beberapa unsur
+Tabel. 9.3 Total massa beberapa unsur
+182
+Fisika untuk SMA/MA Kelas XII 
+Identifikasi data hasil perhitunganmu, bandingkan total massa 
+yang kamu hitung (d+e) dengan data massa unsur pada tabel 9.2. 
+Bagaimana menurut pendapatmu? Tuliskan hasil penilaian kalian 
+setelah membandingkan data tersebut. Kalian dapat menambahkan 
+ilustrasi gambar pada penjelasanmu.
+Mengapa terjadi perbedaan antara massa suatu unsur dengan jumlah 
+massa dari masing-masing partikel penyusunnya? Proton dan neutron 
+berikatan sangat kuat di dalam inti sehingga kita memerlukan energi untuk 
+melepaskan ikatannya. Berapakah besar energi ikat yang dimiliki inti? 
+Secara logika tentu saja ukurannya sebesar energi yang kita perlukan untuk 
+melepaskan ikatan tersebut.
+Besarnya energi ikat pada inti dapat dihitung berdasarkan perbedaan 
+massa antara massa unsur dan jumlah massa proton dan neutron dalam inti 
+karena massa yang hilang pada inti tersebut dikonversi ke dalam bentuk 
+energi ikat. Oleh karena itu, jika suatu nuklida dengan lambang           memiliki 
+massa MX, massa neutron mn dan massa proton mp, maka energi ikat nuklida 
+tersebut dapat dihitung sebagai berikut.
+Persamaan reaksi:
+“Nuklida         memiliki sejumlah proton dan sejumlah neutron disertai 
+defek massa (massa yang hilang)”
+Secara matematis pernyataan tersebut dapat dituliskan:
+Nuklida        = jumlah proton + jumlah neutron + defek massa 
+Besar energi ikat:
+*catat:  c2 = 931 MeV/sma di mana 1 sma = 931 MeV/c2
+•	
+Bagaimana kecenderungan energi ikat yang dimiliki oleh suatu 
+unsur? 
+X
+A
+Z
+X
+A
+Z
+EB = Δmc2
+X
+A
+Z
+183
+BAB 9 | Fisika Inti dan Radioaktivitas
+•	
+Apakah unsur ringan yang memiliki nomor massa kecil akan 
+memiliki energi ikat yang kecil?
+•	
+Interpretasikan grafik pada Gambar 9.5!
+•	
+Tuliskan hasil interpretasimu!
+Gambar 9.5 Grafik energi ikat per nukeon(E0/A) terhadap nomermassa (A)
+Sumber: MikeRun/Wikimedia Commons(2022)
+Partikel-partikel dalam inti atom yang memiliki nomer massa (A) besar 
+pada umumnya memiliki energi ikat yang sangat besar sehingga untuk 
+melepaskan ikatan antar partikel diperlukan “penganggu” ikatan tersebut. 
+Gangguan ini biasanya dilakukan melalui penembakan neutron pada inti 
+atom, seperti salah satu contohnya adalah reaksi fisi pada Uranium. Isilah 
+nilai kosong pada Tabel 9.4 agar kalian dapat memahami cara menghitung 
+energi ikat pada suatu reaksi inti.
+Reaksi
+235U + n --->
+143Ba + 
+90Kr + 3n + ∆m
+Persamaan 
+massa (m)
+235.04393 + 1(1.008665) = 142.92063 + 89.91952 + 
+3(1.008665) + ∆m
+Massa yang 
+hilang
+∆m = (235.04393 + 1.008665 )- (142.92063 + 89.91952 
++ 3(1.008665))           
+        =.                         sma
+Energi yang 
+diperoleh 
+(E)
+∆E = ∆mc2
+     =.                     MeV
+Tabel 9.4 Energi ikat inti
+184
+Fisika untuk SMA/MA Kelas XII 
+Energi yang 
+diperoleh / 
+nukleon
+∆E/236  = 
+Ingat: 1 sma = 931 MeV/c2
+Berdasarkan hasil perhitungan yang kalian kerjakan, rumuskan energi 
+ikat tersebut secara umum:
+Persamaan reaksi: 
+∆EB = (.                       )c2 – (.                            )c2
+5.4 Ayo, Cek Pemahaman!
+1.	 Jika neutron dan proton yang terisolasi dalam inti memiliki massa 
+lebih dari  10.000 amu, mengapa 12 neutron dan proton pada inti 
+Carbon memiliki massa yang tidak lebih besar dari 120.000 amu?
+2.	 “Ketika suatu unsur berat, misalnya uranium mengalami reaksi 
+fisi, maka jumlah nukleon akan berkurang setelah reaksi tersebut” 
+Apakah 
+menurutmu 
+pernyataan 
+tersebut 
+benar? 
+Berikan 
+penjelasanmu!
+C.	 Radioaktivitas
+Isotop dan Kestabilan Inti
+Ayo, Bernalar Kritis!
+Apa jumlah proton dan neutron setiap nuklida sama?  
+Apa yang menyebabkan suatu partikel tidak stabil? 
+Apakah semua partikel tidak stabil?
+Beberapa Nuklida sejenis memiliki nukleon yang berbeda, seperti contohnya   
+                            dan ada pula nuklida                       . Mari kita cermati perbedaan 
+nuklida-nuklida tersebut. Identifikasi Tabel 9.5. Isilah jumlah proton, neutron 
+dan elektron untuk masing-masing nuklida pada Tabel 9.5.
+55
+28Ni,
+56
+28Ni,
+57
+28Ni,
+37
+19K,
+38
+19K,
+39
+19K
+A
+Z X
+Z
+A-1
+Y
++ Δm
+1
+0 n
++
+Z
+A-1
+Z
+1
+0 n
++
++ 3
+185
+BAB 9 | Fisika Inti dan Radioaktivitas
+Ayo, Cermati!
+Nuklida
+Proton
+Neutron
+Elektron
+28
+27
+28
+28
+28
+19
+18
+19
+20
+Tabel 9.5 Identifikasi isotop
+Setelah menghitung jumlah proton, neutron, dan elektron pada nuklida 
+(Tabel 9.5) apa nilai yang sama pada masing-masing nuklida tersebut? Ya, 
+jumlah proton nuklida tersebut sama, sehingga dinamakan sebagai isotop.
+Perbedaan apa yang dapat kalian temukan dari Tabel 9.5? Nuklida 
+dengan nukleon yang lebih banyak memiliki volume yang lebih besar. Jumlah 
+neutron semakin banyak pada nuklida yang memiliki nukleon lebih banyak. 
+Gaya ikat inti tidak dapat menjangkau volume nukleon yang semakin besar. 
+Oleh karena itu, neutron pada inti yang lebih berat cenderung mudah untuk 
+dilepaskan. Keadaan ini membuat isotop dengan nukleon yang lebih banyak 
+cenderung tidak stabil, sedangkan isotop dengan nukleon relatif sedikit 
+cenderung lebih stabil.
+Z
+N
+unsur
+Letak/posisi
+10
+10
+Segaris dengan pita kestabilan
+20
+20
+40
+47
+60
+79
+80
+113
+Kestabilan inti bergantung pada besarnya energi ikat yang dimiliki oleh 
+inti. Isotop yang memiliki nukleon lebih banyak (inti berat) cenderung tidak 
+stabil.
+Tabel 9.6 Nilai Z dan N beberapa unsur
+55
+28Ni
+56
+28Ni
+57
+28Ni
+37
+19K
+38
+19K
+39
+19K
+20
+10Ne
+186
+Fisika untuk SMA/MA Kelas XII 
+Perhatikan Gambar 9.6, coba cermati 
+garis pita kestabilan (N=Z) pada grafik, dan 
+isikan nama unsur dengan jumlah N dan Z 
+sesuai pada Tabel 9.6!
+Berdasarkan hasil analisis grafik, apa 
+hasil interpretasimu? Ya, benar. Unsur-unsur 
+dengan inti ringan (inti yang mempunyai Z < 
+20) terletak segaris dengan pita kestabilan, 
+artinya unsur-unsur ini merupakan unsur 
+yang stabil. Sementara unsur-unsur inti 
+berat (Z>20) terletak di atas pita kestabilan, 
+artinya unsur-unsur ini cenderung tidak 
+stabil dan menghasilkan pancaran radiasi 
+emisi beta atau emisi alfa.
+Ayo, Cek Pemahaman!
+Terdapat sebuah nuklida ,             tentukan:
+a.	 Berapa defek massa nuklida tersebut?
+b.	 Berapa energi ikat unsur nuklida tersebut?
+c.	 Dimanakah letak nuklida tersebut pada grafik pita kestabilan?
+d.	 Apa interpretasimu terhadap nuklida tersebut?
+D.	Partikel Radiasi
+Ayo, Bernalar Kritis!
+Apa yang yang akan dilakukan inti agar dirinya stabil? Bagaimana 
+proses pelepasan partikel dari suatu inti? Bagaimana karakteristik 
+partikel radiasi?
+Isotop yang tidak stabil, cenderung akan membuat dirinya stabil dengan 
+melepaskan nukleon (proton+neutron) yang disebut dengan peristiwa 
+peluruhan. Proses peluruhan ini dapat terjadi baik secara alamiah maupun 
+secara buatan (dengan perlakuan tertentu). Isotop-isotop tersebut harus 
+Gambar 9. 6   Grafik pita kestabilan
+Sumber : unknown/naifun.com(2022)
+201
+82Pb
+187
+BAB 9 | Fisika Inti dan Radioaktivitas
+melepaskankan nukleon, maka proses peluruhan itu melepaskan partikel-
+partikel baru dan juga unsur yang baru. Partikel-partikel tersebut dinamakan 
+partikel radiasi yang terdiri dari partikel neutron, proton, deutron, tritron, 
+sinar alfa, sinar beta, positron, atau sinar gamma.
+Partikel 
+radiasi 
+tersebut 
+memiliki 
+karakteristik 
+yang 
+berbeda. 
+Kemampuan daya tembus suatu partikel dipengaruhi oleh berbagai faktor 
+fisis misalnya massa, muatan, energi, dan lain-lain. Hal tersebut yang 
+mempengaruhi ukuran suatu partikel.
+Semakin kecil ukuran suatu partikel radiasi, maka semakin 
+besar daya tembusnya.
+ Satuan dosis radiasi umumnya dinyatakan dalam rad (dosis serapan 
+radiasi). 1 rad sebanding dengan 0,01 joule radiasi energi yang diserap per 1 
+kilogram jaringan. Satuan dosis radiasi ini dapat digunakan untuk mengukur 
+kerusakan yang ditimbulkan bagi lingkungan sekitar, bukan hanya semata-
+mata memberikan informasi energi radiasi.
+9.4 Ayo, Cermati!
+Coba kalian amati informasi yang disajikan pada Tabel 9.7 kemudian 
+identifikasi dan buatlah kesimpulan hasil identifikasi dan analisismu 
+terhadap Tabel 9.7.
+Karakteristik
+Partikel 
+Alfa
+Partikel Beta 
+Negatif
+Partikel 
+Beta Positif
+Radiasi Gamma
+Massa
+4 u
+Kurang lebih 
+u/2000
+Kurang leb-
+ih u/2000
+0
+Muatan
++2e
+-e
++e
+0
+Bentuk
+Inti 
+helium 
+(2 proton 
+dan 2 
+neutron)
+elektron
+positron
+gelombang 
+elektromagnetik 
+yang termasuk 
+ke dalam 
+gelombang 
+pendek
+Kecepatan
+Hingga 
+0.05c
+Hingga 0,99c
+Hingga 
+0.99c
+c
+Tabel 9.7 Karakteristik partikel radiasi
+188
+Fisika untuk SMA/MA Kelas XII 
+Aktivitas peluruhan memiliki ukuran seberapa banyak partikel itu 
+meluruh. Ukuran ini dinyatakan dengan laju radiasi. Makin cepat laju, makin 
+cepat kestabilan inti baru tercapai. Faktor yang mempengaruhi laju radiasi 
+adalah jumlah nuklida dan konstanta peluruhan. Dinyatakan dengan rumus:
+A = aktivitas peluruhan(kejadian per detik atau Bequerel disingkat Bq)
+λ = konstanta peluruhan
+N = jumlah partikel (N = mol x NA, NA = bilangan Avogadro 6,02 x 1023).
+Satuan aktivitas yang sering digunakan adalah Curie (Ci), 1 Ci = 3,70 x 
+1010 Bq. Aktivitas radioisotop tidak bersifat tetap dan akan makin berkurang 
+selama proses mencapai kestabilan. Akibat dari berkurangnya aktivitas 
+peluruhan tersebut, maka pada suatu waktu tertentu akan mencapai nilai 
+setengahnya. Waktu yang diperlukan untuk mencapai nilai setengahnya itu 
+disebut dengan waktu paruh. Jumlah atom yang belum meluruh N(t) pada 
+waktu (t) sama dengan:
+N(t) = N0e-0639t/t1/2 ……(7)
+9.5 Ayo, Cermati!
+Tulis kesimpulanmu di sini berdasarkan jawaban dari pertanyaan 
+berikut: 
+1.	 Apa perbedaan partikel-partikel radiasi tersebut?
+2.	 Apa persamaan partikel-partikel tersebut? 
+3.	 Partikel mana yang memiliki ukuran terkecil?
+Mari, kita buktikan bagaimana bentuk kurva 
+persamaan tersebut dengan mengerjakan simulasi 
+pada:
+Mempen-
+garuhi Plat 
+Film?
+iya
+iya
+iya
+iya
+A = λN ..................(4)
+= λN ..................(5)
+dN
+dt
+dN
+dt
+= - λdt ..................(6)
+189
+BAB 9 | Fisika Inti dan Radioaktivitas
+Ayo, Cermati!
+Perubahan nilai jumlah atom yang belum meluruh terhadap langkah 
+waktu yang telah kalian tentukan. 
+1.	 Apakah ketika langkah pertama jumlah atom yang belum meluruh 
+adalah setengah dari jumlah awal?
+2.	 Jika tidak, kapan nilai tersebut akan berkurang menjadi 
+setengahnya? 
+3.	 Apakah sudah sesuai dengan waktu paruh yang kalian tentukan?
+4.	 Apa manfaat waktu paruh?
+ Tulis jawaban pertanyaan-pertanyaan tersebut!
+Berdasarkan konsep waktu paruh, para ilmuwan dapat menghitung 
+usia artefak yang mengandung karbon, seperti perkakas kayu atau kerangka 
+dengan mengukur tingkat radioaktivitasnya saat ini. Proses ini, dikenal 
+sebagai penanggalan karbon yang memungkinkan kita untuk menyelidiki 
+hingga 50.000 tahun yang lalu. Luar rentang waktu ini, hanya sedikit 
+karbon-14 yang tersisa untuk memungkinkan analisis yang akurat.
+1.	 Masukan nilai waktu paruh (t   ) yang kalian inginkan. 
+2.	 Tentukan nilai rentang waktu yang akan ditunjukan pada grafik.
+3.	 Tekan tombol ‘advance one step’ untuk melihat peluruhan pada 
+rentang waktu tertentu.
+https://academo.org/demos/radioactive-decay-simulator/
+1
+2
+190
+Fisika untuk SMA/MA Kelas XII 
+E.	 Peluruhan Radioaktif
+1.	 Peluruhan Alfa (α)
+Peluruhan partikel alfa (α) pada umumnya terjadi ketika inti berat (dengan 
+nomer atom Bismuth 86 sampai Radon 92) melepaskan partikel alfa untuk 
+membuat dirinya stabil. Partikel alfa ini memiliki kecepatan hingga 5% 
+dari kecepatan cahaya dan memiliki daya tembus yang lemah hanya dapat 
+menembus kertas yang sangat tipis. 
+Partikel-α memiliki massa dan muatan yang relatif besar, akibatnya 
+partikel ini memiliki kemampuan yang sangat besar untuk mengionisasi. 
+Partikel-α dapat menghasilkan sebanyak 105 pasangan ion untuk setiap 
+sentimeter udara yang dilaluinya. Dengan demikian, partikel-α relatif cepat 
+mengalami kehilangan energi dan memiliki daya tembus yang rendah. 
+Persamaan reaksi peluruhan alfa:
+Energi dibebaskan dalam peluruhan karena inti hasil peluruhan 
+terikat lebih erat dari pada inti semula. Total energi peluruhan dihitung 
+menggunakan persamaan:
+Energi yang dibebaskan muncul sebagai energi kinetik partikel alfa 
+Kα dan energi kinetik inti anak (inti hasil) KY yang dapat dihitung dengan 
+persamaan:
+Q = KY + Kα
+Asumsikan kita memilih kerangka acuan laboratorium (dijelaskan pada 
+reaksi inti). Selanjutnya, kita dapat menghitung energi kinetik alfa dengan 
+persamaan:
+       Kα = ((A-4) / A)Q
+Penanggalan karbon-14 akan menjadi metode penanggalan yang relatif 
+sederhana dan akurat jika jumlah karbon radioaktif di atmosfer konstan 
+selama berabad-abad. Fluktuasi medan magnet Matahari serta perubahan 
+kekuatan medan magnet Bumi mempengaruhi intensitas sinar kosmik di 
+atmosfer Bumi yang pada gilirannya menghasilkan fluktuasi produksi C-14. 
+Selain itu, perubahan iklim Bumi mempengaruhi jumlah karbon dioksida di 
+atmosfer. Lautan adalah reservoir besar karbon dioksida.
+A
+Z X
+A - 4
+Z - 2 Y
+4
+2α
++
+Q = (mX - mY - mα)c2
+191
+BAB 9 | Fisika Inti dan Radioaktivitas
+9.6 Ayo, Cermati!
+Buka simulasi PhET mengenai peluruhan alfa berikut:
+https://phet.colorado.edu/sims/cheerpj/nuclear-physics/latest/
+nuclear-physics.html?simulation=alpha-decay&locale=in
+Peluruhan alfa merupakan salah satu peristiwa efek trobosan (tunneling 
+effect), seperti dibahas dalam mekanika kuantum. Inti partikel alfa terikat 
+oleh gaya inti yang sangat kuat. Hanya saja, jika partikel alfa inti bergerak 
+lebih jauh dari jari-jari inti ia akan segera merasakan tolakan gaya Coulomb.
+Amati simulasi tersebut, kemudian berikan interpretasimu!
+Berdasarkan hasil eksperimen diketahui bahwa kecepatan gerak partikel alfa 
+berkisar antara 0,054 c hingga 0,07 c. Massa partikel alfa cukup besar, yaitu 
+4 u sehingga jangkauan partikel alfa sangat pendek. Partikel alfa dengan 
+energi paling tinggi, jangkauannya di udara hanya beberapa cm dan dalam 
+bahan hanya beberapa mikron.
+Partikel alfa yang dipancarkan oleh sumber radioaktif memiliki energi 
+tunggal (mono-energetic). Bertambah tebalnya bahan hanya akan mengurangi 
+energi partikel alfa yang melintas, tapi tidak megurangi 
+jumlah partikel alfa itu sendiri.
+Pengujian jejak partikel alfa dengan kamar kabut 
+Wilson, menunjukkan bahwa sebagian besar partikel alfa 
+memiliki jangkauan yang sama di dalam gas dan bergerak 
+dengan jejak lurus.
+VIDEO kamar kabut 
+wilson
+192
+Fisika untuk SMA/MA Kelas XII 
+2.	 Peluruhan Beta (β)
+Peluruhan beta membuat sebuah proton berubah menjadi inti atau 
+sebaliknya. Jadi Z dan N masing-masing berubah satu satuan, tapi A tidak 
+berubah. Peluruhan beta terjadi pada sebuah inti atom. Saat pemancaran e 
+sebuah inti atom dengan Z proton dan N netron meluruh ke inti atom lain 
+dengan Z + 1 proton dan N – 1 neutron.
+Proses peluruhan ini ketika pertama kali dipelajari, partikel yang 
+dipancarkan disebut partikel beta, kemudian baru diketahui bahwa partikel 
+itu adalah elektron. Proses peluruhan beta terdiri dari berbagai jenis, yaitu 
+sebagai berikut.
+•	
+Peluruhan neutron:
+ 
+•	
+Proses peluruhan beta lainnya adalah peluruhan proton yang 
+reaksinya:
+ 
+e+ adalah elektron positif atau positron yang merupakan antipartikel 
+dari elektron. Positron memiliki massa sama dengan elektron, tetapi memiliki 
+muatan elektrik yang berlawanan. Jika positron bertemu dengan elektron, 
+keduanya akan bergabung dan musnah. Proses ini dinamakan annihilasi. 
+Energi keduanya berubah menjadi gelombang elektromagnetik.
+•	
+Salah satu proses peluruhan inti adalah tangkapan elektron (Electron 
+capture, EC). Proses reaksinya adalah
+Sebuah proton di sini menangkap elektron dari orbitnya beralih menjadi 
+sebuah neutron ditambah sebuah neutrino. Elektron yang ditangkap ini 
+adalah elektron terdalam sebuah atom dan proses ini dicirikan dengan kulit 
+asal elektronnya: tangkapan kulit K, kulit L, dan seterusnya. Tangkapan 
+elektron ini tidak terjadi pada proton bebas, tapi hanya proton yang ada di 
+dalam inti.
+9.7 Ayo, Cermati!
+Isilah tabel di bawah ini untuk memahami cara menghitung nilai 
+energi peluruhan beta!
+193
+BAB 9 | Fisika Inti dan Radioaktivitas
+Persamaan 
+reaksi
+Persamaan 
+energi
+E = mc2
+EkX = EkY + Eke + Q
+Nilai Q dari peluruhan ini, dihitung dengan 
+mengurangi massa-massa elektron (Zme)
+Persamaan 
+massa (m) 
+dan energi
+(mX-Zme)c2 = (mY - (Z+1)me)c2 + me c2+Q
+Nilai Q
+Q = 
+5.4 Ayo, Cek Pemahaman!
+Gunakan cara yang sama, tentukan energi disintegrasi (Q) dari bentuk 
+peluruhan elektron lainnya!
+Persamaan reaksi 
+pemancaran positron
+Persamaan energi
+E = mc2
+Ek X = EkY + Eke + Q
+Nilai Q dari peluruhan ini, dihitung 
+dengan 
+mengurangi 
+massa-massa 
+elektron (Zme)
+Persamaan massa (m) 
+dan energi
+Nilai Q
+Q = 
+Persamaan reaksi 
+penangkapan elektron
+Persamaan energi
+E =
+A
+Z X
+N
+A
+Z + 1YN-1 + e- + v
+A
+Z X
+N
+A
+Z-1YN+1 + e+ + v
+A
+Z X
+N
+A
+Z-1YN+1 + v
++ e+ 
+194
+Fisika untuk SMA/MA Kelas XII 
+Contoh
+Berapakah energi maksimum elektron yang teremisi dalam peluruhan e 
+dalam atom H?
+Jawab:
+Reaksi peluruhan:
+ 
+Energi kinetik inti He bisa diabaikan karena terlalu kecil sehingga Ke 
+terjadi pada saat Kv = 0, maka Ke = 0,0186 MeV.
+3.	 Radiasi Sinar Gamma (γ)
+Sebuah sinar gamma merupakan suatu energi foton yang tinggi. Gamma 
+tidak bermuatan, energinya murni dan juga tidak bermassa. 
+Gambar 9. 7 Peluruhan Gamma
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Setelah proses peluruhan, inti atom sering 
+kali berada pada keadaan ‘tereksitasi’. Hal ini 
+berarti proses peluruhan telah menghasilkan 
+sebuah inti yang masih mempunyai kelebihan 
+energi untuk meninggalkan inti. Oleh karena 
+itu, emisi sinar gamma merupakan suatu 
+cara bagi inti yang berenergi tinggi untuk 
+mengurangi energinya agar lebih stabil. 
+Persamaan massa dan 
+energi
+Nilai Q
+Setelah menyelesaikan penurunan rumus tersebut, bagaimana contoh 
+kasus penyelesaian masalah yang biasanya ditemui dalam kehidupan sehari-
+hari? Cermatilah contoh dibawah ini.
+mudah terjadi. Oleh karena itu, selain memberikan kelebihan energinya 
+dengan beta atau alfa, sisanya inti juga melepaskan gamma. Gambar 9.7 
+adalah ilustrasi pemancaran sinar gamma dalam peluruhan gamma. Sebuah 
+Proses peluruhan alfa dapat dijelaskan oleh teori yang menyatakan 
+bahwa energi terkuantisasi dalam level/tingkat atom. Energi dihasilkan 
+dalam jumlah diskrit yang disebut kuanta. Bahkan jika jika sejumlah energi 
+tinggi dihasilkan secara bersamaan, maka pelepasan kelebihan energi akan 
+3
+1H
+3
+2 He + e- + v
+Q= (mH - mHe)c2 = (3,016050u - 3,01603u) x 931,5 MeV/u= 0,0186 MeV
+195
+BAB 9 | Fisika Inti dan Radioaktivitas
+inti dalam peluruhan gamma berubah dari keadaan energi yang lebih tinggi 
+ke keadaan energi yang lebih rendah melalui emisi radiasi elektromagnetik 
+(foton).
+Karakteristik Sinar Gamma
+a.	 Foton gamma tidak bermassa dan bermuatan, mereka murni energi 
+elektromagnetik. 
+b.	 Panjang gelombangnya pendek dan frekuensinya tinggi, hal ini 
+menunjukkan betapa cepat dan tingginya energi gamma.
+c.	 Jumlah proton dan neutron pada proses ini dalam inti tidak berubah 
+sehingga inti induk dan anaknya merupakan unsur kimia yang sama. 
+d.	 Intensitas radiasi gamma yang  tinggi dapat membunuh sel hidup. Energi 
+radiasi yang tinggi membunuh sel-sel dengan cara menghancurkan DNA 
+sehingga menutup kemampuan sel untuk tumbuh dan berkembang. 
+e.	 Dibutuhkan beton yang tebal untuk menghentikan radiasi sinar gamma. 
+Selain dari beton, timbal (Pb) mempunyai kerapatan yang tinggi sehingga 
+dapat digunakan sebagai penghalang radioaktif.
+f.	
+Mempunyai sifat ionisasi yang rendah karena tidak bermassa dan 
+bermuatan.
+Contoh reaksi nuklir yang menghasilkan sinar gamma:  
+Peluruhan  γ
+Sebuah sinar gamma dilepaskan menuju tingkat energi Thorium yang 
+lebih rendah. Seperti yang terlihat, nomor massa dan nomor atom Thorium 
+tidak berubah, hanya saja sisi sebelah kanan dari persamaan reaksi di atas 
+menjadi lebih stabil.
+F.	 Reaksi Inti (Fisi dan Fusi)
+Ayo, Bernalar Kritis!
+Bagaimana proses reaksi dalam inti?  
+Apakah bentuk reaksi ini mempengaruhi bentuk peluruhan dan 
+pembentukan unsur radioaktif yang baru?  
+Apa manfaat reaksi tersebut dalam kehidupan kita?
+234
+90 Th
++ γ
+234
+90 Th
+196
+Fisika untuk SMA/MA Kelas XII 
+Proses pelepasan partikel radiasi dari inti dapat terjadi secara alamiah 
+maupun buatan (bantuan manusia). Proses tersebut secara umum dapat 
+dikelompokan menjadi dua reaksi, yaitu reaksi fisi dan reaksi fusi.
+1.	 Reaksi Fisi
+Fisi nuklir melibatkan keseimbangan antara daya tarik nuklir dan tolakan 
+listrik antara proton di dalam nukleus. Proses fisi yang dihasilkan dapat 
+menghasilkan banyak kombinasi berbeda dari inti yang lebih kecil. Contoh 
+reaksi fisi diilustrasikan pada Gambar 9.8.
+Gambar 9. 8 Contoh Reaksi Fisi
+Sumber : Paul G. Hewitt/Conceptual Physics(2015)
+Nuklida dibelah biasanya dengan menggunakan peluru neutron. 
+Neutron dipilih karena tidak bermuatan listrik sehingga mampu menerobos 
+masuk ke dalam inti tanpa hambatan elektrostatik oleh elektron di luar 
+inti. Oleh karena itu, bentuk reaksi fisi dicirikan adanya neutron di sisi kiri 
+persamaan reaksi. Nuklida dibelah biasanya dengan menggunakan peluru 
+neutron. Neutron dipilih karena tidak bermuatan listrik sehingga mampu 
+menerobos masuk ke dalam inti tanpa hambatan elektrostatik oleh elektron 
+di luar inti. Oleh karena itu, bentuk reaksi fisi dicirikan adanya neutron di 
+sisi kiri persamaan reaksi.
+9.8 Ayo, Cermati Teks di Bawah Ini!
+Neptunium dihasilkan ketika neutron diserap oleh inti U-238. Alih-
+alih mengalami fisi, nukleus memancarkan partikel beta dan menjadi 
+Neptunium-239, sebuah isotop elemen berikutnya dalam tabel 
+periodik. Waktu paruhnya hanya 2,4 hari, jadi tidak terlalu lama. 
+Neptunium-239 adalah pemancar beta dan kemudian akan meluruh 
+menjadi Plutonium-239 yang memiliki waktu paruh sekitar 24.000 
+tahun.
+197
+BAB 9 | Fisika Inti dan Radioaktivitas
+Unsur Plutonium secara kimiawi beracun sama seperti timbal 
+dan arsenik. Plutonium dapat menyerang sistem saraf dan dapat 
+menyebabkan kelumpuhan. Kematian bisa menyusul jika dosisnya 
+cukup besar. Untungnya, plutonium tidak bertahan lama dalam bentuk 
+unsurnya karena dengan cepat bergabung dengan oksigen untuk 
+membentuk tiga senyawa: PuO, PuO2, dan Pu2O3 yang semuanya 
+secara kimiawi relatif tidak berbahaya. Mereka tidak akan larut dalam 
+air atau dalam sistem biologis. Senyawa plutonium ini tidak menyerang 
+sistem saraf dan terbukti tidak berbahaya secara kimiawi.
+Plutonium dalam bentuk apapun, merupakan radioaktif beracun. Ini 
+lebih beracun daripada Uranium, meskipun kurang beracun daripada 
+Radium. Plutonium memancarkan partikel alfa berenergi tinggi yang 
+membunuh sel dan menimbulkan mutasi. Menariknya, sel-sel yang 
+rusak lebih berkontribusi terhadap aktifnya sel kanker daripada 
+sel-sel mati. Inilah sebabnya mengapa peringkat Plutonium relatif 
+rendah sebagai zat penghasil kanker. Bahaya terbesar Plutonium bagi 
+manusia adalah potensinya untuk digunakan dalam bom fisi nuklir. 
+Kegunaannya adalah pada reaktor fisi—khususnya reaktor breeder.
+1.	 Berdasarkan teks tersebut, mengapa Plutonium tidak 
+muncul dalam jumlah yang cukup besar dalam bentuk bijih 
+alami?
+2.	 Gambarkan reaksi fisi dari pembentukan Plutonium 
+tersebut
+2.	 Reaksi Fusi
+Reaksi fusi merupakan reaksi penggabungan inti atom. Penggabungan inti ini 
+merupakan kebalikan dari fisi nuklir. Jika dua inti kecil bergabung, massa inti 
+yang menyatu akan lebih kecil daripada massa dua inti tunggal sebelum fusi. 
+Energi dilepaskan sebagai inti ringan. Reaksi fisi mengubah jumlah materi 
+menjadi energi sekitar 0,1%. Sedangkan dalam reaksi fusi, jumlah materi 
+yang diubah menjadi energi bisa sampai 0,7%. Hal tersebut berlaku pada 
+proses yang berlangsung pada bom, reaktor, atau bintang. Sebagian besar 
+reaksi menghasilkan sepasang partikel — misalnya, pasangan inti Deuterium 
+dapat menghasilkan inti Helium-3 dan neutron bukan menghasilkan inti 
+helium-4 tunggal. Jika dihasilkan inti tunggal sebagai hasil reaksi, maka hal 
+itu tidak sesuai dengan kekekalan momentum dan energi.
+198
+Fisika untuk SMA/MA Kelas XII 
+9.9 Ayo, Cermati!
+Isilah tabel berikut untuk menghitung energi yang dihasilkan pada 
+reaksi fusi.
+Persamaan 
+reaksi
+Persamaan 
+massa (m)
+ m (2H) + m (3H) = m (He) + mn +∆m
+(.             ) +(.            ) =. (.             ) + (.           ) + ∆m
+Defek massa
+∆m = 
+Energi
+E = mc2
+   = ∆mc2
+    =   (                sma) x 931 MeV/sma
+   =            MeV
+Bom Hidrogen adalah contoh dari penemuan reaksi nuklir yang bertujuan 
+untuk merusak. Pemanfaatan nuklir yang dapat memberikan dampak positif 
+bagi manusia adalah pelepasan terkontrol dari sejumlah besar energi nuklir 
+tersebut.
+Ayo, Bernalar Kritis!
+Proyek Penguatan Profil Pelajar Pancasila (P5)
+Banyak sekali pendapat pro dan kontra mengenai pengembangan 
+reaktor nuklir. Hal tersebut tidak terlepas dari beberapa bencana 
+yang terjadi akibat kebocoran reaktor nuklir. Walaupun demikian, 
+banyak pula manfaat reaktor nuklir tersebut, khusunya dalam 
+menciptakan unsur-unsur baru yang bermanfaat dalam kehidupan 
+kita.
+Bersama dengan teman kelompokmu, temukan manfaat-manfaat 
+zat radioaktif yang dapat dihasilkan dari reaktor nuklir pada bidang 
+pertanian maupun kesehatan. Temukan pula efek-efek negatif yang 
+ditimbulkan oleh reaktor nuklir tersebut. Setelah menemukan data-
+data terkait hal tersebut, buatlah tulisan ilmiah yang nanti akan 
+2H
++ n+ Δm
+4
+2He
++
+3H
+199
+BAB 9 | Fisika Inti dan Radioaktivitas
+Rangkuman
+1.	 Perkembangan teori atom dimulai dari filosofi demokritus 
+mengenai atom. Kemudian J.J Thompson menemukan partikel 
+elektron yang merupakan penyusun inti atom. Model inti atom 
+dikembangkan oleh Rutherford yang sampai sat ini masih 
+diyakini oleh para ilmuawan.
+2.	 Inti atom tersusun atas proton, neutron, dan elektron yang 
+memiliki massa, muatan, dan gaya interaksi yang berbeda.
+3.	 Proton dan neutron terletak di dalam inti atom, sedangkan 
+elektron mengorbit mengelilingi inti atom dengan tingkat 
+energi tertentu. Proton dan neutron berikatan sangat kuat di 
+dalam inti dan memilki energi ikat yang besar. 
+4.	 Energi ikat merupakan energi yang diperlukan untuk 
+melepaskan ikatan proton dan neutron. Besarnya energi ikat 
+tergantung pada defek massa.
+5.	 Unsur yang memiliki energi ikat per nukleon yang kuat akan 
+memiliki kestabilan, sedangkan unsur yang memiliki energi 
+ikat per nukleon yang kecil akan cenderung tidak stabil 
+sehingga berusaha meluruhkan inti nya agar stabil. Unsur 
+yang tidak stabil ini disebut sebagai unsur radioaktif, dan akan 
+meluruhkan partikel radiasi.
+6.	 Partikel radiasi terdiri dari partikel alfa, beta, dan gamma. 
+Partikel tersebut memiliki karakteristik masing-masing baik 
+itu massa, muatan, kecepatan, serta daya tembus.
+7.	 Reaksi fisi dan fusi merupakan reaksi yang terjadi dalam inti 
+atom. Reaksi fisi dan fusi menggambarkan pembentukan inti 
+baru (unsur baru) dari hasil peluruhan baik secara alami 
+maupun buatan.
+dibaca oleh teman-temanmu di mading sekolah terkait dengan 
+pendapatmu mengenai reaktor nuklir tersebut.
+200
+Fisika untuk SMA/MA Kelas XII 
+2.	 Ketika radioaktif fosfor (P) meluruh, fosfor tersebut memancarkan 
+positron. Akankah inti yang dihasilkan menjadi isotop fosfor 
+lainnya? Jika tidak, apa yang akan terjadi?
+3.	 Mengapa penanggalan Carbon tidak efektif untuk mengukur usia 
+tulang dinosaurus?
+4.	 Ketika makanan disinari dengan sinar gamma dari sumber 
+Kobalt-60, apakah makanan tersebut menjadi radioaktif? Berikan 
+argumentasi yang tepat untuk jawaban kalian.
+5.	 Temukan energi disintegrasi Q untuk peristiwa fisi Uranium 
+dengan mempertimbangkan peluruhan fragmen fisi. Beberapa 
+massa atom dan partikel yang dibutuhkan adalah:
+Petunjuk: tentukan persamaan reaksi fisi terlebih dahulu.
+1.	 Seorang teman menyarankan bahwa inti terdiri dari jumlah 
+proton dan elektron yang sama, dan bukan neutron. Bukti apa 
+yang dapat kalian kutip untuk menunjukkan bahwa teman Anda 
+salah?
+Asesmen
+235U	
+235.0439 u
+140Ce	
+139.9054 u
+94Zr	
+  93.9063 u
+    n	
+ 1.008 66 u
+201
+BAB 9 | Fisika Inti dan Radioaktivitas
+Pengayaan
+Partikel Elementer
+Model atom standar mengklasifikasi partikel elementer (dasar) 
+menjadi dua kelompok yaitu Boson dan Fermion. Boson merupakan 
+kelompok untuk partikel yang menghasilkan gaya dan memiliki 
+spin 0 dan 1, sedangkan Fermion merupakan kelompok partikel 
+yang menciptakan materi dan memiliki spin ½. Para ilmuwan 
+meyakini bahwa proton dan neutron yang berikatan sangat kuat 
+dalam inti tersusun dari partikel-partikel quarks/antiquark yang 
+disebut sebagai hardon. Sedangkan elektron yang diyakini berada 
+mengelilingi inti  dan tersusun oleh partikel-partikel yang disebut 
+dengan lepton. Quark dan lepton tersebut memiliki karakteristik 
+yang berbeda berdasarkan pada gaya interaksi, massa, serta muatan 
+dari partikel tersebut. Sehingga partikel-partikel quark dan lepton 
+tersebut ada yang termasuk ke dalam golongan fermion.
+Reaktor Fisi
+Energi yang tersedia dari fisi nuklir diperkenalkan ke dunia dalam 
+bentuk bom nuklir. Citra kekerasan ini masih mempengaruhi 
+pemikiran kita tentang tenaga nuklir. Selain itu, bencana Chernobyl 
+1986 yang menakutkan di Uni Soviet dan kita menemukan banyak 
+orang melihat tenaga nuklir sebagai teknologi jahat. Energi nuklir 
+padahal dapat dimanfaatkan untuk berbagai macam kepentingan 
+secara positif, seperti di Amerika Serikat sekitar 20% energi listrik 
+dihasilkan oleh reaktor fisi nuklir.
+Reaktor ini merupakan tungku nuklir yang berbahan bakar 
+fosil. Proses kerja reaktor sangat sederhana, yaitu merebus air 
+untuk menghasilkan uap untuk turbin. Perbedaan praktis terbesar 
+adalah jumlah bahan bakar yang terlibat. Satu kilogram bahan 
+bakar Uranium yang lebih kecil dari bola bisbol, menghasilkan lebih 
+banyak energi daripada 30 muatan mobil pengangkut batu bara. 
+Salah satu kelemahan daya fisi adalah dihasilkannya produk 
+limbah radioaktif. Inti atom ringan paling stabil ketika terdiri dari 
+jumlah proton dan neutron yang sama dan terutama inti berat 
+yang membutuhkan lebih banyak neutron daripada proton untuk 
+stabilitas. Misalnya, ada 143 neutron tetapi hanya 92 proton di U-235. 
+Ketika fisi Uranium menjadi dua elemen berbobot sedang, neutron 
+202
+Fisika untuk SMA/MA Kelas XII 
+ekstra dalam inti membuat mereka tidak stabil. Fragmen ini yang 
+membuat radioaktif kebanyakan memiliki waktu paruh yang sangat 
+pendek. Sebagian dari mereka tetap ada yang memiliki waktu paruh 
+yang sangat lama sampai ribuan tahun.
+Pembuangan produk-produk limbah radioaktif secara aman 
+dan bahan-bahan radioaktif dalam produksi bahan bakar nuklir 
+memerlukan tong dan prosedur penyimpanan khusus. Tenaga fisi 
+memang sudah ada sejak setengah abad yang lalu, tapi teknologi 
+pembuangan limbah radioaktif masih dalam tahap perkembangan.
+Gambar 9.9 menunjukan bagain dasar dari sebuah reaktor 
+nuklir jenis Presurized Water Reactor (PWR).
+Gambar 9. 9  Skema Reaktor Nuklir PWR
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+203
+BAB 9 | Fisika Inti dan Radioaktivitas
+Refleksi
+Setelah membaca dan mempelajari Bab 9 Fisika Inti dan 
+Radioaktivitas, coba nilai seberapa dalam pemahamanmu. Berikan 
+ceklist (√) sesuai dengan pendapatmu!
+Pernyataan
+Tingkat Pemahaman
+Kurang
+Cukup
+Baik
+Baik 
+Sekali
+Sejarah perkembangan 
+teori atom.
+Struktur dan karakteris-
+tik inti atom. 
+Pengaruh energi ikat inti 
+terhadap kestabilan inti.
+Peluruhan zat radioaktif 
+melalui pancaran 
+partikel radiasi (alfa, beta 
+dan gamma).
+Gambar 9.9 menunjukkan garis besar pembangkit listrik 
+berdasarkan reaktor air bertekanan (PWR), jenis yang umum 
+digunakan di Amerika Utara. Air dalam reaktor seperti itu, digunakan 
+baik sebagai moderator maupun sebagai media perpindahan panas. 
+Pada putaran primer, air disirkulasikan melalui bejana reaktor 
+dan mentransfer energi pada suhu dan tekanan tinggi (mungkin 
+600 K dan 150 atm) dari teras reaktor panas ke pembangkit uap, 
+yang merupakan bagian dari putaran sekunder. Penguapan 
+dalam pembangkit uap memberikan uap bertekanan tinggi untuk 
+mengoperasikan turbin yang menggerakkan generator listrik. Uap 
+bertekanan rendah dari turbin didinginkan dan dikondensasikan 
+menjadi air untuk menyelesaikan putaran sekunder.
+204
+Fisika untuk SMA/MA Kelas XII 
+Pernyataan
+Tingkat Pemahaman
+Kurang
+Cukup
+Baik
+Baik 
+Sekali
+Reaksi fisi dan fusi yang 
+terjadi di dalam inti.
+205
+GLOSARIUM
+akar-rata-rata-kuadrat 
+(rms)
+Akar kuadrat dari jumlah kuadrat nilai 
+rata-rata arus atau tegangan bolak-balik.
+aktivitas sumber 
+radioaktif
+Jumlah peluruhan inti atom yang terjadi 
+per satuan waktu dalam sumber tersebut.
+ampere
+Satuan pokok untuk arus dalam SI.
+amperemeter
+Alat untuk mengukur arus listrik.
+arus bolak-balik
+Arus atau tegangan yang arahnya 
+membalik secara teratur dan 
+persamaannya sinusoidal.
+arus konvensional
+Gagasan bahwa arus listrik merupakan 
+aliran muatan positif dari kutub positif ke 
+kutub negatif dan pada kenyataannya arus 
+listrik dalam logam berlawanan arah.
+arus listrik
+Aliran pembawa muatan tiap satuan 
+waktu.
+arus searah
+Arus tetap dalam satu arah, seperti arus 
+yang dihasilkan pada rangkaian baterai.
+coulomb
+satuan muatan listrik
+dielektrik
+Bahan isolator yang ditempatkan di antara 
+pelat kapasitor untuk meningkatkan 
+kapasitansinya.
+elektron
+Partikel yang bermuatan negatif.
+206
+foton
+Kuanta energi ketika energi itu dalam 
+bentuk radiasi elektromagnetik.
+frekuensi ambang
+Frekuensi minimum peristiwa radiasi 
+yang diperlukan untuk menyebabkan 
+emisi fotoelektron dari permukaan log-
+am tertentu.
+frekuensi
+Jumlah osilasi (siklus) gelombang per 
+satuan waktu.
+frekuensi resonansi
+Frekuensi ketika resonansi terjadi.
+fusi nuklir
+Persitiwa dua inti ringan bergabung un-
+tuk membentuk inti dengan massa yang 
+lebih besar.
+energi ikat
+Energi yang dibutuhkan untuk 
+memisahkan hingga tak terhingga semua 
+nukleon inti.
+energi potensial listrik
+Energi karena posisi muatan dalam medan 
+listrik.
+foton
+Cahaya sebagai paket energi.
+farad (F)
+Satuan kapasitansi.
+fisi nuklir
+Pembelahan inti berat menjadi dua inti 
+yang lebih ringan dengan massa yang kira-
+kira sama.
+fluks magnet
+Hasil kali kuat medan magnet dan luas 
+bidang yang tegak lurus terhadap garis-
+garis fluks:  F = BA.
+fotoelektron
+Elektron yang dipancarkan oleh emisi 
+fotolistrik.
+207
+galaksi
+Sekelompok ratusan juta bintang, sisa-sisa 
+bintang, gas, dan materi gelap yang disat-
+ukan oleh gravitasi.
+garis medan magnet
+Garis khayal di sekitar magnet yang 
+kerapatannya menunjukkan kuat medan 
+magnet dan arahnya.
+gaya elektromagnetik
+Gaya pada penghantar berarus yang 
+membentuk sudut terhadap medan mag-
+net.
+gaya gerak listrik (ggl)
+Energi yang ditransfer per satuan muatan 
+yang melewati catu daya, diukur dalam 
+volt.
+gaya inti
+Gaya yang menahan nukleon-nukleon 
+dalam inti bersama-sama.
+gaya Lorentz
+Gaya yang terjadi pada muatan bergerak 
+dalam medan magnet.
+gelombang elektro-
+magnetik
+Gelombang yang terdiri dari medan 
+listrik dan medan magnet yang berosilasi 
+tegak lurus satu sama lain dan searah 
+dengan arah rambat gelombang.
+gerbang logika
+Penyusun elektronika digital yang setiap 
+cara kerja rangkaian pada gerbang logi-
+ka menggunakan prinsip aljabar Boolean.
+hambatan
+Perbandingan beda potensial V melintasi 
+penghantar dengan arus I di dalamnya.
+hambatan dalam
+Hambatan antara kutub catu daya.
+hambatan jenis
+Sifat bahan tertentu yang menunjukkan 
+seberapa kuat bahan tersebut menahan ali-
+ran arus listrik yang merupakan konstanta 
+untuk setiap logam.
+208
+hukum Coulomb
+Hukum tentang gaya antara dua muatan tit-
+ik yang sebanding dengan hasil kali muatan 
+dan berbanding terbalik dengan kuadrat 
+jarak antara keduanya.
+Hukum Lenz
+Hukum yang menyatakan bahwa arah GGL 
+induksi sedemikian rupa sehingga menim-
+bulkan efek untuk melawan perubahan 
+yang menghasilkannya.
+hukum Ohm
+Hukum yang menyatakan bahwa untuk 
+konduktor logam pada suhu konstan, arus 
+dalam konduktor sebanding dengan beda 
+potensial yang melintasinya.
+hukum I Kirchoff
+Hukum yang menyatakan jumlah arus listr-
+ik pada percabangan.
+hukum II Kirchoff
+Hukum yang menyatakan jumlah tegangan 
+pada rangkaian listrik tertutup.
+impedansi
+Analogi hambatan total pada rangkaian 
+arus bolak balik.
+induktansi diri
+Karakteristik kumparan saat mendapatkan 
+perubahan fluks magnetik sehingga meng-
+hasilkan GGL induksi.
+Inti atom
+Inti kecil bermuatan positif di pusat atom 
+yang mengandung sebagian besar massanya 
+dengan elektron negatif mengelilinginya.
+inti reaktor
+Tempat bahan bakar (Uranium), moderator, 
+dan batang kendali yang merupakan pen-
+dukung reaksi fisi.
+ion
+Partikel bermuatan yang terbentuk ketika 
+sebuah atom memperoleh atau kehilangan 
+satu atau lebih elektron sehingga tidak men-
+gandung jumlah proton dan elektron yang 
+sama.
+209
+ion positif
+Partikel bermuatan positif terbentuk keti-
+ka sebuah atom kehilangan satu atau lebih 
+elektron.
+isotop
+Bentuk berbeda dari unsur yang sama yang 
+memiliki jumlah proton yang sama tetapi 
+jumlah neutron yang berbeda dalam intin-
+ya.
+kapasitansi
+Perbandingan muatan Q terhadap potensial 
+V untuk sebuah kapasitor.
+kapasitor
+Komponen rangkaian yang menyimpan 
+muatan dan, oleh karena itu, memiliki kap-
+asitansi.
+konstanta peluruhan 𝝺
+Konstanta untuk peluruhan radioaktif, mer-
+upakan peluang peluruhan inti per satuan 
+waktu.
+kuat medan listrik
+Gaya per satuan muatan yang bekerja pada 
+muatan positif stasioner kecil yang ditem-
+patkan pada titik tertentu.
+light-dependent resistor 
+(LDR)
+Sebuah jenis resistor yang resistansinya 
+berkurang karena peningkatan intensitas 
+cahaya di atasnya (fotoresistor).
+medan listrik
+Ruang di sekitar muatan ketika muatan 
+listrik mengalami gaya.
+medan magnet
+Wilayah ketika muatan bergerak atau bah-
+an magnetik mengalami gaya (magnet).
+nomor atom
+Jumlah proton dalam inti atom.
+nomor massa
+Jumlah total proton ditambah jumlah neu-
+tron dalam inti.
+nomor nukleon
+Istilah lain untuk nomor massa.
+210
+nomor proton
+Istilah lain untuk nomor atom.
+nomor massa
+Nomor yang menunjukan jumlah proton 
+atau jumlah elektron.
+nukleon
+Nama yang diberikan untuk proton atau 
+neutron dalam nukleus.
+nukleus (inti)
+Bagian tengah atom yang bermuatan posi-
+tif, yang mengandung proton dan neutron; 
+hampir semua massa atom terkonsentrasi 
+di sini.
+nuklida
+Sebuah kelas inti yang memiliki nomor nuk-
+leon tertentu dan nomor proton tertentu.
+ohm
+Satuan hambatan listrik.
+ohmmeter
+Alat ukur hambatan listrik.
+osiloskop sinar katoda 
+(Cathode Ray Oscilo-
+scope /CRO)
+Instrumen yang digunakan untuk 
+menampilkan, mengukur, dan menganali-
+sis berbagai bentuk gelombang rangkaian 
+listrik.
+panjang gelombang 
+ambang
+Panjang gelombang maksimum yang 
+sesuai dengan frekuensi ambang untuk 
+menimbulkan emisi fotolistrik.
+panjang gelombang de 
+Broglie
+Panjang gelombang yang terkait dengan 
+partikel yang bergerak.
+permeabilitas magnetik
+Kapasitansi kapasitor keping sejajar den-
+gan dielektrik antara pelat dibagi dengan 
+kapasitansi kapasitor ruang hampa di 
+antara pelat.
+211
+permitivitas relatif
+Kapasitansi kapasitor keping sejajar den-
+gan dielektrik antara pelat dibagi dengan 
+kapasitansi kapasitor ruang hampa di 
+antara pelat.
+permitivitas ruang 
+hampa
+Konstanta yang digunakan dalam meng-
+hitung gaya antara partikel bermuatan 
+dalam ruang hampa; simbolnya ε0 dan 
+nilainya 8,85 × 10−12  F m−1
+potensial listrik
+Usaha yang dilakukan per satuan muatan 
+positif dalam membawa muatan uji kecil 
+dari tak terhingga ke titik tersebut.
+proton
+Salah satu dari tiga jenis partikel yang 
+menyusun atom dari semua unsur; mereka 
+memiliki muatan positif, massa sekitar 1 u, 
+dan ditemukan dalam inti.
+quanta
+Paket diskrit atau jumlah energi radiasi 
+elektromagnetik.
+radioaktif
+Inti yang tidak stabil dan karenanya 
+memancarkan partikel dan/atau radiasi 
+elektromagnetik untuk meningkatkan 
+stabilitasnya.
+rangkaian paralel
+Rangkaian arus yang terdiri dari lebih dari 
+satu jalur alternatif untuk membentuk 
+loop.
+rangkaian seri
+Rangkaian dengan komponen-komponenn-
+ya dihubungkan satu demi satu, memben-
+tuk satu loop lengkap.
+212
+reaktansi induktif
+Analogi hambatan pada induktansi saat 
+dihubungkan dengan arus bolak balik.
+reaktansi kapasitif
+Analogi hambatan pada kapasitor saat di-
+hubungkan dengan arus bolak balik.
+reaktor nulir
+Tempat mereaksikan zat radioaktif sehing-
+ga menghasilkan unsur baru melalui reaksi 
+fisi atau fusi.
+resistor
+Perangkat yang memiliki hambatan terha-
+dap aliran arus listrik.
+resonansi rangkaian AC
+Ketika reaktansi induktif sama dengan 
+reaktansi kapasitif.
+rheostat
+Jenis resistor yang dapat menghasilkan 
+tegangan variabel terus menerus.
+sakelar
+Perangkat untuk menyambungkan atau 
+memutuskan arus listrik.
+satuan massa atom (u 
+atau sma)
+Satu satuan massa atom (1 u) sama dengan 
+1,66 × 10−27 kg.
+semikonduktor
+Sebuah bahan dengan konduktivitas listr-
+ik yang berada di antara isolator listrik dan 
+konduktor listrik.
+solenoid
+Kumparan kawat yang digunakan sebagai 
+elektromagnet.
+spektrometer
+Instrumen yang digunakan untuk menyeli-
+diki spektrum dan mengukur panjang 
+gelombangnya.
+spektroskopi
+Ilmu yang mempelajari spektrum.
+213
+spektrum elektromag-
+netik
+Rentang frekuensi (atau panjang gelom-
+bang) radiasi elektromagnetik yang kon-
+tinu.
+tegangan puncak ke 
+puncak
+Dua kali nilai maksimum (amplitudo) dari 
+arus atau tegangan dari sumber arus bo-
+lak-balik.
+tesla (T)
+Satuan kerapatan fluks magnet.
+teori kuantum
+Teori mengenai radiasi elektromagnetik 
+dianggap terdiri dari paket energi yang 
+disebut foton.
+terkuantisasi
+Hanya ada dalam jumlah diskrit, bukan 
+kontinu.
+tingkat energi diskrit
+Tingkat energi spesifik tertentu yang dapat 
+dimiliki elektron dalam atom; elektron 
+tidak dapat memiliki energi di antara ting-
+kat ini.
+tingkat energi elektron
+Tingkat energi spesifik tertentu yang dapat 
+dimiliki elektron dalam atom; elektron 
+tidak dapat memiliki energi di antara ting-
+kat ini.
+transformator
+Perangkat listrik yang terdiri dari dua atau 
+lebih kumparan.
+volt
+Satuan yang digunakan untuk mengukur 
+beda potensial.
+214
+waktu paruh t½
+Waktu yang diperlukan untuk jumlah inti 
+yang tidak meluruh dalam sampel isotop 
+radioaktif untuk direduksi menjadi seten-
+gah dari jumlah aslinya.
+watt
+Satuan daya (simbol W), sama dengan laju 
+usaha 1 joule per detik.
+weber (Wb)
+Satuan fluks magnet; satu weber sama den-
+gan satu tesla meter-kuadrat, yaitu Tm2.

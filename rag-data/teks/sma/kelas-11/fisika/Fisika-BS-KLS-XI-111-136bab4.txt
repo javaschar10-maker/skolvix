@@ -1,0 +1,1158 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Fisika untuk SMA/MA Kelas XI
+Penulis 
+: Marianna Magdalena Radjawane, Alvius Tinambunan, Lim Suntar Jono
+ISBN 
+: 978-623-472-721-0 (jil.1)
+Fluida
+BAB 4
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian dapat 
+mengidentiikasi konsep tekanan hidrostatik 
+pada ruang terbuka dan tertutup, menjelaskan 
+aplikasi Prinsip Archimedes dalam kehidupan 
+sehari-hari, mengidentiikasi tegangan zat cair 
+dan viskositas zat cair dalam kehidupan sehari-
+hari dan menerapkan konsep kontinuitas dan 
+Hukum Bernoulli dalam luida dinamis pada 
+kehidupan sehari-hari.
+Kata-kata kunci:
+• 
+Fluida statis
+• 
+Tekanan hidrostatis
+• 
+Gaya apung
+• 
+Prinsip Archimedes
+• 
+Viskositas
+• 
+Tegangan permukaan 
+Sumber: Pradeep Wickramanayaka/Pexels.com (2021)
+90
+Fisika untuk SMA/MA Kelas XI
+Apakah kalian pernah memerhatikan kapal yang terapung? Mungkin kalian 
+berpikir sejenak, bagaimana kapal pesiar raksasa symphony of the seas yang 
+memiliki massa rata-rata sekitar 230 ribu ton dapat terapung? Bagaimana 
+balon udara dapat mengangkut beban sekitar 1 ton? Jika kalian mengamati 
+cairan infus yang digunakan oleh pasien di rumah sakit, pernahkah terpikir 
+oleh kalian, mengapa cairan tersebut digantung dengan posisi di atas kepala 
+pasien?  Lalu bagaimana pesawat terbang yang bergerak mendapatkan gaya 
+angkatnya? Fenomena tersebut akan kita pelajari dalam bab luida ini.
+Peta Konsep
+mengkaji
+dalam kondisi statis
+terkait dengan
+memengaruhi
+mengkaji
+memengaruhi
+mengkaji
+Fluida
+Fluida
+Fluida
+Asumsi Fluida
+ Tak 
+Termampatkan
+Fluida Dinamis
+Tekanan Fluida
+Kelajuan Fluida
+Debit Air
+Luas
+Penampang
+Pipa
+Fluida Statis
+Tekanan
+Hidrostatis
+Tegangan
+Permukaan
+Zat cair
+Viskositas
+Zat Cair
+Gaya
+Apung
+91
+ Bab 4 | Fluida 
+A. Fluida Statis 
+ 
+Kalian telah mengetahui bahwa wujud atau fase materi dapat digolongkan 
+atas tiga jenis, yaitu padat, cair, dan gas. Zat cair dan gas dapat mengalir secara 
+isis sehingga disebut sebagai zat alir atau luida. Fluida terbagi atas luida sta-
+tis, yaitu luida diam dan luida dinamis, yaitu luida bergerak.
+Salah satu aplikasi konsep luida 
+dalam 
+dunia 
+kedokteran 
+adalah 
+peletakan posisi cairan infus pasien 
+(perhatikan Gambar 4.1). Jika posisi 
+cairan 
+lebih 
+rendah 
+dari 
+tangan 
+pasien, kemungkinan besar cairan 
+darah akan mengalir masuk ke dalam 
+kantong infus. Hal ini diakibatkan 
+oleh tekanan cairan darah yang lebih 
+besar 
+dari 
+tekanan 
+cairan 
+infus. 
+Dengan meletakkan posisi kantong infus lebih tinggi, tekanan cairan infus 
+akan meningkat dibandingkan dengan tekanan darah. Salah satu konsep yang 
+mendasar dalam pembahasan isika mengenai luida adalah konsep tekanan. 
+Gambar 4.1 Posisi infus pada pasien
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Bandingkan dua kasus berikut ini.
+1. 
+Seekor gajah dengan massa 6 ton berdiri menopang tubuhnya 
+dengan keempat kakinya. Luas rata-rata satu kaki gajah adalah 
+200 cm
+2. 
+2. 
+Seorang karyawati dengan massa 50 kg berdiri di atas kedua 
+kakinya yang memakai sepatu berhak tinggi. Luas hak sepatunya 
+adalah 1 cm
+2. Anggaplah berat tubuh karyawati terkonsentrasi 
+pada hak sepatunya.
+Cobalah 
+kalian 
+membuat 
+dugaan, manakah tekanan yang 
+lebih besar bekerja pada tanah, 
+tekanan oleh satu kaki gajah 
+atau tekanan oleh salah satu 
+kaki karyawati? Berikan alasan 
+kalian!
+Gambar 4.2 Seekor gajah dan seorang wanita
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cermati!
+92
+Fisika untuk SMA/MA Kelas XI
+Gambar 4.3 Bendungan
+Sumber: Ciboulette/Pexels.com (2017) dan Walter Perathoner/Pixabay.com (2016)
+1. Tekanan Hidrostatis 
+ 
+Tekanan hidrostatis merupakan tekanan yang ditimbulkan oleh zat cair baik 
+pada dinding maupun dasar wadah. Kalian mungkin pernah memperhatikan 
+dinding bendungan yang digunakan untuk menahan air. Dinding bendungan 
+makin tebal dari atas ke dasar. Hal ini terkait dengan tekanan hidrostatis 
+yang semakin besar.
+Letakkanlah sehelai koran di atas lantai yang datar sehingga 
+seluruh permukaan koran menyentuh lantai tersebut. Usaha yang besar 
+dibutuhkan untuk menarik koran secara cepat. Mengapa demikian? 
+Ayo, Cek Pemahaman!
+Besaran tekanan merupakan gaya yang bekerja pada suatu luas. 
+Secara umum tekanan dituliskan sebagai berikut.
+F
+p
+A
+=
+Dengan :  
+p  = tekanan (Nm
+-2), 
+F = gaya (N),  
+A = luas permukaan (m
+2). 
+        Berdasarkan konsep tekanan, hitunglah tekanan yang diberikan 
+oleh salah satu kaki gajah pada tanah dan tekanan yang diberikan 
+oleh salah satu kaki karyawati pada tanah! Apakah hasil perhitungan 
+sesuai dengan tebakan kalian? Jelaskan!
+(4.1)
+93
+ Bab 4 | Fluida 
+Gambar 4.4 Tabung yang dilubangi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Sebelum kalian belajar lebih lanjut mengenai 
+tekanan hidrostatis, cobalah berikan prediksi 
+untuk kasus berikut. Ketika pada botol berisi 
+air dibuat beberapa lubang (lubang A, B, C, 
+dan D) dengan posisi vertikal yang berbeda, 
+maka tekanan air yang menyembur keluar 
+pun berbeda.
+Menurut kalian, bagaimana kecenderungan 
+kekuatan semburan (tekanan air) seiring 
+dengan bertambah jauhnya posisi lubang 
+dari permukaan luida?
+Ayo, Berkolaborasi!
+Untuk memahami lebih lanjut mengenai faktor-faktor yang memengaruhi 
+tekanan luida, lakukan aktivitas berikut ini.
+Lakukan langkah-langkah penyelidikan sebagai berikut.
+1. Nyalakan Laptop/PC/Handphone dengan akses internet. 
+Masuk ke dalam tautan berikut: 
+https://phet.colorado.edu/sims/html/under-pressure/latest/under-
+pressure_en.html
+2. Arahkan gambar alat ukur (di samping kanan atas) ke dalam air 
+dengan posisi tertentu. Mulailah dengan membuka katup pipa 
+agar zat cair mengalir ke dalam wadah. Ubahlah nilai massa jenis 
+(luid density) dan besaran lainnya.
+3. Catatlah data hasil pengamatan ke dalam bentuk tabel. Analisis 
+hasil data ini dan simpulkanlah faktor-faktor apa saja yang 
+memengaruhi tekanan hidrostatis!
+4. Jawablah pertanyaan-pertanyaan di bawah ini.
+a. 
+Jelaskan hubungan antara massa jenis luida dengan tekanan 
+hidrostatis yang dihasilkan!
+b. 
+Jelaskan hubungan antara kedalaman luida dengan tekanan 
+hidrostatis yang dihasilkan!
+5. Buatlah laporan aktivitas ini dengan menggunakan media yang 
+tersedia (cetak atau digital), kemudian presentasikan!
+Aktivitas 4.1
+94
+Fisika untuk SMA/MA Kelas XI
+Gambar 4.5 Penjelasan tekanan hidrostatis 
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Mengapa tekanan luida semakin bertambah seiring bertambahnya 
+kedalaman zat tersebut? Penyebabnya adalah gravitasi. Berat luida pada 
+lapisan atas tertentu memberikan tekanan pada lapisan  di bawahnya. Hal ini 
+dapat dianalogikan seperti tumpukan barang padat secara vertikal. Semakin 
+tinggi tumpukan semakin besar tekanan yang dialami oleh dasar tumpukan 
+tersebut. 
+Gelembung dari dalam air akan membesar ketika naik ke atas. Mengapa 
+demikian? Tekanan hidrostatis dari air yang menekan gelembung akan 
+berkurang seiring naiknya gelembung tersebut. Akibatnya, ukuran 
+gelembung akan membesar.
+Bagaimana perumusan tekanan akibat berat luida?  Perhatikan Gambar 
+4.5. Tekanan pada dasar balok dengan tinggi balok (h) dan luas dasar balok 
+(A) adalah:
+ptotal = po + Tekanan akibat berat luida
+Berat fluida
+Tekanan akibat berat fluida
+Luas permukaan dasar kubus
+mg
+mgh
+mgh
+A
+Ah
+V
+gh
+ρ
+=
+=
+=
+=
+=
+Jadi tekanan hidrostatis pada kedalaman h dirumuskan oleh persamaan 
+total
+0
+p
+p
+gh
+ρ
+=
++
+Dengan  : 
+= tekanan udara luar (N/m
+2), 
+ 
+ 
+ρ = massa jenis zat cair (kg/m
+3), 
+ 
+ 
+g = percepatan gravitasi (m/s
+2),
+ 
+ 
+h = kedalaman suatu posisi dari permukaan air (m).
+(4.2)
+95
+ Bab 4 | Fluida 
+Pengukuran Tekanan Gas 
+ 
+Tekanan hidrostatis diakibatkan oleh gaya gravitasi yang bekerja pada zat cair 
+tersebut. Tekanan gas timbul akibat  tumbukan antara partikel-partikel gas 
+dengan dinding wadahnya. Bagaimana mengukur tekanan gas dalam ruang 
+tertutup?
+Aktivitas 4.2
+Siapkan dua buah gelas berisi air minum. Pada gelas pertama terdapat 
+sebuah sedotan yang kondisinya baik sedangkan pada gelas kedua 
+terdapat sedotan berlubang kecil pada sisinya. Salah seorang anggota 
+kelompok minum air dengan sedotan dari gelas pertama dan gelas 
+kedua. Manakah yang lebih mudah, minum dengan sedotan yg normal 
+atau sedotan yang berlubang? Berikan alasan kalian!
+Perhatikan 
+Gambar 
+4.6. 
+Titik 
+manakah dari A, B, C, dan D yang 
+mendapatkan tekanan hidrostatis 
+terbesar? 
+Ayo Cek Pemahaman!
+Gambar 4.6 Tabung dengan bentuk berbeda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo Berpikir Kritis!
+Bagaimana proses penyedotan air hingga masuk ke dalam mulut 
+kita? Kesalahpahaman yang sering terjadi adalah  anggapan bahwa 
+naiknya cairan dalam sedotan karena kekuatan hisap dari mulut kita. 
+Seandainya kalian diberikan sedotan dengan panjang 11 meter secara 
+vertikal ke atas (dengan asumsi kalian mampu mengembangkan 
+paru-paru dengan maksimal saat menyedot cairan di bawah), apakah 
+kalian dapat minum cairan tersebut? Berikan penjelasan isisnya!
+96
+Fisika untuk SMA/MA Kelas XI
+Salah satu aplikasi tekanan hidrostatis adalah 
+penggunaan barometer untuk mengukur 
+tekanan udara luar. Perhatikan Gambar 4.7 
+di samping!
+Barometer sederhana terdiri atas suatu 
+tabung 
+dibalik 
+seperti 
+gambar 
+dan 
+dicelupkan ke dalam wadah berisi raksa 
+dengan massa jenis ρraksa = 13600 kg/m
+3. Cairan 
+raksa memasuki tabung hingga ketinggian h 
+cm. Apa kaitan antara ketinggian h dengan 
+tekanan udara luar?
+Jika barometer sederhana menggunakan air, berapa ketinggian air 
+di dalam tabung tersebut? (ρair = 1000 kg/m
+3).
+Ayo, Cek Pemahaman!
+Gambar 4.7 Barometer Toricelli
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Karena cairan raksa berada dalam keadaan statis maka tekanan pada 
+permukaan raksa (h=0) yakni pada titik A (tekanan udara luar
+) dan tekanan 
+pada titik B (tekanan cairan raksa dengan ketinggian h di dalam tabung) 
+bernilai sama.                       
+pA = pB
+Karena pu bernilai nol (diusahakan vakum), maka persamaan ini menjadi:
+po = ρgh
+Jika cairan yang digunakan adalah raksa (ρ = 13600 kg/m
+3) dan barometer 
+berada di sekitar permukaan laut, maka didapatkan ketinggian cairan sekitar 
+76 cm. Jadi,
+ = 13600 Kg/m
+3× 9,8 m/s
+2× 0,76 m 
+ ≈ 1,01 × 10
+5 N/m2 atau 1,01 × 10
+5Pa
+Nilai tersebut merupakan nilai tekanan udara luar rata-rata pada 
+ketinggian sekitar permukaan laut, yakni 1,01 × 10
+5 Pascal atau 76 cmHg 
+(artinya tekanan udara yang terukur setara dengan tekanan cairan Hg yang 
+ketinggiannya 76 cm).
+(4.3)
+97
+ Bab 4 | Fluida 
+Aktivitas 1:
+1. 
+Ukur berat logam di udara (Wu), 
+berat logam dalam air (Wa), dan 
+ukur volume benda (Vb) dan catat 
+datanya.
+2. 
+Amati volume air sebelum dan 
+sesudah benda dimasukkan ke 
+dalam air.
+3. 
+Lakukan analisis data, kemudian jawablah pertanyan berikut:
+a. 
+Berapa besar gaya apung yang dialami oleh benda di dalam air 
+jika besar gaya apung merupakan selisih antara berat benda di 
+udara dan berat benda di dalam air?
+b. 
+Berapa volume air yang dipindahkan saat benda berada di 
+dalam air?
+c. 
+Jika massa jenis air adalah 1000 kg/m
+3, berapa berat air yang 
+dipindahkan?
+4. 
+Ulangi percobaan tersebut dengan menggunakan benda lainnya.
+5. 
+Kesimpulan apa yang diperoleh dari seluruh hasil percobaan ini? 
+Gambar 4.9 Percobaan Prinsip Archimedes
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Aktivitas 4.3
+Untuk melakukan aktivitas ini sediakan neraca pegas, gelas ukur, beban 
+logam, pipet kecil, plastisin, air, alkohol, minyak kelapa, gelas piala, dan 
+bola plastik yang agak kaku. 
+2. Prinsip Archimedes
+Bagaimana kapal yang berat dapat 
+mengapung di atas air? Lakukan dua 
+aktivitas 
+berikut 
+untuk 
+memahami 
+konsep isika yang mendasari kapal 
+terapung.
+Gambar 4.8 Kapal di permukaan laut
+Sumber: Pixabay/Pexels.com (2017)
+Aktivitas 2:
+1. 
+Ambil sebuah benda dan ukur beratnya di udara, di air dan di 
+minyak kelapa. Berapa besar gaya apung benda di udara, air dan 
+minyak kelapa?
+98
+Fisika untuk SMA/MA Kelas XI
+Ketika benda padat tercelup dalam suatu cairan, maka ada tiga kemungkinan 
+yang terjadi, yaitu:
+1. 
+Benda terapung di permukaan air
+Gaya berat benda sama dengan gaya ke atas yang diberikan zat cair pada 
+benda tersebut (gaya apung).
+FA = w
+Syarat terjadinya hal ini adalah
+ρcairan > ρrata-rata benda
+2. 
+Benda melayang dalam air
+Gaya berat benda sama besar dengan gaya ke atas yang diberikan zat cair pada 
+benda tersebut (gaya apung). 
+FA = w
+Syarat terjadinya hal ini adalah
+ρcairan = ρrata-rata benda
+3. 
+Benda tenggelam dalam air
+Gaya berat lebih besar daripada gaya ke atas yang diberikan zat cair pada 
+benda tersebut (gaya apung). 
+FA < w
+Syarat terjadinya hal ini adalah
+ρcairan < ρrata-rata benda
+Ayo, Amati!
+Coba kalian perhatikan Gambar 4.10. 
+Kubus dengan panjang sisi L dalam 
+kondisi melayang di dalam air dengan 
+permukaan A dan B berjarak hA dan hB 
+dari permukaan cairan.
+Gambar 4.10 Kubus di dalam wadah
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+2. 
+Ambil besi dan plastisin yang massanya sama, kemudian ukur 
+beratnya di udara dan di dalam air. Apakah keduanya mempunyai 
+gaya apung yang sama?
+3. 
+Ambil besi dan plastisin yang volumenya sama, kemudian ukur 
+beratnya di udara dan di dalam air. Apakah keduanya mempunyai 
+gaya apung yang sama?
+4. 
+Berdasarkan hasil percobaan (1, 2, 3) kesimpulan apakah yang 
+diperoleh? 
+hA
+B
+99
+ Bab 4 | Fluida 
+Gaya ke atas 
+ 
+Mengacu pada Gambar 4.10 perbedaan tekanan hidrostatis pada permukaan 
+atas balok (B)  dan permukaan bawah balok (A) menimbulkan  gaya total 
+pada benda secara vertikal. Tekanan pada permukaan depan dan belakang 
+tidak berpengaruh karena  gaya keduanya sama besar dengan arah yang 
+berlawanan. Begitu juga dengan tekanan pada permukaan samping kiri dan 
+kanan akan saling menghilangkan.
+Gaya total dari zat cair terhadap balok adalah:
+∑Fy = Fpermukaan A – Fpermukaan B
+∑Fy = (ρghA) A – (ρghB)A
+∑Fy = Fa =ρg(Vbenda tercelup)
+Perhatikan bahwa Vbt merupakan volume zat cair Vf  yang dipindahkan 
+atau tumpah ketika benda padat dimasukkan ke dalam zat cair tersebut. Jadi, 
+Fa = ρg(Vf)
+Fa = mf g
+Prinsip Archimedes menyatakan bahwa “gaya ke atas yang dialami oleh 
+suatu benda sama dengan berat luida yang dipindahkan oleh benda tersebut”.
+Hitung tekanan zat cair pada permukaan atas kubus (permukaan 
+B) dan pada permukaan bawah balok (permukaan A)! Bagaimana 
+dengan tekanan pada sisi depan, belakang, samping kiri dan samping 
+kanan?
+Perhatikan 
+Gambar 
+4.11 
+berikut. 
+Suatu gelas berisi penuh air dengan 
+sebongkah es  terapung. Jika gelas 
+berisi air dan es ini diletakkan di meja 
+pada suhu ruangan, es tersebut akan 
+mencair. Jika es mencair seluruhnya, 
+apakah air kan tumpah membasahi 
+meja? Jelaskan.
+Gambar 4.11 Wadah berisi cairan dan es batu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berpikir Kritis!
+100
+Fisika untuk SMA/MA Kelas XI
+Kerjakan soal-soal berikut.
+1. Kayu berbentuk kubus dengan massa jenis 500 kg/m
+3 dimasukkan 
+ke dalam wadah berisikan air (ρair = 1000 kg/m
+3). Apa yang akan 
+terjadi dengan kubus kayu?
+2. Kayu berbentuk kubus dengan massa jenis 700 kg/m
+3 dimasukkan 
+ke dalam wadah berisikan air (ρair = 1000 kg/m
+3). Tentukan 
+persentase volume kayu yang tercelup di dalam air! 
+Ayo, Berkolaborasi!
+Sediakan sebuah jarum/silet/koin dan letakkan di atas selembar 
+tissue yang tipis. Kemudian tissue dan logam tersebut diletakkan di 
+atas permukaan air. Perhatikan apa yang terjadi ketika tissue itu 
+mulai menyerap air dan tenggelam ke dalam air. Apakah hal ini 
+menunjukkan aplikasi prinsip Archimedes? Jelaskan! 
+Ayo, Cek Pemahaman!
+Gambar 4.12 Paper clip di permukaan air
+Sumber: Kemendikbudristek/Alvius Tinambunan (2022)
+Gambar 4.13 Laba-laba air di atas permukaan air
+sumber: Tanguy Sauvin/Pexels.com (2016)
+3. Tegangan Permukaan 
+ 
+Lakukan kegiatan di bawah ini untuk menyelidiki apakah prinsip Archimedes 
+juga berlaku dalam fenomena ini.
+Jika jarum/silet/koin saja dimasukkan ke dalam air maka pasti akan 
+tenggelam. Jadi konsep apakah yang mendasari fenomena tersebut? Amati lagi 
+fenomena tersebut dalam Gambar 4.12 dan Gambar 4.13. Apakah ada bagian 
+yang tercelup dalam air?
+Konsep tegangan permukaan air yang menopang klip kertas dan laba-laba 
+air di atas permukaan air, bukan prinsip Archimedes.
+101
+ Bab 4 | Fluida 
+Untuk mendapatkan pemahaman lebih lanjut mengenai gaya tegangan 
+permukaan zat cair, silahkan kalian melakukan aktivitas berikut. 
+Lakukanlah langkah-langkah berikut ini.
+1. 
+Siapkan larutan sabun dan seutas kawat panjang.
+2. 
+Ambilah kawat panjang tersebut dan buatlah bentuk lingkaran 
+dengan diameter sekitar 5 cm. 
+3. 
+Ikatkan benang sepanjang diameter kawat tersebut.
+4. 
+Celupkan kawat berbentuk lingkaran ini ke dalam larutan sabun 
+sehingga lapisan sabun terbentang pada kawat tersebut. Benang 
+tersebut membagi lapisan sabun menjadi dua bagian.
+5. 
+Selanjutnya tusuklah salah satu bagian dari lapisan sabun 
+tersebut. 
+6. 
+Amatilah apa yang terjadi dan berikan penjelasan isisnya!
+Secara mikroskopik, air di dalam 
+wadah mengalami gaya tarik-menarik 
+antar molekul sejenis (kohesi). Molekul 
+yang berada di bawah permukaan 
+air mengalami gaya kohesi dengan 
+molekul-molekul 
+sekitarnya 
+dari 
+segala arah sehingga molekul tersebut 
+berada dalam kesetimbangan (resultan 
+gaya adalah nol).
+Gambar 4.14 Ilustrasi gaya Kohesi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Molekul pada permukaan hanya mengalami gaya kohesi dari arah samping dan 
+bawah saja. Akibatnya resultan gaya pada molekul permukaan air tidaklah nol 
+sehingga timbul tegangan pada permukaan air seperti selaput yang menegang. 
+Begitu juga pada selaput sabun seperti gambar 4.14 yang mengalami tegangan pada 
+permukaannya.
+Aktivitas 4.4
+Apa yang terjadi jika air dan raksa dimasukkan ke dalam masing-
+masing tabung yang penampangnya kecil? Permukaan air akan membentuk 
+meniskus cekung sedangkan permukaan air raksa akan membentuk 
+meniskus cembung.
+102
+Fisika untuk SMA/MA Kelas XI
+Gambar 4.15 Meniskus cembung dan cekung
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Diskusikan penyebab terjadinya perbedaan bentuk permukaan 
+pada zat cair 1 dan zat cair 2 dalam Gambar 4.15!
+Ayo, Berdiskusi!
+Perhatikan bahwa pada cairan 2 (air), sudut kontaknya merupakan 
+sudut lancip (θ < 90
+o) sedangkan pada cairan 1 (air raksa), sudut kontaknya 
+merupakan sudut tumpul (θ > 90
+o). Sudut kontak adalah sudut antara garis 
+vertikal dengan permukaan zat cair. 
+Gambar 4.16 Prinsip kapilaritas
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Kapilaritas merupakan suatu fenomena naik atau turunnya suatu 
+cairan dalam pipa sempit atau pipa kapiler. Air akan naik sedangkan 
+cairan raksa akan turun dalam pipa kapiler.
+Perhatikan Gambar 4.16 di bawah ini.
+Air 
+pada 
+pipa 
+manakah 
+yang 
+mengalami kenaikan terbesar? Apa 
+yang menentukan kenaikan zat cair 
+dalam pipa kapiler?
+Ayo, Cermati!
+103
+ Bab 4 | Fluida 
+Gambar 4.17 Penurunan persamaan kapilaritas
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Bagaimana menurunkan rumus kapilaritas? Perhatikan Gambar 4.17. 
+Air mengalami kenaikan setinggi h dalam pipa kapiler yang berdiameter 
+2R. Tegangan permukaan bekerja pada sekeliling tabung (keliling = 2πR) 
+menarik dinding wadah pada titik A ke arah kiri bawah. Dinding wadah 
+memberikan reaksi sehingga menarik air ke kanan atas dengan gaya yang 
+sama, yaitu F. Besar gaya F ini adalah γ2πR.
+Kolom air setinggi h berada dalam kondisi kesetimbangan sehingga:
+0
+F =
+∑
+Berat air yang naik = Gaya oleh tegangan permukaan
+mluida yang naik g = γ2πR cos θ
+ρf (π2Rh) g = γ2πR cos θ
+sehingga tinggi kenaikan zat cair adalah
+2 cos
+f
+h
+gR
+γ
+θ
+ρ
+=
+Dengan : 
+γ = tegangan permukaan (N/m), 
+ 
+ 
+h = kenaikan zat cair dalam pipa kapiler (m), 
+ 
+ 
+θ = sudut kontak (derajat), 
+ 
+ 
+R = jari-jari pipa kapiler (m), 
+ 
+ 
+g = percepatan gravitasi (m/s
+2) dan
+ 
+ 
+ρf = massa jenis luida (kg/m
+3)
+(4.5)
+A
+γ
+104
+Fisika untuk SMA/MA Kelas XI
+4. Viskositas
+Viskositas atau kekentalan merupakan ukuran gesekan dalam luida. 
+Gerakan luida yang kental melambat karena energi kinetik berkurang 
+menjadi panas. Itu sebabnya, suatu luida yang kental ketika diaduk akan 
+terasa hangat.
+Dari hasil eksperimen diperoleh bahwa gaya viskositas:
+a. sebanding dengan kelajuan luida yang bergerak,
+b. sebanding dengan luasan luida,
+c. berbanding terbalik dengan  jarak antar lapisan.
+Apa yang membedakan cairan madu 
+dengan air? Bayangkan kalian celupkan 
+satu tangan ke dalam madu dan satu lagi 
+ke dalam air. Gerakan tangan mana yang 
+lebih bebas, apakah di dalam madu atau 
+di dalam air?
+Gambar 4.18 Madu yang mengalir
+Sumber: Roman Odintsov/Pexels.com (2021)
+Kerjakan soal-soal berikut (boleh berdiskusi dengan teman 
+sekelompok kalian)
+1. Suatu 
+kawat 
+berbentuk 
+lingkaran 
+dengan 
+diameter 
+7 
+cm dimasukkan ke dalam larutan sabun yang tegangan 
+permukaannya γ = 0,024 N/m. Ketika kawat tersebut dikeluarkan 
+dari larutan sabun maka kawat tersebut membentuk lapisan 
+sabun (selaput sabun ini ada 2 lapis, yaitu depan dan belakang). 
+Tentukan gaya tegangan yang bekerja pada kawat!
+2. Sebuah pipa kapiler mempunyai jari-jari 0,25 mm. Jika sebagian 
+pipa ini dicelupkan ke dalam air yang tegangan permukaannya 
+γ = 0,072 N/m, kenaikan air pada pipa kapiler adalah 1,5 cm, 
+berapa sudut kontaknya?
+3. Tentukan massa maksimum sebuah jarum yang panjangnya 1 cm 
+agar tidak tenggelam dalam bensin yang tegangan permukaannya 
+γ = 0,029 N/m!
+Ayo, Cek Pemahaman!
+105
+ Bab 4 | Fluida 
+Maka gaya viskositas dapat dituliskan 
+Av
+F
+h
+η
+=
+Dengan : 
+F = gaya viskositas (N), 
+η = koeisien viskositas (PI atau Ns/m
+2), 
+A = luas (m2), 
+v = kelajuan luida (m/s) dan 
+h = jarak antar lapisan (m).
+Pada tahun 1845, George Stokes menunjukkan bahwa bola berjari-
+jari R yang bergerak dengan kelajuan v dalam luida homogen mengalami 
+gaya gesek sebesar:
+F = 6πRηv
+(4.6)
+(4.7)
+Hitunglah kelajuan terminal dari tetesan air yang berjari-jari 0,1 
+mm yang mengalami gerak jatuh bebas di udara dengan koeisien 
+viskositas udara η = 0,000018 kg/m.s (diketahui massa jenis udara ρudara 
+= 1,2 kg/m
+3 dan massa jenis air ρair = 1000 kg/m
+3)! Perhatikan bahwa 
+dalam perhitungan kelajuan terminal ini juga mempertimbangkan 
+gaya ke atas (prinsip Archimedes)
+Ayo, Cek Pemahaman!
+B. Fluida Dinamis 
+ 
+Pada bagian pertama, kalian sudah memahami sifat-sifat luida dalam kondisi 
+statis. Lalu bagaimana sifat-sifat isis luida dalam kondisi dinamis?
+1. Fluida Ideal 
+ 
+Gerakan luida merupakan fenomena yang kompleks. Penyederhanaan dalam 
+mempelajari dinamika luida dilakukan dengan anggapan bahwa luida bersi-
+fat ideal. Beberapa sifat luida ideal adalah:
+a. 
+Inkompresibel artinya volume luida dianggap tidak berubah ketika 
+mengalami tekanan. Karena volume konstan, massa jenis luida tersebut 
+juga konstan.
+b. 
+Irotasional artinya aliran luida tidak memutar suatu objek yang tercelup 
+dalam luida tersebut. 
+106
+Fisika untuk SMA/MA Kelas XI
+2. Asas Kontinuitas  
+ 
+Asas kontinuitas menyatakan hubungan antara kelajuan luida di suatu lokasi 
+dengan lokasi lainnya. Ketika luida mengalir dalam suatu pipa, kelajuan lui-
+da tersebut dapat berubah akibat perubahan ukuran pipa yang dilalui.
+Apa akibat dari asumsi luida ideal dalam dinamika luida ini? 
+Jawaban akan dipertajam pada sub bagian selanjutnya, yaitu asas 
+kontinuitas.
+Cobalah kalian melakukan aktivitas berikut untuk memahami hubungan 
+kelajuan luida pada posisi tertentu.
+1. Ambilah selang pipa karet untuk dipasangkan pada keran air. 
+Usahakan ujung pipa terpasang dengan baik sehingga air yang 
+mengalir dari keran tidak mengalami kebocoran.
+2. Bukalah katup keran air agar air mengalir melalui pipa.
+3. Perhatikan kelajuan air yang keluar dari ujung pipa.
+4. Sekarang cobalah kalian untuk menekan ujung pipa tersebut 
+dengan jari kalian (kecilkan ukuran luas penampangnya). Amati 
+apa yang terjadi pada kelajuan air yang keluar dari ujung pipa!
+5. Diskusikan dan jelaskan secara isis hasil pengamatan kalian!
+c. 
+Aliran bersifat tunak artinya kelajuan luida pada suatu titik tertentu tidak 
+berubah terhadap waktu. Aliran luida yang mengalir dengan kelajuan 
+rendah dapat dianggap sebagai aliran tunak. Semakin tinggi kelajuannya 
+maka semakin terjadi gejolak dalam aliran tersebut.
+d. 
+Viskositas dianggap bernilai nol, artinya luida tidak mengalami hambatan 
+ketika sedang mengalir.
+Ayo, Berdiskusi!
+Aktivitas 4.5
+107
+ Bab 4 | Fluida 
+Aliran luida dalam pipa dipengaruhi oleh ukuran luas penampang pipa 
+tersebut. Hal ini terkait erat dengan sifat luida ideal yaitu inkompresibel. 
+Perhatikan Gambar 4.20!
+Aliran air keran makin mengecil 
+ketika posisinya makin ke bawah. 
+Mengapa demikian?
+Gambar 4.19 Keran air
+Sumber: Kaboompics.com/Pexels.com (2015)
+Gambar 4.20 Prinsip Bernoulli pada luida
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Waktu yang diperlukan oleh luida untuk mengalir dari A ke B sama 
+dengan waktu yang diperlukan untuk mengalir  dari C ke D. Berdasarkan 
+sifat inkompresibel maka volume air yang melewati A ke B sama dengan 
+volume air dari C ke D. Artinya volume dalam satuan waktu di posisi mana 
+pun dalam pipa tersebut akan selalu bernilai tetap. Hal ini dinyatakan dalam 
+debit (Q), yaitu
+Q 
+Volume
+waktu
+=
+Perhatikan bahwa debit air dari A ke B haruslah sama dengan debit air 
+dari C ke D sehingga
+CD
+AB
+V
+V
+t
+t
+=
+Jika secara umum pipa merupakan suatu prisma (dalam hal ini tabung 
+termasuk ke dalam bangun prisma), maka 
+volume  = luas penampang × tinggi prisma 
+V = A ∆S
+(4.8)
+Ayo, Cermati!
+108
+Fisika untuk SMA/MA Kelas XI
+V
+S
+A
+t
+t
+=
+Q = A v
+Dengan : 
+ Q = debit air (m
+3/s), 
+A = luas penampang (m
+2)
+v = kelajuan luida (m/s)
+Karena debit harus tetap maka di dua titik berbeda, yaitu titik 1 dan 2 
+berlaku
+A1v1 = A2v2
+Persamaan 4.10 disebut sebagai persamaan kontinuitas.
+Ayo, Berdiskusi!
+Berdasarkan 
+asas 
+kontinuitas, 
+luas 
+penampang aliran A2 akan lebih kecil 
+dibandingkan dengan luas penampang 
+A1. Jika h = 5 cm dengan A1 = 2 cm
+2 , dan g 
+= 10 m/s
+2 , tentukan luas penampang A2! 
+(Gunakan saja aproksimasi: g = 10 m/s
+2 )
+Gambar 4.21 Prinsip Bernoulli  pada keran air
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(4.9)
+(4.10)
+Cobalah kalian melakukan aktivitas berikut untuk memahami relasi 
+kelajuan luida berdasarkan asas kontinuitas.
+Lakukan percobaan dengan menggunakan simulasi PhET secara 
+berkelompok yang di unggah dari tautan: 
+https://phet.colorado.edu/sims/luid-pressure-and-low/luid-pressure-
+and-low_in.jar. 
+1. 
+Buka Aplikasi PhET yang sudah terunduh pada komputer atau 
+laptop. 
+2. 
+Pilih aliran atau low pada Aplikasi PhET. 
+3. 
+Matikan titik zat cair dan atur laju menjadi gerak lambat. 
+4. 
+Tekan tombol merah besar dan amati yang terjadi. 
+5. 
+Gunakan luksmeter untuk mengukur luas penampang pipa dan 
+gunakan tools kelajuan atau speed  untuk mengukur kelajuan luida 
+pada pipa di tiap-tiap ujung pipa. 
+Aktivitas 4.6
+109
+ Bab 4 | Fluida 
+1. Suatu pipa berdiameter 10 mm dialiri air selama 1 menit dan 
+banyaknya air yang mengalir adalah 400 cm2. Hitunglah kelajuan 
+rata-rata aliran!
+2. Sebuah pipa yang ujungnya menyempit dengan diameter pipa besar 
+adalah 10 cm dan diameter pipa kecil adalah 5 cm. Jika kelajuan di 
+bagian pipa besar adalah 50 cm/s, tentukan debit air dan kelajuan 
+aliran pada pipa kecil!
+3. Banyak air yang mengalir melalui pipa berdiameter 2 cm adalah 
+400 cm
+3 selama 10 detik. Tentukan debit aliran air serta kelajuan 
+air tersebut ketika melewati pipa yang diameternya 0,5 cm!
+Ayo, Cek Pemahaman!
+6. 
+Catat hasil pengukuran luas penampang pipa dan kecepatannya 
+kemudian masukan ke dalam tabel hasil pengamatan. 
+7. 
+Ulangi langkah 4 dan 5 dengan mengecilkan pipa di sebelah kanan 
+dan sebelah kiri pipa dengan diameter tetap (Ukuran pipa dapat 
+diubah dengan menarik pegangan pipa pada gambar ke bawah atau 
+ke atas). 
+8. 
+Ulangi langkah 4 dan 5 dengan mengecilkan pipa sebelah kanan 
+dan pipa sebelah kiri dengan diameter awal. 
+9. 
+Hitung besar laju aliran dan bandingkan hasilnya. 
+Pertanyaan 
+1. 
+Bagaimanakah besar kelajuan pada pipa yang diubah luas 
+penampangnya? 
+2. 
+Bagaimanakah besar laju aliran volume atau debit pada tabel di 
+atas? 
+3. 
+Dari hasil percobaan di atas, mengapa pemasangan pipa PDAM ke 
+rumah-rumah memiliki diameter lebih kecil dari pipa induk PDAM? 
+Jelaskan! 
+Tabel 4.1 Data hasil pengamatan
+No
+Luas 
+penampang 
+pipa kiri 
+(m2)
+Kecepatan 
+luida 
+pada
+ pipa kiri
+Luas 
+penampang 
+pipa kanan
+ (m
+2)
+Kecepatan 
+luida 
+pada
+ pipa 
+kanan
+Debit
+air 
+(m
+3/s)
+Bentuk 
+luida 
+pada 
+kolom
+Deskripsi
+1.
+2.
+3.
+4.
+110
+Fisika untuk SMA/MA Kelas XI
+3. Prinsip Bernoulli  
+Saat kalian menyiram tanaman dengan selang air, biasanya ujung selang 
+kalian tekan agar aliran air yang keluar dari selang dapat memancur lebih 
+jauh. Hal ini disebabkan karena luas permukaan selang tempat air keluar 
+semakin kecil maka kecepatan air yang keluar dari selang akan lebih besar. 
+Ini menunjukkan ada tekanan dari luida tersebut. Jadi  luida yang bergerak 
+menimbulkan tekanan. Bagaimana hubungan antara tekanan dan kelajuan 
+luida tersebut?
+a. Persamaan Bernoulli 
+ 
+Hubungan antara tekanan luida dengan 
+kelajuannya dapat diturunkan melalui 
+prinsip 
+usaha-energi. 
+Perhatikanlah 
+Gambar 4.23 di samping ini.
+ 
+Fluida 
+ideal 
+dengan 
+massa 
+jenis konstan ρ mengalir melalui pipa 
+dengan luas penampang A1 memasuki 
+pipa 
+dengan 
+luas 
+penampang 
+A2,
+posisi penampang A1 adalah h1 dari acuan tanah dan posisi penampang A2 
+adalah h2 dari tanah. Perhatikan potongan luida yang mengalir dari ujung 
+kiri mengalami gaya tekan F1 lalu potongan luida tersebut bergerak ke ujung 
+kanan mengalami gaya tekan F2. Anggaplah setelah ∆t potongan luida di 
+ujung kiri telah menempuh ∆s1. Usaha yang dilakukan oleh F1 adalah:
+W1 = F1 ∆s1 = p1 A1 v1 ∆t
+Gambar 4.23 Penurunan persamaan bernoulli
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ambil 
+dua 
+helai 
+kertas 
+dan 
+peganglah 
+kedua 
+helai 
+kertas 
+tersebut sehingga berada dalam 
+posisi 
+sejajar. 
+Tiuplah 
+udara 
+menuju celah di antara dua kertas 
+seperti dalam Gambar 4.22.
+Perhatikanlah apa yang terjadi pada kedua kertas tersebut! Coba 
+beri simpulan apa kaitan antara kelajuan luida dengan tekanan 
+udara yang dihasilkan!
+Gambar 4.22 Dua kertas yang ditiup
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berkolaborasi!
+111
+ Bab 4 | Fluida 
+Sedangkan usaha yang dialami pada potongan luida di ujung kanan adalah: 
+W2 = -F2 ∆s2 = -p2 A2 v2 ∆t
+Jadi usaha totalnya adalah:
+W = p1 A1 v1 ∆t  - p2 A2 v2 ∆t
+Dalam asas kontinuitas A1 v1= A2 v2 = Q dengan Q ∆t = V maka
+W = p1 Q ∆t  - p2 Q ∆t
+W = p1 V  - p2 V
+W = (p1 - p2)V
+Lalu selama mengalir, potongan luida mengalami gaya gravitasi sehingga 
+usaha yang dilakukan oleh gaya gravitasi adalah:
+Wg = -∆Ep = -(mgh2 - mgh1) = -ρVg (h2 - h1)
+Prinsip usaha-energi menyatakan usaha total sama dengan perubahan energi 
+kinetik:
+Wtotal = ∆Ek
+(p1 - p2) V - ρ V g (h2 - h1) = 1
+2 (ρV)
+2
+2v - 
+1
+2 (ρV)
+2
+1v
+Seluruh persamaan dikalikan 1/V, maka didapatkan
+(p1 - p2) - ρ g (h2 - h1) = 1
+2 (ρV)
+2
+2v - 
+1
+2 (ρV)
+2
+1v
+Jadi persamaan Bernoulli adalah:
+p1 + ρ g h1 + 
+1
+2 ρ
+2
+1v = p2 + ρ g h2+ 1
+2 ρ
+2
+2v
+Persamaan ini diturunkan oleh Daniel Bernoulli dan sering juga dituliskan 
+dalam bentuk:
+p
+2
+1
+2
+gh
+v
+ρ
+ρ
++
++
+ = Konstan 
+Dengan : 
+p = tekanan luida (N/m
+2), 
+g = percepatan gravitasi (m/s
+2), 
+v = kelajuan luida (m/s), 
+h = posisi luida (m) dan
+ρ = massa jenis luida (kg/m
+3)
+(4.11)
+112
+Fisika untuk SMA/MA Kelas XI
+Kerjakan soal-soal latihan berikut ini.
+1. 
+Tentukan debit air yang keluar melalui lubang 0,1 cm
+2 yang terletak 
+3 m dibawah permukaan air dalam bak besar! (anggaplah ukuran 
+diameter lubang relatif sangat kecil dibandingkan dengan ukuran 
+diameter bak besar).
+Ayo, Cek Pemahaman!
+2. 
+Wadah terbuka berisi air setinggi 
+50 cm dari dasar wadah dengan 
+lubang pada posisi seperti Gambar 
+4.24. 
+Jika posisi lubang dari tanah h2 = 20 
+cm dan dari permukaan air h1 = 30 
+cm, dengan luas penampang wadah 
+A1 = 300 cm
+2 dan luas penampang 
+lubang A2 = 3 cm
+2, tentukan kelajuan 
+sembur air melalui lubang A2!
+Gambar 4.24 Wadah yang dilubangi 
+pada ketinggian h2
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Banyak fenomena sehari-hari serta penerapan teknologi berdasarkan prinsip 
+Bernoulli. Mulai dari gaya angkat pada pesawat terbang sampai semprotan 
+obat nyamuk. 
+Gambar 4.25 Prinsip bernoulli pada pesawat dan sprayer
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+4. Penerapan Prinsip Bernoulli
+113
+ Bab 4 | Fluida 
+Coba kalian diskusikan fenomena isis berikut dan berikan penjelasan 
+isis yang mendasari fenomena tersebut!
+1. 
+Ketika dua perahu motor bergerak dengan kelajuan tinggi dengan 
+posisi sejajar, apakah kedua perahu akan saling mendekat atau 
+saling menjauh? Jelaskan!
+2. 
+Pada kamar mandi yang menggunakan shower dan tirai plastik, 
+ketika shower memancarkan air dengan deras maka tirai kamar 
+mandi akan bergerak. Apakah tirai tersebut akan tertarik ke dalam 
+atau terdorong ke luar kamar mandi? Jelaskan!
+3. 
+Angin topan besar dapat mengangkat atap rumah. Jelaskan 
+bagaimana hal tersebut dapat terjadi! 
+Ayo, Berdiskusi!
+Intisari
+Fluida merupakan zat yang dapat mengalir. Berbeda dengan zat padat, 
+luida memiliki sifat-sifat isis yang unik. Fluida dapat digolongkan 
+menjadi dua macam, yaitu luida statis dan luida dinamis. 
+Prinsip-prinsip isika yang penting dalam luida statis adalah 
+tekanan hidrostatis, prinsip Archimedes, tegangan permukaan, dan 
+viskositas. Sedangkan prinsip-prinsip isika yang penting dalam luida 
+dinamis adalah asas kontinuitas dan prinsip Bernoulli.
+Releksi
+1. Apakah kalian sudah memahami sifat-sifat isis pada luida baik 
+luida statis maupun luida dinamis dalam kehidupan sehari-hari?
+2. Apakah kalian mampu menerapkan prinsip-prinsip isika pada 
+luida dalam kehidupan sehari-hari?
+114
+Fisika untuk SMA/MA Kelas XI
+5. 
+Venturimeter adalah alat yang digunakan 
+untuk menghitung laju aliran suatu 
+luida. Apabila suatu cairan mengalir 
+pada suatu pipa venturimeter seperti 
+yang  ditunjukkan  pada gambar di 
+samping. jika luas penampang A1 adalah 6 cm
+2 dan A2 adalah 4 cm
+2, 
+berapakah kecepatan aliran cairan yang memasuki pipa venturimeter?
+bagian bawah sayap adalah 200 m/s dengan massa jenis udara adalah 1,2 
+kg/m
+3. Tentukan resultan gaya yang dialami pesawat tersebut!
+1. 
+Jika Barometer (pipa toricelli) dibawa ke suatu tempat yang memiliki tekanan 
+udara luar 0,8 atm. Berapa kenaikan tinggi raksa (ρ=13.600 kg/m
+3) pada 
+barometer tersebut? 
+3. Wadah terbuka berisi air (ρ = 1000 kg/m3) seperti gambar di bawah ini.
+Tentukanlah : 
+a. tekanan hidrostatis yang di alami 
+oleh lubang tersebut,
+b. 
+kecepatan cairan saat keluar dari 
+lubang,
+c. 
+jarak terjauh yang ditempuh cairan 
+yang keluar dari lubang.
+4. 
+Sebuah wadah berisi cairan minyak 
+dan air, sebuah balok di masukkan 
+ke dalam wadah sehingga balok 50% 
+berada dalam air, 30% berada di dalam 
+minyak dan sisanya berada di atas 
+lapisan minyak. Apabila massa jenis 
+minyak adalah 8 g/cm
+3 dan air adalah 1 
+g/cm
+3. Tentukan massa jenis dari balok 
+tersebut!
+2. 
+Sebuah 
+pesawat 
+terbang 
+dengan 
+massa total 5000 kg bergerak dengan 
+percepatan arah horizontal sebesar 
+2 m/s
+2. Pesawat tersebut mempunyai 
+sayap dengan luas penampang total 
+60 m
+2, apabila kecepatan aliran udara 
+di bagian atas sayap adalah 250 
+m/s dan kecepatan aliran udara di
+Asesmen

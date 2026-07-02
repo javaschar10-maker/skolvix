@@ -1,0 +1,962 @@
+BAB 1
+Pertumbuhan dan  
+Pembangunan Ekonomi
+Dalam bab ini, kalian akan mempelajari pertumbuhan dan 
+pembangunan ekonomi. Setelah pembelajaran, kalian diharapkan 
+mampu menjelaskan konsep pertumbuhan dan pembangunan 
+ekonomi 
+serta 
+menganalisis 
+fenomena 
+pertumbuhan, 
+dan 
+pembangunan ekonomi di Indonesia. 
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI  
+REPUBLIK INDONESIA, 2022
+Buku Siswa Ekonomi untuk SMA/MA Kelas XII
+Penulis: Aisyah Nurjanah dan Yeni Fitriani
+ISBN 978-602-427-972-1 (jil.2)
+2   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Peta Konsep
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   3
+Pertanyaan Pemantik
+Pertumbuhan ekonomi di setiap negara tentunya berbeda-beda. 
+Pertumbuhan ekonomi di Indonesia dengan pertumbuhan ekonomi 
+di Malaysia, Amerika Serikat, dan Arab Saudi jelas berbeda. Apa yang 
+menyebabkan hal tersebut dapat terjadi? Apa indikator perekonomian 
+suatu negara bertumbuh?
+Kata Kunci
+Pertumbuhan ekonomi, produk domestik bruto, teori pertumbuhan 
+ekonomi pembangunan ekonomi, indeks pembangunan manusia, 
+ekonomi digital, fintech, laju pertumbuhan ekonomi.
+Apersepsi
+Pada materi kelas XI, kalian telah mempelajari pendapatan nasional 
+yang memiliki keterkaitan dengan pertumbuhan dan pembangunan 
+ekonomi. Apakah yang kalian ketahui mengenai pertumbuhan dan 
+pembangunan ekonomi? Coba perhatikan lingkungan sekitar, apakah 
+sedang ada pembangunan fasilitas umum yang dilaksanakan oleh 
+pemerintah? Pertumbuhan dan pembangunan ekonomi seringkali 
+menjadi tolak ukur keberhasilan dari suatu pemerintahan. Oleh karena 
+itu, pemerintah selalu menyusun rencana pembangunan ekonomi 
+mulai dari jangka pendek, jangka menengah, dan jangka panjang. 
+Hal ini dilakukan agar target-target yang dibuat pemerintah dapat 
+tercapai, salah satunya yaitu untuk meningkatkan kesejahteraan bagi 
+masyarakat. Pada bab ini, kalian akan memahami dan menganalisis 
+kondisi pertumbuhan ekonomi dan pelaksanaan pembangunan 
+ekonomi sehingga kalian dapat turut aktif dalam mendukung 
+terciptanya pertumbuhan dan pembangunan ekonomi sesuai peran 
+kalian sebagai peserta didik.
+4   ●   EKONOMI UNTUK SMA/MA KELAS XII
+A.	
+Pertumbuhan Ekonomi
+Gambar 1.1 Kegiatan produksi di sebuah pabrik.
+Sumber: Angga Yuniar/Liputan6.com (2015)
+Perhatikan gambar kegiatan produksi di atas. Selain bertujuan untuk 
+mencari keuntungan, kegiatan produksi juga dilakukan dalam rangka 
+memenuhi berbagai kebutuhan hidup manusia. Semakin tinggi tingkat 
+produksi suatu negara, semakin tinggi pertumbuhan ekonomi di suatu 
+negara. Inilah yang membuat kegiatan produksi barang dan jasa di 
+suatu negara menjadi penting. 
+Apa yang dimaksud dengan pertumbuhan ekonomi? Pertumbuhan 
+ekonomi adalah peningkatan produksi barang dan jasa yang dihasilkan 
+oleh suatu negara dari waktu ke waktu. Pertumbuhan ekonomi diukur 
+melalui peningkatan total output suatu negara atau produk domestik 
+bruto (PDB) riil atau produk nasional bruto (PNB). PDB merupakan 
+nilai total dari semua barang dan jasa akhir yang diproduksi 
+masyarakat pada suatu negara selama periode waktu tertentu. Hal ini 
+menunjukkan bahwa peningkatan PDB suatu negara mengindikasikan 
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   5
+terjadinya pertumbuhan ekonomi. Hal-hal yang perlu diperhatikan 
+dalam pertumbuhan ekonomi, sebagai berikut.
+1.	 Laju Pertumbuhan Ekonomi
+Pertumbuhan ekonomi merupakan indikator untuk mengukur 
+peningkatan produksi barang dan jasa, sehingga produk domestik bruto 
+(PDB) dapat digunakan sebagai alat untuk mengukur pertumbuhan 
+ekonomi. Pemerintah akan memperhitungkan laju pertumbuhan 
+ekonomi guna mengetahui seberapa besar persentase peningkatan 
+produksi barang dan jasa (output) dari tahun ke tahun.
+Laju pertumbuhan ekonomi dapat diformulasikan sebagai berikut.
+Keterangan:
+PDBt	
+=	
+Pendapatan nasional riil tahun tertentu.
+PDBt-1	 =	
+Pendapatan nasional riil tahun sebelumnya.
+Contoh Soal
+Pada tahun 2017 produk domestik bruto (PDB) riil Rp13.588,8 triliun. 
+Nilai PDB riil Indonesia pada tahun 2018 sebesar Rp14.837,4 triliun. 
+Berdasarkan data tersebut hitunglah laju pertumbuhan ekonomi 
+Indonesia tahun 2018!
+Jawaban:
+PDBt	
+= Rp13.588,8
+PDBt-1	 = Rp14.837,4 
+Penghitungan laju pertumbuhan ekonomi Indonesia tahun 2018.
+6   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Jadi, laju pertumbuhan ekonomi Indonesia tahun 2018 sebesar 9,18 %.
+Untuk menguatkan pemahaman kalian tentang laju pertumbuhan 
+ekonomi, kerjakanlah aktivitas berikut!
+Aktivitas 1
+Laju Pertumbuhan Ekonomi
+1.	 Perhatikan data PDB Indonesia berikut! Hitunglah laju pertum­
+buhan ekonomi tahun 2018, 2019, dan 2020!
+No.
+Tahun
+PDB (dalam miliar USD)
+1.
+2017
+1.02
+2.
+2018
+1.04
+3.
+2019
+1.12
+4.
+2020
+1.06
+2.	 Berdasarkan data di atas, hitunglah sebagai berikut.
+a.	 Laju pertumbuhan ekonomi paling tinggi!
+b.	 Nilai laju pertumbuhan ekonomi!
+3.	 Carilah pada sumber yang relevan mengenai data produk domestik 
+bruto (PDB) tahun terbaru, kemudian hitunglah laju pertumbuhan 
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   7
+ekonomi Indonesia berdasarkan data tersebut dan bandingkan 
+dengan laju pertumbuhan ekonomi periode sebelumnya!
+4.	 Buatlah 
+kesimpulan 
+berdasarkan 
+hasil 
+perhitungan 
+laju 
+pertumbuhan ekonomi Indonesia yang telah kalian hitung!
+5.	 Peserta didik dapat mengunjungi link di bawah ini atau scan QR 
+code untuk melihat data PDB Indonesia terbaru.
+https://data.worldbank.org/
+indicator/NY.GDP.MKTP.
+CD?end=2020&locations=ID&start=2010
+8   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Aktivitas 2
+Analisis Pertumbuhan Ekonomi
+Perhatikan infografis berikut ini dengan saksama!
+Sumber: Badan Pusat Stasistik/www.bps.go.id (2022)
+Setelah memperhatikan infografis tersebut, jawablah pertanyaan 
+berikut.
+1)	 Pada Triwulan berapakah laju pertumbuhan ekonomi tertinggi 
+ditahun 2022?
+2)	 Berapakah nilai pertumbuhan ekonomi paling tinggi tahun 
+2022?
+3)	 Berdasarkan data yang tercantum pada infografis, berapa nilai 
+Produk Domestik Bruto (PDB) Indonesia pada triwulan IV tahun 
+2021?
+4)	 Pertumbuhan ekonomi Indonesia triwulan I-2022 mengalami 
+peningkatan sebesar 5,01% year on year (y-on-y). Apa maksud 
+dari pernyataan tersebut?
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   9
+2.	 Teori Pertumbuhan Ekonomi
+Teori pertumbuhan ekonomi adalah teori yang menjelaskan faktor-
+faktor apa saja yang dapat meningkatkan pertumbuhan ekonomi. 
+Dengan kata lain, teori pertumbuhan ekonomi merujuk pada 
+keterkaitan antar faktor yang dapat meningkatkan output jangka 
+panjang. Teori pertumbuhan ekonomi mengalami perkembangan 
+sesuai dengan zaman, hal tersebut menyebabkan terdapat beberapa 
+mazhab teori pertumbuhan ekonomi. Beberapa teori pertumbuhan 
+ekonomi di antaranya sebagai berikut.
+a.	 Teori klasik
+Teori klasik atau sering disebut mazhab klasik merupakan buah 
+pemikiran yang berkembang antara abad 18 dan 19. Tokoh yang 
+memberikan gagasan pada teori klasik di antaranya seperti Adam 
+Smith dan David Ricardo. Analisis proses dari pertumbuhan 
+ekonomi menjadi pokok pemikiran para ekonom klasik, beberapa 
+faktor seperti pembagian kerja, akumulasi modal, dan keuntungan 
+dari perdagangan internasional dipandang sebagai faktor utama 
+terciptanya pertumbuhan ekonomi. Inti dari teori klasik yaitu 
+mendukung gagasan pentingnya perdagangan bebas antarnegara, 
+usaha bebas dari tiap individu, dan akumulasi kepemilikan pribadi.
+b.	 Teori Harrod-Domar
+Teori Harrod-Domar atau biasa disebut model Harrod-Domar, 
+menunjukkan 
+pentingnya 
+tabungan 
+dan 
+investasi 
+untuk 
+mengembangkan perekonomian. Teori ini dikembangkan oleh Roy 
+F. Harrod dan Evsey Domar pada tahun 1939. Teori ini menyatakan 
+terdapat hubungan positif antara pertumbuhan ekonomi dengan rasio 
+tabungan dan sebaliknya pertumbuhan ekonomi berhubungan negatif 
+dengan rasio capital-output. Semakin rendah rasio capital output 
+maka semakin efisien investasi sehingga berdampak pada tingginya 
+pertumbuhan ekonomi.
+10   ●   EKONOMI UNTUK SMA/MA KELAS XII
+c.	 Teori Schumpeter
+Teori Schumpeter berkembang pada tahun 1942, menyatakan bahwa 
+inovasi dari pengusaha atau wirausahawan berperan penting 
+dalam meningkatkan pertumbuhan ekonomi. Menurut Schumpeter, 
+fungsi utama dari wirausahawan adalah memperkenalkan inovasi. 
+Schumpeter mendefinisikan inovasi sebagai kebijakan baru untuk 
+meningkatkan efisiensi dalam proses produksi dan juga meningkatkan 
+permintaan produk. Oleh sebab itu, inovasi merupakan dasar untuk 
+meningkatkan keuntungan dalam ekonomi.
+d.	 Teori pertumbuhan endogen
+Teori pertumbuhan endogen merupakan teori yang dikembangkan 
+oleh Romer sejak tahun 1990-an, teori ini menjelaskan bahwa tingkat 
+kemakmuran dipengaruhi oleh proses internal seperti sumber daya 
+manusia, inovasi, dan modal investasi. Teori pertumbuhan endogen 
+percaya bahwa peningkatan produktivitas dapat dikaitkan dengan 
+inovasi yang lebih cepat dan lebih banyak investasi pada sumber daya 
+manusia. 
+Aktivitas 3
+Teori Pertumbuhan Ekonomi
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berkelompok! 
+2.	 Bersama-sama dengan anggota kelompok kalian, cermati artikel 
+pertumbuhan ekonomi Indonesia yang diterbitkan oleh Badan 
+Koordinasi Penanaman Modal (BKPM) berikut!
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   11
+Pertumbuhan Ekonomi Indonesia Melejit, 
+Waktu yang Tepat Memulai Investasi
+Badan Pusat Statistik (BPS) melaporkan pertumbuhan ekonomi 
+Indonesia kuartal II-2021 mengalami peningkatan hingga 7,07% 
+secara tahunan (year on year/yoy). Lebih lanjut, ekonomi Indonesia 
+triwulan II-2021 mengalami pertumbuhan sebesar 3,31 persen 
+(quartal-to-quartal) 
+dari 
+triwulan 
+sebelumnya. 
+Peningkatan 
+ekonomi Indonesia pada triwulan II-2021 terutama didorong oleh 
+peningkatan kinerja ekspor, konsumsi rumah tangga, investasi, 
+dan konsumsi pemerintah. Perbaikan ekonomi ini menunjukkan 
+bahwa Indonesia berhasil bangkit setelah mengalami tekanan 
+selama beberapa triwulan terakhir akibat Covid-19.
+Peningkatan ekonomi tersebut memang menjadi pertanda 
+yang baik, namun tetap penting untuk memastikan bahwa tidak 
+akan terjadi penurunan kembali pada triwulan berikutnya. Salah 
+satu hal yang cukup berperan dalam pertumbuhan ekonomi 
+Indonesia adalah investasi. Kinerja investasi sebagai salah satu 
+mesin pertumbuhan mulai mengalami peningkatan, yaitu sebesar 
+7,54% (year on year/yoy).
+Sejak diberlakukan Undang-Undang Cipta Kerja Nomor 
+11 Tahun 2020 dan petunjuk operasionalnya yaitu Peraturan 
+Pemerintah Nomor 5 Tahun 2021 tentang Penyelenggaraan 
+Perizinan Berusaha Berbasis Risiko telah memberikan sentimen 
+positif pada para investor untuk tetap merealisasikan investasinya, 
+baik yang sedang dalam masa persiapan, konstruksi, maupun 
+masa produksi. Pada periode April-Juni 2021, investasi berjalan 
+dengan baik dimana beberapa perusahaan besar telah melakukan 
+groundbreaking.
+Sumber: https://www.bkpm.go.id/id/publikasi/detail/berita/pertumbuhan-ekonomi-di-indonesia
+12   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Realisasi Investasi atau Penanaman 
+Modal
+ Realisasi investasi di Indonesia selama triwulan II-2021 mengalami 
+peningkatan sebesar 16,2% dibandingkan periode yang sama 
+pada tahun sebelumnya (Rp191,9 triliun). Kementerian Investasi/
+Badan Koordinasi Penanaman Modal (BKPM) mempublikasikan 
+data realisasi investasi pada triwulan II-2021 (April–Juni) yang 
+mencapai Rp223,0 triliun. Selain itu, terdapat juga data realisasi 
+investasi kumulatif sepanjang periode Januari hingga Juni 2021 
+yang mencapai Rp442,8 triliun.
+Jika dilihat berdasarkan persebarannya, persentase realisasi 
+investasi di Pulau Jawa mencapai 52,4% dengan nilai investasi 
+sebesar Rp100,6 triliun. Persentase realisasi investasi di luar 
+Pulau Jawa adalah sebesar 47,6% dengan nilai investasi sebesar 
+Rp91,3 triliun. Menteri Investasi/Kepala BKPM, Bahlil Lahadalia, 
+menyatakan bahwa “Besarnya proporsi realisasi investasi PMDN 
+yang hampir menyamai PMA adalah tendensi yang positif bahwa 
+PMDN kita memiliki ketahanan uji terhadap dampak pandemi 
+Covid-19. Lebih menggembirakan lagi apabila kita melihat angka 
+penyerapan tenaga kerja dari realisasi investasi PMDN yang 
+melampaui penyerapan tenaga kerja dari realisasi investasi PMA.”
+Capaian investasi pada periode Januari–Juni menyumbang 
+49,2% terhadap target tahun 2021, yaitu Rp900 triliun. Jika dilihat 
+capaian triwulan II dibandingkan dengan periode yang sama pada 
+tahun sebelumnya, Penanaman modal asing (PMA) tumbuh sebesar 
+19,6% dan penanaman modal dalam negeri (PMDN) sebesar 12,7%. 
+Capaian PMA di triwulan II meningkat sebesar 4,5% dibandingkan 
+dengan capaian pada triwulan I-2021.
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   13
+Kontribusi yang cukup signifikan dari PMDN terlihat sebesar 
+Rp106,2 atau 47,6% dari total capaian dengan penyerapan tenaga 
+kerja Indonesia sebanyak 165.684 orang atau 53,1% dari total 
+penyerapan tenaga kerja terjadi. Sektor penyumbang terbesar 
+berasal dari sektor perumahan, kawasan industri dan perkantoran 
+(19,3%), sedangkan untuk lokasi proyek dengan realisasi investasi 
+terbesar (13,1%) berada di Jawa Timur.
+Realisasi PMA pada periode yang sama adalah sebesar 
+­Rp9­7,­6 triliun atau 50,9% dari total capaian dengan kemampuan 
+penyerapan tenaga kerja Indonesia sebanyak 117.798 orang. 
+Sektor penyumbang realisasi PMA terbesar berasal dari sektor 
+listrik, gas, dan air, yaitu sebesar 21,6%. Lokasi proyek dengan 
+realisasi investasi terbesar berada di Jawa Barat (19,9%). PMA yang 
+menyumbangkan realisasi terbesar berasal dari negara Singapura, 
+yaitu sebesar 28,8%.
+Sumber: https://www.bkpm.go.id/id/publikasi/detail/berita/pertumbuhan-ekonomi-di-indonesia
+Investasi Dapat Memengaruhi 
+Pertumbuhan Ekonomi
+Investasi merupakan salah satu indikator yang penting bagi 
+pertumbuhan ekonomi. Melalui investasi akan berdampak positif 
+pada proses produksi dalam bisnis yang semakin giat, kemudian 
+juga akan berimbas pada meningkatnya konsumsi rumah tangga. 
+Investasi berperan dalam pemulihan ekonomi dan memiliki 
+korelasi positif terhadap pembangunan infrastruktur negara. 
+Pendapatan nasional atau PDB yang meningkat akan mendukung 
+upaya pembangunan yang akan dilakukan oleh pemerintah.
+Investasi juga dapat membantu menumbuhkan iklim bisnis. 
+Semakin banyak penanaman modal yang dilakukan, maka 
+14   ●   EKONOMI UNTUK SMA/MA KELAS XII
+semakin banyak pula bisnis baru yang bermunculan. Hal ini akan 
+berdampak kepada ketersediaannya lapangan pekerjaan serta 
+penyerapan tenaga kerja, akan mendukung pertumbuhan daya 
+beli, sehingga dapat membantu meningkatkan pertumbuhan 
+ekonomi Indonesia dan mencegah terjadinya penurunan pada 
+triwulan berikutnya.
+Sumber: https://www.bkpm.go.id/id/publikasi/detail/berita/pertumbuhan-ekonomi-di-indonesia
+3.	 Setelah mencermati artikel di atas dengan saksama, berdiskusilah 
+dengan teman dalam kelompok kalian untuk menjawab pertanyaan 
+berikut.
+a.	 Berapa persen peningkatan pertumbuhan ekonomi Indonesia 
+kuartal II-2021?
+b.	 Apa saja faktor-faktor yang memengaruhi pertumbuhan 
+ekonomi Indonesia kuartal II-2021?
+c.	
+Berapa target nilai investasi tahun 2021?
+d.	 Menteri Investasi/Kepala BKPM, Bahlil Lahadalia, menyatakan 
+bahwa “Besarnya proporsi realisasi investasi PMDN yang 
+hampir menyamai PMA adalah tendensi yang positif bahwa 
+PMDN kita memiliki ketahanan uji terhadap dampak pandemi 
+Covid-19”. Apa maksud dari pernyataan tersebut?
+e.	 Berdasarkan teori pertumbuhan ekonomi Indonesia yang 
+telah kalian pahami, apa teori yang paling sesuai untuk 
+menggambarkan kondisi pertumbuhan ekonomi Indonesia 
+kuartal II-2021? Kemukakan alasan kalian!
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   15
+Aktivitas 4
+Paradigma Pertumbuhan Ekonomi Endogen Indonesia
+Petunjuk Pengerjaan
+1.	 Kunjungi tautan di bawah ini atau scan QR code!
+http://publication-bi.org/repec/idn/wpaper/
+WP112018.pdf
+2.	 Bersama dengan teman kelompok kalian, buatlah ringkasan dari 
+bacaan yang terdapat pada tautan atau scan barcode tersebut!
+3.	 Presentasikan ringkasan yang telah kalian buat secara kelompok di 
+depan kelas!
+B.	
+Pembangunan Ekonomi
+Gambar 1.2 Pembangunan jalan tol.
+Sumber: Tommy Saputra/ANTARA FOTO (2020)
+16   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Perhatikan gambar pembangunan jalan tol di atas. Mengapa 
+pembangunan jalan tol harus dilakukan? Apa dampak pembangunan 
+jalan tol tersebut bagi perekonomian Indonesia? Pelajarilah bab berikut 
+dengan saksama!
+1.	 Konsep Pembangunan Ekonomi
+Pembangunan ekonomi adalah proses yang melibatkan berbagai 
+dimensi perubahan seperti perubahan sikap masyarakat, perubahan 
+kelembagaan, perubahan struktural, dan pertumbuhan ekonomi, yang 
+mana proses perubahan tersebut merupakan upaya meningkatkan 
+kualitas hidup. Pembangunan ekonomi antara lain mengacu pada 
+proses peningkatan kesehatan, kesejahteraan, dan akademik secara 
+keseluruhan populasi secara umum. Sederhananya, pembangunan 
+ekonomi adalah tentang meningkatkan standar hidup. 
+Pengertian pembangunan ekonomi menurut kamus Cambridge 
+sebagai berikut.
+“The process in which an economy grows or changes and becomes 
+more advanced, especially when both economic and social conditions are 
+improved.”
+Artinya, “pembangunan ekonomi adalah proses di mana ekonomi 
+tumbuh atau berubah dan menjadi lebih maju, terutama ketika kondisi 
+ekonomi dan sosial membaik.”
+Untuk menambah pemahaman kalian tentang pembangunan 
+ekonomi, kerjakan aktivitas berikut.
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   17
+Aktivitas 5
+Pembangunan Ekonomi
+Petunjuk Pengerjaan
+1.	 Kerjakanlah aktivitas berikut secara berkelompok!
+2.	 Melalui situs atau sumber yang relevan, carilah informasi terbaru 
+tentang PDB, PDB per kapita, angka harapan hidup, serta angka 
+melek huruf Indonesia. Isi tabel berikut ini dengan hasil temuan 
+kalian!
+Negara
+PDB
+PDB 
+per 
+Kapita
+Angka 
+Harapan 
+Hidup
+Angka 
+Melek 
+Huruf
+Amerika Serikat
+Cina
+India
+Indonesia
+Malaysia 
+3.	 Analisis hubungan antara PDB, angka harapan hidup, dan angka 
+melek huruf dengan pembangunan ekonomi berdasarkan tabel di 
+atas! 
+4.	 Diskusikan jawaban dengan kelompok kalian!
+5.	 Presentasikan hasil kerja kelompok kalian!
+18   ●   EKONOMI UNTUK SMA/MA KELAS XII
+2.	 Perbedaan Pertumbuhan dan Pembangunan Ekonomi
+Pertumbuhan ekonomi menghitung peningkatan produksi barang dan 
+jasa pada satu periode tertentu yang diukur berdasarkan PDB. Dengan 
+kata lain, peningkatannya hanya diukur secara kuantitatif saja, tanpa 
+melihat dimensi lain. Sedangkan pembangunan ekonomi adalah proses 
+yang berfokus pada pertumbuhan ekonomi baik kualitatif maupun 
+kuantitatif. Secara kualitatif pembangunan ekonomi antara lain 
+mengukur tingkat kemakmuran, tingkat kesehatan, tingkat pendidikan, 
+dan kemudahan akses rumah yang layak bagi penduduk di suatu 
+negara. Sedangkan secara kuantitatif, pembangunan ekonomi diukur 
+dari peningkatan pendapatan perkapita suatu negara.
+Peningkatan standar hidup dalam pembangunan ekonomi dapat 
+dilihat dari berbagai aspek, misalnya ketersediaan sumber air minum 
+utama yang bersih, peningkatan sistem sanitasi, kemudahan akses 
+fasilitas medis, angka melek huruf meningkat, dan peningkatan 
+kesempatan kerja. 
+3.	 Indikator Pembangunan Ekonomi
+Pembangunan ekonomi dikatakan berhasil apabila terjadi peningkatan 
+dari berbagai aspek. Indikator untuk mengukur keberhasilan 
+pembangunan ekonomi sebagai berikut.
+a.	 Produk domestik bruto (PDB) meningkat
+Produk domestik bruto (PDB) diartikan sebagai total produksi di suatu 
+negara pada pada periode waktu tertentu. Indikator pembangunan 
+ekonomi dikatakan berhasil apalabila hasil produksi meningkat, hal 
+tersebut menunjukkan perekonomian berjalan dengan optimal.
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   19
+b.	 Pendapatan per kapita meningkat
+Meningkatnya pendapatan per kapita mengindikasikan bahwa terjadi 
+pula peningkatan taraf hidup di masyarakat. Pendapatan per kapita 
+merupakan salah satu indikator yang menunjukkan keberhasilan 
+pembangunan ekonomi.
+c.	 Indeks kualitas hidup meningkat
+Terdapat tiga indikator indeks kualitas hidup yaitu angka kematian 
+bayi, angka harapan hidup, dan tingkat melek huruf. Apabila ketiga 
+indikator tersebut nilainya tinggi maka pembangunan ekonomi 
+dikatakan berhasil.
+d.	 Indeks pembangunan manusia
+Indeks pembangunan manusia (IPM) mengukur kualitas manusia yang 
+diukur melalui beberapa indikator antara lain tingkat pendidikan, 
+kesehatan, dan indeks pengeluaran. Semakin mudah masyarakat 
+dalam mengakses indikator IPM, maka pembangunan ekonomi dapat 
+dikatakan berhasil. Kerjakanlah tugas berikut untuk menambah 
+pemahaman kalian tentang indikator pembangunan ekonomi!
+Aktivitas 6
+Indeks Pembangunan Manusia (IPM)
+Petunjuk Pengerjaan
+1.	 Kerjakanlah aktivitas ini secara berpasangan.
+2.	 Bersama teman kalian, cermati infografis Pembangunan SDM 
+Kabupaten Magelang tahun 2019 yang diterbitkan oleh Badan Pusat 
+Statistik (BPS) berikut. 
+20   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Sumber: Badan Pusat Statistik Kabupaten Magelang (2019)
+3.	 Setelah mencermati infografis tersebut, kemukakan pendapat 
+kalian dengan memberikan tanda centang pada kolom “Setuju” atau 
+“Tidak Setuju” sesuai dengan pernyataan yang tercantum dalam 
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   21
+tabel. Presentasikan jawaban kalian kepada guru dan teman-teman 
+kalian dengan mengemukakan alasan di balik jawaban tersebut!
+Pernyataan
+Setuju
+Tidak 
+Setuju
+Usia harapan hidup, harapan lama sekolah, 
+rata-rata lama sekolah, serta pengeluaran 
+perkapita disesuaikan merupakan indikator 
+yang digunakan untuk mengukur indeks 
+pembangunan manusia di Kabupaten 
+Magelang.
+Indeks pembangunan manusia (IPM) 
+merupakan satu-satunya alat ukur yang 
+digunakan pemerintah daerah untuk menilai 
+kualitas penduduk Kabupaten Magelang.
+Berdasarkan indikator harapan lama sekolah 
+(HLS) dan rata-rata lama sekolah (RLS), dapat 
+disimpulkan bahwa sebagian besar penduduk 
+di Kabupaten Magelang pada tahun 2019 
+tergolong melek huruf.
+Besarnya pengeluaran perkapita disesuaikan 
+penduduk Kabupaten Magelang tahun 2018 
+sebesar Rp9.052 ribu per tahun.
+Angka indeks pembangunan manusia (IPM) 
+Kabupaten Magelang 2019 menggambarkan 
+bahwa penduduk di Kabupaten Magelang 
+berada pada kondisi yang sejahtera.
+4.	 Faktor-Faktor yang Memengaruhi Pembangunan 
+Ekonomi
+Setiap negara akan selalu melakukan pembangunan ekonomi agar 
+masyarakat negara tersebut mencapai kesejahteraan. Keberhasilan 
+pembangunan ekonomi dipengaruhi berbagai faktor, sebagai berikut.
+22   ●   EKONOMI UNTUK SMA/MA KELAS XII
+a.	 Sumber daya alam (SDA)
+Ketersediaan sumber daya alam merupakan salah satu faktor 
+yang menunjang pembangunan ekonomi. Sumber daya alam yang 
+melimpah dan dikelola dengan optimal memungkinkan meningkatkan 
+pertumbuhan ekonomi.
+Sumber daya alam merupakan salah satu faktor produksi yang 
+diperlukan dalam meningkatkan pertumbuhan ekonomi. sehingga 
+diperlukan kehati-hatian dalam pengelolaan guna menyeimbangkan 
+permintaan dan penawaran untuk menghindari kelangkaan. 
+b.	 Investasi
+Peningkatan investasi dalam barang modal seperti pabrik dan mesin 
+akan menurunkan biaya kegiatan ekonomi. Pabrik dan mesin yang 
+lebih baik akan mendorong produktivitas yang lebih tinggi sehingga 
+dapat meningkatkan output. 
+Investasi dapat memengaruhi pertumbuhan iklim bisnis melalui 
+munculnya usaha atau bisnis baru sehingga dapat menciptakan 
+kesempatan kerja yang akan membantu mengurangi pengangguran. 
+Kondisi tersebut memiliki dampak positif pada meningkatnya daya 
+beli masyarakat serta konsumsi rumah tangga, yang pada akhirnya 
+menunjang pembangunan ekonomi. 
+c.	 Jumlah penduduk
+Penduduk merupakan modal dasar dalam pembangunan ekonomi. 
+Peningkatan jumlah penduduk dapat meningkatkan ketersediaan 
+tenaga kerja. Tenaga kerja yang jumlahnya memadai dan berkualitas 
+dapat mendorong pembangunan ekonomi. Sebaliknya, jumlah 
+penduduk yang banyak namun kurang berkualitas dapat menghambat 
+pertumbuhan ekonomi.
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   23
+Tenaga kerja merupakan sumber daya manusia yang mempunyai 
+potensi dan peran dalam pembangunan. Oleh sebab itu, peningkatan 
+kualitas sumber daya manusia melalui pendidikan sangat diperlukan. 
+Peningkatan kualitas ini akan menghasilkan peningkatan keterampilan, 
+kemampuan, dan keahlian. Tenaga kerja terampil memiliki pengaruh 
+signifikan terhadap pembangunan karena pekerja yang terampil dapat 
+lebih produktif.
+Gambar 1.3 Pendidikan sebagai upaya peningkatan kualitas sumber daya manusia.
+Sumber : Aisyah Nurjanah (2022)
+d.	 Teknologi
+Faktor lain yang memengaruhi pembangunan ekonomi adalah teknologi. 
+Dengan jumlah tenaga kerja yang sama, penggunaan teknologi dapat 
+meningkatkan produktivitas sehingga mempercepat pertumbuhan dan 
+pembangunan ekonomi. Dengan teknologi, perusahaan dapat lebih 
+produktif dengan biaya lebih rendah. Teknologi juga berpotensi akan 
+mengarah pada pertumbuhan jangka panjang yang berkelanjutan.
+24   ●   EKONOMI UNTUK SMA/MA KELAS XII
+C.	
+Ekonomi Digital 
+Teknologi memiliki peran dalam pembangunan ekonomi. Penggunaan 
+teknologi tidak hanya dirasakan pada proses produksi barang, tetapi 
+juga pada produksi jasa dan transaksi ekonomi. Dewasa ini masyarakat 
+lebih sering menggunakan pembayaran digital dalam kesehariannya, 
+terutama di daerah perkotaan. Fenomena ini merupakan salah satu 
+dampak dari berkembangnya ekonomi digital. 
+Gambar 1.4 Penggunaan QRIS sebagai kegiatan ekonomi digital.
+Sumber: Aisyah Nurjanah (2022)
+Ekonomi digital adalah kegiatan ekonomi menggunakan teknologi 
+digital atau internet. Ekonomi digital juga dikenal sebagai new economy, 
+web economy, dan internet economy. Adapun kegiatan ekonomi digital 
+di antaranya adalah munculnya financial technology (fintech). Financial 
+technology merupakan inovasi teknologi dari perusahaan jasa keuangan 
+untuk meningkatkan berbagai aspek pelayanan keuangan. Kebera­
+daan­ fintech sudah berkembang sangat pesat dalam perekonomian, 
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   25
+mulai dari metode pembayaran, pinjaman, hingga investasi, semuanya 
+dilakukan dengan cepat karena proses digital. Hingga saat ini kehadiran 
+fintech menjadi kebutuhan bagi masyarakat. Fintech memiliki layanan 
+dan produk jasa keuangan yang bisa dimanfaatkan masyarakat. Di 
+Indonesia, jenis-jenis fintech yang berkembang di antaranya sebagai 
+berikut.
+1.	 Crowdfunding
+Crowdfunding adalah kegiatan mengumpulkan modal dengan cara 
+penggalangan atau donasi dana melalui lembaga khusus (website online 
+atau media sosial) untuk suatu proyek tertentu. Dengan adanya inovasi 
+teknologi ini, masyarakat dapat memberikan donasi untuk kegiatan-
+kegiatan sosial yang mereka ingin bantu.
+2.	 Microfinancing
+Pada dasarnya layanan microfinancing hadir untuk memberikan 
+bantuan modal bagi masyarakat atau pengusaha mikro yang 
+membutuhkan. Layanan ini menjembatani kebutuhan masyarakat yang 
+kesulitan untuk mendapatkan pinjaman modal dari industri perbankan. 
+Dengan regulasi yang lebih mudah, perusahaan microfinancing akan 
+menghubungkan pengusaha mikro dengan pemilik modal secara 
+digital (online).
+3.	 Peer to Peer Lending
+Peer to Peer Lending (P2P Lending) adalah layanan pinjam meminjam 
+dana bagi individu/usaha yang membutuhkan dana dalam rangka 
+memenuhi kebutuhannya. P2P lending atau yang lebih dikenal dengan 
+pinjaman online memiliki sistem yang mudah dan cepat sehingga 
+masyarakat tertarik untuk menggunakannya.
+26   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Berkembangnya fintech dan inovasi lainnya dalam ekonomi digital 
+membantu meningkatkan pertumbuhan ekonomi. Perkembangan 
+Fintech selain memberikan dampak positif juga memberikan beberapa 
+dampak negatif, oleh karena itu keberadaan fintech senantiasa diawasi 
+oleh Otoritas Jasa Keuangan (OJK) agar masyarakat atau konsumen 
+dapat terlindungi. 
+Aktivitas 7
+Ekonomi Digital Indonesia Berpotensi 
+Tumbuh Hingga Delapan Kali Lipat di 
+2030
+Jakarta, Kominfo -  Ekonomi digital Indonesia memiliki prospek 
+yang sangat baik dan akan terus tumbuh berkali lipat. Di tahun 2020 
+lalu, ekonomi digital berkontribusi terhadap empat persen gross 
+domestic product  (GDP). Sementara pada 2030 mendatang 
+pertumbuhan GDP Indonesia akan tumbuh dari Rp15.400 triliun 
+menjadi Rp24.000 triliun di mana ekonomi digital kita diyakini juga 
+akan tumbuh hingga delapan kali lipat dari saat ini yang berada 
+pada angka Rp632 triliun menjadi Rp4.531 triliun.
+Hal itu disampaikan Menteri Perdagangan, Muhammad Lutfi, 
+yang memberikan keterangan pers bersama Menteri Koperasi dan 
+UKM, Teten Masduki, serta Ketua Dewan Komisioner Otoritas Jasa 
+Keuangan, Wimboh Santoso, selepas mengikuti rapat terbatas yang 
+dipimpin langsung oleh Presiden Joko Widodo, di kantor presiden, 
+Jakarta, Kamis (10/06/2021).
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   27
+“Di Rp4.531 triliun tersebut  e-commerce  akan memerankan 
+peranan yang sangat besar, yaitu 34 persen atau setara Rp1.900 
+triliun, kemudian diikuti oleh beberapa hal yang sangat penting 
+yaitu B2B dengan besaran 13 persen atau setara Rp763 triliun, 
+dan health tech akan menjadi Rp471,6 triliun atau 8 persen dari 
+pertumbuhan,” ucapnya.
+Lutfi melanjutkan, pelaku perdagangan elektronik Indonesia 
+memiliki  level playing field  yang sangat besar, mulai dari  online 
+travel, online media, ride hailing, hingga financial technology.
+Meski demikian, terdapat beberapa hal yang mesti diperbaiki 
+untuk dapat meningkatkan pertumbuhan ekonomi digital di tanah 
+air. Beberapa di antaranya ialah infrastruktur telekomunikasi, 
+perlindungan konsumen di era digital, sumber daya manusia 
+yang memiliki keahlian khusus di bidang teknologi, hingga 
+mengembangkan ekosistem digital itu sendiri.
+Potensi ekonomi digital juga harus terus diperluas ke dalam 
+sejumlah sektor industri di tanah air. Apabila hal itu dilakukan, 
+maka ekonomi digital dapat terus tumbuh sesuai dengan yang 
+diharapkan ke depannya.
+“Kita juga sadar bahwa meski ekonomi digital kita empat 
+persen (4%) pada hari ini, tetapi jumlah partisipasi, contohnya 
+dalam industri makanan dan minuman, hari ini kita mempunyai 
+besaran Rp3.669 triliun, dilayani oleh ekonomi digital baru Rp18 
+triliun,” ujar Lutfi.
+Lutfi berujar, di masa yang akan datang, hilirisasi dari 
+ekonomi digital ini akan bertumpu pada teknologi 5G, rantai 
+blok (blockchain), kecerdasan buatan (artificial intelligence), dan 
+komputasi awan (cloud computing).
+28   ●   EKONOMI UNTUK SMA/MA KELAS XII
+“Kita berharap ekonomi digital ini akan memperbaiki 
+pertumbuhan Indonesia paling tidak dalam sektor logistik dan 
+industri. Kalau kita lihat bahwa target sektor logistik kita yang akan 
+tumbuh dari 23 persen ongkos pada hari ini menjadi 17 persen, 
+dengan adanya ekonomi digital ini perbaikan pada logistiknya 
+akan jauh lebih baik,” tandasnya.
+Sumber: https://www.kominfo.go.id/content/detail/34996/ekonomi-digital-indonesia-berpotensi-tumbuh-hingga-delapan-kali-
+lipat-di-2030/0/berita (Diakses pada 8 oktober 2022)
+Berdasarkan artikel di atas jawablah pertanyaan berikut.
+Manakah pernyataan berikut yang sesuai dengan isi wacana yang 
+berjudul “Ekonomi Digital Indonesia Berpotensi Tumbuh Hingga 
+Delapan Kali Lipat di 2030”? Berilah tanda centang (✓) pada kolom 
+“Sesuai” jika sesuai dan pada kolom “Tidak Sesuai” jika pernyataan 
+tidak sesuai!
+No.
+Pernyataan
+Sesuai
+Tidak 
+sesuai
+1.
+Infrastruktur telekomunikasi merupakan 
+satu-satunya yang perlu diperbaiki untuk 
+meningkatkan ekonomi digital.
+2.
+Perdagangan elektronik berkontribui paling 
+besar pada peningkatan ekonomi digital.
+3.
+Pada tahun 2030 ekonomi Indonesia akan 
+tumbuh sebesar 55,8%.
+4.
+Ekonomi digital dapat memperbaiki 
+pertumbuhan ekonomi di sektor industri.
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   29
+Uraikan langkah yang perlu dilakukan untuk melindungi konsumen 
+dalam melakukan transaksi fintech! Analisis hubungan antara 
+berkembangnya ekonomi digital dengan pertumbuhan ekonomi!
+Aktivitas 8
+Edukasi Fintech
+1.	 Kerjakanlah aktivitas ini secara berkelompok!
+2.	 Buatlah poster digital atau paper based dengan tema berikut.
+a.	 Informasi peer to peer lending/pinjaman online ilegal.
+b.	 Langkah menghindari pinjaman online ilegal.
+c.	
+Layanan aduan dari OJK.
+3.	 Sebarlah poster yang telah kalian buat di lingkungan sekolah dan 
+rumah melalui media sosial atau media yang terdapat di lingkungan 
+kalian!
+4.	 Peserta didik boleh mencari informasi dari media internet!
+5.	 Peserta didik dapat mengunjungi tautan di bawah ini atau scan QR 
+code untuk melihat contoh poster!
+PINJAMAN ONLINE ID (ojk.go.id) 
+https://www.ojk.go.id/id/berita-dan-
+kegiatan/info-terkini/Documents/Pages/
+Infografis-OJK-Bersama-Kementerian-atau-
+Lembaga-Terkait-Berkomitmen-Berantas-
+Pinjol-Ilegal/OJK BERSAMA KEMENTERIAN 
+ATAU LEMBAGA TERKAIT BERKOMITMEN 
+BERANTAS PINJOL ILEGAL.pdf
+30   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Asesmen
+I. Bentuk soal AKM
+Pilihlah jawaban yang tepat!
+1.	 Diketahui produk nasional bruto negara “X” (miliyar dolar)
+Tahun
+Produk Nasional Bruto
+2015
+48.860
+2016
+52.173
+2017
+55.540
+2018
+65.925
+2019
+80.785
+Dari data di atas laju pertumbuhan ekonomi tahun 2019 adalah ....
+A.	 122,54%
+B.	 81,60%
+C.	 60,66%
+D.	 22,54%
+E.	 18,39%
+2.	 Pada tahun 2018 negara maju mengalami peningkatan produksi 
+barang dan jasa. Negara sejahtera pada tahun yang sama mengalami 
+perbaikan kesejahteraan bagi masyarakat golongan ekonomi 
+rendah.
+Kesimpulan dari pernyataan di atas adalah ....
+A.	 negara maju mengalami pembangunan sedangkan negara 
+sejahtera mengalami pertumbuhan 
+B.	 negara maju mengalami pertumbuhan sedangkan negara 
+sejahtera mengalami pembangunan
+C.	 negara maju dan negara sejahtera mengalami pembangunan
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   31
+D.	 negara maju dan negara sejahtera mengalami pertumbuhan
+E.	 baik negara maju maupun negara sejahtera tidak mengalami 
+pertumbuhan maupun pembangunan
+3.	 Menilik kondisi negara berkembang, pertambahan dalam arus 
+uang lebih cepat menimbulkan kenaikan harga daripada kenaikan 
+output/hasil produksi. hal ini disebabkan oleh ....
+A.	 masalah keuangan
+B.	 kurang meratanya uang yang beredar
+C.	 kenaikan harga secara umum
+D.	 kesulitan struktural di bidang ekonomi
+E.	 pengangguran tinggi
+4.	 Tiga masalah utama pembangunan ekonomi di negara berkembang, 
+berkaitan dengan ....
+A.	 kemiskinan, kebodohan, dan keterbelakangan 
+B.	 pengangguran, kemiskinan, dan ketimpangan dalam distribusi 
+pendapatan
+C.	 kemiskinan, kebodohan, dan pengangguran
+D.	 kemiskinan, ketimpangan pendapatan, dan rusaknya 
+lingkungan hidup
+E.	 kemiskinan, rendahnya produktivitas, dan kebodohan
+5.	 Pada dasarnya investasi merupakan hal yang dinamis, sehingga 
+investasi tergantung dari faktor-faktor yang sifatnya juga dinamis. 
+Berikut ini adalah faktor yang bukan termasuk faktor dinamis 
+adalah ....
+A.	 perkembangan teknik
+B.	 pembentukan modal
+C.	 iklim usaha
+D.	 pertambahan penduduk
+E.	 penambahan harga
+32   ●   EKONOMI UNTUK SMA/MA KELAS XII
+6.	 Kenaikan PDB tanpa memperhatikan apakah kenaikan itu lebih 
+besar atau lebih kecil dari pertumbuhan penduduk adalah ....
+A.	 perkembangan ekonomi
+B.	 pertumbuhan ekonomi
+C.	 pembangunan ekonomi
+D.	 pendapatan ekonomi
+E.	 pendapatan nasional
+7.	 Diketahui pendapatan domestik bruto (PDB) negara X pada tahun 
+2022 sebesar Rp230 triliun. Sementara itu, PDB negara X pada tahun 
+2023 sebesar Rp250 triliun. Berdasarkan data tersebut pertumbuhan 
+ekonomi negara A pada tahun 2015 sebesar.... 
+A.	 6,48%
+B.	 6,89%
+C.	 8,48%
+D.	 8,69%
+E.	 9,69%
+8.	 Salah satu indikator keberhasilan pembangunan ekonomi adalah 
+peningkatan pendapatan nasional. Adapun indikator keberhasilan 
+pembangunan ekonomi lainnya adalah ….
+A.	 peningkatan PDB tanpa diikuti peningkatan jumlah penduduk
+B.	 peningkatan kualitas hidup masyarakat dari berbagai aspek
+C.	 kesenjangan ekonomi pada masyarakat dengan kemampuan 
+ekonomi yang berbeda
+D.	 peningkatan pendapatan per kapita dari setiap tahun
+E.	 peningkatan pendapatan tiap rumah tangga setiap tahun
+9.	 Nilai konsumsi rumah tangga negara A tahun 2022 sebesar Rp21,13 
+triliun sedangkan tahun 2023 sebesar Rp20,78 triliun. Berdasarkan 
+pernyataan tersebut pertumbuhan ekonomi negara A cenderung ….
+A.	 stabil
+B.	 meningkat
+C.	 tetap
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   33
+D.	 menurun
+E.	 maju 
+10.	 Berikut yang bukan merupakan faktor yang memengaruhi 
+pertumbuhan ekonomi menurut teori pertumbuhan ekonomi 
+klasik adalah ....
+A.	 jumlah penduduk
+B.	 persediaan barang-barang modal
+C.	 investasi karena kebutuhan modal
+D.	 luas tanah dan kekayaan alam
+E.	 penerapan teknologi
+II. Pilihan Ganda Komplek 
+Pilihlah tiga (3) jawaban yang tepat dengan cara memberikan tanda 
+centang (✓)!
+11.	 Berikut faktor non ekonomi yang mempengaruhi keberhasilan 
+ekonomi.
+sumber daya alam
+sumber daya manusia
+kondisi sosial masyarakat
+birokrasi yang terintegrasi
+etos kerja masyarakat dan pemerintah
+12.	 Berikut ini kunci pertumbuhan ekonomi.
+akumulasi modal yang memadai 
+pertumbuhan penduduk atau angkatan kerja
+perluasan dari hasil-hasil produksi
+sistem pembagian kerja rasionalisasi
+13.	 Berikut yang termasuk ke dalam pembangunan ekonomi.
+peningkatan kualitas produksi
+kenaikkan kuantitas produksi
+34   ●   EKONOMI UNTUK SMA/MA KELAS XII
+adanya perubahan struktur ekonomi 
+kenaikkan GNP
+14.	 Berikut yang mempengaruhi pertumbuhan output total menurut 
+teori pertumbuhan Adam Smith. 
+sumber daya alam
+perkembangan penduduk
+jumlah persediaan barang modal
+kemajuan teknologi
+15.	 Berikut ini merupakan dampak adanya pengangguran.
+menimbulkan ketidakstabilan sosial dan politik
+meningkatkan harga barang
+menurunnya pendapatan nasional
+ketimpangan jumlah penduduk
+16.	 Berikut ini ciri umum pertumbuhan ekonomi dan pembangunan 
+suatu negara maju.
+berorientasi ekspor
+produsen barang-barang primer
+tersedia modal dan tenaga ahli
+berorientasi pada perdagangan bahan mentah
+merupakan penghasilan barang-barang jadi dan barang-
+barang modal
+17.	 Berikut ini asumsi teori Harrod-Domar.
+perekenomian dalam keadaan full employment
+perekonomian terdiri dari tiga sektor
+besar tabungan masyarakat proporsional dengan pendapatan 
+nasional
+kecenderungan untuk menabung tidak tetap
+barang-barang modal dalam masyarakat digunakan penuh
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   35
+18.	 Berikut ini konsep paradigma pertumbuhan endogen.
+penguasaan teknologi untuk mendukung pengembangan 
+ekonomi kreatif
+pentinganya penguatan kualitas sumber daya manusia
+pengembangan inovasi diperkuat melalui pendekatan non-
+tradisional
+peningkatan kualitas sumber daya manusia tidak dipengaruhi 
+aspek values dan religius
+tidak diperlukan penciptaan sumber baru pertumbuhan 
+ekonomi
+19.	 Berikut ini teori Schumpeter terkait pengembangan ekonomi.
+inovasi dapat meningkatkan output bagi pembangunan 
+ekonomi
+kunci utama perkembangan ekonomi adalah pemerintah
+pertumbuhan ekonomi meningkat tanpa adanya perubahan 
+teknologi
+pengusaha dapat meningkatkan standar hidup masyarakat
+20.	 Berikut ini ciri pertumbuhan ekonomi.
+kondisi sosial budaya yang membaik
+jumlah produksi barang dan jasa meningkat
+usaha untuk meningkatkan pendapatan perkapita
+upaya meningkatkan jumlah pasar untuk mengembangkan 
+kegiatan ekonomi
+36   ●   EKONOMI UNTUK SMA/MA KELAS XII
+III. Kategori Benar-Salah 
+Berikan centang (✓) pada jawaban "Benar" atau "Salah"!
+No
+Pertanyaan
+Kategori
+Benar
+Salah
+21.	 
+Keberhasilan pertumbuhan ekonomi 
+diukur melalui meningkatnya pendapatan 
+nasional.
+22.	 
+Peningkatan kesenjangan GDP yang 
+positif terkait dengan peningkatan tingkat 
+pengangguran.
+23.	 
+Pertumbuhan ekonomi terlihat dengan 
+adanya peningkatan produksi barang dan 
+jasa, pengingkatan GNP, dan pendapatan 
+per kapita.
+24.	 
+Pembangunan ekonomi dan peningkatan 
+kesejahteraan rakyat dapat terlaksana 
+dengan cepat, harus diiringi dengan 
+pertumbuhan jumlah penduduk yang 
+besar.
+25.	 
+Pembangunan ekonomi terlihat dengan 
+adanya efisiensi penggunaan sumber-
+sumber ekonomi, penyediaan lapangan 
+kerja, dan berkurangnya kemiskinan 
+absolut.
+BAB 1 — PERTUMBUHAN DAN PEMBANGUNAN EKONOMI    ●   37
+No
+Pertanyaan
+Kategori
+Benar
+Salah
+26.	 
+Microfinancing merupakan salah satu 
+finasial teknologi yang dapat mendorong 
+pertumbuhan ekonomi.
+27.	 
+Ekonomi digital dapat meningkatkan 
+pembangunan ekonomi hanya pada aspek 
+ekonomi dan sosial.
+28.	 
+Bantuan teknologi pada penerapan 
+ekonomi digital dapat meningkatkan 
+penyerapan tenaga kerja sehingga 
+membatu mengatasi masalah 
+pengangguran.
+29.	 
+Kemudahan regulasi dalam berinvestasi 
+dapat mendorong pertumbuhan ekonomi.
+30.	 
+Pembangunan ekonomi dikatakan berhasil 
+apabila tingkat melek huruf, angka harapan 
+hidup tinggi, dan angka kelahiran sangat 
+tinggi.
+IV. Uraian
+Jawablah pertanyaan berikut dengan tepat!
+1.	 Mengapa setiap negara perlu untuk menghitung laju pertumbuhan 
+ekonominya dari tahun ke tahun?
+2.	 Buatlah analisis hubungan pendidikan dengan peningkatan 
+pertumbuhan ekonomi!
+3.	 Pada tahun 2023, Pendapatan Domestik Bruto (PDB) Negara Bahagia 
+sebesar Rp700 triliun. Nilai PDB Negara Bahagia tahun 2022 Rp600 
+38   ●   EKONOMI UNTUK SMA/MA KELAS XII
+triliun. Berdasarkan data tersebut hitunglah laju pertumbuhan 
+ekonomi Negara Bahagia! 
+4.	 Jumlah penduduk yang tinggi merupakan modal bagi suatu negara 
+untuk meningkatkan pembangunan ekonomi, namun di sisi lain 
+tingginya jumlah penduduk menjadi penghambat pertumbuhan 
+ekonomi. Buatlah analisis mengapa hal tersebut dapat terjadi!
+5.	 Buatlah analisis dampak perkembangan ekonomi digital pada 
+pertumbuhan ekonomi!
+Refleksi
+Kalian telah belajar tentang pertumbuhan ekonomi dan pembangunan 
+ekonomi. Manfaat apa yang kalian dapatkan setelah mempelajari 
+bab ini? Apa peran yang dapat kalian lakukan untuk meningkatkan 
+pembangunan ekonomi dan pertumbuhan ekonomi Indonesia?
+Pengayaan
+Petunjuk Pengerjaan
+Bacalah artikel UMKM Go-Digital dan Go-Legal dengan mengunjungi 
+tautan di bawah ini atau scan QR code.
+https://www.ekon.go.id/publikasi/detail/3016/
+optimalisasi-produktivitas-umkm-melalui-go-
+digital-dan-go-legal

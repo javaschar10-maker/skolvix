@@ -1,0 +1,896 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Fisika untuk SMA/MA Kelas XI
+Penulis 
+: Marianna Magdalena Radjawane, Alvius Tinambunan, Lim Suntar Jono
+ISBN 
+: 978-623-472-721-0 (jil.1)
+Vektor
+BAB 1
+Tujuan Pembelajaran
+Setelah mempelajari bab ini kalian dapat 
+menjelaskan vektor dan sifat-sifatnya yang 
+ditemui 
+dalam 
+kehidupan 
+sehari-hari, 
+merepresentasi vektor untuk menggambarkan 
+fenomena isika, membedakan operasi skalar 
+dan vektor, melakukan operasi vektor dalam 
+menyelesaikan masalah serta mendeskripsikan 
+operasi vektor dan hasilnya secara isis.
+Kata-Kata Kunci:
+• 
+Vektor
+• 
+Notasi dari vektor
+• 
+Resultan vektor
+• 
+Komponen vektor
+• 
+Metode poligon
+• 
+Metode analitis
+• 
+Metode jajargenjang
+Sumber:  Ignacio Pales dan Dids/Pexels.com (2019)
+2
+Fisika untuk SMA/MA Kelas XI
+Kalian sering menyaksikan berbagai kegiatan yang berhubungan dengan 
+arah dalam kehidupan sehari-hari.  Sampul bab menunjukkan gerak penerjun 
+payung ke bawah dan arah tali pada jembatan. Arah vektor medan magnet 
+ditunjukkan oleh kompas dan dalam pembuatan game aplikasi vektor 
+digunakan untuk menggambarkan gerak benda atau karakter.
+Gambar 1.1 Arah medan magnet dan konsep pembuatan game
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Peta Konsep
+Vektor
+Representasi
+Vektor
+Penjumlahan
+Pengurangan
+Perkalian
+Perkalian Titik
+Perkalian Silang
+Operasi
+Vektor
+Konsep
+Vektor
+mencakup
+mendukung
+terdiri atas
+terdiri atas
+dapat menjadi
+memerlukan
+3
+ Bab 1 | Vektor
+Mengapa penerjun payung mendarat melenceng dari posisi sebenarnya? 
+Lihat Gambar 1.2. Salah satu penyebabnya adalah tiupan angin yang mengubah 
+arah gerak penerjun payung.
+A. Konsep Vektor 
+Konsep vektor dapat ditemukan dalam kehidupan sehari-hari, misalnya 
+seorang pilot pesawat terbang menggunakan komputer navigasi yang 
+dihubungkan dengan cara vektor sehingga pilot yang mengemudi tidak salah 
+arah atau berpindah ke tempat yang tidak diinginkan. Agar kalian dapat 
+memahami konsep vektor, ayo lakukan Aktivitas 1.1. 
+Gambar 1.3 menunjukkan beberapa kabel menopang suatu jembatan. 
+Setiap kabel memberikan gaya sehingga ada beberapa vektor gaya.
+Gambar 1.2 Penerjun payung mendarat melenceng
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 1.3 Beberapa kabel menopang suatu jembatan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Bagaimana cara menggambar vektor, resultan vektor, komponen 
+vektor serta menghitung besar dan arah resultan vektor dalam sebuah 
+pengamatan?
+Ayo, Berpikir Kritis!
+4
+Fisika untuk SMA/MA Kelas XI
+Aktivitas 1.1
+Perhatikan peta yang ditunjukkan oleh Gambar 1.4.
+Ayah ingin berangkat dari terminal bis ke bandara. Jawablah 
+pertanyaan berikut ini.
+1. Apakah bis dapat bergerak langsung dari terminal ke 
+bandara tanpa berbelok? Tunjukkan lintasan ini dengan 
+menggambarkan garis lurus dari terminal ke bandara.  
+2. Buat dua rute bis yang berbeda dari terminal ke bandara, 
+gunakan warna berbeda. 
+Lintasan bis tidak dapat langsung dari terminal ke bandara tetapi 
+perlu mengambil serangkaian jalan. 
+Gambar 1.4 Rute terminal bis ke bandara
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Diskusikan rute dalam Aktivitas 1.1 yang kalian sudah buat dalam 
+kelompok. Apakah rute kalian sama atau berbeda?  Apa yang 
+membedakan rute yang satu dengan rute lainnya? 
+Kalian sepakat bahwa pemilihan rute menentukan arah dan jarak tempuh. 
+Mari kita tinjau rute dengan pengertian konsep vektor. 
+Perhatikan denah dalam Gambar 1.5.
+Ayo, Berpikir Kritis!
+Gambar 1.5 Penerapan konsep vektor dalam rute
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+u
+5
+ Bab 1 | Vektor
+Anak panah merah menyatakan rute langsung dari titik awal ke titik akhir 
+sedangkan anak panah biru menunjukkan rute dengan dua lintasan yang 
+berbeda. Setiap anak panah menyatakan suatu perpindahan dari titik awal ke 
+titik akhir yang berupa vektor. 
+Berdasarkan Aktivitas 1.1 kalian dapat membuat beberapa vektor untuk 
+mendapatkan rute terminal bis ke bandara. 
+1. 
+Lambang dan Notasi Vektor  
+ 
+Besaran isika dapat dibedakan atas besaran vektor dan besaran skalar. 
+Besaran vektor mempunyai nilai dan arah sedangkan besaran skalar ha-
+nya mempunyai nilai saja. Vektor dinyatakan dengan anak panah. Pan-
+jang anak panah menyatakan besar vektor sedangkan arahnya dapat 
+dinyatakan oleh sudut. Sebuah vektor digambarkan dengan anak panah 
+yang memiliki pangkal dan ujung.
+Notasi vektor, dituliskan sebagai AB
+
+ atau AB atau a atau a.  Notasi 
+vektor dapat menggunakan satu huruf atau dua huruf. 
+Besar atau panjang vektor AB
+
+ dituliskan sebagai AB
+
+, dapat bernilai 
+0 dan selalu bernilai positif.
+Hal khusus tentang vektor :
+a. 
+vektor nol yaitu vektor yang bernilai nol.  Pemahaman vektor nol 
+diulas dalam pengurangan vektor.
+b. 
+vektor satuan yaitu vektor dengan besar 1 dan arah tertentu. 
+Vektor satuan diulas dalam komponen vektor.
+Gambar 1.7 Vektor dan notasinya
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 1.6 Bagian-bagian dari vektor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+6
+Fisika untuk SMA/MA Kelas XI
+Rute pesawat terbang merupakan rangkaian sejumlah vektor 
+yang dapat berbeda walaupun nampaknya pesawat terbang lurus 
+saja.  Gambar 1.8 menunjukkan lintasan pesawat yang merupakan 
+kumpulan sejumlah vektor. Panjang dan arah vektor dapat berbeda-
+beda selama rute perjalanan. Setiap vektor menyatakan suatu 
+perpindahan. Makin panjang vektor makin besar perpindahannya.
+Tahukah Kalian
+Gambar 1.8 Lintasan pesawat terbang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+1. Menggambar Vektor  
+Kalian pasti sudah mengenal olahraga mendaki gunung atau panjat tebing 
+yang memerlukan tali sebagai salah satu alat untuk memperkokoh, menarik 
+dan menyeret. Tali juga dipergunakan untuk melindungi diri dari bahaya 
+kecelakaan yang mungkin terjadi. Perhatikan Gambar 1.9.  Tegangan 
+tali dialami oleh pendaki gunung. 
+ 
+ 
+Bagaimana 
+menggambar 
+vektor 
+gaya tali ini? Arah vektor ditentukan 
+dengan 
+sudut 
+antara 
+garis 
+horizontal 
+dan 
+vektor 
+tersebut. 
+Sudut 
+dimulai 
+0
+o dari horizontal dan berputar melawan 
+arah jarum jam. Perhatikan arah vektor 
+gaya  dalam Gambar 1.10.
+Gambar 1.9 Tegangan tali pada pendaki gunung
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+7
+ Bab 1 | Vektor
+Lakukan Aktivitas 1.2 agar kalian terampil dalam menggambar vektor dan 
+mampu menentukan besar dan arah vektor.
+Gambar 1.10 Tiga arah vektor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Arah vektor  P
+
+ adalah 0
+o.
+Arah vektor  Q
+
+ adalah 90
+o.
+Arah vektor  R
+
+ adalah 225
+o.
+Aktivitas 1.2
+1. Gambarkan vektor dari Gambar 1.9. Gunakan busur untuk 
+menentukan sudut yang dibentuk oleh vektor tegangan tali dan 
+penggaris untuk menentukan panjang vektor.  
+2. Jika 1 cm mewakili 10 N tentukan besar setiap vektor gaya dalam 
+Gambar 1.10.
+3. Gambarkan dan namakan vektor berikut.
+a. panjang 8 cm dan arah 150
+o   
+b. panjang 6 cm dan arah 330
+o
+Kalian dapat menggunakan aplikasi geogebra untuk menggambar 
+suatu vektor. Tautan aplikasi adalah  https://www.geogebra.org/.
+Ayo, Berteknologi!
+3. Sifat-Sifat Vektor 
+ 
+Kalian pasti pernah mengetik meng-
+gunakan keyboard baik pada kom-
+puter ataupun laptop. Gambar 1.11 
+menunjukkan vektor-vektor medan 
+listrik di berbagai posisi pada pelat se-
+jajar di keyboard. Vektor-vektor terse-
+but sejajar dan sama panjang.
+Gambar 1.11 Vektor-vektor medan listrik pada keping sejajar
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+8
+Fisika untuk SMA/MA Kelas XI
+“Dua vektor dikatakan sama jika keduanya mempunyai besar dan arah 
+yang sama.”
+Gambar 1.12 Dua vektor yang sama
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Mengapa kita dapat berjalan? Kaki mendorong lantai yang berakibat 
+lantai juga mendorong kaki. Makin besar dorongan kaki pada lantai maka 
+makin besar juga dorongan lantai pada kaki. Hukum III Newton menyatakan 
+bahwa gaya aksi sama besar dengan gaya reaksi tetapi berlawanan arah. 
+Kalian akan belajar Hukum III Newton secara mendalam dalam bab 3. 
+Berdasarkan Gambar 1.13, kalian dapat melihat bahwa vektor biru sama 
+panjang dengan vektor merah tetapi berlawanan arah. Vektor merah 
+merupakan negatif vektor dari vektor biru.
+Gambar 1.13 Aksi reaksi antara kaki dan tanah
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Lakukan Aktivitas 1.3 agar kalian berlatih dalam menggambar vektor 
+yang berlawanan arah dengan suatu vektor.
+“Vektor negatif sama besar tetapi berlawanan arah dengan suatu vektor”
+Gambar 1.14 Vektor dan negatif vektor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+9
+ Bab 1 | Vektor
+Aktivitas 1.3
+a. Buatlah vektor sembarang yang 
+panjang 
+dan 
+arahnya 
+kalian 
+tentukan 
+sendiri, 
+Namakan 
+vektor a
+.
+b.  Gambarkan negatif vektornya.
+c. Tentukan 
+besar 
+sudut 
+yang 
+dibentuk oleh negatif vektor -a
+.
+d. Ulangi untuk vektor lainnya.
+Kalian 
+dapat 
+menggunakan 
+aplikasi 
+geogebra 
+untuk 
+menggambarkan vektor dan negatifnya. Tautan aplikasi adalah 
+https://www.geogebra.org/.
+Ayo, Berteknologi!
+Perkalian vektor dengan suatu skalar 
+Perhatikan Gambar 1.17. Apa yang kalian yang dapat simpulkan?
+Gambar 1.17 Berbagai vektor hasil perkalian dengan skalar
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tentukan apakah setiap pasangan vektor berikut ini merupakan 
+vektor dengan vektor negatifnya.
+Gambar 1.16 Berbagai vektor dengan arah dan besar berbeda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 1.15 Vektor a
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cermati!
+10
+Fisika untuk SMA/MA Kelas XI
+B. Representasi Vektor  
+Vektor direpresentasikan dengan dua cara yaitu melalui cara penggambaran 
+anak panah yang menyatakan besar dan arah serta dalam komponen-kom-
+ponen pembentuknya yang merupakan hasil penguraian dari vektor tersebut. 
+Cara pertama telah dipelajari sebelumnya sedangkan cara kedua dipelajari 
+dalam sub bab ini.
+Vektor pada Sistem Koordinat Cartesius 
+ 
+Komponen vektor sepanjang sumbu merupakan proyeksi vektor 
+Gambar 1.18 Komponen vektor gaya
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cek Pemahaman!
+Mengapa diperlukan konsep vektor dalam kehidupan sehari-hari? 
+Berikan contoh-contoh untuk mendukung penjelasanmu.
+Gambar 1.19 Proyeksi vektor pada sumbu x dan sumbu y
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Perkalian suatu skalar dengan vektor dituliskan sebagai kA
+
+ dengan k 
+dapat bernilai positif  atau negatif sehingga vektor yang dihasilkan dapat 
+searah atau berlawanan arah. 
+“Dua vektor dikatakan sejajar jika searah atau berlawanan arah.”
+1. Komponen Vektor 
+ 
+ 
+Sebuah vektor dua dimensi dapat di-
+uraikan 
+menjadi 
+dua 
+buah 
+vektor 
+yang saling tegak lurus. Penguraian 
+vektor menjadi dua komponen, yai-
+tu pada sumbu x (horizontal)  dan 
+sumbu y (vertikal).   Gambar 1.18 me- 
+nunjukkan sebuah gaya F diproyeksikan 
+pada sumbu x dan sumbu y yang meng-
+hasilkan Fx dan Fy. 
+tersebut pada sumbu sistem koordinat 
+Cartesius. Komponen vektor dapat ber-
+nilai negatif atau positif.  Perhatikan 
+Gambar 1.19.
+11
+ Bab 1 | Vektor
+Perhatikan vektor – vektor pada Gambar 1.21. 
+Gambar 1.20 Vektor satuan dalam sistem koordinat Cartesius
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Vektor dalam Gambar 1.19 dinyatakan sebagai F = 75 i + 50 j.  Artinya nilai 
+komponen horizontal adalah 75 dan nilai komponen vertikal adalah 50. Jadi, 
+suatu vektor A dapat dituliskan sebagai berikut 
+A =Ax i+Ay j 
+Dengan : 
+ Ax = nilai komponen horizontal vektor A  
+Ay = nilai komponen vertikal vektor A
+Notasi i dan j merupakan vektor satuan dalam arah horizontal dan 
+vertikal. Untuk vektor berdimensi tiga berlaku
+A =Ax i+Ay j+Az k
+i, j dan k merupakan vektor satuan dalam arah sumbu -x, sumbu -y dan 
+sumbu -z. 
+“Sebuah vektor satuan adalah vektor tidak berdimensi yang besarnya satu dan 
+menunjuk ke suatu arah tertentu.”
+(1.2)
+Gambar 1.21 Vektor-vektor yang sama dalam sistem koordinat Cartesius
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(1.1)
+12
+Fisika untuk SMA/MA Kelas XI
+Apakah lokasi dalam sistem koordinat mengubah arah dan besar 
+suatu vektor jika vektor digeser? Mengapa demikian?
+Ayo, Berpikir Kritis!
+Semuanya adalah vektor perpindahan yang sama, yaitu
+d = 3i + 4j
+Vektor satuan dari suatu vektor adalah vektor tersebut dibagi dengan 
+panjang vektor. Dengan demikian vektor satuan dari  d = 3i + 4j  adalah
+Buktikan bahwa setiap vektor dalam Gambar 1.19 adalah d = 3 i + 4 j 
+dengan cara menentukan koordinat pangkal dan ujung vektor.
+Ayo, Berdiskusi!
+2. Penguraian Vektor Berdasarkan Aturan Trigonometri 
+Suatu pesawat terbang terlihat berada 300 km dari suatu bandara dengan arah 
+30
+o dari timur ke utara. Berapa jauh pesawat tersebut ke timur dan ke utara 
+dari bandara? 
+Masalah ini dapat diselesaikan dengan menggunakan aturan 
+trigonometri, seperti yang ditunjukkan dalam Gambar 1.22.
+Gambar 1.22 Penguraian vektor dengan menggunakan aturan trigonometri
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+13
+ Bab 1 | Vektor
+Komponen vektor F dalam arah sumbu x adalah Fx yang besarnya 
+cos
+x
+F
+F
+θ
+=
+Komponen vektor F dalam arah sumbu y adalah Fy yang besarnya 
+sin
+y
+F
+F
+θ
+=
+θ = sudut yang dibentuk antara vektor F dan arah sumbu x positif
+Sehingga jawaban dari masalah di atas adalah 
+Perhatikan satu masalah lain lagi.
+Sebuah kapal penyelamat berada 15 km 
+timur dan 20 km utara dari suatu lokasi. 
+Berapa jarak dan arah kapal tersebut 
+ke lokasi? Masalah ini diselesaikan 
+dengan cara seperti yang ditunjukkan 
+oleh Gambar 1.23 Untuk besar vektor 
+gunakan dalil Phytagoras.  Untuk arah 
+vektor gunakan tangen. 
+Gambar 1.23 Penentuan panjang dan arah vektor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berteknologi!
+Tinjau tautan berikut ini untuk memperkuat pemahaman tentang 
+penguraian vektor. Tautan adalah https://ophysics.com/k3.html.
+Ayo, Cek Pemahaman!
+Apa kelebihan representasi vektor sebagai anak panah? Apa kelebihan 
+representasi vektor yang dinyatakan dalam komponen? 
+14
+Fisika untuk SMA/MA Kelas XI
+Perpindahan 1
+Perpindahan 2
+Perpindahan 3
+6 m Timur
+8 m Timur
+14 m Timur
+6 m Barat
+8 m Timur
+6 m Utara
+8 m Timur
+6 m Selatan
+8 m Barat
+6 m 45
+o dari timur ke 
+utara
+6 m 45
+o dari timur ke 
+utara
+C. Operasi Vektor  
+Operasi vektor terdiri atas penjumlahan dan pengurangan vektor serta perka-
+lian vektor.
+1. Penjumlahan dan Pengurangan Vektor dengan Metode Grais 
+Hasil penjumlahan atau pengurangan vektor disebut sebagai resultan vektor. 
+Lakukan Aktivitas 1.4 agar kalian dapat memahami resultan vektor.
+Aktivitas 1.4
+Jika berjalan sejauh 6 m kemudian 8 m berapa jauh posisi akhir dari 
+posisi awal? Jawabannya lebih dari satu. Gambarkan kedua vektor 
+perpindahan dan vektor perpindahan akhir. Lengkapi Tabel 1.1 
+berikut ini.   
+Tabel 1.1 Penjumlahan Vektor Perpindahan
+Penjumlahan dua vektor dalam Aktivitas 1.4 dilakukan dengan 
+menghubungkan ujung  vektor pertama dengan pangkal vektor kedua. 
+Resultan vektor diperoleh dengan menarik anak panah dari pangkal vektor 
+pertama ke ujung vektor kedua. 
+a. Menggambar penjumlahan vektor
+15
+ Bab 1 | Vektor
+Perhatikan kembali Gambar 1.5 tentang rute pada denah, yang 
+menunjukkan penjumlahan dua vektor dengan metode segitiga.
+Perhatikan Gambar 1.24 yang menunjukkan penjumlahan dua vektor 
+dengan menggunakan metode segitiga.
+Penjumlahan dua vektor dapat juga dilakukan dengan metode 
+jajargenjang, yaitu mempertemukan kedua pangkal vektor pada suatu titik 
+kemudian menarik anak panah dari titik ini ke perpotongan proyeksi masing-
+masing vektor. Perhatikan Gambar 1.26 yang menunjukkan cara mendapatkan 
+resultan vektor dengan metode jajargenjang.
+Gambar 1.24 Penjumlahan dua vektor dengan metode segitiga
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 1.26 Penjumlahan vektor dengan metode jajargenjang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berkolaborasi!
+Gambarkan resultan vektor dari A
+B
++
+
+ dan A
+B
+−
+
+ dengan metode 
+segitiga. Pengurangan A
+B
+−
+
+ dapat dituliskan sebagai 
+. 
+Gambar 1.25 Vektor A dan B 
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+16
+Fisika untuk SMA/MA Kelas XI
+Bagaimana mendapatkan resultan vektor jika lebih dari dua vektor 
+dijumlahkan? Metode yang digunakan adalah metode poligon dengan prinsip 
+yang sama seperti metode segitiga. Perhatikan Gambar 1.27.  
+Gambarkan resultan vektor dari u
+v
+−
+
+ (Gambar 1.26) dengan metode 
+jajargenjang. 
+Ayo, Berkolaborasi!
+Gambar 1.27 Penjumlahan tiga vektor dengan metode poligon
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Resultan Vektor Nol
+Berikut ini merupakan contoh penjumlahan vektor yang menghasilkan vektor 
+nol.
+Ayo, Berkolaborasi!
+Tentukan empat vektor sembarang. Jumlahkan keempat vektor 
+tersebut dengan menggunakan metode poligon. 
+Jumlahkan ketiga vektor berikut dengan metode poligon.
+Gambar 1.28. Tiga vektor dengan arah dan besar berbeda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cermati!
+17
+ Bab 1 | Vektor
+Penjumlahan keduanya menghasilkan vektor nol.     
+1. 
+Dua vektor senilai tetapi berlawanan arah.
+2. 
+ 
+Gambar 1.30 Penjumlahan tiga buah vektor yang menghasilkan vektor nol
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Penjumlahan vektor B
+
+, vektor D
+, dan vektor C
+
+ menghasilkan vektor nol. 
+Hasil penjumlahan vektor B
+
+ dan C
+
+ merupakan vektor negatif dari D
+
+.
+“Vektor nol adalah vektor yang pangkal dan ujung vektornya berhimpit. 
+Vektor nol mempunyai panjang nol dan arahnya tidak tentu.”
+2. Penjumlahan dan Pengurangan Vektor dengan 
+Metode Analitis 
+Berbeda dengan metode sebelumnya yang memerlukan penggaris dan busur 
+untuk menentukan resultan vektor maka metode analitis memerlukan 
+penguasaan trigonometri untuk menyelesaikannya.
+Lakukan Aktivitas 1.5 berikut ini untuk memahami hal tersebut. 
+Aktivitas 1.5
+Bapak berjalan 80 m ke timur kemudian 60 m ke utara (perpindahan 
+pertama) lalu berjalan 120 m ke timur dan 90 m ke utara (perpindahan 
+kedua). Gambarkan kedua perpindahan pada kertas berpetak. 
+Tentukan :
+Gambar 1.29 Penjumlahan dua vektor yang menghasilkan vektor nol
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+18
+Fisika untuk SMA/MA Kelas XI
+3. Penentuan Resultan Vektor dengan Menggunakan 
+Rumus Kosinus 
+ 
+Perhatikan kembali Gambar 1.26, besar resultan dari dua buah vektor F1 
+dan F2 yang membentuk sudut apit α dapat dihitung dengan persamaan 
+berikut. 
+Besar setiap komponen vektor pada sumbu x dan pada sumbu y 
+diberikan oleh 
+Fx= F cos α  dan Fy= F sin α
+Besar resultan vektor pada sumbu x dan sumbu y adalah: 
+FRx = ∑ Fx = F1x + F2x   
+FRy = ∑ Fy = F1y + F2y    
+Besar dan arah resultan vektor adalah:
+2
+2
+R
+Rx
+Ry
+F
+F
+F
+=
++
+ dan  tan
+y
+x
+F
+F
+α =
+Jika terdapat lebih dari dua vektor maka besar resultan vektor pada 
+sumbu x dan sumbu y adalah: 
+FRx = ∑ Fx = F1x + F2x + F3x+...  
+FRy = ∑ Fy = F1y + F2y + F3y+...   
+Gambar 1.31 Penjumlahan komponen vektor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Penyelesaian penjumlahan vektor secara analitis (dengan penjumlahan 
+komponen) ditunjukkan dalam gambar berikut ini.   
+a. komponen 
+horizontal 
+dan 
+komponen 
+vertikal 
+dari 
+perpindahan total.  
+b. besar dan arah perpindahan total.
+(1.3)
+(1.4)
+(1.5)
+19
+ Bab 1 | Vektor
+2
+2
+1
+2
+1
+2
+2
+cos
+R
+F
+F
+F
+F F
+α
+=
++
++
+Dengan : 
+FR   = besar resultan dari dua vektor,  
+F1   = besar vektor pertama,  
+F2   = besar vektor kedua dan 
+ α    = sudut apit antara kedua vektor
+(1.6)
+4. Penentuan Arah Resultan Vektor dengan Menggunakan 
+Rumus  Sinus  
+Jika dengan rumus kosinus diperoleh besar resultan penjumlahan dua vek-
+tor maka untuk menentukan arah dari vektor resultan terhadap salah satu 
+vektor komponennya dapat digunakan persamaan sinus. Perhatikan Gam-
+bar 1.32.
+Sudut antara vektor F1 dan F2 adalah α. Sudut  antara vektor resultan 
+(R) dengan vektor F2 adalah β, sedangkan sudut antara resultan (R) dan 
+vektor F1 adalah α - β. Secara matematis  persamaan ini dapat ditulis sebagai 
+berikut.
+2
+1
+1
+sin
+sin(
+)
+sin
+sin
+sin
+F
+F
+R
+F
+R
+α
+α
+β
+β
+β
+α
+=
+=
+−
+=
+Gambar 1.32 Penentuan arah vektor resultan dengan rumus sinus
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(1.7)
+Ayo, Berteknologi!
+Aktivitas 1.6
+Lakukanlah percobaan berikut ini secara berkelompok untuk 
+menentukan resultan dua vektor gaya sebidang dengan metode 
+jajargenjang dan penggunaan rumus kosinus.
+A. Persiapan Percobaan
+1. 
+Siapkan beban, busur derajat, benang kasur, neraca pegas, 
+pengait, statif, dan kertas berpetak. Susun rangkaian percobaan 
+seperti pada Gambar 1.33.
+20
+Fisika untuk SMA/MA Kelas XI
+Gambar 1.33 Rangkaian percobaan penjumlahan vektor.
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+2. Siapkan busur derajat yang dilapisi kertas untuk mengukur 
+sudut yang terbentuk diantara dua neraca pegas.
+3. Ukur berat beban dengan neraca pegas, dan catat hasilnya 
+pada tabel pengamatan.
+4. Ikatlah beban dengan benang kasur dan buatlah simpul agar 
+dapat diikatkan pada dua neraca pegas yang tergantung pada 
+masing-masing statif. 
+5. Gantungkan beban pada neraca pegas seperti pada Gambar 
+1.33. 
+6. Geser dasar statif agar kedua neraca pegas membentuk sudut 
+apit 60
+o dengan menggunakan busur derajat. Catat besar 
+sudut apit pada tabel pengamatan. 
+7. Baca gaya F1 dan F2 pada masing-masing neraca pegas dan 
+catat pada tabel pengamatan. 
+8. Gambarkan kedua vektor gaya F1 dan F2 (panjang garis 
+sebanding dengan besar masing-masing gaya) dengan sudut 
+apit 60
+o pada kertas yang sudah disiapkan. Tentukan resultan 
+gaya dengan menggunakan metode jajargenjang. Ukur panjang 
+resultan gaya dan tentukan besarnya yang bersesuaian 
+dengan panjangnya.  Isikan pada tabel pengamatan. 
+9. Tentukan nilai resultan gaya dengan menggunakan  rumus 
+cosinus dan isikan dalam tabel pengamatan
+10. Ulangi langkah 4 sampai dengan 9 untuk sudut apit 90
+o dan 
+120
+o.
+Aktivitas 1.6
+21
+ Bab 1 | Vektor
+1. Apakah hasil yang sama diperoleh baik dengan cara metode 
+jajargenjang maupun dengan menggunakan rumus cosinus? 
+Jika berbeda, menurut kalian, cara mana yang memberikan 
+hasil lebih akurat?  
+2. Bagaimana hubungan antara berat beban dengan resultan 
+gaya? 
+3. Bagaimana pengaruh bertambahnya sudut apit antara 
+dua pegas terhadap resultan vektor gaya yang terbentuk? 
+Mengapa demikian?  
+4. Diskusikan hasil percobaan dan ambillah kesimpulan dari 
+percobaan yang telah dilakukan.
+B. Pertanyaan dan Tugas:
+Tabel 1.2 Penjumlahan Vektor Gaya dengan Sudut Apit yang Berubah
+2.
+1.
+3.
+NO
+F1 (N)
+F2 (N)
+Berat
+Beban
+(N)
+Resultan
+Gaya
+dengan
+Metode 
+Jajargenjang
+(N)
+Resultan 
+Gaya 
+dengan 
+Rumus 
+Cosinus 
+(N) 
+α (  )
+o
+Ayo, Berteknologi!
+Aktivitas 1.7
+Rancanglah suatu percobaan untuk menentukan penjumlahan vektor 
+gaya dengan mengubah nilai beban, dimulai dari satu beban hingga 
+tiga beban. Setiap beban bermassa sama. Perhatikan, bahwa sudut 
+apit dibuat tetap yaitu sebesar 90
+o. Buatlah tabel pengamatan.
+1. 
+Berdasarkan percobaan, bagaimana pengaruh jumlah beban yang 
+bertambah dengan sudut apit tetap terhadap resultan vektor gaya 
+yang terbentuk?
+2. 
+Diskusikan hasil percobaan dalam kelompok dan ambillah 
+kesimpulan dari percobaan yang telah dilakukan.
+A. Pertanyaan dan Tugas:
+4.
+22
+Fisika untuk SMA/MA Kelas XI
+5. Perkalian Vektor 
+Kalian akan membedakan dua jenis perkalian vektor dalam Aktivitas 1.8, yaitu 
+perkalian titik (dot product) dan perkalian silang (cross product). 
+Aktivitas 1.8
+Sediakan pensil untuk melakukan aktivitas ini.
+1. 
+Geserlah pensil dengan mendorong pusat massa pensil ke depan.
+2. 
+Doronglah ujung kanan atau kiri pensil dengan jarimu, dapat ke 
+depan atau belakang. Amati apa yang terjadi dengan pensil.
+3. 
+Tempatkan jari beberapa cm sebelum ujung pensil dan doronglah 
+pensil. Amati apa yang terjadi dengan pensil.  Bandingkan dengan 
+langkah 2.
+Ketika kalian mendorong pensil pada pusat massa maka kalian sedang 
+memberikan usaha pada pensil. Makin besar gaya yang diberikan dan 
+perpindahan yang dialami oleh pensil maka makin besar usaha yang diterima 
+oleh pensil. Usaha merupakan perkalian gaya dan perpindahan.
+Mendorong ujung pensil menyebabkan pensil berputar. Arah putaran 
+bergantung pada arah dorongan. Penempatan jari pada pensil memengaruhi 
+putaran. Makin jauh dari sumbu putar makin mudah putarannya.  Torsi atau 
+momen gaya bekerja pada pensil sehingga pensil yang diam menjadi berputar. 
+Apakah perbedaan antara usaha dan momen gaya? Perhatikan Gambar 
+1.34 berikut ini.
+Gambar 1.34 Usaha pada lemari dan momen gaya pada pintu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+23
+ Bab 1 | Vektor
+Usaha melibatkan gaya dan perpindahan, sedangkan momen gaya 
+melibatkan gaya dan lengan gaya. Usaha dan torsi  mempunyai dimensi yang 
+sama. Usaha memerlukan gaya dan perpindahan yang sejajar sedangkan 
+momen gaya memerlukan gaya yang tegak lurus terhadap perpindahan.
+Usaha melibatkan perkalian dua vektor yang menghasilkan skalar, disebut 
+sebagai dot product. Bandingkan dengan momen gaya yang melibatkan 
+perkalian dua vektor yang menghasilkan vektor, disebut sebagai cross product. 
+Momen gaya adalah vektor karena arahnya dapat searah jarum jam atau 
+berlawanan dengan arah jarum jam.        
+Usaha, 
+cos
+W
+F
+r
+Fr
+θ
+=
+•
+=
+
+
+Momen gaya, 
+ˆ
+sin
+r
+F
+Fr
+τ
+θ τ
+=
+×
+=
+
+
+
+Momen gaya akan dibahas lebih mendalam pada Bab 3.
+Ayo, Berpikir Kritis!
+Apakah perkalian skalar dari dua vektor dapat menghasilkan nilai 
+negatif?
+(1.8)
+(1.9)
+Ayo, Cek Pemahaman!
+Empat gaya bekerja pada suatu pesawat sebagaimana yang 
+ditunjukkan dalam diagram vektor di bawah ini.  Gambarkan vektor 
+resultan gaya dan tentukan arah dan besarnya.
+Gambar 1.35 Empat gaya pada pesawat terbang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+24
+Fisika untuk SMA/MA Kelas XI
+Releksi
+1. 
+Bagaimanakah kalian dapat mengaplikasikan konsep vektor 
+dalam kehidupan sehari-hari?
+2. 
+Bagaimanakah kalian bisa membedakan operasi vektor dan 
+operasi skalar?
+Asesmen
+1. Besaran-besaran mana yang merupakan vektor? Jelaskan.
+a. Percepatan merupakan perubahan kecepatan terhadap waktu.
+b. Tekanan merupakan perbandingan gaya terhadap luas suatu luas 
+permukaan.
+2. Peta berikut ini menunjukkan pergerakan lempeng tektonik. Pada kerak 
+bumi terdapat lempeng-lempeng tektonik. Pergerakan lempeng tektonik 
+menyebabkan dua lempeng dapat bertemu dan bertumbukan. Gempa 
+bumi terjadi karena tumbukan kedua lempeng. Kedua lempeng dapat 
+bergerak saling berjauhan, saling mendekati atau bergerak bersisian.
+a. Mengapa informasi arah gerak lempeng sangat diperlukan?
+Intisari
+Vektor merupakan suatu besaran yang dilambangkan dengan anak 
+panah. Vektor yang sama mempunyai arah dan besar yang sama.
+Vektor negatif mempunyai besar yang sama dan arah berlawanan 
+dengan suatu vektor. Vektor dapat dikalikan dengan suatu skalar 
+untuk mengubah besar dan arah vektor tersebut. sehingga dapat 
+searah atau berlawanan arah.
+Ada dua cara untuk merepresentasikan vektor, sebagai anak 
+panah dan dengan menggunakan komponen-komponen. Operasi 
+vektor terdiri atas penjumlahan, pengurangan dan perkalian vektor.
+25
+ Bab 1 | Vektor
+b. Cari informasi dan tuliskan cara para ahli menentukan besar dan arah 
+kecepatan lempeng.
+c. Apakah kalian menemukan vektor-vektor yang sama?
+d. Apakah kalian menemukan pasangan vektor yang merupakan vektor 
+dan negatifnya?  
+e. Apakah kalian menemukan vektor dengan arah yang sama tetapi 
+besar berbeda?
+3. Struktur suatu jembatan rangka baja diberikan oleh gambar berikut. 
+Struktur ini dinamakan Warren truss karena ditemukan oleh James 
+Warren (1806 - 1908) yang berasal dari Inggris.
+Gambarkan vektor resultan gaya dari
+a. FDO dan FDA. 
+b. FAD dan FAC. 
+Sumber data : NASA Goddard Space Flight Center Scientiic Visualization Studio
+26
+Fisika untuk SMA/MA Kelas XI
+5. Pesawat terbang dengan kecepatan 200 m/s dan arah 30
+o terhadap timur. 
+Angin bertiup dengan kecepatan 20 m/s dan arah 60
+o terhadap timur. 
+Tentukan resultan kecepatan dengan
+a. metode segitiga
+b. metode analitis
+c. menggunakan rumus kosinus
+4. Seorang pendaki melakukan perjalanan dan berjalan sejauh 25 km ke arah 
+tenggara dari arah basecamp, setelah sampai berjalan sejauh 25 km sang 
+pendaki istirahat dan membuat tenda, hari kedua dia berjalan sejauh 40 
+km dengan arah 60
+o dari arah tendanya menuju tempat tujuan, tentukan 
+perpindahan perjalanan pendaki selama dua hari dari basecamp sampai 
+ke tujuan!

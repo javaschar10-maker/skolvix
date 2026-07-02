@@ -1,0 +1,1158 @@
+45
+Bab 1 | Komposisi Fungsi dan Fungsi Invers
+Bab
+2
+Lingkaran
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian 
+dapat
+1. 
+Menerapkan 
+teorema 
+lingkaran 
+dalam 
+menyelesaikan permasalahan yang terkait
+2. 
+Membuktikan teorema yang berhubungan 
+dengan lingkaran
+3. 
+Menemukan sifat-sifat garis singgung pada 
+lingkaran
+4. 
+Menemukan sifat-sifat segiempat tali busur
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2021
+Matematika untuk SMA/SMK Kelas XI
+Penulis: Dicky Susanto, dkk.
+ISBN: 978-602-244-789-5 (jil.2)
+Matematika untuk SMA/SMK Kelas XI
+46
+ 
+Gambar 2.1 Sepeda dengan Berbagai Bentuk Roda
+Ayo Berpikir Kritis
+Roda sepeda umumnya berbentuk lingkaran. Pernahkah kalian bertanya 
+kenapa? Apa yang terjadi jika roda sepeda tidak berbentuk lingkaran?
+Gambar 2.2 Penutup Lubang Selokan
+47
+Bab 2 | Lingkaran
+Ayo Berpikir Kritis
+Lubang untuk memeriksa selokan (lihat Gambar 2.2) umumnya berbentuk 
+lingkaran. Bagaimana kaitan bentuk lingkaran dengan keselamatan pekerja yang 
+sedang berada di dalam? Apa yang terjadi jika tutup lubang bentuknya bangun 
+datar yang berbeda? Bagaimana jika tutupnya berbentuk persegi? Bagaimana 
+jika persegi panjang?
+Tahukah Kamu?
+?
+• 
+Pythagoras adalah matematikawan yang hidup pada abad keenam Sebelum 
+Masehi. Para pengikutnya membentuk sebuah sekte tertutup yang disebut 
+Pythagoreans. Pengikut sekte ini menganggap lingkaran sebagai bangun 
+yang sempurna.
+• 
+Archimedes adalah matematikawan Yunani kuno yang hidup pada abad 
+ketiga Sebelum Masehi. Menurut legenda, Archimedes sedang berkonsentrasi 
+penuh mempelajari lingkaran (yang digambarkan pada pasir di hadapannya) 
+saat kota tempat tinggalnya dikalahkan dalam perang. Pasukan lawan (yang 
+ditugaskan membawa Archimedes pada pemimpin mereka) menanyakan 
+identitasnya. Archimedes (yang konsentrasinya terganggu oleh kehadiran 
+mereka) menjawab dengan gusar, “Jangan ganggu lingkaran saya!” Kalimat 
+tersebut disebut sebagai kata-kata terakhir Archimedes.
+Pada bab ini kalian akan mempelajari tentang lingkaran dan teorema-teorema 
+yang berhubungan dengan lingkaran. Kalian juga akan menerapkan teorema-teorema 
+itu untuk menyelesaikan masalah yang terkait dengan lingkaran.
+Pertanyaan pemantik
+• 
+Mengapa roda sepeda berbentuk lingkaran?
+• 
+Apa saja sifat-sifat lingkaran?
+• 
+Apakah semua lingkaran sebangun?
+• 
+Bangun datar yang seperti apa yang semua titik sudutnya terletak pada lingkaran?
+Matematika untuk SMA/SMK Kelas XI
+48
+Kata Kunci
+Lingkaran, jari-jari, diameter, sudut pusat, sudut keliling, busur lingkaran, garis 
+singgung, tali busur, segiempat tali busur, teorema Thales, teorema Ptolemeus
+Peta Konsep
+Ayo Mengingat Kembali
+Gambarkan sebuah titik pada kertas, beri nama titik O. Ambil penggaris dan tandai 
+sebuah titik yang berjarak 2 cm dari titik O (beri nama titik A). Tandai titik lain yang 
+berjarak 2 cm dari titik O. Gambarkan 10 titik lain yang berjarak 2 cm dari titik O.
+1. 
+Jika semua (termasuk titik-titik lain yang belum kalian gambarkan) titik yang 
+berjarak 2 cm dari titik O dihubungkan, bangun datar apa yang kalian dapatkan?
+2. 
+Titik O disebut apa untuk bangun datar tersebut?
+3. 
+Jarak 2 cm itu disebut apa bagi bangun datar tersebut?
+Lingkaran
+Garis Singgung
+Lingkaran dan
+Busur Lingkaran
+Lingkaran dan
+Garis Singgung
+Lingkaran dan
+Tali Busur
+Eksplorasi dan Pembuktian Beberapa Teorema 
+Terkait Sudut Keliling dan Sudut Pusat
+Eksplorasi dan Pembuktian Beberapa
+Teorema Terkait Garis Singgung
+Eksplorasi dan Pembuktian Beberapa Teorema 
+Terkait Tali Busur dan Segiempat Tali Busur
+Tali Busur
+Segiempat Tali Busur
+Sudut Pusat
+Sudut Keliling
+49
+Bab 2 | Lingkaran
+Lingkaran adalah tempat kedudukan titik-titik yang jaraknya sama dari suatu 
+titik tertentu (disebut pusat lingkaran). Jarak yang sama itu disebut jari-jari.
+Ruas garis yang menghubungkan pusat lingkaran dengan salah satu titik pada 
+lingkaran juga disebut jari-jari.
+Daerah yang dibatasi oleh lingkaran disebut daerah lingkaran.
+A. Lingkaran dan Busur Lingkaran
+Pada masa sebelum adanya GPS (Global 
+Positioning System), mercusuar dibangun 
+untuk 
+menolong 
+kapal 
+bernavigasi 
+sehingga tidak menabrak karang. Daerah 
+yang diterangi oleh lampu mercusuar 
+berbentuk 
+daerah 
+lingkaran. 
+Kapal 
+bernavigasi 
+dengan 
+memanfaatkan 
+perhitungan sudut yang akurat sehingga 
+dapat berlayar dengan aman.
+Gambar 2.3 Mercusuar
+Matematika untuk SMA/SMK Kelas XI
+50
+Bagian dari lingkaran disebut busur lingkaran. Busur yang lebih kecil 
+disebut busur minor (pada gambar berwarna biru) dan bagian yang lebih 
+besar disebut busur mayor (berwarna merah). 
+ 
+ 
+ 
+ 
+Jika hanya disebutkan kata busur, maka yang dimaksud adalah busur minor.
+Busur BC dituliskan 
+ 
+BC . Besarnya 
+ 
+BC ditentukan oleh besarnya ∠BAC = α
+(Titik A adalah pusat lingkaran).
+Dalam matematika, 
+• 
+Sudut α disebut sudut pusat yang menghadap pada 
+ 
+BC .  
+ 
+Sudut pusat adalah sudut yang titik sudutnya terletak pada pusat lingkaran dan 
+kaki-kaki sudutnya adalah jari-jari lingkaran.
+• 
+Sudut θ disebut sudut keliling yang menghadap pada 
+ 
+BC .   
+Sudut keliling adalah sudut yang titik sudutnya terletak pada lingkaran dan 
+kaki-kaki sudutnya berupa tali busur.  
+ 
+ 
+ 
+Apakah kalian ingat apa yang dimaksud tali busur? Tali busur adalah ruas garis 
+yang menghubungkan dua titik pada lingkaran.
+A
+α
+B
+C
+M
+θ
+α
+C
+B
+51
+Bab 2 | Lingkaran
+Eksplorasi
+2.1
+Ayo Bereksplorasi
+Sebuah kolam berbentuk lingkaran. Pada salah satu bagian kolam ada perosotan. 
+Pengelola ingin meletakkan lampu sehingga daerah perosotan selalu terang. Jika 
+daerah yang ingin diterangi ditampilkan sebagai busur lingkaran berwarna biru. 
+Busur lingkaran tersebut besarnya α.
+Setiap lampu yang diproduksi oleh pabrik Q dapat menyinari daerah dengan 
+jarak tertentu dan sudut penyinaran tertentu (β).
+α
+β
+Matematika untuk SMA/SMK Kelas XI
+52
+Jika semua lampu yang ada dalam gudang pengelola kolam dapat menyinari jarak 
+yang dibutuhkan, bantulah pengelola taman memilih sudut penyinaran yang tepat.
+1. 
+Lampu taman dengan sudut penyinaran 30◦ diletakkan pada titik M dan dapat 
+menerangi perosotan pada 
+ 
+BC Di mana saja pengelola dapat memasang lampu 
+yang sama dan tetap menyinari perosotan pada 
+ 
+BC ?
+2. 
+Jika lampu diletakkan di pusat kolam dan ingin menyorot 
+ 
+BC , apakah lampu 
+dengan sudut penyinaran 30◦ dapat digunakan? Jika tidak, berapa sudut yang 
+dibutuhkan?
+3. 
+Jika ukuran perosotan berubah (
+ 
+BC ) bagaimana pengaruhnya terhadap 
+perubahan sudut penyinaran yang dibutuhkan?
+α
+θ
+M
+θ
+C
+B
+M
+θ
+α
+C
+B
+M
+θ
+α
+C
+B
+53
+Bab 2 | Lingkaran
+Kalian dapat melakukan Eksplorasi 2.1 dengan cara:
+Ayo Berteknologi
+Jika tersedia, disarankan menggunakan aplikasi semacam GeoGebra atau Desmos.  
+https://www.geogebra.org/m/cjdyK8UR#material/UT4sXfYW dan 
+  
+https://www.geogebra.org/m/cjdyK8UR#material/VGNfTTEu
+ 
+ 
+Ayo Bekerja Sama
+Kalian dapat mengerjakannya secara berkelompok. Setiap siswa menyelidiki 
+gambar yang berbeda. Setelah itu diskusikan hasilnya.
+A
+α
+B
+C
+A
+α
+B
+C
+A
+α
+B
+C
+α
+B
+C
+A
+α
+B
+C
+A
+Matematika untuk SMA/SMK Kelas XI
+54
+C
+α
+B
+A
+M
+α
+C
+B
+A
+M
+Temuan:
+• 
+Sudut pusat besarnya __________________ kali sudut keliling yang menghadap 
+ke busur lingkaran yang sama.
+• 
+Sudut keliling yang menghadap ke busur yang sama besarnya _____________.
+• 
+Sudut keliling yang menghadap ke diameter besarnya __________________.
+Pembuktian
+Rani dan Nyoman juga ingin membuktikan hasil pengamatan mereka tentang 
+hubungan sudut pusat dan sudut keliling pada lingkaran.
+Nyoman mengusulkan bahwa ada empat kemungkinan.
+C
+α
+β
+A
+B
+O
+Kasus 1
+A
+B
+C
+α
+β
+O
+Kasus 2
+55
+Bab 2 | Lingkaran
+B
+C
+A
+α
+β
+O
+Kasus 3
+C
+A
+B
+P
+Kasus 4
+• 
+Kasus 1
+Pertama-tama perhatikan kasus khusus saat AC melalui titik O.
+Ingat bahwa AC artinya ruas garis AC.
+Bukti: 
+panjang OA = panjang OB
+(jari-jari lingkaran) maka __________ 
+sama kaki.
+∠OAB = ∠ __________
+(karena 4AOB sama kaki)
+∠AOB = ____________ …..(1)
+(jumlah sudut dalam 4AOB adalah 
+180◦)
+∠AOB = ____________ …..(2)
+(∠AOB adalah pelurus ∠BOC)
+β = __________
+Gabungkan (1) dan (2) untuk 
+membuktikan.
+A
+B
+C
+O
+β
+α
+Matematika untuk SMA/SMK Kelas XI
+56
+• 
+Kasus 2 
+ 
+Sekarang perhatikan kasus yang lebih umum, saat AC tidak melalui pusat 
+lingkaran.
+Tarik AD melalui titik O, membelah α menjadi α = α1 + α2
+Dengan cara yang sama dengan  
+Kasus 1
+β1 = 2α1
+…… (1)
+Dengan cara serupa
+β2 = 2α2
+…… (2)
+Gunakan (1) dan (2)
+β = β1 + β2
+= . . . . . .
+• 
+Kasus 3  
+ 
+akan kalian lakukan pada Latihan 2.1 no. 1.
+• 
+Kasus 4 
+ 
+Kasus 4 adalah kasus khusus untuk sudut keliling yang menghadap pada diameter 
+lingkaran (∠ACB).
+Bukti:
+1. 
+Gambarkan jari-jari PC. Segitiga jenis apakah 4APC dan 4BPC? 
+Bagaimana kalian tahu?
+2. 
+Nyatakan besarnya sudut-sudut yang sama pada 4APC sebagai x◦ dan 
+besarnya sudut-sudut yang sama pada 4BPC sebagai y◦, tuliskan sudut-
+sudut pada 4ABC dalam x◦ dan y◦.
+a. 
+∠A = . . .
+b. ∠B = . . .
+c. 
+∠C = . . .
+β2
+B
+A
+C
+D
+O
+α1
+α2
+β1
+P
+C
+A
+B
+57
+Bab 2 | Lingkaran
+3. 
+Apa yang kalian ketahui tentang sudut-sudut pada segitiga yang dapat 
+digunakan untuk menentukan besarnya ∠ACB? 
+ 
+ 
+∠ACB = . . .
+Tahukah Kamu?
+?
+Kasus 4 dikenal dengan nama Teorema Thales.
+Thales adalah orang Yunani yang menjadi matematikawan, 
+ahli astronomi, dan filsuf. Dalam Matematika, Thales 
+adalah orang pertama yang menerapkan argumentasi 
+deduktif dalam geometri. Dia adalah orang pertama yang 
+namanya disematkan pada teorema.
+Teorema Thales:  
+ 
+Jika tiga titik A, B, C terletak pada lingkaran dan AB 
+adalah diameter, maka ∠ACB siku-siku.
+Latihan
+2.1
+1. 
+Ini adalah Kasus 3 dari bukti Eksplorasi 2.1.
+a. Gambarkan sudut pusat yang menghadap ke 
+busur yang sama dengan sudut keliling ∠BAC.
+b. Apakah pada lingkaran berikut juga berlaku 
+bahwa sudut pusat besarnya dua kali lipat sudut 
+keliling? Buktikan.
+Petunjuk
+i
+Buatlah diameter yang melalui titik A dan titik O.  
+ 
+ 
+sumber: en.wikipedia.org/Wilhelm 
+Meyer (2021)
+C
+O
+A
+α
+B
+Matematika untuk SMA/SMK Kelas XI
+58
+2. 
+Jika ∠BOC = 90◦, berapakah besar ∠BEC ?
+3. 
+Lingkaran A berjari-jari 2 satuan. Jika panjang BC = 2, tentukan besar ∠BDC
+4. 
+AB adalah diameter pada lingkaran berikut. Jari-jari lingkaran 8,5 cm dan 
+panjang AC= 8 cm. Tentukan:
+a. 
+besar ∠ACB
+b. 
+panjang AB
+c. 
+panjang BC
+B
+O
+C
+E
+A
+B
+C
+D
+A
+B
+C
+59
+Bab 2 | Lingkaran
+5. 
+Apa yang salah pada gambar berikut?
+ 
+6. 
+Lingkaran A berjari-jari 2 cm. Tentukan:
+a. 
+besar ∠BDC
+b. 
+jika ∠CAD = 90◦, tentukan besar ∠ACD.
+c. 
+panjang CD
+7. 
+Ayo Berpikir Kreatif
+ 
+Jelaskan cara memanfaatkan alat gambar teknik berbentuk T ini 
+untuk menentukan letak titik pusat piring. 
+8. 
+Ayo Berpikir Kritis
+ 
+Pada gambar berikut, titik P dan titik Q adalah mercusuar. Daerah dengan 
+karang berbahaya telah dipetakan dan lingkaran menyatakan daerah berbahaya 
+tersebut. Kapal diharapkan tidak memasuki daerah lingkaran untuk menghindari 
+kemungkinan kandas. 
+C
+O
+A
+B
+C
+A
+B
+D
+Matematika untuk SMA/SMK Kelas XI
+60
+C
+B
+Q
+P
+Pelajari sudut yang dibentuk antara cahaya dari 
+kedua mercusuar (∠PCQ) jika kapal berada di 
+luar 
+lingkaran/pada 
+lingkaran/di 
+dalam 
+lingkaran. Menurutmu, informasi apa yang perlu 
+diketahui kapten kapal tentang lokasi ini untuk 
+memastikan kapalnya tidak kandas?
+Rangkuman
+Sifat-sifat sudut pada lingkaran:
+1. 
+Sudut keliling yang menghadap pada busur yang sama, besarnya sama.
+2. 
+Sudut pusat besarnya dua kali sudut keliling yang menghadap pada busur yang 
+sama.
+3. 
+Sudut keliling yang menghadap pada diameter lingkaran, adalah sudut siku-siku.
+A
+B
+C
+D
+θ
+2θ
+B
+C
+M
+B
+P
+A
+C
+61
+Bab 2 | Lingkaran
+Ayo Berefleksi
+1. 
+Apakah saya memahami hubungan sudut keliling dan busur lingkaran?
+2. 
+Apakah saya memahami hubungan sudut keliling dan sudut pusat?
+3. 
+Apakah saya bisa mengerjakan soal-soal yang terkait dengan sudut keliling 
+dan sudut pusat lingkaran?
+B. Lingkaran dan Garis Singgung
+Roda kereta api menyentuh rel kereta di 
+satu titik. Secara matematis dikatakan 
+bahwa rel adalah garis singgung roda 
+dan titik sentuhnya disebut sebagai titik 
+singgung.
+Eksplorasi
+2.2
+Ayo Bereksplorasi
+Dalam tugasnya, seorang navigator pada kapal laut perlu menghitung jarak pelabuhan 
+yang berada pada cakrawala.
+Gambar 2.5 Cakrawala
+Gambar 2.4 Roda Kereta Api
+Matematika untuk SMA/SMK Kelas XI
+62
+Titik biru mewakili posisi navigator pada kapal, titik oranye adalah pelabuhan 
+yang tampak di cakrawala. Garis merah adalah jarak navigator ke permukaan air. 
+Garis biru mewakili pandangan navigator ke pelabuhan, secara matematis merupakan 
+garis singgung. Mari bereksplorasi menyelidiki sifat-sifat garis singgung.
+1. 
+Pelabuhan pertama kali terlihat sebagai sebuah titik di kejauhan. Garis singgung 
+menyentuh lingkaran pada tepat satu titik (disebut titik singgung). Gunakan 
+busur derajat untuk mengukur besar sudut yang dibentuk oleh garis singgung 
+dan jari-jari lingkaran (pada titik singgung). 
+Sudut yang dibentuk oleh garis singgung dan jari-jari lingkaran pada titik 
+singgung B besarnya ______________ .
+Bagaimana dengan garis singgung yang menyinggung di titik berbeda? Jika ada 
+titik singgung lain, berapa besar sudut antara garis singgung dan jari-jari di titik 
+singgung itu?
+Kalian dapat menjawab pertanyaan ini dengan cara:
+Ayo Berteknologi
+Jika tersedia, disarankan menggunakan aplikasi 
+semacam GeoGebra atau Desmos.  
+https://www.geogebra.org/m/cjdyK8UR#material/
+u6Ev7bHg  
+A
+B
+63
+Bab 2 | Lingkaran
+Ayo Bekerja Sama
+Kalian dapat mengerjakannya secara berkelompok. Setiap peserta didik 
+menyelidiki gambar yang berbeda. Setelah itu diskusikan hasilnya.
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+Pada setiap titik singgung, sudut yang dibentuk oleh garis singgung dan jari-jari 
+lingkaran di titik singgung itu besarnya ________________.
+2. 
+Pada sebuah titik pada lingkaran, gambarkan garis yang tidak membentuk sudut 
+siku-siku dengan jari-jari lingkaran.
+a. 
+Garis tersebut memotong lingkaran di berapa titik?
+b. 
+Apakah garis tersebut merupakan garis singgung?
+Garis sekan adalah garis yang memotong lingkaran pada dua titik.
+Matematika untuk SMA/SMK Kelas XI
+64
+3. 
+Rani dan Nyoman mempelajari lebih lanjut tentang garis singgung lingkaran. 
+Mereka menggambar garis singgung dari titik P ke lingkaran A.
+Rani ingat teorema Thales, sehingga ia menduga ada sebuah lingkaran yang dapat 
+digambarkan yang melalui titik A, B, dan P .
+Tariklah ruas garis dari titik P ke setiap titik potong kedua lingkaran. Tentukan: 
+a. 
+Garis PB merupakan garis singgung/garis sekan (pilih salah satu).
+b. 
+Garis PC merupakan garis singgung/garis sekan (pilih salah satu).
+4. 
+Tentukan besar sudutnya.
+a. ∠ABP = ______________
+b. ∠ACP = ______________
+c. 
+Jelaskan alasannya.
+5. 
+Tunjukkan bahwa 4ABP kongruen dengan 4ACP .
+Akibatnya:
+a. 
+Panjang PB ___________ panjang PC.
+b. ∠APB dan ∠APC besarnya __________
+Dari sebuah titik di luar lingkaran dapat dibuat sebanyak _______ buah garis 
+singgung yang panjangnya _____________.
+Yang dimaksud panjang garis singgung adalah panjang ruas garis PB atau ruas 
+garis PC.
+B
+P
+A
+B
+C
+P
+A
+65
+Bab 2 | Lingkaran
+6. 
+Jika navigator tersebut mengetahui jari-jari bumi, dan ketinggiannya dari 
+permukaan air (berdasarkan ukuran kapal), bagaimana cara dia menentukan 
+jarak kapal dengan pelabuhan yang tampak di cakrawala?
+Latihan
+2.2
+1. 
+Jika jari-jari lingkaran A adalah 7 cm dan titik P berjarak 25 cm dari titik A, 
+berapakah panjang garis singgung PB ?
+2. 
+Pada gambar berikut, BD dan CD adalah garis singgung lingkaran A. Jika 
+∠BAC = 147◦, tentukan besar ∠BDC.
+3. 
+Ayo Berpikir Kreatif
+ 
+Bram, seorang navigator kapal laut, tahu bahwa 
+jari-jari lingkaran bumi panjangnya 6.371 km. 
+Ruang kemudi kapal berada pada ketinggian 
+40 m dari permukaan laut. Tentukan jarak 
+cakrawala yang dapat Bram lihat.
+P
+B
+A
+D
+A
+B
+C
+Matematika untuk SMA/SMK Kelas XI
+66
+4. 
+Ayo Berpikir Kritis
+ 
+Satelit komunikasi mengorbit bumi pada posisi yang tetap terhadap bumi (artinya 
+jika dilihat dari bumi, satelit tersebut akan berada pada ketinggian dan bujur 
+yang sama, meskipun bumi berputar dan mengelilingi matahari). Satelit Telkom-4 
+(Merah Putih) mengorbit bumi pada garis bujur 108◦ BT. Jika jari-jari bumi 
+adalah 6.371 km dan satelit Telkom-4 terletak pada ketinggian 35.786 km dari 
+permukaan bumi, apakah Satelit Telkom-4 dapat memancarkan sinyal ke seluruh 
+wilayah Indonesia?
+5. 
+Garis singgung persekutuan luar   
+Garis singgung persekutuan adalah garis singgung yang merupakan garis 
+singgung bagi dua lingkaran. CD merupakan garis singgung persekutuan luar 
+untuk lingkaran A dan lingkaran B.
+a. 
+Lingkaran A dan lingkaran B memiliki dua buah garis singgung persekutuan 
+luar. Gambarkan garis singgung persekutuan luar yang lain.
+b. 
+Tentukan panjang garis singgung persekutuan luar CD (s) jika jarak kedua 
+pusat lingkaran (d) dan jari-jari masing-masing lingkaran diketahui (r dan 
+R). 
+ 
+Petunjuk
+i
+Gambarkan garis bantu sehingga kalian dapat memanfaatkan Teorema 
+Pythagoras.  
+A
+C
+D
+B
+R
+s
+d
+r
+67
+Bab 2 | Lingkaran
+6. 
+Rantai sepeda berfungsi untuk memindahkan daya penggerak dari pedal ke roda.
+a. 
+Tunjukkan garis singgung persekutuan luar pada gambar rantai sepeda 
+tersebut.
+b. 
+Tentukan panjang garis singgung persekutuan luarnya jika jari-jari lingkaran 
+yang lebih besar = 5 cm, jari-jari lingkaran yang lebih kecil = 3 cm, dan jarak 
+antar kedua pusat lingkaran = 44 cm.
+7. 
+Garis singgung persekutuan dalam 
+Selain garis singgung persekutuan luar, ada juga garis singgung persekutuan 
+dalam. EF merupakan garis singgung persekutuan dalam untuk lingkaran A 
+dan lingkaran B.
+a. 
+Lingkaran A dan lingkaran B memiliki dua buah garis singgung persekutuan 
+dalam. Gambarkan garis singgung persekutuan dalam yang lain.
+b. 
+Tentukan panjang garis singgung persekutuan dalam EF (g ) jika jarak 
+kedua pusat lingkaran (d ) dan jari-jari masing-masing lingkaran diketahui 
+(r dan R ). 
+ 
+Petunjuk
+i
+Gambarkan garis bantu sehingga kalian dapat memanfaatkan Teorema 
+Pythagoras.  
+A
+E
+r
+d
+g
+R
+F
+B
+Matematika untuk SMA/SMK Kelas XI
+68
+8. 
+Dua buah lingkaran, pusatnya berjarak 5 cm. Jika kedua lingkaran tersebut 
+masing-masing berjari-jari 1 cm dan 2 cm,
+a. 
+Gambarkan kedua lingkaran dengan ukuran sebenarnya, juga semua garis 
+singgung persekutuan kedua lingkaran.
+b. 
+Tentukan panjang masing-masing garis singgung persekutuan.
+c. 
+Manakah yang lebih panjang: garis singgung persekutuan dalam atau garis 
+singgung persekutuan luar?
+9. 
+AB, BC, dan AC adalah garis-garis singgung pada lingkaran D.
+a. 
+Lingkaran D adalah lingkaran ______________ 4ABC.
+b. 
+Buktikan: AB + PC = AC + PB
+10. 
+Ayo Berpikir Kritis
+ 
+KL, LM, MN , dan NK adalah garis-garis singgung pada lingkaran O. 
+Segiempat KLMN disebut segiempat garis singgung.
+Buktikan: LK + MN = LM + NK
+Latihan 2.2 nomor 9 dan 10 disebut Teorema Pitot.
+P
+D
+B
+C
+A
+M
+N
+L
+K
+O
+69
+Bab 2 | Lingkaran
+Tahukah Kamu?
+?
+Garis singgung dapat digunakan untuk menentukan bagian bumi yang akan 
+mengalami gerhana matahari. 
+Gambar 2.6 Gerhana Matahari
+Sumber: sciencedirect.com (2020)
+Rangkuman
+1. 
+Garis singgung berpotongan dengan lingkaran di satu titik.
+2. 
+Titik potong lingkaran dengan garis singgung disebut titik singgung.
+3. 
+Garis singgung dan jari-jari lingkaran di titik singgung berpotongan tegak lurus.
+4. 
+Dari satu titik di luar lingkaran, dapat dibentuk dua garis singgung yang sama 
+panjang.
+Ayo Berefleksi
+1. 
+Apakah saya dapat menggambar garis singgung?
+2. 
+Apakah saya dapat menentukan panjang garis singgung?
+3. 
+Apakah saya paham sifat-sifat garis singgung?
+Matahari
+Bumi
+Gerhana
+matahari total
+Umbra
+Penumbra
+Gerhana
+matahari sebagian
+Bulan
+Matematika untuk SMA/SMK Kelas XI
+70
+C. Lingkaran dan Tali Busur
+Gambar 2.7 Busur Panah
+Busur panah merupakan bagian dari lingkaran dan talinya menghubungkan dua titik 
+pada lingkaran. Dalam matematika, ruas garis yang menghubungkan dua titik pada 
+lingkaran disebut tali busur.
+Eksplorasi
+2.3
+Ayo Bereksplorasi
+1. 
+Tali busur AB sama panjang dengan tali busur CD.  
+Ingat bahwa busur AB dituliskan 
+ 
+AB . Besarnya 
+ 
+AB ditentukan oleh besarnya ∠AOB = α (Titik O 
+adalah pusat lingkaran).
+Apakah besarnya 
+ 
+AB dan 
+ 
+CD sama?
+Ayo Berpikir Kreatif
+ 
+O
+A
+B
+C
+D
+Besarnya busur ditentukan
+oleh besar sudut pusatnya
+Ayo kita buktikan!
+Ayo kita gambarkan sudut
+pusat yang membatasi 
+tali busur-tali busur itu!
+α
+BC =
+A
+α
+B
+C
+71
+Bab 2 | Lingkaran
+2. 
+Jika AB dan CD adalah dua tali busur yang sama panjang, gambarkan 4OAB 
+dan 4OCD. Apakah 4OAB dan 4OCD kongruen? Bagaimana kalian tahu?
+3. 
+Berdasarkan no. 2, bagaimana besar ∠AOB dan ∠COD ?
+4. 
+Gunakan no. 3 untuk membuktikan temuanmu pada no. 1.
+Eksplorasi
+2.4
+Ayo Bereksplorasi
+Suatu hari seorang siswi SMA kelas XI, Sondang, dengan gembira mengatakan 
+kepada Nyoman dan Rani bahwa dia menemukan suatu teorema baru ketika 
+sedang bereksplorasi dengan lingkaran. Sondang menemukan jika dia mengambil 
+segitiga siku-siku (sudut siku-sikunya menghadap pada diameter lingkaran) dan 
+mencerminkan segitiga ini pada diameter lingkaran, maka segiempat yang dihasilkan 
+memiliki sifat yang menarik, yaitu jumlah sudut yang berhadapan selalu sama dengan 
+180°.
+1. 
+Apakah penemuan Sondang itu benar atau hanya kebetulan berlaku untuk kasus 
+itu saja?
+2. 
+Bagaimana kalau diagonal segiempat tidak harus merupakan diameter lingkaran? 
+Apakah sifat itu masih berlaku? 
+Coba kalian bereksplorasi dan membuat kesimpulan dari hasil eksplorasi kalian!
+1. 
+Gambarkan sebuah lingkaran dan segitiga siku-siku yang sisi miringnya adalah 
+diameter lingkaran. Cerminkan segitiga siku-siku itu pada diameter lingkaran. 
+Perhatikan segiempat yang terbentuk. Apakah keempat titik sudutnya terletak 
+pada lingkaran? Jelaskan.
+2. 
+Untuk masing-masing titik sudut, tentukan sudut tersebut menghadap ke busur 
+yang mana.
+a. 
+____________________
+b. 
+____________________
+c. 
+____________________
+d. 
+____________________
+Matematika untuk SMA/SMK Kelas XI
+72
+3. 
+Jumlahkan sudut-sudut yang berhadapan.
+a. 
+____________________
+b. 
+____________________
+4. 
+Bagaimana jika segiempat itu bukan merupakan penggabungan segitiga siku-
+siku dan pencerminannya? Apakah sifat yang sama masih berlaku?
+a. 
+Ulangi langkah 2 dan 3 jika keempat titik sudutnya terletak pada lingkaran.
+b. 
+Ulangi langkah 2 dan 3 jika salah satu titik sudutnya tidak terletak pada 
+lingkaran.
+Segiempat yang keempat sisinya merupakan tali busur sebuah lingkaran disebut 
+segiempat tali busur. Pada segiempat tali busur, sudut-sudut yang berhadapan 
+jumlahnya ____________.
+5. 
+Kalian telah menemukan sifat sudut-sudut pada segiempat tali busur. Adakah sifat 
+segiempat tali busur yang terkait panjang ruas garisnya? Perhatikan segiempat 
+tali busur ABCD berikut.
+a. 
+Gambarkan titik P pada BD sehingga ∠ACB = ∠DCP . Buktikan 
+bahwa 4CDP ⇠4CAB
+b. 
+Tunjukkan bahwa DP · AC = AB · CD.
+c. 
+Tunjukkan bahwa 4ACD ⇠4BCP .
+d. 
+Tunjukkan bahwa BP · AC = BC · DA
+e. 
+Berdasarkan poin b dan d, apa yang dapat kalian simpulkan tentang 
+AC · BD ?
+Hasil yang kalian dapatkan ini dikenal sebagai Teorema Ptolemeus.
+D
+A
+B
+P
+C
+73
+Bab 2 | Lingkaran
+Latihan
+2.3
+1. 
+Lingkaran yang berpusat di titik O dan jari-jarinya 5 cm. Berapa panjang tali 
+busurnya yang paling panjang?
+2. 
+Jika AD = 3 cm dan BE = AD, tentukan:
+a. 
+besar ∠BAE
+b. 
+besar ∠BDE
+3. 
+Apotema  
+Apotema adalah ruas garis dari pusat lingkaran dan tegak lurus tali busur. 
+Buktikan bahwa BD = DC.
+4. 
+Tentukan nilai w sehingga KL dan MN sama panjang.
+ 
+ 
+D
+A
+B
+E
+A
+B
+C
+D
+N
+M
+L
+K
+O
+70°
+w
+Matematika untuk SMA/SMK Kelas XI
+74
+5. 
+Ayo Berpikir Kritis
+ 
+Situs Gunung Padang adalah situs prasejarah 
+megalitik besar yang terletak di Kabupaten 
+Cianjur. Salah satu artefak yang ditemukan di 
+sana diduga merupakan pecahan guci. 
+ 
+Diskusikan dengan temanmu bagaimana cara 
+menentukan diameter mulut guci tersebut.
+6. 
+Kincir air berikut digunakan untuk pembangkit energi dan irigasi. Pada diagram 
+sebelah kanan, roda dengan diameter 10 m diletakkan pada sungai sehingga titik 
+terendah roda terletak pada kedalaman 1 m.
+a. 
+Tentukan ketinggian titik A dari permukaan air.
+b. 
+Permukaan air ditunjukkan oleh tali busur DE . Tentukan besar ∠DAE.
+c. 
+Tentukan jarak dua titik pada roda yang terletak di permukaan air.
+7. 
+Sinar garis r dan s adalah garis singgung pada lingkaran Q. Jika sudut antara r 
+dan s adalah 80◦, tentukan besarnya sudut x.
+O
+B
+D
+E
+y
+x
+A
+C
+Q
+s
+r
+80°
+x
+75
+Bab 2 | Lingkaran
+8. 
+BD dan CD adalah garis singgung pada lingkaran A.
+a. 
+Apakah segiempat ABCD merupakan segiempat tali busur? Buktikan.
+b. 
+Jika segiempat ABCD merupakan segiempat tali busur, di manakah pusat 
+lingkaran luar segiempat ABCD?
+9. 
+Segiempat ABCD adalah persegi panjang yang semua titik sudutnya terletak 
+pada lingkaran.
+a. 
+Apakah ABCD merupakan segiempat tali busur? Buktikan.
+b. 
+Jika kalian menerapkan Teorema Ptolemeus pada segiempat ABCD, 
+apakah yang kalian dapatkan? 
+c. 
+Apakah nama teorema tersebut?
+10. 
+Ayo Berpikir Kreatif
+ 
+Goras ingin menyajikan pizza yang dibelinya di atas piring. Sayangnya, piring 
+yang tersedia diameternya lebih kecil daripada diameter pizza. Ia memotong 
+pizzanya dengan cara tertentu, mengambil sebagian, lalu menyusun sisa pizza 
+sehingga terlihat sebagai pizza utuh.
+a. 
+Ambillah selembar kertas berbentuk lingkaran. Cobalah melakukan hal 
+yang dikerjakan Goras.
+b. 
+Apakah pizza kedua sama dengan pizza awal? Jelaskan.
+D
+A
+B
+C
+A
+D
+C
+B
+O
+Matematika untuk SMA/SMK Kelas XI
+76
+Rangkuman
+Pada segiempat tali busur berlaku:
+1. 
+Sudut-sudut yang berhadapan saling berpelurus.
+2. 
+Hasil kali diagonal sama besarnya dengan jumlah dari hasil kali sisi yang 
+berhadapan.
+Refleksi
+1. 
+Apakah saya dapat menerapkan teorema-teorema tentang lingkaran?
+2. 
+Apakah saya dapat membuktikan teorema-teorema terkait lingkaran?
+3. 
+Apakah saya mengerti sifat-sifat garis singgung?
+4. 
+Apakah saya mengerti sifat-sifat segiempat tali busur?
+Uji Kompetensi
+1. 
+Jika α = 48◦, tentukan besarnya
+a. 
+∠CDE
+b. ∠DEA
+c. 
+∠DAE
+d. ∠DFE
+2. 
+Segiempat POST keempat sisinya menyinggung lingkaran. Jika panjang 
+TS = 12 cm dan panjang PC = 14 cm, tentukan keliling POST.
+C
+E
+A
+F
+D
+α
+A
+T
+S
+D
+C
+R
+P
+O
+77
+Bab 2 | Lingkaran
+3. 
+Pada lingkaran A yang berjari-jari 5 cm terdapat tali busur BC sepanjang 8 cm. 
+Tentukan panjang apotemanya.
+4. 
+Dua tali busur, AC dan BD pada lingkaran dengan pusat O, berpotongan tegak 
+lurus pada titik P . Panjang AB sama dengan jari-jari lingkaran. 
+a. 
+Berapa besar 
+ 
+AB ?
+b. 
+Apa nilai perbandingan DC
+AB ? Jelaskan bagaimana kamu mendapatkan 
+jawabannya.
+5. 
+Berapa panjang dari tali busur AC? 
+a. 
+16
+√
+17
+17 
+b. √
+68 
+c. 
+√
+32
+d. 
+√
+32
+68
+A
+D
+C
+B
+O
+D
+B
+P
+A
+C
+A
+D
+C
+B
+8
+8
+2
+2
+Matematika untuk SMA/SMK Kelas XI
+78
+6. 
+Segiempat BDCE adalah segiempat tali busur, O adalah titik pusat lingkaran, 
+dan besar ∠BOC = 130◦. Tentukan besar ∠BEC.
+Pengayaan
+Gambar 2.8 menunjukkan segitiga sama sisi. Titik P terletak pada lingkaran luar 
+segitiga ABC. Titik P dihubungkan dengan setiap titik sudut segitiga ABC. 
+Jika AP lebih panjang daripada BP dan CP, buktikan bahwa: 
+AP = BP + CP
+Gambar 2.8 Segitiga Sama Sisi ABC
+Sifat ini pertama kali ditemukan oleh matematikawan Belanda bernama Frans 
+van Schooten, karena itu disebut sebagai Teorema van Schooten.
+E
+B
+C
+D
+130°
+O
+C
+B
+P
+A

@@ -1,0 +1,1244 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi  
+Republik Indonesia, 2023
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-623-118-558-7
+Peluang
+7
+Bab
+Bagaimana kamu dapat memprediksi 
+kemungkinan terjadinya sebuah 
+peristiwa dengan menggunakan 
+matematika?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+240
+Tujuan Pembelajaran 	
+Setelah mempelajari bab ini, diharapkan kamu dapat menentukan ruang 
+sampel dan distribusi peluang kejadian; membedakan antara frekuensi 
+relatif dan frekuensi harapan, menggunakan frekuensi harapan untuk 
+memprediksi peluang suatu kejadian, membedakan antara kejadian saling 
+lepas dan kejadian tidak saling lepas, menggunakan aturan penjumlahan 
+untuk menentukan peluang dua kejadian saling lepas, memodifikasi aturan 
+penjumlahan untuk menentukan peluang dua kejadian tidak saling lepas.
+Kata Kunci 	
+•	
+ruang sampel
+•	
+frekuensi harapan
+•	
+kejadian saling bebas 
+•	
+kejadian saling lepas
+Peta Materi 	
+Aturan Penjumlahan
+Aturan Perkalian
+Kejadian
+Saling Lepas
+Kejadian
+Saling Bebas
+Kejadian Tidak
+Saling Lepas
+Peluang
+Distribusi Peluang
+241
+
+ Bab 7 | Peluang
+	
+Seberapa besar 
+kemungkinan akan turun 
+hujan? Berapa persen 
+kemungkinan seseorang 
+terpapar Covid-19? 
+Berapa persen 
+kemungkinan seseorang 
+memiliki golongan darah 
+AB? Semua pertanyaan 
+ini berhubungan dengan kemungkinan suatu kejadian yang merupakan 
+bagian dari kehidupan kita sehari-hari. Kamu dapat memprediksi 
+kemungkinan suatu kejadian dengan menggunakan salah satu bidang 
+Matematika yang disebut peluang.
+Peluang adalah suatu ukuran tentang kemungkinan suatu kejadian 
+(event) yang akan terjadi (atau tidak terjadi) di masa mendatang. Dalam bab 
+ini, kamu akan mempelajari mengenai ruang sampel dan distribusi peluang, 
+dan menggunakan aturan penjumlahan untuk menemukan peluang bahwa 
+peristiwa A terjadi atau peristiwa B terjadi.
+Ayo, Mengingat Kembali
+Peluang Sederhana
+•	
+Jika sebuah kejadian tidak mungkin terjadi, maka peluangnya 0.
+•	
+Jika sebuah kejadian pasti terjadi, maka peluangnya 1.
+•	
+Peluang memiliki nilai antara 0 dan 1 inklusif (0 dan 1 termasuk).
+•	
+Peluang dituliskan dalam bentuk pecahan atau desimal.
+•	
+Ruang sampel adalah himpunan semua hasil yang mungkin dalam suatu 
+percobaan (eksperimen) peluang dan diberikan lambang S.
+•	
+Banyaknya semua anggota S ditulis dengan simbol 
+.
+•	
+Titik sampel adalah anggota dari ruang sampel.
+•	
+Peluang terjadinya kejadian A adalah 
+, di mana 
+ adalah 
+banyaknya anggota dalam kejadian A dan 
+ adalah banyaknya 
+anggota dalam himpunan ruang sampel.
+AB
+A
+B
+O
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+242
+A.	 Distribusi Peluang
+Dalam mendesain permainan, perlu 
+dipastikan bahwa peluang untuk 
+menang sama besarnya untuk setiap 
+pemain. Sering kali permainan 
+tersebut menggunakan dadu untuk 
+menentukan jumlah langkah. 
+Dadu memiliki bentuk simetris 
+dan dengan asumsi dadu tersebut 
+adil sehingga setiap sisi memiliki 
+kemungkinan yang sama besarnya 
+saat dadu dilempar.
+Eksplorasi   7.1	
+Distribusi Peluang
+Ayo, Bereksplorasi
+Misalnya kamu melempar dua buah dadu yang memiliki warna berbeda, satu 
+merah dan satu putih.
+1.	
+Ayo salin dan lengkapi Tabel 7.1 untuk menunjukkan semua 
+kemungkinan hasil melemparkan sekali kedua dadu tersebut.
+Gambar 7.2 Ruang Sampel untuk Kejadian Melempar Dadu Merah dan Dadu Putih
+Gambar 7.1  
+Berbagai Permainan Papan (Board Game)
+Sumber: Wilhei/Pixabay (2015); Meghmollar2017/commons.
+wikimedia.org (2020); Jorge Franganillo/commons.wikimedia.org 
+(2019); F1 Digitals/Pixabay (2018)
+243
+
+ Bab 7 | Peluang
+Apa arti 3, 2? Apakah berbeda dengan 2, 3? Mengapa?
+2.	
+Apakah semua hasil sama kemungkinannya?
+Jika kedua dadu memiliki warna yang sama, apakah hasil kemungkinan tetap 
+sama? Jelaskan.
+3.	
+Apakah peluang mendapatkan angka yang sama pada kedua dadu adalah 
+sama besarnya dengan peluang mendapatkan angka yang berbeda 
+dengan peluang mendapatkan angka yang berbeda? 
+4.	
+Berapa peluang mendapatkan setidaknya satu dadu yang menunjukkan 
+angka 5?
+5.	
+Mana yang lebih memungkinkan, mendapatkan setidaknya satu angka 4 
+atau mendapatkan dua angka yang sama? Jelaskan.
+Kamu dapat melakukan pelemparan dadu secara daring di https://buku.
+kemdikbud.go.id/s/tkbath.
+Tabel 7.1 pada Eksplorasi disebut sebagai ruang sampel untuk situasi 
+melempar dua dadu. Sebuah ruang sampel merupakan himpunan semua 
+kemungkinan hasil. Untuk dadu yang adil, semua 36 hasil pada ruang 
+sampel sama kemungkinannya untuk terjadi. Sama kemungkinan artinya 
+setiap hasil memiliki peluang yang sama untuk terjadi. Ketika hasil sama 
+kemungkinannya, peluang sebuah kejadian ditentukan oleh
+Ayo, Berdiskusi
+Ayo, Berpikir Kritis
+Ayo, Menggunakan Teknologi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+244
+Contoh: 
+Peluang jumlah 11 adalah 
+ = 
+Peluang angka 2 di setidaknya satu dadu atau berjumlah 2 adalah 
+ = 
+Peluang angka sama dan berjumlah 8 adalah 
+245
+
+ Bab 7 | Peluang
+Peluang angka sama atau berjumlah 8 adalah 
+ = 
+Peluang jumlah tidak lebih daripada 9 adalah 
+ = 
+Peluang jumlah setidaknya 9 adalah 
+ = 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+246
+Latihan   7.1	
+1.	
+Coba kamu tentukan peluang untuk kejadian berikut.
+a.	
+jumlah 2 atau 3
+b.	
+jumlah lebih besar daripada 3
+c.	
+jumlah setidaknya 3
+d.	
+jumlah lebih kecil daripada 3
+2.	
+Distribusi peluang adalah deskripsi dari semua kemungkinan hasil 
+dari situasi acak bersama dengan peluang terjadinya masing-masing. 
+Distribusi peluang berbeda dari ruang sampel karena semua hasil harus 
+berupa angka tunggal dan peluang harus ditentukan. Misalnya, Tabel 
+7.2 distribusi peluang di bawah ini menunjukkan semua kemungkinan 
+jumlah yang dapat diperoleh dari lemparan dua dadu.
+Tabel 7.1 Distribusi Peluang untuk Jumlah Dua Dadu
+Jumlah
+Peluang
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Salin dan lengkapi distribusi peluang ini dengan mengisi peluangnya.
+a.	
+Berapa jumlah dari semua peluang?
+b.	
+Bagaimana kamu dapat menggunakan tabel distribusi peluang untuk 
+mencari peluang pada soal nomor 1?
+247
+
+ Bab 7 | Peluang
+Latihan   7.2	
+1.	
+Misalnya kamu melempar dua dadu dan mencatat angka yang lebih 
+besar daripada dua dadu tersebut. (Jika angkanya sama, catat angka 
+tersebut.)
+a.	
+Gunakan ruang sampel pada Eksplorasi 7.1 untuk membantumu 
+melengkapi tabel distribusi peluang untuk situasi ini.
+Angka yang Lebih Besar
+Peluang
+1
+2
+3
+4
+b.	
+Berapa peluang bahwa angka yang lebih besarnya adalah 3? Adalah 
+2 atau 3? Adalah 3 atau kurang? Adalah lebih dari 3?
+2.	
+Sekarang misalnya kamu melempar dua dadu dan mencatat nilai mutlak 
+dari selisih kedua bilangan.
+a.	
+Gunakan ruang sampel pada Eksplorasi 7.1 untuk membantumu 
+melengkapi tabel distribusi peluang untuk situasi ini.
+Nilai Mutlak dari Selisih Dua Dadu
+Peluang
+0
+b.	
+Berapa peluang bahwa nilai mutlak dari selisihnya adalah 3? Adalah 
+2 atau 3? Adalah setidaknya 2? Adalah tidak lebih dari 2?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+248
+Sekarang kamu mencoba sendiri menentukan distribusi peluang untuk kejadian 
+melempar dua keping uang logam dengan dua kemungkinan hasil {gambar, 
+angka} dengan membuat tabel seperti di bawah ini.
+      
+Gambar 7.3 Gambar Uang Logam dengan Dua Sisinya
+Tabel 7.2 Distribusi Peluang untuk Jumlah Gambar pada Uang Logam
+Jumlah Gambar
+Peluang
+0
+1
+2
+Seorang temanmu mengatakan bahwa untuk hasil kali dua dadu, peluang 
+mendapatkan bilangan genap lebih besar daripada peluang mendapatkan 
+bilangan ganjil. Setujukah kamu dengan dia? Jelaskan.
+Diskusikan apa yang dikatakan para siswa. Kamu lebih setuju dengan siapa?
+Ayo, Mencoba
+Ayo, Berpikir Kritis
+Ayo, Berdiskusi
+249
+
+ Bab 7 | Peluang
+D
+C
+A
+B
+Gambar 7.4 Perbincangan Siswa Mengenai Peluang
+Pada bagian ini, kamu telah belajar bagaimana membuat distribusi peluang dari 
+ruang sampel dari hasil yang sama kemungkinannya.
+•	
+Apa perbedaan antara ruang sampel dan distribusi peluang?
+•	
+Mengapa hasil dari ruang sampel melempar dua dadu sama 
+kemungkinannya?
+B.	Aturan Penjumlahan
+Eksplorasi   7.2	
+Aturan Penjumlahan
+Ayo, Bereksplorasi
+Pada eksplorasi sebelumnya, kamu membuat distribusi peluang untuk 
+jumlah dari dua dadu. Kamu menemukan bahwa untuk menentukan 
+peluang untuk hasil penjumlahan dua dadu mendapat 3 atau 4, kamu dapat 
+menjumlahkan peluang untuk mendapatkan jumlah 3 dengan peluang 
+mendapatkan jumlah 4, yaitu 
+. Saat mengerjakan eksplorasi ini, 
+pikirkan jawaban untuk pertanyaan berikut: Dalam kondisi apa kamu dapat 
+Ayo, Berefleksi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+250
+menjumlahkan masing-masing peluang kejadian untuk menentukan peluang 
+dari kejadian yang berhubungan?
+Ada siswa yang menggunakan hanya satu moda transportasi ke sekolah, 
+tetapi ada pula yang menggunakan beberapa moda transportasi. Ayo, salin 
+dan lengkapi tabel berikut untuk moda transportasi yang digunakan oleh 
+semua siswa di kelasmu hari ini ke sekolah. (Catatan: Jika menggunakan 
+lebih dari satu, pilih yang jarak terpanjang.)
+Pikirkan cara mengumpulkan informasi ini dengan efisien.
+Tabel 7.3 Jumlah Siswa Sesuai dengan Moda Transportasi 
+yang Digunakan ke Sekolah pada Hari Ini
+Moda Transportasi yang Digunakan ke Sekolah Hari Ini
+Jumlah Siswa
+Jalan kaki
+ 
+Sepeda
+ 
+Motor
+ 
+Mobil
+ 
+Kendaraan Umum
+ 
+Sekarang lengkapi tabel berikut dengan mencatat jumlah siswa di 
+kelasmu yang dapat menggunakan moda transportasi tersebut (bisa lebih 
+dari satu).
+Tabel 7.4 Jumlah Siswa sesuai dengan Moda Transportasi yang Dapat Digunakan ke Sekolah
+Moda Transportasi yang Dapat Digunakan ke Sekolah
+Jumlah Siswa
+Jalan kaki
+ 
+Sepeda
+ 
+Motor
+ 
+Mobil
+ 
+Kendaraan Umum
+ 
+Ayo, Bekerja Sama
+251
+
+ Bab 7 | Peluang
+Dalam matematika, kata “atau” berarti “salah satu atau kedua-duanya”. 
+Maka, kejadian bahwa seorang siswa menggunakan sepeda atau 
+menggunakan motor ke sekolah termasuk semua hasil berikut.
+•	
+Siswa tersebut dapat menggunakan sepeda, tetapi tidak dapat 
+menggunakan motor ke sekolah.
+•	
+Siswa tersebut dapat menggunakan motor, tetapi tidak dapat 
+menggunakan sepeda ke sekolah.
+•	
+Siswa tersebut dapat menggunakan baik sepeda maupun motor ke 
+sekolah.
+Diskusikan pertanyaan-pertanyaan ini dengan pasangan atau teman kelompok 
+dan bersiap untuk mempresentasikan hasilnya.
+1.	
+Tentukan manakah dari pertanyaan berikut ini yang dapat kamu jawab 
+dengan hanya menggunakan data dari tabel. Kemudian, jawablah 
+pertanyaan tersebut.
+a.	
+Berapa peluang seorang siswa yang dipilih secara acak dari kelasmu 
+yang hari ini menggunakan sepeda atau motor ke sekolah?
+b.	
+Berapa peluang seorang siswa yang dipilih secara acak dari kelasmu 
+yang biasanya menggunakan sepeda atau motor ke sekolah?
+2.	
+Mengapa pertanyaan lain di nomor 1 tidak dapat dijawab hanya dengan 
+menggunakan informasi pada tabel? Informasi apa yang dibutuhkan 
+untuk menjawab pertanyaan tersebut?
+Pada Eksplorasi 7.1, kamu dapat menjawab pertanyaan “atau” dengan 
+menjumlahkan peluang masing-masing. Demikian juga untuk tabel 
+pertama dari Eksplorasi 7.2 di mana masing-masing siswa hanya boleh 
+memilih satu jawaban. Tidaklah demikian dengan tabel kedua di mana 
+siswa boleh memilih lebih dari satu jawaban. Karakteristik apa dari tabel 
+yang memungkinkan untuk menjumlahkan untuk menjawab sebuah 
+pertanyaan “atau”? Perbedaannya adalah antara kejadian yang saling 
+lepas dan yang tidak saling lepas.
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+252
+Dua kejadian dikatakan saling lepas (atau disjoint) jika tidak mungkin 
+bagi keduanya untuk terjadi pada hasil yang sama. Misalnya, perhatikan 
+kejadian berikut ini. Manakah yang merupakan dua kejadian yang saling 
+lepas dari contoh-contoh berikut ini?
+Pikirkan pertanyaan ini sendiri kemudian diskusikan dengan berpasangan 
+atau anggota kelompok lainnya.
+a.	
+Melemparkan sepasang dadu dan mendapatkan jumlah 7; 
+mendapatkan angka yang sama pada saat yang sama.
+b.	
+Melemparkan sepasang dadu dan mendapatkan jumlah 8; 
+mendapatkan angka yang sama pada saat yang sama.
+c.	
+Abi menggunakan mobil ke sekolah hari ini; Abi menggunakan 
+kendaraan umum ke sekolah hari ini.
+d.	
+Zain menggunakan motor ke sekolah hari ini; Zain menggunakan 
+sepeda ke sekolah.
+Secara teoretis, peluang untuk mendapatkan angka genap adalah 3
+6 = 1
+2, namun 
+ketika dilakukan percobaan, hasilnya bisa berbeda. Misalnya, ketika melakukan 
+percobaan melempar dadu sebanyak 20 kali, frekuensi munculnya angka genap 
+adalah 8 kali. Berapa peluang dari hasil percobaan tersebut? Coba pikirkan 
+jawabannya sebelum melanjutkan ke bagian berikut.
+Jika jawabanmu adalah 8
+20 atau 2
+5, maka kamu benar. Peluang dari hasil 
+percobaan atau eksperimen disebut juga frekuensi relatif, dan didapatkan 
+dengan membagi jumlah kejadian yang diinginkan dengan jumlah percobaan 
+yang dilakukan. Tentu dengan makin banyak percobaan yang dilakukan, 
+maka hasilnya akan makin mendekati peluang teoretis. (Catatan: Kamu dapat 
+mencoba melakukan percobaan yang banyak dengan melibatkan teman 
+sekelasmu).
+Ayo, Berpikir Kritis
+Ayo, Berpikir Kritis
+253
+
+ Bab 7 | Peluang
+Berdasarkan frekuensi relatif yang didapat dari hasil percobaan melempar 
+dadu di atas, berapa kali kamu dapat mengharapkan munculnya angka genap 
+jika dilakukan percobaan sebanyak 66 kali? Bagaimana dengan 200 kali? Coba 
+diskusikan dengan temanmu sebelum melanjutkan ke bagian berikut.
+Frekuensi relatif pelemparan angka genap pada percobaan melempar 
+dadu di atas adalah 40% atau 0,4. Kamu dapat mengharapkan munculnya 
+angka genap sebesar 40%. Untuk percobaan 66 kali melempar dadu, maka 
+40% dari 66 adalah 26,4 dan untuk percobaan 200 kali melempar dadu, 
+40% dari 200 adalah 80. Artinya, jika kamu melempar dadu yang sama 
+sebanyak 66 kali, kamu akan mendapatkan angka genap sebanyak 26 kali 
+dan jika kamu melemparnya 200 kali, kamu akan mendapatkan angka 
+genap sebanyak 80 kali. Ini disebut dengan frekuensi harapan, yaitu berapa 
+banyak kali hasil yang diharapkan akan muncul. Perlu diingat meskipun 
+kamu berharap mendapatkan angka genap sebanyak 80 kali, hal ini tidak 
+dijamin, dan hasil sebenarnya mungkin akan berbeda.
+Latihan   7.3	
+1.	
+Ali melakukan percobaan melempar dadu sebanyak 100 kali dan hasil 
+munculnya angka lima (5) adalah 14 kali.
+a.	
+Tentukan peluang percobaan mendapatkan angka lima, dan 
+jawablah dengan pecahan dalam bentuk paling sederhana.
+b.	
+Ubah jawaban a) dalam bentuk persen.
+c.	
+Dari hasil percobaan tersebut, jika akan dilakukan percobaan 
+sebanyak 200 kali, berapa kali diharapkan (frekuensi harapan) untuk 
+mendapatkan angka lima?
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+254
+2.	
+Sebuah pabrik lampu pijar mengadakan uji coba untuk menentukan 
+rata-rata berapa lama lampu pijar dapat bertahan menyala. Hasil uji 
+coba tersebut ditampilkan pada tabel berikut.
+Jumlah Jam Lampu Pijar Menyala, h
+Frekuensi
+0 ≤ h < 1000
+30
+1000 ≤ h < 2000
+75
+2000 ≤ h < 3000
+160
+3000 ≤ h
+35
+a.	
+Hitung frekuensi relatif dari pengujian lampu pijar yang kurang dari 
+3.000 jam, tetapi lebih dari 1.000 jam.
+b.	
+Jika ada pesanan 2.000 dari lampu ini, berapa banyak yang 
+diharapkan (frekuensi harapan) dapat menyala lebih dari 3.000 jam?
+3.	
+Sebuah survei dilakukan yang meminta responden memilah satu dari 
+lima kategori film yang disukai. Hasilnya ditampilkan pada tabel berikut 
+ini.
+Jenis Film
+Frekuensi
+Komedi
+14
+Petualangan
+28
+Aksi laga
+20
+Horor
+5
+Lain-lain
+13
+a.	
+Berapa banyak responden yang ikut dalam survei ini?
+b.	
+Satu orang lagi bergabung sebagai responden dan diberikan 
+pertanyaan yang sama. Perkirakan peluang orang tersebut akan 
+memilih ‘petualangan’.
+255
+
+ Bab 7 | Peluang
+c.	
+Survei ini dilakukan di sebuah daerah dengan total populasi 480 
+penduduk. Jika setiap orang pada daerah tersebut mengisi survei, 
+perkirakan jumlah orang yang akan memilih ‘horor’.
+4.	
+Hasil penelitian menunjukkan bahwa peluang seseorang kidal (yaitu 
+dominan menggunakan tangan kiri) adalah 0,23. Berapa banyak orang 
+yang tidak kidal yang diharapkan dari sebuah populasi terdiri atas 10.000 
+penduduk?
+1.	 Dua Kejadian A dan B Saling Lepas
+a.	
+Menurutmu diagram Venn manakah berikut ini yang menggambarkan 
+situasi dua kejadian yang saling lepas?
+Gambar 7.5 Diagram Venn untuk Dua Kejadian
+b.	
+Untuk dua kejadian A dan B saling lepas, apa peluang bahwa A dan B 
+terjadi pada hasil yang sama? Peluang ini ditulis P(A dan B) atau 
+.
+c.	
+Ketika A dan B saling lepas, bagaimana 
+caramu menentukan peluang bahwa A 
+terjadi atau B terjadi (atau keduanya terjadi)? 
+Peluang ini ditulis 
+P(A atau B) atau 
+. 
+Secara simbolis kamu dapat menuliskan aturan untuk menghitung 
+peluang bahwa A terjadi atau B terjadi dengan 
+ = P(A atau B). 
+Peraturan ini disebut aturan penjumlahan untuk kejadian saling lepas.
+A
+B
+Perhatikan diagram Venn, 
+apakah ada daerah yang 
+menggambarkan dua 
+kejadian tersebut sekaligus?
+Petunjuk
+i
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+256
+2.	 Dua Kejadian A dan B Tidak Saling Lepas
+a.	
+Pada Gambar 7.4, diagram mana yang menggambarkan situasi dua 
+kejadian yang tidak saling lepas?
+b.	
+Untuk dua kejadian A dan B yang tidak saling lepas, apa peluang bahwa 
+A dan B terjadi pada hasil yang sama, yaitu 
+? 
+c.	
+Di manakah peluang ini dinyatakan pada diagram Venn yang kamu pilih?
+Lihat kembali pekerjaanmu pada Eksplorasi 7.2. Dengan diagram Venn, 
+jelaskan bagaimana kamu dapat memodifikasi aturanmu dari soal bagian A 
+untuk dua kejadian saling lepas untuk menghitung 
+ ketika A dan B 
+tidak saling lepas.
+Secara simbolis kamu dapat menuliskan  
+aturan untuk menghitung 
+ untuk dua 
+kejadian tidak saling lepas dengan 
+ = 
+P(A) + P(B) – 
+. Aturan ini disebut aturan 
+penjumlahan.
+Latihan   7.4	
+Gunakan aturan penjumlahan untuk soal-soal berikut mengenai sepasang 
+dadu yang dilempar.
+1.	
+Tentukan peluang mendapatkan dua angka sama atau berjumlah 5.
+•	
+Apakah kedua kejadian ini saling lepas atau tidak saling lepas?
+•	
+Peluang mendapatkan dua angka sama adalah P(A) = 
+.
+•	
+Peluang mendapatkan jumlah 5 adalah P(A) = 
+.
+•	
+Peluang mendapatkan dua angka sama dan berjumlah 5,  
+ = …
+•	
+Maka peluang mendapatkan dua angka sama atau berjumlah 5 
+adalah …
+2.	
+Tentukan peluang mendapatkan dua angka sama atau berjumlah 2.
+•	
+Apakah kedua kejadian ini saling lepas atau tidak saling lepas?
+•	
+Tentukan peluang mendapatkan dua angka sama, peluang 
+mendapatkan jumlah 2, dan peluang mendapatkan dua angka yang 
+sama dan berjumlah 2.
+Perhatikan luas daerah 
+peluang kejadian A dan luas 
+daerah peluang kejadian 
+B pada diagram Venn dan 
+bandingkan dengan luas 
+daerah peluang A atau B.
+Petunjuk
+i
+257
+
+ Bab 7 | Peluang
+3.	
+Tentukan peluang bahwa nilai mutlak dari selisihnya adalah 2 atau 
+mendapatkan jumlah 5.
+4.	
+Tentukan peluang bahwa nilai mutlak dari 
+selisihnya adalah 2 atau mendapatkan jumlah 11.
+Melalui Eksplorasi 7.2, kamu telah belajar bagaimana menghitung 
+peluang untuk terjadinya peristiwa A atau peristiwa B.
+Apa perbedaan dua kejadian yang saling lepas dan yang tidak saling lepas 
+berdasarkan aturan penjumlahannya? Mengapa?
+Berikan sebuah contoh dua kejadian yang saling lepas yang berbeda dari yang di 
+eksplorasi.
+C.	 Aturan Perkalian
+Eksplorasi   7.3	
+Aturan Perkalian
+Ayo, Bereksplorasi
+Perhatikan masalah berikut: Berapa peluang mendapatkan tepat dua kali 
+pelemparan sepasang dadu sehingga menghasilkan angka yang sama (dobel) 
+pertama kalinya?
+5.	
+Jelaskan mengapa masuk akal untuk melabel baris dari model luas pada 
+gambar di bawah. Berikan label pada enam kolom untuk menyatakan 
+hasil yang mungkin pada lemparan dadu kedua.
+Lihat Latihan 7.2 nomor 2.
+Petunjuk
+i
+Ayo, Berefleksi
+Ayo, Berpikir Kreatif
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+258
+Lemparan Kedua Sepasang Dadu
+...
+...
+...
+...
+...
+...
+Lemparan Pertama Sepanag Dadu
+Kedua Angka 
+Sama (Dobel)
+Kedua Angka 
+Tidak  Sama 
+(Tidak Dobel)
+Kedua Angka 
+Tidak  Sama 
+(Tidak Dobel)
+Kedua Angka 
+Tidak  Sama 
+(Tidak Dobel)
+Kedua Angka 
+Tidak  Sama 
+(Tidak Dobel)
+Kedua Angka 
+Tidak  Sama 
+(Tidak Dobel)
+6.	
+Arsir kotak yang menyatakan kejadian tidak mendapatkan angka yang 
+sama pada lemparan pertama dan mendapatkan angka yang sama pada 
+lemparan kedua.
+7.	
+Berapa peluang tidak mendapatkan angka yang sama pada lemparan 
+pertama dan kemudian mendapatkan angka yang sama pada lemparan 
+kedua?
+8.	
+Gunakan model luas untuk menentukan peluang mendapatkan angka 
+yang sama pada kedua lemparan.
+9.	
+Gunakan model luas untuk menentukan peluang tidak mendapatkan 
+angka yang sama pada kedua lemparan.
+Pasangan kejadian pada masalah di atas adalah saling bebas, yaitu 
+kejadian yang satu tidak memengaruhi peluang kejadian yang lainnya. 
+259
+
+ Bab 7 | Peluang
+Jelaskan bagaimana kamu dapat menghitung peluang tanpa menggunakan 
+model luas.
+Misalnya A dan B adalah kejadian saling bebas. Nyatakan metode yang 
+kamu hasilkan dengan melengkapi aturan berikut menggunakan simbol:
+P(A dan B) = _____________________
+Notasi P(A dan B) dibaca “peluang untuk kejadian A dan kejadian B.”
+Kadangkala masalah peluang lebih mudah dipahami jika dituliskan 
+dalam bentuk kata-kata yang lebih spesifik dari kata-kata yang digunakan 
+pada soal. Misalnya, untuk masalah eksplorasi di atas:
+Berapa peluang mendapatkan tepat dua kali pelemparan sepasang dadu 
+sehingga menghasilkan angka yang sama?
+Masalah ini dapat dinyatakan dan diselesaikan dengan cara berikut:  
+P (tidak dobel pada lemparan pertama dan dobel pada lemparan kedua) = 
+P (tidak dobel pada lemparan pertama)∙ P (dobel pada lemparan kedua) =  
+ 5
+6
+  1
+6
+
+=
+5
+36 
+Melalui eksplorasi di atas, kamu mendapatkan jika dua kejadian adalah 
+saling bebas, maka untuk menentukan peluang terjadinya kedua kejadian 
+tersebut dapat menggunakan aturan perkalian. Perlu diperhatikan bahwa 
+aturan ini tidak berlaku jika kedua kejadian tidak saling bebas. Misalnya, 
+kamu mengambil bola dari sebuah tas yang berisi bola berwarna berbeda. 
+Pilihan bola pertama tidak memengaruhi pilihan bola kedua. Namun jika 
+setelah ambil bola pertama, kamu tidak mengembalikan bola pertama, maka 
+kejadiannya tidak saling bebas. Ada satu bola lebih sedikit untuk pilihan 
+kedua sehingga peluangnya akan berubah.
+Catatan: Kamu dapat menghitung peluang terjadinya dua kejadian yang 
+saling bebas, A dan B, baik ketika kedua kejadian tersebut terjadi secara 
+berurutan, maupun terjadi pada saat yang bersamaan.
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+260
+P (A terjadi lalu B terjadi) = P(A) × P(B)  
+atau 
+P (A dan B) = P(A) × P(B)
+Misalnya, ketika melempar dua koin dapat dilakukan dengan melempar 
+koin pertama baru kemudian melempar koin kedua, atau dapat juga kedua 
+koin dilempar pada waktu bersamaan. 
+Latihan   7.5	
+1.	
+Kirana sedang memainkan sebuah permainan yang menggunakan dadu. 
+Dia harus melemparkan sepasang dadu dan mendapatkan angka dobel 
+dan pada lemparan kedua mendapatkan jumlah enam. Dia ingin tahu 
+berapa peluang ini dapat terjadi.
+a.	
+Manakah opsi berikut paling baik menjelaskan peluang yang ingin 
+ditentukan oleh Kirana?
+Opsi 1: 
+P (lemparan pertama angka dobel atau lemparan kedua jumlah enam)
+Opsi 2:  
+P (lemparan pertama angka dobel dan lemparan kedua jumlah enam)
+Opsi 3:  
+P (angka dobel dan jumlah enam)
+b.	
+Jelaskan mengapa aturan perkalian dapat digunakan untuk 
+menentukan peluang ini? Berapa peluangnya?
+2.	
+Sani dan Oka sedang bermain bola basket. Peluang bagi Sani untuk 
+memasukkan bola dalam keranjang adalah 0,1, sedangkan untuk Oka 
+0,2.  Keberhasilan atau kegagalan Sani dan Oka memasukkan bola saling 
+bebas. Sani dan Oka masing-masing melemparkan bola sekali. Berapa 
+peluang bahwa:
+a.	
+Keduanya memasukkan bola dalam keranjang
+b.	
+Sani memasukkan bola dalam keranjang, tetapi Oka tidak
+3.	
+Sebuah dadu dilempar dua kali. Hitung peluang untuk mendapatkan
+a.	
+keduanya angka enam.
+b.	
+dua angka genap
+261
+
+ Bab 7 | Peluang
+c.	
+kedua angka yang sama 
+d.	
+kedua angka berbeda
+4.	
+Sebuah tas berisi 12 bola dengan warna sebagai berikut: lima bola merah 
+dan selebihnya berwarna biru. Sebuah bola diambil secara acak dari 
+dalam tas. Bola tersebut kemudian dikembalikan ke dalam tas, dan bola 
+kedua diambil. Warna masing-masing bola dicatat.
+a.	
+Daftarkan semua kemungkinan dari percobaan ini.
+b.	
+Hitung peluang berikut ini.
+1)	
+Bola pertama biru
+2)	
+Bola kedua merah
+3)	
+Bola pertama biru dan bola kedua merah
+4)	
+Kedua bola memiliki warna yang sama
+5)	
+Kedua bola memiliki warna yang berbeda
+6)	
+Kedua bola bukan merah
+7)	
+Setidaknya satu bola merah
+1.	
+Bagaimana kamu dapat menggunakan model luas untuk menentukan 
+peluang dua kejadian yang saling bebas?
+2.	
+Mengapa masuk akal untuk mengalikan masing-masing peluang dari dua 
+kejadian saling bebas untuk mendapatkan peluang untuk kedua kejadian 
+terjadi bersama?
+Latihan   7.6	
+1.	
+Misalnya kamu melemparkan uang logam tiga kali.
+a.	
+Buatlah daftar ruang sampel untuk semua 8 hasil yang mungkin. 
+Sebagai contoh, salah satu hasil adalah gambar, angka, angka (GAA).
+b.	
+Apakah hasil di dalam ruang sampelmu sama besar kemungkinan 
+terjadinya? Jelaskan.
+c.	
+Buatlah tabel distribusi peluang untuk jumlah gambar. Apa peluang 
+untuk mendapatkan tepat 2 gambar? Paling banyak 2 gambar?
+Ayo, Berefleksi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+262
+2.	
+Yang manakah dari pasangan peristiwa berikut ini yang saling lepas? 
+Jelaskan alasannya.
+a.	
+Melempar sepasang dadu: mendapatkan jumlah 6; mendapatkan satu 
+dadu 6.
+b.	
+Melemparkan uang logam 7 kali: mendapatkan tepat 3 gambar; 
+mendapatkan tepat 5 gambar.
+c.	
+Melemparkan uang logam 7 kali: mendapatkan setidaknya 3 gambar; 
+mendapatkan setidaknya 5 gambar.
+3.	
+Gunakan bentuk yang sesuai dari aturan penjumlahan untuk 
+menentukan peluang dari melempar sepasang dadu dan
+a.	
+mendapatkan jumlah 6 atau mendapatkan satu dadu dengan 6,
+b.	
+mendapatkan jumlah 6 atau mendapatkan angka yang untuk:
+4.	
+Misalnya kamu melemparkan sebuah dadu dan kemudian 
+melemparkannya kembali. Dadu berbentuk tetrahedron (limas segitiga) 
+beraturan dan terdapat angka 1, 2, 3, dan 4 pada sisinya.
+Gambar 7.6 Dadu Berbentuk Limas Segitiga
+a.	
+Buatlah bagan yang menunjukkan ruang sampel dari semua 
+kemungkinan hasilnya.
+b.	
+Ada berapa hasil kemungkinan? Apakah semua sama besar 
+kemungkinannya?
+263
+
+ Bab 7 | Peluang
+c.	
+Buatlah tabel distribusi peluang untuk selisih dari kedua dadu (dadu 
+pertama-dadu kedua). [Keterangan: Bukan nilai mutlak dari selisih]
+d.	
+Selisih apa yang paling mungkin kamu dapatkan?
+e.	
+Berapa peluang bahwa selisihnya paling besar 2?
+5.	
+Misalnya kamu melemparkan dadu berbentuk tetrahedron (limas 
+segitiga beraturan) dan sebuah dadu biasa (berbentuk kubus dengan 
+enam sisi) pada saat yang sama.
+a.	
+Buatlah bagan yang menunjukkan ruang sampel dari semua hasil 
+yang mungkin.
+b.	
+Berapa banyak hasil yang mungkin? Apakah semuanya sama besar 
+kemungkinannya?
+c.	
+Buatlah tabel untuk distribusi peluang dari jumlah kedua dadu.
+d.	
+Jumlah apa yang paling mungkin didapat?
+e.	
+Berapa peluang bahwa jumlahnya paling banyak 3?
+6.	
+Gunakan hasil kerjamu pada soal nomor 4 dan bentuk yang sesuai 
+dari aturan penjumlahan untuk menjawab pertanyaan berikut yang 
+berhubungan dengan melempar dua dadu tetrahedron.
+a.	
+Berapa peluang mendapatkan selisih 3 atau mendapatkan 2 pada 
+dadu pertama?
+b.	
+Berapa peluang mendapatkan selisih 2 atau mendapatkan angka 
+yang sama?
+c.	
+Berapa peluang mendapatkan selisih 0 atau mendapatkan angka 
+yang sama?
+d.	
+Berapa peluang mendapatkan selisih 0 atau jumlah 6?
+7.	
+Untuk kasus dua dadu dilempar dua kali, pertimbangkan peluang 
+mendapatkan dua angka yang sama pada lemparan pertama atau pada 
+lemparan kedua.
+a.	
+Apakah benar bahwa peluang mendapatkan dua angka yang sama 
+pada lemparan pertama atau pada lemparan kedua adalah 1
+6 + 1
+6? 
+Berikan penjelasan untuk jawabanmu.
+b.	
+Apakah benar bahwa peluang mendapatkan dua angka 
+yang sama pada setidaknya satu dari enam giliran adalah 
+1
+6 + 1
+6 + 1
+6 + 1
+6 + 1
+6 + 1
+6?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+264
+8.	
+Misalnya kamu melemparkan uang logam empat kali dan mencatat 
+gambar (G) atau angka (A) sesuai urutan munculnya.
+a.	
+Buatlah daftar semua 16 hasil yang mungkin.
+b.	
+Apakah hasil ini sama besar kemungkinannya?
+c.	
+Buatlah tabel distribusi peluang untuk jumlah gambar.
+d.	
+Berapa peluang yang kamu dapatkan tepat 2 gambar? Paling banyak 
+2 gambar?
+9.	
+Perhatikan dadu khusus yang ditunjukkan sisi-sisinya sebagai 
+berikut. Misalnya dalam sebuah permainan kamu memilih salah 
+satu dadu, dan temanmu memilih satu dari sisanya. Masing-masing 
+melemparkan dadunya. Siapa yang mendapatkan angka yang lebih besar 
+memenangkan permainan.
+Gambar 7.7 Jaring-Jaring Berbagai Dadu
+Misalnya temanmu memilih dadu biru. Supaya kesempatan menang 
+lebih besar, dadu mana yang kamu akan pilih? Jika temanmu memilih 
+dadu hijau, dadu mana yang kamu akan pilih? Jika temanmu memilih 
+dadu merah, dadu mana yang kamu akan pilih? Apa kejutan di sini?
+10.	 Pikirkan tiga kejadian A, B, dan C.
+a.	
+Gambarlah diagram Venn yang menyatakan situasi A dan B adalah 
+saling lepas, A dan C adalah saling lepas, dan B dan C adalah saling 
+lepas.
+b.	
+Gambarlah diagram Venn yang menyatakan situasi A dan B adalah 
+saling lepas, A dan C adalah saling lepas, tetapi B dan C tidak saling 
+lepas.
+265
+
+ Bab 7 | Peluang
+c.	
+Gambarlah diagram Venn yang menyatakan situasi A dan B tidak 
+saling lepas, A dan C tidak saling lepas, dan B dan C tidak saling lepas.
+Gunakan diagram yang sesuai untuk membantumu menuliskan sebuah 
+aturan penjumlahan yang dapat kamu gunakan untuk menentukan 
+ketika
+d.	
+A dan B adalah saling lepas, A dan C adalah saling lepas, dan B dan C 
+adalah saling lepas.
+e.	
+A dan B adalah saling lepas, A dan C adalah saling lepas, tetapi B dan 
+C tidak saling lepas.
+f.	
+A dan B tidak saling lepas, A dan C tidak saling lepas, dan B dan C 
+tidak saling lepas.
+Asesmen Diri 	
+Pertanyaan Asesmen Diri
+Bisa 
+Mandiri
+Bisa 
+dengan 
+Bantuan
+Belum 
+Bisa
+1.	
+Apakah saya sudah bisa menentukan 
+ruang sampel kejadian?
+ 
+2.	
+Apakah saya sudah bisa menentukan 
+distribusi suatu kejadian?
+ 
+3.	
+Apakah saya bisa membedakan antara 
+kejadian saling lepas dan kejadian tidak 
+saling lepas?
+ 
+4.	
+Apakah saya bisa menggunakan aturan 
+penjumlahan untuk menentukan 
+peluang dua kejadian saling lepas?
+ 
+5.	
+Apakah saya bisa menentukan peluang 
+dua kejadian tidak saling lepas?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+266
+Uji Kompetensi 	
+1.	
+Sebuah dadu dilempar, berapa peluang mendapatkan hasil berikut?
+a.	
+4
+b.	
+4 atau lebih
+c.	
+Kurang daripada 4
+d.	
+Bilangan genap
+2.	
+Dadu berbentuk oktahedral memiliki 8 sisi.
+Misalnya kamu melemparkan dua dadu oktahedral dengan masing-
+masing sisi tertulis angka 1 sampai 8.
+Gambar 7.8 Dadu Berbentuk Oktahedral
+a.	
+Buatlah ruang sampel yang menunjukkan semua kemungkinan hasil.
+b.	
+Buatlah tabel distribusi peluang untuk jumlah kedua dadu tersebut.
+c.	
+Berapa peluang mendapatkan jumlah 8? Setidaknya jumlah 8?
+d.	
+Buatlah tabel distribusi peluang untuk nilai absolut dari selisih 
+kedua dadu tersebut.
+e.	
+Berapa peluang mendapatkan selisih 6? Setidaknya selisih 6?
+3.	
+Untuk lemparan dua dadu berbentuk oktahedral, tentukan peluang 
+kejadian berikut.
+a.	
+Peluang mendapatkan angka yang sama atau berjumlah 7?
+b.	
+Peluang mendapatkan angka yang sama atau berjumlah 8?
+c.	
+Peluang mendapatkan jumlah 7 atau jumlah 8?
+267
+
+ Bab 7 | Peluang
+Pengayaan: 	
+Percobaan Jarum Buffon (Proyek Aktivitas ICT)
+Dalam aktivitas ini, kamu akan menggunakan aplikasi Spreadsheet, misalnya 
+Microsoft Excel.
+Bangsawan Prancis Le Comte de Buffon menciptakan sebuah percobaan 
+peluang sebagai berikut.
+1.	
+Ukurlah panjang sebatang korek api (dengan bagian kepala dipotong) 
+seakurat mungkin.
+2.	
+Pada sebuah kertas kosong gambarlah serangkaian garis yang saling 
+sejajar. Jarak antara setiap garis haruslah sama panjangnya dengan 
+batang korek api.
+3.	
+Ambillah sepuluh batang korek api yang sama panjangnya dan jatuhkan 
+secara acak di atas kertas. Hitunglah jumlah korek api yang memotong 
+atau menyentuh garis mana pun. Sebagai contoh dalam gambar berikut, 
+jumlah korek api yang memotong atau menyentuh garis ada enam.
+4.	
+Ulangi percobaan sembilan kali lagi, dan catat hasilnya, sehingga 
+keseluruhan kamu telah menjatuhkan 100 korek api.
+5.	
+Buatlah Spreadsheet yang mirip dengan yang di bawah ini dan 
+masukkan hasilmu pada cell B2.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+268
+ 
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+1
+Jumlah 
+dijatuhkan 
+(N)
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+2
+Jumlah korek 
+memotong/
+menyentuh 
+garis (n)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+Peluang 
+memotong 
+garis (p = n/N)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+2
+p
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.	
+Ulangi menjatuhkan 100 korek api lagi, sehingga total ada 200 kali, dan 
+masukkan hasil kumulatif pada cell C2.
+7.	
+Dengan menggabungkan hasil dengan siswa lain, masukkan hasil 
+kumulatif menjatuhkan korek api 300-1.000 kali di masing-masing cell 
+D2-K2.
+8.	
+Dengan menggunakan rumus yang sesuai, gunakan Spreadsheet untuk 
+menyelesaikan perhitungan di baris 3 dan 4.
+9.	
+Gunakan Spreadsheet untuk membuat plot grafik garis dari N terhadap 2
+p.
+10.	 Nilai apa yang 2
+p semakin mendekati?
+Sumber: https://www.mathsisfun.com/activity/buffons-needle.html
+269
+
+ Bab 7 | Peluang
+Refleksi 	
+Dalam bab ini, kamu sudah belajar bagaimana menentukan peluang 
+menggunakan ruang sampel dari kejadian yang hasilnya sama 
+kemungkinannya. Ayo, refleksikan kembali dengan menjawab pertanyaan 
+berikut.
+1.	
+Apa itu distribusi peluang?
+2.	
+Apa itu kejadian yang saling lepas? Berikan contoh dua kejadian yang 
+saling lepas. Berikan dua contoh kejadian yang tidak saling lepas.
+3.	
+Bagaimana menentukan ketika A dan B saling lepas dan ketika tidak 
+saling lepas? 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+270
+Glosarium                                              
+barisan bilangan
+merupakan kumpulan bilangan yang memiliki 
+urutan dan disusun menurut pola tertentu.
+cosinus
+perbandingan nilai sisi samping dan sisi miring 
+sebuah sudut pada segitiga siku-siku.
+clinometer
+alat sederhana untuk mengukur sudut elevasi atau 
+sudut depresi.
+deret bilangan
+penjumlahan suku-suku pada barisan bilangan.
+deret divergen
+deret bilangan yang tidak dapat ditentukan 
+jumlahnya.
+deret konvergen 
+deret bilangan yang dapat ditentukan jumlahnya.
+distribusi peluang 
+deskripsi dari semua kemungkinan hasil dari situasi 
+acak, bersama dengan peluang terjadinya masing-
+masing.
+diskriminan
+pembeda jenis-jenis akar persamaan kuadrat.
+eksponen 
+nilai yang menunjukkan derajat kepangkatan suatu 
+bilangan.
+fungsi eksponensial 
+fungsi berbentuk perpangkatan dengan variabel 
+bebasnya adalah pangkat dari konstanta fungsi 
+tersebut.
+fungsi kuadrat 
+adalah fungsi suku banyak dengan pangkat tertinggi 
+variabelnya adalah 2.
+kejadian saling lepas 
+kejadian di mana tidak mungkin untuk terjadi pada 
+hasil yang sama.
+peluang 
+kemungkinan yang mungkin terjadi/muncul dari 
+sebuah peristiwa. 
+P(A dan B)
+peluang bahwa kejadian A dan B terjadi pada hasil 
+yang sama.
+271
+P(A atau B)
+peluang bahwa kejadian A atau B terjadi.
+pertumbuhan 
+eksponen 
+peningkatan secara eksponensial pada kurun waktu 
+tertentu.
+peluruhan eksponen
+penurunan secara ekponensial pada kurun waktu 
+tertentu.
+ruang sampel
+himpunan semua kemungkinan hasil yang 
+didapatkan dari suatu percobaan peluang.
+median 
+nilai data yang berada tepat di tengah Ketika seluruh 
+data diurutkan dari yang terkecil sampai yang 
+terbesar.
+modus 
+data yang paling sering muncul atau memiliki 
+Frekuensi paling besar.
+jangkauan 
+selisih antara data terkecil dengan data terbesar.
+line plot 
+garis bilangan dengan banyaknya tanda X 
+menunjukkan banyaknya data yang muncul dengan 
+nilai tertentu.
+mean 
+bilangan yang diperoleh dengan mendistribusikan 
+secara merata ke seluruh anggota dari kumpulan 
+data.
+kuartil 
+membagi kumpulan data menjadi 4 bagian sama 
+besar.
+linear 
+semua variabelnya berpangkat satu.
+persamaan
+kalimat terbuka yang memuat hubungan sama 
+dengan “=”. 
+persentil
+membagi kumpulan data menjadi 100 bagian sama 
+besar.
+pertidaksamaan 
+kalimat terbuka yang memuat hubungan tidak sama 
+dengan (bisa berupa “≠”, “<”, maupun “>”).
+pola bilangan 
+susunan angka-angka yang membentuk pola 
+tertentu.
+272
+rasio
+nilai perbandingan antara dua bilangan pada 
+barisan dan deret geometri.
+sinus
+perbandingan nilai sisi depan dan sisi miring sebuah 
+sudut pada segitiga siku-siku.
+sistem
+simultan.
+solusi
+nilai yang membuat persamaan (atau sistem 
+persamaan) bernilai benar.
+sumbu simetri
+garis sumbu yang melalui titik puncak fungsi 
+kuadrat.
+tangen
+perbandingan nilai sisi depan dan sisi samping 
+sebuah sudut pada segitiga siku-siku.
+theodolit
+alat pengukur sudut yang biasa digunakan oleh juru 
+tanah. titik puncak: titik terendah atau titik tertinggi 
+pada fungsi kuadrat. trigonometri: studi pola 
+bermakna mengenai hubungan antara sudut dan sisi 
+segitiga.
+273

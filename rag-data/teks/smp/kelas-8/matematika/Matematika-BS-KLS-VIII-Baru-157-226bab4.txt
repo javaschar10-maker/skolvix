@@ -1,0 +1,4682 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VIII
+Penulis: Mohammad Tohir, dkk. 
+ISBN: 978-602-427-919-6 (Jil.2)
+Bab 4
+RELASI DAN FUNGSI
+Kapan suatu relasi dapat 
+menyatakan fungsi di himpunan?
+Matematika untuk SMP/MTs Kelas VIII
+138
+Pengantar bab
+Gambar 4.1 Siswa sedang berdiskusi
+Gambar 4.1 mengilustrasikan beberapa kelompok siswa sedang 
+berdiskusi materi relasi dan fungsi. Setiap siswa menduduki kursi 
+tertentu  yang telah ditentukan. Terlihat dengan jelas bahwa tidak ada 
+siswa yang berbagi tempat duduk, akan tetapi untuk kursi panjang 
+dapat menampung banyak siswa. Akibatnya, ada hubungan antara 
+siswa dan kursi tempat mereka duduk. Bagaimana menurut sudut 
+pandang  kalian dalam hal ini, apakah kejadian ini termasuk relasi atau 
+fungsi?
+Pada bagian pengantar Bab 4 ini, kalian diberikan informasi 
+tentang hubungan antara siswa dengan tempat duduk yang diduduki, 
+hubungan ini terkait dengan materi relasi dan fungsi. 
+Selamat menikmati aktivitas belajar kalian.
+Tujuan Pembelajaran
+Setelah menyelesaikan materi Bab 4 ini, siswa diharapkan mampu:
+ 
+√Memahami konsep himpunan, relasi dan fungsi.
+Bab 4 | Relasi dan Fungsi
+139
+ 
+√Menjelaskan contoh kegiatan sehari-hari yang berkaitan dengan 
+himpunan, relasi dan fungsi.
+ 
+√Menjelaskan cara menyajikan relasi berdasarkan ciri-cirinya.
+ 
+√Menjelaskan cara menyajikan fungsi berdasarkan ciri-cirinya.
+ 
+√Menjelaskan nilai fungsi dan graik fungsi pada koordinat 
+Cartesius.
+ 
+√Menyajikan hasil penyelesaian masalah yang terkait relasi dan 
+fungsi.
+Pertanyaan Pemantik
+ 
+■
+Apa yang dapat kalian pahami tentang himpunan?
+ 
+■
+Apa yang dapat kalian ketahui tentang relasi?
+ 
+■
+Apa sajakah syarat suatu relasi dapat dikatakan sebagai fungsi?
+ 
+■
+Apakah ada suatu fungsi dari suatu himpunan tertentu ke 
+himpunan dirinya sendiri?
+ 
+■
+Tunjukkan ada berapa banyak cara yang berbeda untuk 
+menyatakan suatu fungsi dari dua himpunan.
+ 
+■
+Bagaimana cara menghitung nilai fungsi linier?
+ 
+■
+Karakteristik apa sajakah yang mengidentiikasi korespondensi 
+satu-satu?
+Kata Kunci
+ 
+■
+Himpunan,
+ 
+■
+hubungan,
+ 
+■
+relasi,
+ 
+■
+fungsi,
+ 
+■
+fungsi khusus,
+ 
+■
+korespondensi satu-satu.
+Matematika untuk SMP/MTs Kelas VIII
+140
+Peta Konsep
+Relasi dan Fungsi
+Relasi
+Fungsi
+Korespondensi
+Satu-satu
+Menyajikan
+Relasi
+Pengertian
+Grafik
+Fungsi
+Domain
+Kodomain
+Range
+Rumus
+Fungsi
+Himpunan
+Pasangan
+Berurutan
+Diagram
+Panah
+Diagram
+Cartesius
+Rumus
+Fungsi
+Pengertian
+Bab 4 | Relasi dan Fungsi
+141
+A. Memahami Relasi
+1. Pengertian Himpunan
+Ayo Bereksplorasi
+Dapatkah kalian memahami terhadap bagan silsilah keluarga pada 
+Gambar 4.2 berikut?
+Gambar 4.2 Diagram Pohon Keluarga
+Pada Gambar 4.2 di atas menunjukkan silsilah pohon keluarga 
+tertentu yang menghubungkan antara orang tua dengan anak-
+anaknya, yaitu keluarga besar Bani Madhuri.  Adapun  anak panah 
+yang menghubungkan diantara  mereka adalah mewakili pasangan 
+antara orang tua dengan anaknya, yaitu memiliki hubungan adalah 
+"mempunyai  anak". Anak pertama dari Bani Madhuri adalah Sulastri, 
+anak kedua adalah M. Idris, anak ketiga adalah A. Halim, dan anak 
+keempat adalah M. Tohir.
+Apabila dimisalkan himpunan A merupakan anak-anak dari Bani 
+Madhuri tersebut,  maka anggota himpunannya terdiri dari Sulastri, 
+M. Idris, A. Halim, dan M. Tohir; sehingga anggota himpunannya bisa 
+ditulis sebagai berikut.
+A = {Sulastri, M. Idris, A. Halim, M. Tohir}
+Bapak Madhuri
+Ibu Marhawi
+Sulastri
+Wafi
+Faisol
+Aluk
+Risqi
+Hasbi
+Alvin
+Najwa
+Mu’arif
+M. Idris
+Maisaroh
+A. Adzim
+S. Harini
+A. Halim
+Muhasshanah
+M. Tohir
+1
+1
+1
+2
+1
+1
+2
+3
+4
+2
+3
+4
+Matematika untuk SMP/MTs Kelas VIII
+142
+Jadi, banyak anggota dari himpunan A adalah  ada 4 orang, 
+dapat dinotasikan dengan  n(A) = 4 atau disebut dengan kardinalitas 
+himpunan, sedangkan cucu dari Bani Madhuri tersebut bisa dimisalkan 
+sebagai himpunan B, yakni anggota himpunan B terdiri dari A. Wai, 
+Faisol, Aluk, Risqi, Hasbi, Alvin, Nazwa, dan Mu’arif; sehingga anggota 
+himpunannya bisa ditulis sebagai berikut.
+B = {A. Wai, Faisol, Aluk, Risqi, Hasbi, Alvin, Najwa, Mu’arif}
+Jadi, banyaknya anggota himpunan B adalah 8 orang, dinotasikan 
+dengan  n(A) = 8 atau disebut kardinalitas himpunan, sedangkan 
+apabila dicermati antara himpunan B dan A, maka keduanya memiliki 
+hubungan sebaliknya, yaitu hubungan sebagai "anak dari". Sedangkan 
+anggota himpunan B dengan kedua orag tua tersebut dapat memiliki 
+hubungan sebagai "cucu dari".
+Dengan demikian, menunjukkan bahwa kedua himpuan tersebut 
+sebagai salah satu jenis hubungan yang dapat dibentuk. Kemudian, 
+coba kalian gunakan diagram pohon keluarga seperti pada Gambar 4.2 
+di atas untuk masing-masing silsilah keluarga kalian.
+Pengertian:
+Himpunan adalah kumpulan dari beberapa objek tertentu yang 
+dapat diidentiikasi dengan jelas.
+Pengertian:
+Himpunan semesta adalah himpunan yang memuat seluruh 
+anggota tertentu yang sedang dibicarakan dan dilambangkan 
+dengan huruf S.
+Pengertian:
+Kardinalitas himpunan adalah bilangan yang menunjukkan 
+banyaknya anggota himpunan dalam himpunan tertentu dan 
+dinotasikan dengan n(A).
+Bab 4 | Relasi dan Fungsi
+143
+2. Penyajian  Himpunan
+Gambar 4.3 Berbagai jenis makanan dari Jagung
+Tahukah kalian bahwa bahan baku masakan tersebut adalah jagung? 
+Namun, itu dapat dibuat dalam berbagai rasa, bentuk, dan tampilan. 
+Demikian pula, himpunan dapat disajikan dalam beberapa cara tanpa 
+mengubah maknanya.
+Ada tiga cara untuk menyatakan himpunan tanpa mengubah 
+maknanya, yaitu sebagai berikut.
+1) 
+Cara Deskripsi: Himpunan dinyatakan dengan cara kata-kata
+Himpunan dapat direpresentasikan dengan menggambarkan 
+karakteristik yang dimiliki setiap anggota himpunan.
+Contoh 4.1
+Himpunan A  = {huruf vokal alfabet latin}
+Himpunan B = {kumpulan hewan ternak}
+Himpunan C = {bilangan prima kurang dari tujuh belas}
+Himpunan D = {bilangan ganjil antara 1 dan 15}
+2) 
+Cara Enumerasi: Himpunan dinyatakan dengan cara menyebutkan 
+anggota-anggotanya
+Anggota himpunan dapat dinyatakan dengan memberikan daftar 
+semua anggotanya. Jika anggotanya banyak, cukup dilambangkan 
+dengan tiga titik (…)  yang artinya "dan seterusnya".
+Matematika untuk SMP/MTs Kelas VIII
+144
+Contoh 4.2
+Himpunan E = {a, i, u, e, o} 
+Himpunan F = {2, 3, 5, 7, 11, 17, 19} 
+Himpunan G =  {2, 4, 6, 8, … , 20} 
+Himpunan H = {…, –3, –2, –1, 0, 1, 2, 3, …}
+Pada himpunan F, semua anggota himpunan dituliskan. Sedangkan 
+pada himpunan G, tidak semua anggota himpunan dituliskan 
+anggotanya, hanya beberapa anggota yang awal, yaitu 2, 4, 6, 8, dan 
+anggota himpunan terakhir, yaitu 20. Jika anggotanya diurutkan 
+dari angka 2, 4, 6,… sampai dengan 20, dan apabila disebutkan 
+jumlah anggotanya, ternyata ada 10 anggota. 
+Himpunan F dan G dinamakan sebagai himpunan berhingga.
+Bilangan terbesar yang merupakan anggota himpunan H tidak 
+dapat ditentukan karena tidak semua anggotanya dapat diapit 
+oleh kurung kurawal. Jadi, jika banyak anggota dihitung, banyak 
+anggota tidak terhingga. 
+Himpunan H dinamakan sebagai himpunan tak berhingga.
+Kemudian, coba temukan minimal 5 contoh untuk himpunan 
+berhingga dan minimal 5 contoh juga untuk himpunan tak 
+berhingga.
+Petunjuk:
+Penyajian himpunan tak berhingga lebih tepat direpresentasikan 
+dengan cara notasi pembentuk himpunan.
+3) 
+Cara Notasi Himpunan: Himpunan dinyatakan  dengan cara menggu-
+nakan notasi pembuat himpunan
+Konstruktor himpunan bisa digunakan untuk mengekspresikan 
+pembentuk himpunan. Bentuk umum dari notasi ini adalah {x| 
+P(x)}, dengan simbol x melambangkan anggota himpunan dan 
+Bab 4 | Relasi dan Fungsi
+145
+fungsi P(x) menyatakan persyaratan yang harus dipenuhi oleh x 
+tersebut untuk menjadi anggota himpunan. Variabel lain dapat 
+juga digunakan untuk mengganti simbol x, seperti a, b, c, y, z, dan 
+lain-lain.
+Contoh 4.3
+Himpunan A = {y | y >10, dengan y merupakan bilangan asli}.
+Himpunan B = {y | y < 20, dengan y merupakan bilangan prima}.
+Himpunan C = {x | x < 8, dan x ∈ A}.
+Himpunan D = {x | 1 < x < 9, dengan x merupakan bilangan ganjil}.
+Himpunan E = {x | 3 < x < 12, dengan x merupakan bilangan riil}.
+Untuk selanjutnya  Bilangan Bulat bisa ditulis dengan huruf “B”, Bilangan 
+Cacah distulis dengan huruf  “C” dan Bilangan Asli ditulis huruf “A”.
+Ayo Berpikir Kritis
+Suatu himpunan yang diajukan dengan menunjukkan anggotanya, 
+menurut Ariin, dapat disajikan hanya dalam satu cara, yaitu dengan 
+menunjukkan sifat keanggotaannya. Menurut Bahrudin, himpunan yang 
+disajikan oleh notasi pembentukan himpunan dapat ditentukan dengan 
+hanya satu cara, yaitu dengan cara menuliskan anggota-anggotanya. 
+Bagaimana menurut kalian? Jelaskan.
+Ayo Berkomunikasi
+1. 
+Diketahui Himpunan A = {bilangan cacah kurang dari lima}.
+a. 
+Apabila menggunakan cara Enumerasi, maka himpunan A 
+dapat ditulis menjadi A = {0, 1,… ,…,…}. 
+b. 
+Apabila dinyatakan  dengan notasi pembentuk himpunannya, 
+maka himpunan A dapat ditlus menjadi A = {x|x < … , dan x ∈ 
+B}.
+Matematika untuk SMP/MTs Kelas VIII
+146
+2. 
+Diketahui Himpunan B = {x | - 2 < x < 3, dan x ∈ B}.
+a. 
+Apabila menggunakan cara Enumerasi, maka himpunan B 
+dapat ditlis menjadi B =  {-1,…,…, …}.
+b. 
+Apabila disajikan dengan menyebutkan sifat keanggota-
+anggotanya, maka himpunan B dapat ditulis menjadi B = 
+{bilangan bulat lebih dari … dan kurang dari …}.
+3. 
+Apabila diketahui suatu himpunan C =  {6, 8, 10, 12, 14, 16}; maka 
+nyatakan himpunan C tersebut dengan cara:
+a. 
+Deskripsi
+b. 
+Enumerasi
+c. 
+notasi himpunan
+4. 
+Apabila diketahui himpunan D = {suatu bilangan kurang dari 
+30 dan merupakan bilangan ganjil yang habis dibagi tiga}; maka 
+nyatakan himpunan D tersebut dengan cara:
+a. 
+notasi himpunan.
+b. 
+menyatakan anggota-anggotanya.
+5. 
+Lengkapi Tabel berikut ini.
+No.
+Cara Deskripsi
+Cara Enumerasi
+Cara Notasi Himpunan
+1.
+E = {bilangan asli kurang 
+dari 10}
+2.
+F = {2, 3, 5, 7, 11, 13}
+3.
+|
+,
+G
+x
+x
+x
+B
+5
+4
+<
+#
+!
+=
+-
+4.
+H = {bilangan ganjil 
+kurang dari 16}
+5.
+,
+}
+I
+x
+x
+x
+A
+3
+12
+1
+#
+!
+= "
+6.
+J = {1, 2, 3, 4, 6, 12, 24}
+7.
+K = {1, 4, 9, 16, 25}
+8.
+|
+,
+,
+L
+x x
+y y
+A y
+3
+2
+!
+!
+=
+=
+Bab 4 | Relasi dan Fungsi
+147
+Diketahui himpunan A = {1, 4, 9, 16, 36, 49}. Bila dinyatakan 
+dengan notasi pembentuk Himpunan, menjadi A = 
+|
+,
+.
+dan
+x
+x
+B x
+x
+8
+5
+<
+2
+!
+!
+"
+, Coba nyatakan himpunan A tersebut 
+dengan menggunakan kata-kata atau deskripsi yang berbeda-beda 
+sebanyak mungkin. Semakin banyak kalian menemukannya semakin 
+bagus.
+Pengertian:
+Apabila Himpunan A merupakan himpunan bagian B, maka setiap anggota 
+A juga menjadi anggota B yang dinotasikan dengan A ∈ B. 
+Apabila himpunan A bukan merupakan himpunan bagian B, maka terdapat 
+anggota A yang bukan termasuk anggota B dengan notasi A ∈ B.
+Apabila himpunan A = {2, 4, 6, 8}; maka paling sedikit salah satu 
+himpunan semestanya harus bilangan genap. Kalau kalian? Coba 
+temukan sebanyak 3 himpunan semesta yang berbeda  yang mungkin 
+untuk himpunan A tersebut.
+Dari 50 siswa kelas 8 SMP Merdeka Belajar, ada sepuluh siswa yang 
+menyukai sepak bola, bulu tangkis, dan bola basket. Siswa yang tidak 
+menyukai ketiga permainan ini merupakan sepertiga dari mereka yang 
+menyukai bola basket, dan lebih dari 15 siswa menyukai sepak bola. 
+Menurutmu dari ketiga olah raga tersebut, mana yang paling banyak 
+disukai? Tulislah langkah-langkah untuk mendapatkan jawaban tersebut.
+Ayo Berpikir Kreatif
+Ayo Mengingat Kembali
+Ayo Berpikir Kreatif
+Ayo Berkomunikasi
+Matematika untuk SMP/MTs Kelas VIII
+148
+Ayo Berteknologi
+Jika kalian ingin memepelajari contoh operasi 
+pada himpunan dapat klik link berikut. 
+https://s.id/1uhnP
+Setelah kalian mempelajari materi himpunan, selain memahami tentang 
+materi himpunan itu sendiri dengan baik, tentu ada beberapa pesan 
+moral yang bisa kalian peroleh setelah mempelajari himpunan. Pesan 
+moral tersebut antara lain
+1. 
+Apabila diketahui himpunan A = {5, 6, 7, 8, 9}, maka himpunan 
+semesta dari himpunan A akan berbeda-beda, namun semua 
+benar. Ini berarti bahwa setiap orang memiliki sudut pandang 
+dan pendapat yang berbeda karena setiap orang berpikir secara 
+berbeda-beda. Walaupun berbeda-beda kalian tidak boleh 
+terlalu mudah menyalahkan pendapat  orang lain, tidak boleh 
+memaksakan pendapat kepada orang lain karena ternyata semua 
+pendapat itu ternyata benar. 
+2. 
+Himpunan 
+kosong 
+adalah 
+himpunan 
+bagian 
+dari 
+semua 
+himpunan. Kalau kalian memiliki hati yang bersih, tidak pernah 
+berbohong, maka kalian akan diakui menjadi bagian dari banyak 
+kelompok orang yang punya kepentingan berbeda-beda, kalian 
+akan mempunyai teman yang banyak dari berbagai kelompok 
+orang, sehingga punya jaringan yang luas dari berbagai kelompok 
+masyarakat.
+3. 
+Banyak himpunan bagian dari suatu himpunan, ditentukan oleh 
+banyak anggota dari himpunan tersebut. Kalau kalian mempunyai 
+banyak teman, banyak bersilaturrahim maka kalian akan 
+mendapatkan manfaat  dan kebaikan yang banyak pula dari teman 
+kalian.
+Penguatan Karakter
+Bab 4 | Relasi dan Fungsi
+149
+3. Pengertian Relasi
+Ayo Bereksplorasi
+Gambar 4.4 Menu Rumah Makan
+Andino berencana merayakan ulang tahunnya yang ke-13, ia  meminta 
+Natalia, Tauiq, Panggabean, dan Nyoman untuk bergabung di acara 
+ulang tahunnya di restoran "ABC".
+Restoran ABC menyajikan nasi goreng, sate, bakso, rawon, soto, dan 
+rujak cingur. Berdasarkan daftar kesukaan mereka, setiap anak tidak 
+memiliki pilihan makanan yang sama dan mereka memiliki kesukaan 
+makanan yang berda.
+a. 
+Andino suka "rawon dan soto", untuk saat ini dia hanya 
+memesan rawon.
+b. 
+Natalia suka "sate, rujak cingur, dan bakso", untuk saat ini dia 
+hanya memesan rujak cingur.
+c. 
+Tauiq suka "nasi goreng dan sate", untuk saat ini dia hanya 
+memesan nasi goreng.
+Matematika untuk SMP/MTs Kelas VIII
+150
+d. 
+Panggabean memesan bakso meskipun dia lebih suka "rawon, 
+soto, dan bakso".
+e. 
+Nyoman suka "nasi goreng dan soto", untuk saat ini dia hanya 
+memesan soto.
+Apabila dimisalkan A merupakan himpunan anak, dan B 
+merupakan himpunan makanan, maka anggota himpunan masing-
+masing adalah sebagai berikut:
+A = {Andino, Natalia, Tauiq, Panggabean, Nyoman }
+B = { nasi goreng, sate, bakso, rawon, soto, dan rujak cingur } 
+Berdasarkan informasi tersebut, maka makanan yang dipesan 
+oleh masing-masing anak adalah Andino memesan soto, Natalia 
+memesan bakso, Tauiq  memesan sate,  Panggabean memesan bakso, 
+dan  Nyoma memesan soto. Nama anak dan makanan yang dipesan 
+merupakan pasangan berurutan yang dapat dikatakan sebagai relasi 
+atau hubungan diantara  keduanya, yaitu relasi antara nama anak 
+dengan makanan yang dipesan di warung “ABC”.
+Pengertian:
+Relasi dari himpunan A ke himpunan B adalah hubungan dari 
+masing-masing anggota himpunan A ke anggota himpunan 
+B. Dengan kata lain, dapat dinyatakan bahwa hubungan dari 
+himpunan A ke himpunan B dapat dideinisikan sebagai himpunan 
+bagian dari A × B (A cross B). Adapun relasi dari himpunan A 
+ke himpunan B dapat dikenalkan dengan tiga istilah, yaitu: 
+(a) himpunan A dikenal sebagai daerah asal atau domain, (b) 
+himpunan B dikenal sebagai daerah kawan atau kodomain, dan 
+(c) himpunan bagian dari himpunan B yang semua elemennya 
+mendapat pasangan dalam elemen-elemen himpunan A dapat 
+disebut dengan Daerah Hasil atau Range.
+Berdasarkan pengertian relasi di atas, menunjukkan bahwa daerah 
+asalnya adalah A, dan daerah kawan adalah B. Sehingga relasinya 
+dapat ditulis hubungan dari himpunan A ke himpunan B dan dapat 
+Bab 4 | Relasi dan Fungsi
+151
+dituliskan juga bahwa pasangan berurutannya adalah {(Andino, soto), 
+(Natalia, bakso), (Tauiq, sate),  (Panggabean, bakso), dan  (Nyoman, 
+soto)}.
+Sekarang, coba kalian temukan beberapa masalah yang terkait materi 
+relasi.
+1. 
+Bentuk hubungan seperti apa yang mungkin dapat dibuat? 
+2. 
+Bagaimana bentuk hubungan tersebut dapat diketahui dengan 
+pasti?
+Ayo Berteknologi
+Jika kalian masih belum mengerti tentang 
+istilah Domain, Kodomain, dan Range, kalian 
+dapat melihat di link berikut. 
+http://ringkas.kemdikbud.go.id/Domain
+4. Penyajian Relasi
+Hasil pengumpulan informasi mata pelajaran favorit oleh lima siswa 
+kelas VIII dapat disajikan pada Tabel 4.1 berikut.
+Tabel 4.1 Mata Pelajaran Favorit Siswa Kelas VIII
+Siswa
+Mata Pelajaran Favorit
+Aisyah
+Matematika dan IPA
+Burhan
+Kesenian, IPS, dan IPA
+Cintia
+Keterampilan dan Olahraga
+Durahman
+Bahasa Inggris dan Kesenian
+Eiman
+Keterampilan, IPA, dan Matematika
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+152
+Silakan diskusikan untuk mempresentasikan temuan data topik yang 
+diinginkan dalam tiga cara yang berbeda, yaitu: (1) diagram panah, (2) 
+himpunan pasangan berurutan, dan (3) pemaparan koordinat.
+Pembahasan 
+Informasi data pada Tabel 4.1 di halaman sebelumnya, dapat disajikan 
+dengan tiga cara, yaitu cara diagram panah, cara  diagram Cartesius, 
+atau cara himpunan pasangan berurutan. Berikan perhatian khusus 
+pada deskripsi berikut untuk memahami informasi data tersebut.
+Misalkan himpunan A = {Aisyah, Burhan, Cintia, Durahman, 
+Eiman}, himpunan B = {Matematika, IPA, IPS, Bahasa Inggris, Kesenian, 
+Keterampilan, Olahraga}, dan "mata pelajaran favorit" adalah relasi 
+antara himpunan A dan B.
+Cara Pertama: Diagram Panah
+Pada Gambar 4.5 menunjukkan adanya relasi "mata pelajaran favorit" 
+dari himpunan A ke himpunan B. Anak panah mewakili anggota 
+himpunan A yang terkait dengan anggota himpunan B.
+Gambar 4.5 mata pelajaran favorit
+A
+B
+Aisyah
+Burhan
+Cintia
+Durahman
+Eiman
+Matematika
+IPA
+IPS
+Bahasa Inggris
+Kesenian
+Ketrampilan
+Olahraga
+Bab 4 | Relasi dan Fungsi
+153
+Cara Kedua: Pemaparan Koordinat
+Pemaparan Koordinat adalah pendekatan kedua untuk menggambarkan 
+hubungan antara himpunan A dan B. Anggota himpunan A berada 
+pada sumbu horizontal, sedangkan anggota himpunan B berada pada 
+sumbu vertikal. Noktah atau titik melambangkan setiap pasangan 
+anggota himpunan A yang terhubung dengan anggota himpunan B. 
+Pada Gambar 4.5 menunjukkan pemaparan koordinat dari relasi “mata 
+pelajaran favorit” berdasarkan data pada Tabel 4.1.
+Gambar 4.6 Pemaparan Koordinat Favorit
+Cara Ketiga: Himpunan Pasangan Berurutan
+Jika data pada Tabel 4.1 di atas disajikan dengan cara pasangan 
+berurutan, maka data tersebut dapat ditulis seperti uraian berikut.
+Berikut ini penulisan dengan cara Himpunan Pasangan Berurutan 
+dari himpunan A ke himpunan B.
+{(Aisyah, Matematika), (Aisyah, IPA), (Burhan, IPA), (Burhan, IPS), 
+(Burhan, Kesenian), (Cintia, Keterampilan), (Cintia, Olahraga), 
+(Durahman, Bahasa Inggris), (Durahman, Kesenian), (Eiman, 
+Matematika), (Eiman, IPA), (Eiman, Keterampilan)}
+Penyajian pada uraian tersebut di atas mengilustrasikan bahwa 
+ada tiga macam cara yang dapat digunakan untuk merepresentasikan 
+hubungan antara himpunan A dan B.
+Aisyah
+Burhan
+Cintia
+Durahman
+Eiman
+Matematika
+IPA
+IPS
+Bahasa Inggris
+Kesenian
+Ketrampilan
+Olahraga
+Matematika untuk SMP/MTs Kelas VIII
+154
+Contoh 4.4
+Apabila diketahui suatu himpunan  A = {2, 3, 5}; himpunan B = 
+{1, 4, 5, 6}; dan relasi dari A ke B adalah “kurang dari”, maka coba 
+diskusikan bentuk relasi dari kedua himpunan tersebut:
+1. 
+sajikan dengan cara diagram panah, lalu tentukan: domain, 
+kodomain dan range;
+2. 
+sajikan dengan cara koordinat Cartesius;
+3. 
+sajikan dengan cara himpunan pasangan berurutan.
+Alternatif penyelesaian
+1. 
+diagram panah
+Domain 
+= {2, 3, 5}
+Kodomain 
+= {1, 4, 5, 6}
+Range  
+= {4, 5, 6}
+2. 
+koordinat Cartesius
+3. 
+himpunan pasangan berurutan 
+Himpunan pasangan berurutan 
+,
+;
+,
+;
+,
+;
+,
+;
+,
+;
+,
+;
+,
+2 4
+2 5
+2 6
+3 4
+3 5
+3 6
+5 6
+= ^
+^
+^
+^
+^
+^
+^
+h
+h
+h
+h
+h
+h
+h
+"
+,
+A
+B
+2
+Kurang dari
+3
+5
+1
+4
+5
+6
+1
+2
+3
+4
+5
+6 x
+-1
+1
+-1
+2
+3
+4
+5
+6
+y
+Bab 4 | Relasi dan Fungsi
+155
+Diketahui ada dua himpunan bilangan, yaitu bilangan A = {bilangan 
+bulat antara 2 dan 7} dan B = {enam bilangan cacah pertama}. Apabila 
+relasi dari himpunan A ke himpunan B adalah "satu lebihnya dari", 
+maka coba tentukan daerah domain, kodomain, dan rangenya.
+Jawaban Siswa A
+Diketahui  
+A = {bilangan bulat antara 2 dan 7} 
+ 
+ 
+B = {enam bilangan cacah pertama}
+Lalu, mendaftar anggotanya dari kedua bilangan tersebut, yaitu:
+A = {3, 4, 5, 6} dan B = {0, 1, 2, 3, 4, 5}
+Kemudian, untuk menentukan domain, kodomian, dan range dengan 
+diagram panah
+Berdasarkan diagram panah tersebut, 
+didapat daerah ketiganya adalah
+Domain  
+= {3, 4, 5, 6}
+Kodomain 
+= {0, 1, 2, 3, 4, 5}
+Range 
+ 
+= {2, 3, 4, 5}
+Jawaban Siswa B
+Mendaftar anggotanya dari kedua bilangan tersebut, yaitu:
+A = {3, 4, 5, 6} dan B = {0, 1, 2, 3, 4, 5}
+Untuk menentukan domain, kodomain, dan range dengan diagram 
+Cartesius
+Ayo Berkomunikasi
+A
+B
+3
+Satu lebihnya dari
+4
+5
+6
+0
+1
+2
+3
+4
+5
+Matematika untuk SMP/MTs Kelas VIII
+156
+Dengan demikian, didapat
+Domain  
+= {3, 4, 5, 6}
+Kodomain 
+= {0, 1, 2, 3, 4, 5}
+Range 
+ 
+= {2, 3, 4, 5}
+Jawaban Siswa C
+Mendaftar anggotanya dari kedua bilangan tersebut, yaitu:
+A = {3, 4, 5, 6} dan B = {0, 1, 2, 3, 4, 5}
+Relasi dari himpunan A ke himpunan B adalah "satu lebihnya dari", 
+maka himpunan pasangan berurutannya adalah  {(3, 2), (4, 3), (5, 
+4),(6, 5)}
+Oleh karena itu, maka daerah domain, kodomain, dan rangenya 
+didapat:
+Domain  
+= {3, 4, 5, 6}
+Kodomain 
+= {0, 1, 2, 3, 4, 5}
+Range 
+ 
+= {2, 3, 4, 5}  
+Ada tiga siswa yang menjawab soal tersebut dengan cara yang berbeda. 
+Manakah dari jawaban ketiga siswa yang paling mudah menurut kalian? 
+Mengapa? Apa yang harus dipertimbangkan dalam mengomunikasikan 
+yang baik?
+Diketahui himpunan A = {2, 3, 4, 5, 6, 7}, dan himpunan B = {4, 9, 
+16, 25, 36, 49}; relasi antara anggota himpunan A dan B adalah akar 
+dari. Hubungan ini dapat dinyatakan dalam pasangan berurutan, 
+seperti (2,4), yang menunjukkan dua faktor dari empat; (3,9), yang 
+berarti tiga hasil akar dari sembilan; dan seterusnya. Jadi, himpunan 
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+A
+B
+Ayo Berpikir Kreatif
+Bab 4 | Relasi dan Fungsi
+157
+relasi dari pasangan terurut adalah {(2,4); (3,9); (5,25); (6,36); (7,49)}. 
+Cobalah temukan untuk membuat setidaknya tiga contoh lebih lanjut 
+dari hubungan antara anggota himpunan A dan B, coba temukan 
+3 macam relasi lain yang berbeda dari A dan B. Hubungan tersebut 
+kemudian dapat ditunjukkan dengan menggunakan cara diagram 
+panah, koordinat Cartesius, dan himpunan pasangan berurutan.
+Perhatikan Gambar 4.7 pada halaman berikut.  
+Durahman mengatakan bahwa diagram 
+pada Gambar 4.7 termasuk bukan relasi, 
+karena ada satu anggota yang bukan 
+merupakan anggota dari himpunan B 
+dipasangkan dengan anggota himpunan 
+A, yaitu bilangan 5 dipasangkan dengan 
+huruf f. Akan tetapi, hubungan dari 
+himpunan A ke himpunan B merupakan 
+relasi”. Sedangkan Bahrudin mengatakan 
+bahwa 
+“diagram 
+pada 
+Gambar 
+4.7 
+termasuk relasi, meskipun ada satu 
+anggota yang bukan merupakan anggota 
+dari himpunan B dipasangkan dengan anggota himpunan A, yaitu 
+bilangan 5 dipasangkan dengan huruf f. Akan tetapi, hubungan dari 
+himpunan A ke himpunan B bukan merupakan relasi”. Bu Muhas 
+menyimak terhadap kedua pendapat tersebut dan memberikan 
+tanggapan bahwa pernyataan yang tepat adalah pendapat Pak 
+Durahman. Apakah kalian setuju dengan tanggapan Bu Muhas? Coba 
+jelaskan alasan kalian.
+Setelah kalian mempelajari materi relasi pada buku ini, coba kalian 
+kembangkan pengetahuan kalian tentang relasi dengan mengunjungi 
+laman berikut.
+Ayo Berpikir Kritis
+Gambar 4.7 Diagram
+A
+B
+1
+2
+3
+4
+5
+6
+7
+a
+b
+c
+d
+e
+f
+Ayo Berteknologi
+Matematika untuk SMP/MTs Kelas VIII
+158
+Cara Mudah Memahami Relasi. 
+s.id/1uhod
+Pengembangan Materi Relasi. 
+http://ringkas.kemdikbud.go.id/MateriRelasi
+1. 
+Apabila diketahui himpunan 
+, , , , ,
+A
+2 3 4 6 8 10
+= "
+, dan himpunan 
+, , ,
+;
+B
+1 2 3 5
+= "
+, maka kemungkinan relasi antara anggota himpunan 
+A dan B adalah dua kali dari. Hasilnya, himpunan pasangan 
+berurutan dari relasi tersebut adalah 
+,
+;
+,
+;
+,
+;
+,
+.
+2 1
+4 2
+6 3
+10 5
+^
+^
+^
+^
+h
+h
+h
+h
+"
+, 
+Dapatkah kalian menemukan setidaknya tiga contoh lebih lanjut 
+dari hubungan antara anggota himpunan A dan B? Hubungan 
+tersebut kemudian ditunjukkan dengan menggunakan diagram 
+panah, koordinat Cartesius, dan himpunan pasangan berurutan.
+2. 
+Berdasarkan diagram berikut ini, bagaimana cara menentukan 
+aturan relasi yang mungkin didapat? Jelaskan.
+Soal Laihan
+4.1
+Ayo Berpikir Kreatif
+0
+1
+2
+3
+0
+1
+4
+9
+4
+Bab 4 | Relasi dan Fungsi
+159
+3. 
+Perhatikan dua himpunan berikut.
+a. 
+Cobalah identiikasi kemungkinan hubungan antara dua 
+himpunan tersebut.
+b. 
+Berdasarkan hubungan tersebut yang telah kalian buat, coba 
+gambar diagram panahnya yang menghubungkan setiap 
+anggota himpunan A ke setiap anggota himpunan B.
+4. 
+Diketahui Himpunan 
+,
+;
+C
+3 4
+= "
+, himpunan 
+, ,
+;
+D
+3 4 5
+= "
+, dan 
+relasi dari himpunan C ke D adalah “kurang dari”. Nyatakan relasi 
+tersebut dalam tiga cara berikut:
+a. 
+Diagram panah
+b. 
+Diagram Cartesius 
+c. 
+Himpunan pasangan berurutan
+5. 
+Apabila relasi himpunan E ke F merupakan “akar dari” 
+dengan diketahui himpunan 
+, , , , ,
+E
+1 2 3 4 5 6
+= "
+, dan himpunan 
+, , , ,
+,
+,
+,
+,
+,
+,
+F
+1 2 4 9 12 16 20 25 36 49
+= "
+, maka nyatakan relasi tersebut 
+dengan tiga cara berikut ini:
+a. 
+himpunan pasangan berurutan.
+b. 
+diagram panah;
+c. 
+diagram Cartesius.
+6. 
+Tunjukkan hubungan antara dua himpunan di bawah ini dengan 
+menggunakan cara diagram panah, diagram Cartesius, atau 
+himpunan pasangan berurutan.
+a. 
+Apabila diketahui himpunan P = {2, 6, 8, 9, 15, 17, 21} dan 
+Q = {3, 4, 5, 7}; maka nyatakan hubungan dari himpunan 
+Jakarta
+New Delhi
+Manila
+Kuala Lumpur
+Tokyo
+Bangkok
+London
+Indonesia
+Malaysia
+Jepang
+Filipina
+India
+Matematika untuk SMP/MTs Kelas VIII
+160
+P ke himpunan Q yang relasinya "kelipatan dari" dengan 
+menggunakan cara diagram panah.
+b. 
+Apabila diketahui R = {2, 3, 5, 9, 12} dan S = {1, 4, 7, 10, 13}; 
+maka nyatakan hubungan dari himpunan R ke himpunan S 
+yang relasinya "satu lebihnya dari" dengan menggunakan cara 
+diagram cartesius.
+c. 
+Apabila diketahui T = {1, 2, 3, 4, 5, 6} dan U = {3, 4, 5, 6, 8};, 
+maka nyatakan hubungan dari himpunan T ke himpunan 
+U yang relasinya "faktor dari" dengan menggunakan cara 
+himpunan pasangan berurutan
+7. 
+Apabila diketahui dua himpunan K dan L, yaitu K = {0, 1, 2, 3} dan 
+L = {0, 2, 4, 6, 8}. Tuliskan sebanyak mungkin hubungan yang dapat 
+kalain temukan dari himpunan K ke himpunan L dan nyatakan 
+dalam tiga cara yang telah kalian pelajari.
+8. 
+Perhatikan Gambar berikut.
+Berdasarkan pemaparan koordinat pada Gambar di atas, tentukan 
+relasi yang mungkin terbentuk, kemudian nyatakanlah dengan 
+cara Diagram Panah dan Himpunan Pasangan Berurutan.
+9. 
+Doni, Alif, Sinta, Burhan, Durahman, dan Ridlo termasuk enam 
+siswa kelas VIII SMP Merdeka Belajar. Mereka memiliki banyak 
+ukuran sepatu. Doni dan Sinta memakai ukuran sepatu yang sama, 
+Ayo Berpikir Kritis
+Q
+P
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+Bab 4 | Relasi dan Fungsi
+161
+yaitu ukuran 38. Alif memakai sepatu ukuran 37. Burhan memakai 
+sepatu ukuran 40. Sementara itu, Durahman dan Ridlo sama-sama 
+memakai sepatu ukuran 39.
+a. 
+Nyatakanlah dengan cara Diagram Panah yang dapat 
+menghubungkan antara nama siswa kelas VIII SMP Merdeka 
+Belajar dengan ukuran sepatunya.
+b. 
+Gunakan koordinat Cartesius untuk menggambar hubungan 
+relasi tersebut.
+c. 
+Nyatakanlah dengan cara himpunan pasangan berurutan 
+yang dapat dibentuk hubungan relasi tersebut.
+10. Perhatikan gambar berikut ini.
+Candra menyatakan "Meskipun kedua himpunan tidak memiliki 
+satu hubungan di antara mereka, diagram pada gambar di 
+samping ini dapat diklaim sebagai relasi. Hubungannya adalah 
+tidak ada hubungan atau himpunan kosong. Dahlan menyatakan 
+bahwa "Diagram pada gambar di samping ini tidak dapat diklaim 
+sebagai suatu relasi karena dua himpunan tidak ada satu anggota 
+pun yang berpasangan dengan yang lain, namun tetap dianggap 
+sebagai suatu relasi. Sehingga tidak memiliki relasi antara kedua 
+himpunan tersebut”. Pak Mamad mengatakan bahwa pernyataan 
+yang benar adalah milik Candra. Setujukah kalian dengan jawaban 
+Pak Mamad? Apa alasanmu, jelaskan.
+Ayo Berpikir Kreatif
+A
+B
+a
+b
+c
+d
+e
+1
+2
+3
+4
+5
+Matematika untuk SMP/MTs Kelas VIII
+162
+B. Memahami Fungsi
+1. Karakteristik Fungsi
+Melalui kegiatan mencari pesan yang cocok pada suatu kode sandi, 
+kalian akan belajar dan memahami karakteristik fungsi.
+Pak Ahmad memberikan suatu pesan kepada Rudi seperti Gambar 4.8 
+berikut. Dapatkah kalian membantu Rudi dalam memahami pesan 
+tersebut?
+Gambar 4.8 Rudi membaca pesan
+Tentu kalian juga akan kebingungan membaca pesan tersebut 
+tanpa mengetahui pesan lain yang cocok. Berbeda halnya jika kalian 
+diberikan kode pesan lain oleh Pak Ahmad seperti berikut ini.
+Berdasarkan kode pada pesan kata sandi di atas menunjukkan 
+bahwa huruf A dapat di tulis dengan huruf d, huruf B dapat di tulis 
+dengan e, huruf C dapat di tulis dengan f dan begitu juga huruf-huruf 
+berikutnya, sehingga pesan kata sandi yang diberikan kepada Rudi oleh 
+Pak Ahmad pada Gambar 4.8 memiliki arti seperti berikut ini.
+KUNCINYA LIHAT DI BAWAH POHON MAWAR
+Ayo Bereksplorasi
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+a
+b
+c
+Bab 4 | Relasi dan Fungsi
+163
+Oleh karena itu, sekarang pesan kata sandi tersebut telah memiliki 
+arti yang jelas.
+Ada berbagai kelompok benda atau bentuk lain dalam kehidupan sehari-
+hari yang memiliki pasangan yang cocok dan hanya tepat satu. Berikan 
+contoh yang lain benda ataupun hal lain yang hanya memiliki satu 
+pasangan yang cocok.
+2. Ciri-Ciri Fungsi
+Perhatikan panduan pembuatan kata sandi berikut:
+Aturan I:
+Aturan II:
+Aturan III:
+Aturan IV:
+Ayo Berpikir Kreatif
+Ayo Mencoba
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+a
+b
+c
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+k
+i
+j
+h
+g
+f
+e
+d
+c
+b
+a
+z
+y
+x
+w
+v
+u
+t
+s
+r
+q
+p
+o
+n
+m
+l
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+1
+2
+3
+4
+5
+6
+7
+8
+9
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+z
+y
+x
+w
+v
+u
+t
+s
+r
+q
+p
+o
+n
+m
+l
+k
+j
+i
+h
+g
+f
+e
+d
+c
+b
+a
+Matematika untuk SMP/MTs Kelas VIII
+164
+Kemudian, perhatikan juga daftar nama hewan berikut ini. 
+1. 
+Komodo
+2. 
+Harimau 
+3. 
+jalak 
+4. 
+CENDRAWASIH
+5. 
+GAJAH
+Nama-nama hewan yang disebutkan di atas adalah beberapa nama 
+hewan langka yang harus dilindungi. Dengan menggunakan panduan 
+yang diuraikan di atas, kalian dapat mengubah nama hewan menjadi 
+kata sandi. Untuk menghindari sekedar membayangkan, pertimbangkan 
+untuk melengkapi Tabel 4.2 (mungkin dalam spreadsheet yang berbeda) 
+dengan memperhatikan kata sandi yang dibuat.
+Tabel 4.2 Aturan Kata Sandi
+Kata Asal
+Setiap Kata Sandi yang Dihasilkan oleh Aturan Terkait
+Aturan I
+Aturan II
+Aturan III
+Aturan IV
+Komodo
+Harimau 
+jalak 
+CENDRAWASIH
+GAJAH
+Periksa untuk melihat apakah kata sandi untuk setiap nama hewan 
+memiliki sifat tunggal. Apakah setiap nama dikodekan menggunakan 
+satu sandi saja? 
+Beberapa kemungkinan kata sandi dapat ditemukan pada tabel di 
+bawah ini jika kalian bekerja cukup keras. Lengkapi isi tabel di bawah 
+ini.
+Bab 4 | Relasi dan Fungsi
+165
+Kata Asal
+Setiap Kata Sandi yang Dihasilkan oleh Aturan Terkait
+Aturan I
+Aturan II
+Aturan III
+Aturan IV
+Komodo
+nrprgr
+Harimau
+dktcykq
+jalak
+qzozp
+CENDRAWASIH
+35e4i1n1j98
+GAJAH
+ekbkd
+Kalian berhak mengajukan beberapa pertanyaan tertentu sebagai 
+pemikir kritis dan kreatif. Berikut ini sebagai contoh:
+1. 
+Aturan manakah yang paling aman digunakan mulai dari aturan I 
+hingga aturan IV? Mengapa demikian?
+2. 
+Kata "GAJAH" disandikan sebagai "ekbkd" menurut aturan II. Apa 
+keuntungan dan kerugian dari aturan pengkodean ini? 
+3. 
+Cari sedikitnya tiga pertanyaan lain yang sesuai dengan aturan 
+penggunaan sandi seperti permasalahan di atas.
+Sandi aman adalah sandi yang sulit/tidak dapat ditebak atau dipecahkan 
+dengan menggunakan alat bantu apapun.
+Pengertian:
+Fungsi adalah relasi khusus yang menghubungkan setiap anggota 
+daerah asal dengan tepat satu anggota daerah kawan.
+Petunjuk
+i
+Matematika untuk SMP/MTs Kelas VIII
+166
+Tasya mengatakan bahwa setiap relasi pasti bisa disebut sebagai fungsi, 
+akan tetapi setiap fungsi belum tentu disebut sebagai relasi. Sedangkan 
+Rosi justru mengatakan bahwa setiap relasi belum tentu bisa disebut 
+sebagai fungsi, akan tetapi setiap fungsi pasti bisa disebut sebagai relasi. 
+Mereka berdua sepakat bahwa pendapatnya adalah benar. Setujukah 
+kalian dengan salah satu pendapat dari meraka? Jelaskan.
+Contoh 4.5
+Misalkan diketahui himpunan P = {3, 4, 5, 6, 7} dan himpunan Q 
+= {4, 5, 7, 9}. "satu lebihnya dari" adalah relasi yang ditentukan. 
+Apakah hubungan antara P dan Q merupakan fungsi?
+Alternatif penyelesaian  
+Lakukan langkah-langkah berikut untuk menentukan apakah 
+hubungan dari himpunan P ke himpunan Q merupakan fungsi 
+atau bukan.
+Hubungan antara himpunan P dan Q diketahui adalah satu 
+lebihnya dari.
+Jadi, kumpulan pasangan berurutan dapat digunakan untuk 
+menggambarkan hubungan ini, yaitu {(5,4), (6,5)}. 
+Periksa anggota himpunan P yang tidak terhubung ke 
+himpunan Q.
+Angka-angka 3, 4, dan 7 adalah anggota himpunan P yang 
+tidak memiliki pasangan di himpunan Q.
+Kasus seperti ini dikarenakan tidak ada bilangan x dalam 
+himpunan Q yaitu "3 adalah satu lebihnya dari x dalam 
+himpunan Q", "4 adalah satu lebihnya dari x dalam himpunan 
+Q", atau "7 adalah satu lebihnya dari x dalam himpunan Q". 
+Dikarenakan ada anggota himpunan P tidak memiliki pasangan 
+di himpunan Q, maka relasi ini bukan merupakan fungsi dari 
+himpunan P ke himpunan Q. 
+Ayo Berpikir Kritis
+Bab 4 | Relasi dan Fungsi
+167
+Contoh 4.6
+Misalkan diketahui himpunan R = {3, 6, 9, 12} dan himpunan S = 
+{1, 2, 3, 4, 5, 6}. "Anggota R adalah tiga kali anggota S" merupakan 
+relasi yang telah ditentukan. Apakah relasi himpunan R dan S 
+merupakan fungsi?
+Alternatif penyelesaian  
+Lakukan langkah-langkah berikut untuk menentukan apakah 
+relasi dari himpunan R ke himpunan S merupakan fungsi atau 
+bukan fungsi.
+Diketahui bahwa relasi dari himpunan R ke himpunan S 
+diketahui merupakan anggota himpunan R tiga kali anggota 
+himpunan S.
+Kemudian dapat dinyatakan dalam bentuk pasangan 
+berurutan seperti berikut ini: {(3, 1); (6, 2); (9, 3); (12, 4)}. 
+Coba kalian perhatikan, berbeda dengan contoh soal 
+sebelumnya bahwa setiap anggota R mempunyai pasangan ke 
+S, meskipun anggota di S beberapa tidak memiliki pasangan, 
+yakni: Beberapa anggota S yang tidak berpasangan adalah 6 
+dan 7
+Oleh karena itu, relasi ini merupakan fungsi dari himpunan R 
+ke himpunan S, karena setiap anggota himpunan R memiliki 
+pasangan di himpunan S.
+Perhatikan dengan cermat pada Tabel 4.3, pahami dan temukan alasan 
+terkait karakteristik contoh fungsi dan bukan fungsi. Komunikasi hasil 
+temuan kalian dengan penjelasan yang lugas dan menarik. Apabila 
+diketahui relasi dari himpunan P ke Q adalah P = {1, 2, 3} dan Q = {a, b}, 
+maka Tabel 4.3 berikut contoh fungsi dan bukan fungsi yang dapat dibuat.
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+168
+Tabel 4.3 Contoh Fungsi dan Bukan Fungsi
+Contoh Fungsi
+Contoh Bukan Fungsi
+1. {(1, a); (2, a); (3, a)}
+2. {(1, a); (2, a); (3, b)}
+3. {(1, a); (2, b); (3, a)}
+4. {(1, a); (2, b); (3, b)}
+5. {(1, b); (2, a); (3, a)}
+6. {(1, b); (2, b); (3, b)}
+7. {(1, b); (2, a); (3, b)}
+8. {(1, b); (2, b); (3, a)}
+1. {(1, a); (2, a); (2, b)}
+2. {(1, a); (1, b); (3, b)}
+3. {(1, b); (2, b); (2, b)}
+4. {(1, b); (3, a); (3,b)}
+5. {(1, b); (2, a); (2, b)}
+6. {(2, a); (2, b); (3, a)}
+7. {(2, a); (2, b); (2, c)}
+8. {(3, a); (3, b); (3, c)}
+Coba pusatkan perhatikan kalian pada dua pertanyaan di bawah ini.
+1. 
+Apakah setiap anggota himpunan P terhubung dengan anggota 
+himpunan Q?
+2. 
+Berapa banyak anggota himpunan Q yang terhubung pada satu 
+anggota himpunan P?
+Selanjutnya, lengkapilah isi Tabel 4.6 berikut ini.
+Tabel 4.4 Statement Fungsi dan Bukan Fungsi
+No.
+Contoh Fungsi
+Periksa apakah semua 
+anggota himpunan P 
+berpasangan dengan 
+anggota himpunan Q?
+(YA/TIDAK)
+Apakah hanya ada 
+satu pasangan saja 
+untuk semua anggota 
+domain ke kodomain? 
+(YA/TIDAK)
+1
+{(1, a); (2, a); (3, a)}
+2
+{(1, a); (2, a); (3, b)}
+3
+{(1, a); (2, b); (3, a)}
+4
+{(1, a); (2, b); (3, b)}
+Bab 4 | Relasi dan Fungsi
+169
+No.
+Contoh Fungsi
+Periksa apakah semua 
+anggota himpunan P 
+berpasangan dengan 
+anggota himpunan Q?
+(YA/TIDAK)
+Apakah hanya ada 
+satu pasangan saja 
+untuk semua anggota 
+domain ke kodomain? 
+(YA/TIDAK)
+5
+{(1, b); (2, a); (3, a)}
+6
+{(1, b); (2, b); (3, b)}
+7
+{(1, b); (2, a); (3, b)}
+8
+{(1, b); (2, b); (3, a)}
+No.
+Contoh Bukan  
+Fungsi
+Periksa apakah semua 
+anggota himpunan P 
+berpasangan dengan 
+anggota himpunan Q?
+(YA/TIDAK)
+Apakah hanya ada 
+satu pasangan saja 
+untuk semua anggota 
+domain ke kodomain? 
+(YA/TIDAK)
+1
+{(1, a); (2, a); (2, b)}
+2
+{(1, a); (1, b); (3, b)}
+3
+{(1, b); (2, b); (2, b)}
+4
+{(1, b); (3, a); (3,b)}
+5
+{(1, b); (2, a); (2, b)}
+6
+{(2, a); (2, b); (3, a)}
+7
+{(2, a); (2, b); (2, c)}
+8
+{(3, a); (3, b); (3, c)}
+Kemudian, pada pada lembar kerja kalian, catat kesimpulan kalian 
+berdasarkan kegiatan di atas.
+Matematika untuk SMP/MTs Kelas VIII
+170
+Buatlah hipotesis atau dugaan tentang sifat-sifat suatu fungsi dan 
+tuliskan di atas kertas kalian.
+Kemudian, coba diskusikanlah dengan rekan-rekan kelompok kalian 
+tentang suatu fungsi yang dapat dibuat dengan menggabungkan dari 
+kedua himpunan di bawah ini.
+a. 
+, , ,
+,
+K
+ke L
+p q
+1 2 3 4
+=
+=
+"
+"
+,
+,
+b. 
+,
+, , ,
+M
+p q
+ke N
+1 2 3 4
+=
+=
+"
+"
+,
+,
+Berdasarkan kegiatan tersebut, coba kalian simpulkan.
+Selanjutnya, cobalah kalian terapkan hasil kesimpulan tersebut 
+dalam memeriksa apakah kesimpulan yang kalian dapatkan adalah 
+benar atau tidak?
+Menentukan Banyak Fungsi yang Mungkin
+Diketahui A = {a};  B = {5, 7} dan C = {x, y, z}
+Sajikan dengan cara diagram panah terhadap fungsi berikut ini:
+1. 
+fungsi  A  ke  B
+2. 
+fungsi  A  ke  C
+3. 
+fungsi  B  ke  C
+4. 
+fungsi  C  ke  A
+5. 
+fungsi  C  ke  B
+Kemudian, lengkapi Tabel 4.5 berikut berdasarkan hasil kerja kalian 
+dapatkan.
+Tabel 4.5 Banyak Fungsi yang Mungkin
+No.
+Fungsi
+Banyak Anggota 
+Domain
+Banyak Anggota 
+Kodomain
+Banyak Fungsi yang 
+Mungkin
+1.
+fungsi  A  ke  B
+1
+2
+2.
+fungsi  A  ke  C
+1
+3
+Ayo Berpikir Kreatif
+Ayo Berkomunikasi
+Bab 4 | Relasi dan Fungsi
+171
+No.
+Fungsi
+Banyak Anggota 
+Domain
+Banyak Anggota 
+Kodomain
+Banyak Fungsi yang 
+Mungkin
+3.
+fungsi  B  ke  C
+2
+3
+4.
+fungsi  C  ke  A
+3
+1
+5.
+fungsi  C  ke  B
+3
+2
+Apa kesimpulan yang kalian dapatkan berdasarkan hasil pada tabel 
+tersebut di atas? Jelaskan.
+Ayo Berteknologi
+Setelah kalian mempelajari materi fungsi pada buku ini, coba kalian 
+kembangkan pengetahuan kalian tentang relasi dengan mengunjungi 
+laman berikut dan melakukan kegiatan pencarian di Youtube berdasarkan 
+kata kunci yang diberikan.
+Cara Mudah Memahami Fungsi. 
+s.id/1uhoH
+Banyak Pemetaan. 
+Coba pelajari tentang konsep banyak pemetaan 
+suatu fungsi melalui video di Youtube, coba dengan 
+kata pencarian "banyak pemetaan".
+Syarat Fungsi. 
+Coba pelajari tentang konsep suatu fungsi melalui 
+video di Youtube, coba dengan kata pencarian 
+"Syarat Fungsi atau Pemetaan"
+Matematika untuk SMP/MTs Kelas VIII
+172
+1. 
+Perhatikan dengan cermat terhadap aturan kata sandi berikut ini
+Cobalah tulis makna pesan dari kata sandi berikut ini:
+a. 
+uxkxax qrqsqi gkqfu zxqax ro ltagsqi 
+b. 
+gkqfu zxqax qrqsqi uxkxax atzoaq ro kxdqi
+Kemudian, cobalah juga sandikan pesan berikut ini:
+a. 
+MATEMATIKA ADALAH KEHIDUPANKU
+b. 
+SAYA ANAK INDONESIA
+2. 
+Himpunan A = {1, 2, 3, 4, 6} dan himpunan B = {2, 4, 6, 8, 10, 12}.
+a. 
+Apabila relasi nya adalah "setengah dari", maka tentukan 
+anggota himpunan A yang mempunyai pasangan pada 
+himpunan B. Apakah relasi tersebut merupakan fungsi?
+b. 
+Apabila relasinya adalah "kuadrat dari", maka tentukan 
+anggota himpunan B yang mempunyai pasangan pada 
+himpunan A. Apakah relasi tersebut merupakan fungsi?
+3. 
+Farida mengatakan bahwa relasi itu dapat disebut sebagai 
+himpunan bagian dari fungsi, sehingga kedudukan fungsi lebih 
+tinggi dari pada relasi. Sedangkan Galih mengatakan bahwa saya 
+tidak setuju dengan pendapat Farida. Setujukah kalian dengan 
+pendapat Galih? Jelaskan.
+4. 
+Coba perhatikan dan pahami contoh soal dan alternatif 
+penyelesaiannya berikut. Kemudian coba kalian pikirkan informasi 
+Soal Laihan
+4.2
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+q
+w
+e
+r
+t
+y
+u
+i
+o
+p
+a
+s
+d
+f
+g
+h
+j
+k
+l
+z
+x
+c
+v
+b
+n
+m
+Ayo Berpikir Kritis
+Ayo Berkomunikasi
+Bab 4 | Relasi dan Fungsi
+173
+apa yang perlu ditambahkan agar alternatif penyelesaian soal 
+lebih komunikatif lagi.
+Contoh 4.7
+Apakah himpunan pasangan berurutan dari himpunan B ke 
+himpunan A merupakan fungsi atau bukan fungsi, apabila 
+diketahui himpunan B = {p, q} dan himpunan A = {k, l, m, n}? 
+Jelaskan. 
+Alternatif penyelesaian  
+Berikut ini merupakan alternatif penyelesaian yang mungkin 
+didapat, apakah termasuk fungsi atau bukan fungsi dari himpunan 
+B ke himpunan A, apabila himpunan A = {p, q} dan himpunan A = 
+{k, l, m, n}.
+5. 
+Periksa apakah dua himpuan berikut ini termasuk fungsi atau 
+bukan fungsi? Jelaskan. 
+a. 
+Diketahui bahwa himpunan P dan Q memiliki anggota masing-
+masing adalah P = {1, 2, 3, 4, 5} dan Q = {2, 3, 5, 7}. Apabila 
+1.
+,
+;
+,
+p k
+q k
+^
+^
+h
+h
+"
+,
+4.
+,
+;
+,
+p m
+q t
+^
+^
+h
+h
+"
+,
+2.
+,
+;
+,
+p k
+q l
+^
+^
+h
+h
+"
+,
+5.
+,
+;
+,
+p l
+p m
+^
+^
+h
+h
+"
+,
+3.
+,
+;
+,
+p k
+q m
+^
+^
+h
+h
+"
+,
+6.
+,
+;
+,
+;
+,
+q n
+q m
+p k
+^
+^
+^
+h
+h
+h
+"
+,
+4.
+,
+;
+,
+p l
+q n
+^
+^
+h
+h
+"
+,
+7.
+,
+,
+,
+;
+,
+p k
+q l
+p t
+^
+^
+^
+h
+h
+h
+"
+,
+No.
+Hubungan dari Himpunan B ke Himpunan A
+Fungsi/Bukan Fungsi
+1
+,
+;
+,
+p k
+q k
+^
+^
+h
+h
+"
+,
+Fungsi
+2
+,
+;
+,
+p k
+q l
+^
+^
+h
+h
+"
+,
+Fungsi
+3
+,
+;
+,
+p k
+q m
+^
+^
+h
+h
+"
+,
+Fungsi
+4
+,
+;
+,
+p l
+q n
+^
+^
+h
+h
+"
+,
+Fungsi
+5
+,
+;
+,
+p m
+q t
+^
+^
+h
+h
+"
+,
+Fungsi
+6
+,
+;
+,
+p l
+p m
+^
+^
+h
+h
+"
+,
+Bukan Fungsi
+7
+,
+;
+,
+;
+,
+q n
+q m
+p k
+^
+^
+^
+h
+h
+h
+"
+,
+Bukan Fungsi
+8
+,
+,
+,
+;
+,
+p k
+q l
+p t
+^
+^
+^
+h
+h
+h
+"
+,
+Bukan Fungsi
+Matematika untuk SMP/MTs Kelas VIII
+174
+"Faktor dari" adalah relasi yang ditentukan, maka dapatkah 
+hubungan antara himpunan P dan Q disebut sebagai fungsi 
+atau bukan fungsi?
+b. 
+Diketahui bahwa himpunan R dan S memiliki anggota masing-
+masing adalah R = {3, 4, 6, 8, 9, 12, 14, 18} dan S = {1, 6, 9}. 
+Apabila “Anggota R sepertiga kali anggota S” adalah relasi 
+yang ditentukan, maka dapatkah hubungan antara himpunan 
+R dan S disebut sebagai fungsi atau bukan fungsi?
+6. 
+Apabila diketahui himpunan C = {3, 4, 5, 6}; himpunan D = {4, 5, 
+6, 7}; dan g merupakan fungsi dari himpunan C ke D, maka untuk 
+fungsi g, identiikasi tiga aturan yang mungkin dapat digunakan 
+dan nyatakan dengan cara himpunan pasangan berurutan.
+7. 
+Diketahui 
+himpunan 
+P 
+merupakan 
+himpunan 
+kuadrat 
+sempurna dari 1 sampai 100, sedangkan himpunan Q adalah 
+himpunan kelipatan 1 sampai 100. Akar dari adalah relasi yang 
+menghubungkan dari himpunan P ke himpunan Q.  
+a. 
+Sebutkan semua anggota himpunan P dan himpunan Q.
+b. 
+Berdasarkan relasi tersebut, daftar semua pasangan berurutan 
+yang mungkin didapat.
+c. 
+Apakah relasi tersebut di atas merupakan fungsi atau bukan 
+fungsi?
+d. 
+Apabila relasi tersebut merupakan fungsi, maka sertakan 
+domain, kodomain, dan daerah hasilnya.
+8. 
+Diketahui himpunan E = {p, q} dan himpunan F = { 2, 3, 4 }
+a. 
+Nyatakan dengan cara himpunan pasangan berurutan yang 
+membentuk fungsi dari himpunan E ke himpunan F.
+b. 
+Temukan ada berapa banyak yang dapat dikatakan fungsi dari 
+himpunan E ke himpunan F.
+Ayo Berpikir Kreatif
+Bab 4 | Relasi dan Fungsi
+175
+9. 
+Diberikan dua item berikut, tentukan banyaknya fungsi dari 
+himpunan G ke himpunan H:
+a. 
+G = {warna lampu lalu lintas} dan H = {warna pelangi}
+b. 
+c. 
+G = {huruf pembentuk kata “INDONESIA”} dan H = {huruf 
+vokal}
+10. Bola voli, renang, sepak bola, 
+dan bola basket adalah satu-
+satunya cabang olahraga yang 
+ditawarkan di SMP Merdeka 
+Belajar. Dido, Fauzi, Eiman, dan 
+Firman semuanya merupakan 
+pemain 
+olahraga 
+yang 
+berbeda-beda. Olahraga yang 
+dimainkan Fauzi tidak menggunakan bola. Eiman seumuran lebih 
+tua dengan pemain bola voli. Eiman dan Firman tidak bermain 
+sepak bola. Bisakah kalian membantu dalam mencari tahu siapa 
+pemain bola voli itu? Jelaskan alasanmu.
+3. Bentuk Penyajian Fungsi
+Berikut ini adalah ketentuan tarif yang diberlakukan oleh perusahaan 
+taksi:
+1. 
+Biaya tarif awal sebesar Rp7.500,00 dan tarif per kilometer sebesar 
+Rp3.000,00.
+2. 
+Berapa besar tarif yang dibutuhkan untuk perjalanan sejauh 20 
+km, 25 km, 30 km?
+3. 
+Dapatkah kalian menetapkan tarif untuk perjalanan sejauh 36 km?
+,
+}
+,
+Bilangan Asli dan
+Bilangan Bulat
+G
+x
+x
+x
+H
+x
+x
+7
+2
+6
+1
+1
+!
+#
+!
+=
+= -
+"
+"
+,
+Ayo Berpikir Kritis
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+176
+Sejauh berapa kilometer yang dibutuhkan untuk uang sebesar 
+Rp154.500,00.
+Hitungan aritmetika:
+Untuk biaya 20 km = Rp7.500,00 + 20 × Rp3.000,00 = Rp67.500,00
+Untuk biaya 25 km = Rp7.500,00 + 25 × Rp3.000,00 = Rp82.500,00
+Untuk biaya 30 km = Rp7.500,00 + 30 × Rp3.000,00 = Rp97.500,00    
+Bagaimanakah cara kalian menentukan rumus fungsinya?
+Sekarang, coba kalian perhatikan dengan cermat beberapa cara 
+berikut dalam menyajikan fungsi yang sering digunakan dalam 
+matematika, sebelum menghitung rumus fungsi.
+Misalkan suatu fungsi f diterapkan dari himpunan P = {1, 2, 3, 4, 
+5} ke himpunan Q = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}. "setengah kali dari" 
+merupakan relasi yang ditentukan.
+Masalah ini dapat dinyatakan dalam lima cara, yaitu berikut ini.
+Cara Pertama: Diagram Panah
+Misalkan suatu fungsi f dihubungkan dari himpunan P ke Q dengan 
+anggota masing-masing P = {1, 2, 3, 4, 5} dan Q = {1, 2, 3, 4, 5, 6, 7, 8, 9, 
+10}. Apabila "setengah kali dari" adalah relasi yang ditentukan, maka 
+diagram berikut ini merupakan cara yang dapat digunakan untuk 
+hubungan tersebut.
+P
+Q
+setengah kali dari
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Bab 4 | Relasi dan Fungsi
+177
+Cara kedua: Himpunan Pasangan Berurutan
+Misalkan suatu fungsi f dihubungkan dari himpunan P ke Q dengan 
+anggota masing-masing P = {1, 2, 3, 4, 5} dan Q = {1, 2, 3, 4, 5, 6, 7, 8, 9, 
+10}. Apabila "setengah kali dari" adalah relasi yang ditentukan, maka 
+himpunan pasangan berikut ini merupakan cara yang dapat digunakan 
+untuk hubungan tersebut.
+ 
+,
+;
+,
+;
+,
+;
+,
+;
+,
+f
+1 2
+2 4
+3 6
+4 8
+5 10
+= ^
+^
+^
+^
+^
+h
+h
+h
+h
+h
+"
+,
+Cara ketiga: Persamaan Fungsi
+Misalkan suatu fungsi f dihubungkan dari himpunan P ke Q dengan 
+anggota masing-masing P = {1, 2, 3, 4, 5} dan Q = {1, 2, 3, 4, 5, 6, 7, 
+8, 9, 10}. Apabila "setengah kali dari" adalah relasi yang ditentukan, 
+maka rumus fungsi berikut ini merupakan cara yang dapat digunakan 
+untuk hubungan tersebut.
+Perhatikan 
+pola 
+berikut 
+untuk 
+direpresentasikan 
+dengan 
+menggunakan rumus fungsi. Himpunan pasangan berurutan dari 
+{(1, 2); (2, 4); (3, 6); (4, 8); (5, 10)} dapat membentuk menjadi pola 
+matematika sebagai berikut.
+(1, 2)  
+menjadi  
+,1 2
+1
+#
+^
+h
+(2, 4)  
+menjadi 
+,2 2
+2
+#
+^
+h 
+(3, 6)  
+menjadi  
+,3 2
+3
+#
+^
+h
+(4, 8)  
+menjadi  
+,4 2
+4
+#
+^
+h
+(5, 10)  
+menjaid  
+,5 2
+5
+#
+^
+h
+Pengertian:
+Apabila anggota himpunan P disebut sebagai simbol x dan anggota 
+himpunan Q disebut sebagai simbol y, maka didapat persamaan 
+.
+x
+y
+2
+1
+=
+  Persamaan ini x
+y
+2
+1
+=
+ dapat diubah menjadi persamaan 
+y
+x
+2
+=
+, bentuk persamaan seperti ini dapat ditulis dengan notasi 
+dan rumus fungsi seperti berikut ini:
+1. Notasi fungsi; 
+( )
+atau
+atau
+f
+x
+y
+f
+x
+f x
+f
+x
+x
+2
+"
+"
+"
+|
+|
+|
+2. Rumus fungsi; 
+, untuk setiap
+f x
+x
+x
+P
+2
+!
+=
+^ h
+Bentuk seperti inilah yang disebut sebagai persamaan fungsi.
+Matematika untuk SMP/MTs Kelas VIII
+178
+Herman mengatakan bahwa setiap fungsi pasti bisa dituliskan rumus 
+fungsinya. Sedangkan Ida mengatakan bahwa setiap fungsi belum 
+tentu bisa dituliskan rumus fungsinya. Mereka berdua sepakat bahwa 
+pendapatnya adalah benar. Setujukah kalian dengan salah satu pendapat 
+dari meraka? Jelaskan.
+Cara keempat: Tabel
+Misalkan suatu fungsi f dihubungkan dari himpunan P ke Q dengan 
+anggota masing-masing P = {1, 2, 3, 4, 5} dan Q = {1, 2, 3, 4, 5, 6, 7, 
+8, 9, 10}. Apabila "setengah kali dari" adalah relasi yang ditentukan, 
+maka tabel berikut ini merupakan cara yang dapat digunakan untuk 
+hubungan tersebut.
+x
+1
+2
+3
+4
+5
+f(x)
+2
+4
+6
+8
+10
+Cara kelima: Graik
+Misalkan suatu fungsi f dihubungkan dari himpunan P ke Q dengan 
+anggota masing-masing P = {1, 2, 3, 4, 5} dan Q = {1, 2, 3, 4, 5, 6, 7, 8, 
+9, 10}. Apabila "setengah kali dari" adalah relasi yang ditentukan, 
+maka graik berikut ini merupakan cara yang dapat digunakan untuk 
+hubungan tersebut.
+ 
+Ayo Berpikir Kritis
+1
+2
+3
+4
+5
+-5
+-4
+-3
+-2
+-1
+1
+-1
+-2
+-4
+-3
+-5
+2
+3
+4
+5
+(0,0)
+(1,2)
+f(x)=2x
+Bab 4 | Relasi dan Fungsi
+179
+Berdasarkan pembahasan di halaman sebelumnya, menunjukkan 
+bahwa ada ada lima cara untuk menyatakan suatu fungsi dari himpunan 
+P ke Q.
+Kemudian, kembali ke masalah awal penentuan rumus fungsi untuk 
+masalah tarif taksi yang dibahas di atas. 
+Beberapa harga sewa taksi telah disampaikan sebelumnya, 
+selanjutnya akan ditunjukkan lebih rinci seperti uraian berikut ini.
+Besar biaya untuk 20 km 
+= Rp7.500,00 + 20 × Rp3.000,00
+ 
+ 
+ 
+ 
+ 
+= Rp67.500,00
+Besar biaya untuk 25 km 
+= Rp7.500,00 + 25 × Rp3.000,00
+ 
+ 
+ 
+ 
+ 
+= Rp82.500,00
+Besar biaya untuk 30 km 
+= Rp7.500,00 + 30 × Rp3.000,00
+ 
+ 
+ 
+ 
+ 
+= Rp97.500,00    
+Cobalah perhatikan dengan cermat terhadap angka yang muncul di 
+setiap persamaan berikut:
+Besar biaya untuk 20 km  
+= Rp7.500,00 + 20 × Rp3.000,00 
+Besar biaya untuk 25 km  
+= Rp7.500,00 + 25 × Rp3.000,00 
+Besar biaya untuk 30 km  
+= Rp7.500,00 + 30 × Rp3.000,00 
+Perhatikan angka 20 di sebelah kiri dan angka 20 di sebelah kanan. Apa 
+persamaan dan perbedaannya?
+Perhatikan angka 7500 di sebelah kanan.
+Untuk memastikannya, coba buat dan lengkapi Tabel 4.7 berikut.
+Tabel 4.7 Besar Tarif Mobil Taksi
+Jarak Tempuh
+Cara Menentukan Tarif Taksi
+1 km
+7500
+1
+3000
+#
++
+2 km
+7500
+2
+3000
+#
++
+3 km
+7500
+3
+3000
+#
++
+4 km
+7500
+4
+3000
+#
++
+5 km
+7500
+5
+3000
+#
++
+6 km
+7500
+6
+3000
+#
++
+Matematika untuk SMP/MTs Kelas VIII
+180
+Jarak Tempuh
+Cara Menentukan Tarif Taksi
+7 km
+7500
+7
+3000
+#
++
+…
+…
+…
+…
+…
+…
+x km
+x
+7500
+3000
+#
++
+Jika B(x) adalah tarif naik taksi untuk x kilometer, maka B(x) dapat 
+dinyatakan sebagai persamaan B x
+x
+3000
+7500
+=
++
+^ h
+.
+Bentuk diagram panah, himpunan pasangan berurutan, persamaan 
+fungsi, tabel, dan graik adalah lima bentuk representasi fungsi yang 
+paling populer dalam Matematika. Kelima cara menyajikan fungsi 
+tersebut tidak harus digunakan untuk setiap mengerjakan suatu soal, 
+akan tetapi tergantung pertanyaan yang diminta dalam soal tersebut. 
+Jailani mengatakan bahwa setiap fungsi pasti dapat dinyatakan dengan 
+kelima cara penyajian fungsi. Sedangkan Karim mengatakan bahwa 
+setiap fungsi belum tentu dapat dinyatakan dengan kelima cara penyajian 
+fungsi. Mereka berdua sepakat bahwa pendapatnya adalah benar. 
+Setujukah kalian dengan salah satu pendapat dari meraka? Jelaskan.
+4. Nilai Fungsi dan Bentuk Fungsi
+Memahami nilai fungsi ini seringkali diperlukan rumus bentuk 
+fungsinya. Pertimbangkan contoh soal berikut.
+f x
+x
+4
+3
+=
+-
+^ h
+Simbol x merupakan variabel bebas dan simbol y atau fungsi f(x) 
+merupakan variabel terikat. 
+Materi seperti ini akan mengajarkan kalian bagaimana cara 
+menghitung nilai suatu fungsi; yaitu untuk menghitung nilai suatu 
+fungsi, maka substitusikan nilai variabel bebas ke dalam rumus fungsi 
+yang telah ditentukan untuk mendapatkan nilai variabel terikatnya.
+Ayo Berpikir Kritis
+Bab 4 | Relasi dan Fungsi
+181
+Contoh 4.8
+Apabila diketahui fungsi 
+:f A
+B
+"
+ ditentukan oleh f x
+x
+4
+3
+=
+-
+^ h
+ 
+dengan 
+,
+, , , ,
+A
+2
+1 0 1 2 3
+= -
+-
+"
+, dan B adalah himpunan bilangan 
+riil. Maka hitunglah daerah hasil dari fungsi f tersebut. 
+Alternatif penyelesaian  
+Diketahui f x
+x
+4
+3
+=
+-
+^ h
+Substitusikan setiap anggota domain A ke rumus fungsi f(x), 
+sehingga didapat.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jadi, daerah hasil dari fungsi f tersebut adalah 
+,
+,
+, , ,
+.
+11
+7
+3 1 5 9
+-
+-
+-
+"
+,
+Contoh 4.9
+Apabila diketahui fungsi f x
+x
+3
+1
+=
++
+^ h
+ dan f x
+2
+= -
+^ h
+, maka 
+hitunglah nilai dari x.
+Alternatif penyelesaian  
+dan
+f x
+x
+f x
+3
+1
+2
+=
++
+= -
+^
+^
+h
+h
+Diketahui f x
+x
+3
+1
+=
++
+^ h
+maka didapat: 
+f
+2
+4
+2
+3
+8
+3
+11
+-
+=
+-
+-
+=-
+-
+=-
+^
+^
+h
+h
+f 1
+4 1
+3
+4
+3
+1
+=
+-
+=
+-
+=
+^
+^
+h
+h
+f
+1
+4
+1
+3
+4
+3
+7
+-
+=
+-
+-
+=-
+-
+=-
+^
+^
+h
+h
+f 2
+4 2
+3
+8
+3
+5
+=
+-
+=
+-
+=
+^
+^
+h
+h
+f 0
+4 0
+3
+0
+3
+3
+=
+-
+=
+-
+=-
+^
+^
+h
+h
+f 3
+4 3
+3
+12
+3
+9
+=
+-
+=
+-
+=
+^
+^
+h
+h
+Matematika untuk SMP/MTs Kelas VIII
+182
+Jadi, nilai dari x adalah –1.
+Contoh 4.10
+Dikerahui fungsi linier f memiliki nilai -4 ketika nilai x = -1, dan 
+memiliki nilai 5 ketika x = 2. Temukan rumus fungsinya. 
+Alternatif penyelesaian 
+Prosedur berikut dapat dilakukan untuk menemukan rumus 
+fungsi liniernya pada saat memiliki nilai -4 ketika nilai x = -1, dan 
+memiliki nilai 5 ketika x = 2.
+Berdasarkan contoh soal 7 di atas, diketahui fungsi f merupakan 
+fungsi linier. Oleh karena itu, fungsi f ini dapat disajikan dengan 
+rumus umum f (x) = ax + b. 
+Sehingga didapat persamaan fungsi adalah  f(-1) = -4 dan f(2) = 5.
+,maka
+f x
+ax
+b
+f
+a
+b
+1
+1
+4
+=
++
+-
+=
+-
++
+=-
+^
+^
+^
+h
+h
+h
+ 
+dari persamaan (1) dan (2) diperoleh 
+dari nilai a = 3 disubstitusikan ke salah satu permasaan, misalkan 
+persamaan (2)
+f x
+x
+x
+x
+x
+x
+3
+1
+2
+3
+1
+2
+1
+3
+3
+3
+1
+=
++
+-
+=
++
+- -
+=
+-
+=
+=-
+^ h
+.
+( )
+( )
+.
+( )
+…………… ……………
+…………… ……………
+a
+b
+a
+b
+a
+b
+4
+1
+2
+5
+2
+5
+2
+-
++
+=-
++
+=
++
+=
+( )
+f 2 =
+a
+a
+a
+b
+a
+b
+3
+9
+3
+4
+2
+5
+-
+=-
+=
+-
++
+=-
++
+=
+-
+Bab 4 | Relasi dan Fungsi
+183
+ 
+Sehingga nilai a = 3 dan b = -1
+Jadi, rumus fungsi linier f adalah f (x) = 3x - 1.
+Memahami nilai suatu fungsi memungkinkan juga dalam menentukan 
+range atau daerah hasil dari fungsi tertentu yang telah dideinisikan 
+pada himpunan bilangan riil.
+Contoh 4.11
+Apabila diketahui daerah asal suatu fungsi f dari nilai x ke bentuk 
+x
+4
+3
+-
+ adalah 
+|
+,
+x
+x
+x
+R
+2
+1
+#
+#
+!
+-
+"
+,. Hitunglah daerah hasilnya. 
+(Keterangan; x
+R
+!
+: x anggota himpunan bagian dari Bilangan 
+Riil). 
+Alternatif penyelesaian 
+Lakukan prosedur berikut dalam menghitung daerah asal suatu 
+fungsi f dari nilai x ke bentuk x
+4
+3
+-
+ adalah 
+|
+,
+.
+x
+x
+x
+R
+2
+1
+#
+#
+!
+-
+"
+,
+Diketahui daerah asal 
+x
+2
+1
+<
+#
+-
+,  suatu f dari nilai x ke bentuk 
+Ubahkah bentuk nilai x pada bentuk x
+4
+3
+-
+, seperti berikut ini.
+Bentuk 
+pertidaksamaan 
+dari 
+x
+11
+4
+3
+1
+<
+#
+-
+-
+, 
+dirumuskan 
+dengan fungsi f x
+x
+4
+3
+=
+-
+^ h
+, sehingga didapat 
+x
+11
+4
+3
+1
+<
+#
+-
+-
+Jadi, daerah hasilnya adalah { ( ) |
+f x
+x
+11
+4
+3
+1
+<
+#
+-
+-
+.
+a
+b
+b
+b
+b
+2
+5
+2 3
+5
+5
+6
+1
++
+=
++
+=
+=
+-
+=-
+^ h
+dikalikan
+ditambah
+x
+x
+x
+x
+2
+1
+8
+4
+4
+4
+8
+3
+4
+3
+4
+3
+3
+11
+4
+3
+1
+<
+<
+<
+<
+#
+#
+#
+#
+-
+-
+- -
+-
+-
+-
+-
+-
+Matematika untuk SMP/MTs Kelas VIII
+184
+Halim dan Mawardi mendiskusikan tentang model graik berikut.
+Halim berpendapat bahwa graik tersebut di atas merupakan graik 
+fungsi linier. Pada sisi lain, Mawardi tidak setuju dengan pendapat 
+Halim. Karena Mawardi mempunyai pendapat lain, yaitu menyatakan 
+bahwa graik tersebut tidak termasuk graik fungsi linier. Apakah 
+kalian setuju dengan pendapat Halim atau Mawardi? Jelaskan.
+Diketahui nilai a = 3 dan b = 4 dari rumus fungsi f(x) = ax - 5 dan f(b) = 
+7. Coba kalian temukan dengan beberapa alternatif penyelesaian yang 
+mungkin didapat dalam menentukan nilai a dan b dengan nilai berbeda 
+sehingga nilai a dan b merupakan bilangan bulat.
+Berikut soal nomor 2 Bagian A yang terdapat pada soal OSN SMP Tingkat 
+Provinsi Tahun 2011 pada bidang Matematika.
+Ayo Berpikir Kritis
+1
+2
+3
+4
+5
+x
+y
+-5 -4 -3 -2 -1
+1
+-1
+-2
+-4
+-3
+-5
+2
+3
+4
+5
+Ayo Berpikir Kreatif
+Ayo Berkomunikasi
+Bab 4 | Relasi dan Fungsi
+185
+Jika f adalah fungsi sehingga f xy
+f x
+y
+=
+-
+^
+^
+h
+h dan f 6
+1
+=
+^ h
+, 
+maka f
+f
+2
+4
+f
+-
+-
+=
+]
+]
+g
+g
+Manakah dari jawaban siswa berikut yang paling mudah menurut 
+kalian? Mengapa? Apa yang harus dipertimbangkan dalam 
+mengomunikasikan jawaban yang baik?
+Siswa
+Jawaban
+Siswa A
+(Sosuke D. Aizen)
+Faktor positif dari 
+, , ,
+6
+1 2 3 6
+= "
+,
+Jadi 
+( )
+f
+f
+2
+4
+1
+1
+0
+-
+-
+=
+-
+=
+^
+h
+.
+.
+.
+.
+(
+)
+(
+)
+.
+f xy
+f x
+y
+f
+f
+f
+f
+f
+f
+f xy
+f x
+y
+f
+f
+f
+f
+f
+f
+f xy
+f x
+y
+f
+f
+f
+f
+f
+f
+f xy
+f x
+y
+f
+f
+f
+f
+f
+f
+6 1
+6
+1
+6
+5
+1
+5
+5
+1
+5 1
+5
+1
+5
+4
+1
+4
+4
+1
+2 3
+2
+3
+6
+1
+1
+1
+1
+1
+1 1
+1
+1
+1
+2
+1
+2
+2
+1
+"
+"
+"
+"
+=
+-
+=
+-
+=
+=
+=
+=
+-
+=
+-
+=
+=
+=
+=
+-
+=
+-
+=
+-
+=
+-
+-
+=
+=
+-
+-
+=
+- -
+-
+=
+-
+=
+-
+-
+=
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+Matematika untuk SMP/MTs Kelas VIII
+186
+Siswa
+Jawaban
+Siswa B
+(Tutur Widodo)
+Berdasarkan sifat fungsi f diperoleh,
+Berdasarkan pers.(1) dan pers.(2) 
+didapat f(-2) = f(4), 
+sehingga f(-2) - f(4) = 0
+Siswa C
+(Mohammad Tohir)
+Diketahui fungsi f xy
+f x
+y
+=
+-
+^
+^
+h
+h dan f 6
+1
+=
+^ h
+Kemudian mencari pola dari kedua persamaan 
+diatas agar bisa diselesaikan, yakni: mencari faktor 
+prima dari 6, yaitu 3 2
+$
+f
+f
+f
+6
+3
+2
+3
+2
+1
+#
+=
+=
+-
+=
+^
+^
+^
+h
+h
+h
+, maka f 1
+1
+=
+^ h
+sehingga untuk f(2),  f(3),  f(4) dan seterusnya dicari 
+juga faktor primanya masing-masing, yakni
+f
+f
+f
+f
+f
+f
+f
+f
+2
+2
+1
+2
+1
+1
+1
+3
+3
+1
+3
+1
+2
+1
+#
+#
+=
+=
+-
+=
+=
+=
+=
+-
+=
+=
+^
+^
+^
+^
+^
+^
+^
+^
+h
+h
+h
+h
+h
+h
+h
+h
+      .            .      .
+      .            .      .
+      .            .      .
+f n
+1
+=
+^ h
+Dengan demikian, untuk 
+,
+dan
+f
+f
+2
+1
+4
+1
+-
+=
+=
+^
+^
+h
+h
+Sehingga didapat f
+f
+2
+4
+1
+1
+0
+-
+-
+=
+-
+=
+^
+^
+h
+h
+Jadi, nilai dari (
+)
+( )
+–
+–
+f
+f
+2
+4 adalah 0
+1. 
+Diketahui dua himpunan P dan Q, yaitu himpunan P = {0, 1, 4, 9} 
+dan himpunan Q = {0, 1, 2, 3, 4}. 
+a. 
+Tentukan hubungan fungsi dari P ke Q.
+.
+( )
+.
+( )
+dan
+f
+f
+f
+f
+f
+f
+f
+f
+2
+2
+1
+2
+1
+3
+1
+4
+4 1
+4
+1
+3
+2
+-
+=
+-
+=
++
+=
+=
+=
+-
+=
+^
+^
+^
+^ ^
+^
+^
+^
+^
+h
+h
+h
+hh
+h
+h
+h
+h
+Soal Laihan
+4.3
+Bab 4 | Relasi dan Fungsi
+187
+b. 
+Gunakan diagram panah untuk mendemonstrasikan fungsi 
+tersebut.
+c. 
+Nyatakan fungsi tersebut dengan menggunakan rumus fungsi.
+d. 
+Sebuah tabel harus digunakan untuk menyajikan fungsi 
+tersebut.
+e. 
+Nyatakan fungsi sebagai dengan menggunakan graik.
+2. 
+Ada tiga cara untuk merepresentasikan suatu relasi: diagram panah, 
+diagram Cartesius, dan himpunan pasangan berurutan. Sedangkan 
+dengan cara graik, tabel, himpunan pasangan berurutan, diagram 
+panah, dan persamaan fungsi adalah lima cara berbeda untuk 
+menyajikan suatu fungsi. Rika mengatakan bahwa kasus tertentu 
+dapat dinyatakan dengan cara diagram cartesius dan graik, 
+keduanya merupakan dua cara yang sama dalam menyajikan relasi 
+dan fungsi. Tetapi Miftah tidak setuju dengan pendapat Rika, justru 
+pada kasus tertentu dapat dinyatakan dengan diagram Cartesius 
+pada materi relasi dengan kasus tertentu dapat dinyatakan dengan 
+graik pada materi fungsi, keduanya merupakan dua cara yang 
+berbeda. Kalau kalian, setujukah kalian dengan pendapat Miftah? 
+Jelaskan.
+3. 
+Jika diketahui suatu fungsi f dengan daerah asal A = {6, 8, 10, 12}; 
+daerah kawan merupakan himpunan bilangan asli, dan fungsi 
+liniernya adalah f x
+x
+3
+4
+=
+-
+^ h
+; maka:
+a. 
+Tentukan nilai dari 
+,
+,
+,
+(
+)
+dan
+f
+f
+f
+f
+6
+8
+10
+12
+^
+^
+^
+h
+h
+h
+. Coba simpulkan 
+apa sajakah yang dapat kalian dapatkan?
+b. 
+Sajikan fungsi linier tersebut dalam bentuk tabel.
+c. 
+Tentukan daerah hasil dari fungsi linier tersebut.
+d. 
+Sajikan fungsi linier tersebut dalam bentuk graik.
+4. 
+Tentukan nilai dari suatu fungsi berikut ini.
+a. 
+Apabila diketahui suatu fungsi h dengan rumus h x
+ax
+9
+=
++
+^ h
+ 
+Tentukan nilai fungsi h tersebut untuk nilai x
+3
+=
+ adalah -6.
+1) 
+Temukan persamaan fungsi h. Kemudian Jelaskan. 
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VIII
+188
+2) 
+Hitunglah nilai fungsi h untuk nilai 
+.
+x
+6
+=
+3) 
+Tentukan ada berapakah banyak nilai elemen domain 
+yang bernilai positif.
+b. 
+Apabila diketahui suatu fungsi f  dengan rumus fungsi 
+,
+f x
+x
+x
+2
+3
+1
+2
+=
+-
++
+^ h
+ maka tentukan nilai fungsi f x
+^ h untuk 
+nilai 
+dan
+x
+x
+2
+3
+=
+= -
+.
+5. 
+Diketahui fungsi f x
+ax
+8
+=
++
+^ h
+ dan f b
+10
+= -
+^ h
+. Nilai a dan b 
+berturut-turut yang mungkin adalah -3 dan 6. Kalau kalian, coba 
+temukan semua nilai a dan b yang berbeda sehingga nilai a dan b 
+merupakan bilangan bulat. Jelaskan.
+6. 
+Jika diketahui fungsi f n
+f n
+1
+2
+2
+1
++
+=
++
+^
+^
+h
+h
+ untuk n = 1, 2, 3, ....., dan 
+f(1) = 2, maka tentukan nilai dari  f(2023).
+7. 
+Graik di bawah ini mendeinisikan fungsi n dari himpunan 
+bilangan riil R ke himpunan bilangan riil R.
+Nyatakan fungsi tersebut dengan tiga cara berikut ini:
+a. 
+pasangan berurutan
+b. 
+diagram panah
+c. 
+tabel
+Ayo Berpikir Kreatif
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+-5
+-4
+-3
+-2
+-1
+1
+-1
+-2
+-4
+-3
+-5
+-6
+2
+3
+4
+5
+x
+y
+Bab 4 | Relasi dan Fungsi
+189
+8. 
+Misalkan  f adalah fungsi yang dideinisikan 
+.
+( )
+f x y
+y
+f x
+=
+^
+h
+  dengan 
+x dan y bilangan riil. Tentukan f 600
+^
+h  jika diketahui 
+.
+f 500
+3
+=
+^
+h
+9. 
+Ada sebuah tempat penampungan air di dalam rumah. Melalui 
+kanal, air masuk bak mandi dari reservoir. Ketinggian air bak mandi 
+mencapai 23 liter setelah 3 menit, dan menjadi 47 liter setelah 7 
+menit. Banyaknya air di bak mandi setelah diisikan selama t menit 
+diberikan oleh V t
+V
+at
+0
+=
++
+^
+^
+h
+h liter, di mana V0 adalah volume air 
+dalam bak sebelum diisikan dan a adalah laju aliran air per menit.
+a. 
+Hitunglah volume air pada bak mandi sebelum sebelum 
+diisikan air.
+b. 
+Berapa banyak air yang tersisa di bak mandi setelah 15 menit?
+10. Perhatikan dengan cermat pada Gambar 4.9 dan Gambar 4.10 
+berikut.
+Gambar 4.9 Telur dan Krat Telur 
+Sumber: kemendikbud
+Gambar 4.10 Telur dan Mangkok 
+Sumber: kemendikbud
+Berdasarkan kedua Gambar tersebut, maka berikut ditunjukkan 
+yang dapat disebut sebagai contoh fungsi dan contoh bukan fungsi.
+a. 
+Relasi dari telur ke wadah tersebut dapat disebut sebagai 
+fungsi (Gambar 4.9). Mengapa? Jelaskan.
+b. 
+Sedangkan relasi dari wadah tersebut ke telur dapat disebut 
+sebagai bukan fungsi (Gambar 4.9 dan 4.10). Mengapa? 
+Jelaskan.
+Sekarang, coba carilah contoh lain di sekeliling kalian yang dapat 
+dikatakan sebagai fungsi dan bukan fungsi.
+Matematika untuk SMP/MTs Kelas VIII
+190
+C. Korespondensi Satu-satu (Pengayaan)
+Setelah mempelajari materi relasi dan fungsi, kalian akan terlibat dalam 
+aktivitas pengembangan materi yang berhubungan dengan fungsi, 
+khususnya korespondensi satu-satu. Berikan perhatian khusus pada 
+uraian berikut untuk informasi lebih lanjut.
+1. Pengertian Korespondensi Satu-satu
+Perhatikan dengan cermat pada Gambar 4.11 di bawah, untuk 
+memahami konsep korespondensi satu-satu, lihatlah deretan rumah di 
+area tertentu atau dekat dengan rumah kalian. Setiap rumah dibedakan 
+dari yang lain dengan nomor rumah yang unik. Apakah mungkin untuk 
+memiliki dua nomor rumah di satu perumahan? Apakah juga ada 
+kemungkinan dua rumah berbagi nomor rumah yang sama? Secara 
+alami, jawabannya adalah tidak. Korespondensi satu-satu merupakan 
+fungsi khusus yang menghubungkan rumah dengan nomornya.
+Gambar 4.11 deretan rumah
+ 
+Ada lima siswa telah memiliki nomor 
+induk 
+sekolah 
+di 
+SMP 
+Semangat 
+45, kelima siswa tersebut tentunya 
+memiliki nomor induk khusus buat 
+nomor induk masing-masing yang tidak 
+akan dimiliki oleh siswa lain, yakni 
+seperti berikut.
+Ayo Bereksplorasi
+NISN
+DAPODIK
+DATA POKOK PENDIDIKAN INDONESIA
+Cari NISN
+INFO SISWA
+NISN
+Nama
+Jenis Kelamin
+Tempat Lahir
+Tanggal Lahir
+:
+:
+:
+: 
+:
+Hasil pencarian untuk NISN
+Beranda
+Tentang NISN
+Aturan & Kebijakan
+Formulir & Pengajuan
+Data Siswa
+Kontak Kami
+FAQ
+Bab 4 | Relasi dan Fungsi
+191
+Nomor induk Ahmad adalah 219,
+Nomor induk As’ari adalah 279,
+Nomor induk Tohir adalah 292,
+Nomor induk Tauiq adalah 258,
+Nomor induk Wati adalah 224,
+Apabila A dinyatakan mewakili himpunan siswa, maka anggota-
+anggota himpunan A adalah {Ahmad, As’ari, Tohir, Tauiq, Wati} dan 
+anggota-anggota himpunan B adalah {219, 224, 258, 279, 292}, sehingga 
+“nomor induk” merupakan relasi yang mungkin dari himpunan A ke 
+himpunan B, dan "nama pemilik nomor induk" merupakan relasi yang 
+mugkin dari himpunan B ke himpunan A, maka sajian diagram panah 
+pada Gambar 4.12 merupakan relasi dari kedua himpunan tersebut. 
+Perhatikan secara khusus uraian berikut untuk menemukan dua 
+diagram panah pada kasus tersebut.
+(a)
+(b)
+Gambar 4.12 diagram panah
+Berdasarkan Gambar 4.12a menunjukkan bahwa setiap elemen A 
+memiliki satu pasangan dengan setiap anggota B. Sehingga, "nomor 
+induk" merupakan relasi dari himpunan A ke B yang dapat disebut 
+juga sebagai fungsi (pemetaan). Semua elemen himpunan B dapat 
+disebut sebagai pemetaan (bayangan) dari elemen himpunan A dan 
+dipasangkan dengan tepat satu oleh anggota himpunan A. Sedangkan 
+yang terjadi pada Gambar 4.12b merupakan kebalikannya. Pemetaan 
+dua arah seperti yang ditunjukkan pada Gambar. 4.12 dapat juga 
+disebut sebagai fungsi satu-satu.
+A
+Nomor Induk
+B
+219
+224
+258
+279
+292
+Ahmad
+As’ari
+Tohir
+Taufiq
+Wati
+A
+Nama Pemilik
+Nomor Induk
+B
+Ahmad
+As’ari
+Tohir
+Taufiq
+Wati
+219
+224
+258
+279
+292
+Matematika untuk SMP/MTs Kelas VIII
+192
+Pengertian:
+Korespondensi satu-satu adalah fungsi khusus yang memasangkan 
+tepat satu untuk setiap anggota daerah asal maupun daerah 
+kawan. Dengan kata lain, dapat dikatakan bahwa setiap anggota 
+dari daerah asal maupun dari daerah kawan hanya mempunyai 
+satu pasang.
+Contoh 4.12
+Apabila diketahui himpunan-himpunan berikut, maka tentukan 
+yang termasuk korespondensi satu-satu. Jelaskan.
+1. 
+Himpunan P = {1, 2, 3, 4} dan himpunan Q = {a, b, c, d}
+2. 
+Himpunan R = {x, y, z} dan himpunan S = {5, 6} 
+Alternatif penyelesaian  
+1. 
+Diketahui anggota himpunan P adalah {1, 2, 3, 4} dan anggota 
+himpunan Q adalah {a, b, c, d}, sehingga banyak anggota 
+keduanya dapat ditulis n(P) = 3 dan n(Q) = 3.
+Jadi, banyak anggota keduanya sama, sehingga dapat 
+dinotasikan dengan n(P) = n(Q). Dengan demikian, himpunan 
+P dan himpunan Q merupakan korespondensi satu-satu.
+2. 
+Diketahui himpunan R = {x, y, z} dan himpunan S = {5, 6}, 
+sehingga banyak anggota keduanya dapat ditulis n(R) = 3 dan 
+n(S) = 2
+Jadi, banyak anggota keduanya tidak sama, sehingga n(R) ≠ 
+n(S). Dengan demikian, himpunan R dan S bukan merupakan 
+korespondensi satu-satu.
+Menurut Sulastri, perbedaan antara relasi, fungsi, dan korespondensi 
+satu-satu adalah setiap relasi tidak selalu dapat disebut sabagai fungsi 
+dan korespondensi satu-satu, setiap relasi tidak selalu dapat disebut 
+Ayo Berpikir Kritis
+Bab 4 | Relasi dan Fungsi
+193
+sebagai korespondensi satu-satu tetapi pasti dapat disebut sebagai 
+relasi, dan setiap korespondensi satu-satu pasti selalu dapat disebut 
+sebagai relasi dan fungsi. Sedangkan Rudi tidak setuju dengan pendapat 
+Sulastri, karena Rudi punya pendapat lain tentang perbedaan antara 
+relasi, fungsi, dan korespondensi satu-satu; yaitu korespondensi satu-
+satu dapat disebut sebagai himpunan bagian dari fungsi dan relasi, 
+begitu juga fungsi dapat disebur sebagai himpunan bagian dari relasi. 
+Setujukah kalian dengan pendapat Rudi? Jelaskan. Ataukah kalian 
+justru setuju dengan pendapat Sulastri? Jelaskan.
+Diketahui himpunan K = {1, 2, 3, 4} dan himpunan L = {a, b, c, d}. 
+Muhasshanah menemukan hubungan kedua himpunan tersebut yang 
+dapat dikatakan sebagai korespondensi satu-satu, yaitu {(1, a); (2, b); (3, 
+c); (4, d)}. Sedangkan Mukhsin menemukan hubungan kedua himpunan 
+tersebut yang dapat dikatakan sebagai korespondensi satu-satu, yaitu 
+{(1, b); (2, a); (3, d); (4, c)}. Kalau kalian, dapatkah kalian menemukan 
+bentuk susunan himpunan pasangan berurutan yang berbeda? Temukan 
+sebanyak mungkin susunan himpunan pasangan berurutan berbeda-
+beda.
+Ayo Berteknologi
+Jika kalian masih belum mengerti tentang korespondensi satu-satu, kalian 
+dapat melakukan kegiatan berikut ini.
+Coba pelajari tentang konsep korespondensi satu-
+satu melalui video di Youtube, coba dengan kata 
+pencarian "korespondensi satu-satu".
+Ayo Berpikir Kreatif
+Matematika untuk SMP/MTs Kelas VIII
+194
+2. Banyak Korespondensi Satu-satu
+Simak dengan cermat penjelasan berikut untuk mempelajari lebih lanjut 
+tentang korespondensi satu-satu.
+Apabila diketahui anggota himpunan A adalah {1, 2, 3} dan anggota 
+himpunan B adalah {a, b, c}. Relasi dari himpunan A ke B yang mungkin 
+dapat dibentuk sebagai korespondensi satu-satu dapat diilustrasikan 
+pada Tabel 4.8 berikut.
+Tabel 4.8 Diagram Banyak Korespondensi Satu-Satu
+Diagram Panah I
+Diagram Panah II
+Diagram Panah III
+A
+B
+a
+b
+c
+1
+2
+3
+A
+B
+a
+b
+c
+1
+2
+3
+A
+B
+a
+b
+c
+1
+2
+3
+Diagram Panah IV
+Diagram Panah V
+Diagram Panah VI
+A
+B
+a
+b
+c
+1
+2
+3
+A
+B
+a
+b
+c
+1
+2
+3
+A
+B
+a
+b
+c
+1
+2
+3
+Berdasarkan sajian diagram panah pada Tabel 4.8 di atas, 
+menunjukkan bahwa ada sebanyak 6 susunan diagram panah yang 
+berbeda untuk korespondensi satu-satu dari himpunan A ke himpunan 
+B.
+Ayo Bereksplorasi
+Bab 4 | Relasi dan Fungsi
+195
+Berdasarkan temuan kalian pada Tabel 4.8, coba latihan pada Tabel 4.9 
+untuk menentukan berapa banyak korespondensi satu-satu yang ada 
+antara himpunan A dan B tergantung pada jumlah anggota dan untuk 
+menentukan berapa banyak orang yang diperlukan untuk membuat 
+diagram panah penghubung himpunan A dan B. Berikut adalah contoh 
+yang mungkin terjadi dan ditunjukkan pada Tabel 4.9. Sekarang, 
+Cobalah kalian lengkapi isi sel yang masih kosong.
+Tabel 4.9 Banyaknya korespondensi satu-satu
+No.
+Banyak Anggota 
+Himpunan A
+Banyak Anggota 
+Himpunan B
+Banyak Fungsi Satu-satu 
+dari Himpunan A ke 
+Himpunan B
+1.
+1
+1
+1
+2.
+2
+2
+2
+3.
+3
+3
+6
+4.
+4
+4
+...
+5.
+5
+5
+...
+6.
+6
+6
+...
+7.
+7
+7
+...
+8.
+8
+8
+...
+9.
+9
+9
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+...
+n
+n
+n
+...
+Ayo Bekerja Sama
+Matematika untuk SMP/MTs Kelas VIII
+196
+Berdasarkan Tabel 4.8 dan 4.9 di halaman sebelumnya, dapat disimpulkan 
+bahwa apabila banyak anggota himpunan A sama dengan banyak 
+anggota himpunan B, yakni n(A) = n(B) = n; maka banyak korespondensi 
+satu-satu yang mungkin dapat dibuat dari himpunan A ke himpunan B 
+adalah sebanyak n! atau n! = n × (n – 1) × (n – 2) × ... × 3 × 2 × 1. 
+Cobalah kalian perhatikan kesimpulan tersebut, apa yang perlu 
+ditambahkan agar kesimpulan itu lebih komunikatif lagi?
+Kemudian, sebutkan apa saja ciri-ciri dari dua himpunan dapat 
+dikatakan korespondensi satu-satu atau tidak? Selanjutnya, dalam 
+kondisi bagaimana dua himpunan tidak dapat dipastikan dikatakan 
+korespondensi satu-satu? Jelaskan.
+Sekarang, cobalah selesaikan kasus berikut ini untuk menunjukkan 
+mengetahui pemahaman kalian.
+Perhatikan dengan cermat pada diagram panah berikut ini.
+(a)
+(b)
+(c)
+Gambar 4.13 diagram panah dari himpunan A ke himpunan B
+1. 
+Apakah relasi tersebut merupakan korespondensi satu-satu dari 
+himpunan A ke himpunan B? Jelaskan. 
+2. 
+Apabila relasi tersebut bukan merupakan korespondensi satu-satu, 
+apakah diagram pada pada Gambar 4.13 termasuk fungsi? Jelaskan.
+Ayo Berkomunikasi
+A
+B
+a
+b
+c
+d
+1
+2
+3
+4
+A
+B
+a
+b
+c
+d
+e
+1
+2
+3
+4
+5
+A
+B
+a
+b
+c
+d
+e
+1
+2
+3
+4
+5
+Bab 4 | Relasi dan Fungsi
+197
+Contoh 4.13
+Apabila diketahui anggota  himpunan K adalah {a, b, c, d, e} dan 
+anggota himpunan L adalah {1, 2, 3, 4, 5}, tentukanlah banyaknya 
+korespondensi satu-satu yang mungkin dari himpunan K ke 
+himpunan L. 
+Alternatif penyelesaian  
+Diketahui himpunan K = {a, b, c, d, e} 
+dan himpunan L = {1, 2, 3, 4, 5}, 
+sehingga didapat banyak anggotanya adalah n(K) = 5 dan n(L) = 5
+Jadi, banyaknya korespondensi satu-satu dari himpunan K ke 
+himpunan L adalah sebanyak 
+n(K)! = n(L)! = 5! = 5 × 4 × 3 × 2 × 1 = 120.
+Contoh 4.14
+Diketahui himpunan M = {x | -3 < x < 4, x bilangan bulat} dan 
+himpunan N = {x | x < 7, x bilangan asli}. Tentukanlah banyaknya 
+korespondensi satu-satu dari himpunan M ke himpunan N. 
+Alternatif penyelesaian  
+Diketahui  M = {x | -3 < x < 4, x bilangan bulat} dan
+N = {x | x < 7, x bilangan asli}
+M = {-2, -1, 0, 1, 2, 3} dan N = {1, 2, 3, 4, 5, 6}
+sehingga didapat n(M) = 6 dan n(N) = 6
+Jadi, banyak korespondensi satu-satu yang mungkin dari 
+himpunan M ke himpunan N adalah sebanyak
+n(M)! = n(N)! = 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720.
+Ayo Berteknologi
+Jika kalian masih belum mengerti tentang banyak korespondensi satu-
+satu, kalian dapat melakukan kegiatan pada halaman berikut.
+Matematika untuk SMP/MTs Kelas VIII
+198
+Coba pelajari tentang konsep korespondensi satu-
+satu melalui video di Youtube, coba dengan kata 
+pencarian "Banyak korespondensi satu-satu".
+1. 
+Manakah dari diagram panah berikut ini yang menggambarkan 
+korespondensi satu-satu? Jelaskan. 
+2. 
+Manakah di antara himpunan pasangan berurutan berikut yang 
+termasuk korespondensi satu-satu? Jelaskan.
+a. 
+{(1 , 1); (2 , 2); (3 , 3)}
+b. 
+{(2 , 2); (2 , 4); (2 , 6)}
+c. 
+{(a , 2); (2 , b); (b , a)}
+d. 
+{(1 , p); (2 , q); (3 , p)}
+e. 
+{(5 , 6); (6 , 7); (7 , 5)}
+f. 
+{(a , x); (b, z); (a , y)}
+3. 
+Subarno mengatakan bahwa setiap dua himpunan yang banyak 
+anggotanya sama pasti selalu dapat dikatakan korespondensi satu-
+satu. Tetapi Sunardi tidak setuju dengan pendapat Subarno, karena 
+dua himpunan yang dapat dinyatakan dengan korespondensi satu-
+satu memiliki hubungan yang khusus. Setujukah kalian dengan 
+pendapat Sunardi? Jelaskan.
+Soal Laihan
+4.4
+A
+B
+d
+e
+f
+a
+b
+c
+A
+B
+d
+e
+f
+a
+b
+c
+g
+A
+B
+d
+e
+f
+a
+b
+c
+d
+g
+A
+B
+e
+b
+A
+B
+d
+f
+a
+b
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+Ayo Berpikir Kritis
+Bab 4 | Relasi dan Fungsi
+199
+Ayo Berpikir Kreatif
+4. 
+Temukan kejadian sehari-hari di sekitar kalian yang menunjukkan 
+sebagai korespondensi satu-satu. Presentasikan secara singkat 
+temuan kalian di depan kelas.
+5. 
+Apabila diketahui banyak anggota dua himpunan seperti berikut 
+ini, maka ada berapa banyak korespondensi satu-satu yang 
+mungkin dari himpunan A dan himpunan B?
+a. 
+n(A) = n(B) = 12
+b. 
+n(A) = n(B) = 9
+6. 
+Manakah diantara dua himpunan berikut ini yang dapat dinyatakan 
+sebagai korespondensi satu-satu? Jelaskan.
+a. 
+A = {nama bulan dalam setahun}
+B = {nama hari dalam seminggu}
+b. 
+C = {bilangan genap kurang dari 10}
+D = {bilangan prima kurang dari 10}
+c. 
+E = {a, e, i, o, u}
+F = {lima kota besar di Pulau Jawa}
+d. 
+G = {nama hari dalam seminggu}
+H = {bilangan prima antara 1 dan 11}
+7. 
+Diketahui himpunan K = {1, 2, 3, 4, 5, 6} dan himpunan L = {a, b, 
+c, d, e,  f }.
+a. 
+Tentukan ada berapa banyak korespondensi satu-satu yang 
+mungkin dapat dibuat dari himpunan K ke himpunan L?
+b. 
+Coba minimal tiga himpunan pasangan berurutan yang 
+termasuk korespondensi satu-satu dari himpunan K ke 
+himpunan L.
+8. 
+Jika diketahui himpunan 
+,
+, , ,
+A
+2
+1 0 1 2
+= -
+-
+"
+,, maka apakah 
+fungsi f
+A
+A
+"
+|
+ yang dideinisikan sebagai berikut merupakan 
+korespondensi satu-satu?
+a. 
+f
+x
+x
+"
+|
+-
+b. 
+f
+x
+x
+2
+"
+|
+c. 
+f x
+x
+2
+1
+2
+=
+-
+^ h
+Matematika untuk SMP/MTs Kelas VIII
+200
+9. 
+Berdasarkan himpunan yang diberikan berikut, ada berapa banyak 
+korespondensi satu-satu yang mungkin dapat dibuat?
+a. 
+Himpunan P = {huruf vokal} dan Himpunan Q = {bilangan 
+cacah antara 1 dan 7}
+b. 
+Himpunan A = {faktor dari 8} dan Himpunan B = {faktor dari 
+21}
+10. Sebuah perusahaan memproduksi suatu produk dengan kode 
+tanggal manufaktur tertentu. Tentukan: Jika ABCDEFGHIJ adalah 
+korespondensi satu-satu dengan ketentuan 0 1 2 3 4 5 6 7 8 9 dan 
+CDAHBJIG mewakili kode barang untuk tanggal pembuatan 23 – 07 
+– 1986.
+a. 
+kode barang untuk tanggal produksi:
+1) 
+14 April 1982
+2) 
+27 Oktober 2021
+b. 
+tanggal produksi barang untuk kode:
+1) 
+CDAFCAAB
+2) 
+BDAEBJIE
+Setelah kalian mempelajari materi fungsi linier, selanjutnya buatlah 
+laporan kegiatan menggambar graik fungsi linier dengan menggunakan 
+software komputer  (MS Excel, FX Draw, Maple, GeoGebra, Mathlab, atau 
+lainnya yang serupa) seperti gambar graik fungsi pada Bab 4 ini. 
+Menurut kalian, apakah masih diperlukah menggambar bagun datar 
+secara manual melalui kemampaun tangan kalian? Mengapa? Jelaskan.
+Projek Bab 4
+Pilih setidaknya satu dari proyek berikut untuk membantu kalian lebih 
+memahami fungsi dan penerapannya dalam kehidupan sehari-hari. 
+Lakukan, dokumentasikan proses dan hasil, dan siapkan bahan untuk 
+presentasi.
+Ayo Bekerja Sama
+Bab 4 | Relasi dan Fungsi
+201
+Projek 4.1
+Pada kegiatan projek ini, kalian akan mendesain sebuah kaos yang 
+menarik menurut kalian dari bahan sederhana, misalkan kertas HVS 
+atau kertas asturo atau lainnya. Dalam tugas proyek ini, terapkan 
+pemahaman kalian tentang materi fungsi dan materi lainnya. Kemudian 
+pertimbangkan dan berikan tanggapan berikut untuk pertanyaan-
+pertanyaan ini di area yang disediakan:
+1. 
+Apa yang harus kalian lakukan untuk memastikan ide desain 
+kaos ini bagus dan unik? (Bahan apa yang kalian miliki untuk 
+disediakan? Alat persiapan apa saja yang kalian sediakan? 
+Bagaimana cara mendesainnya? Berapakah ukuran kaos tersebut? 
+Berapa biaya yang dibutuhkan untuk mendesaian sebuah kaos 
+dari bahan sederhana ini? dan lain-lain).
+2. 
+Pendekatan apa yang harus kalian gunakan untuk menyelesaikan 
+pekerjaan tersebut dengan sukses? Apa struktur strateginya? 
+Apa lagi yang harus dilakukan? dan lain-lain. Jika kalian menjadi 
+pemilik perusahaan kaos yang sebenarnya, rencana apa yang 
+kalian lakukan agar banyak agen yang membeli dan memesan kaos 
+tersebut? Bagaiamana cara agen untuk membeli dan memesan 
+kaos tersebut? coba uraikan.
+Projek 4.2
+Hubungi penyedia layanan seluler di sekitar kalian atau cari di Internet 
+untuk mengetahui informasi lebih lanjut. Pelajari tentang bagaimana 
+mereka menentukan tarif tekpon dalam jangka waktu tertentu, 
+lalu temukan persamaan rumusnya. Selain itu, lakukan analisis 
+untuk mengetahui apakah operator tersebut layak digunakan oleh 
+masyarakat biasa dan pebisnis. Siapkan data hasil temuan kalian untuk 
+dipresentasikan.
+Projek 4.3
+Carilah bentuk-bentuk "PEMBOROSAN" dalam hidup kalian, baik di 
+rumah maupun di sekolah (misalnya, membiarkan air menetes dari 
+keran meskipun kalian berusaha keras untuk menutupnya dengan rapat, 
+Matematika untuk SMP/MTs Kelas VIII
+202
+menyalakan lampu di siang hari, dan lain sebagainya). Kemudian, coba 
+kalian cari informasi terkait untuk mengidentiikasi risiko pemborosan 
+tersebut, selanjutnya susunlah materi presentasi tentang fungsi (jika 
+ada) untuk menjamin bahwa terkait dengan risiko dalam membiarkan 
+pemborosan tersebut.   
+Proyek 4.4
+Coba kalian sediakan wadah air tertentu berbentuk kotak dan perhatikan 
+ketinggian airnya (jika kalian kesulitan membuatnya, gunakan 
+gelas ukur yang biasa ditemukan di apotek atau toko perlengkapan 
+laboratorium). Kemudian gambarkan koordinat Cartesius, dimana 
+sumbu x menunjukkan saat air dituangkan ke dalam kotak, dan sumbu 
+y mewakili ketinggian air. Buat graik yang menunjukkan hubungan 
+antara waktu air menetes dan ketinggian permukaan, menggunakan 
+air yang menetes dari keran (dengan laju konstan). (Bagaimana jika 
+kotak tersebut diganti dengan bentuk lain, tidak tegak lurus, tetapi 
+miring, melengkung, atau bentuk yang lainnya?).
+Kalian telah memiliki kesempatan untuk mempelajari tentang materi 
+relasi dan fungsi. Sekarang, dengan menjawab pertanyaan-pertanyaan 
+berikut, cobalah untuk mencatat hal-hal penting yang kalian yakini 
+sangat berharga dan akan baik untuk kalian pelajari lebih lanjut:
+1. 
+Apa saja yang dapat kalian ketahui tentang materi relasi?
+2. 
+Apa persyaratan agar suatu relasi dinyatakan sebagai fungsi?
+3. 
+Apakah ada suatu fungsi tertentu dari himpunan ke himpunan itu 
+sendiri?
+4. 
+Tunjukkan berapa banyak cara yang berbeda suatu fungsi dapat 
+disajikan.
+5. 
+Bagaimana cara menemukan nilai fungsi?
+6. 
+Sebutkan apa sajakah ciri-ciri dari korespondensi satu-satu?
+Ayo Berefleksi
+Bab 4 | Relasi dan Fungsi
+203
+Dalam rangka memperingati Hari Kemerdekaan 17 Agustus, biasanya 
+seseorang membuat pola guntingan kertas yang berselang-seling dengan 
+merah, putih, merah, putih, merah, putih, dan begitu seterusnya. Pola 
+yang dihasilkan adalah fungsi dari himpunan bilangan asli dikalikan 
+dengan himpunan potongan kertas merah dan putih. Dalam notasi 
+formal, barisan ini akan ditulis sebagai {(1,merah); (2, putih); (3, merah); 
+(4, putih); (5, merah); …}.
+Uji Kompetensi Bab 4
+A. 
+Pilihlah jawaban pada soal berikut dengan jawaban yang benar 
+dan tepat
+1. 
+Keempat pemuda memiliki nama masing-masing adalah Abdul, 
+Tohir, Anam, dan Tauiq; mereka memiliki minatnya masing-
+masing. Kesukaan Abdul Belajar kelompok dan menulis cerpen, 
+kesukaan Tohir Bermain komputer dan renang, kesukaan Anam 
+menulis cerpen dan renang, dan kesukaan Tauiq renang saja. 
+Anak yang mempunyai kesukaan menulis cerpen, tetapi tidak suka 
+belajar kelompok adalah .....
+a. 
+Abdul
+b. 
+Tohir
+c. 
+Anam
+d. 
+Tauiq
+2. 
+Diketahui himpunan pasangan berurutan:
+(i). {(0, 0); (2, 1); (4, 2); (6, 3)}
+(ii). {(1, 3); (2, 3); (1, 4); (2, 4)}
+(iii). {(1, 5); (2, 5); (3, 5); (4, 5)}
+(iv). {(5, 1); (5, 2); (4, 1); (4, 2)}
+yang merupakan pemetaan (fungsi) adalah ..........
+a. 
+(i) dan (ii)
+b. 
+(i) dan (iii)
+c. 
+(ii) dan  (iii)
+d. 
+(iii) dan (iv)
+Penguatan Karakter
+Matematika untuk SMP/MTs Kelas VIII
+204
+3. 
+Fungsi f ditentukan oleh f x
+ax
+b
+=
++
+^ h
+. Jika nilai dari fungsi itu 
+untuk x = -3 adalah -15 dan nilai dari fungsi itu untuk x = 3 adalah 
+9, nilai dari 
+( )
+f
+f
+2
+2
+-
++
+^
+h
+ adalah ....
+a. 
+4
+b. 
+6
+c. 
+–4
+d. 
+–6
+4. 
+Diketahui suatu fungsi dapat ditentukan dengan rumus berikut:
+( )
+,
+,
+untuk
+ganjil
+untuk
+genap
+f x
+x
+x
+x
+x
+2
+1
+2
+1
+=
++
++
+(
+Apabila nilai a adalah bilangan asli, maka nilai yang tidak mungkin 
+untuk fungsi f(a) adalah ....
+a. 
+21
+b. 
+39
+c. 
+61
+d. 
+77
+5. 
+Sebuah rumah memiliki tempat penampungan air. Air mengalir 
+dari reservoir ke bak mandi melalui pipa. Setelah 5 menit, volume 
+air di bak mandi menjadi 25 liter, dan setelah 12 menit menjadi 46 
+liter. V(t) = (V0 + at) liter adalah volume air di bak mandi setelah 
+mengalirkan air selama t menit, di mana V0 adalah volume air di 
+bak mandi sebelum air dialirkan dan a adalah debit air per menit. 
+volume air di bak mandi sebelum air dialirkan dan volume air di 
+bak mandi setelah 27 menit adalah .....
+a. 
+0 liter dan 27 liter
+b. 
+10 liter dan 75 liter
+c. 
+10 liter dan 91 liter
+d. 
+15 liter dan 75 liter
+B. Kerjakan soal-soal berikut dengan benar
+6. 
+Pak Madhuri mempunyai empat orang anak bernama Sulastri, Idris, 
+Halim, dan Tohir. Pak Muarif mempunyai tiga orang anak bernama 
+Mawardi, Muhasshanah, dan Mukhsin. Pak Asid mempunyai dua 
+orang anak bernama Marhawi dan Sunaida.
+a. 
+Tunjukkan relasi "ayah dari" dalam diagram panah.
+b. 
+Apakah relasi pada poin a) merupakan fungsi? Jelaskan.
+c. 
+Tunjukkan relasi "anak dari" dalam diagram panah.
+d. 
+Apakah relasi pada poin c) merupakan fungsi? Jelaskan.
+Bab 4 | Relasi dan Fungsi
+205
+7. 
+Suatu Relasi dideinisikan dengan “setengah kali dari” dari 
+himpunan P ke himpunan Q dengan P = {1, 2, 3, 4, 5} dan Q = {1, 2, 
+3, 4, 5, 6, 7, 8, 9, 10}. Sehingga himpunan pasangan berurutan dari 
+relasi tersebut adalah {(1, 2); (2, 4); (3, 6); (4, 8); (5, 10)}. Cobalah 
+untuk membuat setidaknya tiga contoh lagi relasi dari himpunan 
+P ke himpunan Q. Kemudian, nyatakan relasi tersebut dengan 
+cara diagram panah, koordinat Cartesius, dan himpunan pasangan 
+berurutan.
+8. 
+Fungsi f dideinisikan dengan rumus f(x) = 5 - 3x dan diketahui 
+daerah asalnya adalah {–2, –1, 0, 1, 2, 3}
+a. 
+Buatlah tabel dan himpunan pasangan berurutan dari fungsi 
+tersebut.
+b. 
+Gambarlah graiknya.
+9. 
+Mawardi dan Mukhsin sedang mendiskusikan tentang fungsi linier 
+pada gambar berikut ini.
+Mawardi berpendapat bahwa 
+fungsi linier garis k dan l di 
+samping 
+merupakan 
+graik 
+fungsi. Pada sisi lain, Mukhsin 
+tidak setuju dengan anggapan 
+Mawardi. 
+Karena 
+Mukhsin 
+mempunyai pendapat lain, yaitu 
+Gambar tersebut meunjukkan 
+bahwa fungsi linier dari garis k 
+adalah suatu fungsi, akan tetapi 
+garis l tidak termasuk fungsi. 
+Apakah kalian setuju dengan 
+penilaian Mukhsin? Jelaskan.
+Ayo Berpikir Kreatif
+Ayo Berpikir Kritis
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+x
+-3 -2 -1
+1
+-1
+-2
+-4
+-3
+-5
+-6
+2
+3
+4
+5
+y
+l
+k
+y=2
+x=5
+Matematika untuk SMP/MTs Kelas VIII
+206
+10. Seorang petani menanam pohon apel yang berbentuk persegi 
+(bujursangkar). Petani tersebut menanam pohon pinus di sekeliling 
+kebunnya untuk melindungi pohon apel dari angin. Diagram 
+berikut menggambarkan tata letak pohon apel dan pohon pinus 
+untuk sejumlah (n) kolom pohon apel.
+a. 
+Coba kalian lakukan kegiatan dengan mengisi isi tabel di 
+bawah ini:
+n
+Jumlah Pohon Apel
+Jumlah Pohon Pinus
+1
+1
+...
+2
+...
+16
+3
+9
+...
+4
+...
+...
+5
+...
+...
+6
+...
+...
+7
+...
+...
+8
+...
+...
+9
+...
+...
+10
+...
+...
+b. 
+Apabila diasumsikan petani tersebut ingin menanami kebun 
+yang lebih besar dengan banyak barisan pohon. Manakah 
+yang akan tumbuh lebih cepat di kebun petani antara jumlah 
+pohon apel atau jumlah pohon pinus? Jelaskan bagaimana 
+kalian sampai pada kesimpulan tersebut.
+n = 1
+n = 2
+n = 3
+n = 4
+= Pohon pinus
+= Pohon apel

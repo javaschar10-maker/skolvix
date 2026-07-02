@@ -1,0 +1,2986 @@
+Bab IV
+Tujuan Pembelajaran
+Di dalam bab ini, kalian akan belajar bagaimana menentukan peluang suatu 
+kejadian, baik peluang teoretis maupun empiris. Selain itu, kalian juga akan 
+belajar bagaimana menentukan frekuensi harapan suatu kejadian dan memilih 
+sampel dari suatu populasi.
+Peluang dan 
+Pemilihan Sampel
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA, 2022
+Matematika    
+untuk SMP/MTs Kelas IX
+Penulis:  Yosep Dwi Kristanto, dkk
+ISBN:  978-602-427-918-9 (jil.3)
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+216
+Ayo Bersiap Belajar!
+Hampir 
+semua 
+orang 
+suka 
+bermain gim! Ketika memainkan 
+sebuah 
+gim 
+atau 
+permainan, 
+apakah 
+kalian 
+ingin 
+menang? 
+Iya, tentu saja! Di beberapa gim, 
+kalian dapat mengetahui seberapa 
+besar kemungkinan atau peluang 
+memenangkannya. Peluang inilah 
+yang akan kalian pelajari di dalam 
+bab ini. 
+Pada bab ini, kalian akan diajak untuk memilih gim yang paling 
+menguntungkan bagi kalian. Bahkan, di akhir Subbab C kalian diajak 
+untuk bermain Gim Koin bersama dengan teman kalian.
+Tak hanya itu, kalian juga akan belajar tentang pemilihan sampel. 
+Di bagian akhir bab ini kalian juga diberi kesempatan untuk berkreasi 
+melalui aktivitas proyek, lihat halaman 277. Di dalam proyek itu, kalian 
+bersama dengan teman-teman kalian akan membuat ketapel yang 
+akurat. Tidak sabar memulainya? Ayo pelajari bab ini dengan penuh 
+semangat!
+A. Peluang
+Apakah kalian pernah menebak kemungkinan suatu kejadian akan 
+terjadi? Di aktivitas Eksplorasi 4.1 berikut ini, kalian akan mencoba 
+melakukannya.
+Eksplorasi
+4.1  Menjadi Negara Maju di Tahun 2045
+Pada tahun 2045, usia negara Indonesia tepat 100 tahun. Coba tebak 
+seberapa mungkin Indonesia menjadi negara maju pada tahun itu! 
+(Centanglah (
+) pilihan yang sesuai dengan tebakan kalian!)
+Tidak 
+mungkin
+Kecil 
+kemungkinannya
+Mungkin iya, 
+mungkin tidak
+Sangat 
+mungkin
+Pasti
+Gambar 4.1 Salah Satu Contoh Gim
+Gambar: Peggychoucair/Pixabay
+ Bab IV - Peluang dan Pemilihan Sampel 217
+1. 	 Apakah jawaban kalian sama dengan jawaban teman kalian? 
+Mengapa?
+2. 	 Indeks Pembangunan Manusia (IPM) merupakan salah satu 
+kriteria utama untuk menentukan apakah suatu negara 
+masuk negara maju atau tidak. Diagram pada Gambar 4.2 ini 
+menunjukkan IPM Indonesia mulai tahun 1990 sampai 2019.
+2000
+0,2
+0,4
+0,6
+0,8
+2005
+2010
+2015
+1995
+Indeks Pembangungan 
+Manusia
+Gambar 4.2 IPM Indonesia 1990–2019
+Semua negara maju memiliki IPM yang sangat tinggi, yaitu lebih 
+dari 0,8. Rata-rata IPM negara maju adalah sekitar 0,907. Fakta-
+fakta ini apakah mengubah tebakan kalian apakah Indonesia 
+menjadi negara maju di tahun 2045? Mengapa?
+Yang kalian lakukan di aktivitas eksplorasi sebelumnya adalah 
+menduga kemungkinan terjadinya suatu kejadian. Dugaan kalian 
+tersebut sifatnya subjektif. Artinya, dugaan kalian kemungkinan akan 
+berbeda dengan dugaan teman-teman kalian, tergantung pertimbangan-
+pertimbangan yang kalian gunakan sebagai dasarnya.
+Berikut 
+ini 
+contoh-contoh 
+pertanyaan 
+mengenai 
+dugaan 
+kemungkinan suatu kejadian secara subjektif.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+218
+Seberapa mungkin 
+sebuah helikopter 
+akan mendarat di 
+halaman sekolahmu 
+besok?
+Seberapa mungkin 
+kalian akan masuk 
+ke SMA idaman 
+kalian?
+Seberapa 
+mungkin kalian 
+akan menikmati 
+pembelajaran 
+Matematika hari ini?
+Di aktivitas eksplorasi selanjutnya, kalian diajak untuk membuat 
+sebuah keputusan berdasarkan besarnya kemungkinan beberapa 
+kejadian akan terjadi.
+Eksplorasi
+4.2  Memenangkan Sebuah Gim
+Ketika mengikuti sebuah gim atau permainan, seringkali kalian 
+perlu membuat pilihan yang tepat untuk memenangkannya. 
+Perhatikan aturan-aturan gim pada tiap-tiap nomor berikut!
+B 	Di dalam gim lempar undi sebuah dadu, kalian diberi kesempatan 
+untuk memilih salah satu aturan berikut. Aturan mana yang 
+kalian pilih? Mengapa?
+ⓐ 	 Kalian akan menang jika mendapatkan mata dadu 2.
+ⓑ 	 Kalian akan menang jika mendapatkan mata dadu bilangan 
+genap.
+ⓒ 	 Kalian akan menang jika memperoleh mata dadu 1 atau 5.
+C 	Gim kedua adalah melempar dua koin yang masing-masing 
+punya dua sisi, yaitu sisi angka dan sisi gambar. Dari aturan-
+aturan berikut ini, mana yang akan kalian pilih?
+ⓐ 	 Kalian akan menang jika memperoleh satu sisi angka dan 
+satu sisi gambar.
+ⓑ 	 Kalian akan menang jika kedua koinnya muncul sisi gambar.
+ Bab IV - Peluang dan Pemilihan Sampel 219
+D	 Gim ketiga adalah lempar undi dua buah dadu. Urutkan aturan-
+aturan berikut ini dari yang paling kalian pilih sampai yang 
+paling kalian hindari!
+ⓐ 	 Kalian akan menang jika mata dadu pertama dan kedua 
+yang muncul jumlahnya 11.
+ⓑ 	 Kalian akan menang jika mata dadu pertama dan kedua 
+yang muncul jumlahnya 1.
+ⓒ 	 Kalian akan menang jika mata dadu pertama dan kedua 
+yang muncul jumlahnya 7.
+1. 	 Dasar-Dasar Peluang
+Di dalam aktivitas Eksplorasi 4.2, bagaimana cara kalian menentukan 
+pilihan? Bandingkan cara kalian dengan cara yang dilakukan oleh Abel 
+berikut.
+Eksplorasi
+4.3  Mencermati Cara Abel
+Di aktivitas ini, silakan cermati cara Abel dalam menjawab soal 
+nomor 3 pada aktivitas Eksplorasi 4.2!
+B 	Pertama, Abel mendaftar semua kemungkinan hasil yang 
+diperoleh jika dia melempar undi dua buah dadu. Semua 
+kemungkinan hasilnya itu ditunjukkan pada Tabel 4.1 berikut.
+Tabel 4.1 Daftar Kemungkinan Kemunculan Mata Dadu
+Mata Dadu Kedua
+1
+2
+3
+4
+5
+6
+Mata Dadu Pertama
+1
+(1, 1)
+(1, 2)
+(1, 3)
+(1, 4)
+(1, 5)
+(1, 6)
+2
+(2, 1)
+(2, 2)
+(2, 3)
+(2, 4)
+(2, 5)
+(2, 6)
+3
+(3, 1)
+(3, 2)
+(3, 3)
+(3, 4)
+(3, 5)
+(3, 6)
+4
+(4, 1)
+(4, 2)
+(4, 3)
+(4, 4)
+(4, 5)
+(4, 6)
+5
+(5, 1)
+(5, 2)
+(5, 3)
+(5, 4)
+(5, 5)
+(5, 6)
+6
+(6, 1)
+(6, 2)
+(6, 3)
+(6, 4)
+(6, 5)
+(6, 6)
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+220
+Apakah Abel sudah mendaftar semua kemungkinannya?
+C	 Berikutnya, Abel menjumlahkan dua bilangan yang mungkin 
+muncul pada mata dadu pertama dan kedua. Pekerjaannya 
+disajikan pada Tabel 4.2 berikut.
+Tabel 4.2 Daftar Jumlah Mata Dadu
+Mata Dadu Kedua
+1
+2
+3
+4
+5
+6
+Mata Dadu Pertama
+1
+2
+3
+4
+5
+6
+7
+2
+3
+4
+5
+6
+7
+8
+3
+4
+5
+6
+7
+8
+9
+4
+5
+6
+7
+8
+9
+10
+5
+6
+7
+8
+9
+10
+11
+6
+7
+8
+9
+10
+11
+12
+Oleh karena itu, dia mendapatkan semua kemungkinan 
+munculnya dua mata dadu yang jika dijumlahkan hasilnya 11, 
+1, dan 7 sebagai berikut.
+Jumlahnya 11	
+: 	
+(5, 6) dan (6, 5)
+Jumlahnya 1	
+: 	
+tidak ada
+Jumlahnya 7	
+: 	
+(1, 6), (2, 5), (3, 4), (4, 3), (5, 2), (6, 1)
+Apakah menurut kalian pekerjaan Abel tersebut sudah tepat?
+D	 Abel mengamati dan membandingkan bahwa banyaknya 
+kemungkinan munculnya dua mata dadu yang jika dijumlahkan 
+hasilnya 11, 1, dan 7 adalah sebagai berikut.
+Jumlahnya 11	: 	2 kemungkinan
+Jumlahnya 1	 : 	0 kemungkinan
+Jumlahnya 7	 : 	6 kemungkinan
+Dengan demikian, dia memilih aturan yang ketiga (dia akan 
+menang jika mendapatkan mata dadu-mata dadu yang 
+jumlahnya 7) dan menghindari gim dengan aturan yang kedua 
+(dia akan menang jika memperoleh mata dadu-mata dadu 
+dengan jumlah 1).
+Apakah kalian setuju dengan pilihannya Abel? Mengapa?
+ Bab IV - Peluang dan Pemilihan Sampel 221
+Di eksplorasi sebelumnya, Abel menyelidiki kegiatan lempar undi 
+dadu. Lempar undi dadu tersebut dinamakan percobaan. Untuk 
+menyelidikinya, di langkah pertama dia mendaftar semua kemungkinan 
+hasil percobaan tersebut. Langkah tersebut menghasilkan suatu ruang 
+sampel. Kemudian, dia mendaftar kemungkinan-kemungkinan hasil 
+dari kejadian mendapatkan mata dadu dengan kriteria tertentu, yaitu 
+yang jumlahnya 11, 1, dan 7. Lalu, apa itu percobaan, ruang sampel, 
+dan kejadian? Perhatikan definisi berikut ini.
+Definisi
+4.1 	 Percobaan, Hasil, Ruang Sampel, dan Kejadian
+•	
+Percobaan adalah kegiatan yang menghasilkan satu atau lebih 
+hasil.
+•	
+Hasil percobaan adalah luaran yang dapat terjadi di dalam 
+suatu percobaan.
+•	
+Ruang sampel adalah himpunan yang memuat semua 
+kemungkinan hasil dari suatu pecobaan. Anggota ruang sampel 
+dinamakan titik sampel.
+•	 	 Kejadian adalah himpunan yang memuat hasil percobaan 
+dengan kriteria tertentu.
+Salah satu hal penting untuk menyelidiki peluang adalah 
+menentukan ruang sampelnya. Ruang sampel ini disimbolkan dengan 
+S. Untuk memahaminya, perhatikan Contoh 4.1 berikut.
+Contoh
+4.1
+Menentukan Ruang Sampel
+Kalian akan melakukan percobaan pelemparan dua koin seperti 
+pada Gambar 4.3. Tentukan ruang sampelnya.
+Gambar 4.3  Percobaan Pelemparan Dua Koin
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+222
+Alternatif Penyelesaian 
+Semua kemungkinan hasil percobaan pelemparan dua koin mudah 
+dilakukan dengan menggunakan tabel, seperti yang dilakukan Abel 
+pada aktivitas eksplorasi sebelumnya. Misalkan A dan G secara 
+berturut-turut merupakan simbol munculnya permukaan angka dan 
+permukaan gambar. Tabel 4.3 menyajikan semua kemungkinannya.
+Tabel 4.3 Penentuan Ruang Sampel dengan Tabel
+Koin Kedua 
+A
+G
+Koin 
+Pertama
+A
+(A, A)
+(A, G)
+G
+(G, A)
+(G, G)
+Cara berikutnya yang dapat dilakukan untuk menentukan ruang 
+sampel adalah dengan menggunakan diagram pohon seperti yang 
+ditunjukkan pada Gambar 4.4 berikut.
+Koin
+Pertama
+Koin
+Kedua
+Hasil
+A
+G
+A
+G
+A
+G
+(A, A)
+(A, G)
+(G, A)
+(G, G)
+Gambar 4.4 Penentuan Ruang Sampel dengan Diagram Pohon
+Cara terakhir adalah dengan mendaftar seluruh kemungkinan 
+kejadian. Jika didaftar, ruang sampel dari percobaan tersebut 
+adalah sebagai berikut.
+S = {(A, A), (A, G), (G, A), (G, G)}
+Tentukan ruang sampel dari percobaan pelemparan tiga buah 
+koin.
+Ayo Mencoba
+ Bab IV - Peluang dan Pemilihan Sampel 223
+Di Contoh 4.1 kalian telah mengetahui semua anggota ruang sampel 
+dari percobaan pelemparan dua koin. Banyak anggota ruang sampel 
+tersebut adalah 4. Banyak anggota ruang sampel disimbolkan dengan 
+n(S). Dengan demikian, ruang sampel di Contoh 4.1 memiliki banyak 
+anggota n(S) = 4.
+Tentukan ruang sampel dari percobaan pelemparan satu atau 
+lebih koin! Setelah itu, tentukan banyak anggota ruang sampel itu 
+di dalam Tabel 4.4 berikut!
+Tabel 4.4 Banyaknya Anggota Ruang Sampel
+Banyak Koin
+1
+2
+3
+4
+n(S)
+Temukan pola n(S) dalam tabel itu dan jawablah pertanyaan-
+pertanyaan berikut ini.
+ⓐ		 Tentukan banyaknya anggota ruang sampel pelemparan 6 dan 
+10 buah koin.
+ⓑ		 Berapakah banyaknya anggota ruang sampel pelemparan n 
+buah koin?
+2. 	 Nilai Peluang
+Di dua aktivitas eksplorasi sebelumnya kalian diajak untuk memilih 
+gim yang menguntungkan. Di aktivitas eksplorasi ini kalian juga akan 
+melakukan aktivitas yang serupa.
+Eksplorasi
+4.4  Memilih Gim	
+	
+Di aktivitas eksplorasi ini, kalian akan diajak untuk mengamati dan 
+memilih dua buah gim.
+Ayo Berpikir Kreatif 4.1
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+224
+B	 Dari dua gim pada Gambar 4.5 ini, gim mana yang kalian pilih? 
+Mengapa?
+Dalam lempar undi sebuah 
+koin, kalian menang jika 
+mendapat sisi gambar.
+Dalam lempar undi sebuah 
+dadu, kalian menang jika 
+mendapat mata dadu 1 atau 5.
+Gambar 4.5 Dua Jenis Gim
+C 	Ketika diberi pilihan di nomor 1, Sondang memilih gim pertama. 
+Alasannya, di gim pertama dia memiliki dua kemungkinan untuk 
+menang, yaitu ketika dia mendapatkan 1 atau 5. Hal tersebut 
+lebih banyak daripada di gim kedua yang memungkinkan dia 
+menang ketika mendapatkan sisi gambar saja.
+Apakah kalian setuju dengan Sondang? Mengapa?
+Setelah menyelesaikan aktivitas eksplorasi sebelumnya, kalian 
+diajak untuk memikirkan tentang peluang suatu kejadian. Untuk 
+menentukan peluang suatu kejadian, kalian tidak cukup hanya 
+memperhatikan banyaknya anggota kejadiannya tetapi juga perlu 
+mempertimbangkan banyaknya ruang sampelnya. Perhatikan definisi 
+berikut!
+Definisi
+4.2 Peluang Suatu Kejadian
+Peluang suatu kejadian adalah suatu bilangan yang menunjukkan 
+seberapa mungkin kejadian tersebut terjadi.
+Jika semua hasil suatu percobaan memiliki kemungkinan yang 
+sama untuk terjadi, peluang kejadian A, yang disimbolkan dengan 
+P(A), ditentukan dengan rumus sebagai berikut.
+P A
+n S
+n A
+=
+^
+^
+^
+h
+h
+h
+dengan n(A) adalah banyaknya anggota kejadian A dan n(S) adalah 
+banyaknya anggota ruang sampel S.
+ Bab IV - Peluang dan Pemilihan Sampel 225
+Peluang yang didefinisikan dalam Definisi 4.2 disebut dengan 
+peluang teoretis. Untuk lebih memahami perhitungan peluang seperti 
+ini, perhatikan Contoh 4.2 berikut ini.
+Contoh
+4.2
+ Menentukan Peluang Suatu Kejadian
+Sebuah tas berisi lima bola bergambar burung maleo dan tiga 
+bola bergambar komodo. Jika kalian akan mengambil satu bola 
+dari tas tersebut secara acak, berapakah peluang terambilnya bola 
+bergambar komodo?
+Alternatif Penyelesaian 
+Percobaan dalam soal ini adalah pengambilan satu bola secara acak 
+dari sebuah tas yang memuat lima bola bergambar burung maleo 
+dan tiga bola bergambar komodo, perhatikan Gambar 4.6.
+Gambar 4.6 Percobaan Pengambilan Bola
+Banyaknya anggota ruang sampel percobaan ini adalah n(S) = 8 
+karena banyaknya bola dalam tas tersebut adalah 5 + 3 = 8. Jika 
+dirinci, anggota ruang sampelnya adalah sebagai berikut.
+S = {M1, M2, M3, M4, M5, K1, K2, K3}
+dengan M1, M2, M3, M4, dan M5 adalah bola pertama sampai kelima 
+yang bergambar burung maleo dan K1, K2, dan K3 adalah bola 
+pertama sampai ketiga yang bergambar komodo.
+A adalah kejadian terambilnya bola bergambar komodo. Banyaknya 
+kejadian terambilnya bola bergambar komodo adalah n(A) = 3 
+karena banyaknya bola bergambar komodo dalam tas tersebut 
+adalah 3. Rincian anggota kejadian tersebut adalah sebagai berikut.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+226
+A = {K1, K2, K3}
+Dengan demikian, peluang kejadian terambilnya bola bergambar 
+komodo adalah:
+P A
+n S
+n A
+8
+3
+=
+=
+^
+^
+^
+h
+h
+h
+Nilai peluang tersebut dapat dinyatakan ke dalam pecahan desimal 
+menjadi 0,375 atau ke dalam persentase menjadi 37,5%.
+Satu pak kartu terdiri dari kartu-kartu yang diberi nomor 
+berurutan, mulai dari 10 sampai 20. Jika kalian mengambil 
+satu kartu secara acak, tentukan peluang kalian mendapatkan 
+kartu bernomor genap. Tuliskan hasilnya dalam pecahan biasa, 
+pecahan desimal, dan persentase.	
+Di sebuah kelas akan dilakukan pemilihan seorang ketua kelas. 
+Karena siswa-siswa dalam kelas tersebut berjenis kelamin laki-laki 
+atau perempuan, peluang terpilihnya ketua kelas yang berjenis 
+kelamin perempuan adalah 50%.
+Apakah kalian setuju dengan perhitungan peluang seperti ini? 
+Mengapa?
+Di kegiatan-kegiatan sebelumnya kalian telah memahami peluang 
+dan berlatih bagaimana menentukan peluang. Di aktivitas eksplorasi 
+berikutnya, kalian akan menyelidiki rentang nilai peluang.
+Eksplorasi
+4.5 	 Rentang Nilai Peluang
+Berapa sajakah nilai-nilai yang mungkin dari peluang suatu 
+kejadian? Untuk menjawab pertanyaan ini, kerjakan langkah-
+langkah berikut ini.
+Ayo Mencoba
+Ayo Berpikir Kritis 4.1
+ Bab IV - Peluang dan Pemilihan Sampel 227
+B 	Paulina akan melempar undi sebuah dadu yang mempunyai 
+enam sisi. Tuliskan ruang sampelnya.
+C 	Daftarlah semua anggota kejadian-kejadian berikut.
+ⓐ 	 Paulina mendapatkan mata dadu 7.
+ⓑ 	 Dia memperoleh mata dadu bilangan prima.
+ⓒ 	 Dia mendapatkan mata dadu yang lebih dari 0.
+D 	Dari langkah-langkah sebelumnya, hubungan apa yang dapat 
+kalian peroleh dari ruang sampel dan kejadian? Bandingkan 
+banyaknya anggota ruang sampel percobaan tersebut dengan 
+banyaknya anggota kejadian.
+E 	Dengan menggunakan rumus peluang di Definisi 4.2 dan 
+hasil yang kalian peroleh di langkah 3, apa yang dapat kalian 
+simpulkan mengenai rentang nilai peluang?
+Di aktivitas eksplorasi sebelumnya, kalian telah menemukan 
+rentang nilai peluang suatu kejadian. Rentang nilai itu disajikan dalam 
+Sifat 4.1 berikut.
+S i fa t
+4.1  Rentang Nilai Peluang
+Peluang suatu kejadian memiliki nilai mulai dari 0 sampai dengan 1.
+Kejadian yang peluangnya 0 disebut dengan kejadian yang 
+mustahil, sedangkan kejadian yang peluangnya 1 disebut dengan 
+kejadian pasti.
+Untuk lebih memahami kejadian yang mustahil dan pasti, silakan 
+perhatikan Contoh 4.3 berikut.
+Contoh
+4.3
+Menentukan Kejadian yang Mustahil dan Pasti
+Manakah di antara kejadian-kejadian berikut yang merupakan 
+kejadian yang mustahil atau pasti?
+ⓐ 	 Dalam pengambilan satu bola secara acak dari sebuah tas yang 
+berisi satu bola merah dan tiga bola hijau, diperoleh bola merah 
+atau hijau.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+228
+ⓑ 	 Dalam pengambilan satu kartu secara acak dari satu pak 
+kartu yang berisi kartu-kartu bernomor 1–10, diperoleh kartu 
+bernomor bilangan yang lebih dari 10.
+ⓒ 	 Dalam lempar undi sebuah koin sebanyak tiga kali, diperoleh 
+minimal dua sisi gambar.
+Alternatif Penyelesaian
+ⓐ 	 Kejadian di poin ⓐ merupakan kejadian pasti. Ketika kita 
+mengambil satu bola dari tas itu, bola yang kita dapatkan pasti 
+berwarna merah atau hijau.
+ⓑ 	 Kejadian di poin ⓑ adalah kejadian yang mustahil karena tidak 
+ada kartu di dalam pak kartu tersebut yang nomornya lebih dari 
+10.
+ⓒ 	 Untuk kejadian di poin ⓒ ini, kalian mungkin menduga bahwa 
+kejadiannya tidak mustahil dan juga tidak pasti. Untuk melihat 
+dugaan itu benar atau salah, kita tentukan peluang kejadian 
+tersebut.
+Pertama, kita tentukan anggota-anggota ruang sampelnya 
+dengan diagram pohon. Perhatikan Gambar 4.7.
+A
+G
+A
+G
+A
+G
+A
+G
+A
+G
+A
+G
+A
+G
+(A, A, A)
+(A, A, G)
+(A, G, A)
+(A, G, G)
+(G, A, A)
+(G, A, G)
+(G, G, A)
+(G, G, G)
+Koin 
+Pertama
+Koin 
+Kedua
+Koin 
+Ketiga
+Hasil
+Gambar 4.7 Diagram Pohon Pelemparan Satu Koin Tiga Kali
+Dari Gambar 4.7 tersebut, kita mendapatkan ruang sampelnya 
+adalah sebagai berikut.
+S = {(A, A, A), (A, A, G), (A, G, A), (A, G, G), (G, A, A), (G, A, G), 
+(G, G, A), (G, G, G)}
+Dengan demikian, n(S) = 8.
+Dari ruang sampel tersebut, kejadian diperoleh minimal dua sisi 
+gambar (kita misalkan B) adalah sebagai berikut.
+ Bab IV - Peluang dan Pemilihan Sampel 229
+B = {(A, G, G), (G, A, G), (G, G, A), (G, G, G)}
+Dengan demikian, n(B) = 4.
+Oleh karena itu, peluang kejadian tersebut adalah:
+Karena nilai peluangnya bukan 0 ataupun 1, maka dugaan tadi 
+benar. Kejadian tersebut bukan kejadian yang mustahil ataupun 
+kejadian pasti.
+Tentukan apakah kejadian-kejadian berikut ini merupakan 
+kejadian yang mustahil atau kejadian pasti.
+ⓐ  Dalam pengambilan satu buah kartu secara acak dari satu 
+pak kartu remi, didapatkan kartu Queen (lihat Gambar 4.8).
+Gambar 4.8 Satu Pak Kartu Remi
+ⓑ  Dalam pelemparan satu buah dadu, diperoleh mata dadu 
+bilangan asli.
+ⓒ  Dalam pengambilan satu bola secara acak dari sebuah tas 
+yang berisi 17 bola putih, diperoleh bola merah.
+Di aktivitas ini, kalian akan menemukan hubungan antara peluang 
+suatu kejadian dengan peluang komplemennya. Untuk itu, ayo 
+kerjakan masalah-masalah berikut!
+Ayo Mencoba
+Ayo Berpikir Kreatif 4.2
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+230
+B 	 Perhatikan Tabel 4.5 berikut ini!
+Tabel 4.5 Kejadian 1 dan 2
+Kejadian 1
+Kejadian 2
+Dalam pelemparan satu koin, 
+diperoleh sisi angka.
+Dalam pelemparan satu koin, 
+diperoleh sisi gambar.
+Dalam lempar undi sebuah 
+dadu, diperoleh mata dadu 1 
+atau 6.
+Dalam lempar undi sebuah 
+dadu, diperoleh mata dadu 2, 
+3, 4, dan 5.
+Dalam pemilihan 1 kartu 
+remi secara acak, diperoleh 
+kartu King.
+Dalam pemilihan 1 kartu 
+remi secara acak, diperoleh 
+kartu yang bukan King.
+Dalam lempar undi dua 
+buah koin, diperoleh sisinya 
+semuanya gambar.
+ⓐ 	 Temukan pola di setiap barisnya untuk mengisi sel yang 
+kosong!
+ⓑ	 Di baris pertama sampai ketiga di Tabel 4.5, kejadian 2 
+merupakan komplemen dari kejadian 1. Berdasarkan hal 
+ini, menurut kalian, apa yang dimaksud komplemen suatu 
+kejadian?
+C Untuk tiap-tiap kejadian berikut, tentukan peluangnya, 
+komplemennya, dan peluang komplemennya.
+ⓐ 	 Dalam lempar undi sebuah dadu, diperoleh mata dadu 1.
+ⓑ  	 Dalam pengambilan satu kartu remi secara acak, 
+didapatkan kartu As.
+ⓒ  	 Apakah ada hubungan antara peluang suatu kejadian 
+dengan peluang komplemen kejadian tersebut?
+D 	Jika peluang kejadian A adalah P(A), tentukan peluang 
+terjadinya komplemen A (atau disimbolkan dengan Ac).
+ Bab IV - Peluang dan Pemilihan Sampel 231
+Latihan
+A
+Peluang
+Jawablah pertanyaan-pertanyaan berikut dengan tepat dan jelas!
+Pemahaman Konsep
+B 	Benar atau Salah. Kejadian adalah himpunan bagian dari ruang 
+sampel.
+C 	Peluang kejadian A merupakan hasil pembagian _____ oleh _____.
+D 	Nilai peluang kejadian A merentang mulai dari _____ sampai dengan 
+_____.
+Penerapan Konsep
+E 	Tentukan ruang sampel tiap-tiap percobaan berikut.
+ⓐ 	 Pemilihan satu bulan dalam setahun secara acak.
+ⓑ 	 Pemilihan satu huruf vokal secara acak.
+ⓒ 	 Lempar undi satu buah dadu sebanyak dua kali.
+F 	Tentukan banyaknya anggota ruang sampel percobaan-percobaan 
+berikut.
+ⓐ 	 Pemilihan satu kartu secara acak dari satu pak kartu remi.
+ⓑ	 Pemilihan satu tanggal secara acak dalam satu tahun.
+ⓒ	 Jenis kelamin dari seorang siswa yang pertama kali ditunjuk 
+oleh seorang guru dalam kelas yang terdiri dari 12 siswa laki-
+laki dan 18 siswa perempuan.
+G	 Tentukan peluang tiap-tiap kejadian berikut ini dan nyatakan 
+nilainya ke dalam pecahan biasa, pecahan desimal, dan persentase.
+ⓐ 	 Ketika memilih satu huruf dalam alfabet secara acak, kalian 
+mendapatkan huruf yang termuat dalam nama lengkap kalian.
+ⓑ 	 Dalam pemilihan satu hari dalam seminggu secara acak, kalian 
+mendapatkan hari lahir kalian atau hari lahir dua teman 
+terdekat kalian.
+ⓒ 	 Sebuah kotak berisi enam bola merah, dua bola kuning, dan 
+empat bola hijau. Dalam pengambilan satu bola dari kotak 
+tersebut secara acak, kalian mendapatkan bola yang bukan 
+merah.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+232
+H 	Sebuah tas berisi empat kartu yang diberi nomor 1–4. Teman kalian 
+akan mengambil satu kartu secara acak dari tas tersebut. Jika dia tidak 
+mendapatkan kartu bernomor tiga, dia mengembalikan kartunya 
+dan mengambil satu kartu lagi secara acak. Demikian seterusnya 
+sampai dia mendapatkan kartu bernomor tiga. Di pengambilan 
+ke berapa, teman kalian berpeluang besar mendapatkan kartu 
+bernomor tiga?
+B.	 Peluang Empiris
+Untuk mengawali peluang empiris, ayo kerjakan aktivitas eksplorasi 
+berikut ini!
+Eksplorasi
+4.6 	 Memposisikan Pecahan pada Garis 
+Bilangan
+Gambar 4.9 berikut memperlihatkan beberapa tempat kosong pada 
+garis bilangan dan beberapa pecahan.
+0,275
+0
+1
+18%
+3
+4
+3
+5
+Gambar 4.9 Pecahan dan Garis Bilangan
+Tanpa menggunakan kertas, pensil, dan alat bantu hitung, pasangkan 
+pecahan-pecahan pada Gambar 4.9 tersebut dengan posisinya yang 
+paling tepat!
+Di Subbab A, kalian telah belajar bagaimana menentukan peluang 
+suatu kejadian setelah kalian mengetahui ruang sampelnya. Lalu, 
+bagaimana jika kalian belum mengetahui ruang sampelnya? Ayo 
+kerjakan aktivitas eksplorasi berikut ini!
+ Bab IV - Peluang dan Pemilihan Sampel 233
+Eksplorasi
+4.7  Menduga Nilai Peluang
+Di aktivitas ini kalian akan dipandu untuk menduga peluang suatu 
+kejadian yang belum diketahui ruang sampelnya.
+B 	Guru kalian telah menyiapkan sebuah tas yang berisi banyak 
+kartu. Tiap-tiap kartu tersebut hanya mempunyai satu warna. 
+Guru kalian merahasiakan banyak kartunya dan apa saja 
+warnanya.
+Dengan informasi ini, apakah kalian dapat menduga kartu apa 
+yang akan terambil jika kalian mengambil satu kartu secara 
+acak dari tas itu? Mengapa?
+C 	Meskipun guru kalian merahasiakan banyak dan warna 
+kartunya, tetapi guru kalian memberi kesempatan kepada 
+salah satu dari kalian untuk mengambil satu kartu secara acak 
+dari tas tersebut, mencatat apa warnanya di papan tulis, dan 
+mengembalikan kartu tersebut ke dalam tas. Hal ini dilakukan 
+sebanyak 5 kali.
+ⓐ 	 Berdasarkan catatan di papan tulis tersebut, kartu warna 
+apa yang kalian duga berpeluang besar akan diperoleh jika 
+kalian diminta untuk mengambil satu kartu secara acak dari 
+tas itu?
+ⓑ 	 Apa yang akan kalian usulkan ke guru kalian agar dugaan 
+kalian semakin akurat? (Kalian tidak dapat mengusulkan 
+guru untuk memberitahu rahasia isi tasnya!)
+Catatan: Langkah kedua ini perlu dilakukan di dalam 
+pembelajaran di kelas yang disertai dengan persiapan guru.
+D 	Misalkan tiga teman kalian secara bergiliran melakukan 
+pengambilan kartu seperti aktivitas pada nomor 2. Banyaknya 
+pengambilan kartu yang dilakukan tiga teman kalian tersebut 
+berbeda-beda dan hasilnya disajikan sebagai berikut.
+Teman 1	 :	
+M, P, P, P, P, M, P
+Teman 2	 :	
+K, M, P, P, P, M, M, M, K, P, M, P, K
+Teman 3	 :	
+K, P, M, K, M, P, P, M, P, P, P, M, M, P, M, P, P, M, P, M
+dengan M, P, dan K secara berturut adalah kartu warna merah, 
+putih, dan kuning.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+234
+Berdasarkan hasil teman-teman kalian tersebut, kartu warna 
+apa yang berpeluang besar akan kalian dapatkan jika kalian 
+mengambil satu kartu secara acak dari tas itu? Mengapa?
+Jika kalian memiliki koneksi internet, kalian dapat melakukan 
+Aktivitas Interaktif berikut ini sebagai pengganti Eksplorasi 4.7.
+Aktivitas Interaktif
+Pindailah kode QR di samping atau kunjungi 
+tautan https://s.id/TebakKartu untuk melakukan 
+simulasi pengambilan kartu warna dari dalam 
+tas secara acak. Video tutorial tentang simulasi 
+tersebut dapat ditonton pada tautan berikut. 
+ https://youtu.be/ai1BZJO-300
+Pada aktivitas Eksplorasi 4.7 kalian perlu memperhatikan dua hal. 
+Pertama, soal nomor 2 dan 3 dalam eksplorasi tersebut melibatkan 
+percobaan pengambilan kartu secara berulang. Kumpulan percobaan 
+seperti itu selanjutnya kita sebut dengan eksperimen.
+Kedua, dalam memilih kartu warna apa yang memiliki peluang 
+paling besar untuk muncul, kalian dapat membandingkan frekuensi 
+relatif kejadian terambilnya kartu warna merah, putih, atau kuning. 
+Apa itu frekuensi relatif? Mari cermati Definisi 4.3.
+Definisi
+4.3 Frekuensi Relatif
+Frekuensi relatif suatu kejadian adalah proporsi banyaknya hasil 
+yang memenuhi kejadian tersebut terhadap total banyaknya 
+percobaan. Frekuensi relatif juga disebut dengan peluang empiris.
+Untuk lebih memahami frekuensi relatif, cermati Contoh 4.4.
+ Bab IV - Peluang dan Pemilihan Sampel 235
+Contoh
+4.4
+Menentukan Frekuensi Relatif
+Dalam suatu eksperimen, sebuah roda bernomor diputar berkali-
+kali. Banyaknya jarum menunjuk masing-masing nomor pada roda 
+tersebut disajikan pada Gambar 4.10.
+1
+2
+3
+4
+5
+0
+Frekuensi
+Nomor
+2
+4
+6
+8
+10
+12
+Gambar 4.10 Pemutaran Roda Bernomor dan Hasilnya
+Tentukan frekuensi relatif jarum tersebut menunjuk nomor 5.
+Alternatif Penyelesaian 
+Banyak diperolehnya nomor 5 adalah 11. Total banyaknya percobaan 
+adalah
+n = 7 + 6 + 11 + 5 + 11 = 40
+Dengan demikian, frekuensi relatif diperoleh nomor 5 adalah
+f
+40
+11
+=
+r
+Frekuensi relatif tersebut dapat dinyatakan ke dalam 0,275 atau 
+27,5%.
+Sebuah dadu dilempar undi berkali-kali. Hasil lempar undi 
+dadu tersebut ditunjukkan pada Gambar 4.11.
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+236
+1
+0
+1
+2
+6
+8
+10
+12
+2
+3
+4
+5
+6
+Mata Dadu
+Frekuensi
+Gambar 4.11 Hasil Lempar Undi Sebuah Dadu
+Tentukan frekuensi relatif muncul mata dadu bilangan ganjil.
+Bagaimana hubungan antara frekuensi relatif dan peluang teoretis? 
+Ayo kita cari tahu di aktivitas eksplorasi berikut ini!
+Eksplorasi
+4.8 	 Menemukan Hubungan Antara Frekuensi 
+Relatif dan Peluang Teoretis
+Di aktivitas ini kalian akan menemukan apa yang terjadi dengan 
+frekuensi relatif suatu kejadian ketika banyaknya percobaan 
+semakin besar.
+B 	Ahmad melempar sebuah koin berkali-kali dan mencatat 
+hasilnya ke dalam Tabel 4.6.
+Tabel 4.6  Frekuensi Relatif Muncul Angka
+Nomor 
+Lemparan
+Hasil
+Frekuensi Relatif 
+Muncul Angka (A)
+1
+G
+1
+0
+2
+A
+2
+1
+3
+A
+3
+2
+4
+A
+4
+3
+5
+G
+5
+3
+Selain tabel, Ahmad juga menggambarkan hasil setiap 
+percobaannya ke dalam grafik seperti Gambar 4.12.
+ Bab IV - Peluang dan Pemilihan Sampel 237
+1
+0
+0,2
+0,4
+Frekuensi Relatif 
+Muncul Angka
+0,6
+0,8
+1
+2
+3
+Banyak Lemparan
+4
+5
+Gambar 4.12 Frekuensi Relatif Muncul Sisi Angka
+Menurut kalian, bagaimana Ahmad membuat Tabel 4.6 dan 
+menggambar grafik pada Gambar 4.12? Jelaskan makna tabel 
+dan grafik tersebut.
+C 	Carilah sebuah koin. Lakukan seperti yang telah dilakukan oleh 
+Ahmad dan lemparlah koin sebanyak minimal 20 kali!
+D	 Ahmad melanjutkan percobaan dengan melempar koinnya 
+sampai 200 kali dan hasilnya dibuat ke dalam grafik seperti 
+Gambar 4.13.
+25
+0
+1
+0,2
+0,4
+0,6
+0,8
+Frekuensi Relatif 
+Muncul Angka
+50
+75
+100
+Banyak Lemparan
+125 150 175
+Gambar 4.13 Frekuensi Relatif Muncul Sisi Angka dengan 200 Pelemparan
+Apa yang dapat kalian amati dari grafik tersebut? Bagaimana 
+kira-kira grafiknya jika Ahmad melanjutkan percobaannya 
+secara terus menerus?
+E 	Tiga teman Ahmad juga melakukan eksperimen yang sama 
+dengan Ahmad. Frekuensi relatif munculnya sisi angka dari 
+eksperimen Ahmad dan ketiga temannya disajikan dalam 
+Gambar 4.14.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+238
+ 
+25
+0
+0,2
+0,4
+0,6
+0,8
+0,1
+50
+75
+100
+Banyak Lemparan
+Frekuensi Relatif 
+Muncul Angka
+125 150 175
+Gambar 4.14 Hasil Percobaan Ahmad dan Ketiga Temannya
+Apa yang dapat kalian simpulkan dari grafik tersebut? Apakah 
+grafik-grafik frekuensi relatif tersebut ada hubungannya dengan 
+peluang diperolehnya sisi angka dalam pelemparan sebuah koin?
+Sebagai penunjang atau pengganti aktivitas Eksplorasi 4.8, kalian 
+dapat melakukan kegiatan-kegiatan di dalam Aktivitas Interaktif 
+berikut.
+Aktivitas Interaktif
+Kegiatan 1. Unduhlah dokumen pada tautan 
+http://ringkas.kemdikbud.go.id/SimulasiFrekRel 
+atau pindailah kode QR di samping! Dengan 
+menggunakan dokumen tersebut, simulasikan 
+eksperimennya dan cermati apa yang terjadi 
+dengan 
+frekuensi 
+relatifnya. 
+Panduan 
+simulasinya dapat ditonton melalui video 
+dengan tautan sebagai berikut.
+  https://youtu.be/J_ZyZsbF7eY
+Kegiatan 2. Kegiatan 2 ini merupakan pengganti aktivitas 
+Eksplorasi 4.8. Di kegiatan ini, kalian akan mengakses internet 
+untuk melakukan aktivitas pembelajaran yang berjudul “Mencari 
+Hubungan dalam Percobaan Berulang”. Untuk itu, silakan kunjungi 
+https://student.desmos.com/ dan masukkan kode kelas yang 
+diberikan oleh guru kalian.
+ Bab IV - Peluang dan Pemilihan Sampel 239
+Di aktivitas eksplorasi sebelumnya, kalian telah menemukan 
+hubungan antara frekuensi relatif suatu kejadian dan peluang teoretis 
+kejadian tersebut. hubungan tersebut dinyatakan dalam Sifat 4.2.
+S i fa t
+4.2 	 Hubungan Antara Frekuensi Relatif dan Peluang 
+Teoretis
+Jika banyaknya percobaan yang dilakukan secara acak semakin 
+besar, frekuensi relatif suatu kejadian nilainya mendekati peluang 
+teoretis kejadian tersebut.
+Apakah kalian sudah memahami hubungan antara frekuensi relatif 
+dan peluang teoretis? Silakan cermati Contoh 4.5.
+ Contoh
+4.5
+Memilih Kejadian yang Tepat
+Dari kejadian-kejadian berikut, mana yang paling tepat untuk 
+memiliki frekuensi relatif yang ditunjukkan pada Gambar 4.15 jika 
+percobaannya diulang-ulang?
+ⓐ 	 Ketika teman kalian diminta untuk memilih bilangan 1–4 secara 
+acak, didapatkan bilangan yang lebih dari 1.
+ⓑ 	 Dalam pelemparan dua koin, diperoleh dua sisi gambar.
+ⓒ 	 Dalam lempar undi sebuah dadu, diperoleh mata dadu bilangan 
+prima.
+50
+100
+150
+200
+Banyak Percobaan
+0,2
+0,4
+0,6
+0,8
+1
+0
+Frekuensi Relatif
+Gambar 4.15 Frekuensi Relatif Suatu Kejadian pada Percobaan Berulang
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+240
+Alternatif Penyelesaian 
+Kejadian a, b, dan c secara berturut-turut memiliki peluang teoretis 
+sebagai berikut. (Mengapa?)
+4
+3 , 4
+1 , dan 2
+1
+Frekuensi relatif yang ditunjukkan pada Gambar 4.15 semakin lama 
+semakin mendekati suatu bilangan di antara 0,2 dan 0,3. Dengan 
+demikian, gambar tersebut paling tepat untuk menggambarkan 
+frekuensi relatif kejadian b.
+Pertanyaan sama seperti Contoh 4.5, tetapi grafik frekuensi 
+relatifnya seperti ditunjukkan pada Gambar 4.16 berikut.
+50
+100
+150
+200
+Banyak Percobaan
+0,2
+0,4
+0,6
+0,8
+1
+0
+Frekuensi Relatif
+Gambar 4.16 Frekuensi Relatif Suatu Kejadian dalam Percobaan Berulang
+Di aktivitas eksplorasi berikutnya kalian akan dipandu untuk 
+menebak ruang sampel.
+Eksplorasi
+4.9 Menebak Muka Roda Putar
+Dhien akan memutar sebuah roda putar. Kalian tidak dapat melihat 
+muka roda putar tersebut. Akan tetapi, Dhien memberitahu bahwa 
+mukanya terbagi menjadi 5 juring yang sama dan tiap juring tersebut 
+berwarna hijau (H) atau jingga (J).
+B 	Dhien memutar roda tersebut sebanyak 10 kali dan jarum roda 
+itu menunjuk juring-juring dengan warna berikut.
+J, J, J, J, H, J, J, H, J, J
+Ayo Mencoba
+ Bab IV - Peluang dan Pemilihan Sampel 241
+	 	
+Coba kalian tebak,berapa juring yang berwarna hijau pada roda 
+putarnya Dhien?
+C 	Sekarang Dhien memutar roda tersebut sebanyak 100 kali dan 
+diperoleh hasil pada Gambar 4.17 berikut.
+Hijau
+Frekuensi
+Warna Juring
+Jingga
+0
+10
+20
+30
+40
+42
+58
+50
+60
+70
+Gambar 4.17 Hasil Percobaan 100 Kali
+Sekarang coba kalian tebak lagi, berapa juring warna hijau pada 
+muka roda putar tersebut?
+D 	Salah satu roda putar yang ditunjukkan pada Gambar 4.18 
+merupakan roda putar Dhien.
+Gambar 4.18 Kemungkinan Roda Putar Dhien
+Menurutmu, manakah yang kemungkinan besar merupakan 
+roda putar Dhien? Mengapa?
+Aktivitas interaktif berikut ini mengajak kalian untuk melakukan 
+simulasi pemutaran roda putarnya Dhien.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+242
+Aktivitas Interaktif
+Pindailah kode QR di samping atau kunjungi 
+tautan 
+http://ringkas.kemdikbud.go.id/
+TebakMukaRoda 
+untuk 
+mensimulasikan 
+pemutaran roda seperti dalam Eksplorasi 4.9.
+Untuk lebih terampil dalam menebak ruang sampel, perhatikan 
+contoh berikut dengan cermat.
+ Contoh
+4.6
+Menebak Ruang Sampel
+Sebuah tas berisi 10 bola berwarna merah, kuning, dan hijau. 
+Setelah dilakukan percobaan pengambilan satu bola secara acak 
+dengan pengembalian sebanyak 200 kali, hasilnya ditunjukkan 
+pada Gambar 4.19.
+Merah
+Kuning
+Frekuensi
+Warna Bola
+Hijau
+0
+20
+40
+60
+80
+36
+62
+102
+100
+120
+Gambar 4.19 Frekuensi Munculnya Bola Merah, Kuning, dan Hijau
+Dugalah berapa banyak bola merah, kuning, dan hijau dalam tas 
+tersebut.
+Alternatif Penyelesaian 
+Di dalam soal diketahui bahwa banyaknya bola dalam tas tersebut 
+adalah 10, sehingga n(S) = 10. Misalkan kejadian-kejadian berikut.
+ Bab IV - Peluang dan Pemilihan Sampel 243
+A	 : 	 Kejadian terambil bola merah
+B	 : 	 Kejadian terambil bola kuning
+C	 : 	 Kejadian terambil bola hijau
+Berdasarkan Sifat 4.2, frekuensi relatif kejadian A, B, dan C 
+mendekati peluang teoretisnya. Dengan demikian,
+%
+%
+%
+P A
+f
+A
+P B
+f
+B
+P C
+f
+C
+200
+36
+18
+200
+62
+31
+200
+102
+51
+R
+R
+R
+.
+.
+.
+=
+=
+=
+=
+=
+=
+^
+^
+^
+^
+^
+^
+h
+h
+h
+h
+h
+h
+	
+Untuk menentukan banyaknya bola warna merah, kita gunakan 
+rumus P(A) = n(A)/n(S) sehingga n(A) = P(A) $ n(S).
+n(A) = 18% $ 10 = 1,8
+Dengan cara yang serupa, kita mendapatkan n(B) = 3,1 dan n(C) = 
+5,1. Setelah dibulatkan, banyaknya bola warna merah, kuning, dan 
+hijau kemungkinan besar adalah 2, 3, dan 5.
+Seperangkat kartu berisi 5 kartu yang masing-masing 
+bergambar lingkaran atau bintang. Setelah dilakukan 500 
+percobaan pengambilan satu kartu secara acak, diperoleh hasil 
+pada Gambar 4.20.
+Lingkaran
+Frekuensi
+Gambar yang Muncul
+Bintang
+0
+50
+100
+150
+200
+93
+407
+250
+300
+350
+400
+450
+Gambar 4.20 Frekuensi Munculnya Kartu Bergambar Lingkaran dan Bintang
+Tentukan banyaknya kartu bergambar lingkaran dan bintang 
+dalam seperangkat kartu tersebut.
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+244
+Lakukan kegiatan berikut dengan satu orang teman kalian!
+B	 Potonglah secarik kertas menjadi 10 bagian yang ukurannya 
+kurang lebih sama. Mintalah seorang teman kalian untuk 
+menuliskan huruf A, B, atau C pada tiap-tiap potongan kertas 
+tersebut, kemudian melipat dan memasukkannya ke dalam 
+sebuah wadah.
+C	 Ambilah satu potongan kertas dari wadah tersebut, catat huruf 
+apa yang tertulis di potongan kertas tersebut, dan kembalikan 
+ke dalam wadah.
+D 	Ulangi langkah 2 berkali-kali sampai kalian merasa yakin 
+datanya cukup untuk menebak berapa kartu yang bertuliskan 
+huruf A, B, atau C.
+E 	Berdasarkan data yang diperoleh, tebaklah berapa banyak 
+potongan kertas yang bertuliskan huruf A, B, atau C.
+F Konfirmasikan tebakan kalian dengan membuka semua 
+potongan kertasnya. Apakah tebakan kalian tepat? Mengapa?
+Latihan
+B
+ Peluang Empiris
+Jawablah pertanyaan-pertanyaan berikut dengan tepat dan jelas!
+Pemahaman Konsep
+B 	Sebuah dadu dilempar undi m kali dan muncul mata dadu 6 
+sebanyak n kali. Frekuensi relatif munculnya mata dadu 6 dalam 
+percobaan tersebut adalah _____.
+C	 Benar atau Salah. Frekuensi relatif suatu kejadian sama dengan 
+peluang teoretis kejadian tersebut.
+D 	Benar atau Salah. Jika suatu kejadian memiliki frekuensi relatif nol, 
+maka kejadian itu merupakan kejadian yang mustahil.
+Ayo Bekerja Sama 4.1
+ Bab IV - Peluang dan Pemilihan Sampel 245
+Penerapan Konsep
+E 	Sebuah program komputer digunakan untuk menampilkan 12 
+bilangan 0–3 secara acak. Hasilnya adalah sebagai berikut.
+1, 3, 3, 0, 1, 3, 3, 0, 3, 2, 1, 3
+Tentukan frekuensi relatif munculnya bilangan 0.
+F 	Gambar 4.21 ini adalah grafik fungsi relatif dari beberapa kejadian 
+dalam 500 kali percobaan.
+0
+0,2
+0,4
+0,6
+0,8
+1
+0
+i
+ii
+0,2
+0,4
+0,6
+0,8
+1
+Gambar 4.21 Frekuensi Relatif Dua Kejadian dalam 500 Percobaan
+Pasangkah grafik tersebut dengan kejadian-kejadian berikut yang 
+paling tepat. Jelaskan juga alasannya!
+ⓐ 	 Dalam pengambilan satu kartu dari seperangkat kartu remi 
+secara acak, didapatkan kartu hati.
+ⓑ 	 Sebuah kotak berisi 3 bola bergambar segitiga dan 12 bola 
+bergambar segi empat. Ketika dari kotak tersebut diambil satu 
+bola secara acak, diperoleh bola bergambar segi empat.
+G	 Di atas meja berserakan 20 kartu yang masing-masing bergambar 
+tabung, kerucut, atau bola. Ada 50 anak dengan mata tertutup 
+diminta untuk menunjuk satu kartu di atas meja tersebut secara 
+bergiliran. Hasilnya ditunjukkan pada Gambar 4.20.
+Tabung
+Kerucut
+Frekuensi
+Gambar Kartu
+Bola
+0
+5
+10
+15
+20
+5
+14
+31
+25
+30
+35
+Gambar 4.22 Frekuensi Terpilihnya Kartu Bergambar Tabung, Kerucut, dan Bola
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+246
+Perkirakan banyaknya kartu bergambar tabung, kerucut, dan bola 
+di atas meja tersebut.
+H 	Sebuah roda putar memiliki juring yang warnanya macam-macam. 
+Setelah dilakukan 60 putaran, frekuensi relatif jarumnya menunjuk 
+warna ungu disajikan pada Gambar 4.23.
+Frekuensi Relatif
+10
+20
+Banyak Percobaan
+30
+40
+50
+60
+0
+0,2
+0,4
+0,6
+0,8
+1
+Gambar 4.23 Frekuensi Relatif Terpilihnya Juring Warna Ungu
+Berdasarkan Gambar 4.23, perkirakan peluang jarum roda tersebut 
+menunjuk juring warna ungu!
+I	 Putu dan Sondang melakukan lempar undi sebuah koin sebanyak 
+lima kali. Mereka menyajikan frekuensi relatif munculnya gambar 
+dari pelemparan pertama sampai kelima ke dalam sebuah grafik, 
+seperti ditunjukkan pada Gambar 4.24. Grafik pada Gambar 4.22 (a) 
+dan (b) secara berturut-turut merupakan grafik Putu dan Sondang.
+0
+1
+2
+3
+a
+b
+4
+5
+0,2
+0,4
+0,6
+0,8
+1
+0
+0,2
+0,4
+0,6
+0,8
+1
+1
+2
+3
+4
+5
+Gambar 4.24 Hasil Percobaan Putu dan Sondang
+Salah satu dari Putu atau Sondang mengalami kekeliruan. Siapa 
+yang keliru? Di mana letak kekeliruannya?
+ Bab IV - Peluang dan Pemilihan Sampel 247
+C. 	 Frekuensi Harapan
+Untuk memahami ide tentang frekuensi harapan, ayo kerjakan aktivitas 
+eksplorasi berikut.
+Eksplorasi
+4.10 	 Menebak Munculnya Sisi Angka Sebuah 
+Koin
+Di aktivitas eksplorasi ini kalian akan menebak berapa kali muncul 
+sisi angka ketika sebuah koin dilempar sebanyak 10 kali.
+B 	Coba tebak, jika kalian melempar sebuah koin sebanyak 10 kali, 
+berapa kali muncul sisi angka? Mengapa?
+C 	Lakukan eksperimen berikut.
+Lemparlah sebuah koin sebanyak 10 kali dan catatlah berapa 
+kali sisi angkanya muncul.
+Ulangi eksperimen tersebut sebanyak 20 kali dan catatlah 
+hasilnya dalam tabel berikut.
+Tabel 4.7 Frekuensi Hasil pada Pelemparan Koin 10 Kali
+Banyak Kemunculan Sisi Angka
+Frekuensi
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Dari tabel tersebut, apa yang kalian dapatkan? Dalam pelemparan 
+koin 10 kali, sisi angka berpeluang paling besar akan muncul 
+berapa kali?
+D 	Putu melempar sebuah koin sebanyak 10 kali dan mencatat 
+berapa kali sisi angka muncul. Dia melakukan eksperimen 
+tersebut sebanyak 300 kali dan hasilnya ditampilkan pada 
+Gambar 4.25.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+248
+0
+0
+1
+2
+3
+4
+5
+Banyaknya Sisi Angka Muncul
+6
+7
+8
+9
+10
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Frekuensi
+Gambar 4.25 Banyaknya Kemunculan Sisi Angka dalam 10 Percobaan
+ⓐ 	 Apa makna dari Gambar 4.25?
+ⓑ 	 Setelah melakukan kegiatan di nomor 2 dan melihat hasil 
+Putu ini, apakah tebakan kalian di nomor 1 tetap atau 
+berubah? Mengapa?
+Jika kalian ingin mensimulasikan eksperimen Putu dalam Eksplorasi 
+4.10, lakukan Aktivitas Interaktif berikut.
+Aktivitas Interaktif
+Kegiatan 1. Kalian dapat melakukan simulasi 
+seperti yang dilakukan Putu melalui CODAP 
+(https://codap. concord.org/app/). Tutorial 
+simulasinya dapat ditonton melalui video di 
+tautan berikut atau pindai kode QR di samping.
+  https://youtu.be/bUN6Y1vd3vM
+Kegiatan 2. Kegiatan ini merupakan pengganti untuk aktivitas 
+Eksplorasi 4.10. Di Kegiatan 2 ini, kalian akan melakukan aktivitas 
+pembelajaran yang berjudul “Menemukan Harapan di dalam (Per)
+cobaan”. Untuk melakukannya, kalian akan mendapatkan kode 
+kelas dari guru kalian. Kode tersebut selanjutnya kalian masukkan 
+ke dalam situs web https://student.desmos.com/.
+ Bab IV - Peluang dan Pemilihan Sampel 249
+Pertanyaan utama di kegiatan Eksplorasi 4.10 dapat dijawab dengan 
+menggunakan frekuensi harapan. Apa itu frekuensi harapan? Silakan 
+baca definisi berikut ini.
+ Definisi
+4.4 	Frekuensi Harapan
+•	
+Frekuensi harapan suatu kejadian adalah harapan berapa kali 
+terjadinya kejadian tersebut dalam beberapa kali percobaan.
+Dari 
+aktivitas 
+eksplorasi 
+sebelumnya, 
+kalian 
+memperoleh 
+bahwa frekuensi harapan suatu kejadian dapat ditentukan dengan 
+mengalikan peluang kejadian tersebut dengan banyaknya percobaan 
+yang dilakukan
+Untuk lebih memahami bagaimana menentukan frekuensi harapan, 
+cermati contoh berikut.
+Contoh
+4.7
+Menentukan Frekuensi Harapan
+Sebuah roda putar juring-juring diberi warna merah, kuning, dan 
+hijau seperti pada Gambar 4.26.
+Gambar 4.26 Roda Putar dan Jarum Penunjuk
+Jika roda tersebut diputar sebanyak 60 kali, berapa frekuensi 
+harapan diperoleh warna kuning?
+Alternatif Penyelesaian 
+Banyaknya juring warna kuning adalah 2 dan banyaknya 
+keseluruhan juring adalah 6. Karena ukuran semua juring tersebut 
+sama, maka peluang diperoleh juring warna kuning adalah
+P A
+n S
+n A
+6
+2
+3
+1
+=
+=
+=
+^
+^
+^
+h
+h
+h
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+250
+Dengan demikian, frekuensi harapan diperoleh juring warna kuning 
+adalah sebagai berikut.
+3
+1 60
+20
+$
+=
+Sebuah dadu dilempar undi sebanyak 300 kali. Tentukan 
+frekuensi harapan diperoleh mata dadu bilangan-bilangan 
+yang lebih dari tiga.
+Di aktivitas ini, kalian akan memainkan “Gim Koin”. Gim ini 
+memerlukan papan main, sebuah koin, dan delapan pion untuk 
+setiap pemain. Pion-pion pemain 1 dan 2 perlu dibuat berbeda. 
+Misalnya, pion-pion pemain 1 berwarna hitam sedangkan pion-
+pion pemain 2 berwarna putih. Papan main gim ini ditunjukkan 
+Gambar 4.27.
+P1
+Mulai
+P2
+Mulai
+A
+B
+C
+D
+E
+Angka
+Gambar
+Angka
+Gambar
+Gambar 4.27 Papan Gim Koin
+Aturan gimnya adalah sebagai berikut.
+• 		Pion pemain 1 dimulai dari salah satu pojok. Kemudian, pemain 
+1 melempar undi koin. Jika muncul angka, pindahkan pion satu 
+langkah ke kanan. Jika muncul gambar, pindahkan pion satu 
+langkah ke bawah.
+Ayo Mencoba
+Ayo Bekerja Sama 4.2
+ Bab IV - Peluang dan Pemilihan Sampel 251
+• 		Pion pemain 2 dimulai dari pojok yang berseberangan. Kemudian, 
+pemain 2 melempar undi koin. Jika muncul angka, pindahkan 
+pion satu langkah ke kiri. Jika muncul gambar, pindahkan pion 
+satu langkah ke atas.
+• 		Giliran melempar undi koin pemain 1 dan 2 dibuat bergantian.
+• 		Jika pion sudah mencapai persegi-persegi tujuan akhir, yaitu 
+A, B, C, D, atau E, giliran pion berikutnya dijalankan. Lakukan 
+hal ini sampai semua pionnya berada di persegi-persegi tujuan 
+akhir.
+• 		Pemenang 
+gim 
+ini 
+ditentukan 
+dengan 
+membandingkan 
+banyaknya pion yang berada di persegi A atau E. Jika seri, 
+bandingkan banyaknya pion yang ada di persegi B atau D.
+Mudah bukan aturan gimnya? Sekarang, ayo mainkan gim itu 
+dengan satu teman kalian dan amati hasilnya! Setelah itu, kerjakan 
+masalah-masalah berikut bersama teman mainmu tadi.
+B 	Untuk pemain 1, hanya ada satu cara agar pionnya sampai di 
+persegi A, yaitu ketika dia memperoleh sisi gambar empat kali 
+secara berturut-turut. Apakah hal tersebut benar? Mengapa?
+C	 Karuna berpikiran seperti ini: Ada empat cara pion pemain 
+1 sampai ke persegi B, yaitu ketika dia memperoleh sisi koin 
+sebagai berikut.
+(G, G, G, A)
+(G, G, A, G)
+(G, A, G, G)
+(A, G, G, G)
+Apakah kalian setuju dengan pemikiran Karuna? Jelaskan!
+D 	Carilah banyaknya cara pion pemain 1 dapat sampai ke persegi-
+persegi A, B, C, D, dan E dengan melengkapi Tabel 4.7.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+252
+Tabel 4.7 Banyak Cara Pion Menuju Tujuan Akhir
+Tujuan 
+Akhir
+Kemungkinan Kemunculan 
+Sisi-Sisi Koin
+Banyak Cara
+A
+(G, G, G, G)
+1
+B
+(G, G, G, A)
+(G, G, A, G)
+(G, A, G, G)
+(A, G, G, G)
+4
+C
+D
+E
+Berdasarkan tabel tersebut, berapa banyaknya semua cara 
+pion pemain 1 untuk sampai ke tujuan akhir?
+E 	Tentukan peluang pion pemain 1 sampai ke tujuan akhir 
+berikut.
+ⓐ	 Persegi A atau E
+ⓑ 	 Persegi B atau D
+ⓒ	 Persegi C
+F 	Dalam menjalankan delapan pionnya, berapakah frekuensi 
+harapan pion pemain 1 sampai ke persegi A atau E?
+Latihan
+C
+Frekuensi Harapan
+Jawablah pertanyaan-pertanyaan berikut dengan tepat dan jelas!
+Pemahaman Konsep
+B	 Percobaan dilakukan sebanyak k kali. Frekuensi harapan kejadian 
+A yang memiliki peluang teoretis P(A) adalah _____.
+C 	Benar atau Salah. Frekuensi harapan suatu kejadian nilainya selalu 
+kurang dari banyaknya percobaan yang dilakukan.
+ Bab IV - Peluang dan Pemilihan Sampel 253
+Penerapan Konsep
+D 	Tentukan frekuensi harapan setiap kejadian berikut jika dilakukan 
+100 kali percobaan.
+a. 	 Dalam lempar undi tiga koin, diperoleh dua sisi angka.
+b. 	 Dalam pengambilan satu kartu secara acak dari seperangkat 
+kartu remi, tidak didapatkan kartu hati.
+E 	Di sebuah kota, persentase penduduknya yang masuk Generasi 
+Z adalah 28%. Jika kalian memilih 75 penduduk kota itu secara 
+acak, tentukan frekuensi harapan kalian mendapatkan penduduk 
+Generasi Z.
+F 	Bentang, Uleng, dan Duma mengaku telah melakukan lempar undi 
+sebuah koin sebanyak 50 kali. Hasilnya mereka laporkan sebagai 
+berikut. Dari laporan tersebut, ada yang hasilnya tidak biasa.
+Bentang
+AAAGAAAGAAGAGGGAGAGG
+GAGAGAGAGGGGAAGGAGGA
+Uleng
+AGAGAAGGAAAGGAAAGGAA
+GAGAGGAGAAAGAAAAGAAA
+Duma
+GAAGAGAAAGAGAAAGGGGG
+GAGGAGAGAAAGGAGAAAGA
+Menurut kalian, siapa yang memiliki hasil yang tidak biasa? 
+Mengapa?
+D. 	 Pemilihan Sampel
+Sebelum mempelajari pemilihan sampel, ayo kerjakan eksplorasi 
+berikut!
+Eksplorasi
+4.11  Penyajian Data Mana yang Paling 
+Berbeda?
+Perhatikan keempat penyajian data dalam diagram batang yang 
+ditunjukkan pada Gambar 4.28!
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+254
+0
+2
+4
+Nilai
+Nilai
+Nilai
+Nilai
+a
+b
+6
+8
+10
+100
+0
+200
+300
+Frekuensi
+Frekuensi
+Frekuensi
+Frekuensi
+400
+500
+0
+2
+4
+6
+8
+10
+5
+0
+10
+15
+20
+0
+2
+4
+6
+8
+10
+5
+0
+10
+15
+20
+c
+d
+0
+2
+4
+6
+8
+10
+5
+0
+10
+15
+20
+Gambar 4.28 Penyajian Data dalam Diagram Batang
+Carilah satu diagram batang yang menurut kalian paling berbeda! 
+Jelaskan alasan pilihan kalian?
+Sekarang kalian siap untuk mempelajari pemilihan sampel. Untuk 
+memulainya, ayo lakukan aktivitas eksplorasi berikut!
+Eksplorasi
+4.12  Menemukan Cara untuk Menjawab
+Seringkali, kita mendapatkan pertanyaan yang mudah untuk 
+dijawab. Seringkali kita juga menghadapi pertanyaan yang sukar. 
+Dari dua pertanyaan berikut, menurut kalian, mana yang lebih 
+mudah? Mana yang lebih sukar? Jelaskan alasannya.
+ Bab IV - Peluang dan Pemilihan Sampel 255
+Di antara semua peserta didik di 
+sekolah 
+kalian, 
+manakah 
+yang 
+lebih banyak menghabiskan waktu 
+untuk belajar setiap minggunya, 
+laki-laki atau perempuan?
+Di antara teman-teman sekelas 
+kalian yang laki-laki dan 
+perempuan, manakah yang lebih 
+banyak menghabiskan waktu 
+untuk belajar setiap minggunya?
+Bagaimana cara kalian menjawab pertanyaan pertama dan kedua 
+tersebut? Jelaskan secara rinci.
+Salah satu cara untuk menjawab sebuah pertanyaan adalah dengan 
+mengumpulkan data. Data yang terkumpul bisa jadi memuat seluruh 
+anggota populasi atau hanya berupa data sampel. Apa itu populasi dan 
+sampel? Perhatikan Definisi 4.5 berikut.
+ Definisi
+4.5 	Populasi dan Sampel
+•	
+Populasi adalah kumpulan semua orang atau objek yang akan 
+dipelajari atau diteliti.
+•	
+Sampel adalah kumpulan orang atau objek yang merupakan 
+bagian dari populasi. Dengan demikian sampel merupakan 
+himpunan bagian dari suatu populasi.
+•	 	 Ukuran suatu populasi atau sampel adalah banyaknya 
+anggota yang dimuat oleh populasi atau sampel tersebut.
+Untuk lebih mengerti tentang populasi dan sampel, perhatikan 
+Contoh 4.8.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+256
+ Contoh
+4.8
+Menentukan Populasi dan Sampel
+Tentukan populasi dan sampel yang mungkin untuk menjawab 
+pertanyaan berikut.
+Di sekolah kalian, berapa jamkah rata-rata peserta didik 
+mengakses media sosial setiap harinya?
+Alternatif Penyelesaian 
+Pertanyaan tersebut menanyakan rata-rata lamanya peserta didik 
+di sekolah kalian dalam mengakses media sosial setiap harinya. 
+Dengan demikian, populasinya adalah seluruh siswa di sekolah 
+kalian, sedangkan sampel yang mungkin adalah seluruh siswa di 
+kelas kalian.
+Seorang peneliti ingin mengetahui rata-rata tinggi badan 
+anak berusia 15 tahun di Indonesia. Tentukan populasi dan 
+kemungkinan sampelnya.	
+Ketika kita akan mengumpulkan data untuk menjawab sebuah 
+pertanyaan, seringkali kita menghadapi kesulitan untuk mengumpulkan 
+data populasi. Bahkan, terkadang kita tidak mungkin mengumpulkan 
+data populasinya. Oleh karena itu, kita cukup mengumpulkan data 
+sampelnya. Apakah kalian dapat secara bebas memilih sampel? Mari 
+selidiki pertanyaan ini dengan melakukan aktivitas eksplorasi berikut.
+Eksplorasi
+4.13 Memilih Sampel
+Ahmad, Paulina, dan Sondang ingin mengetahui jarak antara rumah 
+tinggal dengan sekolah siswa-siswa di sekolahnya.
+B 	Tentukan populasi dari masalah yang ingin dijawab Ahmad, 
+Paulina, dan Sondang tersebut.
+C 	Karena Ahmad, Paulina, dan Sondang kesulitan mengumpulkan 
+data populasinya, mereka memutuskan untuk mengambil data 
+Ayo Mencoba
+ Bab IV - Peluang dan Pemilihan Sampel 257
+sampelnya saja. Sebelum mereka bertiga memilih siswa-siswa 
+di sekolahnya untuk menjadi sampel mereka, berikan pesan-
+pesan kepada mereka tentang bagaimana pemilihan sampel 
+yang baik.
+D 	Data sampel yang diperoleh Ahmad disajikan oleh diagram 
+batang pada Gambar 4.29.
+0,2
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0,4 0,6 0,8 1,0 1,2 1,4 1,6
+Jarak (km)
+Frekuensi
+1,8 2,0 2,2 2,4 2,6 2,8 3,0 3,2
+Gambar 4.29 Data Sampel Ahmad
+ⓐ	 Berdasarkan Gambar 4.29, batang yang posisinya di 2,0 
+tingginya 2. Apa artinya?
+ⓑ	 Ada berapa siswa yang menjadi sampel Ahmad?
+ⓒ 	 Berapakah rata-rata data sampel Ahmad? Apa makna nilai 
+rata-rata ini?
+E 	Gambar 4.30 berikut menyajikan data sampel yang didapatkan 
+oleh Paulina.
+0,2
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0,4 0,6 0,8 1,0 1,2 1,4 1,6
+Jarak (km)
+Frekuensi
+1,8 2,0 2,2 2,4 2,6 2,8 3,0 3,2
+Gambar 4.30 Data Sampel Paulina
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+258
+ⓐ 	 Berapa siswa yang masuk sampel Paulina?
+ⓑ 	 Berapa rata-rata data sampel Paulina? Apa maknanya?
+F 	Data sampel yang didapatkan oleh Sondang ditampilkan pada 
+Gambar 4.31.
+0,2
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0,4 0,6 0,8 1,0 1,2 1,4 1,6
+Jarak (km)
+Frekuensi
+1,8 2,0 2,2 2,4 2,6 2,8 3,0 3,2
+Gambar 4.31 Data Sampel Sondang
+ⓐ 	 Berapa banyak siswa yang menjadi sampel Sondang?
+ⓑ 	 Tentukan rata-rata data sampel Sondang! Apa maknanya?
+6. 	 Populasi dari sampel-sampelnya Ahmad, Paulina, dan Sondang 
+ditunjukkan pada Gambar 4.32.
+0,2
+0
+5
+10
+15
+20
+25
+30
+35
+0,4 0,6 0,8 1,0 1,2 1,4 1,6
+Jarak (km)
+Frekuensi
+1,8 2,0 2,2 2,4 2,6 2,8 3,0 3,2
+Gambar 4.32 Data Populasi
+Ternyata, berdasarkan Gambar 4.32 tersebut, banyaknya siswa di 
+sekolah tersebut adalah 450 dan rata-rata jarak rumah tinggalnya ke 
+sekolah adalah sekitar 1,36 km. (Ayo buktikan!)
+ Bab IV - Peluang dan Pemilihan Sampel 259
+Berdasarkan informasi tersebut, menurutmu sampel siapakah yang 
+paling baik? Mengapa?
+Di aktivitas Eksplorasi 4.13, kalian telah mendapatkan ide tentang 
+sampel yang baik. Sampel yang baik adalah sampel yang representatif. 
+Apa itu sampel yang representatif? Cermati Definisi 4.6 berikut ini.
+Definisi
+4.6  Sampel Representatif
+Suatu sampel dikatakan representatif terhadap populasinya jika 
+distribusi sampel tersebut menyerupai sifat populasinya dalam hal 
+bentuk, pusat, dan sebarannya.
+Masih penasaran dengan sampel yang representatif? Ayo cermati 
+contoh soal berikut ini!
+ Contoh
+4.9
+Memilih Sampel Representatif
+Berat semua buah mangga yang berhasil dipanen oleh seorang 
+petani ditunjukkan pada Gambar 4.33.
+0
+20
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+1,0
+1,1
+1,2
+40
+60
+80
+100
+120
+Berat (kg)
+Frekuensi
+Gambar 4.33 Berat Setiap Buah Mangga yang Dipanen
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+260
+Sampel mangga-mangga tersebut akan dikirim ke distributor untuk 
+diperkirakan harganya. Dari sampel a dan b pada Gambar 4.34, 
+manakah sampel yang representatif?
+0,4
+0
+5
+10
+Berat (kg)
+a
+b
+Berat (kg)
+15
+20
+0,5 0,6 0,7 0,8 0,9 1,0 1,1 1,2
+Frekuensi
+Frekuensi
+0,4
+0
+5
+10
+15
+20
+0,5 0,6 0,7 0,8 0,9 1,0 1,1 1,2
+Gambar 4.34 Sampel-Sampel Buah Mangga
+Alternatif Penyelesaian 
+Bentuk, pusat, dan sebaran sampel a tidak menyerupai populasinya. 
+Sampel ini bukanlah sampel yang representatif. Sampel b memiliki 
+bentuk, pusat, dan sebaran yang menyerupai populasinya. Dengan 
+demikian, sampel b ini merupakan sampel yang representatif.
+Gambar 4.35 berikut menyajikan banyaknya panggilan telepon 
+per hari yang dilakukan oleh para siswa di suatu sekolah.
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Banyak Panggilan Per Hari
+Frekuensi
+Gambar 4.35 Banyak Panggilan Telepon Per Hari
+Ayo Mencoba
+ Bab IV - Peluang dan Pemilihan Sampel 261
+Dari sampel-sampel a dan b pada Gambar 4.36, pilihlah sampel 
+yang representatif dan jelaskan alasannya.
+0
+0
+2
+4
+6
+8
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Banyak Panggilan Per Hari
+a
+b
+Frekuensi
+0
+0
+2
+4
+6
+8
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Banyak Panggilan Per Hari
+Frekuensi
+Gambar 4.36 Sampel-Sampel Banyaknya Panggilan Telepon Per Hari
+Mulai dari awal Subbab D sampai dengan Contoh 4.9 kalian telah 
+melihat penggunaan diagram batang untuk menyajikan sebuah data. 
+Diagram-diagram batang tersebut menunjukkan berapa banyak 
+(frekuensi) nilai pada tiap-tiap kategorinya. Selain diagram batang, 
+data seperti itu dapat disajikan dengan menggunakan diagram titik.
+Sebagai ilustrasi, data yang disajikan dengan diagram-diagram 
+batang pada Gambar 4.34 a dan b juga dapat disajikan dengan 
+menggunakan diagram titik seperti yang ditunjukkan pada Gambar 
+4.37.
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+1,0
+1,1
+1,2
+0,4
+0,5
+0,6
+0,7
+0,8
+0,9
+1,0
+1,1
+1,2
+Gambar 4.37 Diagram Titik Sampel-Sampel Buah Mangga
+Banyaknya titik di setiap kategori pada diagram titik tersebut 
+menunjukkan frekuensi data di kategori tersebut. Misalnya, diagram 
+titik Gambar 4.37 (a), kategori 0,9 memiliki dua titik. Artinya, ada dua 
+buah mangga yang beratnya 0,9 kg.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+262
+Sampai di sini kalian telah memahami sampel-sampel yang 
+representatif dan juga diagram titik. Bagaimana cara mendapatkan 
+sampel-sampel seperti itu? Ayo ikuti aktivitas eksplorasi berikut!
+Eksplorasi
+4.14 	 Membandingkan Cara Pemilihan Sampel
+Guru kalian membariskan semua siswanya. Siswa yang paling 
+pendek berbaris paling depan dan demikian seterusnya sampai 
+yang paling tinggi berbaris paling belakang. Setelah itu, siswa paling 
+depan diberi kartu nomor 1, di belakangnya diberi kartu nomor 
+2, dan seterusnya sampai semua siswa mendapatkan nomor yang 
+berurutan.
+B	 Kalian akan mengambil sampel teman-teman kalian tersebut 
+untuk diukur tinggi badannya. Berikut ini adalah beberapa 
+kemungkinan caranya.
+ⓐ	 Kalian memilih 5 orang teman kalian yang berbaris paling 
+depan.
+ⓑ 	 Semua kartu teman-teman kalian dikumpulkan di dalam 
+kotak tertutup kemudian kotak tersebut dikocok berkali-
+kali. Setelah itu, kalian mengambil 5 kartu sekaligus. Teman-
+teman kalian yang memiliki urutan seperti kartu yang 
+terpilih kemudian dipilih sebagai sampel.
+ⓒ	 Caranya seperti bagian b, tetapi hanya satu kartu yang 
+diambil dari kotak. Empat nomor lainnya adalah empat 
+nomor terurut setelah nomor yang terambil. Misalnya, jika 
+terambil nomor 11, maka empat nomor berikutnya adalah 
+12, 13, 14, dan 15.
+Dari ketiga cara pemilihan sampel tersebut, cara manakah yang 
+berpeluang besar mendapatkan sampel yang representatif?
+C 	Guru kalian memiliki cara lain untuk memilih sampel. Caranya 
+adalah dengan menggunakan sebuah roda putar yang banyak 
+juringnya sejumlah siswa yang berbaris. Untuk memilih sampel, 
+roda tersebut diputar sebanyak 5 kali.
+ⓐ 	 Apakah sampel yang akan terpilih oleh guru kalian ini 
+menjadi sampel yang representatif?
+ⓑ 	 Apakah cara guru kalian tersebut serupa dengan cara kalian 
+di bagian 1b? Mengapa?
+ Bab IV - Peluang dan Pemilihan Sampel 263
+Dari aktivitas Eksplorasi 4.14, kalian mendapatkan dua hal. Pertama, 
+pemilihan sampel secara acak berpeluang besar akan menghasilkan 
+sampel yang representatif. Kedua, pemilihan sampel dapat dilakukan 
+dengan pengembalian atau tanpa pengembalian.
+Definisi
+4.7 	 Sampel Acak
+Suatu sampel dipilih secara acak jika terpilihnya sampel tersebut 
+memiliki peluang yang sama dengan semua kemungkinan sampel 
+lain yang berukuran sama (banyak anggotanya sama).
+Ingin tahu lebih lanjut tentang cara pemilihan sampel? Cermati 
+contoh soal berikut.
+Contoh
+4.10
+Membaca Kritis
+Silakan baca berita pada Gambar 4.38.
+Koran Sekolah
+4 dari 5 teman kita memilih 
+pembelajaran daring! 
+Sampel 
+diperoleh dari 
+120 orang yang 
+mengikuti 
+survei Twitter 
+sekolah kita, 97 
+di antaranya 
+lebih memilih 
+pembelajaran 
+daring 
+daripada tatap 
+muka.
+Hal. 2
+Koran Sekolah
+73% teman kita setuju rapot 
+diambil orang tua/wali! 
+Dari 54 yang 
+siswa dipilih 
+secara acak 
+oleh komputer 
+TU, 39 setuju 
+bahwa 
+pengambilan 
+rapot perlu 
+dilakukan oleh 
+orang tua/wali 
+siswa.
+Hal. 6
+Setuju
+Tidak Setuju
+Gambar 4.38 Berita di Koran Sekolah
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+264
+Dari dua berita tersebut, manakah yang lebih dapat dipercaya?
+Alternatif Penyelesaian 
+Berita pertama sampelnya diperoleh melalui Twitter sekolah. Sampel 
+seperti itu kemungkinan besar tidak mewakili opini populasi siswa 
+sekolah tersebut. (Mengapa?) Berita kedua sampelnya adalah sampel 
+acak. Dengan demikian, meskipun ukuran sampelnya lebih kecil, 
+sampel ini kemungkinan besar merepresentasikan populasi siswa 
+di sekolah tersebut. Jadi, berita kedua yang lebih dapat dipercaya.
+Berikut ini beberapa kemungkinan cara pemilihan sampel untuk 
+mengetahui rata-rata tinggi badan teman-teman di sekolahmu.
+ⓐ	 Bertanya kepada semua pemain bola basket sekolahmu.
+ⓑ 	 Bertanya kepada 20 temanmu di kelas IX yang dipilih secara 
+acak.
+ⓒ 	 Bertanya kepada 25 adik kelasmu di kelas VIII yang dipilih 
+secara acak.
+Urutkan dari yang paling representatif ke yang paling tidak 
+representatif.	
+Ayo lakukan Aktivitas Interaktif berikut ini untuk melakukan 
+simulasi pemilihan sampel secara acak.
+Aktivitas Interaktif
+Ayo pindai kode QR di samping atau kunjungi 
+t a u t a n h t t p : / / r i n g k a s . ke m d i k b u d . g o . i d /
+SampelAcak untuk melakukan simulasi pemilihan 
+sampel acak dari populasi ikan trout coklat.
+Ayo Mencoba
+ Bab IV - Peluang dan Pemilihan Sampel 265
+Di kegiatan Ayo Mengomunikasikan 4.1 kalian akan diajak untuk 
+berlatih mengumpulkan dan mengolah data serta mengomunikasikan 
+hasil pengolahan data tersebut.
+Di tugas ini, kalian akan menjadi seorang jurnalis! Kumpulkan 
+data sampel dari lingkungan sekitar kalian yang menurut kalian 
+menarik bagi orang lain. Setelah itu, analisislah data tersebut dan 
+laporkan hasilnya ke dalam berbagai macam media. Media yang 
+dapat kalian gunakan antara lain poster (cetak ataupun elektronik), 
+video pendek, koran sekolah, dan lain-lain.
+Di dalam laporan tersebut, kalian perlu mencantumkan apa berita 
+utamanya dan bagaimana kalian mendapatkan sampelnya. Kalian 
+juga dapat menambahkan informasi lain yang berkaitan. Selamat 
+berburu berita!
+Latihan
+D
+Pemilihan Sampel
+Jawablah pertanyaan-pertanyaan berikut dengan tepat dan jelas!
+Pemahaman Konsep
+B	 Himpunan bagian dari populasi disebut dengan __________.
+C 	Distribusi suatu sampel memiliki bentuk, pusat, dan sebaran yang 
+menyerupai distribusi populasinya. Sampel tersebut merupakan 
+sampel yang __________.
+D 	Benar atau Salah. Jika pemilihan sampel dilakukan secara acak, 
+pasti diperoleh sampel yang representatif.
+Penerapan Konsep
+E 	Seorang peneliti ingin mengetahui persentase penduduk Indonesia 
+usia 12 tahun ke atas yang masih buta huruf. Tentukan populasi 
+dan kemungkinan sampelnya.
+F 	Gambar 4.39 menyajikan data populasi tekanan darah 50 orang 
+remaja.
+Ayo Mengomunikasikan 4.1
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+266
+100
+105
+110
+115
+120
+Gambar 4.39 Tekanan Darah 50 Orang Remaja
+Gambar 4.40 menunjukkan dua data sampel yang diperoleh 
+dari populasi remaja tersebut (digambar sehingga menimpa 
+populasinya). Manakah sampel yang representatif? Mengapa?
+100
+105
+110
+115
+120
+100
+105
+110
+115
+120
+Gambar 4.40 Dua Data Sampel dari Populasi Remaja
+G 	Dhien adalah calon ketua OSIS. Dia ingin mengetahui persentase 
+teman-teman di sekolahnya yang akan memilihnya. Dari tiga 
+kemungkinan cara pemilihan sampel berikut, mana yang 
+seharusnya dipilih Dhien? Mengapa?
+ⓐ 	 Dia bertanya kepada semua teman sekelasnya.
+ⓑ 	 Dia menyurvei anak yang menempati urutan ke-3, 6, dan 9 di 
+setiap barisan ketika upacara bendera.
+ⓒ 	 Dia melakukan survei melalui media sosial terhadap teman-
+teman sekolahnya.
+H 	Ahmad memiliki 10 buku teks pelajaran. Berat setiap buku yang 
+dibawa Ahmad pada hari Senin, Selasa, dan Rabu ditunjukkan oleh 
+Gambar 4.41.
+ Bab IV - Peluang dan Pemilihan Sampel 267
+2
+2,5
+3
+Berat Buku Hari Senin (Ons)
+3,5
+4
+2
+2,5
+3
+Berat Buku Hari Selasa (Ons)
+3,5
+4
+2
+2,5
+3
+Berat Buku Hari Rabu (Ons)
+3,5
+4
+Gambar 4.41 Berat Buku Ahmad di hari Senin, Selasa, dan Rabu
+Dari ketiga sampel tersebut, perkirakan populasinya seperti apa! 
+Jelaskan juga alasannya!
+I 	Putu memiliki roda putar yang terbagi menjadi lima juring yang 
+sama besar, masing-masing ditulis angka 1, 2, 3, 4, dan 5. Dia akan 
+memilih sampel dengan memutar roda tersebut sebanyak tiga kali. 
+Tentukan peluang dia mendapatkan sampel yang rata-ratanya 
+kurang dari 2.
+Ringkasan
+B	 Terdapat beberapa istilah penting dalam menentukan peluang. 
+Percobaan adalah kegiatan yang memiliki satu atau lebih hasil. 
+Hasil percobaan adalah luaran yang dapat terjadi di dalam suatu 
+percobaan. Ruang sampel adalah himpunan yang memuat semua 
+kemungkinan hasil percobaan. Titik sampel adalah anggota ruang 
+sampel. Kejadian adalah himpunan bagian dari ruang sampel.
+C 	Ruang sampel suatu percobaan dapat ditentukan dengan cara 
+mendaftar, menggunakan tabel, dan menggunakan diagram pohon.
+D	 Peluang suatu kejadian ditentukan dengan membagi banyaknya 
+semua anggota kejadian tersebut dengan banyaknya anggota ruang 
+sampelnya, yaitu:
+	
+P A
+n S
+n A
+=
+^
+^
+^
+h
+h
+h
+Peluang seperti ini disebut dengan peluang teoretis atau peluang 
+klasik.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+268
+E 	Nilai peluang suatu kejadian merentang dari 0 sampai dengan 1, 
+yaitu 0 ≤P ( A ) ≤1 . Kejadian yang memiliki peluang nol disebut 
+dengan kejadian yang mustahil, sedangkan kejadian yang memiliki 
+peluang sama dengan satu disebut dengan kejadian pasti.
+F	 Selain menggunakan peluang teoretis, peluang suatu kejadian 
+dapat ditentukan dengan frekuensi relatif. Frekuensi relatif suatu 
+kejadian adalah proporsi banyaknya hasil yang memenuhi kejadian 
+tersebut terhadap total banyaknya percobaan. Frekuensi relatif ini 
+disebut juga dengan peluang empiris.
+G	 Frekuensi relatif suatu kejadian memiliki hubungan dengan peluang 
+teoretisnya, yaitu jika banyaknya percobaan yang dilakukan secara 
+acak semakin besar, frekuensi relatif kejadian tersebut nilainya 
+mendekati peluang teoretis kejadian tersebut.
+H	 Frekuensi harapan suatu kejadian adalah harapan berapa kali 
+terjadinya kejadian tersebut dalam beberapa kali percobaan.
+I 	Sebuah masalah biasanya melibatkan populasi dan sampel. 
+Populasi adalah kumpulan semua orang atau objek yang akan 
+dipelajari atau diteliti. Sampel adalah kumpulan orang atau objek 
+yang merupakan bagian dari suatu populasi. Banyaknya anggota 
+populasi atau sampel menunjukkan ukuran populasi atau sampel 
+tersebut.
+J 	Suatu sampel dikatakan representatif terhadap populasinya jika 
+distribusi sampel tersebut menyerupai distribusi populasinya 
+dalam hal bentuk, pusat, dan sebarannya.
+K 	Cara yang digunakan untuk mendapatkan sampel yang representatif 
+adalah dengan menggunakan pemilihan secara acak. Suatu sampel 
+dipilih secara acak jika terpilihnya sampel tersebut memiliki 
+peluang yang sama dengan semua kemungkinan sampel lain yang 
+berukuran sama (banyak anggotanya sama).
+ Bab IV - Peluang dan Pemilihan Sampel 269
+Uji Kompetensi
+Jawablah pertanyaan berikut dengan tepat dan jelas!
+Uji Pemahaman
+Benar atau Salah. Untuk soal nomor 1–3, tentukan apakah pernyataan-
+pernyataan berikut benar atau salah.
+B 	Ada kejadian yang tidak memiliki anggota.
+C 	Tidak ada kejadian yang pasti.
+D 	Jika sebuah dadu dilempar undi sebanyak 60 kali, kita pasti 
+mendapatkan mata dadu 6 sebanyak 10 kali.
+Isian Singkat. Isilah bagian yang kosong di soal nomor 4–6.
+E 	Jika n(A) adalah banyaknya anggota kejadian A dan n(S) adalah 
+banyaknya anggota ruang sampel, maka n(A) _____ n(S).
+F 	A adalah suatu kejadian dengan banyak anggota n(A) dan banyak 
+anggota ruang sampelnya n(S), maka P(A) = _____.
+G 	Kejadian B peluangnya P(B). Peluang komplemen B adalah _____.
+7–9 Ruang Sampel, Kejadian, dan Peluang. Daftarlah semua anggota 
+ruang sampel dan kejadian yang diberikan, kemudian tentukan nilai 
+peluangnya.
+H	 Dalam lempar undi sebuah dadu, diperoleh mata dadu kurang dari 7.
+I 	Dalam pelemparan tiga koin, diperoleh maksimal satu sisi gambar.
+J 	Sebuah tas berisi lima kartu bernomor 1–5. Dua kartu diambil 
+secara acak sekaligus dari tas tersebut dan diperoleh kartu yang 
+nomornya berjumlah 6.
+10–12 Kejadian Pasti dan Mustahil. Dari kejadian-kejadian berikut, 
+tentukan apakah kejadian pasti atau mustahil.
+K	 Dalam lempar undi dua dadu, diperoleh mata dadu-mata dadu yang 
+jumlahnya 1.
+L 	Sebuah kotak berisi 25 bola warna merah. Satu bola diambil secara 
+acak dan diperoleh bola warna merah.
+M 	Dalam pengambilan satu kartu dari seperangkat kartu remi secara 
+acak, didapatkan kartu yang bukan kartu King.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+270
+13–14 Frekuensi Relatif. Tentukan frekuensi relatif setiap kejadian 
+berikut.
+N 	Ketika melempar sebuah koin berkali-kali, hasilnya seperti berikut. 
+Kejadiannya adalah kejadian muncul sisi gambar (G).
+	
+G, A, G, A, A, A, G, G, A, G, G, G
+O Gambar 4.42 menunjukkan hasil pemutaran roda yang dilakukan 
+berulang-ulang. Kejadian yang dimaksud adalah diperolehnya 
+warna hijau.
+13
+0
+10
+20
+Merah
+Hijau
+30
+40
+37
+Warna Juring Roda
+Frekuensi
+Gambar 4.42 Frekuensi Diperoleh Juring Warna Merah dan Hijau
+15–16 Frekuensi Relatif dan Peluang Teoretis. Pasangkan diagram 
+garis a dan b pada Gambar 4.43 dengan kejadian yang sesuai di nomor 
+15 dan 16. Jelaskan juga alasannya!
+20
+0
+0,2
+0,4
+0,6
+0,8
+1
+40
+60
+Banyak Percobaan
+Frekuensi Relatif
+80
+100
+20
+0
+0,2
+0,4
+0,6
+0,8
+1
+40
+60
+Banyak Percobaan
+Frekuensi Relatif
+80
+100
+Gambar 4.43 Frekuensi Relatif Kejadian pada Percobaan Berulang
+P	 Dalam pemilihan satu huruf dari A sampai J, diperoleh huruf 
+konsonan.
+Q	 Ketika komputer diprogram untuk memilih satu bilangan mulai 
+dari 1 sampai dengan 10, diperoleh bilangan yang tidak habis dibagi 
+enam.
+ Bab IV - Peluang dan Pemilihan Sampel 271
+17–18 Prediksi Ruang Sampel. Sebuah kotak terdiri dari 20 bola. 
+setiap bola memiliki satu warna. Dugalah banyaknya bola untuk setiap 
+warnanya. Jelaskan alasannya.
+R 	Setelah dilakukan percobaan yang sangat banyak, diperoleh hasil 
+yang disajikan pada Gambar 4.44.
+26%
+9%
+65%
+Merah
+Kuning
+Hijau
+Gambar 4.44 Persentase Kemunculan Bola Merah, Kuning, dan Hijau
+S 	Gambar 4.45 menyajikan hasil percobaan beberapa kali.
+Biru
+0
+10
+20
+30
+40
+50
+Warna Bola
+Frekuensi
+Ungu
+43
+17
+Gambar 4.45 Frekuensi Diperoleh Bola Biru dan Ungu
+19–20 Frekuensi Harapan. Tentukan frekuensi harapan setiap kejadian 
+yang diberikan.
+T 	Dalam pelemparan sebuah dadu sebanyak 60 kali, diperoleh mata 
+dadu yang kurang dari 5.
+U 	Sebuah roda putar terbagi menjadi delapan juring yang sama, diberi 
+nomor 1–8. Roda tersebut diputar sebanyak 100 kali, didapatkan 
+bilangan prima.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+272
+21–22 Populasi dan Sampel. Tentukan populasi dan sampel yang 
+mungkin untuk menjawab pertanyaan berikut.
+V 	Berapa persenkah penduduk Indonesia yang tinggal di perkotaan?
+W	 Pada tahun 2022, berapakah rata-rata volume sampah yang berhasil 
+diolah oleh Bu Lestari setiap harinya?
+23–24 Sampel Representatif. Untuk nomor 23 dan 24, pilihlah sampel 
+yang representatif terhadap populasinya.
+X 	Gambar 4.46 menyajikan distribusi suatu populasi.
+40 41 42 43 44 45 46 47 48 49 50
+Nilai
+Frekuensi
+51 52 53 54 55 56 57 58 59 60
+0
+5
+10
+15
+20
+25
+30
+35
+Gambar 4.46 Distribusi Populasi untuk Soal Nomor 23
+Dua sampel yang mungkin untuk populasi tersebut ditunjukkan 
+oleh Gambar 4.47.
+40 41 42 43 44 45 46 47 48 49 50
+Nilai
+a
+Frekuensi
+51 52 53 54 55 56 57 58 59 60
+0
+5
+10
+15
+20
+25
+40 41 42 43 44 45 46 47 48 49 50
+Nilai
+b
+Frekuensi
+51 52 53 54 55 56 57 58 59 60
+0
+5
+10
+15
+20
+25
+Gambar 4.47 Distribusi Dua Data Sampel Soal Nomor 23
+ Bab IV - Peluang dan Pemilihan Sampel 273
+Y 	Distribusi dua sampel yang digambar bersamaan dengan distribusi 
+populasinya ditunjukkan pada Gambar 4.48.
+60
+65
+70
+75
+Nilai
+80
+85
+90
+a
+60
+65
+70
+75
+Nilai
+80
+85
+90
+b
+Gambar 4.48 Distribusi Dua Sampel dan Populasinya untuk Soal Nomor 24
+25–26 Sampel Acak. Untuk masalah-masalah di nomor 25 dan 26, 
+carilah cara bagaimana pemilihan sampelnya agar acak.
+Z 	Dari 27 orang siswa, seorang guru akan memilih tiga orang untuk 
+mempresentasikan hasil pekerjaannya.
+8 Karuna melakukan survei di situs jual beli ponsel bekas untuk 
+menentukan rata-rata harganya. Dalam laman pencariannya, dia 
+mendapatkan 23 halaman yang masing-masing memuat 20 ponsel. 
+Dia akan mencari sampel yang ukurannya 40.
+Penerapan
+9 	Geografi. Pada tahun 2021, Provinsi Kepulauan Riau memiliki 364 
+desa/kelurahan yang letaknya di tepi laut dan 64 desa/kelurahan 
+bukan tepi laut. Jika kalian memilih satu desa/kelurahan di provinsi 
+tersebut secara acak untuk dikunjungi, berapa persenkah peluang 
+kalian mendapatkan desa/kelurahan di tepi laut?
+: Bahan bakar. Pada tahun 2021, bahan bakar utama memasak 
+sebagian besar rumah tangga di Nusa Tenggara Timur adalah 
+kayu. Perbandingan banyaknya rumah tangga yang bahan bakar 
+memasaknya kayu dengan yang bukan kayu adalah 7 : 3. Jika kalian 
+berkunjung ke satu rumah tangga di provinsi tersebut secara acak, 
+tentukan peluang kalian memperoleh rumah tangga yang bahan 
+bakar utama memasaknya bukan kayu.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+274
+;	 Transportasi udara. Tabel 4.8 menyajikan data banyaknya 
+penerbangan kelas ekonomi dari Medan ke Palembang pada tanggal 
+tertentu.
+Tabel 4.8 Banyaknya Penerbangan Medan-Palembang
+Transit
+Tidak 
+Transit
+Transit di 
+Batam
+Transit di 
+Jakarta
+Perlu Lapor 
+Masuk 
+Ulang?
+Perlu
+0
+6
+28
+Tidak Perlu
+1
+1
+18
+ⓐ 	 Pada sel perpotongan antara baris “Perlu” dan kolom “Transit 
+di Batam” berisi bilangan 6. Apa makna bilangan tersebut?
+ⓑ 	 Jika kalian memilih satu penerbangan dari Medan ke Palembang 
+secara acak, berapakah peluang memperoleh penerbangan 
+yang transit di Batam?
+ⓒ 	 Dari Medan ke Palembang, Sondang ingin transit ke Jakarta. 
+Jika dia memilih satu penerbangan secara acak yang sesuai 
+dengan keingingannya tersebut, berapakah peluang dia perlu 
+lapor masuk ulang?
+< Transportasi darat. Banyaknya jenis tiket kereta api dari Bandung 
+ke Surabaya pada tanggal tertentu ditunjukkan oleh Tabel 4.9.
+Tabel 4.9 Banyak Jenis Tiket Kereta Api Bandung-Surabaya
+Waktu Perjalanan
+Siang
+Malam
+Kelas
+Eksekutif
+5
+10
+Ekonomi
+0
+5
+ⓐ 	 Jika kalian memilih satu jenis tiket secara acak, tentukan 
+peluang kalian mendapatkan tiket kereta malam.
+ Bab IV - Peluang dan Pemilihan Sampel 275
+ⓑ 	 Carilah peluang kalian memperoleh satu jenis tiket kereta api 
+siang kelas eksekutif jika pemilihannya secara acak.
+= Survei harga. Abel akan membeli sebuah laptop yang harganya 
+maksimal lima juta rupiah. Untuk itu, dia melakukan percobaan 
+pencarian informasi harga laptop di sebuah situs web secara acak 
+dan berulang-ulang sebanyak 20 kali. Hasilnya (dalam juta rupiah) 
+adalah sebagai berikut.
+4,699	
+9,499	
+2,899	
+2,1	
+8,85
+8,299	
+5,99	
+4,449	
+2,98	
+2,375
+4,529	
+4,6	
+10,64	
+8,199	
+11,199
+4,199	
+3,15	
+15,699	
+3,825	
+8,699
+ⓐ	 Tentukan rata-rata harga laptop tersebut.
+ⓑ	 Tentukan frekuensi relatif Abel mendapatkan laptop yang 
+harganya sesuai dengan rencananya.
+a Golongan darah. Cermati berita dari situs resmi Ditjen Dukcapil 
+Kementerian Dalam Negeri yang ditunjukkan Gambar 4.49.
+Gambar 4.49 Tangkapan Layar Berita dari Situs Resmi Ditjen Dukcapil
+Berdasarkan berita tersebut, tentukan frekuensi relatif penduduk 
+yang melaporkan golongan darahnya AB.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+276
+Penalaran  
+b 	Empat anak memiliki tinggi badan 155 cm, 140 cm, 161 cm, dan 
+144 cm. Jika dari empat anak tersebut dipilih tiga anak sekaligus 
+secara acak, tentukan peluang diperoleh anak-anak dengan rata-
+rata tinggi badannya lebih dari 152 cm. Jelaskan alasannya!
+c Teman kalian melempar undi sebuah dadu sebanyak 5 kali. Di 
+setiap pelemparannya, dia selalu mendapatkan mata dadu dua. 
+Di lemparan keenam, kemungkinan besar dia akan mendapatkan 
+mata dadu yang mana? Mengapa?
+d	 Kalian mengikuti sebuah kuis berhadiah. Aturan kuis tersebut 
+adalah sebagai berikut.
+• 	
+Kalian diminta oleh pewara (pembawa acara) untuk memilih 
+satu dari tiga tirai tertutup. Salah satu tirai tersebut berisi 
+hadiah, lainnya kosong.
+• 	
+Setelah kalian memilih, pewara akan membuka satu tirai 
+kosong yang tidak kalian pilih. Dengan demikian, tinggal dua 
+tirai tertutup.
+• 	
+Setelah itu, pewara akan memberi penawaran kepada kalian 
+untuk berganti pilihan tirai atau tetap.
+Menanggapi tawaran pewara tersebut, keputusan apa yang akan 
+kalian pilih? Mengapa?
+e Putu adalah calon ketua kelas. Untuk mengetahui dukungan yang 
+dia terima, dia bertanya kepada teman-teman sekelasnya sebelum 
+hari pemilihan. Dia berpikir bahwa dia akan mendapatkan sampel 
+yang representatif jika dia bertanya kepada 50% lebih temannya. 
+Apakah kalian setuju? Mengapa?
+f Gambar 4.50 menyajikan distribusi tiga sampel serta posisi nilai 
+terkecil, rata-rata, dan nilai terbesar populasinya.
+ Bab IV - Peluang dan Pemilihan Sampel 277
+Sampel 1
+Sampel 2
+Sampel 3
+Nilai terkecil
+populasi
+Rata-rata
+populasi
+Nilai terbesar
+populasi
+Gambar 4.50 Distribusi Tiga Data Sampel dan Parameter Populasinya
+Dari ketiga sampel tersebut, manakah sampel yang representatif? 
+Mengapa?
+Proyek
+Seberapa Akurat Ketapelmu?
+Sekarang kalian akan belajar menjadi seorang insinyur! Di aktivitas ini, 
+kalian akan membuat ketapel yang akurat. Untuk itu, siapkan alat dan 
+bahan seperti berikut.
+• 	
+20 stik es krim
+• 	
+20 gelang karet
+• 	
+1 sendok plastik
+• 	
+1 bola pingpong
+Setelah alat dan bahannya tersedia, lakukan langkah-langkah berikut 
+bersama dengan 2–3 teman kalian.
+B	 Buatlah sebuah ketapel dengan hanya menggunakan alat dan 
+bahan yang tersedia. Sebagai inspirasi, ketapel tersebut mungkin 
+seperti yang ditunjukkan pada Gambar 4.51.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+278
+Gambar 4.51 Contoh Ketapel dari Stik Es Krim
+Apakah hanya boleh seperti itu ketapelnya? Jelas tidak! Ayo 
+kembangkan kreativitas kalian!
+C 	Ketapel kalian bagus atau tidak? Untuk menjawab ini, kalian perlu 
+menentukan kriteria. Salah satu kriterianya adalah akurasi ketapel 
+tersebut. Silakan kalian membuat kriteria keakuratan ketapel 
+tersebut!
+Berikut contoh cara untuk mengetahui akurasi ketapel kalian.
+ⓐ 	 Buatlah sebuah target berupa lingkaran berjari-jari 5 cm.
+ⓑ 	 Posisikan ketapel kalian 3 meter dari pusat target tersebut.
+ⓒ 	 Luncurkan bola pingpong dari ketapel kalian ke arah target 
+tersebut berkali-kali dan catatlah persentase lemparan yang 
+masuk atau mengenai daerah target.
+ⓓ 	 Ketapel kalian dikatakan akurat jika peluang mengenai 
+targetnya lebih dari 80%.
+D 	Apakah ketapel kalian sudah akurat? Jika belum akurat, silakan 
+perbaiki lagi ketapel tersebut dan lakukan percobaan lagi! Jika 
+sudah akurat, kalian dapat mengubah desain ketapelnya sehingga 
+tampak lebih indah, tetapi tetap akurat.
+E 	Karuna dan Paulina telah menyelesaikan pembuatan ketapelnya. 
+Setelah diujicoba dengan 54 pelemparan bola, ketapel Karuna 
+berhasil tepat sasaran 44 kali. Paulina melakukan 18 pelemparan 
+dan 15 di antaranya tepat sasaran. Menurutmu, ketapelnya siapa 
+yang lebih baik? Jelaskan!
+ Bab IV - Peluang dan Pemilihan Sampel 279
+Pengayaan
+Pemecahan Masalah
+Karuna mempunyai stan sebuah gim di pasar malam. Dia menyediakan 
+ember berisi air dan 10 boneka bebek dari karet. Tiga dari 10 bebek itu 
+diberi tanda warna merah di bawahnya. Aturan main gimnya adalah 
+sebagai berikut.
+• 	
+Bagi orang yang ingin memainkan gim itu, dia harus membayar 
+Rp10.000,00.
+• 	
+Karuna kemudian mengacak posisi bebek-bebek karetnya di dalam 
+ember, kemudian mempersilakan pemain memilih tiga bebek 
+sekaligus.
+• 	
+Untuk setiap bebek bertanda merah yang terpilih, pemain 
+tersebut mendapatkan hadiah Rp10.000,00. Misal, jika seorang 
+pemain mendapatkan dua bebek yang bertanda merah, dia akan 
+mendapatkan hadiah sebesar Rp20.000,00.
+Dengan permainan seperti itu, apakah Karuna bisa untung? 
+Mengapa? Untuk menjawab pertanyaan tersebut, kerjakan soal-soal 
+berikut.
+ⓑ	 Tentukan ruang sampel gim itu. Dari ruang sampel tersebut, 
+tentukan apakah Karuna untung atau tidak.
+ⓒ 	 Dengan menggunakan CODAP di tautan http://ringkas.kemdikbud.
+go.id/GimPasarMalam, simulasikan permainan itu sampai 50 
+pemain. Dari simulasi tersebut, apakah Karuna untung?
+ⓓ 	 Berdasarkan hasil tersebut, apakah kalian punya saran kepada 
+Karuna?
+Sumber Belajar Lanjutan
+Berikut ini adalah beberapa sumber belajar lain yang dapat kalian 
+gunakan untuk memperdalam atau memperluas pengetahuan kalian 
+mengenai peluang.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+280
+Sumber belajar ini berupa buku teks pelaja-
+ran alternatif. Untuk mempelajari peluang, 
+silakan baca bab keenam.
+Sumber belajar ini berupa video yang men-
+jelaskan tentang bagaimana menentukan 
+ruang sampel suatu percobaan, yaitu dengan 
+mendaftar, menggunakan tabel, dan diagram 
+pohon.
+Sumber belajar berbasis situs web ini berisi 
+materi tentang pengertian ruang sampel dan 
+bagaimana menentukan ruang sampel suatu 
+percobaan.
+Video pembelajaran ini menjelaskan 
+bagaimana menentukan peluang empiris 
+suatu percobaan.
+Sumber belajar ini merupakan sebuah vid-
+eo yang menjelaskan bagaimana menentu-
+kan peluang empiris suatu percobaan dan 
+menyelesaikan masalah dengan menggu-
+nakan peluang empiris.
+ Bab IV - Peluang dan Pemilihan Sampel 281
+Sumber belajar ini merupakan sebuah situs 
+web yang menyediakan materi tentang pelu-
+ang empiris dan teoretis.
+Refleksi
+Kalian telah menyelesaikan pembelajaran Bab 4 Peluang. Untuk itu, ayo 
+berefleksi dengan menanggapi pertanyaan atau pernyataan berikut!
+B 	Manfaat apa saja yang kalian rasakan dan pikirkan mengenai 
+peluang?
+C 	Bagaimana cara belajar kalian selama mempelajari peluang? 
+Apakah sudah berhasil atau belum?
+D 	Sekarang, nilailah diri kalian sendiri dengan mencentang gambar 
+ekspresi yang sesuai dengan yang kalian rasakan pada tabel berikut.
+No.
+TARGET PEMBELAJARAN
+Peluang
+1.
+Aku dapat menentukan ruang sampel 
+suatu kejadian, baik dengan mendaftar, 
+tabel, ataupun diagram pohon.
+2.
+Aku dapat menentukan nilai peluang 
+suatu kejadian.
+3.
+Aku mengetahui rentang nilai peluang, ke-
+jadian pasti, dan kejadian yang mustahil.
+Peluang Empiris
+4.
+Aku dapat menentukan frekuensi relatif 
+suatu kejadian.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+282
+No.
+TARGET PEMBELAJARAN
+5.
+Aku mengetahui hubungan antara 
+frekuensi relatif dan peluang teoretis.
+6.
+Aku dapat menduga ruang sampel suatu 
+kejadian setelah melakukan percobaan.
+Frekuensi Harapan
+7.
+Aku dapat menentukan frekuensi harapan 
+suatu kejadian.
+Pemilihan Sampel
+8.
+Aku dapat menentukan populasi dan sam-
+pel dari suatu masalah.
+9.
+Aku dapat mengidentifikasi sampel yang 
+representatif dari suatu populasi.
+10.
+Aku dapat melakukan pemilihan sampel 
+secara acak dari suatu populasi.
+283
+Glosarium
+Balok Balok adalah bangun ruang yang memiliki enam sisi yang 
+berbentuk persegi panjang dan semua sudutnya merupakan sudut 
+siku-siku.
+Bilangan asli Bilangan asli adalah bilangan yang digunakan untuk 
+membilang dan mengurutkan satu atau beberapa objek. Bilangan 
+asli dimulai dari 1 kemudian dilanjutkan dengan satu lebihnya 
+bilangan sebelumnya.
+Bilangan bulat Bilangan bulat adalah bilangan nol, bilangan asli, atau 
+negatif dari bilangan asli.
+Bilangan cacah Bilangan cacah adalah bilangan 0 atau bilangan asli.
+Bilangan real Bilangan real adalah bilangan yang dapat ditempatkan 
+pada garis bilangan, misalnya –2, 0,  4
+3 ,  
+3 , dan π.
+Bola Bola adalah kumpulan semua titik dalam ruang yang berjarak 
+sama terhadap titik tertentu.
+Dilatasi  Dilatasi adalah transformasi yang memindahkan semua titik 
+dalam sebuah objek di sepanjang garis dan jaraknya berubah (atau 
+tetap) terhadap titik tertentu.
+Dua garis berimpit Dua garis dikatakan berimpit jika dua garis tersebut 
+memiliki paling sedikit dua titik potong.
+Dua garis berpotongan Dua garis dikatakan berpotongan jika kedua 
+garis tersebut melalui tepat satu titik yang sama. Titik tersebut 
+selanjutnya disebut dengan titik potong.
+Dua garis sejajar Dua garis dikatakan sejajar jika kedua garis tersebut 
+tidak pernah berpotongan.
+Frekuensi harapan Frekuensi harapan suatu kejadian adalah harapan 
+berapa kali terjadinya kejadian tersebut dalam beberapa kali 
+percobaan.
+Frekuensi relatif Frekuensi relatif suatu kejadian adalah proporsi 
+banyaknya hasil yang memenuhi kejadian tersebut terhadap total 
+banyaknya percobaan.
+Gradien Gradien suatu garis menyatakan kemiringan garis tersebut. 
+Jika garis tersebut melalui titik (x1, y1) dan (x2, y2), gradien garis 
+tersebut dapat ditentukan dengan membagi y2 – y1 dengan x2 – x1.
+284
+Hasil percobaan Hasil percobaan adalah luaran yang dapat terjadi di 
+dalam suatu percobaan.
+Jaring-jaring Jaring-jaring suatu bangun ruang adalah bentuk dua 
+dimensi yang dapat dirangkai dan dibentuk sedemikian rupa 
+sehingga menjadi bangun ruang tersebut.
+Kejadian Kejadian adalah himpunan yang memuat hasil dengan 
+kriteria tertentu.
+Kerucut Kerucut adalah bangun ruang yang dibatasi oleh sebuah sisi 
+lengkung dan sebuah sisi alas berbentuk lingkaran
+Koefisien Koefisien suatu suku bentuk aljabar adalah faktor yang 
+berupa bilangan dari suku tersebut.
+Kongruen Bangun pertama dikatakan kongruen dengan bangun 
+kedua jika terdapat rangkaian translasi, refleksi, dan rotasi yang 
+memindahkan bangun pertama sehingga bayangannya tepat 
+berimpit dengan bangun kedua.
+Konstanta Konstanta adalah suku dari suatu bentuk aljabar yang 
+berupa bilangan dan tidak memuat variabel.
+Kubus Kubus adalah bangun ruang yang memiliki enam sisi berbentuk 
+persegi.
+Kubus satuan Kubus satuan adalah kubus yang rusuk-rusuknya 
+memiliki panjang satu satuan.
+Limas Limas adalah bangun ruang yang dibentuk oleh segi banyak dan 
+segitiga-segitiga yang menghubungkan sisi-sisi segi banyak tersebut 
+dengan satu titik yang tidak sebidang dengan segi banyak tersebut.
+Lingkaran Lingkaran adalah kumpulan semua titik pada bidang yang 
+memiliki jarak sama terhadap titik tertentu. Titik tertentu ini 
+selanjutnya disebut dengan pusat lingkaran.
+Luas permukaan Luas permukaan suatu bangun datar adalah luas 
+total dari semua sisi bangun ruang tersebut.
+Metode campuran Dalam menyelesaikan sistem persamaan linear dua 
+variabel, metode campuran adalah metode yang menggabungkan 
+metode eliminasi dan metode substitusi.
+Metode eliminasi Dalam menyelesaikan sistem persamaan linear dua 
+variabel, metode eliminasi adalah metode yang menghilangkan 
+(mengeliminasi) salah satu variabel dari sistem persamaan tersebut 
+untuk menentukan nilai variabel lain.
+285
+Metode substitusi  Dalam menyelesaikan sistem persamaan linear 
+dua variabel, metode substitusi adalah metode yang mensubstitusi 
+nilai salah satu variabel dari salah satu persamaan ke persamaan 
+lainnya.
+Peluang Peluang suatu kejadian adalah bilangan yang menunjukkan 
+seberapa mungkin kejadian tersebut terjadi. Peluang dapat 
+ditentukan dengan membagi banyak anggota kejadian tersebut 
+dengan banyak anggota ruang sampelnya.
+Percobaan Percobaan adalah kegiatan yang hasilnya tidak diketahui.
+Persamaan linear dua variabel Persamaan linear dua variabel adalah 
+persamaan yang dapat dinyatakan dalam bentuk ax+by=c, 
+dengan x, y adalah variabel dan  a,b,c!R, (a ! 0, b ! 0).
+Populasi Populasi adalah kumpulan semua orang atau objek yang 
+dipelajari atau diteliti.
+Prisma Prisma adalah bangun ruang yang dibentuk oleh dua segi banyak 
+(yang identik, terletak pada bidang-bidang yang sejajar, dan sisi-sisi 
+bersesuaiannya sejajar) dan jajar genjang yang menghubungkan 
+setiap sisi yang bersesuaian kedua segi banyak tersebut.
+Refleksi Refleksi (atau pencerminan) terhadap suatu garis adalah 
+transformasi geometri yang memetakan setiap titik dalam suatu 
+objek ke titik-titik dalam bayangannya sedemikian sehingga ruas 
+garis yang menghubungkan titik-titik yang bersesuaian di objek asli 
+dan bayangannya tegak lurus terhadap garis tersebut dan dibagi 
+menjadi dua bagian yang sama panjang oleh garis itu.
+Rotasi Rotasi (atau perputaran) adalah transformasi geometri yang 
+memutar suatu objek terhadap titik yang tetap dengan ukuran 
+sudut dan arah tertentu.
+Ruang sampel Ruang sampel adalah himpunan yang memuat semua 
+kemungkinan hasil dari suatu pecobaan. Anggota ruang sampel 
+dinamakan titik sampel.
+Sampel himpunan bagian dari suatu populasi.
+Sampel acak Suatu sampel dipilih secara acak jika terpilihnya sampel 
+tersebut memiliki peluang yang sama dengan semua kemungkinan 
+sampel lain yang berukuran sama.
+286
+Sampel representatif Suatu sampel dikatakan representatif terhadap 
+populasinya jika distribusi sampel tersebut menyerupai distribusi 
+populasinya dalam hal bentuk, pusat, dan sebarannya.
+Sistem persamaan linear dua variabel Apabila terdapat dua buah 
+persamaan linear dua variabel yang berbentuk ax
+by
+c
++
+=
+dan 
+dx
+ey
+f
++
+=
+, dengan persamaan satu dan lainnya saling berkaitan 
+maka 
+persamaan-persamaan 
+tersebut 
+dinamakan 
+sistem 
+persamaan linear dua variabel. Bentuk umum sistem persamaan 
+linear dua variabel adalah ax
+by
+c
+dx
+ey
+f
++
+=
++
+=
+)
+, x, y adalah variabel dengan 
+, , , , ,
+a b c d e f
+R
+!
+Sumbu koordinat Sumbu koordinat adalah garis bilangan yang terletak 
+pada bidang koordinat.
+Sumbu x Sumbu x adalah sumbu koordinat yang digunakan untuk 
+mengidentifikasi koordinat x atau absis dari sembarang titik pada 
+bidang koordinat.
+Sumbu y Sumbu y adalah sumbu koordinat yang digunakan untuk 
+mengidentifikasi koordinat y atau ordinat dari sembarang titik 
+pada bidang koordinat.
+Tabung Tabung adalah bangun ruang yang dibentuk oleh dua lingkaran 
+identik yang sejajar dan sisi lengkung yang menghubungkan kedua 
+lingkaran tersebut.
+Transformasi geometri Transformasi geometri adalah proses 
+perubahan posisi, ukuran, dan bentuk suatu objek geometris 
+dengan aturan tertentu.
+Translasi Translasi (atau sering disebut dengan pergeseran) adalah 
+transformasi geometri yang memindahkan suatu objek dengan 
+jarak dan arah tertentu.
+Ukuran suatu populasi atau sampel Ukuran suatu populasi atau 
+sampel adalah banyaknya anggota yang dimuat oleh populasi atau 
+sampel tersebut.
+Variabel Variabel adalah lambang pengganti bilangan yang belum 
+diketahui nilainya.
+Volume Volume suatu bangun ruang adalah ukuran yang menyatakan 
+seberapa banyak ruang yang ditempati oleh bangun ruang tersebut. 
+Satuan volume adalah kubus satuan atau kubik.

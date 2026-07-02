@@ -1,0 +1,1301 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Fisika untuk SMA/MA Kelas XI
+Penulis 
+: Marianna Magdalena Radjawane, Alvius Tinambunan, Lim Suntar Jono
+ISBN 
+: 978-623-472-721-0 (jil.1)
+Dinamika Gerak 
+Partikel
+BAB 3
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian dapat 
+menjelaskan 
+sifat 
+kelembaman 
+suatu 
+benda, mengaplikasikan persamaan Hukum 
+Newton 
+dalam 
+menyelesaikan 
+masalah, 
+mendeskripsikan 
+beberapa 
+jenis 
+gaya, 
+menerapkan 
+konsep 
+momentum 
+pada 
+fenomena sehari-hari dan mendeskripsikan 
+momen gaya pada dinamika gerak rotasi.
+Kata-kata kunci:
+• 
+Inersia
+• 
+Hukum Newton
+• 
+Diagram gaya
+• 
+Momentum
+• 
+Kecepatan terminal
+• 
+Momen gaya
+• 
+Gerak rotasi
+Sumber: Trace Hudson/Pexels.com (2019)
+64
+Fisika untuk SMA/MA Kelas XI
+Saat pertama kali melihat ataupun 
+naik pesawat terbang, mungkin ada 
+banyak pertanyaan dalam benak kalian. 
+Misalnya: 
+Apakah 
+pesawat 
+mampu 
+terbang dengan beban yang begitu 
+besar? Mengapa lintasan pesawat harus 
+cukup panjang? Bagaimana pesawat 
+bisa berhenti setelah mendarat? Setelah 
+pesawat meninggalkan landasan, kalian 
+juga akan merasa seperti tertekan
+Gambar 3.1. Pesawat terbang meninggalkan landasan pacu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+di kursi dan kemudian sesekali merasa melayang dan guncangan. Semua 
+pertanyaan tersebut dapat dijelaskan dengan konsep gaya dan gerak, yang 
+akan dijelaskan pada bab ini.
+Peta Konsep
+Dinamika
+Gerak
+Partikel
+Gerak Rotasi
+Momen Inersia
+Momen Gaya
+Gaya
+Massa
+Kelembaman
+Perubahan
+Kecepatan
+Tarikan
+dan
+Dorongan
+Koeisien
+Gesekan
+Gaya
+Normal
+Gaya 
+Gesekan
+Gaya 
+Gravitasi
+Gaya 
+Elektromagnetik
+Perubahan
+Momentum
+Gaya 
+Sentripetal
+Aksi
+Reaksi
+Gaya Sentuh
+Gaya Tak Sentuh
+mempelajari
+bekerja pada
+menghasilkan
+berinteraksi
+menghasilkan
+Total Gaya nol
+Total Gaya tidak nol
+dibedakan menjadi
+contohnya
+contohnya
+dipengaruhi oleh
+mengkaji
+65
+ Bab 3 | Dinamika Gerak Partikel
+A. Hukum Newton  
+ 
+Saat beraktivitas sehari-hari tanpa disadari kita sangat bergantung pada gaya 
+dan efek dari gaya tersebut, misalnya saat berjalan, menulis bahkan bernafas. 
+Filsuf seperti Plato (427-347 SM) dan Aristoteles (384-322 SM) telah menge-
+mukakan idenya terkait dengan gerak dan gaya, tetapi konsepnya bersifat ab-
+strak dan sulit untuk diaplikasikan. Konsep gaya telah disederhanakan dalam 
+persamaan matematis oleh Sir Isaac Newton (1642-1727)  pada Hukum I, II 
+dan III Newton. 
+1. Hukum I Newton   
+Kalian telah mempelajari persepsi benda yang bergerak dan benda tidak 
+bergerak pada Bab II tentang Gerak Relatif. Sekarang bagaimana jika kita 
+tinjau gerak dari sudut pandang Hukum Newton? Perhatikan Gambar 3.2, 
+dan diskusikan bersama teman-teman kalian tentang konsep benda yang 
+bergerak dan benda yang diam.
+Gambar 3.2. Dua anak yang diam di dalam kerangka acuan yang bergerak dengan kecepatan konstan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Seorang ilsuf bernama Galileo Galilei (1564 –1642) menunjukkan bahwa 
+benda diam dan benda yang bergerak dengan kecepatan tetap memiliki keadaan 
+yang sama. Bayangkan jika kita duduk diam di dalam pesawat yang bergerak 
+dengan kecepatan tetap. Kita akan merasa seakan-akan tidak bergerak, padahal 
+relatif terhadap tanah kita bergerak dengan kecepatan konstan yang cukup 
+tinggi. Galileo memperkenalkan konsep yang membuat ide tentang gerak 
+semakin masuk akal untuk membedakan keadaan suatu sistem, yaitu gaya luar. 
+Gaya ini dapat berupa dorongan/tarikan, gaya gesekan ataupun gaya berat.
+Ide Galileo Galilei kemudian dikembangkan oleh Sir Isaac Newton. Dalam 
+hukum pertamanya, Newton menjelaskan keadaan benda jika benda tidak 
+dipengaruhi oleh gaya luar atau benda memiliki resultan gaya nol (gaya total 
+nol). 
+66
+Fisika untuk SMA/MA Kelas XI
+Hukum I Newton menyatakan “benda yang diam akan tetap diam 
+dan benda bergerak dengan kecepatan tetap akan tetap bergerak dengan 
+kecepatan tetap apabila gaya total yang bekerja pada benda adalah nol”. 
+Newton menyederhanakannya dengan persamaan:
+0
+F =
+∑
+
+Dengan F adalah simbol untuk Gaya dengan satuan Newton. 
+Kecenderungan mempertahankan keadaan gerak disebut dengan 
+kelembaman atau inersia. Semua benda memiliki sifat kelembaman 
+(inersia). Jika kecepatan benda diubah, maka sifat kelembamannya akan 
+menghambat perubahan gerak tersebut. Semakin besar massa benda, maka 
+sifat kelembamannya semakin besar. 
+Dari Hukum I Newton, kalian juga akan memahami, bahwa gaya akan 
+memengaruhi kecepatan suatu objek. Ingat bahwa kecepatan adalah besaran 
+vektor, yang artinya besar dan arah kecepatan dapat dipengaruhi oleh gaya.
+4. 
+Setelah mendapat simpulan, coba kalian diskusikan fenomena di 
+atas dengan fenomena yang dialami seseorang apabila berada di 
+dalam pesawat ataupun mobil yang dipercepat atau direm.
+Gambar 3.3. Percobaan menentukan efek gaya luar pada benda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Lakukan kegiatan berikut ini secara berkelompok!
+1. 
+Siapkan timbangan, beban dan sebuah alas.
+2. 
+Letakkan beban di atas timbangan, kemudian amati angka pada 
+timbangan dan catat. 
+3. 
+Mintalah temanmu untuk menggerakkan timbangan tersebut, 
+kemudian amati angka pada timbangan apabila timbangan tersebut 
+digerakkan ke arah bawah dan ke arah atas.
+Ayo, Amati!
+Aktivitas 3.1
+(3.1)
+67
+ Bab 3 | Dinamika Gerak Partikel
+Massa Kelembaman Dan Massa Gravitasi 
+ 
+Ada dua jenis massa yang perlu kalian ketahui yaitu massa gravitasi dan 
+massa kelembaman. Massa gravitasi adalah ukuran kemampuan suatu benda 
+dalam menghasilkan gaya gravitasi. Massa gravitasi (m) dapat diukur dengan 
+timbangan atau neraca, dengan cara membandingkan berat benda dengan 
+berat massa standar (anak timbangan). Berat benda (w) adalah besar gaya 
+gravitasi bumi yang bekerja pada suatu benda. Berat berbanding lurus dengan 
+massa benda. Arah gaya berat selalu vertikal ke bawah (menuju pusat bumi). 
+Massa yang kedua disebut dengan massa kelembaman yang akan dijelaskan 
+pada bahasan selanjutnya.
+2. Hukum II Newton  
+ 
+Mengapa bus besar yang bergerak dengan kecepatan rendah bisa lebih berba-
+haya dibandingkan dengan bajaj yang bergerak dengan kecepatan yang sama 
+ketika berbenturan dengan benda lain? Fenomena tersebut dapat dijelaskan 
+dengan menggunakan konsep dalam isika yang disebut dengan Hukum II 
+Newton. 
+Hukum II Newton menyatakan “percepatan sebuah benda berbanding lurus 
+dengan gaya total yang bekerja pada benda dan berbanding terbalik dengan 
+massanya”  Secara matematis ditulis
+F
+ma
+Σ
+=
+
+
+Dengan :  
+F
+Σ
+=  gaya total yang di alami benda (N),
+m    = massa kelembaman benda (kg ), 
+a     = percepatan (m/s
+2). 
+Saat bus bergerak, kecendrungan untuk berhenti akan lebih sulit 
+dibandingkan dengan bajaj, karena memiliki kelembaman yang lebih 
+besar, sehingga gaya untuk menghentikan bus tersebut akan lebih besar 
+dibandingkan bajaj.  Dari Hukum II Newton kita ketahui bahwa percepatan 
+benda berbanding terbalik dengan massanya. Semakin besar massa benda, 
+maka percepatan benda akan semakin kecil jika diberi gaya eksternal yang 
+sama. 
+(3.2)
+68
+Fisika untuk SMA/MA Kelas XI
+Untuk menemukan hubungan antara resultan gaya dan percepatan, 
+lakukanlah percobaan berikut secara berkelompok.
+Ayo, Berkolaborasi!
+Diagram Gaya 
+ 
+Gaya-gaya yang bekerja pada suatu benda dapat digambarkan dengan suatu 
+diagram gaya. Diagram gaya adalah interpretasi vektor gaya yang bekerja pada 
+suatu benda dengan besar dan arah yang sesuai. Berikut merupakan contoh 
+diagram gaya benda yang mengalami beberapa gaya dari luar.
+Untuk memahami hukum II Newton beserta besaran-besaran di dalamnya, 
+kalian dapat melakukan aktivitas berikut secara berkelompok
+Perhatikan Gambar 3.4! Tentukan: 
+1. Gaya total yang bekerja pada lemari (perhatikan warna panah) 
+2. Percepatan kucing dan lemari tersebut.
+Ayo, Cek Pemahaman!
+Aktivitas 3.2
+Gambar 3.4. Diagram gaya pada suatu benda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+69
+ Bab 3 | Dinamika Gerak Partikel
+No
+m(kg)
+s(m)
+θ (…o)
+t(detik) ΣF(N)
+a(m/s2)
+1.
+Tetap
+Tetap
+2.
+Tetap
+Tetap
+3.
+Tetap
+Tetap
+4.
+Tetap
+Tetap
+5.
+Tetap
+Tetap
+1. Siapkan sebuah mobil-mobilan/benda yang memiliki permukaan 
+licin, sebuah busur dan papan yang licin. Buatlah rangkaian 
+percobaan seperti yang ditunjukkan pada Gambar 3.5. 
+2. Ukur massa mobil-mobilan (m), kemudian letakkan di permukaan 
+bidang miring licin, sehingga meluncur lurus ke bawah seperti 
+Gambar 3.5.
+3. Ukur panjang jarak lintasan (s) yang ditempuh mobil-mobilan.
+4. Catat waktu (t) yang diperlukan untuk menempuh jarak tersebut.
+5. Ukur besar sudut kemiringan (θ).
+6. Tentukan percepatan (a) mobil-mobilan dengan menggunakan 
+persamaan GLBB. 
+7. Tentukan besar resultan gaya (ΣF) yang bekerja pada mobil-mobilan 
+tersebut menggunakan persamaan.
+sin
+F
+ma
+mg
+θ
+=
+=
+∑
+
+
+
+Untuk mempermudah perhitungan ambil nilai g = 10 m/s
+2.
+8. Ulangi percobaan tersebut sebanyak 5 kali, dengan kemiringan 
+sudut (θ) yang berbeda-beda. Catat semua data dan hasil perhitungan 
+tersebut ke dalam tabel data hasil pengamatan.
+9.   
+Gambar 3.5 Rangkaian percobaan hubungan gaya dan percepatan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Aktivitas 3.2
+Tabel 3.1 Data hasil pengamatan
+(3.3)
+70
+Fisika untuk SMA/MA Kelas XI
+1. Buatlah graik percepatan (a) terhadap fungsi resultan gaya (ΣF), dengan 
+percepatan di sumbu horisontal dan resultan gaya di sumbu vertikal.
+2. Kesimpulan apakah yang diperoleh dari graik tersebut? Tuliskan 
+hubungan antara resultan gaya (ΣF) dan percepatan (a) itu dalam bentuk 
+persamaan.
+Dari pecobaan yang telah dilakukan, kalian akan memperoleh suatu konstanta 
+yang dalam SI satuannya adalah kilogram (kg). Konstanta ini diartikan sebagai 
+massa kelembaman benda, yaitu ukuran besarnya sifat kelembaman (inersia) 
+dari benda tersebut. Dengan demikian diperoleh bentuk persamaan 3.2.
+F
+ma
+Σ
+=
+
+
+Bedasarkan persamaan tersebut, maka dapat disimpulkan “Jika suatu 
+benda mengalami resultan gaya, maka besar percepatan yang ditimbulkan 
+sebanding dengan besarnya resultan gaya, dan arah percepatannya sama 
+dengan arah resultan gaya tersebut”. 
+Massa kelembaman suatu benda dapat kita ukur berdasarkan Hukum 
+II Newton, yaitu dengan cara membandingkan besar resultan gaya ΣF yang 
+diperoleh dengan percepatan (a) benda tersebut. Walaupun secara konsep 
+pengertian massa kelembaman dan massa gravitasi berbeda, tetapi fakta 
+menunjukkan bahwa besar kedua massa tersebut adalah sama. Itulah sebabnya 
+untuk keperluan hitung-menghitung massa gravitasi dan massa kelembaman 
+cukup dinyatakan sebagai massa benda.
+Perhatikan fenomena berikut!
+Menurut kalian, apakah hubungan 
+antara 
+fenomena 
+pada 
+Gambar 
+3.6 dengan Hukum II Newton? 
+Bandingkan dengan aplikasi pada 
+airbag pada mobil dan kegunaan 
+sarung tinju pada olahraga tinju. 
+Simpulan apa yang dapat kalian 
+peroleh?
+Ayo, Berdiskusi!
+Gambar 3.6. Telur yang dijatuhkan pada dua keadaan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tugas dan pertanyaan
+Aktivitas 3.2
+71
+ Bab 3 | Dinamika Gerak Partikel
+3. Hukum III Newton  
+ 
+Dalam kehidupan sehari-hari, selalu ada interaksi antara beberapa benda, 
+interaksi umumnya diawali dengan aksi. Dalam isika setiap aksi selalu ada 
+reaksi yang arahnya berlawanan dengan aksi tersebut. Hal ini dinyatakan da-
+lam Hukum ke-III Newton. “Setiap aksi akan menimbulkan reaksi, jika suatu 
+benda memberikan gaya pada benda yang lain maka benda yang terkena gaya 
+akan memberikan gaya yang besarnya sama dengan gaya yang diterima dari 
+benda pertama, tetapi arahnya berlawanan“ secara matematis ditulis:
+aksi
+reaksi
+F
+F
+= −
+
+
+Fenomena aksi-reaksi sering kita temukan dalam kehidupan sehari-
+hari. Roket dapat terdorong ke atas karena ada semburan gas panas yang 
+ditembakkan ke bawah. Saat kita berjalan, reaksi kita berjalan ke depan 
+dikarenakan kaki kita menyapu ke arah belakang.
+Gambar 3.7. Pasangan gaya aksi dan reaksi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ada banyak contoh dari pasangan aksi dan reaksi yang bisa kalian temukan 
+dalam kehidupan sehari-hari. Kalian bisa melakukan aktivitas mandiri untuk 
+mencari pasangan aksi-reaksi di sekitar kalian dan kemudian diskusikan hasil 
+pengamatan kalian baik kepada teman ataupun guru. 
+(3.4)
+72
+Fisika untuk SMA/MA Kelas XI
+Kemudian 
+diskusikan 
+bersama 
+teman-temanmu, mengapa sistem 
+pada Gambar 3.9 berikut tidak 
+mungkin untuk bisa bergerak!
+Gambar 3.9. Mobil yang ditarik oleh magnet
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 3.8. Perlombaan tarik tambang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Prosedur
+1. 
+Lakukan percobaan virtual ini secara mandiri
+2. 
+Masuklah ke dalam tautan berikut:
+https://phet.colorado.edu/
+sims/html/forces-and-mo-
+t i o n - b a s i c s / l a t e s t / f o r c -
+es-and-motion-basics_in.html
+3. 
+Eksplorasi terkait gaya dan 
+gerak dari ke-empat itur yang 
+terdapat di dalam aplikasi. 
+4. 
+Dari eksplorasi kalian, jawablah pertanyaan-pertanyaan berikut:
+a. 
+Apa yang dimaksud dengan gaya netto?
+b. 
+Apakah pengaruh gaya terhadap gerak?
+c. 
+Apakah pengaruh gaya gesek terhadap kecepatan benda?
+d. 
+Bagaimana nilai percepatan suatu benda dengan variasi massa 
+dan gaya eksternal? 
+Laboratorium virtual menggunakan Phet.Colorado
+Ayo, Berteknologi!
+Aktivitas 3.3
+Gambar 3.10 Fitur-itur di dalam aplikasi Phet.colorado
+Sumber: Phet colorado
+Tahukah kalian, pada perlombaan tarik tambang, setiap aksi pada 
+tali dari penarik sebelah kanan selalu sama dengan reaksi pada
+tali penarik sebelah kiri. Hal ini 
+dibuktikan dengan tegangan tali 
+yang merata dari grup sebelah 
+kiri dan grup sebelah kanan. Jika 
+gaya ini sama besar, bagaimana 
+perlombaan  ini bisa dimenangkan?
+Ayo, Berpikir Kritis!
+73
+ Bab 3 | Dinamika Gerak Partikel
+B. Jenis-Jenis Gaya  
+ 
+Terdapat beberapa gaya yang sering kita temukan dalam kehidupan se-
+hari-hari. Contohnya,  gaya berat, gaya normal, gaya gesekan benda padat, 
+gaya gesekan pada luida dan gaya sentripetal. 
+1. Gaya Berat 
+ 
+Saat belanja di pasar rakyat, mungkin kalian pernah mendengar seorang pen-
+jual yang menawarkan jualan, misalnya buah apel seberat 0,5 kg memiliki 
+harga Rp.10.000,- Dalam bahasa sehari-hari kita sering menggunakan besaran 
+berat dengan satuan kilogram. Perlu kalian ketahui, berat merupakan gaya 
+tarik bumi terhadap suatu benda. Secara matematis berat adalah perkalian 
+antara massa dan percepatan gravitasi.
+w
+mg
+=
+
+
+Berat memiliki satuan newton, dengan g merupakan percepatan gravitasi 
+bumi yang nilainya berkisar 9,8 m/s2 jika diukur dekat dengan permukaan 
+bumi.  Sedang massa adalah ukuran banyaknya partikel di dalam suatu objek 
+dan memiliki satuan kilogram.  
+2. Gaya Normal 
+ 
+Sebuah benda yang di letakkan di atas meja, akan diam, meskipun kalian tahu 
+bahwa ada gaya gravitasi yang bekerja pada benda. Pasti, ada gaya lain yang 
+menyeimbangkan gaya berat ini. Gaya ini kita sebut dengan gaya normal. 
+Gaya normal selalu tegak lurus dengan bidang dan merupakan gaya tahan 
+dari material terhadap gaya luar, arahnya keluar dari bidang permukaan.
+Kalian bisa membayangkan dengan meletakkan benda seberat 1 kg di atas 
+kue tart atau di atas meja besi. Pasti meja besi akan lebih mampu menahan 
+beban dan memberikan gaya normal yang setara dengan gaya berat, sedangkan 
+kue tart akan hancur. Perlu diperhatikan, karena gaya normal adalah interaksi 
+antara dua benda, maka akan timbul pasangan aksi dan reaksi.
+Jika kita pindah ke permukaan planet Mars, apakah berat dan massa 
+kita akan berubah?
+Ayo, Cek Pemahaman!
+(3.5)
+74
+Fisika untuk SMA/MA Kelas XI
+3. Gaya Gesek Benda Padat 
+ 
+Ketika sebuah benda yang berada di suatu permukaan lantai ditarik, benda 
+tersebut akan mengalami gaya gesek dengan permukaan lantai. Gaya gesek 
+merupakan konsep yang sangat penting dalam gerak sehari-hari. Terdapat 
+dua jenis gaya gesek. Pertama adalah gaya gesek statis yang mempertahankan 
+benda agar terus diam. Kedua adalah gaya gesek kinetis yang menghambat 
+pergerakan benda. Gaya gesek sangat berhubungan dengan gaya normal/kon-
+tak dan koeisien gesekan antar benda. Hubungan antara besaran ini dapat 
+dituliskan sebagai berikut.
+statik
+statik
+kinetis
+kinetis
+f
+N
+f
+N
+µ
+µ
+=
+=
+
+
+
+
+Dengan : 
+ f   = gaya gesek (N),
+N  = gaya normal (N), 
+μ   = koeisien gesek antara dua benda.
+Besarnya koeisien gesek ditentukan oleh kehalusan antara dua 
+permukaan. Contohnya lantai yang licin akan memiliki koeisien yang lebih 
+kecil dibandingkan dengan lantai yang kasar. 
+(3.6)
+Gambar 3.11 a.Diagram gaya pada balok di atas meja    b.Gaya normal tiap material
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Seorang anak mendorong lemari yang 
+memiliki koeisien gesek lantai dan lemari 
+sebesar 0,2. Apabila massa lemari 20 kg dan 
+anak tersebut mendorong dengan gaya 40 
+N, apakah lemari akan bergerak? 
+(g = 10 N/kg)
+Gambar 3.12. lemari yang didorong di atas 
+permukaan kasar
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cek Pemahaman!
+(3.7)
+75
+ Bab 3 | Dinamika Gerak Partikel
+Lakukanlah sebuah percobaan untuk menentukan koeisien gaya gesek 
+statik antara dua permukaan dengan menggunakan konsep bidang 
+miring (Gambar 3.13). Pecobaan ini berguna untuk memahami konsep 
+gaya normal, gaya berat dan gaya gesek yang merupakan kelanjutan 
+Aktivitas 3.2.
+Prosedur
+1. Siapkan sistem bidang miring yang bisa diatur sudutnya (dapat 
+menggunakan papan, penyangga dan tape), busur derajat, dan 
+beberapa benda dengan tingkat kehalusan permukaan yang 
+berbeda. Contoh rangkaian percobaan dapat dilihat pada Gambar 
+3.13. 
+2. Posisikan benda pada bidang miring sehingga benda tetap stabil, 
+kemudian secara perlahan naikkan kemiringan bidang miring dan 
+amati pergerakan benda. Apabila benda sudah mulai bergerak, 
+catat sudut dimana benda mulai akan bergerak.
+3. Apabila benda sudah mulai bergerak, catat sudut dimana benda 
+mulai akan bergerak.
+4. Lakukan percobaan berulang dengan objek yang berbeda.
+5. Tentukan koeisien gesekan statis menggunakan persamaan
+tan
+s
+µ
+θ
+=
+Ayo, Berkolaborasi!
+Aktivitas 3.4
+Gambar 3.13. Rangkaian percobaan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(3.8)
+76
+Fisika untuk SMA/MA Kelas XI
+Perhatikan Gambar 3.14! Menurut kalian apakah kesamaan yang bisa 
+diperoleh dari kedua gambar tersebut? 
+Kedua fenomena tersebut disebabkan oleh efek yang sama yaitu gaya 
+gesekan luida. Sebuah benda yang bergerak melalui luida (cair atau gas) akan 
+mengalami hambatan dari luida tersebut. Kecepatan benda yang melewati 
+suatu luida akan melambat karena energinya diubah menjadi panas bahkan 
+pada tingkat yang ekstrim akan membakar benda itu sendiri. Pada benda 
+yang jatuh, gaya hambat luida akan meningkat seiring dengan meningkatnya 
+kecepatan. Hal ini akan menyebabkan gaya total berkurang hingga pada suatu 
+keadaan, gaya hambat udara mengimbangi gaya berat benda. Akibatnya 
+percepatan menjadi nol dan kecepatan menjadi konstan. Kecepatan ini dikenal 
+sebagai kecepatan terminal.
+Gambar 3.14. (a). Penerjun payung (b) Meteor yang terbakar
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+4. Gaya Gesek Fluida 
+6. Isilah tabel berikut menggunakan hasil eksperimen.
+7. Diskusikan hasil eksperimen dan ambillah kesimpulan dari 
+eksperimen yang telah dilakukan.
+8. Diskusikan bersama teman-temanmu bagaimana memperoleh 
+persamaan (3.8) dengan menggunakan Hukum Newton.
+Percobaan
+1.
+2.
+3.
+Benda
+Sudut
+Koeisien Gesek Statis
+Aktivitas 3.4
+Tabel 3.2 Data hasil pengamatan penentuan koeisien gesek statis
+77
+ Bab 3 | Dinamika Gerak Partikel
+Gambar 3.15. Graik kecepatan terhadap waktu pada penerjun payung
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 3.15 memperlihatkan graik kecepatan arah vertikal terhadap 
+waktu dari gerak seorang penerjun payung.
+1. 
+Siapkan masking tape, handphone untuk merekam, dua buah benda 
+(usahakan berbentuk bola/bulat) yang salah satunya dipasangkan 
+sebuah parasut (bisa menggunakan kantong plastik) dan benda 
+lainnya tanpa parasut.
+2. 
+Carilah posisi yang cukup tinggi dan aman dengan pengaruh angin 
+sekecil mungkin. Rangkaian percobaan dapat di lihat pada Gambar 
+3.16.
+Prosedur
+Ayo, Berkolaborasi!
+Aktivitas 3.5
+Gambar 3.16. Contoh skema percobaan 
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+78
+Fisika untuk SMA/MA Kelas XI
+Aktivitas 3.5
+3. 
+ Percobaan 1, jatuhkan benda tanpa parasut dan ukur waktunya 
+saat menyentuh tanah (waktu dapat dilihat di handphone).
+4. 
+ Percobaan 2, jatuhkan benda dengan parasut dan ukur waktunya 
+saat menyentuh tanah (waktu dapat dilihat di handphone).
+5. 
+Gunakan perangkat lunak video editor untuk menganalisis gerak 
+benda, dan bandingkan hasil dari percobaan 1 dan percobaan 2.
+6. 
+Untuk medapatkan hasil data yang lebih baik, plotlah data posisi 
+dan waktu menggunakan software pengolah data seperti Microsoft 
+excel atau software alternatif yang lain. 
+5. Gaya Sentripetal  
+ 
+Mobil yang bergerak pada suatu tikun-
+gan memiliki kecepatan atau kelajuan 
+tertentu sedemikian sehingga mobil 
+tetap stabil di lintasannya. Apabila 
+terlalu lambat mobil cenderung akan 
+bergerak ke arah pusat, sedangkan 
+bila terlalu kencang, mobil akan keluar 
+dari lintasan.
+Pada Gambar 3.17 gaya sentripetal 
+diberikan oleh gaya gesek saja.
+Gambar 3.17. Gerak melingkar pada sebuah mobil
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Dengan :  
+Fs = gaya sentripetal (N),
+ 
+ 
+m = massa benda (kg),
+ 
+ 
+ v = kecepatan linier (m/s),
+ 
+ 
+ r = jari – jari lingkaran (m).
+Gaya ini akan mempertahankan benda untuk berada pada lintasan 
+melingkar. 
+Gaya total yang bekerja pada sistem ini disebut dengan gaya sentripetal. 
+Gaya ini selalu mengarah ke arah pusat. Besarnya gaya dapat dinyatakan 
+dengan persamaan
+(3.9)
+2
+s
+v
+F
+m r
+=
+79
+ Bab 3 | Dinamika Gerak Partikel
+Ayo cek pemahaman
+Perhatikan Gambar 3.17! Apabila massa mobil adalah 1000 kg, 
+bergerak dengan kelajuan atau kecepatan konstan 20 m/s pada 
+lintasan melingkar dengan jari-jari 20 m. Dengan menganggap mobil 
+tetap berada pada lintasan. Tentukan gaya gesekan ban dengan jalan! 
+(g = 10 m/s2)
+C. Momentum dan Impuls 
+ 
+Kalian telah memahami bagaimana hubungan antara besaran-besaran massa, 
+percepatan dan gaya pada Hukum II Newton. Terdapat suatu besaran lain yang 
+dapat menjelaskan tentang gerak suatu benda, yaitu momentum. Momentum 
+adalah besaran turunan yang merupakan hasil kali antara massa (m) dan ke-
+cepatan (v) suatu objek yang menunjukkan kesukaran benda untuk berhenti. 
+Momentum memiliki satuan kg m/s dan simbol p
+. Secara matematis besaran 
+momentum dapat dituliskan sebagai berikut.
+p
+mv
+=
+
+
+Perubahan momentum terhadap waktu dari suatu benda akan 
+menghasilkan perubahan kecepatan benda terhadap waktu yang senilai 
+dengan gaya luar yang dialami benda. Hubungan ini bisa dituliskan dalam 
+bentuk persamaan:
+p
+m v
+p
+v
+m
+F
+t
+t
+∆
+=
+∆
+∆
+∆
+=
+=
+∆
+∆
+∑
+
+
+
+
+
+Pada bab kinematika telah dijelaskan, bahwa perubahan kecepatan 
+terhadap waktu akan sama dengan percepatan. Jadi perubahan momentum 
+terhadap waktu adalah bentuk lain dari Hukum II Newton. Perubahan 
+momentum
+p
+∆
+
+ disebut dengan impuls (I). 
+1.  Hukum Kekekalan Momentum  
+ 
+(3.10)
+(3.11)
+Gambar 3.18. Tumbukan antara dua benda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Apabila dua objek saling berinteraksi, 
+tiap objek akan mengalami gaya aksi 
+dan reaksi yang sama besar, seperti 
+ditunjukkan oleh Gambar 3.18.
+80
+Fisika untuk SMA/MA Kelas XI
+Jika dihubungkan dengan hukum kekekalan momentum pada persamaan 
+3.12, maka diperoleh hubungan sebagai berikut. 
+'
+'
+'
+2
+1
+2
+1
+(
+)
+(
+)
+1
+(
+)
+(
+)
+v
+v
+v
+v
+v
+v
+−
+−
+−∆
+=
+=
+−
+∆
+
+
+
+
+
+
+Dari persamaan 3.14 dapat disimpulkan bahwa perubahan kecepatan 
+relatif sebelum dan sesudah tumbukan adalah sama besar tapi berlawanan 
+arah. 
+Jenis tumbukan ini jarang terjadi di alam, tetapi untuk tingkat molekul, 
+tumbukan ini sering dijadikan sebagai asumsi.
+Dengan menggunakan deinisi impuls dari penjelasan sebelumnya, maka 
+keadaan ini secara matematis dapat dituliskan sebagai berikut.
+Persamaan 3.12 dikenal dengan hukum kekekalan momentum, yang 
+secara sederhana menyatakan bahwa, momentum total sebelum dan sesudah 
+tumbukan adalah sama. Hukum ini akan berlaku pada keadaan apapun selama 
+terjadi interaksi antara dua benda.
+2.  Jenis-Jenis Tumbukan  
+Saat dua benda bertumbukan, akan ada energi yang diubah menjadi energi 
+lain dan akan berdampak pada perbedaan kecepatan relatif  sebelum dan 
+sesudah tumbukan. Rasio perubahan kecepatan relatif sesudah dan sebelum 
+tumbukan disebut dengan koeisien restitusi (e).
+Jenis tumbukan berdasarkan rasio tersebut dapat dibagi menjadi tiga, 
+yaitu: 
+a. Tumbukan Lenting Sempurna (e =1) 
+ 
+Tumbukan lenting sempurna terjadi ketika tidak ada energi sistem yang hil-
+ang saat bertumbukan. Dalam hal ini berlaku hukum kekekalan energi kinetik 
+dan hukum kekekalan momentum. Tinjau tumbukan dari Gambar 3.18, dima-
+na jumlah energi kinetik sebelum dan sesudah tumbukan adalah sama.
+2
+2
+'2
+'2
+1 1
+2
+2
+1 1
+2
+2
+1
+1
+1
+1
+2
+2
+2
+2
+m v
+m v
+m v
+m v
++
+=
++
+(3.12)
+(3.13)
+(3.14)
+1
+1
+1
+2
+2
+2
+1 1
+2
+2
+1 1
+2
+2
+(
+'
+)
+(
+'
+)
+'
+'
+aksi
+reaksi
+F
+F
+m v
+v
+m v
+v
+t
+t
+m v
+m v
+m v
+m v
+= −
+−
+−
+−
+=
++
+=
++
+
+
+
+
+
+
+
+
+
+
+81
+ Bab 3 | Dinamika Gerak Partikel
+b. Tumbukan Lenting Sebagian (0 < e < 1)  
+Pada tumbukan lenting sebagian, hukum kekekalan energi kinetik tidak ber-
+laku karena adanya energi yang hilang saat terjadi tumbukan. Energi ini um-
+umnya diubah menjadi panas atau bunyi. Pada tumbukan lenting sebagian 
+hanya berlaku hukum kekekalan momentum saja dan koeisien restitusi tum-
+bukan lenting sebagian mempunyai nilai di antara nol dan satu (0 < e <1).
+'
+'
+2
+1
+2
+1
+(
+)
+(
+)
+v
+v
+e
+v
+v
+−
+−
+=
+−
+
+
+
+
+Tumbukan lenting sebagian sering terjadi dalam kehidupan sehari-hari.
+c. Tumbukan Tidak Lenting Sama Sekali (e = 0) 
+ 
+Pada tumbukan tidak lenting sama sekali, dua benda yang bertumbukan akan 
+menyatu dan bergerak bersama-sama setelah bertumbukan. Sama halnya 
+dengan tumbukan lenting sebagian, energi sebelum tumbukan akan lebih be-
+sar daripada energi setelah tumbukan. Karena kedua benda bergerak bersa-
+ma, maka nilai koeisien restitusi pada tumbukan tidak lenting sama sekali 
+adalah nol. Hal ini mengakibatkan kecepatan kedua benda akan sama setelah 
+bertumbukan.
+'
+'
+'
+2
+1
+2
+1
+'
+'
+2
+1
+(
+)
+(
+)
+0
+(
+)
+(
+)
+v
+v
+v
+v
+v
+v
+v
+v
+−
+−
+−∆
+=
+=
+−
+∆
+=
+
+
+
+
+
+
+
+
+(3.15)
+(3.16)
+Sebuah balok bergerak di atas permukaan licin dengan kecepatan 5 
+m/s, kemudian menumbuk balok lain yang diam. Setelah tumbukan 
+balok pertama bergerak ke kiri dengan kecepatan 1 m/s seperti yang 
+ditunjukkan pada Gambar 3.19. 
+Ayo, Berkolaborasi!
+Gambar 3.19. Tumbukan antara dua balok
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tentukan:
+a. 
+kecepatan balok kedua setelah tumbukan,
+b. 
+energi yang hilang saat tumbukan,
+c. 
+jenis tumbukan.
+Ayo cek pemahaman
+82
+Fisika untuk SMA/MA Kelas XI
+Menentukan koeisien restitusi bola yang jatuh
+Prosedur
+Ayo, Berteknologi!
+Gambar 3.21. Tampilan percobaan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+1. 
+Sediakan 2 bola dengan jenis yang 
+berbeda (contoh: bola kaki dan bola voli), 
+handphone, dan masking tape.
+2. 
+Gunakan kamera HP untuk merekam 
+posisi awal dan posisi benda setelah 
+pemantulan. Lakukan  tiga kali untuk 
+setiap bola dengan posisi awal yang sama.
+3. 
+Gunakan aplikasi video editor untuk 
+mengecek posisi dan waktu secara akurat.
+Aktivitas 3.6
+Gambar 3.20. Diagram tumbukan pada bidang
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+d. Tumbukan di Dalam Ruang 
+ 
+Pada umumnya, benda-benda yang betumbukan akan bergerak di dalam 
+suatu bidang (2 dimensi) ataupun dalam ruang (3 dimensi). Sebagai contoh, 
+jika sebuah petasan meledak, maka serpihan-serpihannya akan menyebar ke 
+berbagai arah.  Untuk memecahkan persoalan gerak dalam ruang, kalian bisa 
+menggunakan metode penguraian vektor yang telah dipelajari pada Bab I ber-
+sama-sama dengan hukum kekekalan momentum. Gambar 3.20 memperlihat-
+kan  bagaimana menguraikan komponen momentum dalam gerak 2 dimensi. 
+83
+ Bab 3 | Dinamika Gerak Partikel
+Percobaan
+1
+2
+3
+Tinggi akhir bola 1
+Tinggi akhir bola 2
+Koef. Restitusi
+5. 
+Masukan hasil ke dalam tabel berikut. Kemudian diskusikan hasil 
+percobaan!
+6. 
+Dari pemahaman yang sudah kalian pelajari tentang energi, 
+tentukan energi yang hilang pada setiap percobaan tumbukan di 
+atas.  
+Gunakan persamaan 3.17 dalam menentukan nilai koeisien restitusi 
+pada tumbukan:
+akhir
+awal
+h
+e
+h
+=
+(3.17)
+Tabel 3.3. Penentuan koeisien restitusi
+Gambar 3.22 Seorang pemuda mencoba menyeimbangkan dua beban
+ 
+Perhatikan Gambar 3.22. Seorang remaja mencoba menyeimbangkan dua 
+beban yang dipanggulnya. Untuk menyeimbangkan dua beban tersebut, 
+pemuda tersebut harus memposisikan batang penyangga sedemikian sehingga 
+momen gaya total yang diberikan adalah nol. 
+D. Gerak Rotasi
+84
+Fisika untuk SMA/MA Kelas XI
+Gambar 3.23 Dua benda yang berada di atas tumpuan dan penggaris
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+1.  Momen Gaya 
+ 
+Momen gaya adalah gaya yang bekerja terhadap sumbu putar sehingga benda 
+mengalami gerak berputar. Momen gaya dinyatakan dengan persamaan se-
+bagai berikut: 
+r
+F
+τ =
+×
+
+
+
+Dengan :  
+τ = momen gaya (Nm), 
+r = panjang lengan dari sumbu putar(m),
+F = gaya (N).
+Sudut antara r dan F harus tegak lurus satu dengan yang lain. 
+Sebagai contoh perhatikan sistem pada Gambar 3.23. 
+(3.18)
+Momen gaya yang di akibatkan oleh silinder τs dan balok τb terhadap titik 
+tumpu adalah: 
+2
+2
+0,15 m(0,05 kg 9,8m/s )
+0,0735Nm Searah jarum jam
+0,10 m(0,03 kg 9,8m/s )
+0,0294 Nm berlawanan arah jarum jam
+s
+s
+s
+b
+b
+b
+r F
+r F
+τ
+τ
+==
+×
+=
+= =
+×
+=
+Total momen gaya terhadap titik tumpu adalah:
+ 
+total
+0,0735Nm
+0,0294 Nm
+0,0441Nm
+s
+b
+τ
+τ
+τ
+=
++
+= −
++
+= −
+Yang artinya benda akan berputar mengikuti gerak silinder.  
+Perhatikan bahwa tanda negatif menunjukkan arah momen gaya searah 
+dengan jarum jam dan sebaliknya tanda positif menunjukkan arah momen 
+gaya berlawanan arah dengan jarum jam.
+searah jarum jam
+85
+ Bab 3 | Dinamika Gerak Partikel
+1. Siapkan sebuah penggaris, sebuah tumpuan dan dua benda 
+(gunakan plastisin agar massa bisa diatur). Buatlah rangkaian 
+percobaan seperti pada Gambar 3.23.
+2. Ukurlah massa tiap benda, dan aturlah posisi benda 1 dan 2 sehingga 
+kedua benda dalam keadaan setimbang. Ukur jarak benda terhadap 
+titik tumpu.
+3. Isilah tabel berikut sesuai dengan percobaan yang telah dilakukan.
+Ayo, Amati!
+Prosedur
+Aktivitas 3.7
+4. Buatlah kesimpulan dari percobaan. 
+5. Sekarang geser titik tumpu ke arah 1/4 panjang penggaris, buatlah 
+plastisin dengan perbandingan massa 1:2. Tentukan persamaan 
+jarak antara massa yang lebih ringan dari titik tumpu  dengan 
+menggunakan panjang penggaris (L), massa yang lebih ringan (m2) 
+dan massa penggaris (mp). Di mana momen gaya total adalah nol.  
+2.  Momen Inersia  
+Jika pada Hukum I Newton terdapat 
+besaran kelembaman benda terhadap 
+gaya luar, maka gerak rotasi juga ter-
+dapat suatu besaran kelembaman benda 
+untuk berputar pada porosnya. Momen 
+inersia benda bisa berbeda-beda ter-
+gantung dari massa (m) dan posisi pusat 
+massanya (r). Gambar 3.24 menunjukkan 
+momen inersia dari beberapa benda.
+Gambar 3.24 beberapa benda beserta 
+momen inersianya
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tabel 3.4. Data hasil pengamatan momen gaya pada dua benda
+Berat Benda 
+1 (N)
+Jarak benda 1 
+terhadap titik 
+tumpu
+Berat benda 
+2 (N)
+Jarak benda 2 
+terhadap titik 
+tumpu
+86
+Fisika untuk SMA/MA Kelas XI
+Besaran
+Gerak lurus
+Gerak rotasi
+Kecepatan
+s
+v
+t
+∆
+= ∆
+t
+θ
+ω
+∆
+= ∆
+Kecepatan
+0
+tv
+v
+at
+=
++
+0
+t
+t
+ω
+ω
+α
+=
++
+Percepatan
+v
+a
+t
+∆
+= ∆
+t
+ω
+α
+∆
+= ∆
+Perpindahan
+2
+0
+1
+2
+s
+v t
+at
+=
++
+2
+0
+1
+2
+t
+t
+θ
+ω
+α
+=
++
+Perpindahan
+2
+2
+0
+2
+tv
+v
+s
+a
+−
+=
+2
+2
+0
+2
+t
+a
+ω
+ω
+θ
+−
+=
+Seperti pada Hukum II Newton, hubungan antara momen inersia,  momen 
+gaya dan percepatan sudut dapat dinyatakan dengan persamaan sebagai 
+berikut. 
+Dengan: 
+I  = momen inersia (kgm2),
+α = percepatan sudut (radian/s2). 
+Gerak rotasi dan gerak lurus memiliki kesamaan bentuk dalam persamaan 
+yang di tunjukkan pada Tabel 3.5.
+I
+τ
+α
+=
+Dinamika merupakan kajian yang mempelajari tentang gaya 
+beserta efeknya. Gaya dapat mengubah kecepatan dan arah suatu 
+benda. Benda akan mempertahankan keadaan awalnya apabila 
+tidak dipengaruhi oleh gaya dari luar. Fenomena gerak suatu benda 
+dapat dijelaskan dengan menggunakan Hukum Newton dan konsep 
+momentum.  Dinamika gerak rotasi mengkaji tentang momen gaya 
+dan efeknya pada gerak rotasi.
+Intisari
+(3.19)
+Tabel 3.5 Beberapa besaran pada gerak lurus dan gerak rotasi
+87
+ Bab 3 | Dinamika Gerak Partikel
+1. Bagaimanakah kalian memandang pergerakan benda-benda di 
+sekeliling kalian.
+2. Bagaimana kalian bisa lebih memaknai keteraturan alam 
+menggunakan konsep Hukum Newton.
+Releksi
+1. 
+pada pada graik berikut.
+Jika massa Susan dan sepeda adalah 60 kg dan gaya gesek antara sepeda 
+dan tanah selalu sama. Tentukan: 
+a. gaya yang diberikan Susan pada detik ke-1 sampai detik ke-4, 
+b. gaya yang diberikan Susan saat detik ke-4 sampai ke-10 (g = 10 m/s2 ).
+Asesmen
+o
+2. 
+Sebuah bola pejal akan dijatuhkan dari 
+sebuah gedung dengan menggunakan 
+sistem katrol seperti pada gambar di 
+samping. Balok A memiliki massa 20 kg 
+dan bola B bermassa 10 kg. Jika mula-
+mula bola B diam dan jaraknya dari 
+tanah adalah 10 m. Tentukan waktu yang 
+diperlukan bola B hingga menyentuh 
+tanah jika bola B dilepaskan!
+88
+Fisika untuk SMA/MA Kelas XI
+Asesmen
+3. Sebuah kereta bergerak pada lintasan lurus yang pergerakannya 
+ditunjukkan seperti pada graik di berikut.
+4. Dua buah benda dengan massa yang sama yaitu 500 gram saling mendekat 
+seperti yang ditunjukkan pada gambar berikut. Kedua benda tersebut 
+kemudian bertumbukan dan memiliki waktu kontak sekitar 50 mili-sekon. 
+Dari diagram di samping, tentukan: 
+a. kecepatan kedua bola setelah 
+tumbukan 
+b. gaya rata-rata antara dua 
+benda saat bertumbukkan. 
+c. energi yang hilang saat 
+bertumbukan
+Pada detik ke 0 hingga 40 kereta 
+mengalami gaya hambat sebesar 
+1000 N. Dengan menganggap gaya 
+dari kereta adalah konstan dan massa 
+kereta adalah 1000 kg, perkirakan 
+gaya hambat pada kereta setelah 
+bergerak lebih dari 40 detik!
+5. Sebuah tongkat homogen bermassa 2 kg ditahan oleh dua buah tali seperti 
+yang ditunjukkan pada gambar berikut!
+Dari sistem di atas, tentukan:
+a. momen titik pusat massa terhadap B, 
+b. tegangan pada tali T  dan T ,
+c. percepatan pusat massa dari tongkat apabila tali di titik B dipotong. 
+Momen inersia tongkat terhadap titik tumpu A adalah 6,7 kgm2.
+1
+2

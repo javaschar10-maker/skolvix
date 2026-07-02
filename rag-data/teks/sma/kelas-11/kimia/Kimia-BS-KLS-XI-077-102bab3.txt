@@ -1,0 +1,1026 @@
+63
+Bab III  Stoikiometri
+Bab
+III
+Stoikiometri
+Setelah mempelajari bab ini, kalian dapat menjelaskan pengertian stoikiometri, 
+menyetarakan persamaan reaksi, menggunakan konsep mol dalam perhi-
+tungan, menentukan rumus molekul dan rumus empiris, menentukan pereaksi 
+pembatas, menghitung persen hasil dari suatu reaksi kimia, serta memahami 
+stokiometri dalam kehidupan sehari-hari. 
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XI
+Penulis 
+: Munasprianto Ramli, dkk.
+ISBN 
+: 978-602-427-923-3 (jil.1)
+64
+Kimia untuk SMA/MA Kelas XI
+Mind Map
+Komikkimia
+Komik Kimia
+65
+Bab III  Stoikiometri
+Apakah kalian suka jajanan tradisional Indonesia? Sebagai anak bangsa 
+tentunya kita harus mencintai produk dalam negeri, termasuk makanan 
+tradisional. Indonesia adalah negara yang sangat kaya dengan ragam makanan 
+tradisional, salah satunya adalah kue pancong. 
+Kue pancong adalah kue tradisional dari Betawi. Berbentuk setengah 
+lingkaran dengan rasa gurih dan manis. Kue ini cocok dijadikan kudapan 
+pagi dan sore hari. Selain di Jakarta, kue pancong juga dapat ditemukan di 
+beberapa daerah lainnya dengan nama yang berbeda. Misalnya di Bandung, 
+kue ini disebut bandros, di Jawa Tengah dan Yogyakarta disebut serabi rangi, 
+dan di Bali kue ini dinamai haluman (Ensiklopedia Indonesia). 
+Kali ini, kalian akan belajar perhitungan kimia menggunakan analogi 
+resep kue tradisional Indonesia, yaitu pancong. Mari perhatikan resep kue 
+pancong berikut ini. 
+Resep Kue Pancong
+Bahan:
+• 300 gram tepung beras
+• 800 ml santan
+• 400 gram kelapa muda 
+parut
+• Garam secukupnya
+• Gula untuk taburan
+Hasil:
+100 buah kue pancong
+Gambar 3.1 Resep kue pancong
+Mari kita coba menuliskan resep di atas dalam bentuk hubungan 
+reaktan dan produk. Dengan mengabaikan garam dan gula maka kita akan 
+mendapatkan persamaan berikut.
+300 g tepung beras + 800 ml santan + 400 g kelapa parut 
+ 100 buah kue 
+pancong
+66
+Kimia untuk SMA/MA Kelas XI
+Persamaan tersebut dapat kita sederhanakan menjadi:
+3 g tepung beras + 8 ml santan + 4 g kelapa parut 
+ 1 buah kue pancong
+Tepung beras, santan, dan kelapa parut dalam stoikiometri yang akan 
+kalian pelajari disebut sebagai reaktan, sedangkan kue pancong sebagai 
+produk. Namun, dalam stoikiometri, kita tidak menulis reaktan dan produk 
+dalam bentuk bahan masakan, melainkan rumus kimia.
+Kita akan menggunakan kembali resep kue pancong ini dalam aplikasi 
+stoikiometri, khususnya pada bagian pereaksi pembatas dan persen hasil. 
+A. Pengertian Stoikiometri 
+Stoikiometri berasal dari bahasa Yunani, stoicheion yang berarti unsur 
+dan metron yang berarti pengukuran, sehingga stoikiometri bisa diartikan 
+pengukuran atau perhitungan matematis dari reaktan dan produk sebuah 
+reaksi kimia. Sederhananya, stoikiometri adalah hubungan kuantitatif antara 
+reaktan dan produk dalam sebuah reaksi kimia. 
+Kalian akan dapat melakukan perhitungan matematika dari sebuah reaksi 
+kimia dengan memahami stoikiometri. Massa, volume, dan jumlah zat yang 
+terlibat dalam reaksi kimia dapat kalian hitung dengan melihat hubungan 
+antara reaktan dan produk dengan menggunakan informasi-informasi yang 
+tersedia. Untuk dapat melakukan perhitungan tersebut, kalian harus terampil 
+dalam menyetarakan persamaan reaksi kimia. Penyetaraan persamaan reaksi 
+kimia sudah kalian pelajari dalam pelajaran Ilmu Pengetahuan Alam kelas X. 
+Untuk mengasah kembali keterampilan kalian dalam menyetarakan persa-
+maan reaksi, coba kerjakan latihan berikut ini.
+Ayo Berlatih
+Setarakan persamaan reaksi berikut ini!
+1. 
+C3H8 + O2 
+ CO2 + H2O
+2. 
+Al + O2 
+ Al2O3
+3. 
+P4O10 + H2O 
+ H3PO4
+4. 
+Fe2(SO4)3 + KOH 
+ K2SO4 + Fe(OH)3
+5. 
+Ca3(PO4)2 + SiO2 
+ P4O10 + CaSiO3
+67
+Bab III  Stoikiometri
+6. 
+Al2(SO4)3 + Ca(OH)2 
+ Al(OH)3 + CaSO4
+7. 
+NH3 + O2 
+ NO + H2O
+8. 
+NH4OH + KAl(SO4)2.12H2O 
+ Al(OH)3 + (NH4)2SO4 + KOH + H2O
+Prinsip penyetaraan persamaan reaksi 
+Prinsip penyetaraan persamaan reaksi adalah jumlah atom yang ada pada sisi 
+kiri (reaktan) harus sama dengan jumlah atom pada sisi kanan (produk). 
+Mari perhatikan reaksi berikut.
+H2 + O2 
+ H2O
+Apakah persamaan reaksi di atas sudah setara? Coba kita cek jumlah atom di 
+sisi reaktan dan produk.
+Atom 
+Jumlah atom di sisi 
+kiri (reaktan) 
+Jumlah atom di sisi 
+kanan (produk) 
+Hidrogen (H)
+2
+2
+Oksigen (O) 
+2
+1
+Jumlah atom H di sisi reaktan sudah sama dengan jumlah atom H di sisi 
+produk, tetapi jumlah atom O di sisi kiri dan kanan berbeda. Dengan demikian, 
+kita katakan reaksi kimia tersebut belum setara. 
+Seperti yang sudah kalian pelajari di kelas X, untuk menyetarakan 
+persamaan reaksi tersebut, kalian perlu menambahkan angka (koeisien) di 
+depan unsur atau senyawa agar jumlah atom-atom di sisi reaktan dan produk 
+sama. Kembali ke persamaan reaksi yang belum setara di atas, jika kita 
+menambahkan koeisien, persamaan reaksinya menjadi:
+2H2 + O2 
+ 2H2O
+Mari kita cek kembali jumlah atom hidrogen dan oksigen di sisi reaktan dan 
+produk.
+Atom 
+Jumlah atom di sisi 
+kiri (reaktan) 
+Jumlah atom di sisi 
+kanan (produk) 
+Hidrogen (H)
+2 × 2 = 4
+2 × 2 = 4
+Oksigen (O) 
+1 × 2 = 2
+2 × 1 = 2
+68
+Kimia untuk SMA/MA Kelas XI
+Setelah kita cek ulang, ternyata jumlah atom hidrogen di sisi kiri sudah sama 
+dengan sisi kanan, begitu juga dengan atom oksigen. Dengan demikian, bisa 
+kita katakan bahwa reaksi tersebut sudah setara.
+B. Konsep Mol 
+Selain terampil dalam menyetarakan reaksi kimia, kalian juga harus paham 
+dengan konsep mol. Hal ini juga sudah kalian pelajari di kelas X. Bagi 
+kalian yang lupa pengertian mol, mol adalah satuan yang digunakan untuk 
+menunjukkan jumlah zat. 
+Kalau kita membeli sepatu biasanya dinyatakan dengan satuan pasang, 
+misal dua pasang sepatu. Kalau kita membeli piring, biasanya digunakan satuan 
+lusin (isi 12 buah). Lebih banyak lagi, kalau kita membeli kertas, digunakan 
+satuan rim (isi 500 lembar). Nah, bagaimana menghitung banyaknya partikel? 
+Satuan apa yang digunakan? Karena partikel ini sangat kecil dan jumlahnya 
+sangatlah banyak maka untuk mempermudah perhitungan jumlah partikel, 
+para ahli menyepakati satuan yang digunakan adalah mol. Berapa banyaknya 
+partikel dalam satu mol?
+Satu mol menunjukkan banyaknya partikel yang terkandung dalam suatu 
+unsur, ion, molekul, atau senyawa yang jumlahnya sama dengan jumlah 
+partikel dalam 12 gram atom C-12, seperti yang sudah kalian pelajari di kelas X. 
+Jumlah partikel dalam satu mol adalah 6,022 × 1023, yang dikenal juga sebagai 
+bilangan Avogadro. 
+Untuk mengingat kembali konsep mol yang sudah kalian pelajari di kelas 
+X, mari lakukan aktivitas berikut ini. 
+Aktivitas 3.1
+Isilah kotak-kotak berikut ini untuk menunjukkan hubungan antara mol 
+dengan massa, volume, dan jumlah partikel!
+A
+C
+E
+B
+D
+F
+69
+Bab III  Stoikiometri
+MOL
+A
+E
+C
+D
+B
+F
+Massa
+Jumlah
+Partikel
+Volume
+(STP)
+ 
+Contoh
+1. 
+Hitunglah massa dari 0,1 mol gas karbon dioksida!
+Diketahui: 0,1 mol karbon dioksida
+Ditanya: massa gas karbon dioksida
+Jawab:
+Massa CO2 = mol × massa molar CO2
+ 
+ 
+= 0,1 mol × 44 g.mol–1
+  
+ 
+= 4,4 g
+2. 
+Hitunglah jumlah mol dari 18 gram air!
+Diketahui: massa air 18 gram
+Ditanya: mol air
+Jawab: 
+Mol air = 
+1
+massa
+18 g
+ = 
+massa molar
+18 g.mol 
+= 1 mol
+3. 
+Berapakah jumlah mol dari 11,2 liter gas hidrogen pada kondisi standard 
+temperature and pressure (suhu 273 K dan tekanan 1 atm)?
+Diketahui: volume hidrogen pada STP 11,2 liter
+Ditanya: mol hidrogen
+70
+Kimia untuk SMA/MA Kelas XI
+Jawab:
+Mol hidrogen = 
+
+
+1
+1
+volume pada STP
+11,2 l
+ = 
+22,4 l.mol
+22,4 l.mol
+ = 0,5 mol
+Ayo Berlatih
+Apakah kalian sudah paham dengan hubungan antara mol dengan jumlah 
+zat, massa, dan volume? Coba kerjakan latihan berikut ini!
+1. 
+Hitunglah jumlah mol dari 28 gram besi!
+2. 
+Berapakah massa dari 1,5 mol gas klorin?
+3. 
+Berapakah jumlah mol dari 10 liter gas hidrogen pada kondisi STP?
+4. 
+Massa dari 5 mol senyawa X adalah 10 gram. Hitunglah massa molar 
+dari senyawa tersebut!
+C. Rumus Molekul dan Rumus Empiris
+Setiap senyawa kimia dinyatakan dengan rumus kimia yang menunjukkan 
+jenis dan jumlah relatif atom-atom yang menyusun senyawa tersebut. Rumus 
+kimia ini dapat dinyatakan dalam bentuk rumus molekul dan rumus empiris. 
+Rumus molekul menunjukkan jumlah sebenarnya dari atom yang menyusun 
+71
+Bab III  Stoikiometri
+molekul senyawa. Misalnya air (H2O), setiap molekul air tersusun oleh 2 atom 
+hidrogen dan 1 atom oksigen. Contoh lainnya adalah gas metana (CH4). Setiap 
+molekul metana disusun oleh 1 atom karbon dan 4 atom hidrogen.
+Rumus empiris menunjukkan perbandingan paling sederhana dari 
+jumlah atom-atom yang menyusun molekul suatu senyawa. Misalnya benzena 
+yang mempunyai rumus molekul C6H6. Perbandingan atom C dan H yang 
+menyusunnya adalah 1 : 1, sehingga rumus empirisnya adalah CH. 
+Aktivitas 3.2
+Berdiskusilah dengan teman sebangku atau kelompokmu untuk mengisi tabel 
+berikut ini.
+Senyawa 
+Massa molar 
+Rumus molekul 
+Rumus empiris
+Hidrogen peroksida
+34 g.mol–1
+….
+HO
+Butana 
+….
+C4H10
+….
+Naftalen 
+….
+C10H8
+….
+Asam asetat
+….
+C2H4O2
+….
+Catatan: untuk mengisi massa molar, kalian bisa lihat dalam tabel periodik 
+unsur pada Bab 1, halaman 16.
+Rumus empiris dapat ditemukan dari data percobaan, sedangkan rumus 
+molekul diketahui dengan menggunakan instrumentasi kimia. Kita dapat 
+menentukan rumus molekul jika mengetahui massa molekul relatif suatu 
+senyawa dan rumus empirisnya. Berikut adalah langkah-langkah dalam 
+menentukan rumus empiris dari suatu senyawa.
+Cara menentukan rumus empiris:
+1. 
+Menghitung massa dari atom-atom penyusun molekul.
+2. 
+Menghitung mol dari masing-masing atom yang menyusun molekul.
+3. 
+Menghitung rasio mol dari atom-atom penyusun molekul.
+4. 
+Menentukan rumus empiris berdasarkan rasio atom-atom penyusunnya.
+72
+Kimia untuk SMA/MA Kelas XI
+Cara menentukan rumus molekul:
+Rumus molekul bisa ditentukan jika kita mengetahui dua hal, yaitu rumus 
+empiris dan massa molekul relatif (Mr). Pada uraian sebelumnya telah dibahas 
+bahwa rumus empiris menunjukkan perbandingan paling sederhana dari 
+atom-atom penyusun suatu molekul. Secara matematis, kita bisa nyatakan 
+dalam bentuk persamaan:
+Rumus molekul = rumus empiris × N 
+dengan 
+massa molekul relatif
+ = massa molekul relatif dari rumus empiris
+N
+Dengan kata lain, N adalah bilangan bulat sederhana yang menunjukkan 
+perbandingan Mr berdasarkan rumus molekul dan Mr berdasarkan rumus 
+empiris.
+Contoh
+1. 
+Tentukan rumus empiris dari senyawa yang disusun oleh 75% karbon dan 
+25% hidrogen!
+Jawab:
+Langkah 1, menentukan massa karbon dan hidrogen.
+Kita asumsikan massa senyawa 100 gram, maka massa karbon dan 
+hidrogen adalah:
+Massa karbon = 75% × 100 g = 75 g
+Massa hidrogen = 25% × 100 g = 25 g 
+Langkah 2, menentukan mol karbon dan hidrogen.
+Mol karbon = 
+1
+massa karbon
+75 g
+ = 
+ karbon
+12 g.mol
+r
+A
+ = 6,25 mol
+Mol hidrogen = 
+1
+massa hidrogen
+25 g
+ = 
+ hidrogen
+1 g.mol
+r
+A
+ = 25 mol
+Langkah 3, menentukan rasio mol karbon dan hidrogen.
+Mol karbon : mol hidrogen = 6,25 mol : 25 mol
+ 
+= 1 : 4
+Dari rasio tersebut maka rumus empirisnya adalah CH4.
+73
+Bab III  Stoikiometri
+2. 
+Suatu senyawa memiliki massa molar 120 g.mol–1. Senyawa tersebut 
+diketahui mengandung 40% atom C, 6,67% atom H, dan 53,33% atom O. 
+Tentukan rumus molekul dari senyawa tersebut!
+Jawab:
+Langkah 1, menentukan rumus empiris dari senyawa.
+Kita dapat menentukan rumus empiris dengan menggunakan tabel seperti 
+di bawah ini. 
+Atom
+Ar (g.mol–1)
+Persen 
+massa (%)
+Massa 
+dalam 100 g
+Mol
+Perbandingan 
+mol
+Karbon
+12
+40
+40
+ 40
+12
+ = 3,33
+1
+Hidrogen
+1
+6,67
+6,67
+ 6,67
+1
+ = 6,67
+2
+Oksigen
+16
+53,33
+53,33
+ 53,33
+16
+ = 3,33
+1
+Jadi, rumus empiris dari senyawa di atas adalah CH2O.
+Langkah 2, menentukan rumus molekul dari rumus empiris dan massa 
+molar.
+Rumus molekul = rumus empiris × N 
+
+
+
+
+
+
+1
+1
+massa molar dari molekul yang akan dicari
+massa molar molekul dari rumus empiris
+120 g.mol
+(12 + 2 + 16) g.mol
+120
+30
+4
+N
+Setiap atom yang menyusun rumus empiris, kita kalikan 4 sehingga rumus 
+molekul senyawa tersebut adalah C4H8O4.
+74
+Kimia untuk SMA/MA Kelas XI
+Ayo Berlatih
+Mari cek pemahaman kalian dengan mengerjakan latihan berikut ini.
+1. 
+Tentukan rumus empiris dari senyawa yang disusun oleh: 
+a. 
+63,6% besi dan 36,4% belerang
+b. 
+53,3% oksigen, 40% karbon, dan 6,7% hidrogen
+2. 
+Polimer adalah senyawa berbentuk rantai molekul panjang dan 
+berulang yang dihubungkan oleh ikatan kovalen melalui proses 
+polimerisasi. Polimer sangat banyak kegunaannya dalam kehidupan, 
+misalnya bahan kaos, panci antilengket, dan pipa PVC. Tentukan 
+rumus empiris dari polimer berikut ini!
+a. 
+Polietilen yang tersusun atas 86% karbon dan 14% hidrogen 
+b. 
+Polistiren yang tersusun dari 92,3% karbon dan 7,7% hidrogen
+3. 
+Untuk diversiikasi produk, sebuah produsen pewarna tekstil 
+mengembangkan zat warna baru. Zat warna ini memiliki komposisi 
+75,95% C, 17,72% N, dan 6,33% H. Tentukan rumus molekul dari zat 
+warna ini jika massa molarnya adalah 480 g.mol–1!
+D. Pereaksi Pembatas
+Suatu reaksi kimia, tidak selalu senyawa-senyawa yang bereaksi akan habis 
+secara bersamaan. Ada kalanya sebuah reaktan habis lebih dahulu, sementara 
+reaktan lainnya masih bersisa. Reaktan yang sudah habis ketika reaktan lain 
+masih bersisa disebut sebagai pereaksi pembatas. Pereaksi pembatas ini 
+akan membatasi jumlah produk yang dihasilkan.
+Mari pahami konsep pereaksi pembatas ini dengan menganalogikan 
+kembali  perhitungan pada resep kue pancong yang ada di awal bab. Penggu-
+naan garam dan gula dalam resep ini juga diabaikan.
+75
+Bab III  Stoikiometri
+500 g tepung beras + 800 ml santan + 400 g kelapa parut 
+ 100 buah kue pancong
+Suatu hari, Dona dan Dono ingin memasak kue pancong dengan resep seperti di atas. 
+Jika seandainya di rumah mereka tersedia 500 gram tepung beras, 1 liter santan, dan 
+600 gram kelapa muda parut, berapakah kue pancong yang bisa mereka buat?
+Gambar 3.2 Jumlah bahan yang tersedia dalam membuat kue pancong
+Ada tiga bahan utama dalam pembuatan kue pancong ini, yaitu tepung 
+beras, santan, dan kelapa parut. Mari kita lihat ketersediaan dan kebutuhan 
+bahan-bahan tersebut. 
+Tepung beras
+Santan
+Kelapa parut 
+Resep
+300 g
+800 ml
+400 g  
+Tersedia
+500 g
+1 liter
+600 g
+Pertama, kita lihat kebutuhan santan dan kelapa parut dari ketersediaan 
+tepung beras.
+Jika semua tepung beras yang tersedia digunakan untuk membuat kue maka 
+santan yang dibutuhkan adalah 500 g
+300 g × 800 ml = 1,33 liter. Sementara santan 
+yang tersedia hanya 1 liter.
+Adapun kelapa parut yang dibutuhkan adalah 500 g
+300 g × 400 g = 666,67 g. 
+Sementara yang tersedia hanya 600 g.
+Dari kedua perhitungan ini, artinya tepung beras tidak mungkin sebagai 
+pereaksi pembatas karena justru tersedia berlebih.
+Kedua, kita lihat kebutuhan tepung beras dan santan dari ketersediaan kelapa 
+parut.
+76
+Kimia untuk SMA/MA Kelas XI
+Jika semua kelapa parut yang tersedia digunakan untuk membuat kue maka 
+tepung beras yang dibutuhkan adalah 600 g
+400 g × 300 g = 450 g. Tepung beras yang 
+tersedia lebih dari yang dibutuhkan, sehingga tepung beras tidak mungkin 
+menjadi pereaksi pembatas. 
+Adapun santan yang dibutuhkan adalah 600 g
+400 g × 800 ml = 1,2 liter. Sementara 
+santan yang tersedia hanya 1 liter.
+Jadi, santan akan habis lebih dahulu dibandingkan dengan kelapa parut dan 
+tepung beras, sehingga dapat dikatakan santan adalah pereaksi pembatas. 
+Untuk pembuktian, mari perhatikan hitungan di bawah ini.
+Ketiga, kita lihat kebutuhan tepung beras dan kelapa parut dari ketersediaan 
+santan.
+Jika santan yang tersedia 1 liter maka tepung beras yang dibutuhkan adalah 
+1.000 g
+800 g × 300 g = 375 g.
+Tepung beras yang tersedia adalah 500 gram, lebih banyak dari yang 
+dibutuhkan, sehingga ketika santan habis, tepung beras masih bersisa. 
+Adapun kelapa parut yang dibutuhkan adalah 1.000 g
+800 g × 400 g = 500 g.
+Kelapa parut yang tersedia adalah 600g, juga lebih banyak dari yang 
+dibutuhkan, sehingga ketika santan habis, kelapa parut juga masih bersisa. 
+Artinya, di sini santan berperan sebagai pereaksi pembatas karena santan 
+habis lebih dahulu, sementara tepung beras dan kelapa parut masih bersisa.
+Coba kalian perhatikan perbandingan ketersediaan bahan dengan 
+kebutuhan resep berdasarkan bahan-bahan yang dimiliki oleh Dono dan Dona 
+pada tabel berikut ini. 
+Reaktan
+Perbandingan ketersediaan dan kebutuhan resep
+Tepung beras
+500
+300 
+= 1,67
+Kelapa parut
+600
+400 
+= 1,5
+Santan
+1.000
+800 
+= 1,25
+77
+Bab III  Stoikiometri
+Dari tabel tersebut tampak bahwa pereaksi pembatas adalah reaktan yang 
+memiliki nilai perbandingan ketersediaan dan kebutuhan resep yang terkecil. 
+Bagaimana dengan reaksi kimia yang sesungguhnya? Coba simak contoh 
+perhitungan berikut ini.
+Sebanyak 5,4 gram aluminium direaksikan dengan 7,1 gram gas klorin 
+menurut reaksi:
+2Al(s) + 3Cl2(g) 
+ 2AlCl3(s)
+Zat manakah yang berperan sebagai pereaksi pembatas?
+Pertama, mari kita hitung mol dari Al dan Cl2 yang tersedia.
+Mol Al = 
+1
+massa Al
+5,4 g
+ = 
+massa molar Al
+27 g.mol
+ = 0,2 mol 
+Mol Cl2 = 
+
+2
+1
+2
+massa Cl
+7,1 g
+ = 
+massa molar Cl
+71 g.mol
+ = 0,1 mol 
+Kedua, mari kita lihat kebutuhan Al dari ketersediaan Cl2.
+Cl2 yang tersedia adalah 0,1 mol. Jika semua Cl2 yang tersedia digunakan untuk 
+bereaksi, maka Al yang diperlukan adalah 2
+3 × 0,1 mol = 0,067 mol. Artinya, Al 
+yang tersedia melebihi dari yang dibutuhkan sehingga Al akan bersisa. Zat 
+yang bersisa tidak mungkin berperan sebagai pereaksi pembatas. Zat yang 
+habis bereaksilah yang berperan sebagai pereaksi pembatas, sehingga pada 
+reaksi di atas, pereaksi pembatasnya adalah gas klorin. 
+Mari kita lihat perbandingan ketersediaan Al dan Cl2 terhadap koeisien reaksi. 
+Reaktan
+Perbandingan ketersediaan dan koeisien reaksi
+Aluminium
+0,2
+2 
+= 0,1
+Gas klorin
+0,1
+3 
+= 0,033
+Apa yang dapat kalian simpulkan?
+Dari tabel terlihat bahwa perbandingan mol gas klorin terhadap koei-
+siennya lebih kecil dari perbandingan mol aluminium terhadap koeisiennya. 
+Dengan demikian, untuk menentukan zat atau senyawa yang berfungsi sebagai 
+pereaksi pembatas, bisa kita hitung dari nilai perbandingan mol terhadap 
+koeisiennya. 
+78
+Kimia untuk SMA/MA Kelas XI
+Contoh
+Gas manakah yang berperan sebagai pereaksi pembatas jika 8 gram gas 
+metana direaksikan dengan 16 gram gas oksigen menurut reaksi berikut?
+CH4 + O2 
+ CO2 + H2O
+Jawab:
+Langkah 1, menyetarakan reaksi.
+Reaksi di atas belum setara karena jumlah atom-atom di sisi reaktan dan sisi 
+produk belum sama. Oleh karena itu, kita harus setarakan reaksi, yaitu: 
+CH4 + 2O2 
+ CO2 + 2H2O
+Langkah 2, menghitung perbandingan mol terhadap koeisien.
+Gas
+Massa
+Mol = massa
+r
+M
+Koeisien
+mol
+koefisien
+CH4
+8 g
+1
+8 g
+16 g.mol 
+= 0,5 mol
+1
+ 0,5
+1 = 0,5
+O2
+12 g
+1
+16 g
+32 g.mol 
+= 0,5 mol
+2
+ 0,5
+2 = 0,25
+Dari tabel di atas terlihat bahwa perbandingan mol terhadap koeisien gas 
+oksigen lebih kecil dari gas metana, sehingga kita bisa simpulkan bahwa gas 
+oksigen berperan sebagai pereaksi pembatas.
+Dalam industri kimia, 
+konsep pereaksi pembatas 
+diperlukan untuk mendapat­
+kan hasil optimal dengan 
+biaya yang minimal. 
+Produsen akan memilih 
+bahan kimia yang paling 
+mahal untuk berperan 
+sebagai pereaksi pembatas 
+dan bahan yang lebih murah 
+sebagai bahan yang bersisa. 
+Hal ini untuk memastikan 
+bahwa semua bahan yang 
+mahal tersebut habis dalam 
+reaksi.
+79
+Bab III  Stoikiometri
+Ayo Berlatih
+Mari cek pemahaman kalian tentang pereaksi pembatas dengan menger-
+jakan latihan berikut ini.
+1. 
+Sebanyak 10,8 gram logam aluminium direaksikan dengan 49 gram 
+asam sulfat menurut reaksi di bawah ini.
+Al(s) + H2SO4(aq) 
+ Al2(SO4)3(aq) + H2(g)
+a. 
+Tentukan pereaksi pembatasnya.
+b. 
+Hitunglah mol reaktan yang bersisa.
+c. 
+Hitunglah volume gas H2 yang dihasilkan pada keadaan STP.
+2. 
+Natrium hidroksida bereaksi dengan asam fosfat membentuk natrium 
+fosfat dan air menurut reaksi berikut ini.
+NaOH(aq) + H3PO4(aq) 
+ Na3PO4(aq) + H2O(l)
+Diketahui sebanyak 80 gram natrium hidroksida beraksi dengan 98 
+gram asam fosfat. 
+a. 
+Tentukan senyawa yang berperan sebagai pereaksi pembatas.
+b. 
+Hitunglah massa natrium fosfat yang terbentuk.
+E. Persen Hasil 
+Kalian mungkin sering mendengar “kesempurnaan hanya milik Tuhan”, 
+begitu juga reaksi kimia. Sangat jarang sekali reaksi kimia menghasilkan 
+produk 100% dan murni. Dalam praktiknya, banyak sekali reaksi kimia 
+yang menghasilkan produk yang tidak sesuai jumlahnya dengan perkiraan 
+berdasarkan persamaan reaksi. 
+Ada banyak aspek yang menyebabkan produk yang diperoleh tidak sesuai 
+jumlahnya dengan perhitungan secara matematis, di antaranya: 
+1. 
+Reaksi yang terjadi belum sepenuhnya selesai
+2. 
+Kesalahan saat penimbangan dan pengukuran reaktan
+3. 
+Kesalahan saat memindahkan reaktan
+4. 
+Bahan kimia yang digunakan tidak murni
+5. 
+Terbentuknya produk samping 
+6. 
+Adanya pengotor yang menempel pada produk
+80
+Kimia untuk SMA/MA Kelas XI
+Coba kalian perhatikan ilustrasi di atas. Setelah selesai memasak kue 
+pancong dengan mengikuti takaran resepnya, ternyata Dono dan Dona hanya 
+mendapatkan produk sebanyak 96 buah, padahal menurut resep mestinya 
+mereka mendapatkan 100 buah. Dalam reaksi kimia, hasil yang diperoleh 
+oleh Dono dan Dona ini disebut sebagai hasil aktual, sedangkan hasil yang 
+diprediksi berdasarkan resep disebut hasil teoretis. Dengan membandingkan 
+hasil aktual terhadap hasil teoretis, diperoleh persen hasil sebesar 96%.
+Persen hasil = hasil aktual
+hasil teoretis
+ × 100%
+Contoh
+Seng dan belerang bereaksi membentuk seng sulida menurut reaksi:
+Zn + S 
+ ZnS
+Jika sebanyak 1 mol seng bereaksi dengan 1 mol sulfur dan di akhir reaksi seng 
+sulida yang diperoleh adalah 90 gram, hitunglah persen hasil dari reaksi ini!
+Jawab:
+Langkah 1, mengecek kesetaraan reaksi.
+Koeisien reaksi adalah satu dan jumlah atom pada sisi reaktan dan sisi produk 
+sudah sama, maka reaksi sudah setara.  
+81
+Bab III  Stoikiometri
+Langkah 2, menghitung hasil teoretis.
+Reaksi 1 mol seng dan 1 mol sulfur akan menghasilan 1 mol seng sulida. Maka, 
+kita dapat menghitung massa teoretis seng sulida sebagai berikut.
+Massa ZnS = mol × massa molar
+ 
+ 
+= 1 mol × 97 g.mol–1
+ 
+ 
+= 97 g
+Jadi, hasil teoretis yang seharusnya diperoleh adalah 97 gram.
+Langkah 3, menghitung persen hasil.
+Persen hasil diperoleh dengan membandingkan hasil aktual terhadap hasil 
+teoretis. Hasil aktual sesuai soal adalah 92 gram, sedangkan berdasarkan 
+perhitungan hasil teoretisnya 97 gram, sehingga persen hasilnya adalah:
+
+
+
+
+
+hasil aktual
+Persen hasil
+100%
+hasil teoretis
+92 g
+100%
+97 g
+95%
+F. Persen Kemurnian 
+Seperti yang sudah disampaikan, salah satu penyebab tidak sesuainya jumlah 
+produk reaksi kimia dengan perhitungan teoretis adalah ketidakmurnian 
+bahan kimia yang tersedia. Jika kemurnian suatu bahan rendah maka persen 
+hasil yang didapatkan juga rendah. Kadar kemurnian bahan kimia dinyatakan 
+dengan persen kemurnian. 
+Persen kemurnian = massa senyawa dalam sampel tidak murni
+massa sampel
+ × 100%
+Contoh
+ 
+Sebanyak 6,4 gram sampel tembaga yang tidak murni dipanaskan dalam 
+burner dan bereaksi dengan oksigen menghasilkan tembaga (II) oksida yang 
+berwarna hitam menurut reaksi di bawah ini.
+2Cu(s) + O2(g) 
+ 2CuO(s)
+82
+Kimia untuk SMA/MA Kelas XI
+Jika di akhir reaksi diperoleh 6,8 gram tembaga oksida, hitunglah persen 
+kemurnian dari tembaga!
+Jawab:
+Diketahui: massa sampel tembaga = 6,4 gram dan massa CuO = 6,8 gram
+Mari kita hitung massa Cu dengan melihat hubungan stoikiometri dari reaksi 
+kimianya. 
+Langkah 1, menghitung mol Cu dengan menggunakan stoikiometri.
+Reaksi kimia yang terjadi adalah: 
+ 
+ 
+2Cu(s) + O2(g) 
+ 2CuO(s)
+Perbandingan koeisien:      2       :     1        :         2
+Dari perbandingan koeisien tersebut dapat kita ketahui bahwa mol CuO yang 
+dihasilkan sama dengan jumlah mol Cu yang bereaksi, sehingga kita bisa 
+menghitung mol Cu dari mol CuO sebagai berikut.
+
+
+
+
+1
+massa CuO
+Mol CuO
+massa molar CuO
+6,8 g
+79,5 g.mol
+0,085 mol
+Mol Cu = mol CuO = 0,085 mol
+Langkah 2, menghitung massa Cu.
+Massa Cu = mol Cu × massa molar Cu
+ 
+ 
+= 0,085 mol × 63,5 g.mol–1
+ 
+ 
+= 5,34 g
+Langkah 3, menghitung persen kemurnian Cu.
+
+
+
+
+
+massa Cu
+% kemurnian Cu
+100%
+massa sampel
+5,34 g
+100%
+6,4 g
+83%
+ 
+83
+Bab III  Stoikiometri
+Ayo Berlatih
+1. 
+Seorang siswa melakukan reaksi pengendapan. Secara teori, siswa 
+tersebut seharusnya mendapatkan 19,5 gram endapan, tetapi selesai 
+praktikum siswa tersebut hanya mendapatkan 18,5 gram. Hitunglah 
+persen hasil berdasarkan percobaan yang dilakukan siswa tersebut!
+2. 
+Dono dan Dona mendapat tugas untuk melakukan percobaan reaksi 
+pengendapan. Berdasarkan panduan yang diperoleh, mereka harus 
+mereaksikan 10 gram barium nitrat yang dilarutkan dengan larutan 
+natrium sulfat berlebih. Reaksi yang terjadi adalah: 
+Ba(NO3)2(aq) + Na2SO4(aq) 
+ BaSO4(s) +2NaNO3(aq)
+Jika di akhir percobaan, Dono dan Dona mendapatkan 7,5 gram barium 
+sulfat, hitung persen hasil dari percobaan yang mereka lakukan!
+Pengayaan
+Kompor Gas dan Pemanasan Global 
+Pernahkah kalian mendengar tentang rumah kaca? Rumah kaca adalah 
+bangunan yang terbuat dari kaca, baik bagian dinding maupun atapnya, agar 
+dapat memerangkap sinar matahari. Sinar matahari yang terperangkap akan 
+membuat bangunan ini tetap hangat. Hal ini tentunya akan sangat bermanfaat 
+bagi para petani yang tinggal di negara dengan empat musim. Di samping itu, 
+para peneliti juga memanfaatkan rumah kaca untuk budidaya tanaman yang 
+dimanfaatkan bagi penelitian. 
+Bagaimana dengan efek rumah kaca? Efek rumah kaca pada prinsipnya 
+menjelaskan fenomena yang sama dengan rumah kaca. Cahaya matahari yang 
+sampai ke atmosfer bumi, terperangkap di dalam atmosfer akibat adanya 
+lapisan gas yang terbentuk dari aktivitas manusia. Hal ini menyebabkan 
+suhu bumi meningkat setiap tahunnya, atau disebut juga dengan pemanasan 
+global. Gas-gas yang membuat energi dari sinar matahari ini terperangkap di 
+atmosfer bumi dan berkontribusi terhadap pemanasan global disebut dengan 
+gas rumah kaca, salah satunya karbon dioksida. 
+84
+Kimia untuk SMA/MA Kelas XI
+Jumlah emisi karbon dioksida di atmosfer bumi tentu tidak terlepas dari 
+aktivitas rumah tangga. Di Indonesia misalnya, sebagian besar warga meng-
+guna kan elpiji (liqueied petroleum gas, LPG) untuk memasak. Kalau setiap 
+rumah menggunakan elpiji, bisa dibayangkan berapa banyak emisi gas karbon 
+dioksida yang dilepaskan ke udara dan menjadi petaka karena menyebabkan 
+pemanasan global. 
+Studi Kasus
+Di Desa Sukamulia terdapat 2.500 rumah. Setiap rumah mengonsumsi 3 kg 
+gas elpiji setiap minggunya. Jika gas elpiji ini terdiri atas 50% gas propana 
+dan 50% gas butana, hitunglah berapa banyak emisi karbon dioksida yang 
+dihasilkan dari aktivitas dapur warga Desa Sukamulia dengan asumsi 
+pembakaran berlangsung sempurna. 
+Reaksi yang terjadi:
+Pembakaran propana: C3H8(g) + 5O2(g) 
+ 3CO2(g) + 4H2O(l)
+Pembakaran butana: 2C4H10(g) + 13O2(g) 
+ 8CO2(g) + 10H2O(l)
+85
+Bab III  Stoikiometri
+Inti Sari
+Stoikiometri adalah hubungan kuantitatif antara reaktan dan produk 
+dalam sebuah reaksi kimia. Sebelum melakukan perhitungan stoikiometri, 
+harus dipastikan reaksi kimia sudah setara. Dalam perhitungan stoikio-
+metri, membutuhkan pemahaman tentang konsep mol. Massa, volume, 
+dan jumlah partikel dapat ditentukan melalui konsep mol. 
+Dengan mempelajari stoikiometri, kalian juga dapat menentukan 
+rumus molekul dan rumus empiris. Rumus molekul adalah jumlah 
+sebenarnya dari atom-atom yang menyusun molekul senyawa, sedangkan 
+rumus empiris adalah perbandingan paling sederhana dari jumlah atom-
+atom yang  menyusun molekul suatu senyawa. 
+Stoikiometri juga sangat erat kaitannya dengan dunia industri. Dalam 
+praktiknya, pelaku industri akan menjadikan bahan kimia yang mahal 
+sebagai pereaksi pembatas. Pereaksi pembatas adalah reaktan yang habis 
+terlebih dahulu ketika reaktan lain masih bersisa sehingga membatasi 
+jumlah produk yang dihasilkan. 
+Pelaku industri juga menghitung persen hasil untuk mengetahui 
+optimalisasi dari produksi yang mereka lakukan. Persen hasil adalah 
+persentase produk yang diperoleh dengan membandingkan hasil 
+aktual terhadap hasil teoretis. Mereka juga mempertimbangkan persen 
+kemurnian dari bahan baku yang dipergunakan untuk kegiatan produksi. 
+Persen kemurnian adalah persentase yang menunjukkan perbandingan 
+antara massa sesungguhnya dari unsur atau senyawa terhadap massa 
+sampel. 
+86
+Kimia untuk SMA/MA Kelas XI
+Ayo Releksi
+Setelah mempelajari materi Stoikiometri, silakan kalian mereleksi diri. 
+Berilah ceklis (√) pada kolom Ya/Tidak untuk pernyataan di bawah ini.
+No.
+Pernyataan
+Tanggapan
+Ya
+Tidak
+1.
+Saya dapat memahami pengertian stoikiometri.
+2.
+Saya dapat menyetarakan persamaan reaksi.
+3.
+Saya dapat menggunakan konsep mol dalam perhitungan 
+dengan mengubah mol menjadi massa, volume, dan 
+jumlah partikel atau sebaliknya.
+4.
+Saya dapat menentukan rumus empiris dan rumus 
+molekul berdasarkan data yang disediakan.
+5.
+Saya dapat menentukan pereaksi pembatas.
+6.
+Saya dapat menghitung persen hasil dari sebuah reaksi 
+kimia.
+Menurut kalian, materi manakah yang sulit untuk dipahami dalam bab 
+Stoikiometri? Jelaskan alasannya!
+Ayo Cek Pemahaman
+Pilihlah jawaban yang paling tepat!
+1. 
+Diketahui reaksi:
+aH2SO4(aq) + bKOH(aq) 
+ cK2SO4(aq) + dH2O(l)
+Nilai a : d adalah ….
+a. 
+1 : 2 
+b. 
+1 : 1
+c. 
+2 : 1
+d. 
+1 : 4
+e. 
+4 : 1
+87
+Bab III  Stoikiometri
+2. 
+Jumlah molekul dari 3,2 gram SO2 adalah ….
+a. 
+6,022 × 1020 molekul
+b. 
+3,011 × 1021 molekul
+c. 
+1,005 × 1022 molekul
+d. 
+3,011 × 1022 molekul
+e. 
+6,022 × 1023 molekul
+3. 
+Reaksi di bawah ini yang belum setara adalah ….
+a. 
+Ba3N2 + 6H2O 
+ 3Ba(OH)2 + 2NH3
+b. 
+3CaCl2 + 2Na3PO4 
+ Ca3(PO4)2 + 6NaCl
+c. 
+4FeS + 7O2 
+ 2Fe2O3 + 4SO2
+d. 
+PCl5 + 4H2O 
+ H3PO4 + 5HCl
+e. 
+2As + 3NaOH 
+ 2Na3AsO3 + 3H2
+4. 
+Sebanyak 10 gram glukosa mengalami reaksi pembakaran menurut reaksi 
+berikut.
+C6H12O(s) + 6O2(g) 
+ 6CO2(g) + 6H2O(l)
+Massa dari karbon dioksida yang dihasilkan adalah ….
+a. 
+5 gram
+b. 
+10 gram
+c. 
+15 gram
+d. 
+20 gram
+e. 
+25 gram 
+5. 
+Rumus empiris dari senyawa yang terdiri atas 45,1% nitrogen, 38,8% 
+karbon, dan 16,1% hidrogen adalah ….
+a. 
+CH3N
+b. 
+CH4N
+c. 
+CH5N
+d. 
+CH2N2
+e. 
+C2H4N
+Jawablah pertanyaan di bawah ini dengan tepat!
+1. 
+Sebanyak 3,2 gram metana dibakar dengan 8 gram gas oksigen menurut 
+reaksi:
+CH4(g) + O2(g) 
+ CO2(g) + H2O(g)
+Hitunglah massa dari gas karbon dioksida yang dihasilkan!
+88
+Kimia untuk SMA/MA Kelas XI
+2. 
+Poliakrilonitril atau disebut juga dengan orlon adalah polimer adisi 
+berupa serat sintetis yang sangat kuat. Orlon banyak dimanfaatkan 
+sebagai karpet dan bahan pakaian. Tentukan rumus empiris dari orlon 
+jika kandungannya adalah 67,9% C, 26,4% N, dan 5,70% H!
+3. 
+Sebelum pergi ke pantai atau bepergian pada hari yang terik, di antara 
+kalian biasanya mengoleskan tabir surya ke wajah dan badan. Salah satu 
+senyawa yang terdapat dalam tabir surya adalah asam para-aminobenzoat. 
+Asam para-aminobenzoat ini mampu melindungi kulit dari radiasi sinar 
+ultraviolet. Jika asam para-aminobenzoat ini tersusun atas 61,31% karbon, 
+23,34% oksigen, 10,21% nitrogen, dan 5,14% hidrogen, tentukanlah rumus 
+empirisnya!

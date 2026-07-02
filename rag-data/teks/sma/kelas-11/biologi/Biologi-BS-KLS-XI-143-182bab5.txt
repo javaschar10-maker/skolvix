@@ -1,0 +1,1306 @@
+Bab 5
+Sumber gambar: Zamzam Nursani (2022)
+Pernahkah Kalian memerhatikan bagaimana perubahan kondisi tubuh saat sakit? 
+Bagaimana sistem pertahanan dapat mengenali, merespon dan mengatasi berbagai 
+ancaman terhadap kesehatan tubuh manusia?
+Sistem Pertahanan Tubuh 
+terhadap Penyakit
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Biologi untuk SMA/MA Kelas XI
+Penulis: Rini Solihat, dkk. 
+ISBN: 978-602-427-893-9
+Biologi untuk SMA/MA Kelas XI
+128
+Tujuan Pembelajaran
+Setelah mempelajari Bab ini, Kalian diharapkan mampu: 
+1.	 Menganalisis keterkaitan peran antarkomponen penyusun 
+sistem pertahanan tubuh pada manusia.
+2.	 Menyelidiki gangguan sistem pertahanan tubuh dalam 
+kaitannya dengan terjadinya sejumlah penyakit
+Kata Kunci
+•	 Antibodi
+•	 Antigen
+•	 Imunitas aktif 
+•	 Imunitas pasif
+•	 Infeksi
+•	 Patogen
+•	 Sel darah putih
+•	 Sistem imun
+•	 Vaksinasi
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+129
+Peta Konsep
+Sistem Pertahanan Tubuh
+Sistem Pertahanan 
+Eksternal 
+Sistem Pertahanan 
+Internal 
+mencegah 
+masuknya 
+patogen
+bertujuan
+berupa
+dan lain-lain.
+meliputi
+bertujuan
+terdiri dari
+mengatasi infeksi 
+patogen
+didukung oleh
+Sel darah 
+putih
+fagosit
+berupa
+melakukan
+''memakan 
+patogen''
+membentuk 
+antibodi 
+(imunitas 
+humoral)
+membentuk 
+reseptor sel 
+(imunitas 
+seluler)
+fagositosis
+limfosit
+membentuk
+Imunitas
+meliputi
+lapisan jaringan 
+epitel
+asam lambung
+lisozim
+lendir/mukus
+Contoh: 
+imunitas pasca 
+infeksi
+imunitas 
+aktif alami
+Contoh: ASI
+imunitas  
+pasif alami
+Contoh:  
+donor plasma
+imunitas 
+pasif buatan
+Contoh: vaksin
+imunitas 
+aktif buatan
+1
+2
+3
+4
+terdiri dari
+limfosit B
+1
+neotrofil
+1
+makrofag
+2
+limfosit T
+2
+Biologi untuk SMA/MA Kelas XI
+130
+Apakah Kalian mengerti apa itu vaksin? Di masa pandemi Covid-19, 
+tentunya Kalian sering  mendengar tentang vaksin. Vaksinasi, baik 
+publik maupun swasta, dilakukan di mana-mana. Sudahkah Kalian 
+menerima dosis vaksin Covid-19? Bagaimana dengan keluargamu 
+atau orang-orang di sekitar Kalian, apakah mereka sudah divaksinasi? 
+Vaksin diperlukan untuk melindungi tubuh manusia dari infeksi 
+mikroorganisme, terutama infeksi virus. Tidak hanya vaksin Covid-19, 
+ada banyak jenis vaksin untuk mengobati infeksi berbagai jenis virus. 
+Dapatkah Kalian menyebutkan beberapa di antaranya?
+Berbagai jenis penyakit telah telah berhasil diteliti dan diungkap 
+bagaimana penyebab, gejala bahkan cara mengobatinya. Ada penyakit 
+yang bersifat menular maupun yang tidak menular. Banyak penyakit 
+menular diantarannya disebabkan oleh infeksi mikroorganisme 
+baik virus, bakteri dan lainnya. Dampak penyakit infektif ini sangat 
+dipengaruhi oleh cara hidup mikroorganisme penyebabnya dan respon 
+tubuh manusia terhadap infeksi mikroorganisme tersebut.
+Pada pembelajaran Biologi di kelas X, Kalian juga telah mengenal 
+ragam jenis dan cara hidup mikroorganisme dari berbagai kingdom, 
+dari yang hidup bebas hingga yang menggantungkan hidup pada 
+organisme lain (bersifat parasit). Mereka dapat ditemukan dalam 
+berbagai kondisi lingkungan, dari yang menempel pada permukaan 
+benda, terbawa oleh makanan, hingga yang tersebar di udara.
+Berbagai faktor baik yang berasal dari dalam maupun luar tubuh 
+dapat menyebabkan tubuh manusia berada dalam kondisi kesehatan 
+yang tidak optimal atau yang lebih kita kenal sebagai kondisi sakit. 
+Infeksi mikroorganisme, paparan zat berbahaya, maupun perubahan 
+kondisi seluler dapat terjadi dan memicu terjadinya penyakit. Untuk 
+mengantisipasi dan mengatasi terjadinya penyakit ini, tubuh manusia 
+dibekali sistem pertahanan yang dikenal dengan sistem imun tubuh. 
+Sebelum belajar lebih lanjut tentang sistem pertahahan tubuh terhadap 
+penyakit, lakukanlah Aktivitas 5.1 berikut. 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+131
+Ayo Berpikir Kritis
+ 
+Aktivitas 5.1
+Untuk memastikan pemahaman Kalian dalam membedakan 
+penyakit infeksi dan penyakit noninfeksi serta risikonya, pelajari 
+infografis dari Litbang Kompas berikut!
+sumber: Litbang ‘Kompas’/BIP, dari Badan Penelitian dan Pengembangan  
+Kesehatan (Balitbangkes) Kementerian Kesehatan
+Berdasarkan informasi di atas, tentukan kategori fakta atau opini 
+dari pernyataan berikut! Berilah tanda centang (√) pada kolom 
+jawaban berikut!
+No.
+Pernyataan
+Fakta
+Opini
+1.
+Laki-laki lebih berisiko terserang Tuberkulosis 
+dibandingkan perempuan.
+2.
+Pneumonia lebih banyak menimbulkan kematian 
+pada perempuan dibandingkan pada laki-laki.
+3.
+Lima penyebab kematian tertinggi di Indonesia 
+dapat dihindari dengan pola hidup sehat.
+4.
+Minimnya jenis penyakit infeksi pada daftar 
+penyebab kematian di Indonesia menunjukkan 
+risiko penularan yang rendah.
+5.
+Stroke adalah penyakit noninfeksi yang paling 
+mematikan di Indonesia.
+Biologi untuk SMA/MA Kelas XI
+132
+Cek sejauh mana penguasaan Kalian terhadap materi aktivitas 
+ini pada appendix buku atau lampiran buku. Jika masih terdapat 
+jawaban yang salah, Kalian perlu mempelajari kembali buku teks 
+SMP dan SMA Kelas X tentang jenis penyakit infeksi!
+A.	Sistem Pertahanan Eksternal dan Internal
+Tubuh manusia memiliki berbagai mekanisme pertahanan diri 
+dalam mengatasi potensi penyakit termausk infeksi mikroorganisme. 
+Mikroorganisme yang dapat menimbulkan penyakit dikenal sebagai 
+patogen. Mekanisme pertahanan tubuh tersebut ada yang ditujukan 
+untuk mencegah masuknya patogen ke dalam jaringan tubuh, 
+disebut sebagai pertahanan eksternal. Selain itu, ada juga mekanisme 
+pertahanan yang ditujukan untuk mengatasi infeksi patogen yang 
+sudah terlanjur masuk ke dalam jaringan tubuh, yang disebut sebagai 
+pertahanan internal. Pertahanan eksternal dan internal tubuh ini 
+dapat bersifat bawaan (innate) dan selalu bersiap siaga mengantisipasi 
+munculnya potensi penyakit, bahkan walau tidak terjadi infeksi. Disisi 
+lain, juga terdapat mekanisme pertahanan internal yang bersifat 
+adaptif, yang secara spesifik hanya aktif ketika terjadi infeksi saja.
+1.	 Pertahanan Eksternal Nonspesifik
+Pertahanan eksternal mencegah patogen masuk ke dalam jaringan 
+tubuh sehingga dapat mengurangi risiko terjadinya gangguan 
+kesehatan lebih jauh. Walau tidak dapat mencegah paparan patogen 
+secara total, namun adanya pertahanan eksternal sangat penting bagi 
+tubuh manusia. Bentuk pertahanan ini dapat berupa pertahanan fisik, 
+kimiawi, dan pertahanan di tingkat sel.
+a.	 Pertahanan fisik
+Adanya lapisan pelindung permukaan tubuh yang membatasi dengan 
+lingkungan luar. Jaringan epitel yang melapisi saluran pernapasan, 
+pencernaan dan organ lainnya  adalah penghalang fisik yang efektif 
+untuk mencegah atau meminimalisasi masuknya patogen.
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+133
+b.	 Pertahanan kimiawi
+Pertahanan kimia berupa sekresi  sejumlah senyawa kimia oleh 
+kelenjar tubuh untuk meminimalisir jumlah patogen yang masuk ke 
+dalam tubuh. Sebut saja sekresi Hidrogen Klorida di lambung untuk 
+mengatasi patogen terbawa bersama makanan; sekresi lendir di 
+saluran pernapasan untuk menangkap debu dan patogen; serta sekresi 
+lisozim (enzim perusak dinding sel bakteri) pada komposisi air mata, 
+air liur, dan keringat.
+c.	 Pertahanan di tingkat sel
+Peran sejumlah sel khusus dalam menurunkan risiko pemaparan 
+patogen seperti dalam mekanisme penutupan luka oleh trombosit 
+(keping darah). Mekanisme ini dapat mencegah masuknya patogen 
+melalui jaringan yang terbuka pada area luka.
+Untuk memahami lebih dalam peran sistem pertahanan eksternal 
+nonspesifik khususnya pada kulit, ayo lakukanlah Aktivitas 5.2 berikut!
+Ayo Bereksplorasi
+ 
+Aktivitas 5.2
+Kulit, Benteng Pertahanan Tubuh
+Untuk melindungi tubuh dari mikroorganisme, kulit adalah organ 
+pelindung eksternal yang andal. Dengan sifat strukturalnya, kulit 
+dapat melakukan fungsi pelindungnya.
+Dalam Aktivitas 5.2 ini, Kalian akan kembali melakukan observasi 
+pada anatomi kulit. Gunakan kaca pembesar (lup) untuk 
+memudahkan observasimu. Tentukan struktur manakah pada 
+kulit yang mendukung fungsi protektifnya! Tuliskan pula ciri dan 
+fungsi struktur tersebut  seperti contoh tabel di bawah ini!   
+Tabel 5.1 Hasil Pengamatan Ciri dan Fungsi Struktur Kulit
+No.
+Struktur
+Ciri Teramati
+Fungsi
+1.
+Pori-pori
+Lubang kecil di 
+sekitar rambut
+Pengeluaran keringat yang 
+mengandung lisozim
+2.
+dst…
+Biologi untuk SMA/MA Kelas XI
+134
+Kemukakan jawaban Kalian di depan kelas dalam diskusi singkat 
+yang dibimbing oleh guru! Jangan lupa untuk selalu menghormati 
+dan menghargai perbedaan pendapat yang dapat saja terjadi 
+dalam diskusi!
+Pertahanan eksternal adalah mekanisme pertahanan umum yang 
+tidak secara khusus membedakan jenis patogen. Dengan kata lain, 
+pertahanan ini tidak spesifik. Kurangnya pengenalan patogen berarti 
+bahwa efektivitas pertahanan eksternal  terbatas. Misalnya, efek HCl 
+lambung akan sama untuk semua patogen yang terbawa bersama 
+makanan. Meskipun kondisi asam umumnya dapat menghambat atau 
+bahkan menghentikan aktivitas sel, namun jika ada patogen yang dapat 
+beradaptasi dengan kondisi asam, HCl tentu tidak akan efektif dalam 
+menghentikan patogen tersebut. Oleh karena itu, tubuh memerlukan 
+mekanisme pertahanan lanjutan yang dapat mengantisipasi masuknya 
+patogen ke dalam jaringan tubuh dan mencegah dampak buruk 
+selanjutnya.
+2.	 Pertahanan Internal Spesifik (Antigen-Antibodi)
+Sistem pertahanan internal spesifik ditandai dengan pengenalan 
+terhadap patogen spesifik oleh sejumlah tipe sel darah putih (leukosit). 
+Tipe leukosit tertentu akan membedakan mana komponen yang 
+“aman” untuk tubuh, serta mana komponen “asing” yang berpotensi 
+membahayakan tubuh hingga perlu dihancurkan.
+Leukosit akan mengenali partikel khas dari patogen yang disebut 
+antigen. Antigen dapat berupa protein, glikoprotein, lipid, polisakarida, 
+dan berbagai zat yang dihasilkan oleh patogen tersebut. Antigen 
+ditemukan sebagai bagian struktur sel patogen maupun partikel 
+yang terpisah dari selnya. Saat suatu antigen terdeteksi atau bahkan 
+dikenali keberadaanya di dalam jaringan tubuh, maka tubuh akan 
+menciptakan respon imun. Respon imun yang bersifat bawaan (innate) 
+akan berlaku umum untuk semua tipe antigen, misal respon demam 
+dan peradangan. Beragam jenis infeksi virus dapat memicu terjadinya 
+demam dan peradangan. Sementara itu respon imun yang adaptif akan 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+135
+memberikan respon yang lebih spesifik dengan pembentukan antibodi 
+untuk setiap antigen yang dikenali.
+Gambar 5.1  Struktur antibodi  dan antigen
+Respon imun yang spesifik ditandai dengan pembentukan antibodi 
+oleh leukosit, khususnya dari tipe limfosit. Antibodi adalah molekul 
+glikoprotein yang berfungsi menandai dan melawan antigen spesifik. 
+Bagaimana bentuk perlawanan antibodi terhadap antigen? Untuk 
+memahami lebih dalam tentang antibodi, ayo lakukanlah Aktivitas 5.3! 
+Ayo Bereksplorasi
+ 
+Aktivitas 5.3
+Bagaimana Antibodi Bekerja?
+Respon antibodi terhadap antigen sangat beragam. Respon-
+respon ini umumnya merupakan upaya molekuler dan seluler 
+dalam mengurangi atau bahkan menghilangkan patogen atau 
+efek infeksinya. Berikut terdapat empat gambar ilustrasi yang 
+menunjukkan reaksi antibodi (berbentuk seperti huruf Y) saat 
+mengenali antigen. 
+Biologi untuk SMA/MA Kelas XI
+136
+Pasangkanlah deskripsi reaksi dengan gambar dengan melengkapi 
+kolom berikut dengan benar!
+Deskripsi Reaksi Antibodi
+Nomor Gambar
+Antibodi bergabung dengan virus dan racun bakteri yang 
+mencegahnya memasuki atau merusak sel
+Antibodi menempel pada flagela bakteri membuatnya 
+kurang aktif dan lebih mudah ditelan oleh fagosit
+Antibodi melapisi bakteri, membuatnya lebih muda bagi 
+fagosit untuk menelannya
+Antibodi dengan beberapa situs pengikatan antigen 
+menyebabkan aglutinasi (penggumpalan) bakteri yang 
+mengurangi kemungkinan penyebaran keseluruh tubuh
+Cek sejauh mana penguasaan Kalian terhadap materi aktivitas 
+ini pada appendix buku atau lampiran buku. Jika masih terdapat 
+jawaban yang salah, Kalian perlu mempelajari kembali mengenai 
+respon antigen-antibodi pada bab ini!
+Respon imun dalam pertahanan internal tubuh tidak hanya dipicu 
+oleh pengenalan patogen. Pada kasus alergi atau imunitas yang terlalu 
+sensitif, respon imun dapat dipicu oleh hadirnya molekul-molekul non 
+patogen (contoh: zat kitin, debu, serbuk sari, dan lain-lain) ke dalam 
+tubuh, atau bahkan perubahan kondisi tubuh yang umum (contoh: 
+kedinginan). Dengan demikian antigen juga diartikan sebagai molekul 
+apa pun yang dapat memicu respon imun, baik yang berasal dari 
+patogen maupun non-patogen. Jika kehadiran suatu molekul memicu 
+respon imun, maka molekul tersebut dianggap asing dan perlu direspon 
+lebih lanjut oleh tubuh. 
+3.	 Respon Imun dan Pengenalan Tubuh
+Setiap sel manusia memiliki molekul pengenal di permukaan 
+membrannya. Molekul ini sering disebut sebagai antigen permukaan 
+sel. Mengapa disebut antigen? Walaupun tidak menstimulasi antibodi 
+dalam tubuh sendiri, molekul ini akan melakukannya jika memasuki 
+tubuh orang lain. Artinya, respon imun tidak terjadi tubuh mengenali 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+137
+antigen permukaan selnya. Respon imun akan muncul dengan 
+hadirnya sel dengan antigen permukaan yang asing. Mekanisme ini 
+dapat dijelaskan pada proses transfusi darah serta donor organ antar 
+manusia. 
+Pada penggolongan darah dengan sistem AB0, antigen permukaan 
+sel berupa glikolipid pada membran sel darah merah (eritrosit) yang 
+disebut aglutinogen. Jika Kalian bergolongan darah A, maka eritrosit 
+Kalian memiliki aglutinogen tipe A di permukaannya. Tubuh Kalian 
+hanya akan mengenali darah dengan aglutinogen A sebagai “darah 
+sendiri”. Jika darah bergolongan A diberikan pada orang bergolongan 
+darah B pada proses transfusi, penerima akan mengenali eritrosit 
+tersebut sebagai benda asing dan segera membentuk antibodi di 
+plasma darah. Antibodi ini disebut aglutinin. Pengenalan antibodi 
+terhadap antigen eritrosit ini menyebabkan penggumpalan darah 
+(aglutinasi). Aglutinasi darah tentu akan sangat berbahaya karena 
+dapat menghambat bahkan merusak sistem sirkulasi tubuh. (lihat 
+kembali bab sebelumnya tentang peran sistem sirkulasi pada tubuh 
+manusia). Lalu,  bagaimana dengan jenis golongan darah AB dan 0 
+(nol)? Pola dari antigen dan antibodi pada masing-masing golongan 
+darah disajikan pada Tabel 5.2 di bawah ini!
+Tabel 5.2 Penggolongan Darah Sistem AB0
+Golongan 
+Darah
+Golongan 
+Darah A
+Golongan 
+Darah B
+Golongan 
+Darah AB
+Golongan 
+Darah 0 (Nol)
+Tipe Sel Darah 
+Merah
+Antigen di 
+Permukaan Sel 
+Darah Merah
+Antigen 
+A atau 
+Aglutinogen A
+ 
+Antigen B atau 
+Aglutinogen B
+Antigen atau 
+Aglutinogen 
+A dan B
+Tidak ada 
+Antigen/ 
+Aglutinogen
+Antibodi di 
+Plasma Darah
+Anti B atau  
+Aglutinin B
+Anti A atau 
+Aglutinin A
+Tidak ada 
+Antibodi / 
+Aglutinin
+Anti A dan B 
+atau Aglutinin 
+A dan B
+Biologi untuk SMA/MA Kelas XI
+138
+Untuk lebih memahami mekanisme pengenalan antigen permukaan 
+sel pada sistem penggolongan darah AB0, ayo lakukanlah Aktivitas 5.4 
+berikut!
+Ayo Bereksplorasi
+ 
+Aktivitas 5.4
+Apa Golongan Darahmu?
+Tujuan:
+1.	 Menjelaskan metode pengujian golongan darah dalam sistem 
+AB0.
+2.	 Menganalisis reaksi antigen-antibodi dalam proses pengujian 
+golongan darah sistem AB0.
+Landasan Teori:
+Sistem golongan darah AB0 ditentukan oleh ada atau tidak adanya 
+antigen A dan B yang terekspresikan pada sel darah merah, serta 
+ada atau tidak adanya antibodi A dan B pada plasma atau serum 
+(serum anti-A dan anti-B). Reaksi penggumpalan akan terjadi jika 
+darah diberi serum yang mengandung antibodi yang mengenali 
+antigen darah.
+Alat dan Bahan:
+1.	Kartu tes
+2.	Lanset 
+3.	Kapas
+4.	Pipet
+5.	Tusuk gigi
+6.	 Spidol
+7.	 Tisu
+8.	 Serum anti-A dan anti-B
+9.	 Alkohol 70%
+Langkah Praktikum: 
+1.	 Tentukan siswa atau siswi sukarelawan yang bersedia 
+memberikan sampel darahnya. Pastikan tidak ada paksaan 
+dalam prosesnya, hormati jika teman Kalian tidak bersedia 
+memberikan sampel.
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+139
+2.	 Tuliskan nama siswa sukarelawan pada kartu tes. Satu orang 
+untuk satu kartu tes.
+3.	 Untuk Kalian yang bersedia memberikan sampel, cucilah 
+tangan dengan sabun dan air mengalir, khususnya pada 
+bagian jari-jemari. Keringkan dengan tisu.
+4.	 Pilihlah salah satu jari (biasanya telunjuk), bersihkan ujung 
+telapaknya dengan kapas beralkohol.
+5.	 Gunakan lanset untuk mengambil sampel darah dari ujung. 
+Pastikan tahapan ini dilakukan dalam pengawasan guru.
+6.	 Selanjutnya, oleskan sampel darah pada 4 kolom pada kartu 
+tes.
+7.	 Tambahkan satu tetes anti serum pada sampel darah di kolom 
+yang sesuai dengan keterangannya.
+8.	 Aduk sampel darah dan serum pada masing-masing kolom 
+dengan menggunakan ujung tusuk gigi yang berbeda.
+9.	 Amati ada tidaknya penggumpalan pada setiap kolom sampel. 
+(Lihat contoh pada Gambar 5.2)
+10.	Lalu, catatlah hasil pengamatan seperti pada contoh Tabel 5.3! 
+Gambar 5.2 Contoh kondisi darah setelah ditetesi serum
+Biologi untuk SMA/MA Kelas XI
+140
+Hasil Pengamatan:
+Tuliskan hasil pengujian dan  pengamatanmu seperti tabel 
+berikut!
+Tabel 5.3 Hasil Pengamatan Golongan Darah Siswa
+No.
+Nama
+Penggumpalan
+Golongan 
+Darah
+Sampel + 
+Serum Anti A
+Sampel + 
+Serum Anti B
+Keterangan:
+√ = menggumpal   × = tidak menggumpal 
+Jika Kalian menemukan kesulitan dalam menyimpulkan tipe golongan 
+darah, pelajari kembali pada bahasan sebelumnya pada Tabel 5.2
+Selain tipe AB0, terdapat ratusan sistem penentuan golongan 
+darah lainnya. Tipe AB0 lebih banyak digunakan karena risiko 
+ketidakcocokan yang berdampak fatal bagi tubuh, yakni terjadinya 
+penggumpalan darah. Selain sistem AB0, tipe golongan darah yang 
+berisiko penggumpalan saat tidak cocok adalah sistem rhesus. 
+Darah memiliki tipe rhesus positif jika terdapat antigen rhesus 
+pada membran sel eritrositnya. Orang dengan darah rhesus positif 
+tidak memproduksi antibodi rhesus, sehingga tidak terjadi reaksi 
+penggumpalan. Sebaliknya pada tipe rhesus negatif, eritrosit tidak 
+memiliki antigen pada membrannya, sementara sel-sel limfosit 
+dapat memproduksi antibodi rhesus jika terjadi paparan antigen. 
+Oleh karenanya dalam metode tranfusi darah, jenis rhesus pendonor 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+141
+maupun penerima darah haruslah sama agar tidak memicu 
+penggumpalan. Kalian sudah mendapat penjelasan mengenai sistem 
+penentuan golongan darah. Cobalah lakukan Aktivitas 5.5 agar Kalian 
+dapat memahamimya lebih lanjut!
+Ayo Bereksplorasi
+ 
+Aktivitas 5.5
+Mencari Pendonor
+Tuan Potter mengalami kecelakaan mobil yang cukup parah. 
+Akibat kecelakaan itu dia mengalami luka-luka dan perdarahan. 
+Untuk dilakukan tindakan operasi, Tuan Potter memerlukan 
+transfusi darah. Diketahui golongan darah Tuan Potter adalah 
+A+. Empat orang kawan Tuan Potter mengajukan diri untuk 
+mendonorkan darahnya. Mereka adalah Nona Brown, Tuan 
+Green, Tuan Jones, dan Tuan Smith. Tenaga medis kemudian akan 
+melakukan pengecekan tipe golongan darah pada para calon 
+pendonor. 
+Dalam aktivitas ini, Kalian akan membantu tenaga medis dengan 
+simulasi virtual. Kalian akan membantu dalam menentukan 
+siapakah diantara keempat kawan Tuan Potter yang dapat 
+mendonorkan darahnya.
+Tautan tautan simulasi virtual berikut:
+https://www.sciencefromscientists.org/game/bloodtype.html
+Langkah-Langkah Simulasi Virtual:
+1.	 Akses tautan simulasi di atas.
+2.	 Pilih nama calon pendonor yang akan Kalian cek dengan 
+mengklik tautan di atas (klik pada salah satu foto).
+3.	 Untuk setiap pendonor akan tersedia perangkat uji secara 
+virtual.
+4.	 Selanjutnya, tuliskan hasil pengujian seperti  tabel berikut 
+pada buku tugasmu!
+Biologi untuk SMA/MA Kelas XI
+142
+Tabel 5.4 Hasil Pengujian Golongan Darah
+No.
+Nama
+Hasil Reaksi
+Golongan 
+Darah
+Antigen A
+Antigen B
+Antigen  
+Rhesus
+1.
+Nona Brown
+2.
+Tuan Green
+3.
+Tuan Jones
+4.
+Tuan Smith
+Keterangan: 
+: 
+√= menggumpal   × = tidak menggumpal 
+Pertanyaan:
+1.	 Siapa yang dapat mendonorkan darahnya untuk Tuan Potter?
+2.	 Dapatkah kawan Tuan Potter mendapatkan donor dari kawan 
+yang tipe rhesusnya sama walau tipe AB0 nya berbeda? 
+Jelaskan jawaban Kalian!
+Diskusikanlah hasil temuan Kalian bersama teman sekelas dengan 
+bimbingan guru. Pastikan Kalian telah memahami materi dalam 
+aktivitas ini!
+B.	Komponen Sistem Pertahanan Tubuh
+Pada pembahasan sebelumnya telah diperlihatkan bahwa sel darah 
+putih (leukosit) merupakan komponen seluler utama dari sistem 
+imun tubuh. Leukosit memiliki berbagai jenis dan peran dalam sistem 
+kekebalan tubuh. Namun, secara umum dapat dibedakan menjadi dua 
+jenis, yaitu  fagosit dan limfosit.
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+143
+1.	 Fagosit
+Fagosit secara harfiah berarti “sel pemakan”, secara fungsional sel ini 
+akan menghancurkan patogen dengan cara mencernanya di dalam sel. 
+Sel-sel fagosit dibentuk di dalam sumsum tulang, khususnya tulang 
+pipa. Mereka disimpan dalam sumsum tulang sebelum didistribusikan 
+sebelum beredar bersama aliran darah dan cairan limfa ke seluruh 
+bagian tubuh. 
+Dalam 
+proses 
+perkembangannya, 
+fagosit 
+merupakan 
+hasil 
+diferensiasi dari beberapa tipe sel, namun secara umum terdapat dua 
+tipe fagosit yang sering ditemukan dalam respon imun tubuh, yaitu 
+neutrofil dan makrofag.
+a.	 Neutrofil 
+Neutrofil adalah jenis fagosit yang paling banyak ditemukan dan 60% 
+komposisi leukosit dalam darah. Mereka dapat berpindah tempat ke 
+seluruh bagian tubuh melalui pembuluh darah. Pada kondisi tertentu, 
+seringkali neutrofil meninggalkan pembuluh darah dengan cara 
+menyusup melalui dinding kapiler untuk ‘berpatroli’ di jaringan ikat. 
+Kemampuan "menembus" pembuluh darah ini disebut diapedesis.
+Gambar 5.3 a) sekelompok neutrofil (ditunjuk anak panah); b) basofil; c) sel Mast
+Sumber: McKinley (2013)
+Biologi untuk SMA/MA Kelas XI
+144
+Gambar 5.4 Kerja pertahanan tubuh pada luka
+Neutrofil memulai peran fagositiknya dengan menempel pada 
+patogen. Membran permukaan sel neutrofil akan membentuk kantung 
+vesikula yang membawa patogen (fagosom) masuk ke dalam sel secara 
+endositosis. Enzim pencernaan akan disekresikan oleh Badan Golgi 
+ke dalam lisosom. Lisosom kemudian bergabung dengan fagosom 
+membentuk struktur vakuola fagositik atau vakuola makanan dan 
+menghancurkan patogen. Secara keseluruhan, proses ini dikenal sebagai 
+fagositosis.
+Gambar 5.5 Tahapan Fagitosis
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+145
+Meskipun dihasilkan dalam jumlah yang banyak, namun neutrofil 
+memiliki masa hidup yang singkat. Setelah melawan patogen, sel ini 
+akan mati. Neutrofil yang telah mati biasanya dikumpulkan pada 
+sebuah lokasi infeksi untuk membentuk nanah. 
+Ketika terjadi infeksi pada jaringan, neutrofil akan dilepaskan dalam 
+jumlah besar dari tempat penyimpanannya di sumsum tulang. Tipe sel 
+lainnya, yaitu basofil dan sel Mast dari jaringan ikat turut merespon 
+dengan memproduksi histamin. Histamin akan memicu pelebaran 
+pembuluh darah dan pembengkakan jaringan dimana kondisi tersebut 
+akan mempermudah pergerakan neutrofil. Histamin dan juga zat kimia 
+yang dilepaskan oleh patogen itu sendiri akan menarik respon neutrofil 
+yang lewat ke lokasi infeksi. Jika infeksi bukan yang pertama kali 
+atau disebabkan oleh patogen yang telah dikenali, ada kemungkinan 
+sejumlah antibodi akan mengenali antigen dan terkonsentrasi di area 
+infeksi. Kehadiran antibodi ini juga dapat “mengundang” neutrofil. 
+Gerakan neutrofil yang dipicu oleh rangsangan kimia ini disebut 
+kemotaksis. 
+Tahukah kalian?
+Memencet nanah pada jerawat dapat menye­bab­kan infeksi. 
+Munculnya jerawat bernanah menunjukkan aktifnya sistem 
+imun dalam mencegah infeksi lebih lanjut. Pastikan untuk selalu 
+mencuci muka dengan produk pembersih yang sesuai dengan 
+kulit Kalian!
+Biologi untuk SMA/MA Kelas XI
+146
+b.	 Makrofag
+Jenis sel fagosit berikutnya adalah makrofag. Makrofag memiliki 
+ukuran lebih besar dibanding neutrofil. Daripada beredar di pembuluh 
+darah, makrofag lebih sering menetap pada organ-organ tertentu 
+seperti paru-paru, hati, limpa, ginjal, dan nodus limfa. Setelah dibentuk 
+di dalam sumsum tulang, makrofag akan beredar dalam darah sebagai 
+monosit, yang berkembang menjadi makrofag ketika meninggalkan 
+darah dan menetap dalam organ. 
+Berbeda dengan neutrofil, makrofag adalah sel yang masa hidupnya 
+cukup panjang dan memiliki peran penting dalam menginisiasi respons 
+imun spesifik lainnya. Makrofag tidak menghancurkan patogen 
+sepenuhnya, tapi memecahnya menjadi partikel kecil yang dijadikan 
+sampel antigen. Partikel sampel tersebut akan menjadi bagian struktur 
+luar dari membran sel makrofag untuk kemudian dikenali oleh limfosit. 
+Dengan demikian antigen dapat terus dikenali sekaligus menjadi 
+sinyal ‘membutuhkan bantuan’ yang dapat menstimulasi respon imun 
+spesifik lainnya. Karena kemampuannya dalam menampilkan antigen 
+di bagian permukaan sel ini makrofag disebut juga sebagai sel penyaji 
+antigen (Antigen-Presenting Cells/APCs).
+Gambar 5.6 Makrofag sebagai sel penyaji antigen
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+147
+Untuk memastikan pemahaman Kalian dalam mengenali peran sel-
+sel fagosit dari jenis neutrofil dan makrofag, lakukanlah Aktivitas 5.6!
+i
+Ayo Mengingat Kembali
+ 
+Aktivitas 5.6
+Untuk memudahkan Kalian mempelajari kembali perbedaan 
+neutrofil dan makrofag dalam sistem pertahanan tubuh manusia, 
+lengkapilah Tabel 5.5 berikut!
+Tabel 5.5 Perbandingan Perbedaan Neutrofil dan Makrofag
+No.
+Faktor Pembeda
+Neutrofil
+Makrofag
+1.
+Jumlah
+2.
+Durasi hidup
+3.
+Tempat pematangan
+4.
+Respon terhadap antigen
+5.
+Hasil fagositosis
+Cek sejauh mana penguasaan Kalian terhadap materi aktivitas 
+ini pada appendix buku atau lampiran buku. Jika masih terdapat 
+jawaban yang salah, Kalian perlu mempelajari kembali mengenai 
+mekanisme sel darah putih dalam sistem pertahanan tubuh 
+manusia pada bab ini!
+2.	 Limfosit dan Respon Imun Spesifik
+Limfosit adalah tipe sel darah putih yang berperan penting dalam sistem 
+pertahanan tubuh khususnya dalam respon imun spesifik adaptif.
+Terdapat dua jenis limfosit, keduanya telah dibentuk sejak sebelum 
+kelahiran di dalam sumsum tulang janin. 
+•	 Limfosit B (sel B) tetap berada dalam sumsum tulang hingga cukup 
+matang kemudian menyebar ke seluruh tubuh, terutama di nodus 
+limfa dan limpa (organ di sisi kiri lambung).
+•	 Limfosit T (sel T) meninggalkan sumsum tulang dan berkumpul 
+serta menjadi matang di timus. Timus adalah sebuah kelenjar yang 
+terdapat di rongga dada, tepat di bawah tulang dada (sternum). 
+Ukurannya menjadi dua kali lebih besar di masa antara kelahiran 
+dan masa pubertas, tetapi setelah pubertas ukuran timus akan 
+tereduksi.
+Biologi untuk SMA/MA Kelas XI
+148
+Dalam proses pematangannya, limfosit B dan T berspesialisasi 
+menjadi tipe limfosit dengan beragam fungsi spesifik. Sel B dan T 
+akan bersirkulasi di dalam pembuluh darah dan limfa. Kondisi ini 
+memastikan bahwa limfosit dapat tersebar ke seluruh bagian tubuh 
+dan meningkatkan peluang untuk mendeteksi keberadaan patogen 
+yang menginfeksi tubuh. Sejumlah sel dari kedua tipe limfosit akan 
+bertahan lama dalam sirkulasi darah dan limfa. Sel berumur panjang 
+ini akan “mengingat” antigen yang pernah dikenali sebelumnya, serta 
+respon yang tepat untuk mengatasinya. Sel ini disebut sel memori. 
+Sebelum belajar lebih lanjut, ayo lakukan Aktivitas 5.7. 
+i
+Ayo Mengingat Kembali
+ 
+Aktivitas 5.7
+Menyelidiki Nodus Limfa
+Nodus limfa (kelenjar getah bening) 
+merupakan 
+bagian 
+penting 
+dalam 
+sistem pertahanan tubuh. Kelenjar 
+ini tersebar di bagian tertentu tubuh 
+khususnya 
+pada 
+lipatan-lipatan 
+tubuh. Kelenjar ini terhubung dengan 
+pembuluh limfa yang juga menyebar 
+kesuluruh 
+tubuh 
+dan 
+di 
+samping 
+pembuluh darah.
+Nodus 
+limfa 
+berperan 
+dalam 
+menyaring cairan limfa, cairan tubuh 
+yang membawa sebagian besar limfosit. 
+Pada nodus limfa, limfosit (umumnya 
+limfosit B) akan "tinggal" sementara 
+di dalam kelenjar limfa. Ketika terjadi 
+infeksi pada bagian tubuh tertentu, aktivitas nodus limfa terdekat 
+dengan titik infeksi akan meningkat. Limfosit pada nodus tersebut 
+akan aktif. Kondisi ini biasanya ditandai dengan peningkatan 
+suhu tubuh pada bagian yang terdapat nodus limfa.
+Gambar 5.7 Sistem Limfa
+Sumber: Campbell, dkk (2022)
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+149
+Pada aktivitas kali ini, Kalian akan melakukan pengamatan suhu 
+pada beberapa titik tubuh yang diduga banyak mengandung 
+kelenjar limfa. Tentukan 3 lokasi pada tubuh Kalian yang dapat 
+diukur suhunya. Lakukan pengamatan dalam kelompok, lalu  
+hasilnya dibuat seperti  Tabel 5.6. Gunakan termometer tubuh 
+untuk mengukur suhu pada bagian tubuh yang dipilih. Bandingkan 
+suhu ketiga titik tersebut dengan suhu tubuh Kalian. Apakah sama 
+atau berbeda? Jelaskan jawabanmu pada  buku  latihan kalian!
+Tabel 5.6 Hasil Pengukuran Suhu Beberapa Titik Tubuh
+No.
+Nama
+Hasil pengukuran suhu (°C)
+Suhu tubuh
+Titik 1
+Titik 2
+Titik 3
+1.
+2.
+Keterangan :
+Lokasi titik 1 = ....
+Lokasi titik 2 = ....
+Diskusikanlah hasil temuan Kalian bersama teman sekelas 
+dengan bimbingan guru. Pastikan Kalian telah memahami materi 
+dalam aktivitas ini!
+Biologi untuk SMA/MA Kelas XI
+150
+a.	 Limfosit B (Sel B) dan respon imun spesifik humoral
+Limfosit B memberikan respon imun dengan membentuk antibodi. 
+Setiap sel B yang telah teraktivasi akan membentuk kelompok kecil 
+(klon) berdasarkan jenis antibodi yang dibuatnya. 
+Gambar 5.8 Mekanisme kerja limfosit B
+Pada awalnya molekul antibodi hanya menempel di permukaan 
+membran sel B, hingga kemudian dapat dilepas dan beredar di plasma 
+darah dan limfa. Antibodi beredar di plasma darah dan cairan tubuh 
+lainnya untuk mengenali antigen spesifik yang masuk ke dalam tubuh. 
+Atas dasar ini lah respon limfosit B disebut juga respon imun spesifik 
+humoral (humor = cairan tubuh)
+Kehadiran antigen mengaktivasi limfosit B yang berdiferensiasi 
+menjadi dua tipe sel, yaitu sel plasma dan sel B memori. Sel plasma 
+dapat memroduksi molekul antibodi dengan cepat, hingga mencapai 
+jumlah beberapa ribu dalam 1 detik. Pada infeksi pertama (respon 
+primer), sel plasma memulai pengenalan antigen dan membentuk 
+antibodi. Karena memiliki masa hidup yang singkat, respon sel plasma 
+akan dilanjutkan oleh sel memori. Sel ini akan bersirkulasi dalam tubuh 
+dalam waktu lama. Apabila terdapat antigen yang sama dan dikenali 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+151
+kembali (respon sekunder), sel memori akan membelah secara cepat 
+dan berkembang menjadi sel plasma dan sel memori yang lebih banyak 
+lagi. Hal ini terjadi berulang dalam setiap kehadiran antigen yang sama, 
+yang berarti infeksi dapat ditanggulangi sebelum terus perkembangan.
+Ayo Berpikir kritis
+ 
+Aktivitas 5.8
+Fluktuasi Jumlah Antibodi
+Grafik berikut menunjukkan perubahan jumlah konsentrasi 
+antibodi dalam plasma darah seiring waktu sebagai respon 
+terhadap dua periode infeksi.
+0	
+10	
+20	
+30	
+40	
+50	
+60
+100
+10
+1
+0
+Waktu/Hari
+Paparan ke dua
+antigen identik
+Respon primer
+Respon sekunder
+Paparan pertama
+antigen
+Konsentrasi antibodi
+Berdasarkan interpretasi Kalian terhadap informasi dalam grafik 
+di atas, jawablah pertanyaan-pertanyaan berikut:
+1.	 Mengapa jumlah antibodi  lebih banyak diproduksi setelah 
+paparan patogen yang ke dua?
+2.	 Apa yang akan terjadi jika pada paparan ke dua, patogen 
+telah mengalami perubahan struktur tubuhnya? Apakah akan 
+memicu respon humoral yang sama?
+Diskusikanlah hasil temuan Kalian bersama teman sekelas  
+dengan bimbingan guru. Pastikan Kalian telah memahami materi 
+dalam aktivitas ini!
+Biologi untuk SMA/MA Kelas XI
+152
+Molekul antibodi yang diproduksi sel B berupa protein yang 
+disebut immunoglobulin (Ig). Molekul immunoglobulin berbentuk 
+seperti huruf Y, dengan dua sisi ujung sebagai situs pengikatan dan 
+pengenal antigen. Untuk memungkinkan sistem imun mengenali 
+jutaan antigen yang berbeda, situs pengikatan antigen di kedua ujung 
+immunoglobulin juga memiliki variasi yang sama banyaknya. Terdapat 
+lima tipe antibodi yang banyak ditemukan di dalam tubuh, yaitu IgA, 
+IgD, IgE, IgG, atau IgM. Informasi lebih lanjut tentang ciri dan fungsi 
+masing-masing tipe antibodi disajikan pada Tabel 5.7.
+Tabel 5.7 Ragam Tipe Immunoglobin Beserta Letak dan Fungsinya
+Tipe
+Bentuk
+Letak
+Fungsi
+Ig M
+Tersebar 
+di seluruh 
+jaringan tubuh
+Diproduksi saat terjadi 
+infeksi pertama kali 
+(respon primer).
+Ig G
+Jaringan tubuh 
+dan darah
+Paling banyak diproduksi, 
+terutama saat infeksi 
+sekunder; ditransfer dari 
+ibu hamil ke janin melalui 
+plasenta.
+Ig A
+ASI, air mata, 
+air liur dan 
+lendir
+Mencegah infeksi pada 
+permukaan jaringan epitel.
+Ig E
+Tersebar 
+di seluruh 
+jaringan tubuh
+Memicu pengeluaran 
+histamin oleh basofil 
+dan mastosit untuk 
+menimbulkan respon 
+peradangan jaringan 
+(inflamasi).
+Ig D
+Permukaan 
+sel B
+Sebagai reseptor; 
+menstimulasi 
+pembentukan antibodi 
+lainnya oleh sel plasma.
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+153
+Ayo Berkomunikasi
+ 
+Aktivitas 5.9
+Tes Swab Antigen
+Di masa pandemi Covid-19, uji antigen merupakan salah satu 
+prosedur medis standar yang banyak dilakukan untuk mendeteksi 
+paparan virus SARS-CoV-2. Walau tingkat akurasinya tidak terlalu 
+tinggi, tapi uji antigen dianggap cukup efektif menjadi langkah 
+awal deteksi. 
+Berikut adalah langkah yang pengujian antigen dan interpretasi 
+hasilnya:
+ 
+Gambar 5.9 Tahapan tes antigen
+Pada Aktivitas 5.9 ini, Kalian akan melakukan diskusi dalam 
+merumuskan jawaban dari pertanyaan berikut:
+1.	 Mengapa pengujian Covid-19 menggunakan swab antigen 
+melibatkan respon  antibodi?
+2.	 Dari berbagai tipe imunoglobin, mengapa imunoglobulin Ig 
+G dan Ig M yang diuji? Apa kaitannya dengan fungsi kedua 
+antibodi tersebut?
+3.	 Mengapa tes swab antigen dianggap memiliki tingkat akurasi 
+yang rendah dibanding tes lainnya, seperti tes PCR? 
+Gunakan referensi yang valid dalam merumuskan jawaban 
+Kalian! Berkomunikasilah dengan baik saat mendiskusikan 
+jawaban dalam kelompok Kalian juga saat mengutarakan 
+pendapat terhadap jawaban kelompok lain!
+Biologi untuk SMA/MA Kelas XI
+154
+b.	 Limfosit T (Sel T) dan respon imun spesifik seluler
+Tipe limfosit kedua adalah limfosit T. Dinamai sel T karena sel ini 
+menjadi matang di timus. Berbeda dengan sel B yang menghasilkan 
+antibodi sebagai respon imun spesifiknya, sel limfosit T memiliki 
+reseptor permukaan sel yang spesifik disebut reseptor sel T. Meskipun 
+demikian, reseptor sel T memiliki sifat yang mirip dengan antibodi 
+dalam hal kemampuan mengenali antigen spesifik. Karena respon 
+imun yang diberikan bertumpu pada reseptor permukaan sel, maka 
+respon imun sel T disebut juga respon imun spesifik seluler. 
+Sel T aktif tidak hanya mengenali antigen, namun juga mengenali sel-
+sel tubuh yang terinfeksi. Seperti pada infeksi virus, dimana nukleotida 
+dan protein virus berada di dalam sel inangnya, maka sel T juga akan 
+mengenali sel inang sebagai target yang harus dihancurkan.  Pada kasus 
+sel-sel tubuh yang berubah menjadi kanker, sel T akan mengenalinya 
+dan mencegah pertumbuhannya lebih lanjut. 
+Saat terjadi infeksi patogen, sel T yang memiliki reseptor yang 
+mengenali antigen akan merespon dengan memperbanyak diri. Seperti 
+halnya pada sel B, penambahan jumlah sel T akan melalui tahapan 
+pembentukan dan perbanyakan klon sel. Selain bertambah banyak, sel 
+T juga berdiferensiasi menjadi dua tipe sel, yaitu yaitu sel T pembantu 
+(helper) dan sel T pembunuh (Sel T sitotoksik). Selain itu, masing-
+masing bentuk sel T dapat menjadi sel memori yang bertahan lama 
+untuk diaktivasi kembali saat terjadi infeksi patogen yang sama pada 
+kesempatan berikutnya. 
+ Sel T pembantu dinamai demikian berdasarkan perannya dalam 
+membantu mengaktifkan respon imun lainnya. Ketika sel T pembantu 
+aktif, mereka akan melepaskan kelompok senyawa kimia yang disebut 
+sitokin. Sitokin akan menstimulasi sel B untuk melakukan pembelahan, 
+dan berkembang menjadi sel plasma serta mensekresi antibodi. 
+Beberapa sel T pembantu mensekresi sitokin yang menstimulasi 
+makrofag untuk lebih aktif melakukan fagositosis.
+Sel T pembunuh mencari sel tubuh yang diserang patogen dan 
+menampilkan antigen asing dari patogen pada membran permukaan 
+selnya. Sel T pembunuh akan mengenali antigen, menempelkan diri 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+155
+pada permukaan sel yang terinfeksi dan mensekresikan substansi 
+beracun seperti hidrogen peroksida (H2O2), untuk membunuh sel tubuh 
+dan patogen di dalamnya. 
+Gambar 5.10 Mekanisme kerja limfosit T
+i
+Ayo Mengingat Kembali
+ 
+Aktivitas 5.10
+Kalian telah mempelajari dua tipe limfosit yang sangat berperan 
+penting dalam sistem pertahanan tubuh internal spesifik. Untuk 
+memastikan Kalian dapat memahami dengan baik, tentukan 
+karakteristik pada salah satu atau kedua tipe limfosit dengan 
+melengkapi kolom di bawah ini! Berikan tanda centang (√) jika 
+cirinya sesuai atau tanda silang (×) jika ciri tidak sesuai, pada 
+salah satu atau kedua kolom yang tersedia!
+Karakteristik
+Sel B
+Sel T
+Membentuk sel sitotoksik
+Membentuk sel memori
+Melakukan fagitosis
+Membentuk antibodi
+Menjadi sel penyaji antigen
+Membentuk sel plasma
+Biologi untuk SMA/MA Kelas XI
+156
+C.	Imunitas Tubuh dan Kelainannya 
+Hingga bahasan ini Kalian telah banyak mempelajari komponen 
+dan mekanisme pertahanan tubuh dalam mencegah dan mengatasi 
+infeksi patogen. Saat sistem pertahanan tubuh berfungsi dengan baik, 
+maka tubuh akan tetap terlindungi dari infeksi. Kemampuan tubuh 
+untuk mengatasi infeksi patogen ini dikenal sebagai imunitas. Upaya 
+menjaga fungsi imunitas tubuh tidak hanya terjadi secara alami tapi 
+juga dapat dilakukan secara buatan melalui tindakan medis atau 
+imunisasi. 
+1.	 Imunitas Aktif dan Pasif
+Saat seseorang dalam kondisi sehat, imunitas tubuhnya dapat dengan 
+optimal merespon setiap paparan patogen dan mencegah terjadinya 
+kondisi sakit. Saat patogen datang, jumlah yang memasuki tubuh akan 
+diminimalisasi oleh pertahanan eksternal tubuh yang nonspesifik. Jika 
+masih terdapat patogen yang berhasil masuk, maka pertahanan internal 
+spesifik diaktifkan. Sel limfosit B dalam tubuh mengenali antigen dan 
+membentuk antibodi. Imunitas yang terbentuk pada proses ini disebut 
+imunitas aktif alami. Disebut alami karena respon imun muncul 
+akibat infeksi patogen dan disebut aktif karena antibodi diproduksi 
+oleh tubuh sendiri. 
+Pada permulaan abad ke-19, seorang dokter asal Inggris bernama 
+Edward Jenner, melakukan penelitian untuk mengamati respon imun 
+tubuh manusia. Jenner menemukan bahwa respon imun dapat muncul 
+tanpa seseorang harus terinfeksi patogen terlebih dahulu. Jenner 
+melakukan penelitiannya pada kasus infeksi virus cacar. Orang yang 
+disuntik komponen virus cacar pada tubuhnya, terbukti lebih “kebal” 
+terhadap infeksi virus tersebut. Inilah pertama kali teknik vaksinasi 
+ditemukan. Temuan Edward Jenner tersebut dapat dijelaskan sebagai 
+sistem imun tubuh yang terstimulasi untuk membentuk antibodi 
+tanpa harus terinfeksi. Maka imunitas yang terbentuk ber­sifat aktif 
+buatan. Bagaimana dengan vaksin Covid-19? Adakah persamaan 
+prosedur pembuatannya dengan vaksin cacar yang ditemukan 
+Edward Jenner?
+ 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+157
+Tahukah kalian?
+Vaksin Merah Putih merupakan vaksin Covid-19 yang 
+dikembangkan Indonesia melalui perusahaan negara, PT Bio 
+Farma. Vaksin ini dibuat dari komponen protein virus Covid-19 
+yang bertransmisi di Indonesia. Vaksin ini diharapkan lebih 
+sesuai dengan kondisi tubuh manusia di wilayah tropis. 
+Tentu kita patut berbangga menjadi negara yang mampu 
+memproduksi vaksin.
+Stimulasi respon imun baik secara alami oleh infeksi maupun secara 
+buatan dengan vaksin memerlukan waktu untuk mencapai jumlah 
+antibodi optimal. Pada kondisi yang amat rentan, seperti pada bayi 
+yang sangat mudah terinfeksi patogen atau pada pasien kritis akibat 
+penyakit infeksi, waktu yang dibutuhkan untuk memproduksi antibodi 
+sendiri tidak sebanding dengan besarnya risiko infeksi yang dihadapi. 
+Oleh karenanya diperlukan masukan antibodi dari luar sesegera 
+mungkin menciptakan imunitas tubuhnya. 
+Imunitas yang terbentuk karena pemasukan antibodi dari luar tubuh 
+disebut imunitas pasif. Imunitas pasif tidak bertahan lama, tergantung 
+dari lama ketersediaan antibodi di dalam tubuh.  ASI (air susu ibu) yang 
+diproduksi di awal pasca persalinan (disebut colostrum) diketahui 
+banyak mengandung antibodi dari ibu. Dengan demikian secara alami, 
+bayi memperoleh imunitas pasif dengan mendapat suplai antibodi dari 
+ASI. Pada kasus pasien yang kritis atau mengalami penurunan respon 
+imun, suplai antibodi dapat diberikan secara buatan dengan donor 
+plasma. Individu yang sehat dengan produksi antibodi yang melimpah 
+dapat mendonorkan plasma darahnya tersebut pada individu lain.  
+i
+Ayo Mengingat Kembali
+ 
+Untuk memudahkan Kalian dalam mempelajari kembali ciri dan 
+contoh tipe imunitas tubuh. Salinlah Tabel 5.8 pada buku latihan 
+Kalian dan isilah jawabannya.
+Biologi untuk SMA/MA Kelas XI
+158
+Tabel 5.8 Ciri dan Contoh Tipe Imunitas Tubuh
+Imunitas
+Aktif
+Pasif
+Alami
+Ciri:
+Ciri:
+Contoh:
+Contoh:
+Buatan
+Ciri:
+Ciri:
+Contoh:
+ 
+Contoh:
+2.	 Kelainan Sistem Pertahanan dan Indikasinya
+Seperti  sistem organ lainnya, sistem imun dapat mengalami berbagai 
+gangguan, baik karena infeksi patogen, faktor genetik, atau kelainan 
+lainnya. Gangguan pada struktur dan fungsi sistem imun tubuh dapat 
+meningkatkan kerentanan tubuh terhadap penyakit. Beberapa jenis 
+kelainan pada sistem kekebalan tubuh adalah sebagai  berikut:
+a.	 Alergi
+Alergi adalah muculnya respon imun berlebih terhadap zat atau kondisi 
+tertentu yang normalnya tidak berbahaya bagi tubuh. Respon yang 
+paling umum adalah dibentuknya histamin oleh leukosit meskipun 
+tidak terjadi infeksi. Reaksi tersebut dapat menimbulkan berbagai 
+gejala, seperti pilek, ruam kulit yang gatal, atau bahkan sesak napas. 
+Alergi terjadi karena terlalu sensitifnya sistem imun tubuh. Zat yang 
+dapat memicu respons alergi disebut dengan alergen.
+b.	 HIV – AIDS
+HIV (Human Immunodeficiency Virus) virus yang menyerang sistem 
+kekebalan tubuh, khususnya sel limfosit T, sehingga daya tubuh 
+semakin melemah dan rentan diserang berbagai penyakit. Infeksi 
+HIV dapat berkembang menjadi AIDS (Acquired Immune Deficiency 
+Syndrome), kondisi dimana tubuh mengalami berbagai gangguan 
+kesehatan akibat penurunan fungsi sistem imun. Penyakit ringan pada 
+orang dengan imunitas normal dapat menjadi mematikan jika terjadi 
+pada penderita AIDS. 
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+159
+Gambar 5.11 Virus HIV (warna merah) menginfeksi limfosit
+Sumber : Jhonson, dkk (2014)
+c.	 Penyakit Autoimun 
+Penyakit autoimun adalah kondisi ketika sistem pertahanan tubuh 
+seseorang menyerang tubuhnya sendiri. Umumnya terjadi pada sistem 
+imum spesifik yang kehilangan kemampuan dalam pengenalan sel-sel 
+tubuh. Ada lebih dari 80 penyakit yang digolongkan penyakit autoimun. 
+Beberapa di antaranya memiliki gejala serupa, seperti kelelahan, nyeri 
+otot, dan demam. Beberapa di antaranya disajikan pada Tabel 5.9.
+Tabel 5.9 Beberapa Contoh Penyakit Autoimun
+No.
+Penyakit Autoimun
+Bagian Tubuh 
+Terdampak
+Dampak Utama dari 
+Penyakit
+1.
+Myastenia gravis
+Sambungan 
+neuromuskular
+Lemah otot
+2.
+Multiple sclerosis
+Sistem saraf pusat
+Kelumpuhan
+3.
+Rhematoid artritis
+persendian
+Kerusakan sendi secara 
+bertahap
+4.
+Diabetes melitus 
+tipe 1
+Pulau Langerhans 
+pankreas
+Kerusakan sel beta 
+penghasil insulin
+5.
+Lupus
+Kulit, ginjal, dan 
+sendi
+Penurunan fungsi dan 
+perubahan bentuk 
+tubuh secara bertahap
+Biologi untuk SMA/MA Kelas XI
+160
+Ayo Berkerja Sama
+ 
+Aktivitas 5.11
+Dalam kegiatan kelompok ini, Kalian akan melakukan aktivitas 
+mengumpulkan data melalui wawancara secara langsung dengan 
+praktisi kesehatan. Kalian dapat menghubungi pusat kesehatan terdekat 
+(misalnya  puskesmas atau rumah sakit, tempat vaksinasi atau dokter di 
+daerah tempat tinggal kalian. Pilih salah satu dari tiga topik wawancara 
+berikut!
+1.	 Kesadaran masyarakat terhadap pentingnya vaksinasi Covid-19 di 
+lingkungan sekitar Kalian.
+2.	 Kondisi terkini gangguan sistem imun tubuh di masyarakat sekitar 
+Kalian.
+3.	 Mitos dan fakta seputar alergi dan langkah efektif mengantisipasinya.
+Pastikan Kalian terlebih dahulu menyusun daftar pertanyaan yang akan 
+diajukan. Selain itu, buatlah janji atau izin pada pihak yang akan Kalian 
+kunjungi, pastikan mereka berkenan menerima kunjungan Kalian. 
+Mengingat tidak sedikit yang perlu disiapkan, maka bekerja samalah 
+dengan baik bersama anggota kelompok kalian!
+Ayo Berpikir kreatif
+ 
+Aktivitas 5.12
+Setelah melakukan wawancara dengan 
+praktisi 
+kesehatan 
+pada 
+Aktivitas 
+5.11 saatnya Kalian menyajikan hasil 
+penggalian informasi yang telah diperoleh 
+dalam 
+bentuk 
+poster. 
+Poster 
+dibuat 
+untuk menginformasikan hal-hal yang 
+perlu diketahui masyarakat terkait topik 
+wawancara yang kelompok Kalian pilih. 
+Poster dibuat dalam bentuk virtual dengan 
+menuangkan ragam kreasi yang dapat 
+Kalian lakukan. Tentu tidak semua informasi 
+yang Kalian peroleh dalam wawancara 
+dapat Kalian tuangkan dalam poster, maka 
+perlu kreativitas dalam mengemas informasi tersebut. Pastikan poster 
+memuat informasi yang jelas, benar, dan dapat dipahami.
+sumber: bnpb (2022)
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+161
+Refleksi
+Hingga sejauh ini, Kalian telah mempelajari berbagai hal sistem 
+pertahanan dalam tubuh manusia. Sebagai bentuk refleksi dari 
+pembelajaran bab ini, jawablah secara individu pertanyaan reflektif 
+berikut!
+1.	 Pemahaman apa saja yang telah Kalian peroleh dari pembelajaran 
+bab ini?
+2.	 Bagaimana pemahaman tersebut dapat berguna bagi kehidupan 
+Kalian?
+Uji Kompetensi
+Bacalah dengan saksama potongan artikel dibawah ini untuk menjawab soal 
+nomor 1-3!
+ Sinar Matahari Punya Efek Kompleks Terhadap Kekebalan
+Selama beberapa dekade, para ilmuwan telah mengetahui paparan sinar 
+matahari dapat menekan respon sistem kekebalan terhadap infeksi 
+bakteri, virus, dan juga jamur. Menurut artikel di tahun 2010 oleh Journal 
+of Investigative Dermatology, paparan sinar matahari dengan dosis 30 
+hingga 50 UVR dapat menekan sistem kekebalan tubuh menjadi kurang 
+aktif.
+Pada saat yang sama sinar matahari juga menyebabkan tubuh 
+memproduksi vitamin D. Hal ini juga dibuktikan dari sebuah studi 
+terbaru di Nature Immunology yang menunjukkan sel-T tidak bergerak 
+jika mereka hanya mendeteksi vitamin D dalam jumlah kecil di aliran 
+darah. Selain itu, penelitian lain menunjukkan vitamin D dapat memicu 
+produksi peptida antimikroba di kulit yaitu senyawa yang membantu 
+melindungi tubuh dari infeksi baru.
+Sumber : health.detik.com
+Berdasarkan hasil bacaan Kalian pada potongan artikel di atas, tentukanlan 
+kesesuaian 3 pernyataan di bawah ini dengan inter­pretasi informasi dari 
+artikel dengan cara memberi tanda centang (√) pada kolom yang Kalian pilih!
+Biologi untuk SMA/MA Kelas XI
+162
+No.
+Pernyataan
+S
+TS
+1.
+Perlu dosis paparan yang tepat agar sinar matahari 
+dapat mengoptimalkan fungsi sistem imun tubuh.
+2.
+Vitamin D diperlukan tubuh untuk membantu sistem 
+imun dalam mengoptimalkan fungsi pengenalan spesifik 
+terhadap antigen.
+3.
+Kebiasaan berjemur di bawah sinar matahari pagi 
+tidak akan efektif jika tubuh dalam kondisi kekurangan 
+vitamin D.
+4.	 Pelajari dengan saksama informasi pada infografis di bawah ini!
+sumber: The Health Site/ Diolah oleh Esthi Maharani dan mgrol101 (Republika)
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+163
+Berdasarakan informasi pada infografis di atas, peran ASI sangat 
+penting bagi pertumbuhan bayi. Peran ini melibatkan manfaat pada 
+proses fisiologis di beberapa sistem organ tubuh. Adapun beberapa 
+sistem organ yang terkait dengan manfaat ASI berdasarkan infografis 
+di atas adalah ...
+a.	 sistem saraf dan sistem pernapasan
+b.	 sistem pencernaan dan sistem ekskresi
+c.	 sistem imun dan sistem saraf
+d.	 sistem imun dan sistem sirkulasi
+e.	 sistem sirkulasi dan sistem pernapasan
+Pelajari dengan saksama grafik di bawah ini untuk menjawab soal 
+nomor 5 – 7!
+Grafik di atas menunjukkan perkembangan angka kematian per 10.000 
+penduduk akibat Covid-19. Data disusun berdasarkan profil tingkat 
+vaksinasi yang telah dilakukan oleh pasien. Berdasarkan hasil penelaah 
+Kalian, tentukanlah pernyataan manakah yang bersifat fakta dan opini 
+terkait informasi yang tergambar pada grafik dengan cara memberi 
+tanda centang pada kolom yang Kalian pilih!
+Biologi untuk SMA/MA Kelas XI
+164
+No.
+Pernyataan
+Fakta
+Opini
+5.
+Semakin banyak dosis vaksin yang diterima 
+sesorang, maka semakin rendah risiko 
+kematiannya
+6.
+Vaksin booster efektif menurunkan angka 
+kematian akibat Covid-19
+7.
+Tingginya angka kematian pada pasien yang 
+belum divaksin menunjukkan rendahnya 
+kesadaran masyarakat pada vaksinasi
+8.	 Perhatikan informasi di bawah ini!
+Data World Allergy Organization
+Data Klinik Anak RS Cipto 
+Mengunkusumo
+-	30-40% Penduduk Dunia Mengalami 
+Alergi
+-	 31% Dari Pasien Anak Alergi Putih 
+Telur
+- 	500 Juta Orang Didunia Menderita 
+Alergi makanan
+-	 23,8% Anak Alergi Susu Sapi
+Berdasarkan hasil telaah Kalian pada informasi di atas, tentukan 
+manakah fakta numerik yang sesuai dengan informasi tersebut?
+a.	 Sebagai tipe kelainan imun yang paling umum, riwayat alergi 
+dimiliki oleh sebagian besar penduduk dunia.
+b.	 Lebih dari 20% kasus alergi pada anak terkait dengan konsumsi 
+susu sapi dan olahannya.
+c.	 Dibandingkan alergi karena susu, jumlah orang dewasa yang 
+alergi putih telur jauh lebih banyak.
+d.	 Dari setiap 10 penduduk dunia, 6-7 orang di antaranya memiliki 
+riwayat alergi.
+e.	 Makanan lebih memicu alergi 30% pada anak-anak dibandingkan 
+pada orang dewasa.
+Bab 5 | Sistem Pertahanan Tubuh terhadap Penyakit
+165
+Pengayaan
+Pelajari dengan saksama informasi pada teks dan gambar di 
+bawah ini!
+Antibodi Monoklonal 
+Penggunaan antibodi monoklonal saat ini sudah digunakan secara luas 
+di banyak negara untuk terapi penyakit maupun deteksi. Banyak aplikasi 
+dari penggunaan antibodi monoklonal, di antaranya sebagai bahan 
+penting dalam penelitian, diagnosis klinis dan pengobatan. Antibodi 
+monoklonal sendiri merupakan antibodi yang spesifik mengenali satu 
+antigen, yang diproduksi dengan menggabungkan sel B (sel imun) 
+yang normal dengan sel myeloma (suatu sel kanker) dan selanjutnya 
+dinamakan sel hibridoma. Sel hibridoma memiliki sifat kanker yang 
+aktif membelah sehingga produksi antibodi lebih cepat dan banyak. 
+Sebuah rumah sakit menawarkan terapi antibodi monoklonal untuk 
+mengatasi infeksi Covid-19. Rumah sakit tersebut membuat selebaran 
+tentang layanan mediknya tersebut, seperti gambar pada halaman 
+berikut ini!
+Biologi untuk SMA/MA Kelas XI
+166
+Jawablah pertanyaan-pertanyaan di bawah ini dengan tepat!
+1.	 Apa perbedaan antibodi biasa dengan antibodi monoklonal?
+2.	 Jelaskan bagaimana keterkaitan antara metode pembuatan antibodi 
+monoklonal dengan manfaat antibodi tersebut dalam tindakan 
+medis?

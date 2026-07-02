@@ -1,0 +1,1553 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Fisika untuk SMA/MA Kelas XI
+Penulis 
+: Marianna Magdalena Radjawane, Alvius Tinambunan, Lim Suntar Jono
+ISBN 
+: 978-623-472-721-0 (jil.1) 
+Termodinamika
+BAB 7
+Tujuan Pembelajaran
+Setelah mempelajari bab ini kalian dapat 
+menerapkan 
+teori 
+kinetik 
+gas 
+untuk 
+menganalisis 
+sifat-sifat 
+gas, 
+menganalisis 
+berbagai 
+hukum 
+gas 
+yang 
+membentuk 
+persamaan gas ideal, menganalisis proses-
+proses termodinamika, menerapkan hukum I 
+Termodinamika dalam penyelesaian masalah 
+sehari-hari, membedakan tiga pernyataan 
+tentang 
+Hukum 
+II 
+Termodinamika 
+dan 
+menjelaskan cara kerja dan eisiensi mesin 
+kalor dan pompa kalor.
+Kata-kata kunci:
+• 
+Termodinamika
+• 
+Sistem
+• 
+Lingkungan
+• 
+Gas ideal
+• 
+Energi dalam
+• 
+Kalor
+• 
+Usaha 
+• 
+Entropi
+• 
+Proses termodinamika
+• 
+Siklus termodinamika
+• 
+Variabel keadaan
+• 
+Persamaan keadaan
+• 
+Diagram p-V
+Sumber: Vivien/Pexels.com (2018)
+174
+Fisika untuk SMA/MA Kelas XI
+Perhatikan Gambar 7.1 tentang per- 
+ubahan bentuk energi dalam tubuh ma-
+nusia. Lemak disimpan dalam tubuh ma-
+nusia dan dapat diubah menjadi usaha 
+dan kalor.
+ 
+Mengapa 
+metabolisme 
+dalam 
+tubuh makhluk hidup memerlukan hu-
+kum-hukum termodinamika? Apa yang di- 
+sampaikan oleh hukum termodinamika?
+Gambar 7.1 Perubahan bentuk energi dalam 
+tubuh manusia
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Peta Konsep
+mencakup
+menggunakan
+terdiri atas
+terdiri atas
+melibatkan
+yang memenuhi
+gabungan dari
+terdiri atas
+Termodinamika
+Proses
+Termodinamika
+Sistem
+Termodinamika
+Gas Ideal
+Adiabatik
+Hukum Nol
+Hukum 
+Kedua
+Hukum
+Pertama
+(kekekalan energi)
+Isotermik
+Isokhorik
+Isobarik
+Hukum
+Termodinamika
+Hukum Gas Ideal
+Hukum Boyle
+Hukum 
+Avogadro
+Hukum 
+Gay-Lussac
+Hukum  Charles
+Entropi
+Eisiensi
+dan
+Performa
+Arah Proses
+175
+ Bab 7 | Termodinamika
+Apakah mesin mobil dapat 100% eisien? Apakah panas yang terbuang 
+oleh mobil dapat digunakan lagi untuk menggerakkan mobil? Dapatkah kalian 
+menyebutkan beberapa transformasi energi yang terjadi dalam pembangkit 
+listrik sebagaimana yang ditunjukkan dalam Gambar 7.2?   
+Mengapa hasil pembakaran kayu mempunyai entropi lebih besar 
+daripada kayu sebelum terbakar? Apa yang dimaksud dengan entropi? Apa 
+hubungannya dengan energi?  
+Perhatikan Gambar 7.4 yang menunjukkan wadah terinsulasi dengan 
+dua ruang terpisah. Satu ruang berisi gas dan satu ruang lainnya merupakan 
+vakum. Jika dinding pemisah dipindahkan maka wadah akan terisi penuh 
+dengan gas. Dapatkah gas yang sudah terisi penuh kembali ke keadaan semula, 
+yang ditunjukkan oleh Gambar 7.4a?
+Gambar 7.3 Kayu yang terbakar
+Sumber: Jens Mahnke/pexels (2017)
+Gambar 7.4 (a) Sebelum ekspansi gas dan (b) Sesudah ekspansi gas
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 7.2 Pembangkit tenaga listrik batu bara
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+176
+Fisika untuk SMA/MA Kelas XI
+Contoh penerapan hukum termodinamika didapati dalam metabolisme 
+tubuh manusia, lemari es, mesin kendaraan bermotor, pendingin ruangan 
+(AC) dan pembangkit listrik.
+Termodinamika mempelajari tentang pengaruh usaha, kalor  dan energi 
+pada  suatu sistem serta kualitas dan kuantitas energi sebelum dan sesudah 
+digunakan.
+Berdasarkan kedua informasi ini, apa yang menjadi keistimewaan gas?
+Gas menempati ruang dengan cepat dan juga memuai dengan cepat. 
+Kedua pengamatan ini dan informasi lainnya menjadi dasar pemahaman 
+teori kinetik gas. Asumsi-asumsi yang dibangun oleh teori kinetik gas adalah 
+sebagai berikut.
+1. 
+Molekul-molekul gas bergerak secara acak.
+2. 
+Gaya tarik menarik antara molekul-molekul gas diabaikan. 
+3. 
+Jumlah molekul gas sangat besar dengan jarak antara molekul lebih besar 
+dibandingkan dengan ukuran molekul  gas sehingga volume total semua 
+molekul dapat diabaikan terhadap volume wadah.
+4. 
+Tumbukan bersifat elastis antara molekul dengan molekul dan molekul 
+dengan dinding wadah sehingga tidak ada energi yang hilang.
+Berdasarkan teori kinetik gas, tekanan gas disebabkan oleh tumbukan 
+antara molekul-molekul gas dengan dinding wadah dan suhu gas merupakan 
+ukuran energi kinetik rata-rata dari molekul-molekul gas.
+Susunan molekul gas diberikan dalam 
+Gambar 7.5.
+Perhatikan 
+Tabel 
+7.1 
+yang 
+berisikan 
+koeisien muai volume dari beberapa 
+materi.
+A. Gas Ideal
+1. Pengertian Gas
+Gambar 7.5 Struktur molekul gas 
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tabel 7.1 Koeisien Muai Volume Beberapa Materi
+Materi
+Wujud
+Koeisian Muai Volume (/° C)
+Besi
+Padat
+35 × 10-6
+Air
+Cair
+210 × 10-6
+Udara
+Gas
+3400 × 10-6
+177
+ Bab 7 | Termodinamika
+2. Hukum-Hukum tentang Gas 
+ 
+Perilaku gas dalam kondisi tertentu dinyatakan dalam hukum-hukum tentang 
+gas.
+a. Hukum Boyle 
+ 
+Robert Boyle (1627–1691), seorang isikawan Irlandia, mempelajari hubungan 
+antara tekanan (p) dan volume (V) dari gas yang dibatasi pada keadaan ter-
+tentu. Gambar 7.6 memperlihatkan skema percobaan dari Boyle. Perhatikan 
+suhu, volum, tekanan dan jumlah partikel (jumlah mol). Apa yang dapat kalian 
+simpulkan tentang hubungan antara tekanan (p),  volume (V), suhu (T), dan 
+jumlah mol (n)?
+Gambar 7.6  Eksperimen Hukum Boyle
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Hukum Boyle menyatakan bahwa hasil kali antara tekanan dan volume 
+adalah suatu bilangan konstan pada suhu dan jumlah mol tetap atau bisa 
+dituliskan sebagai berikut.
+pV= konstan 
+pada suhu dan jumlah mol tetap                    
+Jadi untuk dua keadaan gas yang berbeda, seperti yang ditunjukkan oleh 
+Gambar 7.6, maka berlaku persamaan seperti di bawah ini.
+p1V1 = p2V2
+Dengan 
+p1 = tekanan gas mula-mula (atm, cmHg, N/m
+2, Pa),
+p2 = tekanan gas akhir (atm, cm Hg, N/m
+2, Pa),
+V1 = volume gas mula-mula (m
+3, cm
+3),
+V2 = volume gas akhir (m
+3, cm
+3).
+(7.1)
+Lakukan Aktivitas 7.1 untuk menunjukkan penerapan dalam pemahaman 
+Hukum Boyle.
+178
+Fisika untuk SMA/MA Kelas XI
+Buatlah paru-paru dengan merujuk 
+pada Gambar 7.7. Pikirkan alat dan 
+bahan yang digunakan serta cara 
+membuatnya. 
+Jelaskan 
+cara 
+kerja 
+paru-paru ketika bernapas dengan 
+menggunakan hukum Boyle. 
+Aktivitas 7.1
+Gambar 7.7  Paru-paru buatan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Pada saat inspirasi tekanan dalam alveoli lebih kecil daripada tekanan 
+atmosfer sedangkan pada saat ekspirasi tekanan dalam alveoli lebih 
+besar daripada tekanan atmosfer. Besarnya tekanan dalam alveoli 
+dapat bervariasi.
+Tahukah Kalian
+Gambar 7.8 Tekanan udara pada saat inspirasi dan ekspirasi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+b. Hukum Charles 
+ 
+Jacques Alexandre César Charles (1746 – 1823), seorang ilmuwan asal Pran-
+cis, mempelajari tentang hubungan volume gas (V) dan suhu (T)  pada keadaan 
+tertentu. 
+Gambar 7.9. memperlihatkan skema percobaan hukum Charles. Apa yang 
+dapat kalian simpulkan tentang hubungan antara volume V, suhu T, tekanan 
+p dan jumlah mol n?
+179
+ Bab 7 | Termodinamika
+Charles menemukan bahwa pada tekanan dan jumlah mol konstan, 
+volume gas berbanding lurus dengan suhu mutlak. Secara matematis hukum 
+Charles dapat dituliskan sebagai berikut.
+V
+T
+= konstan
+Untuk dua keadaan gas yang berbeda, seperti yang ditunjukkan oleh 
+Gambar 7.9, maka berlaku persamaan seperti berikut ini.
+1
+2
+1
+2
+V
+V
+T
+T
+=
+ 
+Gambar 7.9 Eksperimen Hukum Charles
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+c. Hukum Gay-Lussac 
+ 
+Joseph Louis Gay-Lussac (1778 – 1850),  seorang isikawan Prancis, mempela-
+jari hubungan antara tekanan (p) dan suhu (T) dari gas pada keadaan tertentu.
+Gambar 7.10. memperlihatkan eksperimen dari Gay-Lussac, Apa yang 
+dapat kalian simpulkan tentang hubungan antara volume (V), tekanan (p), 
+suhu (T) dan jumlah mol (n)?
+Gambar 7.10 Eksperimen Hukum Gay Lussac
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(7.2)
+Ayo, Amati!
+Berikan contoh fenomena sehari-hari yang berkaitan dengan Hukum 
+Charles. 
+180
+Fisika untuk SMA/MA Kelas XI
+d. Hukum Avogadro  
+Amedeo Carlo Avogadro (1776-1856), seorang ilmuwan Italia, melakukan 
+eksperimen yang mengaitkan  volume gas (V) dengan jumlah mol (n) zat gas 
+tersebut pada keadaan tertentu.
+ Gambar 7.11 memperlihatkan eksperimen Avogadro. Apa yang dapat 
+kalian simpulkan tentang hubungan antara volume (V),  jumlah mol gas (n), 
+tekanan (p) dan suhu (T)?
+Gambar 7.11 Eksperimen Hukum Avogadro
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Amati!
+Berikan contoh fenomena sehari-hari yang berkaitan dengan Hukum 
+Gay-Lussac.
+Hukum Avogadro menyatakan bahwa pada suhu dan tekanan yang sama 
+maka gas dengan volume yang sama mempunyai jumlah molekul yang sama. 
+Secara matematis hukum Avogadro diberikan oleh persamaan
+V
+n = konstan, atau  
+1
+2
+1
+2
+V
+V
+n
+n
+=
+(7.4)
+Gay-Lussac menyatakan bahwa jika volume dari suatu gas dengan massa 
+tertentu dibuat konstan, maka tekanan gas akan meningkat seiring dengan 
+meningkatnya suhu. Secara matematis hukum Gay-Lussac dapat dituliskan 
+sebagai berikut.
+P
+T = konstan
+Untuk dua keadaan gas yang berbeda, seperti yang ditunjukkan oleh 
+Gambar 7.10, maka berlaku persamaan seperti berikut ini.
+1
+2
+1
+2
+P
+P
+T
+T
+=
+ 
+(7.3)
+p
+p
+1
+p
+2
+181
+ Bab 7 | Termodinamika
+Berikan contoh fenomena sehari-hari yang berkaitan dengan Hukum 
+Avogadro. 
+Ayo, Amati!
+3. Gas Nyata dan Hukum Gas Ideal
+Model gas ideal dikembangkan karena sangat berguna dalam mempelajari 
+kelakuan gas sehingga memudahkan para insinyur untuk mengembangkan 
+dan meramalkan sifat-sifat gas sebagai suatu sistem dalam kondisi tertentu. 
+Gas yang ditemui dalam kehidupan sehari-hari disebut gas nyata sedangkan 
+gas ideal merupakan gas yang bersifat teoritis. 
+Perhatikan hubungan antara p, V, T dan n dalam Persamaan 7.5 pada 
+setiap waktu untuk gas nyata. 
+(
+)
+2
+2
+an
+P
+V
+nb
+nRT
+V
+
+
++
+−
+=
+
+
+
+
+dimana a dan b berbeda untuk gas yang berbeda.
+Faktor a menunjukkan pengaruh rata-rata gaya tarik-menarik di antara 
+molekul gas dan faktor b menunjukkan pengaruh volume molekul gas pada 
+keadaan gas.
+Hukum gas ideal atau persamaan gas ideal diperoleh dengan 
+menggabungkan hukum-hukum gas yang telah kalian pelajari (Hukum Boyle, 
+Hukum Charles, Hukum Gay-Lussac, dan Hukum Avogadro). Persamaan gas 
+ideal diberikan oleh
+pV=n RT 
+Dengan : 
+p =  tekanan mutlak pada gas (Pa) 
+V =  volume (m3) 
+n =  jumlah partikel pada gas (mol), 
+T = suhu (K) 
+R = 8.314472 J·K-1·mol-1 (konstanta gas ideal) 
+Gas nyata berlaku seperti gas ideal pada tekanan rendah dan suhu tinggi. 
+Coba kalian bandingkan persamaan gas nyata dengan persamaan gas ideal. 
+Apa perbedaan mendasarnya?
+(7.5)
+(7.6)
+p
+182
+Fisika untuk SMA/MA Kelas XI
+1. Setujukah kalian jika dikatakan bahwa “Persamaan gas ideal 
+berlaku untuk semua gas tanpa membedakan karakteristik gas”. 
+Jelaskan alasan kalian. Asumsi apa yang dibangun dalam model 
+gas ideal? 
+2. Jelaskan dengan pendekatan mikroskopis mengapa gas ideal 
+memerlukan tekanan rendah dan suhu tinggi? Mengapa gas yang 
+berat tidak memenuhi persamaan gas ideal?   
+Ayo, Berdiskusi!
+Pada keadaan suhu kamar dan tekanan atmosfer beberapa gas 
+berlaku seperti gas ideal, misalnya, gas nitrogen, gas oksigen, gas 
+karbondioksida dan gas mulia. 
+Tahukah Kalian
+Ayo, Cek Pemahaman!
+Suatu pressurizer mempunyai gas nitrogen sebanyak 10,0 m
+3 pada 
+suhu 27
+oC dan tekanan 15 atm. Suhu sistem dinaikkan hingga menjadi 
+37
+oC dan volume dikurangi menjadi 8,0 m
+3. Berapa tekanan akhir gas 
+jika diasumsikan gas nitrogen berkelakuan sebagai gas ideal?
+B. Konsep Dasar Termodinamika
+1. Sistem dan Lingkungan  
+Perhatikan Gambar 7.12 dan 
+7.13. Apa perbedaan yang nam-
+pak dari kedua gambar?
+Persamaan (7.6) dapat dituliskan dalam bentuk yang lain 
+pV=NkT
+Dengan : 
+N   =  jumlah partikel  
+NA  =  bilangan Avogadro (6,02 ×1023 mol -1)
+k    =  konstanta Bolzman (1,38 ×10 -23 J·K -1) = R/NA
+(7.7)
+Gambar 7.12  Panci dan sop       Gambar 7.13  Panci tekan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+183
+ Bab 7 | Termodinamika
+Panci berisi sop merupakan sistem terbuka dan pressure cooker mendekati 
+sistem tertutup. Sistem termodinamika merupakan suatu ruang terbatas 
+atau sejumlah materi berupa gas yang di dalamnya terjadi proses-proses 
+termodinamika. Batas yang memisahkan sistem dari luar sistem disebut 
+sebagai lingkungan.
+a. 
+Sistem terbuka mempertukarkan materi dan energi dengan lingkungan.  
+b. 
+Sistem tertutup mempertukarkan energi dengan lingkungan.
+c. 
+Sistem terisolir tidak mempertukarkan materi dan energi dengan 
+lingkungan.    
+Sistem termodinamika dapat berubah ukurannya, artinya dapat 
+mempunyai batas yang diam atau bergerak.   
+Aktivitas 7.2
+Menurut kalian apakah contoh-contoh berikut  ini merupakan 
+sistem terbuka atau sistem tertutup atau sistem terisolir. Mengapa? 
+Diskusikan.  
+1. tubuh manusia
+2. mangkok berisi bubur 
+3. kayu yang terbakar
+4. termos
+5. mesin mobil
+6. kompresor AC
+7. ban sepeda yang dipompa
+Manakah di antara sistem tersebut yang berupa gas?
+Menurut kalian apakah contoh-contoh sistem berikut ini mempunyai 
+ukuran tetap atau dapat berubah   
+1. 
+gas dalam ruang yang dihubungkan dengan piston
+2. 
+air mendidih 
+3. 
+mengisi udara dalam ban sepeda
+Ayo berpikir Kritis
+184
+Fisika untuk SMA/MA Kelas XI
+2. Sifat-sifat Sistem Termodinamika  
+ 
+Sistem termodinamika memiliki sifat-sifat termodinamika yang bersifat mak-
+ro, yang dapat dijelaskan secara mikroskopis. Perhatikan Gambar 7.14 yang 
+menunjukkan gas sebagai sistem. Suhu, tekanan, dan volume gas menunjuk-
+kan sifat gas.  Sifat ini mempunyai nilai tertentu atau variabel keadan pada 
+keadaan tertentu sehingga tekanan (p), suhu (T), dan volume (V) merupakan 
+variabel-variabel keadaan.
+Sifat-sifat sistem  dapat diukur baik langsung maupun tidak langsung pada 
+saat sistem mengalami kesetimbangan dengan lingkungan. Dalam keadaan 
+setimbang sifat harus serbasama dalam keseluruhan sistem, misalnya hanya 
+ada satu nilai suhu saja. 
+Sifat sistem sebagai materi ada dua, yaitu :
+a. 
+Intrinsik, tidak bergantung pada massa. Contoh: suhu, tekanan udara, dan 
+massa jenis,
+b. 
+Ekstrinsik, bergantung pada massa. Contoh: berat dan volume, energi 
+dalam, dan entropi.
+Kalian perlu memperhatikan bahwa variabel keadaan menggambarkan 
+keadaan sistem, bukan cara mencapai sistem tersebut. Gas dimanfaatkan 
+sebagai sistem dalam berbagai mesin. Contohnya, mesin uap menggunakan 
+uap air demikian juga turbin dalam pembangkit tenaga listrik. 
+C. Proses-proses Termodinamika 
+ 
+Proses termodinamika adalah perubahan yang dialami oleh sistem dari suatu 
+keadaan kesetimbangan ke keadaan kesetimbangan lainnya karena transfer 
+dan transformasi energi atau materi. Perubahan nilai sifat gas ditentukan oleh 
+keadaan awal dan keadaan akhir. 
+Gambar 7.14  Gas sebagai sistem
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+185
+ Bab 7 | Termodinamika
+Variabel Keadaan
+Keadaan Awal
+Keadaan Akhir
+Tekanan
+po
+2po
+Volume
+Vo
+2Vo
+1. Diagram p-V 
+ 
+Diagram p-V menunjukkan proses yang terjadi dalam suatu sistem. Setiap titik 
+dalam diagram p-V menyatakan suatu keadaan gas berupa informasi tentang 
+suhu, tekanan dan volume. Contoh diberikan dalam Gambar 7.15.
+Diagram p-V dapat juga menunjukkan 
+suatu siklus proses yaitu serangkaian 
+perubahan keadaan yang dialami oleh 
+gas sehingga keadaan akhirnya tepat 
+seperti keadaan awalnya. 
+Melalui 
+hukum 
+I 
+Termodinamika 
+maka usaha W, kalor Q dan perubahan 
+energi dalam ∆U dapat diketahui dari 
+diagram p-V.
+Tabel 7.2 Keadaan Awal dan Keadaan Akhir Suatu Gas
+Gambar 7.15  Proses termodinamika  dalam Diagram p-V
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+2. Usaha dan Gas Ideal  
+ 
+Perhatikan Gambar 7.16(a). Pada tekanan tetap piston ditarik ke kanan sehing-
+ga piston mengalami perpindahan sejauh ∆s. Usaha yang dilakukan oleh gas 
+adalah 
+W = F ∆s =p A ∆s = p ∆V 
+Dengan :  
+ p = tekanan (Pa),
+A  = luas permukaan (m
+2), 
+∆s  = perpindahan (m),
+∆V = perubahan volume (m
+3).
+(7.8)
+Gambar 7.16  (a) Usaha yang dilakukan oleh gas dan (b) Usaha yang dilakukan oleh gas dalam diagram p-V
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+a
+b
+186
+Fisika untuk SMA/MA Kelas XI
+Gambar 7.16 (b) menunjukkan diagram p-V dari usaha yang dilakukan 
+oleh gas. Usaha yang dilakukan oleh gas atau pada gas sama dengan luas 
+daerah dalam diagram p-V. 
+3. Empat Proses Termodinamika
+Gambar 7.17  menunjukkan empat proses 
+termodinamika dalam diagram p-V.
+Keempat proses termodinamika tersebut 
+adalah proses adiabatis, proses isobarik, 
+proses isotermal, proses isokhorik dan 
+proses isobarik. 
+Keempat 
+proses 
+termodinamika 
+tersebut adalah proses adiabatis, proses 
+isobarik, proses isotermal, dan proses 
+isokhorik.
+a. Proses Adiabatis  
+Pada proses adiabatis tidak terjadi perpindahan kalor antara sistem dengan 
+lingkungan. Sistem adiabatis merupakan suatu pendekatan karena tidak mun-
+gkin ada keadaan tanpa perpindahan kalor sama sekali. Keadaan ini dapat 
+terjadi jika proses termodinamika berlangsung sangat cepat sehingga tidak 
+terjadi perpindahan kalor pada bidang batas. Kompresi dan ekspansi dari me-
+sin pembakaran turbin dapat terjadi dalam waktu yang sangat singkat karena 
+putaran yang cepat sehingga merupakan peristiwa adiabatis.
+b. Proses Isobarik 
+ 
+Gambar 7.18 menunjukkan air yang mendidih dalam panci terbuka. Tekanan 
+yang dialami air adalah tekanan atmosfer. Kalor menaikkan suhu air sehingga 
+air berubah menjadi uap air. Uap air mempunyai suhu yang lebih tinggi dan 
+menempati volume yang lebih besar pada 
+tekanan tetap.  Proses isobarik adalah proses 
+yang terjadi pada tekanan tetap.
+Gambar 7.17  Empat proses termodinamika
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 7.18 Air mendidih dalam panci terbuka
+sumber : Rodnae/Pexels (2021)
+187
+ Bab 7 | Termodinamika
+c. Proses Isotermal  
+Proses isotermal adalah proses yang terjadi pada suhu tetap. Ada dua jenis 
+proses isotermal, yaitu proses isotermal ekspansi dan proses isotermal kom-
+presi.
+d. Proses Isokhorik  
+Pressure cooker yang sedang beroperasi merupakan contoh alat yang men-
+galami proses isokhorik walau tidak terjadi secara 100%. Proses isokhorik ada-
+lah proses yang terjadi pada volume tetap.
+Mengapa proses yang dialami pressure cooker adalah isokhorik? 
+Ayo, Berpikir Kritis!
+4. Proses Reversibel dan Proses Ireversibel 
+Proses reversibel merupakan proses yang keadaan akhir dapat dikembalikan 
+ke keadaan awalnya. Jika proses reversibel digambarkan dalam diagram p-V 
+maka lintasan yang dilalui sama. Proses ireversibel tidak berlaku seperti itu. 
+Semua proses alami merupakan proses ireversibel. Ketika membahas hukum 
+II Termodinamika maka proses ireversibel berkaitan dengan proses spontan.  
+Ayo, Cek Pemahaman!
+Tentukan 
+empat 
+proses 
+termodinamika 
+yang 
+terjadi 
+dalam siklus berikut ini. 
+Gambar 7.19  Siklus Proses Termodinamika
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+188
+Fisika untuk SMA/MA Kelas XI
+D. Hukum-hukum Termodinamika
+1. Hukum ke Nol Termodinamika  
+Hukum ke Nol Termodinamika berbunyi, “jika benda pertama, secara terpisah, 
+berada dalam kesetimbangan termal dengan benda kedua dan ketiga, maka ben-
+da kedua dan ketiga juga berada dalam kesetimbangan termal”.
+2. Hukum 1 Termodinamika (Hukum Kekekalan Energi)
+a. Usaha dan Kalor   
+Kalian sudah belajar bahwa James Prescott Joule (1818 – 1889) melakukan 
+eksperimen untuk menunjukkan prinsip kekekalan energi dimana usaha 
+dapat diubah menjadi kalor. 
+Sepeda dapat menjadi panas karena menerima kalor dari Matahari. 
+Ban sepeda juga dapat menjadi panas karena menerima usaha yaitu dengan 
+dipompa. Kalor dan usaha merupakan energi yang transit, yaitu energi yang 
+tidak pernah disimpan dalam sistem.   
+b. Energi Dalam
+Apa itu energi dalam? Gosoklah kedua tanganmu dan keduanya menjadi 
+panas. Energi kinetik menaikkan suhu kedua tangan sehingga energi dalam 
+pada tangan juga bertambah.  Energi dalam merupakan jumlah semua energi 
+yang dimiliki oleh suatu sistem. Energi dalam juga merupakan suatu variabel 
+keadaan.
+Nilai energi dalam berkaitan dengan nilai tekanan, volume dan suhu pada 
+keadaan tertentu; tidak bergantung pada cara memperolehnya. Untuk gas 
+ideal, energi dalam hanya ditentukan oleh suhu. Secara mikroskopik energi 
+dalam diasosiasikan dengan gerak molekul-molekul yang acak dan gaya antara 
+molekul yang menimbulkan energi potensial.  
+Bagaimana hubungan antara cara kerja termometer dengan hukum 
+ke nol termodinamika?   
+Ayo, Berpikir Kritis!
+189
+ Bab 7 | Termodinamika
+Kekekalan energi berlaku juga 
+dalam tubuh manusia. Makanan 
+sebagai sumber energi digunakan 
+untuk energi termal, melakukan 
+usaha dan menyimpan lemak. 
+Carilah 
+informasi 
+kebutuhan 
+energi yang diperlukan oleh remaja 
+seumur kalian dan banyak energi 
+yang disimpan oleh 100 gram lemak.
+1. Sediakan balon, botol kaca, 
+wadah dan air panas.
+2. Pasang balon pada mulut botol. 
+3. Letakkan balon dan botol di 
+dalam wadah berupa mangkok. 
+4. Tuang air panas ke dalam 
+mangkok. Tunggu beberapa 
+menit dan amati apa yang 
+terjadi pada balon.
+Lakukan Aktivitas 7.3 untuk lebih memahami kekekalan energi.
+Pertanyaan
+1. 
+Apa yang terjadi pada balon setelah air panas dituang ke dalam 
+mangkok? Mengapa demikian? 
+2. 
+Jelaskan prinsip kekekalan energi yang terjadi.  
+3. 
+Agar mendapatkan hasil eksperimen yang optimal pikirkan 
+kriteria botol dan mangkok yang diperlukan dalam hubungannya 
+dengan perpindahan kalor. Gunakan metode ilmiah untuk 
+membuktikan penemuan kalian. 
+Ayo, Berdiskusi!
+Gambar 7. 20  Kekekalan energi dalam 
+tubuh manusia
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 7.21 Eksperimen kekekalan energi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Aktivitas 7.3
+190
+Fisika untuk SMA/MA Kelas XI
+Hukum 1 Termodinamika merumuskan kekekalan energi yang melibatkan 
+energi dalam, usaha dan kalor. Kalor yang masuk atau  keluar dari sistem dan 
+atau usaha yang diterima atau dilakukan oleh gas memengaruhi perubahan 
+energi dalam. Perhatikan Gambar 7.22. Hukum I Termodinamika menyatakan 
+bahwa perubahan energi dalam dari suatu sistem merupakan selisih kalor yang 
+masuk dalam sistem dan  usaha yang dilakukan oleh sistem.
+Secara matematis dapat ditulis sebagai berikut.
+∆U = Q - W
+Dengan : 
+∆U = perubahan energi dalam sistem (kal atau J)
+Q    = kalor (kal atau J)
+W   = usaha (kal atau J)
+Usaha dan kalor bertanda negatif jika usaha dilakukan oleh sistem dan kalor 
+diambil dari sistem. Usaha dan kalor bertanda  positif jika usaha dilakukan 
+pada sistem dan kalor diberikan pada sistem.
+Gambar 7.22  Bagan Hukum 1 Termodinamika
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Suatu sistem memperoleh kalor sebesar 30.000 J dan mendapatkan 
+usaha sebesar 20.000 J. Berapa perubahan energi dalam?
+3. Aplikasi Hukum I Termodinamika dalam Proses Termodinamika  
+a. Proses Adiabatis   
+Pembakaran dalam mesin mobil terjadi sangat cepat sehingga tidak ada waktu 
+untuk terjadi pertukaran kalor dengan lingkungan. Karena tidak ada pertu-
+karan kalor dengan lingkungan maka Q = 0, sehingga
+∆U = Q - W→∆U= 0 - W
+∆U = - W
+(7.9)
+(7.10)
+Ayo, Cermati!
+191
+ Bab 7 | Termodinamika
+b. Proses Isobarik 
+ 
+Balon udara yang dapat naik ke atas merupakan contoh proses isobarik. Peru-
+bahan energi dalam
+∆U = Q - W
+Usaha dilakukan oleh balon udara yang mendapatkan kalor. 
+c. Proses Isotermal  
+Jika suhu tetap maka perubahan energi dalam adalah nol (∆U = 0) sehingga W 
+= Q.  Usaha dapat dinyatakan sebagai berikut.   
+W = nRT ln 
+2
+1
+V
+V
+
+
+
+
+
+                                                                                   
+d. Proses Isokhorik     
+ 
+Suatu gas dipanaskan dalam wadah yang kaku. Usaha yang dilakukan pada 
+dan oleh gas adalah nol sehingga
+∆U = Q
+Semua kalor yang diterima oleh sistem untuk menaikkan suhu sistem.  
+4. Kapasitas Panas (Kapasitas Kalor) 
+ 
+Kapasitas panas adalah banyak kalor yang dibutuhkan untuk menaikkan suhu 
+zat sebesar 1 K. Kapasitas panas gas dibedakan atas dua jenis, yaitu berdasar-
+kan volume tetap dan tekanan tetap. Besar kapasitas panas pada volume tetap 
+dan pada tekanan tetap diberikan oleh
+3
+2
+3
+5
+2
+2
+V
+p
+V
+C
+n R
+C
+C
+nR
+n R
+nR
+n R
+=
+=
++
+=
++
+=
+Contoh gas monoatomik nyata yang mempunyai kalor jenis molar pada 
+volume tetap mendekati gas ideal (3/2 R = 12,5) adalah gas Helium (12,5) dan gas 
+Argon (12,6). Partikel gas monoatomik terbentuk dari satu atom saja. Contoh 
+gas diatomik nyata yang mempunyai kalor jenis molar pada volume tetap 
+mendekati gas ideal (5/2 R = 20,8) adalah gas Nitrogen (20,7) dan gas Oksigen 
+(20,8).  Partikel gas diatomik terbentuk dari dua atom. Panas kalor molar adalah 
+kalor yang diperlukan untuk menaikkan suhu 1 mol gas sebesar 1 K. 
+(7.11)
+(7.12)
+(7.13)
+(7.14)
+(7.15)
+192
+Fisika untuk SMA/MA Kelas XI
+Ayo, Berpikir Kritis!
+Mengapa kalor jenis pada tekanan tetap lebih besar daripada kalor 
+jenis pada volume tetap?
+Tahukah Kalian
+Telon (PTFE) merupakan bahan yang digunakan untuk berbagai 
+keperluan. Telon tanpa sengaja ditemukan pada tahun 1938. Ahli 
+kimia Roy Plunkett (1910 – 1994) menyimpan gas tetraluoretilen 
+dalam silinder-silinder kecil pada suhu yang sangat rendah untuk 
+keperluan bahan pendingin yang tidak beracun.  Ternyata, ketika 
+silinder dibuka, tidak ada gas. Malah, yang ditemukan bubuk putih 
+yang melapisi bagian dalam tabung.  Suhu rendah menurunkan 
+tekanan, sesuai dengan hukum Gay-Lussac.  Coba kalian selidiki pada 
+suhu berapa gas ini berubah menjadi padat.
+Ayo, Cek Pemahaman!
+Suatu gas dimapatkan pada tekanan tetap 1,0 atm dari 9 liter menjadi 
+2 liter. Dalam proses tersebut kalor sebesar 400 J meninggalkan gas. 
+Berapa usaha yang dilakukan pada gas? Berapa perubahan energi 
+dalam gas? 
+Hukum I Termodinamika mempunyai keterbatasan. Ketika mobil direm 
+timbul panas akibat gesekan. Panas yang timbul oleh gaya gesek sama dengan 
+usaha yang dilakukan oleh gaya gesek. Dapatkah kalor ini diubah kembali 
+menjadi energi kinetik? 
+Hukum I Termodinamika menjelaskan kekekalan energi tetapi tidak dapat 
+menjelaskan arah suatu proses sehingga diperlukan Hukum II Termodinamika. 
+5. Hukum II Termodinamika 
+ 
+Ada tiga cara menyatakan Hukum II Termodinamika yaitu pernyataan dari 
+Clausius, Kelvin-Plank, dan tentang entropi. Pembahasan Hukum II Termodi-
+namika dimulai dengan pemahaman tentang entropi, suatu besaran isis yang 
+baru bagi kalian.
+193
+ Bab 7 | Termodinamika
+a. Entropi  
+ 
+Ban akan kempes dengan sendirinya jika pentil dibuka. Apakah ban dapat 
+mengisi kembali udara sendiri tanpa dilakukan apapun? Bola dapat meng-
+gelinding ke bawah dengan sendirinya jika diletakkan di atas bidang miring. 
+Dapatkah bola tersebut mendaki bidang miring tanpa bantuan apapun? Pros-
+es spontan akan terjadi dengan sendirinya tanpa masukan energi dari sekitarn-
+ya, tetapi tidak demikian halnya dengan kebalikan dari proses tersebut. Bola 
+yang sudah tiba di dasar bidang miring memerlukan energi untuk mencapai 
+puncak bidang miring. 
+Proses spontan disebut juga proses ireversibel atau proses satu arah. 
+Sedangkan proses reversibel  adalah proses yang tidak spontan atau proses 
+dua arah. Proses reversibel merupakan proses ideal. 
+Ayo, Berpikir Kritis!
+Andaikan bola dapat mendaki bidang miring dengan spontan, apakah 
+peristiwa ini bertentangan dengan Hukum I Termodinamika?     
+Proses spontan menunjukkan bahwa suatu peristiwa terjadi dalam arah 
+tertentu dan berkaitan dengan suatu besaran isika yang disebut sebagai 
+entropi. Sebagaimana dengan energi dalam maka entropi juga merupakan 
+fungsi keadaan. Hukum II Termodinamika menyatakan bahwa pada proses 
+spontan  (proses ireversibel) entropi dalam sistem terisolir bertambah. Perubahan 
+entropi  (∆S) dalam suatu proses yang terjadi pada suhu (T) dinyatakan sebagai:
+Q
+s
+T
+∆=
+Dengan : 
+Q  = kalor yang diterima oleh sistem 
+(bertanda positif) dan kalor yang dilepaskan oleh 
+sistem (bertanda negatif) (J),
+  T = suhu (K).
+Kalian dapat memahami perubahan entropi dengan jelas melalui peristiwa 
+ini.  Air bersuhu tinggi dicampur dengan air bersuhu rendah. Campuran ini 
+pada akhirnya mengalami kesetimbangan termal. Jelas, perubahan entropi air 
+panas  lebih kecil daripada perubahan entropi air dingin sehingga penjumlahan 
+entropi keduanya menghasilkan pertambahan entropi. Perpindahan kalor dari 
+benda bersuhu tinggi ke benda bersuhu rendah merupakan proses spontan.
+(7.16)
+194
+Fisika untuk SMA/MA Kelas XI
+Gambar 7.23 Telepon genggam mulus dan retak
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Pemahaman lain tentang entropi 
+adalah entropi merupakan ukuran 
+ketidakteraturan  suatu sistem. Makin 
+besar ketidakteraturan suatu sistem 
+makin besar entropinya. Bandingkan 
+telpon genggam yang retak dan mulus. 
+Mana yang mempunyai entropi yang 
+lebih besar? Mengapa?
+Jika hukum pertama tentang kuantitas 
+energi maka hukum kedua berbicara 
+tentang kualitas energi. Perhatikan 
+Gambar 7.24 menunjukkan energi 
+potensial yang dimiliki oleh air 
+sebelum jatuh dan perubahan energi 
+ketika air jatuh. Jatuhnya air terjun 
+merupakan suatu proses spontan.
+Gambar 7.24   Air terjun menyimpan energi potensial
+Sumber : urformat/pixabay (2016)
+Air yang sudah jatuh tidak lagi mampu melakukan usaha untuk 
+memutar turbin. Kualitas energi berkurang dengan terjadinya transfer dan 
+transformasi energi.  Entropi bertambah ketika energi ditransfer. Kehilangan 
+sejumlah energi terhadap lingkungan menaikkan entropi karena entropi 
+menggambarkan besar energi yang tidak dapat digunakan untuk melakukan 
+usaha. Makin besar entropi makin sedikit energi yang bisa digunakan untuk 
+melakukan usaha. 
+Manakah yang mempunyai entropi yang lebih besar, es atau gas? 
+Jelaskan.  
+Mengapa pembakaran hutan menaikkan entropi? Setujukah kalian 
+dengan pernyataan bahwa makin besar entropi maka makin besar 
+kerusakan alam dan makin sulit untuk memperbaikinya.  
+Ayo, Berdiskusi!
+195
+ Bab 7 | Termodinamika
+Hukum II Termodinamika menyatakan bahwa entropi dari suatu sistem 
+yang terisolir tidak pernah berkurang. Sistem terisolir dapat berupa jagad raya 
+yang terdiri atas suatu sistem dan lingkungan. Perubahan entropi total dapat 
+ditinjau dalam proses reversibel dan proses ireversibel seperti yang diberikan 
+di bawah ini.
+Pada proses reversibel (tidak spontan), perubahan entropi total, yaitu 
+perubahan entropi sistem dan lingkungannnya adalah nol, karena
+∆Stotal  = ∆Slingkungan + ∆Ssistem
+∆Stotal  = 0  
+Pada proses ireversibel (spontan), perubahan entropi total, yaitu 
+perubahan entropi sistem dan lingkungannya lebih besar dari nol.
+∆Stotal  > 0                                                            
+Jika kalor berpindah dari benda bersuhu rendah ke benda bersuhu tinggi 
+maka perubahan entropinya akan berkurang. Hal ini menyalahi Hukum II 
+Termodinamika.
+(7.17)
+(7.18)
+Ayo, Berdiskusi!
+1. Tentukan apakah proses bersifat spontan atau tidak.  Perpindahan 
+panas terjadi secara lambat dari teh panas bersuhu 60
+o terhadap 
+lingkungan bersuhu 28
+o. Kalor yang berperan adalah sebesar 10 J. 
+2. Tepatkah jika dikatakan bahwa untuk proses reversibel perubahan 
+entropi adalah nol? Jelaskan. 
+Ayo, Berpikir Kritis!
+Tepatkah jika dikatakan bahwa berdasarkan Hukum II Termodinamika 
+maka tidak mungkin ada proses yang hasilnya perpindahan kalor dari 
+benda bersuhu rendah ke benda bersuhu tinggi? Jelaskan.
+196
+Fisika untuk SMA/MA Kelas XI
+Ayo, Berdiskusi!
+Clauisus dan Kelvin-Planck mengusung  reservoir termal dalam 
+penjelasan Hukum II Termodinamika. Perhatikan Gambar 7.26 
+yang menunjukkan atmosfer dan laut. Apakah pemberian atau 
+pengambilan sejumlah kalor dari atmosfer memengaruhi suhunya?
+Reservoir termal merupakan suatu sistem yang sangat besar yang mana 
+pemberian atau pengambilan sejumlah kalor tidak memengaruhi suhunya. 
+Setiap benda yang kapasitas energinya jauh lebih besar daripada kalor yang 
+diterima atau dilepaskan disebut sebagai reservoir termal. 
+Gambar 7.26  Atmosfer dan Laut
+Sumber : Marianna MR/Kemendikbudristek (2022)
+Perhatikan Gambar 7.25a dan Gambar 7.25b. 
+Mana lebih mudah dilakukan mengembalikan kondisi udara sebelum 
+polusi atau tanah sebelum polusi?. Mengapa? Hubungkan dengan 
+Hukum II Termodinamika. Hubungkan juga dengan usaha manusia 
+berupa dana, daya dan waktu. Apa yang harus dilakukan untuk 
+mencegah polusi udara dan polusi tanah?    
+Kesadaran Lingkungan
+Gambar 7.25 (a) Polusi udara 
+ Gambar 7.25 (b) Polusi tanah
+Sumber : (a) Pixabay (2016) 
+ 
+ (b) Stijn Dijkstra/Pexels  (2019)          
+197
+ Bab 7 | Termodinamika
+b. Pernyataan Clausius 
+ 
+Perpindahan panas dari benda bersuhu tinggi ke benda bersuhu rendah ter-
+jadi secara spontan. Menurut Clausius Tidak mungkin membuat suatu mesin 
+yang beroperasi dalam suatu siklus dan perpindahan panas terjadi dari benda 
+bersuhu rendah (reservoir dingin) ke benda bersuhu tinggi.  
+Gambar 7.27  menunjukkan pernyataan Clausius.
+c. Pernyataan Kelvin-Planck  
+Menurut Kelvin-Planck sebuah mesin yang beroperasi dalam suatu siklus, 
+yang menerima kalor dari suatu resevoir termal, tidaklah mungkin mengubah 
+semua kalor menjadi usaha.  Gambar 7.28 menunjukkan proses kerja mesin 
+berdasarkan pernyataan Kelvin-Planck
+Gambar 7.27  Pernyataan Clausius
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 7.28   Kerja mesin berdasarkan Pernyataan Kelvin-Planck
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berdiskusi!
+Mesin diesel mengubah bahan bakar menjadi kalor yang selanjutnya 
+diubah menjadi usaha. Satu liter solar menghasilkan 9,24 kkal. Selidiki 
+eisiensi mesin diesel  dari beberapa mobil yang menggunakan solar. 
+Berapa eisiensi maksimumnya?
+×
+Usaha
+Usaha
+198
+Fisika untuk SMA/MA Kelas XI
+E. Mesin Kalor dan Pompa Kalor
+1. Mesin Kalor  
+ 
+Energi mekanik dapat dihasilkan langsung dari air dan angin. Tetapi, pada 
+umumnya energi mekanik diperoleh secara tak langsung dari bahan bakar 
+fosil yang diubah menjadi energi termal. Mesin kalor menggunakan kalor un-
+tuk melakukan usaha dan memerlukan siklus untuk berfungsi. Contoh jenis 
+mesin yang bekerja dalam siklus adalah mesin piston dan turbin. Mesin mobil 
+termasuk mesin kalor.
+Ayo, Berpikir Kritis!
+Hukum II Termodinamika menyatakan bahwa tidak ada mesin dengan 
+eisiensi 100%. Setujukah kalian dengan pendapat ini?  Mengapa? 
+Kemanakah perginya energi yang terbuang?  
+Ayo, Berpikir Kritis!
+Apakah pernyataan Kelvin-Planck dan Clausius setara? Jelaskan 
+jawaban kalian.
+Kesadaran Lingkungan
+Apakah dampak penerapan pernyataan Kelvin Planck dalam mesin 
+kalor terhadap lingkungan?
+Gambar 7.29  Mesin mobil sebagai mesin kalor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+199
+ Bab 7 | Termodinamika
+Hukum I dan II Termodinamika membatasi kerja mesin kalor. Carnot 
+mengajukan ide mesin kalor yang eisien.
+a. Mesin Carnot 
+ 
+Nicolas Léonard Sadi Carnot (1796 – 1832), seorang isikawan Prancis, pada 
+tahun 1824 menggagas sebuah mesin kalor ideal (mesin teoritis) yang disebut 
+mesin Carnot. Menurut Carnot “tidak mungkin ada mesin yang beroperasi di 
+antara dua reservoir termal yang lebih eisien daripada sebuah mesin kalor 
+yang beroperasi secara reversibel pada dua reservoir yang sama”. Jadi, mesin 
+Carnot merupakan mesin yang paling eisien. 
+Mesin Carnot bekerja berdasarkan suatu proses termodinamika yang 
+membentuk siklus Carnot. Siklus hanya menggunakan proses isotermal dan 
+adiabatik. Proses dalam mesin Carnot bersifat reversibel. Gambar 7.30a 
+memperlihatkan skema mesin Carnot yang beroperasi antara reservoir 
+bersuhu tinggi  Th dan bersuhu rendah Tc. Gambar 7.30b memperlihatkan 
+Diagram p-V untuk siklus Carnot. Perhatikan kalor yang masuk ke dalam 
+sistem Qh dan kalor yang keluar dari sistem Qc.
+Proses-proses termodinamika yang terjadi pada mesin Carnot dan 
+perumusan matematika yang bersesuaian dengannya diberikan dalam  Tabel 
+7.3.
+a
+b
+Gambar 7.30 (a) Skema mesin Carnot 
+ (b)  Siklus Carnot
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+200
+Fisika untuk SMA/MA Kelas XI
+Proses Termodinamika
+Persamaan
+Isotermal ekspansi
+Q = W = nRTH ln Va/Vb 
+∆U = 0
+Adiabatis ekspansi
+W = nCv ∆T
+Q = 0
+Isotermal kompresi
+Q = W = nRTH ln Va/Vb 
+∆U = 0
+Adiabatis kompresi
+W = nCv ∆T
+Q = 0
+Aktivitas 7.4
+Perhatikan Gambar 7.31 yang menunjukkan proses-proses yang 
+terjadi dalam mesin Carnot ( Siklus Carnot) dan Gambar 7.32 yang 
+menunjukkan cara kerja kincir air. 
+Gambar 7.31 Siklus mesin Carnot
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 7.32 Cara kerja kincir air
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tabel 7.3 Proses Termodinamika Mesin Carnot
+Usaha total yang dilakukan oleh gas adalah
+Qh=W+Qc→W=Qh-Qc  
+Eisiensi mesin Carnot adalah perbandingan usaha yang dilakukan 
+terhadap kalor yang diserap  
+100%
+100%
+1
+100%
+h
+c
+h
+h
+c
+h
+Q
+Q
+W
+Q
+Q
+Q
+Q
+η
+η
+
+
+−
+=
+×
+= 
+
+
+
+
+
+=
+−
+
+
+
+
+(7.19)
+(7.20)
+201
+ Bab 7 | Termodinamika
+Aktivitas 7.5
+Jadi, menurut Carnot, eisiensi mesin ditentukan oleh kedua suhu 
+reservoir termal bukan oleh jenis luida yang bekerja dalam mesin 
+dan jenis mesin. Carilah informasi tentang eisiensi mesin suatu 
+jenis mobil. Selidiki apakah memang eisiensi mesin mobil hanya 
+ditentukan oleh suhu kedua reservoir termal.    
+Perhatikan Persamaan 7.20 yang menyatakan eisiensi mesin Carnot. 
+Mungkinkah diperoleh mesin dengan eisiensi 100%? Jelaskan 
+termasuk kendala untuk mencapainya. Mengapa tidak mungkin 
+membuat mesin reversibel dalam dunia nyata? 
+Ayo Berpikir Kritis!
+Carnot mendesain cara kerja mesinnya dengan mengacu pada 
+cara kerja kincir air. 
+a. Jelaskan cara kerja mesin Carnot menurut urutan siklus.
+Kapan gas melakukan usaha? Kapan usaha dilakukan pada 
+gas?
+b. Mengapa kincir air dapat berputar? Mengapa gas dapat 
+mengembang? 
+c. Apa asumsi yang dibangun agar energi tidak berkurang ketika 
+air jatuh pada kincir air? Apa asumsi yang dibangun agar 
+energi panas tidak berkurang ketika diserap mesin Carnot?
+d. Mengapa proses kerjanya kincir air harus reversibel? 
+Mengapa proses dalam mesin Carnot harus reversibel?     
+e. Berapa perubahan energi dalam dari mesin Carnot?
+Untuk memperdalam konsep yang dibangun oleh Carnot dalam kehidupan 
+sehari-hari lakukan Aktivitas 7.5.
+202
+Fisika untuk SMA/MA Kelas XI
+2. Pompa Kalor  
+ 
+Pompa kalor adalah alat yang digunakan untuk memindahkan energi dari 
+tempat bersuhu lebih rendah ke tempat bersuhu lebih tinggi. Pompa kalor 
+dapat digunakan untuk pemanasan atau pendinginan. Prinsip kerja yang 
+berkebalikan dari mesin Carnot digunakan dalam pompa kalor, sebagaimana 
+yang ditunjukkan oleh Gambar 7.33.  
+Gambar 7.33b Siklus pompa kalor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 7.33a Skema pompa kalor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Coba kalian jelaskan cara kerja pompa kalor. Apakah proses reversibel 
+juga terjadi dalam operasi pompa kalor?  
+Ayo, Berdiskusi!
+Koeisien performa (COP) dari pompa kalor menunjukkan seberapa baik 
+performa dari suatu pompa kalor. COP (Coeicient of Performance) merupakan 
+perbandingan antara output yang digunakan dengan input yang diberikan. 
+Pada pompa kalor, input adalah usaha dan output dapat merupakan kalor 
+yang diberikan atau kalor yang dibuang. Jika pompa kalor digunakan sebagai 
+pendingin maka keluaran adalah kalor yang dibuang. Sebaliknya, jika pompa 
+kalor digunakan sebagai pemanas maka keluarannya adalah kalor yang 
+diberikan pada ruangan. 
+Qh = Win + Qc
+h
+hp
+in
+Q
+COP
+W
+=
+=
+Dengan 
+hp
+COP = koeisien performa mesin kalor untuk pemanas.
+(7.21)
+203
+ Bab 7 | Termodinamika
+Perhatikan Persamaan 7.20 dan Persamaan 7.21 serta hubungan di 
+antara keduanya. Mengapa pompa kalor kurang  bekerja dengan 
+optimal di daerah Kutub?   
+Ayo, Berpikir Kritis!
+Lakukan Aktivitas 7.6 untuk memperdalam pemahaman akan pompa kalor.
+Aktivitas 7.6
+Bacalah informasi tentang pompa kalor, dan pemanas gas yang 
+digunakan untuk memanaskan ruangan. Bandingkan eisiensi yang 
+berujung pada biaya penggunaan, cepatnya memanaskan ruangan dan 
+keselamatan.   
+Tentukan COP dari pompa kalor 
+berdasarkan Gambar 7.34.
+Ayo, Berdiskusi!
+Gambar 7.34 Pompa kalor dengan spesiikasi tertentu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cek Pemahaman!
+Jelaskan graik suhu T terhadap entropi S dari mesin Carnot. 
+Gambar 7.35 Siklus Carnot dan entropi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+204
+Fisika untuk SMA/MA Kelas XI
+Teori kinetik gas menjelaskan gerak partikel-partikel gas berdasarkan 
+hasil pengamatan terhadap sifat gas. Gas memenuhi beberapa hukum 
+gas. Berbeda dengan gas nyata maka gas ideal memenuhi hukum gas 
+ideal yaitu pV = nRT dimana p, V dan T merupakan variabel keadaan 
+yang masing-masing menyatakan tekanan, volume dan suhu. 
+      Sistem termodinamika merupakan suatu ruang terbatas atau 
+sejumlah materi berupa gas yang di dalamnya terjadi proses-proses 
+termodinamika. Proses yang dapat dialami oleh gas ideal adalah proses 
+adiabatis, proses isotermal, proses isobarik dan proses isokhorik. 
+Keadaan gas dapat dinyatakan dalam diagram p-V yang memberikan 
+informasi tekanan, volume, suhu, perubahan energi dalam, kalor dan 
+usaha.   
+Hukum ke nol termodinamika mengatakan jika benda pertama 
+berada dalam kesetimbangan termal dengan benda kedua dan ketiga, 
+maka benda kedua dan ketiga juga berada dalam kesetimbangan 
+termal. 
+Hukum 
+pertama 
+termodinamika 
+merupakan 
+hukum 
+kekekalan energi yang menyatakan ∆U = Q – W dimana ∆U adalah 
+perubahan energi dalam, Q adalah kalor dan W adalah usaha.  
+Intisari
+Perhatikan Persamaan 7.21 dan Persamaan 7.22. Setujukah kalian jika 
+dikatakan bahwa COP pendingin udara selalu lebih kecil daripada 
+pompa kalor.
+Ayo, Berdiskusi!
+Pendingin Udara dan Lemari Pendingin
+Fungsi pendingin udara dan lemari pendingin adalah mendinginkan suatu 
+ruang, kebalikan dari fungsi pemanas. Koeisien performa dari kedua mesin 
+ini merupakan perbandingan perpindahan kalor yang terjadi dalam ruang 
+yang dingin terhadap usaha yang diperlukan.   
+c
+R
+in
+Q
+COP
+W
+=
+R
+COP = koeisien performa mesin kalor untuk pendingin.
+(7.22)
+205
+ Bab 7 | Termodinamika
+Hukum kedua termodinamika mempunyai tiga pernyataan yaitu 
+tentang entropi selalu bertambah, tidak mungkin ada mesin dengan 
+eisiensi 100% dan kalor selalu berpindah dari benda bersuhu tinggi 
+ke benda bersuhu rendah. 
+Aplikasi dari hukum termodinamika adalah mesin kalor dan 
+pompa kalor yang bekerja dengan cara yang berbeda. Mesin Carnot 
+merupakan mesin yang bekerja dengan proses reversibel sehingga 
+diperoleh eisiensi yang maksimal.
+1. 
+Apakah kalian sudah memahami sistem termodinamika dengan 
+lingkungan yang membatasinya serta dapat menemukannya 
+dalam kehidupan sehari-hari?  
+2. 
+Apakah kalian sudah memahami informasi tentang keadaan suatu 
+gas dan proses-proses yang dialaminya berdasarkan diagram PV ?
+3. 
+Apakah kalian dapat menerapkan hukum pertama termodinamika 
+dalam penyelesaian masalah?
+4. 
+Apakah kalian dapat menerapkan hukum kedua termodinamika 
+dalam penyelesaian masalah?
+5. 
+Apakah kalian dapat menyelesaikan masalah mesin kalor dan 
+pompa kalor?
+6. 
+Materi apa yang memerlukan penguatan pemahaman? 
+Releksi
+Asesmen
+1. Volume udara dalam suatu pernafasan normal adalah 0,5 L. Suhu di Balige 
+adalah 23
+oC dan tekanan udara sebesar 1 atm. Berapa banyak udara yang 
+dihirup ketika bernafas jika diasumsikan udara merupakan gas ideal? 
+2. Tubuh manusia bekerja seperti mesin kalor karena mengubah energi 
+kimia menjadi energi termal/panas yang kemudian digunakan untuk 
+melakukan usaha.  Eisiensi tubuh manusia adalah 25%.  Seorang siswa 
+bermassa 50 kg naik tangga ke lantai 3 suatu kantor dengan ketinggian 12 
+m dari lantai dasar.
+a. Tentukan usaha yang harus dilakukan oleh siswa tersebut untuk 
+berpindah dari lantai dasar ke lantai 3.
+206
+Fisika untuk SMA/MA Kelas XI
+b. Berapa banyak energi kimia yang diperlukan oleh siswa untuk 
+berpindah dari lantai dasar ke lantai 3? 
+c. Berapa banyak panas  yang dilepaskan oleh metabolisme tubuh siswa? 
+d. Jika siswa menggunakan lift bermassa 1200 kg dengan eisiensi 90% 
+berapa energi listrik yang digunakan oleh lift dengan asumsi hanya 
+siswa tersebut yang berada dalam lift? 
+e. Bandingkanlah jawaban (b) dan (d) dan tariklah kesimpulan. 
+3. Perhatikan graik di bawah ini yang menunjukkan hubungan antara 
+tekanan saturasi dan suhu saturasi dari air.
+a. 
+Apa yang dimaksud dengan suhu 
+dan tekanan saturasi?
+b. 
+Gunakan 
+graik 
+tersebut 
+untuk 
+menjelaskan cara kerja pressure 
+cooker. 
+c. 
+Carilah data untuk menujukkan lama 
+memasak 1 kg  daging sapi  dan 1 kg 
+ayam dengan menggunakan panci 
+biasa dan dengan menggunakan 
+pressure cooker. 
+Daging Ayam 
+Daging Sapi
+Jenis Daging
+Lama Memasak dengan 
+Panci Biasa 
+Lama Memasak dengan 
+Pressure Cooker
+4. Apa hubungan ausnya organ-organ tubuh manusia dengan proses 
+ireversibel dan perubahan entropi?
+5. Perhatikan diagram p-V di bawah ini. Tentukan usaha yang dilakukan oleh 
+gas. 
+207
+GLOSARIUM
+amplitudo
+Simpangan maksimum suatu gelombang atau getaran
+asas Black
+Banyak kalor yang dilepas oleh benda bersuhu tinggi 
+sama dengan banyak kalor yang diterima oleh benda 
+bersuhu rendah dalam percampuran 
+barometer
+Alat untuk mengukur tekanan
+beda fase
+Perbedaan antara dua keadaan dari suatu gelombang
+berat
+Ukuran dari jumlah gaya yang bekerja pada massa kare-
+na percepatan akibat gravitasi
+cepat rambat  
+bunyi
+Panjang gelombang bunyi persatuan waktu
+debit
+Volume luida yang mengalir persatuan waktu
+desibel
+Ukuran Taraf intensitas bunyi
+diagram p-V
+Diagram tekanan terhadap volume yang menunjukkan 
+keadaan gas
+difraksi
+Penyebaran muka gelombang ketika melewati 
+penghalang
+efek Doppler
+Perubahan frekuensi yang diamati karena adanya gerak 
+relatif antar pengamat dan sumber
+energi dalam
+Total energi yang dikandung dalam sebuah sistem
+entropi
+Ukuran ketidak teraturan suatu sistem termodinamika 
+atau ukuran tidak dapat diubahnya energi menjadi 
+usaha
+fase gelombang
+Keadaan yang ditempuh oleh gelombang yang 
+berhubungan dengan simpangan dan arah getarnya
+luida
+Zat yang dapat mengalir
+luida dinamis
+Cabang ilmu sains yang membahas karakteristik luida 
+saat bergerak
+luida statis
+Cabang ilmu sains yang membahas karakteristik luida 
+saat diam
+frekuensi
+Banyak osilasi tiap waktu
+gaya
+Dorongan atau tarikan yang dapat mengubah kecepatan 
+benda
+gaya apung
+Gaya ke atas yang dilakukan oleh luida terhadap benda
+208
+gaya eksternal
+Gaya yang bekerja dari luar benda
+gaya gesek
+Gaya yang timbul dari gesekan antar dua permukaan
+gaya kohesi
+Gaya tarik menarik antar molekul sejenis
+gaya normal
+Gaya yang terjadi saat dua benda bersentuhan yang 
+arahnya tegak lurus bidang sentuh
+gelombang
+Getaran yang merambat
+gelombang 
+bunyi
+Gelombang yang merambat dari benda yang bergetar
+gelombang
+cahaya
+Bagian dari spektrum Gelombang EM
+gelombang 
+elektromagnetik
+Gelombang yang tidak memerlukan medium untuk 
+merambat
+gelombang 
+longitudinal
+Gelombang yang arah getarnya sejajar dengan arah 
+rambatnya
+gelombang 
+mekanik
+Gelombang yang memerlukan medium untuk 
+merambat
+gerak lurus 
+beraturan
+Gerak suatu benda pada lintasan lurus dengan 
+kecepatan yang tetap
+gerak lurus 
+berubah 
+beraturan
+Gerak benda dalam lintasan garis lurus dengan 
+percepatan tetap
+gerak parabola 
+Gerak perpaduan antara GLB dan GLBB
+impuls
+Perubahan momentum
+inersia
+Ukuran kemalasan suatu benda untuk mengubah 
+keadaan awalnya
+intensitas 
+gelombang
+Laju energi yang dirambatkan tiap satuan luas
+interferensi
+Perpaduan dua gelombang
+jarak
+Ukuran yang menunjukkan seberapa jauh posisi suatu 
+benda terhadap titik awal tanpa memperhatikan arah
+kalor
+Energi termal yang terdapat pada suatu materi
+kalor jenis
+Banyak kalor yang diperlukan untuk menaikkan suhu 1 
+kg benda sebesar 1°C
+209
+kalori
+Ukuran energi sebesar 4,18 Joule
+kapilaritas
+Naik atau turunnya zat cair di dalam pipa-pipa kapiler
+kecepatan
+Besaran yang diperoleh dengan cara membagi 
+perpindahan dengan waktu
+kecepatan linear Kecepatan suatu benda pada gerak lurus
+kecepatan sudut
+Perubahan sudut terhadap waktu
+kecepatan 
+terminal
+Kecepatan pada suatu benda di mana gaya dorong dan 
+gaya hambatnya sama besar
+kelajuan
+Besaran yang diperoleh dengan cara membagi jarak 
+dengan waktu
+koeisien gesek
+Ukuran tingkat kekasaran suatu permukaan
+koeisien 
+restitusi
+Perbandingan perubahan kecepatan benda sesudah 
+bertumbukan dan sebelum bertumbukan
+komponen 
+vektor
+Proyeksi vektor pada sumbu koordinat
+massa
+Jumlah materi yang dimiliki oleh suatu benda
+medan gravitasi
+Area di sekitar suatu benda di mana benda lain yang 
+memiliki massa akan mengalami gaya tarikan
+meniskus
+Melengkungnya permukaan zat cair karena ada gaya 
+tarik antara molekul dan dinding
+metode analitis
+Metode penentuan besar dan arah menggunakan 
+persamaan matematis
+metode jajar 
+genjang
+Metode  penjumlahan vektor dengan menghubungkan 
+pangkal vektor satu ke pangkal vektor yang lain dan 
+membentuk proyeksi jajar genjang
+metode poligon
+Metode penjumlahan vektor dengan menghubungkan 
+vektor secara bersambung
+momentum
+Besaran vektor yang dapat dinyatakan sebagai hasil kali 
+antara massa benda dan kecepatannya
+NDT
+Teknik mendeteksi cacat material menggunakan prinsip 
+pemantulan gelombang
+notasi vektor
+Cara penulisan vektor
+pemuaian
+Peristiwa berubahnya ukuran suatu benda karena 
+perubahan suhu
+210
+percepatan
+Perubahan kecepatan terhadap waktu
+percepatan 
+sentripetal
+percepatan untuk mengubah arah benda pada lintasan 
+melingkar
+periode
+Waktu yang diperlukan untuk satu osilasi
+perpindahan
+Perubahan antara posisi akhir dengan posisi awal
+pipa organa
+Pipa yang mengeluarkan suara pada nada tertentu 
+ketika ada aliran udara yang ditiupkan pada tekanan 
+tertentu
+polarisasi
+Penyearahan arah getar gelombang
+prinsip 
+Archimedes
+Benda yang masuk dalam luida akan mengalami gaya 
+ke atas yang besarnya sama dengan berat luida yang 
+dipindahkan oleh benda tersebut
+prinsip 
+Bernoulli
+Pernyataan hukum kekekalan energi pada luida yang 
+mengalir
+prinsip 
+kontinuitas 
+Ketentuan yang menyatakan bahwa untuk luida yang 
+tak termampatkan dan mengalir dalam keadaan tunak, 
+maka laju aliran volume di setiap titik luida tersebut 
+adalah sama
+releksi 
+(gelombang) 
+Pemantulan gelombang
+refraksi 
+(gelombang) 
+Berubahnya arah rambat gelombang karena adanya 
+perbedaan kerapatan medium
+resonansi
+Ikut bergetarnya suatu benda akibat getaran yang 
+dihasilkan oleh sumber bunyi
+resultan gaya
+Total keseluruhan gaya yang bekerja pada sistem
+resultan vektor 
+Penjumlahan dua atau lebih vektor
+seismik
+Terkait dengan gempa bumi
+sudut tempuh
+Posisi sudut yang dinyatakan dengan derajat
+suhu
+Ukuran panas dingin suatu benda
+superposisi
+Penggabungan dua gelombang yang koheren
+taraf intensitas
+Nilai logaritma perbandingan antara intensitas bunyi 
+dengan intensitas ambang pendengaran
+211
+tegangan 
+permukaan
+Gaya atau tarikan ke bawah yang menyebabkan 
+permukaan cairan berkontraksi dan cairan dalam 
+keadaan tegang
+tekanan 
+Hasil perbandingan antara gaya per satuan luas
+tekanan 
+hidrostatis
+Tekanan saat luida tidak bergerak
+vektor
+Suatu besaran yang memiliki besar dan arah
+viskositas 
+Ukuran kekentalan suatu luida

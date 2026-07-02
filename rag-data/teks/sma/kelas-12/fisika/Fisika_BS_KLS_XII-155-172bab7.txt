@@ -1,0 +1,563 @@
+135
+BAB 7 Relativitas
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA Kelas XII
+Penulis	: Irma Rahma Suwarma, Lia Laela Sarah
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 7
+RELATIVITAS
+Kata Kunci
+Sistem elektronika • Semikonduktor • Gerbang logika • ‘AND’, ‘OR’, ‘NOR’, ‘NAND’
+Setelah mempelajari bab relativitas ini, kalian dapat membedakan fenomena 
+gerak pada suatu kerangka referensi, mengorelasikan postulatEinstein tentang 
+relativitas khusus yang pertama dan kedua mengenai gerak relatif melalui 
+berbagai fenomena dalam k ehidupan sehari-hari, dan menganalisis besaran fisis 
+dampak teori relativitas E instein pada, dilatasi waktu, penambahan kecepatan, 
+dan pengerutan panjang
+Tujuan Pembelajaran
+public/wikimedia commons, marekuliasz/news18.com, Samuel – Balige (2022)
+136
+Fisika SMA Kelas XII 
+Gambar 7. 1 Peta Konsep Relativitas
+Sumber : Kinkin Suartini (2022)
+A.	 Postulat Pertama dan Kedua Einstein
+1.	 Gerak Relatif Newton
+Ayo, Ingat Kembali!
+Tahukah kalian? 
+Teori relativitas Newton mempelajari bagaimana pengukuran 
+besaran fisika yang bergantung pada kerangka acuan dari 
+pengamat. Menurut Newton (1642-1726) menyatakan bahwa 
+suatu benda dikatakan bergerak apabila kedudukan benda 
+tersebut berubah terhadap kerangka acuannya. Kerangka acuan 
+Newton disebut dengan kerangka inersia. Kerangka acuan 
+merupakan tempat dimana benda tersebut bergerak.
+Salah satu contoh gerak relatif saat seorang pengamat di 
+luar kereta api mengamati bahwa penumpang dalam kereta api 
+diam, sedangkan penumpang di dalam kereta api berasumsi 
+137
+BAB 7 Relativitas
+2.	 Relativitas Einstein
+Ayo, Bernalar Kritis!
+Jika Newton berfokus pada suatu kerangka inersial sebagai 
+kerangka acuan pengukuran gerak, apakah ada kerangka acuan 
+yang diam (steady)? Bagaiman gerak bumi pada kerangka luar 
+angkasa? Apakah kerangka acuan luar angkasa merupakan 
+kerangka inersial? Atau kerangka yang diam?
+Pada tahun 1887, fisikawan Amerika A. A. Michelson (1852-1931) dan E. W. 
+Morley (1838-1923)  mencoba menjawab pertanyaan tersebut melalui sebuah 
+eksperimen. Eksperimen ini bertujuan untuk membuktikan ada tidaknya 
+medium eter yang dapat diajadikan sebagai kerangka inersial. Eksperimen 
+tersebut dirancang untuk mengukur kelajuan bumi relatif pada luar angkasa 
+yang dianggap mengandung eter oleh Maxwell (1831-1879). Fisikawan 
+ini menggunakan alat yang sangat sensitif terhadap cahaya yang disebut 
+interferometer untuk melakukan pengamatan seperti yang terlihat pada 
+Gambar 7.2. 
+Seberkas cahaya dari sumber monokromatik dipisahkan menjadi dua 
+berkas dengan jalur tegak lurus satu sama lain; dua berkas balok-balok ini 
+dipantulkan dan digabungkan kembali untuk menunjukkan apakah ada 
+perbedaan kecepatan rata-rata pada dua jalur bolak-balik. Interferometer 
+diatur dengan satu jalur sejajar dengan gerakan Bumi dalam orbitnya. 
+Kemudian Michelson dan Morley dengan hati-hati mengamati setiap 
+perubahan kecepatan rata-rata saat peralatan diputar untuk menempatkan 
+jalur lain sejajar dengan gerakan Bumi.
+bahwa dirinya ikut bergerak bersama dengan kereta api 
+tersebut, sehingga munculah gerak relativitas Newton yang 
+menyatakan bahwa hukum-hukum mekanika berlaku sama 
+pada semua kerangka acuan inersial.
+138
+Fisika SMA Kelas XII 
+Ayo, Cermati!
+Cobalah lakukan eksperimen serupa melalui 
+simulasi pada: 
+https://galileoandeinstein.phys.virginia.edu/more_
+stuff/Applets/MichelsonMorley/michelsonmorley.
+html
+Petunjuk: 
+1.	 Mulailah dengan kecepatan 
+eter nol (artinya tidak ada eter 
+karena eter dianggap suatu 
+senyawa yang bergerak)
+2.	 Tekan tombol play (   ) dan 
+amati apa yang terjadi
+3.	 Ubah kecepatan eter sesuai 
+keinginan kalian
+Berdasarkan eksperimen tersebut, Einstein (1838-1923) mengemukakan 
+postulat merujuk pada kerangka acuan inersial yaitu kerangka acuan yang 
+bergerak relatif pada kecepatan konstan (tetap) terhadap kerangka acuan 
+lainnya. Dua postulat yang dikemukakan oleh Einstein, yaitu:
+4.	 Tekan tombol reset lalu tekan tombol play ( ) kemudian amati apa 
+yang terjadi
+Apa hasil pengamatanmu? 
+Berikan pendapatmu mengenai hasil pengamatan tersebut!
+Gambar 7. 2 Eksperimen Michelson-Morley 
+Sumber : Paul G. Hewitt/Conceptual Physics (2014)
+139
+BAB 7 Relativitas
+1.	 Hukum-hukum fisika memiliki bentuk yang sama pada semua 
+kerangka acuan inersial. 
+2.	 Cahaya yang merambat di ruang hampa dengan kecepatan c = 3 x 
+108  m/s adalah sama untuk semua pengamat dan tidak bergantung 
+pada gerak sumber cahaya maupun kecepatan pengamat. 
+Konsekuensi menarik dari postulat kedua Einstein adalah adanya konsep 
+keserentakan. Dua buah peristiwa disebut serentak jika keduanya terjadi 
+pada waktu yang sama. Sebagai contoh misalnya, ada suatu sumber cahaya 
+tepat di tengah dinding roket seperti yang terdapat pada Gambar 7.3.a. 
+Ketika sumber cahaya dinyalakan, cahaya menyebar ke segala arah dengan 
+kecepatan c. Sumber cahaya berjarak sama dari ujung depan dan belakang 
+dinding roket menyebabkan seorang pengamat di dalam dinding roket 
+melihat bahwa cahaya mencapai ujung depan pada saat yang sama ketika 
+mencapai ujung belakang. hal tersebut terjadi ketika roket dalam keadaan 
+diam atau bergerak dengan kecepatan konstan. Cahaya mencapai bagian 
+belakang dan bagian depan terjadi secara bersamaan untuk pengamat ini di 
+dalam roket.
+Gambar 7. 3 Cahaya dalam dinding roket menurut 2 pengamat yang berbeda kerangka acuan
+Sumber : Paul G. Hewitt/Conceptual Physics (2015)
+Bagaimana dengan pengamat luar yang memandang dua peristiwa yang 
+sama dalam kerangka acuan lain —misalnya, dari planet yang tidak bergerak 
+bersama roket? Berdasarkan tinjauan pengamat itu, dua peristiwa yang 
+sama ini tidak serentak. Cahaya ketika keluar dari sumbernya, pengamat 
+ini melihat roket bergerak maju, sehingga bagian belakang dinding roket 
+bergerak ke arah sumber cahaya sementara bagian depan menjauh dari 
+sumber cahaya. Oleh karena itu, cahaya yang menuju bagian belakang 
+dinding roket memiliki jarak tempuh yang lebih pendek daripada cahaya 
+yang bergerak ke depan seperti yang terdapat pada Gambar 7.3b. 
+Kecepatan cahaya adalah sama di kedua arah menyebabkan pengamat 
+luar ini melihat peristiwa cahaya mengenai ujung belakang dinding roket 
+140
+Fisika SMA Kelas XII 
+7.1 Ayo, Cek Pemahaman!
+Jika pengamat yang berdiri di sebuah planet pada Gambar 7.3b 
+melihat sepasang sambaran petir secara bersamaan mengenai ujung 
+depan dan belakang dinding roket berkecepatan tinggi. akankah 
+sambaran petir tersebut secara serentak bergerak ke pengamat 
+di tengah dinding roket? (di sini kita berasumsi bahwa seorang 
+pengamat dapat mendeteksi sedikit perbedaan waktu saat cahaya 
+merambat dari ujung ke tengah dinding roket.
+Jika ada dua orang pengamat A dan B, pengamat A diam pada 
+tempat pengamatannya, sedangkan pengamat B adalah seseorang 
+yang sedang bergerak. Apakah selang waktu pengamatan yang 
+dilakukan pengamat A sama dengan pengamat B?
+Transformasi Galileo merupakan transformasi koordinat pada suatu 
+kerangka acuan tertentu. Pada relativitas Newton yang mengkaji gerak 
+benda pada kerangka acuan, transformasi Galileo menjadi pendukung teori 
+relativitas Newton. Pada transformasi Galileo, selang waktu pengamatan 
+terhadap suatu peristiwa yang diamati oleh pengamat yang diam dan 
+pengamat yang bergerak adalah sama (tA = tB). Hal tersebut dipandang 
+berbeda oleh Einstein dan menyatakan hal tersebut tidak benar. Einstein 
+berpendapat bahwa selang waktu pengamatan antara kedua pengamat 
+tersebut tidaklah sama (tA ≠ tB).
+Hendrick A. Lorentz (1853-1928), seorang fisikawan asal Belanda 
+menurunkan persamaan transformasi yang sesuai dengan transformasi 
+galileo namun berlaku juga untuk kecepatan yang lebih tinggi (kecepatan 
+cahaya). Persamaan tersebut dikenal dengan nama transformasi Lorentz, 
+yang dapat berlaku untuk transformasi Galileo (pada kecepatan rendah) 
+dan dapat menunjukan bahwa kecepatan cahaya adalah sama pada setiap 
+kerangka.
+sebelum melihat peristiwa cahaya mengenai ujung depan dinding roket. 
+(diasumsikan bahwa pengamat dapat melihat perbedaan kecil ini.) Oleh 
+karena itu, jika ada seorang pengamat di roket lain yang melintas di arah 
+yang berlawanan, maka ia akan melihat bahwa cahaya mencapai ujung 
+depan dinding roket terlebih dahulu. 
+Ketidakserentakan peristiwa-peristiwa dalam satu bingkai dan serentak 
+di bingkai lain ini merupakan hasil relativistik murni sebagai konsekuensi 
+cahaya yang selalu memiliki kecepatan yang sama untuk semua 
+pengamat (postulat kedua).
+141
+BAB 7 Relativitas
+Penurunan Persamaan Transformasi Lorentz
+Jam cahaya ditunjukkan dalam tiga posisi berturut-turut pada gambar 
+di bawah ini. Garis-garis diagonal mewakili jalur kilatan cahaya yang 
+dimulai dari cermin bawah pada posisi 1, bergerak ke cermin atas pada 
+posisi 2, dan kemudian berjalan kembali ke cermin bawah pada posisi 
+3. Jarak pada diagram diberi label ct, vt, dan ct0, yang mengikuti dari 
+fakta bahwa jarak yang ditempuh oleh benda yang bergerak beraturan 
+adalah sama dengan kecepatannya dikalikan dengan waktu.
+Ayo, Cermati!
+Gambar 7. 4 Simulasi Gerak Cahaya Pada Posisi yang Berbeda
+Sumber : Irma R.Suwarma/Kemendikbudristek (2022)
+Seperti yang ditunjukkan Gambar 7.4, ketiga jarak ini membentuk 
+segitiga siku-siku dengan ct adalah sisi miringnya dan ct0 dan vt 
+adalah kakinya. Teorema geometri yang terkenal, teorema Pythagoras, 
+menyatakan bahwa kuadrat sisi miring sama dengan jumlah kuadrat 
+kedua kaki. Jika kita menerapkan rumus ini pada gambar, kita 
+memperoleh:
+... (7.1)
+c2t2 = c2t0
+2 + v2t2
+c2t2 - v2t2  = c2t0
+2 
+142
+Fisika SMA Kelas XII 
+Buatlah interpretasi hubungan besaran-besaran fisis 
+berdasarkan persamaan (7.1)  di atas!
+Persamaan tersebut adalah faktor yang sama yang digunakan oleh Lorentz 
+untuk menjelaskan pengerutan panjang. Kami menyebut kebalikan dari 
+kuantitas faktor Lorentz ini, γ (Gamma), yaitu,
+... (7.2)
+Berdasarkan hal ini pemikiran Einstein mengenai perbedaan selang 
+waktu pengamatan dua pengamat tersebut tidaklah sama dapat dijelaskan 
+dengan persamaan transformasi Lorentz.
+B.	Dampak Relativitas Einstein
+1.	 Dilatasi Waktu
+Ayo, Bernalar Kritis!
+Apa yang dimaksud dengan ruang dan waktu?Jika kalian 
+memandang bintang yang terjauh, pernahkah kalian merasa 
+bahwa bintang yang kita lihat paling jauh adalah bintang yang 
+paling lama kita lihat?Mengapa hal itu terjadi?
+Jika kalian menjadi seorang astronot dan pergi ke luar angkasa 
+selama 10 tahun, apakah saat kembali ke bumi penambahan 
+usiamu akan sama dengan temanmu yang tinggal di bumi ?
+dengan v mewakili kecepatan jam relatif terhadap pengamat 
+luar (sama dengan kecepatan relatif kedua pengamat) dan c adalah 
+kecepatan cahaya.
+Ruang yang kita tinggali adalah tiga dimensi; sehingga kita dapat menentukan 
+posisi setiap lokasi dalam ruang dengan tiga dimensi. Salah satu contoh 
+dimensi tersebut dapat berupa utara-selatan, timur-barat, dan atas-bawah. 
+Jika kita berada di sudut ruangan persegi panjang dan ingin menentukan 
+posisi titik mana pun di ruangan itu, kita dapat melakukannya dengan tiga 
+143
+BAB 7 Relativitas
+angka. Yang pertama adalah jumlah meter titiknya berada di sepanjang 
+garis yang menghubungkan dinding samping dan lantai; yang kedua adalah 
+jumlah meter titiknya berada di sepanjang garis yang menghubungkan 
+dinding belakang yang berdekatan dan lantai; dan yang ketiga adalah jumlah 
+meter titik yang terletak di atas lantai atau di sepanjang garis vertikal yang 
+menghubungkan dinding di sudut. 
+Fisikawan menyebut ketiga garis ini sebagai sumbu koordinat dari 
+kerangka acuan seperti pada Gambar 7.5. Tiga angka—jarak sepanjang 
+sumbu x, sumbu y, dan sumbu z—menentukan posisi suatu titik dalam ruang.
+Pengukuran tersebut tidaklah lengkap jika tidak dikaitkan dengan 
+waktu. Salah satu contohnya adalah ketika kalian mengidentifikasi sebuah 
+box yang memiliki panjang, lebar, dan tinggi tertentu. Box tersebut tentu 
+saja terbentuk pada suatu waktu tertentu (bisa jadi sebelumnya merupakan 
+kardus yang belum berbentuk box), dan tidak selamanya box tersebut tetap 
+akan menjadi box, karena bisa jadi setelah selesai digunakan box tersebut 
+dibuang dalam bentuk lain. 
+Contoh lainnya dapat diamati pada peristiwa permainan sepakbola antar 
+kelas yang dilombakan oleh sekolahmu pada pekan olah raga di siang hari 
+jam 13.00 WIB pada tanggal 23 Mei 2022. Pada tanggal yang sama, sekolah 
+lain di wilayah Indonesia timur melakukan kegiatan yang sama. Hal tersebut 
+menunjukkan dua kejadian pada suatu ruang dan waktu yang berbeda.
+Hal inilah yang menjadi bukti keterikatan antara ruang dan waktu. 
+Begitu juga saat kalian melihat bintang terjauh di angkasa, kalian memerlukan 
+waktu yang cukup lama untuk dapat menentukan posisi bintang tersebut. 
+Kalian memerlukan waktu yang lebih lama untuk dapat melihat bintang 
+terjauh. Hal ini juga merupakan salah satu bukti keterikatan antara ruang 
+dan waktu. 
+Keterikatan ruang dan waktu tersebut dapat dilukiskan dalam kerangka 
+empat dimensi. Semakin besar jarak terukur dalam ruang, semakin besar 
+interval waktu terukur. Rasio konstan ruang dan waktu untuk cahaya, c, 
+adalah faktor pemersatu antara berbagai ruang-waktu. Hal ini merupakan 
+inti dari postulat kedua Einstein.
+Apakah waktu dapat diregangkan?
+Bayangkan misalnya kita dapat mengamati kilatan cahaya yang memantul 
+kesana kemari di antara sepasang cermin paralel, seperti bola yang 
+memantul ke sana kemari antara lantai dan langit-langit. Jika jarak antara 
+cermin tetap, maka susunannya merupakan jam cahaya karena perjalanan 
+bolak-balik blitz mengambil interval waktu yang sama seperti yang terdapat 
+pada Gambar 7.6. 
+144
+Fisika SMA Kelas XII 
+sehingga tidak ada gerakan relatif antara pengamat dan jam cahaya; dengan 
+kata lain, pengamat dan jam berbagi kerangka acuan yang sama dalam 
+ruang-waktu.
+Gambar 7. 6 (a) Pengamat bergerak sama dengan arah gerak roket, 
+(b) Pengamat yang melihat gerak roket dari Bumi
+Sumber : Paul G. Hewitt/Conceptusl Phyics (2015)
+Jam cahaya ini misalkan berada 
+di dalam pesawat ruang angkasa yang 
+transparan dan berkecepatan tinggi. 
+Seorang pengamat yang berada dalam 
+roket melihat jam cahaya tersebut 
+Gambar 7.7a dan melihat kilatan yang 
+memantul lurus ke atas dan ke bawah 
+di antara dua cermin, sama seperti 
+jika roket itu diam. Pengamat ini 
+tidak melihat efek yang khusus. Hal 
+ini terjadi karena pengamat berada di 
+dalam kapal dan bergerak bersamanya, 
+Gambar 7. 5  Cermin yang menangkap cahaya
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Sekarang kita misalkan berdiri di tanah saat pesawat ruang angkasa 
+melesat melewati kita dengan kecepatan tinggi — katakanlahsetengah 
+kecepatan cahaya. Hal-hal sangat berbeda dari kerangka acuan kita karena 
+kita tidak melihat jalur cahaya sebagai gerakan naik-turun yang sederhana. 
+Karena setiap blitz bergerak secara horizontal saat bergerak secara vertikal 
+di antara dua cermin, kita melihat blitz mengikuti jalur diagonal. 
+Perhatikan pada Gambar 7.7b –terlihat dari kerangka acuan membumi 
+kita, lampu kilat menempuh jarak yang lebih jauh karena membuat satu 
+perjalanan bolak-balik di antara cermin-cermin, jauh lebih lama daripada 
+jarak yang ditempuhnya dalam kerangka acuan pengamat yang naik bersama 
+kapal. Kecepatan cahaya adalah sama di semua kerangka acuan (postulat 
+kedua Einstein), maka lampu kilat harus melakukan perjalanan untuk waktu 
+145
+BAB 7 Relativitas
+Ayo, Cermati!
+Ada sepasang kembar identik, salah satu anak kembar tersebut 
+adalah astronot yang melakukan perjalanan pulang-pergi 
+berkecepatan tinggi di galaksi sementara kembarannya tinggal di 
+rumah di Bumi. Ketika astronot tersebut kembali, dia lebih muda dari 
+kembaran yang tinggal di rumah. Seberapa besarkah perbedaannya? 
+Kerjakan simulasi pada :  
+https://www.refsmmat.com/jsphys/relativity/relativity.
+html#twin-paradox
+Bagaimana paradoks kembar tersebut dijelaskan menurut relativitas 
+Einstein?
+kalian bisa merubah kecepatan 
+lalu tekan tombol “Play” untuk 
+mencatat angka-angka kalian 
+bisa tekan “pause”
+Cermati angka yang 
+menunjukan usia dan 
+kecepatan dua anak 
+kembar tersebut
+yang lebih lama di antara cermin-cermin di bingkai kita daripada dibingkai 
+referensi pengamat di dalam roket. Ini mengikuti definisi kecepatan—jarak 
+dibagi waktu. Jarak diagonal yang lebih panjang harus dibagi dengan interval 
+waktu yang lebih lama untuk menghasilkan nilai kecepatan cahaya yang 
+tidak berubah. Pemuluran waktu ini disebut dilatasi waktu.
+146
+Fisika SMA Kelas XII 
+Benda 
+yang 
+bergerak 
+seragam 
+(tidak 
+dipercepat) 
+secara 
+umum 
+menggabungkan kecepatan dengan persamaan sederhana:
+Persamaan 7.3 ini tidak berlaku untuk cahaya, yang selalu memiliki 
+kecepatan yang sama, c. Sebenarnya, persamaan di atas adalah pendekatan 
+dari aturan relativistik untuk penambahan kecepatan. Penurunan persamaan 
+kecepatan relativistik 7.4 tidak akan dibahas disini karena sudah dibahas 
+pada transformasi Lorentz, tapi hanya persamaannya:
+... (7.3)
+... (7.4)
+Nilai pembilang pada persamaan tersebut sangat sederhana, tapi jumlah 
+sederhana dari penjumlahan kecepatan v1 dan v2 akan signifikan jika nilai 
+kecepatannya mendekati nilai c.
+2.	 Penambahan Kecepatan
+Ayo, Bernalar Kritis!
+Jika kalian berjalan 1 km/jam (terhadap permukaan bumi) di 
+luar kereta api yang bergerak 60 km/jam(terhadap permukaan bumi), 
+berapakah kecepatan relatif kalian terhadap permukaan bumi?
+Ayo, Cermati!
+Kerjakan simulasi pada: https://www.refsmmat.com/
+jsphys/relativity/relativity.html#velocity-addition
+Ayo, Cek Pemahaman!
+jika pesawat luar angkasa memancarkan sinyal “starting gun” 
+awal diikuti dengan kilatan setiap 6 menit selama satu jam, berapa 
+banyak kilatan yang akan dipancarkan?
+Pesawat luar angkasa mengirimkan kilatan dengan jarak yang 
+sama setiap 6 menit saat mendekati penerima dengan kecepatan 
+konstan. akankah kedipan ini memiliki jarak yang sama ketika 
+sampai ke penerima?
+7.2
+7.3
+V = v1 + v2
+ v1 + v2
+V =
+ 1 +
+ v1v2
+ε2
+147
+BAB 7 Relativitas
+Bagaimana penambahan kecepatan tersebut dijelaskan menurut 
+relativitas Einstein?
+Tuliskan hasil pengamatanmu!
+Sebuah pesawat ruang angkasa bergerak menjauh dari kalian dengan 
+kecepatan 0,5c. Kecepatan tersebut mendorong roket ke arah yang sama, juga 
+menjauh dari kalian, dengan kecepatan 0,5c relatif terhadap dirinya sendiri. 
+Seberapa cepat roket bergerak relatif terhadap kalian? Aturan nonrelativistik 
+akan mengatakan bahwa roket bergerak dengan kecepatan cahaya dalam 
+kerangka referensi kalian. Tapi faktanya
+Persamaan tersebut sehingga menunjukkan fakta baru terkait dengan 
+relativitas, yaitu tidak ada benda yang dapat bergerak  lebih cepat atau 
+secepat cahaya. 
+Misalkan pesawat ruang angkasa tersebut malah menembakkan sinar 
+laser sepanjang perjalanannya. Seberapa cepat sinar laser bergerak dalam 
+kerangka acuan kalian?
+Cermati angka yang 
+menunjukan kecepatan 
+bintang yang bergerak 
+dari perspektif dua 
+pengamat yang berbeda
+Berdasarkan perhitungan tersebut dapat disimpulkan bahwa tidak 
+peduli seberapa besar kecepatan relatif antara dua kerangka, 
+cahaya yang bergerak dengan kecepatan c dalam satu kerangka 
+0,5c + 0,5c
+V =
+ 1 +
+ 0,25c2
+c2
+=
+ c
+1,25
+= 0,8c
+0,5c + c
+V =
+ 1 +
+ 0,5c2
+c2
+= 1,5c
+1,5
+= c
+148
+Fisika SMA Kelas XII 
+Saat benda bergerak melalui ruang waktu, ruang serta waktu berubah. 
+Singkatnya, ruang berkontraksi, membuat objek terlihat lebih pendek ketika 
+mereka bergerak dengan kecepatan relativistik. Pengerutan Panjang ini 
+pertama kali diajukan oleh seorang fisikawan George F. FitzGerald (1851-
+1901) dan Hendrik A. Lorentz (1853-1928) telah disampaikan pada bahasan 
+sebelumnya. Einstein memandang pengerutan yang terjadi pada ruang 
+waktu sama dengan persamaan Lorentz:
+... (7.5)
+3.	 Pengerutan Panjang
+Ayo, Bernalar Kritis!
+Jika ada dua buah benda yang sama dan bergerak dengan kecepatan 
+yang berbeda. Misalkan benda satu bergerak dengan kecepatan 0,3c 
+dan yang satunya bergerak dengan kecepatan 0,5c. Apakah bentuk 
+panjang benda saat bergerak akan sama jika dilihat oleh pengamat 
+pada kerangka acuan yang berbeda?
+dengan v adalah kecepatan relatif antara objek yang diamati dan 
+pengamat, c adalah kecepatan cahaya, L adalah panjang terukur objek 
+bergerak, dan L0 adalah panjang terukur objek saat diam.
+Ayo, Cek Pemahaman!
+Jika sebuah pesawat luar angkasa melakukan perjalanan dengan 
+kecepatan c terhadap kerangka acuan Bumi dan menembakkan 
+drone ke depan dengan kecepatan c terhadap kerangka acuan 
+pesawat itu sendiri. Tunjukan bahwa kecepatan drone tersebut 
+terhadap kerangka acuan 
+7.4
+akan terlihat bergerak dengan kecepatan c dalam kerangka lainnya. 
+Kalian jika mencoba mengejar cahaya, maka kalian tidak akan pernah bisa 
+menangkapnya.
+149
+BAB 7 Relativitas
+Berdasarkan persamaan 7.5, coba hitung nilai L, jika:
+v = 0
+v = 0,85 c
+v = 0,5 c
+Apa kesimpulanmu mengenai pengerutan panjang berdasarkan 
+hasil perhitunganmu?
+Ayo, Cermati!
+Pengerutan panjang menjadi perhatian yang cukup besar bagi para 
+penjelajah luar angkasa. Pusat galaksi Bima Sakti kita berjarak 25.000 
+tahun cahaya. Apakah ini berarti jika kita melakukan perjalanan ke arah itu 
+dengan kecepatan cahaya, dibutuhkan waktu 25.000 tahun untuk sampai ke 
+sana? Berdasarkan kerangka acuan Bumi, hal tersebut benar, tapi bagi para 
+penjelajah luar angkasa, jelas tidak! Jika bergerak pada kecepatan cahaya, 
+jarak 25.000 tahun cahaya akan menyusut hingga tidak ada jarak sama 
+sekali. Para penjelajah luar angkasa yang dibayangkan akan tiba di sana 
+secara instan!
+7.5 Ayo, Cek Pemahaman!
+Sebuah papan reklame berbentuk persegi panjang di luar angkasa 
+memiliki ukuran 10 m × 20 m. Seberapa cepat 
+Berdasarkan pembahasan pada bab relativitas ini, hipotesis umum untuk 
+suatu perjalanan yang memiliki kecepatan mendekati kecepatan cahaya, 
+maka pengerutan panjang dan dilatasi waktu merupakan dua bentuk dari 
+fenomena yang sama.  Salah satu contohnya, yaitu jika astronot pergi begitu 
+cepat sehingga mereka menemukan jarak ke bintang terdekat hanya 1 tahun 
+cahaya dan bukannya 4 tahun cahaya yang diukur dari Bumi, maka mereka 
+melakukan perjalanan dalam waktu kurang lebih dari 1 tahun. Pengamat di 
+Bumi mengatakan hal berbeda, mereka berpendapat bahwa jam di pesawat 
+ruang angkasa telah melambat sedemikian rupa sehingga mereka hanya 
+berdetak 1 tahun dalam 4 tahun waktu Bumi.
+150
+Fisika SMA Kelas XII 
+1.	 Jika kalian berjalan dengan kecepatan 0,8 km/jam menyusuri 
+lorong menuju bagian depan kereta api yang bergerak dengan 
+kecepatan 60 km/jam, maka berapakah kecepatan kalian relatif 
+terhadap tanah?
+Asesmen
+Rangkuman
+1.	 Kerangka acuan merupakan sebuah titik pandang (biasanya 
+satu set sumbu koordinat) sehubungan dengan posisi dan 
+gerakan suatu objek yang dapat dijelaskan.
+2.	 Relativitas Newton menyatakan bahwa suatu benda dikatakan 
+bergerak apabila kedudukan benda tersebut berubah terhadap 
+kerangka acuannya. Kerangka acuan Newton disebut dengan 
+kerangka inersial.
+3.	 Berdasarkan percobaan yang dilakukan MIchelson-Morley, 
+Einstein membuat dua buah postulat mengenai relativitas, 
+yaitu: (a) semua hukum alam adalah sama di semua kerangka 
+yang bergerak sama, (b) kecepatan cahaya di ruang bebas 
+memiliki nilai terukur yang sama dan konstan.
+4.	 Dilatasi 
+waktuadalah 
+selang 
+waktu 
+pengamatan 
+yang 
+merupakan perpanjangan waktu pengamatan bagi pengamat. 
+5.	 Pengerutan panjang merupakan pengerutan yang terjadi pada 
+ruang suatu objek akibat kecepatan yang dimilikinya.
+Proyek
+Buatlah poster yang menjelaskan tentang teori relativitas Einstein. 
+Isi poster ini menjelaskan bagaimana teori relativitas Einstein 
+berkembang dan dampaknya pada dunia ini.
+Ayo, Mencipta dan Berkreasi!
+151
+BAB 7 Relativitas
+2.	 Cahaya membutuhkan waktu untuk merambat sepanjang lintasan 
+dari satu titik ke titik lainnya. Jika jalur ini terlihat lebih panjang 
+karena gerakan, apa yang terjadi dengan waktu yang dibutuhkan 
+cahaya untuk menempuh jalur yang lebih panjang ini?
+3.	 Sebuah roket A berkecepatan tinggi dilengkapi dengan sumber 
+cahaya yang berkedip. Jika frekuensi kedipan yang terlihat pada 
+roket B yang bergerak mendekat roket A pada jarak tertentu adalah 
+dua kali frekuensi kedipan, maka: 
+a.	 berapakah perubahan periode (selang waktu antara kedipan)? 
+b.	 apakah periode ini konstan jika kecepatan relatif konstan? 
+c.	 apakah periode ini tetap jika gerak dipercepat? 
+d.	 jelaskan jawaban kalian.
+5.	 Seorang penumpang di bus ekspres antar planet yang melaju 
+dengan kecepatan 0,99 c membutuhkan waktu tidur siang selama 
+5 menit, menurut arlojinya. Tunjukkan bahwa tidurnya dari sudut 
+pandang planet tetap berlangsung selama 35 menit.
+Refleksi
+Setelah membaca dan mempelajari Bab 7 Relativitas, coba nilai seberapa 
+dalam pemahamanmu. Berikan ceklist (√) sesuai dengan pendapatmu!
+Pernyataan
+Tingkat Pemahaman
+Kurang
+Cukup
+Baik
+Baik 
+Sekali
+Prinsip relativitas Newton yang 
+mengawali relativitas Einstein.
+Postulat pertama Einstein yang 
+menyatakan 
+bahwa 
+hukum-
+hukum fisika memiliki bentuk 
+yang sama pada semua kerangka 
+acuan inersial. 
+Postulat kedua Einstein tentang 
+kecepatan cahaya  c = 3 x 108 m/s 
+yang sama pada kerangka acuan 
+apa pun
+152
+Fisika SMA Kelas XII 
+Pernyataan
+Tingkat Pemahaman
+Kurang
+Cukup
+Baik
+Baik 
+Sekali
+Dampak 
+relativitas 
+Einstein, 
+yaitu 
+pada 
+dilatasi 
+waktu, 
+penambahan 
+kecepatan, 
+dan 
+pengerutan panjang.

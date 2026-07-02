@@ -1,0 +1,1323 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2023
+Ilmu Pengetahuan Sosial untuk SMA/MA Kelas X (Edisi Revisi)
+Penulis: Sari Oktaiana, Efvinggo Fasya Jaya, M. Rizky Satria 
+ISBN 978-623-118-468-9 (no.jil lengkap)
+Penelitian Sosial
+Bab II
+Bagaimana Cara Melakukan Penelitian 
+dalam Ilmu-Ilmu Sosial?
+Tujuan Pembelajaran
+Setelah mempelajari materi pada bab ini, kamu diharapkan mampu:
+1. menjelaskan metode penelitian kualitatif, kuantitatif, dan campuran;
+2. menerapkan etika penelitian;
+3. menganalisis tahapan penelitian sejarah yaitu heuristik, veriikasi, 
+interpretasi, dan historiograi; serta
+4. menjelaskan kekhasan penelitian geograi yaitu peta serta penginderaan 
+jauh dan sistem informasi geograis (SIG).
+Peta Konsep
+Kata Kunci: 
+Metode Penelitian; Ciri Penelitian Sejarah; Ciri Penelitian Geograi; Penginderaan 
+Jauh; Sistem Informasi Geograis
+76
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Perhatikan gambar di atas! Apakah kamu pernah 
+mendapatkan tugas sekolah untuk mengumpulkan data 
+melalui wawancara? Jika iya, bagaimana pengalamanmu 
+saat melakukan wawancara dengan informan? Peralatan 
+apa saja yang harus kamu siapkan sebelum melakukan 
+wawancara?
+Pada Bab II ini kamu akan mempelajari berbagai 
+metode penelitian sosial. Terdapat tiga metode penelitian 
+yang akan kamu pelajari, yaitu kualitatif, kuantitatif, dan 
+campuran. Selain itu, kamu akan mempelajari kekhasan 
+penelitian bidang Ilmu Pengetahuan Sosial (IPS) lain, 
+yaitu penelitian sejarah dan geograi. Kamu juga akan 
+mempelajari etika penelitian agar mampu menerapkan 
+penelitian dengan baik. Belajar tentang penelitian sosial 
+akan melatihmu memiliki kompetensi dan keterampilan 
+merancang hingga melakukan penelitian sosial guna 
+menganalisis berbagai fenomena dalam kehidupan 
+sehari-hari. 
+Gambar 2.1
+Wawancara dengan 
+informan
+Sumber: Balai Konservasi 
+Borobudur/Kemendikbudristek 
+(2019)
+77
+BAB 2: PENELITIAN SOSIAL
+Gambar 2.2
+Penelitian 
+sosial juga 
+berperan 
+besar dalam 
+perkembangan 
+gawai dan alat 
+transportasi 
+massal yang 
+kita gunakan
+Sumber: Rendy 
+Novantino/Unsplash 
+(2021)
+A. Penelitian Sosial Suatu Pengantar
+Kamu mungkin pernah memiliki  pengalaman mengumpulkan 
+data melalui wawancara dengan informan. Melalui aktivitas 
+tersebut, sebenarnya kamu telah belajar tentang penelitian 
+sosial. Bahkan, ketika mengamati, mempertanyakan, serta 
+melakukan penelusuran informasi, kamu telah melakukan 
+sebagian langkah dalam penelitian sosial. 
+Ilmu merupakan hasil dari metode berpikir yang secara 
+objektif bertujuan menjelaskan dan menginterpretasikan 
+berbagai fenomena, termasuk IPS. Oleh karena itu, dalam 
+proses pembelajaran kamu sering diminta untuk melakukan 
+pengamatan, merumuskan pertanyaan, mencari data dan 
+informasi, serta menganalisis dan mempresentasikan temuan 
+data. Saat itulah kamu telah melakukan penelitian. 
+Setelah mempelajari berbagai konsep dalam ilmu-ilmu 
+sosial, kamu akan belajar cara melakukan penelitian sosial. 
+Ilmu-ilmu sosial adalah ilmu yang bersifat empiris. Artinya, 
+kajian dalam ilmu sosial berdasarkan data, sistematis, tidak 
+spekulatif, dan menggunakan metode ilmiah. Oleh karena itu, 
+penelitian sosial menjadi bagian penting dalam pembelajaran 
+IPS. Lantas, apa yang dimaksud dengan penelitian? 
+78
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Penelitian merupakan cara untuk menyelesaikan masalah atau menemukan 
+jawaban dari permasalahan yang dihadapi melalui prosedur ilmiah. Dalam 
+bahasa Inggris, penelitian disebut dengan research yang berasal dari kata 
+re dan search. Research diartikan sebagai “upaya mencari atau menyelidiki 
+secara mendalam”. Adapun menurut KBBI, penelitian sosial merupakan upaya 
+pemeriksaan secara teliti atau penyelidikan. Selain itu, penelitian diartikan 
+sebagai kegiatan pengumpulan, pengolahan, analisis, dan penyajian data 
+secara sistematis dan objektif yang bertujuan memecahkan suatu persoalan 
+atau menguji suatu hipotesis untuk mengembangkan prinsip-prinsip umum.
+Lantas, bagaimana fungsi penelitian? Menurut Nurdin & Hartati (2019:16-
+18), fungsi penelitian sebagai berikut.
+• 
+Mendeskripsikan Gejala atau Peristiwa
+ 
+Saat merumuskan suatu permasalahan dari peristiwa, peneliti perlu 
+melakukan penelitian untuk menguji hipotesis berbasis data/bukti 
+untuk menjelaskan suatu gejala sosial dalam masyarakat. 
+• 
+Memprediksi Suatu Peristiwa
+ 
+Hasil penelitian adalah berbasis data sehingga mampu memprediksi 
+suatu peristiwa yang akan terjadi. Sebagai contoh, perkiraan 
+cuaca merupakan data hasil penelitian yang dilakukan oleh Badan 
+Meteorologi, Klimatologi, dan Geoisika (BMKG). 
+• 
+Pengembangan dan Menyusun Teori
+ 
+Penelitian akan menghasilkan pengetahuan baru dan mengembangkan 
+teori lama sehingga ilmu pengetahuan terus berkembang. Sebagai 
+contoh, barang-barang atau peralatan yang kamu gunakan seperti 
+ponsel pintar, komputer, media sosial, kecerdasan buatan (artiicial 
+intelligence/AI) merupakan hasil dari pengembangan penelitian. 
+Lantas, apa yang yang dimaksud dengan penelitian sosial? Penelitian 
+sosial merupakan berbagai upaya penyelidikan dengan menggunakan kaidah 
+dan prosedur ilmiah untuk menganalisis berbagai fenomena sosial, budaya, 
+lingkungan dalam ruang dan waktu. 
+79
+BAB 2: PENELITIAN SOSIAL
+Secara umum, tahapan dari penelitian sosial sebagai berikut. 
+1
+• 
+Menentukan Topik Penelitian
+Sebelum melakukan penelitian, kamu perlu menentukan topik 
+penelitian dan cakupan penelitiannya. Misalnya, kamu hendak 
+meneliti aliran musik anak muda, yaitu budaya skena. Saat 
+menentukan topik, tetapkan pula cakupannya seperti anak muda 
+di desa yang berumur 16–30 tahun. 
+• 
+Membuat dan Merumuskan Masalah
+Rumusan masalah terdiri atas pertanyan-pertanyaan penelitian. 
+Pertanyaan penelitian disusun untuk memandu peneliti agar fokus 
+pada kajian yang akan diteliti. Sebelum merumuskan masalah 
+penelitian, kamu hendaknya membaca berbagai buku dan hasil 
+penelitian sebelumnya terkait dengan topik penelitian yang hendak 
+diteliti. Rumusan masalah yang baik adalah mempertanyakan 
+bagaimana dan mengapa, bukan hanya tentang apa. Melalui kata 
+tanya “bagaimana dan mengapa”, kamu akan memperoleh temuan 
+dan fakta baru untuk menjelaskan suatu topik yang akan diteliti. 
+Sebagai contoh, kamu tertarik untuk melakukan penelitian tentang 
+budaya skena, maka contoh pertanyaannya adalah “Mengapa anak 
+muda tertarik dengan budaya skena?”.
+• 
+Melakukan Reviu Literatur atau Penelitian Sebelumnya
+Setelah menyusun rumusan masalah, tahapan penelitian sosial 
+selanjutnya adalah mencari dan membaca atau mereviu berbagai 
+bacaan ataupun hasil penelitian sebelumnya tentang topik yang 
+kamu teliti. Kegiatan tersebut bertujuan agar kamu belajar dan 
+mengetahui berbagai hal yang perlu disiapkan dalam penelitian. 
+2
+3
+80
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+• 
+Merumuskan Dugaan Sementara atau Hipotesis
+Saat melakukan studi literatur, kamu mulai memprediksi 
+kesimpulan sementara (hipotesis) tentang topik yang diteliti. 
+Hipotesis dapat berupa pernyataan-pernyataan yang akan diuji 
+melalui penelitian yang akan kamu lakukan. 
+• 
+Menentukan Metode Penelitian
+Pada tahap ini kamu perlu menentukan metode penelitian 
+yang akan digunakan dalam penelitian. Pada subbab ini, kamu 
+akan belajar mengenal berbagai metode penelitian sosial yang 
+biasanya digunakan oleh para peneliti. 
+• 
+Menyusun Instrumen Penelitian
+Setelah menentukan metode penelitian, kamu akan menyusun 
+instrumen (alat) untuk melakukan penelitian. Instrumen 
+penelitian merupakan panduan yang digunakan dalam penelitian 
+berupa pertanyaan survei, pertanyaan wawancara, daftar data 
+pendukung, narasumber/informan yang akan diwawancarai, 
+responden survei yang akan diberikan pertanyaan survei, serta 
+waktu dan lokasi penelitian dan kode etik selama penelitian. 
+• 
+Mengumpulkan Data
+Setelah menyusun instrumen penelitian, langkah selanjutnya 
+adalah mengumpulkan data. Kegiatan pengumpulan data (data 
+collection) sangat menentukan hasil data penelitian. Pada tahap 
+ini peneliti harus gigih untuk memperoleh data sebaik mungkin 
+dengan waktu yang terbatas dengan tetap menerapkan kode etik 
+penelitian. 
+4
+5
+6
+7
+81
+BAB 2: PENELITIAN SOSIAL
+• 
+Pengolahan dan Analisis Data
+Setelah memperoleh data yang cukup, tahapan berikutnya ialah 
+pengolahan data. Kamu perlu menyeleksi atau memilah data 
+yang telah terkumpul sesuai dengan pertanyaan penelitianmu. 
+Selanjutnya, kamu dapat menganalisis data sesuai dengan teori 
+yang kamu gunakan. 
+• 
+Penulisan Laporan Hasil Penelitian dan 
+Menarik Kesimpulan
+Penulisan laporan dilakukan setelah tahapan pengolahan 
+dan analisis data. Pada tahap ini kamu harus memiliki sikap 
+komitmen dan konsisten untuk menuliskan hasil penelitian 
+berdasarkan data-data dan menarik kesimpulan sesuai 
+hipotesismu. Setelah melakukan semua tahapan dalam 
+penelitian, releksikan penelitian yang telah kamu lakukan 
+sebagai bahan untuk memperbaiki penelitian selanjutnya. 
+8
+9
+PENGAYAAN
+Kamu dapat menggunakan berbagai sumber dan buku 
+untuk menambah wawasanmu tentang kegiatan penelitian 
+sosial.  Kamu dapat menyimak video YouTube Badan Riset 
+dan Inovasi Nasional (BRIN) berjudul “Talk to Scientists 
+Transformasi Metode Digital untuk Penelitian Sosial 
+dan Humaniora di Masa Pandemi” dengan mengunjungi 
+laman https://www.youtube.com/watch?v=MWxpKxSlR_U 
+atau memindai kode QR di samping.
+82
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Cara Melakukan Studi Pustaka
+Setelah menentukan topik penelitian dan merumuskan pertanyaan 
+penelitian, tahapan selanjutnya adalah melakukan studi pustaka atau reviu 
+literatur. Kerjakan aktivitas berikut untuk berlatih melakukan studi pustaka 
+atau reviu literatur. 
+Petunjuk Pengerjaan:
+1. Gunakan kata kunci di mesin pencari jurnal jika kamu hendak 
+menggunakan studi pustaka secara daring.  Jika kamu mencari buku 
+di perpustakaan, carilah buku sesuai dengan topik penelitian. 
+2. Kumpulkan minimal lima jurnal/artikel/buku yang membahas tentang 
+topik penelitian. Buatlah reviu literatur berdasarkan sumber referensi 
+yang telah kamu temukan. 
+3. Sajikan hasil reviu yang kamu kerjaan dalam format tabel berikut. 
+Judul Jurnal/
+Artikel/Buku
+Metode 
+Penelitian
+Temuan/Hasil 
+Penelitian
+Catatan Penting 
+Terkait Topik 
+Penelitian
+Bacalah jurnal/artikel/buku sesuai dengan topik penelitianmu dengan 
+saksama sehingga kamu mampu memahami penelitianmu dengan baik. 
+Setelah membuat reviu literatur  melalui tabel di atas, kamu dapat menuliskan 
+dalam laporan penelitianmu dengan mencantumkan referensinya.
+Pada subbab ini kamu akan belajar tentang tiga metode penelitian sosial. 
+Ketiga metode ini digunakan oleh para peneliti dari berbagai ilmu dalam IPS. 
+Akan tetapi, tiap-tiap ilmu sosial juga memiliki kekhasan dalam penelitian. 
+Pendekatan atau metode dalam penelitian sosial dibedakan menjadi tiga, yaitu 
+penelitian kuantitatif, kualitatif, dan campuran (mixed methods). Ketiga metode 
+tersebut akan dijelaskan lebih detail sebagai berikut.
+83
+BAB 2: PENELITIAN SOSIAL
+1. Metode Kualitatif
+Metode kualitatif mengeksplorasi dan memahami makna, simbol, motivasi, 
+pengalaman individu yang menjadi subjek penelitian. Metode penelitian 
+kualitatif mengutamakan kualitas data. Bentuk data dari metode kualitatif 
+antara lain pernyataan, pendapat, serta gambaran (deskripsi) dari subyek 
+penelitian. Teknik pengumpulan data pada metode kualitatif diperoleh melalui 
+pengamatan (observasi), wawancara, ataupun diskusi kelompok dengan 
+informan. Terdapat berbagai macam jenis dalam metode penelitian kualitatif, 
+seperti metode etnograi, studi kasus, fenomenologi, penelitian sejarah, dan 
+lainnya.
+Contoh Penerapan Metode Penelitian Kualitatif
+1
+2
+3
+4
+Menentukan minat atau topik yang menarik untuk diteliti.
+Contoh topik penelitian adalah motivasi pelajar dalam menabung.
+Membaca berbagai sumber literatur dan hasil penelitian 
+sebelumnya terkait dengan topik yang hendak diteliti.
+Sebagai contoh, kamu mencari berbagai artikel dan jurnal tentang 
+motivasi pelajar menabung.
+Membuat rumusan masalah dengan menyusun pertanyaan 
+penelitian.
+Sebagai contoh, “Mengapa pelajar termotivasi untuk menabung?”.
+Menentukan metode penelitian, menyusun rencana pengumpulan 
+data dan rencana wawancara dengan informan/narasumber.
+Contoh metode penelitian dari rumusan masalah di atas, yaitu metode 
+penelitian kualitatif. Adapun narasumber dalam penelitian tersebut 
+adalah pelajar yang memiliki budaya menabung. 
+Sebelum melakukan wawancara, peneliti perlu membuat daftar 
+pertanyaan kepada informan. Kegiatan ini dilakukan agar kegiatan 
+wawancara dapat fokus pada data yang hendak digali. 
+84
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Gambar 2.3 Dalam etnograi, seorang peneliti mengamati partisipan 
+dengan ikut terlibat dalam kegiatan di lapangan.
+Sumber: Priscilla Magrath/Arizona State University (2013)
+5
+6
+7
+8
+Melakukan 
+pengamatan 
+(observasi) 
+lingkungan 
+dan 
+melakukan wawancara dengan informan. 
+Sebelum melakukan penelitian, kamu harus membuat surat izin 
+penelitian dan kesediaan keterlibatan informan dalam proses 
+penelitian. Dalam hal ini, kamu perlu melakukan izin terlebih dahulu 
+jika hendak memotret, merekam suara, dan mengambil video.
+Mengolah dan analisis data.
+Dalam metode kualitatif kegiatan mengolah dan menganalsis 
+dapat dapat dilakukan dengan berbagai cara. Menurut Miles dan 
+Huberman, langkah-langkah untuk melakukan analisis data dimulai 
+dengan pengumpulan data, mereduksi data (mengurangi/memilah 
+data yang dianggap tidak relevan), penyajian data berupa informasi 
+dari narasumber, pengalaman informan yang menjawab pertanyaan 
+penelitian, dan penarikan kesimpulan. 
+Menyusun laporan penelitian.
+Penyusunan laporan dilakukan dengan menyajikan temuan penelitian 
+dan menjelaskan temuan menggunakan teori yang relevan. Misalnya, 
+teori perilaku sosial atau teori tindakan sosial dari Max Weber untuk 
+menjelaskan motivasi pelajar menabung.
+Menuliskan kesimpulan dan rekomendasi.
+Rekomendasi dapat berupa penelitian selanjutnya yang dapat 
+dilakukan oleh pembaca. Kegiatan ini perlu dilakukan karena 
+setiap penelitian memiliki keterbatasan sehingga diperlukan 
+upaya  penelitian lanjutan.
+85
+BAB 2: PENELITIAN SOSIAL
+2. Metode Kuantitatif
+John W. Creswell dalam bukunya Desain Riset: Pendekatan Metode Kualitatif, 
+Kuantitatif, dan Campuran (2017: 4–5) menjelaskan bahwa penelitian kuantitatif 
+ialah metode penelitian yang menguji teori tertentu dan mencari data penelitian 
+dengan cara meneliti hubungan antarvariabel. Berbagai variabel itu diukur 
+secara matematis dan statistik. Data yang berbentuk angka-angka dianalisis 
+berdasarkan prosedur statistika. Contoh penerapan metode kuantitatif adalah 
+survei menggunakan angket atau kuesioner. 
+Dalam penelitian kuantitatif, variabel berkaitan dengan faktor-faktor 
+yang dapat dipengaruhi atau memengaruhi suatu topik penelitian. Jenis-jenis 
+variabel sebagai berikut. 
+a. Variabel bebas (independent variable) berkaitan dengan faktor yang 
+memengaruhi.
+b. Variabel terikat (dependent variable) berkaitan dengan faktor yang 
+dipengaruhi oleh faktor lainnya.
+Contoh Penerapan Metode Kuantitatif dalam Penelitian Sosial
+1
+2
+3
+Menentukan topik penelitian.
+Misalnya, topik tentang kenaikan harga telur ayam.
+Mencari informasi dari berbagai sumber terkait topik yang 
+hendak diteliti. 
+Sumber informasi dapat berupa buku ataupun penelitian sebelumnya 
+terkait topik yang hendak diteliti.
+Membuat rumusan masalah dengan menyusun pertanyaan 
+penelitian. 
+Contoh rumusan masalah sebagai berikut.
+• 
+Mengapa harga telur ayam naik? 
+• 
+Faktor apa saja yang paling memengaruhi kenaikan harga telur 
+ayam?
+86
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Menentukan metode penelitian yang akan digunakan.
+Misalnya dengan metode kuantitatif. Ciri khas metode ini adalah 
+melakukan pengukuran dan pengujian hubungan antarvariabel. 
+Dengan demikian, kamu harus menentukan variabel yang mampu 
+memprediksi atau menjawab pertanyaan penelitian. 
+Untuk 
+menjawab 
+pertanyaan 
+penelitian 
+seperti 
+contoh 
+sebelumnya, contoh berikut dapat digunakan sebagai variabel. Contoh 
+variabel bebas (X) antara lain 1) harga pakan ayam; 2) harga BBM dan 
+biaya transportasi; 3) permintaan naik pada saat hari besar keagamaan. 
+Adapun contoh variabel terikat (Y) adalah harga telur ayam.
+Teori yang hendak diuji adalah hubungan antara variabel bebas 
+dan variabel terikat. Contoh hubungan antarvariabel yang hendak diuji 
+dari pertanyaan pertama dan kedua sebagai berikut. 
+“Kenaikan harga telur ayam kemungkinan di pengaruhi 
+oleh kenaikan harga pakan, kenaikan harga BBM dan 
+biaya transportasi, serta permintaan pada saat hari 
+besar keagamaan”.
+Selanjutnya dari ketiga faktor tersebut, tentukan variabel yang 
+paling memengaruhi kenaikan harga telur ayam melalui penelitian. 
+Melakukan Survei
+Untuk menjawab pertanyaan penelitian, menguji teori, dan mengkaji 
+hubungan antarvariabel, kamu dapat melakukan survei dengan 
+memberikan angket atau kuesioner kepada responden. Penelitian 
+survei dapat dilakukan secara langsung atau daring. Kamu dapat 
+menggunakan berbagai aplikasi daring atau nirkertas untuk 
+melakukan survei.
+Kegiatan yang harus kamu diperhatikan sebelum membagikan 
+angket dalah pernyataan kesediaan keterlibatan responden dalam 
+penelitian. Upaya ini dilakukan sebagai bentuk penerapan etika 
+penelitian sosial. 
+4
+5
+87
+BAB 2: PENELITIAN SOSIAL
+Mengolah dan analisis data penelitian.
+Setelah data terkumpul, kamu dapat melakukan analisis data 
+penelitian dengan mengukur hubungan antarvariabel dari angket 
+yang telah dijawab responden. Data statistik akan menunjukkan dan 
+menjawab pertanyaanmu. 
+Membuat laporan penelitian. 
+Tulislah informasi atau data temuan dari penelitianmu sesuai 
+pertanyaan penelitian. Dalam proses penulisan laporan, kamu dapat 
+menggunakan berbagai teori untuk menjelaskan dan menguatkan 
+argumen yang terkait dengan topik penelitianmu.
+Menuliskan rekomendasi hasil penelitian.
+Setelah membuat analisis dan menuliskan hasil penelitian, kamu 
+dapat 
+membuat 
+kesimpulan, 
+menuliskan 
+rekomendasi, 
+dan 
+mempresentasikan hasil penelitian.
+6
+7
+8
+3. Metode Campuran
+Setiap penelitian bertujuan mendapatkan data yang valid, tepercaya, dan 
+objektif. Metode penelitian campuran (mixed methods) merupakan gabungan 
+antara metode kuantitatif dan metode kualitatif. Metode penelitian campuran 
+biasanya dilakukan untuk memperoleh data yang komprehensif karena tiap-
+tiap metode penelitian memiliki kelemahan dan kelebihan. Peneliti biasanya 
+menggunakan metode penelitian campuran untuk menguatkan data-data, baik 
+berupa angka maupun pernyataan subjek penelitian. Teknik pengumpulan 
+data dalam metode campuran antara lain penelitian survei, melakukan 
+pengamatan (observasi), dan wawancara. Analisis data dari metode ini juga 
+menggabungkan kedua metode penelitian tersebut.
+4. Sumber Penelitian
+Sumber penelitian adalah rujukan yang berupa data dan informasi yang terdiri 
+atas data primer dan data sekunder. Adapun data primer adalah informasi 
+yang diperoleh dari hasil wawancara, pengamatan, dan survei secara langsung 
+88
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+dari subjek penelitian. Adapun data sekunder atau biasa disebut sebagai data 
+pendukung diperoleh dari berbagai sumber. Misalnya, data statistik, informasi, 
+atau data dari penelitian sebelumnya, dokumen, foto, video, laporan, dan bentuk-
+bentuk lainnya. Dalam mengolah data sekunder peneliti perlu memastikan 
+kesahihan data, yaitu diperoleh dari sumber yang tepercaya. Sumber informasi 
+yang berbeda dapat menentukan validitas data dan menghasilkan data yang 
+berbeda-beda.
+5. Etika Penelitian
+Etika penelitian merupakan aturan yang seharusnya dilakukan selama 
+pelaksanaan hingga pelaporan penelitian. 
+Salah satu etika penelitian adalah integritas. Ini artinya 
+penelitian yang dilakukan bukan hasil plagiasi (menjiplak) 
+karya 
+orang 
+lain. 
+Oleh 
+karena 
+itu, 
+peneliti 
+perlu 
+mencantumkan sumber informasi dari buku, internet, 
+jurnal, laporan penelitian sebelumnya, dan lain-lain.
+Selama penelitian, peneliti perlu memperhatikan hak 
+informan atau subjek penelitian. Sebelum pengumpulan 
+data, peneliti wajib menyediakan surat kesediaan (informed 
+consent) informan untuk terlibat dalam penelitian. Peneliti 
+tidak boleh memaksa apabila calon informan penelitian 
+tidak bersedia untuk terlibat.
+Selama proses pengumpulan data, baik wawancara 
+maupun observasi, peneliti harus menjaga perilaku santun 
+dan menghormati pendapat informan. Selain itu, peneliti 
+harus menjaga kerahasiaan identitas informan. Saat 
+menuliskan laporan penelitian, peneliti dapat menggunakan 
+nama samaran untuk menjaga data privasi.
+ Selama penelitian, peneliti dan informan dapat 
+membuat kesepakatan. Misalnya, menjaga kerahasiaan 
+89
+BAB 2: PENELITIAN SOSIAL
+identitas, atau melakukan perjanjian tentang kesediaan dan 
+waktu wawancara. Informasi tentang penelitian, seperti 
+tujuan penelitian, juga sebaiknya disampaikan kepada 
+informan sebagai bentuk keterbukaan informasi. 
+Seorang 
+peneliti 
+tidak 
+boleh 
+memanipulasi 
+data 
+penelitian. Apabila data yang diperoleh tidak sesuai harapan 
+atau hipotesis, data tidak boleh direkayasa. Dalam melakukan 
+uji coba hipotesis, sering data tidak sesuai temuan di 
+lapangan. Dalam hal ini, peneliti dapat mengevaluasi dan 
+mereleksikan kembali proses pengumpulan data maupun 
+teori dan perspektif yang digunakan.
+Bias penelitian perlu dihindari dalam penelitian. Bias 
+penelitian mengacu pada pandangan yang hanya mewakili 
+kepentingan diri peneliti dan kelompok. Peneliti harus 
+objektif dalam melakukan penelitian. Untuk menghindari 
+bias penelitian, peneliti dapat melakukan penarikan diri 
+(selalu sadar akan posisi sebagai peneliti). 
+AKTIVITAS 2.1
+Mengenal Berbagai Metode Penelitian Sosial
+Jenis Kegiatan: Tugas kelompok berpasangan
+Petunjuk Pengerjaan:
+1. Carilah informasi mengenai berbagai metode penelitian sosial melalui 
+berbagai sumber.
+2. Tulislah referensi dari buku atau artikel yang kamu gunakan.
+3. Analisislah beberapa hal berikut. 
+• 
+Perbedaan dan persamaan metode penelitian kualitatif dan kuantitatif.
+• 
+Kelebihan dan kelemahan dari metode penelitian kualitatif, kuantitatif, 
+dan campuran. 
+4. Presentasikan hasil analisismu di depan kelas.
+90
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+B. Kekhasan Penelitian Sejarah
+Penelitian sejarah memiliki kekhasan yang berbeda dengan penelitian ilmu 
+sosial lainnya. Kajian sejarah adalah fenomena kehidupan manusia dan 
+masyarakat yang terjadi pada masa lampau. Oleh sebab itu, peneliti sejarah 
+tidak bisa berinteraksi secara langsung dengan objek yang diteliti dan 
+memerlukan media berupa sumber sejarah (Wasino, & Endah 2018). Selain itu, 
+kajian sejarah bukanlah mitos, melainkan peristiwa nyata yang terjadi pada 
+masa lampau. 
+Penelitian sejarah menurut Louis Gottschalk (dikutip dari Saidah, 2011) 
+menerapkan empat kegiatan pokok sebagai cara melakukan penelitian dan 
+penulisan sejarah. Keempat kegiatan tersebut, yaitu: 1) Mengumpulkan 
+berbagai informasi tertulis dan lisan yang relevan; 2) Membuang informasi 
+yang tidak jelas dan keasliannya masih diragukan; 3) Mengambil kesimpulan 
+dari bukti dan sumber sejarah yang tepercaya; dan 4) Merangkai semua bukti 
+dan sumber menjadi laporan.
+Seiring perkembangan ilmu sejarah, para ahli mengembangkan empat 
+tahapan penelitian yang diterima secara luas di bidang kajian sejarah. 
+Langkah-langkah tersebut sebagai berikut. 
+1. Heuristik
+Heuristik adalah mengumpulkan data dari berbagai sumber sejarah. Contoh 
+sumber sejarah berupa sumber tulisan dan sumber lisan. Sumber lain seperti 
+artefak bisa menjadi pendukung. Artefak adalah benda-benda bersejarah 
+yang menunjukkan kebudayaan manusia pada masa lampau, seperti prasasti, 
+peralatan hidup, bangunan masa lampau, foto masa lampau, dan lain sebagainya. 
+Adapun sumber lisan dapat berupa rekaman video atau suara tentang kejadian 
+pada masa lampau, contohnya pidato Presiden Sukarno. Sementara, contoh 
+dari data atau sumber kuantitatif adalah data berupa angka, misalnya laporan 
+pajak individu maupun perusahaan. 
+91
+BAB 2: PENELITIAN SOSIAL
+Sumber sejarah disebut sumber primer jika disampaikan oleh saksi mata. 
+Contohnya, catatan rapat, arsip laporan bupati, prasasti, naskah kuno. 
+Selanjutnya, sumber sekunder adalah disampaikan oleh bukan saksi mata. 
+Contohnya buku yang ditulis sejarawan tentang naskah kuno. 
+Referensi: Kuntowijoyo, D. R. (1995). Pengantar Ilmu Sejarah. Bentang Pustaka.
+Salah satu contoh sumber sejarah primer berupa arsip digital dapat 
+kamu akses melalui kanal YouTube Arsip Nasional Republik Indonesia. Simak 
+video “Presiden Sukarno Hadiri Peringatan Hari Penerbangan Nasional ke-18” 
+melalui tautan https://www.youtube.com/watch?v=qlgxgfhqG98 atau pindai 
+kode QR berikut. 
+2. Veriikasi
+Veriikasi adalah tahapan melakukan kritik atas sumber sejarah yang telah 
+dikumpulkan. Tujuan veriikasi ialah pemeriksaan sumber sejarah untuk 
+mengetahui keasliannya dan keabsahan sumber. Terdapat dua jenis kritik atas 
+sumber sejarah yaitu kritik internal dan kritik eksternal. Kritik internal adalah 
+proses penilaian keakuratan sumber sejarah, sementara kritik eksternal adalah 
+proses penilaian keaslian sumber sejarah. Contohnya, ketika menggunakan 
+prasasti batu sebagai sumber sejarah, kritik internal dilakukan dengan 
+memeriksa isi prasasti sedangkan kritik eksternal dilakukan dengan dengan 
+mengetahui umur batuan tersebut. 
+3. Interpretasi
+Interpretasi adalah tahapan menafsirkan atau melakukan analisis sejarah 
+dengan berupaya memahami makna keterkaitan dari sumber-sumber sejarah 
+yang telah diveriikasi. Contoh interpretasi sejarah suatu daerah, terdapat 
+berbagai macam interpretasinya misalnya sejarah bangunan dan jalan, sejarah 
+pendidikan, sejarah pemerintahan, dan lain-lain. 
+92
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+AKTIVITAS 2.2
+4. Historiograi
+Historiograi adalah tahapan penulisan sejarah yang harus menekankan aspek 
+kronologi. Inilah yang membedakan penelitian sejarah dengan penelitian ilmu 
+sosial lain yang tidak begitu menekankan aspek kronologi. Perhatikan contoh 
+berikut.
+Penelitian Sejarah 
+Perubahan Sosial di Yogyakarta 
+1925-1966
+Penelitian Sosiologi
+Perubahan Sosial Masyarakat di 
+Yogyakarta
+Setelah kamu mempelajari tahapan dalam penelitian sejarah, kerjakanlah 
+Aktivitas 2.2 untuk melatih diri. 
+Praktik Heuristik dan Veriikasi
+Jenis Kegiatan: Tugas kelompok berpasangan
+Petunjuk Pengerjaan:
+1. Lakukan tahapan penelitian sejarah secara sederhana dengan temanmu.
+2. Pilihlah satu peristiwa bersejarah atau sejarah yang terdapat di wilayahmu. 
+Misalnya, jika kamu berada di Palembang kamu dapat mencari sumber 
+sejarah tentang Jembatan Ampera. Contoh lain, jika kamu berada di 
+Ambon kamu dapat mencari sumber sejarah tentang Benteng Amsterdam.
+3. Tulislah sumber sejarah yang kamu gunakan.
+Tugas: Setelah kamu mendapatkan topik peristiwa maka kerjakan dengan 
+mengikuti langkah-langkah berikut.
+1. Kumpulkan berbagai sumber sejarah sesuai topik yang kamu pilih.
+2. Pilahlah mana yang sumber primer dan sumber sekunder.
+3. Veriikasikan keaslian dan keabsahan sumber sejarah yang telah kamu 
+peroleh. 
+4. Jelaskan alasanmu dan sertakan buktinya.
+5. Kemukakan temuanmu di kelas.
+93
+BAB 2: PENELITIAN SOSIAL
+Mona Lohanda: 
+Sejarawan dan Arsiparis Indonesia
+POJOK TOKOH
+Sejarawan 
+dan 
+para 
+peneliti 
+yang 
+terkait 
+dengan sejarah Indonesia tentu mengenal Moha 
+Lohanda. Dia lahir di Tangerang pada tahun 
+1947 dan wafat pada tahun 2021. Mona Lohanda 
+adalah sejarawan yang menulis tentang Kapitan 
+Cina di Batavia 1837-1942 serta beberapa karya 
+sejarah lainnya. Selain sebagai sejarawan, dia 
+juga seorang kurator arsip di Arsip Nasional 
+Republik Indonesia. Dia adalah arsiparis yang 
+fokus pada arsip sejarah masa Vereenigde 
+Oostindische Compagnie (VOC) dan menyusun 
+arsip masa VOC sehingga dapat membantu para 
+peneliti dan mahasiswa yang mengkaji sejarah 
+pada masa VOC. Dia menguasai tata bahasa 
+Belanda kuno sehingga sangat membantu para 
+peneliti untuk memahami suatu arsip. Salah satu 
+karya pentingnya ialah transkripsi arsip dari 
+bahasa Belanda kuno ke bahasa Belanda modern. 
+Penelitian sejarah banyak mengandalkan arsip 
+sebagai sumber sejarah sehingga arsiparis seperti 
+Moha Lohanda memiliki peran penting dalam 
+penelitian sejarah. 
+Referensi:
+Santosa, Iwan. Harian Kompas, 17 Januari 2021. 
+“Mona Lohanda, Awal Mula Penjajahan hingga Seleksi 
+Pahlawan Nasional” 
+Gambar 2.4 
+Mona Lohanda 
+dan karya-
+karyanya yang 
+mendunia
+Sumber: HIDUP/Yanuari 
+Marwanto (2017)
+94
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+C. Kekhasan Penelitian Geograi
+Kamu telah mempelajari tentang penelitian sosial dan berbagai metode 
+penelitian sosial. Mirip dengan ilmu sosial lainnya, geograi juga menggunakan 
+tiga metode penelitian. Namun,  terdapat perbedaan yang menjadi ciri khas dari 
+geograi. Tahapan penelitian geograi juga mirip dengan tahapan penelitian 
+sosial yang disesuaikan dengan topik penelitian geograi. 
+Secara khusus, penelitian geograi adalah kegiatan penyelidikan secara 
+ilmiah dan sistematis yang digunakan untuk memecahkan masalah mengenai 
+fenomena geosfer. Salah satu ciri khas dari penelitian geograi ialah penggunaan 
+tiga pendekatan geograi, yaitu pendekatan keruangan, ekologi (kelingkungan), 
+dan kompleks wilayah. Kekhasan lainnya ialah penekanan pada aspek ruang 
+sehingga peta, penginderaan jauh, sistem informasi geograis (SIG), dan 
+observasi lapangan menjadi bagian penting dalam penelitian geograi. 
+Sebelum kamu belajar tentang peta, penginderaan jauh, dan SIG, kamu 
+akan mengenal terlebih dahulu tentang jenis penelitian geograi berdasarkan 
+tujuan. Secara terperinci terdapat tiga jenis penelitian geograi sebagai berikut.
+1. Penelitian 
+eksploratif 
+adalah 
+penelitian 
+yang 
+bertujuan 
+mengembangkan dasar pengetahuan tentang fenomena geosfer. 
+2. Penelitian deskriptif adalah penelitian yang bertujuan menjelaskan 
+gambaran lengkap tentang fenomena geosfer. 
+3. Penelitian eksplanatif adalah penelitian yang bertujuan menguji suatu 
+teori atau hipotesis tentang fenomena geosfer. 
+Sementara dalam penelitian geograi terdapat tiga bentuk penelitian 
+sebagai berikut.
+1. Studi kasus adalah penelitian mendalam pada satu atau dua wilayah 
+yang mengumpulkan data dengan studi lapangan serta wawancara. 
+2. Survei adalah penelitian dengan menggunakan survei bertujuan untuk 
+menguji hipotesis dan menjelaskan hubungan antarvariabel.
+3. Eksperimen adalah penelitian yang bertujuan untuk memahami 
+pengaruh variabel satu dengan variabel lainnya. 
+95
+BAB 2: PENELITIAN SOSIAL
+Terkait dengan jenis data dalam penelitian geograi, agak mirip dengan 
+ilmu-ilmu sosial lainnya, terdapat dua jenis data geograi sebagai berikut.
+1. Data primer adalah data yang diperoleh dari sumber pertama dan 
+dikumpulkan oleh peneliti sendiri. Contoh data primer ialah hasil 
+wawancara dan amatan (observasi). Ketika peneliti melakukan 
+pemotretan selama observasi, maka hasil foto tersebut merupakan 
+data primer. 
+2. Data sekunder adalah data yang diperoleh dari berbagai sumber. 
+Misalnya, data dari BMKG tentang ikhtisar cuaca dan citra satelit tren 
+curah hujan. 
+Perhatikan beberapa contoh tentang hasil penelitian geograi berikut 
+dan kerjakanlah Aktivitas 2.3 agar kamu dapat memahami tentang penelitian 
+geograi dan manfaatnya. 
+AKTIVITAS 2.3
+Mengidentiikasi Sumber Data 
+dan Manfaat Penelitian Geograi
+Bacalah kedua artikel berikut dengan cermat!
+Artikel 1
+Luasan dan Kerapatan Ekosistem Mangrove 
+di Kecamatan Cilamaya Wetan, Kabupaten Karawang
+ 
+Dalam beberapa tahun terakhir, luasan dan kerapatan mangrove di Kecamatan 
+Cilamaya Wetan, Kabupaten Karawang berubah. Untuk menganalisisnya, 
+penelitian ini menggunakan data penginderaan  jauh berupa citra satelit dan 
+analisis penghitungan NDVI (Normalized Difference Vegetation Index), yaitu 
+indeks yang menggambarkan tingkat kehijauan suatu tanaman pada suatu 
+area. 
+96
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Berdasarkan hasil analisis spasial, kuantitatif, dan deskriptif, luasan dan 
+kerapatan kawasan ekosistem mangrove mengalami penurunan karena alih 
+fungsi lahan dan kegiatan wisata. Pada 2017, luas lahan mangrove ialah 
+77,40 Ha, tetapi pada 2019 menjadi seluas 50,91 Ha. Alih fungsi ekosistem 
+mangrove juga terkait dengan minimnya pengetahuan masyarakat tentang 
+manfaat hutan mangrove bagi kehidupan. Penelitian ini merekomendasikan 
+adanya sosialisasi manfaat ekosistem mangrove pemerintah daerah dan 
+program penanaman mangrove berkala yang melibatkan masyarakat lokal.
+Referensi: Kurniawansyah, A., Manessa, M. D., & Hartati, A. P. (2022). “Luasan 
+dan Kerapatan ekosistem mangrove di Kecamatan Cilamaya Wetan, Kabupaten 
+Karawang”. Majalah Geograi Indonesia, 37(1).
+Artikel 2
+Pemetaan Mobilitas Penduduk  
+di Kawasan Pinggiran Kota Bandung
+ 
+Melalui pendekatan deskriptif kuantitatif dengan teknik pengumpulan data 
+observasi dan wawancara, penelitian ini berupaya memetakan mobilitas 
+(gerak perpindahan penduduk dari satu wilayah ke wilayah lain) di Bandung. 
+Observasi dan wawancara dilakukan di tujuh lokasi pinggiran Kota Bandung 
+selama dua hari, yaitu Minggu (akhir pekan) dan Senin (awal pekan) pada 
+pukul 06.00 hingga pukul 18.00 sebagai indikator waktu puncak mobilitas 
+penduduk. Analisis penelitian ini menggunakan Sistem Informasi Geograis 
+(SIG) untuk memvisualisasikan data dalam bentuk peta sehingga pembaca 
+memiliki gambaran jelas tentang mobilitas penduduk dari kawasan pinggiran 
+Kota Bandung ke pusat kota. 
+Hasil penelitian ini menunjukkan adanya perpindahan penduduk yang 
+tinggi dari kawasan pinggiran ke pusat kota. Jumlah kendaraan yang masuk 
+13% lebih tinggi dari jumlah kendaraan yang keluar dari pusat Kota Bandung 
+pada pukul 06.00—8.00. Mobilitas penduduk yang tinggi dari kawasan 
+pinggiran ke pusat kota berdampak pada kemacetan lalu lintas, polusi udara, 
+dan kepadatan penduduk. 
+97
+BAB 2: PENELITIAN SOSIAL
+Penduduk dari kawasan pinggiran memiliki ketergantungan dengan 
+pusat kota guna keperluan pekerjaan, ekonomi, pendidikan, dan kesehatan 
+karena sarana dan prasarana di pusat kota lebih lengkap. Hasil penelitian ini 
+merekomendasikan kepada pemerintah daerah agar memiliki perencanaan 
+pembangunan di kawasan pinggiran untuk mengurangi mobilitas penduduk di 
+kawasan pinggiran ke pusat kota.
+Referensi: Somantri, L. (2022). Pemetaan mobilitas penduduk di kawasan 
+pinggiran Kota Bandung. Majalah Geograi Indonesia, 36(2), 95-102.
+ 
+Tugas:
+1. Jelaskan jenis penelitian yang terdapat pada dua artikel di atas!
+2. Jelaskan data yang digunakan untuk melakukan analisis!
+3. Jelaskan manfaat penelitian geograi bagi kehidupan sehari-hari! 
+Berdasarkan Aktivitas 2.3 yang telah kamu kerjakan, penelitian geograis 
+selalu identik dan memerlukan peta, penginderaan jauh, dan Sistem Informasi 
+Geograis (SIG). Berikut penjelasan secara lebih terperinci mengenai ketiga 
+sumber data dan alat analisis dalam penelitian geograi. 
+1. Peta 
+Pada jenjang pendidikan sebelumnya, kamu telah belajar tentang peta dan 
+pernah membuat peta. Bisakah kamu sebutkan apa manfaat peta bagimu? 
+Ketika kamu hendak bepergian ke suatu tempat, apakah kamu pernah 
+menggunakan aplikasi daring dan meminta teman yang hendak kamu kunjungi 
+untuk berbagi lokasi? Jika iya, maka pada saat itu kamu telah menggunakan 
+peta daring yang memandumu agar tidak tersesat ketika berada di lokasi yang 
+tidak kamu kenali. 
+Peta merupakan ciri khas pembeda geograi dengan ilmu-ilmu sosial 
+lainnya. Peta menggambarkan deskripsi dan karakteristik tentang ruang 
+sehingga semua penelitian geograi selalu menggunakan peta. Secara umum, 
+98
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+BAB 2: PENELITIAN SOSIAL
+peta dideinisikan sebagai gambaran permukaan bumi pada bidang datar yang 
+digambar dengan skala tertentu serta menggunakan sistem proyeksi.
+Peraturan Pemerintah Republik Indonesia Nomor 10 Tahun 2000 tentang 
+Tingkat Ketelitian Peta untuk Penataan Ruang Wilayah, ayat 1 menjelaskan 
+sebagai berikut.
+• 
+Peta adalah suatu gambar dari unsur-unsur alam dan atau buatan 
+manusia yang berada di atas maupun di bawah permukaan 
+bumi yang digambarkan pada suatu bidang datar dengan skala 
+tertentu.
+• 
+Skala peta adalah perbandingan antara jarak dua titik di atas 
+peta dan jarak tersebut di muka bumi.
+Terdapat dua jenis peta berdasarkan isinya yaitu peta umum dan peta 
+tematik. Peta umum adalah peta yang menggambarkan kenampakan suatu 
+wilayah secara umum. Contohnya ialah peta topograi dan peta wilayah. 
+Gambar 2.5 Peta Topograi
+Sumber: : NASA SRTMGL1 V003/Domain Publik (2023)
+99
+BAB 2: PENELITIAN SOSIAL
+99
+Sementara peta tematik adalah peta yang menggambarkan kenampakan 
+permukaan bumi sesuai dengan tema tertentu. Contohnya, peta persebaran 
+lora dan fauna, peta zonasi gempa Indonesia, dan peta bahasa.
+Selanjutnya, jenis peta berdasarkan skalanya terdapat lima jenis peta 
+sebagai berikut.
+• 
+Peta skala kadaster: peta yang memiliki skala antara 1: 100 hingga 1: 
+5.000. Contohnya adalah peta yang terdapat dalam sertiikat tanah.
+• 
+Peta skala besar: peta yang memiliki skala antara 1: 5.000 hingga 1: 
+250.000. Contohnya adalah peta kabupaten, peta desa.
+• 
+Peta skala sedang: peta yang memiliki skala antara 1:250.001 sampai 
+dengan 1:500.000. Contohnya adalah peta provinsi.
+• 
+Peta skala kecil: peta yang memiliki skala antara 1:500.001 sampai 
+dengan 1:1.000.000. Contohnya adalah peta negara Indonesia.
+• 
+Peta skala geograis: memiliki skala yang lebih kecil dari 1:1.000.000. 
+Contohnya, peta dunia.
+Peta menjadi bagian sentral dalam geograi karena peta berfungsi sebagai 
+petunjuk lokasi di permukaan bumi, menginformasikan bentuk permukaan 
+bumi dan lingkungan suatu wilayah baik luas, jarak, kontur (ketinggian), dan 
+potensi sumber daya alam. 
+Gambar 2.6
+Peta Bahasa 
+Sumber: Pusat 
+Pengembangan 
+dan Perlindungan/
+Kemendikbudristek (2023)
+100
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+PENGAYAAN
+Kamu dapat belajar tentang peta Indonesia melalui 
+website Ina-geoportal. Kunjungi tautan https://tanahair.
+indonesia.go.id/portal-web/ untuk mengunduh berbagai 
+jenis peta.
+Kunjungi tautan https://www.youtube.com/
+watch?v=Y6iaWX5i4Bw atau pindai kode QR di 
+samping untuk menonton video tentang kerja 
+sama LAPAN di bidang penginderaan jauh. 
+2. Penginderaan Jauh 
+Perhatikan video tentang kerja sama LAPAN di bidang penginderaan jauh 
+berikut ini.
+Setelah menonton video tentang “Kerja sama LAPAN di Bidang Penginderaan 
+Jauh untuk Mendukung Nawa Cita”, jelaskan pengertian penginderaan jauh 
+dan manfaatnya bagi negara kita!
+Penginderaan jauh atau remote sensing adalah ilmu dan seni untuk 
+mengetahui tentang objek, daerah, dan gejala melalui analisis data yang 
+diperoleh melalui alat dan tanpa kontak langsung (Somantri, 2009: 1). Komponen 
+sistem penginderaan jauh adalah sumber tenaga, atmosfer, objek penginderaan 
+jauh, sensor (alat penerima pantulan spektrum elektromagnetik), detektor (alat 
+perekam), dan wahana (satelit, pesawat terbang, pesawat ulang alik). 
+101
+BAB 2: PENELITIAN SOSIAL
+Secara sederhana sistem penginderaan jarak jauh dapat diilustrasikan 
+dengan gambar berikut.
+Gambar 2.7  Sistem Penginderaan Jauh
+Gambar 2.8 Citra foto drone
+Sumber: Pxhere/CC-C0 (2018)
+Berdasarkan ilustrasi gambar di atas, kamu dapat memahami cara kerja 
+antarkomponen dalam sistem penginderaan jauh. Selanjutnya, hasil dari 
+penginderaan jauh setelah data diterima dan diolah maka hasilnya sebagai 
+berikut.
+• 
+Citra foto berupa potret objek di 
+permukaan bumi. Berdasarkan spek-
+trum nya dan kondisi daerah yang 
+tertutup 
+awan 
+terdapat 
+berbagai 
+macam citra foto yaitu citra foto 
+konvensional (pankromatik), citra foto 
+inframerah, citra foto ultraviolet, dan 
+citra foto ortokromatik. Wahana yang 
+digunakan dari citra foto ialah pesawat 
+terbang. Wahana lain selain pesawat 
+terbang yang dapat membawa alat 
+pemantau penginderaan jauh ialah 
+pesawat tanpa awak (drone terbang). 
+102
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+1
+BAB 2: PENELITIAN SOSIAL
+• 
+Citra nonfoto adalah hasil penginderaan jauh yang tidak menggunakan 
+sensor kamera, tetapi sensor gelombang elektromagnetik dan wahana. 
+Beberapa wahana yang digunakan ialah satelit, seperti satelit LAPAN 2 
+milik Indonesia dan satelit Landsat 8 NASA (National Aeronautics and 
+Space Administration) milik Amerika Serikat. 
+ Lalu bagaimana dengan manfaat penginderaan jauh? Berikut manfaat 
+dari penginderaan jauh bagi kehidupan manusia.
+• 
+Untuk mengetahui dan memantau tentang kondisi iklim, pasang surut 
+air laut, arus laut, lingkungan seperti pemantauan kondisi hutan, 
+sumber daya alam dan masih banyak lagi. 
+• 
+Memberikan informasi tentang kondisi permukaan bumi.
+• 
+Menggambarkan bentuk muka bumi, yaitu bentang alam (relief), 
+termasuk daerah cekungan.
+• 
+Membantu untuk melakukan tindakan mitigasi pada wilayah yang 
+berpotensi terjadi bencana sehingga pemerintah dan masyarakat 
+dalam memitigasi risiko bencana. 
+Gambar 2.9 Citra Death Valley, California, dengan polarimetri dilihat dari instrumen radar 
+apertur sintesis pesawat ulang alik 
+Sumber: NASA/JPL/Wikimedia Commons/CC (1999)
+103
+BAB 2: PENELITIAN SOSIAL
+103
+Video “Pemantauan Perubahan Hutan dari Satelit 
+Penginderaan Jauh LAPAN” dapat kamu kunjungi melalui 
+tautan 
+https://www.youtube.com/watch?v=pNeCc-
+Zm5rA atau pindai kode QR di samping.  
+Video 
+“Sistem 
+Pemantauan 
+Maritim 
+Berbasis 
+Iptek Penerbangan dan Antariksa” dapat kamu 
+kunjungi melalui tautan https: //www.youtube.com/
+watch?v=wLOuIgVTvfw atau pindai kode QR di samping.
+PENGAYAAN
+Simak dua video tentang pemanfaatan penginderaan jauh LAPAN bagi 
+masyarakat Indonesia. Kemudian, kamu bisa mereleksikan manfaat 
+penginderaan jauh untuk daerahmu.  
+3. Sistem Informasi Geograis
+Bacalah artikel tentang Sistem Informasi Geograis (SIG) berikut.
+Berdasarkan penelitian yang dilakukan oleh Rusli, dkk (2015), sistem 
+informasi geograis dipahami sebagai sistem informasi khusus yang 
+mengelola data terkait berbagai informasi spasial (wilayah). SIG diuji 
+coba penerapannya melalui sistem aplikasi berbasis situs web di Kota 
+Palembang. Sistem tersebut digunakan untuk membantu wisatawan 
+yang mengunjungi Kota Palembang agar dapat menemukan dengan 
+mudah berbagai fasilitas umum, misalnya rumah sakit, kantor polisi, 
+tempat ibadah dan tempat makan. Wisatawan cukup mengunduh 
+aplikasi di ponsel mereka untuk mengakses berbagai informasi tersebut.
+Referensi: Rusli, R., Dentari, S., & Pradesan, I. (2015). Sistem Informasi 
+Geograis Fasilitas Umum Kota Palembang.
+104
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Setelah membaca artikel di atas, apakah kamu sudah bisa menduga apa 
+yang dimaksud tentang SIG dan manfaatnya? Sistem Informasi Geograis atau 
+biasa disingkat dengan SIG dikenal sebagai sistem informasi, data, dan analisis 
+keruangan yang berbasis komputer. Mengacu dari Hermawan (2009:133) , SIG 
+adalah  suatu sistem berbasis komputer yang digunakan untuk mengumpulkan, 
+menyimpan, menggabungkan, mengatur, mentransformasi, memanipulasi dan 
+menganalisis data geograis. Lalu, SIG berdasarkan Kamus Modern Geograi 
+(2001: 110) adalah:
+“Penyimpanan data geograis dalam bentuk digital di 
+komputer. Didukung dengan kapasitas komputer modern sehingga 
+jumlah informasi yang disimpan sangat banyak. Data tersebut 
+diperbarui dan dianalisis. Perkembangan SIG sangat terkait dengan 
+penginderaan jauh, yang terus-menerus memberikan informasi 
+baru tentang permukaan bumi dan planet lain.”
+ Adapun informasi geograis, yaitu informasi tentang tempat di permukaan 
+bumi, posisi suatu objek dan informasi tentang keterangan yang terdapat di 
+permukaan bumi. Ketika kamu berbagi informasi dengan orang lain sebenarnya 
+kamu telah membagikan informasi geograismu.  
+Secara sederhana, SIG dapat dipahami sebagai integrasi teknologi dan 
+data spasial (wilayah) yang menghubungkan berbagai data lain untuk 
+digabungkan, dipetakan, dan dianalisis. Melalui SIG, kita dapat mengetahui 
+lokasi, kondisi suatu wilayah, tren, pola, dan pemodelan. Beberapa komponen 
+SIG yaitu perangkat keras (komputer), perangkat lunak (software), orang yang 
+menjalankan, serta aplikasi sehingga dapat menghasilkan data geograis. Data-
+data tersebut berasal dari citra foto, citra nonfoto, peta, data pendukung lain, 
+pengamatan, dan pengukuran lapangan untuk diolah menjadi sistem informasi 
+geograis. 
+105
+BAB 2: PENELITIAN SOSIAL
+Contoh hasil SIG ialah data dan peta sumber daya alam, peta lahan kritis, 
+peta tata guna lahan, peta curah hujan, peta perikanan, dan masih banyak 
+lagi. Lalu bagaimana dengan manfaat SIG? Secara umum manfaat SIG pada 
+berbagai bidang kehidupan sebagai berikut.
+• 
+Pendidikan: data SIG dapat digunakan dalam pembelajaran geograi 
+sehingga siswa memiliki keterampilan yang mumpuni mengenai 
+aplikasi data spasial. 
+• 
+Geologi, energi, dan sumber daya mineral: data SIG merupakan data 
+penting untuk memahami persebaran, keberadaan sumber daya alam 
+serta kegiatan eksplorasi tambang maupun penelitian. 
+• 
+Kehutanan dan lingkungan: mengetahui kondisi ekosistem hutan, 
+kerapatan vegetasi, alih fungsi lahan, dan lain sebagainya.
+• 
+Kebencanaan: memahami daerah potensi bencana sehingga dapat 
+melakukan mitigasi bencana. 
+Dari beberapa uraian di atas, dapatkah kamu mencari manfaat lain dari 
+SIG bagi kehidupan manusia di wilayahmu?
+PENGAYAAN
+Kamu dapat melihat video ini untuk memahami 
+tentang SIG secara lebih lanjut. Kunjungi tautan 
+https://www.youtube.com/watch?v=7ARYB_bm1y8 
+atau pindai kode QR di samping. Releksikan manfaat 
+SIG bagimu sebagai bagian dari masyarakat.
+106
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Kerjakan Aktivitas 2.4 agar kamu dapat memahami SIG dan manfaat SIG 
+dalam kehidupan sehari-hari. 
+AKTIVITAS 2.4
+Praktik Memanfaatkan SIG
+Jenis Kegiatan: Tugas kelompok 3 atau 4 orang
+Petunjuk Pengerjaan:
+1. Kamu dapat menggunakan data dari Google Maps, Google Earth,  Waze, 
+BMKG, Lapan, geoportal, serta data dari berbagai sumber.  
+2. Pilihlah 1 topik pengamatan yang ada di wilayahmu, misalnya kamu ingin 
+mendapatkan data sebaran sekolah atau fasilitas kesehatan di wilayahmu. 
+3. Beberapa langkah yang dapat kamu lakukan jika hendak membuat projek 
+sebaran fasilitas kesehatan sebagai berikut.
+• 
+Lakukan pencarian di Google Maps dengan kata kunci: rumah sakit, 
+klinik, puskesmas.
+• 
+Catat data fasilitas kesehatan terdekat.
+• 
+Catat lokasi administratifnya.
+• 
+Buatlah tabel tentang data fasilitas kesehatan yang terdapat di 
+wilayahmu. 
+4. Tulislah sumber data yang kamu gunakan.
+5. Laporan dapat berbentuk digital dan nondigital. 
+Tugas: 
+Setelah menentukan topik projek SIG, kerjakan sesuai dengan langkah-langkah 
+berikut.
+1. Kumpulkanlah data yang telah kamu cari 
+2. Catatlah data yang telah kalian dapatkan. 
+3. Catat lokasi administratifnya.
+4. Buatlah tabel tentang data kalian. 
+5. Kemukakan temuanmu di kelas.
+6. Releksikanlah manfaat SIG bagi kehidupan sehari-hari.
+107
+BAB 2: PENELITIAN SOSIAL
+KESIMPULAN
+Penelitian Sosial
+Penelitian sosial adalah berbagai upaya penyelidikan 
+menggunakan kaidah dan prosedur ilmiah untuk 
+menganalisis berbagai fenomena sosial, budaya, 
+lingkungan dalam ruang dan waktu.
+Langkah-langkah penelitian sosial:
+1. Menentukan topik penelitian.
+2. Membuat dan merumuskan masalah.
+3. Mereviu literatur atau penelitian sebelumnya.
+4. Merumuskan dugaan sementara atau hipotesis.
+5. Menentukan metode penelitian.
+6. Menyusun instrumen penelitian.
+7. Mengumpulkan data.
+8. Pengolahan dan analisis data.
+9. Penulisan laporan hasil penelitian & kesimpulan.
+Metode penelitian sosial: 
+Penelitian kuantitatif, kualitatif, dan campuran (mixed methods).
+ Sumber penelitian adalah data primer dan data sekunder.
+ ■
+·Data primer adalah informasi yang diperoleh dari 
+hasil wawancara, pengamatan, dan survei yang 
+diperoleh secara langsung dari subjek penelitian.
+ ■
+Data sekunder adalah data pendukung yang 
+diperoleh dari berbagai sumber.  
+108
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Etika penelitian yaitu aturan yang seharusnya dilakukan selama 
+proses kegiatan hingga pelaporan penelitian.
+Etika Penelitian
+Penelitian Sejarah
+Penelitian Geograi
+Etika penelitian meliputi: 
+Penelitian bukan hasil plagiasi (menjiplak) karya orang lain; 
+mendapatkan izin penelitian;  menjaga perilaku santun dan 
+menghormati pendapat atau pandangan subjek penelitian; 
+menjaga data privasi; tidak memanipulasi data penelitian.
+Langkah-langkah penelitian dalam ilmu sejarah sebagai berikut.
+ ■
+Heuristik adalah mengumpulkan berbagai data dari 
+berbagai sumber sejarah.
+ ■
+Veriikasi adalah tahapan melakukan kritik atas sumber 
+sejarah yang telah dikumpulkan. 
+ ■
+Interpretasi 
+adalah 
+tahapan 
+menafsirkan 
+atau 
+melakukan analisis sejarah.
+ ■
+Historiograi adalah penulisan sejarah yang harus 
+menekankan aspek kronologi.
+Penelitian geograi adalah kegiatan penyelidikan secara ilmiah dan 
+sistematis yang digunakan untuk memecahkan masalah mengenai 
+fenomena geosfer. 
+Ciri khas dari penelitian geograi adalah penggunaan tiga pendekatan 
+geograi dan penekanan pada aspek ruang (spasial) sehingga peta, 
+penginderaan jauh, sistem informasi geograis (SIG), observasi lapangan 
+menjadi bagian penting dalam penelitian geograi.
+109
+BAB 2: PENELITIAN SOSIAL
+Bacalah artikel di bawah ini dengan cermat untuk menjawab soal nomor 1, 2 
+dan 3.  
+Seorang peneliti sosial-budaya bernama Made hendak melakukan 
+penelitian sosial dengan topik penelitian pengaruh iklan sabun di media 
+sosial bagi konsumen usia remaja (12-18 tahun). Dia menggunakan 
+teknik pengumpulan data melalui wawancara dan survei. Pengumpulan 
+data melalui survei dilakukan secara daring. Dia melakukan wawancara 
+dengan 10 informan yang dipilih berdasarkan intensitasnya berselancar 
+di media sosial. Informan penelitian Made belum termasuk kategori usia 
+dewasa sehingga dia menyertakan surat permohonan izin ke  orang tua/
+wali dari informan sebelum melakukan wawancara.
+Pilihlah pernyataan yang paling sesuai di bawah ini!
+No
+Pernyataan
+Sesuai
+Tidak 
+Sesuai
+1.
+Jenis penelitian sosial yang dilakukan Made 
+ialah metode penelitian campuran.
+2.
+Ketika Made melakukan wawancara dengan 
+informan 
+maka 
+dia 
+menggunakan 
+data 
+sekunder. 
+3.
+Sebagai peneliti, Made menyadari bahwa dia 
+harus menjaga hak informan ketika melakukan 
+penelitian, apalagi jika mereka masih belum 
+dewasa. Oleh karena itu, Made menyertakan 
+surat izin dari orang tua/wali dari informan 
+sebelum mereka terlibat penelitian. Tindakan 
+Made menunjukkan penerapan kode etik 
+penelitian.
+ASESMEN
+110
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+4. Perhatikan pernyataan berikut dengan saksama dan pilihlah satu 
+pernyataan yang tidak sesuai tentang langkah-langkah penelitian!
+A. Peneliti harus menentukan topik terlebih dahulu sebelum melakukan 
+penelitian.
+B. Peneliti melakukan reviu literatur atau hasil penelitian sebelumnya 
+untuk mengetahui hal-hal yang harus dilakukan ketika meneliti.
+C. Peneliti tidak perlu menyusun instrumen penelitian, tetapi langsung 
+meneliti. 
+D. Peneliti sebaiknya memilih metode penelitian dan teknik pengumpulan 
+data yang hendak digunakan. 
+E. Peneliti perlu memiliki surat izin penelitian dan meminta izin, baik 
+kepada informan maupun responden sebelum melakukan penelitian. 
+5. Bacalah paragraf di bawah ini dengan cermat!
+Seorang siswa hendak melakukan penelitian sejarah mengenai 
+daerahnya. Oleh karena itu, dia mengunjungi museum dan mempelajari 
+arsip yang terkait dengan sejarah daerahnya. Dia juga melakukan 
+wawancara dengan pelaku sejarah yang masih hidup untuk memperkuat 
+sumber sejarah penelitiannya.
+Tahapan penelitian sejarah yang dilakukan oleh siswa tersebut adalah….
+A. heuristik
+B. kritik dan veriikasi
+C. interpretasi
+D. historiograi
+E. melakukan kajian pustaka
+111
+BAB 2: PENELITIAN SOSIAL
+111
+BAB 2: PENELITIAN SOSIAL
+6. Perhatikan pernyataan tentang penelitian dan alat bantu dalam geograi 
+berikut, pilihlah pernyataan yang paling tepat.
+A. Ciri khas penelitian geograi terletak pada tiga pendekatan geograi 
+serta penekanan pada aspek spasial.
+B. Peta kadaster adalah peta yang memiliki skala antara 1 : 5.000 hingga 
+1 : 250.000.
+C. Peta topograi termasuk peta tematik.
+D. Kamera pada ponsel pintar merupakan salah satu wahana pada 
+penginderaan jauh. 
+E. Penelitian eksplanatif adalah penelitian yang bertujuan menjelaskan 
+gambaran lengkap tentang fenomena geosfer.
+7.  Perhatikan artikel di bawah dengan saksama!
+Gunung Merapi di Provinsi DI Yogyakarta dan Provinsi Jawa Tengah 
+termasuk salah satu gunung teraktif di Indonesia. Untuk mengurangi 
+dampak bencana erupsi Gunung Merapi maka pengawasan aktivitas 
+vulkanisme dilakukan oleh Balai Penyelidikan dan Pengembangan 
+Teknologi Kebencanaan Geologi (BPPTKG). Setidaknya terdapat 
+16 kamera untuk mengamati kondisi di sekitar Gunung Merapi dan 
+pemantauan visual dengan menggunakan wahana satelit. Gambar di 
+bawah ini merupakan contoh hasil citra satelit dan kamera pengamatan 
+Gunung Merapi.  
+Gambar 2.11
+Kamera Pengamatan Gunung Merapi. 
+Sumber: merapi.bgl.esdm.go.id
+Gambar 2.10
+Citra Satelit Gunung Merapi. 
+Sumber: MGM.slemankab.go.id
+112
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+Berdasarkan informasi tersebut, data mengenai aktivitas Gunung Merapi 
+diperoleh melalui…
+A. Peta
+B. Sistem Informasi Geograis
+C. Penginderaan jauh
+D. Atlas
+E. Satelit
+8. Temukan pernyataan di bawah ini yang bukan termasuk manfaat dari 
+pemantauan aktivitas gunung berapi!
+A. Untuk mengurangi dampak dan risiko bencana apabila erupsi.
+B. Memberikan informasi terkini aktivitas vulkanisme gunung berapi.
+C. Untuk membuat rencana dan strategi mengenai metode penanganan 
+bencana.
+D. Untuk memberikan informasi mengenai kandungan mineral dari 
+bahan material yang keluar dari gunung.
+E. Untuk memprediksi kapan terjadinya erupsi.
+Gambar 2.12
+Peta Situs Gunung 
+Padang
+Sumber: Kebudayaan.Kemendikbud/
+Kemendikbudristek (2016)
+Perhatikanlah 
+gambar 
+peta 
+berikut untuk menjawab soal 
+nomor 9 dan 10!
+113
+BAB 2: PENELITIAN SOSIAL
+113
+BAB 2: PENELITIAN SOSIAL
+No
+Pertanyaan
+Jawaban
+9.
+Berdasarkan informasi, gambar Peta Situs 
+Gunung Padang Jawa Barat termasuk jenis 
+peta apa?
+10.
+Jelaskan kekhasan penelitian dalam ilmu 
+sejarah yang membedakan dari penelitian 
+geograi!
+PROJEK KOLABORASI
+Tugas ini dikerjakan secara berkelompok dengan 3 atau 4 orang teman 
+sekelasmu untuk melakukan projek kolaborasi IPS Bab II. Konsultasikan 
+dengan guru jika kalian mengalami kesulitan. 
+Petunjuk Pengerjaan:
+• 
+Amatilah lingkungan sekitarmu dengan baik.
+• 
+Kalian dapat menggunakan data dari Google Maps, Google Earth, Waze, 
+BMKG, Lapan, geoportal serta data dari berbagai sumber.  
+• 
+Pilihlah satu topik pengamatan mengenai rumah ibadah, lembaga 
+keuangan seperti kantor bank, situs bersejarah yang terdapat di 
+wilayahmu, misalnya kamu ingin mendapatkan data tentang sebaran 
+rumah ibadah, lembaga keuangan (kantor bank) atau situs sejarah di 
+wilayahmu. 
+• 
+Beberapa langkah yang dapat kamu lakukan jika hendak membuat 
+projek sebaran rumah ibadah sebagai berikut.
+ ■
+Lakukan pencarian di Google Maps dengan kata kunci: masjid, 
+gereja, pura, vihara, dan klenteng.
+ ■
+Catat data rumah ibadah terdekat dan lokasi administratifnya.
+114
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)
+ ■
+Buatlah tabel tentang data rumah ibadah yang terdapat di 
+wilayahmu. 
+ ■
+Laporan dapat berbentuk digital dan nondigital. Tulislah sumber 
+data yang kamu gunakan. Presentasikan  atau pamerkan laporanmu 
+di kelas.
+Tugas: 
+Menyusun data sebaran tentang fenomena sosial atau ekonomi atau 
+sejarah di lingkungan sekitar
+• 
+Kumpulkanlah data yang telah kamu cari 
+• 
+Catatlah data yang telah kalian dapatkan. 
+• 
+Catat lokasi administratifnya.
+• 
+Buatlah tabel tentang dari data kalian. 
+• 
+Kemukakan temuanmu di kelas.
+• 
+Releksikanlah kegiatan pembelajaran: tulislah keterampilan apa yang 
+telah bertambah setelah melakukan projek.
+Tuliskan pemahaman dan keterampilan yang telah kamu capai setelah kamu 
+belajar berbagai materi IPS pada bab ini. 
+• 
+Sebutkan pengetahuan baru yang telah kamu pelajari.
+• 
+Sebutkan keterampilan baru yang telah kamu capai.
+• 
+Sebutkan  manfaat dari  pembelajaran yang telah kamu pelajari  
+dalam kehidupan sehari-hari.
+REFLEKSI DIRI
+115
+BAB 2: PENELITIAN SOSIAL
+115
+BAB 2: PENELITIAN SOSIAL
+EVALUASI DIRI
+Isilah penilaian mandiri mengenai tujuan pembelajaran di bab ini dengan 
+memberikan tanda centang (√) pada tabel berikut.
+Tujuan Pembelajaran
+Yakin
+Kurang 
+Yakin
+Tidak 
+Yakin
+Saya mampu menjelaskan metode penelitian 
+kualitatif, kuantitatif, dan campuran.
+Saya mampu menjelaskan tentang etika 
+penelitian.
+Saya mampu menjelaskan tahapan  penelitian 
+sejarah, yaitu heuristik, veriikasi, interpretasi, 
+dan historiograi.
+Saya mampu menjelaskan kekhasan penelitian 
+geograi, yaitu peta, penginderaan jauh, dan 
+sistem informasi geograis(SIG).
+116
+ILMU PENGETAHUAN SOSIAL UNTUK SMA/MA KELAS X (EDISI REVISI)

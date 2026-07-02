@@ -1,0 +1,4654 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VIII
+Penulis: Mohammad Tohir, dkk. 
+ISBN: 978-602-427-919-6 (Jil.2)
+Bab 5
+PERSAMAAN GARIS 
+LURUS
+Bagaimana bentuk garis 
+lurus dan apa fungsinya?
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+50cm
+150cm
+Matematika untuk SMP/MTs Kelas VIII
+208
+Pengantar bab
+Tahukah Kalian?
+?
+Gambar 5.1 Jalan Menanjak
+Jalan datar, jalan menurun, dan jalan menanjak pasti pernah dilalui 
+dengan cara tertentu saat mengendarai mobil, mengendarai sepeda, 
+atau menggunakan bentuk transportasi lain. Jalan yang menanjak 
+atau menurun seringkali memiliki kemiringan yang telah ditentukan 
+sebelumnya dan telah  diperhitungkan untuk memberikan tingkat 
+keamanan dan kenyamanan bagi mobil yang lewat. Jalan yang 
+menanjak memiliki kemiringan juga.  Jalan akan menantang bagi mobil 
+untuk dilintasi jika terlalu curam. Beberapa aspek kehidupan sehari-
+hari lainnya, termasuk jalan, memerlukan perhitungan kemiringan. 
+Misalnya, tangga dalam struktur bertingkat telah direncanakan dengan 
+cermat, hingga tingkat kemiringannya, untuk memastikan bahwa 
+orang dapat menggunakannya dengan aman dan nyaman. Untuk 
+memastikan kenyamanan dan keamanan pengguna, seorang arsitek 
+sangat memperhatikan kemiringan saat mendesain tangga dan trotoar. 
+Tempat parkirnya serupa; jika terlalu miring, tidak aman untuk 
+digunakan oleh mobil dan pengemudi. Kalian akan belajar bagaimana 
+Bab 5 | Persamaan Garis Lurus
+209
+cara membuat graik, menghasilkan persamaan garis lurus, dan 
+kemiringan garis, serta keuntungan menggunakan garis lurus dalam 
+memecahkan masalah kontekstual.
+Tujuan Pembelajaran
+Diharapkan setelah membaca Bab 5 ini, kalian akan mampu:
+ 
+√Memahami bentuk persamaan linier
+ 
+√Menjelaskan koordinat Cartesius
+ 
+√Menggambar garis lurus pada koordinat Cartesius
+ 
+√Memahami konsep gradien
+ 
+√Menentukan persamaan linier
+ 
+√Memahami konsep bentuk persamaan garis lurus
+ 
+√Menggambarkan bentuk lain persamaan garis lurus
+ 
+√Menentukan penyelesaian dari suatu persamaan linier
+Pertanyaan Pemantik
+ 
+■
+Bagaimana cara membuat graik persamaan garis lurus?
+ 
+■
+Bagaimana garis yang melintasi kemiringan dua buah titik dapat 
+ditemukan?
+ 
+■
+Jika diketahui suatu persamaan garis, bagaimana cara menghitung 
+kemiringan garis tersebut?
+ 
+■
+Bagaimana cara mendapatkan persamaan garis lurus yang melalui 
+titik A (x1,y1) dengan gradien yang diketahui m?
+ 
+■
+Bagaimana cara menghitung persamaan garis lurus yang 
+menghubungkan dua titik A (x1,y1) dan B (x2,y2)?
+ 
+■
+Informasi apa yang tersedia pada kemiringan dua garis sejajar 
+dan dua garis yang berpotongan saling tegak lurus?
+ 
+■
+Persamaan umum apa yang dapat digunakan untuk menyatakan 
+persamaan garis yang melalui titik (x1,y1) dan memiliki kemiringan 
+m?
+Matematika untuk SMP/MTs Kelas VIII
+210
+Kata Kunci
+ 
+■
+Persamaan linier,
+ 
+■
+Persamaan garis lurus,  
+ 
+■
+Graik, 
+ 
+■
+Kemiringan, 
+ 
+■
+Titik potong.
+Peta Konsep
+Persamaan
+Garis Lurus
+Persamaan
+Garis Lurus
+Satu Titik
+Koordinat dengan
+Kemiringan Garis
+Lurus Tertentu
+Kemiringan Garis
+Sejajar dengan
+Sumbu - y
+Kemiringan Garis
+yang Saling Sejajar
+Kemiringan Garis
+yang Tegak Lurus
+Kemiringan Garis
+Sejajar dengan
+Sumbu - x
+Bentuk Umum
+Kemiringan
+Garis Lurus
+Bentuk
+Umum
+Perhitungan
+Dua Titik
+Koordinat
+Rumus Kemiringan
+Garis Lurus
+y = mx
+y = mx + c
+ax + by + c = 0
+Sifat-sifat
+Menyajikan
+Persamaan
+Garis Lurus
+Bab 5 | Persamaan Garis Lurus
+211
+A. Graik Persamaan Garis Lurus
+Suatu Perusahaan diizinkan untuk mengurangi nilai aset mereka. 
+Depresiasi garis lurus adalah istilah akuntansi untuk praktik ini. 
+Masa pakai aset ditentukan melalui pendekatan ini. Setelah itu, aset 
+tersebut disusutkan setiap tahunnya dengan jumlah yang sama sampai 
+nilai kena pajaknya nol. CV. Spirit 45 menghabiskan Rp360.000.000,00 
+untuk sebuah truk baru. Nilai truk akan turun Rp12.000.000,00 setiap 
+tahun. Harga kendaraan dinyatakan dalam persamaan penyusutan 
+.
+.
+.
+.
+y
+x
+360 000 000
+12 000 000
+=
+-
+, dengan x adalah umur truk dalam tahun.
+Bagaimana cara kalain dapat mencari letak perpotongan garis dengan 
+sumbu-x dan sumbu-y? Bagaimana persamaan yang menggambarkan 
+depresiasi harga kendaraan dapat digambarkan pada bidang koordinat?
+Sekarang, untuk menjawab dua pertanyaan berikutnya dengan 
+benar, coba perhatikan baik-baik bagaimana garis-garis lurus tertentu 
+pada koordinat Cartesius berikut ini digambarkan.
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+212
+1. Persamaan I
+Gambar 5.2 (a) Graik Persamaan  dengan 
+beberapa titik koordinat
+Gambar 5.2 (b) Graik Persamaan  dengan dua 
+titik koordinat
+Berdasarkan Gambar 5.2 (a), lengkapi sel tabel berikut ini.
+x
+....
+-3
+....
+....
+0
+2
+....
+....
+....
+y
+....
+....
+....
+....
+0
+1
+....
+....
+....
+(x,y)
+....
+(-3, ...)
+....
+....
+....
+(2,1)
+....
+....
+....
+Berdasarkan Gambar 5.2(b), lengkapi juga sel kosong pada tabel 
+berikut.
+x
+....
+....
+y
+....
+....
+(x,y)
+....
+....
+x
+y=2x
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+y=2x
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+Bab 5 | Persamaan Garis Lurus
+213
+2. Persamaan II
+Gambar 5.3 (a) Graik Persamaan  dengan 
+beberapa titik koordinat
+Gambar 5.3 (b) Graik Persamaan  dengan dua 
+titik koordinat
+Berdasarkan Gambar 5.3 (a), lengkapi sel tabel berikut ini.
+x
+-1
+....
+....
+....
+....
+....
+....
+y
+9
+....
+....
+....
+....
+- 9
+....
+(x,y)
+(-1, 9)
+....
+....
+....
+....
+(... , -6)
+....
+Berdasarkan Gambar 5.3 (b), lengkapi juga sel tabel berikut ini.
+x
+....
+....
+y
+....
+....
+(x,y)
+....
+....
+Berdasarkan hasil kegiatan pada kedua persamaan di atas, coba kalian 
+eksplorasikan hasil diskusinya dengan menjawab dua pertanyaan 
+berikut ini.
+1. 
+Syaratnya apa sajakah suatu persamaan graik bisa membentuk 
+suatu garis lurus?
+2. 
+Adakah rumus persamaan garis lurus yang secara tepat memotong 
+sumbu-x dan sumbu-y pada satu titik?
+x
+y=3x + 6
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+y=3x + 6
+Matematika untuk SMP/MTs Kelas VIII
+214
+Persamaan y
+x
+3
+2
+=
++
+ dapat dinyatakan dalam bentuk umumnya 
+sebagai y
+mx
+c
+=
++
+, di mana x dan y adalah variabel, c adalah konstanta, 
+dan m adalah kemiringan atau koeisien arah.
+Tahukah Kalian?
+?
+Matematikawan Rene Descartes berasal dari Prancis. Dia adalah orang 
+pertama yang menyarankan bagaimana mengekspresikan suatu titik 
+sebagai sepasang bilangan bulat yang menunjukkan seberapa jauh dari 
+masing-masing sumbunya. Nama sistem notasi titik seperti ini disebut 
+dengan koordinat Cartesius.
+Contoh 5.1
+Lengkapi sisa sel yang kosong pada tabel berikut dan gambarkan 
+graiknya dari persamaan x
+y
+4
+5
+-
+=
+.
+Alternatif penyelesaian
+Untuk x = -1, didapat x
+y
+4
+5
+-
+=
+Definisi
+x
+y
+2
+3
+0
+-5
+1
+-1
+-1
+...
+...
+0
+y
+subtitusi nilai x
+4
+1
+5
+1
+-
+-
+=
+=
+^
+h
+y
+sederhanakan
+y
+jumlahkan kedua ruas oleh
+y
+kalikan kedua ruas oleh
+4
+5
+9
+4
+4
+9
+1
+- -
+=
+-
+=
+=
+-
+Bab 5 | Persamaan Garis Lurus
+215
+Untuk y = 0, didapat x
+y
+4
+5
+-
+=
+ 
+ 
+ 
+    
+Tabel setelah dilengkapi sebagai berikut: 
+Berdasarkan tabel di atas, menunjukkan bahwa pasangan berurutannya 
+adalah 
+,2 3
+^
+h, 
+,0
+5
+-
+^
+h, 
+,1
+1
+-
+^
+h, 
+,1
+9
+-
+-
+^
+h, dan 
+,
+.
+4
+5 0
+a
+k Himpunan pasangan 
+berurutan dibentuk oleh titik-titik dalam koordinat Cartesius yang 
+membentuk garis lurus. Persamaan x
+y
+4
+5
+-
+=
+ memiliki penyelesaian 
+pada setiap pasangan berurutan.
+Garis lurus akan terbentuk jika titik-titik selesaiannya dihubungkan. 
+Berikut ini adalah cara menggambar garis melalui titik-titik.
+Gambar 5.4 Graik persamaan garis lurus x
+y
+4
+5
+-
+=
+Persamaan 
+x
+y
+4
+5
+-
+=
+ memiliki semua solusi yang diwakili oleh 
+garis lurus tersebut. Persamaan memiliki solusi di setiap titik di 
+sepanjang garis.
+x
+substitusi y
+x
+sederhanakan
+x
+bagi kedua ruas oleh
+4
+0
+5
+0
+4
+5
+4
+5
+4
+-
+=
+=
+=
+=
+x
+y
+2
+3
+0
+-5
+1
+-1
+-1
+-9
+4
+5
+0
+x
+4x-y=5
+(2,3)
+(5/4,0)
+(1,-1)
+(0,-5)
+(-1,-9)
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10 y
+Matematika untuk SMP/MTs Kelas VIII
+216
+Contoh 5.2
+Dengan menentukan titik perpotongan pada sumbu-x dan sumbu-y, 
+gambarkan graiknya dari persamaan y
+x
+2
+1
+1
+=-
+-
+.
+Alternatif penyelesaian 
+Temukan titik potong masing-masing sumbunya untuk memulai.
+Menentukan titik potong pada sumbu-x, yang berarti y
+0
+=
+.
+Sehingga, titik potong pada sumbu-x adalah (
+, )
+2 0
+-
+.
+Persamaan y
+x
+2
+1
+1
+=-
+-
+ membentuk garis lurus jika dua titik 
+dihubungkan, seperti yang ditunjukkan pada diagram berikut.
+Gambar 5.5 Graik persamaan garis lurus y
+x
+2
+1
+1
+=-
+-
+y
+x
+x
+substitusi y
+x
+tambahkan kedua ruas oleh
+x
+kalikan kedua ruas oleh
+2
+1
+1
+0
+2
+1
+1
+0
+1
+2
+1
+1
+2
+2
+=-
+-
+=-
+-
+=
+=-
+-
+=
+-
+x
+y=-½ x-1
+1
+2
+3
+4
+5
+6
+-1
+-2
+-3
+-4
+-5
+-6
+-1
+-2
+-3
+-4
+-5
+-6
+1
+2
+3
+4
+5
+6 y
+(-2,2)
+titik potong
+sumbu x
+titik potong
+sumbu -x
+(0,-1)
+(-2,0)
+Bab 5 | Persamaan Garis Lurus
+217
+Berdasarkan contoh 5.1 dan 5.2 tersebut, coba nalarkan pikiran kalian 
+dengan menjawab pertanyaan berikut.
+a. 
+Contoh soal mana yang lebih sederhana dan mudah dipahami 
+untuk diselesaikan dalam hal menggambar persamaan garis 
+lurus?
+b. 
+Apakah mungkin menggambar garis lurus dengan menentukan 
+dua titik saja pada bidang koordinat, atau perlukah diketahui 
+titik-titik lain pada bidang koordinat?
+c. 
+Adakah suatu garis lurus yang hanya melalui salah satu sumbu 
+koordinat? Jika iya ada, seperti apa persamaannya?
+Pengacara dan penggemar matematika dari Prancis adalah Pierre de 
+Fermat. Dia adalah orang pertama yang menyatakan bahwa ketika diplot 
+sepanjang sumbu-x dan sumbu-y, persamaan dapat dianggap sebagai 
+bentuk. Asal mula graik yang dilambangkan dengan huruf O adalah pada 
+titik (0, 0) yang merupakan perpotongan pada sumbu-sumbu tersebut.
+Cobalah untuk secara hati-hati dan akurat menjawab dan mendiskusikan 
+pertanyaan berikut, sehingga kalian harus memperhatikan dengan 
+cermat pada Gambar 5.6 di halaman berikut:
+1. 
+Apa perbedaan antara Gambar 5.6 (a), Gambar 5.6 (b), Gambar 5.6 
+(c), dan Gambar 5.6 (d)? Jelaskan.
+2. 
+Apa kesamaan dan perbedaan antara Gambar 5.6 (a) dan Gambar 
+5.6 (c)?
+3. 
+Apa kesamaan dan perbedaan antara Gambar 5.6 (b) dan Gambar 
+5.6 (d)?
+4. 
+Bagaimanakah perpotongan keempat garis dari keempat gambar 
+terhadap sumbu x dan sumbu y?
+Ayo Berkomunikasi
+Tahukah Kalian?
+?
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas VIII
+218
+x
+y=2x
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+y=-3x
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+y=2x
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+y=-3x
+1 2 3 4 5 6 7 8 9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+Gambar 5.6 (a)
+Gambar 5.6 (c)
+Gambar 5.6 (b)
+Gambar 5.6 (d)
+Kemudian, kembali ke masalah awal penentuan tentang penurunan 
+nilai pajak terhadap usia truk yang telah dibahas pada awal materi Bab 
+5 ini.
+Alternatif Pemecahan Masalah
+Dengan mensubstitusikan nilai y = 0, maka akan menghasilkan titik 
+perpotongan garis dengan sumbu-x.
+Bab 5 | Persamaan Garis Lurus
+219
+Titik potong garis dengan sumbu x adalah (30, 0)
+Dengan mensubstitusikan nilai x = 0, maka akan menghasilkan titik 
+perpotongan garis dengan sumbu-y.
+Gambar 5.7 Nilai pajak menurun seiring usia truk
+Gambar 5.7 di atas menunjukkan bahwa kendaraan tersebut 
+berharga Rp.0,00 ketika berumur 30 tahun, perpotongan garis dengan 
+sumbu x berada di (30, 0).
+Perpotongan garis yang melalui sumbu-y di titik 
+,
+.
+.
+0 360 000 000
+^
+h 
+menunjukkan 
+bahwa 
+besar 
+biaya 
+kendaraannya 
+adalah 
+Rp360.000.000,00 saat masih baru (0 tahun yang lalu).
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+y
+x
+x
+x
+x
+360 000 000
+12 000 000
+0
+360 000 000
+12 000 000
+12 000 000
+360 000 000
+30
+=
+-
+=
+-
+=
+=
+.
+.
+.
+.
+.
+.
+y
+y
+360 000 000
+12 000 000 0
+360 000 000
+=
+-
+=
+^ h
+x
+2
+4
+6
+8
+10 12 14 16 18 20 22 24 26 28 30
+50
+100
+150
+200
+250
+300
+350
+400
+y
+Besar Pajak
+terhadap Usia Truk
+(juta)
+Usia (tahun)
+Matematika untuk SMP/MTs Kelas VIII
+220
+Setelah kalian mempelajari materi Graik Persamaan Garis Lurus pada 
+buku ini, coba kalian kembangkan pengetahuan kalian tentang materi 
+tersebut dengan mengunjungi laman berikut.
+Persamaan Garis Lurus - Topik 1  
+s.id/1uhoZ
+Persamaan Garis Lurus - Topik 2  
+s.id/1uhp5
+Persamaan Garis Lurus - Tes  
+s.id/1uhpb
+1. 
+Manakah dari persamaan berikut yang dapat ditafsirkan sebagai 
+persamaan garis lurus?
+a. 
+x
+y
+2
+0
++
+=
+b. 
+x
+y
+3
+7
+2 +
+=
+c. 
+y
+x
+2
+3
+4
+2
++
+=
+d. 
+y
+x
+3
+3
+9
++
+=
+e. 
+y
+x
+4
+2
+8
+0
++
+-
+=
+f. 
+y
+x
+25
+2
+2
++
+=
+Ayo Berteknologi
+Soal Laihan
+5.1
+Bab 5 | Persamaan Garis Lurus
+221
+2. 
+Hargai bahwa setiap titik pada garis harus memenuhi persamaan 
+yang sesuai dan digunakan untuk menentukan nilai y dari nilai x, 
+atau sebaliknya. Sehingga, apabila suatu garis lurus persamaannya 
+adalah y
+x
+2
+3
+=
+-
+. Titik p terletak pada garis lurus tersebut dan 
+koordinat y dari p adalah 4, maka carilah koordinat x dari p.
+3. 
+Jelaskan dampak perubahan dari perubahan graik berikut:
+a. 
+Gambarlah ketiga persamaan pada bidang koordinat Cartesius 
+yang sama, yaitu: 
+,
+,
+.
+dan
+y
+x
+y
+x
+y
+x
+2
+2
+2
+4
+2
+=
++
+=
++
+=
++
+Apa 
+yang terjadi jika graik diubah dari 1x menjadi 2x dan kemudian 
+menjadi 4x? 
+b. 
+Gambarlah ketiga persamaan pada bidang koordinat Cartesius 
+yang sama, yaitu: 
+,
+.
+dan
+y
+x
+y
+x
+y
+x
+2
+2
+5
+2
+3
+=
++
+=
++
+=
+-
+ Apa yang 
+terjadi jika graik diubah dari +2 menjadi +5 dan kemudian 
+menjadi -3?
+4. 
+Pak Alex memiliki kebun kopi. Jumlah kopi yang dihasilkan akan 
+naik menjadi 1.500 kg pada tahun 2020 dan menjadi 2.500 kg pada 
+tahun 2025. 
+a. 
+Buat sketsa dalam bentuk gambar yang mengilustrasikan 
+keadaan ini dalam koordinat Cartesius.
+b. 
+Buatlah persamaan garis lurus yang paling menggambarkan 
+keadaan ini.
+5. 
+,
+,
+,
+,
+dan
+A
+B
+C
+k
+2 1
+6 5
+4
+-
+^
+^
+^
+h
+h
+hadalah titik sudut segitiga siku-siku 
+ABC. Sudut ABC adalah sudut siku-siku. Tentukan persamaan 
+garis yang melalui A dan C. (buatlah jawabanmu dalam bentuk 
+ay
+bx
+c
++
+=
+ di mana a, b, dan c adalah bilangan bulat).
+6. 
+Garis lurus l1 melalui titik 
+,
+,
+.
+dan
+1 3
+11 12
+-
+^
+^
+h
+h Persamaan Garis l2 
+adalah y
+x
+3
+4
+30
+0
++
+-
+=
+.
+a. 
+Tentukan persamaan untuk l1  dalam bentuk ax
+by
+c
+0
++
++
+=
+, di 
+mana a, b, dan c adalah bilangan bulat.
+b. 
+Tentukan koordinat titik potong l1  dan l2 .
+7. 
+Hubungan antara jumlah kalori c dan jumlah lemak f dalam gram 
+dinyatakan dengan persamaan 
+.
+f
+c
+12
+180
+=
++
+Matematika untuk SMP/MTs Kelas VIII
+222
+a. 
+Temukan perpotongan sumbu-c pada garis.
+b. 
+Gambarlah graik dari persamaan garis tersebut.
+c. 
+Berapa banyak kalori dalam makanan yang mengandung 30 
+gram lemak?
+8. 
+Obat suntikan penisilin (obat antibiotik) diberikan kepada pasien 
+rumah sakit. Hanya 60% penisilin yang masih aktif satu jam 
+kemudian karena perlahan larut ke dalam darahnya. Tren ini 
+bertahan pada akhir setiap jam, dengan penisilin masih aktif 60%. 
+Katakanlah pada jam 8 pagi, pasien menerima penisilin dosis 300 
+mg.
+Isi tabel di bawah ini untuk menunjukkan berapa banyak penisilin 
+yang masih ada dalam darah pasien antara pukul 8:00 dan 11:00.
+Waktu
+08:00
+09:00
+10:00
+11:00
+Penisilin (mg)
+300
+9. 
+,
+,
+,
+,
+,
+,
+,
+,
+,
+dan
+P
+Q a
+R
+S b
+T
+c
+4 3
+1
+1
+2
+2
+4
+-
+-
+^
+^
+^
+^
+^
+h
+h
+h
+h
+h merupakan lima titik 
+koordinat yang membentuk garis lurus, tentukan nilai a, b, dan c.
+10. Seorang manajer pemasaran tertentu mendapat gaji sebesar 
+Rp100.000.000,00 per tahun di samping komisi sebesar 5% untuk 
+semua penjualan selama tahun tersebut. Persamaan berikut 
+menunjukkan gaji tahunan yang diterimanya. Simbol-x merupakan 
+total penjualan tahunan, sedangkan simbol y merupakan 
+kompensasi tahunan.
+         
+2000
+200
+0
+400
+600
+4000
+6000
+8000
+10000
+Total Gaji
+Setiap Tahun
+Bab 5 | Persamaan Garis Lurus
+223
+a. 
+Berapa 
+gaji 
+manajer 
+tersebut 
+jika 
+penjualan 
+sebesar 
+Rp5.000.000.000,00 setiap tahunnya?
+b. 
+Berapa 
+gaji 
+manajer 
+tersebut 
+jika 
+penjualan 
+sebesar 
+Rp3.000.000.000,00 setiap tahunnya?
+c. 
+Apa implikasinya terhadap koordinat perpotongan garis lurus 
+dengan sumbu-y dalam kasus seperti ini?
+B. Pengertian Kemiringan
+Gambar 5.8 Tangga bersandar pada dinding 
+Perhatikan secara khusus tangga yang disandarkan pada dinding 
+samping rumah pada Gambar 5.7. Tangga yang disandarkan ke 
+dinding merupakan gambaran bagaimana garis lurus digunakan 
+dalam kehidupan sehari-hari. Kemiringan tangga yang tepat harus 
+diperhitungkan agar aman, nyaman, dan tidak berbahaya untuk 
+dinaiki. Dapatkah kalian menentukan nilai kemiringan tangga 
+tersebut? Dapatkah nilai kemiringan dipandang sebagai gradien dalam 
+persamaan garis lurus?
+Sekarang, cobalah untuk menemukan sesuatu dalam kehidupan 
+sehari-hari yang menyerupai Gambar 5.8, yang menunjukkan 
+kemiringan suatu garis.
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+224
+Kemiringan adalah rasio antara jarak vertikal terhadap jarak horizontal. 
+Persamaan berikut menyatakan pengertian Kemiringan.
+Sekarang, coba perhatikan baik-baik sajian Tabel 5.1 agar kalian 
+dapat memahami kemiringan suatu garis dengan mudah. Setelah itu, 
+coba lengkapi Tabel 5.1 di bawah ini.
+Tabel 5.1 Kemiringan Persamaan Garis Lurus yang Melalui Dua Titik Koordinat
+No
+Persamaan 
+Garis 
+Lurus
+Salah satu 
+titik yang 
+dilalui
+Kemiringan/
+Gradien (m)
+Graik Koordinat
+1
+y
+x
+2
+=
+,1 2
+^
+h
+atau
+2
+1
+2
+artinya
+2 satuan
+ke atas dan
+1 satuan
+ke kanan
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+m=2
++2
++1
+y=2x
+1.
+2
+y
+x
+2
+= -
+,1 2
+-
+^
+h
+atau
+2
+1
+2
+-
+-
+artinya
+2 satuan
+ke atas dan
+1 satuan
+ke kiri
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+m=-2
++2
+-1
+y=-2x
+2.
+Definisi
+(
+)
+(
+)
+Kemiringan
+perubahan panjang sisi mendatar horizontal
+perubahan panjang sisi tegak vertikal
+=
+Bab 5 | Persamaan Garis Lurus
+225
+No
+Persamaan 
+Garis 
+Lurus
+Salah satu 
+titik yang 
+dilalui
+Kemiringan/
+Gradien (m)
+Graik Koordinat
+3
+y
+x
+2
+4
+=
+-
+,3 2
+^
+h
+atau
+2
+1
+2
+atau 3
+2
+2
+0
+-
+-
+artinya
+2 satuan
+ke atas dan
+1 satuan
+ke kanan
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+m=2
++1
++2
+y=2x-4
+3.
+4
+y
+x
+2
+6
+= -
++
+,1 8
+-
+^
+h
+atau
+2
+3
+6
+-
+-
+atau 
+1
+2
+8
+0
+- -
+-
+artinya
+6 satuan
+ke atas dan
+3 satuan
+ke kiri
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+m=-2
++6
+-3
+y=-2x+6
+4.
+1
+2
+3
+5
+y
+x
+=
+,1 3
+^
+h
+...
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+5.
+Matematika untuk SMP/MTs Kelas VIII
+226
+No
+Persamaan 
+Garis 
+Lurus
+Salah satu 
+titik yang 
+dilalui
+Kemiringan/
+Gradien (m)
+Graik Koordinat
+6
+y
+x
+4
+3
+=
++
+,2
+5
+-
+-
+^
+h
+...
+1 2 3 4 5 6 7 8 9 10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Berdasarkan hasil kegiatan pada kedua persamaan di atas, coba kalian 
+eksplorasikan hasil diskusinya dengan menjawab beberapa pertanyaan 
+berikut.
+1. 
+Apa yang membedakan garis yang melalui pusat koordinat dengan 
+garis yang melalui titik lain dalam sistem koordinat?
+2. 
+Pada koordinat Cartesius, mengapa beberapa garis miring ke kanan 
+sementara yang lain miring ke kiri?
+3. 
+Bagaimana cara menentukan persamaan garis dengan kemiringan 
+m yang melalui pusat koordinat?
+4. 
+Bagaimana persamaan garis yang melalui sembarang titik 
+,
+x y
+1
+1
+^
+h 
+dan bergradien m?
+Contoh 5.3
+Jika diketahui garis dengan kemiringan 3 yang melalui titik A(2,5); 
+maka tentukan persamaan garis tersebut.
+Alternatif penyelesaian
+titik A(2,5), maka x1 = 2 dan y1= 5 dan m = 3.
+Bab 5 | Persamaan Garis Lurus
+227
+Persamaan garisnya adalah 
+Jadi, persamaan garis dengan kemiringan 3 yang melalui titik 
+A(2,5) adalah  y  = 3x - 2
+Sekarang pikirkan tentang masalah berikutnya. Gambar 5.9 di bawah 
+ini mengilustrasikan teras belakang sekolah. Hal ini akan dibuat lebih 
+sederhana bagi pengguna kursi roda dengan pembangunan jalur baru. 
+Jika panjang jalan yang akan dibuat 7 meter dari tepi beranda, apakah 
+memenuhi syarat keselamatan bagi pengguna kursi roda?
+Gambar 5.9 serambi belakang sekolah
+Berapa panjang jalan terkecil yang dapat dibuat agar dapat diakses 
+oleh pengguna kursi roda?
+Perhatikan dengan cermat pada Gambar 5.9 di atas; menunjukkan 
+bahwa beranda naik 90 cm di atas permukaan tanah, dan jalan 
+memanjang 7 m, atau 700 cm, dari bibir beranda. Persamaan berikut 
+dapat digunakan untuk menghitung kemiringan jalan yang akan 
+dibangun.
+Dengan demikian, karena jalan yang sedang dibangun memiliki 
+kemiringan kurang dari 0,15; maka sudah sesuai dengan peraturan 
+keselamatan pengguna kursi roda.
+y
+y
+m x
+x
+y
+x
+y
+x
+y
+x
+y
+x
+5
+3
+2
+5
+3
+6
+3
+6
+5
+3
+2
+1
+1
+-
+=
+-
+-
+=
+-
+-
+=
+-
+=
+-
++
+=
+-
+^
+^
+h
+h
+Lantai Dasar
+Beranda
+90 cm
+7 m
+,
+Kemiringan
+perubahan panjang sisi mendatar panjang jalan dari bibir beranda
+perubahan panjang sisi tegak tinggi beranda
+700
+90
+70
+9
+0 128
+.
+=
+=
+=
+^
+^
+h
+h
+Matematika untuk SMP/MTs Kelas VIII
+228
+Tahukah kalian bahwa Australia, negeri Kanguru, memiliki aturan dan 
+larangan terkait kemiringan suatu jalan atau lintasan tertentu?
+ 
+■
+Untuk mengakomodasi pengguna kursi roda, kemiringan jalan 
+tidak boleh melebihi 0,15.
+ 
+■
+Kemiringan tidak boleh lebih dari 0,25 di area parkir yang aman.
+ 
+■
+Kemiringan tidak boleh lebih dari 0,875 persen pada anak tangga 
+bangunan.
+ 
+■
+Untuk pejalan kaki, kemiringan trotoar tidak boleh lebih besar 
+dari 0,325.
+Jarak terpendek yang dapat dibangun dengan tetap aman 
+bagi pengguna kursi roda timbul dari kemiringan jalan yang 
+direkomendasikan sebesar 0,15. 
+Dengan asumsi bahwa untuk jalur terpendek yang diperlukan 
+adalah memiliki panjang x2 maka perhitungannya dapat dilakukan 
+seperti berikut.
+Jadi, jalur terpendek dari tepi anak tangga adalah 600 cm, atau 6 meter.
+Agar kalian lebih memahami cara mendapatkan persamaan garis lurus, 
+cobalah berbicara dengan teman kalian tentang pertanyaan berikut: 
+1. 
+Apa pengetahuan dan pemahaman kalian tentang kemiringan 
+garis lurus?
+Tahukah Kalian?
+?
+,
+,
+,
+Kemiringan
+perubahan panjang sisi mendatar panjang jalan terpendek
+perubahan panjang sisi tegak tinggi beranda
+x
+substitusikan ukuran yang diketahui
+x
+kalikan keda ruas oleh x
+x
+bagi kedua ruas oleh
+0 15
+90
+0 15
+90
+600
+0 15
+=
+=
+=
+=
+^
+^
+h
+h
+Ayo Mencoba
+Bab 5 | Persamaan Garis Lurus
+229
+2. 
+Apa yang dapat kalian simpulkan dari kemiringan garis lurus? 
+3. 
+Bagaimana cara menemukan persamaan garis lurus jika diketahui 
+kemiringan dan titiknya?
+Coba kalian perhatikan dengan cermat Tabel 5.2 berikut, kemudian 
+lengkapi.
+Tabel 5.2 Persamaan garis lurus dengan kemiringan dan melalui titik tertentu
+Melalui Titik
+Kemiringan (m)
+Persamaan Garis Lurus
+( 0 , 0 )
+2
+y = 2 x
+( 0 , 0 )
+-2
+y = -2 x
+( 0 , 0 )
+3
+...
+( 0 , 0 )
+-3
+...
+( 1, 1 )
+0
+y = -1
+( -1,-1)
+0
+...
+( 0, 2 )
+1
+y = x + 2
+( 1,-2 )
+2
+...
+4. 
+Jika diketahui kemiringan garis lurus seperti berikut ini, maka 
+gambarlah graiknya. 
+a. 
+m
+2
+1
+= -
+b. 
+m
+1
+= -
+c. 
+m
+2
+= -
+d. 
+m
+2
+1
+=
+e. 
+m
+1
+=
+f. 
+m
+2
+=
+Perhatikan baik-baik garis yang telah kalian gambar. Berapakah 
+kemiringan garis tersebut?
+Coba simpulkan, menurut kalian apa hubungan antara gambar 
+garis lurus dan kemiringan?
+1 2 3 4 5 6 7 8 9 10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Matematika untuk SMP/MTs Kelas VIII
+230
+Segitiga siku-siku terdiri dari tiga titik: 
+,
+,
+,
+,
+.
+,
+.
+A a
+B
+dan C
+b
+5
+2 3
+3
+-
+^
+^
+^
+h
+h
+h 
+Dapatkah kalian menemukan kemungkinan terbentuknya segitiga siku-
+siku dan ukuran kemiringannya dengan membuat sketsa? Jelaskan alasan 
+kalian.
+Menurut Durahman, suatu garis tidak mempunyai nilai kemiringan 
+jika sejajar dengan sumbu y dan kemiringannya bernilai nol jika sejajar 
+dengan sumbu x. Burhan, di sisi lain mengatakan bahwa setiap garis 
+sejajar memiliki nilai kemiringan yang sama dan hasil kali dari dua 
+kemiringan garis saling tegak lurus adalah -1. Setujukah kalian dengan 
+pendapat Durahman dan Burhan? Jelaskan alasan kalian.
+Agar lebih jelas tentang materi gradien, coba 
+kalian buka link berikut ini 
+s.id/1uhpw
+ 
+1. 
+Identiikasi besar 
+kemiringan tangga 
+tempat tidur di 
+bawah ini.
+50cm
+150cm
+Gambar 5.10 Tangga Bersandar
+Ayo Berpikir Kreatif
+Ayo Berpikir Kritis
+Ayo Berteknologi
+Soal Laihan
+5.2
+Bab 5 | Persamaan Garis Lurus
+231
+2. 
+P dan Q mewakili dua titik pada garis untuk masing-masing graik 
+berikut.
+ 
+ 
+        (i)
+ 
+ 
+  (ii)
+a. 
+Berapa besar kemiringan untuk masing-masing garis tersebut?
+b. 
+Tentukan dua titik lain berbeda pada masing-masing garis 
+tersebut, lalu hitunglah besar kemiringannya. Apakah besar 
+kemiringan garis tersebut berubah atau tetap sama? Mengapa 
+demikian?
+3. 
+Tentukan kemiringan garis dan perpotongan pada sumbu-y untuk 
+setiap garis lurus pada tabel di bawah ini.
+Persamaan 
+Garis Lurus
+Kemiringan 
+Garis
+Perpotongan 
+Sumbu-y
+y
+x
+12
+=
+y
+x
+3
+2
+=
++
+y
+x
+5
+2
+=
+-
+y
+x
+2
+4
+= -
++
+y
+x
+2
+1
+3
+2
+=
+-
+x
+y
+1
+0
++
++
+=
+y
+x
+2
+10
+8
+-
+=
+1
+2
+3
+4
+5 x
+p
+q
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+y
+1
+2
+3
+4
+5 x
+p
+q
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+y
+Matematika untuk SMP/MTs Kelas VIII
+232
+4. 
+Asumsikan hubungan antara tinggi pesawat dan waktu terbang 
+dalam 12 detik pertama diwakili oleh graik garis dengan 
+kemiringan 12. Apa arti kemiringan dalam konteks ini?
+5. 
+Hubungan antara waktu dan volume air yang keluar dari kran 
+terlihat pada graik di sebelah kiri. Berapa banyak kran yang harus 
+dibuka jika kita membutuhkan 2000 liter air dalam dua jam?
+6. 
+Apabila kemiringan garis yang melalui titik 
+, p
+5 2
+-
+^
+h dan 
+, p
+1
+-
+^
+h 
+besarnya sama dengan kemiringan garis yang melalui titik 
+,1 2
+^
+h 
+dan 
+,3 1
+^
+h; maka hitung nilai p.
+7. 
+Tentukan nilai yang belum diketahui dari dua pertanyaan berikut
+a. 
+Apabila kemiringan aris yang melalui titik 
+,
+A
+2 3
+-
+^
+h dan 
+,
+B
+p
+2
+^
+h adalah 2
+1 ; maka hitung nilai p.
+b. 
+Apabila kemiringan aris yang melalui titik 
+, h
+4
+^
+h dan 
+,
+h
+3 7
++
+^
+h 
+adalah 
+4
+1
+-
+; maka hitunglah nilai h.
+8. 
+Apabila kalian berjalan melalui jalan yang kemiringannya besar, 
+maka kalian akan mengalami lebih cepat capek daripada kalian 
+berjalan melalui jalan datar. Begitu juga apabila kalian berjalan 
+pada jalan datar dengan kemiringannya nol akan lebih cepat 
+sampai pada tujuan daripada kalian berjalan pada lintasan yang 
+kemiringannya lebih dari nol. Setujukah kalian dengan kedua 
+pernyataan tersebut? Jelaskan alasan kalian.
+1
+2
+jam
+200
+400
+600
+800
+1000
+liter
+Ayo Berpikir Kritis
+Bab 5 | Persamaan Garis Lurus
+233
+9. 
+Keluarga kalian mengemudi dari Cincinnati ke St Louis. Graik 
+tersebut menghubungkan jarak kalian dari St Louis y (dalam mil) 
+dan waktu tempuh x (dalam jam).
+a. 
+Interpretasikan perpotongan x dan y.
+b. 
+Apa itu kemiringan? Apa yang diwakili oleh kemiringan dalam 
+situasi ini?
+c. 
+Tulis persamaan garis. Bagaimana graik dan persamaan 
+berubah jika kalian dapat melakukan perjalanan dalam garis 
+lurus?
+10. Dalam sebuah percobaan, massa yang ditambahkan ke ujung pegas 
+vertikal secara bertahap meningkat.
+Pada akhir percobaan, komputer menghasilkan graik yang 
+ditunjukkan di halaman berikut ini.
+1
+2
+3
+4
+5
+6
+x
+time (hours)
+Distance from St. Louis
+(miles)
+40
+80
+120
+160
+200
+240
+280
+320
+360
+400
+y
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas VIII
+234
+a. 
+Tuliskan panjang pegas tanpa penambahan massa.
+b. 
+(i) Hitung kemiringan garis lurus yang ditarik pada graik.
+(ii) Jelaskan apa yang didapat dari kemiringan graik ini 
+dalam kaitannya dengan eksperimen.
+c. 
+Garis lurus berhenti di depan tepi kanan kertas graik. Mengapa 
+hal ini mungkin?
+Perhatikan bagaimana persamaan garis lurus y
+mx
+c
+=
++
+ dengan 
+kemiringan m dan melalui titik ditulis 
+,
+x y
+1
+1
+^
+h. Setelah itu, coba 
+fokuskan perhatian kalian pada Tabel 5.3 berikut dan selesaikan 
+bentuk lain persamaan garis lurus dengan berbicara dengan teman-
+temanmu.
+Tabel 5.3 Persamaan Garis Lurus dengan Kemiringan m dan Melalui Titik (x1, y1)
+No.
+Melalui 
+Titik
+Kemiringan 
+(m)
+Bentuk 
+Persamaan Garis 
+Lurus
+Bentuk Lain Persamaan 
+Garis  Lurus
+1
+,
+0 0
+^
+h
+2
+y
+x
+2
+=
+y
+x
+0
+2
+0
+-
+=
+-
+^
+h
+2
+,
+1 3
+^
+h
+3
+y
+x
+3
+=
+y
+x
+3
+3
+1
+-
+=
+-
+^
+h
+3
+,4
+2
+-
+-
+^
+h
+2
+y
+x
+2
+6
+=
++
+y
+x
+2
+2
+4
++
+=
++
+^
+h
+Massa ditambahkan (gram)
+Panjang Musim Semi (mm)
+50
+5
+10
+15
+20
+100
+150
+Ayo Bereksplorasi
+Bab 5 | Persamaan Garis Lurus
+235
+No.
+Melalui 
+Titik
+Kemiringan 
+(m)
+Bentuk 
+Persamaan Garis 
+Lurus
+Bentuk Lain Persamaan 
+Garis  Lurus
+4
+,1 3
+-
+^
+h
+3
+y
+x
+3
+6
+=
++
+(
+)
+…
+…
+…
+y
+x
+-
+=
++
+5
+,2
+2
+-
+^
+h
+3
+y
+x
+3
+8
+=
+-
+(
+)
+…
+…
+…
+y
+x
+-
+=
++
+6
+,1
+2
+-
+^
+h
+-2
+y
+x
+2
+= -
+(
+)
+…
+y
+x
+f
+f
++
+=
+-
+7
+,1 2
+^
+h
+-2
+y
+x
+2
+4
+= -
++
+(
+)
+…
+…
+…
+y
+x
+-
+=
+-
+8
+,1
+3
+-
+-
+^
+h
+-2
+y
+x
+2
+5
+= -
+-
+y
+x
+f
+f
+f
++
+=
++
+^
+h
+9
+,1 2
+^
+h
+2
+y
+x
+2
+=
+(
+)
+…
+…
+…
+y
+x
+-
+=
+-
+10
+,0 0
+^
+h
+-4
+...
+(
+)
+…
+…
+…
+y
+x
+-
+=
+-
+11
+,4 2
+^
+h
+5
+...
+(
+)
+…
+…
+…
+y
+x
+-
+=
+-
+12
+,
+x y
+1
+1
+^
+h
+m
+...
+(
+)
+…
+…
+…
+y
+x
+-
+=
+-
+Kesimpulan apa yang dapat kalian buat dari persamaan garis lurus 
+dan bentuk lain persamaan garis lurus yang melalui titik  dengan 
+,
+x
+y
+1
+1
+^
+hmemiliki kemiringan m berdasarkan hasil diskusimu? Uraikan 
+hasil kesimpulan kalian.
+Persamaan garis y
+mx
+c
+=
++
+ merupakan suatu persamaan garis dengan 
+gradien m dan memotong sumbu-y di titik 
+, c
+0
+^
+h. 
+Persamaan garis yang melalui titik 
+,
+x y
+1
+1
+^
+h dan bergradien m adalah 
+y
+y
+m x
+x
+1
+1
+-
+=
+-
+^
+h.
+Definisi
+Matematika untuk SMP/MTs Kelas VIII
+236
+Tahukah Kalian?
+?
+Fungsi linier adalah nama lain dari persamaan garis lurus.
+Contoh 5.4
+Bagaimana cara mententukan kemiringan garis yang melalui titik 
+A (2, 1) dan B (4, 5).
+Alternatif penyelesaian
+Misalkan (2, 1) adalah (x1, y1) dan (4,5) adalah (x2, y2).
+Sehingga kemiringan garis AB adalah sebagai berikut: 
+Gambar 5.11 Graik dengan Kemiringan Positif
+Perlu diingat bahwa apabila suatu garis memiliki kemiringan 
+positif, maka bentuk garis tersebut selalu miring ke kanan atas.
+Contoh 5.5
+Tentukan kemiringan garis lurus yang melalui titik (1, 2) 
+dan (-2, 5).
+Alternatif penyelesaian
+Misalkan (1, 2) adalah (x1, y1) dan (-2,5) adalah (x2, y2).
+AB
+x
+x
+y
+y
+4
+2
+5
+1
+2
+2
+1
+2
+1
+=
+-
+-
+=
+-
+-
+=
+B (4,5)
+A (2,1)
+5
+x
+y
+0
+5
+Bab 5 | Persamaan Garis Lurus
+237
+Sehingga kemiringan garis adalah sebagai berikut:
+Kemiringan garis
+Gambar 5.12 Graik dengan Kemiringan Negatif
+Perlu diingat bahwa apabila suatu garis memiliki kemiringan 
+negatif, maka bentuk garis tersebut selalu miring ke kiri.
+Contoh 5.6
+Tentukan kemiringan garis lurus yang sejajar dengan sumbu-x 
+dan melalui titik (1, 3).
+Alternatif penyelesaian 
+Garis mendatar yang melalui titik (1, 3) pada graik tersebut juga 
+melalui titik (0, 3).
+Kemiringan garis 
+Gambar 5.13 Graik Sejajar dengan Sumbu-x
+x
+x
+y
+y
+2
+1
+5
+2
+1
+2
+1
+2
+1
+=
+-
+-
+= -
+-
+-
+=-
+]
+g
+(-2,5)
+(1,2)
+5
+x
+y
+0
+5
+x
+x
+y
+y
+1
+0
+3
+3
+1
+0
+0
+2
+1
+2
+1
+=
+-
+-
+=
+-
+-
+=
+=
+Contoh Soal 6
+(1,3)
+(0,3)
+5
+5
+x
+y
+0
+-5
+Matematika untuk SMP/MTs Kelas VIII
+238
+Contoh 5.7
+Tentukan kemiringan garis lurus yang sejajar dengan sumbu-y 
+dan melalui titik (2, 4).
+Alternatif penyelesaian
+Graik vertikal melalui titik (2, 4) dan (2, 1), sehingga kemiringan 
+garis tersebut adalah sebagai berikut. 
+Kemiringan garis
+ 
+Gambar 5.14 Graik yang sejajar dengan sumbu y
+Ayo Berpikir Kritis
+ 
+Perhatikan dengan cermat dan pertimbangkan alternatif penyelesaian 
+dari contoh 5.4, 5.5, 5.6, dan 5.7. 
+1. 
+Titik mana sajakah yang menentukan di mana  suatu garis lurus 
+melalui titik (x1, y1) dan (x2, y2) menghasilkan kemiringan positif?
+2. 
+Titik mana sajakah yang menentukan di mana  suatu garis lurus 
+melalui titik(x1, y1) dan (x2, y2) menghasilkan kemiringan negatif?
+3. 
+Apakah suatu garis tertentu dapat memiliki lebih dari satu nilai 
+kemiringan? Jelaskan.
+(
+)
+x
+x
+y
+y
+tak terdefinisi
+2
+2
+1
+4
+0
+3
+2
+1
+2
+1
+=
+-
+-
+=
+-
+-
+= -
+(2,4)
+(2,1)
+5
+x
+y
+0
+-5
+Bab 5 | Persamaan Garis Lurus
+239
+Pada kegiatan sebelumnya, kalian telah berhasil menemukan cara 
+tertentu pada bentuk persamaan garis lurus yang melalui titik (x1, y1) 
+dengan kemiringan m.
+Oleh karena itu, coba kalian perhatikan dengan cermat pada kasus-
+kasus berikut, bagaimana cara menentukan kemiringan m pada suatu 
+garis.
+Kasus 1. kemiringan garis yang melalui dua titik.
+Kasus 2. kemiringan garis yang saling sejajar terhadap satu garis 
+tertentu.
+Kasus 3. kemiringan garis yang saling tegak lurus terhadap satu garis 
+tertentu.
+Tuliskan hasil kerja kalian sejelas mungkin sehingga teman kalian akan 
+mudah membacanya. Pamerkan hasil karya kalian untuk mendapatkan 
+umpan balik dari teman-teman kalian.
+Agar lebih jelas tentang materi Persamaan Garis Lurus Melalui Gradien 
+dan Satu Titik, coba kalian buka link berikut ini.
+https://s.id/1uhpX
+Ayo Bereksplorasi
+Kalian perlu mengetahui bentuk lain dari persamaan garis lurus. 
+Perhatikan dengan cermat contoh 5.8 berikut ini.
+Ayo Berpikir Kreatif
+Ayo Berteknologi
+Matematika untuk SMP/MTs Kelas VIII
+240
+Contoh 5.8
+Jika diketahui suatu garis melalui titik (-4, p) dan (1, 2) dengan 
+kemiringan 
+4
+3
+-
+, maka hitung nilai p.
+Alternatif penyelesaian
+Misalkan (-4, p) adalah (x1, y1) dan (1,1) adalah (x2, y2)
+Diketahui kemiringan garisnya adalah  
+4
+3
+-
+.
+Substitusi nilai tersebut ke rumus kemiringan garus, sehingga 
+didapat sebagai berikut:
+Kemiringan garis 
+Coba terapkan hasil pembelajaranmu pada bentuk lain persamaan 
+garis lurus yang melalui dua titik yaitu titik A(x1, y1) dan B(x2, y2), 
+berdasarkan hasil pengamatan dan pembahasan pada materi 
+persamaan garis lurus yang telah kalian pelajari.
+Tabel 5.4 Persamaan Garis Lurus yang melalui titik A(x1, y1) dan B(x2, y2)
+No.
+Kemiringan 
+(m)
+Titik A
+Titik B
+Persamaan 
+Garis Lurus
+Bentuk Lain Persamaan 
+Garis  Lurus
+1
+0
+,
+1 2
+^
+h
+,
+3 2
+^
+h
+y
+2
+=
+...
+2
+tidak 
+terdeinisi
+,
+1 3
+-
+^
+h
+,
+1
+1
+-
+-
+^
+h
+x
+1
+= -
+...
+(
+)
+(
+)
+x
+x
+y
+y
+p
+substitusi nilai x dan y
+p
+sederhanakan
+p
+kalikan silang
+p
+sederhanakan
+p
+kurangkan kedua ruas oleh
+p
+sederhanakan
+p
+bagi kedua ruas oleh
+4
+3
+4
+3
+1
+4
+2
+4
+3
+5
+2
+3
+5
+4 2
+15
+8
+4
+15
+8
+4
+8
+23
+4
+4
+23
+4
+2
+1
+2
+1
+#
+=
+-
+-
+=-
+-
+=
+- -
+-
+-
+=
+-
+-
+=
+-
+-
+=
+-
+-
+-
+=-
+-
+=-
+=
+-
+^
+h
+Bab 5 | Persamaan Garis Lurus
+241
+No.
+Kemiringan 
+(m)
+Titik A
+Titik B
+Persamaan 
+Garis Lurus
+Bentuk Lain Persamaan 
+Garis  Lurus
+3
+1
+,2 5
+^
+h
+,6 9
+^
+h
+y
+x
+3
+=
++
+4
+2
+1
+-
+,4 3
+^
+h
+,
+16
+3
+-
+^
+h
+y
+x
+2
+10
+= -
++
+y
+x
+3
+3
+3
+16
+4
+4
+- -
+-
+=
+-
+-
+5
+4
+3
+-
+,
+0 3
+^
+h
+,
+4 0
+^
+h
+x
+y
+3
+4
+12
++
+=
+y
+x
+3
+0
+0
+0
+4
+4
+-
+-
+=
+-
+-
+6
+...
+,2
+4
+-
+^
+h
+,1 1
+-
+^
+h
+y
+x
+3
+2
+= -
+-
+(
+)
+y
+x
+4
+2
+f
+f
+f
+f
+- -
+-
+=
+-
+-
+7
+3
+4
+,
+1 2
+^
+h
+,2
+2
+-
+-
+^
+h
+y
+x
+3
+4
+2
+=
++
+y
+x
+f
+f
+f
+f
+f
+f
+-
+-
+=
+-
+-
+8
+...
+,2 2
+-
+^
+h
+,
+1 0
+^
+h
+y
+x
+2
+2
+= -
+-
+(
+)
+(
+)
+y
+x
+0
+2
+2
+1
+2
+2
+-
+-
+=
+- -
+- -
+9
+5
+...
+...
+...
+(
+)
+y
+x
+4
+11
+11
+0
+3
+3
+-
+-
+-
+=
+-
+-
+10
+...
+,1 9
+-
+^
+h
+,2 5
+-
+^
+h
+...
+(
+)
+(
+)
+y
+x
+5
+9
+9
+2
+1
+1
+-
+-
+= - - -
+- -
+11
+2
+,2
+3
+-
+^
+h
+...
+x
+y
+2
+7
+0
+-
+-
+=
+y
+x
+f
+f
+f
+f
+f
+f
+-
+-
+=
+-
+-
+12
+x
+y
+1
+2
+f
+f
+-
+-
+,
+x y
+1
+1
+^
+h
+,
+x y
+2
+2
+^
+h
+y
+y
+m x
+x
+atau
+y
+m x
+x
+1
+1
+2
+2
+-
+=
+-
+-
+=
+-
+^
+^
+h
+h
+y
+x
+f
+f
+f
+f
+f
+f
+-
+-
+=
+-
+-
+y
+x
+9
+5
+5
+6
+2
+2
+-
+-
+=
+-
+-
+Berdasarkan hasil kegiatan diskusi kalian pada Tabel 5.4 di atas, 
+usahakan untuk memastikan bahwa bentuk umum dari persamaan 
+garis yang melalui dua titik A(x1, y1) dan B(x2, y2) dapat diketahui dengan 
+pasti. Pada baris pertama dan kedua mengapa tidak diisi untuk bentuk 
+lain persamaan garis lurus? Apakah hal ini ada berhubungannya 
+dengan bentuk umum persamaan garis? Jelaskan tanggapan kalian.
+Matematika untuk SMP/MTs Kelas VIII
+242
+Ayo Berkomunikasi
+Ketika koordinat dua titik yang dilalui garis diketahui, maka akan didapat 
+suatu persamaan garis lurus tertentu. Lakukan yang terbaik untuk 
+mendapatkan persamaan garis yang melalui (1,-5) dan (-2,4).
+Penyelesaian Pertama
+Pendekatannya dengan cara menggunakan rumus: y
+y
+y
+y
+x
+x
+x
+x
+2
+1
+1
+2
+1
+1
+-
+-
+=
+-
+-
+Substitusi titik (1,-5) dan (-2,4) ke Persamaan rumusnya
+Jadi, persamaan garis yang melaui titik (1,-5) dan (-2,4)  
+adalah y
+x
+3
+2
+=-
+-
+Penyelesaian Kedua
+Pendekatan kedua dengan menggunakan rumus kemiringan garis 
+lurus, yakni:
+Kemiringan garis  
+Bentuk umum persamaan garis, yaitu y
+mx
+c
+=
++
+, dan (-2,4)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+y
+y
+y
+y
+x
+x
+x
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+4
+5
+5
+2
+1
+1
+9
+5
+3
+1
+3
+5
+9
+1
+5
+3
+1
+5
+3
+3
+3
+3
+5
+3
+2
+3
+2
+2
+1
+1
+2
+1
+1
+-
+-
+=
+-
+-
+- -
+- -
+= -
+-
+-
++
+=
+-
+-
+-
++
+=
+-
+-
++
+=
+-
+- -
+=
+-
+-
+=
+-
++
+-
+=
++
+= -
+-
+^
+h
+(
+)
+x
+x
+y
+y
+2
+1
+4
+5
+3
+2
+1
+2
+1
+=
+-
+-
+=
+- -
+- -
+=-
+Bab 5 | Persamaan Garis Lurus
+243
+sehingga didapat sebagai berikut:
+Jadi, persamaan garis yang melaui titik (1,-5) dan (-2,4)  
+adalah y
+x
+3
+2
+=-
+-
+Catatan: Hasil yang sama jika (1,-5) digunakan untuk menentukan 
+nilai c
+Penyelesaian Ketiga
+Pendekatan ketiga ini, yaitu menghitung kemiringan garis yang 
+dimaksud dengan membandingkan dua bentuk aljabar.
+,
+P x y
+^
+h dapat berupa sembarang titik pada garis. Akibatnya, kemiringan 
+garis melalui titik (-2,4) dan  
+,
+P x y
+^
+h adalah: 
+(
+)
+m
+x
+y
+x
+y
+2
+4
+2
+4
+=
+- -
+-
+=
++
+-
+Sehingga, kemiringan garis kurus yang melalui titik (1,-5) dan (-2,4) 
+adalah 
+(
+)
+m
+2
+1
+4
+5
+3
+=
+- -
+- -
+=-
+Dikarenakan nilai kemiringannya sama, maka didapat sebagai berikut:
+Jadi, persamaan garis  
+yang dimaksud adalah
+y
+x
+3
+2
+=-
+-
+Gambar 5.15 Graik persamaan y
+x
+3
+2
+=-
+-
+y
+mx
+c
+c
+c
+4
+3
+2
+2
+=
++
+=-
+-
++
+=-
+^
+h
+(
+)
+x
+y
+y
+x
+kalikan kedua ruas oleh x
+y
+x
+sederhanakan
+y
+x
+tambahkan kedua ruas oleh
+2
+4
+3
+4
+3
+2
+2
+4
+3
+6
+3
+2
+4
++
+-
+=-
+-
+=-
++
++
+-
+=-
+-
+=-
+-
+(1,-5)
+(x,y)
+P
+(-2,4)
+x
+y
+0
+Matematika untuk SMP/MTs Kelas VIII
+244
+Agar lebih jelas tentang materi Persamaan garis lurus yang melalui 
+dua titik, coba kalian lakukan kegiatan berikut ini untuk memperdalam 
+pengetahuan kalian.
+Coba pelajari tentang materi Persamaan Garis Lurus 
+Melalui Dua Titik melalui video di Youtube, coba 
+dengan kata pencarian "Persamaan Garis Lurus 
+Melalui Dua Titik".
+Ayo Berpikir Kritis
+Pelajari tentang persamaan garis lurus dengan membaca bahan 
+referensi. Cobalah untuk menyelesaikan masalah apapun dengan 
+menggunakan persamaan garis lurus dalam buku tersebut. Jika kalian 
+mengalami kesulitan dalam memahami isi buku tersebut, silakan 
+konsultasikan dengan guru kalian. Bersama dengan teman-teman kalian, 
+bicarakan tentang temuan tersebut. Kemudian, buatlah laporan dari 
+temuan dan berikan kepada Guru kalian.
+1. 
+Tentukan persamaan garis lurus untuk setiap garis pada gambar di 
+halaman berikut.
+a. 
+k
+b. 
+l
+c. 
+m
+d. 
+n
+e. 
+Melalui titik (-1,6) dan tegak lurus garis l
+f. 
+Melalui titik (7,0) dan sejajar garis k
+g. 
+Melalui titik (0,0) dan sejajar garis n
+h. 
+Melalui titik (-3,-3)dan tegak lurus garis m
+Ayo Berteknologi
+Soal Laihan
+5.3
+Bab 5 | Persamaan Garis Lurus
+245
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Koordinat titik A, B dan C 
+berturut-turut adalah (0,2), 
+(5,0) dan (3,4).
+a. 
+Garis l1 melalui titik 
+C dan kemiringannya 
+sama dengan kemiringan 
+garis 
+AB. 
+Identiikasi 
+persamaan garis l1.
+b. 
+Garis 
+l2 
+memotong 
+sumbu y di titik D, 
+memiliki kemiringan 2, 
+dan melalui titik C.
+3. 
+                                         Diketahui ABC adalah garis lurus. Jika A 
+adalah titik (0,8); B adalah titik (4,0); C 
+adalah titik tengah AB; dan Garis DCE 
+tegak lurus dengan garis ABC; maka 
+tentukan persamaan garis DCE.
+4. 
+Graik di halaman berikut ini menunjukkan perubahan secara 
+linier dalam angkatan kerja laki-laki di suatu provinsi yang berusia 
+di atas 20 tahun dari tahun 1990 hingga 2025. Sekitar 430.000 pria 
+berusia di atas 20 tahun memiliki pekerjaan pada tahun 1990. 
+Jumlah tersebut meningkat menjadi 654.000. pada tahun 2025.
+l
+m
+x
+y
+n
+k
+-5
+-6
+-7
+-8
+-4 -3 -2 -1
+-5
+-4
+-3
+-2
+-1
+5 6 7 8
+1
+1
+2
+3
+4
+5
+6
+7
+8
+2 3 4
+x
+A(0,2)
+B(5,0)
+C(3,5) 
+y
+0
+100
+1985 1990 1995
+(1990,430)
+(2025,654)
+2000 2005 2010 2015 2020 2025
+200
+300
+400
+500
+600
+700
+Banyak Laki-Laki (ribuan)
+Tahun
+Matematika untuk SMP/MTs Kelas VIII
+246
+a. 
+Hitunglah 
+besar 
+kemiringan 
+garis 
+tersebut 
+dengan 
+menggunakan titik (1990, 430) dan (2025, 654).
+b. 
+Dalam konteks kasus ini, apa yang dimaksud dengan 
+kemiringan pada soal poin a?
+5. 
+Sebuah garis lurus melalui titik 
+,p q
+^
+h dan
+,r s
+^
+h; dimana:
+p
+r
+q
+s
+2
+4
++
+=
++
+=
+Temukan kemiringan garisnya.
+6. 
+Arista menerima bunga 4.000 rupiah setiap bulan atas tabungannya 
+di bank sebesar 500.000 rupiah. Jika Arista memutuskan untuk 
+menyimpan semua uangnya, tunjukkan dengan sepasang titik 
+berapa banyak yang akan dia miliki setelah dua dan empat 
+bulan (dalam ribuan rupiah). Buatlah persamaan garis yang 
+mengilustrasikan hubungan antara jumlah uang yang dimiliki 
+(dalam ribuan rupiah) dan waktu (dalam bulan).
+7. 
+Tentukan persamaan garis yang tegak lurus dengan garis AB dan 
+melalui titik C.
+8. 
+Roni menerima bunga 4.000 rupiah setiap bulan atas tabungannya 
+di bank sebesar 500.000 rupiah. Jika Roni memutuskan untuk 
+menyimpan semua uangnya, tunjukkan dengan sepasang titik 
+berapa banyak yang akan dia miliki setelah dua dan empat bulan 
+(dalam ribuan rupiah). Gambarkan hubungan antara jumlah uang 
+x
+y
+B
+A
+C (5,-1)
+4
+-2
+Ayo Mencoba
+Bab 5 | Persamaan Garis Lurus
+247
+yang dimiliki (dalam ribuan rupiah) dan perjalanan waktu (dalam 
+bulan) menggunakan persamaan garis (petunjuk: pertama-tama 
+gambarlah titik-titik pada bidang koordinat kemudian gunakan 
+gambar untuk menulis persamaan garis).
+9. 
+Apabila diketahui dua titik 
+,
+P 1 1
+^
+h dan 
+,
+Q 12
+1
+-
+^
+h. Garis l dengan 
+kemiringan 
+4
+3
+-
+ dan melalui titik Q. Berapakah panjang jarak 
+antara titik P dan garis l.
+10. Bandara 
+diatur 
+untuk 
+menerima 
+pesawat  yang  tiba.  Pesawat menelusuri 
+garis lurus dengan kemiringan -3 dari 
+keberangkatan roda (0 detik) hingga 
+mendarat. Pesawat berada 700 meter 
+di atas bumi pada 2 detik setelah roda 
+lepas landas.
+a. 
+Buat persamaan garis yang mengilustrasikan hubungan antara 
+waktu dan ketinggian pesawat.
+b. 
+Buatlah tabel sesuai dengan poin (a), kemudian buat sketsa 
+graiknya.
+c. 
+Berapa ketinggian pesawat di atas bumi delapan detik setelah 
+roda muncul?
+d. 
+Seberapa cepat pesawat menyentuh tanah? Bagaimana hasil 
+tersebut ditemukan?
+e. 
+Berapa lama pesawat akan mencapai 550 meter di atas bumi?
+Projek Bab 5
+1. 
+Pelajari langkah demi langkah cara membuat graik persamaan 
+garis lurus. Buat laporan, lalu tampilkan di papan display.
+Mendesain graik persamaan garis lurus cukup sederhana 
+menggunakan perangkat lunak komputer (Excel, Fx Draw, 
+GeoGebra, Maple, Mathematica, Mathlab). Apakah kalian masih 
+merasa perlu untuk mendesain graik persamaan garis lurus secara 
+manual? Mengapa?
+Matematika untuk SMP/MTs Kelas VIII
+248
+Berikut ini contoh hasil desain graik persamaan garis lurus dari 
+peragkat lunak Fx Draw.
+Gambar 5.16 Contoh Graik Persamaan Garis Lurus
+x
+y=8
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+x
+1
+2
+3
+4
+5
+6
+7
+8
+9 10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+y
+y=-2x - 5
+-2x=3y+11
+3x - 2y+1=0
+y = 2x
+Bab 5 | Persamaan Garis Lurus
+249
+Berikut ini bukan hasil desain graik bukan persamaan garis lurus 
+dari perangkat lunak Fx Draw.
+Gambar 5.17 Contoh Graik Bukan Persamaan Garis Lurus
+Dengan menggunakan software yang sudah tersedia, buatlah 
+beberapa graik fungsi. Atur graik ke dalam kategori yang 
+diinginkan. Misalkan, nilai kemiringan garis lurusnya sama, dua 
+garis sejajar, dua garis tegak lurus, dan lainnya. Memberikan 
+umpan balik untuk setiap kelompok. Jelaskan pengelompokan 
+yang kalian buat.
+2. 
+Jika kalian tidak memiliki akses ke komputer atau sekolah tidak 
+memiliki lab komputer, coba buat graik persamaan garis lurus 
+berikut pada beberapa kertas berpetak yang telah kalian siapkan 
+untuk dibuat. 
+a. 
+ax
+by
+c
+0
++
++
+=
+b. 
+a
+x
+b
+y
+1
++
+=
+Jelaskan cara termudah untuk mendesain graik tersebut.
+Catatan: Silakan sesuaikan nilai a dan b sesuai keinginan.
+x
+y=logx
+5
+10
+-5
+-10
+-5
+-10
+5
+10
+y
+x
+y=-x2 - 3
+5
+10
+-5
+-10
+-5
+-10
+5
+10
+y
+x
+y = 1/x
+5
+10
+-5
+-10
+-5
+-10
+5
+10
+y
+Matematika untuk SMP/MTs Kelas VIII
+250
+3. 
+Pastikan untuk menyajikan hasil desain graik yang kalian buat 
+dengan baik sehingga teman kalian akan menganggapnya menarik 
+dan mudah dibaca. Pajanglah hasil desain graik tersebut pada 
+papan pajangan dan mintalah umpan balik dari rekan-rekan kalian. 
+kalian harus dengan senang hati memberi tahukan kepada mereka 
+jika ada teman kalian yang penasaran dengan hasil pekerjaan 
+kalian terkait dengan salah satu aplikasi komputer tersebut.
+Coba ingat-ingat, setelah membaca Bab 5 ini, apakah ada yang belum 
+kalian pahami? Jika ada, cobalah untuk mengulasnya atau bicarakan 
+dengan teman kalian tentang hal tersebut untuk didiskusikan.
+Tuliskan topik yang menurut kalian sulit untuk dipahami dan 
+rangkum apa yang telah kalian pelajari. Kemudian, coba kalian 
+jelaskan keempat hal berikut ini:
+a. 
+Apa maknanya dari kemiringan garis lurus?
+b. 
+Apabila diketahui suatu garis lurus melalui dua titik koordinat 
+tertentu, bagaimana cara kalian menentukan persamaan garis 
+lurus tersebut?
+c. 
+Apabila diketahui suatu garis lurus dilalui oleh suatu titik 
+koordinat dengan nilai kemiringan tertentu, bagaimana cara kalian 
+menentukan persamaan garis lurus tersebut?
+d. 
+Apa sajakah syarat dari dua garis yang salaing sejajar, berpotongan, 
+dan tegak lurus?
+Apakah Anda mengalami ketidaknyamanan saat belajar karena takut, 
+bosan, sulit dipahami, atau senang? Beritahukan hal tersebut kepada 
+guru kalian.
+Ayo Berefleksi
+Bab 5 | Persamaan Garis Lurus
+251
+Penguatan Karakter
+Langkah-langkah dalam menyelesaikan persamaan garis lurus 
+membutuhkan proses penyelesaian yang sesuai dengan kode etik 
+matematika dan butuh ketelitian dalam menguraikannya, sehingga 
+strategi yang digunakan tepat dan benar sesuai dengan yang diinginkan. 
+Apabila hal ini dikaitkan dalam kehidupan nyata, maka bisa dianalogikan 
+dengan ketaatan pada prinsip. Apabila menjadi warga negara Indonesia 
+jangan mudah menuntut, kalau kewajibannya belum dipenuhi. Jadilah 
+warga negara yang patuh pada kewajiban. Apabila ada masalah temukan 
+solusinya dengan gigih, bila belum ditemukan sekarang bisa nanti. Jangan 
+putus asa dalam menghadapi masalah. Dalam proses menyelesaikan 
+masalah, kita harus bersungguh-sunguh dan patuh terhadap aturan 
+bangsa dan negara.
+Uji Kompetensi Bab 5
+A. 
+Pilihlah jawaban pada soal berikut dengan jawaban yang benar 
+dan tepat
+1. 
+Graik berikut yang sesuai dengan persamaan 
+x
+y
+3
+6
+0
+-
++
+=
+ 
+adalah ....
+a. 
+b. 
+c. 
+d. 
+-3
+6
+x
+y
+2
+6
+x
+y
+2
+x
+6
+y
+3
+x
+6
+y
+Matematika untuk SMP/MTs Kelas VIII
+252
+2. 
+Persamaan Garis Lurus y
+mx
+c
+=
++
+ melalui titik 
+,
+x y
+1
+1
+^
+h dengan 
+kemiringan m. Coba fokuskan perhatian Kalian pada bentuk lain 
+persamaan garis lurus dalam tabel.
+No.
+Kemiringan 
+(m)
+Melalui 
+Titik
+Bentuk 
+Persamaan 
+Garis Lurus
+Bentuk Lain Persamaan 
+Garis  Lurus
+1
+2
+,
+0 0
+^
+h
+y
+x
+2
+=
+y
+x
+0
+2
+0
+-
+=
+-
+^
+h
+2
+3
+,
+1 3
+^
+h
+y
+x
+3
+=
+y
+x
+3
+3
+1
+-
+=
+-
+^
+h
+3
+2
+,4
+2
+-
+-
+^
+h
+y
+x
+2
+6
+=
++
+y
+x
+2
+2
+4
++
+=
++
+^
+h
+4
+2
+,1 2
+^
+h
+A
+(
+)
+y
+x
+2
+2
+1
+-
+=
+-
+5
+3
+,2
+2
+-
+^
+h
+B
+(
+)
+y
+x
+2
+3
+2
++
+=
+-
+Berdasarkan sajian pada tabel di atas, maka bentuk persamaan 
+garis lurus A dan B berturut-turut adalah.....
+a. 
+dan
+y
+x
+y
+x
+2
+3
+8
+=
+=
+-
+b. 
+dan
+y
+x
+y
+x
+2
+1
+3
+=
+-
+=
+c. 
+dan
+y
+x
+y
+x
+2
+1
+3
+4
+=
++
+=
++
+d. 
+dan
+y
+x
+y
+x
+2
+3
+4
+=
+=
+-
+3. 
+Diagram berikut menunjukkan suatu tangga pada rumah tertentu, 
+terdapat 14 anak tangga dengan tinggi 
+.
+cm
+252
+Total tinggi untuk setiap pijakan dari 14 pijakan adalah.....
+a. 
+14 cm
+b. 
+18 cm
+c. 
+28 cm
+d. 
+36 cm
+4. 
+Persamaan garis yang tegak lurus dengan garis y
+x
+3
+1
+6
+=
+-
+ dan 
+melalui titik 
+,2 4
+-
+^
+h adalah ......
+a. 
+y
+x
+3
+= -
+b. 
+y
+x
+3
+6
+=
+-
+c. 
+y
+x
+3
+4
+=
++
+d. 
+y
+x
+3
+2
+= -
+-
+Total Height 252 cm
+Total Depth 400 cm
+Bab 5 | Persamaan Garis Lurus
+253
+5. 
+Titik P(2,-1) dan R(6,2) merupakan titik sudut yang berhadapan 
+pada sisi persegi panjang PQRS yang sejajar dengan sumbu-
+sumbu koordinat, maka persamaan garis yang melalui titik Q dan 
+S adalah ....
+a. 
+x
+y
+4
+3
+14
+0
+-
++
+=
+b. 
+x
+y
+4
+3
+14
+0
++
+-
+=
+c. 
+x
+y
+3
+4
+14
+0
++
+-
+=
+d. 
+x
+y
+3
+4
+33
+0
+-
++
+=
+B. Kerjakan soal-soal berikut dengan benar
+6. 
+Cocokkan setiap persamaan garis lurus pada poin a) dengan 
+kemiringan garis pada poin b) dengan titik potong pada sumbu-y 
+pada poin c) dan gambar graik pada poin d).
+a. 
+b. 
+c. 
+d. 
+(i) y
+x
+3
+=
+-
+(ii) y
+x
+3
+2
+=
+-
+(iii) y
+x
+2
+4
+-
+=
+(iv) x
+y
+2
+3
+0
++
+-
+=
+(i) kemiringan = -2
+(ii) kemiringan = 
+2
+1
+(iii) kemiringan = 3
+(iv) kemiringan = 1
+(i) (0, 3)
+(ii) (0, 2)
+(iii) (0, -2)
+(iv) (0, -3)
+2
+1
+-1
+-2
+-3
+-4
+1
+2
+3
+4
+x
+y
+2
+3
+1
+-1
+-1
+1
+2
+3
+4
+x
+y
+3
+2
+1
+-1
+-1
+-2
+-2
+1
+2
+3
+4
+x
+y
+3
+4
+2
+1
+-1
+-1
+-2
+-2
+-3
+1
+2
+x
+y
+(i)
+(ii)
+(iii)
+(iv)
+Matematika untuk SMP/MTs Kelas VIII
+254
+7. 
+Persentase pembelajaran yang terjadi dengan akses internet 
+digambarkan pada graik di samping.
+a. 
+Antara tahun 2021 dan 2023, 
+seberapa besar laju persentase 
+kelas yang memiliki akses 
+internet akan berubah?
+b. 
+Tahun berapakah akan ada 
+sebesar 90% ruang kelas 
+yang menggunakan internet 
+jika persentase kelas yang 
+menggunakan internet 
+meningkat antara tahun 2022 
+dan 2023?
+c. 
+Apakah graiknya akan terus naik tanpa batas? Jelaskan. 
+8. 
+ACB adalah garis lurus. A adalah titik 
+(0, 8), dan B adalah titik (4, 0). C adalah 
+titik tengah AB. Garis DCE tegak lurus 
+dengan garis ACB.
+Tentukan persamaan garis DCE.
+9. 
+Kemiringan ketiga garis, l1, l2 dan l3; berturut-turut adalah 3, 4, dan 
+5. Sumbu-y dilalui oleh ketiga garis tersebut pada titik yang sama. 
+Pada titik-titik di mana setiap garis memotong sumbu-x, jumlah 
+koordinat x tersebut sama dengan 60
+47 . Temukan persamaan garis 
+l1, l2 dan l3.
+10. Titik 
+,
+,
+,
+,
+dan
+A
+B
+C k
+5
+4
+2
+8
+12
+-
+-
+-
+^
+^
+^
+h
+h
+h 
+terdapat 
+pada 
+garis 
+tertentu yang segaris.
+a. 
+Tentukan nilai k
+b. 
+Titik P berada di sumbu-x sedemikian sehingga AP = AB,
+(i) 
+Tentukan koordinat titik P.
+(ii) 
+Tentukan persamaan garis yang melalui P dan titik (0,4).
+Tahun
+60%
+77%
+51%
+Persentase
+2021
+20
+40
+60
+80
+100
+2022
+2023
+Pembelajaran dengan
+Akses Internet
+4
+-8
+B
+A
+E
+C
+D

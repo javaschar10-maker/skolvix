@@ -1,0 +1,1598 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi  
+Republik Indonesia, 2023
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-623-118-558-7
+Eksponen
+1
+Bab
+Apa saja permasalahan sehari-hari 
+yang dapat diselesaikan dengan bentuk 
+eksponen?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+2
+Tujuan Pembelajaran 	
+Setelah kamu belajar bab ini, diharapkan kamu dapat mengidentifikasi sifat-
+sifat eksponen, bentuk akar, dan fungsi eksponensial. Selain itu, kamu juga 
+diharapkan mampu menyelesaikan permasalahan sehari-hari yang berkaitan 
+dengan fungsi eksponensial.
+Kata Kunci 	
+•	
+eksponen
+•	
+pangkat
+•	
+fungsi eksponensial
+•	
+bentuk akar
+Peta Materi 	
+Penyebaran virus, peredaran video yang viral, dan pertumbuhan penduduk 
+dunia memiliki satu kesamaan yaitu setiap fenomena dapat dijelaskan oleh 
+pertumbuhan eksponen.
+Layaknya penyebaran virus yang berlipat ganda dari orang ke orang, 
+rumah ke rumah, kota ke kota, begitu pula penyebaran video atau konten 
+yang menarik di media sosial. Daya tarik sebuah konten di media sosial dapat 
+membuat penyebaran konten melonjak dengan cepat disampaikan ke jutaan 
+bahkan miliaran penonton. 
+Bayangkan penyebaran mulai dari 10 penonton pertama yang masing-
+masing menceritakan dan membagikan video tersebut ke 10 orang lainnya. 
+Dalam fase penyebaran pertama ini, sudah ada penambahan 100 orang 
+penonton!
+Eksponen
+Sifat-Sifat Eksponen
+Fungsi Eksponensial
+Bentuk Akar
+3
+
+ Bab 1 | Eksponen
+Gambar 1.1 Diagram pohon untuk ilustrasi penyebaran video.
+Kamu juga dapat membayangkan dengan pola yang sama, pertumbuhan 
+penduduk dunia terjadi. Simak grafik pertumbuhan populasi dunia berikut 
+ini.
+Gambar 1.2 Grafik Pertumbuhan Populasi Dunia.
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+Data source: United Nations, World Population Prospects (2022)
+1950
+0
+1960
+1970
+1980
+1990
+2000
+2010
+2021
+CC BY
+World
+Our World
+in Data
+Population, 1950 to 2021
+1 billion
+2 billion
+3 billion
+4 billion
+5 billion
+6 billion
+7 billion
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+4
+Eksponen merupakan konsep matematika yang ada di sekitar kita 
+dan sangat bermanfaat bagi pemecahan masalah manusia. Kamu akan 
+mempelajari konsep ini pada bab pertama.
+Perkalian berulang adalah perkalian yang dilakukan secara berulang dengan 
+faktor yang sama.
+Perhatikan contoh berikut ini.
+1.	
+2 ⇥2 ⇥2 ⇥2 ⇥2 ⇥2  ditulis dengan 26
+2.	
+5 ⇥5 ⇥5 ⇥5 ⇥5 ⇥5 ⇥5 ⇥5 ditulis dengan 58
+3.	
+15 ⇥15 ⇥15 ⇥15 ditulis dengan 154
+4.	
+7 ⇥7 ⇥7 ⇥7 ⇥7 ⇥7 ⇥7 ⇥7 ⇥7 ⇥7 ditulis dengan 710
+5.	
+a ⇥a ⇥a ⇥a ⇥a ⇥a ⇥a ditulis dengan a7
+A.	 Definisi Eksponen
+Eksplorasi   2.1	
+Penyebaran Hoaks
+Seseorang membagikan pesan berisi informasi yang salah (hoaks) kepada 2 
+orang temannya. Berikut isi pesannya.
+Setelah membaca pesan ini, kedua orang 
+tersebut mengikuti arahan dan membagikan 
+pesan yang sama kepada 2 orang lainnya. Dengan asumsi setiap orang yang 
+menerima pesan ini tidak mengetahui bahwa ini adalah hoaks, bayangkan 
+betapa cepat hoaks ini akan tersebar.
+Ayo, Mengingat Kembali
+Ayo, Bereksplorasi
+Coba diskusikan unsur-
+unsur apa saja pada isi 
+pesan ini yang menunjukkan 
+bahwa informasinya salah 
+(hoaks)?
+Keamanan Digital
+Bagi-bagi kuota dalam rangka Hari 
+Kemerdekaan Republik Indonesia. Kirimkan 
+pesan ini kepada 2 orang temanmu dan 
+dapatkan kuota data sebesar 1GB.
+13.37
+5
+
+ Bab 1 | Eksponen
+Kamu akan mencoba menganalisis data penyebaran hoaks secara mandiri. 
+Percobaan ini akan membantumu memahami konsep eksponen. Pastikan kamu 
+punya waktu yang cukup untuk melakukan percobaan mandiri ini.
+Gambarkan diagram pohon yang  
+menunjukkan penyebaran hoaks hingga pesan 
+sudah dibagikan 3 kali. 
+Lengkapilah tabel di bawah ini yang akan memberimu gambaran 
+penyebaran di setiap fase hingga fase ke-8.
+Fase penyebaran
+1
+2
+3
+4
+5
+6
+7
+8
+Banyak orang yang 
+menerima hoaks
+2
+4
+…
+….
+….
+….
+….
+….
+Ayo, Mencoba
+•	 Gunakan emoji senyum 
+untuk mewakili 1 orang.
+•	 Istilah fase mewakili 
+berapa kali pesan telah 
+dibagikan
+Petunjuk
+i
+Hoaks
+Fase 1
+☺
+Fase 2
+Fase 2
+Fase 1
+☺
+Fase 2
+Fase 2
+Fase 3
+Fase 3
+Fase 3
+Fase 3
+Fase 3
+Fase 3
+Fase 3
+Fase 3
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+6
+1.	
+Perhatikan jumlah orang pada setiap fasenya.  
+Pola bilangan apa yang kamu temukan?
+2.	
+Dengan memanfaatkan pola bilangan 
+tersebut, hitung jumlah orang yang 
+menerima hoaks tersebut pada fase ke-6? 
+Bagaimana kamu mengetahuinya?
+3.	
+Pada fase ke berapakah jumlah orang yang menerima hoaks akan 
+melebihi 200 orang? Bagaimana kamu mengetahuinya?
+4.	
+Jika banyak fase adalah n, tuliskan rumus sederhana untuk menghitung 
+banyak orang yang menerima hoaks pada fase ke-n tersebut?
+Bagikan rumus yang kamu buat pada nomor 4 kepada satu temanmu. 
+Bandingkan rumusmu dan gunakan rumus tersebut untuk menghitung jumlah 
+orang pada fase ke-7. Apakah rumusmu menghasilkan jawaban yang benar? 
+Apabila tidak, perbaiki rumusmu agar dapat menghasilkan jawaban yang benar.
+Perhatikan kembali Eksplorasi 1.1 yang sudah kamu lakukan. Ada 
+hubungan yang menarik antara fase penyebaran dengan jumlah orang yang 
+menerima hoaks. Simak polanya sebagai berikut.
+1 = 20
+2 = 2 = 21
+4 = 2 ⇥2 = 22
+8 = 2 ⇥2 ⇥2 = 23
+16 = 2 ⇥2 ⇥2 ⇥2 = 24
+Jika banyak orang yang mendapatkan hoaks  
+di fase ke-n dinyatakan dengan m, maka
+m = 2 ⇥2 ⇥2 ⇥2 ⇥2 · · · ⇥2 = 2n
+Dengan memanfaatkan kesimpulan di atas, maka jumlah orang yang 
+mendapatkan hoaks pada fase ke-5 dapat dengan mudah dihitung sebagai 
+berikut. 
+25 = 32 orang. 
+Bentuk 21, 22, 23, 24 dan 2n ini merupakan bentuk bilangan pangkat. 
+Bilangan berpangkat akan memudahkan kamu untuk menyederhanakan 
+kamu boleh menuliskan 
+rumus dalam bentuk kalimat 
+tertulis maupun dalam 
+bentuk kalimat matematika.
+Petunjuk
+i
+Ayo, Bekerja Sama
+7
+
+ Bab 1 | Eksponen
+bentuk perkalian berulang. Bilangan berpangkat atau disebut juga eksponen 
+didefinisikan sebagai berikut.
+Jika a adalah bilangan real dan n adalah bilangan bulat positif, maka an 
+menyatakan hasil kali bilangan a sebanyak n faktor dan ditulis dengan 
+ 
+Bilangan berpangkat dapat dinyatakan dengan
+an
+pangkat
+bilangan pokok
+Berikut adalah beberapa definisi penting yang perlu kamu ketahui.
+1.	
+Jika a adalah bilangan real dengan a 6= 0 dan n bilangan bulat 
+positif, maka a−n =
+ 1
+a
+n 
+2.	
+Jika a adalah bilangan real dengan a 6= 0 dan n bilangan bulat 
+positif, maka a
+1
+n = p adalah bilangan real positif, sehingga pn = a  
+3.	
+Jika a adalah bilangan real dengan a 6= 0 dan dan m, n bilangan 
+bulat positif, maka a
+m
+n =
+⇣
+a
+1
+n
+⌘m
+B.	Sifat-Sifat Eksponen
+Eksplorasi   2.2	
+Sifat-Sifat Eksponen
+Perhatikan tabel yang menunjukkan bentuk eksponen 2n di bawah ini.
+Tabel 1.1 Bentuk Eksponen 2n
+2n
+21
+22
+23
+24
+25
+26
+27
+28
+29
+210
+an = a ⇥a ⇥a ⇥· · · ⇥a
+|
+{z
+}
+n faktor
+Ayo, Bereksplorasi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+8
+Hasil 
+Perpangkatan
+2
+4
+8
+16
+32
+64
+128
+256
+512
+1.024
+Sekarang kamu amati bentuk eksponen di bawah ini. Selesaikan dan 
+diskusikan dengan teman kelompokmu. 
+1)	 22 · 23
+4)	 28
+26
+7)	 
+233
+2)	 25 · 22
+5)	 210
+23
+8)	
+
+242
+3)	 23 · 27
+6)	 26
+24
+9)	 
+225
+Dari pengamatan di atas, apa yang dapat kamu simpulkan dari sifat-sifat 
+eksponen tersebut?
+1.	
+Secara umum apakah bentuk lain dari am · an ?
+2.	
+Secara umum apakah bentuk lain dari am
+an ?
+3.	
+Secara umum apakah bentuk lain dari (am)n ?
+Itu merupakan beberapa sifat-sifat yang berlaku pada eksponen. Berikut 
+sifat-sifat eksponen yang perlu kamu ketahui. Kamu sudah membuktikan 
+sifat 1, 2, dan 3.
+1.	 am · an = am+n, dengan a 6= 0, m, n bilangan bulat   	
+2.	
+am
+an = am−n, dengan a 6= 0, m, n bilangan bulat 
+3.	 (am)n = am⇥n, dengan a 6= 0, m, n bilangan bulat
+4.	 (ab)m = am × bm dengan a, b 6= 0, dan m bilangan bulat
+5.	  a
+b
+m = am
+bm dengan b 6= 0, dan m bilangan bulat
+6.	 
+a
+m
+n  
+a
+p
+n 
+= (a)
+m+p
+n dengan a > 0, m
+n dan p
+n bilangan rasional 
+dengan n 6= 0
+7.	
+
+a
+m
+n  ⇣
+a
+p
+q
+⌘
+= (a)
+m
+n + p
+q dengan a > 0, m
+n dan p
+n bilangan rasional 
+dengan n, q 6= 0
+9
+
+ Bab 1 | Eksponen
+Bagaimana kamu membuktikan Sifat 4 dan 5? Diskusikan bersama 
+temanmu.
+Perhatikan contoh 1 dan 2 berikut.
+Contoh  1  
+Sederhanakanlah bentuk eksponen 25 ⇥23
+22
+ 
+Alternatif Penyelesaian:
+Contoh  2  
+Sederhanakan bentuk eksponen 
+⇣
+x
+1
+3
+⌘2
+⇥
+⇣
+x
+4
+3
+⌘
+ 
+Alternatif Penyelesaian:
+Latihan   2.1	
+1.	
+Buktikan sifat eksponen nomor 6 dan 7.
+2.	
+Tentukan nilai p sedemikian sehingga persamaan berikut ini tepat 
+a.	
+
+342 = 3p
+b.	 bp · b5 = 39
+c.	 (3⇡)p = 27⇡3
+Ayo, Berpikir Kreatif
+25 ⇥23
+22
+= 25+3
+22
+= 28
+22
+= 28−2
+= 26
+⇣
+x
+1
+3
+⌘2
+⇥
+⇣
+x
+4
+3
+⌘
+=
+⇣
+x
+2
+3
+⌘
+⇥
+⇣
+x
+4
+3
+⌘
+= x
+2
+3 + 4
+3
+= x
+6
+3
+= x2
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+10
+3.	
+Sederhanakanlah
+a.	
+✓24 ⇥36
+23 ⇥32
+◆3
+b.	
+
+3u3v5 
+9u4v
+
+c.	
+✓n−1r4
+5n−6r4
+◆2
+, n 6= 0, r 6= 0
+C.	 Fungsi Eksponenial
+Eksplorasi   2.3	
+Fungsi Eksponensial
+Seseorang terjangkit virus dan menulari 3 orang lainnya. Pada fase 
+selanjutnya, setiap orang menulari 3 orang lainnya lagi. 
+1.	
+Berapakah orang yang akan tertular pada setiap fase selanjutnya?
+2.	
+Berapa orang yang akan tertular virus tersebut pada fase ke-20?
+3.	
+Manakah dari grafik fungsi berikut ini yang merepresentasikan 
+peningkatan jumlah orang yang tertular virus tersebut jika proses 
+penularan terjadi terus-menerus? Mengapa demikian? 
+4.	
+Fungsi apakah yang tepat menggambarkan penularan tersebut? 
+Perhatikan Eksplorasi 1.3 
+Pada fase pertama 3 orang tertular dari orang pertama dan kemudian 
+menularkan masing-masing ke 3 orang lainnya. Kemudian 3 orang tersebut 
+menularkan lagi ke masing-masing 3 orang berikutnya, begitu seterusnya.
+Ayo, Bereksplorasi
+I
+III
+II
+11
+
+ Bab 1 | Eksponen
+Jika disajikan dalam bentuk tabel maka diperoleh seperti berikut ini. 
+Tabel 1.2 Penularan Virus di Beberapa Fase
+Fase 
+1
+2
+3
+4
+5
+6
+7
+Banyak 
+orang yang 
+tertular
+3 = 31 9 = 32
+27 = 33
+81 = 34 243 = 35 729 = 36 2187 = 37
+Kalau kamu perhatikan, untuk menentukan banyaknya orang yang 
+tertular virus tersebut, pola yang muncul adalah 3x, dengan x adalah fase 
+penyebaran virus. Jika f(x) adalah banyaknya orang yang tertular virus 
+tersebut, sementara x adalah fase penyebaran virus, maka banyaknya orang 
+yang tertular virus tersebut dapat dinyatakan dengan,
+f(x) = 3x
+f(x) = 3x adalah salah satu contoh fungsi eksponensial. 
+Definisi Fungsi Eksponensial
+Sebuah fungsi eksponensial dinyatakan dengan 
+f(x) = n ⇥ax 
+dengan a adalah bilangan pokok, a > 0, a 6= 1, n adalah bilangan real 
+tak nol dan x adalah sebarang bilangan real.
+Apakah kamu sudah memahami definisi di atas? Coba diskusikan 
+pertanyaan berikut ini. 
+1.	
+Bagaimana jika a = 1 ?
+2.	
+Bagaimana jika a = 0 ?
+Beberapa contoh fungsi eksponensial lainnya adalah sebagai berikut. 
+1.	 f(x) = 4x
+2.	 f(x) = 3x+1
+3.	 f(x) = 52x−1
+Ayo, Berpikir Kreatif
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+12
+Jika kamu perhatikan, perubahan nilai pada fungsi eksponensial 
+sangatlah signifikan. Pada Eksplorasi 1.3 dapat kamu amati bahwa pada 
+fase-fase selanjutnya, semakin banyak orang yang tertular virus tersebut. 
+Grafik fungsi eksponensial pada f(x) = 3x ditunjukkan pada gambar di 
+bawah ini. 
+Gambar 1.3 Grafik Fungsi f(x) = 3x
+Fungsi eksponensial dibedakan menjadi dua bentuk, yaitu pertumbuhan 
+eksponensial dan peluruhan eksponensial. 
+Perhatikan ketiga fungsi berikut ini.
+a.	 f(x) = 2x 
+b.	 f(x) = 2x 
+c.	 f(x) = x2
+1.	
+Gambarlah ketiga grafik fungsi tersebut.
+2.	
+Apa yang membedakan ketiga grafik fungsi tersebut?
+3.	
+Dari ketiga grafik fungsi tersebut, grafik yang manakah yang paling 
+cepat peningkatannya?
+1.	 Pertumbuhan Eksponen
+Kurva pada Gambar 1.3 adalah salah satu kurva yang menunjukkan 
+pertumbuhan eksponen, yang tingkat pertumbuhannya berbanding lurus 
+dengan besarnya nilai kuantitasnya. Contoh yang lainnya misalnya pada 
+Ayo, Berpikir Kreatif
+13
+
+ Bab 1 | Eksponen
+pertumbuhan bakteri di mana pada fase-fase selanjutnya bakteri tentu akan 
+semakin banyak jumlahnya. 
+Fungsi pertumbuhan eksponen dituliskan dengan
+f(x) = ax  dengan a > 1  
+Ada sebuah dongeng rakyat dari India yang menunjukkan bagaimana 
+ide pertumbuhan eksponen dimanfaatkan seorang anak untuk menolong 
+penduduk di kotanya yang kelaparan. Judul dongeng ini adalah One Grain of 
+Rice dan ditulis oleh Demi.
+Dengarkan dongeng ini dengan mencarinya di kanal Youtube 
+menggunakan kata kunci “One Grain of Rice”. Kerjakan aktivitas yang 
+mengikuti. Kamu dapat menyetel fungsi terjemah otomatis dari Youtube jika 
+dirasa perlu.
+Permintaan anak perempuan ini merupakan contoh pertumbuhan 
+eksponen. Dengan teman sekelompokmu, cari tahu berapa biji beras yang 
+diterima anak perempuan di dalam cerita ini setiap harinya selama 30 hari.
+Hari ke-1
+Hari ke-2
+Hari ke-3
+Hari ke-4
+Hari ke-5
+Hari ke-6
+Hari ke-7
+Hari ke-8
+Hari ke-9
+Hari ke-10
+Hari ke-11
+Hari ke-12
+Hari ke-13
+Hari ke-14
+Hari ke-15
+Hari ke-16
+Hari ke-17
+Hari ke-18
+Hari ke-19
+Hari ke-20
+Hari ke-21
+Hari ke-22
+Hari ke-23
+Hari ke-24
+Hari ke-25
+Ayo, Bereksplorasi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+14
+Hari ke-26
+Hari ke-27
+Hari ke-28
+Hari ke-29
+Hari ke-30
+Sekarang mari kita lihat beberapa contoh berikut ini. 
+Contoh  3 
+Untuk mengamati pertumbuhan suatu bakteri pada inangnya, seorang 
+peneliti mengambil potongan inang yang sudah terinfeksi bakteri tersebut 
+dan mengamatinya selama 5 jam pertama. Pada inang tersebut, terdapat 30 
+bakteri. Setelah diamati, bakteri tersebut membelah menjadi dua setiap 30 
+menit. 
+1.	
+Modelkan fungsi pertumbuhan bakteri pada setiap fase.
+2.	
+Gambarkan grafik pertumbuhan bakteri tersebut. 
+3.	
+Pada jam ke-5 berapa banyak bakteri baru yang tumbuh?
+Alternatif Penyelesaian:
+1.	
+Pada awal pengamatan, bakteri yang diamati berjumlah 30 sehingga 
+untuk 30 menit berikutnya dapat digambarkan pertumbuhan bakterinya 
+sebagai berikut. Misalkan x adalah fase pertumbuhan bakteri setiap 30 
+menit, maka 
+Fase (30 menit) 
+0
+1
+2
+3
+4
+5
+Banyak bakteri
+30
+60
+120
+240
+480
+960
+Untuk x = 0, banyak bakteri = 30 ; 
+Untuk x = 1, banyak bakteri = 60 = 21 · 30 ; 
+Untuk x = 2, banyak bakteri = 120 = 22 · 30 ; 
+Untuk x = 3, banyak bakteri = 240 = 23 · 30 ; 
+Untuk x = 4, banyak bakteri = 480 = 24 · 30 ; 
+Pertumbuhan bakteri dapat dimodelkan dengan fungsi eksponensial 
+f (x) = 30.(2x)
+2.	
+Grafik fungsi eksponensial pertumbuhan bakteri f(x) = 30 · (2x) dapat 
+digambarkan sebagai berikut.
+15
+
+ Bab 1 | Eksponen
+Gambar 1.4 Grafik Fungsi f (x) = 30.(2x) 
+3.	
+Jam ke-5 terjadi pada fase ke-10 (ingat kembali pembelahan terjadi setiap 
+30 menit), sehingga: 
+Jadi banyak bakteri yang tumbuh pada jam ke-5 atau fase ke-10 adalah 
+30.720 bakteri.
+Jika banyak bakteri di awal adalah 50, 100 dan 200, bagaimana kamu 
+memodelkan pertumbuhan bakteri tersebut?
+Diskusikan dengan teman kelompok kalian.
+Contoh  4 
+Seorang peneliti mengamati pertumbuhan bakteri selama beberapa jam. 
+Setelah diamati, bakteri tersebut membelah menjadi n bakteri setiap 
+jam. Setelah diamati, jumlah bakteri pada 2 jam pertama adalah 8.000 
+1400
+1200
+1000
+800
+600
+400
+200
+0
+1
+2
+3
+4
+5
+6
+Gunakan aplikasi GeoGebra 
+untuk membantumu 
+menggambarkan grafik 
+tersebut. Kunjungi  
+www.geogebra.org
+Petunjuk
+i
+f(10) = 30.(210)
+= 30.(1024)
+= 30.720
+Ayo, Berpikir Kritis
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+16
+bakteri. Dua jam kemudian jumlah bakteri sudah mencapai 32.000 bakteri. 
+Berapakah jumlah bakteri setelah 10 jam?
+Alternatif Penyelesaian:
+Misalkan x0 adalah banyaknya bakteri pada waktu t = 0. 
+Jika a adalah banyaknya bakteri setelah pembelahan setiap jam, maka 
+Untuk t = 0, banyak bakteri = x0 ; 
+Untuk t = 1, banyak bakteri = a1 · x0 ;  
+Untuk t = 2, banyak bakteri = a2 · x0 ; 
+Untuk t = 3, banyak bakteri = a3 · x0 ; 
+Untuk t = 4, banyak bakteri = a4 · x0 ; 
+dan seterusnya.
+Kamu harus mencari nilai a terlebih dahulu untuk mengetahui banyak 
+bakteri yang dihasilkan ketika sebuah bakteri membelah dalam 1 jam. Jika 
+banyak bakteri pada 2 jam pertama adalah x2 dan banyak bakteri pada 2 jam 
+berikutnya (4 jam kemudian) adalah x4, maka:
+Jadi, setiap 1 jam bakteri akan membelah menjadi dua bakteri. 
+Selanjutnya kamu akan mencari banyak bakteri di awal yaitu x0. Kamu 
+dapat menggunakan persamaan x2 = a2 · x0 dengan substitusikan nilai 
+a = 2 pada x2 = a2 · x0
+x4
+x2
+= 32.000
+8.000
+a4.x0
+a2.x0
+= 32.000
+8.000
+a2 = 4
+a =
+p
+4
+a = 2
+x2 = a2.x0
+8.000 = 22.x0
+8.000 = 4.x0
+8.000
+4
+= x0
+x0 = 2.000
+17
+
+ Bab 1 | Eksponen
+Jadi, banyaknya bakteri mula-mula adalah 2.000 bakteri.
+Untuk mencari banyak bakteri pada 10 jam kemudian, maka digunakan 
+persamaan x10 = a10.x0. Substitusikan nilai a = 2 dan x0 = 2.000 pada 
+x10 = a10 · x0.
+Jadi, banyaknya bakteri setelah 10 jam adalah 2.048.000 bakteri.
+Latihan   2.2	
+Jawablah pertanyaan berikut ini.
+1.	
+Bakteri E.coli menyebabkan penyakit diare pada manusia. Seorang 
+peneliti mengamati pertumbuhan 50 bakteri ini pada sepotong makanan 
+dan menemukan bahwa bakteri ini membelah menjadi 2 setiap 
+seperempat jam. 
+a.	
+Gambarkan tabel dan grafik yang 
+menunjukkan pertumbuhan bakteri ini 
+dari fase 0 sampai fase 5.
+b.	
+Modelkan fungsi yang menggambarkan 
+pertumbuhan bakteri E.coli setiap 
+seperempat jam. 
+c.	
+Prediksi berapa banyaknya bakteri 
+setelah 3 dan 4 jam pertama. 
+2.	
+Pada tahun 2015 kasus positif HIV-AIDS berjumlah sekitar 36 juta jiwa. 
+Jumlah ini meningkat rata-rata 2% setiap tahun dari tahun 2010 hingga 
+2015. Jika peningkatan kasus positif HIV di tahun-tahun berikutnya 
+diprediksi bertambah secara eksponen pada peningkatan 2% setiap 
+tahun, berapa banyak kasus yang terjadi pada tahun 2020?
+Sumber: https://pusdatin.kemkes.go.id/ (dengan berbagai penyesuaian)
+Berikan sebuah contoh penerapan pertumbuhan eksponen lainnya.
+Gunakan aplikasi GeoGebra 
+untuk membantumu 
+menggambarkan grafik 
+tersebut. Kunjungi  
+www.geogebra.org
+Petunjuk
+i
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+18
+2.	 Peluruhan Eksponen
+Fungsi eksponensial tidak hanya menggambarkan pertumbuhan yang 
+signifikan dari waktu ke waktu. Fungsi eksponensial juga menggambarkan 
+penurunan secara konsisten pada periode waktu tertentu. Ini disebut 
+peluruhan eksponen. Perhatikan grafik fungsi peluruhan eksponen pada 
+Gambar 1.5. Apa perbedaannya dengan grafik pertumbuhan eksponen? 
+Diskusikan dengan temanmu.
+ 
+Gambar 1.5 Grafik Fungsi Peluruhan Eksponen
+Fungsi peluruhan eksponen dapat dituliskan sebagai
+f(x) = n × ax, dengan 0 < a < 1 , n bilangan real tak nol, x adalah  sebarang 
+bilangan real.
+Contoh  5  
+Obat penahan rasa sakit disuntikkan kepada pasien yang mengalami luka 
+berat akibat kecelakaan. Dosis obat yang disuntikkan adalah 50 mikrogram. 
+Satu jam setelah penyuntikan, setengah dosis tersebut akan luruh dan 
+dikeluarkan dari dalam tubuh. Proses tersebut akan terus berulang setiap 
+jam.
+6
+5
+4
+3
+2
+1
+7
+8
+9
+10
+8
+9
+10
+y
+7
+6
+5
+4
+3
+2
+1
+x
+19
+
+ Bab 1 | Eksponen
+1.	
+Berapa banyak dosis obat yang masih tertinggal di dalam tubuh pasien 
+setelah 1 jam, 2 jam, dan 3 jam?
+2.	
+Bagaimana model matematika yang dapat menyatakan peluruhan dosis 
+obat tersebut?
+Alternatif Penyelesaian:
+1.	
+Dosis awal = 50 mikrogram
+Misalkan dosis pada x waktu dilambangkan dengan f(x), maka 
+f (0) = 50
+f (1) = 1
+2 × 50 = 25
+f (2) = 1
+2 × 25 = 12, 5
+f (3) = 1
+2 × 12, 5 = 6, 25
+Jadi, dosis pada 1 jam pertama tersisa 25 mikrogram, pada 2 jam pertama 
+tersisa 12,5 mikrogram, dan setelah 3 jam tersisa 6,25 mikrogram.
+2.	
+Berdasarkan soal nomor 1, fungsi eksponensial yang dapat menyatakan 
+peluruhan dosis obat tersebut dari dalam tubuh pasien pada jam tertentu 
+adalah f(x) = 50
+ 1
+2
+x dengan x adalah waktu yang dibutuhkan obat 
+tersebut untuk meluruh sebanyak setengah dosis dari dosis sebelumnya. 
+Diskusikan mengapa fungsi f(x) = 50
+ 1
+2
+x dapat menggambarkan 
+permasalahan di atas.
+Ayo, Berdiskusi
+Prediksilah, berapa jam yang dibutuhkan sehingga dosis obat tersebut 
+masih ada di dalam tubuh pasien kurang dari 0,1 mikrogram. 
+Ayo, Berpikir Kreatif
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+20
+Latihan   2.3	 
+Jawablah pertanyaan berikut ini.
+1.	
+Dua ratus mg zat disuntikkan ke dalam tubuh pasien yang menderita 
+penyakit kanker paru-paru. Zat tersebut akan dikeluarkan dari dalam 
+tubuh melalui ginjal setiap jam. Jika setiap 1 jam 50% zat tersebut 
+dikeluarkan dari dalam tubuh pasien, berapa mg zat tersebut yang masih 
+tersisa di dalam tubuh pasien setelah 5 jam? 
+2.	
+Massa suatu zat radioaktif adalah 0,3 kg pada pukul 10 pagi. Tingkat 
+peluruhan zat radioaktif tersebut adalah 15 % setiap jam. Berapakah 
+jumlah zat radioaktif tersebut 8 jam kemudian?
+3.	
+Sebuah bola basket dijatuhkan dari ketinggian 3 meter. Bola tersebut 
+menyentuh tanah dan kemudian melambung kembali setinggi 3
+5 dari 
+tinggi sebelumnya. Bola tersebut terpantul dan melambung kembali 
+dengan ketinggian yang sama sampai akhirnya benar-benar berhenti 
+melambung dan jatuh ke tanah. 
+a.	
+Gambarkan grafik fungsi perubahan 
+ketinggian lambungan bola hingga 
+akhirnya menyentuh tanah.
+b.	
+Pada lambungan ke berapa, bola 
+akhirnya berhenti melambung?
+Pada sebuah novel berjudul Pay It Forward yang 
+ditulis oleh Catherine Ryan Hyde, seorang anak 
+bernama Trevor ditugaskan gurunya untuk 
+memikirkan ide yang dapat membuat dunia 
+menjadi lebih baik. Ide yang dicetus Trevor adalah 
+untuk melakukan kebaikan tanpa syarat kepada 
+3 orang dan meminta 3 orang tersebut membalas 
+kebaikannya bukan untuk dirinya tetapi untuk 3 
+orang lainnya. Ide ini dinamakan Pay It Forward 
+yang dapat diterjemahkan menjadi Melanjutkan 
+Kebaikan Kedepan.
+Ide Pay It Forward ini dapat menghasilkan pertumbuhan eksponensial 
+yang sangat tinggi. Bayangkan apabila ide tersebut diterapkan oleh banyak 
+Ambil paling tidak lima 
+lambungan pertama untuk 
+membantumu.
+Petunjuk
+i
+Penguatan Karakter
+21
+
+ Bab 1 | Eksponen
+orang di dunia. Bayangkan juga betapa lebih baiknya dunia kita apabila kita 
+menerapkan ide ini. Menurutmu, jika diterapkan, dalam berapa lamakah 
+aksi kebaikan ini bisa dirasakan 100 orang? Bagaimana dengan 1 juta orang?
+Tuliskan 3 ide aksi kebaikan tanpa syarat yang dapat kamu lakukan hari 
+ini. Aksi kebaikan tidak harus hal yang besar dan harus dipersiapkan lama. 
+Aksi kebaikan dapat hal sekecil apapun. Apakah kamu  mau mencoba ide 
+Pay It Forward ini?
+D.	Bentuk Akar
+1.	 Hubungan Bilangan Pangkat dan Akar
+Perhatikan kembali Contoh 5 sebelumnya. Fungsi eksponensial yang 
+menyatakan peluruhan dosis obat di dalam tubuh pasien dituliskan dalam 
+fungsi f(x) = 50(0, 5)x dengan x adalah waktu yang dibutuhkan obat 
+tersebut untuk meluruh sebanyak setengah dosis dari dosis sebelumnya. Jika 
+kamu ingin mengetahui banyaknya dosis yang meluruh setelah 30 menit, 
+bagaimana cara yang kamu lakukan?
+Fungsi untuk permasalahan tersebut adalah f(x) = 50(0, 5)x
+Setelah 30 menit, banyak dosis obat yang meluruh adalah f
+ 1
+2
+
+= 50(0, 5)
+1
+2
+Akan mudah bagimu untuk menentukan hasil penghitungan dengan 
+pangkat bilangan bulat positif. Sementara bentuk (0, 5)
+1
+2 tentu menyulitkan 
+untuk menentukan hasil perpangkatannya dengan penghitungan manual.
+Bentuk lain dari (0, 5)
+1
+2 adalah √0, 5. Bentuk ini disebut bentuk akar. 
+Bentuk akar didefinisikan sebagai berikut.
+Untuk setiap bilangan pangkat rasional m
+n , dengan m dan n adalah 
+bilangan bulat dan n > 0, didefinisikan
+a
+m
+n = ( n√a)m
+ atau a
+m
+n =
+n√
+am
+Sifat-sifat eksponen juga dapat kamu gunakan untuk bentuk pangkat pecahan 
+ini.
+Ayo, Mengingat Kembali
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+22
+Contoh  6 
+Sederhanakanlah bentuk (2√x) (3 3√x) untuk x > 0
+Alternatif Penyelesaian:
+Apakah bentuk 
+√
+a + b = √a +
+√
+b benar? Jelaskan jawabanmu.
+2.	 Merasionalkan Bentuk Akar
+Untuk merasionalkan bentuk akar, maka yang dapat dilakukan adalah 
+dengan mengalikannya dengan bentuk akar sekawannya. 
+Untuk merasionalkan bentuk a
+√
+b dilakukan dengan cara mengalikan 
+dengan sekawannya yaitu 
+√
+b
+√
+b , sehingga diperoleh:
+Untuk merasionalkan bentuk 
+c
+√a+
+√
+b , 
+c
+√a−
+√
+b,
+c
+a+
+√
+b , dan 
+c
+a−
+√
+b 
+dilakukan dengan mengalikannya dengan sekawannya. Bentuk √a +
+√
+b dan 
+√a −
+√
+b adalah sekawan, serta bentuk a +
+√
+b dan a −
+√
+b juga sekawan.
+Coba rasionalkan bentuk-bentuk ini: 
+c
+√a+
+√
+b , 
+c
+√a−
+√
+b,
+c
+a+
+√
+b , dan 
+c
+a−
+√
+b
+Diskusikan cara yang kamu gunakan.
+
+2px
+ 
+3 3px
+
+=
+⇣
+2x
+1
+2
+⌘⇣
+3x
+1
+3
+⌘
+= 2.3.x
+1
+2 + 1
+3
+= 6x
+3+2
+6
+= 6x
+5
+6
+Ayo, Berpikir Kritis
+a
+p
+b
+= a
+p
+b
+⇥
+p
+b
+p
+b
+= a
+b
+p
+b
+Ayo, Berpikir Kreatif
+Ayo, Berdiskusi
+23
+
+ Bab 1 | Eksponen
+Latihan   2.4	  
+1.	
+Sederhanakan bentuk akar berikut ini.
+a.	
+
+8x5y−4
+16y−1
+4
+ 1
+2
+b.	
+
+5
+√
+x5
+
+(3 3√x)
+c.	
+
+p5q−10
+p5q−4
+ 1
+2 
+p
+1
+4 q−1
+2
+p−1
+2 q−1
+2
+ 1
+2
+2.	
+Rasionalkan bentuk berikut ini.
+a.	
+2
+4p
+b3
+b.	
+2
+p
+3 +
+p
+5
+c.	
+m
+pm + n
+Latihan   2.5	 
+1.	
+Selesaikanlah:
+✓3a−2b
+a2b5c−1
+◆−3
+2.	
+Selesaikanlah:
+3.	
+Sebuah bangun berbentuk seperti di bawah ini. Bangun tersebut 
+kemudian dibagi menjadi 4 bangun yang kongruen.
+Tahap 0
+Tahap 1
+a.	
+Buatlah tabel yang merepresentasikan banyaknya bangun yang 
+kongruen di setiap tahap.
+3
+s
+24x2y5
+3x5y11
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+24
+b.	
+Bagaimana model matematika yang tepat untuk menggambarkan 
+permasalahan di atas?
+c.	
+Pada tahap ke-12, berapa banyak bangun kongruen yang dapat 
+dibuat?
+4.	
+Sita menyusun sebuah fraktal seperti gambar di bawah ini.
+Sita membuat sebuah pola tertentu sehingga setiap tahap jumlah segmen 
+garis yang dihasilkan semakin banyak walaupun dengan ukuran yang 
+lebih kecil. Sita terus melanjutkan fraktal tersebut dengan menghasilkan 
+lebih banyak segmen garis pada tahap-tahap selanjutnya dengan pola 
+yang sama.
+a.	
+Buatlah sebuah tabel yang menunjukkan peningkatan jumlah 
+segmen garis pada fraktal yang dibuat oleh Sita. 
+b.	
+Berapa banyak segmen garis yang dihasilkan setelah 20 tahap 
+pertama?
+5.	
+Rini mengamati bahwa penjualan tas kulit yang diproduksinya 
+mendapatkan hasil penjualan terbesar pada bulan pertama produk 
+tersebut diperjualbelikan. Setelah Rini amati, penjualan tas miliknya 
+pada bulan kedua sebesar  dari penjualan tas pada bulan pertama. 
+Demikian pula pada bulan ketiga, penjualan tas hanya  dari bulan 
+kedua. Hal tersebut ternyata berlangsung sampai beberapa bulan 
+kemudian. 
+a.	
+Jika Rini menjual 500 buah tas kulit pada bulan pertama, berapa 
+banyak tas yang terjual pada bulan kedua dan ketiga?
+b.	
+Berapa prediksi penjualan pada bulan ke-10?
+c.	
+Pada bulan ke berapakah prediksi penjualan akan kurang dari 10 tas 
+saja?
+Start
+Tahap 0
+Tahap 1
+Tahap 2
+25
+
+ Bab 1 | Eksponen
+6.	
+Cangkang kerang merupakan salah satu contoh bentuk matematika yang 
+ada di alam. 
+Perhatikan cangkang kerang berikut ini. Setiap ruang cangkang memiliki 
+bentuk segitiga siku-siku dengan panjang sisi luarnya adalah 1 cm. 
+Bagaimana panjang hipotenusa pada ruang cangkang ke-n?
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+7.	
+Tanpa perlu menentukan hasil 
+perpangkatannya, berapakah bilangan 
+satuan dari 71 2 3?
+8.	
+Sebuah filter cahaya masih dapat ditembus 
+oleh cahaya sebesar 60%. Berapa banyak filter cahaya yang dibutuhkan 
+agar intensitas cahayanya menjadi kurang dari 5% dari intensitas cahaya 
+di awal?
+Perhatikan pola bilangan 
+satuan pada hasil setiap 
+perpangkatannya.
+Petunjuk
+i
+
+26
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+26
+Uji Kompetensi 	
+1.	
+Selesaikanlah
+a.	
+, x 
+ 0, y 
+ 0
+b.	
+ , m 
+ 0, n 
+ 0
+c.	
+ , p 
+ 0, q 
+ 0
+2.	
+Sebuah koloni bakteri terdiri atas 500 bakteri yang akan membelah diri 
+menjadi dua setiap 1 jam. 
+a.	
+Tentukan fungsi yang menyatakan hubungan antara banyak bakteri 
+setelah jam tertentu. 
+b.	
+Berapa lama waktu yang dibutuhkan sehingga koloni bakteri 
+tersebut berjumlah 5.000 bakteri?
+c.	
+Berapa lama waktu yang dibutuhkan sehingga koloni bakteri 
+tersebut mencapai 100.000 bakteri?
+Pengayaan 	
+Permainan Pangkat
+Dalam permainan ini, kamu menggunakan himpunan bilangan yang 
+diberikan untuk membuat sebuah bilangan tujuan hanya boleh 
+menggunakan operasi pangkat atau mencari hasil kali dua bilangan.
+Setiap bilangan hanya boleh digunakan sekali saja. Kamu tidak harus 
+menggunakan semua bilangan. Adakalanya lebih dari satu cara untuk 
+membuat bilangan tujuan, sehingga cobalah untuk melihat berapa banyak 
+cara yang dapat kamu temukan. 
+Contoh: 
+Himpunan bilangan: 2, 3, 4, 5, 16, 32 dan bilangan tujuan: 8
+Cara 1: 23 = 8
+Cara 2: 32( 1
+5 ) ⇥16( 1
+2 )
+27
+
+ 
+27
+
+ Bab 1 | Eksponen
+Cara 3: 
+Apakah kamu dapat menemukan berbagai cara lain untuk membuat 8? 
+Apakah ada cara untuk menggunakan semua bilangan?
+Permasalahan 1
+Himpunan Bilangan: 2, 4, 5, 25, 27, 81 
+Bilangan Tujuan: 125
+Permasalahan 2
+Himpunan Bilangan: 2, 5, 16, 243, 343, 512
+a.	
+Bilangan Tujuan: 49
+b.	
+Bilangan Tujuan: 89
+c.	
+Bilangan Tujuan: 1024
+d.	
+Bilangan Tujuan: 216
+e.	
+Bilangan Tujuan: 64
+Berapa banyak cara yang dapat kamu temukan 
+untuk setiap bilangan tujuan?
+Apakah ada bilangan tujuan yang tidak dapat 
+kamu buat? Seberapa dekatkah bilangan yang 
+dapat kamu buat dengan bilangan tujuan 
+tersebut?
+Sumber: nrich.maths.org (2023)
+Logaritma
+Ayo, Bereksplorasi
+Sebuah koloni bakteri terdiri atas 2.000 bakteri yang akan membelah diri 
+menjadi dua setiap 1 jam. Pertumbuhan bakteri tersebut mengikuti bentuk 
+fungsi eksponensial 
+f(x) = 2.000(2x)
+⇣
+16( 1
+4)⌘3
+=
+
+163( 1
+4)
+Untuk memulai, cobalah 
+menuliskan bilangan yang 
+lebih besar sebagai bentuk 
+pangkat dari bilangan-
+bilangan yang lebih kecil, 
+dan bilangan yang lebih 
+kecil sebagai bentuk akar 
+dari bilangan yang lebih 
+besar.
+Petunjuk
+i
+
+28
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+28
+1.	
+Berapa lama waktu yang dibutuhkan sehingga koloni bakteri tersebut 
+berjumlah 64.000 bakteri?
+2.	
+Berapa lama waktu yang dibutuhkan sehingga koloni bakteri tersebut 
+mencapai 100.000 bakteri?
+Untuk menentukan waktu yang dibutuhkan koloni bakteri sampai 
+berjumlah 64.000 bakteri tentu masih mudah. 
+Perhatikan tabel berikut ini.
+Tabel 1.3 Pertumbuhan Koloni Bakteri
+Waktu (x)
+0
+1
+2
+3
+4
+5
+6
+Banyak bakteri
+2.000
+4.000
+8.000
+....
+....
+....
+....
+Selanjutnya bagaimana menentukan waktu yang dibutuhkan sehingga 
+terdapat 100.000 bakteri? 
+Setelah memasukkan berbagai nilai x, ternyata waktu yang dibutuhkan 
+bukan berupa bilangan bulat. 
+Waktu yang terdekat adalah
+x = 5 dengan banyak bakteri adalah f(5) = 2.000(25) = 64.000
+x = 6 dengan banyak bakteri adalah f(6) = 2.000(26) = 128.000
+Dengan demikian, 100.000 bakteri akan muncul antara 5 sampai 6 jam. 
+Dengan kata lain, kamu harus menemukan nilai x sehingga berlaku  
+100.000 = 2.000(2x) 
+Jika nilai x = 5, 5 disubstitusi pada fungsi tersebut, maka diperoleh
+f(5, 5) = 2.000(25,5)
+f(5, 5) = 2.000(45, 25)
+f(5, 5) = 90.509
+Dalam waktu 5,5 jam sudah terdapat sekitar 90.509 bakteri di koloni 
+tersebut. Dengan demikian, waktu yang dibutuhkan hingga mencapai 100.000 
+bakteri lebih dari 5,5 jam. 
+Kegiatan mencoba-coba dapat terus kita lakukan sampai menemukan 
+waktu yang paling tepat. Akan tetapi, tentu hal tersebut menjadi tidak efisien. 
+29
+
+ 
+29
+
+ Bab 1 | Eksponen
+Untuk menentukan waktu hingga bakteri berjumlah 100.000, kamu memiliki 
+100.000 = 2.000(2x)
+50 = 2x
+ kedua ruas dibagi dengan 2.000
+Dengan kata lain untuk mendapatkan nilai x kamu mencari nilai 
+perpangkatan dua yang hasilnya adalah 50.
+Untuk memudahkan perhitungan semacam itu, para matematikawan 
+menemukan sebuah konsep yang membuat perhitungan tersebut menjadi 
+lebih efisien yang disebut dengan logaritma. Selanjutnya 50 = 2x ditulis 
+dengan x =
+2 log 50 .
+Dahulu para matematikawan pada awalnya menyusun logaritma 
+yang akan memudahkan mereka untuk menentukan nilai suatu logaritma. 
+Sekarang ini kamu dapat menggunakan kalkulator saintifik untuk 
+menentukan nilai logaritma. Logaritma biasanya ditulis dengan log.
+Definisi Logaritma
+Misalkan a adalah bilangan positif dengan 0 < a < 1 atau a > 1, b > 0,
+a log b = c jika dan hanya jika b = ac
+dengan, a adalah bilangan pokok atau basis logaritma 
+b adalah numerus  
+c adalah hasil logaritma
+Jadi, antara eksponen dan logaritma saling terkait. Logaritma adalah 
+inversi atau kebalikan dari eksponen. Perhatikan tabel di bawah ini.
+Tabel 1.4 Contoh Bentuk Eksponen dan Bentuk Logaritma
+Bentuk Eksponen
+Bentuk Logaritma
+25 = 32
+32 = 9
+5−2 = 1
+25
+5 log 1
+25 = −2
+70 = 1
+7 log 1 = 0
+
+30
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+30
+Bentuk logaritma yang juga perlu kamu ketahui adalah logaritma dengan 
+basis 10 yang biasa disebut dengan Logaritma Umum. Bentuk logaritma 
+umum ini biasanya juga dapat kamu tulis dengan menghilangkan basis 
+logaritmanya. Bentuk logaritma umum didefinisikan sebagai berikut.
+Definisi Logaritma Umum
+Logaritma yang memiliki basis 10 disebut dengan logaritma umum dan 
+dituliskan sebagai berikut:
+10 log a = log a
+Sifat-Sifat Logaritma
+Seperti halnya eksponen, logaritma juga memiliki sifat-sifat yang penting 
+untuk kamu ketahui. Sifat-sifat logaritma yang perlu kamu ketahui adalah 
+sebagai berikut.
+Misalkan a > 0 dan a̸ = 1, b > 0, c > 0,  m > 0, m̸ = 1, dengan 
+a, b, c, m, n adalah bilangan Real, maka berlaku:
+1.	
+a log a = 1
+2.	
+a log 1 = 0
+3.	
+a log an = n
+4.	
+a log(b × c) = a log b + a log c 
+5.	
+a log
+ b
+c
+
+= a log b −a log c
+6.	
+a log bn = n a log b
+7.	
+a log b =
+m log b
+m log a =
+1
+b log a
+8.	
+a log c = a log b × b log c
+Contoh  7   
+Buktikan sifat logaritma alog (b × c) = alog b + alog c
+Alternatif Pembuktian:
+Misalkan a log b = m dan a log c = n.
+31
+
+ 
+31
+
+ Bab 1 | Eksponen
+kamu dapat menuliskan bentuk eksponennya sebagai berikut. 
+b = am dan c = an 
+Ingat kembali sifat eksponen am · an = am+n
+ 
+	
+	
+	
+	
+definisi logaritma
+	
+	
+	
+	
+ingat kembali alog b = m dan alog c = n.
+Buktikan alog (b × c) = alog b + alog c  dengan cara yang lain.
+Bagaimana membuktikan sifat-sifat logaritma yang lainnya? Diskusikan 
+dengan temanmu.
+Contoh  8  
+Sederhanakanlah bentuk logaritma berikut ini: 2 log 16 + 2 log 8
+Alternatif Penyelesaian:
+Contoh  9 
+Arif menabung uangnya di bank sebesar Rp3.000.000,00 dan mendapatkan 
+bunga sebesar 5% per tahun. Berapa lama Arif harus menyimpan uang di 
+bank agar tabungannya tersebut menjadi tiga kali lipat dari tabungan awal?
+am · an = am+n
+b · c = am+n
+a log(bc) = m + n
+= a log b + a log c
+Ayo, Mencoba
+Ayo, Berdiskusi
+2 log 16 + 2 log 8 = 2 log(16 ⇥8)
+= 2 log 128
+= 2 log 27
+= 7 · 2 log 2
+= 7 · 1
+= 7
+
+32
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+32
+Alternatif Penyelesaian:
+Dimisalkan  
+M0 = modal awal 
+Mt = modal setelah menabung selama t tahun. 
+i = bunga per tahun 
+Tabungan awal (M0) Arif adalah Rp3.000.000,00 
+Tabungan setelah t tahun (Mt) = Rp9.000.000,00 
+Dengan mengeksplorasi tabungan awal dan bunga yang diperoleh Arif, 
+kamu dapat menentukan rumus tabungan Arif setelah t tahun. Untuk 
+menentukan total tabungan Arif setelah t tahun, diperoleh rumus 
+penambahan uangnya sebagai Mt = 3.000.000(1 + 0, 05)t
+Jika Arif menginginkan tabungan akhirnya menjadi 3 kali lipat, maka 
+berlaku: 9.000.000 = 3.000.000(1 + 0, 5)t
+Bagaimana menentukan Mt = 3.000.000(1 + 0, 05)t?
+Dengan menggunakan sifat-sifat logaritma, kamu dapat menentukan 
+waktu yang dibutuhkan agar tabungan Arif menjadi 3 kali lipat. 
+9.000.000 = 3.000.000(1 + 0, 05)t
+Jadi, Arif membutuhkan waktu 22,5 tahun agar tabungannya menjadi 3 kali 
+lipat.
+Ayo, Berpikir Kreatif
+9.000.000
+3.000.000 = (1 + 0, 05)t
+3 = (1 + 0, 05)t
+log 3 = log(1 + 0, 05)t
+log 3 = log 1, 05t
+log 3 = t · log 1, 05
+t =
+log 3
+log 1, 05
+t = 0, 4771
+0, 0212
+t = 22, 5
+a log bn = n ·a log b
+Tips Penyelesain
+Gunakan kalkulator atau 
+tabel log
+Tips Penyelesain
+33
+
+ 
+33
+
+ Bab 1 | Eksponen
+Latihan   2.6	 
+1.	
+Sederhanakan bentuk akar berikut ini.
+a.	
+9 log 81 
+b.	
+2 log 64 −2 log 16
+c.	
+4 log 1610 
+2.	
+Jika 5 log 4 = m , 4 log 3 = n , nyatakan 12 log 100 dalam m dan n.
+3.	
+Penduduk kota A pada tahun 2010 sebanyak 300.000 jiwa. Pertumbuhan 
+penduduk kota A rata-rata per tahun adalah 6%. Jika diasumsikan 
+pertumbuhan penduduk setiap tahun sama, dalam berapa tahun 
+penduduk kota A menjadi 1 juta jiwa?
+4.	
+Berapa waktu yang dibutuhkan sehingga uang Dini yang tadinya 
+Rp2.000.000,00 dapat menjadi Rp6.500.000,00 jika dia menabung di suatu 
+bank yang memberinya bunga sebesar 12%?
+Refleksi 	
+Dalam bab ini kamu sudah belajar tentang bilangan eksponen dan 
+fungsi eksponensial. Ayo refleksikan pembelajaranmu dengan menjawab 
+pertanyaan berikut.
+1.	
+Apa itu bilangan eksponen?
+2.	
+Seperti apa bentuk fungsi eksponensial?
+3.	
+Apa yang membedakan fungsi pertumbuhan eksponen dan peluruhan 
+eksponen?
+Asesmen Diri 	
+Pertanyaan Asesmen Diri
+Bisa 
+Mandiri
+Bisa 
+dengan 
+Bantuan
+Belum 
+Bisa
+1.	
+Apakah saya sudah bisa 
+mengidentifikasi bilangan eksponen?
+2.	
+Apakah saya sudah bisa menjelaskan 
+bentuk fungsi eksponensial?
+
+34
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+34
+Pertanyaan Asesmen Diri
+Bisa 
+Mandiri
+Bisa 
+dengan 
+Bantuan
+Belum 
+Bisa
+3.	
+Apakah saya sudah bisa membedakan 
+fungsi pertumbuhan dan peluruhan 
+eksponen?
+4.	
+Apakah saya sudah bisa menjelaskan 
+manfaat konsep eksponen dalam 
+kehidupan sehari-hari?

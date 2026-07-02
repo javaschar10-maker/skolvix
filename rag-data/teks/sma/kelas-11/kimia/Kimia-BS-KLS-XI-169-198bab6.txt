@@ -1,0 +1,1431 @@
+155
+Bab VI  Kinetika Kimia
+Bab
+VI
+Kinetika Kimia
+Setelah mempelajari materi ini, kalian dapat menuliskan ungkapan laju reaksi, 
+menjelaskan penyebab terjadinya reaksi yang dihubungkan dengan teori 
+tumbukan, melakukan percobaan sederhana mengenai faktor-faktor yang 
+memengaruhi laju reaksi, menyimpulkan faktor-faktor yang memengaruhi 
+laju reaksi, menentukan harga orde reaksi, menentukan persamaan laju reaksi, 
+serta mampu memahami penerapan laju reaksi dalam kehidupan sehari-hari.
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XI
+Penulis 
+: Munasprianto Ramli, dkk.
+ISBN 
+: 978-602-427-923-3 (jil.1)
+156
+Kimia untuk SMA/MA Kelas XI
+Mind Map
+Komik Kimia
+157
+Bab VI  Kinetika Kimia
+Gambar 6.1 Perkaratan besi dan pembakaran kayu
+Sumber: pixabay.com/Istvan Asztalos, 2014
+Perhatikan kedua gambar di atas. Menurut kalian, manakah reaksi yang ber-
+langsung cepat dan mana yang lambat? Ya, betul sekali. Reaksi perkaratan 
+merupakan reaksi kimia yang berlangsung lambat, sedangkan pembakaran 
+kayu berlangsung cepat.
+Sekarang, coba amati proses kita bernapas. Kita bernapas menghirup 
+udara yang mengandung oksigen, lalu membuang napas mengeluarkan karbon 
+diok sida. Berapa lama waktu yang kita butuhkan untuk bernapas? Sangat 
+cepat, bukan? Tuhan sangat luar biasa mendesain tubuh kita sedemikian rupa 
+sehingga tubuh mampu melakukan proses reaksi kimia dalam waktu yang 
+sangat cepat. 
+Semua yang ada di muka bumi adalah hal-hal yang bisa kita pelajari 
+sebagai makhluk yang berakal. Melihat beberapa fenomena tersebut, kita 
+dapat mempelajari bagaimana reaksi kimia berlangsung. Apa saja yang 
+menyebabkan reaksi bisa berlangsung cepat dan lambat?
+Bagaimana manusia dapat memanfaatkan cepat atau lambatnya reaksi 
+kimia  dalam kehidupan sehari-hari? Silakan, pertanyaan apa lagi yang ingin 
+kalian ajukan mengenai cepat atau lambatnya reaksi kimia?
+A. Teori Tumbukan
+Kinetika kimia adalah bagian dari ilmu kimia yang mempelajari tentang laju 
+reaksi kimia. Apa yang menyebabkan reaksi kimia ada yang berlangsung 
+cepat dan lambat? Reaksi kimia dapat berlangsung karena adanya tumbukan 
+efektif antara partikel-partikel zat yang bereaksi. Semakin banyak tumbukan 
+terjadi, semakin cepat kemungkinan terjadinya reaksi dan semakin kecil 
+energi kinetik minimum yang dibutuhkan untuk bereaksi.
+158
+Kimia untuk SMA/MA Kelas XI
+Perhatikan ilustrasi pembentukan molekul senyawa HCl dari molekul 
+unsur pembentuknya, yaitu molekul gas H2 dan Cl2.
+Gambar 6.2 Tumbukan molekul gas hidrogen dan gas klorin yang tidak efektif 
+sehingga tidak menghasilkan reaksi.
+Gambar 6.3 Tumbukan molekul gas hidrogen dan gas klorin yang efektif sehingga 
+menghasilkan reaksi dan membentuk molekul baru.
+Energi aktivasi (Ea) merupakan energi minimum yang dibutuhkan 
+supaya reaksi dapat berlangsung sehingga terbentuk molekul baru.
+Contoh: H2(g) + Cl2(g) 
+ 2HCl(g)
+Energi 
+potensial
+Ea
+H2(g) + Cl2(g)
+2HCl(g)
+Gambar 6.4 Graik energi aktivasi
+159
+Bab VI  Kinetika Kimia
+Reaksi pembentukan HCl dari gas H2 dan Cl2 tidak akan terjadi (berlang-
+sung) jika tidak mencapai harga energi aktivasi reaksinya.
+Perhatikan ilustrasi berikut.
+C
+A
+B
+Ea
+Gambar 6.5 Analogi energi aktivasi
+Gambar di atas merupakan analogi bagaimana sebuah mobil yang mogok 
+harus melewati jalan berbukit. Untuk menggerakkan mobil yang mogok 
+dari posisi A ke B maka kita harus mendorongnya hingga ke posisi C terlebih 
+dahulu. Ketika sampai di posisi C, kita tidak perlu mendorongnya lagi, mobil 
+akan bergerak sendiri menuruni bukit menuju posisi B. Posisi C itulah yang 
+diibaratkan dengan energi aktivasi.
+B. Laju Reaksi
+Ketika belajar ilmu isika, kalian tentu tidak asing lagi dengan istilah laju atau 
+kecepatan. Dalam ilmu isika, laju merupakan perubahan jarak yang ditempuh 
+tiap satuan waktu. Adapun dalam ilmu kimia ada istilah yang disebut dengan 
+laju reaksi. 
+Laju reaksi dapat ditentukan melalui perubahan volume gas, pH, dan kon-
+sentrasi larutan. Salah satu contoh penentuan laju reaksi melalui percobaan 
+adalah sebagai berikut.
+Gambar 6.6 Percobaan penentuan laju reaksi
+160
+Kimia untuk SMA/MA Kelas XI
+Sepotong logam seng (Zn) direaksikan ke dalam larutan asam sulfat (H2SO4) 
+menghasilkan gas hidrogen (H2). Jumlah gas hidrogen yang dihasilkan dapat 
+digunakan untuk mengetahui laju reaksi yang terjadi. Data hasil percobaan 
+tersebut adalah sebagai berikut.
+Tabel 6.1  Penambahan volume gas H2 hasil reaksi
+Waktu (detik)
+Volume gas H2 (cm3)
+0
+0
+30
+10
+60
+19
+90
+27
+120
+33
+150
+37
+180
+37
+210
+37
+Tabel tersebut dapat kita ubah menjadi graik sebagai berikut.
+Volume
+(cm3)
+0
+50
+100
+150
+200
+250
+10
+20
+30
+40
+Waktu
+(detik)
+Gambar 6.7 Graik penambahan volume gas H2 hasil reaksi
+Berdasarkan data tersebut, kita bisa mengetahui beberapa kesimpulan 
+berikut.
+1. 
+Pada 30 detik pertama, dihasilkan gas hidrogen sebanyak 10 ml, maka laju 
+reaksi pada 30 detik pertama adalah 10 ml gas hidrogen tiap 30 detik.
+161
+Bab VI  Kinetika Kimia
+2. 
+Mulai detik ke-150, volume gas hidrogen yang dihasilkan tidak berubah, 
+yaitu 37 ml, artinya pada waktu tersebut reaksi sudah selesai.
+3. 
+Laju reaksi rata-rata dapat ditentukan dari volume total gas H2 yang 
+dihasilkan dibagi waktu total yang digunakan untuk habis bereaksi.
+Laju reaksi rata-rata = 
+37 ml
+210 detik = 0,176 ml gas hidrogen tiap detik.
+Selain melalui perubahan volume gas, laju reaksi dapat ditentukan dari 
+perubahan konsentrasi suatu zat tiap satuan waktu.
+[A]
+r
+t
+
+
+
+Keterangan: 
+r = laju reaksi (mol.l–1.detik–1)
+∆[A] = perubahan konsentrasi zat (mol.l–1)
+Δt = perubahan waktu (detik)
+Berikut merupakan contoh penentuan laju reaksi dari suatu zat melalui 
+perubahan konsentrasi. 
+Di dalam ruangan tertutup dengan volume 10 liter direaksikan 1 mol gas N2 
+dan 1 mol gas H2 menghasilkan gas amonia menurut reaksi berikut.
+N2(g) + 3H2(g) 
+ 2NH3(g)
+Setelah reaksi berlangsung selama 20 detik, tersisa gas N2 sebanyak 0,8 mol. 
+Maka, laju reaksi tiap-tiap zat ditentukan sebagai berikut.
+ 
+ 
+ 
+  N2(g)    +    3H2(g)    
+    2NH3(g) 
+Mula-mula 
+:  1 mol 
+ 1 mol
+Bereaksi 
+: 0,2 mol 
+0,6 mol 
+0,4 mol
+Setelah 20 detik : 0,8 mol 
+0,4 mol 
+0,4 mol
+Laju reaksi terhadap gas N2:
+2
+1
+1
+2
+N
+0,2 mol
+[N ]
+10 l
+0,001 mol.l .detik
+20 detik
+r
+t
+
+
+
+
+
+
+
+Laju reaksi terhadap gas H2:
+2
+1
+1
+2
+H
+0,6 mol
+[H ]
+10 l
+0,003 mol.l .detik
+20 detik
+r
+t
+
+
+
+
+
+
+
+162
+Kimia untuk SMA/MA Kelas XI
+Laju reaksi terhadap gas NH3:
+3
+1
+1
+3
+NH
+0,4 mol
+[NH ]
+10 l
+0,002 mol.l .detik
+20 detik
+r
+t
+
+
+
+
+
+
+
+Dari data di atas, kalian perhatikan bahwa laju reaksi untuk reaktan me-
+rupakan berkurangnya konsentrasi tiap satuan waktu, sedangkan laju reaksi 
+untuk produk merupakan bertambahnya konsentrasi tiap satuan waktu.
+Perhatikan ilustrasi berikut.
+Untuk reaksi: N2(g) + 3H2(g) 
+ 2NH3(g)
+ (0 detik)
+ (20 detik)
+Keterangan:
+ = partikel gas N2
+ = partikel gas H2
+ = partikel gas NH3
+Gambar 6.8 Ilustrasi jumlah partikel zat sebelum dan sesudah reaksi
+Perhatikan jumlah setiap partikel zat dari detik ke-0 hingga ke-20 bereaksi. 
+Jumlah partikel reaktan menjadi berkurang setelah reaksi berlangsung selama 
+20 detik, sedangkan jumlah produk bertambah. Jika dibuat dalam bentuk 
+graik, laju reaksi pada reaksi di atas adalah sebagai berikut.
+Konsentrasi
+zat
+Waktu
+N2(g) + H2(g)
+NH3(g)
+Gambar 6.9 Graik konsentrasi zat terhadap waktu
+163
+Bab VI  Kinetika Kimia
+Berdasarkan graik pada Gambar 6.9, kita dapat melihat bahwa konsentrasi 
+reaktan berkurang, sedangkan konsentrasi produk bertambah tiap satuan 
+waktu. Pernyataan tersebut dapat dituliskan secara ringkas sebagai berikut.
+reaktan
+[reaktan]
+r
+t
+
+ 
+
+atau
+produk
+[produk]
+r
+t
+
+ 
+
+Keterangan:
+r = laju reaksi (M.detik–1)
+Δ[reaktan] = perubahan konsentrasi reaktan (M)
+Δ[produk] = perubahan konsentrasi produk (M)
+Δt = perubahan waktu (detik)
+Tanda negatif pada rumus di atas menunjukkan bahwa konsentrasi 
+reaktan berkurang, sedangkan tanda positif menunjukkan konsentrasi produk 
+bertambah.
+Contoh
+1. 
+Perhatikan persamaan reaksi berikut.
+A2 + 2Z2 
+ 2AZ2
+Pernyataan yang tepat mengenai laju reaksi dari persamaan reaksi di atas 
+adalah ....
+a. 
+bertambahnya konsentrasi A2 tiap satuan waktu
+b. 
+bertambahnya konsentrasi Z2 tiap satuan waktu
+c. 
+berkurangnya konsentrasi AZ2 tiap satuan waktu
+d. 
+bertambahnya konsentrasi AZ2 tiap satuan waktu
+e. 
+berkurangnya konsentrasi A2 dan AZ2 tiap satuan waktu
+Pembahasan:
+A2 dan Z2 adalah reaktan, sedangkan AZ2 adalah produk. Seperti yang 
+sudah dibahas sebelumnya bahwa laju reaksi merupakan berkurangnya 
+konsentrasi reaktan tiap satuan waktu atau bertambahnya konsentrasi 
+produk  tiap satuan waktu, sehingga laju reaksi untuk reaksi:
+A2 + 2Z2 
+ 2AZ2
+adalah berkurangnya konsentrasi A2 dan Z2 tiap satuan waktu atau 
+bertambahnya konsentrasi AZ2 tiap satuan waktu.
+Jawab: D
+164
+Kimia untuk SMA/MA Kelas XI
+2. 
+Penentuan laju reaksi: 
+Zn(s) + H2SO4(aq) 
+ ZnSO4(aq) + H2(g)
+dilakukan dengan mengukur konsentrasi H2 tiap 10 detik, sehingga diper-
+oleh data sebagai berikut.
+Waktu (detik)
+0
+10
+20
+[H2] (mol.l–1)
+0
+0,030
+0,055
+Berdasarkan data di atas, tentukanlah laju reaksi rata-rata pada detik ke-
+20 pembentukan gas H2!
+Pembahasan:
+Laju reaksi rata-rata pembentukan gas H2 pada detik ke-20 adalah:
+2
+1
+3
+1
+1
+2
+H
+[H ]
+(0,055
+0) mol.l
+2,75 10
+ mol.l .detik
+(20
+0) detik
+r
+t
+
+
+
+
+
+
+
+
+
+
+
+
+3. 
+Pada suhu 25°C laju penguraian N2O5 menjadi NO2 dan O2 adalah 2,4 × 10–6 
+mol.l–1.detik–1 pada pengurangan konsentrasi gas N2O5. Tentukan laju reaksi 
+pembentukan NO2 dan O2 pada suhu yang sama untuk reaksi berikut. 
+2N2O5(g) 
+ 2NO2(g) + O2(g)
+Pembahasan:
+2
+2
+6
+1
+1
+6
+1
+1
+NO
+6
+1
+1
+6
+1
+1
+O
+2
+2,4
+10
+ mol.l .detik
+2,4
+10
+ mol.l .detik
+2
+1
+2,4
+10
+ mol.l .detik
+1,2 10
+ mol.l .detik
+2
+r
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ayo Berlatih
+1. 
+Di dalam suatu bejana tertutup dengan volume 2 liter direaksikan 0,8 
+mol gas X dan 1,2 mol gas Y menurut reaksi:
+2X(g) + 3Y(g) 
+ X2Y3(g)
+Setelah reaksi berlangsung selama 50 detik, gas X yang tersisa adalah 
+0,72 mol. Tentukanlah:
+a. 
+laju reaksi pembentukan gas X2Y3
+b. 
+laju reaksi gas Y
+165
+Bab VI  Kinetika Kimia
+2. 
+Di dalam suatu ruangan tertutup terjadi reaksi berikut.
+2NO2(g)  2NO(g) + O2(g)
+a. 
+Tuliskan rumus laju reaksi untuk gas NO2, NO, dan O2!
+b. 
+Jika laju reaksi pembentukan NO adalah 1,6 × 10–4 M.detik–1, tentu-
+kan laju reaksi untuk penguraian NO2 dan laju reaksi pembentukan 
+O2!
+3. 
+Laju reaksi 2A(g) + 3B2(g) 
+ 2AB3(g) ditentukan dengan mengukur 
+perubahan konsentrasi A tiap 10 detik dan diperoleh hasil percobaan 
+sebagai berikut.
+Waktu (detik)
+0
+10
+20
+[A] (mol.l–1)
+0,5
+0,4
+0,325
+Tentukan laju reaksi rata-rata setiap selang waktu!
+C. Persamaan Laju Reaksi dan Orde Reaksi
+1. Persamaan laju reaksi
+Persamaan laju reaksi menghubungkan antara reaksi dan konsentrasi reaktan 
+dengan konstanta.
+pA + qB 
+ rC + sD
+r = k [A]x [B]y
+Keterangan:
+r = laju reaksi (M.detik–1)
+[A] = konsentrasi zat A
+[B] = konsentrasi zat B 
+k = tetapan laju reaksi
+x = orde reaksi zat A
+y = orde reaksi zat B
+x + y = orde reaksi total
+2. Orde reaksi
+Orde reaksi merupakan variabel yang menunjukkan pengaruh konsentrasi 
+pereaksi terhadap laju reaksi.
+166
+Kimia untuk SMA/MA Kelas XI
+a. 
+Orde reaksi nol
+Orde reaksi nol menunjukkan bahwa laju reaksi tidak dipengaruhi oleh 
+konsentrasi larutan.
+Laju reaksi
+Konsentrasi
+Gambar 6.10 Graik orde reaksi nol
+b. 
+Orde reaksi satu
+Orde reaksi satu menunjukkan laju reaksi yang berbanding lurus dengan 
+konsentrasi.
+Laju reaksi
+Konsentrasi
+Gambar 6.11 Graik orde reaksi satu
+c. 
+Orde reaksi dua
+Orde reaksi dua menunjukkan bahwa laju reaksi merupakan pangkat dua 
+dari konsentrasi pereaksi.
+Laju reaksi
+Konsentrasi
+Gambar 6.12 Graik orde reaksi dua
+167
+Bab VI  Kinetika Kimia
+D. Faktor-Faktor yang Memengaruhi Laju Reaksi
+Pernahkah kalian melarutkan garam ke dalam air dingin dan air panas? 
+Mana yang lebih cepat larut? Ya, betul. Garam yang dilarutkan ke dalam air 
+panas lebih cepat larut dibandingkan air dingin. Kalian bisa pahami bahwa 
+ternyata ada faktor-faktor yang memengaruhi laju reaksi. Berikut ini kita akan 
+mempelajari faktor-faktor tersebut.
+1. Konsentrasi
+Untuk memahami pengaruh konsentrasi terhadap laju reaksi, coba lakukan 
+percobaan berikut ini.
+Aktivitas 6.1
+Pengaruh konsentrasi terhadap laju reaksi
+Alat:
+1. 
+Gelas piala 100 ml (3 buah)
+2. 
+Gelas ukur 25 ml (2 buah)
+3. 
+Kertas HVS ukuran 7 cm × 7 cm yang telah diberi tanda  silang mengguna-
+kan spidol sebanyak 1 lembar
+4. 
+Stopwatch
+Bahan:
+1. 
+Larutan HCl 2 M
+2. 
+Larutan Na2S2O3 0,2 M
+3. 
+Larutan Na2S2O3 0,4 M
+4. 
+Larutan Na2S2O3 0,6 M
+Langkah kerja:
+1. 
+Siapkan 3 buah gelas piala 100 ml.
+2. 
+Masukkan 10 ml HCl 2 M ke dalam masing-masing gelas piala. 
+3. 
+Letakkan gelas piala pertama di atas kertas yang sudah diberi tanda silang 
+dan siapkan stopwatch.
+4. 
+Tambahkan 20 ml larutan Na2S2O3 0,2 M ke dalam gelas piala pertama dan 
+hidupkan stopwatch.
+5. 
+Amati perubahan yang terjadi dan catat waktunya sampai tanda silang 
+tidak terlihat.
+168
+Kimia untuk SMA/MA Kelas XI
+6. 
+Ulangi langkah 3 s.d. 5 untuk penambahan 20 ml larutan Na2S2O3 0,4 M 
+ke dalam gelas piala kedua dan 20 ml larutan Na2S2O3 0,6 M ke gelas piala 
+ketiga.
+Hasil pengamatan:
+No.
+10 ml HCl
+20 ml Na2S2O3
+Waktu (detik)
+1.
+2 M
+0,2 M
+2.
+2 M
+0,4 M
+3.
+2 M
+0,6 M
+Pertanyaan:
+1. 
+Berdasarkan percobaan yang telah dilakukan, tentukanlah variabel bebas, 
+variabel kontrol, dan variabel terikat!
+2. 
+Jelaskan hubungan antara jumlah partikel zat terlarut dengan besar 
+konsentrasi!
+3. 
+Bandingkan waktu yang diperlukan ketika kalian mereaksikan larutan 
+HCl 2 M dengan larutan Na2S2O3 0,2 M, 0,4 M, dan 0,6 M!
+4. 
+Tuliskan kesimpulan kalian dari hasil percobaan ini!
+Setelah melakukan percobaan di atas, diskusikan bagaimana pengaruh 
+konsentrasi pereaksi terhadap laju reaksi. Hubungkan dengan teori tumbukan 
+yang sudah kalian pelajari sebelumnya.
+Berdasarkan hasil percobaan dari data perubahan konsentrasi, kita dapat 
+menentukan persamaan laju reaksi dengan menghitung harga orde reaksinya.
+169
+Bab VI  Kinetika Kimia
+Contoh
+Di dalam ruang tertutup direaksikan gas NO dan gas Cl2 menurut reaksi:
+NO(g) + Cl2(g) 
+ NOCl(g)
+Berdasarkan hasil percobaan diperoleh data sebagai berikut.
+No.
+[NO] (M)
+[Cl2] (M)
+Laju reaksi 
+(M.detik–1)
+1.
+0,20 M
+0,05 M
+0,6
+2.
+0,20 M
+0,10 M
+1,2
+3.
+0,40 M
+0,05 M
+2,4
+Berdasarkan data tersebut, tentukanlah:
+a. 
+orde reaksi untuk gas NO
+b. 
+orde reaksi untuk gas Cl2
+c. 
+orde reaksi total
+d. 
+persamaan laju reaksi
+e. 
+harga tetapan laju reaksi (k)
+Pembahasan:
+Hubungan antara konsentrasi pereaksi dengan laju reaksi dinyatakan dalam 
+persamaan:
+r = k [NO]x [Cl2]y
+a. 
+Menentukan orde reaksi untuk gas NO (nilai x)
+Untuk menentukan nilai x maka kita gunakan data 1 dan 3. Pada data 
+1 dan 3, konsentrasi Cl2 dibuat tetap (sebagai variabel kontrol) untuk 
+mengetahui pengaruh konsentrasi gas NO terhadap laju reaksi.
+3
+3
+2 3
+1
+1
+2 1
+ [NO] [Cl ]
+ [NO] [Cl ]
+2,4
+(0,4) (0,05)
+0,6
+(0,2) (0,05)
+4
+2
+2
+x
+y
+x
+y
+x
+y
+x
+y
+x
+r
+k
+r
+k
+x
+
+
+
+
+170
+Kimia untuk SMA/MA Kelas XI
+b. 
+Menentukan orde reaksi untuk gas Cl2 (nilai y)
+Untuk menentukan nilai y maka kita ggunakan data 1 dan 2. Pada data 
+1 dan 2, konsentrasi NO dibuat tetap (sebagai variabel kontrol) untuk 
+mengetahui pengaruh konsentrasi gas Cl2 terhadap laju reaksi.
+2
+2
+2 2
+1
+1
+2 1
+ [NO] [Cl ]
+ [NO] [Cl ]
+1,2
+(0,2) (0,10)
+0,6
+(0,2) (0,05)
+2
+2
+1
+x
+y
+x
+y
+x
+y
+x
+y
+y
+r
+k
+r
+k
+y
+
+
+
+
+c. 
+Orde reaksi total = x + y = 2 + 1 = 3
+d. 
+Persamaan laju reaksinya:
+r = k [NO]2 [Cl2]
+e. 
+Untuk menentukan nilai k, boleh menggunakan data percobaan 1, 2, atau 3.
+Kita gunakan data percobaan 1:
+r = k [NO]2 [Cl2]
+0,6 M.detik–1 = k (0,2 M)2 (0,05 M)
+0,6 M.detik–1 = k . 0,04 M2 . 0,05 M
+0,6 M.detik–1 = k . 0,002 M3
+ 
+ k = 
+1
+3
+0,6 M.detik
+0,002 M
+
+ = 300 M–2.detik–1
+2.  Gas CO2 terbentuk dari reaksi antara gas CO dan gas O2 menurut reaksi:
+2CO(g) + O2(g) 
+ 2CO2(g) 
+Setelah dilakukan percobaan, diperoleh data sebagai berikut.
+a. 
+Jika konsentrasi CO dinaikkan dua kali lipat dan konsentrasi O2 tetap, 
+maka laju reaksi menjadi dua kali lebih besar. 
+b. 
+Jika konsentrasi CO dan O2 masing-masing dinaikkan dua kali lipat, 
+maka laju  reaksi menjadi enam belas kali lebih besar.
+ 
+Tentukan persamaan laju reaksi tersebut!
+Pembahasan:
+2CO(g) + O2(g) 
+ 2CO2(g)
+r = k [CO]x [O2]y
+a. 
+Konsentrasi CO dinaikkan dua kali dan konsentrasi O2 tetap, laju 
+reaksi menjadi dua kali lebih besar.
+171
+Bab VI  Kinetika Kimia
+2
+2
+2 2
+1
+1
+2 1
+ [CO] [O ]
+ [CO] [O ]
+2
+2 . 1
+1
+1 . 1
+2
+2
+1
+x
+y
+x
+y
+x
+y
+x
+y
+x
+r
+k
+r
+k
+x
+
+
+
+
+b. 
+Konsentrasi CO dan O2 masing-masing dinaikkan 2 kali, laju reaksi 
+menjadi 16 kali lebih cepat.
+3
+3
+2 3
+1
+1
+2 1
+ [CO] [O ]
+ [CO] [O ]
+16
+2 . 2
+1
+1 . 1
+16
+2 . 2
+16
+2 . 2
+2
+8
+3
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+y
+y
+r
+k
+r
+k
+y
+
+
+
+
+
+
+Jadi, persamaan laju reaksinya adalah r = k [CO] [O2]3.
+Agar kalian lebih paham tentang pengaruh konsentrasi terhadap laju 
+reaksi, ayo kerjakan latihan berikut.
+Ayo Berlatih
+Sekelompok siswa melakukan percobaan dengan mereaksikan larutan 
+natrium tiosulfat dengan larutan asam klorida menurut reaksi:
+Na2S2O3(aq) + 2HCl(aq) 
+ SO2(g) + S(s) + H2O(l) + 2NaCl(aq)
+Dari hasil percobaan, diperoleh data sebagai berikut.
+No.
+ Na2S2O3 (M)
+HCl (M)
+Laju reaksi (M.detik–1)
+1.
+0,1
+0,03
+0,04
+2.
+0,1
+0,12
+0,16
+3.
+0,03
+0,03
+0,36
+172
+Kimia untuk SMA/MA Kelas XI
+Berdasarkan data tersebut, tentukanlah:
+a. 
+orde reaksi untuk Na2S2O3
+b. 
+orde reaksi untuk HCl
+c. 
+orde reaksi total
+d. 
+persamaan laju reaksi
+e. 
+harga tetapan laju reaksi (k)
+2. Luas permukaan sentuh zat
+Gambar 6.13 Api unggun
+Pernahkah kalian membuat api unggun ketika sedang berkemah? Kalian 
+ingat, kayu bakar yang kalian gunakan untuk membuat api unggun terlebih 
+dahulu dipotong-potong. Mengapa demikian? Agar kalian tahu alasannya, 
+coba lakukan kegiatan di bawah ini. 
+Aktivitas 6.2
+Pengaruh luas permukaan sentuh zat terhadap laju reaksi
+Alat:
+1. 
+Labu erlenmeyer 50 ml (2 buah)
+2. 
+Gelas ukur 50 ml (2 buah)
+173
+Bab VI  Kinetika Kimia
+3. 
+Balon karet (2 buah)
+4. 
+Neraca digital
+5. 
+Kaca arloji
+6. 
+Spatula
+7. 
+Stopwatch
+Bahan:
+1. 
+Larutan HCl 3 M
+2. 
+Butiran CaCO3
+3. 
+Serbuk CaCO3
+Langkah kerja:
+1. 
+Timbang 2 gram butiran CaCO3 lalu masuk kan 
+ke dalam balon karet.
+2. 
+Ukur 10 ml larutan HCl 3 M dan masukkan ke 
+dalam labu erlenmeyer.
+3. 
+Tutup mulut labu erlenmeyer dengan balon 
+yang berisi butiran CaCO3.
+4. 
+Siapkan stopwatch, tuangkan butiran CaCO3 
+ke dalam labu erlenmeyer yang berisi larutan 
+HCl.
+5. 
+Catat waktu dari mulai butiran CaCO3 
+dituangkan sampai balon berdiri tegak.
+6. 
+Ulangi percobaan dengan menggunakan balon yang berisi 2 gram serbuk 
+CaCO3.
+Hasil pengamatan:
+Percobaan
+2 gram CaCO3
+Waktu (detik)
+1
+Butiran
+2
+Serbuk
+Pertanyaan:
+1. 
+Tentukanlah varibel bebas, variabel kontrol, dan variabel terikat dari 
+percobaan ini!
+2. 
+Jelaskan hubungan antara bentuk CaCO3 dengan luas permukaan sentuh 
+zat!
+174
+Kimia untuk SMA/MA Kelas XI
+3. 
+Manakah laju reaksi yang lebih cepat antara bentuk bongkahan dan 
+serbuk?
+4. 
+Tuliskan kesimpulan dari hasil percobaan ini!
+Setelah kalian melakukan percobaan pada Aktivitas 6.2, diskusikan 
+bagaimana pengaruh luas permukaan sentuh zat terhadap laju reaksi. 
+Hubungkan dengan teori tumbukan yang telah dipelajari sebelumnya. Jika 
+kalian mengalami kesulitan, perhatikan penjelasan di bawah ini.
+Kubus berikut diibaratkan bongkahan CaCO3.
+Jika panjang rusuk kubus adalah 2 cm, luas 
+permukaan kubus tersebut adalah 2 cm × 2 cm 
+× 6 = 24 cm2.
+Apabila bongkahan CaCO3 (kubus) tersebut diperkecil menjadi 8 bagian 
+sama besar, maka:
+2 cm
+1 cm
+luas permukaan kubus menjadi = 1 cm × 1 cm × 6 × 8 = 48 cm2.
+Kesimpulannya adalah zat yang memiliki massa sama apabila ukurannya 
+semakin kecil maka luas permukaannya semakin besar.
+2 cm
+175
+Bab VI  Kinetika Kimia
+3. Suhu
+Pernahkah kalian merasakan ketika berada di tempat yang bersuhu panas, 
+seperti di pantai, kalian merasa lebih cepat haus dibanding ketika berada di 
+pegunungan yang suhunya lebih dingin? Mengapa demikian? 
+Agar kalian dapat menjawab pertanyaan tersebut, coba lakukan percobaan 
+berikut.
+Aktivitas 6.3
+Pengaruh suhu terhadap laju reaksi
+Alat:
+1. 
+Gelas piala 100 ml (3 buah)
+2. 
+Gelas ukur 50 ml (2 buah)
+3. 
+Kaki tiga (1 buah)
+4. 
+Kassa (1 buah)
+5. 
+Pembakar spiritus (1 buah)
+6. 
+Termometer (1 buah)
+7. 
+Kertas HVS ukuran 7 cm × 7 cm yang telah diberi tanda silang menggunakan 
+spidol sebanyak 1 lembar
+Bahan:
+1. 
+Larutan HCl 2 M
+2. 
+Larutan Na2S2O3 0,2 M
+Langkah kerja:
+1. 
+Ukur larutan Na2S2O3 0,2 M sebanyak 20 ml menggunakan gelas ukur, 
+masukkan ke dalam gelas piala pertama.
+2. 
+Letakkan gelas piala tersebut di atas kertas HVS yang sudah diberi tanda 
+silang.
+3. 
+Ukur larutan HCl 2 M sebanyak 10 ml menggunakan gelas ukur,
+4. 
+Sebelum mencampurkan larutan HCl, ukur suhu larutan Na2S2O3 0,2 M 
+(suhu ruangan) terlebih dahulu dan catat.
+5. 
+Tuangkan larutan HCl ke dalam gelas piala dan hidupkan stopwatch.
+6. 
+Amati dan catat waktunya sejak penambahan larutan HCl sampai tanda 
+silang tidak terlihat lagi.
+176
+Kimia untuk SMA/MA Kelas XI
+7. 
+Sekarang, lakukan percobaan yang berbeda pada 
+gelas piala kedua. Ukur 20 ml larutan Na2S2O3 
+0,2 M dan masukkan ke dalam gelas piala kedua. 
+Panaskan hingga suhu 40°C lalu letakkan di atas 
+kertas HVS yang sudah diberi tanda silang.
+8. 
+Ukur larutan HCl 2 M sebanyak 10 ml meng-
+gunakan gelas ukur.
+9. 
+Sebelum mencampurkan larutan HCl, ukur suhu 
+larutan Na2S2O3 0,2 M terlebih dahulu dan catat 
+sebagai suhu reaksi.
+10. Tuangkan larutan HCl ke dalam gelas piala dan 
+hidupkan stopwatch.
+11. Amati dan catat waktunya sejak penambahan 
+larutan HCl sampai tanda silang tidak terlihat lagi.
+12. Ulangi langkah ke-7 s.d. 11 dengan memanaskan larutan Na2S2O3 hingga 
+suhu 60°C.
+Hasil pengamatan:
+Gelas Piala
+Volume 
+HCl 2 M
+Volume 
+Na2S2O3 0,2 M
+Suhu 
+Na2S2O3 0,2 M
+Waktu (detik)
+1
+10 ml
+20 ml
+2
+10 ml
+20 ml
+3
+10 ml
+20 ml
+Pertanyaan:
+1. 
+Berdasarkan percobaan yang telah kalian lakukan, tentukan variabel 
+bebas, variabel kontrol, dan variabel terikatnya!
+2. 
+Bandingkan waktu yang diperlukan untuk bereaksi pada setiap suhu 
+percobaan!
+3. 
+Buatlah kesimpulan dari hasil percobaan yang kalian dapat!
+Setelah kalian melakukan percobaan di atas, diskusikan bagaimana 
+pengaruh suhu terhadap laju reaksi. Hubungkan dengan teori tumbukan yang 
+telah dipelajari sebelumnya. 
+177
+Bab VI  Kinetika Kimia
+Bagaimana penjelasan kalian mengenai pertanyaan awal tentang 
+perbedaan kondisi tubuh kita ketika berada di pantai dan pegunungan 
+dihubungkan dengan pengaruh suhu terhadap laju reaksi? 
+Laju reaksi bertambah cepat jika suhu dinaikkan. Berdasarkan hasil 
+percobaan, laju reaksi pada umumnya akan naik dua kali lipat setiap kenaikan 
+suhu sebesar 10°C.
+Contoh
+Suatu reaksi kimia berlangsung pada suhu 25°C. Setiap suhu dinaikkan 10°C, 
+laju reaksi menjadi dua kali lebih cepat. Jika pada suhu 25°C laju reaksinya 
+sebesar 0,12 M.detik-1, berapakah besar laju reaksi pada saat suhu 55°C?
+Pembahasan:
+T1 = 25°C; T2 = 55°C
+rawal = 0,12 M.detik–1
+Setiap suhu dinaikkan 10°C, laju reaksi menjadi dua kali lebih cepat.
+rakhir = …?
+No.
+Suhu (°C)
+Laju reaksi 
+(M.detik–1)
+Keterangan
+1.
+25
+0,12
+2.
+35
+0,24
+2 kali percobaan 1 
+3.
+45
+0,48
+2 kali percobaan 2 atau 4 kali percobaan 1
+4.
+55
+0,9
+2 kali percobaan 3 atau 8 kali percobaan 1
+Dari data di atas dapat dituliskan kalimat matematikanya sebagai berikut.
+2
+2
+2
+2
+1
+10
+akhir
+awal
+55 25
+10
+1
+1
+3
+1
+0,12 M.detik
+0,12 M.detik
+0,96 M.detik
+T
+T
+r
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jadi, laju reaksi pada saat suhu 55°C adalah 0,96 M.detik–1.
+178
+Kimia untuk SMA/MA Kelas XI
+Agar kalian lebih memahami pengaruh suhu terhadap laju reaksi, silakan 
+kalian berlatih soal-soal berikut ini.
+Ayo Berlatih
+1. 
+Sekelompok siswa melakukan percobaan mengenai laju reaksi. Dari 
+hasil percobaan diperoleh data bahwa setiap kenaikan suhu 20°C, laju 
+reaksi menjadi 3 kali lebih cepat dari semula. Jika pada suhu 20°C laju 
+reaksi berlangsung selama 15 menit, hitunglah waktu yang dibutuhkan 
+untuk bereaksi pada suhu 80°C!
+2. 
+Setiap kenaikan suhu 10°C, percepatan reaksi menjadi 2 kali lebih 
+cepat. Jika pada suhu 30°C laju reaksinya sebesar a, hitunglah laju 
+reaksi pada suhu 100°C!
+4. Katalis
+Katalis adalah zat yang mampu mempercepat laju reaksi. Katalis ikut bereaksi, 
+tetapi di akhir reaksi, katalis terbentuk kembali seperti semula. Katalis dapat 
+mempercepat laju reaksi dengan cara membuat mekanisme reaksi alternatif 
+dengan harga energi aktivasi yang lebih rendah. Dengan rendahnya energi 
+aktivasi maka tumbukan berlangsung lebih maksimal dan reaksi berlangsung 
+lebih cepat.
+Contoh: H2(g) + Cl2(g) 
+ 2HCl(g)
+Energi 
+potensial
+H2(g) + Cl2(g)
+2HCl(g)
+Ea
+Ea'
+Gambar 6.14 Graik energi aktivasi tanpa katalis (kurva hitam) 
+dan dengan katalis (kurva biru)
+179
+Bab VI  Kinetika Kimia
+Pada Gambar 6.14 tampak bahwa energi aktivasi reaksi tanpa katalis 
+nilainya lebih besar daripada dengan bantuan katalis. Dengan demikian, 
+reaksi akan berlangsung lebih cepat dengan bantuan katalis.
+Agar kalian lebih memahami peran katalis dalam reaksi, silakan lakukan 
+percobaan berikut.
+Aktivitas 6.4
+Pengaruh katalis terhadap laju reaksi
+Alat:
+1. 
+Labu erlenmeyer 250 ml (1 buah)
+2. 
+Gelas ukur 50 ml (1 buah)
+3. 
+Spatula
+4. 
+Stopwatch
+Bahan:
+1. 
+Larutan H2O2 3%
+2. 
+Serbuk KI
+3. 
+Sabun pencuci piring
+Langkah kerja:
+1. 
+Ukur volume H2O2 3% sebanyak 50 ml dengan menggunakan gelas ukur, 
+lalu masukkan ke dalam labu erlenmeyer.
+2. 
+Masukkan 1 sendok teh sabun pencuci piring ke dalam labu erlenmeyer 
+yang berisi H2O2 3%.
+3. 
+Amati banyak gelembung yang tampak pada labu erlenmeyer.
+4. 
+Setelah 2 menit, masukkan serbuk KI sebanyak 1 sendok spatula ke dalam 
+labu erlenmeyer tersebut, amati banyak gas yang terbentuk.
+Hasil pengamatan:
+No.
+Campuran Zat
+Gelembung
+1.
+H2O2 + sabun
+2.
+H2O2 + sabun + KI
+180
+Kimia untuk SMA/MA Kelas XI
+Pertanyaan:
+1. 
+Bandingkan banyaknya gelembung pada percobaan 1 dan 2!
+2. 
+Apa fungsi dari KI pada reaksi tersebut?  
+3. 
+Tuliskan kesimpulan dari hasil percobaan ini!
+Setelah kalian melakukan percobaan di atas, silakan diskusikan dengan 
+teman-teman, bagaimana pengaruh penambahan KI dihubungkan dengan 
+fungsi katalis pada laju reaksi.
+Pengayaan
+Papain merupakan enzim proteolitik yang terkandung dalam pepaya. Papain 
+sering digunakan untuk melunakkan daging dan menggumpalkan susu pada 
+pembuatan keju. Aktivitas enzim dapat memberikan pengaruh jika berada 
+pada suhu dan pH yang optimum, yaitu sekitar 50–60°C dan pH netral sekitar 
+6–8. Tugas kalian adalah mencari informasi mengenai bagaimana enzim 
+papain dapat mengempukkan daging serta sifat kimia dan isikanya.
+Inti Sari
+Reaksi kimia terjadi karena adanya tumbukan efektif antarpartikel yang 
+bereaksi. Tumbukan efektif terjadi jika partikel reaktan memiliki energi 
+aktivasi. Energi aktivasi merupakan energi tumbukan minimum yang 
+dibutuhkan agar reaksi dapat berlangsung sehingga terbentuk molekul 
+baru.
+Reaksi kimia dapat berlangsung cepat atau lambat. Laju reaksi kimia 
+dipengaruhi oleh beberapa faktor, yaitu konsentrasi reaktan, suhu, luas 
+permukaan sentuh zat, dan katalis. 
+Laju reaksi merupakan perubahan konsentrasi zat tiap satuan waktu. 
+Untuk laju reaksi: 2A + B 
+ A2B, persamaan laju reaksinya dinyatakan 
+dengan: r = k [A]x [B]y. 
+181
+Bab VI  Kinetika Kimia
+Keterangan:
+r = laju reaksi
+[A] = konsentrasi zat A
+[B] = konsentrasi zat B
+x = orde reaksi terhadap zat A
+y = orde reaksi terhadap zat B
+x + y = orde reaksi total
+Ayo Releksi
+Setelah mempelajari materi Kinetika Kimia, silakan kalian mereleksi diri. 
+Berilah ceklis (√) pada kolom Ya/Tidak untuk pernyataan di bawah ini.
+No.
+Pernyataan
+Tanggapan
+Ya
+Tidak
+1.
+Apakah kalian mampu menjelaskan teori tumbukan 
+dengan reaksi kimia?
+2.
+Apakah kalian mampu menjelaskan bagaimana 
+pengaruh suhu, konsentrasi, luas permukaan sentuh zat, 
+dan katalis terhadap laju reaksi dihubungkan dengan 
+teori tumbukan?
+3.
+Apakah kalian dapat menentukan harga orde reaksi 
+berdasarkan data hasil percobaan berupa perubahan 
+konsentrasi reaktan?
+4.
+Apakah kalian mampu menganalisis penerapan konsep 
+laju reaksi dalam kehidupan sehari-hari?
+Menurut kalian, materi manakah yang sulit untuk dipahami dalam bab 
+Kinetika Kimia? Jelaskan alasannya!
+182
+Kimia untuk SMA/MA Kelas XI
+Ayo Cek Pemahaman
+Pilihlah jawaban yang paling tepat!
+Data berikut digunakan untuk menyelesaikan soal nomor 1 dan 2. 
+Di dalam laboratorium suatu sekolah, beberapa pelajar sedang melakukan 
+percobaan mengenai laju reaksi sebagai berikut.
+1. 
+Berdasarkan gambar percobaan di atas, laju reaksi yang dipengaruhi  oleh 
+konsentrasi pereaksi adalah percobaan nomor ….
+a. 
+1 dan 2
+b. 
+2 dan 4
+c. 
+1 dan 3
+d. 
+3 dan 4
+e. 
+1 dan 4
+2. 
+Laju reaksi yang dipengaruhi oleh luas permukaan sentuh zat pereaksi 
+adalah percobaan nomor ….
+a. 
+1 dan 2
+b. 
+2 dan 4
+c. 
+1 dan 3
+d. 
+3 dan 4
+e. 
+1 dan 4
+3. 
+Berikut adalah salah satu langkah pembuatan asam nitrat dari amonia.
+4NH3(g) + 5O2(g) 
+ 4NO(g) + 6H2O(l)
+Bila uap air terbentuk dengan laju sebesar 0,024 mol.menit–1, maka pada 
+saat yang sama, laju penguraian amonia adalah ….
+183
+Bab VI  Kinetika Kimia
+a. 
+0,016 mol.menit–1
+b. 
+0,020 mol.menit–1
+c. 
+0,029 mol.menit–1
+d. 
+0,030 mol.menit–1
+e. 
+0,036 mol.menit–1
+4. 
+Pada suatu reaksi, penambahan dan pengurangan jumlah zat pereaksi 
+tidak berpengaruh terhadap besarnya laju reaksi. Berdasarkan data 
+tersebut, dapat disimpulkan bahwa orde reaksi terhadap pereaksi tersebut 
+adalah ….
+a. 
+4 
+d. 
+1
+b. 
+3 
+e. 
+0
+c. 
+2
+5. 
+Suatu reaksi berlangsung selama 12 menit pada suhu t°C. Apabila suhu 
+reaksi dinaikkan setiap 10°C, reaksi berlangsung menjadi dua kali lebih 
+cepat. Waktu yang diperlukan untuk bereaksi pada suhu (t + 20)°C adalah 
+….
+a. 
+4 menit
+b. 
+3 menit
+c. 
+2 menit
+d. 
+1,5 menit
+e. 
+1 menit
+Jawablah pertanyaan di bawah ini dengan tepat!
+1. 
+Sebanyak 2 mol gas NO2 dimasukkan ke dalam bejana dengan volume 5 
+liter pada tekanan tertentu dan mengalami penguraian menjadi gas NO 
+dan O2. Setelah 2 jam, ternyata masih tersisa 0,5 mol gas NO2. 
+Tentukanlah:
+a. 
+laju reaksi pembentukan gas NO
+b. 
+laju reaksi pembentukan gas O2
+c. 
+laju reaksi penguraian gas NO2
+2. 
+Pada reaksi: P + Q 
+ PQ, diperoleh data sebagai berikut.
+a. 
+Jika konsentrasi P dinaikkan dua kali, sementara konsentrasi Q tetap, 
+maka laju reaksi naik empat kali lipat.
+b. 
+Jika konsentrasi P dan Q masing-masing dinaikkan dua kali maka laju 
+reaksi naik menjadi delapan kali lipat.
+184
+Kimia untuk SMA/MA Kelas XI
+Tentukanlah:
+a. 
+orde reaksi untuk zat P
+b. 
+orde reaksi untuk zat Q
+c. 
+rumus laju reaksi
+3. 
+Dilakukan percobaan penentuan laju reaksi dengan mengukur jumlah 
+mol MgCl2 yang terbentuk melalui reaksi berikut.
+Mg(OH)2(aq) + 2HCl(aq) 
+ MgCl2(s) + 2H2O(l)
+Data hasil percobaannya:
+No.
+[Mg(OH)2] (M)
+[HCl] (M)
+Laju reaksi (M.detik–1 )
+1.
+0,030
+0,15
+1,25 × 10–3
+2.
+0,030
+0,30
+5,00 × 10–3
+3.
+0,015
+0,30
+2,50 × 10–3
+Berdasarkan data di atas, tentukanlah:
+a. 
+orde reaksi Mg(OH)2 dan HCl
+b. 
+rumus laju reaksi
+c. 
+harga tetapan laju reaksi
+d. 
+harga laju reaksi jika Mg(OH)2 dan HCl yang bereaksi masing-masing 
+sebesar 0,06 M dan 0,30 M

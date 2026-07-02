@@ -1,0 +1,3320 @@
+Bab III
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian diharapkan mampu mendeskripsikan 
+transformasi geometri terhadap bidang koordinat dan menerapkannya dalam 
+permasalahan nyata. Selain itu, kalian juga diharapkan mampu menjelaskan 
+sifat-sifat kekongruenan bangun datar berdasarkan transformasi geometri. 
+Transformasi 
+Geometri
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA, 2022
+Matematika    
+untuk SMP/MTs Kelas IX
+Penulis:  Yosep Dwi Kristanto, dkk
+ISBN:  978-602-427-918-9 (jil.3)
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+136
+Ayo Bersiap Belajar!
+Banyak 
+konsep 
+geometri 
+telah 
+ditemukan oleh matematikawan, salah 
+satunya 
+mengenai 
+konsep 
+simetris. 
+Hampir 
+semua 
+tumbuhan, 
+hewan, 
+atau bahkan manusia memiliki bentuk 
+yang simetri. Bentuk simetri tersebut 
+kemudian banyak diadopsi pada bidang 
+seni, arsitektur, dan teknologi.
+Pada sebuah karya seni, kalian dapat 
+menjumpai bentuk-bentuk simetri pada 
+desain batik yang merupakan salah 
+satu warisan budaya Indonesia. Sebagai 
+contoh Batik Kawung dari Yogyakarta (Gambar 3.1). Selain batik, kita 
+juga memiliki warisan budaya lain, salah satunya adalah rumah adat. 
+Banyak arsitektur rumah adat yang menerapkan konsep simetri. Salah 
+satunya adalah rumah adat Minangkabau di Padang yang akan kita 
+bahas pada subbab kekongruenan. Motif batik ataupun bangunan 
+rumah adat yang terlihat simetris tersebut pada umumnya merupakan 
+hasil perubahan bentuk-bentuk geometri sederhana. Perubahan 
+tersebut pada matematika disebut sebagai transformasi geometri. 
+Di dalam bab ini, kalian akan mempelajari berbagai macam 
+transformasi geometri pada bidang koordinat, diantaranya translasi 
+(pergeseran), refleksi (pencerminan) terhadap titik dan garis, rotasi 
+(perputaran), dan dilatasi. Selain transformasi, kita juga akan 
+mempelajari tentang bangun kongruen yang dipandang sebagai hasil 
+dari transformasi geometri.
+A. 	 Translasi (Pergeseran)
+Pernahkah kalian memperhatikan pergerakan suatu benda di sekitar 
+kalian? Misalnya pergerakan motor di jalan raya, pergerakan seseorang 
+yang sedang berjalan, atau pergerakan pion pada permainan catur. 
+Gambar 3.2 memperlihatkan seorang siswa yang sedang menggeser 
+bangku. Jika gerakan pada bangku tersebut kita amati, terlihat seluruh 
+Gambar 3.1 Batik Kawung
+Sumber: Afrida Icha Lavira/Duta Museum 
+DIY (2022)
+ Bab III - Transformasi Geometri 137
+bagian pada bangku bergeser dengan 
+ukuran jarak dan arah tertentu. Aktivitas 
+dalam 
+menggeser 
+bangku 
+tersebut 
+merupakan salah satu contoh translasi 
+(pergeseran).
+Untuk 
+memahami 
+lebih 
+dalam 
+mengenai translasi, ayo lakukan aktivitas 
+eksplorasi berikut.
+Eksplorasi
+3.1 	 Translasi Bangun 
+Datar
+Untuk melakukan aktivitas ekplorasi ini, terlebih dahulu kalian 
+siapkan kertas berpetak dan gunting. Setelah siap, lakukan langkah-
+langkah berikut:
+	
+Jiplak layang-layang ABCD pada kertas kemudian gunting. 
+Letakkan potongan tersebut tepat di atas layang-layang 
+.
+ABCD 
+Selanjutnya geser potongan layang-layang mengikuti ruas garis 
+berarah 
+)
+(
+AE AE .
+ .
+Gambar 3.3 Translasi layang-layang A ke B
+B	 Apakah ada bagian pada layang-layang EFGH yang tidak 
+tertutup oleh potongan layang-layang ABCD ?
+C 	Selain 
+,
+AE gambarkan semua ruas garis berarah yang mewakili 
+pergeseran potongan layang-layang ABCD ke layang-layang 
+!
+EFGH
+Gambar 3.2 Penerapan 
+Translasi
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+138
+D	 Bagaimana hubungan sisi AB pada layang-layang ABCD dan 
+sisi EF pada layang-layang EFGH ? Bagaimana dengan sisi-sisi 
+yang lainnya?
+E 	Bagaimana bentuk dan ukuran layang-layang ABCD dan EFGH ?
+F 	Gambarkan layang-layang PQRS yang pergeserannya diwakili 
+oleh AP .
+Gambar 3.4 Translasi layang-layang A
+G 	Diberikan 2 buah bangun datar seperti terlihat pada Gambar 
+3.5.
+Gambar 3.5 Bangun Datar PQRS dan TUVW
+Apakah bangun datar TUVW merupakan hasil dari translasi 
+bangun datar PQRS? Jelaskan.
+Kalian juga dapat melakukan aktivitas yang sama dengan Eksplorasi 
+3.1 secara digital melalui Aktivitas Interaktif berikut.
+ Bab III - Transformasi Geometri 139
+Aktivitas Interaktif
+Untuk membantu pemahaman kalian tentang 
+translasi, ayo kunjungi tautan:
+http://ringkas.kemdikbud.go.id/translasi
+atau kalian juga dapat pindai kode QR nya.
+Berdasarkan Eksplorasi 3.1, Gambar 3.3 menunjukkan layang-
+layang ABCD yang terletak pada bidang ditranslasi (digeser) sampai 
+menempati layang-layang EFGH . Dengan demikian, semua titik yang 
+terdapat pada layang-layang ABCD ditranslasi hingga menempati 
+layang-layang EFGH dengan jarak dan arah tertentu. Perpindahan 
+tersebut diwakili oleh ruas garis berarah AE . Panjang AE mewakili 
+besar perpindahan sedangkan arah panahnya menunjukkan arah 
+perpindahan.
+Definisi
+3.1 	 Translasi (Pergeseran)
+Translasi (pergeseran) adalah perubahan posisi suatu objek (titik, 
+garis, atau bangun) dengan jarak dan arah tertentu.
+Suatu translasi dapat diwakili oleh sebuah garis berarah.
+Selain 
+menggunakan 
+ruas 
+garis 
+berarah, 
+kita 
+juga 
+dapat 
+menyatakan suatu translasi sebagai 
+pasangan bilangan dalam bentuk 
+b
+a
+b
+l dengan nilai a menyatakan 
+komponen mendatar (horizontal) 
+dan nilai b menyatakan komponen 
+tegak (vertikal). 
+Gambar 3.6 Ilustrasi translasi titik A ke 
+Titik B
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+140
+Perhatikan Gambar 3.6. AB mewakili translasi 
+2
+4
+b
+l, artinya 
+translasi tersebut memindahkan titik pada bidang dengan tahapan 
+berikut:
+4 satuan ke kanan (positif), 2 satuan ke atas (positif).  
+4 dan 2 adalah komponen translasi dengan 4 sebagai komponen 
+pertama dan 2 sebagai komponen kedua. 
+Apabila translasinya kita ubah arah dari titik B ke titik A, 
+nilai translasinya menjadi 
+2
+4
+-
+-
+b
+l yang artinya translasi tersebut 
+memindahkan titik dengan tahapan 4 satuan ke kiri (negatif) kemudian 
+2 satuan ke bawah (negatif).
+Berdasarkan informasi tersebut, dapat disimpulkan bahwa translasi 
+b
+a
+b
+l memindahkan titik dengan aturan berikut:
+a.	 a satuan ke kanan jika a>0 atau  a satuan ke kiri jika a<0.
+b.	 b satuan ke atas jika b>0 atau b satuan ke bawah jika b<0.
+Selanjutnya, pahamilah Sifat 3.1 untuk menentukan koordinat titik 
+hasil translasi b
+a
+b
+l terhadap titik A(x, y).
+S i fa t
+3.1  Translasi sebuah Titik Koordinat
+Bayangan titik A(x, y) oleh translasi b
+a
+b
+l  adalah A'(x+a, y+b)
+Gambar 3.7 Ilustrasi Translasi Titik A(x, y) oleh 
+b
+a
+b
+l
+Untuk memahami translasi pada bidang koordinat, ayo cermati 
+contoh berikut!
+ Bab III - Transformasi Geometri 141
+Contoh
+3.1
+Mentranslasikan sebuah Bangun Datar
+Sebuah persegi ABCD dengan A(1,1), B(3,1), C(3,3), dan D(1,3) 
+ditranslasikan sejauh 4 satuan ke kiri dan 2 satuan ke atas.
+a.	 Nyatakan kasus di atas dalam bentuk translasi b
+a
+b
+l!
+b.	 Tentukan bayangan hasil translasi persegi ABCD!
+c.	
+Gambarkan persegi ABCD beserta bayangannya pada bidang 
+koordinat!
+Alternatif Penyelesaian 
+a.	 Translasi sejauh 4 satuan ke kiri dan 2 satuan ke atas dapat 
+dinyatakan dalam bentuk 
+2
+4
+-
+b
+l.
+b.	 Cara memperoleh hasil translasi persegi ABCD oleh 
+2
+4
+-
+b
+l
+adalah dengan menentukan hasil translasi titik-titik sudut dari 
+persegi ABCD.
+Titik Awal
+Translasi
+Titik Bayangan
+A(1,1)
+2
+4
+-
+b
+l
+A'(1+(-4),1+2)=A'(-3,3)
+B(3,1)
+B'(3+(-4),1+2)=B'(-1,3)
+C(3,3)
+C'(3+(-4),3+2)=C'(-1,5)
+D(1,3)
+D'(1+(-4),3+2)=D'(-3,5)
+c.
+	
+Gambar 3.8 Translasi Persegi ABCD
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+142
+ A(-1,2), B(2,-1), dan C(-2,-2) adalah koordinat titik-titik 
+sudut ΔABC. Tentukan bayangan ΔABC oleh translasi 
+1
+5
+-
+b
+l! 
+Gambarkan ΔABC beserta bayangannya!	
+Setelah kalian memahami bagaimana langkah-langkah dalam 
+mentranslasikan bangun datar pada bidang koordinat, selanjutnya 
+cermati Contoh 3.2 untuk melihat bagaimana cara mentranslasikan 
+sebuah persamaan garis lurus.
+Contoh
+3.2
+Mentranslasikan sebuah Garis Lurus
+Tentukan hasil translasi garis lurus 2x+3y=6 oleh 
+4
+3
+-
+b
+l!
+Alternatif Penyelesaian 
+Untuk memperoleh hasil translasi garis lurus 2x+3y=6 oleh 
+,
+4
+3
+-
+b
+l
+kita dapat mengambil terlebih dahulu dua buah titik pada garis 
+tersebut, misalkan titik potong 2x+3y=6 pada sumbu x dan 
+sumbu y.
+Tabel 3.2 Dua Titik Pada 2x+3y=6
+Selanjutnya, dicari hasil translasi 
+4
+3
+-
+b
+lterhadap titik (3,0) dan titik 
+(0,2), yaitu:
+Ayo Mencoba
+2x+3y=6
+x
+3
+0
+y
+0
+2
+(x, y)
+(3,0)
+(0,2)
+ Bab III - Transformasi Geometri 143
+Tabel 3.3 Translasi Titik (3,0) dan (0,2) oleh 
+4
+3
+-
+b
+l
+Titik Awal
+Translasi
+Bayangan
+(3,0)
+4
+3
+-
+b
+l
+(6,-4)
+(0,2)
+(3,-2)
+Dari titik bayangan tersebut, dibuat persamaan garis lurusnya, yaitu
+y
+x
+y
+x
+y
+x
+y
+x
+x
+y
+2
+4
+4
+3
+6
+6
+2
+4
+3
+6
+3
+4
+2
+6
+3
+12
+2
+12
+2
+3
+0
+-
+- -
+- -
+=
+-
+-
++
+=
+-
+-
+-
++
+=
+-
+-
+-
+=
+-
++
+=
+^
+^
+^
+^
+^
+h
+h
+h
+h
+h
+–1
+–1
+1
+2
+3
+4
+5
+6
+–4
+–4
+–3
+–3
+–2
+–2
+–1
+–1
+1
+2
+0
+Gambar 3.9 Translasi Persamaan Garis 2x+3y=6
+Jadi, hasil translasi 
+4
+3
+-
+b
+l pada garis 2x+3y=6 adalah garis 
+2x+3y=0.
+Tentukan hasil translasi garis lurus 3x-2y=12 oleh 
+3
+4
+-
+b
+l!
+	
+Latihan
+A
+Translasi
+Pemahaman Konsep
+B	 Tentukan apakah gambar yang berwarna biru merupakan hasil 
+translasi gambar berwarna merah. Berikan alasanmu.
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+144
+a.	
+	
+	
+d.   
+b.	
+	 	
+e.   
+c.	
+	 	
+f.   
+Gambar 3.10 Pasangan Bangun Datar 
+C	 Benar/Salah. Translasi sejauh 4 
+satuan ke kanan dari 3 satuan ke 
+bawah dapat dinotasikan sebagai 
+4
+3
+e o.
+D	 Benar/Salah. Bayangan titik A(3,2) 
+yang 
+ditranslasikan 
+oleh 
+3
+5
+-
+e
+o 
+adalah A'(0,7).
+E	 Translasikan segi empat EFGH 
+pada Gambar 3.11 sejauh 3 satuan 
+ke kanan dan 2 satuan ke bawah.
+Penerapan Konsep
+F	 Bayangan titik A(-2,5) oleh 
+4
+3
+-
+e
+o adalah …
+a.	 A'(2,2)	
+c.	 A'(-2,8)
+b.	 A'(-6,8)	
+d.	 A'(-6,-8)
+Gambar 3.11 Translasi segi empat 
+EFGH
+ Bab III - Transformasi Geometri 145
+G	 Diketahui titik A(3,-2) dan B(9,11). Arah translasi titik A ke titik 
+B adalah …
+a.	
+6
+13
+e
+o	 	
+	
+c.	
+13
+6
+-
+e
+o
+b.	
+6
+13
+-
+e
+o	
+	
+d.	
+13
+6
+-
+e
+o
+H	 Sebuah layang-layang KLMN memiliki koordinat K(8,6), L(10,8), 
+M(12,6) dan N(10,2). Jika layang-layang tersebut ditranslasikan 
+oleh 
+5
+1
+-
+e
+o, tentukan koordinat bayangannya dan gambarkan 
+bayangannya pada bidang koordinat!
+I	 Segitiga PQR ditranslasikan sehingga menghasilkan bayangan 
+STU. Diketahui P(-1,2), Q(3,-2), S(2,-3), dan U(3,4), tentukan 
+koordinat T dan R. Tentukan pula translasinya.
+J	 Diketahui segitiga ABC dengan A(0,-3), B(2,2) dan C(4,5) 
+ditranslasikan sehingga bayangannya adalah A'(-2,1). Tentukan 
+translasinya serta koordinat titik B' dan C'.
+K	 Seorang polisi yang berada di titik 
+Q hendak menangkap seorang 
+pencuri 
+yang 
+bersembunyi 
+di 
+komplek perumahan. Berdasarkan 
+pemantauan, 
+diketahui 
+bahwa 
+pencuri bersembunyi di titik P 
+dan hendak kabur menuju titik R 
+seperti pada Gambar 3.12.
+a.	 Tentukan pasangan bilangan 
+sebagai translasi perpindahan 
+pencuri dari titik P menuju titik 
+R.
+b.	 Jika polisi tersebut mengguna­
+kan translasi yang sama dengan translasi kaburnya pencuri, 
+apakah polisi dapat menangkap pencuri tersebut?
+c.	
+Tentukan pasangan bilangan sebagai translasi yang harus 
+dilakukan polisi tersebut agar dapat menangkap pencuri itu.
+Gambar 3.12 Titik Koordinat 
+Polisi dan Pencuri
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+146
+B.	 Refleksi (Pencerminan)	
+Kalian tentunya pernah bercermin. Saat 
+kalian amati bayangan yang ada pada 
+cermin, kalian akan dapati bayangan 
+tersebut 
+memiliki 
+orientasi 
+yang 
+berbeda dengan objek nyatanya. Untuk 
+membuktikannya, cobalah kalian berdiri 
+di depan cermin sambil mengangkat 
+tangan kanan. Apa yang terlihat pada 
+bayangan? Tangan mana yang terangkat? 
+Pada bayangan akan terlihat tangan kiri 
+yang terangkat. Adakah sifat lainnya 
+yang kalian ketahui?
+Pada 
+subbab 
+ini, 
+dengan 
+menggunakan sifat-sifat pada refleksi 
+(pencerminan), kalian akan mempelajari 
+bagaimana cara untuk merefleksikan 
+suatu objek (titik, garis, atau bangun datar) pada bidang koordinat. 
+Namun, untuk memahami pengertian refleksi, kalian perlu mengingat 
+kembali pengertian dari garis sumbu. Apa itu garis sumbu? Ayo 
+perhatikan Gambar 3.14 !
+Pada Gambar 3.14, dapat kita amati 
+bahwa garis sumbu (l) merupakan garis 
+yang memotong tegak lurus suatu ruas garis 
+(AB) menjadi dua bagian yang sama panjang.
+Untuk 
+lebih 
+memahami 
+mengenai 
+garis sumbu dan sifat-sifat refleksi, cobalah 
+kerjakan Eksplorasi 3.2!
+Eksplorasi
+3.2 	 Menentukan Posisi Titik pada Lipatan 
+Kertas
+Siapkan selembar kertas, kemudian lipat menjadi 2 bagian sama 
+besar. Lukiskan garis pada lipatan dengan pensil/pulpen seperti 
+terlihat di langkah 1,2, dan 3 pada Gambar 3.15.
+Gambar 3.13 Aktivitas Bercermin
+Gambar 3.14 Garis Sumbu
+ Bab III - Transformasi Geometri 147
+Gambar 3.15 Aktivitas Melipat Kertas
+Dalam 
+keadaan 
+terlipat, 
+lubangi 
+kertas 
+tersebut 
+dengan 
+menggunakan jarum seperti pada langkah (4), kemudian buka 
+lipatannya. Tandai kedua lubang tersebut dengan menggunakan 
+pensil/pulpen, misalkan A dan B. Selanjutnya gambarkan ruas garis 
+yang menghubungkan kedua lubang tersebut.
+B	 Menurut kalian, bagaimana hubungan antara ruas garis AB 
+dengan garis lipatan? 
+C	 Pada ruas garis AB, di mana letak titik potong garis lipatan 
+dengan ruas garis AB tersebut? Ukurlah jarak masing-masing 
+titik A dan titik B terhadap garis lipatan!
+D	 Coba amati 4 (empat) Gambar 3.16. Jika l merupakan garis lipatan 
+kertas dan titik A, B merupakan posisi lubang, menurut kalian, 
+manakah gambar yang menunjukkan kondisi yang benar?
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+148
+Gambar 3.16 Hubungan Titik A dan Titik B Terhadap Garis l.
+Dari Eksplorasi 3.2, kalian secara tidak langsung telah mempelajari 
+sifat-sifat pada pencerminan melalui aktivitas melipat kertas. Kalian 
+dapat menyatakan garis lipatan l sebagai cermin serta memandang 
+titik A sebagai titik asal dan titik B sebagai bayangannya. 
+Untuk memahami lebih jauh mengenai refleksi, ayo pahami Definisi 
+3.2 berikut.
+Definisi
+3.2 	Refleksi Titik Terhadap Garis
+•	 	 Titik A direfleksikan terhadap garis l menghasilkan bayangan 
+B maka garis l tersebut tegak lurus terhadap ruas garis AB dan 
+membagi ruas garis tersebut menjadi dua bagian yang sama 
+panjang. 
+•	 	 Untuk selanjutnya garis l disebut garis refleksi.
+Cermati Gambar 3.17. Gambar 3.17(i) menunjukkan refleksi titik 
+A terhadap sebuah cermin dan titik A' merupakan bayangannya. 
+Sedangkan Gambar 3.17(ii) menunjukkan bentuk abstrak Gambar 
+3.17(i) dengan garis l merupakan garis refleksi.
+ Bab III - Transformasi Geometri 149
+Gambar 3.17 Ilustrasi Refleksi Titik Terhadap Garis (Cermin)
+Berdasarkan ilustrasi Gambar 3.17 dan aktivitas pada Eksplorasi 3.2, 
+diperoleh sifat-sifat pada refleksi titik terhadap garis l sebagai berikut.
+ S i fa t
+3.2   Sifat Refleksi Titik Terhadap Garis
+1.		 Jarak titik asal A terhadap garis refleksi sama dengan 
+jarak bayangan A' terhadap garis refleksi .
+2.		 Garis yang menghubungkan titik asal dan bayangan, yaitu 
+AA', tegak lurus terhadap garis refleksi.
+Selanjutnya, bagaimana jika objek yang direfleksikan berupa ruas 
+garis? Perhatikan Gambar 3.18. 
+Gambar 3.18 Refleksi Garis
+Ruas garis AB pada Gambar 3.18(i) akan direfleksikan terhadap 
+garis l. Bayangan ruas garis AB pada refleksi tersebut dapat ditentukan 
+dengan langkah-langkah sebagai berikut.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+150
+B	 Tentukan bayangan titik A, yaitu A', dan bayangan titik B, yaitu 
+B' dengan menerapkan Sifat 3.2 seperti yang ditunjukkan pada 
+Gambar 3.18 (ii).
+C	 Hubungkan titik A' dengan titik B' seperti terlihat pada Gambar 
+3.18(iii). 
+Berdasarkan hasil refleksi pada Gambar 3.19, diperoleh sifat-sifat 
+berikut.
+S i fa t
+3.3  Sifat Refleksi Ruas Garis
+1.		 Panjang ruas garis AB sama dengan panjang A'B'.
+2.		 Ruas garis AA' sejajar dengan garis BB'.
+Kalian sudah mempelajari bagaimana merefleksikan sebuah objek 
+terhadap cermin yang diwakilkan oleh sebuah garis. Bagaimana jika 
+cermin tersebut diwakilkan oleh sebuah titik? Coba perhatikan gambar 
+berikut. 
+Gambar 3.19 Kamera Pinhole
+Sumber: Carlo.benini/wikimedia.org
+Gambar 3.19 menunjukkan bentuk konkret refleksi terhadap 
+titik. Celah pada kamera pinhole dapat dipandang sebagai sebuah 
+cermin. Proses yang terjadi pada kamera pinhole Gambar 3.19 dapat 
+diilustrasikan pada Gambar 3.20. 
+A
+P
+A'
+Gambar 3.20 Refleksi Titik A terhadap titik P
+Titik P sebagai perwakilan cermin (titik refleksi) akan membagi 
+ruas garis AA' sama panjang. Setelah kalian memahami pengertian 
+ Bab III - Transformasi Geometri 151
+refleksi, selanjutnya kalian akan mempelajari bagaimana cara untuk 
+menentukan koordinat bayangan refleksi terhadap sumbu x, sumbu y, 
+titik asal O(0,0), y=x, y=-x, x=k dan y=h.	
+1.	 Refleksi Terhadap Sumbu x, Sumbu y, dan Titik Asal   
+(0,0)
+Untuk lebih memahami mengenai refleksi terhadap sumbu x, sumbu 
+y, dan titik O(0,0), cobalah kalian kerjakan aktivitas Eksplorasi 3.3 
+terlebih dahulu.
+Eksplorasi
+3.3 	 Refleksi terhadap Sumbu x, Sumbu y, dan 
+Titik Asal (0,0)
+Salsa diminta oleh gurunya untuk merefleksikan segitiga ABC 
+terhadap sumbu x lalu bayangan yang dihasilkan direfleksikan lagi 
+terhadap sumbu y. Titik A telah direfleksikan seperti terlihat pada 
+Gambar 3.21.
+ 
+Gambar 3.21 Refleksi Sumbu x dan Sumbu y
+B	 Salsa mengatakan titik A' merupakan bayangan dari titik A 
+terhadap sumbu x dan titik A'' (dibaca: dobel aksen) merupakan 
+bayangan dari titik A' terhadap sumbu y. Berdasarkan langkah-
+langkah dalam menggambar hasil refleksi, periksa apakah 
+kedua refleksi yang diperoleh Salsa sudah tepat? Jika ada yang 
+salah, refleksi mana yang menurut kalian salah? Dan bagaimana 
+kalian menjelaskannya kepada Salsa?
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+152
+C	 Bantulah Salsa untuk melengkapi bayangan A'B'C' dan A"B"C" 
+dengan benar! Kemudian tuliskan tiap-tiap koordinatnya pada 
+Tabel 3.4.
+Tabel 3.4 Refleksi Titik A,B, dan C terhadap Sumbu x dan Sumbu y
+Titik Awal
+Refleksi sumbu x
+Refleksi sumbu y
+A(2,1)
+A'(...,...)
+A''(...,...)
+B(5,2)
+...
+...
+C(3,4)
+...
+...
+D	 Berdasarkan pengalaman yang telah kalian lakukan, apa yang 
+dapat kalian simpulkan dari refleksi terhadap sumbu x dan 
+sumbu y? Dapatkah kalian tuliskan hasil refleksi terhadap 
+sumbu x dan sumbu y untuk sebarang titik A(x, y)?
+E	 Buatlah garis yang menghubungkan titik A ke A", apa yang 
+dapat kalian simpulkan? Jika belum dapat menyimpulkan, coba 
+hubungkan titik B ke B" dan C ke C" kemudian coba simpulkan 
+kembali.
+F	 Berdasarkan pertanyaan no (4), refleksi segitiga ABC ke segitiga 
+A"B"C" dapat disebut sebagai refleksi terhadap titik pusat 
+(0,0). Dapatkah kalian menuliskan cara merefleksikannya? Dan 
+tuliskan pula hasil refleksinya untuk sebarang titik A(x ,y)!
+Berdasarkan kegiatan Eksplorasi 3.3 kalian telah diperkenalkan 
+3 jenis refleksi sekaligus, yaitu refleksi terhadap sumbu x, refleksi 
+terhadap sumbu y, dan refleksi terhadap titik pusat (0,0). Untuk lebih 
+memahami ketiga refleksi tersebut pada bidang koordinat, perhatikan 
+sifat-sifat berikut ini.
+S i fa t
+3.4 	 Refleksi terhadap Sumbu x, Sumbu y, dan Titik 
+Asal O(0,0)
+a.		 Bayangan titik P(x, y) yang direfleksikan terhadap sumbu x 
+adalah P'(x,-y).
+ Bab III - Transformasi Geometri 153
+b.		 Bayangan titik P(x, y) yang direfleksikan terhadap sumbu y 
+adalah P'(-x, y).
+c.		 Bayangan titik P(x, y) yang direfleksikan terhadap titik pusat 
+O(0,0) adalah P'(-x,-y).
+Kegiatan Eksplorasi 3.3 secara digital dapat kalian lakukan pada 
+aktivitas interaktif berikut.
+Aktivitas Interaktif
+Untuk lebih memahami mengenai refleksi terhadap 
+sumbu x, sumbu y, dan titik asal (0,0), pindai kode 
+QR atau kunjungi tautan berikut: 
+http://ringkas.kemdikbud.go.id/refleksi1
+Sekarang, perhatikan Contoh 3.3 berikut untuk mempelajari 
+bagaimana langkah cara merefleksikan sebuah bangun datar terhadap 
+sumbu y!
+Contoh
+3.3
+Merefleksikan sebuah Bangun Datar
+Diketahui ΔABC dengan A(-1,1), B(-5,3) dan C(-3,-2). 
+Tentukan bayangan ΔABC yang direfleksikan terhadap sumbu y! 
+Gambarkan segitiga tersebut beserta bayangannya pada bidang 
+koordinat!
+Alternatif Penyelesaian 
+Berdasarkan Sifat 3.4.b, bayangan titik A(-1,1) adalah A'(1,1), 
+bayangan titik B(-5,3) adalah B'(5,3), dan bayangan titik 
+C(-3,-2) adalah C'(3,-2) dan diilustrasikan pada Gambar 3.22.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+154
+1
+2
+3
+-1
+-2
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+5
+-5
+Gambar 3.22 Ilustrasi Refleksi Bangun Datar terhadap Sumbu y
+Diketahui ΔABC dengan A(-2,1), B(-6,4) dan C(-4,-3). 
+Tentukan bayangan dari ΔABC yang direfleksikan terhadap 
+sumbu y! Gambarkan segitiga tersebut beserta bayangannya 
+pada bidang koordinat!
+Setelah kalian mempelajari langkah-langkah dalam merefleksikan 
+bangun datar terhadap sumbu y, coba pelajari Contoh 3.4 untuk melihat 
+langkah-langkah dalam merefleksikan garis terhadap titik pusat O(0,0).
+Contoh
+3.4
+Merefleksikan Sebuah Ruas Garis
+Tentukan bayangan ruas garis PQ dengan P(-3,1) dan Q(3,3) yang 
+direfleksikan terhadap titik pusat O(0,0)! Gambarkan ruas garis 
+tersebut beserta bayangannya pada bidang koordinat!
+Alternatif Penyelesaian 
+Berdasarkan Sifat 3.4.c, bayangan titik P(-3,1) adalah P'(3,-1) 
+dan bayangan titik Q(3,3)adalah Q'(-3,-3). Bayangan ruas garis 
+PQ terlihat seperti pada Gambar 3.23.
+Ayo Mencoba
+ Bab III - Transformasi Geometri 155
+1
+2
+3
+-1
+-2
+-3
+1
+2
+3
+-1
+-2
+-3
+0
+Gambar 3.23 Ilustrasi Refleksi Sebuah Ruas Garis terhadap Titik Pusat O(0,0)
+Tentukan bayangan ruas garis AB dengan A(-2,3) dan 
+B(-1,-3)  yang direfleksikan terhadap titik pusat O(0,0)! 
+Gambarkan ruas garis tersebut beserta bayangannya pada 
+bidang koordinat!
+Pada Contoh 3.5 kalian diperlihatkan langkah-langkah dalam 
+merefleksikan persamaan garis terhadap sumbu x. Ayo pelajari!
+Contoh
+3.5
+Refleksi Persamaan Garis
+Tentukan bayangan dari garis y=2x+5 yang direfleksikan terhadap 
+sumbu x!
+Alternatif Penyelesaian 
+Untuk memperoleh hasil refleksi sumbu x dari garis y=2x+5, 
+terlebih dahulu kita ambil dua buah titik yang melalui garis tersebut.
+Tabel 3.5 Dua Titik pada y=2x+5
+x
+1
+-1
+y
+7
+3
+(x,y)
+(1,7)
+(-1,3)
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+156
+Berdasarkan Sifat 3.4.a, hasil refleksi titik (1,7) dan titik (-1,3) 
+terhadap sumbu x adalah (1,-7) dan (-1,-3). Dengan meng­
+gunakan sifat persamaan garis lurus diperoleh:
+y
+x
+y
+x
+y
+x
+y
+x
+x
+y
+x
+y
+3
+7
+7
+1
+1
+1
+4
+7
+2
+1
+2
+7
+4
+1
+2
+14
+4
+4
+4
+2
+14
+4
+4
+2
+10
+-
+- -
+- -
+= -
+-
+-
++
+=
+-
+-
+-
++
+=
+-
+-
+-
+=
+-
+-
+-
+=
+-
++
+=-
+^
+^
+^
+^
+h
+h
+h
+h
+Jadi, hasil refleksi persamaan garis y=2x+5 terhadap sumbu x 
+adalah 4x+2y=-10.
+Tentukan hasil refleksi dari persamaan garis y=3x-4 terhadap 
+sumbu x!
+2.	
+Refleksi terhadap Garis  y=x dan Garis y=-x
+Pada topik sebelumnya, kalian telah mempelajari bagaimana langkah-
+langkah dalam merefleksikan titik, garis, atau bangun datar terhadap 
+sumbu x, sumbu y, dan titik pusat O(0,0). Pada topik ini, kalian akan 
+mempelajari refleksi terhadap garis y=x dan garis y=-x. Untuk 
+memahaminya, lakukan aktivitas pada Eksplorasi 3.4.
+Eksplorasi
+3.4 	 Refleksi terhadap Garis y=x dan Garis 
+y=-x
+Diberikan titik-titik pada bidang koordinat dengan garis y=x  dan 
+y=-x sebagai garis refleksi.
+Ayo Mencoba
+ Bab III - Transformasi Geometri 157
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+5
+Gambar 3.24 Ilustrasi pencerminan terhadap garis y=x
+B	 Berdasarkan sifat cermin datar, buktikan bahwa titik A'(1,4) 
+merupakan bayangan refleksi titik A(4,1) terhadap garis y=x. 
+C	 Berdasarkan sifat cermin datar, buktikan bahwa titik A''(-4,-1) 
+merupakan bayangan refleksi titik A'(1,4) terhadap garis y=-x. 
+D		 Lengkapi tabel berikut.
+Tabel 3.6 Refleksi Titik A,B, dan C Terhadap Garis y=x dan 
+y=-x
+Titik Asal
+Bayangan Refleksi
+Garis y=x
+Bayangan 
+Refleksi
+Garis y=-x
+A(4,1)
+A'(4,1)
+...
+B(-2,5)
+...
+...
+C(3,-1)
+...
+...
+Berdasarkan pengalaman di atas, apa yang dapat kalian simpulkan 
+untuk sebarang titik di koordinat, atau dengan kata lain, apa 
+bayangan dari sebarang titik P(x,y) yang direfleksikan terdapat 
+garis y=x? Dan apa bayangan dari sebarang titik Q(x,y) yang 
+direfleksikan terhadap garis y=-x?
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+158
+Berdasarkan Eksplorasi 3.4, diperoleh sifat-sifat berikut.
+S i fa t
+3.5  Refleksi terhadap Garis y=x dan y=-x 
+a.		 Bayangan dari titik P(x,y) yang direfleksikan terhadap garis 
+y=x adalah P'(y,x).
+b.		 Bayangan dari titik P(x,y) yang direfleksikan terhadap garis 
+y=-x adalah P(-y,-x).
+Aktivitas Eksplorasi 3.4 secara digital dapat kalian lakukan pada 
+aktivitas interaktif berikut.
+Aktivitas Interaktif
+Untuk 
+lebih 
+memahami 
+mengenai 
+refleksi 
+terhadap garis y=x dan garis y=-x ayo pindai 
+kode QR berikut atau kunjungi tautan berikut: 
+https://www.desmos.com/calculator/
+bpbfl3obkj?lang=id
+Untuk lebih memahami cara merefleksikan titik terhadap garis 
+y=x dan y=-x, ayo perhatikan Contoh 3.6 berikut!
+Contoh
+3.6
+Merefleksikan sebuah Titik Koordinat
+Diberikan titik T(3,-4) dan U(-4,-3). 
+a.	 	 Tentukan bayangan hasil refleksi titik T terhadap garis y=x.
+b.	 	 Tentukan bayangan hasil refleksi titik U terhadap garis y=-x.
+Alternatif Penyelesaian
+a.	 	 Berdasarkan 
+Sifat 
+3.5.a, 
+bayangan 
+titik 
+T(3,-4) 
+yang 
+direfleksikan terhadap garis y=x adalah T'(-4,3).
+b.	 	 Berdasarkan Sifat 3.5.b, bayangan titik U(-4,-3) yang 
+direfleksikan terhadap garis y=-x adalah U'(3,4).
+ Bab III - Transformasi Geometri 159
+Tentukan bayangan hasil refleksi titik V(2, 5) dan W(-3,7) 
+terhadapa garis y=x dan y=-x.
+3.	
+Refleksi Terhadap Garis x=k dan Garis y=h
+Pada topik ini, kalian akan mempelajari langkah-langkah dalam 
+merefleksikan suatu objek terhadap garis x=k. Untuk itu, ayo lakukan 
+aktivitas Eksplorasi 3.5.
+Eksplorasi
+3.5 	 Refleksi terhadap Garis x=k
+Perhatikan gambar-gambar berikut.
+1
+2
+3
+4
+-1
+-2
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+-5
+5
+y
+A’
+A
+B’
+C
+C’
+x=0
+1
+2
+3
+4
+-1
+-2
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+-5
+5
+Gambar 3.25 Refleksi segitiga ABC 
+terhadap x=0
+Gambar 3.26 Refleksi segitiga ABC 
+terhadap x=1
+Gambar 3.27 Refleksi Segitiga ABC 
+terhadap x=2
+Gambar 3.28 Refleksi Segitiga 
+ABC terhadap x=3
+1
+2
+3
+4
+-1
+-2
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+-5
+5
+1
+2
+3
+4
+-1
+-2
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+-5
+5
+ 
+	
+ 
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+160
+Gambar di atas menunjukkan hasil refleksi terhadap x=0 atau 
+sumbu y, x=1, x=2, dan x=3. Selanjutnya, tuliskan koordinat 
+bayangan ∆ABC untuk masing-masing refleksi pada Tabel 3.8.
+Tabel 3.8 Refleksi Titik terhadap Garis x=k
+Titik sudut 
+ΔABC
+Refleksi 
+x=0
+Refleksi 
+x=1
+Refleksi 
+x=2
+Refleksi 
+x=3
+A(2,-2)
+B(5,-1)
+C(4,2)
+B		 Berdasarkan pengamatan kalian, nilai apakah yang berubah?
+C		 Tentukan hasil bayangan refleksi untuk A(x, y) terhadap garis 
+x=k!
+D		 Diberikan titik Z(3,-4), tentukan bayangan hasil refleksi titik Z 
+terhadap garis x=2!
+Berdasarkan Eksplorasi 3.5 dapat diperoleh Sifat 3.6 berikut.
+S i fa t
+3.6 	 Refleksi terhadap Garis 
+Bayangan dari titik P(x,y) yang 
+direfleksikan terhadap garis x=k 
+adalah P'(2k-x,y).
+Selanjutnya, bagaimana cara untuk merefleksikan titik terhadap 
+garis y=h?
+0
+Gambar 3.29 Ilustrasi Refleksi 
+terhadap Garis x=k
+ Bab III - Transformasi Geometri 161
+Dapatkah kamu menentukan koordinat hasil bayangan refleksi   
+terhadap garis y=h?
+Aktivitas Interaktif
+Untuk lebih memahami mengenai refleksi terhadap 
+sembarang garis vertikal, ayo pindai kode QR nya 
+atau kunjungi tautan berikut: 
+http://ringkas.kemdikbud.go.id/refleksi4
+Untuk lebih memahami langkah-langkah dalam merefleksikan ruas 
+garis dan garis pada garis x=k dan garis y=h, cermati contoh-contoh 
+berikut ini!
+ Contoh
+3.7
+Merefleksikan sebuah Ruas Garis
+Tentukan bayangan ruas garis PQ dengan P(-3,2) dan Q(-
+4,-1) yang direfleksikan terhadap garis x=3! Gambarkan ruas 
+garis tersebut beserta bayangannya pada bidang koordinat!
+Alternatif Penyelesaian 
+Berdasarkan Sifat 3.6, diperoleh
+Tabel 3.9 Refleksi Ruas Garis PQ Terhadap x=3
+Titik Awal
+Refleksi garis x=3
+P(-3, 2)
+P'(2(3)+3, 2)=P'(9, 2)
+Q(4,-1)
+Q'(2(3)-4,-1)=Q'(2,-1)
+Akibatnya, bayangan ruas garis PQ dapat kita gambarkan seperti 
+pada Gambar 3.29.
+ 
+Ayo Berpikir Kreatif 3.1
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+162
+1
+2
+3
+-1
+1
+2
+3
+4
+-1
+-2
+-3
+0
+5
+6
+7
+8
+9
+Gambar 3.30 Ilustrasi Refleksi Ruas Garis PQ terhadap x=3
+Tentukan bayangan ruas garis AB dengan A(-2, 3) dan B(3, 5) 
+yang direfleksikan terhadap garis x=4! Gambarkan ruas garis 
+tersebut beserta bayangannya pada bidang koordinat!
+Pada Contoh 3.7, kalian telah diperlihatkan langkah-langkah 
+dalam merefleksikan ruas garis terhadap garis x=3. Selanjutnya, 
+cermati kembali Contoh 3.8 untuk melihat langkah-langkah dalam 
+merefleksikan ruas garis terhadap garis y=h.
+Contoh
+3.8
+	 Merefleksikan Sebuah Ruas Garis
+Tentukan bayangan dari ruas garis PQ dengan P(-3,2) dan Q(4, 
+-1) yang direfleksikan terhadap garis y=3! Gambarkan ruas garis 
+tersebut beserta bayangannya pada bidang koordinat!
+Alternatif Penyelesaian 
+Tabel 3.10 Refleksi Ruas Garis PQ Terhadap y=3
+Refleksi garis y=3
+Titik Awal
+P'(-3, 2(3)-2)=P'(-3, 4)
+P(-3, 2)
+Q'(4, 2(3)+1)=Q'(4, 7)
+Q(4,-1)
+Akibatnya, bayangan ruas garis PQ dapat kita gambarkan seperti 
+pada Gambar 3.31.
+Ayo Mencoba
+ Bab III - Transformasi Geometri 163
+ 
+1
+2
+3
+4
+-1
+1
+2
+3
+4
+-1
+-2
+-3
+0
+5
+7
+6
+Gambar 3.31 Ilustrasi Refleksi Ruas Garis PQ terhadap y=3
+Tentukan bayangan ruas garis AB dengan A(-2,3) dan B(3,5) 
+yang direfleksikan terhadap garis y=4! Gambarkan ruas garis 
+tersebut beserta bayangannya pada bidang koordinat!
+Sebuah ΔPQR akan direfleksikan terhadap x=3 dan dilanjutkan 
+dengan refleksi terhadap y=4. Jika diketahui titik koordinat P(5,6), 
+Q(10,6), dan R(7,12), maka tentukan koordinat ΔP'Q'R' sebagai 
+bayangan hasil kedua refleksi berurutan tersebut! Bagaimana jika 
+∆PQR direfleksikan terhadap titik (3,4)? Apakah menghasilkan 
+bayangan yang sama?
+Ayo Mencoba
+Ayo Berpikir Kritis 3.1
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+164
+Latihan
+B
+ Refleksi
+Pemahaman Konsep
+B	 Berdasarkan pengamatan kalian pada Gambar 3.32, apakah gambar 
+berwarna biru merupakan hasil refleksi dari gambar berwarna 
+merah? Jika ya, gambarkan garis refleksinya!
+a. 	
+	
+b. 	
+c.  
+	
+d.	
+Gambar 3.32 Pasangan Bangun Datar
+C	 Pasangkan dengan benar, jenis refleksi dengan hasil refleksinya 
+dari titik  (2,-3)!
+Sumbu x
+Sumbu y
+Titik pusat  (0,0)
+y=x
+y=-x
+x=3
+y=-1
+(3,-2)
+(4,-3)
+(-3,2)
+(-2,-3)
+(2,3)
+(2,1)
+(-2,3)
+ Bab III - Transformasi Geometri 165
+Penerapan Konsep
+D	 A(5,2),  B(8,5), dan C(2,1) adalah titik-titik sudut ∆ABC. Tentukan 
+koordinat ∆A'B'C' sebagai bayangan refleksi masing-masing 
+terhadap sumbu x, sumbu y, titik pusat (0,0),  y=x, dan  y=-x! 
+Gambarkan kelima proses refleksi tersebut!
+E	 Diketahui segi empat KLMN dengan K(1,2), L(6,4), M(8,-3) dan 
+N(3,-1). Tentukan koordinat segi empat K'L'M'N' sebagai hasil 
+refleksi segi empat KLMN  terhadap x=3 . Gambarkan segi empat 
+beserta bayangannya pada bidang koordinat.
+F	 Perhatikan Gambar 3.33!
+1
+2
+3
+4
+-1
+-2
+1
+2
+3
+4
+-1
+-2
+-3
+0
+5
+6
+ Gambar 3.33 Refleksi ∆ABC terhadap Garis y=2
+Gambarkan bayangan refleksi ∆ABC terhadap y=2.
+C.	 Rotasi (Perputaran)
+Pernahkah kalian menaiki bianglala? 
+Gambar 3.34 menunjukkan perpindahan 
+posisi awal A ke posisi B saat Bianglala 
+berputar berlawanan dengan arah per­
+putaran jarum jam terhadap titik tetap O. 
+Titik tetap ini disebut pusat rotasi. Rotasi 
+merupakan salah satu bentuk transformasi 
+dengan memutarkan suatu objek (titik, 
+Gambar 3.34 Bianglala
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+166
+garis, atau bangun) berdasarkan sudut dan arah tertentu terhadap 
+pusat rotasinya. Besar sudut dari bayangan objek terhadap posisi 
+awalnya disebut sudut rotasi. Pada Gambar 3.35, titik A berotasi sejauh 
+45º berlawanan arah perputaran jarum 
+jam ke titik A' dengan pusat rotasi O. 
+Selanjutnya 
+rotasi 
+yang 
+arahnya 
+berlawanan 
+dengan 
+arah 
+perputaran 
+jarum jam disebut arah positif, sedangkan 
+yang searah dengan arah perputaran 
+jarum jam disebut arah negatif. 
+Untuk memahami tentang pusat dan arah rotasi, ayo lakukan 
+aktivitas eksplorasi berikut.
+Eksplorasi
+3.6 	 Pusat dan Arah Rotasi
+Untuk melakukan aktivitas eksplorasi ini, terlebih dahulu kalian 
+siapkan busur dan jangka. Setelah siap, lakukan langkah-langkah 
+berikut. Diberikan dua buah titik A dan titik O.
+Gambar 3.35 Titik A dan Titik O
+B	 Tariklah garis yang menghubungkan titik A dan titik O.
+C	 Buatlah sebuah garis l yang membentuk sudut 30º (berlawanan 
+arah perputaran jarum jam) terhadap garis AO dengan titik O 
+sebagai pusat rotasi. Gunakan busur untuk menentukan besar 
+sudutnya!
+D	 Dengan pusat di titik O, buatlah busur lingkaran dari titik A 
+dengan menggunakan jangka sehingga busur lingkaran tersebut 
+memotong garis l di titik A'.
+Selanjutnya titik A' dikatakan sebagai hasil rotasi sebesar 30º dari 
+titik A (berlawanan arah perputaran jarum jam). Dengan langkah 
+yang sama, tentukan titik A" sebagai hasil rotasi sebesar 60º dari 
+titik A (berlawanan arah perputaran jarum jam) terhadap pusat 
+lingkaran O.
+Gambar 3.35 Rotasi Titik
+ Bab III - Transformasi Geometri 167
+Gambar 3.36 menunjukkan hasil rotasi ∆AOB yang berpusat di O 
+dengan arah yang berbeda. Bayangan 
+∆A'OB' 
+merupakan 
+hasil 
+rotasi 
+sebesar -90º (searah perputaran 
+jarum 
+jam), 
+sedangkan 
+∆A"OB" 
+merupakan hasil rotasi sebesar 90º 
+(berlawanan arah perputaran jarum 
+jam). Selanjutnya, bagaimana kita 
+menentukan titik koordinat hasil 
+rotasi? Untuk menjawab pertanyaan 
+tersebut, lakukan kembali aktivitas 
+ekplorasi berikut.
+Eksplorasi
+3.7 	 Rotasi terhadap Titik Pusat (0,0)
+Perhatikan dengan saksama 
+gambar ∆ABC pada Gambar 
+3.37.
+B	 Jika 
+kita 
+merotasikan 
+∆ABC 
+sebesar 
+90º 
+berlawanan arah jarum 
+jam terhadap titik asal 
+O(0,0), periksalah dengan 
+menggunakan penggaris 
+dan busur, apakah titik 
+A' dan B' masing-masing 
+merupakan bayangan dari titik A dan B? Selanjutnya tentukan 
+hasil rotasi titik C terhadap titik pusat O(0,0).
+C	 Gambarkan bayangan ∆A'B'C'!
+D	 Gambarkan hasil rotasi ∆ABC sebesar 180º. Berdasarkan 
+pengalaman kalian tentang materi sebelumnya, adakah jenis 
+transformasi lain yang sama dengan rotasi sebesar 180º? 
+Sebutkan!
+Gambar 3.37 Ilustrasi Rotasi pada Bidang 
+Koordinat
+1
+2
+3
+4
+-1
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+5
+-5
+Berlawanan
+jarum jam
+Searah
+jarum jam
+B"
+B
+A
+A"
+B’
+A’
+O
+Gambar 3.36 Arah Rotasi
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+168
+E	 Untuk mempermudah kalian menarik kesimpulan, isilah tabel 
+berikut.
+Tabel 3.11 Hasil Rotasi Titik (x,y)
+Titik 
+Awal
+Pusat 
+Rotasi
+Sudut 
+Rotasi
+Arah Rotasi
+Bayangan 
+Hasil Rotasi
+(2,3)
+(0,0)
+-90°
+Searah jarum jam
+ 
+(x,y)
+(0,0)
+-90°
+ 
+(x,y)
+(0,0)
+90°
+ 
+(-3,2)
+(0,0)
+180°
+ 
+(x,y)
+(0,0)
+-180°
+ 
+(x,y)
+(0,0)
+180°
+ 
+(x,y)
+(0,0)
+-270°
+ 
+(x,y)
+(0,0)
+270°
+ 
+Aktivitas 3.7 secara digital dapat kalian lakukan pada aktivitas interaktif 
+berikut.
+Aktivitas Interaktif
+Untuk lebih memahami mengenai rotasi, kalian 
+dapat memindai kode QR atau mengunjungi 
+tautan berikut:  
+http://ringkas.kemdikbud.go.id/rotasi
+Cermati Contoh 3.9 untuk melihat langkah-langkah dalam 
+merotasikan sebuah segitiga terhadap pusat rotasi O(0,0).
+ Bab III - Transformasi Geometri 169
+Contoh
+3.9
+Merotasikan Segitiga
+Tentukan bayangan segitiga PQR dengan P(5,-3), Q(4,4) dan 
+R(-3,1),  yang dirotasikan sebesar 90º berlawanan arah jarum 
+jam terhadap titik pusat (0,0)! Gambarkan segitiga PQR beserta 
+bayangannya pada bidang koordinat!
+Alternatif Penyelesaian
+Tabel 3.12 Rotasi 90° Terhadap O(0,0)
+Titik Awal
+Hasil Rotasi
+P(5,-3)
+P'(3,5)
+Q(4,4)
+Q'(-4,4)
+R(-3,1)
+R'(-1,-3)
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+5
+5
+Gambar 3.38 Ilustrasi Refleksi sebuah Ruas Garis
+Tentukan bayangan segitiga KLM pada bidang koordinat 
+dengan K(2,3), L(4,2) dan M(3,5) yang dirotasikan sebesar 
+-90º (searah jarum jam)! Gambarkan segitiga KLM beserta 
+bayangannya!	
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+170
+Latihan
+C
+Rotasi
+Pemahaman Konsep
+B	 Berdasarkan pengamatan kalian pada Gambar 4.39, jelaskan 
+apakah gambar berwarna biru merupakan hasil rotasi dari gambar 
+berwarna merah? Jika ya, tentukan besar dan arah rotasinya.
+a.	
+1
+2
+3
+4
+-1
+1
+2
+3
+4
+-1
+-2
+-3
+0
+	
+b.	
+1
+2
+3
+4
+-1
+1
+2
+3
+-1
+-2
+-3
+0
+c.	
+1
+2
+3
+4
+-1
+1
+2
+3
+-1
+-2
+-3
+0
+	
+	
+d.	
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+-1
+-2
+-3
+0
+5
+Gambar 3.39 Pasangan Bangun Datar
+C	 Gambarkan hasil rotasi segitiga RST dengan besar sudut 180º 
+terhadap titik Q.
+Gambar 3.40 Rotasi Segitiga RST
+ Bab III - Transformasi Geometri 171
+Penerapan Konsep
+D	 A(5,2), B(8,5), dan C(2,1) adalah titik-titik sudut pada ΔABC. 
+Tentukan bayangan ΔABC dari hasil rotasi sebesar 90º berlawanan 
+arah jarum jam terhadap titik pusat O(0,0). Gambarkan ΔABC 
+beserta bayangannya.
+E	 Diketahui segi empat KLMN dengan titik sudutnya di K(1,2), 
+L(6,4), M(8,-3) dan N(3,-1). Tentukan bayangan hasil rotasi 180º 
+terhadap titik pusat O(0,0). Gambarkan segi empat KLMN beserta 
+bayangannya pada bidang koordinat.
+F	 Gambar bayangan hasil refleksi untuk setiap segitiga berikut pada 
+garis yang diketahui. Bayangan akhir dari setiap bangun tersebut 
+juga merupakan hasil rotasi. Tentukan koordinat bayangan dan 
+sudut rotasinya.
+a.	 ΔABCdengan A(3,0), B(6,0) dan C(5,4) direfleksikan pada 
+sumbu x dilanjutkan sumbu y.
+b.	 ΔHIJ dengan H(2,1), I(7,4), dan J(-1,5) direfleksikan pada 
+garis y=x dilanjutkan sumbu x.
+c.	
+ΔKLM dengan K(2,-1), L(4,2), dan M(2,5) direfleksikan pada 
+garis y=x dilanjutkan garis y=-x.
+G	 Diketahui ΔDEF dengan koordinat titik sudut di D(3,2), E(8,1) dan 
+F(8,5). Gambarlah bayangan hasil transformasi ΔDEF jika:
+a.	 Dicerminkan terhadap sumbu x kemudian dirotasikan 90º 
+berlawanan arah jarum jam dengan pusat rotasi  O(0,0).
+b.	 Dirotasikan 180º dengan pusat rotasi O(0,0) kemudian 
+ditranslasikan sejauh 
+3
+2
+-
+a
+k.
+c.	
+Dirotasikan 90º searah jarum jam dengan pusat rotasi 
+O(0,0) kemudian direfleksikan terhadap sumbu y setelah itu 
+ditranslasikan sejauh 3
+4
+b
+l.
+D.	 Kekongruenan
+Indonesia memiliki keberagaman budaya yang patut kita ketahui 
+bersama-sama. Gambar 3.41 berikut ini menunjukkan salah satu 
+bentuk budaya di Indonesia, yaitu rumah adat Minangkabau.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+172
+Gambar 3.41 Rumah Adat Minangkabau
+Sumber: Pusat Dokumentasi dan Informasi Kebudayaan Minangkabau/Wikimedia.org
+Ada hal menarik yang perlu kita cermati di dalam rumah adat 
+tersebut, yaitu tentang jendelanya. Hal menarik tersebut akan kita 
+pelajari di dalam subbab ini dengan menghubungkannya dengan 
+translasi, refleksi, dan rotasi. Oleh karena itu, ayo kerjakan Eksplorasi 
+3.8.
+Eksplorasi
+3.8 	 Menyelidiki Rangkaian Translasi, Refleksi, 
+dan Rotasi
+Tahukah kalian karakteristik bayangan hasil translasi, refleksi, dan 
+rotasi? Apakah karakteristik tersebut akan tetap sama jika ketiga 
+transformasi tersebut dikombinasikan? Ayo kita selidiki!
+B	 Perhatikan Gambar 3.42 berikut! Gambar tersebut menunjukkan 
+bayangan sebuah objek setelah dilakukan translasi, refleksi 
+(terhadap sebuah garis), atau rotasi.
+Gambar 3.42 Bayangan Hasil Translasi, Refleksi, dan Rotasi
+Berdasarkan Gambar 3.42, temukan persamaan dan perbedaan 
+bayangan hasil translasi, refleksi, dan rotasi!
+ Bab III - Transformasi Geometri 173
+C	 Berdasarkan pengamatan terhadap Gambar 3.42, Sondang 
+berpendapat bahwa bayangan hasil translasi, refleksi, dan rotasi 
+memiliki bentuk dan ukuran yang sama terhadap objek aslinya. 
+Menurut kalian, apa maksud dari pendapat Sondang tersebut? 
+Apakah kalian setuju? Mengapa?
+D	 Sekarang kalian akan menemukan karakteristik bayangan yang 
+diperoleh dari rangkaian transformasi.
+a.	 Gambar 3.43 berikut menunjukkan rangkaian transformasi 
+terhadap suatu objek.
+Gambar 3.43 Rangkaian Transformasi Pertama
+Transformasi apa saja yang digunakan untuk mengubah 
+objek asli (gambar paling kiri) menjadi bayangan akhir 
+(gambar paling kanan)?
+b.	 Perhatikan Gambar 3.44 berikut!
+Gambar 3.44 Rangkaian Transformasi Kedua
+Transformasi apa saja yang dikenakan pada objek asli untuk 
+menjadi bayangan akhir?
+c.	
+Cermati rangkaian transformasi pada Gambar 3.45 berikut!
+Gambar 3.45 Rangkaian Transformasi Ketiga
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+174
+Rangkaian transformasi apa saja yang mengubah objek asli 
+menjadi bayangan akhir?
+d.	 Menurut kalian, apa karakteristik bayangan hasil rangkaian 
+translasi, refleksi, dan rotasi?
+E	 Gambar 3.46 menunjukkan dua pasang objek awal (biru) dan 
+bayangannya (merah) setelah mendapatkan satu atau lebih 
+transformasi.
+83°
+83°
+56°
+56°
+41°
+41°
+8
+10
+12
+b.
+8
+10
+12
+83°
+56°
+41°
+41°
+56°
+83°
+8
+10
+12
+a.
+12
+15
+18
+Gambar 3.46 Pasangan Objek dan Bayangan
+a.	 Berdasarkan Gambar 3.49 tersebut, apakah ada pasangan 
+[(a) atau (b)] yang memiliki karakteristik sama dengan 
+transformasi pada soal nomor 1 dan 3? Mengapa?
+b.	 Jika di bagian 4.a kalian menemukan pasangan yang 
+diminta, carilah rangkaian translasi, refleksi, atau rotasi 
+yang mengubah segitiga awal (biru) menjadi bayangannya 
+(segitiga merah) dalam pasangan itu!
+Di dalam Eksplorasi 3.8, kalian telah menemukan karakteristik 
+penting translasi, refleksi, dan rotasi. Karakteristik tersebut dirangkum 
+dalam Sifat 3.6 berikut
+ Bab III - Transformasi Geometri 175
+S i fa t
+3.6 	 Karakteristik Translasi, Refleksi, dan Rotasi
+Jika suatu objek dikenakan transformasi tunggal atau rangkaian 
+transformasi dari translasi, refleksi, atau rotasi, bayangannya 
+memiliki bentuk dan ukuran yang sama dengan objek aslinya.
+Jika dua bangun datar memiliki bentuk dan ukuran yang sama, 
+terdapat transformasi tunggal atau rangkaian transformasi dari 
+translasi, refleksi, atau rotasi yang membuat bangun datar pertama 
+tepat berimpit dengan bangun datar kedua.
+Berdasarkan Sifat 3.6 tersebut, translasi, refleksi, dan rotasi tidak 
+mengubah bentuk dan ukuran objek yang ditransformasikan. Karena 
+alasan ini, translasi, refleksi, dan rotasi disebut dengan transformasi 
+kaku.
+Untuk lebih mengetahui penggunaan Sifat 3.6, cermati Contoh 3.10 
+berikut ini.
+Contoh
+3.10 Menggunakan Karakteristik Transformasi Kaku
+Gambar 3.47 berikut memperlihatkan dua pasang bangun datar.
+a.
+b.
+Gambar 3.47 Dua Pasang Bangun Datar
+Apakah ada suatu transformasi kaku atau rangkaiannya yang 
+membawa bangun datar pertama (merah) ke bangun datar kedua 
+(biru)? Jelaskan!
+Alternatif Penyelesaian
+a.	 Untuk Gambar 3.47 (a), kedua jajar genjangnya memiliki sudut 
+dalam yang berbeda. Padahal, transformasi kaku menjaga 
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+176
+bentuk dan ukuran dari objek dan bayangannya. Dengan 
+demikian, tidak ada transformasi kaku (atau rangkaiannya) yang 
+membawa jajar genjang pertama (merah) untuk bisa berimpit 
+dengan jajar genjang kedua (biru).
+b.	 Pada Gambar 3.47 (b), persegi panjang merah memiliki panjang 
+dan lebar yang sama dengan persegi panjang biru. Dengan 
+demikian, kedua persegi panjang tersebut memiliki bentuk 
+dan ukuran yang sama. Oleh karena itu, dalam kasus ini, ada 
+rangkaian transformasi kaku yang membawa persegi panjang 
+kiri untuk berimpit dengan persegi panjang sebelah kanan. 
+Rangkaian transformasi kaku tersebut diilustrasikan pada 
+Gambar 3.51 berikut.
+a.
+b.
+Gambar 3.48 Rangkaian Transformasi Kaku pada Persegi Panjang
+Pada Gambar 3.48, transformasi pertama yang digunakan adalah 
+translasi yang menggeser persegi panjang ke atas dan ke kanan. 
+Setelah itu, bayangannya dirotasikan dengan pusat salah satu 
+titik sudutnya dengan besar sudut 90°. Dengan rangkaian dua 
+transformasi tersebut, persegi panjang pertama tepat berimpit 
+persegi panjang yang kedua.
+ Perhatikan Gambar 3.49!
+Gambar 3.49 Dua Bangun Datar
+Ayo Mencoba
+ Bab III - Transformasi Geometri 177
+Apakah ada transformasi kaku (atau rangkaiannya) yang 
+membawa bangun datar pertama untuk berimpit ke bangun 
+datar kedua? Jika ada, tunjukkan transformasinya!
+Di dalam Eksplorasi 3.8, kalian ditunjukkan 
+sebuah gambar burung yang disusun oleh 
+sebuah teka-teki gambar. Teka-teki gambar 
+tersebut terdiri dari lima segitiga, satu jajar 
+genjang, dan satu persegi. Teka-teki gambar 
+semacam 
+ini 
+disebut 
+dengan 
+tangram. 
+Perhatikan Gambar 3.50.
+B	 Buatlah 
+tangram 
+seperti 
+pada 
+Gambar 
+3.50 
+tersebut 
+pada 
+selembar kertas karton. Setelah itu, 
+potonglah dan susunlah potongan-
+potongannya sehingga memenuhi 
+bingkai seperti yang ditunjukkan 
+pada Gambar 3.51 berikut!
+C	 Buatlah tangram seperti Gambar 
+3.51 pada kertas karton sebanyak 
+dua 
+set. 
+Potonglah 
+tangram 
+tersebut 
+dan 
+gunakan 
+semua 
+potongannya untuk membuat bentuk yang menyerupai objek-
+objek di sekitar kalian.
+1. 	 Kekongruenan
+Di bagian sebelumnya kalian telah mengetahui bahwa transformasi 
+kaku (translasi, refleksi, dan rotasi) tidak mengubah bentuk dan ukuran 
+suatu objek. Dengan kata lain, transformasi tersebut menghasilkan 
+Gambar 3.50 Tangram
+Ayo Berpikir Kreatif 3.2
+Gambar 3.51 Bingkai Tangram 
+Berbentuk Lilin dan Kuda
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+178
+bayangan yang memiliki bentuk dan ukuran yang sama dengan 
+objek aslinya. Selanjutnya, dua bangun datar yang memiliki bentuk 
+dan ukuran yang sama tersebut dinamakan dua bangun datar yang 
+kongruen.
+Kekongruenan memiliki arti yang sama dengan kesamaan bentuk 
+dan ukuran oleh karena itu kita dapat mendefinisikannya dengan 
+menggunakan karakteristik transformasi kaku (Sifat 3.6) sebagai 
+berikut.
+Definisi
+3.2 	 Kekongruenan
+Dua bangun datar dikatakan kongruen jika terdapat transformasi 
+kaku (translasi, refleksi, atau rotasi) tunggal atau rangkaian 
+transformasi kaku yang membuat bangun datar pertama tepat 
+berimpit dengan bangun datar kedua.
+Sekarang, perhatikan Contoh 3.11 berikut untuk melihat bagaimana 
+penggunaan Definisi 3.2 tersebut.
+Contoh
+3.11
+Menentukan Kekongruenan Dua Bangun Datar
+Tentukan apakah pasangan dua bangun datar pada Gambar 3.52 (a) 
+dan (b) berikut kongruen atau tidak!
+a.
+b.
+Gambar 3.52 Dua Pasang Bangun Datar
+ Alternatif Penyelesaian
+a.	 Di Gambar 3.52 (a) kita mengamati bahwa bangun datar 
+pertama (warna merah) tampaknya memiliki bentuk dan 
+ Bab III - Transformasi Geometri 179
+ukuran yang sama dengan bangun datar kedua (warna biru). 
+Untuk memastikannya, kita akan merotasikan bangun datar 
+pertama dan melihat apakah hasilnya tepat berimpit dengan 
+bangun datar kedua, lihat Gambar 3.53.
+Gambar 3.53 Rotasi Bangun Datar Terhadap Titik A Sebesar 90º
+Untuk melakukan rotasi tersebut, kita jiplak bangun datar 
+pertama pada kertas lain. Selanjutnya, kita rotasi kertas tersebut 
+terhadap titik A sebesar 90°. Dari rotasi ini, diperoleh bahwa 
+hasil rotasinya tepat berimpit dengan bangun datar kedua. Jadi, 
+kedua bangun datar tersebut kongruen.
+Dua bangun datar yang ditunjukkan pada Gambar 3.56 (b) 
+memiliki bentuk yang berbeda. Bangun datar pertama memiliki 
+lengkung (kecekungan) yang letaknya tepat di tengah-tengah 
+sedangkan bangun datar kedua lengkungnya tidak tepat di 
+tengah-tengah. Dengan demikian, kedua bangun datar tersebut 
+tidak kongruen.
+Alternatif Penyelesaian 
+Perhatikan Gambar 3.54 berikut!
+Tentukan apakah kedua bangun 
+datar pada Gambar 3.54 tersebut 
+kongruen 
+atau 
+tidak! 
+Jelaskan 
+alasannya!
+Dari Contoh 3.11, kita memperoleh dua hal penting sebagai berikut.
+B	 Untuk membuktikan bahwa dua bangun datar kongruen, kita harus 
+menunjukkan bahwa kedua bangun datar tersebut memiliki bentuk 
+Gambar 3.54 Dua Bangun Datar
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+180
+dan ukuran yang sama. Dengan demikian, kita perlu menunjukkan 
+bahwa terdapat transformasi kaku tunggal atau rangkaiannya yang 
+membuat bangun datar pertama tepat berimpit dengan bangun 
+datar kedua.
+C	 Untuk membuktikan bahwa dua bangun datar tidak kongruen, kita 
+perlu menunjukkan bahwa kedua bangun datar tersebut memiliki 
+bentuk yang tidak sama atau ukuran yang tidak sama.
+Ketika mencermati Gambar 3.52 (a), Ahmad dapat menunjukkan 
+rangkaian transformasi kaku yang membuat bangun datar pertama 
+(I) tepat berimpit dengan bangun datar kedua (II). Rangkaian 
+transformasi kaku tersebut ditunjukkan pada Gambar 3.55.
+Gambar 3.55 Rangkaian Transformasi Kaku yang Dilakukan Ahmad
+a.		 Transformasi apa saja yang dilakukan oleh Ahmad? Sebutkan 
+transformasi tersebut secara terurut!
+b.		 Carilah satu rangkaian transformasi kaku lainnya yang 
+berbeda dengan Ahmad dan membuat bangun datar pertama 
+tepat berimpit dengan bangun datar kedua!
+2.	
+ Kekongruenan pada Segi Banyak
+Di bagian sebelumnya, kalian telah belajar kekongruenan untuk 
+sembarang bangun datar. Sekarang, kalian akan belajar kekongruenan 
+khusus untuk segi banyak. Sebelum itu, kalian perlu mengenal apa 
+Ayo Berpikir Kreatif 3.3
+ Bab III - Transformasi Geometri 181
+itu titik-titik, sisi-sisi, dan sudut-
+sudut yang bersesuaian. Perhatikan 
+Gambar 3.56!
+Segi empat ABCD dan KLMN 
+pada Gambar 3.56 merupakan dua 
+bangun datar yang kongruen. Hal ini 
+dikarenakan terdapat transformasi 
+kaku, yaitu refleksi terhadap garis 
+g, yang membuat segi empat ABCD 
+tepat berimpit dengan segi empat 
+KLMN.
+Dengan melakukan refleksi terhadap garis g, titik A tepat berimpit 
+dengan titik K, titik B dengan titik L, titik C dengan titik M, dan titik 
+D dengan titik N. Selanjutnya, pasangan titik-titik tersebut disebut 
+dengan titik-titik yang bersesuaian. Dengan alasan yang sama, kita 
+dapat menyatakan bahwa sisi AB dan sisi KL, sisi BC dan sisi LM, sisi 
+CD dan sisi MN, sisi DA dan sisi NK merupakan pasangan sisi-sisi yang 
+bersesuaian. Terakhir, kita juga dapat menyatakan ∠A dan ∠K, ∠B dan 
+∠L, ∠C dan ∠M, dan ∠D dan ∠N merupakan pasangan sudut-sudut yang 
+bersesuaian.
+Sekarang, ayo kita selidiki sisi-sisi dan sudut-sudut yang bersesuaian 
+dari dua segi banyak yang kongruen!
+Eksplorasi
+3.9
+	 Menyelidiki Sisi-Sisi dan Sudut-Sudut 
+yang Bersesuaian dari Segi Banyak
+Gambar 3.57 berikut memperlihatkan dua segi lima yang kongruen.
+Gambar 3.57 Dua Segi Lima yang Kongruen
+A
+B
+C
+D
+K
+L
+M
+N
+Gambar 3.56 Segi Empat ABCD dan 
+KLMN
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+182
+B	 Dengan menggunakan penggaris, ukurlah panjang setiap sisi 
+kedua segi lima tersebut dan tuliskan hasilnya pada Tabel 3.13 
+berikut.
+Tabel 3.13 Panjang Sisi Segi Lima yang Diberikan
+Segi Lima Pertama
+Segi Lima Kedua
+Sisi
+Panjang (cm)
+Sisi
+Panjang (cm)
+C	 Dengan menggunakan busur derajat, ukurlah setiap sudut dari 
+dua segi lima pada Gambar 3.60 dan catatlah hasilnya pada 
+Tabel 3.14 berikut.
+Tabel 3.14 Besar Sudut Segi Lima yang Diberikan
+Segi Lima Pertama
+Segi Lima Kedua
+Sudut
+Besar (°)
+Sudut
+Besar (°)
+D	 Selidikilah apakah ada rangkaian transformasi kaku yang 
+membuat bangun datar pertama pada Gambar 3.60 tepat 
+berimpit dengan bangun datar kedua! Apakah kedua bangun 
+datar tersebut kongruen?
+E	 Berdasarkan pekerjaan kalian di nomor 1, 2, dan 3, apa yang 
+dapat kalian simpulkan?
+ Bab III - Transformasi Geometri 183
+Dari Eksplorasi 3.9, kalian mendapatkan karakteristik penting dari 
+dua segi banyak yang kongruen. Karakteristik tersebut dirangkum 
+dalam Sifat 3.7.
+S i fa t
+3.7 	 Karakteristik Segi Banyak yang Kongruen
+Dua segi banyak dikatakan kongruen jika memenuhi dua syarat 
+berikut.
+•	 	 Sisi-sisi yang bersesuaian dari kedua segi banyak tersebut sama 
+panjang.
+•	 	 Sudut-sudut yang bersesuaian dari kedua segi banyak tersebut 
+sama besar.
+Ayo cermati Contoh 3.12, agar kalian dapat mengetahui penggunaan 
+karakterisik segi banyak yang kongruen untuk menyelesaikan masalah!
+Contoh
+3.12
+Memilih Segi Banyak yang Kongruen
+Perhatikan persegi panjang I, persegi panjang II, jajar genjang III, 
+dan persegi panjang IV pada Gambar 3.58 berikut!
+I
+II
+III
+IV
+6
+12
+12
+6
+6
+12
+9
+18
+Gambar 3.58 Segi Empat I, II, III, dan IV
+	
+Dari segi empat II, III, dan IV tersebut, manakah yang kongruen 
+dengan persegi panjang I? Jelaskan!
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+184
+Alternatif Penyelesaian 
+Meskipun persegi panjang II besar semua sudut dalamnya sama 
+dengan sudut-sudut dalam persegi panjang I (mengapa?), tetapi 
+panjang sisi-sisinya berbeda. Dengan demikian, persegi panjang I 
+tidak kongruen dengan persegi panjang II.
+	
+Panjang sisi-sisi persegi panjang I adalah 6, 12, 6, dan 12. Hal ini 
+sama dengan panjang sisi-sisi jajar genjang III, yaitu 6, 12, 6, dan 
+12. Meskipun demikian, besar sudut-sudut dalam persegi panjang 
+I tidak sama dengan besar sudut-sudut dalam jajar genjang III. 
+Dengan demikian, persegi panjang I tidak kongruen dengan jajar 
+genjang III.
+	
+Persegi panjang I dan persegi panjang IV memiliki panjang sisi-
+sisi yang sama dan dengan urutan yang sama, yaitu 6, 12, 6, dan 
+12. Selain itu, besar semua sudut dalamnya pun sama. Dengan 
+demikian, sisi-sisi yang bersesuaian pada kedua persegi panjang 
+tersebut sama panjang dan sudut-sudut yang bersesuaiannya sama 
+besar. (Tunjukkan sisi-sisi dan sudut-sudut yang bersesuaiannya!) 
+Jadi, kedua persegi panjang tersebut kongruen.
+	
+Karena persegi panjang I dan IV kongruen, kita dapat melakukan 
+rangkaian transformasi kaku yang membuat persegi panjang I 
+tepat berimpit dengan persegi panjang IV. Rangkaian transformasi 
+tersebut diilustrasikan pada Gambar 3.59.
+Gambar 3.59 Translasi dan Rotasi dari Persegi Panjang I ke Persegi Panjang IV
+ Bab III - Transformasi Geometri 185
+Perhatikan jajar genjang I, layang-layang II, dan jajar genjang 
+III pada Gambar 3.60 berikut!
+I
+II
+III
+75°
+105°
+Gambar 3.60 Segi Empat I, II, dan III
+Dari segi empat II dan III, manakah yang kongruen dengan segi 
+empat I? Mengapa?	
+3. 	 Kekongruenan Segitiga
+Segitiga merupakan segi banyak sehingga kita dapat menggunakan 
+Sifat 3.7 untuk memastikan bahwa dua (atau lebih) segitiga merupakan 
+segitiga-segitiga yang kongruen. Dengan sifat tersebut, kita perlu 
+memastikan bahwa semua sisi dan sudut yang bersesuaiannya 
+memiliki ukuran yang sama. Apakah ada cara yang lebih sederhana? 
+Untuk mengetahuinya, ayo kerjakan Eksplorasi 3.10!
+Eksplorasi
+3.10 	 Membuat Segitiga jika Diketahui Dua 
+Sudut dan Satu Sisi yang Diapitnya
+Di aktivitas eksplorasi ini, kalian akan diminta untuk membuat 
+segitiga. Untuk itu, siapkan alat dan bahan yang diperlukan! Alat 
+dan bahannya adalah kertas, penggaris, busur derajat, pensil, dan 
+gunting.
+B	 Pada selembar kertas, lukislah sebuah segitiga yang besar dua 
+sudut dalamnya adalah 60° dan 75°, serta panjang sisi di antara 
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+186
+kedua sudut tersebut adalah 25 cm. Informasi yang diketahui 
+dari soal ini dapat diilustrasikan pada Gambar 3.61.
+Dua sudut ini
+besarnya diketahui
+Sisi ini panjangnya diketahui
+Gambar 3.61 Segitiga dengan Dua Sudut dan Satu Sisi yang Diapitnya Diketahui
+C	 Guntinglah segitiga yang telah kalian lukis dan tukarkan segitiga 
+tersebut dengan segitiga yang diperoleh teman kalian! (Sebelum 
+ditukar, sebaiknya kalian mencantumkan nama kalian di 
+segitiga yang kalian buat)
+D	 Koreksilah potongan segitiga milik teman kalian apakah besar 
+dua sudutnya 60° dan 75°, serta panjang sisi yang diapit kedua 
+sudut tersebut adalah 25 cm. Jika belum sesuai, bantulah teman 
+kalian untuk membuat segitiga yang sesuai dengan informasi 
+yang diberikan!
+E	 Bandingkan segitiga kalian dengan segitiga milik teman-teman 
+kalian. Apa yang dapat kalian simpulkan?
+Di Eksplorasi 3.10, kalian telah menemukan kesimpulan penting 
+mengenai kekongruenan segitiga. Jika dua segitiga memiliki dua pasang 
+sudut yang bersesuaian sama besar dan satu sisi di antara kedua sudut 
+tersebut sama panjang maka kedua segitiga tersebut kongruen. Kriteria 
+kekongruenan segitiga ini selanjutnya disingkat dengan kriteria sudut-
+sisi-sudut (Sd-S-Sd).
+Selain kriteria Sd.S.Sd, ada dua kriteria kekongruenan segitiga 
+lainnya. Dua kriteria tersebut dinamakan kriteria sisi-sudut-sisi (S.Sd.S) 
+dan sisi-sisi-sisi (S.S.S).
+ Bab III - Transformasi Geometri 187
+S i fa t
+3.8 	 Kriteria Kekongruenan Segitiga
+Kriteria Sd.S.Sd. Jika dua sudut segitiga pertama dan kedua sama 
+besar dan sisi di antara kedua sudut tersebut sama panjang, maka 
+dua segitiga tersebut kongruen. Perhatikan Gambar 3.62 (a)!
+Kriteria S.Sd.S. Jika dua sisi segitiga pertama dan kedua sama 
+panjang dan sudut yang diapit kedua sisi tersebut sama besar, 
+maka kedua segitiga tersebut kongruen. Perhatikan Gambar 3.62 
+(b)!
+Kriteria S.S.S. Jika tiga sisi segitiga pertama sama panjang dengan 
+tiga sisi segitiga kedua, maka kedua segitiga tersebut kongruen. 
+Perhatikan Gambar 3.62 (c)!
+a.
+b.
+c.
+Gambar 3.62 Kriteria Kekongruenan Segitiga Sd.S.Sd, S.Sd.S, dan S.S.S
+Untuk mengetahui bagaimana penggunaan kriteria kekongruenan 
+segitiga, ayo cermati Contoh 3.16 berikut!
+Contoh
+3.13
+Menggunakan Kriteria Kekongruenan Segitiga
+Perhatikan Gambar 3.63!
+A
+B
+C
+D
+Gambar 3.63 Segitiga ABC
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+188
+Jika AD membagi ∠BAC menjadi dua sama besar dan tegak lurus 
+dengan BC , buktikan bahwa segitiga ABC merupakan segitiga 
+sama kaki!
+Alternatif Penyelesaian 
+Karena AD membagi ∠BAC sama besar, maka ∠BAD = ∠CAD. 
+Karena AD tegak lurus dengan BC , maka besar ∠ADB dan ∠ADC 
+adalah 90°. Dengan demikian ∠ADB = ∠ADC. Selanjutnya, jelas 
+bahwa AD = AD. Dengan menggunakan kriteria Sd.S.Sd, segitiga 
+ADB kongruen dengan segitiga ADC atau dapat dinotasikan ΔADB ≅ 
+ΔADC. Akibatnya, AB = AC. Jadi, terbukti bahwa ΔABC merupakan 
+segitiga sama kaki.
+Segitiga KLM pada Gambar 3.67 berikut merupakan segitiga 
+sama kaki dan KN membagi ∠LKM sama besar.
+K
+L
+M
+N
+Gambar 3.64 Segitiga KLM
+Buktikan bahwa ΔKNL ≅ ΔKNM!
+Sebagai catatan, Contoh 3.16 memperkenalkan notasi untuk 
+menyatakan bahwa suatu segitiga kongruen dengan segitiga lainnya. 
+Notasi yang digunakan adalah notasi kongruen, yaitu “≅”. Selain itu, 
+penulisan penamaan segitiga juga memperhatikan urutan sudut-sudut 
+bersesuaiannya. Sebagai contoh, perhatikan Gambar 3.65 berikut!
+Ayo Mencoba
+ Bab III - Transformasi Geometri 189
+T
+D
+R
+S
+B
+W
+Gambar 3.65 Dua Segitiga yang Kongruen
+Gambar 3.65 tersebut menunjukkan dua segitiga yang kongruen. 
+Pasangan sudut-sudut yang bersesuaiannya adalah ∠T dengan ∠S, 
+∠D dengan ∠B, dan ∠R dengan ∠W. Dengan demikian, kita dapat 
+menyatakan kekongruenan segitiga TDR dengan segitiga SBW dengan 
+notasi ΔTDR ≅ ΔSBW.
+Dhien mengamati ΔABC dan ΔPQR pada Gambar 3.66!
+30°
+30°
+5
+5
+10
+10
+A
+B
+C
+P
+Q
+R
+Gambar 3.66 Dua Segitiga yang Memenuhi S.S.Sd
+Dengan melakukan translasi, Dhien dapat membuat ΔABC tepat 
+berimpit dengan ΔPQR. Dengan demikian, Dhien memiliki tiga 
+pendapat sebagai berikut.
+B	 Segitiga ABC kongruen dengan segitiga PQR.
+C	 Karena ΔABC dan ΔPQR memiliki dua sisi dan satu sudut yang 
+ukurannya sama maka kedua segitiga tersebut memenuhi 
+S.S.Sd.
+Ayo Berpikir Kritis 3.4
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+190
+D	 Dua segitiga yang memenuhi S.S.Sd selalu kongruen.
+Apakah kalian setuju dengan semua pendapatnya Dhien? Jelaskan 
+alasannya!
+Latihan
+D
+Kekongruenan
+Jawablah pertanyaan-pertanyaan berikut dengan tepat!
+Pemahaman Konsep
+B	 Benar atau Salah. Suatu bangun datar dan bayangannya akibat 
+rotasi merupakan dua bangun datar yang kongruen.
+C	 Benar atau Salah. Dua bangun datar yang kongruen memiliki luas 
+dan keliling yang sama.
+D	 Benar atau Salah. Untuk menentukan kekongruenan dua bangun 
+datar, kita selalu harus menguji apakah semua sisi dan sudut yang 
+bersesuainnya memiliki ukuran yang sama.
+E	 Jika dua segitiga memiliki dua pasang sisi yang sama panjang dan 
+sudut yang diapit sisi-sisi tersebut sama besar, maka kedua segitiga 
+tersebut kongruen. Pernyataan tersebut merupakan bunyi kriteria 
+_____.
+F	 Jika ΔMDN ≅ ΔKPG, maka MN = _____.
+Penerapan Konsep
+G	 Perhatikan 
+bangun 
+datar 
+dan 
+bayangannya pada Gambar 3.67!
+Tunjukkan rangkaian transformasi 
+kaku yang membawa bangun datar 
+AMBON 
+menuju 
+bayangannya, 
+yaitu A’M’B’O’N’!
+x
+y
+A
+M
+B
+O
+N
+A’
+M’
+B’
+O’
+N’
+2
+2
+0
+Gambar 3.67 Bangun Datar 
+dan Bayangannya pada Bidang 
+Koordinat
+ Bab III - Transformasi Geometri 191
+H	 Perhatikan empat bangun datar 
+pada Gambar 3.68!
+Pilihlah 
+bangun 
+datar 
+yang 
+kongruen dengan bangun datar 
+I! Tunjukkan mengapa bangun 
+datar yang kalian pilih kongruen 
+dengan bangun datar I!
+I	 Dua bangun datar pada Gambar 
+3.69 
+merupakan 
+segi 
+enam 
+beraturan.
+Apakah kedua segi enam tersebut 
+kongruen? Mengapa?
+J	 Paulina menggambar segitiga sama sisi 
+ABC. Tepat di tengah-tengah sisi 
+,
+AC
+,
+AB dan BC secara berturut-turut dia 
+menggambar titik K, L, dan M. Perhatikan 
+Gambar 3.70.
+Berdasarkan 
+pengamatannya, 
+Paulina 
+menduga bahwa segitiga KLM merupakan 
+segitiga sama sisi. Apakah kalian setuju? 
+Mengapa?
+K	 Pada Gambar 3.71, AC = BC, ∠A = 
+∠B, dan ∠ACG = ∠BCH.
+Tunjukkan bahwa ΔACH ≅ ΔBCG 
+dan ΔDFG ≅ ΔEFH!
+Gambar 3.69 Dua Segi Enam 
+Beraturan
+A
+B
+C
+K
+L
+M
+Gambar 3.70 Segitiga 
+Sama Sisi ABC
+A
+B
+C
+D
+E
+F
+G
+H
+Gambar 3.71 Segi Banyak
+I
+II
+III
+IV
+0
+2
+2
+x
+y
+Gambar 3.68 Empat Bangun Datar 
+pada Bidang Koordinat
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+192
+L	 Sebuah segitiga titik-titik sudutnya memiliki koordinat (0, 2), (4, 1), 
+dan (2, 4). Sebuah segitiga yang lain, dua titik sudutnya mempunyai 
+koordinat (-4,1) dan (-2,-1). Agar kedua segitiga tersebut 
+kongruen, di mana posisi koordinat titik sudut yang tidak diketahui 
+dari segitiga kedua?
+E.	 Dilatasi
+Di kelas VII kalian sudah mengenai istilah kesebangunan. Salah satu 
+contoh kesebangunan adalah pas foto. Pas foto dapat dicetak dengan 
+ukuran yang berbeda-beda namun memiliki bentuk yang sama. 
+Perhatikan Gambar 3.72.
+Gambar 3.72 Dilatasi
+Gambar 3.75 menunjukkan pembesaran 2 kali bangun (i) menjadi 
+bangun (ii). Pada pembesaran tersebut terdapat hubungan berikut:
+2.
+O
+OA A
+O
+OB B
+=
+=
+l
+l
+Oleh karena bangun (i) diperbesar menjadi 2 kali, maka 2 merupakan 
+faktor skala dengan O sebagai pusat pembesarannya. Pembesaran atau 
+pengecilan suatu bangun selanjutnya kita sebut dengan dilatasi. Untuk 
+lebih memahami mengenai dilatasi, terlebih dahulu kalian dapat 
+mengawali dengan Eksplorasi 3.311 mengenai faktor skala.
+Eksplorasi
+3.11 	 Faktor Skala
+Perhatikan dengan saksama gambar segitiga ABC pada bidang 
+koordinat yang didilatasikan terhadap pusat dilatasi titik asal O(0,0) 
+sehingga menghasilkan segitiga A'B'C' dan segitiga A''B''C''.
+ Bab III - Transformasi Geometri 193
+Perhatikan Gambar 3.73 dan jawablah pertanyaan di bawah ini.
+1
+2
+3
+4
+1
+2
+3
+4
+0
+5
+6
+7
+8
+9
+10
+11
+12
+5
+6
+7
+8
+Gambar 3.73 Ilustrasi Dilatasi 
+Segitiga ABC
+B	 Tuliskan koordinat titik A,B,C,A',B',C',A'',B'', dan C''?
+C	 Perhatikan segitiga ABC dan segitiga A'B'C'. Berapakah 
+perbandingan panjang |OA| dan |OA'|? Bagaimana dengan 
+perbandingan kedua sisi lainnya? Apakah memiliki perbandingan 
+yang sama?
+D	 Untuk memudahkan kalian melihat hubungan segitiga ABC dan 
+segitiga A'B'C', lengkapi isian kosong berikut
+|OB'|= ... ×|OB|
+|OC'|= ... ×|OC|
+Nilai yang kalian isikan selanjutnya disebut dengan faktor skala
+E	 Berapa besarnya faktor skala segitiga A'B'C' yang merupakan 
+bayangan dilatasi dari segitiga ABC?
+F	 Dengan cara yang sama, berapakah faktor skala segitiga A''B''C'' 
+yang merupakan bayangan dilatasi dari segitiga ABC?
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+194
+Setelah melakukan aktivitas Eksplorasi 3.11 pahami Sifat 3.9.
+S i fa t
+3.9 	 Faktor Skala k dan Notasi Dilatasi
+Setiap titik A yang didilatasikan pada pusat O dan faktor skala k 
+berlaku 
+'
+.
+AO
+kOA
+=
+Faktor skala = 
+'
+AO
+AO
+d
+n
+Faktor skala dapat bernilai negatif jika 
+'
+AO berlawanan arah 
+dengan AO .
+Dilatasi dengan pusat O dan faktor skala k dapat dinotasikan 
+dengan [O,k].
+Selanjutnya, bagaimana cara kita menggambar bayangan hasil 
+dilatasi? Untuk itu lakukan aktivitas Eksplorasi 3.11.
+Eksplorasi
+3.12 	 Menggambar Bayangan Hasil Dilatasi
+Diketahui ΔPQR dengan titik-titik sudutnya berada di P(6,8), 
+Q(-2,4), dan R(4,-2). Pada eksplorasi ini, kalian diminta untuk 
+menggambarkan ΔPQR beserta bayangannya setelah didilatasikan 
+dengan [O,2] mengikuti langkah-langkah yang diberikan.
+Langkah 1	 :	 Gambar ΔPQR sesuai koordinatnya.
+Langkah 2	 :	 Tentukan titik P' sehingga OP'=2×OP, titik 
+Q' sehingga OQ'=2×OQ, dan titik R' sehingga 
+OR'=2×OR.
+Langkah 3	 :	 Hubungkan titik P', Q', dan R', sehingga menjadi 
+segitiga P'Q'R'.
+	
+Untuk membantu kalian menentukan koordinat titik P', Q', dan 
+R', coba lengkapi bagian kosong pada Tabel 3.15 berikut ini.
+ Bab III - Transformasi Geometri 195
+Tabel 3.15 Dilatasi Titik P,Q, dan R dengan Faktor Skala 2
+Titik awal
+Dilatasi dengan 
+pusat dilatasi 
+O(0,0) dan faktor 
+skala 2
+Bayangan
+P(6,8)
+P'(2×...,2×...)
+P'(...,...)
+Q(-2,4)
+Q'(2×...,2×...)
+Q'(...,...)
+R(4,-2)
+R'(2×...,2×...)
+R'(...,...)
+Gambarlah ΔPQR dan ΔP'Q'R' sesuai dengan koordinat pada Tabel 
+3.15. Kemudian cobalah menjawab pertanyaan di bawah ini.
+B	 Apa saja faktor yang menentukan dalam proses dilatasi?
+C	 Jika titik A(x,y) didilatasikan terhadap [O,k], bagaimana 
+koordinat bayangannya? Tuliskan pada Tabel 3.16.
+Tabel 3.16 Hasil Dilatasi Titik A(x,y) terhadap [O,k]
+Titik awal
+A(x,y)
+Pusat dilatasi O(0,0)
+Faktor skala k
+Bayangan
+A'(...,...)
+D	 Untuk nilai k berapakah agar ukuran bangun dapat diperbesar? 
+Sebaliknya, untuk nilai k berapakah agar ukuran bangun dapat 
+diperkecil?
+E	 Tentukan koordinat dan gambarkan kembali bayangan dilatasi 
+ΔPQR jika faktor skala k=-2. Apakah yang dapat kalian 
+simpulkan?
+Pada aktivitas Eksplorasi 3.12, kalian telah mempelajari bagaimana 
+cara menentukan koordinat bayangan hasil dilatasi terhadap pusat 
+dilatasi di O(0,0), hanya dengan mengalikan titik koordinat awal 
+dengan faktor skalanya.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+196
+Dilatasi [O,k]
+Bayangan dari titik A(x,y) yang didilatasikan terhadap pusat 
+O(0,0) dengan faktor skala k adalah A'(kx, ky).
+Pada aktivitas Eksplorasi 3.14, kalian telah mempelajari bagaimana 
+langkah-langkah dalam menggambar bayangan hasil dilatasi. Untuk 
+lebih menguatkan pemahaman kalian mengenai dilatasi, selanjutnya 
+cermati Contoh 3.17 berikut.
+Contoh
+3.14
+Dilatasi terhadap [O,k]
+Diketahui ΔABC dengan A(-2,1), B(2,2) dan C(1,4). Tentukan 
+bayangannya jika segitiga tersebut didilatasikan dengan [O,2]! 
+Gambarkan segitiga tersebut beserta bayangannya pada bidang 
+koordinat!
+Alternatif Penyelesaian 
+Tabel 3. 17 Dilatasi ∆ABC Terhadap [O,2]
+Titik sudut 
+ABC
+(2x, 2y)
+Bayangan
+A(-2, 1)
+(2×(-2), 2×1)
+A'(-4, 2)
+B(2, 2)
+(2×2, 2×2)
+B'(4, 4)
+C(1, 4)
+(2×1, 2×4)
+C'(2, 8)
+1
+2
+3
+4
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+5
+6
+7
+8
+Gambar 3.74 Ilustrasi Dilatasi Segitiga ABC terhadap [O,k]
+ Bab III - Transformasi Geometri 197
+Diketahui ΔABC dengan A(-3,-2), B(6,4) dan C(1,-2). 
+Tentukan bayangan ΔABC yang didilatasikan terhadap [O, 2
+1 ]! 
+Gambarkan segitiga tersebut beserta bayangannya pada bidang 
+koordinat!
+Setelah kalian paham mengenai dilatasi [O,k], selanjutnya cermati 
+Contoh 3.15 untuk memahami langkah-langkah dilatasi terhadap 
+sebarang pusat. 
+Contoh
+3.15
+	 Dilatasi terhadap [P(a,b), k]
+Diketahui persegi panjang EFGH dengan E(1,0), F(3,0), G(3,1) 
+dan H(1,1). Tentukan bayangan persegi panjang EFGH yang 
+didilatasikan terhadap [P(2,3), 2]! Gambarkan segitiga tersebut 
+beserta bayangannya pada bidang koordinat!
+Alternatif Penyelesaian 
+Untuk memperoleh bayangan dari hasil dilatasi persegi panjang 
+EFGH kalian dapat mengikuti langkah-langkah berikut.
+Langkah 1	
+Gambarkan titik P(2,3) dan persegi panjang EFGH 
+pada bidang koordinat.
+1
+2
+3
+-1
+-2
+1
+2
+3
+4
+0
+Gambar 3.75 Persegi Panjang EFGH dan Titik P
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+198
+Langkah 2	
+Tariklah garis PE' melalui titik E sehingga  PE'=2×PE, 
+garis PF' melalui titik F sehingga PF'=2×PF, garis 
+PG' melalui titik G sehingga PG'=2×PG, dan garis 
+PH' melalui titik H sehingga PH'=2×PH.
+Langkah 3	
+Diperoleh titik E'(0,-3), F'(4,-3), G'(4,-1), dan 
+H'(0,-1). Hubungkan ke empat titik tersebut sehingga 
+terbentuk persegi panjang E'F'G'H'.
+1
+2
+3
+-1
+-2
+-3
+1
+2
+3
+4
+0
+Gambar 3.76 Hasil Dilatasi EFGH terhadap Titik P
+Dengan demikian diperoleh hubungan koordinat titik sudut EFGH 
+dan koordinat titik sudut E'F'G'H' yang merupakan hasil dilatasi 
+dengan pusat dilatasi P(2,3) dan faktor skala 2.
+Diketahui persegi panjang KLMN dengan K(4,-2), L(4,-4), 
+M(4,6) dan N(2,4). Tentukan bayangan persegi panjang tersebut 
+yang didilatasikan terhadap [P(2,2), -2]! Gambarkan segi 
+empat tersebut beserta bayangannya pada bidang koordinat!
+Ayo Mencoba
+ Bab III - Transformasi Geometri 199
+Uraian contoh 3.15 menunjukkan titik A(x,y) didilatasikan dengan 
+[P(a,b),k] menghasilkan bayangan A'(k(x-a)+a,k(y-b)+b))
+S i fa t
+3.11 	 Dilatasi [P(a,b),k]
+Bayangan dari titik A(x,y) yang didilatasikan terhadap pusat P(a,b) 
+dan faktor skala k adalah A'(k(x-a)+a,k(y-b)+b).
+Latihan
+E
+Dilatasi
+Pemahaman Konsep
+B	 Berdasarkan pengamatan kalian pada Gambar 3.77, jelaskan 
+apakah gambar berwarna biru merupakan hasil dilatasi dari 
+gambar berwarna merah? Berikan alasanmu.
+a. 	
+	
+b. 	
+c. 	
+	
+d.	
+e. 	
+75˚
+44˚
+75˚
+56˚
+	
+f. 	
+90˚
+116˚
+72˚
+82˚
+116˚
+72˚
+82˚
+90˚
+Gambar 3.77 Pasangan Bangun Datar
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+200
+C	 Gambar yang berwarna biru merupakan hasil dilatasi dari gambar 
+berwarna merah. Tentukan faktor skalanya!
+a.	
+1
+2
+3
+4
+1
+2
+3
+4
+0
+Gambar 3.78 Dilatasi Ruas 
+Garis AB
+	
+b. 	
+Gambar 3.79 Dilatasi Segitiga 
+ABC
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+-4
+-5
+-5
+c. 	
+Gambar 3.80 Dilatasi 
+Segiempat ABCD
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+-1
+-2
+0
+	
+d.	
+Gambar 3.81 Dilatasi Segitiga
+63°
+63°
+45°
+45°
+D	 Perhatikan Gambar 3.82!
+ 
+(i)
+(ii)
+(iii)
+Gambar 3.82 Dilatasi [O, 1 2
+1 ]
+ Bab III - Transformasi Geometri 201
+Salinlah bangun datar pada gambar tersebut, kemudian gambarlah 
+bayangan hasil dilatasi dengan pusat O dan faktor skala 1 2
+1 .
+Penerapan Konsep
+E	 Salinlah Gambar 3.83 berikut, kemudian gambarkan bayangan 
+dilatasi dengan berpusat di O dan faktor skala 2!
+ 
+1
+2
+3
+4
+1
+2
+3
+4
+0
+5
+6
+5
+6
+7
+8
+Gambar 3.83 Segitiga ABC
+	a.	 Hitunglah luas bangun awal dan bayangannya!
+	b.	 Berapakah perbandingan luas bangun awal dan bayangannya?
+F	 Gambarlah ΔOVW dengan O(0,0), V(-4,0), dan W(0,6).
+a.	 Gambarkan ΔOV'W' dengan dilatasi [O,- 1 2
+1 ]! Gambarkan 
+juga ΔOV''W'' dengan dilatasi [O, 1 2
+1 ]!
+	b.	 Tuliskan koordinat V',W',V''  dan W''!
+	c.	 Tentukan faktor skala dilatasi ΔOV'W' ke ΔOV''W''!
+G	 Suatu segitiga ABC siku-siku di titik B memiliki panjang AB=8 cm, 
+BC=15 cm, dan AC=17 cm. Jika ΔA'B'C' merupakan hasil dilatasi 
+dari ΔABC dengan faktor skala 3, maka luas ΔA'B'C' adalah…
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+202
+Ringkasan
+B	 Transformasi geometri merupakan perubahan suatu bentuk 
+geometri menjadi bentuk geometri yang lain, baik dengan cara 
+digeser, diputar, dicerminkan, didilatasikan atau cara lainnya.
+C	 Translasi (pergeseran)
+a.	 Translasi adalah perubahan posisi suatu objek (titik, garis, atau 
+bangun) dengan ukuran jarak dan arah yang sama.
+b.	 Bayangan titik A(x,y) oleh translasi b
+a
+`
+j adalah A'(x+a,y+b).
+D	 Refleksi (Pencerminan)
+a.	 Refleksi adalah transformasi yang memindahkan setiap titik 
+pada suatu objek dengan menggunakan sifat pada cermin datar.
+b.	 Bayangan titik P(x,y) yang direfleksikan terhadap sumbu x 
+adalah P'(x,-y).
+c.	
+Bayangan dari titik P(x,y) yang direfleksikan terhadap sumbu y 
+adalah P'(-x, y).
+d.	 Bayangan dari titik P(x,y) yang direfleksikan terhadap titik 
+pusat O(0,0) adalah P'(-x,-y).
+e.	 Bayangan titik P(x,y) yang direfleksikan terhadap garis y=x 
+adalah P'(y, x).
+f.	
+Bayangan titik P(x,y) yang direfleksikan terhadap garis y=-x 
+adalah P(-y,-x).
+g.	 Bayangan titik P(x, y) yang direfleksikan terhadap garis x=k 
+adalah P'(2k-x,y).
+h.	 Bayangan titik P(x,y) yang direfleksikan terhadap garis y=h 
+adalah P'(x, 2h-y).
+E	 Rotasi (Perputaran)
+a.	 Rotasi adalah transformasi dengan memutar suatu objek 
+sampai sudut dan arah tertentu terhadap titik yang tetap/titik 
+pusat rotasi.
+b.	 Rotasi pada bidang datar ditentukan oleh pusat rotasi, besar 
+sudut rotasi, dan arah rotasi.
+ Bab III - Transformasi Geometri 203
+		
+Tabel 3.19 Bayangan Hasil Rotasi Titik
+Titik 
+Awal
+Pusat 
+Rotasi
+Sudut 
+Rotasi
+Arah Rotasi
+Bayangan 
+Hasil 
+Rotasi
+(x, y)
+(0,0)
+90°
+Searah jarum jam
+(y,-x)
+(x, y)
+(0,0)
+90°
+Berlawanan arah 
+jarum jam
+(-y, x)
+(x, y)
+(0,0)
+180°
+Searah jarum jam/
+berlawanan arah 
+jarum jam
+(-x,-y)
+(x, y)
+(0,0)
+270°
+Searah jarum jam
+(-y, x)
+(x, y)
+(0,0)
+270°
+Berlawanan 
+arah 
+jarum jam
+(y,-x)
+F	 Kekongrunenan
+a.	 Suatu bangun dikatakan kongruen dengan bangun yang lain 
+jika dapat dipindahkan dengan melakukan translasi, refleksi, 
+atau rotasi agar kedua bangun tepat saling berimpit.
+b.	 Dua buah segi banyak dikatakan saling kongruen jika memenuhi 
+syarat berikut.
+1)	 sisi-sisi yang bersesuaian sama panjang, dan
+2)	 sudut-sudut yang bersesuaian sama besar. 
+c.	
+Dua segitiga akan kongruen jika memenuhi salah satu dari 
+kriteria berikut.
+1)	 Ketiga sisi yang bersesuaian sama panjang (S-S-S)
+2)	 Dua sisi yang bersesuaian sama panjang dan sebuah sudut 
+yang diapit sama besar (S-Sd-S)
+2)	 Satu sisi yang bersesuaian sama panjang dan dua sudut 
+sama besar (Sd-S-Sd)
+G	 Dilatasi (Pembesaran)
+a.	 Setiap titik A yang didilatasikan pada pusat O dan faktor skala 
+k berlaku 
+'
+AO
+kOA
+=
+.
+A
+A
+Faktor skala
+jarak dari pusat dilatasi ke titik
+jarak dari pusat dilatasi ke titik
+l
+=
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+204
+	b.	 Dilatasi dengan pusat O dan faktor skala k dapat dinotasikan 
+dengan [O,k].
+	c.	 Bayangan dari titik A(x,y) yang didilatasikan terhadap pusat 
+O(0,0) dan faktor skala k adalah A'(kx,ky).
+	d.	 Bayangan dari titik A(x,y) yang didilatasikan terhadap pusat 
+P(a,b) dan faktor skala k adalah A'(k(x-a)+a,k(y-b)+b).
+Uji Kompetensi
+Jawablah pertanyaan berikut dengan tepat dan jelas!
+Uji Pemahaman
+Benar atau Salah. Untuk soal nomor 1–10, tentukan apakah 
+pernyataan-pernyataan berikut benar atau salah.
+B	 Jenis transformasi yang tidak mengalami perubahan ukuran pada 
+bangun datar adalah translasi dan dilatasi.
+C	 Transformasi yang bayangannya memiliki orientasi berlawanan 
+dengan bentuk awal adalah refleksi.
+D	 Suatu titik yang ditranslasikan oleh 4
+5
+a
+k dilanjutkan translasi oleh 
+6
+8
+-
+-
+b
+l akan menghasilkan koordinat yang sama dengan koordinat 
+awal jika ditranslasikan oleh 
+2
+3
+-
+-
+b
+l.
+E	 Suatu titik dirotasikan sebesar 140º yang diikuti dengan rotasi 
+sebesar 260º dengan arah yang sama akan menghasilkan bayangan 
+yang sama jika titik tersebut dirotasikan sebesar 40º.
+F	 Titik A(3,4) direfleksikan terhadap titik pusat (0,0) akan 
+menghasilkan bayangan yang sama dengan translasi oleh 
+8
+6
+-
+-
+b
+l.
+G	 Dua bangun yang memiliki sudut yang bersesuaian sama besar 
+akan kongruen jika terdapat satu sisi yang bersesuaian sama besar.
+H	 Bangun A dikatakan kongruen dengan bangun B jika dapat 
+ditunjukkan bahwa bangun A merupakan hasil transformasi dari 
+bangun B.
+I	 Jika suatu persegi didilatasikan dengan faktor skala 2 maka luas 
+bayangan menjadi 2 kali dari luas persegi awal.
+ Bab III - Transformasi Geometri 205
+J	 Segitiga ABC dengan A(-2,3), B(4,1), C(-2,1) yang didilatasikan 
+terhadap 
+,
+O 2
+1
+:
+D akan menghasilkan bayangan A'B'C' dengan 
+'
+,
+A
+1 2
+3
+-
+a
+k, 
+,
+B 2 2
+1
+la
+k, 
+,
+C
+1 2
+1
+-
+a
+k.
+K	 Gambar B merupakan hasil dilatasi dari gambar A dengan faktor 
+skala 2 dan pusat dilatasi O(0,0)
+ 
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+6
+5
+-4
+Gambar 3.84 Hasil Dilatasi Bangun Datar A
+Menggambar. Untuk soal nomor 11–13, salinlah gambar pada kertas 
+berpetak dan lakukan transformasinya.
+L	 Refleksikan bangun datar berikut terhadap garis refleksi l.
+ 
+Gambar 3.85 Hasil Refleksi Terhadap Garis Refleksi l
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+206
+M	 Rotasikan bangun datar berikut sebesar 180º terhadap pusat rotasi 
+O.
+ 
+Gambar 3.86 Hasil Rotasi Titik Pusat O
+N	 Translasikan bangun datar berikut berdasarkan arah translasi yang 
+diberikan
+ 
+Gambar 3.87 Hasil Translasi Segi Empat
+Untuk nomor 14–15, salinlah bangun datar berikut dan gambarkan 
+bayangan sesuai dengan aturan yang diberikan. Selanjutnya identifikasi 
+jenis transformasinya.
+O	 (x, y)"(x+3, y)
+ 
+Gambar 3.88 Transformasi (x, y)"(x+3, y)
+ Bab III - Transformasi Geometri 207
+P	 (x, y)"(-x, y)
+y
+x
+Gambar 3.89 Transformasi (x, y)"(-x, y)
+Isian Singkat. Untuk no 18–22, isilah titik-titik pada pernyataan berikut 
+sehingga menjadi pernyataan lengkap dan benar.
+Q	 Pencerminan terhadap titik pusat (0,0) akan menghasilkan 
+bayangan yang sama dengan jika dirotasikan sebesar … terhadap 
+titik pusat (0,0).
+R	 Titik A(3,-4) yang direfleksikan terhadap sumbu x memiliki 
+bayangan di ….
+S	 Hasil bayangan titik (x,y) yang dirotasikan sebesar 90º berlawanan 
+arah jarum jam terhadap titik pusat  (0,0) adalah ….
+T	 Titik P(-3,2) dicerminkan terhadap sumbu y akan menghasilkan 
+bayangan di titik ….
+U	 Garis 3x+y=3 di translasikan sebesar 
+3
+4
+-
+b
+l. Bayangannya adalah 
+….
+V	 Titik M'(-5,-4) merupakan hasil rotasi sebesar 180º terhadap titik 
+pusat (0,0). Titik awalnya adalah ….
+W	 Diketahui 
+titik 
+W(u,v) 
+dicerminkan 
+terhadap 
+garis 
+y=3 
+menghasilkan bayangan di titik W'(-3,2), maka nilai u+v adalah 
+….
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+208
+Penerapan
+Permainan Golf. Untuk soal 23-24. Dimulai dari titik V, tentukan titik 
+sasaran pada dinding agar bola golf tepat memantul hanya satu kali 
+dari dinding dan masuk ke lubang W.
+X	
+V
+W
+Gambar 3.90 Bentuk Lapangan Golf I
+Y	
+V
+W
+Gambar 3.91 Bentuk Lapangan Golf II
+Penalaran
+Z	 Jalan raya sedang dibangun dekat dengan dua desa yaitu Desa 
+Warnasari dan Desa Lebakdenok. Dari kedua desa akan dibangun 
+jalan menuju satu titik persimpangan jalan raya. Tentukan letak 
+titik persimpangan sehingga jarak dari Desa Warnasari ke Desa 
+Lebakdenok terpendek. Berikan alasanmu!
+ Bab III - Transformasi Geometri 209
+ 
+Gambar 3.92 Menemukan Persimpangan Terdekat
+8	 Perhatikan gambar 3.93.
+B
+C
+D
+A
+E
+Gambar 3.93 Segitiga ABC
+∆ABC siku-siku di B. CD adalah garis bagi ∠BCA dan panjang 
+AB=BC. Tunjukkan bahwa AC=BC+DE!
+Proyek
+Desain Batik Kamu Sendiri
+Sekarang kalian akan belajar menjadi seorang Seniman Batik! Di 
+aktivitas ini, kalian akan membuat desain batik yang indah dengan 
+menggunakan aplikasi Geometry. Untuk itu, siapkan terlebih dahulu 
+aplikasi GeoGebra secara online melalui link berikut: www.geogebra.
+org/download. Selanjutnya pilih aplikasi Geometry dengan mengklik 
+START.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+210
+Untuk mengoptimalkan aplikasi Geometry secara online, kalian 
+dapat Sign In dengan menggunakan akun masing-masing. Untuk yang 
+belum mempunyai akun di GeoGebra, kalian dapat langsung Sign In 
+menggunakan akun Google, Microsoft Office 365, Facebook, atau Twitter.
+Setelah kalian siap menggunakan aplikasi Geometry, lakukan 
+langkah-langkah berikut bersama dengan 2 – 3 teman kalian.
+B	 Klik menu Tools 
+, kemudian pada Basic Tools klik Polygon 
+.  
+C	 Buatlah bangun datar/poligon sebagai pola awal. Sebagai inspirasi 
+kalian dapat membuat bangun ABCDEF pada bidang koordinat 
+seperti terlihat pada Gambar 3.94.
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+6
+5
+4
+-5
+Gambar 3.94 Contoh bangun datar awal 
+D	 Selanjutnya lakukan transformasi geometri pada bangun yang 
+kalian buat dengan memilih menu Transform pada menu Tools. 
+	
+: 	 Translasi sejauh garis vector.
+	
+ : 	 Refleksi terhadap garis.
+ 	
+: 	 Rotasi terhadap titik pusat.	
+ 
+	
+: 	 Refleksi terhadap titik.
+ 
+	
+: 	 Dilatasi terhadap titik dilatasi.	 	
+ Bab III - Transformasi Geometri 211
+E	 Proses transformasi dapat kalian lihat pada gambar di bawah ini.
+a.	 Setelah dilakukan 
+beberapa transformasi
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+6
+5
+-4
+-5
+Gambar 3.95 Transformasi I
+b.	 Mengambil pola yang 
+diinginkan
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+6
+5
+-4
+-5
+Gambar 3.96 Transformasi II
+c.	
+Pola yang diinginkan
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+0
+5
+-4
+-5
+Gambar 3.97 Transformasi III
+d.	 Melakukan proses dilatasi
+1
+2
+3
+4
+-1
+-2
+-3
+1
+2
+3
+4
+-1
+-2
+-3
+-4
+-4
+0
+Gambar 3.98 Transformasi IV
+e.	 Pewarnaan
+Gambar 3.99 Transformasi V
+f.	
+Desain akhir batik
+Gambar 3.100 Transformasi VI
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+212
+F	 Hasil desain batik yang diperoleh sekali lagi hanya sebagai inspirasi. 
+Ayo kembangkan kreativitas kalian untuk membuat desain batik 
+kalian sendiri! Kemudian presentasikan hasil desain batik kalian di 
+depan kelas.
+G	 Catat berapa banyak kalian melakukan transformasi geometri 
+dalam membuat desain batik.
+H	 Berapa banyak bangun yang kongruen yang sudah kalian buat?
+Sumber Belajar Lanjutan
+Berikut ini adalah beberapa sumber belajar lain yang dapat kalian 
+gunakan untuk memperdalam atau memperluas pengetahuan kalian 
+mengenai transformasi geometri.
+Laman ini merupakan geogebra book sebagai 
+aktivitas interaktif untuk mempelajari langkah-
+langkah dalam melakukan transformasi geometri.
+http://ringkas.kemdikbud.go.id/TransGeo 
+Kalian 
+dapat 
+mempelajari 
+konsep-konsep 
+transformasi pada Unit 1. Rigid Transformations 
+and Congruence dan Unit 2. Dilations, Similarity, 
+and Introducing Slope.
+http://ringkas.kemdikbud.go.id/TransKongruen
+Refleksi
+Kalian telah menyelesaikan pembelajaran Bab 3 Transformasi 
+Geometri. Untuk itu, ayo berefleksi dengan menanggapi pertanyaan 
+atau pernyataan berikut!
+B	 Manfaat apa saja yang kalian rasakan dan pikirkan mengenai 
+transformasi geometri?
+C	 Bagaimana cara belajar kalian selama mempelajari transformasi 
+geometri? Apakah sudah berhasil atau belum?
+ Bab III - Transformasi Geometri 213
+D	 Sekarang, nilailah diri kalian sendiri dengan mencentang bagian 
+yang sesuai pada tabel berikut.
+No.
+TARGET PEMBELAJARAN
+Translasi
+1.
+Aku dapat memahami pengertian translasi 
+dengan baik.
+2.
+Aku dapat menunjukkan bentuk bangun 
+hasil translasi.
+3.
+Aku dapat menentukan koordinat hasil 
+translasi pada bidang koordinat.
+Refleksi
+4.
+Aku dapat memahami pengertian refleksi 
+dengan baik.
+5.
+Aku 
+mengetahui 
+cara 
+merefleksikan 
+bangun pada bidang koordinat.
+6.
+Aku dapat menentukan koordinat hasil 
+refleksi pada bidang koordinat.
+Rotasi
+7.
+Aku dapat memahami pengertian rotasi 
+dengan baik.
+8.
+Aku mengetahui cara merotasikan bangun 
+pada bidang koordinat.
+9.
+Aku dapat menentukan koordinat hasil 
+rotasi pada bidang koordinat.
+Kekongruenan
+10.
+Aku dapat memahami pengertian kongruen 
+dengan baik.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+214
+No.
+TARGET PEMBELAJARAN
+11.
+Aku mengetahui ciri-ciri bangun yang 
+saling kongruen.
+Dilatasi
+12.
+Aku dapat memahami pengertian dilatasi 
+dengan baik.
+13.
+Aku 
+mengetahui 
+cara 
+mendilatasikan 
+bangun pada bidang koordinat.
+14.
+Aku dapat menentukan koordinat hasil 
+dilatasi pada bidang koordinat.

@@ -1,0 +1,2609 @@
+BAB 4
+Akuntansi
+Pada bab ini, kalian akan mempelajari akuntansi. Setelah mempe­
+lajari bab ini, kalian mampu memahami peranan akuntansi sebagai 
+alat bantu dalam pengambilan keputusan keuangan dan ekonomi, 
+serta menyajikan hasil laporan keuangan pada salah satu badan 
+usaha di Indonesia. 
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI  
+REPUBLIK INDONESIA, 2022
+Buku Siswa Ekonomi untuk SMA/MA Kelas XII
+Penulis: Aisyah Nurjanah dan Yeni Fitriani
+ISBN 978-602-427-972-1 (jil.2)
+134   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Peta Konsep
+BAB 4 — AKUNTANSI   ●   135
+Pertanyaan Pemantik
+Pernahkah kalian melihat sebuah perusahaan yang mengalami 
+kerugian sehingga menyebabkan kebangkrutan? 
+Bagaimana kalian bisa mengetahui perusahaan mengalami kerugian?
+Kata Kunci
+Akun, akuntan, aset, beban, ekuitas, laporan keuangan, liabilitas, modal, 
+pendapatan, utang, prinsip akuntansi, dan persamaan dasar akuntansi.
+Apersepsi 
+Di kelas XI, kalian sudah mempelajari konsep badan usaha. Kinerja 
+sebuah badan usaha akan terlihat dari laporan keuangan yang 
+dibuatnya. Adanya informasi laporan keuangan yang relevan dan 
+dapat dipercaya menjadi modal utama keberlangsungan usaha badan 
+usaha tersebut. Setelah membuat perencanaan usaha atau bisnis, lebih 
+lanjut kalian perlu mempelajari tentang bagaimana menyusun laporan 
+keuangan sesuai dengan jenis usaha yang kalian rintis, agar kalian 
+mampu mengambil keputusan berdasarkan laporan keuangan yang 
+telah dibuat. Laporan keuangan perusahaan digunakan oleh investor, 
+karyawan, pemberi pinjaman, pemasok, kreditur usaha lainnya, 
+pelanggan, pemerintah, lembaga-lembaga lainnya, dan masyarakat 
+untuk menentukan berbagai macam keputusan bisnis. Pada bab ini, 
+kalian akan mempelajari materi akuntansi yang meliputi konsep 
+ilmu akuntansi, pencatatan persamaan dasar akuntansi, dan laporan 
+keuangan. Sejumlah informasi yang tidak termuat dalam buku ini 
+dapat kalian cari dari sumber lain yang relevan. Pelajarilah bab ini 
+dengan saksama!
+136   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Gambar 4.1 Laporan keuangan perusahaan.
+Sumber: Unsplash/Scott Graham (2016)
+A.	
+Persamaan Dasar Akuntansi
+1.	 Konsep Akuntansi
+Menurut Ikatan Akuntan Indonesia (IAI), akuntansi merupakan ilmu 
+yang mencatat, menganalisis, dan mengomunikasikan transaksi 
+atau kejadian ekonomi suatu entitas bisnis yang bertujuan untuk 
+menghasilkan dan melaporkan informasi yang relevan bagi berbagai 
+pihak yang berkepentingan dalam mengambil keputusan. 
+Menurut Rudianto (2012), akuntansi merupakan sistem informasi 
+yang menghasilkan laporan kepada pihak-pihak yang berkepentingan 
+mengenai aktivitas ekonomi dan kondisi suatu badan usaha. 
+Berdasarkan pengertian tersebut, terdapat tiga poin penting dari 
+pengertian akuntansi, sebagai berikut.
+BAB 4 — AKUNTANSI   ●   137
+a.	 Proses mencatat, menganalisis, dan mengomunikasikan transaksi 
+ekonomi.
+b.	 Produk yang dihasilkan merupakan laporan keuangan.
+c.	
+Digunakan sebagai dasar dalam pengambilan keputusan. Itulah 
+sebabnya akuntansi disebut sebagai bahasa bisnis (language of 
+business). 
+Sebagai bahasa bisnis, akuntansi memberikan banyak manfaat 
+bagi badan usaha. Adapun manfaatnya, sebagai berikut.
+a.	 Menyediakan informasi ekonomi suatu perusahaan yang akan 
+digunakan sebagai dasar pengambilan keputusan.
+b.	 Memberikan gambaran tentang kondisi perusahaan dari satu 
+periode ke periode yang lain.
+c.	
+Merupakan bentuk pertanggungjawaban kepada pihak luar 
+perusahaan.
+Orang atau pihak yang bekerja di bidang akuntansi disebut sebagai 
+akuntan. Pernahkan kalian mendengar profesi akuntan? 
+Untuk menambah pengetahuan kalian tentang profesi akuntan, 
+kerjakan aktivitas berikut.
+Aktivitas 1
+Apakah Kalian Tahu Profesi Akuntan?
+Bagian 1 - Wawancara
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+2.	 Lakukan wawancara kepada saudara atau keluarga yang berprofesi 
+akuntan. 
+138   ●   EKONOMI UNTUK SMA/MA KELAS XII
+3.	 Ajukan berbagai pertanyaan yang terdapat dalam tabel berikut ini 
+sebagai alat bantu kalian dalam melakukan wawancara.
+No.
+Daftar Pertanyaan
+Jawaban
+1.
+Berapa lama kalian menjadi seorang 
+akuntan?
+2.
+Apa yang kalian kerjakan sebagai 
+seorang akuntan di kantor tempat 
+kalian bekerja?
+3.
+Apa tahapan yang sudah kalian lalui 
+untuk menjadi seorang akuntan?
+4.
+Bagaimana etika profesi yang harus 
+kalian jalankan sebagai seorang 
+akuntan?
+5.
+Apa suka dan duka yang kalian alami 
+selama bekerja sebagai seorang 
+akuntan?
+Buatlah kesimpulan mengenai profesi akuntan berdasarkan 
+wawancara yang telah kalian lakukan!
+Bagian 2 - Mencari Informasi tentang Profesi Akuntan
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+2.	 Carilah informasi dari sumber yang relevan terkait profesi akuntan 
+di Indonesia!
+3.	 Berdasarkan hasil pencarian yang telah kalian lakukan, jawablah 
+pertanyaan berikut!
+Pertanyaan
+1.	 Apa yang dikerjakan oleh seorang akuntan?
+BAB 4 — AKUNTANSI   ●   139
+2.	 Apa saja jenis profesi akuntan yang ada di Indonesia?
+3.	 Apa langkah yang harus dilakukan apabila ingin berprofesi sebagai 
+seorang akuntan?
+4.	 Isilah daftar berikut ini!
+Kelebihan Profesi Akuntan
+Kekurangan Profesi Akuntan
+2.	 Penggolongan Akun
+Akun disebut juga rekening atau perkiraan, merupakan daftar untuk 
+mencatat perubahan aset, liabilitas, ekuitas, perubahan pendapatan 
+dan beban dari transaksi keuangan. Dengan kata lain, akun merupakan 
+alat untuk mencatat transaksi. Terdapat dua kelompok akun, yaitu akun 
+riil dan akun nominal. Adapun pembagiannya sebagai berikut.
+ 
+Bagan 1. Penggolongan akun
+140   ●   EKONOMI UNTUK SMA/MA KELAS XII
+a.	 Akun riil
+Akun riil merupakan akun yang tercantum dalam laporan posisi 
+keuangan. Menurut standar akuntansi keuangan (SAK) entitas mikro 
+kecil dan menengah (EMKM), akun riil terdiri dari tiga akun, sebagai 
+berikut.
+1)	 Aset
+Aset merupakan sumber daya yang dikuasai oleh entitas sebagai 
+hasil usaha di masa lalu, manfaat ekonomi di masa depan 
+diharapkan akan diperoleh oleh entitas. Aset juga diartikan sebagai 
+sumber daya yang dimiliki oleh perusahaan, berupa kumpulan 
+dari berbagai harta atau kekayaan yang dimiliki perusahaan dan 
+bisa dipergunakan untuk memperoleh penghasilan selama tahun 
+berjalannya perusahaan. 
+2)	 Liabilitas
+Liabilitas merupakan kewajiban terkini entitas yang timbul dari 
+peristiwa masa lalu, penyelesaiannya mengakibatkan arus keluar 
+dari sumber daya entitas yang mengandung manfaat ekonomi. 
+Sederhananya, liabilitas merupakan kewajiban perusahaan untuk 
+membayar kepada pihak lain berupa sejumlah uang maupun 
+barang di masa depan akibat transaksi di masa lalu. 
+3)	 Ekuitas
+Ekuitas merupakan hak residual atas aset entitas setelah dikurangi 
+liabilitasnya. Dengan kata lain, ekuitas merupakan salah satu 
+sumber dana perusahaan dari pemilik perusahaan maupun 
+pemegang saham. 
+b.	 Akun nominal
+Akun nominal akan tercantum di laporan laba rugi di akhir periode. 
+Akun ini terdiri dari dua akun, sebagai berikut.
+BAB 4 — AKUNTANSI   ●   141
+1)	 Pendapatan 
+Merupakan hasil yang diperoleh dari kegiatan usaha atau berasal 
+dari kegiatan operasional perusahaan yang mengalir ke kas 
+perusahaan. 
+2)	 Beban 
+Merupakan uang yang dikeluarkan oleh perusahaan untuk 
+menunjang kegiatan operasionalnya. 
+Untuk menambah informasi tentang penggolongan akun, kerjakan 
+lembar aktivitas berikut! 
+Aktivitas 2
+Penggolongan Akun
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berkelompok!
+2.	 Buatlah bagan penggolongan akun dalam karton dengan cara 
+mengelompokkan jenis-jenis akun di bawah ini sesuai dengan 
+kelompoknya!
+3.	 Presentasikan hasil pengerjaan kelompok kalian di depan kelas! 
+Setelah itu, tempelkan kartonnya di dinding kelas!
+Jenis-Jenis Akun
+Pendapatan jasa
+Gedung/Bangunan
+Utang dagang
+Utang usaha
+Peralatan
+Pendapatan diterima 
+dimuka 
+Piutang usaha
+Beban asuransi
+Beban sewa
+Utang obligasi
+Mesin
+Kendaraan
+142   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Jenis-Jenis Akun
+Laba penjualan aset
+Beban listrik, air, dan 
+telepon
+Sewa dibayar dimuka
+Pendapatan 
+penjualan barang
+Pendapatan usaha
+Biaya yang masih harus 
+dibayar
+Surat berharga
+Hak paten
+Pendapatan bunga
+Utang hipotek
+Goodwill
+Perlengkapan
+Prive
+Beban gaji
+Beban bunga
+Hak cipta
+Modal pemilik
+Utang bank
+Utang gaji
+Tanah
+Kas
+BAB 4 — AKUNTANSI   ●   143
+144   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Untuk 
+mengecek 
+penguasaan 
+materi 
+kalian 
+terhadap 
+materi 
+penggolongan akun, kerjakan aktivitas berikut.
+Aktivitas 3
+Post Test : Penggolongan Akun
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+BAB 4 — AKUNTANSI   ●   145
+2.	 Berilah tanda centang (✓) pada setiap kolom jawaban yang dianggap 
+benar!
+Keterangan:
+A = Aset
+P = Pendapatan
+L = Liabilitas
+B = Beban 
+E = Ekuitas
+No.
+Nama Akun
+A
+L
+E
+P
+B
+1.
+Kas 
+2.
+Pendapatan diterima dimuka
+3.
+Beban yang masih harus dibayar
+4.
+Kendaraan 
+5.
+Beban gaji
+6.
+Beban bunga
+7.
+Pendapatan sewa
+8.
+Gaji yang masih harus dibayar
+9.
+Sewa diterima dimuka
+10.
+Prive
+11.
+Akumulasi penyusutan kendaraan
+12.
+Modal pemilik
+146   ●   EKONOMI UNTUK SMA/MA KELAS XII
+No.
+Nama Akun
+A
+L
+E
+P
+B
+13.
+Beban penyusutan
+14.
+Piutang usaha
+15.
+Asuransi dibayar dimuka
+16.
+Laba penjualan kendaraan
+17.
+Utang hipotek
+18.
+Hak paten
+19.
+Perlengkapan kantor
+20.
+Pendapatan bunga
+3.	 Sumber Pencatatan Transaksi
+Pernahkan kalian menerima nota belanja setiap membeli sesuatu? 
+Seberapa penting bukti transaksi dalam transaksi keuangan?
+BAB 4 — AKUNTANSI   ●   147
+Gambar 4.2 Contoh nota belanja.
+Sumber: Yeni Fitriani/Kemendikbudristek (2022)
+Setiap melakukan pencatatan transaksi keuangan, harus mengacu 
+kepada dokumen sumber pencatatan atau yang biasa disebut bukti 
+transaksi. Hal ini sangat diperlukan karena bukti transaksi merupakan 
+bukti yang sah dan bisa dipertanggungjawabkan sebelum mencatatnya 
+ke dalam transaksi keuangan. Terdapat dua jenis bukti transaksi, 
+sebagai berikut.
+a.	 Bukti internal
+Bukti internal merupakan bukti yang bersumber dari dalam perusahaan 
+itu sendiri. Contohnya adalah memo. Memo merupakan bukti transaksi 
+yang dikeluarkan oleh pimpinan perusahaan atau pihak yang memiliki 
+wewenang di perusahaan tersebut. 
+148   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Gambar 4.3 Contoh memo.
+Sumber: Yeni Fitriani/Kemendikbudristek (2022)
+b.	 Bukti eksternal
+Bukti eksternal merupakan bukti yang bersumber dari transaksi 
+dengan pihak luar perusahaan. Adapun yang termasuk dalam bukti 
+eksternal sebagai berikut.
+1)	 Kuitansi
+Menurut Kamus Besar Bahasa Indonesia (KBBI), kuitansi merupakan 
+surat bukti penerimaan uang. Dengan kata lain, kuitansi merupakan 
+bukti transaksi penerimaan uang atas pembayaran tertentu secara 
+tunai.
+Gambar 4.4 Contoh kuitansi.
+Sumber: Yeni Fitriani/Kemendikbudristek (2022)
+BAB 4 — AKUNTANSI   ●   149
+2)	 Cek
+Cek merupakan bukti transaksi yang berupa surat perintah untuk 
+memindahkan sejumlah uang dari pihak yang memiliki rekening di 
+suatu bank kepada pihak lain sesuai permintaan pemilik rekening. 
+Gambar 4.5 Contoh cek.
+Sumber: Bank Indonesia (2020)
+3)	 Nota kontan
+Nota kontan merupakan bukti transaksi yang dikeluarkan oleh 
+penjual kepada pembeli yang melakukan transaksi jual beli secara 
+tunai.
+Gambar 4.6 Contoh nota kontan.
+Sumber: Yeni Fitriani/Kemendikbudristek (2022)
+150   ●   EKONOMI UNTUK SMA/MA KELAS XII
+4)	 Faktur
+Faktur merupakan bukti transaksi yang dikeluarkan oleh penjual 
+kepada pembeli untuk transaksi jual beli secara kredit.
+Gambar 4.7 Bukti transaksi faktur.
+Sumber: Yeni Fitriani/Kemendikbudristek (2022)
+5)	 Nota debit
+Nota debit merupakan bukti transaksi yang dikeluarkan oleh 
+pembeli karena ingin mengembalikan barang yang telah dibeli 
+kepada penjual. Nota debit digunakan untuk transaksi retur 
+pembelian.
+BAB 4 — AKUNTANSI   ●   151
+Gambar 4.8 Contoh nota debit.
+Sumber: Yeni Fitriani/Kemendikbudristek (2022)
+6)	 Nota kredit
+Nota kredit merupakan bukti transaksi yang dikeluarkan oleh 
+penjual apabila menerima pengembalian barang dari pembeli. 
+Ketika terjadi suatu transaksi jual beli, dan pembeli mengembalikan 
+barang yang telah dibeli karena rusak atau tidak sesuai pesanan 
+maka bukti transaksi yang dikeluarkan oleh penjual tersebut 
+dinamakan nota kredit. Sederhananya nota kredit digunakan untuk 
+transaksi retur penjualan.
+152   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Gambar 4.9 Contoh nota kredit.
+Sumber: Yeni Fitriani/Kemendikbudristek (2022)
+4.	 Konsep Persamaan Dasar Akuntansi
+Tahukah kalian persamaan dasar akuntansi? Menyusun persamaan 
+dasar akuntansi merupakan langkah awal yang bisa dilakukan untuk 
+mempermudah dalam melakukan proses pencatatan dan pelaporan 
+transaksi keuangan. 
+Persamaan dasar akuntansi merupakan sistematika pencatatan 
+yang menggambarkan suatu hubungan pada perusahaan yaitu 
+meliputi pengaruh transaksi terhadap posisi keuangan perusahaan 
+yang meliputi aset dengan sumber dananya. 
+Pada persamaan dasar akuntansi, kalian akan mengetahui posisi 
+keseimbangan keuangan dari suatu perusahaan, dalam posisi keuangan 
+tersebut terdapat aset, liabilitas, dan ekuitas.
+BAB 4 — AKUNTANSI   ●   153
+Persamaan dasar akuntansi diperlukan untuk mengenalkan 
+pencatatan transaksi keuangan. Setiap transaksi akan dicatat secara 
+berpasangan dan menggunakan prinsip keseimbangan antara aktiva 
+dengan pasiva. Adapun bentuk persamaan dasar akuntansi sebagai 
+berikut.
+Aset = Liabilitas+ Ekuitas
+Kolom sebelah kiri menunjukkan aktiva yang meliputi aset atau 
+harta, sedangkan di kolom kanan menunjukkan adanya pasiva, 
+meliputi utang dan modal. Sederhananya persamaan dasar akuntansi 
+akan mencatat sebagai berikut.
+a.	 Sumber pendanaan perusahaan baik yang bersumber dari modal 
+sendiri maupun dari pinjaman pihak ketiga.
+b.	 Pengalokasian uang yang diperoleh perusahaan.
+Apabila mempertimbangkan unsur pendapatan dan beban, maka 
+bentuk persamaan dasar akuntansinya sebagai berikut.
+Aset = Liabilitas+ Ekuitas+ Pendapatan - Beban
+Persamaan dasar akuntansi tidak hanya mencatat transaksi. 
+Persamaan dasar akuntansi berkaitan langsung dengan harta, 
+utang, dan modal. Persamaan dasar akuntansi juga digunakan untuk 
+mengetahui pengaruh dari pendapatan dan juga beban terhadap ketiga 
+akun tersebut. 
+5.	 Analisis Transaksi Persamaan Dasar Akuntansi
+Suatu transaksi keuangan akan sangat berpengaruh terhadap 
+persamaan dasar akuntansi. Berdasarkan rumus, suatu transaksi 
+dalam persamaan dasar akuntansi akan memengaruhi kondisi aset, 
+liabilitas, dan ekuitas. Adapun jenis transaksi yang biasa ditemukan 
+dalam transaksi persamaan dasar akuntansi, sebagai berikut.
+154   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Tabel 4.1 Jenis Transaksi dalam Persamaan Dasar Akuntansi
+Jenis Transaksi
+Contoh Transaksi
+Perubahan aset yang akan diikuti 
+oleh perubahan aset yang lain.
+Pembelian perlengkapan maupun 
+peralatan secara tunai.
+Perubahan aset akan diikuti 
+perubahan liabilitas dalam jumlah 
+yang sama.
+a.	
+Pembelian perlengkapan 
+maupun peralatan secara 
+kredit.
+b.	
+Transaksi peminjaman uang 
+kepada pihak lain.
+Perubahan aset akan diikuti oleh 
+perubahan ekuitas dengan jumlah 
+yang sama.
+a.	
+Kegiatan investasi pemilik.
+b.	
+Transaksi penerimaan 
+pendapatan.
+c.	
+Transaksi pembayaran beban 
+untuk kegiatan operasional 
+perusahaan.
+d.	
+Pengambilan uang tunai untuk 
+kepentingan pribadi.
+Dalam transaksi persamaan dasar akuntansi, sebuah transaksi akan 
+dapat menambah maupun mengurangi aset, liabilitas, dan ekuitas. 
+Secara praktis, perubahan transaksinya disajikan dalam tabel berikut!
+Tabel 4.2 Pengaruh Transaksi dalam Persamaan Dasar Akuntansi
+No.
+Transaksi
+Pengaruh Pencatatan
+Aset 
+Liabilitas
+Ekuitas
+1.
+Pembelian 
+perlengkapan 
+maupun peralatan 
+secara tunai.
+Bertambah 
+dan 
+berkurang
+BAB 4 — AKUNTANSI   ●   155
+No.
+Transaksi
+Pengaruh Pencatatan
+Aset 
+Liabilitas
+Ekuitas
+2.
+Pembelian 
+perlengkapan 
+maupun peralatan 
+secara kredit.
+Bertambah
+Bertambah
+3.
+Peminjaman uang 
+kepada pihak lain.
+Bertambah
+Bertambah
+4.
+Pembayaran 
+utang.
+Berkurang
+Berkurang
+ 
+5.
+Penerimaan 
+pendapatan secara 
+tunai.
+Bertambah
+ 
+Bertambah
+6.
+Penerimaan 
+pendapatan 
+secara kredit/
+penerimaan yang 
+ditangguhkan.
+Bertambah
+ 
+Bertambah
+7.
+Transaksi investasi 
+awal dari pemilik 
+perusahaan.
+Bertambah
+ 
+Bertambah
+8.
+Pembayaran 
+beban-beban 
+untuk kegiatan 
+perusahaan.
+Berkurang
+ 
+Berkurang
+9.
+Pengambilan uang 
+tunai perusahaan 
+untuk kepentingan 
+pribadi.
+Berkurang
+ 
+Berkurang
+156   ●   EKONOMI UNTUK SMA/MA KELAS XII
+No.
+Transaksi
+Pengaruh Pencatatan
+Aset 
+Liabilitas
+Ekuitas
+10.
+Penerimaan 
+pelunasan 
+piutang.
+Bertambah 
+dan 
+berkurang
+ 
+ 
+Adapun contoh analisis transaksi dan pencatatannya adalah sebagai 
+berikut.
+a.	 Transaksi investasi awal dari pemilik perusahaan
+Ibu Afra mendirikan usaha yang diberi nama Toko Nada. Transaksi 
+pertama dari perusahaan ini, diinvestasikan sebagai modal awal berupa 
+uang tunai sebesar Rp24.000.000,00 dan peralatan kantor sebesar 
+Rp2.700.000,00. Transaksi ini akan mengakibatkan kas (+), peralatan 
+kantor (+), dan modal (+). 
+(dalam ribuan rupiah)
+Aktiva
+Pasiva
+Kas
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+24.000
+-
+2.700
+-
+26.700
+b.	 Pembelian perlengkapan maupun peralatan secara tunai
+Toko Nada membeli perlengkapan kantor yang meliputi ATK seharga 
+Rp4.000.000,00 dan peralatan kantor seharga Rp12.000.000,00 secara 
+tunai dari PT. Pramesti Sejahtera.
+Transaksi ini mengakibatkan perlengkapan kantor (+), peralatan 
+kantor (+), dan kas (-). 
+BAB 4 — AKUNTANSI   ●   157
+(dalam ribuan rupiah)
+Aktiva
+Pasiva
+Kas
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+24.000
+2.700
+26.700
+(16.000)
+4.000
+12.000
+-
+-
+8.000
+4.000
+14.700
+26.700
+c.	 Pembelian perlengkapan maupun peralatan secara kredit
+Toko Nada membeli perlengkapan toko sebesar Rp2.500.000,00 baru 
+dibayar Rp1.000.000,00. Sisanya akan dibayar bulan depan.
+Transaksi ini mengakibatkan perlengkapan kantor (+), kas (-), dan 
+utang (+).
+(dalam ribuan rupiah) 
+Aktiva
+Pasiva
+Kas
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+24.000
+2.700
+ 
+26.700
+(16.000)
+4.000
+12.000
+ -
+-
+8.000
+4.000
+14.700
+26.700
+(1.000)
+2.500
+-
+1.500
+-
+7.000
+6.500
+14.700
+1.500
+26.700
+d.	 Peminjaman uang kepada pihak lain
+Untuk menambah kegiatan usahanya, Toko Nada meminjam uang 
+ke bank sebesar Rp15.000.000,00 yang akan dibayar setiap bulannya. 
+Transaksi ini akan mengakibatkan kas (+) dan utang (+). 
+158   ●   EKONOMI UNTUK SMA/MA KELAS XII
+(dalam ribuan rupiah) 
+Aktiva
+Pasiva
+Kas
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+24.000
+2.700
+26.700
+(16.000)
+4.000
+12.000
+-
+-
+8.000
+4.000
+14.700
+26.700
+(1.000)
+2.500
+-
+1.500
+-
+7.000
+6.500
+14.700
+1.500
+26.700
+15.000
+15.000
+22.000
+6.500
+14.700
+16.500
+26.700
+e.	 Pembayaran utang
+Toko 
+Nada 
+membayar 
+cicilan 
+pertamanya 
+ke 
+bank 
+sebesar 
+Rp1.500.000,00. Transaksi ini akan mengakibatkan kas (-) dan utang (-). 
+(dalam ribuan rupiah) 
+Aktiva
+Pasiva
+Kas
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+24.000
+2.700
+26.700
+(16.000)
+4.000
+12.000
+-
+-
+8.000
+4.000
+14.700
+26.700
+(1.000)
+2.500
+-
+1.500
+-
+7.000
+6.500
+14.700
+1.500
+26.700
+15.000
+15.000
+22.000
+6.500
+14.700
+16.500
+26.700
+(1.500)
+(1.500)
+20.500
+6.500
+14.700
+15.000
+26.700
+BAB 4 — AKUNTANSI   ●   159
+f.	
+Penerimaan pendapatan secara tunai
+Toko Nada memperoleh pendapatan dari kegiatan usahanya sebesar 
+Rp3.000.000,00. 
+Transaksi ini akan memengaruhi kas (+) dan pendapatan (+).
+(dalam ribuan rupiah) 
+Aktiva
+Pasiva
+Kas
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+Pendapatan
+24.000
+2.700
+26.700
+(16.000)
+4.000
+12.000
+-
+-
+8.000
+4.000
+14.700
+26.700
+(1.000)
+2.500
+-
+1.500
+-
+7.000
+6.500
+14.700
+1.500
+26.700
+15.000
+15.000
+22.000
+6.500
+14.700
+16.500
+26.700
+(1.500)
+(1.500)
+20.500
+6.500
+14.700
+15.000
+26.700
+3.000
+3.000
+23.500
+6.500
+14.700
+15.000
+26.700
+3.000
+g.	 Penerimaan 
+pendapatan 
+secara 
+kredit/penerimaan 
+yang 
+ditangguhkan
+Menerima pendapatan jasa sebesar Rp3.500.000,00 baru dibayar 
+Rp2.000.000,00 sisanya dibayar kemudian.
+Transaksi ini akan memengaruhi kas (+), piutang (+), dan pendapatan 
+(+). 
+160   ●   EKONOMI UNTUK SMA/MA KELAS XII
+(dalam ribuan rupiah) 
+Aktiva
+Pasiva
+Kas
+Piutang
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+Pendapatan
+24.000
+2.700
+26.700
+(16.000)
+4.000
+12.000
+-
+-
+8.000
+4.000
+14.700
+26.700
+(1.000)
+2.500
+-
+1.500
+-
+7.000
+6.500
+14.700
+1.500
+26.700
+15.000
+15.000
+22.000
+6.500
+14.700
+16.500
+26.700
+(1.500)
+(1.500)
+20.500
+6.500
+14.700
+15.000
+26.700
+3.000
+3.000
+23.500
+6.500
+14.700
+15.000
+26.700
+3.000
+2.000
+1.500
+3.500
+25.500
+1.500
+6.500
+14.700
+15.000
+26.700
+6.500
+h.	 Pembayaran beban-beban untuk kegiatan perusahaan
+Toko Nada membayar listrik bulan Januari 2021 sebesar Rp750.000,00. 
+Transaksi ini memengaruhi kas (-) dan beban (-).
+(dalam ribuan rupiah) 
+Aktiva
+Pasiva
+Kas
+Piutang
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+Pendapatan
+Beban
+24.000
+2.700
+26.700
+(16.000)
+4.000
+12.000
+-
+-
+8.000
+4.000
+14.700
+26.700
+(1.000)
+2.500
+-
+1.500
+-
+BAB 4 — AKUNTANSI   ●   161
+Aktiva
+Pasiva
+Kas
+Piutang
+Perlengkapan
+Peralatan 
+Utang 
+Modal
+Pendapatan
+Beban
+7.000
+6.500
+14.700
+1.500
+26.700
+15.000
+15.000
+22.000
+6.500
+14.700
+16.500
+26.700
+(1.500)
+(1.500)
+20.500
+6.500
+14.700
+15.000
+26.700
+3.000
+3.000
+23.500
+6.500
+14.700
+15.000
+26.700
+3.000
+2.000
+1.500
+3.500
+25.500
+1.500
+6.500
+14.700
+15.000
+26.700
+6.500
+(750)
+(750)
+24.750
+1.500
+6.500
+14.700
+15.000
+26.700
+6.500
+(750)
+Aktivitas 4
+Analisis Transaksi  
+Persamaan Dasar Akuntansi
+Petunjuk Pengerjaan
+1.	 Kerjakan lembar aktivitas ini secara berpasangan!
+2.	 Analisis transaksi berikut ini, apakah transaksi tersebut akan 
+memengaruhi penambahan atau pengurangan terhadap masing-
+masing akunnya.
+Ibu Dewi Susanti membuka usaha laundry yang bernama “Susanti 
+Laundry”. Berikut ini merupakan transaksi yang terjadi pada bulan 
+April 2021.
+162   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Tgl.
+Transaksi
+Pengaruh Transaksi
+Aset
+Liabilitas
+Ekuitas
+Pendapatan
+Beban
+3
+Ibu Dewi 
+memulai usaha 
+laundry dengan 
+menginvestasikan 
+dana sebesar 
+Rp27.000.000,00 
+dan peralatan 
+sebesar 
+Rp9.000.000,00. 
+5
+Dibayar beban 
+iklan untuk 
+melakukan 
+promosi sebesar 
+Rp2.500.000,00. 
+7
+Dibeli 
+perlengkapan 
+tambahan 
+sebesar 
+Rp6.000.000,00. 
+Baru dibayar 
+Rp4.500.000,00. 
+Sisanya 
+akan dibayar 
+kemudian. 
+8
+Menerima 
+pendapatan jasa 
+dari kegiatan 
+operasio­nalnya 
+sebesar 
+Rp3.200.000,00. 
+BAB 4 — AKUNTANSI   ●   163
+Tgl.
+Transaksi
+Pengaruh Transaksi
+Aset
+Liabilitas
+Ekuitas
+Pendapatan
+Beban
+12
+Dibayar angsuran 
+pembelian 
+perlengkapan 
+yang dilakukan 
+pada tanggal 7.
+14
+Telah 
+diselesaikan 
+pekerjaan cuci 
+pakaian untuk 
+pelanggan yang 
+bernama Ibu 
+Hanin sebesar 
+Rp250.000,00. 
+Jumlah tersebut 
+difakturkan untuk 
+ditagih.
+17
+Ibu Dewi 
+mengambil 
+uang dari kas 
+laundry untuk 
+kepentingan 
+pribadi sebesar 
+Rp800.000,00.
+20
+Diterima 
+pembayaran dari 
+pelanggan yang 
+bernama Ibu 
+Hanin yang terjadi 
+pada tanggal 14. 
+164   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Tgl.
+Transaksi
+Pengaruh Transaksi
+Aset
+Liabilitas
+Ekuitas
+Pendapatan
+Beban
+23
+Diterima 
+pendapatan 
+dari pelanggan 
+sebesar 
+Rp5.750.000,00. 
+24
+Dibayar gaji 
+karyawan sebesar 
+Rp1.500.000,00. 
+Setelah menganalisis penambahan dan pengurangan akun pada Susanti 
+Laundry, catat transaksi tersebut ke dalam persamaan dasar akuntansi.
+Aktivitas 5
+Pencatatan Transaksi  
+Persamaan Dasar Akuntansi 
+Petunjuk Pengerjaan
+1.	 Kerjakan lembar aktivitas ini secara berpasangan!
+2.	 Analisis setiap transaksi dan buatlah persamaan dasar akuntansinya!
+Soal Bagian 1
+Pada tanggal 2 September 2021, Pak Salman mendirikan sebuah usaha 
+tour & travel. Transaksi keuangan yang terjadi selama bulan September 
+2021, sebagai berikut.
+Sep
+3
+Pak Salman menyetorkan uang tunai pada usaha miliknya 
+sebesar Rp100.000.000,00.
+4
+Membayar sewa ruko sebesar Rp10.000.000,00.
+BAB 4 — AKUNTANSI   ●   165
+5
+Membeli perlengkapan sebesar Rp7.000.000,00.
+6
+Membeli peralatan usaha sebesar Rp75.000.000,00 secara 
+kredit.
+9
+Menerima pendapatan atas jasa perjalanan Rp5.000.000,00.
+11
+Membayar beban listrik Rp450.000,00.
+13
+Menerima pendapatan jasa sebesar Rp6.000.000,00 baru 
+dibayar Rp4.000.000,00 sisanya dibayar kemudian.
+16
+Meminjam uang di bank Rp25.000.000,00.
+18
+Membeli perlengkapan Rp5.000.000,00.
+21
+Menerima pendapatan jasa Rp4.000.000,00.
+24
+Membeli peralatan Rp8.000.000,00 secara tunai.
+27
+Membayar gaji karyawan Rp5.000.000,00.
+30
+Memperoleh pendapatan jasa Rp15.000.000,00.
+Setelah kalian menyelesaikan soal persamaan dasar akuntansi bagian 
+1, silahkan kerjakan soal bagian 2 berikut.
+Soal Bagian 2
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berpasangan!
+2.	 Analisis masing-masing bukti transaksi di bawah ini!
+3.	 Catatlah transaksi tersebut ke dalam persamaan dasar akuntansi!
+Namira membuka usaha salon yang diberi nama “Namira Beauty”. 
+Namira menginvestasikan uangnya sebesar Rp67.000.000,00 untuk 
+membuka usaha ini. Selama bulan Agustus 2022, bukti transaksi yang 
+ada sebagai berikut.
+166   ●   EKONOMI UNTUK SMA/MA KELAS XII
+4.	 Bukti penerimaan uang pada tanggal 2 Agustus 2022.
+5.	 Bukti pengeluaran pada tanggal 5 Agustus 2022.
+BAB 4 — AKUNTANSI   ●   167
+6.	 Bukti transaksi pada tanggal 11 Agustus 2022.
+7.	 Bukti transaksi pada tanggal 12 Agustus 2022.
+168   ●   EKONOMI UNTUK SMA/MA KELAS XII
+8.	 Bukti transaksi pada tanggal 13 Agustus 2022.
+9.	 Bukti transaksi pada tanggal 16 Agustus 2022.
+BAB 4 — AKUNTANSI   ●   169
+10.	 Bukti transaksi pada tanggal 15 Agustus 2022.
+11.	 Bukti transaksi pada tanggal 20 Agustus 2022.
+170   ●   EKONOMI UNTUK SMA/MA KELAS XII
+12.	 Bukti transaksi pada tanggal 25 Agustus 2022.
+13.	 Bukti transaksi pada tanggal 27 Agustus 2022.
+Setelah kalian menyelesaikan persamaan dasar akuntansi, langkah 
+selanjutnya adalah membuat laporan keuangan. 
+B.	
+Laporan Keuangan
+Sebagai peserta didik, tentunya kalian mendapatkan uang saku dari 
+orang tua kalian, entah itu diberikan secara harian, mingguan, atau 
+bulanan. Pernahkah kalian mencatat berapa pemasukan kalian setiap 
+BAB 4 — AKUNTANSI   ●   171
+harinya? Apakah kalian juga mencatat uang saku tersebut kalian 
+pergunakan untuk apa saja?
+Sebagai langkah awal untuk memahami laporan keuangan, mari isi 
+aktivitas berikut!
+Aktivitas 6
+Membuat Laporan Keuangan Sederhana
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+2.	 Catatlah uang yang kalian terima, baik dari orang tua kalian maupun 
+sumber lain dalam kolom pemasukan dan catat juga pengeluaran 
+kalian selama satu pekan!
+No.
+Hari
+Pemasukan
+Pengeluaran 
+1.
+Senin
+2.
+Selasa
+3.
+Rabu
+4.
+Kamis
+5.
+Jumat
+6.
+Sabtu
+7.
+Minggu
+Total
+172   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Berdasarkan pengamatan kalian, apakah jumlah pendapatan kalian 
+lebih besar dibandingkan pengeluaran, atau sebaliknya? Berikan 
+kesimpulan kalian!
+Setelah kalian mengisi tabel tersebut, secara tidak langsung kalian 
+sudah bisa mencatat laporan keuangan sederhana secara mandiri. 
+Laporan keuangan sederhana tersebut akan memberikan gambaran 
+mengenai kondisi keuangan kalian. Apabila pemasukan kalian lebih 
+besar dibandingkan dengan pengeluarannya, maka kalian telah 
+menjalankan pola hidup hemat. Tetapi apabila pengeluaran kalian 
+lebih besar dibandingkan dengan pemasukannya, maka kalian telah 
+menjalankan pola hidup boros. Jika dikaitkan dalam konteks badan 
+usaha, penyusunan laporan keuangan juga dapat memberikan 
+gambaran mengenai kondisi keuangan perusahaan. Apa yang dimaksud 
+dengan laporan keuangan?
+Menurut Ikatan Akuntan Indonesia (IAI) dalam Pernyataan Standar 
+Akuntansi Keuangan (PSAK) Nomor 1 tentang Penyajian Laporan 
+Keuangan, disebutkan bahwa laporan keuangan merupakan penyajian 
+terstruktur dari posisi keuangan dan kinerja keuangan suatu entitas. 
+Sederhananya, laporan keuangan merupakan catatan atas berbagai 
+informasi keuangan badan usaha yang mendeskripsikan baik tidaknya 
+kondisi suatu badan usaha.
+Menurut Standar Akuntansi Keuangan Entitas Mikro, Kecil, dan 
+Menengah (SAK-EMKM), tujuan laporan keuangan adalah untuk 
+menyediakan informasi keuangan dan kinerja keuangan suatu entitas 
+yang bermanfaat bagi sejumlah besar pengguna dalam pengambilan 
+keputusan ekonomi oleh siapapun. Dalam memenuhi tujuannya, 
+laporan keuangan juga menunjukkan pertanggungjawaban manajemen 
+atas sumber daya yang dipercayakan kepadanya. Laporan keuangan 
+yang dibuat oleh entitas harus memenuhi syarat sebagai berikut.
+BAB 4 — AKUNTANSI   ●   173
+1.	 Relevan
+Relevan menunjukkan bahwa laporan keuangan dapat digunakan oleh 
+pengguna untuk proses pengambilan keputusan.
+2.	 Representasi tepat
+Representasi tepat menunjukkan bahwa informasi keuangan disajikan 
+secara tepat dan bebas dari kesalahan.
+3.	 Keterbandingan
+Keterbandingan menunjukkan bahwa informasi keuangan dapat 
+dibandingkan antara satu periode dengan periode lain. Selain itu bisa 
+dibandingkan juga antar perusahaan.
+4.	 Keterpahaman
+Keterpahaman bermakna bahwa informasi keuangan disajikan dengan 
+mudah sehingga dapat dipahami oleh pengguna. 
+Terdapat tiga jenis laporan keuangan menurut SAK-EMKM, sebagai 
+berikut.
+1.	 Laporan Posisi Keuangan pada Akhir Periode
+Laporan ini menyajikan informasi aset, liabilitas, dan ekuitas entitas 
+pada akhir periode pelaporan. Adapun bentuk laporan posisi keuangan 
+sebagai berikut.
+174   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Nama Perusahaan 
+Laporan Posisi Keuangan 
+Aset
+Liabilitas 
+Aset Lancar
+Liabilitas jangka 
+pendek
+…………….
+Rpxxx
+…………….
+Rpxxx
+…………….
+Rpxxx
+…………….
+Rpxxx
+Jumlah aset 
+lancar
+Rpxxx
+Jumlah liabilitas 
+jangka pendek
+Aset tidak 
+lancar
+Liabilitas jangka 
+Panjang
+…………….
+Rpxxx
+…………….
+Rpxxx
+…………….
+Rpxxx
+…………….
+Rpxxx
+Jumlah aset 
+tidak lancar
+Rpxxx
+Jumlah liabilitas 
+jangka Panjang
+Rpxxx
+Jumlah liabilitas
+Rpxxx
+Ekuitas
+Rpxxx
+Total aset
+Rpxxx
+Total liabilitas + 
+ekuitas
+Rpxxx
+2.	 Laporan Laba Rugi Selama Periode 
+Laporan laba rugi selama periode merupakan laporan yang 
+menunjukkan pendapatan dan beban dari suatu perusahaan dalam 
+satu periode akuntansi. Laporan laba rugi menunjukkan kinerja suatu 
+perusahaan. 
+BAB 4 — AKUNTANSI   ●   175
+Ayo Cari Tahu
+Terdapat dua jenis laporan laba rugi, sebagai berikut.
+1.	 Bentuk langsung (single step).
+2.	 Multi step bentuk bertahap (multi step).
+Coba kalian cari tahu perbedaan keduanya!
+Terdapat dua unsur penting dalam laporan laba rugi, sebagai berikut.
+a.	 Pendapatan 
+Pendapatan merupakan kenaikan manfaat ekonomi selama periode 
+pelaporan dalam bentuk arus kas masuk atau kenaikan aset. 
+Sederhananya pendapatan merupakan aliran uang yang masuk ke kas 
+perusahaan dari kegiatan usaha yang dilakukan oleh perusahaan. 
+b.	 Beban
+Beban merupakan penurunan manfaat ekonomi selama periode 
+pelaporan dalam bentuk arus kas keluar atau penurunan aset. Dengan 
+kata lain beban merupakan biaya yang dikeluarkan oleh perusahaan 
+untuk membiayai kegiatan operasional perusahaan. 
+Berdasarkan dua unsur tersebut, apabila pendapatan lebih besar 
+daripada beban, maka badan usaha tersebut memperoleh laba. 
+Sebaliknya, apabila pendapatan lebih kecil daripada beban, maka 
+badan usaha tersebut memperoleh rugi.
+Adapun bentuk laporan laba rugi, sebagai berikut.
+176   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Nama Perusahaan 
+Laporan Laba/Rugi
+Periode
+Pendapatan
+Rpxxx
+Jumlah pendapatan
+Rpxxx
+Beban
+Rpxxx
+Jumlah Beban 
+(Rpxxx)
+Laba/Rugi
+Rpxxx
+3.	 Catatan Atas Laporan Keuangan
+Menurut SAK-EMKM, catatan atas laporan keuangan merupakan 
+catatan yang menyajikan informasi mengenai pernyataan bahwa 
+laporan keuangan telah disusun sesuai dengan SAK-EMKM, ikhtisar 
+kebijakan akuntansi, serta informasi tambahan dan rincian akun 
+tertentu yang menjelaskan transaksi penting dan material sehingga 
+bermanfaat bagi pengguna untuk memahami laporan keuangan. Jenis 
+informasi dan rincian yang disajikan bergantung pada pada jenis usaha 
+yang dilakukan oleh entitas.
+Laporan keuangan yang disusun berdasarkan SAK-EMKM dapat 
+digunakan untuk jenis perusahaan jasa maupun perusahaan dagang.
+BAB 4 — AKUNTANSI   ●   177
+Aktivitas 8
+Laporan Keuangan 
+Petunjuk Pengerjaan
+1.	 Kerjakan lembar aktivitas ini secara berpasangan!
+2.	 Buatlah laporan keuangan yang terdiri dari laporan posisi keuangan 
+dan laporan laba rugi berdasarkan persamaan dasar akuntansi 
+yang telah kalian kerjakan pada aktivitas 4 dan 5!
+Setelah kalian mengerjakan kedua jenis laporan keuangan tersebut, 
+kerjakan aktivitas berikut.
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berpasangan!
+2.	 Lengkapi laporan keuangan di bawah ini dengan nominal yang 
+tepat!
+a.	 Laporan posisi keuangan
+Perusahaan Umum Daerah Air Minum
+Kota Sukabumi
+Laporan Neraca/Posisi Keuangan
+Periode 31 Desember 2021 dan 2020
+(dalam rupiah)
+Komponen
+2021
+2020
+Aset
+Aset Lancar
+Kas dan setara kas
+1.878.495.241
+1.368.157.579
+178   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Komponen
+2021
+2020
+Deposito berjangka
+3.700.000.000
+3.700.000.000
+Piutang usaha
+30.942.440.726
+28.376.571.606
+Akumulasi penyisihan 
+piutang
+(12.401.749.723)
+(11.962.088.394)
+Piutang non air
+391.646.998
+373.455.848
+Piutang lain-lain
+325.861.765
+501.444510
+Persediaan
+638.767.244
+518.945.714
+Pembayaran dimuka
+1.563.663.847
+1.715.621.731
+Jumlah aset lancar
+…………..
+…………..
+Aset tidak lancar 
+Aset tetap
+................
+Nilai perolehan aset 
+tetap
+71.448.421.950
+68.793.694.889
+Akumulasi penyusutan 
+aset tetap
+(32.067.785.377)
+(30.524.610.657)
+Akumulasi penurunan 
+nilai
+…………..
+…………..
+Jumlah aset tetap
+…………..
+…………..
+Aset tidak lancar lainnya
+…………..
+…………..
+Aset dalam penyelesaian
+-
+23.761.000
+Uang jaminan
+4.389.000
+4.389.000
+Beban ditangguhkan
+522.640.600
+1.446.158.100
+Jumlah aset tidak lancar 
+lainnya
+…………..
+…………..
+Total aset 
+…………..
+…………..
+BAB 4 — AKUNTANSI   ●   179
+Komponen
+2021
+2020
+Liabilitas dan Ekuitas 
+Liabitas Jangka Pendek 
+Utang usaha
+513.893.053
+449.575.503
+Beban yang masih harus 
+dibayar
+156.287
+20.123.421
+Titipan uang tunai
+19.527.098
+19527.098
+Utang pajak
+349.170.037
+3.630.452
+Utang jangka panjang 
+jatuh tempo
+-
+-
+Jumlah liabilitas jangka 
+pendek
+…………..
+…………..
+Liabilitas jangka panjang
+Kewajiban imbalan 
+pasca kerja
+1.596.171.564
+1.871.318.977
+Utang kendaraan jangka 
+panjang
+137.557.000
+268.585.000
+Cadangan dana 
+kesejahteraan pegawai
+2.825.000
+2.825.000
+Jumlah liabilitas jangka 
+panjang
+…………..
+…………..
+Ekuitas dan Cadangan 
+Modal pemerintah 
+daerah 
+70.806.707.702
+69.806.707.702
+Penyertaan pemerintah 
+YBDS
+522.640.600
+522.640.600
+Modal hibah
+630.281.326
+630.281.326
+180   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Komponen
+2021
+2020
+Selisih penilaian kembali 
+aktiva tetap
+177.492.268
+177.492.268
+Laba belum dibagikan
+(9.954.102.949)
+(11.986.665.774)
+Laba rugi tahun berjalan
+2.144.473.284
+2.549.459.353
+Jumlah ekuitas & 
+cadangan
+…………..
+…………..
+Total liabilitas dan 
+ekuitas 
+…………..
+…………..
+Berikan 
+kesimpulan 
+berdasarkan 
+data 
+laporan 
+keuangan 
+Perusahaan Daerah Air Minum (PDAM) Kota Sukabumi tersebut!
+b.	 Laporan laba rugi
+Perusahaan Umum Daerah Air Minum
+Kota Sukabumi
+Laporan Laba Rugi
+Periode 31 Desember 2021 dan 2020
+(dalam rupiah)
+Komponen
+2021
+2020
+Pendapatan
+Pendapatan Usaha
+Pendapatan penjualan 
+air
+22.661.254.775
+23.453.575.170
+Pendapatan non air
+1.381.203.690
+1.437.017.734
+Pendapatan Non Usaha
+Pendapatan lain-lain
+520.099.868
+163.218.296
+BAB 4 — AKUNTANSI   ●   181
+Komponen
+2021
+2020
+Total Pendapatan
+…………..
+…………..
+Beban
+Beban Operasional
+Beban pegawai
+10.584.724.775
+11.717.682.151
+Beban energi
+740.974.800
+754.202.500
+Beban kimia
+352.181.250
+602.179.875
+Beban kompensasi air 
+baku
+443.840.896
+173.694.650
+Beban pemeliharaan
+1.154.896.609
+1.023.555.842
+Pemakaian bahan 
+pembantu
+3.831.000
+-
+Beban penyusutan aset 
+tetap
+1.543.174.720
+1.400.885.122
+Beban penyisihan 
+piutang
+459.303.774
+173.575.605
+Beban umum dan 
+administrasi
+6.536.152.104
+6.453.755.819
+Jumlah beban 
+operasional 
+…………..
+…………..
+Beban non operasional
+Beban non operasional
+69.442.028
+204.820.282
+Total beban
+…………..
+…………..
+Laba/rugi sebelum pajak 
+…………..
+…………..
+Pajak badan usaha
+529.563.093
+-
+182   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Komponen
+2021
+2020
+Laba/rugi setelah pajak 
+…………..
+…………..
+Berikan kesimpulan berdasarkan data laporan laba rugi Perusahaan 
+Daerah Air Minum (PDAM) Kota Sukabumi tersebut!
+Aktivitas 9
+Literasi
+Petunjuk Pengerjaan 
+1.	 Kerjakan lembar aktivitas ini secara berkelompok!
+2.	 Baca artikel di bawah ini dan jawablah pertanyaan yang tersedia!
+Penulis: Reza Pahlevi
+Editor: Annissa Mutia
+29/7/2022, 13.30 WIB
+BAB 4 — AKUNTANSI   ●   183
+PT Perusahaan Listrik Negara (PLN) Pesero mencatatkan 
+pendapatan sebesar Rp211,66 triliun pada semester I-2022. 
+Pendapatan ini sudah meningkat 20% secara tahunan (year-on-
+year/yoy) dari Rp175,92 triliun.
+Penjualan listrik meningkat dari 125,49 TWh pada semester 
+I-2021 menjadi 133,87 TWh pada semester I-2022. Ini juga yang 
+membuat penjualan listrik naik 7,2% (yoy) menjadi Rp150,6 triliun. 
+Selain itu, PLN juga menerima subsidi listrik sebesar Rp26,19 
+triliun dan kompensasi sebesar Rp31,23 triliun pada periode ini.
+Laba bersih PLN pun meningkat 162,4% (yoy) menjadi Rp17,4 
+triliun. Pada periode yang sama tahun lalu, laba bersih tercatat 
+sebesar Rp6,6 triliun.
+Kenaikan laba ini juga belum menghitung penyesuaian tarif 
+listrik untuk pelanggan 3.500 VA ke atas. Aturan ini baru berlaku 
+pada 1 Juli 2022.
+Sumber: https://databoks.katadata.co.id/datapublish/2022/07/29/laba-bersih-pln-terbang-1624-pada-semester-i-2022. 
+(diakses pada tanggal 30 Juli 2022)
+Pertanyaan
+1.	 Mengapa nilai pendapatan PLN mengalami kenaikan pada periode 
+semester I-2022?
+2.	 Berilah argumen kalian, apabila PLN mengalami laba, kebijakan 
+apa yang sebaiknya diterapkan? 
+184   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Aktivitas 10
+Proyek Kelompok 
+Petunjuk Pengerjaan
+1.	 Kerjakan lembar aktivitas ini secara berkelompok!
+2.	 Pergilah ke kantin sekolah kalian atau badan usaha maupun 
+perusahaan yang ada di sekitar wilayah tempat tinggal kalian.
+Langkah-langkah aktivitas yang harus kalian lakukan, sebagai berikut.
+1.	 Lakukan 
+pengamatan 
+selama 
+satu 
+minggu 
+dan 
+apabila 
+memungkinkan, ikutlah terlibat di dalam kegiatan operasional di 
+tempat tersebut. Apabila tidak memungkinkan, lakukan wawancara 
+kepada pemilik kantin tersebut!
+2.	 Apabila catatan transaksi sudah ditemukan, catatlah transaksi 
+tersebut dalam persamaan dasar akuntansi!
+3.	 Setelah itu, buatlah laporan keuangan dalam bentuk sederhana!
+4.	 Presentasikan hasil pekerjaan kalian di depan kelas!
+BAB 4 — AKUNTANSI   ●   185
+Asesmen
+I. Bentuk soal AKM
+Pilihlah jawaban yang tepat!
+1.	 Informasi akuntansi dijadikan sebagai acuan untuk menilai 
+kemampuan perusahaan dalam mengembalikan pinjaman dan 
+bunga. Pihak yang membutuhkan informasi akuntansi tersebut 
+adalah ....
+A.	 investor
+B.	 masyarakat
+C.	 kreditur
+D.	 pemerintah
+E.	 karyawan
+2.	 Perusahaan menerima pendapatan jasa karena telah menyelesaikan 
+suatu pekerjaan tertentu. Perubahan yang terjadi pada persamaan 
+dasar akuntansi adalah ....
+A.	 harta kas bertambah modal pemilik berkurang
+B.	 harta kas bertambah modal pemilik bertambah
+C.	 aktiva berkurang diimbangi modal bertambah
+D.	 aktiva berkurang diimbangi modal berkurang
+E.	 aktiva bertambah diimbangi modal berkurang
+3.	 Perusahaan Batik Bandung menerima pelunasan piutang sebesar 
+Rp30.000.000,00. Pengaruh transaksi pada persamaan dasar 
+akuntansi adalah ....
+A.	 kas bertambah sebesar Rp30.000.000,00 dan modal berkurang 
+Rp30.000.000,00.
+B.	 kas bertambah sebesar Rp30.000.000,00 dan modal bertambah 
+Rp30.000.000,00.
+C.	 piutang berkurang sebesar Rp30.000.000,00 dan modal 
+bertambah Rp30.000.000,00
+186   ●   EKONOMI UNTUK SMA/MA KELAS XII
+D.	 kas bertambah Rp30.000.000,00 dan piutang bertambah 
+Rp30.000.000,00.
+E.	 kas bertambah Rp30.000.000,00 dan piutang berkurang 
+Rp30.000.000,00.
+4.	 Pada tanggal 22 Juni 2022 dibeli lima unit laptop dengan harga 
+Rp4.000.000,00/unit. Dibayar tunai Rp15.000.000,00 dan sisanya 
+dibayar dua bulan kemudian. Pengaruh transaksi atas persamaan 
+akuntansi adalah ....
+A.	 peralatan kantor (+) Rp20.000.000,00, kas (-) Rp15.000.000,00, 
+dan utang (+) Rp5.000.000,00 
+B.	 peralatan kantor (+), Rp20.000.000,00 kas (-) Rp15.000.000,00, 
+dan utang (-) Rp5.000.000,00 
+C.	 peralatan kantor (+) Rp20.000.000,00, kas (-) Rp15.000.000,00, 
+utang (-) Rp5.000.000,00 
+D.	 peralatan kantor (-), Rp15.000.000,00 kas (-) Rp20.000.000,00, 
+utang (-) Rp4.000.000,00 
+E.	 peralatan kantor (+) Rp20.000.000,00 dan kas (-) 
+Rp20.000.000,00 
+5.	 Aqila membuka sebuah usaha percetakan di rumahnya. Untuk 
+modal awal, Aqila menyetorkan uang sebesar Rp32.000.000,00. 
+Kemudian uang tersebut digunakan untuk membeli mesin cetak 
+sebesar Rp5.000.000,00 dan membeli perlengkapan lainnya sebesar 
+Rp2.000.000,00. Berdasarkan transaksi tersebut kas akhir yang 
+dimiliki Aqila adalah .....
+A.	 Rp32.000.000,00
+B.	 Rp30.000.000,00
+C.	 Rp27.000.000,00
+D.	 Rp25.000.000,00
+E.	 Rp7.000.000,00
+6.	 Berikut ini merupakan data laporan keuangan Pramesti Salon.
+Pendapatan 
+sewa
+Rp3.500.000,00
+Beban 
+Perlengkapan
+Rp1.200.000,00
+BAB 4 — AKUNTANSI   ●   187
+Pendapatan 
+salon
+Rp18.000.000,00
+Beban listrik 
+dan telepon
+Rp550.000,00
+Beban 
+asuransi
+Rp6.500.000,00
+Beban 
+Sewa 	
+Rp3.500.000,00
+Beban gaji
+Rp4.400.000,00
+Modal awal
+Rp10.700.000,00
+Prive
+Rp1.050.000,00
+Berdasarkan data keuangan tersebut, kesimpulan yang tepat dari 
+laporan keuangan Pramesti Salon adalah …. 
+A.	 memperoleh laba sebesar Rp5.150.000,00
+B.	 memperoleh laba sebesar Rp5.350.000,00
+C.	 memperoleh laba sebesar Rp5.470.000,00
+D.	 mengalami kerugian sebesar Rp5.350.000,00
+E.	 mengalami kerugian sebesar Rp6.325.000,00
+7.	 Pada akhir periode, perusahaan jasa “Wieka Laundry” memperoleh 
+laba sebesar Rp5.000.000,00. Pengambilan untuk keperluan pribadi 
+sebesar Rp1.000.000,00. Apabila diketahui modal awal perusahaan 
+sebesar Rp50.000.000,00 maka besarnya modal akhir adalah ....
+A.	 Rp50.000.000,00
+B.	 Rp51.000.000,00
+C.	 Rp53.000.000,00
+D.	 Rp54.000.000,00
+E.	 Rp56.000.000,00
+8.	 Data dalam suatu laporan posisi keuangan perusahaan “Karimun” 
+diketahui sebagai berikut.
+Kas 
+Rp42.500.000,00
+Surat-surat berharga 
+Rp30.000.000,00
+Utang wesel 
+Rp15.000.000,00
+Utang usaha 
+Rp32.000.000,00
+Pendapatan diterima dimuka 
+Rp17.000.000,00
+188   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Peralatan toko 
+Rp44.000.000,00
+Perlengkapan 
+Rp11.000.000,00
+Asuransi dibayar dimuka 
+Rp1.500.000,00
+Modal 
+Rp76.000.000,00
+Prive 
+Rp2.000.000,00
+Berdasarkan data di atas, jumlah pasiva dalam laporan posisi 
+keuangan adalah ....
+A.	 Rp64.000.000,00
+B.	 Rp123.000.000,00
+C.	 Rp138.000.000,00
+D.	 Rp140.000.000,00
+E.	 Rp142.000.000,00
+9.	 Data dalam suatu laporan posisi keuangan perusahaan “Manado” 
+diketahui sebagai berikut.
+Kas 
+Rp42.500.000,00
+Surat-surat berharga 
+Rp30.000.000,00
+Utang wesel 
+Rp15.000.000,00
+Peralatan toko 
+Rp44.000.000,00
+Asuransi dibayar dimuka 
+Rp1.500.000,00
+Berdasarkan data di atas, jumlah aset lancar dalam laporan posisi 
+keuangan adalah ....
+A.	 Rp74.000.000,00
+B.	 Rp127.500.000,00
+C.	 Rp122.500.000,00
+D.	 Rp112.500.000,00
+E.	 Rp82.500.000,00
+BAB 4 — AKUNTANSI   ●   189
+10.	 Perhatikan laporan neraca perusahaan jasa ekspedisi Namira 
+berikut.
+Keterangan
+2020
+2021
+Kas
+Rp110.000.000,00
+Rp110.000.000,00
+Piutang usaha
+Rp40.000.000,00
+Rp90.000.000,00
+Perlengkapan
+Rp5.000.000,00
+Rp5.000.000,00
+Peralatan
+Rp15.000.000,00
+Rp5.000.000,00
+Gedung 
+Rp250.000.000,00
+Rp250.000.000,00
+Tanah
+Rp100.000.000,00
+Rp100.000.000,00
+Utang usaha
+Rp200.000.000,00
+Rp150.000.000,00
+Utang bank 
+Rp100.000.000,00
+Rp150.000.000,00
+Berdasarkan neraca tersebut, kesimpulan yang benar adalah ….
+A.	 adanya penambahan aktiva sebesar Rp30.000.000,00
+B.	 adanya penambahan kewajiban sebesar Rp10.000.000,00
+C.	 adanya penambahan modal pemilik sebesar Rp40.000.000,00
+D.	 adanya penurunan aktiva sebesar Rp10.000.000,00
+E.	 adanya penurunan utang sebesar Rp10.000.000,00
+II. Pilihan Ganda Komplek 
+Pilihlah tiga (3) jawaban yang tepat dengan cara memberikan tanda 
+centang (✓)!
+11.	 Berikut merupakan pernyataan yang benar mengenai pengertian 
+akuntansi sebagai sistem informasi.
+berguna untuk meningkatkan kesejahteraan manajemen 
+dan karyawan
+190   ●   EKONOMI UNTUK SMA/MA KELAS XII
+menyediakan informasi keuangan suatu perusahaan selama 
+satu periode tertentu
+digunakan sebagai pedoman dalam mengambil keputusan 
+ekonomi
+menentukan besar gaji karyawan
+dinyatakan dalam satuan mata uang
+12.	 Berikut ini merupakan kegunaan informasi akuntansi bagi pihak 
+eksternal perusahaan.
+membuat 
+berbagai 
+kebijakan 
+dalam 
+mengalokasikan 
+keuangan
+mengukur tingkat profitabilitas perusahaan jika akan 
+menanamkan modalnya
+menentukan besarnya pajak
+menentukan besarnya kredit usaha yang diberikan
+mengevaluasi jalannya kegiatan usaha
+13.	 Berikut ini yang termasuk dalam kelompok harta lancar.
+pendapatan diterima dimuka
+pendapatan yang masih harus diterima
+piutang usaha
+sewa dibayar dimuka
+pendapatan jasa
+14.	 Pernyataan 
+di 
+bawah 
+ini 
+yang 
+termasuk 
+transaksi 
+yang 
+memengaruhi aset lancar.
+Ibu Indah menyetorkan modalnya sebesar Rp500.000.000,00
+Bu Zakiyah membeli sabun dan perlengkapan untuk usaha 
+laundry sebesar Rp20.000.000,00
+Pak Kholid membeli mobil untuk mengirim barang-barang 
+hasil produksinya sebesar Rp.125.000.000,00
+Bu Asma membeli gedung sebesar Rp100.000.000,00 secara 
+tunai
+BAB 4 — AKUNTANSI   ●   191
+15.	 Berikut ini merupakan pernyataan yang sesuai dengan persamaan 
+dasar akuntansi.
+setiap transaksi yang dicatat dalam persamaan akuntansi 
+hanya dicatat di satu lajur
+adanya pendapatan yang diterima perusahaan hanya akan 
+dicatat di kolom kas
+adanya beban yang dikeluarkan perusahaan dan sifatnya 
+mengurangi modal
+adanya pengambilan untuk keperluan pribadi (prive) akan 
+mengurangi kas dan mengurangi modal di kolom pasiva
+penambahan atau pengurangan aktiva akan selalu timbul 
+diimbangi dengan penambahan atau pengurangan terhadap 
+pasiva
+16.	 Berikut ini transaksi yang dapat memengaruhi kas dan ekuitas.
+pemilik usaha menyetorkan modal sebesar Rp70.000.000,00
+pemilik mengambil uang untuk keperluan pribadi sebesar 
+Rp5.000.000,00
+perusahaan menerima pendapatan jasa dari kegiatan 
+operasional perusahaan sebesar Rp17.000.000,00
+perusahaan 
+membeli peralatan secara tunai sebesar 
+Rp15.000.000,00
+perusahaan meminjam uang di salah satu bank konvensional 
+sebesar Rp50.000.000,00
+17.	 Berdasarkan pernyataan di bawah ini, pilihlah transaksi yang 
+memengaruhi ekuitas dan liabilitas.
+pemilik usaha menyetorkan modal sebesar Rp3.000.000,00
+pemilik mengambil uang untuk keperluan pribadi sebesar 
+Rp. 500.000,00
+perusahaan membeli kendaraan sebesar Rp500.000,00
+perusahaan membeli peralatan sebesar Rp300.000,00
+perusahaan meminjam uang di bank sebesar Rp10.000.000,00
+192   ●   EKONOMI UNTUK SMA/MA KELAS XII
+18.	 Berikut ini merupakan akun-akun yang terdapat di laporan posisi 
+keuangaan perusahaan.
+pendapatan jasa
+pendapatan diterima di muka
+akumulasi penyusutan peralatan
+beban penyusutan
+piutang usaha
+19.	 Berikut ini merupakan akun-akun yang terdapat di laporan laba 
+rugi suatu perusahaan.
+pendapatan sewa
+beban yang masih harus dibayar
+beban gaji
+beban operasional
+piutang pendapatan
+20.	 Berikut ini informasi tepat berkaitan dengan laporan keuangan.
+ketika nilai pendapatan lebih besar dibandingkan dengan 
+nilai beban, maka perusahaan mengalami laba. Laba akan 
+menambah modal perusahaan
+tujuan dari penyusunan laporan neraca adalah untuk 
+menyeimbangkan antara utang dan modal 
+akun prive termasuk dalam komponen modal di laporan 
+neraca atau posisi keuangan
+dalam pembuatan laporan keuangan, harus disusun secara 
+berurutan mulai dari laporan laba rugi, laporan perubahan 
+modal dan yang terakhir adalah penyusunan laporan neraca 
+atau posisi keuangan
+apabila dalam laporan neraca atau posisi keuangan kondisi 
+aktiva dan pasiva belum menunjukkan keseimbangan, maka 
+dapat dipastikan laporan keuangan tersebut keliru
+BAB 4 — AKUNTANSI   ●   193
+III. Kategori Benar-Salah 
+Berikan centang (✓) pada jawaban "Benar" atau "Salah"!
+No.
+Pertanyaan
+Kategori
+Benar
+Salah
+21.	 
+Akuntansi disebut sebagai language of business 
+karena dijadikan patokan untuk mengambil 
+keputusan perusahaan.
+22.	 
+Orang yang bekerja di bidang akuntansi disebut 
+akuntan. Adapun syarat untuk menjadi seorang 
+akuntan hanya perlu mengikuti kursus di 
+lembaga keuangan.
+23.	 
+Perusahaan membayar upah karyawan, 
+perubahan yang terjadi pada persamaan 
+akuntansi yaitu akan mengakibatkan aktiva 
+berkurang diimbangi juga dengan beban 
+berkurang dalam jumlah yang sama.
+24.	 
+Jika dalam periode yang sama total aktiva 
+meningkat Rp72.000.000,00 dan total kewajiban 
+meningkat Rp27.000.000,00, maka jumlah 
+ekuitas pemilik dalam periode tersebut adalah 
+sebesar Rp47.000.000,00.
+25.	 
+Salah satu transaksi dalam persamaan dasar 
+akuntansi adalah perubahan aset akan diikuti 
+perubahan liabilitas dalam jumlah yang sama. 
+Adapun contoh transaksinya adalah transaksi 
+peminjaman uang kepada pihak lain.
+26.	 
+Laporan laba rugi akan dibuat setelah laporan 
+perubahan modal dan posisi keuangan 
+menunjukkan keseimbangannya.
+194   ●   EKONOMI UNTUK SMA/MA KELAS XII
+No.
+Pertanyaan
+Kategori
+Benar
+Salah
+27.	 
+Dalam laporan laba rugi, apabila nilai 
+pendapatan lebih besar daripada 
+pengeluarannya, maka kinerja perusahaan 
+tersebut menunjukkan perolehan laba sehingga 
+akan menambah modal perusahaan. 
+28.	 
+Akun-akun yang terdapat dalam laporan posisi 
+keuangan meliputi pendapatan diterima di 
+muka, piutang usaha, beban yang masih harus 
+dibayar, sewa dibayar di muka, dan kas.
+29.	 
+Apabila dalam sebuah laporan keuangan 
+terdapat akun akumulasi penyusutan peralatan, 
+akan dikelompokkan dalam aset lancar dan 
+akan mengurangi nilai aset perusahaan. 
+30.	 
+PT. Asmuni Berkah mencatat modal awal 
+sebesar Rp20.000.000,00. Besarnya pendapatan 
+yang diperoleh sebesar Rp15.000.000,00 dan 
+beban yang dikeluarkan sebesar Rp7.000.000,00. 
+Selama periode bulan tersebut, Ibu Mutia selaku 
+pemilik perusahaan mengambil prive sebesar 
+Rp3.000.000,00. Berdasarkan data tersebut, laba 
+perusahaan adalah senilai Rp8.000.000,00. 
+IV. Uraian
+Jawablah pertanyaan berikut dengan tepat!
+1.	 Uraikan transaksi-transaksi yang dapat memengaruhi persamaan 
+dasar akuntansi!
+2.	 Uraikan jenis-jenis bukti transaksi dan kegunaannya! Apabila dalam 
+melakukan pencatatan transaksi keuangan tidak dilampirkan bukti 
+transaksi, bagaimana pengaruhnya terhadap laporan keuangan 
+tersebut? 
+BAB 4 — AKUNTANSI   ●   195
+3.	 Carilah informasi mengenai kegunaan informasi akuntansi dan 
+isilah tabel berikut ini!
+No.
+Pemakai
+Manfaat Informasi
+1.
+Pemilik perusahaan
+ 
+2.
+Manajemen
+3.
+Calon investor
+4.
+Kreditur 
+5.
+Pemerintah 
+6.
+Karyawan 
+7.
+Masyarakat
+4.	 Jelaskan hal-hal yang harus diperhatikan sebelum membuat laporan 
+keuangan! Jenis keputusan apa yang bisa diambil berdasarkan 
+laporan keuangan? 
+5.	 Berikut merupakan data keuangan CV. Namira dua tahun terakhir.
+Keterangan
+Tahun 2020
+Tahun 2021
+Asuransi dibayar dimuka
+Rp13.000.000,00
+Rp14.500.000,00
+Perlengkapan kantor
+Rp2.500.000,00
+Rp3.200.000,00
+Sewa dibayar dimuka
+Rp4.800.000,00
+Rp3.800.000,00
+Peralatan
+Rp24.000.000,00
+Rp24.000.000,00
+Pendapatan diterima dimuka 
+Rp11.000.000,00
+Rp7.000.000,00
+196   ●   EKONOMI UNTUK SMA/MA KELAS XII
+Keterangan
+Tahun 2020
+Tahun 2021
+Utang bank
+Rp34.000.000,00
+Rp24.000.000,00
+Modal pemilik 
+Rp67.000.000,00
+Rp75.000.000,00
+Beban gaji
+Rp4.500.000,00
+Rp4.800.000,00
+Beban sewa
+Rp1.200.000,00
+Rp1.200.000,00
+Pendapatan jasa
+Rp12.500.000,00
+Rp15.600.000,00
+Pendapatan bunga 
+Rp1.200.000,00
+Rp1.800.000,00
+Uraikan kesimpulan yang dapat kalian peroleh dari data keuangan 
+tersebut!
+6.	 Buatlah persamaan dasar akuntansi berdasarkan transaksi di 
+bawah ini!
+Pada tanggal 2 Juli 2021 Pak Irvan mendirikan sebuah usaha 
+konsultasi keuangan. Transaksi yang terjadi selama bulan Juli 2021 
+sebagai berikut.
+Tgl.
+Transaksi
+2
+Pak Irvan menyetorkan uang tunai pada perusahaannya 
+miliknya sebesar Rp70.000.000,00.
+3
+Membayar sewa tempat operasional kantor untuk enam bulan 
+sebesar Rp18.000.000,00.
+5
+Membeli perlengkapan kantor sebesar Rp4.500.000,00.
+7
+Menerima pendapatan jasa konsultasi sebesar Rp13.000.000,00.
+10
+Membayar beban listrik sebesar Rp750.000,00.
+12
+Membayar beban telepon Rp500.000,00.
+14
+Menerima pendapatan jasa sebesar Rp15.000.000 baru dibayar 
+Rp7.000.000,00 sisanya dibayar kemudian.
+17
+Meminjam uang di Bank sebesar Rp24.000.000,00.
+BAB 4 — AKUNTANSI   ●   197
+Tgl.
+Transaksi
+20
+Membeli perlengkapan Rp6.000.000,00.
+25
+Menerima pendapatan jasa Rp15.000.000,00.
+26
+Membeli peralatan Rp9.000.000,00 secara tunai.
+29
+Membayar gaji karyawan Rp17.000.000,00.
+31
+Memperoleh pendapatan Jasa Rp12.500.000,00.
+Refleksi
+Kalian telah belajar tentang akuntansi. Manfaat apa yang kalian 
+dapatkan setelah mempelajari bab ini? Apakah ilmu yang kalian 
+peroleh dari materi ini bisa kalian terapkan dalam kehidupan sehari-
+hari? 
+Pengayaan
+Jika kalian tertarik untuk mempelajari lebih lanjut materi akuntansi, 
+lakukanlah pengayaan berikut.
+1.	 Carilah laporan keuangan suatu perusahaan selama 3 tahun 
+terakhir! Kalian bisa mencari datanya dari website perusahaan 
+tersebut!
+2.	 Analisis 
+laporan 
+keuangan 
+perusahaan 
+tersebut, 
+apakah 
+memperoleh keuntungan atau kerugian?
+3.	 Jelaskan apabila kondisi keuangan perusahaan memperoleh 
+keuntungan atau laba, mengapa dalam kurun waktu tersebut 
+perusahaan mengalami keuntungan? 
+4.	 Apabila kondisi keuangan menunjukkan kondisi rugi, mengapa 
+hal tersebut bisa terjadi? Apa strategi yang dapat dilakukan oleh 
+perusahaan? Bisakah kalian memberikan argumen atau masukan 
+untuk perusahaan tersebut? 
+198 
+Glosarium
+Akuntansi
+:
+Merupakan ilmu yang mencatat, menganalisis, 
+dan mengkomunikasikan transaksi atau 
+kejadian ekonomi suatu entitas bisnis 
+yang bertujuan untuk menghasilkan dan 
+melaporkan informasi yang relevan bagi 
+berbagai pihak yang berkepentingan dalam 
+mengambil keputusan.
+Akuntan
+:
+Orang bekerja di bidang akuntansi.
+Aktiva
+:
+Nama lain penyebutan untuk harta atau aset 
+yang merupakan sumber daya yang dimiliki 
+oleh perusahaan.
+Association 
+of South East 
+Asian Nation 
+(ASEAN) 
+:
+Organisasi kerjasama negara-negara yang 
+berada di wilayah asia tenggara.
+Asia-Pacific 
+Economic 
+Cooperation 
+(APEC)
+:
+Kerjasama ekonomi negara-negara di kawasan 
+Asia Pasifik yang bertujuan mengukuhkan 
+pertumbuhan ekonomi dan mempererat 
+komunitas negara-negara di Asia Pasifik. 
+APBN
+:
+Rencana keuangan tahunan pemerintahan 
+negara Indonesia yang disetujui oleh Dewan 
+Perwakilan Rakyat yang berisi daftar sistematis 
+dan terperinci yang memuat rencana 
+penerimaan dan pengeluaran negara selama 
+satu tahun anggaran.
+  199
+APBD
+:
+Rencana keuangan tahunan pemerintahan 
+daerah yang berisi daftar sistematis dan 
+terperinci yang memuat rencana penerimaan 
+dan pengeluaran daerah selama satu tahun 
+anggaran.
+Bea
+:
+Pungutan negara atas barang impor yang 
+bertujuan untuk membatasi masuknya barang 
+impor dalam rangka melindungi produk dalam 
+negeri.
+Beban 
+(expense)
+:
+Merupakan uang yang dikeluarkan oleh 
+perusahaan untuk menunjang kegiatan 
+operasionalnya.
+Bilateral
+:
+Kerjasama internasional yang melibatkan dua 
+negara.
+Crowdfunding
+:
+Kegiatan mengumpulkan modal dengan 
+cara penggalangan atau donasi dana melalui 
+lembaga khusus.
+Cukai
+:
+Pungutan negara yang dikenakan terhadap 
+barang-barang tertentu yang mempunyai 
+sifat atau karakteristik yang ditetapkan dalam 
+Undang-Undang Cukai.
+Diskriminasi 
+harga
+:
+Memberlakukan harga jual produk yang 
+berbeda untuk satu negara dengan negara lain.
+Dumping
+:
+Menjual barang dengan harga yang murah ke 
+negara lain dan menjual harga yang tinggi di 
+dalam negeri.   
+Ekonomi 
+digital
+:
+Kegiatan ekonomi menggunakan teknologi 
+digital atau internet.
+200 
+Ekspor
+:
+Kegiatan menjual barang dan jasa dari dalam 
+negeri ke luar negeri.
+Fintech
+:
+Inovasi teknologi dari perusahaan jasa 
+keuangan untuk meningkatkan berbagai aspek 
+pelayanan keuangan.
+Heckscher-
+Ohlin
+:
+Teori perdagangan internasional yang 
+mengemukakan bahwa suatu negara akan 
+mengekspor komoditi yang produksinya 
+memerlukan lebih banyak faktor produksi 
+yang relatif melimpah dan murah, dan dalam 
+waktu bersamaan akan mengimpor komoditi 
+yang produksinya memerlukan lebih banyak 
+faktor produksi yang relatif langka dan mahal 
+di negara tersebut. 
+Impor
+:
+Kegiatan membeli barang dari negara lain atau 
+membeli barang atau jasa dari pasar global.
+Indeks 
+Pembangunan 
+Manusia (IPM)
+:
+Indeks yang mengukur kualitas manusia.
+International 
+Monetary Fund 
+(IMF)
+:
+Merupakan organisasi internasional yang 
+bertanggung jawab dalam mengatur sistem 
+finansial global dan menyediakan pinjaman 
+kepada negara anggotanya untuk membantu 
+mengatasi masalah dalam neraca pembayaran 
+masing-masing negara.  
+International 
+Labour 
+Organization 
+(ILO)
+:
+Merupakan organisasi buruh internasional 
+yang berada dibawah naungan PBB. 
+  201
+Investor
+:
+Merupakan individu atau perusahaan yang 
+menanamkan modalnya di perusahaan lain 
+dengan harapan keuntungan.
+Kerjasama 
+regional
+:
+Kerjasama yang dilakukan oleh dua negara 
+atau lebih dalam satu kawasan.
+Kerjasama 
+antar regional
+:
+Kerjasama internasional yang melibatkan 
+beberapa negara dalam satu kawasan dengan 
+beberapa negara di kawasan lain. 
+Kreditur
+:
+Orang yang memberikan pinjaman kepada 
+orang lain.
+Kuota
+:
+Pembatasan jumlah barang yang diimpor 
+atau barang yang diekspor dengan tujuan 
+mencukupi persediaan barang di dalam negeri.
+Language of 
+business
+:
+Menunjukkan bahwa istilah akuntansi 
+merupakan bahasa bisnis karena ilmu 
+akuntansi digunakan sebagai dasar dalam 
+pengambilan keputusan.
+Laporan 
+keuangan
+:
+Merupakan catatan atas berbagai informasi 
+keuangan badan usaha yang mendeskripsikan 
+baik tidaknya kondisi suatu badan usaha.
+Merkantilisme
+:
+Merupakan salah satu teori perdagangan 
+internasional yang menyatakan bahwa 
+kemakmuran suatu negara dilihat dari 
+besarnya kepemilikan logam mulia, melakukan 
+lebih banyak ekspor dibandingkan dengan 
+impor.   
+202 
+Microfinancing
+:
+Layanan yang memberikan bantuan modal bagi 
+masyarakat yang kesulitan untuk mendapatkan 
+pinjaman modal dari industri perbankan.
+Modal
+:
+Merupakan salah satu sumber dana 
+perusahaan dari pemilik perusahaan maupun 
+pemegang saham.
+Multilateral
+:
+Bentuk kerjasama internasional yang 
+melibatkan beberapa negara di dunia tanpa 
+memandang batas tertentu.
+Neraca 
+pembayaran
+:
+Suatu catatan ringkas dan sistematis dari 
+semua transaksi ekonomi internasional yang 
+melibatkan suatu negara dengan negara lain 
+dalam kurun waktu tertentu.
+Neraca 
+perdagangan
+:
+Merupakan catatan yang berisi tentang nilai 
+barang dan jasa yang diekspor maupun 
+diimpor oleh suatu negara.
+Neraca 
+transaksi 
+berjalan
+:
+Merupakan catatan neraca yang terdiri neraca 
+perdagangan barang maupun jasa, penghasilan, 
+dan transfer berjalan. 
+Neraca 
+transaksi 
+modal dan 
+finansial
+:
+Merupakan catatan transaksi modal yang 
+meliputi modal jangka pendek maupun jangka 
+panjang. 
+Otorisasi
+:
+Fungsi APBN yang berarti bahwa anggaran negara 
+menjadi dasar untuk melaksanakan pendapatan 
+dan belanja pada tahun yang bersangkutan, 
+sehingga setiap kegiatan yang berdasar dari 
+APBN dapat dipertanggungjawabkan karena 
+berlandaskan hukum. 
+  203
+Pajak
+:
+Pungutan yang dilakukan oleh pemerintah 
+(pusat/daerah) terhadap wajib pajak tertentu 
+berdasarkan undang-undang. Pemungutannya 
+dapat dipaksakan tanpa ada imbalan langsung 
+bagi pembayar pajak.
+Pajak Bumi 
+dan Bangunan 
+(PBB)
+:
+Pajak atas bumi dan atau bangunan yang 
+dimiliki atau dimanfaatkan oleh orang pribadi 
+atau badan.
+Pajak 
+Penghasilan 
+(PPh)
+:
+Pajak yang dibebankan pada pribadi atau 
+badan atas penghasilan yang diperoleh dalam 
+satu tahun pajak.
+Pajak 
+Pertambahan 
+Nilai (PPn)
+:
+Pajak yang dikenakan dalam proses produksi 
+maupun distribusi terhadap konsumsi barang 
+atau jasa kena pajak.
+Pasiva
+:
+Terdiri dari utang dan modal. 
+Peer to peer 
+lending
+:
+Layanan pinjam meminjam dana bagi individu/
+usaha yang membutuhkan dana dalam rangka 
+memenuhi kebutuhan.
+Pembangunan 
+ekonomi
+:
+Proses yang berfokus pada pertumbuhan 
+ekonomi baik kualitatif maupun kuantitatif 
+yang mengukur semua aspek yang mencakup 
+orang-orang di suatu negara menjadi lebih 
+kaya, lebih sehat, berpendidikan lebih baik, dan 
+memiliki akses yang lebih besar ke perumahan 
+berkualitas baik. 
+Pendapatan 
+per kapita
+:
+Ukuran atau pendapatan yang diperoleh per 
+orang di suatu negara atau wilayah.
+204 
+Perdagangan 
+internasional
+:
+Kegiatan untuk tukar menukar barang dan jasa 
+yang melibatkan dua negara atau lebih dengan 
+tujuan mencari keuntungan.
+Persamaan 
+dasar 
+akuntansi
+:
+Merupakan sistematika pencatatan yang 
+menggambarkan suatu hubungan pada 
+perusahaan yaitu meliputi pengaruh transaksi 
+terhadap posisi keuangan perusahaan yang 
+meliputi aset dengan sumber dananya.
+Perserikatan 
+Bangsa-Bangsa 
+(PBB)
+:
+Organisasi internasional terbesar di dunia 
+yang diikuti oleh 193 negara anggota. 
+Organisasi internasional antar pemerintah 
+ini bertujuan untuk menjaga perdamaian dan 
+keamanan internasional, membina hubungan 
+persahabatan antar bangsa, dan membangun 
+kerjasama internasional.
+Pertumbuhan 
+ekonomi
+:
+Peningkatan produksi barang dan jasa yang 
+dihasilkan oleh suatu negara dari waktu ke 
+waktu dan diukur dengan peningkatan total 
+output suatu negara.
+Produk 
+Domestik 
+Bruto (PDB)
+:
+Nilai total dari semua barang dan jasa akhir 
+yang diproduksi dalam suatu negara selama 
+periode waktu tertentu.
+Retribusi
+:
+Pungutan yang dilakukan oleh pemerintah 
+daerah berdasarkan undang-undang dimana 
+manfaatnya dapat dirasakan langsung.
+Subsidi
+:
+Pemberian bantuan kepada pengusaha untuk 
+bisa menekan biaya produksi sehingga bisa 
+menetapkan harga yang bersaing.
+  205
+Stabilisasi
+:
+Fungsi APBN yang berarti bahwa anggaran 
+pemerintah menjadi alat untuk memelihara 
+dan mengupayakan keseimbangan 
+fundamental perekonomian.
+Tarif
+:
+Klasifikasi barang dan pembebanan bea masuk 
+dan bea keluar yang dinyatakan dalam bentuk 
+persentase atau nilai mata uang tertentu.
+Teori Harrod-
+Domar
+:
+Teori yang menyatakan terdapat hubungan 
+positif antara pertumbuhan ekonomi dengan 
+rasio tabungan, dan sebaliknya pertumbuhan 
+ekonomi berhubungan negatif dengan rasio 
+capital-output.
+Teori 
+keunggulan 
+mutlak
+:
+Teori keunggulan mutlak mengungkapkan 
+pertukaran terjadi di antara dua negara jika 
+setiap negara memiliki keunggulan dalam 
+memproduksi barang tertentu. Artinya 
+setiap negara akan memperoleh manfaat 
+perdagangan internasional karena melakukan 
+spesialisasi produksi dan mengekspor barang 
+jika negara tersebut memiliki keunggulan 
+mutlak, serta mengimpor barang jika negara 
+tersebut memiliki ketidakunggulan mutlak.
+206 
+Teori 
+keunggulan 
+komparatif
+:
+Suatu negara akan menghasilkan dan 
+kemudian mengekspor suatu barang yang 
+memiliki comparative advantage terbesar dan 
+mengimpor barang yang memiliki comparative 
+disadvantage, yaitu suatu barang yang dapat 
+dihasilkan dengan lebih murah dan mengimpor 
+barang yang kalau dihasilkan sendiri memakan 
+ongkos yang besar. Artinya, dua negara 
+akan tetap melakukan pertukaran melalui 
+perdagangan internasional walaupun salah 
+satu negara mempunyai semua keunggulan.
+Teori klasik
+:
+Analisis proses dari pertumbuhan ekonomi 
+menjadi pokok pemikiran para ekonom klasik. 
+Dimana, pembagian kerja, akumulasi modal, 
+dan juga keuntungan dari perdagangan 
+internasional dipandang sebagai faktor utama 
+pertumbuhan ekonomi.
+Teori 
+Schumpeter
+:
+Teori yang menyatakan bahwa inovasi dari 
+pengusaha atau wirausahawan berperan 
+penting dalam meningkatkan pertumbuhan 
+ekonomi.
+UMKM
+:
+Usaha mikro kecil dan menengah merupakan 
+usaha produktif yang dimiliki perorangan 
+maupun badan usaha yang telah memenuhi 
+kriteria sebagai usaha mikro. 
+  207
+United Nations 
+Educational, 
+Scientific 
+and Cultural 
+Organization 
+(UNESCO)
+:
+Organisasi di bawah naungan PBB yang 
+bertanggung jawab untuk mempromosikan 
+perdamaian, keadilan sosial, hak asasi manusia, 
+dan keamanan nasional.    
+United Nations 
+Children’s 
+International 
+Emergency 
+Fund (UNICEF) 
+:
+Dikenal dengan dana anak perserikatan 
+bangsa-bangsa. organisasi ini merupakan 
+badan khusus PBB yang ditujukan untuk 
+membantu upaya nasional meningkatkan 
+kesehatan, gizi, pendidikan dan kesejahteraan 
+umum anak-anak.
+Utang
+:
+Merupakan kewajiban atau sejumlah uang 
+yang harus dibayarkan oleh entitas yang timbul 
+dari peristiwa masa lalu.
+World bank
+:
+Lembaga internasional yang memberikan 
+bantuan pembiayaan dan nasihat keuangan 
+kepada negara yang membutuhkan.
+World health 
+organization 
+(WHO)
+:
+Merupakan lembaga yang berada di bawah 
+naungan PBB yang bertanggung jawab 
+terhadap persoalan kesehatan publik 
+internasional.
+World Trade 
+Organization 
+(WTO)
+:
+Organisasi perdagangan dunia yang bertujuan 
+untuk membuat perdagangan antar negara 
+semakin terbuka dengan penurunan bahkan 
+peniadaan hambatan tarif maupun non tarif.

@@ -1,0 +1,862 @@
+207
+Bab VII  Energi Terbarukan
+Bab
+VII
+Energi
+Terbarukan
+  Pada era teknologi sekarang, energi listrik telah menjadi kebutuhan 
+penting bagi masyarakat. Tahukah kalian, ternyata masih ada daerah 
+di Indonesia yang belum dialiri energi listrik?
+Sumber: freepik/freepik.com (2023)
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2023
+Ilmu Pengetahuan Alam untuk SMA/MA Kelas X (Edisi Revisi)
+Penulis : Niken Resminingpuri Krisdianti, Elizabeth Tjahjadarmawan, 
+Ayuk Ratna Puspaningsih
+ISBN 
+: 978-623-118-461-0 (jil.1 PDF)
+208
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+Setelah mempelajari bab ini, kalian dapat menemukan fakta masalah 
+ketersediaan energi yang terjadi saat ini, mengidentiikasi berbagai 
+jenis sumber energi dan potensi sumber energi lokal beserta dampak 
+penggunaannya, menemukan masalah ketersediaan energi yang ada di 
+lingkungan sekitar tempat tinggal, membuat produk pemanfaatan sumber 
+energi alternatif, serta membuat alat atau prototipe penghasil energi 
+sederhana sebagai solusi masalah ketersediaan energi.
+Tujuan Pembelajaran
+Peta Konsep
+• daya
+• energi
+• hukum kekekalan energi
+• konversi energi
+• sumber energi
+Kata 
+Kunci
+SUMBER ENERGI
+Tidak Terbarukan
+Terbarukan
+Konversi Energi
+terdiri atas
+berlaku
+• Minyak bumi
+• Gas alam
+• Batu bara
+Hukum Kekekalan 
+Energi
+• Air
+• Matahari
+• Angin
+• Panas bumi
+• Gelombang laut
+• Pasang surut air 
+laut
+contohnya
+contohnya
+dapat 
+mengalami
+209
+Bab VII  Energi Terbarukan
+Pernahkah kalian mengalami mati listrik selama berjam-jam di rumah? 
+Bagaimana rasanya? Tentu kalian merasa terganggu, terutama jika kalian 
+sedang menggunakan alat elektronik. Masyarakat Desa Plaosan, Kabupaten 
+Probolinggo, Jawa Timur pernah mengalami kehidupan sulit mengakses energi 
+listrik selama bertahun-tahun.
+Gambar 7.1 Lokasi Desa Plaosan, Kabupaten Probolinggo, Jawa Timur
+Sumber: Google Earth/earth.google.com (2023)
+Desa Plaosan berada di kaki Gunung Argopuro. Terdapat 955 kepala keluarga 
+yang tersebar di dua belas dusun di Desa Plaosan. Akses menuju Desa Plaosan 
+cukup sulit karena daerahnya berbukit-bukit, bahkan salah satu dusun, yaitu 
+Dusun Sosokan, tidak dapat diakses oleh kendaraan bermotor.
+Bagaimana solusi agar masyarakat di daerah terpencil tetap dapat menikmati 
+energi listrik? Bagaimana sumber energi alternatif di lingkungan sekitar tempat 
+tinggal dapat dimanfaatkan untuk memenuhi kebutuhan atau meminimalisir 
+penggunaan energi listrik dalam kehidupan sehari-hari? Kalian akan menelusuri 
+lebih lanjut dalam bab ini.
+A. Urgensi Isu Kebutuhan Energi Listrik
+Pada era teknologi industri dan digital ini, energi telah menjadi kebutuhan 
+dasar untuk kelangsungan hidup manusia. Hal ini terjadi karena manusia sudah 
+memiliki ketergantungan terhadap teknologi yang mempermudah pekerjaannya. 
+Dampaknya adalah kebutuhan akan energi listrik terus meningkat. Hal tersebut 
+terlihat dari data yang ditampilkan pada Gambar 7.2.
+210
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+1.200
+1.000
+800
+600
+400
+200
+0
+2015
+910
+2016
+956
+2017
+1.021
+2018
+1.064
+2019
+1.084
+2020
+1.142
+Tahun
+Konsumsi Listrik Nasional
+kWh/Kapita
+Gambar 7.2 Graik konsumsi energi listrik Indonesia tahun 2013 
+sampai 2019 dan target konsumsi energi listrik tahun 2020.
+Sumber: Kementerian ESDM (2020)
+Saat konsumsi energi listrik masyarakat terus meningkat dengan 
+ketersediaannya yang terbatas, masih ada daerah  yang belum dapat menikmati 
+energi listrik. Desa Plaosan hanyalah satu contoh daerah yang belum menikmati 
+energi listrik. Menurut Menteri Energi 
+dan Sumber Daya Mineral (ESDM), 
+Ariin Tasrif, dan Direktur Utama PLN, 
+Zulkili Zaini, terdapat 433 desa yang 
+belum mendapatkan akses energi 
+listrik. Data tersebut dihimpun hingga 
+tahun 2019. Secara lengkapnya, kalian 
+dapat melihat datanya pada Gambar 
+7.3.
+Faktor-faktor yang menjadi kendala elektriikasi desa-desa tersebut adalah 
+adanya hambatan di sisi keamanan dan masalah infrastruktur karena berada 
+di daerah terpencil, sehingga sumber-sumber energi di desa tersebut harus 
+dimanfaatkan.
+Gambar 7.3 Persentase jumlah desa yang 
+belum terelektriikasi di Indonesia tahun 2019.
+Sumber: Nova Wahyudi (2020)
+75%
+0,20%
+1,20%
+Papua
+Papua Barat
+NTT
+Maluku
+23,60%
+211
+Bab VII  Energi Terbarukan
+https://buku.kemdikbud.go.id/s/TIE
+Informasi secara lengkap,  
+dapat kalian baca pada 
+tautan di samping.
+Tidak tersedianya energi listrik di suatu daerah berdampak pada berbagai 
+aspek kehidupan, seperti kesehatan, sosial, pendidikan, ekonomi, dan lingkungan. 
+Contohnya adalah pengalaman masyarakat Desa Plaosan. Pertolongan bagi 
+masyarakat yang sakit dan ibu melahirkan sangat sulit, terutama pada malam 
+hari. Anak-anak juga tidak bisa belajar pada malam hari. Masyarakat kesulitan 
+dalam mengakses informasi. Kebanyakan masyarakat bekerja sebagai peternak 
+dan petani. Masyarakat kesulitan dalam mengembangkan usahanya karena 
+keterbatasan akses teknologi. Berdasarkan hal-hal yang telah diulas, kalian 
+dapat memahami betapa pentingnya ketersediaan energi listrik.
+Kalian sudah mengetahui masalah ketersediaan energi di Indonesia. Ayo lakukan 
+Aktivitas 7.1.
+Carilah informasi mengenai pertumbuhan penduduk Indonesia dari sumber 
+terpercaya. Jelaskanlah kaitannya dengan data penggunaan energi listrik 
+masyarakat Indonesia yang ditunjukkan pada Gambar 7.2.
+B.  Berbagai Macam Bentuk Energi
+Kalian telah mempelajari materi tentang energi saat SMP. Sebelum membahas 
+materi selanjutnya, kalian perlu mengingat kembali tentang energi dan berbagai 
+bentuk energi yang pernah kalian pelajari di SMP.
+Aktivitas 7.1
+Ayo Cari Tahu
+212
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+1. Energi Kinetik
+Energi yang dimiliki oleh benda bergerak disebut energi kinetik. Secara matematis, 
+dinyatakan dengan persamaan:
+2
+1
+          (7.1)
+2
+K
+E
+mv
+
+Keterangan:
+EK = energi kinetik (joule, J)
+m = massa benda (kg)
+v = kecepatan benda (m/s)
+2. Energi Potensial Gravitasi
+Di bawah pengaruh gaya gravitasi bumi, benda akan memiliki energi yang 
+tersimpan bergantung pada posisinya terhadap bumi. Energi ini disebut dengan 
+energi potensial gravitasi. Secara matematis, dinyatakan dengan persamaan:
+EP = m . g. h          (7.2)
+Keterangan:
+EP = energi potensial gravitasi (J)
+m = massa benda (kg)
+g = percepatan gravitasi (10 m/s2)
+h = ketinggian benda dari permukaan bumi (m)
+3. Kalor
+Ketika terjadi perubahan suhu pada benda, terdapat energi yang diserap atau 
+dilepaskan oleh benda, yaitu kalor. Secara matematis, kalor dinyatakan dengan 
+persamaan:
+Q = m . c . ∆T          (7.3)
+Keterangan:
+Q = kalor (J)
+m = massa benda (kg)
+c 
+= kalor jenis (J/kg.K)
+ΔT = perubahan suhu (kelvin, K)
+213
+Bab VII  Energi Terbarukan
+4. Energi Listrik
+Muatan listrik Q memiliki medan listrik, kemudian muatan listrik lainnya (q) 
+dipindahkan dari satu tempat ke tempat yang lain dalam pengaruh medan 
+listrik Q, maka muatan listrik q memiliki energi. Secara matematis, energi listrik 
+dinyatakan dengan persamaan:
+W = V . I . t          (7.4)
+Pada persamaan tersebut, berlaku hukum Ohm.
+V = I . R          (7.5)
+Keterangan:
+W = energi listrik (J)
+V = beda potensial atau tegangan listrik (volt, V)
+I = kuat arus listrik (ampere, A)
+R = hambatan listrik (ohm, Ω)
+t = selang waktu (s)
+Pada penggunaannya dalam kehidupan sehari-hari, energi listrik diukur 
+dengan waktu pemakaiannya. Energi listrik per satu satuan waktu disebut 
+sebagai besaran daya. Secara matematis, daya dinyatakan dengan persamaan:
+         (7.6)
+W
+P
+t
+
+Keterangan:
+P = daya (watt, W)
+E = usaha (J)
+t = waktu (s)
+Energi tidak selalu dinyatakan dalam satuan SI, joule. Satuan energi dalam 
+kaitannya dengan daya biasa dinyatakan dengan kilowatt jam (kWh).
+1 kWh = 1.000 W × 60 menit
+1 kWh = 1.000 W × 3.600 s
+1 kWh = 3,6 × 106 W.s
+1 kWh = 3,6 × 106 J
+214
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+C. Konversi Energi
+Konversi energi merupakan proses perubahan bentuk energi dari suatu bentuk 
+ke bentuk energi lainnya. Proses perubahan bentuk energi berlaku hukum 
+kekekalan energi yang berbunyi:
+Hukum Kekekalan Energi
+Energi bersifat kekal, artinya energi tidak dapat diciptakan dan tidak dapat 
+dimusnahkan, energi hanya dapat berubah bentuk.
+Secara matematis, dinyatakan sebagai berikut.
+Energi awal = energi akhir          (7.7)
+Konsep ini menjadi prinsip kerja dasar bagaimana satu bentuk energi dapat 
+berubah ke bentuk energi lainnya, termasuk perubahan bentuk energi kimia 
+dari suatu sumber energi menjadi energi listrik.
+Kalian sudah mengingat kembali bentuk-bentuk energi. Ayo lakukan 
+Aktivitas 7.2. Manfaatkan pengetahuan yang telah kalian dapatkan pada materi 
+pengukuran untuk menjawab pertanyaan-pertanyaan berikut. Salinlah tabel di 
+bawah pada buku latihan kalian dan lengkapi bagian yang kosong!
+1. 
+Tentukanlah besaran-besaran yang perlu diketahui untuk mengetahui 
+besar energi terkait beserta dimensi dan alat ukurnya!
+No.
+Bentuk Energi
+Besaran 
+yang perlu 
+diketahui 
+Satuan 
+SI
+Alat 
+Ukur
+Dimensi
+1.
+Energi kinetik pada 
+mobil mainan yang 
+bergerak lurus.
+2.
+Energi potensial 
+pada benda yang 
+dijatuhkan pada 
+ketinggian tertentu.
+Aktivitas 7.2
+Ayo Identiikasi
+215
+Bab VII  Energi Terbarukan
+3.
+Kalor air yang 
+dipanaskan.
+4.
+Energi listrik yang 
+dihasilkan oleh 
+generator kecil.
+2. 
+Tentukanlah satuan SI dan dimensi dari besaran yang merupakan 
+konstanta berikut ini!
+No.
+Bentuk Energi
+Besaran/
+Konstanta
+Satuan SI
+Dimensi
+1.
+Energi potensial gravitasi
+Percepatan 
+gravitasi (g)
+2.
+Kalor
+Kalor jenis (c)
+3. 
+Buktikanlah bahwa persamaan berikut ini memiliki dimensi yang 
+sama dengan energi!
+No.
+Dimensi Energi
+Bentuk Energi
+Persamaan
+Dimensi
+1.
+Energi kinetik
+2
+1
+ 
+2
+K
+E
+mv
+
+2.
+Energi potensial 
+gravitasi
+EP = mgh
+3.
+Kalor
+Q = mc∆T 
+D. Berbagai Macam Sumber Energi
+Terdapat berbagai jenis sumber energi yang dapat dimanfaatkan saat ini. Berikut 
+ini beberapa di antaranya.
+1. 
+Energi dari Bahan Bakar Fosil
+Bahan bakar fosil merupakan bahan bakar yang terbentuk dari proses 
+ilmiah yang dialami oleh sisa-sisa hewan dan tanaman purba dalam kurun 
+waktu yang sangat lama dengan orde jutaan tahun. Bahan bakar fosil ini 
+tersusun atas senyawa hidrokarbon. Contoh bahan bakar fosil adalah batu 
+bara, minyak bumi, dan gas alam.
+216
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+2. 
+Energi Biogas
+Energi biogas berasal dari limbah organik yang diolah melalui proses 
+anaerobic digestion dengan bantuan bakteri dalam kondisi tanpa oksigen. 
+Limbah organik ini antara lain kotoran sapi, sampah dedaunan, dan sampah-
+sampah lain yang berasal dari organisme yang belum lama mati.
+3. 
+Energi Air
+Energi air merupakan salah satu energi paling banyak digunakan untuk 
+keperluan pembangkit energi listrik, khususnya di Indonesia. Air ada 
+dimana-mana dan jumlahnya tidak pernah habis. Prinsip kerjanya adalah 
+aliran air di permukaan bumi dibendung kemudian dialirkan menuju ke 
+tempat yang lebih rendah untuk memutar turbin sehingga menghasilkan 
+energi listrik.
+4. 
+Energi Angin
+Energi angin merupakan sumber energi yang memanfaatkan angin untuk 
+memutar kincir angin sehingga dihasilkan energi listrik.
+5. 
+Energi Matahari
+Energi matahari merupakan sumber energi yang memanfaatkan matahari 
+untuk menyinari atau memberi energi pada perangkat lempengan logam 
+sel surya, sehingga menghasilkan energi listrik.
+(a)
+(b)
+Gambar 7.4 Sumber Energi (a) PLTB Sidrap, (b) PLTU                                                  
+Sumber: (a) Dian Lorinsa/ebtke.esdm.go.id (2018), (b) Humas EBTKE/ebtke.esdm.go.id (2021)
+217
+Bab VII  Energi Terbarukan
+6. 
+Energi Gelombang Laut
+Energi gelombang laut atau ombak merupakan energi yang bersumber dari 
+gerak naik turunnya gelombang air laut. Gerakan naik turun gelombang air 
+tersebut memberikan tekanan pada turbin, hingga turbin dapat berputar 
+dan menghasilkan energi listrik. Sebagai negara maritim, Indonesia memiliki 
+potensi tinggi dalam memanfaatkan sumber energi dari gelombang laut. 
+Namun, sumber ini masih dalam taraf pengembangan di Indonesia.
+7. 
+Energi Pasang Surut
+Energi Pasang Surut merupakan energi yang bersumber dari proses pasang 
+surut air laut. Terdapat dua jenis sumber energi pasang surut air laut, yaitu 
+perbedaan tinggi rendah air laut saat pasang dan surut, dan arus pasang 
+surut terutama pada selat-selat yang kecil. Tekanan yang dihasilkan oleh 
+air laut dapat memutar turbin sehingga menghasilkan energi listrik. Seperti 
+energi gelombang laut, Indonesia sebagai negara maritim memiliki potensi 
+dalam pemanfaatan energi pasang surut air laut, namun masih dalam taraf 
+pengembangan.
+8. 
+Energi Panas Bumi
+Salah satu sumber energi yang dapat dikembangkan di Indonesia adalah 
+geotermal atau panas bumi. Indonesia merupakan negara dengan sumber 
+geotermal terbesar di dunia dengan potensi lebih dari 17.000 MW yang 
+dapat menghemat 40 persen sumber daya panas bumi dunia.
+Kondisi geologis Indonesia yang terletak pada pertemuan tiga lempeng 
+tektonik utama (Lempeng Eurasia, Indo-Australia, dan Pasiik) memberikan 
+dampak pada banyaknya sumber energi panas bumi di Indonesia. Indonesia 
+menempati urutan keempat di dunia, bahkan dari variabel suhu tinggi, Indonesia 
+menempati urutan kedua. Jumlah potensi energi panas bumi di Indonesia 
+sangat besar, yaitu lebih dari 252 lokasi yang tersebar di Sumatera, Jawa, Nusa 
+Tenggara, Bali, Sulawesi, hingga Maluku.
+E. Sumber Energi Terbarukan dan Tak Terbarukan
+Kalian telah memahami bahwa energi menjadi kebutuhan yang sangat penting 
+bagi manusia di seluruh penjuru dunia saat ini. Bagaimana cara agar kebutuhan 
+energi dapat terpenuhi? Bagaimana cara menekan penggunaan energi listrik 
+218
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+yang berlebih? Untuk menyelesaikan masalah kebutuhan energi tersebut, seluruh 
+potensi sumber energi yang ada perlu dimanfaatkan seoptimal mungkin.
+Sumber energi dapat dikategorikan menjadi dua jenis, yaitu sumber energi 
+terbarukan dan tak terbarukan. 
+1. 
+Sumber Energi Terbarukan
+Sumber energi terbarukan merupakan sumber energi yang dapat 
+digantikan oleh proses alami dalam kurun waktu yang sebanding dengan 
+penggunaannya, sehingga tidak akan pernah dapat habis.
+2. 
+Sumber Energi Tak Terbarukan
+Sumber energi tak terbarukan merupakan sumber energi yang terbatas 
+dan proses pergantiannya secara alami memerlukan waktu yang sangat 
+lama, sehingga pada akhirnya dapat habis.
+F. Dampak Eksplorasi dan Penggunaan Energi
+Selain membahas tentang bagaimana cara memenuhi kebutuhan energi bagi 
+seluruh masyarakat, dampak eksplorasi dan eksploitasi terhadap lingkungan 
+pun menjadi hal penting yang perlu dipikirkan.
+Sumber energi yang tidak ramah lingkungan dan pengolahannya 
+menghasilkan sisa buangan berupa karbon yang merupakan salah satu gas 
+rumah kaca, juga harus menjadi fokus perhatian. Penggunaan energi yang 
+kurang bijak juga dapat menyebabkan kerusakan pada lingkungan.
+Gambar 7.5 Eksploitasi sumber energi batu bara di Kalimantan.
+Sumber: Zevanya Suryawan/Reuters (2013)
+219
+Bab VII  Energi Terbarukan
+Kalian sudah mengetahui berbagai macam sumber energi yang ada di Indonesia. 
+Ayo lakukan Aktivitas 7.3.
+Carilah informasi mengenai berbagai macam pembangkit listrik yang 
+ada dan belum ada di Indonesia. Salinlah tabel berikut pada buku catatan 
+kalian dan lengkapilah!
+No.
+Jenis 
+Pembangkit 
+Listrik
+Prinsip 
+kerja*
+Jenis 
+Sumber 
+Energi**
+Keuntungan
+Kekurangan 
+atau 
+Dampak 
+Lingkungan
+Contoh 
+Lokasi 
+Pembangkit 
+Listrik
+1.
+2.
+...
+* Prinsip kerja menjelaskan peristiwa konversi energi apa yang terjadi.
+** Jenis sumber energi diisi dengan pilihan energi terbarukan atau tak terbarukan.
+1. 
+Amatilah tabel yang telah kalian isi. Sumber energi apa yang paling 
+banyak dimanfaatkan sebagai pembangkit energi listrik di Indonesia?
+2. 
+Bagaimana dampak penggunaan sumber energi tak terbarukan bagi 
+lingkungan?
+Aktivitas 7.3
+Ayo Identiikasi
+G. Pemanfaatan Potensi Sumber Energi Lokal sebagai 
+Upaya Pemenuhan Kebutuhan Energi Listrik
+Pemenuhan kebutuhan energi listrik tidak hanya menjadi tanggung jawab 
+pemerintah atau pihak penyedia energi listrik. Dengan pengetahuan mengenai 
+berbagai sumber energi dan pemanfaatannya, seluruh masyarakat dapat 
+berperan serta dalam upaya pemenuhan kebutuhan energi listrik, minimal 
+untuk pemenuhan kebutuhan listrik rumah tangganya sendiri.
+Pengalaman masyarakat Desa Plaosan dapat menjadi inspirasi bagi kalian 
+dalam pemanfaatan sumber energi di lingkungan sekitar tempat tinggal guna 
+pemenuhan kebutuhan energi listrik masyarakatnya. Jika kalian mengamati 
+220
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+Gambar 7.1, Desa Plaosan terletak di kaki Gunung Argopuro dan wilayahnya 
+berbukit-bukit dan terdapat banyak air terjun. Masyarakat Desa Plaosan berupaya 
+memenuhi kebutuhan energi listrik di desanya dengan membangun pembangkit 
+listrik tenaga mikrohidro (PLTMH) dengan modal swadaya masyarakat. 
+Gambar 7.6 Salah satu pembangkit listrik tenaga mikrohidro di Desa Plaosan, 
+Probolinggo, Jawa Timur
+Sumber: Didin/iNewsSurabaya (2021)
+Air terjun pada ketinggian tertentu memiliki energi potensial. Saat air jatuh ke 
+permukaan Sungai, energi potensial tadi berubah menjadi energi kinetik. Energi 
+kinetik ini dapat dimanfaatkan untuk memutar turbin sehingga menghasilkan 
+energi listrik. Namun, alat yang dibuat sendiri oleh masyarakat tidak mampu 
+menahan derasnya arus air sehingga selalu rusak. Tidak berputus asa, pada 
+tahun 2019, masyarakat Desa Plaosan dan petugas desa setempat menjalin 
+kerja sama dengan perusahaan penyedia layanan energi listrik terdekat di 
+daerahnya, sehingga masyarakat Desa Plaosan mendapat peralatan PLTMH yang 
+lebih memadai. PLTMH terletak di air terjun Kali Pedati dengan kapasitas 7 kW. 
+Pembangunan PLTMH juga meluas ke desa lainnya di Kabupaten Probolinggo, 
+Jawa Timur.
+Kalian telah mengetahui perjuangan masyarakat Desa Plaosan dalam memenuhi 
+kebutuhan energi listrik bagi masyarakatnya. Ayo lakukan Aktivitas 7.4.
+221
+Bab VII  Energi Terbarukan
+Bacalah informasi tentang masyarakat Desa Plaosan lebih lanjut pada 
+tautan berikut ini.
+https://buku.kemdikbud.go.id/s/MMD
+https://buku.kemdikbud.go.id/s/DSP
+Berita 1:
+Berita 2:
+Kembangkanlah wawasan kalian tentang masyarakat yang berupaya 
+memenuhi kebutuhan energi listriknya. Cari dan bacalah berita-berita 
+lain tentang pemanfaatan sumber energi lokal oleh masyarakat, kemudian 
+jawablah pertanyaan berikut ini!
+1. 
+Berdasarkan bacaan berita, hal-hal apa saja yang menginspirasi kalian 
+tentang pemanfaatan sumber energi lokal?
+2. 
+Berdasarkan hasil pengalaman belajar kalian tentang sumber energi 
+terbarukan, bagaimana proses mendapatkan ide pemanfaatan sumber 
+energi di lingkungan sekitar?
+3. 
+Amatilah kekayaan alam di daerah kalian. Apa saja potensi alam 
+di daerah kalian yang dapat dimanfaatkan sebagai sumber energi? 
+Jelaskan!
+Aktivitas 7.4
+Ayo Identiikasi
+Tidak hanya individu dan masyarakat, para pemimpin dunia juga melakukan 
+berbagai upaya untuk mengatasi berbagai masalah pemenuhan kebutuhan 
+energi bagi masyarakat. Para pemimpin dunia, termasuk Indonesia, berkumpul 
+dan bersepakat hingga dihasilkan sebuah program yang disebut Sustainable 
+Development Goals (SDGs).
+222
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+Gambar 7.7 Tujuan Pembangunan Berkelanjutan
+Sumber: dimodiikasi dari un.org/United Nations (2020)
+Program tersebut berisi rumusan tujuh belas target untuk mengatasi 
+kemiskinan dan kesenjangan sosial, serta masalah lingkungan. Harapannya, 
+target-target tersebut dapat dicapai pada 2030.
+Salah satu program SDGs yang berkaitan dengan energi dan dampaknya 
+pada lingkungan adalah SDG7, affordable and clean energy, yaitu memastikan 
+ketersediaan energi yang ramah lingkungan bagi seluruh masyarakat. Terdapat 
+tujuh sasaran SDG7 yang harus dicapai pada 2030, yaitu akses universal 
+terhadap energi modern, meningkatkan persentase energi terbarukan global, 
+menggandakan peningkatan eisiensi energi, mempromosikan akses terhadap 
+penelitian, teknologi dan investasi dalam energi bersih, serta memperluas dan 
+meningkatkan layanan energi bagi negara berkembang.
+Memastikan ketersediaan energi bagi seluruh masyarakat sangatlah 
+penting, terutama bagi daerah-daerah terpencil yang memiliki kendala akses 
+terhadap energi listrik. Ketersediaan energi, terutama bagi masyarakat pedesaan, 
+mendukung kemajuan aktivitas masyarakat pada berbagai aspek kehidupan, 
+seperti kesehatan, pertanian, peternakan, ekonomi, dan pendidikan. Hal tersebut 
+berpengaruh pada peningkatan kesejahteraan masyarakat, karena terjadi 
+peningkatan produktivitas. Tidak hanya tersedia, tetapi aspek lingkungan pun 
+perlu diperhatikan dengan menggunakan sumber energi terbarukan yang 
+ramah lingkungan.
+223
+Bab VII  Energi Terbarukan
+Aktivitas 7.5
+Ayo Cari Tahu
+Lembar Kebiasaan dalam Penggunaan Energi
+Pilihlah nilai terbaik yang dapat mendeskripsikan kebiasaan kalian dalam 
+hal penggunaan energi pada pernyataan di bawah ini. Berilah tanda ceklis 
+() untuk jawaban yang kalian pilih.
+No.
+Pertanyaan
+4 
+Selalu
+3 
+Sering
+2 
+Jarang
+1 
+Tidak 
+Pernah
+1.
+Saya mematikan lampu sebelum 
+meninggalkan ruangan.
+2.
+Pada malam hari, saya tidur dengan 
+kondisi lampu kamar mati.
+3.
+Saya memilih untuk membeli alat 
+elektronik yang hemat daya.
+4.
+Saya mematikan komputer setelah 
+selesai menggunakannya.
+5.
+Pada malam hari, sebagian besar 
+lampu di rumah dimatikan.
+6.
+Saya mencoba untuk menghemat 
+penggunaan air.
+7.
+Saya memilih untuk jalan kaki atau 
+bersepeda untuk pergi ke tempat 
+yang jaraknya dekat.
+8
+Saya memilih untuk menggunakan 
+kendaraan umum untuk pergi ke 
+tempat yang jaraknya jauh.
+https://buku.kemdikbud.
+go.id/s/SDG
+Jika kalian ingin 
+menelusuri lebih lanjut 
+mengenai SDGs, kalian 
+dapat mengakses pada 
+tautan di samping.
+224
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+Jumlah skor yang didapatkan: 
+25–32 = Saya perlu melanjutkan kebiasaan baik untuk berhemat energi.
+17–24 = Saya perlu meningkatkan lagi kebiasaan baik untuk berhemat 
+energi. 
+8–16 = Saya perlu belajar membangun kebiasaan baik untuk berhemat 
+energi.
+Tuliskanlah kebiasaan baik kalian dalam hal penggunaan energi yang 
+dapat kalian bangun setelah mempelajari materi ini.
+Lembar Sikap terhadap Penggunaan Energi
+Pilihlah nilai terbaik yang dapat mendeskripsikan sikap kalian pada 
+pernyataan di bawah ini. Berilah tanda ceklis () untuk jawaban yang 
+kalian pilih.
+No.
+Pertanyaan
+4 
+Selalu
+3 
+Sering
+2 
+Jarang
+1 
+Tidak 
+Pernah
+1.
+Materi tentang energi penting 
+dipelajari di sekolah.
+2.
+Saya dapat lebih berperilaku 
+hemat energi jika saya mengetahui 
+caranya.
+3.
+Sangat penting untuk berperilaku 
+hemat energi.
+4.
+Saya tidak perlu mencemaskan 
+penggunaan lampu, komputer, 
+serta alat elektronik lainnya di 
+sekolah, sebab sekolah telah 
+membayarnya.
+5.
+Saya tidak perlu repot-repot 
+memikirkan penghematan energi 
+karena teknologi baru akan lebih 
+hemat energi.
+6.
+Penggunaan energi terbarukan di 
+Indonesia perlu lebih ditingkatkan.
+225
+Bab VII  Energi Terbarukan
+No.
+Pertanyaan
+4 
+Selalu
+3 
+Sering
+2 
+Jarang
+1 
+Tidak 
+Pernah
+7.
+Usaha untuk mengembangkan 
+teknologi pengolah energi 
+terbarukan lebih penting 
+dibandingkan usaha mencari 
+sumber energi fosil baru.
+8.
+Hukum mengenai perlindungan 
+terhadap alam perlu dilonggarkan 
+untuk dapat memaksimalkan 
+eksplorasi sumber energi baru.
+9.
+Kotoran hewan di daerah 
+peternakan perlu dimanfaatkan 
+secara optimal untuk memproduksi 
+lebih banyak biogas.
+10.
+Saya yakin bahwa keputusan 
+dan tindakan yang saya pilih 
+terkait penggunaan energi dapat 
+memberikan dampak terhadap 
+penyelesaian masalah energi.
+Sumber: Jan DeWaters/Clarkson University (2013)
+Intisari
+1. 
+Energi merupakan kemampuan untuk melakukan usaha. Bentuk-
+bentuk energi antara lain energi kinetik, energi potensial gravitasi, 
+kalor, dan energi listrik.
+2. 
+Konversi energi merupakan proses perubahan bentuk energi dari 
+suatu bentuk ke bentuk energi lainnya. Pada konversi energi, berlaku 
+hukum kekekalan energi, yaitu energi tidak dapat diciptakan dan tidak 
+dapat dimusnahkan, energi hanya dapat berubah bentuk.
+3. 
+Berdasarkan ketersediaannya, sumber energi terdiri atas sumber 
+energi terbarukan dan tak terbarukan.
+226
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+a. 
+Sumber energi terbarukan merupakan sumber energi yang dapat 
+digantikan oleh proses alami dalam kurun waktu yang sebanding 
+dengan penggunaannya, sehingga tidak akan pernah dapat habis.
+b. 
+Sumber energi tak terbarukan merupakan sumber energi yang 
+terbatas dan proses pergantiannya secara alami memerlukan 
+waktu yang sangat lama, sehingga pada akhirnya dapat habis.
+Potensi Geotermal Indonesia
+ 
+Gambar 7.8 Sepuluh negara berperingkat terbaik penghasil energi listrik terbesar 
+dari sumber panas bumi.
+Sumber: ThinkGeo Energy Research (2020)
+Indonesia merupakan salah satu negara yang dilalui oleh sabuk sirkum 
+Pasiik atau yang biasa dikenal dengan istilah ring of ire. Ciri-ciri daerah 
+yang dilalui oleh sabuk sirkum Pasiik adalah memiliki banyak gunung api 
+aktif dan sering terjadi aktivitas seismik. Berdasarkan data yang dirilis pada 
+lipi.go.id, 13% dari gunung api di dunia berada di Indonesia, yaitu sebanyak 
+127 gunung api dengan 58 gunung api di antaranya belum dipantau dengan 
+peralatan seismik.
+Bacalah teks berikut ini untuk pengerjaan soal nomor 1 sampai dengan 3.
+Ayo Cek Pemahaman
+227
+Bab VII  Energi Terbarukan
+Gambar 7.9 Pembangkit Listrik Tenaga Panas Bumi Dieng
+Sumber: Walhi Jateng (2015)
+Salah satu keuntungan yang didapatkan Indonesia sebagai negara 
+yang dilalui sabuk sirkum Pasiik adalah banyaknya sumber panas bumi 
+yang dapat dimanfaatkan menjadi sumber energi. Pada akhir tahun 2019, 
+Indonesia berhasil meraih peringkat dua dunia sebagai negara penghasil 
+energi listrik dari sumber panas bumi. Dilansir dari bekasi.pikiran-rakyat.
+com, energi panas bumi yang telah dimanfaatkan baru 8,9% dari seluruh 
+potensi panas bumi yang ada di Indonesia.
+Bagaimana cara mengelola sumber panas bumi menjadi energi listrik? 
+Cara kerja pembangkit listrik tenaga panas bumi ditunjukkan pada Gambar 
+7.10 berikut.
+Gambar 7.10 Skema Pembangkit Listrik Tenaga Panas Bumi
+Sumber: Agus Purnomo Adi (2014)
+228
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+Zat cair dan uap panas dari sumur produksi dialirkan menuju alat 
+separator. Tujuannya untuk memisahkan uap panas dengan zat cair yang 
+keluar dari sumur produksi. Zat cair tersebut dikeluarkan dari separator, 
+sementara uap panas dialirkan menuju turbin. Uap panas tersebut memutar 
+turbin yang dihubungkan dengan generator. Generator merupakan alat 
+pengubah energi gerak menjadi energi listrik. Listrik yang dihasilkan oleh 
+generator pembangkit dialirkan hingga dapat digunakan oleh masyarakat.
+Setelah melewati turbin, uap panas dialirkan menuju menara pendingin 
+untuk didinginkan. Di sini, uap panas mengalami kondensasi menjadi air. 
+Air kemudian dialirkan kembali pada sumur produksi.
+Berdasarkan teks di atas, jawablah pertanyaan-pertanyaan berikut ini!
+1. 
+Tentukanlah pernyataan berikut benar atau salah!
+Pernyataan
+Benar
+Salah
+Terdapat sekitar 977 gunung api di dunia.
+Sekitar 46% gunung api di Indonesia sudah dipantau dengan 
+peralatan seismik.
+Prinsip kerja generator pembangkit listrik tenaga panas 
+bumi sama dengan prinsip kerja dinamo mobil mainan yang 
+menggunakan baterai untuk memutar roda.
+Indonesia memiliki potensi geotermal sekitar 23.966 MW.
+2. 
+Pada teks tersebut, penulis menyatakan bahwa “ciri-ciri daerah yang dilalui 
+oleh sabuk sirkum Pasiik adalah memiliki banyak gunung api aktif dan 
+sering terjadi aktivitas seismik”. Pesan yang ingin disampaikan penulis 
+pada pembaca melalui pernyataan tersebut adalah ....
+Daerah yang dilalui oleh sabuk sirkum Pasiik tidak layak dihuni.
+Begitu banyaknya gunung api di daerah sabuk sirkum Pasiik.
+Masyarakat Indonesia harus lebih waspada terhadap potensi 
+bencana alam yang mungkin terjadi.
+Gempa bumi tidak akan mungkin terjadi di daerah yang tidak dilalui 
+oleh sabuk sirkum Pasiik.
+229
+Bab VII  Energi Terbarukan
+3. 
+Berdasarkan skema Gambar 7.10 dan penjelasan pada teks, alat-alat apa 
+saja yang perlu disediakan pada pembangkit listrik tenaga panas bumi agar 
+menghasilkan energi listrik?
+Kalian sudah mengetahui pentingnya sumber energi yang mudah diakses 
+oleh masyarakat dan ramah lingkungan. Mari lakukan proyek berikut ini.
+Carilah ide sumber energi yang dapat dimanfaatkan di sekitar kalian. 
+Berikut ini merupakan contoh sumber ide proyek sederhana yang dapat 
+kalian jadikan referensi.
+https://buku.kemdikbud.go.id/s/EP
+https://buku.kemdikbud.
+go.id/s/RPR
+Tahap Awal
+1. 
+Adakah sesuatu yang dapat kalian jadikan sebagai sumber energi 
+sederhana? Hasil akhir tidak harus menjadi energi listrik, bisa juga 
+menjadi bentuk energi lain yang dapat menekan penggunaan energi 
+listrik.
+2. 
+Adakah alat yang dibutuhkan untuk mengelola sumber energi ter sebut?
+a. 
+Buatlah daftar alat dan bahan yang dibutuhkan untuk membuat-
+nya (tidak harus jadi alat yang sebenarnya, bisa juga prototipe).
+b. 
+Tuliskan langkah-langkah cara membuatnya.
+c. 
+Gambarkanlah desain alat yang dibuat.
+3. 
+Bagaimana prinsip kerja alat tersebut? Konsep isika apa yang kalian 
+butuhkan dalam alat tersebut? Tuliskanlah teorinya dan jelaskan 
+bagaimana konsep isika tersebut diterapkan pada alat yang kalian buat!
+Pengayaan
+230
+Ilmu Pengetahuan Alam 
+untuk SMA/MA Kelas X (Edisi Revisi)
+4. 
+Bentuk konversi energi apa yang terjadi pada alat tersebut?
+5. 
+Bagaimana energi dapat dihasilkan dari alat atau bahan tersebut?
+6. 
+Dapatkah energi masukan dan energi yang dihasilkan oleh alat tersebut 
+dapat diketahui? Bagaimana caranya?
+7. 
+Adakah dampak dari alat yang kalian rancang? Kalian dapat 
+meninjaunya dari berbagai aspek, misalnya lingkungan, sosial, dan 
+ekonomi.
+Tahap Uji Coba
+Pertanyaan ini diisi ketika alat atau prototipe sudah selesai dibuat. 
+1. 
+Kesulitan apa yang kalian alami selama proses pembuatan?
+2. 
+Apakah kerja alat sudah berfungsi sesuai dengan harapan? Jelaskan!
+3. 
+Hal-hal apa saja yang masih perlu diperbaiki atau dimodiikasi kembali 
+dari alat yang kalian buat?
+4. 
+Gambarkan rancangan perbaikan alat atau prototipenya!
+Tahap Akhir
+Pertanyaan ini diisi ketika alat atau prototipe sudah diperbaiki
+1. 
+Tuliskan hal apa saja yang sudah diperbaiki!
+2. 
+Apakah kerja alat sudah berfungsi sesuai dengan yang diharapkan? 
+Jelaskan!
+3. 
+Tuliskan beberapa keterbatasan yang masih ada pada alat atau prototipe 
+yang kalian buat!
+4. 
+Berikanlah saran-saran agar alat tersebut dapat bekerja lebih baik!
+Setelah kalian mempelajari bab ini, peranan, manfaat, atau pembelajaran 
+apa yang dapat kalian ambil? Tuliskan pada buku latihan kalian!
+Ayo Bereleksi

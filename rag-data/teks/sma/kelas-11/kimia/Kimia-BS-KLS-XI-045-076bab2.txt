@@ -1,0 +1,1176 @@
+31
+Bab II  Ikatan Kimia
+Bab
+II
+Ikatan Kimia 
+Setelah mempelajari bab ini, kalian dapat membedakan proses pemben tukan 
+ikatan ion dan kovalen, menjelaskan ikatan logam, menghubungkan jenis 
+ikatan dengan sifat zat, memprediksi bentuk molekul dengan teori VSEPR dan 
+menjelaskan hibridisasinya, memprediksi kepolaran zat, serta menentukan 
+interaksi antarmolekulnya.
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XI
+Penulis 
+: Munasprianto Ramli, dkk.
+ISBN 
+: 978-602-427-923-3 (jil.1)
+32
+Kimia untuk SMA/MA Kelas XI
+Mind Map
+Komik Kimia
+33
+Bab II  Ikatan Kimia
+Gambar 2.1 Garam dapur dan logam natrium
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+Cobalah kalian genggam bongkahan garam dapur? Teksturnya kasar dan 
+mudah dihancurkan, bukan? Garam dapur juga aman disentuh oleh kulit. 
+Beda sekali dengan logam natrium. Logam natrium tidak boleh tersentuh oleh 
+kulit karena logam ini sangat reaktif. Logam natrium dapat bereaksi hebat 
+dengan kandungan air yang ada pada permukaan kulit. Logam natrium juga 
+tidak mudah dihancurkan, tapi mudah dipotong dengan pisau. 
+Di dalam garam dapur terdapat unsur natrium yang membentuk senyawa 
+NaCl. Pada logam natrium juga terdapat unsur natrium yang membentuk 
+padatan logam natrium. Meskipun sama-sama memiliki unsur natrium tetapi 
+sifat materinya berbeda. Mengapa ini bisa terjadi? Ikatan kimia apakah yang 
+membentuk NaCl dan logam natrium?
+A. Dasar Ikatan Kimia
+Tahukah kalian unsur yang mengisi balon udara? Balon udara diisi oleh gas 
+helium. Helium merupakan unsur yang terdapat dalam keadaan bebas di 
+alam. Keadaan bebas artinya unsur tersebut berada dalam bentuk atom bebas 
+di alam, tanpa harus berikatan atau bersama dengan unsur-unsur lainnya. 
+Salah satu contoh unsur yang tidak dapat berada dalam keadaan bebas adalah 
+oksigen. Oksigen dapat berikatan dengan sesama oksigen atau unsur lain 
+yang berbeda. Contohnya air dan gas oksigen, air mengandung senyawa H2O. 
+Senyawa H2O terdiri atas unsur hidrogen dan oksigen, sementara gas oksigen 
+terbentuk dari ikatan antara atom oksigen dengan atom oksigen lainnya 
+membentuk molekul O2.
+Mengapa ada unsur yang berada dalam keadaan bebas dan tidak? Unsur-
+unsur yang berada dalam keadaan bebas adalah gas mulia (golongan VIIIA). 
+34
+Kimia untuk SMA/MA Kelas XI
+Unsur gas mulia merupakan unsur yang stabil karena memenuhi kaidah oktet. 
+Kaidah oktet merupakan kaidah yang menjelaskan tentang jumlah elektron 
+terluar atom unsur yang berjumlah delapan. Setiap atom unsur mencapai 
+keadaan stabil dengan cara melepas atau menerima elektron dari atom lain 
+sehingga jumlah elektron pada kulit terluarnya sama dengan elektron terluar 
+gas mulia. 
+Gilbert Lewis mengemukakan postulat sederhana terkait pembentukan 
+ikatan sebagai berikut.
+1. 
+Unsur-unsur gas mulia berada dalam keadaan atom, bukan dalam keadaan 
+molekul, karena konigurasi elektronnya sudah stabil.
+2. 
+Unsur-unsur selain gas mulia akan membentuk ikatan sehingga konigurasi 
+elektronnya menyerupai konigurasi elektron gas mulia.
+Suatu atom berupaya mencapai kestabilannya dengan cara membentuk 
+ikatan. Ikatan yang terbentuk dari kontribusi atom-atom yang membentuk 
+kestabilan ini disebut ikatan kimia. Ikatan kimia dapat menghasilkan molekul 
+dan senyawa baru. 
+Kestabilan Atom
+Seperti sudah dijelaskan sebelumnya bahwa unsur cenderung mencapai 
+kestabilan dengan melepaskan atau menerima elektron. Konigurasi elektron 
+dikatakan stabil ketika jumlah elektron terluarnya 2 (duplet) dan 8 (oktet) 
+seperti konigurasi elektron gas mulia. Atom dapat membentuk kation dengan 
+melepaskan elektron valensinya. Atom juga dapat membentuk anion dengan 
+menerima elektron. Gambar 2.2 memperlihatkan konigurasi elektron yang 
+dimiliki oleh atom neon, salah satu unsur gas mulia. 
+Gambar 2.2 Konigurasi elektron atom Ne (2 8)
+35
+Bab II  Ikatan Kimia
+Berikut ini konigurasi elektron unsur-unsur gas mulia.
+2He : 1s2  
+(2)
+10Ne : 1s2 2s2 2p6  
+(2 8)
+18Ar : 1s2 2s2 2p6 3s2 3p6 
+(2 8 8)
+36Kr : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 
+(2 8 18 8)
+54Xe : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6 (2 8 18 18 8)
+Tampak bahwa konigurasi elektron unsur-unsur gas mulia memenuhi kaidah 
+oktet, kecuali helium (duplet).
+Contoh
+Penentuan konigurasi elektron untuk mencapai kestabilan
+1. 
+K: 1s2 2s2 2p6 3s2 3p6 4s1 
+Atom K mempunyai energi ionisasi yang rendah sehingga mudah 
+melepaskan elektron valensinya membentuk kation. Untuk mencapai 
+oktet, atom K cenderung melepaskan 1 elektron valensinya dibandingkan 
+menerima 7 elektron sehingga membentuk kation K+ agar konigurasi 
+elektronnya sama dengan argon (Ar: 1s2 2s2 2p6 3s2 3p6).
+      19K       
+      K+   +   e–   
+(2 8 8 1)            (2 8 8)
+2. 
+F: 1s2 2s2 2p5 
+Atom F memiliki ainitas elektron yang besar sehingga mudah menerima 
+elektron membentuk anion. Untuk mencapai oktet, atom F cenderung 
+menerima 1 elektron dibandingkan melepaskan 7 elektron valensinya 
+sehingga membentuk anion F– agar konigurasi elektronnya sama dengan 
+neon (Ne: 1s2 2s2 2p6).
+   9F   +   e–  
+   F–
+(2 7)                    (2 8)
+36
+Kimia untuk SMA/MA Kelas XI
+Ayo Berlatih
+Tentukan kecenderungan atom-atom di bawah ini untuk mencapai 
+kestabilan melalui konigurasi elektronnya!
+a. 
+11Na 
+d. 
+12Mg
+b. 
+17Cl  
+e. 
+56Ba
+c. 
+8O  
+f. 
+16S
+B. Ikatan Ion
+Pernahkah kalian melihat proses pembuatan garam? Salah satu proses 
+untuk mendapatkan padatan garam adalah pengeringan dengan menjemur 
+air laut di bawah sinar matahari, seperti terlihat pada Gambar 2.3. Air akan 
+mengering dan tampak butiran-butiran kristal putih. Garam merupakan zat 
+yang mengandung senyawa ion NaCl. Bagaimanakah sebenarnya prinsip 
+pembentukan senyawa ion NaCl sehingga dapat berwujud padat?
+Gambar 2.3 Proses pengeringan garam
+Senyawa ion terbentuk karena adanya ikatan ion. Ikatan ion dibentuk 
+oleh atom dari unsur logam dan nonlogam. Seperti halnya senyawa NaCl 
+yang terdiri atas unsur natrium dan klorin. Unsur natrium merupakan logam 
+dan klorin merupakan nonlogam. Pembentukannya dimulai dengan proses 
+sublimasi logam natrium yang berwujud padat menjadi atom natrium yang 
+berwujud gas. 
+37
+Bab II  Ikatan Kimia
+Seperti yang sudah dipelajari pada bab sebelumnya (Struktur Atom dan 
+Sistem Periodik Unsur), natrium sebagai unsur golongan logam alkali (IA) 
+memiliki energi ionisasi yang rendah sehingga lebih mudah melepaskan 
+elektron dibandingkan menerima elektron. Saat natrium berada dalam fase 
+gas, atom natrium melepaskan satu elektron valensinya membentuk kation 
+natrium agar stabil. Molekul klorin yang awalnya berikatan dalam bentuk Cl2 
+mengalami proses disosiasi oleh panas membentuk atom Cl. Atom Cl menerima 
+elektron yang dilepaskan oleh atom Na. Proses serah terima elektron ini 
+menyebabkan adanya gaya tarik-menarik antara kation dan anion sehingga 
+terbentuk ikatan ion. Proses pembentukan ikatan ion dari unsur-unsurnya 
+dapat dilihat pada tahapan di bawah ini.
+1. 
+Na(s) 
+ Na(g) 
+(sublimasi)
+2. 
+Na(g) 
+ Na+(g) + e – 
+(melepaskan elektron valensi)
+3. 
+Cl2(g) 
+ 2Cl(g) 
+(disosiasi)
+4. 
+Cl(g) + e – 
+ Cl –(g) 
+(menerima elektron)
+5. 
+Na+(g) + Cl –(g) 
+ NaCl(s) 
+(membentuk ikatan ion)
++11
++11
+atom Na
+ion Na+
++    e–
++    
++17
++17
+atom Cl
+ion Cl–
++    e–
++    
+(elektron dari Na)
+Senyawa ion 
+NaCl
+ion Na+
+ion Cl–
+Gambar 2.4 Proses pembentukan ikatan ion
+Ada beberapa faktor yang harus diperhatikan dalam pembentukan ikatan 
+ion, yaitu:
+1. 
+Jumlah elektron yang dilepaskan harus sama dengan jumlah elektron 
+yang diterima sehingga harus disesuaikan.
+2. 
+Unsur logam harus ditulis sebagai monoatom, contoh Na, K, Li, dan Mg.
+3. 
+Unsur nonlogam harus ditulis dalam bentuk dwiatom, seperti Cl2, F2, Br2, 
+dan O2, kecuali untuk unsur karbon, fosfor, dan belerang ditulis masing-
+masing sebagai C, S, dan P4.
+38
+Kimia untuk SMA/MA Kelas XI
+Mengapa senyawa ion yang memiliki wujud padat dapat pecah atau 
+hancur saat dipukul? Hal ini terjadi karena ion positif (kation) dan ion negatif 
+(anion) berulang secara teratur membentuk sebuah kisi kristal yang memadat. 
+Namun, ketika senyawa ion diberikan tekanan atau beban maka akan mudah 
+hancur. Ion positif dan ion negatif berpindah tempat dan menjadi tidak teratur 
+lagi sehingga kisi kristalnya pecah (seperti terlihat pada Gambar 2.5). 
+Senyawa ion setelah 
+diberi tekanan
+Senyawa ion pecah karena 
+mengalami gaya tolak 
+antarion sejenis
+arah tekanan
+Gambar 2.5 Senyawa ion pecah ketika dipukul.
+Adanya keteraturan susunan ion positif dan ion negatif serta keterikatan 
+yang kuat karena gaya elektrostatisnya yang besar maka senyawa ion memiliki 
+titik leleh dan titik didih yang tinggi. Senyawa ion juga mudah larut di dalam 
+air. Ketika senyawa ion dilarutkan maka ion positif dan ion negatifnya akan 
+bergerak dengan bebas di dalam larutannya sehingga senyawa ion yang 
+terlarut dapat menghantarkan arus listrik. 
+C. Ikatan Kovalen
+Air tersusun atas molekul-molekul H2O. 
+Molekul H2O terbentuk akibat adanya 
+ikatan antara atom hidrogen (H) dan 
+atom oksigen (O). Hidrogen dan oksigen 
+merupakan unsur nonlogam. Kedua 
+unsur ini memiliki energi ionisasi dan 
+ainitas elektron yang tinggi. Atom 
+hidrogen dan oksigen tidak akan saling 
+melepas ataupun menerima elektron 
+H O H
+Pemakaian bersama
+pasangan elektron
+Gambar 2.6 Ikatan kovalen pada H2O
+39
+Bab II  Ikatan Kimia
+seperti pada pembentukan ikatan ion. Satu elektron dari atom hidrogen 
+berpasangan dengan satu elektron atom oksigen sehingga terbentuklah 
+ikatan, seperti pada Gambar 2.6. Ikatan ini disebut dengan ikatan kovalen. 
+Jadi, ikatan kovalen adalah ikatan antaratom nonlogam yang terbentuk karena 
+pemakaian bersama pasangan elektron.
+Ikatan kovalen dapat berbentuk ikatan tunggal dan rangkap. Gambar 
+berikut memperlihatkan contoh bentuk ikatan kovalen tunggal, rangkap dua, 
+dan rangkap tiga. 
+H      Cl
+N      N
+H Cl
+N N
+O C O
+Ikatan kovalen tunggal
+Ikatan kovalen rangkap tiga
+Ikatan kovalen rangkap dua
+O      C      O
+Gambar 2.7 Ikatan kovalen tunggal HCl, ikatan kovalen rangkap dua CO2, 
+dan ikatan kovalen rangkap tiga N2.
+Pada Gambar 2.7, atom H dengan Cl membentuk ikatan kovalen tunggal 
+menghasilkan molekul HCl, di mana pada atom Cl juga memiliki tiga pasang 
+elektron bebas (tidak digunakan untuk berikatan) sehingga memenuhi kaidah 
+oktet (delapan elektron). Atom C dengan dua atom O membentuk ikatan 
+kovalen rangkap dua menghasilkan molekul CO2. Pada setiap atom O yang 
+terikat terdapat satu ikatan rangkap dua dan dua pasang elektron bebas 
+sehingga baik atom C maupun O telah memenuhi kaidah oktet. Kaidah oktet 
+juga terpenuhi pada molekul N2. Atom N berikatan dengan atom N membentuk 
+ikatan rangkap tiga dan terdapat satu pasang elektron bebas pada setiap atom 
+N yang terikat untuk memenuhi kaidah oktet.
+40
+Kimia untuk SMA/MA Kelas XI
+Gambar 2.8 Larutan H2SO4 pada 
+aki
+Sumber: Kemendikbudristek/Nanda Saridewi 
+(2022)
+Berdasarkan kepolaran, ikatan kovalen 
+dapat dibagi menjadi ikatan kovalen polar 
+dan nonpolar. Ikatan kovalen polar terbentuk 
+karena atom-atom yang saling berikatan 
+memiliki 
+perbedaan 
+keelektronegatifan. 
+Contohnya, ikatan kovalen yang terbentuk 
+antara atom hidrogen dengan atom klorin 
+membentuk 
+asam 
+klorida 
+(HCl). 
+Atom 
+hidrogen memiliki keelektronegatifan 2,1, 
+sementara atom klorin 3,0. Apakah kalian 
+masih ingat dengan teori keelektronegatifan 
+pada bab 1?
+Keelektronegatifan yang lebih tinggi 
+pada atom Cl menyebabkan pasangan elek-
+tron yang membentuk ikatan antara H 
+1. Ikatan kovalen polar dan nonpolar
+Tahukah kalian fungsi aki? Aki merupakan sumber energi listrik dalam sebuah 
+kenda raan. Tanpa aki yang berfungsi dengan baik maka mesin kendaraan tidak 
+bisa dihidupkan. Di dalam aki terjadi aliran elektron sehingga menimbulkan 
+arus listrik. Lalu, apa sebe narnya kandungan dari air aki (H2SO4) dan jenis 
+ikatan pembentuk senyawanya?
+dan Cl tertarik ke arah atom Cl (delta negatif, δ–), seperti yang terlihat pada 
+Gambar 2.9. Atom H menjadi kurang elektron (delta positif, δ+). Keadaan ini 
+menyebabkan terjadi nya pengutuban. Adanya dua kutub ini disebut dengan 
+polarisasi yang menyebabkan terbentuknya ikatan kovalen polar. Sementara, 
+ikatan kovalen nonpolar terbentuk antara atom-atom nonlogam yang sejenis 
+dan tidak memiliki perbedaan keelektronegatifan.
+Gambar 2.9 Ikatan kovalen polar pada HCl
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+41
+Bab II  Ikatan Kimia
+Ikatan kovalen polar yang membentuk molekul polar akan menghasilkan 
+senyawa polar. Senyawa polar juga dapat menghantarkan arus listrik seperti 
+senyawa ion. Namun, senyawa polar hanya dapat menghantarkan arus listrik 
+saat dalam bentuk larutan. Selain itu, senyawa kovalen juga memiliki titik 
+leleh dan titik didih yang lebih rendah dari senyawa ion dan logam. 
+2. Ikatan kovalen koordinasi
+Ikatan kovalen tidak hanya dihasilkan dari kontribusi elektron pada masing-
+masing atom yang terikat, tetapi bisa dari salah satu atom saja. Ikatan kovalen 
+koordinasi terjadi ketika pasangan elektron untuk berikatan berasal dari salah 
+satu atom, sementara atom lain yang terikat tidak menyumbangkan elektron 
+sama sekali, seperti yang terlihat pada Gambar 2.10.
+Ikatan 
+kovalen
+Ikatan 
+kovalen
+Ikatan 
+kovalen 
+koordinasi
+O
+H    O    N
+O
+O
+H    O    N
+O
+Ikatan 
+kovalen
+Ikatan 
+kovalen 
+koordinasi
+O           O
+S
+O
+O          O
+S
+O
++
+H
+H    N
+H
+H
+H    N
+H
+F
+B    F
+F
+F
+B    F
+F
+H
+H    N
+H
+F
+B    F
+F
+Ikatan kovalen 
+tunggal
+Ikatan kovalen 
+tunggal
+Ikatan 
+kovalen 
+koordinasi
+Gambar 2.10 Ikatan kovalen koordinasi pada molekul NH3BF3, HNO3, dan SO3
+Atom N pada molekul NH3 memiliki pasangan elektron bebas, sementara 
+atom B pada molekul BF3 tidak memiliki elektron lagi untuk disumbang kan. 
+Atom B hanya mengikat tiga atom F sehingga pada atom B masih tersisa satu 
+orbital yang kosong. Orbital yang masih kosong ini diisi oleh pasangan elektron 
+bebas yang berasal dari atom N sehingga terbentuk ikatan tunggal antara 
+atom N dan B. Jadi, ikatan ini terbentuk oleh pemakaian pasangan elektron 
+secara bersama yang hanya disumbangkan oleh atom N sehingga atom N dan 
+B mencapai keadaan oktet.
+42
+Kimia untuk SMA/MA Kelas XI
+Pada molekul HNO3, atom N sudah mengikat dua atom O dengan ikatan 
+kovalen tunggal dan rangkap. Agar atom N dan O memenuhi kaidah oktet 
+maka sepasang elektron yang tersisa dari atom N membentuk kovalen 
+koordinasi dengan atom O. Hal yang sama juga terjadi pada molekul SO3. Atom 
+S memberikan pasangan elektronnya untuk membentuk dua ikatan kovalen 
+koordinasi dengan dua atom O, sehingga atom S dan ketiga atom O yang terikat 
+memenuhi kaidah oktet.
+3. Struktur Lewis pada ikatan kovalen
+Penulisan struktur Lewis sangat diperlukan untuk menentukan ketercapaian 
+kaidah oktet maupun kepolaran dalam ikatan kovalen. Penentuan struktur 
+Lewis dimulai dengan menggambar elektron valensi dari masing-masing 
+atom dengan titik, atau disebut dengan Lewis electron-dot symbol (simbol titik-
+elektron Lewis atau simbol Lewis). Contoh simbol Lewis beberapa unsur dapat 
+dilihat pada Gambar 2.11.
+Gambar 2.11 Contoh simbol Lewis pada beberapa unsur
+Setiap simbol Lewis dari masing-masing atom yang terikat harus meme-
+nuhi kaidah oktet, yaitu delapan elektron valensi di sekitar atom, kecuali atom 
+hidrogen yang sudah terpenuhi dengan dua elektron saja (duplet). Namun, 
+ada beberapa molekul yang mengalami penyimpangan kaidah oktet, seperti 
+BF3 dan PF5 (Gambar 2.12). Pada molekul BF3, atom B hanya memiliki enam 
+elektron valensi dan atom P pada PF5 memiliki sepuluh elektron valensi. 
+Meskipun tidak memenuhi kaidah oktet, tetapi kedua senyawa ini stabil. 
+Keadaan ini disebut dengan penyimpangan kaidah oktet.
+Gambar 2.12 Struktur Lewis BF3 dan PF5
+43
+Bab II  Ikatan Kimia
+Contoh
+Diketahui unsur A memiliki nomor atom 19 dan unsur B bernomor atom 17. 
+Prediksikan ikatan yang dapat terbentuk antara: 
+a. 
+atom A dengan atom B
+b. 
+atom B dengan atom B
+Jawab:
+19A: 1s2 2s2 2p6 3s2 3p6 4s1
+Elektron valensi: 4s1
+Atom A berada pada golongan IA (logam), cenderung melepaskan 1 elektron 
+dibandingkan menerima 7 elektron untuk memenuhi kaidah oktet, sehingga 
+membentuk ion A+.
+17B: 1s2 2s2 2p6 3s2 3p5
+Elektron valensi: 3s2 3p5
+Atom B berada pada golongan VIIA (nonlogam), cenderung menerima 1 
+elektron dibandingkan melepaskan 7 elektron untuk memenuhi kaidah oktet, 
+sehingga membentuk ion B–.
+a. 
+Atom A (logam) dengan B (nonlogam) membentuk ikatan ion.
+A+ + B– = senyawa ion AB
+b. 
+Atom B dengan B membentuk ikatan kovalen.
+B + B = senyawa kovalen B2
+Ayo Berlatih
+Diketahui unsur X, Y, dan Z masing-masing memiliki nomor atom 20, 8, dan 
+17. Tentukanlah jenis ikatan yang dapat terbentuk antara:
+a. 
+X dengan Y
+b. 
+Y dengan Y
+c. 
+X dengan Z
+d. 
+Z dengan Z
+44
+Kimia untuk SMA/MA Kelas XI
+Aktivitas 2.1
+Penentuan karakter senyawa ion dan kovalen dengan pemanasan
+Alat dan bahan:
+1. 
+Lilin 
+4. 
+Gula
+2. 
+Korek api 
+5. 
+Garam
+3. 
+Sendok 
+Langkah kerja:
+1. 
+Letakkan gula dan garam di sendok terpisah.
+2. 
+Nyalakan api lilin menggunakan korek api/pemantik.
+3. 
+Posisikan sendok berisi gula dan garam di atas api lilin.
+4. 
+Panaskan beberapa saat.
+5. 
+Amati perubahan pada butiran gula dan garam.
+6. 
+Simpulkan hasil pengamatan kalian.
+7. 
+Susunlah laporan hasil percobaan dan presentasikan di depan kelas.
+Pertanyaan:
+1. 
+Bahan apa yang mudah meleleh?
+2. 
+Bahan apa yang termasuk senyawa ion?
+3. 
+Bahan apa yang termasuk senyawa kovalen?
+4. 
+Bagaimana perbedaan titik leleh senyawa ion dengan kovalen?
+D. Ikatan logam
+Coba kalian temukan contoh logam yang ada 
+di rumah. Apakah wujudnya padat, cair, atau 
+gas? Tahukah kalian jenis ikatan kimia yang 
+membentuk logam tersebut? Meskipun logam 
+sangat keras, logam juga dapat ditempa dan 
+dibentuk. Contohnya teralis besi yang dapat 
+dibentuk menjadi beragam desain.
+Gambar 2.13 Teralis besi
+Sumber: Kemendikbudristek/Nanda Saridewi 
+(2022)
+45
+Bab II  Ikatan Kimia
+Unsur logam pada umumnya berada pada golongan transisi (golongan B), 
+golongan alkali (IA), alkali tanah (IIA), serta beberapa unsur dari golongan IIIA 
+dan IVA. Logam umumnya berwujud padat, mengilat, dan tidak akan patah 
+saat dibentuk.
+Arah
+tekanan
+Sebelum ditempa
+Setelah ditempa
+Gambar 2.14 Inti atom dan lautan elektron pada ikatan logam
+Pada Gambar 2.14 terlihat bahwa ion-ion positif dari atom logam dikeli-
+lingi oleh elektron. Elektron ini adalah elektron valensi dari logam tersebut. 
+Elektron-elektron tersebut saling bertumpang tindih membentuk seperti 
+lautan elektron dan bergerak dengan bebas di sekitar inti atom. Pergerakan 
+elektron valensi dengan bebas menyebabkan adanya daya hantar listrik pada 
+logam. 
+Lautan elektron pada logam bergerak bebas, tetapi terikat sangat kuat 
+dengan ion-ion positif dari atom logamnya. Hal ini menyebabkan logam tidak 
+akan patah, retak, atau hancur saat dipukul atau ditempa (diberikan tekanan). 
+Terlihat pada Gambar 2.14, ion positif dan elektronnya hanya bergeser ketika 
+diberi tekanan. Ikatan yang kuat ini juga menyebabkan jarak antaratomnya 
+menjadi sangat dekat sehingga logam umumnya ditemukan dalam wujud 
+padat.
+Ikatan logam dapat terjadi antaratom logam yang sejenis dan berbeda 
+jenis. Contoh logam sejenis, yaitu logam emas 24 karat (terdiri atas atom Au) 
+dan tembaga murni (terdiri atas atom Cu) untuk penghantar arus listrik. Contoh 
+logam dengan unsur logam yang berbeda adalah perunggu yang merupakan 
+paduan timah (Sn) dan tembaga (Cu) serta kuningan berupa paduan tembaga 
+(Cu) dan seng (Zn).
+46
+Kimia untuk SMA/MA Kelas XI
+Seperti apakah bentuk molekul? Bagaimanakah ilmuwan menggambar-
+kan bentuk molekul? Bentuk molekul menggambarkan posisi atom yang 
+terikat dalam satu molekul secara tiga dimensi. Bentuk molekul juga bisa 
+memperlihatkan sudut ikatan, orbital-orbital yang bersatu dalam membentuk 
+ikatan, dan orbital pasangan elektron bebas yang tidak membentuk ikatan. 
+Bentuk molekul lebih mudah diprediksi dengan teori tolakan pasangan 
+elektron kulit valensi (valence shell electron pair repulsion, VSEPR) dan ikatan 
+yang terbentuk dapat dijelaskan dengan teori hibridisasi. Bentuk molekul 
+dasar pada ikatan kovalen dapat dilihat pada Tabel 2.1. 
+Tabel 2.1  Bentuk Molekul Dasar
+No.
+Bentuk 3D
+Nama
+Sudut 
+ikatan
+Orbital 
+hibrida
+Contoh 
+senyawa
+1.
+Linear
+180°
+sp
+BeH2
+2.
+Segitiga datar
+120°
+sp2
+BF3
+E. Bentuk Molekul
+Kalian tentu pernah minum obat, bukan? 
+Mengapa obat yang kalian minum dapat 
+mengurangi, bahkan menghilangkan rasa 
+sakit? Proses reaksi penghilangan rasa 
+sakit ketika meminum obat ternyata sangat 
+dipengaruhi oleh bentuk molekul obat 
+tersebut. Proses penghantaran sinyal pada 
+tubuh manusia saat meminum obat diten-
+tukan oleh kecocokan bentuk molekul obat 
+yang diminum dengan bentuk molekul 
+penerima 
+obat 
+(reseptor), 
+seperti 
+yang 
+terlihat pada Gambar 2.15.
+Molekul obat
+Reseptor obat
+Sel target
+Gambar 2.15 Proses molekul obat 
+diterima oleh molekul reseptor 
+pada tubuh manusia.
+47
+Bab II  Ikatan Kimia
+No.
+Bentuk 3D
+Nama
+Sudut 
+ikatan
+Orbital 
+hibrida
+Contoh 
+senyawa
+3.
+Tetrahedral
+109,5°
+sp3
+CH4
+4.
+Trigonal 
+bipiramida
+120° dan 
+90°
+sp3d
+PF5
+5.
+Oktahedral
+90°
+sp3d2
+SF6
+1. Teori tolakan pasangan elektron kulit valensi (VSEPR)
+Coba perhatikan Gambar 2.16! Atom pusat 
+S mengi kat empat atom Cl dan ada satu 
+orbital pada atom pusat yang ditempati 
+oleh pasangan elektron bebas. Setiap atom 
+pusat menyediakan orbital agar atom lain 
+dapat terikat, sementara elektron yang 
+tersisa pada atom pusat tetap berada 
+dalam orbital tersendiri pada atom pusat. 
+Bagaimana hal ini dapat dijelaskan? 
+90
+o
+Gambar 2.16 Bentuk molekul SCl4
+Posisi dan interaksi pasangan elektron bebas pada kulit valensi atom pusat 
+ketika berikatan dengan atom lain dapat dijelaskan dengan teori VSEPR. Teori 
+VSEPR dapat digunakan untuk memprediksi bentuk molekul dengan tahapan: 
+(1) menentukan jumlah semua pasangan elektron (kelompok pasangan 
+elektron) pada atom pusat (dari struktur Lewisnya), (2) menentukan geometri 
+dari semua pasangan elektron tersebut, serta (3) menentukan geometri 
+molekul (a) untuk yang tidak mempunyai pasangan elektron bebas dan (b) 
+yang mempunyai pasangan elektron bebas. Pasangan elektron bebas memiliki 
+48
+Kimia untuk SMA/MA Kelas XI
+gaya tolak yang jauh lebih besar daripada pasangan elektron yang berikatan 
+sehingga pasangan elektron bebas akan menempati ruangan yang lebih besar 
+daripada pasangan elektron ikatan. Hal ini juga dapat memengaruhi sudut 
+ikatannya. 
+H
+H
+H
+N
+107,3
+o
+H
+H
+H
+H
+C
+109,5
+o
+Gambar 2.17 Bentuk molekul CH4 dan NH3 dan sudut ikatannya
+Pada Gambar 2.17 terlihat bahwa atom karbon memiliki empat pasang 
+elektron yang dipakai berikatan dengan atom hidrogen, sehingga geometri 
+pasangan elektronnya adalah tetrahedral. Pada molekul CH4 tidak tersisa 
+pasangan elektron bebas pada atom karbon sehingga sudut ikatannya 109,5°. 
+Meskipun molekul CH4 dan NH3 memiliki geometri pasangan elektron yang 
+sama, yaitu empat, tetapi sudut ikatannya berbeda. Mengapa hal ini dapat 
+terjadi?
+Molekul NH3 memiliki tiga pasang elektron ikatan yang berasal dari 
+atom pusat nitrogen yang berikatan dengan atom hidrogen. Pada atom 
+nitrogen masih tersisa satu pasang elektron bebas. Pasangan elektron bebas 
+menghasilkan gaya tolak-menolak dengan pasangan elektron ikatan. Gaya 
+tolakan ini lebih besar dibandingkan gaya tolak-menolak antarpasangan 
+elektron ikatan. Hal inilah yang menyebabkan sudut ikatannya menjadi lebih 
+kecil dari 109,5°, yaitu menjadi 107°. Lalu, apa kaitan bentuk molekul dengan 
+kepolaran?
+Kepolaran suatu senyawa ditentukan berdasarkan bentuk molekul dan 
+perbedaan keelektronegatifan atom-atom penyusun molekulnya. Contohnya 
+pada molekul H2O, memiliki bentuk molekul bengkok dan terjadi pengutuban 
+49
+Bab II  Ikatan Kimia
+akibat perbedaan keelektronegatifan pada atom pusat oksigen dengan kedua 
+atom hidrogen yang terikat (Gambar 2.18). Berbeda dengan XeF2, meskipun 
+terdapat perbedaan keelektronegatifan pada atom xenon dengan kedua 
+atom luorin yang terikat, tetapi bentuk molekulnya linear, seperti terlihat 
+pada Gambar 2.18. Bentuk simetris pada molekul XeF2 menyebabkan momen 
+dipolnya saling meniadakan sehingga molekulnya bersifat nonpolar.
+H
+H
+O
+F
+F
+Xe
+Gambar 2.18 Bentuk molekul H2O dan XeF2
+Contoh
+Memprediksi bentuk molekul dengan teori VSEPR
+1. 
+Bentuk molekul CCl4
+Elektron valensi atom C = 4 elektron
+Elektron dari 4 atom Cl = 4 elektron
+Jumlah elektron di sekitar atom pusat = 8 elektron
+Jumlah pasangan elektron di sekitar atom pusat = 4 pasang
+Karena ada empat pasang elektron di sekitar atom pusat, maka geometri 
+pasangan elektronnya adalah tetrahedral (menurut teori VSEPR, 
+keempat pasang elektron ini akan saling tolak-menolak sejauh mungkin 
+agar tolakannya minimal, dan ini dicapai dengan orientasi/geometri 
+tetrahedral).
+Karena semua pasangan elektron tersebut digunakan untuk berikatan 
+maka geometri/bentuk molekulnya adalah tetrahedral. 
+Rumus dari bentuk molekul CCl4 adalah AX4 (A: atom pusat, X: pasangan 
+ikatan = 4).
+50
+Kimia untuk SMA/MA Kelas XI
+Cl
+Cl
+Cl
+Cl
+C
+Cl
+C
+Cl
+Cl
+Cl
+Gambar 2.19 Struktur Lewis dan bentuk molekul CCl4
+2. 
+Bentuk molekul SF4
+Elektron valensi atom S = 6 elektron
+Elektron dari 4 atom F = 4 elektron
+Jumlah elektron di sekitar atom pusat = 10 elektron
+Jumlah pasangan elektron di sekitar atom pusat = 5 pasang
+Lima pasang elektron di sekitar atom pusat menghasilkan geometri 
+pasangan elektron trigonal bipiramida (lihat kembali Tabel 2.1). Namun, 
+sepasang elektron bebas pada atom pusat menyebabkan tolak-menolak 
+sejauh mungkin antara pasangan elektron bebas dengan pasangan 
+elektron ikatan. Hal ini menyebabkan geometri molekulnya menjadi 
+tetrahedral terdistorsi. 
+Rumus dari bentuk molekul SF4 adalah AX4E (A: atom pusat, X: pasangan 
+ikatan = 4, E: pasangan elektron bebas = 1).
+S
+F
+F
+F
+F
+S
+F
+F
+F
+F
+Gambar 2.20 Struktur Lewis dan bentuk molekul SF4
+51
+Bab II  Ikatan Kimia
+Aktivitas 2.2
+Memprediksi bentuk molekul dengan molymod sederhana
+Buatlah molymod sederhana menggunakan bahan-bahan di bawah ini.
+1. 
+Lembaran styrofoam
+2. 
+Tusuk sate
+3. 
+Gunting
+4. 
+Cat air (hitam, biru, merah, hijau, ungu, oranye, dan kuning) 
+5. 
+Ampelas
+Cara membuat:
+1. 
+Potong styrofoam menjadi bentuk dadu.
+2. 
+Ampelas hingga berbentuk bulat.
+3. 
+Cat bulatan styrofoam menggunakan cat air dengan ketentuan:
+a. 
+putih (tidak dicat) untuk atom hidrogen
+b. 
+hitam untuk atom karbon
+c. 
+biru untuk atom nitrogen
+d. 
+merah untuk atom oksigen
+e. 
+hijau untuk atom luorin dan klorin
+f. 
+ungu untuk atom iodin
+g. 
+oranye untuk atom fosfor
+h. 
+kuning untuk atom sulfur
+Langkah kegiatan:
+1. 
+Prediksikan bentuk molekul berikut dengan cara menusukkan bulatan 
+styrofoam sesuai warnanya menggunakan tusuk sate sebagai representasi 
+pasangan elektron ikatan.
+a. 
+PCl3
+b. 
+IF3
+c. 
+SF6
+2. 
+Gambarkan bentuk molekul tersebut di buku latihan kalian.
+3. 
+Cobalah untuk memprediksi bentuk molekul lainnya dari molymod 
+sederhana tersebut.
+52
+Kimia untuk SMA/MA Kelas XI
+2. Teori Hibridisasi
+Bentuk molekul yang sudah diprediksi pada materi sebelumnya didukung 
+pula oleh teori hibridisasi. Teori hibridisasi dapat menjelaskan orbital-orbital 
+yang tergabung (hibrida) ketika membentuk ikatan. Dengan teori hibridisasi 
+ini pula orbital yang terpakai oleh pasangan elektron dan atom yang terikat 
+dapat lebih diperjelas.
+Contoh penentuan hibridisasi molekul kovalen
+1. 
+Hibridisasi dari NH3
+7N 
+     
+ 
+  2s2                 2p3
+1H 
+1H 
+1H 
+Atom nitrogen memiliki empat orbital yang berisi elektron valensi, yaitu 
+satu orbital s dan tiga orbital p. Saat atom H berikatan dengan atom N, 
+maka tiga orbital p yang belum berpasangan akan berhibridisasi bersama 
+orbital s dari ketiga atom H untuk membentuk molekul NH3. Hibridisasi 
+atom pusat N ketika berikatan dengan tiga atom H membentuk NH3 adalah 
+sp3. Satu orbital s yang diisi pasangan elektron bebas atom pusat tetap 
+dihitung sebagai orbital yang dipakai, seperti yang sudah dijelaskan pada 
+teori VSEPR bahwa pasangan elektron bebas memengaruhi ikatan dan 
+sudut ikatan atom pusat dengan atom yang diikatnya. 
+2. 
+Hibridisasi dari XeF2
+54Xe 
+     
+     
+ 
+  5s2                 5p6                                 5d0
+54Xe 
+     
+     
+9F 
+     
+9F 
+     
+tereksitasi
+53
+Bab II  Ikatan Kimia
+Xenon merupakan unsur gas mulia yang sudah stabil. Namun, karena 
+elektron valensi xenon berada pada kulit kelima dalam golongan VIIIA, 
+maka xenon memiliki orbital d yang kosong. Orbital d yang kosong ini 
+dapat digunakan sebagai orbital hibrida untuk terbentuknya ikatan 
+antara atom xenon dan luorin. Hibridisasi XeF2 adalah sp3d (terdapat lima 
+orbital hibrida) dan rumus bentuk molekulnya AX2E3 (dua pasang elektron 
+ikatan dan tiga pasang elektron bebas).
+Ayo Berlatih
+Prediksi bentuk molekul dengan teori VSEPR dan jelaskan hibridisasi dari 
+senyawa:
+1. 
+SF6 (elektron valensi S = 6 dan F = 7)
+2. 
+BrF5 (elektron valensi Br = 7)
+F. Ikatan Antarmolekul
+Ikatan antarmolekul terjadi karena gaya elektromagnetik yang terjadi antar-
+molekul. Ikatan antarmolekul sangat lemah dibandingkan ikatan antaratom. 
+Ikatan yang lemah membuat ikatan antarmolekul lebih sering disebut dengan 
+gaya antarmolekul. Gaya antarmolekul terdiri atas ikatan hidrogen dan gaya 
+van der Waals.
+1. Gaya van der Waals
+Menurut kalian, mengapa oksigen dapat disimpan dalam wujud cair? 
+Sementara oksigen yang kita hirup dalam wujud gas. Apa yang menyebabkan 
+oksigen dapat berubah dari wujud gas menjadi cair atau sebaliknya? Hal ini 
+dapat dijelaskan melalui gaya van der Waals.
+Van der Waals diambil dari nama ilmuwan isika Belanda yang kali 
+pertama menemukan gaya ini, yaitu Johannes van der Waals. Gaya van der 
+Waals terjadi antara partikel yang sama atau berbeda. Gaya ini disebabkan 
+oleh adanya sifat kepolaran. Semakin kecil kepolaran maka semakin kecil pula 
+gaya van der Waals. Gaya van der Waals merupakan ikatan yang sangat lemah. 
+54
+Kimia untuk SMA/MA Kelas XI
+Gambar 2.21 Tabung penyimpanan oksigen cair dan orang bernapas dengan 
+gas oksigen
+Sumber: Kemendikbudristek/Arief Firdaus & rawpixel/freepik.com (2017)
+Gaya van der Waals dapat terjadi karena adanya interaksi dipol. Interaksi 
+dipol dapat dibedakan menjadi interaksi dipol polar-dipol polar, dipol 
+nonpolar-dipol nonpolar, dan dipol polar-dipol nonpolar.
+a. 
+Dipol polar­dipol polar
+Br
+H
+δ+
+δ-
+Br
+H
+δ+
+δ-
+Br
+H
+δ+
+δ-
+Gaya elektrostatik
+Gambar 2.22 Dipol permanen pada molekul-molekul HBr
+Atom H pada molekul HBr pertama tertarik oleh atom Br pada molekul HBr 
+kedua, seperti yang terlihat pada Gambar 2.22. Hal ini terjadi secara terus-
+menerus pada molekul-molekul polar sehingga molekul tersebut saling 
+mendekat. Dekatnya jarak molekul-molekul gas ini mengakibatkan wujud 
+senyawanya menjadi cair. 
+Gaya van der Waals yang terbentuk akibat interaksi dipol polar (molekul 
+polar) dengan dipol polar (molekul polar) disebut dengan dipol permanen. Gaya 
+van der Waals dipol permanen merupakan yang paling kuat dibandingkan 
+dengan gaya van der Waals lainnya.
+55
+Bab II  Ikatan Kimia
+b. Dipol nonpolar­dipol nonpolar
+Hidrogen umumnya disimpan dalam wujud cair. Hal ini untuk menghindari 
+kecenderungan gas hidrogen yang mudah meledak. Namun, dalam peng-
+aplikasiannya, hidrogen tetap harus diubah wujudnya menjadi gas. Mengapa 
+hidrogen yang pada suhu kamar berupa gas bisa dicairkan seperti yang ada di 
+stasiun pengisian bahan bakar pada Gambar 2.23?
+Ikatan yang terbentuk pada molekul H2 adalah ikatan kovalen nonpolar. 
+Molekul nonpolar H2 dapat berinteraksi dengan molekul nonpolar H2 di 
+dekatnya. Gaya van der Waals yang terjadi antardipol nonpolar (molekul-
+molekul nonpolar) disebut dengan gaya dispersi atau gaya London. Gaya 
+ini merupakan gaya yang sangat lemah. Hal ini terjadi karena tidak adanya 
+perbedaan keelektronegatifan antara atom-atom penyusun molekulnya. 
+Meskipun tidak ada perbedaan keelektronegatifan, tetap ada sedikit tarikan 
+yang dihasilkan oleh dipol sesaat. Dipol sesaat terjadi karena ketidakmerataan 
+elektron dalam molekulnya. Dipol sesaat ini yang menyebabkan wujud cair 
+molekul nonpolar dapat cepat berubah menjadi gas.
+Gambar 2.23 Penggunaan H2 pada mobil berbasis bahan bakar 
+hidrogen (fuel cell)
+c. 
+Dipol polar­dipol nonpolar
+Gaya van der Waals yang disebabkan oleh dipol polar dengan nonpolar disebut 
+juga dipol terimbas. Adanya momen dipol yang dihasilkan oleh molekul polar 
+menyebabkan molekul nonpolar yang berada berdekatan dengan molekul 
+polar menjadi tertarik. Namun, gaya van der Waals dipol terimbas ini tidak 
+sekuat dipol permanen. Dipol terimbas mudah putus akibat gaya dan tekanan 
+dari luar. Dalam kehidupan sehari-hari kita bisa melihat fenomena ini pada 
+56
+Kimia untuk SMA/MA Kelas XI
+2. Ikatan Hidrogen
+Coba perhatikan Gambar 2.25! Mengapa H2O memiliki titik didih yang lebih 
+tinggi dibandingkan HF dan NH3? Unsur O, F, dan N berada pada periode yang 
+sama, tetapi H2O memiliki titik didih yang sangat tinggi. 
+Periode atom pusat
+Titik didih (°C)
+Gambar 2.25 Tren titik didih senyawa hidrida
+air mineral (minum). Setiap air yang diminum 
+memiliki kadar oksigen terlarut yang baik. Hal 
+ini karena terdapat gaya tarik dipol terimbas 
+antara molekul O2 dengan molekul H2O dalam 
+air. Namun, oksigen terlarut mudah lepas 
+karena efek eksternal, seperti suhu, bakteri, 
+atau bahan kimia. Oleh karena itu, semakin 
+murni dan bersih suatu air minum/mineral 
+maka kadar oksigen terlarutnya semakin 
+tinggi.
+Gambar 2.24 Oksigen dalam air
+Sumber: Kemendikbudristek/Nanda Saridewi 
+(2022)
+57
+Bab II  Ikatan Kimia
+Tingginya titik didih pada H2O disebabkan oleh adanya ikatan yang 
+terjadi antara atom H pada molekul H2O dengan atom O pada molekul H2O 
+yang lainnya. Perbedaan keelektronegatifan yang besar antara atom unsur 
+hidrogen dan oksigen menyebabkan terbentuknya gaya elektrostatis yang kuat 
+antarmolekulnya. Ikatan antarmolekul ini disebut dengan ikatan hidrogen. 
+Ikatan ini begitu kuat dan sulit diputuskan.
+Seperti yang terlihat pada Gambar 2.25, ikatan yang dibentuk oleh unsur 
+N, O, dan F (memiliki perbedaan keelektronegatifan yang tinggi dengan 
+unsur H) titik didihnya lebih tinggi dibandingkan molekul lain yang berada 
+pada golongan yang sama. Contohnya, senyawa H2O memiliki titik didih lebih 
+tinggi dari H2S. Ikatan hidrogen hanya terjadi pada molekul-molekul yang 
+mengandung unsur N, O, dan F dengan molekul yang mengandung unsur H. 
+Meskipun ikatan hidrogen merupakan ikatan yang kuat, tetapi ikatan hidrogen 
+termasuk ke dalam ikatan antarmolekul sehingga ikatannya tidak lebih kuat 
+dibandingkan ikatan antaratom (ikatan ion, kovalen, dan logam). 
+Kekuatan ikatan hidrogen dipengaruhi oleh perbedaan keelektronegatifan 
+antara atom-atom dalam molekulnya. Semakin besar perbedaan keelektro-
+negatifan maka ikatannya semakin kuat. Selain itu, dipengaruhi juga oleh 
+banyaknya ikatan hidrogen yang terjadi. H2O memiliki lebih banyak ikatan 
+hidrogen (empat ikatan hidrogen untuk setiap molekul H2O), seperti pada 
+Gambar 2.26, dibandingkan HF yang hanya memiliki dua ikatan hidrogen 
+untuk setiap molekul HF. 
+δ–
+δ+
+δ–
+δ+
+δ+
+δ–
+δ+
+δ–
+H
+O
+H
+δ+
+δ–
+δ+
+δ–
+δ–
+δ+
+ikatan hidrogen
+F
+H
+F
+H
+F
+H
+ikatan hidrogen
+Gambar 2.26 Ikatan hidrogen pada H2O dan HF
+58
+Kimia untuk SMA/MA Kelas XI
+Pengayaan
+Material terkeras ternyata tersusun atas atom nonlogam
+Intan merupakan salah satu mineral yang 
+terdapat di Indonesia. Secara alami, intan 
+terbentuk melalui proses yang sangat panjang. 
+Intan memiliki ikatan antaratom karbon yang 
+sangat kuat dan tidak ada atom pengotor 
+lainnya, seperti oksigen, sulfur, dan hidrogen. 
+Meskipun hanya terdiri atas atom karbon, 
+susunan yang sangat kuat antaratomnya men-
+jadikan intan sebagai material yang sangat 
+keras. Kekerasan intan mencapai 10 mohs. 
+Nilai ini merupakan standar kekerasan yang 
+tertinggi. Berkat kekerasannya membuat intan banyak digunakan sebagai 
+pemotong. Selain itu, akibat susunan atom-atom karbon yang sangat teratur 
+menjadikan struktur atomiknya kuat. Struktur yang sangat teratur ini juga 
+menjadikan intan sebagai sebuah mineral yang sangat bernilai terutama 
+sebagai perhiasan, sehingga dikenal dengan istilah batu mulia. 
+Coba temukan contoh mineral lain yang kalian kenal dan tentukan ikatan 
+apa saja yang membentuk senyawa penyusunnya?
+Inti Sari
+Ikatan kimia terjadi karena suatu atom ingin mencapai kestabilan seperti 
+gas mulia. Ikatan kimia dibagi menjadi ikatan antaratom dan antarmolekul. 
+Ikatan antaratom dapat terjadi antara atom logam dengan nonlogam 
+(ikatan ion), antara atom nonlogam dengan nonlogam (ikatan kovalen), dan 
+antara atom logam dengan logam (ikatan logam). Ikatan antaratom lebih 
+kuat dibandingkan ikatan antarmolekul. Lemahnya ikatan antarmolekul 
+menyebabkan ikatan ini lebih dikenal dengan istilah gaya antarmolekul.
+59
+Bab II  Ikatan Kimia
+Gaya antarmolekul dibedakan atas ikatan hidrogen dan gaya van 
+der Waals. Gaya van der Waals terbentuk akibat interaksi antara dipol-
+dipol, baik dipol permanen, dipol terimbas, maupun dipol sesaat. Gaya 
+antarmolekul menyebabkan perubahan wujud pada zat. Adapun bentuk 
+molekul dapat diramalkan dengan teori VSEPR dan pembentukan ikatan 
+dapat dijelaskan dengan teori hibridisasi. Bentuk molekul dapat digunakan 
+untuk menentukan kepolaran suatu senyawa dan sudut-sudut yang 
+terbentuk dari ikatan antaratom.
+Ayo Releksi
+Setelah mempelajari materi Ikatan Kimia, silakan kalian mereleksi diri. 
+Berilah ceklis (√) pada kolom Ya/Tidak untuk pernyataan berikut ini.
+No.
+Pernyataan
+Tanggapan
+Ya
+Tidak
+1.
+Saya dapat membedakan proses pembentukan ikatan ion 
+dan ikatan kovalen.
+2.
+Saya dapat menjelaskan pembentukan ikatan logam.
+3.
+Saya dapat menghubungkan jenis ikatan dengan sifat zat.
+4.
+Saya dapat memprediksi bentuk molekul dengan teori 
+VSEPR dan menjelaskan hibridisasinya.
+5.
+Saya dapat memprediksi kepolaran suatu zat.
+6.
+Saya dapat menentukan interaksi antarmolekulnya.
+Menurut kalian, materi manakah yang sulit untuk dipahami dalam bab Ikatan 
+Kimia? Jelaskan alasannya!
+60
+Kimia untuk SMA/MA Kelas XI
+Ayo Cek Pemahaman
+Pilihlah jawaban yang paling tepat!
+1. 
+Diketahui atom 19X dan 8Y. Maka atom X dan Y akan membentuk senyawa 
+yang ….
+a. 
+berikatan ion dengan rumus kimia XY
+b. 
+berikatan ion dengan rumus kimia X2Y
+c. 
+berikatan ion dengan rumus kimia XY2
+d. 
+berikatan kovalen dengan rumus kimia X2Y
+e. 
+berikatan kovalen dengan rumus kimia XY2
+2. 
+Di bawah ini merupakan sifat-sifat senyawa ion, kecuali ….
+a. 
+bersifat keras dan rapuh
+b. 
+mudah larut dalam air
+c. 
+memiliki titik leleh dan titik didih yang tinggi
+d. 
+padatannya dapat menghantarkan arus listrik
+e. 
+larutannya dapat menghantarkan arus listrik
+3. 
+Diketahui senyawa-senyawa berikut.
+(1) HCl
+(2) MgBr2
+(3) Cl2
+(4) CCl4
+(5) H2O
+Senyawa yang jenis gaya antarmolekulnya termasuk ke dalam dipol-dipol 
+permanen adalah ….
+a. 
+(1) dan (2)
+b. 
+(1) dan (3)
+c. 
+(1) dan (5)
+d. 
+(2) dan (4)
+e. 
+(4) dan (5)
+4. 
+XeF4 memiliki bentuk molekul dan hibridisasi ….
+a. 
+oktahedral dan sp3d2
+b. 
+segi empat datar dan sp3d2
+c. 
+linear dan sp3d
+d. 
+tetrahedral dan sp3
+e. 
+bengkok dan sp3
+61
+Bab II  Ikatan Kimia
+5. 
+Di antara molekul berikut, 
+(1) PF5
+(2) BeCl2
+(3) SO2
+(4) CCl4
+(5) NH3
+yang merupakan molekul polar adalah ….
+a. 
+(1) dan (2)
+b. 
+(1) dan (3)
+c. 
+(1) dan (5)
+d. 
+(2) dan (4)
+e. 
+(3) dan (5)
+Jawablah pertanyaan di bawah ini dengan tepat!
+1. 
+Emas merupakan salah satu unsur logam mulia. Sifat mulia ini karena unsur 
+emas bersifat stabil (tidak mudah bereaksi). Karena nilai komersial dan 
+kilapnya yang menarik maka emas banyak digunakan sebagai perhiasan. 
+Kadar emas di dalam perhiasan umumnya disebut dengan karat, seperti 
+emas 24 karat, 23 karat, 22 karat, dan seterusnya. Berkurangnya nilai karat 
+ini menandakan bertambahnya jumlah unsur logam lain selain emas 
+yang ditambahkan untuk membuat campuran perhiasan emas tersebut. 
+Semakin kecil nilai karatnya biasanya akan menghasilkan perhiasan 
+dengan bentuk yang lebih variatif dibandingkan emas 24 karat. Mengapa 
+demikian?
+2. 
+Gas hidrogen merupakan salah satu bahan bakar alternatif yang ramah 
+lingkungan. Negara Jepang telah lama mengembangkan kendaraan 
+berbahan bakar hirogen untuk mengurangi emisi gas berbahaya 
+kendaraan bermotor. Jika menggunakan hidrogen maka emisinya berupa 
+H2O, bukan CO2 dan CO yang dihasilkan dari bahan bakar hidrokarbon. 
+Namun, gas hidrogen merupakan gas yang sangat reaktif dan mudah 
+meledak sehingga lebih aman disimpan dalam wujud cair pada stasiun 
+pengisian bahan bakar. Bagaimanakah gaya antarmolekul yang terjadi 
+pada hidrogen sehingga dapat berwujud cair?
+62
+Kimia untuk SMA/MA Kelas XI
+3. 
+Atom sulfur dapat berikatan kovalen dengan atom F dan memenuhi 
+kaidah oktet untuk membentuk molekul SF2. Lebih lanjut, atom sulfur 
+juga dapat membentuk molekul SF4 dan SF6 yang stabil meskipun tidak 
+memenuhi kaidah oktet. Meskipun memiliki atom pusat dan atom terikat 
+yang sama, molekul SF2 bersifat polar, sementara molekul SF6 bersifat 
+nonpolar. Mengapa ini dapat terjadi?

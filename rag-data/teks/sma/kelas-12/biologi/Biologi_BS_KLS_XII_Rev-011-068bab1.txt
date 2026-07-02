@@ -1,0 +1,2979 @@
+BAB 1 Enzim dan Metabolisme 
+1
+Enzim dan 
+Metabolisme
+Bagaimanakah struktur dan fungsi enzim 
+serta perannya dalam metabolisme pada 
+makhluk hidup?
+BAB 1
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Biologi 
+untuk SMA Kelas XII
+Penulis	
+Shilviani Dewi, dkk.
+ISBN 	
+978-602-427-958-5 (jil.2)
+Biologi untuk SMA/MA Kelas XII
+2
+Tujuan Pembelajaran
+Pada bab ini, kalian akan diajak untuk dapat:
+1.	
+mendeskripsikan struktur dan fungsi enzim.
+2.	
+menjelaskan mekanisme kerja enzim. 
+3.	
+menganalisis faktor-faktor yang memengaruhi kerja enzim. 
+4.	
+menganalisis perbedaan anabolisme dan katabolisme.
+5.	
+menganalisis tahap-tahap respirasi aerobik.
+6.	
+menjelaskan proses fermentasi alkohol dan asam laktat.
+7.	
+menganalisis tahap-tahap reaksi terang dan gelap pada fotosintesis.
+8.	
+menganalisis faktor-faktor yang memengaruhi fotosintesis dan fotorespirasi 
+pada tumbuhan.
+Kata Kunci
+enzim, metabolisme, respirasi seluler, fotosintesis, fotorespirasi.
+Peta Materi
+Enzim dan 
+Metabolisme
+Enzim
+Struktur dan Fungsi 
+Enzim
+Faktor-Faktor yang 
+Memengaruhi Kerja 
+Enzim
+Respirasi Seluler
+Respirasi Aerob
+Glikolisis
+Fermentasi 
+Alkohol
+Pembentukan 
+Asetil Ko-A
+Reaksi Terang
+Reaksi Gelap
+Faktor-Faktor yang 
+Memengaruhi 
+Fotosintesis
+Fotorespirasi
+Fermentasi 
+Asam Laktat
+Siklus Asam 
+Sitrat
+Fosforilasi 
+Oksidatif
+Respirasi Anerob
+Fotosintesis
+Mekanisme Kerja 
+Enzim
+Metabolisme
+BAB 1 Enzim dan Metabolisme 
+3
+Ayo Mengingat Kembali
+Ingatkah kalian ketika mempelajari materi sistem pencernaan pada 
+kelas sebelumnya? Fungsi utama sistem pencernaan, yaitu mengubah 
+molekul besar yang tidak larut air menjadi molekul kecil yang larut 
+air. Pengubahan molekul ini memerlukan pencernaan mekanik oleh 
+gigi dan kimiawi oleh enzim. Pada organ-organ tertentu yang terkait 
+dengan sistem pencernaan terdapat enzim dengan fungsi tertentu. Coba 
+tuliskan kembali enzim-enzim yang terdapat pada saluran pencernaan 
+beserta fungsinya.
+Perhatikan gambar di bawah ini. Gambar tersebut menunjukkan tiga 
+kondisi manusia, yaitu lemas dan mengantuk, makan, serta beraktivitas.
+Gambar 1. 1 Energi diperoleh dari makanan.
+Sumber: Bayu/Kemendikbudristek (2022)
+Ketika lapar, kalian akan merasakan lemas dan mudah mengantuk karena 
+kekurangan energi. Oleh karena itu, kalian perlu makan, salah satunya dengan 
+makan nasi. Nasi dihasilkan dari beras hasil fotosintesis tumbuhan padi. 
+Seperti kalian ketahui bahwa proses fotosintesis yang menghasilkan beras 
+pada tanaman padi membutuhkan energi dari cahaya matahari. Fotosintesis 
+merupakan salah satu contoh proses anabolisme (pembentukan) dalam 
+metabolisme.
+Tiga puluh menit hingga satu jam setelah makan, kalian akan mempunyai 
+tenaga sehingga rasa lemas dan kantuk hilang. Mengapa demikian? Ketika 
+kalian makan, zat makanan akan dicerna dan diserap, lalu diedarkan ke sel-
+sel tubuh. Di dalam sel, zat makanan akan dipecah untuk menghasilkan energi 
+Biologi untuk SMA/MA Kelas XII
+4
+melalui peristiwa respirasi. Energi akan digunakan untuk melakukan aktivitas 
+kehidupan. Proses sel menghasilkan energi melalui respirasi merupakan salah 
+satu contoh peristiwa katabolisme (penguraian) dalam metabolisme.
+Berdasarkan uraian di atas, fotosintesis yang membutuhkan energi dan 
+respirasi yang menghasilkan energi merupakan proses metabolisme. Proses 
+respirasi dan fotosintesis berlangsung secara bertahap melalui reaksi kimia 
+yang terjadi di dalam sel hidup. Kecepatan setiap tahapan reaksi kimia 
+dipengaruhi zat atau katalisator yang disebut enzim. Enzim merupakan bagian 
+yang tidak terpisahkan dari reaksi-reaksi dalam metabolisme.
+A.	 Enzim
+Ketika mengunyah nasi, nasi yang semula terasa tawar, lama-kelamaan terasa 
+manis. Perubahan apa yang terjadi dan apa yang menyebabkan perubahan 
+rasa tersebut? Saat mengunyah nasi, amilum yang berasa tawar dipecah oleh 
+enzim amilase menjadi maltosa yang berasa manis. Apa itu enzim? Bagaimana 
+struktur enzim? Dan, bagaimana sifat-sifat enzim? Untuk menjawab 
+pertanyaan tersebut, lakukan aktivitas berikut.
+AKTIVITAS 1.1
+Bereksplorasi untuk Mengenal Enzim
+1.	
+Buatlah kelompok beranggotakan 3 – 4 orang.
+2.	
+Perhatikan gambar berikut.
+Gugus Prostetik/Kovaktor
+(anorganik, contoh Fe)
+Sisi aktif
+Gugus Prostetik/Koenzim
+(anorganik, non protein,
+vitamin, NAD, NADP)
+Apoenzim (protein)
+Holoenzim
+(Apoenzim + Koenzim)
+ Gambar 1. 2 Struktur enzim.
+	
+  
+Kofaktor
+BAB 1 Enzim dan Metabolisme 
+5
+1.	
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.
+a.	
+Temukan dua komponen utama penyusun enzim!
+b.	
+Temukan dua macam penyusun gugus prostetik pada enzim!
+c.	
+Senyawa apakah yang menyusun bagian apoenzim?
+d.	
+Apakah sisi aktif dan bagian manakah dari enzim yang memiliki 
+sisi aktif?
+e.	
+Senyawa apa yang menyusun gugus prostetik yang disebut 
+dengan koenzim?
+f.	
+Senyawa apa yang menyusun gugus prostetik yang disebut 
+dengan kofaktor?
+g.	
+Lakukan studi literatur menggunakan sumber literasi digital 
+terpercaya mengenai fungsi koenzim dan kofaktor pada 
+kerja enzim!
+2.	
+Tulis hasil diskusi kalian dalam bentuk laporan dan presentasikan 
+di depan kelas.
+1.	 Struktur dan Sifat-sifat Enzim
+Berdasarkan hasil eksplorasi pada Aktivitas 1.1, kalian telah menemukan 
+bahwa umumnya enzim tersusun atas apoenzim dan gugus prostetik. 
+Apoenzim tersusun atas senyawa protein. Bagian apoenzim memiliki sisi 
+aktif yang berfungsi sebagai tempat melekatnya substrat. 
+Terdapat dua macam gugus prostetik, yaitu koenzim dan kofaktor. 
+Koenzim dan kofaktor merupakan bagian yang membantu kerja 
+apoenzim. Koenzim tersusun atas molekul organik nonprotein yang tidak 
+melekat erat pada bagian protein enzim, misalnya vitamin, NAD, NADP, 
+dan Koenzim A. Adapun kofaktor tersusun atas molekul anorganik yang 
+umumnya logam, misalnya Cu, Fe, Mn, Zn, Ca, K, dan Co.
+Apoenzim (protein) yang telah mengikat gugus prostetik (kofaktor 
+atau koenzim) membentuk holoenzim, enzim aktif yang dapat mengkatalis 
+suatu reaksi. Setelah memahami struktur penyusun enzim, selanjutnya 
+kalian akan belajar sifat-sifat enzim sebagai berikut.
+a.	
+Enzim merupakan protein
+Enzim mempunyai sifat seperti protein, yaitu bekerja pada kisaran 
+suhu dan pH tertentu. Enzim tidak dapat bekerja pada kisaran 
+Biologi untuk SMA/MA Kelas XII
+6
+suhu rendah karena ikatan polipeptida protein penyusun enzim 
+mengalami pelipatan atau koagulasi, sedangkan pada kisaran suhu 
+tinggi menyebabkan ikatan polipeptidanya mengalami denaturasi 
+atau terputus sehingga protein rusak dan tidak berfungsi. Enzim 
+juga dapat rusak pada pH rendah (asam) karena gugus amina pada 
+asam amino penyusun protein mengalami ionisasi, sedangkan pada 
+pH tinggi (basa) gugus karboksilnya mengalami ionisasi. Kondisi ini 
+menyebabkan protein rusak dan tidak berfungsi.
+b.	
+Enzim menurunkan energi aktivasi
+Ketika kompleks enzim-substrat terbentuk, enzim menurunkan energi 
+aktivasi substratnya. Energi aktivasi adalah energi yang dibutuhkan 
+agar reaksi kimia dapat dimulai. Penurunan energi aktivasi pada 
+reaksi menggunakan enzim tergambar pada grafik berikut.
+	 	
+Hasil Reaksi
+Energi
+Energi aktivasi reaksi tanpa enzim
+Energi aktivasi reaksi dengan enzim
+	Gambar 1. 3 Perbedaan energi aktivasi pada reaksi dengan dan tanpa enzim.
+	
+c.	
+Bekerja secara spesifik (one enzyme one substrate) 
+Enzim hanya dapat bekerja pada substrat tertentu. Contohnya, enzim 
+amilase hanya bekerja pada substrat amilum dan memecahnya 
+menjadi maltosa. Enzim amilase tidak bisa bekerja lagi untuk 
+mengubah maltosa menjadi glukosa dan juga tidak bisa mengkatalisis 
+balik mengubah maltosa menjadi amilum.
+d.	
+Enzim dipengaruhi oleh faktor lingkungan
+Faktor yang memengaruhi kerja enzim, yaitu suhu, pH, aktivator 
+(pengaktif), inhibitor (penghambat), dan konsentrasi substrat.
+BAB 1 Enzim dan Metabolisme 
+7
+2. Cara Kerja Enzim
+Ketika belajar struktur dan fungsi sel di kelas XI, kalian telah mempelajari 
+bahwa fungsi organel peroksisom untuk menghasilkan enzim katalase. 
+Enzim katalase dapat menguraikan hidrogen peroksida (H2O2), produk 
+sampingan respirasi aerob yang dihasilkan mitokondria menjadi H2O 
+dan O2. Lalu, bagaimana cara enzim katalase dalam menguraikan H2O2? 
+Cermati gambar berikut!
+ 
+ 
+Katalase
+H2O2
+Katalase
+H2O2
+Katalase
+O2
+H2O
+Katalase
+O2
+H2O
+Enzim
+Substrat
+Komplek enzim-substrat
+terbentuk, substrat melekat
+pada sisi aktif enzim
+Ikatan  enzim dan substrat
+memberikan tekanan pada 
+ikatan kimia pada substrat. 
+Ikatan kimia segera terurai, 
+produk terbentuk.
+Produk dilepaskan, sisi
+aktif enzim kosong dan
+dapat diisi substrat
+selanjutnya.
+ Gambar 1.4 Mekanisme penguraian hidrogen peroksida.
+Berdasarkan Gambar 1.4 terlihat bahwa substrat berupa H2O2 dan 
+enzim katalase bereaksi membentuk komplek (gabungan) H2O2 – enzim 
+katalase. Selanjutnya, enzim katalase menguraikan H2O2 menjadi H2O dan 
+O2. Setelah selesai, enzim terbentuk kembali seperti semula dan dihasilkan 
+produk berupa H2O dan O2.
+Agar kalian lebih memahami cara enzim bekerja, pelajari beberapa 
+teori cara kerja enzim berikut.
+a. 
+Teori lock and key (gembok dan anak kunci)
+Untuk mengetahui cara kerja enzim berdasarkan teori gembok dan 
+anak kunci, cermati Gambar 1.5 berikut!
+ 
+anak kunci
+(substrat)
+gembok
+(enzim)
+kompleks anak kunci 
+dan gembok
+gembok terbuka
+(produk)
+substrat
+enzim
+kompleks enzim-substrat
+produk
+enzim
+p
+ 
+ge
+ Gambar 1. 5 Teori lock and key.
+Sumber: Biology Brain/biologybrain.com (2022)
+Biologi untuk SMA/MA Kelas XII
+8
+b.	
+Teori induced fit (induksi pas)
+Teori ini mirip dengan teori gembok dan anak kunci, namun dengan 
+menambahkan penemuan baru bahwa enzim dan substrat tidak kaku 
+seperti gembok dan anak kunci. Sisi aktif pada enzim bersifat fleksibel 
+sehingga dapat mengikat substrat dengan tepat. Hal ini menyebabkan 
+kerja enzim sebagai katalisator menjadi lebih efisien. Perhatikan 
+Gambar 1.6 berikut!
+	
+	
+substrat
+sisi aktif
+sisi aktif sedikit mengubah
+bentuknya mengikuti bentuk 
+substrat
+produk
+ Gambar 1. 6 Teori induced fit.
+Sumber: TimVickers-Fvasconcellos/commons.wikimedia.com (2006)
+Setelah mempelajari mekanisme kerja enzim, kalian diharapkan 
+mampu menggunakan teknologi untuk menunjukkan pemahaman 
+mengenai 
+teori 
+mekanisme 
+kerja 
+enzim 
+dengan 
+melakukan 
+aktivitas berikut.
+AKTIVITAS 1.2 
+Memahami Teori Gembok dan Kunci dengan Teknologi
+1.	
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Cari informasi mengenai video stop motion melalui literasi digital.
+3.	
+Buat video stop motion untuk menunjukkan pemahaman kalian 
+mengenai teori gembok dan kunci serta induksi pas.
+4.	
+Lengkapi video dengan narasi yang sesuai.
+5.	
+Unggah video kalian ke media sosial, seperti Youtube atau Facebook.
+3.	 Faktor yang Memengaruhi Kerja Enzim
+Pernahkah kalian mengamati perubahan saat telur digoreng? Ketika 
+digoreng, putih telur memadat dan berubah warna. Putih telur tersusun 
+atas albumin yang merupakan salah satu jenis protein. Perubahan yang 
+BAB 1 Enzim dan Metabolisme 
+9
+terjadi ketika telur digoreng menunjukkan protein dipengaruhi suhu yang 
+merupakan salah satu faktor lingkungan. 
+Begitu juga dengan enzim yang dipengaruhi faktor lingkungan. Faktor 
+apa sajakah yang memengaruhi kerja enzim? Lakukan aktivitas berikut.
+AKTIVITAS 1.3
+Pengaruh pH dan Suhu terhadap Kerja Enzim
+Alat:
+1.	
+mortar dan alu
+2.	
+kertas saring
+3.	
+gelas ukur
+4.	
+6 buah tabung reaksi 
+5.	
+kertas pH
+6.	
+termometer
+Bahan:
+1.	
+1 buah hati ayam
+2.	
+50 ml akuades 
+3.	
+10 tetes larutan HCl atau air perasan jeruk nipis
+4.	
+10 tetes larutan NaOH atau serbuk soda kue
+5.	
+50 ml hidrogen peroksida (H2O2)
+6.	
+1 gram serbuk es batu
+7.	
+10 ml air mendidih
+Langkah percobaan:
+1. 	 Bentuk kelompok yang terdiri atas 4 – 5 orang.
+2. 	 Siapkan alat dan bahan yang diperlukan.
+3. 	 Ikuti langkah percobaan berikut. 
+a.	
+Perlakuan pH pada kerja enzim katalase
+1)	
+Haluskan hati ayam yang dicampur akuades menggunakan 
+mortar dan alu. 
+2)	
+Saring campuran di atas ke dalam gelas ukur.
+3)	
+Siapkan 3 buah tabung reaksi yang ditandai dengan huruf 
+A, B, dan C.
+4)	
+Tuang ekstrak hati ayam hingga ketinggian 1 cm pada tiap 
+tabung reaksi. 
+5)	
+Tambahkan 10 tetes larutan HCl (air perasan jeruk nipis) pada 
+tabung A dan ukur pHnya dengan kertas pH.
+Biologi untuk SMA/MA Kelas XII
+10
+6)	
+Tambahkan 10 tetes larutan NaOH (serbuk soda kue) pada 
+tabung B dan ukur pHnya dengan kertas pH.
+7)	
+Tambahkan masing-masing 10 tetes larutan H2O2 pada tabung 
+A, B, dan C. Lalu, amati ketiga tabung tersebut.
+8)	
+Tulis hasil pengamatan kalian pada tabel berikut.
+Ekstrak hati + HCl + 
+H2O2 pH = ……
+Ekstrak hati + NaOH 
++ H2O2 pH = …..
+Ekstrak hati + H2O2  
+pH = ……..
+Gelembung
+gas
+Nyala
+api
+Gelembung
+gas
+Nyala
+api
+Gelembung
+gas
+Nyala
+api
+9)	
+Jawablah pertanyaan berikut dengan berdiskusi bersama 
+kelompok kalian.
+a)	
+Mengapa pada tabung A tidak muncul gelembung dan 
+nyala api?
+b)	 Mengapa pada tabung B tidak muncul gelembung dan 
+nyala api?
+c)	
+Mengapa pada tabung C muncul gelembung dan nyala api?
+d)	 Hasil reaksi apakah yang ditunjukkan dengan munculnya 
+gelembung pada tabung C?
+e)	
+Senyawa apakah yang ditunjukkan dengan munculnya 
+nyala api?
+f)	
+Kesimpulan apa yang dapat dirumuskan terkait dengan 
+pengaruh pH pada kerja enzim katalase?
+b.	
+Perlakuan suhu pada kerja enzim katalase
+1)	
+Haluskan hati ayam yang dicampur akuades menggunakan 
+mortar dan alu. 
+2)	
+Saring campuran di atas ke dalam gelas ukur.
+3)	
+Siapkan 3 buah tabung reaksi yang ditandai dengan huruf 
+D, E, dan F.
+4)	
+Tuang ekstrak hati ayam hingga ketinggian 1 cm pada tiap 
+tabung reaksi. 
+5)	
+Tambahkan 1 gram serbuk es batu pada tabung D dan ukur 
+suhunya dengan termometer.
+6)	
+Tambahkan 10 ml air mendidih pada tabung E dan ukur 
+suhunya dengan termometer.
+7)	
+Tambahkan masing-masing 10 tetes H2O2 pada tabung D, E, dan 
+F. Lalu, amati ketiga tabung tersebut.
+8)	
+Tulis hasil pengamatan kalian pada tabel berikut.
+BAB 1 Enzim dan Metabolisme 
+11
+Ekstrak hati + es batu + 
+H2O2, suhu = ……
+Ekstrak hati + air 
+panas + H2O2  
+suhu = …..
+Ekstrak hati + H2O2  
+suhu = ……..
+Gelembung
+gas
+Nyala
+api
+Gelembung
+gas
+Nyala
+api
+Gelembung
+gas
+Nyala
+api
+9)	
+Jawablah pertanyaan berikut dengan berdiskusi.
+a.	
+Mengapa pada tabung D tidak muncul gelembung dan 
+nyala api?
+b.	
+Mengapa pada tabung E tidak muncul gelembung dan 
+nyala api?
+c.	
+Mengapa pada tabung F muncul gelembung dan nyala api?
+d.	
+Hasil reaksi apakah yang ditunjukkan dengan munculnya 
+gelembung pada tabung F?
+e.	
+Gas apakah yang ditunjukkan dengan munculnya nyala api?
+f.	
+Kesimpulan apa yang dapat dirumuskan terkait dengan 
+pengaruh suhu pada kerja enzim katalase?
+Tulis laporan hasil percobaan kalian dan presentasikan di depan kelas.
+Berdasarkan hasil eksperimen, pH dan suhu terbukti berpengaruh 
+pada kerja enzim katalase. Kerja enzim mempunyai kisaran pH tertentu. 
+Perhatikan grafik berikut!
+	
+	
+Pepsin                     Amilase                  Tripsin   
+100
+0               2                                7                               8         pH
+Kecepatan Reaksi (%)
+ Gambar 1. 7 Enzim memiliki pH optimum.
+Pada grafik di atas, pepsin bekerja optimum pada pH asam, sedangkan 
+amilase bekerja pada pH normal dan tripsin optimum bekerja pada pH 
+basa. Hal ini menunjukkan bahwa pH berpengaruh pada kerja enzim. 
+Selain pH dan suhu ada faktor lain yang memengaruhi kerja enzim. Untuk 
+mengetahui faktor tersebut, lakukan kegiatan berikut! 
+Biologi untuk SMA/MA Kelas XII
+12
+AKTIVITAS 1.4
+Mengetahui Pengaruh Konsentrasi Enzim terhadap Kecepatan Reaksi
+1.	
+Bentuk kelompok yang terdiri atas 3 – 4 orang.
+2.	
+Perhatikan tabel perbedaan konsentrasi enzim katalase pada 
+jumlah volume oksigen pada waktu yang berbeda berikut.
+Konsentrasi
+Katalase
+(cm3)
+Gas Oksigen yang Dihasilkan pada Interval Waktu 30 
+Detik (ml)
+30
+60
+90
+120
+150
+180
+210
+240
+0,5
+0,5
+0,7
+0,9
+1,1
+1,2
+1,3
+1,5
+1,7
+1
+0,9
+1,1
+1,3
+1,5
+1,7
+2,0
+2,1
+2,3
+2
+1,6
+1,7
+1,9
+2,1
+2,3
+2,5
+2,6
+2,8
+3
+2,4
+2,5
+2,7
+2,8
+3,1
+3,2
+3,3
+3,5
+4
+3,5
+3,6
+3,8
+3,9
+4,1
+4,3
+4,5
+4,7
+3. 
+Buat grafik yang menunjukkan volume gas yang dihasilkan oleh 
+enzim dengan konsentrasi berbeda-beda.
+4.	
+Buat kesimpulan hubungan antara perbedaan konsentrasi enzim 
+pada kecepatan reaksi.
+Berdasarkan hasil percobaan di atas, terbukti bahwa perbedaan 
+konsentrasi enzim menyebabkan perbedaan kecepatan reaksi pada 
+rentang waktu yang berbeda. Lalu, bagaimana pengaruh konsentrasi 
+substrat pada kecepatan reaksi? Perhatikan grafik berikut!
+	
+Konsentrasi Substrat
+Kecepatan Reaksi
+Vmax
+½Vmax
+KM
+ Gambar 1.8 Grafik pengaruh konsentrasi substrat terhadap kecepatan reaksi.
+	
+Berdasarkan grafik di atas, perbedaan konsentrasi substrat dapat 
+meningkatkan kecepatan reaksi sampai batas tertentu, di mana jika 
+perbandingan antara substrat dan enzim sebanding maka kecepatan 
+reaksinya menjadi konstan. 
+BAB 1 Enzim dan Metabolisme 
+13
+Kerja enzim juga dipengaruhi oleh inhibitor atau zat penghambat. 
+Perhatikan gambar berikut!
+	
+produk
+kofaktor
+(altivator)
+substrat
+inhibitor
+kompetitif
+inhibitor
+non-kompetitif
+apoenzim
+sisi aktif
+sisi alosterik
+	Gambar 1.9 Macam inhibitor enzim.
+	
+Berdasarkan gambar di atas, ada dua macam inhibitor enzim, yaitu 
+inhibitor kompetitif dan inhibitor nonkompetitif. Inhibitor kompetitif 
+adalah inhibitor yang mempunyai bentuk permukaan dan ukuran sama 
+dengan sisi aktif sehingga dapat melekat kuat dan menghalangi substrat 
+menempel pada sisi aktif enzim sehingga kerja enzim terhambat. Inhibitor 
+kompetitif dapat dihilangkan dengan menambah konsentrasi substrat.
+Adapun inhibitor nonkompetitif adalah inhibitor yang terikat pada sisi 
+alosterik enzim (sisi tidak aktif pada enzim). Inhibitor ini mengakibatkan 
+sisi aktif enzim dapat berubah sehingga substrat tidak dapat menempel 
+dan berikatan dengan sisi aktif enzim. Inhibitor ini tidak dapat dihilangkan 
+walaupun dengan menambahkan konsentrasi substrat.
+Lalu, bagaimana inhibitor kompetitif bekerja di dalam sel makhluk 
+hidup? Perhatikan gambar berikut!
+O
+Ser
+OH
+Ser
+rantai
+polisakarida
+polipeptida
+enzim
+transpeptidase
+yang aktif
+penisilin
+enzim
+transpeptidase
+tidak berfungsi
+karena mengikat
+penisilin pada
+sisi aktifnya
+The Yale Journal of Biology and Medicine/researchgate.net, Maret 2017
+	Gambar 1.10 Penisilin sebagai inhibitor kompetitif.
+	
+Biologi untuk SMA/MA Kelas XII
+14
+Pada gambar di atas terlihat mekanisme kerja inhibitor kompetitif 
+digunakan untuk membunuh bakteri oleh antibiotik penisilin. Penisilin 
+sangat mirip dengan substrat enzim transpeptidase yang mengkatalisis 
+pembentukan dinding sel bakteri. Kemiripan ini menyebabkan sisi aktif 
+enzim transpeptidase melekat dan berikatan dengan penisilin. Akibatnya, 
+dinding sel bakteri gagal terbentuk dan bakteri mati. 
+B.	 Metabolisme
+Pada bagian ini, kalian akan diajak untuk mempelajari mengenai metabolisme. 
+Apa saja jenis metabolisme? Dan bagaimana prosesnya? Simak uraiannya 
+sebagai berikut!
+1.	 Anabolisme dan Katabolisme
+Bagaimana jika tidak ada tumbuhan di muka bumi? Akankah makanan 
+tersedia bagi makhluk hidup lain tanpa adanya tumbuhan? Tumbuhan 
+merupakan makhluk hidup yang berperan menyediakan bahan makanan 
+bagi makhluk hidup lain berupa bahan organik. Bagaimanakah proses 
+pembentukan bahan makanan pada tumbuhan? Bagaimanakah makanan 
+dipecah untuk menghasilkan energi? Untuk menjawab pertanyaan-
+pertanyaan tersebut, lakukan aktivitas berikut.
+AKTIVITAS 1.5 
+Menganalisis Proses Pembentukan dan Pemecahan Senyawa 
+Organik Hasil Fotosintesis
+1.	
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Perhatian reaksi kimia berikut.	 	
+a.	
+6CO2    + 6H2O	
+	
+	
+	
+	
+C6H12O6 +6O2
+	
+	
+	
+	
+	
+b.	
+C6H12O6 +6O2	
+	
+	
+	
+	
+6CO2 + 6H2O + Energi (ATP)
+3.	
+Jawablah pertanyaan berikut dengan berdiskusi.
+a.	
+Apakah kalian masih ingat reaksi kimia pada bagian (a)? Reaksi 
+apakah itu?
+b.	
+Apakah jenis energi yang dibutuhkan pada reaksi (a)?
+c.	
+Jelaskan perubahan jenis senyawa yang terjadi pada reaksi (a)!
+Energi Foton
+Klorofil
+BAB 1 Enzim dan Metabolisme 
+15
+d.	
+Apakah kalian masih ingat reaksi kimia pada bagian (b)? Reaksi 
+apakah itu?
+e.	
+Apakah jenis energi yang dihasilkan pada reaksi (b)?
+f.	
+Jelaskan perubahan jenis senyawa yang terjadi pada reaksi (b)!
+4.	
+Sajikan hasil diskusi kalian dalam bentuk PowerPoint dan 
+presentasikan di depan kelas!
+Berdasarkan hasil aktivitas di atas, pada reaksi (a) terjadi 
+pembentukan senyawa organik glukosa (C6H12O6) dari senyawa anorganik 
+6CO2 dan 6H2O yang membutuhkan energi cahaya berupa foton. Proses 
+ini disebut fotosintesis, salah satu contoh anabolisme. Anabolisme disebut 
+juga asimilasi atau sintesis, yaitu rangkaian proses reaksi kimia yang 
+berkaitan dengan proses penyusunan molekul/senyawa kompleks dari 
+molekul/senyawa sederhana atau penyusunan zat dari senyawa/molekul 
+sederhana menjadi senyawa kompleks dengan bantuan enzim. 
+Proses anabolisme memerlukan energi, baik energi panas, cahaya, 
+atau energi kimia. Anabolisme yang menggunakan energi cahaya disebut 
+fotosintesis, sedangkan anabolisme yang menggunakan energi kimia 
+disebut kemosintesis. Reaksi fotosintesis dan kemosintesis membutuhkan 
+energi sehingga disebut reaksi endergonik.
+Pada reaksi (b) terjadi pemecahan senyawa organik glukosa (C6H12O6) 
+menjadi senyawa anorganik 6 CO2 dan 6 H2O dengan menghasilkan 
+energi kimia berupa ATP (Adenosine Triphosphate). Proses reaksi ini 
+disebut respirasi, salah satu contoh katabolisme. Katabolisme disebut juga 
+desimilasi, yaitu rangkaian reaksi kimia yang berkaitan dengan proses 
+pembongkaran, penguraian atau pemecahan molekul/senyawa kompleks 
+menjadi molekul/senyawa yang lebih sederhana dengan bantuan enzim. 
+Penguraian senyawa ini menghasilkan atau melepaskan energi berupa 
+molekul ATP sehingga disebut reaksi eksergonik. Selanjutnya, molekul 
+ATP tersebut digunakan organisme untuk beraktivitas. 
+Katabolisme mempunyai dua fungsi, yaitu menyediakan bahan 
+baku untuk sintesis molekul lain dan menyediakan energi kimia untuk 
+melakukan aktivitas sel. Reaksi yang umum terjadi pada katabolisme 
+berupa reaksi oksidasi. Reaksi kimia yang terjadi pada katabolisme 
+membebaskan sejumlah energi dan disimpan dalam bentuk ATP.
+Biologi untuk SMA/MA Kelas XII
+16
+Reaksi anabolisme dan katabolisme merupakan reaksi metabolisme 
+pada makhluk hidup. Jadi, metabolisme merupakan keseluruhan reaksi 
+kimia dalam sel makhluk hidup yang dibantu enzim beserta konsekuensi 
+perubahan energi yang menyertainya.
+Untuk mengukur tingkat pemahaman kalian mengenai anabolisme 
+dan katabolisme, lakukan aktivitas berikut.
+AKTIVITAS 1.6
+Mengukur 
+Tingkat 
+Pemahaman 
+Mengenai 
+Anabolisme 
+dan 
+Katabolisme
+1.	
+Tentukan macam-macam variabel pembeda antara anabolisme 
+dengan katabolisme.
+2.	
+Tulis perbedaan anabolisme dan katabolisme berdasarkan variabel 
+pembeda pada tabel berikut.
+No
+Variabel Pembeda
+Anabolisme
+Katabolisme
+1.
+Bahan 
+2.
+Energi
+3.
+Tempat berlangsungnya di dalam sel
+4.
+Oksigen
+5.
+Hasil
+3.	
+Presentasikan tabel perbedaan anabolisme dan katabolisme di 
+depan kelas.
+2.	 Respirasi Seluler
+Masih ingatkah kalian organel mitokondria di dalam sel eukariotik? 
+Apakah fungsi mitokondria bagi sel? Dan seberapa penting fungsi 
+mitokondria bagi sel?
+Mitokondria berfungsi sebagai penyedia energi (ATP) bagi seluruh 
+aktivitas hidup sel. Mitokondria mampu menyediakan energi melalui 
+aktivitas respirasi. Untuk memahami reaksi kimia sel, perhatikan 
+gambar berikut.
+BAB 1 Enzim dan Metabolisme 
+17
+	Gambar 1.11 Persamaan reaksi respirasi aerob.
+	
+Pada gambar di atas terlihat bahan dasar respirasi berupa glukosa. 
+Glukosa (molekul organik kompleks) dioksidasi oleh oksigen akan terpecah 
+menghasilkan ATP dengan hasil samping berupa CO2 dan H2O (molekul 
+anorganik sederhana).
+Tujuan utama respirasi untuk menghasilkan energi (ATP). Respirasi 
+dapat melalui reaksi oksidasi yang diperantarai oksigen sehingga disebut 
+respirasi aerob. Jika respirasi tidak menggunakan oksigen disebut, 
+respirasi anaerob. Selain respirasi anaerob, pembentukan ATP tanpa 
+oksigen dapat juga terjadi melalui fermentasi.
+Energi kimia hasil respirasi berbentuk senyawa kimia yang disebut 
+ATP. Berikut struktur ATP dan bagaimana energi di dalam molekul ATP 
+dilepaskan. 
+P
+P
+P
+P
+P
+P
+Adenine Triphosphate –
+Adenine Diphosphate –
+Adenin
+Adenin
+Ikatan berenergi 
+tinggi
+fosfat 
+organik
+Energi bebas
+Ribosa
+Ribosa
+	Gambar 1.12 Struktur ATP.
+Biologi untuk SMA/MA Kelas XII
+18
+Pada gambar 1.12, terlihat proses pelepasan energi bebas dari energi 
+kimia yang berupa ATP. ATP yang mempunyai gugus fosfat berenergi 
+tinggi melepaskan satu ikatan fosfat untuk melepaskan energi bebas yang 
+dapat digunakan untuk aktivitas sel. Setelah ATP melepaskan satu ikatan 
+fosfat, ATP berubah menjadi ADP (Adenosine Diphosphate).
+a.  Tahapan Respirasi Aerob
+Umumnya, respirasi aerob menggunakan substrat glukosa. Glukosa 
+mempunyai rantai karbon 6 (C6) akan dipecah menjadi karbon dioksida 
+yang memiliki 1 atom karbon (C1) dan air (H2O). Secara sederhana, reaksi 
+kimia respirasi aerob ditulis sebagai berikut.
+C6H12O6 +6O2                                     6CO2 + 6H2O + 38 ATP
+Meskipun reaksinya terlihat sederhana, proses pemecahan glukosa (C6) 
+menjadi CO2 (C1) berlangsung secara bertahap. Perhatikan gambar berikut.
+  
+Elektron dibawa 
+oleh NADH
+Glikolisis
+Glukosa -->              
+Asam 
+Piruvat
+Oksidasi
+Asam Piruvat
+Asetil Ko A
+Siklus
+Asam Sitrat
+Fosforilasi
+Oksidatif
+Transpor Elektron
+dan Kemiosmosis
+Mitokondria
+ATP
+ATP
+ATP
+ Gambar 1.13 Tahapan respirasi aerob.
+Tahapan respirasi aerob ada empat, yaitu glikolisis berlangsung 
+di sitosol sitoplasma, dekarboksilasi oksidatif (oksidasi asam piruvat) 
+berlangsung di matriks mitokondria, siklus Krebs (siklus asam sitrat) 
+berlangsung di matriks mitokondria, dan transpor elektron berlangsung 
+di membran krista mitokondria. Bagaimanakah urutan reaksi kimia 
+BAB 1 Enzim dan Metabolisme 
+19
+pada masing-masing tahap dalam respirasi aerob? Marilah kita pelajari 
+satu persatu.
+1)	 Glikolisis
+Apa itu glikolisis? Apakah bahan dasarnya? Bagaimana tahap-tahapannya 
+dan apa hasilnya? Lakukan aktivitas berikut.
+AKTIVITAS 1.7
+Menganalisis Tahapan Glikolisis
+1.	
+Bentuklah kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Perhatian tahapan reaksi kimia berikut.
+P
+P
+P
+P
+P
+P
+P
+P
+ATP
+2
+ADP
+2
+NAD+
+NADH
+NAD+
+NADH
+ADP
+2
+ADP
+2
+ATP
+2
+ATP
+2
+Glukosa
+2 asam piruvat
+Fase Investigasi
+Energi
+License: CK-12 Curriculum Materials License
+2 Fosfogliseraldehid (PGAL)
+2    1,3 bifosfogliserat
+Enzim
+Dehidrogenase
+Fase 
+Pembentukan
+Energi
+  Gambar 1. 14 Glikolisis.
+        Sumber: CK-12 Foundation (2020)
+Biologi untuk SMA/MA Kelas XII
+20
+3.	
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.
+a.	
+Apakah substrat yang digunakan pada glikolisis?
+b.	
+Ada berapa tahapan utama pada glikolisis?
+c.	
+Apa yang terjadi pada tahap investasi energi dan berapa jumlah 
+energi yang digunakan?
+d.	
+Apa yang terjadi pada tahap pembentukan energi dan berapa 
+jumlah energi yang dihasilkan?
+e.	
+Berapa jumlah energi (ATP) bersih yang dihasilkan pada reaksi 
+glikolisis?
+f.	
+Enzim apa yang mengkatalisis pembentukan NADH pada reaksi 
+glikolisis?
+g.	
+Senyawa apa sajakah yang dihasilkan pada reaksi glikolisis?
+h.	
+Berdasarkan Gambar 1.14, coba rumuskan pengertian glikolisis!
+4.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+Setelah melakukan Aktivitas 1.7, kalian telah mengetahui bahwa 
+substrat atau bahan dalam glikolisis berupa glukosa (C6). Adapun 
+tahapannya ada dua, yaitu tahapan investasi energi membutuhkan 2 ATP 
+dan tahapan pembentukan energi dihasilkan 4 ATP. Artinya, ATP bersih 
+yang dihasilkan pada glikolisis sebanyak 2 ATP. Adapun hasil utama 
+glikolisis berupa 2 asam piruvat (2C3) dan hasil sampingnya berupa 2 ATP 
+dan 2 NADH. 
+NADH merupakan koenzim yang terbentuk dari NAD+ (Nicotinamide 
+Adenine Dinucleotide) yang mengikat elektron berenergi tinggi (e-) dan 
+satu proton (H+) dari hasil reaksi pembongkaran ikatan kimia antara 
+karbon dengan hidrogen pada senyawa 2 PGAL (Phospho Gliseraldehid). 
+Pembentukan NADH dikatalisis oleh enzim dehidrogenase. Secara 
+sederhana, glikolisis dapat digambarkan dalam bagan berikut.
+Glukosa
+2PGAL
+2 Asam Piruvat
+2ATP
+2ADP
+4ADP
+4ATP
+Investasi Energi
+Pembentukan Energi
+2NAD+
+2NADH2
+(C6)   
+(2C3)   
+(2C3)   
+	Gambar 1.15 Bagan tahapan glikolisis.
+	
+BAB 1 Enzim dan Metabolisme 
+21
+Berdasarkan Gambar 1.15, dapat dirumuskan bahwa glikolisis adalah 
+peristiwa pemecahan satu molekul glukosa (6 atom C) menjadi 2 asam 
+piruvat (3 atom C) yang berlangsung di sitosol sitoplasma dalam kondisi 
+anaerob (tanpa oksigen) dengan hasil sampingan berupa 2 molekul NADH 
+dan 2 molekul ATP.
+2)	 Dekarboksilasi oksidatif 
+Selanjutnya, dua molekul asam piruvat (2C3), hasil utama glikolisis akan 
+memasuki tahap dekarboksilasi oksidatif. Apa itu dekarboksilasi oksidatif? 
+Apakah bahannya? Bagaimana tahapannya dan apa hasilnya? Lakukan 
+aktivitas berikut.
+AKTIVITAS 1.8
+Menganalisis Tahapan Dekarboksilasi Oksidatif
+1.	
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Perhatikan gambar berikut!
+     
+Asam Piruvat
+License: CK-12 Curriculum Materials License
+NAD+
+NADH2
+CO2
+Asetil KoA (C2)
+KoA
+E. dehidrogenase
+Pelepasan gugus karboksil.
+Penambahan KoA
+E. dekarbloksilase
+  Gambar 1.16 Dekarboksilasi oksidatif.
+        Sumber: CK-12 Foundation (2020)
+3.	
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.
+a.	
+Apakah substrat yang digunakan pada reaksi dekarboksilasi 
+oksidatif?
+b.	
+Ada berapa tahapan utama pada reaksi dekarboksilasi oksidatif?
+c.	
+Apa yang terjadi pada tahap pelepasan gugus karboksil dan apa 
+hasilnya? 
+d.	
+Apa yang terjadi pada tahapan penambahan KoA dan 
+apa hasilnya?
+Biologi untuk SMA/MA Kelas XII
+22
+e.	
+Enzim apakah yang mengkatalisis pembentukan CO2 dan NADH 
+pada reaksi dekarboksilasi oksidatif?
+f.	
+Senyawa apa sajakah yang dihasilkan pada reaksi dekarboksilasi 
+oksidatif?
+g.	
+Berdasarkan 
+Gambar 
+1.16, 
+coba 
+rumuskan 
+pengertian 
+dekarboksilasi oksidatif!
+4.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+Setelah melakukan Aktivitas 1.8, kalian telah menemukan bahwa 
+substrat atau bahan dalam dekarboksilasi oksidatif berupa 2 asam piruvat 
+(2C3). Adapun tahapannya ada dua. Pertama, tahap pelepasan gugus 
+karboksil dari asam piruvat yang menghasilkan 2CO2 dan hasil sampingan 
+2NADH. Pembentukan 2CO2 dikatalisis oleh enzim dekarboksilase dan 
+pembentukan 2NADH dikatalisis enzim dehidrogenase. 
+Kedua, penambahan 2KoA pada 2 asam piruvat yang telah kehilangan 
+gugus karboksilnya sehingga terbentuk 2 asetil KoA (2C2). Secara sederhana, 
+dekarboksilasi oksidatif dapat digambarkan dalam bagan berikut.
+Pelepasan gugus karboksil
+Penambahan KoA
+2NAD
+2NADH2
+2KoA
+2CO2
+2 Asam Piruvat
+(2C3)
+2 Asetil KoA
+(2C2)
+	
+	
+	
+     
+	Gambar 1.17 Bagan dekarboksilasi oksidatif.
+	
+Berdasarkan bagan di atas, dapat dirumuskan bahwa dekarboksilasi 
+oksidatif adalah peristiwa pelepasan gugus karboksil dari asam piruvat 
+(2C3) dan penambahan molekul KoA sehingga menghasilkan Asetil KoA 
+(2C2) dalam suasana aerob yang berlangsung di matriks mitokondria 
+dengan hasil samping berupa 2CO2 dan 2NADH.
+BAB 1 Enzim dan Metabolisme 
+23
+3)	 Siklus Krebs atau siklus asam sitrat
+Selanjutnya, dua molekul Asetil KoA (2C2), hasil utama dekarboksilasi akan 
+memasuki tahap siklus Krebs. Apa itu siklus Krebs? Apakah bahannya? 
+Bagaimana tahapannya dan apa hasilnya? Lakukan aktivitas berikut.
+AKTIVITAS 1.9
+Menganalisis Tahapan Siklus Krebs
+1.	
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Perhatian gambar berikut.
+	
+License: CK-12 Curriculum Materials License
+FAD
+NAD+
+NADH
+FADH2
+NAD+
+NADH
+CO2
+CO2
+NAD+
+NADH
+ATP
+ADP
+Pl
++
+Asetil KoA (C)
+KoA
+Oksaloasetat (C)
+Asam Sitrat (C6)
+Siklus
+Asam
+Sitrat
+H2O
+Suksinat(C)
+a Ketoglutarat (C5)
+H2O
+H2O
+E. Sitrat sintetase
+H2O
+  Gambar 1.18 Siklus Asam Sitrat
+        Sumber: CK-12 Foundation (2020)
+3.	
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.
+a.	
+Apakah substrat yang digunakan pada reaksi siklus Krebs?
+b.	
+Senyawa apa yang mengikat 2 asetil KoA pada saat memasuki 
+siklus Krebs?
+c.	
+Ada berapa tahapan utama reaksi pada siklus Krebs?
+d.	
+Pada tahapan mana sajakah H2O ditambahkan?
+e.	
+Pada tahapan manakah ATP dihasilkan?
+f.	
+Pada tahapan mana sajakah NADH dihasilkan?
+g.	
+Pada tahapan mana sajakah FADH2 dihasilkan?
+h.	
+Enzim apakah yang mengkatalisis pembentukan asam sitrat?
+Biologi untuk SMA/MA Kelas XII
+24
+i.	
+Senyawa apa sajakah yang dihasilkan pada siklus Krebs?
+j.	
+Berdasarkan 
+Gambar 
+1.18, 
+coba 
+rumuskan 
+pengertian 
+siklus Krebs!
+4.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+Setelah melakukan Aktivitas 1.9, kalian telah  menemukan bahwa 
+substrat atau bahan dalam siklus Krebs berupa 2 asetil KoA (2C2) yang 
+terjadi dalam 5 tahapan utama, yaitu: 
+a.	
+Pengikatan 2 asetil KoA oleh 2 oksaloasetat dengan penambahan 
+2H2O untuk membentuk 2 asam sitrat yang dikatalisis oleh enzim 
+sitrat sintase.
+	
+	
+	
+	
+2 Asetil KoA + 2 Oksaloasetat + 2H2O                              2 Asam Sitrat
+        (2C2)                     (2C4)	
+                                                      (2C6)
+2KoA
+b.	
+Pelepasan satu ikatan karbon pada masing-masing asam sitrat 
+setelah penambahan 2H2O untuk membentuk 2α ketoglutarat dengan 
+melepaskan 2CO2 dan 2NADH. Pembentukan 2CO2 dikatalisis oleh 
+enzim dekarboksilase dan pembentukan 2NADH dikatalisis enzim 
+dehidrogenase.
+	
+	
+	
+	
+2Asam Sitrat+2H2O                                                       2 a Ketoglutarat
+            (2C6)                                                                                  (2C5)
+2CO2
+2NAD      2NADH
+c.	
+Pelepasan satu ikatan karbon pada masing-masing 2α ketoglutarat 
+untuk membentuk 2 suksinat dengan melepaskan 2CO2 dan 2ATP serta 
+2NADH dan pembentukan 2NADH dikatalisis enzim dehidrogenase . 
+	
+	
+	
+	
+2a Ketoglutarat                                                                        2 Suksinat
+          (2C5)                                                                                        (2C4)
+2CO2 , 2ATP
+2NAD      2NADH
+d.	
+Perubahan 2 suksinat menjadi 2 malat setelah mengalami penambahan 
+2H2O dengan menghasilkan FADH2. Pembentukan FADH2 dikatalisis 
+BAB 1 Enzim dan Metabolisme 
+25
+enzim dehidrogenase. FADH2 merupakan koenzim (FAD+ atau Flavo 
+Adenine Dinucleotide) yang mengikat elektron berenergi tinggi (H2+) 
+dan satu proton (e-) dari hasil reaksi pembongkaran ikatan kimia 
+antara karbon dengan hidrogen pada 2 suksinat.
+	
+	
+	
+	
+2 Suksinat + 2H20                                                                          2 Malat
+           (2C4)                                                                                         (2C4)
+2FAD         2 FADH2
+e.	
+Perubahan 2 malat menjadi 2 oksaloasetat melalui reaksi isomerase 
+yang menghasilkan 2NADH. Pembentukan 2NADH dikatalisis enzim 
+dehidrogenase.
+	
+	
+	
+	
+2 Malat                                                                               2 Oksaloasetat
+   (2C4)                                                                                           (2C4)
+2NAD   2NADH
+Berdasarkan bagan di atas, dapat dirumuskan bahwa siklus Krebs 
+adalah peristiwa pemecahan 2 asetil KoA (2C2) untuk menghasilkan 4CO2 
+(4C1) dalam suasana anaerob yang berlangsung di matrik mitokondria 
+dengan hasil sampingan berupa 2ATP, 6NADH, dan 2FADH2.
+4)	 Fosforilasi oksidatif: transpor elektron dan kemiosmosis
+Transpor elektron merupakan tahap terakhir dalam respirasi aerob. 
+Sebelumnya, pada tahap glikolisis dihasilkan 2 NADH, pada dekarboksilasi 
+oksidatif dihasilkan 2NADH dan pada siklus Krebs dihasilkan 6NADH dan 
+2FADH2. Dengan demikian, jumlah keseluruhan dari ketiga tahap tersebut 
+dihasilkan 10NADH dan 2FADH2. Selain itu, dihasilkan energi sebanyak 2 
+ATP pada glikolisis dan 2 ATP pada siklus Krebs. Dengan demikian, baru 
+dihasilkan 4 ATP.
+Selanjutnya, 10 NADH dan 2 FADH2 akan menjadi bahan utama dalam 
+transpor elektron yang berlangsung di membran krista mitokondria 
+dalam suasana aerob untuk dikonversi menjadi ATP. Agar kalian dapat 
+memahami apakah transpor elektron dan berapakah energi yang 
+dihasilkan, lakukan aktivitas berikut.
+Biologi untuk SMA/MA Kelas XII
+26
+AKTIVITAS 1.10
+Menganalisis Tahapan Transpor Elektron
+1.	
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Perhatian gambar berikut! 
+Rantai transpor elektron
+transpor elektron dan pompa proton (H⁺), menciptakan 
+perbedaan konsentrasi H⁺ (konsentrasi H⁺ di ruang antar 
+membran lebih tinggi dibanding konsentrasi H⁺ di dalam matriks)
+I
+II
+III
+Q
+IV
+Cyt C
+ATP
+NADH
+NAD+
+FADH2
+FAD
+2H+ + ½O
+HO
+ADP +  P I
+ATP Sintase
+matriks
+mitokondria
+membran
+dalam
+mitokondria
+ruang
+antar
+membran
+kompleks
+protein pada
+rantai transpor
+elektron
+Kemiosmosis
+pembentukan ATP yang ditenagai
+oleh aliran H⁺ dari ruang antar
+membran kembali ke matriks
+Fosforisasi oksidatif
+Membran dalam
+Mitokondria
+  Gambar 1.19 Fosforilasi oksidatif.
+        
+3.	
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.
+a.	
+Penyusun utama rantai transpor elektron berupa kompleks 
+protein I, II, III, dan IV pada membran krista mitokondria. 
+Tanda panah berwarna emas pada Gambar 1.19 menunjukkan 
+jalur transpor elektron. Kompleks protein nomor berapakah 
+yang pertama menerima elektron dari NADH? 
+b.	
+Kompleks protein nomor berapa sajakah yang dilalui elektron 
+yang berasal dari NADH?
+c.	
+Kompleks protein nomor berapakah yang pertama menerima 
+elektron dari FADH2?
+BAB 1 Enzim dan Metabolisme 
+27
+d.	
+Kompleks protein nomor berapa sajakah yang dilalui elektron 
+yang berasal dari FADH2?
+e.	
+Bagaimanakah NADH dan FADH2 dikonversi menjadi ATP?
+f.	
+Berapakah ATP yang dihasilkan dari konversi NADH dan FADH2?
+g.	
+Berapakah NADH dan FADH2 yang dihasilkan pada proses 
+respirasi aerob?
+h.	
+Berapakah total ATP yang dihasilkan pada transpor elektron?
+i.	
+Pada Gambar 1.19, elektron yang sudah ditranspor hingga 
+mencapai kompleks protein IV akan diberikan pada O2 sebagai 
+akseptor elektron terakhir. Zat apakah yang akan terbentuk 
+dari proses tersebut? 
+j.	
+Berdasarkan 
+Gambar 
+1.19, 
+coba 
+rumuskan 
+pengertian 
+transpor elektron!
+4.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+Setelah melakukan Aktivitas 1.10, kalian telah menemukan bahwa 
+10 NADH dan 2 FADH2 dikonversi menjadi ATP. Di mana setiap 1 molekul 
+NADH akan dikonversi menjadi 3 ATP dengan menghasilkan 1 molekul 
+air. Sementara itu, setiap 1 molekul FADH2 akan dikonversi menjadi 2 ATP 
+dengan menghasilkan 1 molekul air. 
+Konversi energi diawali dari pemecahan ikatan hidrogen NADH dan 
+FADH2. Pelepasan ikatan hidrogen ini akan diikuti pemancaran energi 
+yang akan dikonversi menjadi ATP melalui kemiosmosis pada membran 
+krista mitokondria.
+Kemiosmosis terjadi karena H+ yang kaya energi dari hasil pemecahan 
+dari NADH2 dan FADH2 terus dipompa menuju ruang antarmembran yang 
+menyebabkan konsentrasi H+ dalam ruang antarmembran meningkat. 
+Selanjutnya, H+ berpindah menuruni gradien konsentrasinya dari 
+ruang antarmembran kembali lagi ke matriks. Perpindahan ini hanya 
+dapat melalui ATP sintase pada membran krista mitokondria. Aliran 
+H+ melepaskan energi bagi ATP sintase untuk melakukan fosforilasi 
+(penambahan gugus fosfat) pada ADP sehingga menghasilkan ATP. 
+Secara sederhana, berikut konversi energi dalam bentuk ATP dari 
+10NADH2 dan 2FADH2.
+Biologi untuk SMA/MA Kelas XII
+28
+	
+	
+10NADH2	
+	
+            10NAD+ + 20H+	 	
+                      30 ATP
+2FADH2	
+	
+              2FAD+ +    4H+	 	
+	
+         4 ATP
+Jika dijumlahkan	
+	
+          24H+               +                                   34 ATP
+Selanjutnya, 24H+ mendonorkan elektronnya ke oksigen sehingga 
+terbentuk senyawa 12H2O. Pada kondisi ini, H+ sebagai donor elektron dan 
+oksigen sebagai resipien elektron terakhir pada respirasi aerob. 
+Dengan demikian, tahap transpor elektron dengan bahan 10NADH2 
+dan 2FADH2 menghasilkan 34 ATP dan 12H2O. Dengan mengacu hasil 
+analisis di atas, dapat dirumuskan bahwa transpor elektron adalah 
+peristiwa konversi energi dari 10NADH2 dan 2FADH2 yang berlangsung di 
+membran krista mitokondria dalam suasana aerob dengan hasil utama 34 
+ATP dan hasil sampingan berupa 12H2O.
+Berdasarkan uraian dari keempat tahap respirasi aerob dapat 
+disimpulkan bahwa selama proses tersebut dihasilkan 38 ATP dengan 
+rincian sebagai berikut.
+Proses
+Masukan Energi
+   Hasil
+Glikolisis
+2 ATP + 2NADH2 (2 x 3 ATP)
+8 ATP
+Dekarboksilasi oksidatif
+2NADH2 (2 x 3ATP)
+6 ATP
+Siklus Krebs
+2 ATP + 6NADH2 (6 x 3 ATP) + 2FADH2 
+(2 x 2 ATP)
+24 ATP
+Jumlah Energi yang dihasilkan
+38 ATP
+AKTIVITAS 1.11
+Mengukur Tingkat Pemahaman tentang Tahapan Respirasi Aerob
+1.	
+Tentukan macam-macam variabel pembeda antara glikolisis, 
+dekarboksilasi oksidatif, siklus Krebs dan transpor elektron.
+2.	
+Buat tabel seperti di bawah ini. Kemudian, tulis perbedaan antara 
+glikolisis, dekarboksilasi oksidatif, siklus Krebs, dan transpor 
+elektron berdasarkan variabel pembedanya masing-masing.
+BAB 1 Enzim dan Metabolisme 
+29
+No
+Variabel
+Pembeda
+Glikolisis
+Dekarboksilasi
+Oksidatif
+Siklus
+Krebs
+Transpor
+Elektron
+1
+2
+3
+4
+5
+6.
+3.	
+Presentasikan tabel kalian di depan kelas.
+b.	 Fermentasi
+Pernahkan kalian melihat proses pembuatan tape dan roti? Proses 
+pembuatan tape atau roti melibatkan proses fermentasi. Apakah 
+yang sudah kalian pahami tentang fermentasi? Bagaimanakah tahap-
+tahap fermentasi? Apakah produk fermentasi yang diperlukan dalam 
+pembuatan tape dan roti? Agar dapat memahami fermentasi, lakukan 
+aktivitas berikut.
+AKTIVITAS 1.12
+Menganalisis Tahapan Fermentasi
+1.	
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Perhatian gambar berikut.
+     
+2ADP
+ATP
+NAD+
+NADH
+Glukosa (C)
+2 Etanol (2C)
+2 Asetaldehida (2C)
+2 Asam Piruvat (2C)
+2CO
+Glikolisis
+2ADP
+2ATP
+Glukosa (C)
+Glikolisis
+  + 2  P I
+P I
+2 Asam Piruvat (2C)
+2NAD+
+2NADH  + 2H+
+O-
+C
+C
+CH3
+O
+OH
+H
+O-
+C
+C
+CH3
+O
+O
+2 Asam Laktat (2C)
+ Gambar 1.20 Reaksi fermentasi
+       
+3.	
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.
+a. 	 Apakah substrat yang digunakan untuk kedua reaksi kimia 
+pada Gambar 1.20?
+(a)
+(b)
+Biologi untuk SMA/MA Kelas XII
+30
+b. 	 Apakah kedua reaksi kimia pada Gambar 1.20 melalui tahap 
+glikolisis?
+c. 	 Setelah tahap glikolisis, apakah tahapan selanjutnya pada 
+gambar (a)? Mengapa tahap ini terjadi dan berbeda dengan 
+respirasi aerob?
+d. 	 Setelah tahap glikolisis, apakah tahapan selanjutnya pada 
+gambar (b)? Mengapa tahap ini terjadi dan berbeda dengan 
+respirasi aerob?
+e. 	 Bagaimanakah hasil akhir reaksi kimia pada gambar (a)?
+f.  	 Bagaimanakah hasil akhir reaksi kimia pada gambar (b)?
+g. 	 Temukan perbedaan antara reaksi kimia gambar (a) dan (b)!
+h. 	 Apakah nama jenis fermentasi pada gambar (a)?
+i.  	 Apakah nama jenis fermentasi pada gambar (b)?
+j.	
+Berdasarkan reaksi kimia pada Gambar 1.20, coba rumuskan 
+pengertian fermentasi!
+4.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+Setelah melakukan Aktivitas 1.12, kalian menemukan bahwa ada 
+dua macam fermentasi, yaitu fermentasi alkohol dan asam laktat. 
+Substrat kedua fermentasi tersebut berupa glukosa. Pada tahap pertama 
+fermentasi alkohol dan asam laktat, glukosa akan mengalami glikolisis 
+yang menghasilkan 2 asam piruvat, 2 ATP, dan 2NADH. 
+Tahap kedua fermentasi alkohol, yaitu dekarboksilasi nonoksidatif. 
+Hal ini terjadi karena tidak tersedianya oksigen pada membran krista 
+mitokondria. Dekarboksilasi nonoksidatif merupakan reaksi reduksi 
+2 asam piruvat (2C3) oleh 2NADH menjadi 2 etil alkohol atau 2 etanol 
+(2C2) dengan hasil sampingan berupa 2CO2. Gas karbon dioksida inilah 
+yang berfungsi mengembangkan adonan roti. Konsekuensi dari proses 
+ini hanya dihasilkan 2 ATP, lebih sedikit dibandingkan respirasi aerob. 
+Berdasarkan hasil akhirnya yang berupa senyawa alkohol maka disebut 
+dengan fermentasi alkohol.
+Adapun tahap kedua fermentasi asam laktat juga dalam kondisi tanpa 
+oksigen. Pada tahap ini terjadi reduksi 2 asam piruvat (2C3) oleh 2 NADH 
+menjadi 2 asam laktat (2C3) sehingga tidak ada pelepasan 2CO2. Oleh 
+karena hasil akhirnya berupa senyawa asam laktat maka disebut dengan 
+BAB 1 Enzim dan Metabolisme 
+31
+fermentasi asam laktat. Fermentasi asam laktat terjadi pada sel-sel otot 
+ketika ketersediaan oksigen sedikit. 
+Berdasarkan uraian di atas dapat disimpulkan bahwa fermentasi 
+alkohol adalah pemecahan molekul organik (glukosa) yang berlangsung 
+secara anaerob dengan menghasilkan 2 etanol, 2 ATP, dan 2CO2. Adapun 
+fermentasi asam laktat adalah pemecahan molekul organik (glukosa) yang 
+berlangsung secara anaerob dengan menghasilkan 2 asam laktat dan 2 ATP.
+Secara sederhana, rangkaian tahapan fermentasi alkohol dan asam 
+laktat digambarkan pada bagan berikut.
+1.	
+Fermentasi alkohol: C6H12O6           2C2H5OH + 2CO2 + 2ATP
+	
+	
+	
+	
+Glukosa             2PGAL            2 As. Piruvat            2 AsetylKoA            2 Etanol
+       (C6)            (2C3)                    (2C3)                      (2C2)                    (2C2)
+2ATP 2ADP
+Glikolisis
+Dekarboksilasi Nonoksidatif
+4ADP 4ATP
+2CO2, 2KoA  ----  2KoA
+2NAD   2NADH2
+--------------------- 2NADH2 2NAD+
+2.	
+Fermentasi asam laktat: C6H12O6           2C3H6O3 + 2ATP
+	
+	
+	
+	
+Glukosa                2PGAL              2 As. Piruvat              2 Asam Laktat
+         (C6)                    (2C3)                    (2C3)                               (2C3)
+2ATP 2ADP
+Glikolisis
+Reduksi Asam Piruvat
+4ADP 4ATP
+2NAD   2NADH2 ---- 2NADH2 2NAD+
+Berdasarkan bagan fermentasi di atas, kalian memahami bahwa 
+fermentasi 
+terjadi 
+karena 
+ketidaktersediaan 
+O2 
+sehingga 
+hasil 
+energinya rendah. 
+Setelah mempelajari tahapan respirasi aerob dan anaerob, ukur 
+tingkat pemahaman kalian dengan melakukan aktivitas berikut.
+Biologi untuk SMA/MA Kelas XII
+32
+AKTIVITAS 1.13
+Mengukur 
+Tingkat 
+Pemahaman 
+tentang 
+Respirasi 
+Aerob 
+dan Anaerob
+1. 
+Tentukan macam-macam variabel pembeda antara respirasi aerob 
+dengan anaerob!
+2. 
+Buat tabel seperti di bawah ini. Kemudian, tulis perbedaan antara 
+respirasi aerob dengan anaerob berdasarkan variabel pembedanya 
+masing-masing.
+No
+Variabel Pembeda
+Respirasi Aerob
+Respirasi Anaerob
+1
+2
+3
+4
+5
+3. 
+Presentasikan tabel kalian di depan kelas.
+3. Fotosintesis
+Ketika belajar struktur dan fungsi sel di kelas XI, kalian telah mempelajari 
+organel kloroplas. Masih ingatkah kalian bagaimana struktur kloroplas? 
+Struktur kloroplas terdiri atas dua bagian utama, yaitu grana dan stroma. 
+Perhatikan gambar berikut.
+  
+Membran Tilakoid
+Membran luar
+Membran dalam
+Stroma
+Granum
+Lamella
+ Gambar 1.21 Struktur kloroplas.
+ 
+Grana terbungkus oleh membran tilakoid dan mengandung klorofil. 
+Macam klorofil di dalam kloroplas, yaitu klorofil a, b, dan karotenoid. 
+BAB 1 Enzim dan Metabolisme 
+33
+Klorofil a (C55H72O5N4Mg) berperan menyerap terutama cahaya merah, 
+biru, dan ungu. Klorofil b (C55H70O5N4Mg) berperan menyerap cahaya biru 
+dan oranye. Adapun karotenoid merupakan pigmen kuning oranye yang 
+menyerap cahaya biru-hijau. 
+Pada membran tilakoid terdapat penangkap cahaya yang disebut 
+fotosistem. Ada dua pusat reaksi, yaitu fotosistem I (FS I) dan fotosistem II 
+(FS II). Pada FS I mengandung klorofil a dan karotenoid sehingga mampu 
+menyerap energi cahaya maksimum pada panjang gelombang 700 nm (P 
+700). Adapun pada FS II mengandung klorofil a dan klorofil b (P 680) yang 
+efektif menyerap cahaya dengan panjang gelombang 680 nm.
+Berdasarkan analisis struktur fungsi kloroplas di atas terlihat bagian 
+grana terjadi reaksi fotosintesis yang membutuhkan energi cahaya (foton) 
+karena memiliki pigmen klorofil dan pigmen lainnya. Adapun di stroma 
+tidak membutuhkan cahaya. Reaksi fotosintesis yang membutuhkan 
+cahaya di grana disebut reaksi terang. Dan reaksi fotosintesis yang tidak 
+membutuhkan cahaya di stroma disebut reaksi gelap. Berikut bagan reaksi 
+terang dan reaksi gelap.
+	
+	
+reaksi 
+gelap
+Reaksi 
+terang
+Stroma
+Cahaya
+ADP
+ATP
+NADPH  
+  P I
+  + 
+NADP+
+H2O
+O2
+CO2
+C6H12O6
+Gelap
+Tilakoid
+Kloroplas
+	Gambar 1.22 Keterkaitan reaksi terang dan reaksi gelap pada fotosintesis.
+	
+a.	 Reaksi terang
+Untuk memahami apa itu reaksi terang, bagaimana tahapannya, dan 
+apakah hasil reaksinya, lakukan aktivitas berikut.
+Biologi untuk SMA/MA Kelas XII
+34
+AKTIVITAS 1.14
+Menganalisis mengenai Reaksi Terang
+1. 
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2. 
+Perhatian gambar reaksi terang nonsiklik berikut.
+ 
+ 
+Akseptor
+Primer
+Akseptor
+Primer
+Pq
+Pc
+Fd
+Foton
+Foton
+Kompleks
+sitrokom
+NADP+
+Reduktase
+ATP
+NADPH  
+NADP+
+H2O
+O2
+½
++
+H+
+2
++
+H+
+Fotosistem II
+Fotosistem I
+2 e-
+2 e-
+2 e-
+2 e-
+ 
+ 
+ Gambar 1.23 Fotofosforilasi nonsiklik.
+3. 
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.  
+a. 
+Apa bahan utama yang digunakan untuk reaksi terang?
+b. 
+Apakah jenis energi yang digunakan untuk reaksi terang?
+c. 
+Ada berapakah tahapan utama pada reaksi terang nonsiklik?
+d. 
+Apakah yang terjadi pada tahap aktivasi klorofil?
+e. 
+Apakah yang terjadi pada tahap fotofosforilasi nonsiklik?
+f. 
+Apakah yang terjadi pada tahapan fotolisis?
+g. 
+Apakah hasil akhir pada reaksi terang?
+h. 
+Apakah tujuan reaksi terang?
+4. 
+Berdasarkan 
+analisis 
+kalian, 
+coba 
+rumuskan 
+pengertian 
+reaksi terang.
+5. 
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+Setelah melakukan Aktivitas 1.14, kalian menemukan bahwa bahan 
+utama dalam reaksi terang berupa H2O. Adapun energi yang dibutuhkan 
+berupa foton. Reaksi terang fotosintesis berlangsung dalam beberapa 
+tahap. Perhatikan proses reaksi terang pada Gambar 1.23 berikut. 
+BAB 1 Enzim dan Metabolisme 
+35
+	 	
+H2O
+O2
+½
+Pc
+Fd
+Pq
+NADPH  
++
+H+
+2
+H+
+4
+H+
+4
+Cahaya
+Cahaya
+H+
+ATP
+NADP+ +
+H+
+NADP+
+Reduktase
+ADP
+  P I
+  + 
+ATP
+Synthase
+Stroma
+Konsentrasi H+ rendah
+Grana
+Konsentrasi H+ tinggi
+Stroma
+Konsentrasi H+ rendah
+Membran Tilakoid
+Sitokrom
+e- e-
+Fotosistem II
+Fotosistem I
+Siklus
+Calvin
+1
+2
+3
+	Gambar 1.24 Reaksi terang.
+Berikut empat tahap dalam reaksi terang fotosintesis. 
+1) Aktivasi klorofil
+Tahap awal fotosintesis dimulai ketika klorofil dari FS II (P680) menerima 
+energi cahaya berupa foton. Energi ini digunakan untuk menambah energi 
+bagi elektron pada FS II, elektron kaya energi tereksitasi (dikeluarkan) 
+dan 
+berpindah-pindah 
+melalui 
+akseptor-akseptor 
+elektron 
+untuk 
+dimanfaatkan energinya. 
+2)	 Fotolisis
+Karena FS II telah kehilangan elektronnya, elektron tersebut digantikan 
+oleh elektron yang berasal dari fotolisis air. Fotolisis adalah peristiwa 
+pemecahan H2O menggunakan foton menjadi 
+. Oksigen yang 
+dihasilkan pada fotosintesis merupakan produk fotolisis air.
+3)	 Fotofosforilasi nonsiklik
+Elektron pada FS II yang tereksitasi berpindah menuju FS I melalui 
+rantai transpor elektron yang tersusun atas plastokuinon (Pq), kompleks 
+sitokrom, dan protein yang disebut plastosianin (Pc). Ketika elektron 
+Biologi untuk SMA/MA Kelas XII
+36
+melalui sitokrom, energinya digunakan untuk membentuk ATP. Energi dari 
+elektron digunakan oleh sitokrom untuk memindahkan H+ dari stroma 
+ke ruang tilakoid sehingga konsentrasi H+ di ruang tilakoid meningkat. 
+Peningkatan konsentrasi H+ memicu kemiosmosis, yaitu perpindahan H+ 
+menuruni gradien konsentrasinya kembali ke stroma. Perpindahan ini 
+hanya dapat terjadi melalui ATP sintase. Ketika H+ melalui ATP sintase, 
+energinya digunakan untuk menambahkan gugus fosfat ada ADP 
+membentuk ATP. 
+Selanjutnya, elektron akan menuju dan masuk ke FS I (P700). 
+Terserapnya foton oleh FS I  menyebabkan elektron tersebut tereksitasi 
+kembali dan diterima akseptor feredoksin. Kemudian, elektron ditransfer 
+ke NADP+ yang juga mengikat H+ membentuk NADPH (Nicotin Adenin 
+Dinukleotida Phosfat Hidrogen). Proses pembentukan NADPH dikatalis 
+oleh enzim NADP+ reduktase. Lintasan elektron berenergi tinggi yang 
+berasal dari FS II dan menuju ke FS I dan berakhir di NADPH disebut 
+fotofosforilasi nonsiklik. 
+4)	 Fotofosforilasi siklik
+Untuk 
+memahami 
+tahapan 
+dalam 
+fotofosforilasi 
+siklik, 
+lakukan 
+kegiatan berikut.
+AKTIVITAS 1.15
+Menganalisis Mengenai Fosforilasi Siklik
+1.	
+Lakukan kegiatan ini dengan teman sebangku kalian.
+2.	
+Amati gambar berikut.
+	
+	
+ATP
+Fd
+Pc
+Kompleks
+sitrokom
+Akseptor
+Primer
+Pq
+Fd
+Akseptor
+Primer
+NADP+
+Reduktase
+NADPH  
+NADP+
++ H+
+Fotosistem II
+Fotosistem I
+	
+	
+  Gambar 1.25 Fotofosforilasi siklik.
+BAB 1 Enzim dan Metabolisme 
+37
+3.	
+Jawablah pertanyaan-pertanyaan berikut.
+a.	
+Tuliskan akseptor-akseptor elektron yang menerima elektron 
+dari FS I pada fotofosforilasi siklik?
+b.	
+Apakah produk yang dihasilkan dalam fotofosforilasi siklik?
+c.	
+Apa perbedaan fotofosforilasi siklik dan nonsiklik? Jelaskan!
+4.	
+Berdasarkan analisis kalian, coba simpulkan apa yang dimaksud 
+dengan fotofosforilasi siklik. 
+5.	
+Buat tabel perbedaan antara fotofosforilasi nonsiklik dan siklik!
+Setelah melakukan Aktivitas 1.15, kalian telah memahami bahwa 
+elektron yang telah memasuki FS I dapat memiliki jalur siklik ketika 
+elektron tersebut diberikan ke sitokrom oleh feredoksin bukan pada 
+NADP+. Oleh karena itu, NADPH tidak dihasilkan pada fotofosforilasi siklik. 
+Ketika elektron melalui sitokrom, energinya digunakan untuk membentuk 
+ATP melalui kemiosmosis. Selanjutnya, elektron tersebut berpindah ke Pc 
+untuk dikembalikan ke FS. Elektron tersebut akan tereksitasi kembali oleh 
+foton dan akan memiliki siklus yang sama.
+Berdasarkan 4 tahapan reaksi terang di atas terlihat bahwa ATP 
+dihasilkan pada saat fotofosforilasi siklik, sedangkan fotofosforilasi 
+nonsiklik menghasilkan ATP dan NADPH. Hasil sampingan fotosintesis 
+berupa O2 dihasilkan pada saat fotolisis. Selain itu, pada reaksi terang 
+terjadi transformasi energi cahaya (foton) menjadi energi kimia berupa 
+ATP dan NADPH yang akan dijadikan sumber energi untuk reaksi gelap. 
+Berdasarkan hal tersebut dapat merumuskan bahwa tujuan reaksi terang 
+untuk menyediakan energi yang akan digunakan pada tahap fotosintesis 
+reaksi gelap. 
+Berdasarkan Aktivitas 1.14 dan 1.15 dapat dirumuskan pengertian 
+reaksi terang adalah proses transformasi energi cahaya (foton) menjadi 
+energi kimia yang digunakan pada reaksi gelap. Reaksi terang dapat 
+terjadi melalui fotofosforilasi nonsiklik dan siklik. 
+b.	 Reaksi Gelap
+Untuk memahami lebih dalam apa itu reaksi gelap, bagaimana tahapannya, 
+dan apa hasil reaksinya, lakukan aktivitas berikut.
+Biologi untuk SMA/MA Kelas XII
+38
+AKTIVITAS 1.16
+Menganalisis Mengenai Reaksi Gelap
+1.	
+Bentuklah kelompok yang terdiri atas 3 - 4 orang.
+2.	
+Perhatikan gambar berikut.
+	
+	
+6 C O2
+(12 C 3)
+(6 C 3)
+(10 C 3)
+(2 C 3)
+(12 C 3)
+ADP
+ATP
+NADPH
+NADP
+6
+6
+ADP
+12
+ATP
+12
+12
+12
+2PGAL
+12PGA
+10PGAL
+12PGAL
+6RuBP
+C6H12O6
+GLUKOSA
+REDUKSI
+FIKSASI
+REGENERASI
+Siklus
+Calvin
+SINTESIS
+REAKSI
+GELAP
+Rubisco
+	
+	
+  Gambar 1.26 Siklus Calvin.
+3.	
+Jawablah pertanyaan-pertanyaan berikut dengan berdiskusi.
+a.	
+Apakah bahan utama yang digunakan pada reaksi gelap? 
+b. 
+Senyawa apakah yang berfungsi untuk memfiksasi CO2?
+c.	
+Ada berapakah tahapan utama pada reaksi terang?
+d. 
+Apakah yang terjadi pada tahapan fiksasi CO2?
+e.	
+Apakah yang terjadi pada tahapan reduksi?
+f.	
+Apakah yang terjadi pada tahapan sintesis?
+g.	
+Apakah yang terjadi pada tahapan regenerasi?
+h.	
+Pada tahapan mana ATP dimanfaatkan?
+i.	
+Pada tahapan mana NADPH dimanfaatkan?
+j.	
+Apakah hasil akhir reaksi gelap?
+k.	
+Apakah tujuan reaksi gelap?
+4.	
+Berdasarkan analisis yang telah kalian lakukan, coba rumuskan 
+pengertian reaksi gelap!
+5.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+BAB 1 Enzim dan Metabolisme 
+39
+Setelah melakukan Aktivitas 1.16, kalian menemukan bahwa bahan 
+utama untuk membentuk 1 molekul glukosa dalam reaksi gelap berupa 
+6CO2. Adapun senyawa fiksator 6CO2 berupa gula berkarbon lima yang 
+disebut ribulose bifosfat (RuBP). Energi yang dibutuhkan berupa 18 ATP 
+dan 12 NADPH yang berasal dari reaksi terang. Reaksi gelap fotosintesis 
+yang di stroma berlangsung dalam beberapa tahap, yaitu fiksasi, reduksi, 
+sintesis, dan regenerasi. Berikut 4 tahap reaksi terang.
+1)	 Fiksasi karbon
+Pada fase fiksasi karbon, enzim RuBP karboksilase-oksigenase atau disebut 
+rubisco mengkatalis pengikatan molekul 6 CO2 (6C1) pada 6 RuBP (6C5). 
+Proses ini menghasilkan molekul berkarbon tiga yang tidak stabil, yaitu 
+asam fosfogliserat (12PGA).
+2)	 Reduksi
+Pada fase ini, 12 PGA direduksi oleh 2NADH2 dan ATP menjadi 12 PGAL 
+(phospho gliseraladehid).
+3)	 Sintesis
+Senyawa 12 PGAL pada fase ini akan terpecah menjadi 2 PGAL dan 10 PGAL. 
+2PGAL (2C3) akan berikatan membentuk senyawa C6H12O6 (C6). Oleh karena 
+tahapan ini terjadi pembentukkan glukosa maka disebut tahapan sintesis.
+4)	 Regenerasi 
+Pada fase ini, 10 PGAL (10C3) akan berubah bentuk menjadi 6RuBP (6C5) 
+lagi dengan bantuan ATP sehingga tahapannya disebut regenerasi.
+Berdasarkan analisis di atas dapat dirumuskan pengertian reaksi 
+gelap adalah proses sintesis glukosa dengan bantuan energi kimia yang 
+berlangsung di stroma dalam empat tahap reaksi, yaitu fiksasi, reduksi, 
+sintesis dan regenerasi. Setelah selesai mempelajari reaksi terang dan 
+reaksi gelap fotosintesis, uji pemahaman kalian dengan melakukan 
+aktivitas berikut.
+Biologi untuk SMA/MA Kelas XII
+40
+AKTIVITAS 1.17
+Mengukur Pemahaman mengenai Reaksi Terang dan Gelap pada 
+Fotosintesis
+1.	
+Tentukan macam-macam variabel pembeda antara reaksi terang 
+dan gelap.
+2.	
+Tulis perbedaan antara reaksi terang dan gelap berdasarkan 
+variabel pembedanya masing-masing pada tabel berikut. 
+No
+Variabel Pembeda
+Reaksi Terang
+Reaksi Gelap
+1
+2
+3
+4
+5
+3.	
+Presentasikan tabel kalian di depan kelas!
+c. 	 Faktor-Faktor yang Memengaruhi Fotosintesis
+Proses berlangsungnya fotosintesis dipengaruhi oleh beberapa faktor. 
+Faktor apa sajakah yang memengaruhi kecepatan fotosintesis? Lakukan 
+aktivitas berikut. 
+AKTIVITAS 1.18
+Mengetahui Faktor yang Memengaruhi Fotosintesis
+Tujuan: 
+1.	
+mengetahui pengaruh intensitas cahaya, konsentrasi CO2, dan 
+perbedaan suhu terhadap kecepatan fotosintesis.
+2.	
+membuktikan bahwa fotosintesis menghasilkan amilum.
+Alat dan bahan:
+1.	
+gelas kimia	 	
+	
+6.	
+ember 	 
+2.	
+corong kaca		
+	
+7.	
+neraca 	 
+3.	
+tabung reaksi	
+	
+8.	
+stop watch 	 
+4.	
+kawat penyangga	
+9.	
+pemanas 
+5.	
+benang	 	
+	
+	
+10.	 pinset 	
+BAB 1 Enzim dan Metabolisme 
+41
+11. cawan petri  
+ 
+16.  es batu
+12.   plastik  
+ 
+ 
+18.  alumunium foil
+13.   penggaris 
+ 
+ 
+17.  daun keladi/daun ketela pohon 
+14.   NaHCO3 
+ 
+ 
+19.  alkohol 
+15.  hidrila/Chara sp. 
+20. larutan lugol/iodin
+Langkah percobaan:
+1. 
+Bentuk kelompok yang terdiri atas 3 - 4 orang.
+2. 
+Siapkan alat dan bahan untuk percobaan.
+3. 
+Tentukan permasalahan dalam percobaan.
+a. 
+Apakah perbedaan intensitas cahaya berpengaruh pada 
+kecepatan fotosintesis?
+b. 
+…………………………………………………………………
+c. 
+…………………………………………………………………
+d. 
+………………………………………………………………….
+5. 
+Tulis hipotesis berdasarkan permasalahan dalam percobaan.
+a. 
+………………………………………………………………..
+b. 
+…………………………………………………………………
+c. 
+…………………………………………………………………
+d. 
+…………………………………………………………………
+6. 
+Buat perangkat percobaan dengan mengikuti langkah berikut.
+a. 
+Timbang Hydrilla/Chara sp. seberat 3 gram. Lalu, ikat menjadi 
+satu pada bagian batang menggunakan benang.
+b. 
+Masukkan Hydrilla/Chara sp. ke dalam mulut corong kaca dan 
+benang ikatan dimasukkan ke dalam leher corong kaca.
+c. 
+Masukkan corong kaca berisi Hydrilla/Chara sp. ke dalam gelas 
+kimia dengan posisi mulut corong kaca di bagian bawah.
+d. 
+Masukkan perangkat gelas kimia berisi corong kaca 
+ke dalam ember yang berisi air penuh.
+e. 
+Tanpa mengeluarkan perangkat percobaan 
+dari dalam ember, tutup leher corong kaca 
+dengan tabung reaksi.
+f. 
+Masih di dalam air, tahan posisi corong 
+kaca agar menggantung dalam gelas kimia 
+dengan 
+kawat 
+penyangga. 
+Keluarkan 
+perangkat tersebut dari ember dan letakkan 
+di atas meja.
+ Gambar 1.27 
+Perangkat percobaan 
+Ingenhouz.
+Biologi untuk SMA/MA Kelas XII
+42
+Pengaruh Cahaya pada Fotosintesis
+a.	
+Buatlah 3 perangkat percobaan dan beri label A, B, dan C.
+b.	
+Berikan perlakuan pada perangkat A dengan meletakkan dalam 
+ruang gelap, perangkat B di tempat teduh, dan perangkat C di 
+tempat yang terik cahaya. 
+c.	
+Hitung jumlah gelembung udara yang muncul setiap 3 menit 
+dengan 3 kali pengulangan.
+d.	
+Tulis hasil pengamatan pada tabel berikut!
+Ulangan 
+Pengamatan
+Jumlah Gelembung Udara
+Gelap
+(A)
+Teduh
+(B)
+Terik Cahaya
+(C)
+1
+2
+3
+Rerata
+e.	
+Lalu, jawablah pertanyaan berikut!
+1)	
+Bagaimanakah jumlah gelembung udara di tempat gelap 
+dan teduh dibandingkan di tempat terik cahaya?
+2)	
+Apakah proses yang dilakukan tumbuhan sehingga 
+gelembung gas muncul pada perangkat percobaan?
+3)	
+Berdasarkan hasil percobaan, kesimpulan apakah yang 
+kalian dapatkan?
+Pengaruh Konsentrasi CO2 pada Fotosintesis
+a.	
+Buat 3 perangkat percobaan dan beri label C, D, dan E.
+b.	
+Berikan perlakuan dengan menambahkan NaHCO3 pada 
+perangkat D sebanyak 2 gram dan pada perangkat E sebanyak 
+4 gram hingga larut di dalam air. Adapun untuk perangkat C 
+tidak ditambahkan NaHCO3.
+c.	
+Letakkan 3 perangkat percobaan tersebut di tempat yang 
+terik cahaya.
+d.	
+Hitung jumlah gelembung udara yang muncul setiap 3 menit 
+dengan 3 kali pengulangan.
+e.	
+Tulis hasil pengamatan pada tabel berikut.
+BAB 1 Enzim dan Metabolisme 
+43
+Ulangan 
+Pengamatan
+Jumlah Gelembung Udara
+0 gram
+NaHCO3
+(C)
+2 gram NaHCO3
+(D)
+4 gram NaHCO3
+(E)
+1
+2
+3
+Rerata
+f.	
+Lalu, jawablah pertanyaan berikut!
+1)	
+Bagaimanakah jumlah gelembung udara pada perangkat 
+percobaan D dan E dibandingkan dengan perangkat 
+percobaan C?
+2)	
+Bagaimanakah jumlah gelembung gas yang muncul pada 
+perangkat percobaan D dan E?
+3)	
+Apakah tujuan penambahan NaHCO3 pada perang-
+kat D dan E?
+4)	
+Berdasarkan hasil percobaan, kesimpulan apa yang 
+kalian dapatkan?
+Pengaruh Suhu pada Fotosintesis
+a.	
+Buat 3 perangkat percobaan dan beri label F, G, dan H.
+b.	
+Rendam perangkat F di dalam baskom berisi es batu hingga 
+suhunya kurang lebih 100C, biarkan perangkat G pada suhu 
+kamar, dan panaskan perangkat H hingga suhunya kurang 
+lebih 700C.
+c.	
+Hitung jumlah gelembung udara yang muncul setiap 3 menit 
+dengan 3 kali pengulangan.
+d.	
+Tulis hasil pengamatan pada tabel berikut!
+Ulangan 
+Pengamatan
+Jumlah Gelembung Udara
+100C
+(F)
+280C
+(G)
+700C
+(H)
+1
+2
+3
+Rerata
+e.	
+Lalu, jawablah pertanyaan berikut!
+Biologi untuk SMA/MA Kelas XII
+44
+1)	
+Bagaimanakah jumlah gelembung udara pada perangkat 
+percobaan F dan H dibandingkan dengan perangkat G?
+2)	
+Apakah tujuan mengkondisikan perangkat pada suhu 
+rendah dan suhu tinggi?
+3)	
+Berdasarkan hasil percobaan, kesimpulan apa yang 
+kalian dapatkan?
+Pengujian Oksigen
+a. 	 Ambil tabung reaksi yang sudah terdapat ruang udaranya 
+pada perangkat B dengan memasukkan tangan ke perangkat 
+dan gunakan ibu jari untuk menutup mulut tabung. Lakukan 
+dengan hati-hati.
+b. 	 Ukur panjang kolom udara pada ujung tabung reaksi dengan 
+benang dan penggaris.
+c. 	 Siapkan lidi membara. Lalu, balik tabung dan angkat keluar 
+dari gelas beker. Buka ibu jari yang menutup mulut tabung. 
+Lalu, masukkan lidi membara ke arah mulut tabung.
+d. 	 Amati apa yang terjadi dan catatlah hasilnya pada tabel berikut.
+Tinggi Ruang udara
+Nyala Api
+e.	
+Jawablah pertanyaan berikut!
+1)	
+Mengapa bara api pada lidi ketika dimasukkan pada ruang 
+udara di dalam tabung reaksi menjadi menyala?
+2)	
+Berdasarkan hasil percobaan, kesimpulan apa yang 
+kalian dapatkan?
+Pembuktian Amilum Hasil Fotosintesis
+a.	
+Pilih satu helai daun keladi/daun ketela pohon. Lalu, bungkus 
+sebagian daun dengan alumunium foil.
+b.	
+Biarkan terkena cahaya matahari selama 4 hari.
+c.	
+Ambil daun keladi/daun ketela pohon.
+d.	
+Rebus daun dalam alkohol menggunakan gelas kimia ukuran 
+kecil di atas penangas air sampai warna hijau menghilang.
+e.	
+Angkat daun yang sudah pucat dengan pinset dan letakkan 
+dalam cawan petri yang berisi larutan lugol/iodin.
+f.	
+Amati perbedaan warna yang terjadi antara daun yang 
+dibungkus alumunium foil dan yang tidak dibungkus. 
+BAB 1 Enzim dan Metabolisme 
+45
+ 
+ 
+ 
+ 
+Almunium Foil
+Alkohol
+Air
+ 
+ 
+ 
+ 
+ Gambar 1.28 Alur percobaan pembuktian amilum hasil fotosintesis.
+ 
+g. 
+Catat hasil pengamatan kalian pada tabel berikut.
+Daun Dibungkus
+Daun Tak Dibungkus
+h. 
+Jawablah pertanyaan berikut!
+1) 
+Mengapa daun yang dibungkus alumunium foil tidak 
+berubah warna menjadi berwarna biru kehitaman setelah 
+dimasukkan dalam larutan iodine?
+2) 
+Mengapa 
+daun 
+yang 
+tidak 
+dibungkus 
+alumunium 
+foil berubah warna menjadi biru kehitaman setelah 
+dimasukkan dalam larutan iodine?
+3) 
+Apakah yang menyebabkan warna daun yang tidak 
+dibungkus alumunium foil berubah warna menjadi biru 
+kehitaman?
+4) 
+Berdasarkan hasil percobaan, apa yang dapat kalian 
+simpulkan?
+Setelah melakukan Aktivitas 1.18, kalian menemukan gejala 
+terjadinya fotosintesis ditandai dengan munculnya gelembung udara 
+yang menunjukkan dihasilkannya O2. Hal ini dibuktikan ketika O2 hasil 
+fotosintesis dapat menyebabkan bara pada lidi menjadi nyala api. Adapun 
+pengaruh faktor cahaya, CO2, dan suhu pada kecepatan fotosintesis 
+diuraikan sebagai berikut.
+1. 
+Perbedaan intensitas cahaya
+Perbedaan perlakuan intensitas cahaya terbukti mempercepat 
+fotosintesis, di mana di tempat gelap tidak dihasilkan O2 sedangkan di 
+Biologi untuk SMA/MA Kelas XII
+46
+tempat teduh dan terik cahaya banyak dihasilkan O2. Di tempat gelap 
+tidak ada foton yang diserap untuk berlangsungnya reaksi terang 
+yang menghasilkan O2 dalam bentuk gelembung udara.
+2. 
+Perbedaan konsentrasi CO2
+Penambahan konsentrasi CO2 dilakukan dengan penambahan 
+NaHCO3. Di mana NaHCO3 di dalam air akan terurai menjadi NaOH dan 
+CO2. Penambahan volume CO2 terbukti dapat meningkatkan jumlah 
+gelembung O2 sebagai indikasi ada peningkatan aktivitas fotosintesis. 
+3. 
+Perbedaan suhu
+Perbedaan suhu juga terbukti berpengaruh pada kecepatan 
+fotosintesis, di mana pada suhu rendah dan tinggi tidak terjadi 
+fotosintesis. Pada suhu rendah dan tinggi akan dapat merusak sistem 
+enzim pada reaksi terang sehingga tidak dapat berlangsung dan tidak 
+menghasilkan O2.
+Selain itu, pembuktian jika fotosintesis menghasilkan amilum terbukti 
+bagian daun yang terkena cahaya dan melakukan fotosintesis ketika diuji 
+dengan iodin menjadi berwarna biru kehitaman. Hal ini membuktikan 
+bahwa fotosintesis menghasilkan amilum.
+Untuk membuktikan bahwa dalam fotosintesis diperlukan klorofil, 
+cahaya matahari, dan menghasilkan oksigen dilakukan dengan percobaan 
+Engelmann. Perhatikan gambar berikut!
+ 
+Bakteri
+Kloroplas pada
+sel Spirogyra
+ Gambar 1.29 Percobaan Engelmann.
+ 
+Pada gambar di atas terlihat kloroplas yang disinari akan melakukan 
+fotosintesis dan menghasilkan O2. Ketersediaan O2 menyebabkan 
+populasi bakteri aerob akan mendekat ke arah kloroplas spiral. Dengan 
+BAB 1 Enzim dan Metabolisme 
+47
+demikian, terbukti bahwa fotosintesis membutuhkan cahaya, klorofil, dan 
+menghasilkan O2.
+d. 	 Fotorespirasi
+Cuaca panas dan kering menyebabkan sebagian stomata pada tumbuhan 
+C3 tertutup sehingga jumlah CO2 yang masuk ke dalam daun menurun. 
+Di sisi lain, enzim rubisco juga memiliki kemampuan untuk mengikat 
+O2. Ketika konsentrasi CO2 pada rongga udara daun menurun dan O2 
+meningkat, rubisco memasukkan O2 pada siklus Calvin menggantikan CO2. 
+Produk reaksi di atas segera terurai menghasilkan senyawa berkarbon 
+dua. Senyawa tersebut meninggalkan kloroplas dan diubah menjadi CO2 
+oleh peroksisom dan mitokondria. Peristiwa ini disebut fotorespirasi 
+karena terjadi pada kondisi terang (photo), menggunakan oksigen, dan 
+menghasilkan CO2 seperti respirasi.
+Fotorespirasi berbeda dengan respirasi karena tidak menghasilkan 
+ATP dan berbeda dengan fotosintesis karena tidak menghasilkan 
+gula. Dengan kata lain, fotorespirasi merugikan karena menyebabkan 
+menurunnya hasil fotosintesis. 
+e.	 Tumbuhan C3, C4, dan CAM
+Pada sebagian besar tumbuhan, siklus Calvin diawali dengan reaksi 
+pengikatan CO2 pada senyawa RuBP menggunakan enzim rubisco. 
+Tumbuhan tersebut disebut tumbuhan C3 karena molekul organik yang 
+pertama kali terbentuk  memiliki tiga karbon, yaitu PGA (C3). Contohnya, 
+tanaman padi, gandum, dan kedelai. 
+Tumbuhan C4 diberi nama demikian karena pada fiksasi CO2 untuk 
+yang pertama di mesofil menghasilkan asam oksaloasetat (C4). Adapun 
+fiksasi kedua di seludang berkas pengangkut yang  menghasilkan PGA 
+(C3). Contohnya, tanaman tebu dan jagung.
+Pada tumbuhan kaktus dan nanas, stomata terbuka pada malam 
+hari dan menutup pada siang hari. Menutupnya stomata pada siang hari 
+mencegah tumbuhan kehilangan terlalu banyak air tetapi hal ini juga 
+menghalangi masuknya CO2 ke dalam daun. Pada malam hari, ketika 
+stomata terbuka, tumbuhan ini mengambil CO2 dan menyimpannya 
+dalam bentuk senyawa asam organik. Fiksasi karbon dengan cara ini 
+disebut crassulacean acid metabolism (CAM). Sel-sel mesofil tumbuhan 
+Biologi untuk SMA/MA Kelas XII
+48
+CAM menyimpan senyawa asam organik yang dibuat pada malam hari di 
+dalam vakuola.  Pada siang hari, ketika reaksi terang menyuplai ATP dan 
+NADPH untuk siklus Calvin, CO2 dilepaskan dari senyawa asam organik 
+yang dibentuk pada malam sebelumnya untuk membentuk gula. 
+Secara singkat, berikut perbandingan antara tumbuhan C3, C4, dan CAM.
+ 
+ 
+Stomata CO2
+Stomata CO2
+Stomata CO2
+Fotosintesis C3    Fotosintesis C4    Fotosintesis CAM
+RuBP
+Glukosa
+PGA
+Siklus
+Calvin
+RuBP
+Glukosa
+PGA
+Siklus
+Calvin
+RuBP
+PGA
+Siklus
+Calvin
+Asam malat
+Asam piruvat
+CO2
+PEP
+Oxaloacetate
+HCO3
+C4
+Asam malat
+Malat
+Malat
+Asam
+piruvat
+CO2
+Sel mesofil             Sel seludang pembuluh
+Malam hari                  Siang hari
+Padi
+Jagung
+Nanas
+Asam malat
+Asam piruvat
+Glukosa
+ Gambar 1.30 Perbandingan fiksasi tumbuhan C3,C4, dan CAM.
+ 
+f. 
+Kemosintesis
+Beberapa bakteri yang tidak berklorofil mampu mensintesis glukosa 
+dengan sumber energi yang bersumber dari peristiwa oksidasi molekul 
+anorganik. Proses semacam ini disebut kemosintesis. Kemiosmosis dapat 
+dilakukan oleh bakteri kemosintetik.
+BAB 1 Enzim dan Metabolisme 
+49
+1)	
+Bakteri besi dari genus Ferrobacillus yang mengoksidasi Fe2+ menjadi 
+Fe3+ untuk menghasilkan energi. Reaksinya sebagai berikut.
+Fe 2++ 4H+ + O2	
+	
+Fe 3++ 2H2O + Energi
+Selanjutnya, energi yang dihasilkan digunakan untuk mensintesis 
+glukosa dengan reaksi sebagai berikut.      
+                          
+	
+	
+             E. Kimia
+6CO2  + 6H2O 	
+	
+	
+C6H12O6  + 6O2
+2)	
+Bakteri nitrifikasi, yaitu Nitrosomonas dan Nitrosococcus yang 
+mengoksidasi amoniak menjadi asam nitrit untuk menghasilkan 
+energi. Reaksinya sebagai berikut.
+2NH3
++ + 3O2           		
+ 2NO2
+- + 2H+ + 2H2O + Energi
+Selanjutnya, energi yang dihasilkan digunakan untuk mensintesis 
+glukosa dengan reaksi sebagai berikut.
+                                       E. Kimia
+6CO2  + 6H2O 	
+	
+	
+C6H12O6  + 6O2
+3)	
+Bakteri belerang dari genus Thiobacillus yang mengoksidasi H2S 
+menjadi sulfur untuk menghasilkan energi. Reaksinya sebagai berikut. 
+2H2S + O2 	
+	
+     2S  + 2H2O + Energi
+Selanjutnya, energi yang dihasilkan digunakan untuk mensintesis 
+glukosa dengan reaksi sebagai berikut.
+                                E. Kimia
+6CO2  + 6H2O	
+	
+C6H12O6  + 602
+Biologi untuk SMA/MA Kelas XII
+50
+REFLEKSI 
+Untuk meninjau ulang keseluruhan proses pembelajaran, lakukan refleksi 
+dengan menjawab pertanyaan-pertanyaan berikut.
+1.	
+Apa sajakah yang sudah kalian kuasai pada pembelajaran ini?
+2.	
+Apa sajakah yang belum kalian kuasai pada pembelajaran ini?
+3.	
+Apakah yang menyebabkan kalian belum menguasai bagian tertentu 
+pada pembelajaran ini?
+4.	
+Upaya apa yang akan kalian lakukan sebagai tindak lanjut terhadap 
+materi yang sudah kalian kuasai?
+5.	
+Upaya yang akan kalian dilakukan untuk mengatasi bagian yang belum 
+dikuasai pada pembelajaran ini?
+UJI KOMPETENSI
+Pilihlah salah satu jawaban yang paling benar!
+1.	 Pernyataan mengenai enzim berikut yang tidak tepat, yaitu ….
+a.	 Enzim adalah protein yang berfungsi sebagai katalis.
+b.	 Enzim bersifat spesifik terhadap substratnya.
+c.	 Enzim menyediakan energi aktivasi untuk reaksi kimia.
+d.	 Enzim dipengaruhi oleh faktor lingkungan.
+e.	 Enzim dapat digunakan berkali-kali.
+2.	 Holoenzim tersusun atas struktur …. 
+a.	 apoenzim dan inhibitor nonkompetitif
+b.	 koenzim dan gugus prostetik
+c.	 apoenzim dan koenzim
+d.	 gugus prostetik dan kofaktor
+e.	 apoenzim dan inhibitor kompetitif
+3.	 Berikut ini yang merupakan koenzim adalah ….
+a.	 Mn		
+	
+	
+c.	 NAD	
+	
+	
+e.	 Cu
+b.	 Zn	 	
+	
+	
+d.	 Fe
+4.	 Pada inhibisi kompetitif, inhibitor memiliki kemiripan struktural dengan ….
+a.	 sisi aktif	
+	
+d.	 kofaktor
+b.	 substrat	
+	
+e.	 apoenzim
+c.	 koenzim
+BAB 1 Enzim dan Metabolisme 
+51
+5.	 Berikut ini yang paling tepat mengenai kompleks enzim-substrat, yaitu ….
+a.	 bersifat sementara
+b.	 merupakan ikatan kovalen
+c.	 menyebabkan perubahan permanen pada enzim
+d.	 enzim dan substrat tidak mengalami perubahan
+e.	 ikatan yang terbentuk merupakan ikatan nonkomplemen
+6.	 Sekelompok peserta didik melakukan eksperimen menggunakan enzim 
+katalase dan diperoleh hasil yang tampak pada tabel berikut!
+Ekstrak Hati + Es 
+Batu + H2O2
+Ekstrak Hati + Air 
+Panas + H2O2
+Ekstrak Hati + H2O2
+Gelembung
+gas
+Nyala api
+Gelembung
+gas
+Nyala api
+Gelembung
+gas
+Nyala api
++
++
+-
+-
++++
++++
+Keterangan:
+-	
+tidak ada	 	
+	
++    sedikit	 	
+	
+++   sedang	
+	
+	
++++  banyak
+Kesimpulan yang paling tepat berdasarkan data di atas, yaitu ….
+a.	 kerja enzim katalase tidak dipengaruhi suhu
+b.	 semua enzim bekerja optimal pada suhu rendah
+c.	 semakin tinggi suhu, semakin optimal kerja enzim
+d.	 kerja enzim katalase paling optimal pada suhu normal
+e.	 kerja enzim katalase paling optimal pada suhu rendah
+7.	 Respirasi aerob merupakan serangkaian reaksi kimia yang dilakukan sel 
+untuk menghasilkan energi (ATP). Berikut tahap-tahap respirasi aerob.
+1.	 siklus asam sitrat		
+	
+	
+3.	 glikolisis
+2.	 fosforilasi oksidatif	
+	
+	
+4.	 dekarboksilasi oksidatif
+Tahap-tahap yang berfungsi menghasilkan NADH, yaitu ….
+a.	 1, 2, dan 3		
+	
+c.	 2 dan 4	
+	
+	
+e.	 1, 3, dan 4
+b.	 1 dan 3	
+	
+	
+d.	 4 saja
+8.	 Berdasarkan tahap-tahap respirasi aerob pada soal nomor 7, tahap yang 
+menghasilkan produk samping berupa CO2, yaitu ….
+a.	 1, 2, dan 3		
+	
+c.	 2 dan 3	
+	
+	
+e.	 1, 2, 3, dan 4
+b.	 1 dan 4	
+	
+	
+d.	 4 saja
+9.	 Perhatikan pernyataan-pernyataan mengenai glikolisis berikut.
+1.	 Glikolisis membutuhkan 2 ATP.
+2.	 Glikolisis menghasilkan 2 asam piruvat.
+3.	 Energi bersih yang dihasilkan pada glikolisis sebanyak 2 ATP.
+4.	 Glikolisis hanya dapat terjadi jika oksigen tersedia.
+Biologi untuk SMA/MA Kelas XII
+52
+Pernyataan yang benar mengenai glikolisis, yaitu ….
+a.	 1, 2, dan 3		
+	
+c.	 2 dan 4	
+	
+	
+e.	 1, 2, 3, dan 4
+b.	 1 dan 3	
+	
+	
+d.	 4 saja
+10.	Perhatikan bagan dekarboksilasi oksidatif berikut.
+	
+X, Y, dan Z yang dimaksud adalah ….
+X
+Y
+Z
+a
+ATP
+CO2
+Asetil KoA
+b
+Asetil KoA
+H2O
+O2
+c
+Asetil KoA
+CO2
+Koenzim A
+d
+NADH
+CO2
+ATP
+e 
+H2O
+O2
+CO2
+11.	Perhatikan pernyataan berikut.
+1.	 Oksigen diperlukan dalam siklus asam sitrat.
+2.	 Diperlukan 2 kali siklus asam sitrat untuk satu molekul glukosa.
+3.	 Dihasilkan total 2CO2 pada siklus asam sitrat yang menggunakan 2 
+Asetil KoA.
+4.	 Dihasilkan 6NADH, 2FADH2, dan 2 ATP pada siklus asam sitrat yang 
+berasal dari 1 molekul glukosa.
+Pernyataan yang tepat mengenai siklus asam sitrat, yaitu ….
+a.	 1, 2, dan 3		
+	
+	
+c.	 2 dan 4	
+	
+	
+e.	 1, 2, 3, dan 4
+b.	 1 dan 3	
+	
+	
+	
+d.	 4 saja
+12.	Perhatikan pernyataan berikut.
+1.	 Terdapat 10NADH dan 2FADH2 yang dikonversi menjadi ATP.
+2.	 Konversi NADH menghasilkan lebih banyak ATP dibanding FADH2.
+3.	 ATP sintase merupakan enzim yang berfungsi sebagai katalisator 
+pembentukan ATP.
+4.	 Oksigen diperlukan sebagai penerima elektron terakhir.
+BAB 1 Enzim dan Metabolisme 
+53
+Pernyataan yang tepat mengenai fosforilasi oksidatif, yaitu ….
+a.	 1, 2, dan 3		
+	
+	
+c.	 2 dan 4	
+	
+	
+e.	 1, 2, 3, dan 4
+b.	 1 dan 3	
+	
+	
+	
+d.	 4 saja
+13.	Produk fermentasi alkohol yang diperlukan untuk mengembangkan 
+adonan roti, yaitu ….
+a.	 O2	 	
+	
+	
+	
+	
+c.	 CO2	
+	
+	
+	
+e.	 asam laktat
+b.	 etanol	 	
+	
+	
+	
+d.	 NADH
+14.	Perhatikan pernyataan berikut.
+1.	 Hanya menghasilkan NADPH
+2.	 Menggunakan fotosistem I dan II
+3.	 Menggunakan cahaya hijau
+4.	 Menghasilkan ATP dan NADPH
+Pernyataan yang benar mengenai reaksi terang nonsiklik,yaitu ….
+a.	 1, 2, dan 3		
+	
+	
+c.	 2 dan 4	
+	
+	
+e.	 Semua benar
+b.	 1 dan 3	
+	
+	
+	
+d.	 4 saja
+15.	Karbon dioksida yang diperlukan untuk membentuk 1 molekul glukosa 
+pada reaksi terang, yaitu ….
+a.	 2	
+	
+	
+	
+	
+	
+c.	 4	
+	
+	
+	
+	
+e.	 6
+b.	 3	
+	
+	
+	
+	
+	
+d.	 5
+16.	Tahap pembentukan RuBP pada siklus gelap terjadi pada fase ….
+a.	 fiksasi	 	
+	
+	
+	
+c.	 sintesis	
+	
+	
+e.	 oksidasi
+b.	 reduksi	
+	
+	
+	
+d.	 regenerasi
+17.	Pada tahun 1883, Engelmann melakukan eksperimen dengan menyinari 
+alga berbentuk filamen dengan cahaya tampak yang dilewatkan prisma. 
+Hasil percobaan Engelmann tampak pada gambar berikut.
+	
+	
+	
+Perhatikan kesimpulan dari percobaan Engelmann berikut.
+Bakteri aerob
+Alga berbentuk 
+benan
+Biologi untuk SMA/MA Kelas XII
+54
+1. Fotosintesis membutuhkan klorofil dan menghasilkan oksigen 
+2. Fotosintesis menghasilkan zat makanan berupa amilum
+3. Cahaya warna merah dan biru-ungu efektif untuk fotosintesis
+4. Konsentrasi CO2 mempengaruhi laju fotosintesis.
+Kesimpulan yang tidak tepat berdasarkan gambar di atas, yaitu….
+a. 1, 2, dan 3  
+ 
+ 
+c. 2 dan 4 
+ 
+ 
+e. Semua benar
+b. 1 dan 3 
+ 
+ 
+ 
+d. 4 saja
+18. Sekelompok siswa melakukan percobaan dengan langkah berikut.
+a. Bagian tengah daun ditutup menggunakan aluminium foil 
+selama 4 hari.
+b. Daun direbus dengan alkohol dalam penangas air hingga 
+kehilangan klorofilnya.
+c. Daun dimasukkan ke dalam larutan iodin.
+d. Bagian daun yang ditutup aluminium foil tidak berubah biru 
+kehitaman seperti tampak pada gambar di samping ini.
+ 
+ 
+Berikut kesimpulan dari percobaan di atas.
+1. Fotosintesis menghasilkan amilum.
+2. Fotosintesis menghasilkan oksigen.
+3. Fotosintesis memerlukan cahaya.
+4. Fotosintesis memerlukan air.
+Kesimpulan yang tepat dari percobaan, yaitu ….
+a. 1, 2, dan 3  
+ 
+c. 2 dan 4 
+ 
+ 
+e. semua benar
+b. 1 dan 3 
+ 
+ 
+d. 4 saja
+19. Siswa menyusun perangkat percobaan seperti tampak pada gambar berikut.
+ 
+ 
+Gabus
+Botol yang
+diisi KOH
+ 
+Setelah dibiarkan 3 hari, daun yang sebagian 
+dimasukkan ke dalam botol berisi KOH dipetik, 
+dihilangkan klorofilnya, lalu diuji dengan larutan 
+iodin. Hasil uji iodin ditunjukkan oleh gambar 
+di samping.
+ 
+berubah warna
+biru-hitam
+warna daun 
+tetap pucat
+BAB 1 Enzim dan Metabolisme 
+55
+Berikut kesimpulan dari percobaan di atas.
+1.	 Fotosintesis menghasilkan oksigen.
+2.	 Fotosintesis membutuhkan karbon dioksida.
+3.	 Fotosintesis membutuhkan air.
+4.	 Fotosintesis menghasilkan amilum.
+Kesimpulan yang tepat dari percobaan, yaitu ….
+a.	 1, 2, dan 3		
+	
+	
+c.	 2 dan 4	
+	
+	
+e.	 semua benar
+b.	 1 dan 3	
+	
+	
+	
+d.	 4 saja
+20.	Tuti menyusun alat eksperimen seperti tampak pada gambar berikut. 
+Dia mengulangi penelitian yang sama beberapa kali. Di mana pada tiap 
+pengulangan, jarak antara sumber cahaya dan tumbuhan dibedakan. 
+	
+	
+	
+	
+gas
+tabung kaca
+tumbuhan
+ 
+air
+lampu
+j
+ 
+Hasil eksperimen ditunjukkan oleh grafik berikut.
+	
+	
+Volume gas (cm3)
+j (cm)
+Kesimpulan yang sesuai dengan eksperimen di atas, yaitu …..
+a.	 Semakin tinggi konsentrasi air semakin cepat laju fotosintesis.
+b.	 Laju fotosintesis meningkat ketika konsentrasi CO2 menurun.
+c.	 Tumbuhan akan berfotosintesis jika cukup cahaya.
+d.	 Laju fotosintesis meningkat ketika intensitas cahaya meningkat.
+e.	 Semakin jauh jarak cahaya dari tumbuhan, semakin cepat 
+fotosintesis terjadi.
+Biologi untuk SMA/MA Kelas XII
+56
+PENGAYAAN
+Mengubah Energi yang Dihasilkan Tumbuhan menjadi Listrik
+Kini, peneliti sedang terus mengembangkan cara menghasilkan listrik dalam 
+skala kecil dari energi yang dihasilkan oleh fotosintesis. Pada kenyataannya, 
+tumbuhan menghasilkan energi lebih besar dari yang mereka butuhkan 
+dan mereka mengeluarkan energi berlebih tersebut. Energi berlebih inilah 
+yang dikumpulkan, lalu diubah menjadi listrik. Meskipun tumbuhan tidak 
+menghasilkan listrik dalam satuan megawatt, namun potensi yang dimiliki 
+tidak dapat kita pandang sebelah mata. Para peneliti di Universitas Wageningen 
+pertama kali mematenkan listrik bertenaga tumbuhan pada tahun 2007. Kini, 
+hak paten ini dimiliki oleh perusahaan milik Belanda yang bernama Plant-E, 
+yang terus mengembangkan penelitiannya. 
+Bagaimanakah energi fotosintesis digunakan untuk menghasilkan listrik? 
+Seperti yang kalian telah pelajari, tumbuhan menyerap energi sinar matahari, 
+lalu mereaksikannya dengan air dan karbon dioksida sehingga terbentuklah 
+gula. Menariknya, tumbuhan menghasilkan gula lebih banyak dari yang mereka 
+butuhkan, hampir setengah dari gula yang dihasilkan menyebar di tanah. 
+Di dalam tanah, gula tersebut diuraikan oleh bakteri dengan menghasilkan 
+proton dan elektron sebagai produk sampingan.
+Ide yang dimiliki Plant-e, yaitu memasukkan konduktor ke dalam tanah 
+untuk mengumpulkan elektron, lalu mengubahnya menjadi listrik. Perusahaan 
+tersebut mengklaim bahwa proses ini tidak mengganggu pertumbuhan 
+tanaman. Selain itu, energi yang dihasilkan dapat terus diperbaharui. Satu-
+satunya masalah, yaitu proses ini tidak dapat terjadi ketika tanah turut 
+membeku selama musim dingin.
+Berapakah energi listrik yang dapat dihasilkan tumbuhan? Plant-E 
+mengklaim bahwa tiap meter persegi kebun menghasilkan 28 KWH per tahun. 
+Berdasarkan perhitungan ini, untuk memenuhi kebutuhan listrik sebuah 
+rumah berukuran 150 meter persegi diperlukan beberapa ribu meter persegi 
+kebun. Meskipun tidak praktis, namun masih sangat banyak orang yang tinggal 
+di dalam rumah yang berukuran jauh lebih kecil. Selain itu, terdapat 1,4 juta 
+jiwa tidak memiliki akses listrik dan sebagian besar dari mereka bekerja 
+sebagai petani.  
+BAB 1 Enzim dan Metabolisme 
+57
+Selain itu, Plant-e telah memperhitungkan potensi hutan mangrove, delta 
+sungai, dan sawah yang dapat menghasilkan listrik skala kecil, misalnya untuk 
+Wi-Fi hotspots, pengisi daya ponsel, dan lampu sebagai penerangan di malam 
+hari bagi warga miskin. Bagi warga perkotaan, Plant-E tengah menguji sistem 
+atap hijau, di mana listrik yang dihasilkan oleh tiap 15 meter persegi atap hijau 
+tersebut cukup untuk mengisi daya sebuah ponsel.
+Setelah membaca uraian di atas, jawablah pertanyaan-pertanyaan berikut.
+1.	
+Menurut kalian, apakah pemanfaatan fotosintesis untuk menghasilkan 
+energi dapat diaplikasikan di Indonesia? Jelaskan! 
+2.	
+Apakah kelebihan Indonesia dibanding Belanda yang menyebabkan 
+produksi listrik dari fotosintesis di Indonesia dapat lebih dioptimalkan.
+3.	
+Lakukan studi literatur lanjutan, lalu buktikan bahwa buah yang juga 
+merupakan hasil fotosintesis dapat menghasilkan listrik!
+Biologi untuk SMA/MA Kelas XII
+58
+Bukanlah spesies yang paling kuat 
+atau paling cerdas yang mampu 
+survive, tapi mereka yang paling 
+mampu beradaptasi terhadap 
+perubahan.
+--Charles Darwin

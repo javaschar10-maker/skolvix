@@ -1,0 +1,702 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Irma Rahma Suwarma, Lia Laela Sarah
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 6
+PENGANTAR
+INSTRUMENTAL DIGITAL
+Kata Kunci
+Sistem elektronika • Semikonduktor • Gerbang logika • ‘AND’, ‘OR’, ‘NOR’, ‘NAND’
+Setelah mempelajari bab ini, kalian dapat memahami, menghitung dan 
+menggunakan konsep gerbang logika (‘AND’, ‘OR’, ‘NOR’, dan ‘NAND’) sebagai 
+dasar operasi digital sistem elektronik yang menggunakan bahan semikonduktor.
+Tujuan Pembelajaran
+Sumber: teksomolika/freepik (2022)
+116
+Fisika untuk SMA/MA Kelas XII 
+Ketika kalian melihat bagian dalam 
+komputer, laptop, handphone dan 
+alat elektronik lainnya, kalian akan 
+menemukan suatu alat kecil yang 
+memiliki peranan penting dalam 
+proses 
+pemakaian 
+alat 
+tersebut, 
+contoh Gambar  6.2 menunjukkan 
+Integrated Circuit (IC)  atau sirkuit 
+terpadu 
+yang 
+digunakan 
+dalam 
+salah satu komputer sebagai otak 
+Gambar 6.2 IC komputer
+Sumber : Amfell/ Wikimedia Commons (2020)
+dari sistem operasi digitalnya. Sistem digital yang digunakan dalam alat-alat 
+elektronik tersebut menggunakan prinsip gerbang logika yang mengatur 
+proses input dan output sehingga bekerja sesuai perintah yang diinginkan.
+Gambar 6.1 Peta konsep gerbang logika
+Sumber : Kinkin Suartini/Kemendikbudristek (2022)
+117
+BAB 6 | Pengantar Instrumental Digital
+Ayo, Bernalar Kritis!
+Bagaimana suatu sistem elektronika bekerja? Apa yang 
+menentukan suatu sistem elektronika dapat bekerja dengan baik? 
+Apa saja contoh-contoh komponen yang terdapat dalam sistem 
+elektronika?
+A.	 Sistem Elektronika
+Penggunaan elektronik di rumah, pabrik, kantor, sekolah, bank, toko, dan 
+rumah sakit terus berkembang. Pengembangan perangkat semikonduktor 
+seperti transistor dan integrated circuit / IC (sirkuit terpadu) atau ‘chip’  juga 
+telah berkembang, antara lain, mesin perbankan otomatis, komputer laptop, 
+perangkat kontrol yang dapat diprogram, robot, permainan komputer, 
+kamera digital dan alat pacu jantung. Secara garis besar alat-alat elektronik 
+tersebut memiliki suatu sistem elektronika yang terdiri dari input-proses-
+output. (Gambar 6.3)
+Gambar 6.3 Bagan sistem elektronika
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Bagian input biasanya berupa sensor atau transduser atau converter yang 
+berfungsi untuk mengubah masukan (input) non-listrik menjadi sinyal listrik 
+atau sebaliknya. Sensor input mendeteksi perubahan di lingkungan dan 
+mengubahnya dari wujud energi yang dimiliki lingkungan menjadi energi 
+listrik. Contoh sensor input atau transduser antara lain Light Dependent 
+Resistor/LDR (resistor yang bergantung pada cahaya), termistor, mikrofon, 
+dan sakelar yang misalnya merespons terhadap perubahan tekanan.
+Bagian proses biasanya berupa prosesor memutuskan tindakan apa yang 
+harus diambil pada sinyal listrik yang diterimanya dari sensor input. Proses 
+ini dapat melibatkan operasi seperti menghitung, memperkuat, mengatur 
+waktu atau menyimpan.
+Bagian luaran (output) biasanya berupa transduser (luaran) mengubah 
+energi listrik yang disuplai oleh prosesor menjadi bentuk lain. Contoh 
+transduser keluaran antara lain lampu, LED (light-emitting diodes), pengeras 
+suara, motor, pemanas, relai, dan tabung sinar katoda.
+118
+Fisika untuk SMA/MA Kelas XII 
+Cermati penjelasan dari setiap gambar komponen elektronika yang 
+disajikan pada teks di bawah, kemudian berikan pendapatmu, 
+apakah komponen tersebut termasuk ke dalam kelompok 
+transduser (input), proses (processor), transduser(output).
+Aktivitas 6.1
+Komponen elektronika:
+Light-Dependent Resistor (LDR)
+Cara kerja LDR didasarkan pada 
+resistansi semikonduktor kadmium 
+sulfida yang berkurang seiring 
+dengan meningkatnya intensitas 
+cahaya yang datang padanya. Ketika 
+cahaya dari lampu jatuh pada 
+‘jendela’ LDR, maka resistansinya 
+berkurang 
+sehingga 
+arus 
+meningkat  (ingat kembali konsep 
+hambatan pada bab sebelumnya) 
+dan menyalakan lampu.
+Gambar 6. 4 LDR
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Pendapatmu
+Pilih salah satu
+      Transduser (input)
+      Prosesor
+      Transduser (output)
+Alasan: _______________________________________________
+_______________________
+Contoh aplikasi:
+Pada pesawat radio, sensor input adalah antena yang mengirimkan 
+sinyal listrik ke prosesor di radio. Prosesor ini, antara lain, 
+memperkuat sinyal sehingga memungkinkan transduser keluaran, 
+dalam hal ini pengeras suara, untuk menghasilkan suara.
+119
+BAB 6 | Pengantar Instrumental Digital
+Gambar 6. 5 Termistor dan 
+rangkaiannya pada bel
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Pendapatmu
+Pilih salah satu
+      Transduser (input)
+      Prosesor
+      Transduser (output)
+Alasan: ___________________
+_________________________
+Rangkaian sakelar tidak dapat 
+memasok 
+banyak 
+daya 
+ke 
+alat 
+sehingga 
+relay 
+sering 
+digunakan. Penggunaan relay 
+dapat memungkinkan arus kecil 
+yang disediakan oleh rangkaian 
+sakelar untuk mengontrol arus 
+yang lebih besar yang diperlukan 
+untuk 
+mengoperasikan 
+bel 
+seperti 
+pada 
+sakelar 
+yang 
+Gambar 6. 6 Sistem relay
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Relay
+dioperasikan dengan suhu atau perangkat lain. Relay yang 
+dikendalikan oleh rangkaian sakelar juga dapat digunakan untuk 
+memberikan pasokan listrik untuk peralatan listrik di rumah. Pada 
+Gambar 6.6 jika output dari rangkaian pensaklaran adalah ‘tinggi’ (5 
+V),  arus kecil akan mengalir ke relay yang menutup sakelar utama; 
+relay juga akan mengisolasi rangkaian tegangan rendah dari suplai 
+listrik tegangan tinggi.
+Termistor
+Termistor 
+mengandung 
+oksida 
+logam 
+semikonduktor 
+yang 
+resistansinya menurun tajam ketika suhu naik. Temperatur dapat 
+naik baik karena termistor dipanaskan secara langsung maupun 
+karena ada arus di dalamnya. Jika termostat dirangkai seri dengan 
+hambatan (R), maka dapat menghasilnya sinyal bagi transistor atau 
+rangkaian switching lainnya sehingga dapat digunakan sebagai 
+pengganti relai.
+120
+Fisika untuk SMA/MA Kelas XII 
+1.	 Pengertian Semikonduktor
+Masih ingatkah kalian dengan konsep penghantar arus listrik?. Penghantar 
+arus listrik ada yang tergolong pada penghantar listrik yang baik (konduktor), 
+penghantar listrik yang tidak baik (isolator), dan yang dapat berperan 
+sebagai keduanya tergantung pada lingkungannya (dapat bertindak sebagai 
+konduktor dan isolator). 
+Beberapa bahan seperti germanium (Ge) dan silikon (Si) bukan 
+termasuk konduktor atau isolator yang baik. Bahan-bahan ini mempunyai 
+nilai hambatan jenis di antara nilai hambatan jenis isolator dan konduktor. 
+Dalam bentuk kristal murni, umumnya bahan-bahan ini bersifat isolator. 
+Sedangkan bila terdapat ketidakmurnian pada struktur kristalnya, Bahan 
+yang dapat dibuat untuk berperilaku kadang-kadang sebagai isolator dan 
+kadang-kadang sebagai konduktor disebut semikonduktor.
+Klasifikasi Semikonduktor
+Berdasarkan 
+mekanisme 
+terbentuknya 
+gejala 
+semikonduktivitas, 
+semikoduktor terdiri atas semikonduktor intrinsik dan semikonduktor 
+ekstrinsik. Semikonduktor intrinsik terbentuk dari semikonduktor murni 
+Ayo, Bernalar Kritis!
+Apa fungsi semikonduktor? Ada berapa jenis semikonduktor? 
+Bagaimana karakteristik setiap jenis semikonduktor tersebut?
+B.	Semikonduktor
+Pendapatmu
+Pilih salah satu
+      Transduser (input)
+      Prosesor
+      Transduser (output)
+Alasan: ______________________________________________
+_______________________
+121
+BAB 6 | Pengantar Instrumental Digital
+Gambar 6. 7 Semikonduktor
+Sumber : Zmaragdus/ Wikimedia Commons (2019)
+Suhu ketika dinaikkan, maka stimulasi panas akan mengganggu ikatan 
+valensi ini sehingga salah satu elektron valensi akan berpindah ke pita 
+konduksi. Lokasi yang ditinggalkan oleh elektron valensi ini akan membentuk 
+hole (lihat Gambar 6.7 b). Pasangan hole dan elektron ini menjadi pembawa 
+muatan dalam semikonduktor intrinsik yang terbentuk dari semikonduktor 
+murni yang dikotori oleh atom doping sebagai penghasil elektron konduksi 
+(lihat Gambar 6.7 c). Atom doping ini dimaksudkan untuk mendapatkan 
+elektron valensi bebas dalam jumlah lebih banyak dan permanen sehingga 
+diharapkan akan dapat menghantarkan listrik. 
+Berdasarkan tipe pembawa muatannya tersebut, semikonduktor dibagi 
+menjadi dua tipe yaitu tipe N (Silikon + Phospor atau Arsenic) dan tipe P 
+(Silikon + Boron, Galium atau Indium). 
+Cermati teks penjelasan jenis-jenis semikonduktor, kemudian 
+buatlah gambar proses perpindahan elektron pada setiap jenis 
+semikonduktor tersebut.
+Aktivitas 6.2
+yang memiliki ikatan kovalen sempurna seperti Silikon (Si), Germanium (Ge), 
+dan Carbon / grafit (C). Mekanisme terbentuknya semikonduktor intrinsik 
+diperlihatkan pada semikonduktor murni seperti Si. Pada kondisi normal 
+atom-atom Si saling berikatan melalui 4 ikatan kovalen (masing-masing 
+memiliki 4 elektron valensi), perhatikan Gambar 6.7 a).
+122
+Fisika untuk SMA/MA Kelas XII 
+Semikonduktor dapat dikatakan menjadi bahan dasar bagi perangkat 
+teknologi modern. Sadar atau tidak, perangkat elektronik yang kalian pakai 
+seperti komputer atau smartphone disusun dari komponen berbahan dasar 
+semikonduktor. Contoh komponen semikonduktor ini digunakan sebagai 
+bahan pembentuk dioda dan transistor. 
+Kalian akan menemukan dua buah kutub yang saling berlawanan pada 
+dioda. Salah satu sisi merupakan  kutub bermuatan positif (anoda) dan sisi 
+lainnya merupakan kutub bermuatan negatif (katoda). Dengan demikian, 
+dioda dapat digunakan untuk dua fungsi sekaligus. Misalnya, pada satu sisi 
+dapat digunakan sebagai penyearah arus dan sisi lainnya dapat digunakan 
+sebagai penghambat arus listrik. Salah satu jenis dioda yang memiliki dua 
+fungsi tersebut adalah LED dan kalian sudah menggunakannya pada Bab 1.
+Jenis Semikonduktor
+Semikonduktor tipe-N
+Sebuah silikon diberi pengotor posfor atau arsenik, yaitu  bahan 
+kristal dengan inti atom memiliki 5 elektron valensi, sehingga 
+memberikan kelebihan elektron. Atom posfor ini disebut sebagai 
+donatur.
+Semikonduktor tipe-P
+Sebuah silikon diberi pengotor boron yang memiliki 3 elektron 
+pada pita valensi. Karena ion silikon memiliki 4 elektron pada 
+pita valensi, maka ada lubang (hole) yang perlu diisi oleh electron 
+dan hole  ini siap untuk menerima elektron. Sehingga disebut juga 
+sebagai akseptor.
+Berdasarkan 
+teks 
+dan 
+gambaranmu 
+di 
+atas, 
+tuliskan 
+pemahamanmu mengenai semikonduktor tipe-P dan tipe-N
+2.	 Penggunaan Semikonduktor
+Ayo, Bernalar Kritis!
+Tahukah kalian penggunaan semikonduktor dalam kehidupan 
+sehari-hari? Seberapa besarkah manfaatnya bagi kehidupan 
+kita? Apakah semikonduktor memiliki efek samping yang 
+membahayakan bagi Kesehatan kita?
+123
+BAB 6 | Pengantar Instrumental Digital
+a.	 Light-Emitting Diode (LED)
+Prinsip kerja LED adalah kebalikan dari sel surya. Prinsip kerja pada sel 
+surya, cahaya dikumpulkan untuk menghasilkan tegangan listrik. Prinsip 
+kerja pada LED, tegangan atau arus listrik digunakan untuk menghasilkan 
+emisi cahaya. LED pertama yang dikembangkan pada 1960-an menghasilkan 
+lampu merah sebagai indikator di berbagai panel instrumen saat itu. LED 
+dapat memberi tahu apakah sebuah alat elektronik mati atau hidup. LED 
+yang memancarkan berbagai warna dikembangkan pada 1990-an. Saat ini, 
+LED telah berkembang tidak terbatas hanya sebagai tampilan indikator 
+peralatan elektronik, tapi juga digunakan pada lampu lalu lintas, lampu rem 
+mobil, penerangan landasan pacu bandara, lampu peringatan di menara 
+transmisi TV, bahkan pada papan reklame.
+Gambar 6. 8 Contoh penggunaan LED
+Sumber : Chris Rider/  Wikimedia Commons (2022)
+Gambar 6. 9   a.LED,     b.Rangkaian LED
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+LED sangat handal dan efisien, 
+tidak 
+memerlukan 
+filamen, 
+tahan lama (sekitar 100 kali lebih 
+lama dari lampu pijar) dan tidak 
+mengandung merkuri berbahaya.
+LED yang ditunjukkan pada 
+Gambar 6.9 adalah dioda yang 
+terbuat dari semikonduktor galium 
+arsenida fosfida. Saat panjar maju (kaki katoda C terhubung ke terminal 
+negatif dari sumber tegangan, LED akan memancarkan cahaya. Namun pada 
+panjar mundur (ketika anoda A terhubung ke terminal negatif dari sumber 
+tegangan), LED tidak memancarkan cahaya. Jika LED diberi tegangan panjang 
+mundur melebihi 5 V maka LED tersebut dapat mengalami kerusakan.
+LED dalam penggunaannya dirangkai secara seri dengan resistor R, 
+misalnya resistor 300 Ω pada tegangan 5V untuk membatasi arus listriknya 
+(biasanya 10 mA) perhatikan Gambar 6.9.b. 
+Sebuah LED pada dasarnya terdiri dari lapisan kombinasi semikonduktor 
+tipe-N dan semikonduktor tipe P. Secara garis besar proses LED menghasilkan 
+cahaya ketika diberi tegangan pada panjar maju terlihat pada Gambar 6.10.
+124
+Fisika untuk SMA/MA Kelas XII 
+Gambar 6. 10. Prinsip kerja LED
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+LED sebelum diberi tegangan panjar maju, elektron pada bagian 
+semikonduktor tipe-P yang berada di pita konduksi tidak mampu melewati 
+celah pita. Saat diode diberi tegangan panjar maju, elektron akan 
+mendapatkan energi potensial listrik sehingga mampu berpindah dari pita 
+konduksi melewati celah pita  menuju pita valensi dan jatuh ke dalam hole. 
+Elektron ketika bertemu dengan hole akan kehilangan energi potensial 
+listriknya. Penurunan energi potensial elektron ini berubah menjadi kuanta 
+cahaya yang disebut foton (penjelasan mengenai foton akan dibahas pada 
+Bab 8). 
+Unsur-unsur yang digunakan dalam pembuatan LED menentukan besar 
+energi hole dan warna foton yang dipancarkan. Penurunan energi yang lebih 
+besar melepaskan cahaya lebih dekat ke biru, sedangkan penurunan energi 
+yang lebih rendah melepaskan cahaya ke arah merah.
+b.	 Transistor
+Transistor 
+adalah 
+komponen 
+elektronik yang dibuat dari  material 
+semikonduktor 
+untuk 
+mengatur 
+tegangan dan arus yang mengalir 
+melewatinya. 
+Fungsi 
+transistor 
+bermacam-macam, 
+tidak 
+hanya 
+sebagai sakelar, tapi juga dapat 
+berfungsi sebagai penguat arus dan 
+penguat amplifier sinyal.
+Jenis transistor secara umum dibedakan menjadi 2 jenis, yaitu Bipolar 
+Junction Transistor / BJT (transistor bipolar) dan Junction Field Effect 
+Transistor /JFET (transistor efek medan). Transistor bipolar terdiri dari 
+transistor PNP dan transistor NPN. Gambar 6.12 menunjukkan transistor 
+Gambar 6. 11 Transistor
+sumber: unknown/skemaku(2022)
+125
+BAB 6 | Pengantar Instrumental Digital
+PNP yang dihubungkan dengan dua 
+baterai VE dan VC. Tegangan yang 
+digunakan pada Collector biasanya 
+lebih besar dari tegangan Emitter.
+Transistor 
+FET 
+ditunjukkan 
+dengan Gambar 6.14, di dalamnya 
+aliran elektron dari terminal S 
+(source/sumber) 
+ke 
+kiri 
+melalui 
+daerah yang diarsir ke terminal 
+Gambar 6. 12 Transistor bipolar PNP
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+D (drain/saluran) dapat dikontrol oleh medan listrik (karenanya disebut 
+efek medan) yang diatur di dalam perangkat dengan potensial listrik yang 
+sesuai yang diterapkan ke terminal G (gate/gerbang). Transistor FET juga 
+tersedia dalam berbagai jenis, tapi yang banyak digunakan dalam teknologi 
+elektronik modern adalah MOSFET (Metal-Oxide Semiconductor Field Effect 
+Transistor) atau transistor efek medan semikonduktor oksida logam. MOSFET 
+merupakan transistor.
+Gambar 6. 14 Contoh rangkaian transistor FET
+Semua transistor memiliki memiliki tiga koneksi. Pada transistor 
+bipolar disebut Base (B), Collector (C) dan Emitter (E), sedangkan pada FET 
+disebut Drain (D), Source (S) dan Gate / G (Gerbang). Simbol transistor yang 
+ditunjukkan Gambar 6.13, panah menunjukkan arah arus konvensional 
+Gambar 6. 15 Cara kerja transistor
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+yang mengalir di dalamnya. Gambar 
+6.14 menunjukan contoh rangkaian 
+transistor yang memiliki FET (Field 
+Effect Transistor). Pada rangkaian 
+tersebut, 
+elektron 
+mengalir 
+dari 
+terminal 
+sumber 
+S 
+ke 
+terminal 
+pembuangan D (IDS arus konvensional 
+berada pada arah yang berlawanan.) 
+Besarnya 
+IDS 
+dikendalikan 
+medan 
+Gambar 6. 13 Simbol transistor
+Sumber: Omegatron/Wikimedia Commons (2005)
+126
+Fisika untuk SMA/MA Kelas XII 
+listrik yang dikendalikan di dalam 
+FET 
+oleh 
+potensial 
+di 
+terminal 
+gerbang G. Secara garis besar, prinsip 
+kerja transistor dalam rangkaian 
+terlihat pada Gambar 6.15.
+Saat sakelar S terbuka, arus 
+basis IB adalah nol, arus kolektor IC 
+juga nol, meskipun lampu L2 terlihat 
+membentuk 
+rangkaian 
+tertutup 
+Gambar 6. 16 Analogi transistor dengan keran air
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+melintasi C E sehingga lampu L1 dan L2 tidak menyala. Saat sakelar S 
+tertutup, terdapat aliran arus pada basis IB dan kolektor IC, meskipun arus 
+basis IB jauh lebih kecil dari arus kolektor IC. Akibat aliran arus ini, lampu L2 
+menyala, tapi L1 tetap tidak menyala. Arus basis IB disini berfungsi sebagai 
+pengontorl dari arus kolektor IC. Jika diibaratkan dengan aliran air pada pipa, 
+maka arus basis IB berperan sebagai keran yang akan mengontrol jalannya 
+air pada pipa (Gambar 6.16).
+c.	 Sirkuit Terpadu (Integrated Circuit / IC)
+Gabungan ratusan bahkan jutaan transistor, dioda, resistor dan kapasitor saat 
+ini dijadikan satu pada sebuah microchip berukuran sangat kecil (sentimeter) 
+yang disebut sirkuit terpadu atau Integrated Circuit (IC) (Gambar 6.17). 
+Komponen-komponen ini diperkecil dan  digabungkan sedemikain rupa 
+sehingga dapat melakukan berbagai tugas serta perhitungan. IC merupakan 
+komponen dasar sistem kerja berbagai alat teknologi modern termasuk 
+komputer, smartphone, jam digital, dan alat elektronik yang menggunakan 
+sistem pemograman.
+Gambar 6. 17 Contoh Integrated Circuit (AC)
+Sumber : Raimond / Wikimedia Commons (2019)
+Bahan utama yang membentuk sebuah Integrated Circuit (IC) adalah bahan 
+semikonduktor, umumnya Silikon (Si) yang telah diberi ketidakmurnian. 
+Berdasarkan sinyal input-nya, ada dua jenis IC, yaitu IC digital dan IC analog. 
+127
+BAB 6 | Pengantar Instrumental Digital
+Cara kerja IC digital adalah dengan menerapkan prinsip gerbang logika 
+yang bekerja menggunakan input nilai 0 dan 1. Nilai 0 untuk sinyal rendah 
+(Off) dan nilai 1 untuk sinyal tinggi (On). Sirkuit yang terdiri dari dua input 
+biasa disebut sirkuit biner. IC digital memiliki jutaan sistem flip flop, gerbang 
+logika dan lainnya dalam satu chip kecil. Contoh penggunaan IC digital adalah 
+mikrokontroler dan mikroprosesor.
+Cara kerja IC analog adalah dengan menerapkan sinyal kontinu baik 
+input maupun output-nya. Contoh IC analog digunakan pada mikrofon 
+untuk mengubah gelombang bunyi menjadi sinyal listrik dengan tegangan 
+yang bervariasi. IC analog juga digunakan dalam menguatkan sinyal listrik 
+tersebut dan dikeluarkan melalui speaker. 
+IC digital dan IC analog juga sering digabungkan pada satu chip sehingga 
+dikenal mixed-signal IC. IC jenis campuran ini digunakan pada converter A/D 
+(Analog to Digital), converter D/A (Digital to Analog), potensiometer dan IC 
+clock. IC clock adalah IC yang berfungsi menghasilkan suatu pulsa teratur 
+untuk menjamin bahwa kode 1 dan 0 dihasilkan pada interval yang teratur. 
+Bagaimana nilai 0 dan 1 sebagai input gerbang logika pada rangkaian 
+elektronik digital?. Perhatikan dan lakukan aktivitas pada subbab C untuk 
+memahaminya.
+C.	 Prinsip Gerbang Logika
+Ayo, Bernalar Kritis!
+Bagaimana caranya LED dapat menghasilkan warna sesuai 
+dengan indikator yang kita inginkan? Bagaimana sebuah sensor 
+dapat menentukan apakah masukan yang datang sudah tepat 
+dengan keadaan yang diinginkan?
+Gerbang logika dianalogikan sebagai otak suatu barang elektronika untuk 
+menjalankan fungsinya. Gerbang logika didasarkan pada analogi kita 
+dalam menentukan suatu alat elektronika tersebut bekerja, sehingga 
+menjadi bagian penting dalam suatu alat elektronika. Gerbang logika yang 
+berisi perintah-perintah ini digunakan pada rangkaian elektronika digital. 
+Tujuannya adalah untuk mengubah masukan (input) menjadi luaran (output) 
+sesuai dengan keperluan kita.
+Gerbang logika ini akan direpresentasikan dengan angka biner atau 
+tabel kebenaran dengan simbol 1 dan 0. Angka 1 dan 0 itu digunakan untuk 
+128
+Fisika untuk SMA/MA Kelas XII 
+menggambarkan  Benar (TRUE) dan salah (FALSE) atau tinggi (HIGH) dan 
+rendah (LOW), serta hidup (ON) dan mati (OFF).
+Fungsi utama dari gerbang logika ini adalah untuk menjadi dasar 
+dalam membentuk rangkaian digital agar semua komponen bisa saling 
+berhubungan atau terintegrasi dengan baik. Semakin baik hubungan antar 
+komponen itu, maka barang elektronik juga akan semakin berjalan dengan 
+baik. Gerbang logika ini sebenarnya menjadi suatu sistem yang digunakan 
+untuk menerjemahkan atau memerintah suatu perangkat elektronik untuk 
+beroperasi.
+Ayo, cermati jenis-jenis gerbang logika yang dibedakan 
+berdasarkan fungsi dan cara kerjanya. Setiap jenis gerbang logika 
+tersebut memiliki simbol dan tabel kebenaran yang berbeda.
+Aktivitas 6.3
+Jenis
+Fungsi dan Cara Kerja
+NOT
+AND
+NAND
+Gerbang logika jenis AND merupakan 
+gerbang logika yang memerlukan dua 
+masukan (input) dan menghasilkan 1 
+luaran (output), sifatnya seperti logika 
+perkalian.Jika salah satu atau seluruh input bilangan binernya 
+adalah ‘0’, maka hasilnya atau luarannya adalah ‘0’. Jika input 
+keduanya merupakan bilangan biner ‘1’, maka luaran (output)  
+Gerbang logika yang paling sederhana 
+karena hanya memerlukan satu masukan 
+(input) dan satu luaran (output) yang 
+memiliki sifat keterbalikan dari inputan nya.
+NAND merupakan gabungan dari 
+gerbang logika AND dan NOT.
+Cara kerja gerbang logika ini 
+merupakan kebalikan dari cara 
+kerja gerbang logika AND. Jika semua atau salah satu masukan 
+(input) merupakan bilangan ‘0’, maka luaranya (output) adalah 
+1. Jika semua masukan (input) merupakan bilangan biner 1, 
+maka luarannya (output) adalah ‘0’.
+Tabel 6. 1  Tabel Kebenaran Gerbang Logika
+129
+BAB 6 | Pengantar Instrumental Digital
+OR
+NOR
+NOR merupakan gabungan dari 
+gerbang logika NOT dan OR. 
+Cara kerja gerbang logika NOR 
+berkebalikan 
+dengan 
+gerbang 
+logika OR. Jika salah satu atau semua masukan (input) 
+merupakan bilangan biner ‘1’, maka luarannya (output) adalah 
+01’. Jika masukannya  merupakan bilangan biner ‘0’, maka 
+luarannya adalah ‘1’.
+Berdasarkan jenis-jenis gerbang logika tersebut, buatlah tabel 
+kebenaran yang sesuai dengan cara kerjanya. Contoh untuk gerbang 
+AND terlihat seperti tabel di bawah ini.
+Gambar 6. 18 Contoh gerbang AND
+Gerbang logika ini memerlukan 
+dua 
+masukan 
+(input) 
+dan 
+menghasilkan 
+satu 
+luaran 
+(output). 
+Cara 
+kerja 
+gerbang 
+logika ini adalah jika salah satu atau semua masukan (input) 
+merupakan bilangan biner ‘1’ maka luarannya (output) adalah 
+‘1’. Jika masukannya merupakan bilangan biner ‘0’ maka 
+luarannya adalah ‘0’. Gerbang logika ini merupakan gerbang 
+logika yang sederhana karena hanya melibatkan resistor dan 
+transistor.
+130
+Fisika untuk SMA/MA Kelas XII 
+Kalian akan lebih memahami cara kerja gerbang logika tersebut dengan 
+membuat rangkaian gerbang logika melalui simulator gerbang logika pada:
+https://academo.org/demos/logic-gate-simulator/
+Gambar 6. 19  Rangkaian gerbang logika
+Sumber: Marco Olgio/academo(2022)
+1.	 Tentukan gerbang logika yang akan disimulasikan.
+2.	 Pilih input, kemudian klik ‘Add node’.
+3.	 Pilih jenis gerbang logika, kemudian klik ‘Add node”.
+4.	 Pilih output, kemudian klik ‘Add node”.
+5.	 Uji cara kerja gerbang logika yang kalian pilih.
+Aplikasi gerbang logika dalam rangkaian elektronika telah banyak 
+dikembangkan. Misalnya pada sistem keamanan, sistem keamanan pada 
+mesin operator, pengatur suhu, lampu jalan, dan lain-lain.
+Contoh penggunaan gerbang logika pada sistem keamanan adalah 
+dengan menggunakan cara kerja gerbang logika NOT. Sebuah sistem 
+sederhana yang mungkin digunakan oleh toko perhiasan untuk melindungi 
+jam mahal ditunjukkan dalam diagram blok untuk Gambar 6.18. Saat jam 
+disimpan di kotak/tempatnya, saklar akan mengirimkan 1 ke gerbang NOT. 
+Saat jam diambil dari kotak/tempatnya, sinyal 0 dikirim sehingga output dari 
+gerbang NOT adalah 1 dan akan membunyikan bel.
+Gambar 6. 20  Diagram blok sistem keamanan
+Tom Duncan/IGCSE Physics (2014)
+131
+BAB 6 | Pengantar Instrumental Digital
+Rangkuman
+1.	 Secara garis besar alat-alat elektronik tersebut memiliki suatu 
+sistem elektronika yang terdiri dari input-proses-output.
+2.	 Semikonduktor merupakan perangkat elektronika yang dapat 
+bersifat sebagai konduktor maupun isolator bergantung pada 
+keadaan yang diatur sesuai dengan proses kerjanya.
+3.	 Jenis semikonduktor terdiri dari semikonduktor tipe-p dan 
+semikonduktor tipe-n.
+4.	 Pemanfaatan semikonduktor pada kehidupan sehari-hari telah 
+banyak diterapkan, salah satunya dalam bentuk transistor yang 
+berfungsi untuk mengatur arus dan tegangan.
+5.	 Gerbang logika merupakan bagian penting yang menjadi otak 
+sistem elektronika.
+6.	 Jenis gerbang logika terdiri dari gerbang logika NOT, AND, NAND, 
+OR, dan NOR. Gerbang logika tersebut memiliki fungsi dan cara 
+kerja yang berbeda.
+1.	 Silikon merupakan unsur penyusun kaca dan juga semikonduktor, 
+tapi sifat fisis gelas dan semikonduktor berbeda. Mengapa hal 
+tersebut terjadi? Berikan penjelasanmu!
+Asesmen
+Ayo, Berpikir Kreative! 
+Rancang dan gambar diagram blok untuk sistem gerbang logika agar 
+menunjukkan bagaimana pekerjaan berikut dapat dilakukan. Jika 
+memungkinkan, buatlah menggunakan simulator.
+•	
+Atur agar bel pintu hanya berfungsi pada siang hari.
+•	
+Nyalakan pemanas kamar mandi saat dingin dan terang.
+•	
+Sistem lampu jalan.
+Sistem peringatan tentang kondisi dingin di malam hari kepada 
+tukang kebun yang terkadang sangat lelah setelah seharian bekerja 
+keras dan mungkin ingin mematikan alarm.
+132
+Fisika untuk SMA/MA Kelas XII 
+2.	 Sebuah LED dibuat dari sambungan p-n berdasarkan bahan 
+semikonduktor Ga-As-P tertentu yang celah energinya 1,9 eV. 
+Berapa panjang gelombang cahaya yang dipancarkan?
+3.	 Amati tabel kebenaran untuk gerbang logika A, B, C, dan D berikut:
+Pengayaan
+Arduino-UNO
+Arduino adalah sebuah perangkat teknologi digital pengendali mikro 
+(mikrokontroler) single-board yang bersifat open-source serta dirancang 
+untuk memudahkan penggunaan elektronik dalam berbagai bidang. Saat 
+Gambar 6.21 Arduino Uno
+Sumber: Sparkfun Elektronik/ Wikimedia Commons (2013)
+Input
+Outputs
+A
+B
+C
+D
+0
+0
+0
+0
+1
+1
+0
+1
+0
+1
+1
+0
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+0
+133
+BAB 6 | Pengantar Instrumental Digital
+ini, Arduino sangat populer di seluruh dunia. Banyak pemula yang 
+belajar mengenal robotika dan elektronika lewat Arduino karena 
+mudah dipelajari. Sebetulnya tidak hanya pemula, para hobbyist atau 
+profesional pun ikut senang mengembangkan aplikasi elektronik 
+menggunakan Arduino. Bahasa yang dipakai dalam Arduino 
+bukan assembler yang relatif sulit, tapi bahasa pemograman C++ 
+yang disederhanakan dengan bantuan pustaka-pustaka (libraries) 
+Arduino.
+Refleksi
+Setelah mempelajari Bab 6 Pengantar Instrumentasi Digital,
+1.	 Apakah kalian menyadari manfaat semikonduktor dalam 
+kehidupan sehari-hari?
+2.	 Apakah kalian sudah memahami konsep-konsep esensial dari 
+pengantar instrumentasi digital?
+3.	 Apa yang akan kalian lakukan untuk meningkatkan pemahaman 
+mengenai pengantar instrumentasi digital ini?
+Arduino 
+juga 
+menyederhanakan 
+proses 
+bekerja 
+dengan 
+mikrokontroler, sekaligus menawarkan berbagai macam kelebihan. 
+Ada beberapa versi papan arduino, salah satu yang paling umum 
+digunakan adalah Arduino UNO. Bentuk rancangan papan arduino 
+UNO dapat dilihat pada Gambar 6.21. Arduino memiliki pin 
+digital maupun pin analog dalam satu papan rangkaian. Pin digital 
+dapat digunakan sebagai input output (I/O) sinyal digital ( 0 dan 1 
+) sedangkan pin analog digunakan untuk membaca sinyal analog 
+seperti sensor kelembaman dan sensor suhu kemudian diubah 
+menjadi nilai digital agar dapat dibaca oleh mikrokontroler. Selain 
+itu pada papan Arduino terlihat tulisan Tx dan Rx, Tx akan berkedip 
+saat Arduino mengirim data serial sedangkan Rx akan berkedip 
+saat menerimanya.
+Penggunaan 
+Arduino-UNO 
+dalam 
+kehidupan 
+sehari-hari 
+biasanya ditemukan dalam alarm otomatis, alarm pintu rumah 
+dengan sensor magnet, baca sd card, counter dengan 7 segmen 
+134
+Fisika untuk SMA/MA Kelas XII 
+4 digit, dan lain-lain. Contoh-contoh penggunaan tersebut dapat 
+dijadikan ide projek pembuatan protoype yang dapat kalian coba di 
+rumah. Tentu saja dengan melengkapi penggunaan papan Arduino 
+ditambah dengan komponen lain seperti sensor, kabel jumper, LED, 
+dan lain-lain.

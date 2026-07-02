@@ -1,0 +1,891 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Lia Laela Sarah, Irma Rahma Suwarma
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 1
+LISTRIK STATIS
+Kata Kunci
+Gaya listrik • Medan listrik • Potensial listrik • Energi potensial listrik • Kapasitansi kapasitor
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian dapat menerapkan konsep listrik statis 
+(gaya listrik, medan listrik, energi potensial listrik, potensial listrik, kapasitansi 
+kapasitor, dan rangkaian kapasitor) pada produk teknologi. Selain itu, kalian juga 
+mampu membuat proyek sederhana aplikasi listrik statis untuk menyelesaikan 
+masalah dalam kehidupan sehari-hari.
+Sumber: jannoon028/freepik (2022)
+2
+Fisika untuk SMA/MA Kelas XII
+Fenomena 
+listrik 
+statis 
+banyak 
+ditemukan di sekitar kita mulai 
+dari 
+yang 
+sederhana 
+sampai 
+produk teknologi modern. Salah 
+satu contoh produk teknologi yang 
+mengaplikasikan konsep listrik statis 
+yaitu mesin fotokopi dan printer 
+inkjet. 
+Penelitian 
+printer 
+inkjet 
+sudah dimulai sejak tahun 1950-an, 
+tepatnya pada tahun 1949, Jean-
+Antoine Nollet (19700-1977) meneliti 
+efek listrik statis pada aliran tetesan 
+Gambar 1. 2 Printer inkjet
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+zat cair (tinta), sedangkan Lord Rayleigh (19700-1977) meneliti proses 
+pembentukan tetesan dari inkjet dan interaksinya. Secara garis besar, prinsip 
+kerja printer inkjet dapat dilihat pada Gambar 1.3.
+Gambar 1.1 Peta konsep listrik statis
+Sumber : Kinkin Suartini/Kemendikbudristek (2022)
+3
+BAB 1 | Listrik Statis
+A.	 Gaya Listrik
+Saat balon karet atau mistar plastik digosok kain wol kemudian didekatkan 
+dengan potongan-potongan kertas kecil, ternyata potongan-potongan kertas 
+tertarik oleh mistar. Mengapa hal tersebut dapat terjadi? Karena mistar 
+mendapatkan kelebihan muatan negatif sehingga dikatakan menjadi 
+bermuatan listrik statis. Benda lain yang dapat bermuatan listrik statis, yaitu 
+kaca yang digosok menggunakan kain sutra. 
+Ilmuwan Amerika Benjamin Franklin (1706–1790) menyatakan mistar 
+plastik yang digosok kain wol merupakan benda yang berjenis muatan 
+negatif sedangkan kaca yang digosok dengan kain sutra merupakan benda 
+yang bermuatan positif. Pernyataan tersebut disepakati sampai saat ini.
+Gambar 1. 3 Prinsip kerja printer inkjet
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Tetesan tinta pada printer keluar melalui lubang kecil yang disebut 
+nosel. Saat proses mencetak, tinta yang dipompa dari tabung keluar melalui 
+nosle printer kemudian melewati elektroda logam. Tinta di dalam elektroda 
+diberi muatan berdasarkan perintah yang diberikan oleh komputer 
+kemudian mengalami defleksi (pembelokan) saat melewati pelat paralel 
+(pelat defleksi). Pembelokan ini menyebabkan printer dapat mengatur 
+tetesan tinta yang akan jatuh membentuk huruf atau gambar pada kertas, 
+seperti yang terlihat tulisan MNO pada Gambar 1.3.
+Ayo, Bernalar Kritis!
+Mengapa tinta mengalami pembelokan saat melewati pelat 
+defleksi?
+4
+Fisika untuk SMA/MA Kelas XII
+Aktivitas 1.1
+Gambar berikut menunjukkan dua muatan listrik q1 
+dan q2 dengan besar muatan dan jarak yang dapat 
+diubah-ubah. Apa saja yang mempengaruhi besar 
+gaya listrik pada kedua muatan?
+Jika akses internet tersedia, dapat dilakukan eksplorasi secara 
+interaktif untuk menentukan besar gaya pada muatan dengan bantuan 
+simulasi pada tautan di bawah atau pindai kode QR.
+1.	 Hukum Coulomb
+Gaya listrik antar muatan titik diteliti oleh ilmuwan Prancis bernama Charles 
+de Coulomb (1736-1806). Oleh karena itu gaya listrik sering disebut sebagai 
+gaya Coulomb. Kesimpulan hasil penelitiannya dikenal sebagai Hukum 
+Coulomb.
+Besar gaya tarik-menarik atau tolak-menolak antara dua benda 
+bermuatan listrik (gaya listrik atau gaya Coulomb) berbanding 
+lurus dengan muatan masing-masing benda dan berbanding terbalik 
+dengan kuadrat jarak antara kedua benda tersebut.
+Besar gaya listrik pada muatan listrik q1 akibat muatan q2 yang berjarak 
+r, dapat dituliskan sebagai :
+https://phet.colorado.edu/sims/html/coulombs-law/latest/coulombs-law_en.html
+F = k
+q1.q2
+r2
+(1-1)
+Gambar 1.4. dua bola bermuatan listrik positif
+Sumber: Lia L. Sarah/PhET Colorado(2022)
+Dua jenis benda bermuatan dapat berinteraksi tarik menarik maupun 
+tolak-menolak jika berada pada jarak tertentu. Peristiwa tolak-menolak atau 
+tarik-menarik menunjukkan bahwa pada kedua benda bermuatan listrik 
+terdapat Gaya. Gaya pada muatan listrik dikenal dengan gaya listrik.
+5
+BAB 1 | Listrik Statis
+dengan F adalah besar gaya (Newton) dan k adalah bilangan konstanta 
+listrik. Konstanta k ditentukan oleh jenis medium muatan itu berada. Besar 
+konstanta listrik untuk medium udara atau ruang hampa adalah k = 9 x 109 
+N.m2.C-2. Besar konstanta listrik untuk medium lain seperti air atau minyak, 
+dapat dicari dengan:
+2.	 Resultan Gaya
+Gaya merupakan salah satu besaran vektor. Oleh karena itu, sebelum 
+menentukan besar gaya pada sebuah muatan akibat beberapa muatan, harus 
+ditentukan terlebih dulu arahnya sebelum ditentukan besar resultannya.
+Ayo, Mengingat Kembali!
+Ketika dua gaya F1 dan F2 bekerja 
+pada sebuah muatan dan saling 
+membentuk 
+sudut 
+α, 
+maka 
+resultan gaya listriknya dapat 
+dicari dengan persamaan: 
+k =
+1
+4. π.ε
+ε merupakan nilai permitivitas medium yang dapat dijabarkan sebagai:
+ε = εr.εo
+dengan εo adalah permitivitas udara atau ruang hampa yang besarnya:
+εo = 8,85 x 10-12 F/m
+sedangkan εr merupakan konstanta dielektrik medium atau permitivitas 
+relatif medium terhadap permitivitas udara.
+Aktivitas 1.2 (Ayo, Berkolaborasi!)
+Perhatikan Gambar 1.6, kemudian gambarkan arah resultan gaya pada 
+muatan bola hitam akibat dua muatan lainnya dan prediksikan apakah 
+bola akan masuk ke dalam gawang?
+Fr= √(F1
+2+F2
+2+2 F1 F2 cos α )
+Gambar 1.5 Resultan gaya
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+(1-2)
+6
+Fisika untuk SMA/MA Kelas XII
+Ayo, Cek Pemahaman!
+Tiga bola muatan yang besarnya 
+sama, dua bermuatan positif dan 
+satu bermuatan negatif. Masing-
+masing muatan ditempatkan pada 
+titik sudut segitiga siku-siku yang 
+satu sama lain berjarak a seperti 
+pada Gambar 1.6. Tentukan gaya 
+listrik pada masing-masing muatan.
+B.	Medan Listrik
+1.	 Medan Listrik Muatan Titik
+Gaya dalam kehidupan sehari-hari banyak yang merupakan “gaya sentuh”. 
+Misalnya, mendorong meja, menarik kursi, memaku kapstok ke dinding, 
+menendang bola, memukul bola voli, dan lainnya. 
+Selain gaya sentuh, ada juga gaya tak sentuh. Misalnya, gaya gravitasi 
+dan gaya listrik. Saat melepaskan sebuah benda dari ketinggian tertentu, 
+kalian pasti melihat benda akan jatuh menuju permukaan Bumi. Mengapa 
+hal itu terjadi? Karena pusat Bumi memiliki gaya gravitasi yang menarik 
+benda sehingga membuat benda jatuh menuju pusat Bumi. Gaya gravitasi 
+Bumi merupakan gaya yang timbul ketika benda berada dalam “medan” 
+gravitasi Bumi. 
+Gagasan tentang “medan” pertama kali dikemukakan oleh Ilmuwan 
+Inggris, bernama Michael Faraday (1791 – 1867). Sebuah benda yang berada 
+Gambar 1. 7 Susunan bola bermuatan
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Gambar 1. 6 Gerak bola bermuatan
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+7
+BAB 1 | Listrik Statis
+Berdasarkan gambar 1.8, medan listrik pada suatu titik dapat diketahui 
+dari adanya gaya listrik terhadap muatan uji di titik tersebut.
+Daerah di sekitar muatan listrik yang menyebabkan 
+timbulnya gaya listrik pada muatan uji disebut sebagai 
+medan listrik.
+Daerah ini digambarkan dengan garis-garis di sekitar muatan listriknya. 
+Garis-garis di sekitar muatan ini disebut dengan garis gaya listrik. 
+Arah dari garis gaya listrik 
+menyatakan 
+arah 
+dari 
+medan 
+listriknya. 
+Arah 
+medan 
+listrik 
+bergantung dari jenis muatannya 
+ditunjukkan pada Gambar 1.9. Arah 
+medan listrik dari muatan positif 
+menyebar ke luar ke segala arah, 
+sedangkan arah medan listrik akibat 
+muatan negatif masuk menuju ke 
+muatan negatif. 
+Gambar 1. 8 Arah gaya pada muatan dalam medan listrik
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Gambar 1. 9 Medan listrik dari dua muatan
+Sumber: Geek/Wikimedia Commons (2010)
+Semakin rapat garis gaya listrik, kuat medan listriknya semakin besar. 
+Perhatikan Gambar 1.9, titik A akan mendapatkan kuat medan listrik yang 
+lebih besar dibandingkan dengan titik B.
+Mari, lakukan Aktivitas 1.3 untuk mengingat kembali arah medan listrik 
+setiap muatan.
+dalam medan gravitasi Bumi akan mengalami gaya gravitasi yang selalu 
+mengarah ke pusat Bumi.
+Demikian juga gaya listrik, sebuah muatan akan mendapat gaya listrik 
+ketika berada dalam medan listrik. Perbedaannya pada arah gaya. Arah gaya 
+pada muatan positif yang berada dalam medan listrik searah dengan arah 
+medan listriknya, sedangkan arah gaya pada muatan negatif berlawanan arah 
+dengan arah medan listriknya. Perhatikan Gambar 1.8.
+8
+Fisika untuk SMA/MA Kelas XII
+Medan listrik didefinisikan sebagai gaya listrik tiap 
+satuan muatan uji pada titik tertentu,
+dengan E adalah kuat medan listrik (N/C).
+Medan listrik merupakan besaran vektor seperti gaya listrik sehingga 
+dalam menentukan resultan medan listrik, harus diperhatikan dulu arahnya.
+Dengan mensubstitusi persamaan gaya listrik untuk dua muatan, kuat medan 
+(1-3)
+Aktivitas 1.3
+Melalui eksplorasi dari berbagai sumber, gambarkan arah medan 
+listrik pada gambar A, B dan C akibat muatan di bawah ini.
+Aktivitas 1.4 Menentukan Kuat Medan Listrik
+Gambar 1.11 di bawah ini menunjukkan sebuah muatan listrik yang 
+dapat diubah-ubah besar muatannya. Sebuah alat uji digunakan untuk 
+mengetahui kuat medan listrik di titik tersebut.
+Coba kalian diskusikan, bagaimana besar medan 
+listrik pada sebuah titik di sekitar muatan? Jika akses 
+internet tersedia, eksplorasi simulasi PhET (phet.
+colorado.edu) aplikasi Charges and Field pada link di 
+bawah atau pindai kode QR
+https://phet.colorado.edu/sims/html/charges-andfields/latest/charges-and-fields_en.html
+Gambar 1.11 Kuat medan listrik
+Sumber: Lia L. Sarah/PhET Colorado(2022)
+Gambar 1.10 bola bermuatan
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+v
+9
+BAB 1 | Listrik Statis
+Ayo, Cek Pemahaman!
+1.	 Sebuah muatan uji dengan besar muatan +20 µC diletakkan 
+pada suatu titik, kemudian diukur dengan elektrometer. Hasil 
+pengukuran menunjukkan besar gayanya 40 N ke arah timur. 
+Tentukan arah dan kuat medan listrik pada titik tersebut! 
+2.	 Perhatikan gambar dua muatan listrik di bawah ini, jika muatan 
+Q1 empat kali muatan Q2, tentukan letak titik yang kuat medan 
+listriknya nol.
+2.	 Medan Listrik pada Pelat Paralel
+Pelat paralel (pelat konduktor sejajar) 
+dalam kehidupan sehari-hari banyak 
+digunakan pada peralatan elektronik 
+berteknologi canggih yang berfungsi 
+memberikan medan listrik terhadap 
+muatan. 
+Perhatikan pelat paralel Gambar 
+1.13, 
+masing-masing 
+pelat 
+diberi 
+muatan 
+yang 
+sama 
+besar 
+namun 
+berlawanan jenis. Arah medan listrik 
+dari pelat positif menuju ke pelat 
+negatif. Kuat medan listrik di dalam 
+Gambar 1.13 Arah medan listrik pada pelat paralel
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+F
+r2
+E =
+(kQq)
+q
+=
+q
+E = k
+r2
+Q
+(1-4)
+listrik pada sebuah titik yang berjarak r dari muatan Q menjadi:
+pelat paralel adalah homogen (sama besar di setiap titik), besarnya adalah:
+Gambar 1.12 Dua muatan
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+10
+Fisika untuk SMA/MA Kelas XII
+Ayo, Bernalar Kritis!
+Pada teknologi printer inkjet, tinta didorong keluar dari nozzle berupa 
+tetesan dengan diameter yang sangat kecil 9 x 10-6 m. Sekitar 150.000 tetesan 
+meninggalkan nozzle setiap detik dan bergerak dengan kecepatan kira-kira 
+18 m/s menuju kertas. Pada printer inkjet jenis kontinu, saat kertas akan 
+diberi tinta sesuai huruf atau gambar dari komputer, ada dua jenis sistem 
+defleksi seperti terlihat pada Gambar 1.15. 
+dengan E adalah kuat medan listrik (N/C), ε adalah permitivitas bahan di 
+dalam pelat (C2/Nm2) dan σ adalah rapat muatan per satuan luas (C/m2). 
+Sedangkan di luar pelat, medan listriknya nol.
+Sebuah muatan jika sudah bergerak sebelum masuk ke dalam medan 
+listrik, maka muatan tersebut akan mengalami perubahan gerak baik arah 
+ataupun besar kelajuannya. Mari lakukan Aktivitas 1.5 untuk memahaminya.
+ σ
+ε
+E =
+(1-5)
+Aktivitas 1.5 (Ayo, Berteknologi)
+Gambarkan gaya listrik pada muatan bergerak dengan laju v ke kanan 
+yang masuk ke dalam medan listrik pada Gambar 1.14, kemudian 
+gambarkan arah lintasannya.
+Jika akses internet tersedia, lakukan pengamatan 
+virtual melalui tautan atau pindai kode QR: 
+https://ophysics.com/em6.html
+Gambar 1.14 Gerak muatan dalam medan listrik
+Sumber: Lia L. Sarah/Ophysics.com(2022)
+11
+BAB 1 | Listrik Statis
+C.	 Energi Potensial Listrik dan Potensial Listrik
+Pada pembahasan sub bab pertama, sudah 
+dibahas bahwa gaya listrik antara dua muatan 
+dapat dianalogikan dengan gaya gravitasi. 
+Gambar 1.16 menunjukan sebuah muatan q 
+berada pada jarak r dari muatan Q. Karena 
+jenis muatannya sama, pada setiap muatan 
+terjadi gaya tolak menolak atau gaya Coulomb 
+sebesar: 
+Jika muatan uji q dipindahkan mendekati muatan Q, maka diperlukan 
+usaha untuk melawan gayanya. Besar usaha oleh gaya luar yang diperlukan 
+untuk melawan medan gaya dalam memindahkan muatan uji q dari posisi 
+A yang berjarak rA ke posisi B yang berjarak rB dari muatan sumber Q sama 
+dengan beda energi potensial antara posisi B dan A. Hal ini dapat dinyatakan: 
+Jika digunakan posisi acuan yang berjarak tak hingga (r = ~) dari muatan 
+sumber Q, maka beda energi potensial titik yang berada pada jarak r dari 
+muatan sumber Q terhadap energi potensial di posisi acuan adalah:
+Gambar 1.15 Prinsip kerja printer kontinu
+Sumber : Jia Li/Lab on Chip (2015)
+Gambar 1.16 Dua partikel bermuatan
+Sumber : Unknown/Canva Edu (2022)
+F = k
+r2
+Qq
+W = EpB- EpA=
+rB
+kQq
+rA
+kQq
+-
+Cermati kedua gambar 1.15, kemudian jelaskan perbedaan cara kerja 
+sistem defleksi tetesan berdasarkan prinsip listrik statis serta analisis sistem 
+mana yang paling baik.
+12
+Fisika untuk SMA/MA Kelas XII
+Penamaan satuan ini diberikan sebagai penghormatan kepada 
+Alessandro Volta (1745-1827) penemu sel volta, asal mula baterai.
+Berdasarkan persamaan potensial listrik, dapat dipahami bahwa energi 
+potensial listrik memiliki satuan lain, yaitu elektron volt (eV). Satu elektron 
+volt setara dengan satu muatan elektron dalam beda potensial listrik 1 volt.
+Energi potensial listrik dan potensial listrik merupakan besaran skalar, 
+sehingga jumlah total akibat beberapa muatan dapat dihitung secara aljabar 
+biasa.
+dengan V yaitu potensial listrik, satuannya volt.
+1 volt = 
+1 Coulomb
+1 Joule
+1 eV = 1,6 x 10-19 joule
+dengan Ep adalah energi potensial listrik antara dua muatan dengan satuan 
+joule.
+Persamaan energi potensial listrik (1-6) tidak hanya berlaku untuk dua 
+muatan yang sejenis namun juga untuk muatan yang berlawanan jenis. 
+Dua muatan yang berlawanan jenis akan saling tarik-menarik sehingga saat 
+kedua muatan ingin dipisahkan pada jarak tertentu r diperlukan usaha luar 
+untuk melawan gayanya. Saat kedua muatan berjarak r ini maka muatan 
+memiliki energi potensial listrik sesuai persamaan (1-6).
+Besar gaya listrik pada muatan bergantung pada besar muatan. Ada 
+besaran fisis yang sangat penting dan banyak digunakan pada aplikasi 
+kehidupan sehari-hari, yaitu dengan membagi besaran energi potensial listrik 
+terhadap muatan. Besaran ini dikenal sebagai potensial listrik. Dengan 
+demikian, potensial listrik adalah usaha untuk memindahkan muatan dari 
+titik tak hingga ke titik berjarak tertentu dari sebuah muatan tiap satuan 
+muatan.
+Ep = k
+r
+Qq
+(1-6)
+Potensial listrik merupakan energi potensial listrik tiap satuan muatan.
+(1-7)
+V =
+q
+Ep
+13
+BAB 1 | Listrik Statis
+Potensial 
+listrik 
+dikenal 
+juga 
+sebagai 
+“tegangan” dan diukur dalam volt. Istilah 
+“tegangan” banyak digunakan dalam kehidupan 
+sehari-hari 
+sebagai 
+beda 
+potensial 
+listrik. 
+Misalnya, sebuah baterai memiliki tegangan 
+sebesar 9 V – berarti  energi sebesar 9 joule 
+setiap 1 coulomb muatan mengalir melewati 
+baterai. Lalu bagaimana jika muatan berada 
+dalam pelat paralel yang diberi beda potensial?
+Gambar 1.17 menunjukkan sebuah muatan 
+positif +q0 yang berada di dalam pelat paralel 
+Analogi dengan usaha akibat gaya gravitasi bumi, usaha yang bekerja 
+pada muatan tersebut, yaitu:
+Dengan membagi kedua ruas terhadap besar muatan q0 dan substitusi 
+persamaan gaya listriknya, maka:
+untuk pelat paralel dengan beda potensial listrik antar pelat ∆V dan 
+jarak antar pelat d, medan listriknya:
+dengan d adalah jarak antar pelat (meter) dan ∆V adalah beda potensial 
+listrik (volt).
+Persamaan ini banyak diaplikasikan dalam berbagai produk teknologi 
+yang menggunakan prinsip pelat paralel atau kapasitor keping sejajar.
+Aktivitas 1.6. Menganalisis Cara Kerja Printer Inkjet
+Secara berkelompok, coba analisis cara kerja printer inkjet dengan 
+menjawab pertanyaan berikut. Huruf dan gambar dibuat dengan 
+menyemprotkan tetesan tinta secara horizontal pada selembar kertas 
+dari nozzle yang bergerak cepat. 
+Gambar 1.17 Muatan dalam pelat 
+paralel
+Sumber : Unknown/Canva Edu (2022)
+F = q0 . E
+W= ∆Ep=EpA-EpB
+E =
+d
+∆V
+(1-8)
+bergerak dari A ke B akibat adanya gaya listrik,
+14
+Fisika untuk SMA/MA Kelas XII
+1.	 Jelaskan mengapa tinta bermuatan mengalami pembelokan 
+(defleksi) saat melewati elektrode?
+2.	 Tentukan besar medan listrik pada pelat defleksi dengan asumsi 
+gaya gravitasi diabaikan!
+3.	 Tentukan beda potensial listrik yang harus diberikan!
+Petunjuk Khusus:
+1.	 Lintasan gerak muatan merupakan lintasan parabola.
+2.	 Persamaan gerak muatan memenuhi Hukum II Newton.
+Tetes 
+tinta 
+masing-masing 
+memiliki massa m = 1,3 x 10-11 kg 
+bergerak 
+meninggalkan 
+nozzle 
+kecepatan v = 18 m/s. Tetes tinta 
+kemudian melewati elektrode dan 
+mendapatkan muatan sebesar 1,5 x 
+10-13 C, lalu melewati pelat defleksi 
+dengan medan listrik sebesar E yang 
+panjangnya Do = 1,8 cm dan jarak 
+antar pelat sebesar 4 cm. Jika tetes 
+tinta harus dibelokkan jarak d = 18,75 mm pada saat mencapai akhir 
+pelat defleksi, maka:
+D.	Kapasitor Keping Sejajar
+Konsep keping sejajar telah banyak digunakan pada produk teknologi salah 
+satunya. yaitu layar sentuh kapasitif yang umum digunakan pada smartphone 
+sekarang. Layar kapasitif bekerja dengan memanfaatkan sifat kapasitif tangan 
+untuk memberi sinyal pada layar 
+sentuh. Layar kapasitif bekerja tidak 
+bergantung pada tekanan sentuhan 
+dan mampu menampilkan kejernihan 
+hingga 90%. Hal ini menjadikan layar 
+kapasitif 
+lebih 
+banyak 
+digunakan 
+dibandingkan layar resistif.
+Layar sentuh kapasitif terbuat dari 
+lapisan transparan yang merupakan 
+konduktor pada bagian dalam dan luar serta isolator pada bagian tengahnya. 
+Hal ini merupakan penerapan dari kapasitor keping sejajar. Kapasitor 
+Gambar 1.19 Lapisan layar sentuh
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Gambar 1.18 Defleksi muatan
+Lia L. Sarah/Kemendikbudristek (2022)
+15
+BAB 1 | Listrik Statis
+keping sejajar terdiri dari dua lapisan konduktor 
+yang dipisahkan dengan bahan dielektrik berupa 
+isolator, dapat dilihat pada Gambar 1.19.
+Pada diagram rangkaian, sebuah kapasitor 
+standar disimbolkan seperti Gambar 1.20. Saat 
+kapasitor dihubungkan dengan sumber tegangan, 
+terjadi proses pengisian muatan pada kapasitor 
+sampai kapasitor memperoleh tegangan yang 
+sama dengan tegangan sumber. Setelah sumber 
+tegangan dilepaskan, kapasitor masih menyimpan 
+Kapasitansi kapasitor merupakan ukuran kapasitas kapasitor 
+dalam menyimpan muatan.
+Aktivitas 1.7. Kapasitor Keping Sejajar
+Coba identifikasi apa saja yang mempengaruhi 
+kapasitas kapasitor keping sejajar. 
+Jika akses internet tersedia, klik pada tautan di 
+samping atau pindai kode QR, kemudian lakukan 
+pengamatan. Tuliskan data hasil pengamatan dalam 
+bentuk tabel, dan buat kesimpulan.
+Sebuah kapasitor yang diberi beda potensial V akan menyimpan 
+muatan Q, perbandingan Q terhadap V selalu konstan, nilai ini menyatakan 
+kapasitansi kapasitornya, yaitu:
+dengan C adalah kapasitansi kapasitor (farad), Q adalah besar muatan 
+(coulomb), dan V yaitu tegangan (volt).
+Perlu diperhatikan bahwa nilai kapasitansi kapasitor tidak dipengaruhi 
+oleh beda potensial sumber, namun dipengaruhi luas penampang keping 
+A, jarak antar keping d dan konstanta bahan dielektrik k. Besar kapasitansi 
+kapasitor dapat dinyatakan sebagai:
+Gambar 1.20 Simbol Kapasitor
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+C =
+V
+Q
+(1-9)
+energi listrik tersebut sehingga jika suatu saat dihubungkan dengan beban, 
+kapasitor dapat mengalirkan muatannya. Kemampuan kapasitor untuk 
+menyimpan muatan disebut dengan kapasitansi kapasitor.
+https://phet.colorado.edu/sims/html/capacitor-lab-basics/latest/capacitor-lab-basics_en.html 
+16
+Fisika untuk SMA/MA Kelas XII
+C =
+d
+εA
+(1-10)
+Ayo, Cermati!
+Ukuran kapasitansi dalam farad merupakan nilai yang sangat besar. Coba 
+cari luas permukaan keping yang diperlukan jika sebuah kapasitor keping 
+sejajar ingin memiliki kapasitansi 1 farad, dengan bahan dielektrik udara ε0 
+= 8,85 x 10-12 F/m, dan jarak antar keping 1 meter. Kalian akan menemukan 
+hampir seluruh luas permukaan pulau Jawa tertutup oleh keping kapasitor 
+tersebut. Oleh karena ukuran kapasitansi secara umum kecil, kapasitansi 
+kapasitor yang ada di pasaran dinyatakan dalam satuan mikro farad (μF), 
+nano farad (nF) dan piko farad (pF). 
+Kapasitor ketika sudah terisi muatan dengan tegangannya sama dengan 
+tegangan sumber, dikatakan kapasitor menyimpan energi listrik. Energi yang 
+tersimpan dalam kapasitor bergantung pada besar kapasitansi kapasitor dan 
+tegangan sumber, 
+dengan E adalah energi yang tersimpan (joule).
+dengan ε yaitu adalah permitivitas bahan atau permitivitas medium yang 
+sudah dibahas pada sub bab gaya listrik.
+E =
+1
+2
+CV2
+(1-11)
+E.	 Rangkaian Kapasitor
+Kapasitor yang tersedia di pasaran 
+memiliki berbagai bentuk, jenis, 
+ukuran dan kapasitansi. Sebuah 
+kapasitor pada umumnya diberi 
+label nilai kapasitansinya. 
+Produk-produk 
+elektronik 
+secara umum, untuk mendapatkan 
+nilai 
+kapasitansi 
+sesuai 
+dengan 
+yang dibutuhkan, dibuat dengan 
+Gambar 1. 21 Contoh kapasitor
+Sumber: Eric Scharder/Wikimedia Commons (2011)
+merangkai beberapa kapasitor secara seri atau paralel. Bagaimana cara 
+mengetahui kapasitansi total dari rangkaian seri dan paralel kapasitor? Coba 
+Kalian lakukan Aktivitas 1.8.
+17
+BAB 1 | Listrik Statis
+Aktivitas 1.8. Rangkaian Seri-Paralel Kapasitor
+Tujuan:
+Menentukan kapasitansi total dari rangkaian seri dan paralel 
+kapasitor.
+Alat dan Bahan:
+•	
+3 buah kapasitor
+•	
+breadboard
+•	
+kabel
+•	
+multimeter (capacitance meter)
+Langkah Penyelidikan: 
+1.	 Ukur 
+kapasitansi 
+masing-
+masing kapasitor menggunakan 
+capacitance meter, kemudian 
+tuliskan pada tabel.
+2.	 Rangkai tiga kapasitor secara 
+seri pada papan rangkaian, 
+kemudian ukur kapasitansinya.
+3.	 Rangkai tiga kapasitor secara paralel para papan rangkaian, 
+kemudian ukur kapasitansinya.
+Hasil Pengamatan: 
+Kapasitansi 
+masing-masing 
+kapasitor yang 
+terukur (μF)
+Kapasitansi total 
+rangkaian seri yang 
+terukur (μF)
+Kapasitansi total 
+rangkaian parallel 
+yang terukur (μF)
+C1 =
+C2 =
+C3 =
+Buat kesimpulan berdasarkan data hasil pengamatan.
+Gambar 1. 22 Rangkaian kapasitor 
+pada breadboard
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+18
+Fisika untuk SMA/MA Kelas XII
+1.	 Rangkaian Seri
+Gambar 1.23 menunjukkan tiga kapasitor 
+dengan kapasitansi masing-masing C1, C2 dan 
+C3 dihubungkan dengan sebuah tegangan V. 
+Jika tegangan pada ujung-ujung kapasitor 
+adalah V1, V2 dan V3, maka:
+V = V1 + V2 + V3
+Substitusikan persamaan Q = CV atau,         	
+	
+	
+sehingga diperoleh:
+kapasitansi total untuk rangkaian seri sebesar:
+V =
+C
+Q
+C total
+Qtotal
+C 1
+Q1
+C 2
+Q2
+C 3
+Q3
+=
++
++
+Gambar 1. 23 Rangkaian Seri 
+Kapasitor
+Sumber: Lia L. Sarah/Kemendikbudristek 
+(2022)
+Sesuai prinsip rangkaian seri Q1 = Q2 = Q3 = Qtotal , maka:
+2.	 Rangkaian Paralel
+Gambar 1.24 menunjukkan tiga kapasitor C1, 
+C2 dan C3 yang dirangkai paralel kemudian 
+dihubungkan 
+dengan 
+sumber 
+tegangan 
+V. 
+Berdasarkan hasil percobaan, setiap ujung-ujung 
+kapasitor memiliki besar tegangan yang sama:
+V = V1 = V2 = V3
+Sesuai prinsip rangkaian seri, 
+ Qtotal = Q1 = Q2 = Q3
+kemudian substitusi persamaan Q = CV, maka diperoleh:
+kapasitansi total untuk rangkaian paralel :
+C = C1 + C2 + C3 + ....
+C seri
+1
+C 1
+1
+C 2
+1
+C 3
+1
+=
++
++
++ ...
+Gambar 1.24 Rangkaian paralel Kapasitor
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+19
+BAB 1 | Listrik Statis
+1.	 Besar muatan merupakan kelipatan bilangan bulat muatan 
+elementer e = 1,6 x 1019 C.
+2.	 Gaya listrik antar muatan sejenis tarik menarik, gaya antar muatan 
+tidak sejenis tolak menolak. Besar gayanya, yaitu: 
+3.	 Daerah di sekitar muatan listrik yang mengakibatkan gaya listrik 
+pada muatan uji di sekitarnya disebut medan listrik.
+4.	 Medan listrik digambarkan oleh garis gaya listrik yang pada muatan 
+positif arahnya ke luar muatan ke segala arah sedangkan pada 
+muatan negatif arahnya menuju muatan. 
+Rangkuman
+F  =  k
+r2
+q1 . q2
+1.3 Ayo, Cek Pemahaman Kalian!
+Empat kapasitor identik masing-masing 470µF 
+dihubungkan sesuai Gambar 1.25, kemudian 
+dihubungkan dengan tegangan 12 V. Tentukan:
+a.	 kapasitansi total rangkaian
+b.	 muatan total yang tersimpan pada rangkaian
+c.	 energi total yang tersimpan dalam kapasitor
+Proyek
+Secara berkelompok, buat sebuah produk yang menerapkan listrik 
+statis. Pilihlah satu tema yang sesuai dengan minat kalian. Beberapa 
+topik yang dapat dijadikan pilihan proyek kali ini, diantaranya:
+1.	 membuat contoh aplikasi teknologi touchscreen seperti DIY Stylus 
+yaitu pensil yang dapat digunakan sebagai pensil digital pada 
+handphone/tablet,
+2.	 membuat kapasitor sederhana dari bahan-bahan yang tersedia di 
+sekitar rumah seperti alumunium foil dan kertas.
+Gambar 1. 25 Rangkaian 
+Kapasitor
+Sumber: Lia L. Sarah/Kemendikbudristek 
+(2022)
+20
+Fisika untuk SMA/MA Kelas XII
+1.	 Perhatikan diagram A dan B di bawah ini.
+Asesmen
+Jawablah pertanyaan-pertanyaan di bawah ini dengan tepat.
+5.	 Kuat medan listrik yaitu besar gaya listrik tiap satuan muatan. 
+6.	 Energi potensial listrik adalah usaha oleh gaya luar yang diperlukan 
+untuk melawan medan gaya dalam memindahkan muatan uji q dari 
+satu posisi ke posisi lain.
+7.	 Potensial listrik yaitu energi potensial listrik tiap satuan muatan,
+8.	 Hubungan tegangan sumber dan muatan yang tersimpan dalam 
+kapasitor dapat dinyatakan: 
+9.	 Kapasitansi kapasitor keping sejajar dipengaruhi oleh luas 
+penampang keping, jarak antar keping dan bahan dielektriknya.
+10.	Energi listrik yang tersimpan dalam kapasitor, yaitu:
+11.	Kapasitansi total rangkaian seri yaitu:
+12.	Kapasitansi total rangkaian paralel, yaitu:
+C = C1 + C2 + C3 + ....
+V =
+q
+Ep
+C =
+V
+Q
+E =
+1
+2
+CV2
+C seri
+1
+C 1
+1
+C 2
+1
+C 3
+1
+=
++
++
++ ....
+Gambar 1.26 diagram bola bermuatan
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+21
+BAB 1 | Listrik Statis
+4.	 Seorang siswa melakukan percobaan 
+untuk 
+menentukan 
+kapasitansi 
+total sebuah rangkaian yang terdiri 
+dari 3 kapasitor identik dengan 
+menggunakan 
+kapasitansi 
+meter. 
+Ketika 
+dirangkai 
+dengan 
+skema 
+gambar A, kapasitansi yang terukur 
+Bandingkan diagram A dan B yang menunjukkan dua muatan identik 
+pada jarak tertentu. 
+a.	 Lengkapi kalimat berikut: Jarak muatan 1 dan muatan 2 pada 
+diagram B _________ kali lebih besar dari jarak muatan 1 dan 
+muatan 2 pada diagram A, sehingga gaya tarik-menarik pada 
+diagram B __________ kali dari gaya tarik-menarik pada diagram 
+A.
+b.	 Berikan penjelasan tentang hasil perbandingan diagram A dan B 
+tersebut berdasarkan jawaban a.
+2.	 Seorang 
+siswa 
+melakukan 
+simulasi 
+virtual 
+untuk 
+menemukan hubungan gaya 
+listrik 
+antara 
+dua 
+muatan 
+dengan jarak kedua muatan. 
+Berdasarkan grafik tersebut, 
+berapa gaya listrik pada saat 
+kedua muatan berjarak 16 cm? 
+... N
+3.	 Sebuah teknologi layar sentuh terdiri dari dua lapisan konduktif 
+bagian luar dan diisi bahan dielektrik pada bagian tengahnya. 
+A. 	
+	
+B.	
+	
+C.	
+	
+D.	
+	
+E.
+1
+11
+C
+5
+11
+C
+6
+11
+C
+9
+11
+C
+12
+11
+C
+Jika diberi satu lapisan bahan 
+dielektrik setebal d, konstanta 
+dielektrik k, dan kapasitansinya 
+C, 
+maka 
+saat 
+ditambahkan 
+dua lapisan dielektrik dengan 
+konstanta 2k dan 3k seperti 
+Gambar 1.28 kapasitansinya akan menjadi ….
+Gambar 1.27 Grafik gaya pada dua muatan
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+Gambar 1.28 Kapasitor keping sejajar
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+22
+Fisika untuk SMA/MA Kelas XII
+Setelah kalian mempelajari Bab 1  Listrik Statis: 
+1.	 Menurut kalian, materi apa yang menarik pada listrik statis?
+2.	 Hal-hal apa yang belum dipahami pada materi listrik statis?
+3.	 Apa yang perlu dilakukan untuk memahami hal-hal yang belum 
+dipahami pada nomor 2?
+Refleksi
+Petir merupakan fenomena 
+listrik 
+statis 
+yang 
+paling 
+sering 
+dilihat. 
+Energi 
+listrik yang dihasilkan dari 
+peristiwa 
+terjadinya 
+petir 
+sangat besar. Oleh karena 
+itu, banyak penelitian yang 
+mencoba menyelidiki potensi 
+petir sebagai sumber energi 
+listrik. Petir juga memiliki 
+potensi bahaya, yaitu dapat 
+Pengayaan
+menyambar benda-benda terdekatnya. Oleh karena itu, gedung-
+gedung tinggi banyak yang dilengkapi dengan penangkal petir. Coba 
+eksplorasi bagaimana cara terjadinya petir dan analisis prinsip kerja 
+penangkal petir.
+sebesar C, jika dirangkai dengan 
+skema gambar B hasil pengamatan 
+akan 
+menunjukkan 
+kapasitansi 
+sebesar
+A. 	
+	
+ B. 	
+	
+C.	
+	
+D. C	
+       E. 3C
+C
+9
+C
+6
+C
+3
+Gambar 1.29 Rangkaian kapasitor
+Sumber: Lia L. Sarah/Kemendikbudristek (2022)
+Gambar 1.30 Petir
+Sumber: Unknown/Canva edu (2022)

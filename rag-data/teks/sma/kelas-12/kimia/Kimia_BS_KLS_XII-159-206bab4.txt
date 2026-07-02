@@ -1,0 +1,1542 @@
+145
+Bab IV MAKROMOLEKUL ORGANIK
+Bab
+IV
+Setelah mempelajari bab ini, kalian akan mampu mengidentifikasi struktur 
+polimer, menyebutkan jenis-jenis polimer, membedakan reaksi polimerisasi 
+dan mendiskusikan kegunaan polimer dalam kehidupan sehari-hari. Kalian 
+juga akan mampu menganalisis berbagai polimer yang ada pada sistem 
+makhluk hidup maupun lingkungan sekitar.
+MAKROMOLEKUL 
+ORGANIK
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XII
+Penulis	 : 	Galuh Yuliani, dkk
+ISBN	
+: 	978-602-427-968-4 (jil.2)
+146
+Kimia SMA/MA Kelas XII
+Rompi anti peluru Kevlar®, kain anti kusut polyester, pipa anti korosi 
+polivinil klorida dan wajan anti lengket Teflon™ adalah benda-benda 
+dengan kegunaan dan karakteristik unggul dibandingkan benda sejenis 
+yang dibuat dari bahan lain. Apa kesamaan dari keempat material ini? 
+Pada bab Makromolekul Organik, kalian akan mengetahui jawabannya.
+Tahukah kalian? Apabila alpukat yang masih mentah dimasukkan 
+ke dalam wadah karton bersamaan dengan buah apel dan menutupnya 
+selama 1-2 hari, maka alpukat akan mengalami pematangan dengan 
+cepat. Mengapa demikian? Pada suhu kamar dan kondisi tertutup, buah 
+apel akan mengalami proses pematangan cepat dan menghasilkan gas 
+etena (Gambar 4.1). Akumulasi gas etena yang berperan sebagai agen 
+pematangan akan mempercepat pematangan buah alpukat.
+Mind Map
+Makromolekul Organik:
+Polimer
+Penyusun Polimer
+Reaksi Polimerisasi
+Polimerisasi Adisi
+Polimerisasi Kondensasi
+Polimer Sintetik
+Polimer Semi-sintetik
+Polimer Alam
+Karbohidrat
+Protein
+DNA
+Plastik
+Daur Ulang
+Tata Nama Polimer
+Polimer Linier
+Polimer Bercabang
+Polimer Berikatan 
+silang
+Struktur Polimer
+Unit Ulang
+Monomer
+Klasifikasi
+147
+Bab IV MAKROMOLEKUL ORGANIK
+Gambar 4.1	 Pematangan buah alpukat menggunakan gas etena dari apel
+Gas etena yang tidak berwarna dan tidak berbau, ternyata 
+merupakan bahan baku dari botol plastik yang kalian gunakan untuk 
+minum. Namun, mengapa keduanya memiliki karakteristik yang amat 
+berbeda? Mari kita pelajari alasannya. 
+Sebelum mencapai bab ini, kalian baru mempelajari molekul-
+molekul organik yang berukuran relatif kecil. Misalnya etena, etanol, 
+benzena atau asam propanoat. Gas etena berwujud gas sedangkan 
+botol plastik terbuat dari polietena yang berwujud padatan. Polietena 
+merupakan molekul organik berukuran sangat besar. Ternyata, selain 
+polietena ada banyak molekul organik berukuran sangat besar yang 
+digunakan dalam keseharian ataupun yang ditemukan dalam tubuh 
+kita. 
+148
+Kimia SMA/MA Kelas XII
+Pada bab ini, kita akan membahas kelompok molekul besar yang 
+disebut makromolekul. Kalian akan mempelajari lebih jauh mengenai 
+struktur dan sifat dari berbagai makromolekul, serta mempelajari proses 
+pembentukannya. Apa saja contoh makromolekul? Makromolekul 
+mencakup kelompok molekul berukuran besar yang banyak ditemui 
+pada sistem makhluk hidup dan di sekitar kita. Makromolekul pada 
+makhluk hidup antara lain protein, asam nukleat, karbohidrat dan 
+lipida. Contoh makromolekul di sekeliling kita antara lain plastik, karet 
+dan intan.  Kelompok makromolekul penting yang akan kita bahas pada 
+bab ini adalah polimer.
+A.	 Pengertian dan Struktur Polimer
+Molekul-molekul kecil dapat bergabung satu sama lain melalui ikatan 
+kovalen membentuk molekul yang berukuran besar. Bagian-bagian 
+molekul kecil ini dinamakan ‘mer’. Poli berarti banyak, sedangkan 
+mer berarti bagian. Dengan demikian, polimer merupakan hasil 
+penggabungan dari bagian-bagian kecil yang amat banyak.
+Untuk menggambarkan polimer, coba bayangkan untaian kalung 
+mutiara. Setiap butir mutiara merepresentasikan monomer (satu 
+molekul kecil), sedangkan untaian kalung mutiara merepresentasikan 
+polimer (Gambar 4.2). Polimer dapat tersusun atas satu jenis monomer 
+saja, namun sebagian polimer tersusun atas kombinasi dua atau lebih 
+monomer yang berbeda.
+149
+Bab IV MAKROMOLEKUL ORGANIK
+Gambar 4.2	 Ilustrasi polimer sebagai untaian kalung mutiara dan butiran mutiara sebagai 
+unit-unit monomer
+Pada bab sebelumnya, kalian sudah mempelajari struktur dari 
+senyawa hidrokarbon golongan alkena. Satu contoh molekul sederhana 
+golongan alkena adalah etena. Rumus struktur dari etena ditunjukkan 
+pada Gambar 4.3 (a). 
+(a)                                (b)                                    (c)
+Gambar 4.3	 Struktur molekul dari: (a) monomer etena, (b) polimer polietena dan (c) polietena 
+menggunakan unit ulangnya
+Apabila molekul-molekul etena yang sangat banyak saling berikatan, 
+maka dihasilkan polimer bernama polietena (atau polietilena) (lihat 
+Gambar 4.3 (b). Etena disebut sebagai monomer  dan molekul panjang 
+150
+Kimia SMA/MA Kelas XII
+yang dihasilkan dari penggabungan molekul-molekul etena ini disebut 
+polimer. Polietilena (PE) adalah plastik berharga murah yang banyak 
+digunakan untuk membuat kantong plastik dan botol plastik.
+Satu molekul polimer dapat tersusun dari ribuan monomer, 
+karenanya tidak mungkin kita menggambarkan keseluruhan 
+struktur 
+dari 
+polimer. 
+Sebagai 
+penggantinya, 
+kita 
+dapat 
+menggambarkan struktur polimer sebagai struktur sederhana yang 
+direpresentasikan pada Gambar 4.3 (c). Struktur unit ulang monomer 
+dituliskan di dalam tanda kurung dan huruf ‘n’ merepresentasikan 
+banyaknya jumlah molekul monomer yang bergabung menjadi 
+polimer. Lambang ‘n’ juga menandakan bahwa ada banyak sekali 
+molekul monomer yang tergabung dalam polimer tersebut. Namun, 
+perhatikan dengan lebih teliti! Struktur dari unit ulang tidak betul-
+betul identik dengan struktur monomer etena. Apa bedanya? 
+Diskusikan dengan teman kalian. Setelah berdiskusi, catatlah 
+kesimpulanmu di bawah ini.
+Lengkapi pernyataan berikut:
+Monomer adalah________________________________________
+Unit ulang adalah________________________________________
+Polimer adalah___________________________________________
+Penamaan polimer berdasarkan International Union of Pure and 
+Applied Chemistry (IUPAC) dapat didasarkan pada sumber monomernya. 
+Nama polimer diawali dengan ‘poli’ yang berarti banyak, diikuti nama 
+monomernya. Selain penamaan secara IUPAC, penamaan trivial (umum) 
+dan penamaan menggunakan nama dagang lebih banyak digunakan 
+pada polimer. Polietena, misalnya, yang dibuat dari monomer etena, 
+lebih sering disebut polietilena (nama trivial), bukan polietena. Selain 
+itu, polimer yang dibuat dari kloroetena, lebih sering disebut polivinil 
+klorida (PVC) bukan polikloroetena. Demikian pula dengan polimer 
+151
+Bab IV MAKROMOLEKUL ORGANIK
+yang terbuat dari propena, seringkali disebut polipropilena. Beberapa 
+polimer juga dikenal dengan nama dagangnya antara lain teflon, 
+dakron dan nilon.
+Ayo Berlatih
+Setelah mengetahui struktur umum dari polimer, lengkapilah Tabel 
+4.1 menggunakan berbagai sumber informasi.
+Tabel 4.1 Contoh polimer beserta struktur dan kegunaannya
+Nama 
+polimer
+Struktur 
+monomer
+Struktur 
+unit ulang
+Struktur 
+polimer
+Kegunaan
+polietilena 
+(PE)
+H2C 
+CH2
+H
+H
+H
+H
+c
+c
+H
+H
+H
+H
+c
+c
+H H
+H
+H
+c
+c
+H
+H
+H
+H
+c
+c
+kantong 
+plastik, 
+wadah 
+makanan, 
+mainan
+polistirena 
+(PS)
+…
+…
+…
+wadah 
+Styrofoam, 
+insulasi
+polivinil 
+klorida 
+(PVC)
+…
+…
+…
+bahan 
+bangunan, 
+pipa
+poliakrilo 
+nitril (PAN)
+…
+…
+…
+cat, bahan 
+karpet
+B.	 Reaksi Polimerisasi
+Selain polimer alam yang tersedia melimpah, ada banyak polimer yang 
+dibuat oleh manusia dan dikenal sebagai polimer sintetik. Banyak 
+diantara polimer sintetik ini yang memiliki karakteristik unggul 
+sehingga dimanfaatkan untuk berbagai aplikasi. Polimer sintetik yang 
+dikembangkan dari hasil riset industri seringkali dipatenkan dan 
+didaftarkan sebagai merek. 
+152
+Kimia SMA/MA Kelas XII
+Bagaimana polimer disintesis?
+Polimer terbentuk melalui reaksi polimerisasi, dimana molekul-
+molekul monomer berikatan membentuk rantai polimer. Dua jenis 
+reaksi sintesis polimer adalah reaksi adisi dan kondensasi. Keduanya 
+sudah kalian pelajari pada bab sebelumnya tentang reaksi-reaksi 
+senyawa organik. 
+1.	 Polimerisasi adisi
+Polimerisasi adisi merupakan reaksi polimerisasi dimana molekul-
+molekul monomer ditambahkan pada rantai polimer satu per satu. Pada 
+reaksi ini, tidak dihasilkan produk samping berupa molekul-molekul 
+kecil. Contoh polimer yang dibuat melalui reaksi polimerisasi adisi 
+adalah polietena. Pada reaksi polimerisasi etena, terjadi penggantian 
+ikatan rangkap pada monomer etena menjadi ikatan tunggal karbon-
+karbon yang menghubungkan rantai unit ulang etena. Dengan kata lain, 
+monomer yang awalnya memiliki ikatan tak jenuh, berubah menjadi 
+senyawa jenuh pada akhir reaksi. 
+Pada reaksi polimerisasi adisi, terdapat tiga tahap reaksi, yaitu 
+inisiasi, propagasi dan terminasi. Tahapan reaksi polimerisasi adisi 
+secara sederhana dapat dilihat pada Gambar 4.4.
+H
+H
+H
+R
+H
+H
+H
+H
+C
+C
+C
+C
++ Inisiator
++
+C
+CH2
+I
+R
+R
+R
+H
+n
+H
+H
+C
+I
+C
+Gambar 4.4	 Contoh reaksi polimerisasi adisi
+Tahap inisiasi adalah tahap awal dari reaksi polimerisasi. Tahap 
+ini melibatkan inisiator yang berperan untuk menghasilkan spesi aktif 
+pertama dari monomer. Tahap berikutnya adalah tahap perambatan 
+rantai, yaitu saat monomer secara terus menerus ditambahkan pada 
+153
+Bab IV MAKROMOLEKUL ORGANIK
+rantai polimer yang mengalami perpanjangan. Tahap ini disebut sebagai 
+tahap propagasi. Saat monomer baru ditambahkan, maka sisi aktif 
+berpindah ke monomer terakhir tersebut. Selanjutnya adalah tahap 
+terminasi, dimana reaksi kimia pada tahap ini akan mendeaktivasi sisi 
+aktif polimer, sehingga perpanjangan rantai terhenti. 
+2.	 Polimerisasi kondensasi
+Pada polimerisasi kondensasi, terdapat dua molekul monomer yang 
+bereaksi membentuk ikatan kovalen, diikuti dengan pelepasan 
+molekul sederhana. Contoh produk polimerisasi kondensasi adalah 
+poliester dan nilon. Hampir semua reaksi pembentukan biopolimer 
+berlangsung melalui mekanisme reaksi polimerisasi kondensasi, 
+misalnya pembentukan pati, polipeptida dan sutera. 
+Poliester merupakan kelompok polimer yang mengandung gugus 
+fungsi ester pada rantai utamanya. Contoh kelompok poliester yang 
+terkenal adalah polietilen tereftalat (PET) yang disintesis dari suatu 
+alkohol, yaitu etilen glikol dan suatu asam, yaitu asam tereftalat. Pada 
+reaksi ini, atom hidrogen dari alkohol dan gugus hidroksil (-OH) dari 
+asam karboksilat lepas sebagai molekul air. Ikatan baru yang terbentuk 
+antara atom O dan C menghasilkan ikatan ester (Gambar 4.5).
+etilon glikol
+asam tereftalat
+polietilen tereftalat
+Gambar 4.5	 Reaksi pembentukan polietilen tereftalat (PET)
+154
+Kimia SMA/MA Kelas XII
+Ayo Berpikir Kritis
+Tetrafluoroetena mengalami reaksi polimerisasi membentuk polimer 
+bertekstur licin yang dinamai Teflon™ (Gambar 4.6). Polimer ini 
+banyak digunakan sebagai pelapis pada panci disamping kegunaan 
+lainnya. Perhatikan struktur tetrafluoroetena dan Teflon™ berikut. 
+Klasifikasikan polimer ini sebagai polimer adisi atau kondensasi, 
+dan beri nama polimer berdasarkan penamaan IUPAC.
+F
+F
+C
+C
+F
+F
+F
+F
+C
+C
+F
+F
+tetrafluoroetena
+teflon
+n
+Gambar 4.6	 Monomer tetrafluoroetena dan polimer Teflon™
+C.	 Jenis-jenis Polimer
+Polimer dapat dikategorikan sebagai polimer organik dan polimer 
+anorganik, tergantung dari atom-atom penyusunnya. Polimer organik 
+tersusun atas monomer-monomer yang bergabung melalui ikatan 
+karbon-karbon sebagai kerangka utamanya. Pada polimer anorganik, 
+ikatan rantai utama polimer terdiri dari ikatan atom selain karbon, 
+misalnya silikon. Gambar 4.7 memperlihatkan contoh polimer 
+anorganik yaitu polisiloksan.
+Berdasarkan sumbernya, polimer dapat dikelompokkan menjadi 
+polimer sintetik atau semi-sintetik dan polimer alam atau biopolimer 
+(Gambar 4.8). Polimer alam tersedia di alam sebagai salah satu bentuk 
+kasih sayang Tuhan YME, contohnya selulosa, kanji, sutera dan 
+karbohidrat. Polimer sintetik adalah polimer yang dibuat oleh manusia, 
+sedangkan polimer semi-sintetik adalah polimer hasil modifikasi dari 
+polimer yang ada di alam.  
+155
+Bab IV MAKROMOLEKUL ORGANIK
+CH3
+CH3
+CH3
+CH3
+CH3
+CH3
+CH3
+CH3
+Si
+Si
+Si
+O
+O
+Gambar 4.7	 Polimer anorganik polisiloksan
+Kita akan membahas lebih jauh dua kelompok besar polimer, yaitu 
+plastik yang umumnya merupakan polimer sintetik atau semi-sintetik 
+dan biopolymer yang merupakan polimer alam. Kedua kelompok 
+polimer ini C berperan dalam kehidupan kita.
+DNA
+Turunan rayon
+Plastik polietelin
+Wol
+Plastik selulosa
+Polimer semisintetik
+Polimer alam
+Polimer sintetik
+Benang poliester
+Gambar 4.8	 Jenis-jenis polimer berdasarkan sumbernya
+D.	 Hubungan Struktur dan Sifat Polimer
+Salah satu karakteristik unik dari polimer adalah ditemukannya 
+perbedaan sifat dari polimer-polimer sejenis sebagai akibat dari 
+156
+Kimia SMA/MA Kelas XII
+struktur yang berbeda. Polietilena dengan struktur lurus (linier) 
+(Gambar 4.9 (a)) dapat memiliki sifat yang berbeda dengan polietilena 
+yang memiliki struktur bercabang (Gambar 4.9 (b)). Polietilena rantai 
+lurus lebih rapat, kuat dan memiliki ketahanan suhu yang lebih baik 
+dibandingkan polietilena rantai bercabang. Selain itu, terdapat pula 
+polimer berikatan silang yang umumnya lebih keras dan kaku (gambar 
+4.9 (c)), misalnya bakelit.
+(a)
+(b)
+(c)
+Gambar 4.9	 Polimer rantai lurus (a), bercabang (b),dan berikatan silang(c)
+Kedua polietilena pada gambar 4.9 (a) dan 4.9 (b) memiliki ikatan 
+kovalen yang identik pada rantai polimernya. Namun, gaya tarik 
+menarik antar rantai polimer satu dengan yang lainnya pada polietilena 
+(a) tidak sama dengan (b). Struktur polimer yang sangat panjang 
+menyebabkan ikatan antar rantai polimer (atau gaya antar molekul) 
+berperan penting dalam menentukan sifat polimer. Semakin kuat 
+gaya antar molekul polimer, semakin baik kekuatan polimer tersebut. 
+Kekuatan polimer ini diikuti dengan tingginya titik leleh serta sifat-sifat 
+fisik dan mekanik lainnya.
+Salah satu sifat polimer yang ditentukan oleh strukturnya adalah 
+respon polimer terhadap pemanasan. Pernahkah kalian memanaskan 
+plastik? Apa yang terjadi? Biasanya plastik akan melunak, misalnya pada 
+polietilena, polistirena, polipropilena dan polivinil klorida. Polimer yang 
+meleleh saat dipanaskan dan dapat dibentuk ulang, disebut polimer 
+termoplastik. Polimer termoplastik memiliki gaya antarmolekul yang 
+lemah, dan umumnya memiliki struktur seperti pada gambar 4.9 (a-b).
+Namun, tidak semua polimer akan melunak saat dipanaskan. Bahan 
+polimer yang digunakan pada instalasi listrik tidak akan melunak saat 
+157
+Bab IV MAKROMOLEKUL ORGANIK
+dipanaskan. Polimer ini akan memiliki bentuk tetap dan tidak dapat 
+dilelehkan ataupun dibentuk ulang, karenanya tidak dapat didaur 
+ulang. Polimer dengan karakteristik lebih kuat dan dapat diaplikasikan 
+pada suhu tinggi ini dinamakan polimer termoset. Polimer termoset 
+memiliki ikatan kovalen antar rantai yang kuat seperti pada struktur 
+4.9 (c). Contoh polimer termoset antara lain bakelit, melamin dan resin 
+epoksi.
+Ayo Berpikir Kritis
+Gaya antar molekul apa sajakah yang mempengaruhi sifat fisik dari 
+polimer? Mengapa polimer pada gambar 4.9(a) memiliki kekuatan 
+mekanik yang lebih baik dibandingkan polimer gambar 4.9(b)? 
+Lihat kembali catatan dan buku kalian di Kelas XI pada bab ikatan 
+kimia, kaitkan penjelasan kalian dengan gaya antar molekul.
+E.	 Plastik
+Bayangkan satu hari saja tanpa plastik. Artinya, tidak ada kantong 
+plastik, furnitur plastik, peralatan komputer hingga material kendaraan 
+dan pesawat. Akan seperti apa hidup kita? Tentunya, keseharian kita 
+akan sangat berbeda tanpa plastik. Ternyata, plastik telah menjadi 
+bagian yang tak terpisahkan dalam kehidupan sehari-hari, baik itu di 
+rumah ataupun di lingkungan sekitar.
+Plastik mencakup banyak polimer organik sintetik atau semi-
+sintetik. Penamaan ‘plastik’ diperoleh dari sifatnya yang dapat dibentuk 
+dan dicetak-ulang. Plastik dapat mengandung zat tambahan lain 
+yang ditambahkan saat proses pembuatannya dengan tujuan untuk 
+meningkatkan performanya. 
+Plastik ditemukan pada abad ke-19, dimana pada saat itu berhasil 
+disintesis dari polimer alam yang diproses secara kimia. Contoh 
+158
+Kimia SMA/MA Kelas XII
+dari polimer alam antara lain lilin dari tanaman, selulosa, dan karet 
+alam. Namun, polimer alam yang telah disebutkan ini tidak memiliki 
+karakteristik yang diperlukan. Karet alam, misalnya, bersifat sensitif 
+terhadap suhu dan dapat menjadi lengket dan berbau saat cuaca panas, 
+serta rapuh pada cuaca dingin. Oleh sebab itu, para peneliti mencoba 
+menemukan material lain dengan karakteristik yang lebih unggul.
+Pada tahun 1834, Friedrich Ludersdorf asal Jerman dan Nathaniel 
+Hayward asal Amerika Serikat menemukan secara terpisah bahwa 
+penambahan belerang pada karet mentah dapat membuat karet tidak 
+lagi bersifat lengket. Setelahnya, Charles Goodyear menemukan bahwa 
+proses pemanasan pada karet yang dimodifikasi dengan belerang ini 
+membuatnya bersifat tahan terhadap abrasi, lebih elastik dan tidak 
+sensitif terhadap suhu. Ketiga penemu ini telah berhasil meningkatkan 
+sifat alami dari polimer alam sehingga menjadi lebih bermanfaat 
+dan dapat digunakan untuk aplikasi yang lebih luas. Saat ini, karet 
+digunakan sebagai bahan ban kendaraan dimana seluruh karakteristik 
+baru yang dimilikinya menjadi sangat penting.
+Plastik pertama yang merupakan polimer sintetik adalah Bakelit. 
+Plastik ini murah, kuat dan tahan lama. Saat ini, plastik bakelit masih 
+digunakan pada sirkuit listrik, dimana sifat insulasi dan resistensinya 
+sangat menunjang penggunaannya. 
+1.	
+Contoh-contoh plastik
+Terdapat banyak jenis plastik yang tersedia saat ini, masing-masing 
+jenis plastik memiliki sifat khas dan aplikasi yang berbeda. Berikut ini 
+akan dijelaskan beberapa contoh plastik.
+Polistirena
+Polistirena merupakan plastik umum yang digunakan sebagai 
+peralatan makan sekali pakai, peralatan rumah tangga, mainan anak 
+dan sebagainya. Monomer dari polistirena adalah stirena (Gambar 
+4.10), hidrokarbon cair yang dibuat dari minyak bumi.
+159
+Bab IV MAKROMOLEKUL ORGANIK
+CH
+CH
+CH
+CH
+CH
+CH
+CH
+CH2
+CH2
+CH2
+CH2
+CH2
+CH2
+CH2
+stirena
+polistirena
+Gambar 4.10	Struktur stirena dan polistirena
+Polivinilklorida (PVC)
+Polivinilklorida digunakan sebagai pipa, peralatan elektronik, kawat, 
+mainan dan kemasan makanan. Rantai samping dari PVC mengandung 
+atom klorida, yang memberinya karakteristik yang berbeda dari 
+polietilena. Polimer ini bersifat lentur, tahan cuaca dan mudah dibentuk. 
+Struktur monomer vinil klorida dan PVC beserta contoh-contoh benda 
+berbahan dasar PVC dapat dilihat pada Gambar 4.11.
+H
+H
+CI
+CI
+C
+C
+C
+C
+H
+H
+n
+n
+H
+H
+vinil klorida
+povinil klorida
+Gambar 4.11	Struktur monomer vinil klorida dan polimer PVC serta contoh benda-benda yang 
+terbuat dari PVC
+Sumber: Felia Febriany G./Kemendikbudristek (2022); Cottonbro/pexels.com (2020); Emma Shappley/unsplash.
+com (2021)
+Pada sintesis polimer ini, banyak zat kimia yang sengaja 
+ditambahkan untuk memberikan karakteristik tertentu. Zat kimia ini 
+disebut aditif. Misalnya penambahan aditif plasticizers (zat pemplastik) 
+160
+Kimia SMA/MA Kelas XII
+digunakan untuk membuat PVC lebih fleksibel. Banyak mainan anak 
+yang terbuat dari PVC, namun kandungan dari aditif ini memiliki 
+potensi bahaya apabila tertelan oleh bayi  sehingga di Amerika Serikat 
+penggunaan PVC sebagai bahan mainan anak dihentikan. PVC juga 
+banyak digunakan sebagai bahan plastic wrap yang aman digunakan 
+untuk pembungkus makanan pada kondisi dingin.
+Poliester
+Poliester memiliki beragam karakteristik unggul, sehingga banyak 
+dimanfaatkan dalam kehidupan sehari-hari. Karakteristik tersebut 
+antara lain bersifat resisten terhadap perkerutan dan peregangan, 
+mudah dicuci dan mudah kering. Alasan-alasan inilah yang 
+menyebabkan poliester banyak digunakan sebagai bahan tekstil. 
+Poliester dapat diregangkan menjadi serat dan dibuat menjadi kain 
+maupun bahan pakaian. Poliester banyak digunakan sebagai bahan 
+pakaian, karpet, tirai, sprei, bantal dan alat-alat rumah tangga lainnya 
+(lihat Gambar 4.12). Lihatlah sekekeliling rumah kalian dan cari benda 
+yang terbuat dari poliester. 
+CH2-CH2-CH2-O
+n
+O
+O
+O
+O
+C
+C
+Gambar 4.12	Contoh struktur polyester dan produknya
+161
+Bab IV MAKROMOLEKUL ORGANIK
+Karet Stirena-Butadiena (SBR)
+Jenis plastik yang banyak dimanfaatkan sejak Perang Dunia ke-2 
+adalah karet sintetik. Karet sintetik diproduksi dalam berbagai bentuk 
+dan dimanfaatkan untuk berbagai kepentingan. Karet sintetik yang 
+paling sering digunakan sebagai bahan baku produk adalah karet 
+stirena-butadiena (SBR). Karet stirena-butadiena dibuat dari dua jenis 
+monomer, yaitu stirena dan butadiena (Gambar 4.13). Produk polimer 
+yang dihasilkan dari dua atau lebih monomer dinamakan kopolimer. 
+Aplikasi paling luas dari SBR adalah sebagai bahan ban kendaraan 
+bermotor. Jenis karet ini memiliki ketahanan kikis yang baik.
+CH2
+CH2
+CH
+CH
+CH
+CH2
+Gambar 4.13	Contoh struktur karet stirena-butadiena (SBR) dan produknya
+Polietilen/Polietena (PE)
+Polietena ditemukan pada tahun 1933. Polimer ini murah, fleksibel dan 
+tahan lama, sehingga banyak digunakan sebagai furnitur, kemasan, 
+162
+Kimia SMA/MA Kelas XII
+wadah dan aksesoris kendaraan seperti yang ditunjukkan pada Gambar 
+4.14 (a). Karakteristiknya yang kuat juga banyak dimanfaatkan untuk 
+bahan tali dan benang untuk memancing.
+Politetrafluoroetilena (PTFE)
+Politetrafluoroetilena dikenal juga dengan sebutan Teflon®, yang banyak 
+digunakan sebagai peralatan masak anti lengket yang ditunjukkan 
+pada Gambar 14 (b). Teflon juga digunakan untuk membuat bahan kain 
+Gore-Tex® yang bersifat tembus udara dan nyaman dipakai.
+C
+C
+H
+(a) polietilena
+(b) politetrafloroetilena
+H
+H
+H
+C
+C
+H
+H
+H
+H
+n
+n
+Gambar 4.14	Struktur dan contoh dari (a) polietilena dan (b) politetrafloroetilena 
+Sumber: Hannes Grobe/commons.wikimedia.com (2011)
+Aktivitas 5.1
+Mengidentifikasi benda plastik di rumah
+Di rumah masing-masing, lakukan pendataan untuk mengumpulkan 
+daftar sebanyak mungkin plastik yang dapat kalian temukan. 
+Kelompokkan benda plastik tersebut berdasarkan jenis, sifat dan 
+kegunaannya. Buat rangkumannya dalam bentuk tabel.
+163
+Bab IV MAKROMOLEKUL ORGANIK
+Catatan: plastik seringkali memiliki label yang ditemukan di dasar 
+produk berupa keterangan kode daur ulang yang berbentuk logo 
+segitiga, seperti yang ditunjukkan pada Gambar 4.15. 
+Gambar 4.15	Contoh benda dari plastik dengan keterangan labelnya
+2. 	 Degradasi plastik
+Tahukah kalian?
+Plastik yang ditemukan pertama kali dianggap terlalu berharga 
+untuk dibuang. Namun, saat ini plastik dianggap sebagai barang sekali 
+pakai. Akibatnya, hampir sepertiga dari area pembuangan sampah 
+dipenuhi oleh plastik. Padahal, plastik tidak dapat terdegradasi, 
+sehingga penumpukan limbah plastik menjadi masalah yang serius. 
+Upaya untuk mendaur ulang plastik menjadi sangat penting 
+untuk mengurangi limbah plastik. Solusi lainnya adalah mencari cara 
+untuk membuat plastik yang dapat terdegradasi. Dari ide awal inilah, 
+riset untuk membuat plastik yang dapat terdegradasi berkembang 
+164
+Kimia SMA/MA Kelas XII
+pesat. Semua plastik adalah polimer dan bersifat stabil. Karakter 
+inilah yang menjadi alasan pemanfaatannya di berbagai aspek 
+kehidupan menggantikan material lain. Namun, kestabilan polimer 
+ini menyebabkannya tidak reaktif dan tidak mudah hancur, sehingga 
+setelah dibuang akan mempertahankan bentuknya hingga ratusan 
+bahkan ribuan tahun sebelum akhirnya terdegradasi.
+Plastik yang dapat terdegradasi menjadi langkah penting untuk 
+mendukung pemanfaatan plastik di masa yang akan datang, sehingga 
+tidak menimbulkan masalah setelah pemakaiannya. Plastik yang dapat 
+terdegradasi ini akan hancur dalam jangka waktu yang relatif pendek- 
+misalnya dalam waktu enam bulan hingga satu tahun. Terdapat dua 
+jenis plastik yang dapat terdegradasi yaitu plastik yang terdegradasi 
+secara biologis (biodegradable plastic) dan plastik yang terdegradasi 
+oleh cahaya (photodegradable plastic). Biodegradable plastic dapat 
+mengalami peluruhan sebagaimana halnya benda di alam, misalnya 
+tanaman, oleh proses biologis. Photodegradable plastic mengalami 
+disintegrasi saat terekspos oleh cahaya dengan panjang gelombang 
+tertentu (Gambar 4.16).
+Kemampuan plastik untuk mengalami degradasi bergantung 
+pada struktur rantai polimer yang menyusunnya. Biodegradable 
+plastic seringkali dibuat dari penggabungan polimer sintetik dengan 
+polimer alam pada komposisi tertentu. Contoh bahan alam yang 
+dapat digunakan untuk membuat biodegradable plastic adalah tepung 
+jagung dan pati singkong. Kedua bahan alam ini dapat dihancurkan 
+oleh mikroorganisme. Ini adalah bentuk kekuasaan Tuhan YME 
+yang menciptakan segala sesuatu di alam dengan sempurna, semua 
+dalam keadaan keseimbangan sehingga tidak menimbulkan masalah 
+lingkungan. Idealnya, biodegradable plastic akan terurai sempurna 
+menjadi karbondioksida, air dan biomassa dalam waktu 6 bulan, sama 
+seperti bahan alami lainnya.
+165
+Bab IV MAKROMOLEKUL ORGANIK
+Gambar 4.16	Contoh plastik: (a) tidak dapat terdegradasi, (b) biodegradable 
+Sumber: (a) Piles_of_plastic_waste_in_Thilafushi,(2012)
+Photodegradable plastic memiliki sifat dapat menyerap cahaya. 
+Polimer ini  memiliki kromofor pada rantai polimernya, yaitu gugus 
+fungsi yang dapat mengalami perubahan struktur ketika terpapar 
+cahaya dengan panjang gelombang tertentu (biasanya sinar ultraviolet). 
+Perubahan struktur inilah yang akan menyebabkan rantai polimer 
+terurai. Photodegradable plastic tidak dapat terurai apabila tertimbun 
+di timbunan sampah, karena tidak terkena  cahaya matahari. Namun, 
+apabila photodegradable plastic ini berada di perairan, misalnya sungai, 
+danau atau laut, maka plastik tersebut akan mengapung ke permukaan 
+dan akan terkena cahaya matahari. Penggunaan photodegradable plastic 
+akan membantu proses peluruhan limbah plastik yang mencemari 
+perairan.
+Ayo Berkolaborasi
+Project-Based Learning
+Kalian sudah membaca Pengayaan tentang plastik yang dapat 
+terdegradasi. Kalian juga sudah mengenal biodegradable plastic dan 
+(a)
+(b)
+166
+Kimia SMA/MA Kelas XII
+photodegradable plastic. Meskipun terlihat bahwa pembuatan plastik 
+yang dapat terdegradasi ini akan mampu membantu mengurangi 
+masalah penumpukan limbah plastik, namun masih ada isu-isu lain 
+yang berpotensi menghasilkan masalah baru.
+1.	
+Saat plastik yang dapat terdegradasi terurai, plastik dari pati akan 
+dapat terurai sempurna menjadi karbondioksida, air dan senyawa 
+organik lainnya. Namun, apa yang terjadi saat plastik lain yang 
+mengandung atom seperti klor (Cl) atau fluor (F) terurai, adakah 
+masalah baru yang mungkin ditimbulkan terhadap lingkungan? 
+Berikan analisis kalian!
+2.	
+Meskipun dapat didaur ulang dengan bantuan mikroorganisme 
+atau cahaya, plastik yang tertimbun jauh di dalam gunungan 
+sampah tidak akan terdegradasi dengan baik. Plastik yang 
+tertimbun tidak berada di lingkungan dengan kandungan oksigen 
+cukup untuk membantu mikroorganisme bekerja mengurai plastik, 
+dan tentu saja tidak terekspos cahaya yang dapat memfasilitasi 
+penguraiannya. Potensi masalah apa yang dapat ditimbulkan 
+pada kondisi ini? Perubahan apa yang dapat dilakukan pada area 
+pembuangan sampah plastik untuk mengatasi masalah tersebut? 
+3.	
+Bagaimana cara menggunakan kembali sampah plastik (reuse) 
+menjadi barang yang berguna? mendaur ulangnya (recycle) secara 
+sederhana, dan cara mengurangi (reduce) sampah plastik? Coba 
+diskusikan dengan teman sekelompokmu bagaimana melakukan 
+tindakan nyata dari ketiga cara (3R) di atas.
+Secara berkelompok, jawablah pertanyaan di atas dan usulkan 
+desain area pembuangan sampah untuk membantu optimalisasi 
+degradasi limbah plastik. Buatlah laporan kelompok dalam bentuk file 
+presentasi, dan presentasikanlah laporan tersebut di kelas.
+167
+Bab IV MAKROMOLEKUL ORGANIK
+F.	 Polimer Alam
+Banyak teknologi yang dikembangkan saat ini merupakan imitasi dari 
+proses yang terjadi di alam. Rancangan Tuhan YME yang sempurna 
+salah satunya dapat kita lihat dari struktur-stuktur polimer alam yang 
+luar biasa. Saat ini, pengembangan polimer-polimer sintetik banyak 
+meniru struktur dari polimer alam. Salah satu polimer alam yang 
+tersedia berlimpah adalah selulosa. Selulosa merupakan penyusun dari 
+kayu, kertas dan katun. Struktur selulosa disajikan pada Gambar 4.17.
+CH2OH
+CH2OH
+HOH2C
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+OH
+O
+O
+O
+O
+O
+OH
+OH
+OH
+OH
+OH
+Gambar 4.17	Selulosa sebagai polimer alam
+Terdapat banyak polimer alam yang ditemukan pada sistem 
+makhluk hidup. Studi mengenai senyawa organik dan reaksi senyawa 
+organik yang berlangsung pada makhluk hidup disebut biokimia. 
+Beberapa contoh polimer yang memiliki fungsi biologis (biopolimer) 
+antara lain protein, pati, asam amino, gula, dan asam nukleat. 
+G.	 Biopolimer Organik
+Biopolimer organik ditemukan pada organisme hidup. Makromolekul 
+ini diantaranya adalah karbohidrat, protein, asam nukleat, dan lemak 
+(lipida). Namun, lemak tidak termasuk golongan polimer. Semua 
+makromolekul ini sangat diperlukan dalam kehidupan. 
+168
+Kimia SMA/MA Kelas XII
+1. 	 Karbohidrat
+Karbohidrat memiliki karakteristik kunci, yaitu hanya mengandung 
+unsur karbon, hidrogen dan oksigen.  Karbohidrat merupakan 
+biopolimer yang mengandung gugus aldehida atau keton, disamping 
+dua atau lebih gugus hidroksil. Golongan karbohidrat mencakup gula 
+dan polimer-polimernya. Salah satu monomer paling penting dari 
+karbohidrat adalah glukosa. Molekul glukosa dapat ditemukan dalam 
+bentuk rantai lurus (asilik) maupun cincin (siklik) (Gambar 4.18).
+H
+H
+H
+C
+C
+C
+C
+C
+OH
+HO
+OH
+OH
+CH2OH
+CH2OH
+O
+OH
+OH
+OH
+OH
+H
+H
+O
+Gambar 4.18	Struktur molekul glukosa rantai lurus (kiri) dan cincin (kanan) serta penampakan 
+fisiknya (tengah)
+Sumber: wikimedia.org wiki File PowderedSugar.png (Photo by M)
+Glukosa merupakan produk dari fotosintesis yang berlangsung 
+pada tanaman. Saat fotosintesis, air dan karbondioksida dengan 
+bantuan cahaya matahari bereaksi untuk menghasilkan glukosa dan 
+oksigen. Glukosa ini disimpan dalam beragam bentuk pada tanaman.
+Glukosa merupakan sumber energi penting bagi tanaman itu 
+sendiri, juga bagi hewan dan organisme lain yang mengkonsumsi 
+tanaman tersebut. Glukosa memiliki peran sentral pada respirasi 
+seluler, dimana makhluk hidup dapat memperoleh energi untuk 
+bertahan hidup. Pada proses respirasi, glukosa dan oksigen bereaksi 
+menghasilkan karbondioksida, air dan energi dalam bentuk adenosin 
+trifosfat (ATP). Biopolimer ATP merupakan bentuk energi yang dapat 
+digunakan sel-sel tubuh untuk dapat berfungsi normal. Tujuan kita 
+169
+Bab IV MAKROMOLEKUL ORGANIK
+mengkonsumsi makanan adalah untuk memperoleh energi ATP yang 
+diperlukan tubuh.
+Kita sesungguhnya tidak memakan glukosa yang memiliki bentuk 
+sederhana. Seringkali, kita makan karbohidrat kompleks yang dapat 
+diuraikan oleh tubuh menjadi molekul-molekul glukosa. Karbohidrat 
+kompleks ini merupakan polimer yang dihasilkan dari reaksi 
+polimerisasi kondensasi. Pati dan selulosa adalah contoh karbohidrat 
+yang tersusun atas monomer-monomer glukosa (Gambar 4.19).
+Gambar 4.19	Contoh karbohidrat: pati (seperti pada kentang) dan selulosa (seperti pada batang 
+tanaman)
+Karbohidrat ditemukan pada makanan seperti roti, pasta, kentang, 
+nasi dan buah-buahan. Karbohidrat merupakan sumber energi penting 
+bagi tubuh. Sebagaimana glukosa, karbohidrat bereaksi dengan oksigen 
+mengalami oksidasi menghasilkan karbondioksida dan air, serta 
+energi pada proses respirasi. Karbondioksida dan uap air kemudian 
+dikeluarkan oleh tubuh melalui nafas kita. Selain karbohidrat, tubuh 
+juga dapat memperoleh energi dari protein dan lemak.
+Monosakarida terdiri atas satu unit sakarida. Dengan demikian, 
+monosakarida adalah molekul karbohidrat yang paling kecil. 
+Monosakarida seringkali disebut sebagai karbohidrat sederhana atau 
+170
+Kimia SMA/MA Kelas XII
+gula sederhana. Glukosa merupakan salah satu contoh monosakarida 
+yang banyak ditemukan pada sirup jagung. Monosakarida lainnya 
+adalah fruktosa, galaktosa dan manosa. Fruktosa adalah zat pemberi 
+rasa manis pada buah-buahan. Reaksi kondensasi antara glukosa dan 
+fruktosa menghasilkan sukrosa, atau biasa dikenal dengan sebutan 
+gula. Sukrosa dapat ditemukan pada gula tebu. 
+Selain monosakarida, ada pula disakarida. Sukrosa, yang mengandung 
+dua monomer sakarida, adalah contoh disakarida (Gambar 4.20), Untuk 
+menghasilkan disakarida, satu gugus hidroksil pada suatu monomer 
+bereaksi dengan gugus hidroksil dari monomer lain membentuk ikatan 
+eter. Reaksi ini dinamakan kondensasi, karena terdapat dua molekul yang 
+mengalami kombinasi menghasilkan molekul besar disertai pelepasan 
+air. Saat dicerna dalam tubuh, karbohidrat mengalami reaksi hidrolisis 
+yang memecahkan ikatan eter antar monomer.
+Pati adalah karbohidrat kompleks yang digunakan tanaman 
+untuk menyimpan kelebihan glukosa. Pati terdiri atas rantai panjang 
+monomer glukosa. Kentang terbuat dari pati, karenanya merupakan 
+sumber energi yang baik. Hewan juga dapat menyimpan glukosa dalam 
+bentuk senyawa bernama glikogen.
+CH2OH
+CH2OH
+CH2OH
+H
+H
+H
+H
+H
+H
+H
+H
+H
+OH
+OH
+OH
+OH
+O
+O
+O
+n
+O
+O
+OH
+OH
+OH
+H
+H
+H
+HOCH2
+glukosa
+fruktosa
+ikatan glikosidik
+HOCH2
+OH
+OH
+O
+HO
+CH2OH
+OH
+O
+OH
+O
+Gambar 4.20	Ikatan antar monomer pada karbohidrat sederhana (atas) dan contoh ikatan 
+glikosidik pada sukrosa (bawah)
+171
+Bab IV MAKROMOLEKUL ORGANIK
+Selulosa juga tersusun atas rantai molekul glukosa, namun ikatan 
+antar polimer nya berbeda dari pati (lihat kembali Gambar 4.19). 
+Selulosa ditemukan sebagai penyusun dinding sel tanaman dan 
+digunakan oleh tanaman sebagai material penyusun tanaman. Selulosa 
+merupakan salah satu makromolekul yang paling melimpah di alam.
+Ayo Berpikir Kritis
+Meskipun sama-sama karbohidrat, pati dan selulosa memiliki 
+kegunaan yang berbeda bagi hewan dan manusia. Manusia dapat 
+mencerna pati tetapi tidak dapat mencerna selulosa. Demikian 
+halnya dengan hewan, yang seringkali memerlukan bantuan jamur 
+atau protozoa untuk dapat memecah selulosa menjadi glukosa. 
+Hubungkan perbedaan ini dengan karakteristik dari pati dan 
+selulosa. Gunakan berbagai sumber eksternal untuk mendapatkan 
+informasi mengenai karakteristik pati dan selulosa.
+2. 	 Asam amino dan protein
+Protein adalah polimer alam yang tersusun atas monomer asam amino. 
+Protein ditemukan dalam daging, susu, telur dan kacang-kacangan. 
+Material alami lain seperti kain wol, kulit dan sutera juga terbuat 
+dari protein. Tubuh kita seperti kuku, rambut dan kulit juga terbuat 
+dari protein. Protein memiliki fungsi-fungsi penting dalam tubuh kita, 
+seperti dalam mempercepat reaksi kimia (enzim), mentransportasikan 
+oksigen dalam darah (hemoglobin), dan meregulasi respon tubuh kita 
+(hormon). 
+Terdapat 20 jenis asam amino yang biasa terdapat dalam tubuh 
+manusia. Semua asam amino mengandung satu gugus asam karboksilat 
+dan satu gugus amina. Asam amino dapat berikatan satu sama lain 
+melalui ikatan amida untuk membentuk protein. Setiap asam amino 
+172
+Kimia SMA/MA Kelas XII
+memiliki gugus samping yang berbeda yang terikat ke atom karbon 
+pusat. Gambar 4.21 menunjukkan struktur asam amino. Huruf R 
+merepresentasikan gugus samping dari asam amino. Contoh gugus 
+samping antara lain -CH3 (metil) untuk asam amino alanin.
+H
+H
+H
+H
+O
+O
+N
+gugus 
+amina
+rantai 
+samping
+gugus 
+karboksil
+R
+C
+C
+Gambar 4.21	Struktur asam amino
+Bentuk dan fungsi biologis dari protein bergantung pada urutan 
+asam amino penyusunnya. Protein tertentu, misalnya insulin, 
+mengandung setidaknya 50 kelompok asam amino. Bergantung pada 
+urutan asam aminonya, dapat dihasilkan sangat banyak jenis protein 
+yang berbeda. Setiap spesies hewan juga memiliki protein khas 
+tertentu. DNA manusia juga mengandung cetak-biru untuk membuat 
+protein spesifik sesuai dengan  struktur dan fungsi tubuh kita. Protein 
+memiliki banyak fungsi pada makhluk hidup, diantaranya:
+	 protein struktural seperti kolagen dalam jaringan hewan dan 
+keratin pada rambut, berperan memberikan penunjang struktur 
+tubuh.
+	 protein penyimpan, seperti albumin pada putih telur berperan 
+sebagai sumber energi.
+	 protein transport, seperti hemoglobin dalam darah yang berperan 
+menarik oksigen dan membantu transportasinya ke seluruh tubuh.
+173
+Bab IV MAKROMOLEKUL ORGANIK
+	 protein hormonal, seperti insulin yang berperan mengontrol kadar 
+gula dalam darah.
+	 enzim, seperti amilase, merupakan protein yang berperan sebagai 
+katalis pada proses kimia dalam tubuh.
+PROYEK MANDIRI
+Makromolekul dalam diet sehari-hari
+Untuk menjaga kesehatan tubuh, kita harus makan diet seimbang 
+dengan komposisi karbohidrat, protein dan lemak. Lemak merupakan 
+sumber energi penting yang juga berperan memberikan insulasi bagi 
+tubuh serta menjadi lapisan pelindung banyak organ vital. Selain itu, 
+tubuh juga memerlukan vitamin esensial dan mineral. Saat kalian 
+membeli makanan di toko, kebanyakan kemasan makanan menyajikan 
+informasi kandungan gizi makanan tersebut. Tuliskan makanan-
+makanan yang biasa kalian konsumsi, kemudian lengkapi kandungan 
+karbohidrat, protein dan lemak masing-masing sediaan makanan 
+tersebut. Lakukan analisis berikut.
+a.	 Makanan mana yang memiliki proporsi protein terbesar?
+b.	 Makanan mana yang memiliki proporsi karbohidrat terbesar?
+c.	
+Jenis makanan manakah yang paling sehat menurut kalian? Beri 
+penjelasan.
+d.	 Apabila kalian ingin menurunkan berat badan, ada beberapa jenis 
+diet yang banyak dipilih, diantaranya diet vegetarian, diet rendah 
+lemak (low-fat) dan diet Atkins. Carilah informasi mengenai 
+program diet ini!
+e.	 Dari hasil analisis pada poin (d), jelaskan keuntungan dari jenis diet 
+tersebut berikut kelemahan-kelemahannya.
+174
+Kimia SMA/MA Kelas XII
+Contoh tabel hasil pengamatan
+Makanan
+karbohidrat (%)
+Protein (%)
+Lemak (%)
+3. 	 Asam nukleat
+Kalian telah mengetahui pada sub bab sebelumnya bahwa ada 
+banyak jenis protein yang berbeda, diakibatkan susunan asam amino 
+penyusunnya yang berbeda. Namun, apa sebetulnya yang menyebabkan 
+asam amino pada makhluk hidup menyusun dirinya dengan urutan 
+tertentu untuk membentuk protein tertentu? Maka, jawabannya ada 
+gen. Gen mengandung asam deoksiribonukleat (DNA), suatu kelompok 
+polimer yang dinamakan asam nukleat.  DNA adalah materi genetik 
+yang diperoleh suatu organisme dari warisan orang tuanya. DNA 
+menyediakan kode genetik yang diperlukan untuk menyusun protein 
+spesifik yang diperlukan organisme. Jenis asam nukleat lainnya adalah 
+asam ribonukleat (RNA).
+Polimer DNA tersusun dari monomer-monomer nukleotida. 
+Setiap nukleotida memiliki tiga bagian: gula, fosfat dan basa nitrogen. 
+Diagram berikut dapat membantu kalian memahami struktur DNA 
+(Gambar 4.22).
+175
+Bab IV MAKROMOLEKUL ORGANIK
+o
+P
+H
+fosfat
+gula
+basa nitrogen
+N
+N
+N
+N
+NH2
+CH2
+OH
+O
+O
+o
+o
+o
+Gambar 4.22	Monomer nukleotida penyusun polimer DNA
+Terdapat lima macam basa nitrogen: adenin (A), guanin (G), 
+citosin (C), timin (T) dan urasil (U). Susunan dari basa nitrogen pada 
+polimer DNA akan menentukan kode genetik untuk suatu organisme. 
+Tiga urutan basa nitrogen memberikan kode untuk satu asam amino. 
+Misalnya, apabila tiga basa nitrogen memiliki urutan: urasil, citosin, 
+dan urasil, maka sebuah asam amino serin akan menjadi bagian dari 
+rantai polipeptida yang dihasilkan. Rantai polipeptida dibuat dengan 
+cara seperti ini hingga diperoleh rantai polipeptida yang cukup panjang 
+dengan urutan asam amino tertentu dan menghasilkan sebuah protein. 
+Protein mengontrol apa yang terjadi dalam suatu organisme, dengan 
+demikian asam nukleat memegang peranan penting dalam tubuh 
+organisme.
+176
+Kimia SMA/MA Kelas XII
+Pengayaan 1
+Anemia Sel Sabit (sickle cell anaemia)
+Anemia merupakan salah satu penyakit akibat kelainan pada darah 
+yang paling sering terjadi pada masyarakat. Salah satu jenis anemia 
+adalah anemia sel sabit yang diakibatkan ketidaksempurnaan dari 
+satu nukleotida. Satu nukleotida yang cacat pada kode genetika 
+menyebabkan tubuh penyandang penyakit ini menghasilkan protein 
+yang bernama haemoglobin sabit. Hemoglobin adalah protein dalam 
+sel darah merah yang membantu transportasi oksigen ke seluruh tubuh. 
+Ketika hemoglobin sabit ini terbentuk, sel-sel darah merah berubah 
+bentuk. Proses ini akan merusak membran sel darah merah dan 
+menyebabkan sel-sel tersebut tersendat di pembuluh darah. Dengan 
+demikian, sel darah merah pembawa oksigen ini tidak dapat beredar 
+ke seluruh jaringan yang membutuhkan. Pada akhirnya, dapat terjadi 
+kerusakan organ yang serius, sehingga pengidap penyakit ini memiliki 
+ekspektansi hidup yang lebih pendek.
+Pengayaan 2
+UJI KARBOHIDRAT
+Karbohidrat adalah sumber energi utama bagi makhluk hidup yang 
+juga berperan sebagai penyusun struktur ekstraseluler bagi dinding sel 
+tanaman. Karbohidrat didefinisikan sebagai polihidroksi aldehid atau 
+polihidroksi keton atau lebih dikenal dengan polisakarida yang memiliki 
+rumus umum (CH2O)n. Karbohidrat dalam larutan dapat diidentifikasi 
+dengan uji laboratorium. Beberapa jenis pengujian karbohidrat yang 
+banyak digunakan disajikan pada Tabel 4.2.
+177
+Bab IV MAKROMOLEKUL ORGANIK
+Tabel 4.2 Berbagai uji karbohidrat
+Nama uji
+Aplikasi pengujian
+Uji Molisch
+Spesifik bagi karbohidrat
+Uji Benedict
+Keberadaan gula pereduksi
+Uji Barfoed
+Mendeteksi keberadaan monosakarida
+Uji Bial
+Mendeteksi monosakarida pentosa
+Uji Seliwanoff
+Membedakan aldosa dan ketosa
+Uji Iodin
+Spesifik bagi polisakarida pati
+Uji Molisch
+Uji ini spesifik bagi semua karbohidrat dan digunakan untuk 
+mengonfirmasi keberadaan atau ketiadaan karbohidrat dalam larutan. 
+Golongan monosakarida akan memberikan hasil positif yang sangat 
+cepat, sedangkan disakarida dan polisakarida bereaksi dengan lambat. 
+Uji ini dapat digunakan untuk membedakan karbohidrat dari lipida 
+atau protein. 
+Uji ini didasarkan pada reaksi alfa-naftol dan karbohidrat dengan 
+keberadaan asam sulfat. Gula bereaksi dengan alfa-naftol dalam suasana 
+asam menghasilkan senyawa furfural berwarna ungu atau turunan 
+hidroksimetilfurfural (Gambar 4.23). Intensitas warna yang dihasilkan 
+proporsional dengan jumlah karbohidrat yang terdapat dalam larutan. 
+Reagen Molisch adalah larutan alfa-naftol 5% dalam etanol.
+178
+Kimia SMA/MA Kelas XII
+Gambar 4.23	Hasil Uji Molisch.
+Prosedur uji Molisch:
+1.	
+Masukkan 2 ml larutan gula dalam tabung reaksi yang bersih dan 
+kering.
+2.	
+Tambahkan 2-3 tetes reagen uji Molisch.
+3.	
+Miringkan tabung reaksi dan tambahkan 2 ml H2SO4 pekat pada 
+dinding tabung reaksi secara perlahan.
+Hasil positif uji Molisch ditandai dengan terbentuknya cincin 
+berwarna ungu pada antarmuka dua cairan, yaitu reagen Molisch dan 
+larutan karbohidrat terdehidrasi.
+Uji Benedict
+Uji ini digunakan untuk mendeteksi adanya gula pereduksi. Karbohidrat 
+yang memiliki gugus fungsi bebas yang tidak terlibat dalam ikatan 
+glikosidik akan memberikan hasil positif pada uji ini. Semua golongan 
+monosakarida dan disakarida, kecuali sukrosa akan memberikan hasil 
+179
+Bab IV MAKROMOLEKUL ORGANIK
+positif, sedangkan polisakarida akan memberikan hasil uji negatif. 
+Polimer berukuran besar seperti pati tidak termasuk sebagai gula 
+pereduksi, sehingga akan memberikan hasil negatif pada uji ini.
+Uji ini didasarkan pada kemampuan gula pereduksi untuk 
+mengalami oksidasi dalam larutan basa. Larutan yang mengandung 
+gula pereduksi dipanaskan dengan pereaksi Benedicts. Pada kondisi 
+basa, gula pereduksi mengalami tautomerisasi membentuk enediol 
+yang akan mereduksi ion-ion Cu(II) menjadi Cu2O berwarna merah 
+kecoklatan (Gambar 4.24).
+Gambar 4.24	Hasil Uji Benedict
+Prosedur uji Benedict:
+1.	
+Masukkan 2 ml larutan gula dalam tabung reaksi yang bersih dan 
+kering.
+2.	
+Tambahkan 2 ml reagen uji Benedict.
+3.	
+Panaskan tabung reaksi dalam penangas air mendidih selama 5 
+menit.
+Hasil positif uji Benedict ditandai dengan terbentuknya endapan 
+berwarna merah kecoklatan.
+180
+Kimia SMA/MA Kelas XII
+Uji Barfoed
+Uji ini menggunakan prinsip pengujian yang mirip dengan uji 
+Benedict yaitu kemampuan mereduksi gula. Uji ini digunakan untuk 
+membedakan antara monosakarida dengan disakarida. Sukrosa juga 
+akan memberikan hasil positif pada uji ini karena kemampuannya 
+untuk mengalami hidrolisis pada suasana asam. Monosakarida akan 
+memberikan hasil positif yang cepat, sedangkan disakarida memberikan 
+hasil positif yang lambat.
+Reagen Barfoed mengandung tembaga asetat dalam asam asetat 
+glasial. Gula pereduksi akan mengalami tautomerisasi dalam media 
+asam menghasilkan enediol. Enediol mereduksi ion-ion Cu(II) menjadi 
+Cu(I) yang akan menghasilkan padatan Cu2O saat dipanaskan.
+Prosedur uji Barfoed:
+1.	
+Masukkan 2 ml reagen Barfoed ke dalam tabung reaksi yang bersih 
+dan kering.
+2.	
+Tambahkan 2 ml larutan uji dan campurkan.
+3.	
+Panaskan tabung reaksi hingga mendidih.
+4.	
+Dinginkan pada suhu kamar.
+5.	
+Amati terbentuknya endapan.
+6.	
+Apabila endapan belum terbentuk, didihkan kembali selama 10 
+menit.
+7.	
+Dinginkan dan amati kembali terbentuknya endapan.
+Pada uji monosakarida, endapan merah akan terbentuk pada 
+pemanasan pertama (sekitar 5 menit). Bagi disakarida, endapan 
+terbentuk pada pemanasan yang lebih lama, yaitu sekitar 15 menit.
+181
+Bab IV MAKROMOLEKUL ORGANIK
+Uji Bial
+Uji ini sangat sensitif terhadap golongan pentosa. Zat yang mengandung 
+gula pentosa akan memberikan hasil uji positif pada uji Bial. Pentosa 
+membentuk senyawa furfural dalam kondisi asam pekat. Senyawa 
+furfural yang dihasilkan dari pentosa bereaksi dengan orsinol yang 
+terdapat dalam reagen Bial menghasilkan senyawa berwarna biru 
+(Gambar 4.25). 
+Prosedur uji Bial:
+1.	
+Masukkan 3 ml reagen Bial ke dalam tabung reaksi yang bersih dan 
+kering.
+2.	
+Tambahkan 3 ml larutan uji dan campurkan.
+3.	
+Panaskan tabung reaksi dalam penangas air mendidih.
+4.	
+Dinginkan pada suhu kamar.
+Hasil positif uji Bial ditandai dengan terbentuknya warna biru 
+dalam larutan setelah pemanasan.
+Gambar 4.25	Hasil Uji Bial
+182
+Kimia SMA/MA Kelas XII
+Uji Seliwanof
+Uji ini digunakan untuk membedakan antara golongan aldosa (seperti 
+glukosa) dengan golongan ketosa (seperti fruktosa). Pada uji ini, 
+reagen Seliwanoff yang mengandung HCl 6 M berperan mendehidrasi 
+ketoheksosa untuk menghasilkan 5-hidroksimetilfurfural. Produk reaksi 
+5-hidroksimetilfurfural ini bereaksi dengan resorsinol (yang juga terdapat 
+dalam reagen) menghasilkan larutan berwarna merah.  Kelompok 
+aldoheksosa juga bereaksi dengan reagen Seliwanoff menghasilkan 
+produk yang sama, namun reaksinya lebih lambat dan produk yang 
+dihasilkan berwarna kuning hingga merah muda (Gambar 4.26).
+Gambar 4.26	Hasil Uji Seliwanoff
+Prosedur uji Seliwanoff
+1.	
+Masukkan 3 ml reagen Seliwanoff ke dalam tabung reaksi yang 
+bersih dan kering.
+2.	
+Tambahkan 1 ml larutan uji dan campurkan.
+3.	
+Panaskan tabung reaksi hingga mendidih selama 30 detik.
+4.	
+Dinginkan pada suhu kamar.
+183
+Bab IV MAKROMOLEKUL ORGANIK
+Hasil uji positif ditandai dengan terbentuknya larutan berwarna 
+merah terang setelah pendinginan. Apabila hasil uji positif, artinya 
+larutan mengandung gula ketosa. Sukrosa akan memberikan hasil 
+positif karena dapat terhidrolisis menjadi glukosa dan fruktosa.
+Uji Iodin
+Uji ini merupakan uji spesifik bagi polisakarida pati. Pengujian 
+didasarkan pada reaksi pati dengan iodin yang menyebabkan iodin 
+terperangkap pada matriks heliks dari rantai polisakarida melalui 
+ikatan kompleks koordinasi. Hal ini menyebabkan teramatinya warna 
+biru kehitaman yang mengonfirmasi adanya pati. Warna ini akan hilang 
+pada penambahan basa dan pemanasan akibat terurainya jaringan 
+matriks polisakarida yang membebaskan molekul iodin (Gambar 4.27). 
+Gambar 4.27	Hasil Uji Iodin
+Prosedur uji Iodin
+1.	
+Masukkan 2 ml larutan uji ke dalam tabung reaksi yang bersih dan 
+kering.
+2.	
+Tambahkan 5 tetes larutan iodin dan campurkan.
+184
+Kimia SMA/MA Kelas XII
+Uji positif ditandai dengan terbentuknya warna biru kehitaman, 
+sedangkan uji negatif menghasilkan larutan berwarna kuning atau 
+coklat.
+Pengayaan 3
+UJI PROTEIN
+Seperti halnya karbohidrat, protein juga merupakan kelompok 
+biopolimer penting dalam kehidupan. Protein merupakan salah satu 
+material organik paling kompleks yang diproduksi alam. Tanaman 
+membuat protein dari karbondioksida, air dan mineral dengan bantuan 
+sinar matahari, sedangkan hewan memperoleh protein dari tanaman. 
+Seperti yang telah kalian ketahui bahwa protein merupakan polimer 
+rantai panjang yang tersusun atas asam-asam amino. Ada dua jenis uji 
+paling umum bagi protein yaitu uji Biuret dan uji Ninhidrin.
+Uji Biuret
+Uji ini digunakan untuk mendeteksi senyawa yang memiliki ikatan 
+peptida. Protein merupakan polipeptida dari asam-asam amino yang 
+berikatan satu sama lain melalui ikatan peptida. Larutan protein 
+dalam suasana basa dapat bereaksi dengan larutan tembaga sulfat 
+menghasilkan kompleks berwarna biru keunguan. Molekul-molekul 
+urea dapat bereaksi saat dipanaskan pada suhu 180°C menghasilkan bi-
+urea atau molekul biuret. Reagen Biuret ini dapat bereaksi dengan ion-
+ion tembaga membentuk senyawa kompleks berwarna biru keunguan.
+Prosedur uji Biuret:
+1.	
+Masukkan larutan uji ke dalam tabung reaksi yang bersih dan 
+kering.
+185
+Bab IV MAKROMOLEKUL ORGANIK
+2.	
+Tambahkan 2 ml larutan natrium hidroksida.
+3.	
+Tambahkan 5-6 tetes larutan tembaga sulfat. 
+4.	
+Uji positif ditandai dengan terbentuknya warna biru keunguan.
+Uji Ninhidrin
+Protein dapat bereaksi dengan larutan piridin menghasilkan larutan 
+berwarna biru tua hingga merah muda atau ungu. Larutan ninhidrin 
+dibuat dengan melarutkan padatan ninhidrin dalam air. Larutan ini 
+bersifat tidak stabil sehingga tidak dapat disimpan dalam waktu lama.
+Prosedur uji Ninhidrin:
+1.	
+Masukkan larutan uji ke dalam tabung reaksi yang bersih dan 
+kering.
+2.	
+Tambahkan 1-2 ml larutan ninhydrin.
+3.	
+Panaskan tabung reaksi hingga mendidih dan amati warna yang 
+terbentuk. Uji positif ditandai dengan terbentuknya warna biru.
+Inti Sari
+Polimer adalah makromolekul yang tersusun atas unit-unit ulang 
+monomer yang dihubungkan dengan ikatan kovalen. Polimer yang 
+mengandung atom-atom karbon sebagai penyusun utamanya, disebut 
+sebagai polimer organik. Polimer organik dikelompokkan menjadi 
+polimer organik alam (misalnya karet alam) dan polimer organik 
+sintetik (misalnya polistirena). Polietilena tersusun atas banyak 
+monomer etena yang membentuk rantai panjang polimer.
+186
+Kimia SMA/MA Kelas XII
+Polimer dapat terbentuk dari reaksi polimerisasi, yaitu polimerisasi 
+adisi dan kondensasi. Kelompok polimer organik sintetik yang paling 
+umum adalah plastik. Plastik tidak dapat didaur ulang dengan mudah, 
+karenanya dapat menimbulkan masalah lingkungan. Beberapa 
+masalah lingkungan yang dihasilkan dari penumpukan limbah 
+plastik adalah polusi di perairan, darat dan udara. Biopolimer organik 
+umumnya berupa polimer yang terdapat secara alami pada organisme. 
+Contoh biopolimer organik adalah karbohidrat dan protein, keduanya 
+sangat penting bagi kelangsungan hidup organisme.
+Ayo Refleksi
+Setelah mempelajari Bab 4 tentang makromolekul organik, pilihlah 
+respon yang paling sesuai untuk pernyataan  berikut.
+No.
+Pertanyaan
+Tanggapan
+Ya
+Tidak
+1
+Apakah kalian memahami kaitan 
+struktur dan fungsi beberapa 
+senyawa polimer?
+2
+Apakah kalian memahami 
+manfaat makromolekul organik 
+dalam keseharian?
+3
+Apakah kalian ingin berperan 
+dalam pemanfaatan polimer yang 
+ramah lingkungan?
+187
+Bab IV MAKROMOLEKUL ORGANIK
+Ayo Cek Pemahaman
+Bagian I . Pilihan Berganda
+Pilihlah satu jawaban yang paling tepat
+1.	 Pasangan polimer yang termasuk golongan polimer alam adalah…
+A.	 pati dan nilon
+B.	 protein dan polietilena
+C.	 protein dan lemak
+D.	 pati dan selulosa
+E.	 Teflon dan nilon
+2.	 Polimer yang disintesis dengan cara polimerisasi kondensasi 
+adalah..
+A.	 polietilena
+B.	 poliester
+C.	 polivinil klorida
+D.	 politetrafluoroetilena
+E.	 polipropena
+3.	 Pada polimerisasi adisi, monomer yang dapat digunakan sebagai 
+bahan bakunya adalah..
+A.	 senyawa organik tak jenuh
+B.	 senyawa organik jenuh
+C.	 senyawa organik dengan gugus fungsi hidroksil
+D.	 senyawa organik bifungsional
+E.	 senyawa organik dengan gugus fungsi karboksil
+4.	 Berdasarkan cara sintesisnya, polimer dikelompokkan menjadi..
+A.	 polimer alam dan polimer sintetik
+B.	 polimer sintetik dan polimer semi-sintetik
+C.	 polimer adisi dan polimer kondensasi
+D.	 polimer alam dan biopolimer
+E.	 polimer alam dan polimer adisi
+188
+Kimia SMA/MA Kelas XII
+5.	 Biopolimer yang diperoleh dari reaksi kondensasi pada asam amino 
+adalah..
+A.	 pati
+B.	 selulosa
+C.	 protein 
+D.	 asam nukleat
+E.	 Glukosa
+Bagian II Essay
+Jawablah pertanyaan berikut dengan singkat dan benar
+1.	 Tuliskan satu kata atau frasa untuk mewakili deskripsi berikut.
+Deskripsi
+Kata/frasa
+a)	 rantai 
+monomer-monomer 
+yang 
+bergabung melalui ikatan kovalen
+b)	 ikatan yang terbentuk antara monomer 
+dengan gugus fungsi alkohol dan asam 
+karboksilat saat reaksi polimerisasi
+c)	 monomer gula yang memiliki enam atom 
+karbon
+d)	 monomer dari DNA yang menentukan 
+urutan asam amino pada penyusunan 
+protein
+e)	 Reaksi polimerisasi yang menghasilkan 
+molekul kecil saat setiap dua monomer 
+bereaksi
+….
+….
+….
+…
+…
+189
+Bab IV MAKROMOLEKUL ORGANIK
+2. 	 Monomer-monomer berikut bereaksi untuk membentuk suatu 
+polimer.
+OH
+OH
+H
+H
+H2N
+H2N
+C
+C
+O
+O
+C
+C
+a)	 Tuliskan rumus struktur dari polimer yang dihasilkan.
+b)	 Termasuk ke dalam reaksi polimerisasi apakah reaksi di atas?
+c)	 Termasuk golongan apakah monomer di atas?
+d)	 Apakah nama dari monomer di atas?
+e)	 Jenis ikatan apa yang terbentuk pada reaksi polimerisasi 
+tersebut?
+ 3. 	 Polimer berikut merupakan produk dari reaksi polimerisasi
+H
+H
+H
+H
+H
+H
+H
+H
+H
+CI
+CI
+CI
+C
+C
+C
+a)	 Tuliskan rumus struktur dari monomer penyusun polimer di 
+atas.
+b)	 Apakah nama dari monomer tersebut?
+c)	 Tuliskan rumus sederhana dari polimer di atas.
+d)	 Bagaimana polimer di atas disintesis?
+H
+H
+C
+C
+C
+190
+GLOSARIUM
+aditif: bahan/zat yang ditambahkan
+agen pengoksidasi: reaktan yang menerima elektron (mengalami reduksi) 
+dan mengoksidasi reaktan lainnya 
+agen pereduksi: reaktan yang melepaskan elektron (mengalami oksidasi) dan 
+mereduksi reaktan lainnya
+antibiotik: senyawa yang mampu membunuh mikroorganisme
+antiseptic: senyawa yang mampu membunuh mikroorganisme penyebab 
+infeksi
+asam amino: senyawa organik yang mengandung gugus amina dan asam 
+karboksilat, dihubungkan oleh atom karbon; merupakan monomer dari 
+protein. 
+belerang: unsur berwujud padat dengan lambang atom S
+bilangan oksidasi: muatan sebenarnya atau hipotetis yang digunakan 
+untuk untuk menjelaskan reaksi redoks dari senyawa kovalen; diberikan 
+menggunakan aturan tertentu.
+disakarida: biopolimer (golongan karbohidrat) yang tesusun atas dua unit 
+sakarida (misalknya sukrosa/gula)
+DNA (asam 2-deoksiribonukleat): material genetik esensial yang ditemukan 
+pada inti dari setiap sel; berbentuk heliks ganda dan tersusun atas unit ulang 
+nukleotida.
+elektrolit: zat terlarut yang menghantarkan listrik saat dilarutkan dalam air
+enzim: molekul protein berukuran besar yang berperan sebagai katalis proses 
+biologis
+esterifikasi: reaksi pembentukan ester
+fosfor: unsur berwujud padat dengan lambang atom P
+halogen: unsur yang terletak pada golongan 17 atau VII A
+hidrasi: reaksi adisi molekul air
+hidrogen: unsur berwujud gas dengan lambang atom H
+hidrokarbon: senyawa yang tersusun atas hidrogen dan karbon
+191
+isomer: senyawa yang memiliki rumus molekul sama akan tetapi berbeda 
+cara mengatur atom-atom dalam molekul 
+IUPAC: International Union of Pure and Applied Chemistry
+karbohidrat (sakarida): biopolimer yang saat berbentuk linier mengandung 
+gugus aldehid atau keton, beserta dua atu lebih gugus hidroksil; dan saat 
+berada dalam bentuk cincin, mengandung ikatan eter dan gugus hidroksil.
+kesetimbangan : kondisi saat laju reaksi ke arah hasil reaksi sama dengan laju 
+ke arah pereaksi
+larutan : campuran homogen dari dua zat atau lebih 
+lemak: lipida yang mengandung molekul gliserol yang dihubungkan dengan 
+ikatan ester pada tiga asam karboksilat rantai panjang
+lipida: molekul biologis yang tidak larut dalam air, namun larut dalam pelarut 
+non-polar seperti benzen dan heksan
+monosakarida: molekul terkecil dari karbohidrat; tersusun atas satu unit 
+sakarida
+monomer: molekul-molekul kecil yang bergabung membentuk rantai panjang 
+polimer
+nitrogen: unsur berwujud gas dengan lambang atom N
+obat: senyawa aktif yang dapat dimanfaatkan untuk mengatasi gejala suatu 
+penyakit
+oksidasi: (reaksi) kehilangan elektron
+oksigen: unsur berwujud gas dengan lambang atom O
+pati: polisakarida glukosa yang digunakan tanaman untuk menyimpan energi; 
+manusia dapat mencerna pati
+PCC: piridinium kloro kromat
+pelarut : bagian dari larutan yang umumnya memiliki jumlah lebih banyak
+penyabunan: hidrolisis ester menggunakan basa
+pH : ukuran keasaman suatu senyawa yang sebanding dengan -log dari 
+konsentrasi h+ 
+plastik: polimer sintetik yang dapat dipanaskan dan dicetak menjadi berbagai 
+bentuk
+192
+poliamida: polimer kondensasi yang mengandung ikatan amida
+poliester: polimer kondensasi yang mengandung ikatan ester
+polimer: molekul panjang dan berukuran besar yang tesusun atas unit-unit 
+ulang; terbuat dari molekul-molekul kecil yang disebut monomer
+polimerisasi adisi: reaksi antar monomer-monomer yang memiliki ikatan 
+rangkap untuk menghasilkan polimer, melalui mekanisme reaksi adisi.
+polimerisasi kondensasi: reaksi antar monomer-monomer yang memiliki dua 
+gugus fungsi , biasanya terletak di ujung-ujung, yang bergabung membentuk 
+ikatan ester atau amida, untuk menghasilkan polimer (umumnya disertai 
+pelepasan molekul sederhana).
+polisakarida: karbohidrat yang terdiri dari sepuluh atau lebih unit sakarida
+reaksi adisi: reaksi yang dilakukan untuk mengubah ikatan rangkap dalam 
+molekul organik menjadi ikatan tunggal
+reaksi eliminasi: reaksi yang dilakukan untuk mengubah ikatan tunggal 
+dalam molekul organik menjadi ikatan rangkap
+reaksi oksidasi: reaksi peningkatan bilangan oksidasi/pengurangan h/
+penambahan o
+reaksi 
+polimerisasi: 
+reaksi 
+dimana 
+monomer-monomer 
+bergabung 
+membentuk rantai panjang polimer
+reaksi redoks: reaksi dimana salah satu reaktan kehilangan elektron (oksidasi) 
+dan reaktan lainnya mendapatkan elektron (reduksi)
+reaksi reduksi: reaksi penurunan bilangan oksidasi/penambahan H/
+pengurangan O
+reaksi substitusi: reaksi penggantian gugus
+reduksi: (reaksi) pengambilan elektron
+senyawa organik: senyawa yang berasal dari makhluk hidup
+swaionisasi air: proses penguraian air menjadi H+ dan OH– secara spontan 
+syn gas: campuran karbon dioksida dengan hidrogen
+zat terlarut : bagian dari larutan yang umumnya memiliki jumlah lebih sedikit

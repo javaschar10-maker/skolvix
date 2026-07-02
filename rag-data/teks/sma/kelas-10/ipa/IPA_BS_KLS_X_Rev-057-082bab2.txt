@@ -1,0 +1,771 @@
+Bab II 
+Virus dan Peranannya
+41
+Bab
+II
+Virus
+dan Peranannya
+  Bagaimana virus dapat memengaruhi kehidupan di bumi? 
+Sumber: user2415731/freepik.com (2023)
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2023
+Ilmu Pengetahuan Alam untuk SMA/MA Kelas X (Edisi Revisi)
+Penulis : Niken Resminingpuri Krisdianti, Elizabeth Tjahjadarmawan, 
+Ayuk Ratna Puspaningsih
+ISBN 
+: 978-623-118-461-0 (jil.1 PDF)
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+42
+Pada bab ini, kalian akan diajak untuk memahami peranan virus dalam 
+kehidupan sehari-hari dan pemanfaatannya dalam bioteknologi sehingga 
+mampu berperan aktif dalam menyelesaikan masalah terkait virus.
+Tujuan Pembelajaran
+• virus
+• replikasi
+• vaksin
+Kata 
+Kunci
+Peta Konsep
+Sintesis
+Daur Litik
+Daur Lisogenik
+Pelekatan
+Lisis
+Perakitan
+Penetrasi
+Kompleks
+Heliks
+Polihedral
+Sferis (Bulat)
+Asam Nukleat 
+(DNA/RNA)
+Berukuran 
+20–400 nm
+Bereproduksi 
+pada Sel Inang
+Kapsid
+Makhluk Peralihan
+VIRUS
+dapat 
+berbentuk
+memiliki 
+peranan
+melakukan 
+replikasi 
+dengan
+tahapannya
+Penyakit
+Senjata Biologi
+Peran Negatif
+contohnya
+Tanaman 
+Transgenik
+Vaksin
+Bioteknologi 
+(Seperti Insulin)
+Viroterapi
+GMO
+Peran Positif
+contohnya
+merupakan
+ciri-cirinya
+struktur 
+tubuhnya 
+berupa
+Bab II 
+Virus dan Peranannya
+43
+Kehidupan manusia mengalami perubahan drastis semenjak Desember 2019 
+saat Coronavirus Disease 2019 (Covid-19) ditemukan pertama kali di kota 
+Wuhan, Tiongkok. Covid-19 disebabkan oleh salah satu keluarga koronavirus, 
+yaitu Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2). Covid-19 
+menyebar dengan cepat ke seluruh dunia sehingga pada 11 Maret 2020, WHO 
+menyatakan keadaan ini sebagai pandemi. 
+Menurut data statistik pada situs https://www.outbreak.my/ms/world tanggal 
+21 Januari 2021 menyebutkan ada 98.803.816 orang di dunia yang terinfeksi, 
+2.118.719 di antaranya meninggal dan 70.780.399 dinyatakan sembuh. Setahun, 
+virus ini telah mengurangi dua juta populasi manusia. Sungguh sangat berbahaya, 
+bukan? 
+Pada Bab 2 ini, kalian akan belajar tentang apa itu virus, bagaimana 
+cara virus bereproduksi, apa peranan virus dalam kehidupan di bumi, dan 
+bagaimana solusi pencegahan penyebaran virus. Sepanjang belajar tentang 
+bab ini, kalian akan mengerjakan proyek secara bertahap berkaitan dengan 
+penyakit akibat virus untuk menemukan solusi pencegahan penyebaran virus 
+itu dan mengampanyekan hasil penyelidikan kalian kepada masyarakat luas 
+agar terhindar dari bahaya virus.
+Mengidentiikasi Kasus Virus di Daerah Setempat 
+Datangilah puskesmas atau klinik terdekat. Jangan lupa menggunakan alat 
+pelindung diri (APD). Jika situasi tidak memung kinkan, lakukan penelusuran 
+di internet mengenai data penyakit yang disebabkan oleh virus di daerahmu. 
+Untuk menambah informasi, kamu bisa melakukan wawancara dengan 
+tenaga kesehatan di puskesmas atau klinik tentang penyakit tersebut atau 
+menelaah artikel di surat kabar atau media elektronik yang terpercaya.
+Selamat bekerja.
+Proyek Tahap 1
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+44
+A. Apa Itu Virus? 
+Virus tentu kata yang tidak asing bagi kalian. Dalam dunia komputer, virus 
+merupakan suatu program yang dapat mengganggu kinerja program komputer. 
+Dalam media sosial, istilah viral sering digunakan untuk menunjukkan suatu 
+informasi yang menyebar luas dan cepat. Kata viral ini berarti memiliki sifat 
+seperti virus, yakni mudah menyebar. Akan tetapi, yang akan kita bahas pada 
+bab ini bukan virus pada komputer atau media sosial, melainkan virus yang 
+memiliki material genetik yang dapat menimbulkan penyakit pada manusia 
+dan makhluk hidup lainnya.
+Semenjak pandemi Covid-19 pada akhir 2019, kata virus hampir setiap hari 
+muncul dalam berita atau infograis di media massa. Akibat virus ini pula kalian 
+melakukan physical distancing atau pembatasan jarak terhadap sesama, lebih 
+sering tinggal di rumah, belajar secara daring dari rumah, dan jika terpaksa 
+harus keluar rumah wajib mengenakan masker dan sering mencuci tangan 
+dengan sabun dan air mengalir atau alternatifnya dengan hand sanitizer atau 
+pembersih tangan beralkohol. Virus ini tidak kasat mata, tetapi sangat berbahaya. 
+Seperti apakah virus itu? Apakah virus tergolong makhluk hidup? Bagaimana 
+bentuknya?
+Pernahkah kalian berinteraksi dengan teman atau anggota keluargamu 
+yang mengalami lu dan beberapa hari kemudian kalian juga mengalami gejala 
+lu? Penularannya cepat dan tanpa kalian sadari, bukan? Seperti yang kalian 
+ketahui bahwa lu disebabkan oleh virus. Virus memiliki ukuran yang sangat 
+kecil, diameternya berkisar antara 20 hingga 400 nanometer (nm). Oleh karena 
+itu, virus hanya dapat dilihat dengan mikroskop elektron. 
+Mikroskop elektron adalah alat yang menggunakan berkas elektron 
+menggantikan cahaya untuk membentuk gambar objek mikroskopis. Elektron-
+elektron dipercepat di dalam ruang bermedan listrik, kemudian difokuskan 
+menggunakan medan magnet, dan ditembuskan pada sampel. Hasil tembusannya 
+diamati pada layar dalam bentuk gambar dengan resolusi tinggi dari objek 
+kecil, jauh lebih kecil dari objek yang dapat dilihat dengan mikroskop cahaya.
+ Partikel lengkap virus, yang disebut dengan virion, terdiri atas asam 
+nukleat yang dibungkus oleh protein pelindung yang disebut dengan kapsid. 
+Asam nukleat memiliki peranan penting dalam proses perbanyakan diri virus 
+pada inang. Tanpa asam nukleat, virus tidak akan bisa memerintahkan sel 
+Bab II 
+Virus dan Peranannya
+45
+inang untuk membuat bagian-bagian partikel virus. Berdasarkan jenis asam 
+nukleat yang menyusunnya, virus dikelompokkan menjadi virus DNA dan virus 
+RNA. Virus DNA adalah virus yang memiliki asam nukleat berupa DNA (asam 
+deoksiribonukleat), sedangkan virus RNA adalah virus yang memiliki asam 
+nukleat RNA (asam ribonukleat).
+Kapsid tersusun atas subunit protein identik yang disebut dengan kapsomer. 
+Beberapa virus memiliki memiliki amplop (membran lipoprotein) yang berasal 
+dari sel inang. Bentuk virus beraneka ragam, ada yang berbentuk heliks, 
+polihedral, amplop/spherical, dan kompleks (perhatikan Gambar 2.1) Contoh 
+virus yang berbentuk heliks adalah virus mosaik tembakau (tobacco mosaic 
+virus, TMV), sementara virus yang berbentuk polihedral adalah adenovirus, yang 
+berbentuk amplop contohnya virus inluenza, dan yang berbentuk kompleks 
+contohnya bakteriofag (virus pemakan bakteri).
+Heliks
+Virus Mosaik Tembakau
+Polihedral
+Adenovirus
+Kompleks
+Bakteriofag
+Amplop/spherical
+Virus Inluenza
+Gambar 2.1 Bentuk Virus dan Contohnya
+Berdasarkan informasi yang telah kalian pelajari, menurut kalian apakah 
+virus merupakan sebuah sel? Dapatkah kita menyebut virus makhluk hidup? 
+Sebelum belajar lebih lanjut, ayo lakukan Aktivitas 2.1.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+46
+Setelah kalian belajar tentang karakteristik 
+virus, simaklah video tentang koronavirus 
+pada tautan di samping. 
+https://buku.kemdikbud.
+go.id/s/CV
+Aktivitas 2.1
+Ayo Menelaah
+Ayo Berlatih
+Cobalah kalian amati gambar virus berikut, kemudian jawab pertanyaan 
+di bawahnya!
+  
+Gambar 2.2 Struktur Virus Bakteriofag dan Koronavirus
+1. 
+Apakah kesamaan struktur pada kedua virus tersebut?
+2. 
+Cobalah cari informasi berapa ukuran dari kedua virus tersebut!
+3. 
+Sebuah sel minimal tersusun atas membran sel, sitoplasma, asam 
+nukleat, dan ribosom. Berdasarkan telaah struktur yang kalian 
+lakukan, apakah virus merupakan merupakan sebuah sel? Apakah 
+virus adalah makhluk hidup?
+Bab II 
+Virus dan Peranannya
+47
+Kemudian jawablah pertanyaan berikut.
+1. 
+Berdasarkan video tersebut, pikirkan apakah pernyataan berikut 
+benar atau salah?
+Pernyataan
+Benar
+Salah
+Koronavirus adalah sel berukuran kecil.
+Disebut korona karena memiliki amplop yang 
+mengandung struktur seperti paku.
+Koronavirus tergolong virus RNA.
+2. 
+Setelah kalian menelaah struktur koronavirus pada video, kegiatan 
+laboratorium manakah yang menurut kalian dapat dilakukan untuk 
+mengidentiikasi koronavirus? 
+Kegiatan Laboratorium
+Benar
+Salah
+Pengamatan virus menggunakan mikroskop 
+cahaya. 
+Mengidentiikasi jenis protein pada struktur 
+amplopnya.
+Mengidentiikasi jenis asam nukleatnya, apakah 
+rantai tunggal atau ganda.
+B. Bagaimana Virus Bereproduksi?
+Berdasarkan penjelasan pada awal bab ini, Covid-19 pertama kali diidentiikasi 
+di kota Wuhan, Tiongkok. Dalam beberapa bulan, virus ini menyebar hingga 
+ke seluruh dunia. Bagaimanakah cara virus memperbanyak diri dan menyebar 
+begitu luas dan cepat? 
+Sebelum belajar lebih lanjut, ayo kita lakukan Aktivitas 2.2. 
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+48
+Cermatilah video tentang bagaimana korona-
+virus memperbanyak diri di dalam sel inang 
+pada tautan di samping. 
+https://buku.kemdikbud.go.id/s/NCV
+Berdasarkan video tersebut, cobalah deskripsikan bagaimana korona-
+virus memperbanyak dirinya. Apakah koronavirus bisa memperbanyak 
+diri di luar sel inang?
+Pada Aktivitas 2.1, kalian telah mempelajari bahwa virus secara umum 
+hanya terdiri atas asam nukleat dan protein kapsid. Hal ini menunjukkan 
+bahwa tubuh virus bukan merupakan sebuah sel yang memiliki membran sel, 
+sitoplasma, asam nukleat, dan ribosom. Seperti yang kalian ketahui bahwa 
+unit terkecil dari makhluk hidup adalah sel, sedangkan virus tidak memiliki 
+komponen sel selain asam nukleat. Dengan demikian, dilihat dari strukturnya 
+virus bukanlah makhluk hidup. 
+Satu-satunya ciri makhluk hidup yang dimiliki oleh virus adalah kemampuan 
+bereproduksi. Virus dapat memperbanyak diri hanya jika berada di dalam sel 
+inang. Struktur tubuh virus pada bagian luar memiliki protein reseptor. Virus 
+dapat menginfeksi apabila struktur tersebut cocok dengan protein reseptor 
+pada membran sel inang. 
+Proses memperbanyak diri pada virus disebut dengan replikasi. Replikasi 
+virus terdiri atas siklus litik dan lisogenik. Virus melakukan siklus litik dan 
+lisogenik bergantung pada virulensi atau ketahanan sel inang terhadap virus 
+penginfeksi. Jika sel inang memiliki ketahanan yang lemah maka virus dapat 
+melakukan siklus litik. Sebaliknya, jika sel inang memiliki ketahanan yang tinggi 
+maka virus melakukan siklus lisogenik.
+Aktivitas 2.2
+Ayo Menelaah
+Bab II 
+Virus dan Peranannya
+49
+ Pada siklus litik, perkembangbiakan virus diawali dengan tahap melekatnya 
+virus pada sel inang, kemudian penetrasi asam nukleat virus ke dalam sel 
+inang. Tahap selanjutnya asam nukleat virus akan memerintah sel inang untuk 
+menyintesis asam nukleat dan bagian tubuh virus untuk dirakit menjadi tubuh 
+virus baru. Akhir siklus ini, sel inang pecah dan mengeluarkan banyak virus baru. 
+Berbeda dengan siklus litik, pada siklus lisogenik sel inang akan tetap 
+membawa asam nukleat virus meskipun sel inang memperbanyak dirinya. 
+Siklus lisogenik ini dapat beralih ke siklus litik. Berikut adalah gambar proses 
+replikasi virus.
+Gambar 2.3 Tahapan replikasi virus terbagi atas siklus litik dan lisogenik.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+50
+Setelah kalian belajar tentang replikasi virus, cobalah jawab pertanyaan 
+berikut.
+1. 
+Urutkanlah proses tahapan proses replikasi virus berikut!
+2. 
+Dilihat dari tahapannya, siklus apakah yang terjadi?
+3. 
+Identiikasilah persamaan dan perbedaan siklus litik dan lisogenik 
+dengan menggunakan diagram venn berikut!
+4. 
+Berikut adalah penggalan berita hoaks tentang bagaimana korona-virus 
+memperbanyak diri.
+Koronavirus yang tanpa sengaja menempel pada kulit tangan, akan 
+menginfeksi sel-sel pada kulit tangan. Ketika koronavirus menempel 
+pada permukaan sel inang, virus menginjeksikan RNA ke dalam sel 
+inang dan memerintahkan sel inang untuk memproduksi partikel 
+virus. Itulah mengapa kita harus mencuci tangan agar virus tidak 
+menginfeksi sel kulit.
+1. Tahap pelekatan
+4. Tahap sel lisis
+5. Tahap penetrasi
+2. Tahap perakitan
+3. Tahap sintesis
+Siklus Litik
+Siklus Lisogenik
+Ayo Berlatih
+Bab II 
+Virus dan Peranannya
+51
+a. 
+Berdasarkan paragraf tersebut, kalimat keberapakah yang benar?
+b. 
+Menurut kalian, kegiatan laboratorium manakah yang dapat 
+membuktikan bahwa mencuci tangan dapat mengurangi infeksi 
+virus?
+Mengamati sel kulit tangan yang terpapar koronavirus 
+dan sel kulit tangan yang telah dicuci dengan sabun 
+menggunakan mikroskop elektron.
+Membandingkan jumlah yang tertular Covid-19 antara 
+kelompok orang yang tidak mencuci tangan dan yang selalu 
+mencuci tangan setelah kontak dengan penderita Covid-19.
+Mencampur koronavirus dengan air sabun kemudian 
+mengecek strukturnya di bawah mikroskop.
+Menelaah cara virus bereproduksi 
+Setelah kalian mengidentiikasi penyakit-penyakit akibat virus yang ter jadi 
+di daerah kalian pada Proyek Tahap 1, pilihlah salah satu penyakit untuk 
+kalian telaah karakteristik dan cara virus tersebut berkembang biak dan 
+menyebar. Kalian dapat menelaah artikel atau video yang terpercaya di 
+internet untuk menemukan jawabannya.
+C. Peranan Virus
+Pada pelaksanaan kegiatan Proyek Tahap 1, kalian menemukan bahwa banyak 
+penyakit yang disebabkan oleh virus, seperti Covid-19. Bagaimanakah peran virus 
+pada hewan dan tumbuhan? Apakah ada peranan virus yang menguntungkan 
+manusia?
+Sebelum belajar lebih lanjut, mari kita lakukan Aktivitas 2.3.
+Proyek Tahap 2
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+52
+Berikut adalah intisari dari artikel “The Good that Viruses Do” yang ditulis 
+oleh Mario Mietzsch and Mavis Agbandje-McKenna.
+ 
+Masyarakat luas memiliki persepsi negatif terhadap virus. Virus 
+selalu dikaitkan dengan penyakit, infeksi, kematian, dan wabah 
+penyakit. Namun, sesungguhnya para ahli virologi menemukan 
+bahwa virus dapat dimanfaatkan dalam kesehatan manusia. Saat 
+ini telah berkembang viroterapi, yaitu pengobatan penyakit dengan 
+menggunakan virus. Virus onkolitik contohnya, virus ini dapat 
+melisiskan sel kanker tanpa merusak sel non-kanker. 
+ 
+Virus juga dapat dimanfaatkan sebagai vektor pembawa gen 
+untuk memperbaiki gen abnormal pada terapi gen atau sel. Selain 
+itu, virus digunakan dalam banyak studi genetik untuk menentukan 
+mekanisme molekuler, digunakan sebagai insektisida, dan telah 
+dilaporkan meningkatkan toleransi kekeringan pada beberapa 
+tanaman. Jadi, sesungguhnya banyak hal “baik” dalam pemanfaatan 
+virus yang dapat dilakukan.
+Untuk memperoleh informasi lebih detail tentang 
+artikel ini, silakan membacanya pada tautan di 
+samping. 
+Berdasarkan kajian tentang virus tersebut, jawablah 
+pertanyaan-pertanyaan berikut!
+1. 
+Jelaskan “kebaikan” apa yang saja yang dapat virus lakukan!
+2. 
+Dari sekian kebaikan yang dilakukan virus, pilihlah satu yang menarik 
+untukmu, kemudian jelaskan manfaatnya bagi kehidupan manusia, 
+hewan, tumbuhan, atau ekosistem!
+https://buku.kemdikbud.
+go.id/s/VD
+Aktivitas 2.3
+Ayo Menelaah
+Bab II 
+Virus dan Peranannya
+53
+Ketika kalian mendengar kata virus, yang terlintas pastilah penyakit menular 
+dan mematikan, apalagi semenjak masa pandemi Covid-19. Begitu pula hasil 
+penyelidikanmu pada Proyek Tahap 1, kalian mungkin menemukan berbagai 
+penyakit yang disebabkan oleh virus pada manusia, seperti demam berdarah, 
+polio, lu, cacar, dan hepatitis. Selain pada manusia, virus juga menyebabkan 
+penyakit pada tumbuhan seperti mosaik dan tungro, serta hewan seperti rabies 
+dan tetelo. 
+Sesungguhnya virus juga bermanfaat untuk kehidupan manusia. Baculovirus 
+adalah virus yang menyerang serangga dan artropoda sehingga dimanfaatkan 
+sebagai biopestisida di lahan pertanian. Kemampuan virus dalam melemahkan 
+inangnya dimanfaatkan dalam pengobatan biologis untuk melemahkan atau 
+membunuh bakteri, jamur, atau protozoa yang bersifat patogen.
+Pada subtopik replikasi virus, kalian telah mempelajari saat virus menginfeksi 
+sel inang, virus memasukkan asam nukleatnya ke dalam sel inang. Kemampuan 
+ini dapat dimanfaatkan dalam proses rekayasa genetika pada pembuatan insulin 
+dan terapi gen. Virus penyebab kanker pada sel-sel penghasil insulin dicangkokkan 
+dalam bakteri, sehingga bakteri ini berkembang biak dan menghasilkan insulin. 
+Sedangkan pada terapi gen, virus dimasukkan gen terapeutik agar virus 
+mengirimkan gen ini ke sel target untuk memulihkan fungsi gen yang rusak.
+Dalam dunia kesehatan, virus dapat dijadikan sebagai agen antikanker dan 
+bahan pembuat vaksin. Virus onkolitik digunakan sebagai agen antikanker. Virus 
+tersebut selektif untuk memilih sel kanker sehingga menginfeksi dan merusak 
+sel kanker tanpa merusak sel yang sehat. 
+Pada pembuatan vaksin, diperlukan virus inaktif atau bagian struktur 
+tertentu pada virus sebagai protein khusus yang akan memacu terbentuknya 
+respons kekebalan tubuh untuk melawan suatu penyakit. Ketika tubuh terpapar 
+oleh virus yang dilemahkan ini, limfosit akan aktif dan membentuk antibodi 
+untuk mengikat virus agar tidak menginfeksi sel targetnya. Uniknya, sistem 
+imun kita akan mengingat virus yang pernah masuk, sehingga jika terpapar 
+yang kedua kalinya, tubuh akan lebih cepat mengatasi infeksi virus tersebut.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+54
+Mosaik
+TMV
+AIDS
+Virus Dengue
+Rhabdovirus
+Rabies
+Polio
+Demam Berdarah
+HIV
+Poliovirus
+Ayo Berlatih
+Setelah kalian belajar tentang peranan virus, cobalah jawab pertanyaan 
+berikut!
+1. 
+Jodohkan nama virus dan penyakit yang benar!
+2. 
+Melalui bioteknologi, insulin dapat dihasilkan dari sel bakteri. Berikut 
+adalah bagan pembentukan insulin.
+ 
+Gambar 2.4 Bagan Pembentukan Insulin
+Bab II 
+Virus dan Peranannya
+55
+https://buku.kemdikbud.go.id/s/VS
+ 
+Berdasarkan bagan tersebut, pada proses manakah kita bisa meman-
+faatkan virus dalam pembuatan insulin? 
+3. 
+Bacalah intisari artikel yang berjudul “Eikasi Vaksin Sinovac 65,3 
+Persen, Bagaimana Cara Menghitungnya?” yang ditulis oleh Holy 
+Kartika Nurwigati Sumartiningtyas berikut ini.
+Vaksin Covid-19 Sinovac secara resmi diizinkan diguna-kan di 
+Indonesia. Nilai eikasi vaksin Sinovac di Bandung sebesar 65,3%. 
+Hal ini berbeda dengan nilai eikasi vaksin Sinovac di Brasil, yaitu 
+sebesar 78% dan di Turki sebesar 91,75%. Bagaimana cara menghitung 
+nilai eikasi vaksin Sinovac di Bandung sehingga nilainya berbeda 
+dengan negara lainnya?
+Uji vaksin Sinovac di Bandung melibatkan 1.600 orang, terdapat 
+800 orang yang menerima vaksin dan 800 orang mendapatkan 
+plasebo (vaksin kosong). Pada kelompok yang menerima vaksin, 
+ada 26 orang yang terinfeksi Covid-19 atau sekitar 3,25%, sedangkan 
+dari kelompok plasebo ada 75 orang yang terkena Covid-19 atau 
+9,4%. Nilai eikasinya adalah (0,094
+0,0325)
+100% = 65,3%
+0 094
+,
+. 
+Dengan demikian, yang menentukan besaran nilai eikasi adalah 
+perbandingan antara kelompok yang divaksin dengan yang tidak.
+Untuk memperoleh informasi lebih detail 
+tentang artikel ini, silakan membaca artikel 
+pada tautan di samping.
+Berdasarkan artikel tersebut, jawablah 
+pertanyaan-pertanyaan berikut!
+1. 
+Apakah variabel terikat dan variabel 
+bebas dalam penelitian tersebut?
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+56
+D. Cara Mencegah Penyebaran Virus
+Sebagaimana telah disampaikan di materi sebelumnya, virus Covid-19 
+menyebar dengan sangat cepat ke seluruh dunia. Bagaimana cara virus 
+menyebarkan dirinya dan bagaimana cara pencegahannya? Sebelum belajar 
+lebih lanjut, mari kita lakukan Aktivitas 2.4.
+Aktivitas 2.4
+Ayo Menelaah
+2. 
+Jika seandainya dilakukan uji eikasi vaksin Sinovac di suatu 
+daerah dengan pengujian kepada 500 orang yang menerima 
+vaksin dan 500 orang sebagai pembanding, lalu ditemukan 20 
+orang yang menerima vaksin terinfeksi Covid-19, sementara dari 
+kelompok pembanding 100 orang terinfeksi, berapakah eikasi 
+vaksin tersebut?
+3. 
+Tentukan apakah aktivitas penelitian dalam menguji eikasi virus 
+berikut ini benar atau salah!
+Pernyataan
+Benar
+Salah
+Orang yang akan diberikan vaksin harus dalam 
+kondisi sehat.
+Jumlah orang yang diberikan vaksin boleh 
+lebih banyak dibandingkan dengan kelompok 
+pembanding.
+Perhatikan anjuran pada Gambar 2.5, kemudian jawablah pertanyaan-
+pertanyaan berikut!
+1. 
+Bagaimana cara koronavirus menyebar?
+2. 
+Mengapa mencuci tangan dengan sabun dapat mengurangi penyebaran 
+koronavirus?
+3. 
+Mengapa penggunaan masker disarankan dalam pencegahan penularan 
+Covid-19?
+Bab II 
+Virus dan Peranannya
+57
+Setiap virus menyebar dengan caranya tertentu. Virus dengue yang 
+menyebabkan demam berdarah, menyebar dengan perantara nyamuk Aedes 
+aegypti. Virus varicella-zoster (VZV) yang menyebabkan cacar, menyebar melalui 
+sentuhan dengan penderita, percikan cairan tubuh penderita, atau sentuhan 
+terhadap benda yang sebelumnya disentuh oleh penderita. Adapun HIV menyebar 
+melalui injeksi langsung ke aliran darah, kontak membran mukosa atau jaringan 
+yang terluka dengan cairan tubuh tertentu (darah, asi, dan semen) penderita. 
+4. 
+Apa fungsi mengonsumsi gizi seimbang dalam pencegahan penularan 
+Covid-19?
+5. 
+Dari sekian anjuran, adakah anjuran lain yang dapat kalian sampaikan 
+dalam pencegahan penularan Covid-19?
+Gambar 2.5 Lima Cara Mencegah Penularan Covid-19
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+58
+Khusus untuk koronavirus yang melanda dunia saat pandemi, menyebar 
+melalui droplet yang dikeluarkan oleh penderita, melalui bersin, batuk, atau 
+saat penderita berbicara. Penyebarannya sangat cepat dan mudah menginfeksi 
+tanpa disadari oleh pembawanya. Ada beberapa cara yang dapat dilakukan 
+untuk mengurangi penyebaran koronavirus ini.
+Cara pertama yaitu tindakan yang bersifat isik. Koronavirus menyebar 
+melalui droplet penderita yang akan jatuh beberapa meter dari penderita, 
+sehingga disarankan agar memberi jarak sekitar dua meter ketika berinteraksi 
+dengan seseorang. Virus ini masuk melalui saluran pernapasan dan mulut, 
+sehingga untuk mengurangi kesempatan tersebut disarankan menggunakan 
+masker yang menutupi area hidung hingga dagu. Itu pulalah alasan mengapa 
+kita dianjurkan untuk tidak menyentuh area wajah dengan tangan, karena 
+droplet yang keluar dari penderita dapat jatuh mengenai benda-benda di dekat 
+penderita kemudian tanpa sengaja kita sentuh. 
+Cara kedua adalah tindakan yang menggunakan bahan kimia. Seperti yang 
+telah kalian pelajari, beberapa virus memiliki struktur amplop. Salah satu cara 
+agar virus tidak dapat menginfeksi sel inang adalah dengan merusak struktur 
+amplop tersebut. Penggunaan sabun dan air dapat merusak struktur amplop pada 
+virus. Sabun mengandung zat mirip lemak yang disebut amiilik yang secara 
+struktural sangat mirip dengan lipid di amplop virus. Molekul sabun bersaing 
+dengan lipid di amplop virus sehingga mampu merusak amplop virus. Selain 
+itu, sabun juga dapat melepaskan virus yang menempel pada kulit. Jika tidak 
+tersedia sabun dan air, hand sanitizer dapat juga merusak struktur amplop virus 
+karena mengandung alkohol (biasanya 70%) dan zat lain yang dapat merusak 
+selubung protein virus.
+Cara pencegahan yang ketiga bersifat biologis. Untuk bertahan dari serangan 
+penyakit, tubuh manusia memiliki sistem kekebalan tubuh. Sistem kekebalan 
+spesiik pada tubuh manusia memiliki kemampuan pertahanan yang kuat 
+untuk menghadapi patogen tertentu. Tubuh mampu mengingat patogen tertentu 
+yang pernah menyerang sehingga dapat segera membentuk antibodi untuk 
+melawannya. Dengan demikian, patogen tersebut tidak bisa menjangkit ke 
+dalam tubuh untuk kali kedua. Dalam memberikan reaksi terhadap serangan 
+dari patogen tersebut, sistem kekebalan tubuh akan mengaktifkan limfosit dan 
+memproduksi antibodi. Inilah mengapa vaksin diberikan kepada manusia. 
+Bab II 
+Virus dan Peranannya
+59
+Ada dua jenis vaksin, yaitu attenuated whole-agent vaccines yang berasal 
+dari patogen hidup yang dilemahkan dan inactivated whole-agent vaccines yang 
+berasal dari patogen yang telah dihancurkan kemampuan infeksinya tetapi 
+mampu menstimulus antibodi. Vaksin merangsang sistem kekebalan tubuh 
+manusia untuk mengingat patogen tersebut dan menghasilkan antibodi, sehingga 
+ketika tubuh diserang oleh patogen tersebut, tubuh telah memiliki persiapan 
+untuk melawannya. Selain itu, anjuran untuk makan makanan seimbang, 
+istirahat yang cukup, menghindari stres, dan minum vitamin juga merupakan 
+cara untuk meningkatkan sistem kekebalan tubuh manusia.
+Tubuh yang telah terinfeksi oleh virus dapat diobati dengan memberikan 
+zat antivirus yang dapat menghambat perkembangbiakan virus. Acyclovir 
+merupakan salah satu zat antivirus yang menghambat proses replikasi virus 
+herpes simpleks (HSV) penyebab penyakit herpes. Acyclovir menghambat proses 
+sintesis DNA virus pada sel inangnya sehingga menghambat perbanyakan virus. 
+Pemberian antibodi secara langsung juga dapat dilakukan untuk mengatasi 
+penyakit akibat virus. Seperti dalam penerapan terapi plasma darah pada pasien 
+Covid-19. Plasma darah yang digunakan adalah milik pasien Covid-19 yang telah 
+sembuh, sehingga di dalam plasma darah tersebut telah memiliki antibodi untuk 
+melawan koronavirus. Pemberian plasma darah ini akan membantu pasien 
+Covid-19 lain dalam melawan koronavirus.
+Ayo Berlatih
+Setelah kalian belajar tentang cara penyebaran virus, cobalah jawab 
+pertanyaan-pertanyaan berikut!
+1. 
+Perhatikan gambar salah satu 
+produk hand sanitizer yang ada 
+di pasaran berikut ini! Menurut 
+kalian, apakah hand sanitizer ini 
+baik digunakan untuk mencegah 
+penularan virus?
+Gambar 2.6 Salah satu produk 
+hand sanitizer
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+60
+2. 
+Bacalah intisari artikel yang berjudul “What Are the Best Materials for 
+Making DIY Masks?” yang ditulis oleh Paddy Robertson berikut!
+Peneliti dari Universitas Cambridge menguji berbagai jenis kain 
+yang digunakan oleh rumah tangga untuk membuat masker. Untuk 
+mengukur efektivitas bahan, peneliti menggunakan bakteriofag MS2 
+yang berukuran 0,02 mikron (lima kali lebih kecil dari koronavirus). 
+Gambar berikut adalah hasil penelitiannya.
+Gambar 2.7 Efektivitas beberapa bahan kain terhadap partikel berukuran 
+0,02 mikron.
+Selain itu, peneliti melakukan uji kemampuan bernapas pada 
+masing-masing kain. Hal ini penting untuk kenyamanan pengguna 
+masker sehingga memengaruhi durasi penggunaan masker tersebut. 
+Berikut adalah hasil penelitiannya.
+Bab II 
+Virus dan Peranannya
+61
+https://buku.kemdikbud.
+go.id/s/MK
+Gambar 2.8 Perbandingan kemampuan bernapas antara masker medis dan 
+beberapa jenis kain.
+Untuk memperoleh informasi lebih detail tentang 
+artikel ini, silakan membacanya pada tautan di 
+samping.
+Berdasarkan artikel tersebut, jawablah pertanyaan berikut!
+a. 
+Buatlah urutan jenis kain dari yang terburuk hingga yang terbaik 
+yang dapat menghalangi koronavirus masuk ke sistem pernapasan 
+manusia!
+b. 
+Menurut kamu, dilihat dari kenyamanan bernapas dan kemampuan 
+menghalangi koronavirus, jenis kain apakah yang paling tepat? 
+Mengapa demikian?
+c. 
+Jika kamu diberikan dua kain yang tidak diketahui ukuran seratnya, 
+tentukan benar atau salah aktivitas yang dilakukan untuk mengukur 
+kemampuan memilter koronavirus!
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+62
+Mengampanyekan solusi pencegahan virus 
+Setelah menyelesaikan Proyek Tahap 2, telaahlah artikel terpercaya 
+berkaitan dengan virus yang kalian pilih untuk menemukan bagaimana virus 
+tersebut menyebar. Dari hasil telaah kalian, berilah solusi bagaimana cara 
+pencegahan penularannya. Laporkan dan kampanyekan hasil proyekmu 
+dalam bentuk tulisan atau lisan di media sosialmu. Selamat bekerja.
+1. 
+Virus bukan merupakan makhluk hidup.
+2. 
+Virus tersusun atas asam nukleat dan selubung protein (kapsid).
+3. 
+Virus hanya mampu bereproduksi pada sel inangnya melalui fase litik 
+atau lisogenik.
+4. 
+Meskipun virus menyebabkan banyak penyakit pada manusia, 
+hewan, dan tumbuhan, virus juga dapat bermanfaat dalam terapi 
+gen, pembentukan insulin, pembuatan vaksin, dan biopestisida.
+5. 
+Virus menyebar dengan caranya masing-masing, ada yang melalui 
+hewan perantara seperti virus dengue, melalui sentuhan seperti virus 
+cacar, melalui droplet seperti koronavirus, dan sebagainya.
+6. 
+Virus dapat dicegah penyebarannya dengan tiga cara, yaitu secara isik 
+seperti mengenakan masker, menggunakan zat kimia seperti sabun 
+dan hand sanitizer, dan secara biologis dengan pemberian vaksin.
+Intisari
+Proyek Tahap 3
+Pernyataan
+Benar
+Salah
+Mengukur diameter serat kain.
+Membandingkan jumlah virus yang 
+tersaring di antara dua kain tersebut.
+Membandingkan ukuran koronavirus 
+dengan pori-pori pada tiap kain.
+Bab II 
+Virus dan Peranannya
+63
+Ayo Cek Pemahaman
+Jawablah pertanyaan-pertanyaan berikut dengan benar!
+1. 
+Pilihlah pernyataan yang benar tentang virus!
+  Virus hanya dapat bereproduksi dalam sel inang.
+  Virus merupakan salah satu makhluk hidup.
+  Virus bukan merupakan sebuah sel.
+  Virus tersusun atas materi genetik dan kapsid.
+2. 
+Jodohkanlah gambar fase dengan namanya yang benar pada siklus litik!
+Fase Lisis
+Fase Injeksi
+Fase Pelekatan
+3. 
+Tentukan benar atau salah penjelasan tentang peranan virus!
+Pernyataan
+Benar
+Salah
+Tungro adalah penyakit yang menyerang tanaman 
+padi yang disebabkan oleh virus tungro.
+Virus NCD menyebabkan penyakit tetelo pada ayam 
+dan itik.
+Cikungunya adalah penyakit demam yang 
+disebabkan oleh virus dengue.
+Virus dapat menghasilkan insulin dengan 
+merekayasa materi genetiknya.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+64
+4. 
+Perhatikan poster berikut!
+Gambar 2.9 Beragam cara isolasi mandiri guna menghindari penyebaran Covid-19
+a. 
+Berdasarkan poster di atas, tentukan benar atau salah pernyataan 
+berikut!
+Pernyataan
+Benar 
+Salah 
+Mengatur jarak maksimal dua meter dapat 
+mengurangi penyebaran koronavirus.
+Menggunakan gelas bergiliran tidak dianjurkan.
+Tinggal dalam ruangan ber-AC dapat 
+mengurangi penyebaran koronavirus.
+b. 
+Seorang peneliti meneliti sebaran droplet ketika seseorang berbicara, 
+bersin, dan batuk. Dalam penelitiannya, dia juga mengamati sebaran 
+droplet ketika orang tersebut tidak menggunakan pelindung, meng-
+gunakan masker, pelindung wajah (face shield), dan kaca penyekat. 
+Bab II 
+Virus dan Peranannya
+65
+Berdasarkan informasi tersebut, tentukan apakah pernyataan berikut 
+benar atau salah!
+Pernyataan
+Benar 
+Salah 
+Peneliti bermaksud membandingkan efektivitas 
+masker, pelindung wajah, dan kaca penyekat.
+Peneliti tersebut meneliti perbandingan sebaran 
+droplet apabila seseorang menggunakan pelindung 
+dan tidak menggunakan sama sekali.
+Data penelitian tersebut dapat digunakan untuk 
+menentukan pelindung yang tepat untuk mengurangi 
+penyebaran Covid-19.
+c. 
+Penelitian lanjutan seperti apakah yang dapat dilakukan oleh peneliti 
+tersebut?
+Pengayaan
+Baru-baru ini virus telah digunakan untuk pengobatan tumor dan kanker. 
+Virus ini dikenal sebagai virus onkolitik. Virus onkolitik merupakan pilihan 
+pengobatan imunoterapi yang menggunakan virus untuk menginfeksi dan 
+menghancurkan sel kanker. Infeksi oleh virus tertentu dapat memengaruhi 
+perkembangan kanker tertentu, seperti virus hepatitis B (HBV) pada kanker 
+hati dan virus papiloma manusia (HPV) pada kanker serviks dan kanker 
+kepala dan leher. 
+Virus alami ini dapat direkayasa untuk memberi khasiat yang 
+menguntungkan, termasuk mengurangi kemampuan mereka untuk 
+menginfeksi sel sehat dan menghasilkan molekul peningkat kekebalan 
+setelah mereka menginfeksi sel tumor. Setelah infeksi, virus onkolitik ini 
+dapat menyebabkan sel kanker lisis sehingga membunuh sel kanker dan 
+melepaskan antigen kanker. Antigen ini kemudian merangsang respons 
+kekebalan yang dapat mencari dan menghilangkan sel tumor yang tersisa 
+di dekatnya dan berpotensi tumbuh di tempat lain di dalam tubuh.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+66
+Virus onkolitik (hijau) 
+di dalam sel sehat, tidak 
+dapat bereplikasi dan 
+meninggalkan sel tanpa 
+membahayakan.
+Virus onkolitik di dalam sel 
+kanker, bereplikasi hingga 
+sel lisis dan menghasilkan 
+antigen kanker.
+Gambar 2.10 Pengaruh virus onkolitik terhadap sel sehat dan sel kanker
+Sumber: CaptainVivacious/wikimedia.org (2013)
+Diskusikan dalam kelompok kecil, bagaimana virus onkolitik dapat 
+menyembuhkan kanker? Adakah dampak negatif dari penggunaan virus 
+onkolitik?
+Setelah kalian mempelajari Bab II, pembelajaran apa yang dapat kalian 
+dapat? Bagaimana sebaiknya kalian bersikap dan berperilaku terhadap 
+pandemi Covid-19?
+Ayo Bereleksi

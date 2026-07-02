@@ -1,0 +1,825 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Lia Laela Sarah, Irma Rahma Suwarma
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 2
+LISTRIK ARUS SEARAH
+Kata Kunci
+Hukum Ohm • Hukum Kirchoff • Hambatan jenis • Rangkaian seri • Rangkaian Paralel • Daya listrik
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian dapat mengevaluasi berbagai jenis rangkaian 
+listrik arus searah menggunakan hukum Ohm, hukum Kirchoff, hambatan jenis 
+kawat, dan daya listrik serta membuat proyek sederhana terkait rangkaian 
+listrik arus searah untuk menyelesaikan masalah dalam kehidupan sehari-hari.
+Sumber: jannoon028/freepik (2022)
+24
+Fisika untuk SMA/MA Kelas XII
+Energi listrik merupakan salah satu 
+energi 
+utama 
+dalam 
+kehidupan 
+sehari-hari. 
+Selain 
+digunakan 
+pada berbagai alat rumah tangga 
+dan 
+penerangan, 
+energi 
+listrik 
+juga digunakan pada kendaraan. 
+Misalnya, pada mobil energi listrik 
+digunakan 
+untuk 
+memberikan 
+percikan api pada steker sehingga 
+mobil 
+dapat 
+dihidupkan. 
+Selain 
+itu, 
+energi 
+listrik 
+digunakan 
+untuk menyalakan lampu, radio 
+Gambar 2.2 Sistem kelistrikan mobil
+Sumber: Unknown/Canva edu (2022)
+Gambar 2.1 Peta konsep arus searah
+Sumber : Kinkin Suartini/Kemendikbudristek (2022)
+dan komponen elektronik mobil lainnya. Rangkaian listrik pada mobil 
+memanfaatkan rangka badan mobil sebagai bagian dari rangkaian, sistem 
+25
+BAB 2 | Arus Searah
+ini dikenal sebagai pentanahan. Keuntungan dari sistem ini, yaitu untuk 
+menghemat kawat dan memudahkan mendeteksi kerusakan pada komponen 
+kelistrikan mobil.
+Rangkaian lampu-lampu, radio, AC dan komponen kelistrikan lainnya 
+pada mobil dirangkai secara paralel sehingga saat satu komponen mati, 
+komponen lain masih bisa menyala. Pada kelistrikan mobil terdapat dua 
+sumber tegangan listrik yaitu aki dan dinamo. Sebelum mobil hidup, hanya 
+aki yang berperan sebagai sumber tegangan listrik. Tapi saat mobil sudah 
+melaju, selain aki, dinamo juga akan menjadi sumber tegangan bagi semua 
+komponen kelistrikannya. Rangkaian kelistrikan saat mobil melaju ini 
+merupakan rangkaian majemuk.
+Ayo, Bernalar Kritis!
+Bagaimanakah prinsip kerja sistem kelistrikan mobil? 
+Mengapa saat satu komponen mati, komponen lain masih menyala?
+A.	 Arus Listrik
+Pada bab 1, sudah dibahas jika sebuah 
+muatan berada dalam medan listrik, maka 
+muatan akan mengalami gaya listrik dan 
+kemungkinan muatan tersebut bergerak. 
+Medan listrik dapat dihasilkan oleh beda 
+potensial listrik, misalnya pada baterai. 
+Gambar 
+2.3 
+menunjukkan 
+elektron 
+akan bergerak dalam kawat konduktor yang 
+Gambar 2. 3 Arah arus listrik
+Sumber: Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+dihubungkan dengan baterai. Beda potensial listrik pada ujung-ujung baterai 
+menyebabkan elektron bebas dalam kawat bergerak melewati penampang 
+kawat yang tegak lurus terhadap arah geraknya. Aliran muatan ini dikenal 
+sebagai arus listrik.
+Muatan listrik yang bergerak memang elektron, tapi arah arus listrik 
+dianggap berlawanan dengan arah aliran muatan elektronnya. Oleh karena 
+itu, arah arus listrik ini dikenal dengan arah arus konvensional. Arah muatan 
+elektron dalam rangkaian tertutup mengalir dari kutub negatif baterai ke 
+kutub positif sedangkan arus listriknya mengalir dari kutub positif ke kutub 
+negatif baterai. Perlu diingat bahwa tidak semua elektron yang bergerak 
+menghasilkan arus listrik. Lalu apa syarat terjadinya arus listrik?
+26
+Fisika untuk SMA/MA Kelas XII
+dengan satuan arus listrik adalah coulomb per sekon. Satu coulomb per 
+sekon disebut ampere, yaitu satuan arus listrik secara Standar Internasional. 
+Nama satuan ini diambil dari matematikawan Prancis André-Marie Ampère 
+(1775–1836) yang dikenal sebagai pelopor dalam ilmu elektrodinamika.
+Besar muatan merupakan kelipatan bilangan bulat dari muatan 
+elementer (e), maka persamaan arus listrik dapat dituliskan juga sebagai:
+dengan n yaitu jumlah muatan dan e adalah muatan elementer 1,6 x 10-19 C.
+Ayo, Cek Pemahaman!
+Sebuah lampu yang diberi sumber tegangan mengalirkan arus listrik 
+sebesar 5 A selama 30 menit. Berapa jumlah muatan elektron yang 
+mengalir dalam lampu?
+B.	Hambatan Ohmik dan Non Ohmik
+Ayo, Bernalar Kritis!
+Sebuah Light Emitting Diode (LED) agar menyala normal membutuhkan 
+beda potensial 2,2 V. Sementara baterai yang ada di pasaran hanya 1,5 
+V dan 9 V. Bagaimana cara agar mendapatkan beda potensial 2,2 V 
+pada ujung-ujung LED? Apa yang akan terjadi pada LED jika langsung 
+dihubungkan dengan baterai 9V?
+I =
+t
+ne
+(2-2)
+Arus listrik I didefinisikan sebagai jumlah muatan Q per satuan waktu t 
+yang melewati penampang kawat,
+I =
+t
+Q
+(2-1)
+27
+BAB 2 | Arus Searah
+Komponen elektronik yang dapat digunakan untuk mengatur arus listrik 
+dalam rangkaian adalah resistor. Sebuah resistor memiliki resistansi atau 
+hambatan dengan satuan ohm atau Ω. Selain resistor yang memiliki nilai 
+hambatan, kawat juga memiliki nilai hambatan. Demikian juga bola lampu 
+(bohlam) karena di dalamnya terdapat kawat tipis yang memiliki hambatan.
+Georg Simon Ohm (1789-1854 ) melakukan percobaan dan mendapatkan 
+hasil percobaan hubungan tegangan V – arus I berupa garis lurus, persamaan 
+garisnya dikenal dengan hukum Ohm,
+V = I.R
+dengan R merupakan gradien garisnya yaitu besar hambatan (ohm atau Ω),
+Alat-alat listrik yang memiliki nilai hambatan tetap dengan grafik 
+linier antara tegangan dan arus memenuhi hukum Ohm sehingga dikenal 
+dengan hambatan ohmik. Tidak semua nilai hambatan bernilai tetap atau 
+memenuhi hukum Ohm, ada juga yang berubah bergantung pada besaran 
+lainnya. Hambatan dengan nilai berubah disebut hambatan non-ohmik, 
+contohnya lampu filamen. Lampu filamen memancarkan cahaya setelah 
+filamen kawat di dalamnya menjadi panas, memiliki hambatan yang tidak 
+konstan namun dipengaruhi oleh suhu kawat (bagian ini akan dibahas lebih 
+lanjut pada subbab C).
+Berbeda dengan lampu filamen yang memancarkan cahaya karena 
+pemanasan, LED akan memancarkan cahaya monokromatik ketika 
+dihubungkan dengan tegangan pada kondisi panjar maju (akan dibahas 
+lebih lanjut pada Bab 6). Jika sebuah resistor dan LED dihubungkan dengan 
+sumber tegangan dalam rangkaian tertutup, maka arus listrik akan mengalir.
+Bagaimana karakteristik beda potensial listrik sumber (V) dan arus 
+listrik (I) yang mengalir pada resistor dan LED?. Apakah ada perbedaan? 
+Lakukan Aktivitas 2.1 untuk mengetahuinya. Tapi sebelumnya, coba ingat 
+kembali cara memasang amperemeter dan voltmeter dalam rangkaian serta 
+cara membacanya.
+(2-3)
+Ayo, Mengingat Kembali!
+Amperemeter merupakan alat untuk mengukur nilai arus listrik. 
+Amperemeter harus dirangkai secara seri. Voltmeter merupakan 
+alat untuk mengukur beda potensial atau tegangan. Berbeda dengan 
+amperemeter, voltmeter harus dirangkai secara paralel.
+28
+Fisika untuk SMA/MA Kelas XII
+Aktivitas 2.1. Hambatan Ohmik dan Non-Ohmik
+Tujuan:
+Membedakan karakteristik hubungan 
+tegangan – arus pada resistor dan 
+lampu LED.
+Alat dan Bahan:
+•	
+sebuah resistor,
+•	
+sebuah lampu LED (merah / kuning 
+/ hijau / bening),
+•	
+baterai,
+•	
+papan rangkaian,
+•	
+kabel,
+•	
+voltmeter/ amperemeter/ multimeter.
+Gambar 2. 6 Rangkaian resistor-LED
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Berbeda dengan alat ukur digital 
+yang hanya dibaca dari angka pada 
+layar, 
+voltmeter 
+dan 
+amperemeter 
+analog perlu dibaca lebih teliti. 
+Cara membaca nilai yang terukur 
+dari amperemeter dan voltmeter, yaitu:
+Hasil Ukur =
+skala maksimum
+skala ditunjuk
+x batas ukur
+Pada gambar voltmeter di atas,
+Hasil Ukur =
+3
+1,7
+x 3 V = 1, 7 V
+Gambar 2.4 Merangkai alat ukur listrik
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+a.	 Mengukur Arus Listrik
+b.	 Mengukur tegangan antara Titik A dan B
+Gambar 2. 5 Voltmeter analog
+Sumber : Nanda Auliarahma/Kemendikburistek 
+(2022)
+2
+10
+0,6
+a.
+b.
+29
+BAB 2 | Arus Searah
+Langkah Kegiatan:
+1.	 Buat rangkaian seperti Gambar 2.6.
+2.	 Baca nilai tegangan pada LED, tegangan pada resistor dan arus 
+listrik yang terukur pada rangkaian.
+3.	 Ubah nilai tegangan sumber (tambah baterainya), ukur kembali 
+nilai tegangan dan arus yang terukur. 
+4.	 Tuliskan data pada tabel pengamatan. 
+5.	 Gunakan minimal 4 nilai tegangan yang berbeda.
+6.	 Berdasarkan data yang diperoleh pada tabel, buat dua grafik:
+1.	 grafik tegangan terhadap arus listrik untuk resistor
+2.	 grafik tegangan terhadap arus listrik untuk LED
+7.	 Bandingkan 
+kedua 
+grafik, 
+kemudian 
+analisis 
+perbedaan 
+karakteristik hambatan resistor dan lampu LED berdasarkan 
+grafik tersebut.
+Perbedaan grafik tegangan-arus listrik pada hambatan ohmik, lampu 
+filamen, bahan semikonduktor, dan termistor terlihat pada Gambar 2.7.
+Gambar 2. 7 Grafik V-I beberapa jenis bahan
+Sumber : Tom Duncan/IGCSE Physics (2014)
+Grafik bahan semikonduktor, lampu filamen dan termistor bukan grafik 
+fungsi linier sehingga tidak memenuhi hukum Ohm. 
+Pada lampu filamen, grafik V-I pada batas tertentu melengkung 
+ketika tegangannya meningkat. Hambatannya akan meningkat ketika 
+arusnya meningkat dan menyebabkan filamen semakin panas. Pada diode 
+30
+Fisika untuk SMA/MA Kelas XII
+semikonduktor, arus listrik akan mengalir ketika terdapat beda potensial 
+pada satu arah tertentu. Diode memiliki hambatan yang sangat kecil pada satu 
+arah tertentu dan hambatannya sangat besar pada kebalikannya. Adapun 
+pada termistor, hambatannya akan menurun ketika suhunya meningkat. 
+Rangkaian termistor dan resistor ini biasa digunakan untuk mengatur suhu, 
+misalnya pada radiator mobil.
+Ayo, Cek Pemahaman!
+1.	 Seorang siswa melakukan penyelidikan untuk menentukan hambatan 
+sebuah kawat dengan menghubungkannya pada 3 baterai yang 
+berbeda tegangannya. Hasil pengamatan masing-masing terlihat pada 
+Gambar 2.8.
+Pengamatan ke-1 :
+Pengamatan ke-2 :
+Pengamatan ke-3 :
+Gambar 2. 8 Membaca alat ukur
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Berdasarkan Gambar 2.8, buat tabel hasil pengamatan dan 
+grafiknya, kemudian tentukan hambatan resistor tersebut, 
+lengkap dengan nilai ketidakpastiannya.
+31
+BAB 2 | Arus Searah
+C.	 Hambatan Jenis
+Pada subbab A dan B, sudah dibahas tentang arus listrik yang dapat mengalir 
+hanya pada rangkaian tertutup. Cara membuat rangkaian listrik tertutup, 
+biasanya satu komponen dihubungkan menggunakan kawat tembaga karena 
+merupakan penghantar listrik yang baik. Selain jenis kawat, dalam kehidupan 
+sehari-hari ukuran kawat juga sangat diperhatikan ketika digunakan sebagai 
+penghantar listrik.
+Ayo, Bernalar Kritis!
+Kabel penghantar dari pusat sumber tegangan ke rumah-rumah 
+menggunakan ukuran diameter kawat besar sedangkan pada sekring 
+digunakan ukuran diameter kawat yang sangat tipis. Menurut kalian, 
+apa tujuan dari pemilihan ukuran ini?
+Lakukan Aktivitas 2.2 untuk mengetahui pengaruh ukuran kawat dan 
+jenis kawat terhadap hambatan kawat, secara berkelompok.
+Aktivitas 2.2. 
+Tujuan:
+Menentukan faktor-faktor yang mempengaruhi hambatan kawat.
+Alat dan Bahan:
+•	
+60 cm kawat nikrom (diameter 0,1 
+mm, 0,5 mm dan 1 mm)
+•	
+kawat konstantan (diameter 0,5 mm)
+•	
+papan / alat
+•	
+paku/pengait/peniti
+•	
+penggaris/millimeter blok
+•	
+multimeter (resistansi meter).
+Gambar 2. 9 Eksperimen hambatan jenis
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+2.	 Sebuah lampu memiliki tegangan (VL = 2,1 V) dan arusnya sebesar 
+20 mA akan dihubungkan dengan baterai 9V. Agar lampu menyala 
+dengan baik, tentukan hambatan resistor yang diperlukan pada 
+rangkaian.
+32
+Fisika untuk SMA/MA Kelas XII
+Kegiatan:
+1.	 Buat rangkaian seperti Gambar 2.9. 
+2.	 Buat rancangan langkah-langkah penyelidikan dan lakukan 
+pengamatan untuk menemukan faktor-faktor yang mempengaruhi 
+hambatan kawat.
+Besaran fisis yang menyatakan karakteristik kawat dalam kelistrikan 
+dikenal dengan hambatan jenis (ρ), yaitu hambatan yang dimiliki oleh 
+sebuah kawat penghantar sepanjang satu meter tiap luas penampang 1 m2. 
+Hambatan jenis sebuah penghantar dinyatakan dalam persamaan
+dengan R yaitu hambatan kawat (Ω), ρ adalah hambatan jenis kawat (Ωm), 
+l yaitu panjang kawat dan A adalah luas penampang kawat (m2).  Berdasarkan 
+persamaan tersebut dapat diketahui bahwa semakin kecil hambatan jenis 
+sebuah kawat logam, maka semakin kecil hambatannya sehingga semakin 
+baik dijadikan sebagai penghantar listrik.
+Hambatan jenis konduktor bergantung pada suhu. Pada konduktor, 
+semakin besar perubahan suhu maka hambatan jenisnya semakin besar 
+sedangkan pada bahan semikonduktor sebaliknya. Hambatan jenis (ρ) bahan 
+penghantar umumnya bergantung terhadap perubahan suhu (ΔT) dan dapat 
+dinyatakan dengan hubungan :
+ρ = ρ0 [1 + αΔT]
+R = ρ
+A
+l
+atau hambatannya :
+R = R0 [1 + αΔT]
+dengan R adalah hambatan (ohm), R0 adalah hambatan awal (ohm), ΔT 
+adalah perubahan suhu (oC) dan α adalah koefisien suhu hambatan jenis ( /
+oC).
+Berbeda dengan bahan konduktor, hambatan bahan semikonduktor 
+akan mengalami penurunan dengan meningkatnya suhu. 
+Aktivitas 2.3. Ayo, Berdiskusi!
+Konsep hambatan jenis atau resistivitas, selain digunakan pada 
+penentuan jenis kawat berbagai kebutuhan atau keamanan jaringan 
+kelistrikan juga digunakan pada bidang kedokteran.
+33
+BAB 2 | Arus Searah
+D.	Rangkaian Listrik
+Resistor yang ada di pasaran banyak 
+jenisnya dengan nilai hambatan yang 
+bervariasi. Sebagian besar produk 
+teknologi, rangkaiannya tidak hanya 
+terdiri dari satu resistor, tapi beberapa 
+resistor yang dirangkai secara seri 
+atau paralel.
+Gambar 2. 11 Rangkaian resistor
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Ayo, Bernalar Kritis!
+Jika dua lampu mobil identik 
+dihubungkan dengan aki sesuai 
+Gambar 2.12, rangkaian mana 
+yang akan menghasilkan nyala 
+lampu lebih terang?
+Gambar 2. 12 Dua rangkaian lampu
+Sumber : Unknow/Canva Edu (2022)
+Gambar 2. 10 Pletismografi
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Saat 
+sesorang 
+mengalami 
+gangguan paru-paru atau perubahan 
+aliran 
+darah 
+yang 
+ditunjukkan 
+dengan adanya pembekuan darah 
+pada 
+bagian 
+kaki, 
+dokter 
+akan 
+menyarankan untuk mendapatkan 
+tes pletismograf (plethysmography). 
+Tes 
+ini 
+menggunakan 
+elektroda 
+untuk mengukur tegangan sepanjang 
+volume 
+betis 
+yang 
+ditentukan 
+sehingga dapat diprediksi apakah 
+terjadi 
+pembekuan 
+darah 
+atau 
+tidak. Coba diskusikan bagaimana 
+prinsip kerja alat pletismografi ini secara lebih lengkap termasuk 
+persamaannya.
+34
+Fisika untuk SMA/MA Kelas XII
+Ayo, Ingat Kembali!
+Rangkaian Seri-Paralel
+Pada rangkaian seri resistor R1, R2 dan R3 yang dihubungkan dengan 
+sumber tegangan ε, pada ujung-ujung resistor terdapat tegangan V1, 
+V2 dan V3. Jumlah tegangan total dari masing-masing resistor sama 
+dengan besar GGL sumber tegangan yang diberikan atau tegangan 
+total,
+Vtot= V1 + V2+ V3
+Substitusikan persamaan hukum Ohm V = IR, maka:
+Itot Rseri=I1 R1+ I2 R2+ I3 R3
+Pada rangkaian seri seperti gambar 2.11 A, dalam rangkaian tidak ada 
+percabangan, 
+Itot= I1= I2= I3,
+maka:
+Besar hambatan total rangkaian seri:
+Rseri= R1+ R2+ R3+ ...
+Pada rangkaian paralel resistor R1, R2 dan R3 yang dihubungkan dengan 
+sumber tegangan V, pada setiap cabang mengalir arus listrik I1, I2 dan 
+I3. Jumlah arus total dari masing-masing resistor sama dengan,
+Itot= I1+ I2+ I3
+Substitusikan persamaan =                        maka:
+Sedangkan tegangan ujung-ujung resistor sama dengan GGL baterai 
+atau Vtot. 
+Vtot= V1=V2=V3
+Besar hambatan total rangkaian paralel:
+I =
+R
+V
+Rpar
+Vtot
+R1
+V1
+R 2
+V2
+R 3
+V3
+=
++
++
+R par
+1
+R 1
+1
+R2
+1
+R 3
+1
+=
++
++
++ ....
+35
+BAB 2 | Arus Searah
+E.	 Rangkaian Majemuk
+Aktivitas 2.5.
+Buat sebuah rangkaian yang terdiri 
+dari 3 resistor dan dua baterai 
+seperti gambar 2.14. Ukur arus pada 
+setiap cabang dan tegangannya. 
+Gunakan tabel untuk menuliskan 
+data-data yang diukur.
+Gambar 2. 14 Rangkaian majemuk
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Aktivitas 2.4. Merancang Rangkaian Lampu
+Jika kalian diberikan 5 buah lampu yang masing-masing akan menyala 
+pada tegangan 2,1 V, tapi kali ini akan dihubungkan dengan sebuah 
+sumber tegangan 9 V. Diskusikan berbagai rancangan rangkaian seri-
+paralel dari 5 lampu tersebut agar semua lampu menyala dengan 
+optimal (semua lampu menyala normal namun tidak rusak). Kemudian 
+analisis apakah rangkaian tersebut memerlukan komponen lain 
+seperti resistor. Evaluasi masing-masing rangkaian kemudian tentukan 
+rancangan mana yang menghasilkan nyala semua lampu optimal.
+Ayo, Cek Pemahaman!
+Tiga lampu identik dirangkai seperti Gambar 2.13. Jika amperemeter 
+menunjukkan angka 0,6 A dan voltmeter menunjukkan 3 V, maka:
+a.	 tentukan besar hambatan 
+masing-masing lampu dan 
+tegangan baterai yang digunakan!
+b.	 jika lampu A dilepaskan, 
+bagaimana nyala lampu B dan C?
+c.	 jika lampu C dilepaskan, 
+bagaimana nyala lampu A dan B?
+Gambar 2. 13 Rangkaian 3 lampu
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+36
+Fisika untuk SMA/MA Kelas XII
+Jawab pertanyaan-pertanyaan berikut:
+1.	 bagaimana hubungan arus listrik yang terukur pada masing-
+masing cabang (i1, i2 dan i3)?
+2.	 bagaimana hubungan tegangan yang terukur antara titik AB, BC 
+dan AC (VAB, VBC dan VAC)?
+3.	 bagaimana tegangan antara titik C dan A (VCA)?
+Gustav Kirchoff (1824–1887) menyatakan dua hukum yang dikenal 
+dengan Hukum Kirchoff yaitu yang pertama tentang arus pada percabangan 
+dan yang kedua tentang tegangan pada rangkaian tertutup.
+Gambar 2. 15 Percabangan arus
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Hukum pertama Kirchoff menyatakan 
+bahwa jumlah arus yang masuk menuju 
+titik cabang sama dengan jumlah arus 
+yang keluar dari titik cabang tersebut. 
+Hukum pertama Kirchoff dinyatakan 
+dalam persamaan.
+I1+ I2 = I3+ I4
+Hukum Kedua Kirchoff merupakan salah satu contoh hukum kekekalan 
+energi dalam bentuk energi potensial listrik. Kirchoff menyatakan bahwa 
+dalam rangkaian tertutup, jumlah tegangan sama dengan jumlah GGL (∑ε) di 
+dalam rangkaian tersebut, 
+Hukum kedua Kirchoff menyatakan bahwa pada rangkaian tertutup, 
+tegangan dalam satu loop (dari titik x kembali ke titik x) adalah nol,
+Vxx = 0
+Kemudian besar tegangan antara dua titik A dan B bisa dinyatakan 
+sebagai:
+Hukum 
+kedua 
+Kirchoff 
+dapat 
+digunakan 
+untuk 
+menyelesaikan 
+permasalahan rangkaian seri, paralel, maupun rangkaian majemuk.
+∑VAB = ∑ε + ∑ I.R 
+Perjanjian Tanda untuk Loop
+Arus searah loop, I + (arus positif), loop bertemu kutub positif sumber 
+tegangan, Σ + (tegangan positif).
+ ∑ε = ∑ I.R 
+37
+BAB 2 | Arus Searah
+Pada loop 1:
+•	
+terdapat ggl ε2 = 12 V, (loop 
+bertemu kutub -, maka ggl ε2 = 
+negatif),
+•	
+hambatan R1 dengan arah arus 
+IC searah loop 1, IC positif, 
+•	
+hambatan R2 dengan arah arus 
+IB searah loop 1, IB positif.
+maka tegangan dari titik B ke titik B:
+VBB = 0
+-ε2+ IC RL + IB R2=0
+-12 + IC 1,2 + IB 0,01  = 0
+1,2 IC + 0,01 IB = 12 ………………. (1).
+Ayo, Cermati!
+Dalam sebuah mobil, lampu 
+depan 
+mobil 
+terhubung 
+dengan 
+aki 
+dan 
+altenator 
+(dinamo) yang juga berfungsi 
+sebagai 
+sumber 
+energi 
+listrik 
+saat 
+mobil 
+sudah 
+dihidupkan. Gambar dibawah 
+menunjukkan 
+bagaimana 
+lampu 
+depan, 
+aki 
+dan 
+alternator dihubungkan.
+Gambar 2.16 Rangkaian kelistrikan mobil
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Alternator memiliki ggl sebesar ε1 = 14 V dan hambatan dalam 
+R1= 0,1 Ω saat mobil sudah hidup, Aki mobil memiliki ggl sebesar ε2 = 
+12 V dan hambatan dalam R2 = 0,01 Ω sedangkan lampu depan mobil 
+memiliki hambatan RL = 1,20 Ω. Tentukan arus yang mengalir pada 
+alternator (IA), aki (IB) dan lampu depan mobil (IC).
+Cara Penyelesaian:
+Langkah Pertama:
+Buat dua loop pada rangkaian atas dan bawah. Kemudian, gunakan 
+persamaan hukum kedua Kirchoff untuk masing-masing loop.
+38
+Fisika untuk SMA/MA Kelas XII
+Pada loop 2:
+•	
+terdapat ggl ε1 = 14 V, (loop bertemu kutub -, maka ggl ε1 = negatif),
+•	
+terdapat ggl ε2 = 12 V, (loop bertemu kutub +, maka ggl ε2 = positif),
+•	
+hambatan R2 dengan arah arus IB berlawanan loop 2, IB negatif, 
+•	
+hambatan R1 dengan arah arus IB searah loop 2, IA positif.
+maka tegangan dari titik A ke titik A:
+VAA = 0.
+-ε1+ ε2 - IB R2+ IA R1=0
+-14 + 12 - IB  0,01 + IA  0,1=0
+0,1 IA – 0,01 IB = 2…………...........(2).
+Selanjutnya gunakan hukum pertama Kirchoff mengenai arus yang 
+melalui titik cabang. Perhatikan titik B, arus mana saja yang masuk ke 
+titik B dan arus mana saja yang keluar dari titik B?
+Kita dapat melihat:
+IA + IB = IC ……….... (3).
+Sekarang substitusi persamaan (3) ke persamaan (1) diperoleh:
+1,2 IC + 0,01 IB = 12
+1,2 (IA + IB)  + 0,01 IB = 12
+1,2 IA + 1,21 IB = 12 ……… pers. (4).
+Sekarang eleminasi persamaan  (2) dan persamaan (4), maka:
+0,1 IA – 0,01 IB = 2    x 1,21    |   0,121 IA – 0,0121 IB     = 2,42
+1,2 IA + 1,21 IB = 12   x 0,01 |   0,012 IA + 0,0121 IB = 0,12
+Jadi, arus yang mengalir melalui akumulator adalah 19,1 A. Sedangkan 
+arus pada aki (IB) sebesar:
+0,1 IA – 0,01 IB = 2  
+0,1 (19,1) – 0,01IB = 2
+dan arus yang melewati lampu depan mobil (IC) adalah:
+IC= IA+ IB
+IC = 19,1 - 9 = 10,1 A
+0,133 IA = 2,54
+IA  = 19,1 A
+IB = (1,91 - 2 ) / 0,01 = - 9 A
++
+39
+BAB 2 | Arus Searah
+F.	 Daya Listrik
+Produk elektronik yang ada pada umumnya diberi spesifikasi watt untuk 
+membedakan satu dengan yang lainnya. Misalnya pada lampu: ada yang 5 
+watt, 10 watt, dan seterusnya. Demikian juga pada sepiker, setrika, mesin 
+cuci dan televisi. Satuan watt (W) merupakan satuan dari daya listrik.
+Tanda negatif pada IB berarti arus yang mengalir pada aki berlawanan 
+dengan arah yang sudah kita gambarkan.
+Ayo, Cek Pemahaman!
+Elektrokardiogram (EKG) merupakan pemeriksaan yang dilakukan 
+untuk mengukur aktivitas listrik jantung.Pemeriksaan ini biasa 
+dilakukan untuk mengetahui kondisi kesehatan jantung berdasarkan 
+irama sinyal tegangan yang dihasilkan otot jantung.
+merupakan 
+hambatan 
+yang 
+terjadi antara logam dari alat 
+elektrograf dengan kulit pada 
+titik alat dipasang, sedangkan 
+Rjaringan 
+merupakan 
+hambatan 
+antara elektroda kontak dengan 
+otot jantung. E1 dan E2 merupakan 
+Gambar 2. 17 Rangkaian EKG
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+tegangan yang timbul akibat reaksi kimia antara logam dan kulit 
+manusia.
+Gunakan Hukum Kirchoff, coba jelaskan bagaimana alat 
+elektrograf membaca sinyal tegangan yang dihasilkan jantung (VAB 
+= Vjantung).
+Rangkaian 
+EKG 
+secara 
+lengkap cukup kompleks, namun 
+sederhananya rangkaian dapat 
+digambarkan 
+seperti 
+Gambar 
+2.17. Resistor R kontak1 dan R kontak2 
+40
+Fisika untuk SMA/MA Kelas XII
+Aktivitas 2.6.
+Perhatikan satuan daya listrik yang digunakan di rumah. Meskipun 
+sumber arus listrik yang digunakan adalah arus bolak- balik (akan 
+dibahas pada Bab 4), tapi pada dasarnya prinsip penggunaan konsep 
+daya listrik adalah sama. Pada umumnya dinyatakan volt ampere 
+(VA). Berdasarkan satuannya, dapatkah kalian menentukan hubungan 
+antara daya, tegangan, dan arus listrik? Coba analisis konsumsi daya 
+listrik tiap bulan di rumah masing-masing, lalu tentukan biaya bulanan 
+listrik yang harus dibayarkan.
+Sama halnya dengan ketika belajar tentang energi dan daya pada 
+bab mekanika, dalam hal kelistrikan, daya listrik juga merupakan energi 
+tiap satuan waktu. Yang biasanya dinyatakan dalam volt ampere. Sebuah 
+komponen jika dihubungkan dengan sumber tegangan, maka muatan pada 
+komponen akan bergerak dari potensial tinggi menuju potensial yang lebih 
+rendah. Energi potensial yang dimiliki muatan yang berada dalam beda 
+potensial,
+E = qV
+Daya listrik dapat dinyatakan dalam persamaan:
+Pada sub bab A, sudah dibahas bahwa arus listrik,                       maka:
+daya listrik P pada rangkaian dengan besar arus listrik I dan tegangan 
+V sebesar :
+P = VI
+dengan P adalah daya listrik dalam watt.
+P =
+waktu
+Energi
+t
+E
+t
+qV
+=
+=
+I =
+t
+q
+Substitusikan persamaan hambatan, sehingga daya listrik juga dapat 
+dinyatakan dengan:
+            atau P= I2 R
+P =
+R
+V2
+41
+BAB 2 | Arus Searah
+Besar daya listrik yang digunakan di rumah dinyatakan dalam kWh (kilo 
+watt hour). Setiap kWh dibebankan biaya tertentu sehingga semakin besar 
+konsumsi daya listrik, biaya yang harus dikeluarkan semakin besar.
+Proyek
+Pada akhir Bab 2 ini, Kalian diminta untuk membuat sebuah produk 
+yang mengaplikasikan rangkaian kelistrikan untuk menyelesaikan 
+masalah dalam kehidupan sehari-hari.
+Contoh masalah sebagai berikut:
+Di pemukiman padat penduduk sekitar bantaran sungai, bencana 
+banjir tahunan tidak jarang memakan korban jiwa karena terjadi saat 
+malam hari ketika orang tertidur lelap. Oleh karena itu, diperlukan 
+alarm banjir skala rumah tangga yang dapat diproduksi oleh setiap 
+orang dengan biaya murah, aman, dan memberi peringatan saat 
+terjadi banjir. Bagaimana rancangan alat ini dan alat apa saja yang 
+dibutuhkan?
+1.	 Arus listrik didefinisikan sebagai jumlah muatan per satuan waktu 
+yang melewati penampang kawat,
+2.	 Pada resistor yang memenuhi hukum Ohm, berlaku: 
+V = IR
+3.	 Hambatan total resistor yang dirangkai seri:
+Rseri= R1+ R2+ R3+...
+4.	 Hambatan total resistor yang dirangkai paralel:
+5.	 Hukum I Kirchoff menyatakan bahwa pada setiap percabangan, 
+arus listrik total yang masuk ke titik percabangan sama dengan arus 
+total yang keluar dari titik percabangan.
+Rangkuman
+I =
+t
+Q
+R par
+1
+R 1
+1
+R2
+1
+R 3
+1
+=
++
++
++ ....
+42
+Fisika untuk SMA/MA Kelas XII
+1.	 Perhatikan data hambatan jenis beberapa logam
+Asesmen
+Jenis Bahan
+Hambatan Jenis
+Perak
+1,60 x 10-8 Ωm3.
+Tembaga
+1,62 x 10-8 Ωm3.
+Tungsten
+5,20 x 10-8 Ωm3.
+Besi
+10,0 x 10-8 Ωm3.
+Nikrom
+10,0 x 10-6 Ωm3.
+a.	 Jelaskan 
+mana 
+yang 
+lebih 
+baik 
+dijadikan 
+sebagai 
+penghantar listrik antara tembaga dan perak.
+b.	 Bahan mana yang kalian sarankan untuk dijadikan sebagai 
+kawat pemanas listrik dan mengapa?
+2.	 Sebuah 
+rangkaian 
+listrik 
+seperti 
+pada Gambar 2.18 kadang digunakan 
+dalam kehidupan sehari-hari. Jika 
+hambatan dalam baterai masing-
+masing adalah 0,5 Ω, tentukan arus 
+yang mengalir pada hambatan 100 Ω.
+Gambar 2. 18 Rangkaian majemuk
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+3.	 Lima lampu identik dihubungkan 
+dengan sebuah sumber tegangan 
+seperti Gambar 2. 19.
+Gambar 2. 19 Rangkaian lampu
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+a.	 Prediksikan, 
+lampu 
+mana 
+yang akan menyala paling 
+terang dan lampu mana yang 
+menyala paling redup.
+6.	 Hukum II Kirchoff menyatakan bahwa pada rangkaian tertutup, 
+jumlah gaya gerak listrik (GGL) sama dengan jumlah beda potensial 
+di dalam rangkaian.
+7.	 Daya listrik pada suatu rangkaian dengan arus listrik I dan tegangan 
+V, yaitu: P = VI.
+43
+BAB 2 | Arus Searah
+Penggunaan listrik dengan beban arus melebihi batas aman dapat 
+menyebabkan bahaya kebakaran akibat adanya korsleting listrik. 
+Oleh karena itu, pada kendaraan seperti mobil sering dipasang sistem 
+pengaman arus yang dikenal dengan sekring. Sekring menggunakan 
+bahan jenis kawat tertentu yang ketika beban arus mengalir melebihi 
+batas aman, kawat akan terputus. Coba lakukan penyelidikan jenis kawat 
+yang digunakan dalam sistem sekring dan bagaimana karakteristiknya 
+(berdasarkan pada hambatan jenisnya), serta bagaimana karakteristik 
+bahan yang digunakan sebagai sekring mobil?
+Pengayaan
+b.	 Jika lampu E dilepaskan dari rangkaian, bagaimana nyala lampu 
+A sekarang? Apakah menyala lebih terang atau lebih redup 
+dibandingkan dengan sebelum lampu E dilepaskan?
+Jelaskan bagaimana kalian menganalisis hal tersebut!
+Gambar 2.20 Fuse (sekring mobil)
+Sumber: Minderhoud/Wikimedia Commons (2022)
+Setelah pembelajaran Bab 2 Arus Searah:
+1.	 Apakah kalian sudah memahami dengan baik semua materi dalam 
+Bab 2 Arus Searah?
+Refleksi
+44
+Fisika untuk SMA/MA Kelas XII
+2.	 Apakah kalian sudah mampu merancang dan melakukan 
+penyelidikan?
+3.	 Konsep-konsep apa saja yang kalian belum dipahami pada materi 
+arus searah?
+4.	 Apa yang akan kalian lakukan untuk meningkatkan pemahaman 
+terhadap materi arus searah?

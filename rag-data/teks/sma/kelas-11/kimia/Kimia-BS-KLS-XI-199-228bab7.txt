@@ -1,0 +1,1437 @@
+185
+Bab VII  Kesetimbangan Kimia
+Bab
+VII
+Kesetimbangan 
+Kimia
+Setelah mempelajari bab ini, kalian dapat menjelaskan reaksi kesetimbangan 
+dan keadaan setimbang, menghitung nilai tetapan kesetimbangan, meng-
+gunakan tetapan kesetimbangan dalam menghitung konsentrasi pada saat 
+kesetimbangan, menjelaskan faktor-faktor yang memengaruhi kesetimbangan 
+kimia, serta mendeskripsikan aplikasi kesetimbangan kimia dalam kehidupan 
+sehari-hari, khususnya dalam dunia industri.
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XI
+Penulis 
+: Munasprianto Ramli, dkk.
+ISBN 
+: 978-602-427-923-3 (jil.1)
+186
+Kimia untuk SMA/MA Kelas XI
+Mind Map
+Komik Kimia
+187
+Bab VII  Kesetimbangan Kimia
+Saat kecil, kalian tentu pernah bermain jungkat-jungkit. Coba perhatikan 
+beberapa kedudukan jungkat-jungkit pada gambar di bawah ini. 
+Gambar 7.1 Beberapa kedudukan jungkat-jungkit
+Ketika bermain jungkat-jungkit adakalanya posisi papan panjang dalam 
+keadaan miring dan adakalanya dalam keadaan setimbang. Seperti terlihat 
+pada kondisi pertama, papan panjang dalam keadaan setimbang dikarenakan 
+kedua anak yang bermain jungkat-jungkit mempunyai berat yang sama. 
+Kondisi kedua, terlihat bahwa anak yang di sebelah kanan mempunyai berat 
+yang lebih dibanding dengan anak di sebelah kiri, sehingga papan jungkat-
+jungkit tidak dalam kondisi setimbang. Pada kondisi ketiga, meskipun berat 
+badan dari kedua anak tidak sama, akan tetapi dengan mengatur posisi duduk, 
+papan jungkat-jungkit berada dalam keadaan setimbang. Artinya, posisi 
+setimbang itu tidak hanya terjadi pada saat berat kedua anak sama, bisa saja 
+beratnya berbeda tetapi dengan mengatur posisi duduknya menyebabkan 
+papan jungkat-jungkit menjadi setimbang. 
+Menurut Kamus Besar Bahasa Indonesia (KBBI) setimbang bisa berarti 
+mantap, stabil, tidak berubah posisinya, atau sama kedudukannya. Bagaimana 
+dengan reaksi kimia? Apakah juga ada reaksi yang setimbang? Apa itu konsep 
+kesetimbangan kimia? 
+188
+Kimia untuk SMA/MA Kelas XI
+Ada banyak sekali reaksi kimia yang dapat kita temukan dalam kehidupan 
+sehari-hari, misalnya proses perkaratan. Proses perkaratan terjadi karena besi 
+bereaksi dengan air dan oksigen membentuk besi(III) oksida hidrat yang biasa 
+disebut karat. Besi yang sudah berkarat tidak dapat kembali menjadi besi 
+yang murni lagi, sehingga dikatakan reaksinya adalah reaksi satu arah atau 
+reaksi irreversible. Memangnya ada reaksi yang berlangsung dua arah atau 
+reversible? Mari lakukan aktivitas berikut ini.
+Aktivitas 7.1
+Membuktikan reaksi dua arah
+Alat dan bahan:
+1. 
+Kristal tembaga sulfat pentahidrat (CuSO4.5H2O)
+2. 
+Pembakar spritus 
+3. 
+Kaki tiga 
+4. 
+Cawan porselen 
+5. 
+Akuades 
+Langkah kerja:
+1. 
+Masukkan 1 gram tembaga sulfat pentahidrat ke dalam cawan porselen.
+2. 
+Panaskan cawan porselen tersebut. Amati perubahan warna yang terjadi.
+Setelah kristal tembaga sulfat tersebut berubah menjadi putih, tambahkan 
+akuades setetes demi setetes. Amati apa yang terjadi.  
+Apa yang bisa kalian simpulkan dari aktivitas ini?
+A. Konsep Kesetimbangan Kimia
+Dari Aktiitas 7.1 terbukti bahwa reaksi kimia ternyata dapat berlangsung 
+bolak-balik. Tidak hanya berlangsung ke arah pembentukan produk, reaksi 
+dapat juga berlangsung ke arah pembentukan reaktan. Mari perhatikan 
+penjelasan berikut ini.
+Pemanasan tembaga sulfat pentahidrat akan menghasilkan tembaga sulfat 
+dan air. Kita bisa menuliskan reaksinya sebagai berikut.
+CuSO4.5H2O(s) 
+ CuSO4(s) + 5H2O(l)
+189
+Bab VII  Kesetimbangan Kimia
+CuSO4.5H2O
+CuSO4
+Gambar 7.2 Pemanasan padatan CuSO4.5H2O menghasilkan CuSO4
+Sebaliknya, penambahan air ke dalam bubuk tembaga sulfat akan kembali 
+meng hasilkan tembaga sulfat pentahidrat.
+CuSO4(s) + 5H2O(l) 
+ CuSO4.5H2O(s)
+Gambar 7.3 Pemberian air pada padatan CuSO4 
+menghasilkan CuSO4.5H2O kembali
+Sumber: Kemendikbudristek/Munasprianto Ramli (2022)
+Karena reaksi dapat berlangsung dua arah, baik ke arah produk maupun 
+reaktan, maka orang kimia tidak menggunakan tanda panah yang mengarah 
+ke salah satu arah saja, melainkan menggunakan tanda panah bolak-balik, 
+yaitu atau 
+ atau 
+.
+Tanda panah ini menunjukkan reaksi berlangsung bolak-balik atau 
+reversible, sehingga reaksi di atas dapat ditulis menjadi:
+CuSO4.5H2O(s) 
+ CuSO4(s) + 5H2O(l)
+Pada Bab 6 kalian sudah mempelajari tentang laju reaksi, dan tentu kalian 
+masih mengingatnya. Pada suatu kondisi, ketika laju pembentukan ke arah 
+190
+Kimia untuk SMA/MA Kelas XI
+produk sama dengan laju pembentukan ke arah reaktan maka reaksi bolak-
+balik ini dikatakan dalam keadaan setimbang, Mari perhatikan Gambar 7.4 
+berikut ini.
+N2O4(g) 
+ 2NO2(g)
+Tak berwarna
+N2O (g)
+4
+Sebelum
+Kesetimbangan
+Cokelat muda
+N2O (g)
+4
+NO (g)
+2
+Cokelat tua
+Setelah
+Kesetimbangan
+Konsentrasi
+Waktu
+Saat
+Kesetimbangan
+NO (g)
+2
+N2O (g)
+4
+Laju Reaksi
+Waktu
+Saat
+Kesetimbangan
+NO (g)
+2
+N2O (g)
+4
+Gambar 7.4 Konsep kesetimbangan kimia
+Jadi, penting untuk kalian pahami bahwa kesetimbangan kimia terjadi 
+ketika laju pembentukan ke arah produk sama dengan laju pembentukan ke 
+arah reaktan. Orang kimia menyebutnya dengan kesetimbangan dinamis. 
+Dikatakan kesetimbangan dinamis karena reaksi bisa terjadi dinamis dua 
+arah, baik ke arah pembentukan produk maupun reaktan. 
+Pada saat kesetimbangan dinamis, reaksi kimia dapat berlangsung ke arah 
+produk dan sebaliknya juga ke arah reaktan. Reaksi ini akan berlangsung 
+berkesinambungan atau terus-menerus dengan laju pembentukan produk 
+sama dengan laju pembentukan reaktan.
+191
+Bab VII  Kesetimbangan Kimia
+Kesetimbangan dinamis ini terbagi menjadi dua, yaitu kesetimbangan 
+homogen dan kesetimbangan heterogen. Kesetimbangan homogen adalah 
+suatu keadaan kesetimbangan dinamis di mana reaktan dan produk berada 
+dalam fase yang sama, apakah sama-sama gas atau berupa larutan. Misalnya 
+reaksi pembentukan amonia di bawah ini, semua zat yang terlibat dalam 
+reaksi mempunyai fase yang sama, yaitu gas.
+H2(g) + 2NH2(g) 
+ 2NH3(g) 
+Sementara kesetimbangan heterogen adalah suatu keadaan kesetimbangan 
+di mana terdapat reaktan atau produk berada dalam fase yang tidak sama. Di 
+antara kalian pasti ada yang pernah melihat batu kapur. Batu kapur banyak 
+sekali kandungan kalsium karbonat. Kalsium karbonat ini jika dipanaskan 
+dalam wadah tertutup akan menjadi kalsium oksida dan gas karbon dioksida. 
+Sebaliknya, gas karbon dioksida beraksi dengan kalsium oksida akan 
+membentuk kalsium karbonat, seperti terlihat pada reaksi di bawah ini.
+CaCO3(s) 
+ 2CaO(s) + CO2(g) 
+Kalsium karbonat dan kalsium oksida ini berada dalam fase padat, 
+sedangkan karbon dioksida fasenya gas. Karena tidak semua reaktan dan 
+produk berada dalam fase yang sama maka kesetimbangan ini disebut 
+kesetimbangan heterogen. 
+Ayo Berlatih
+Di bawah ini ada beberapa reaksi kesetimbangan. Manakah yang merupa-
+kan kesetimbangan homogen dan heterogen?
+1. 
+AgCl(s) 
+ Ag+(aq) + Cl-(aq) 
+2. 
+PCl5(g) 
+ PCl3(g) + Cl2(g)
+3. 
+Fe2O3(s) + 3CO(g) 
+ 2Fe(s) + 3CO2(g)
+4. 
+2N2O5(g) 
+ 4NO2(g) + O2(g)
+192
+Kimia untuk SMA/MA Kelas XI
+B. Tetapan Kesetimbangan
+Pada awalnya ahli kimia mempelajari banyak reaksi kesetimbangan selama 
+bertahun-tahun dan telah mengusulkan banyak penjelasan untuk berbagai 
+reaksi tersebut. Namun, tidak ada yang bisa menjelaskan hubungan 
+konsentrasi antara zat-zat kimia yang ada dalam sistem kesetimbangan. 
+Sampai akhirnya tahun 1864, dua ilmuwan Norwegia Cato Guldberg dan Peter 
+Waage merangkum hasil eksperimen mereka dan menyimpulkannya dengan 
+hukum aksi massa (Reger, Goode and Ball, 2011). 
+Guldberg dan Waage menyampaikan bahwa kecepatan reaksi kimia 
+bergantung pada konsentrasi reaktan. Kemudian, mereka menambahkan 
+bahwa pada sistem kesetimbangan kimia, konsentrasi bahan kimia yang 
+terlibat memiliki hubungan konstan satu sama lain. Hal ini dapat dijelaskan 
+oleh konstanta kesetimbangan atau tetapan kesetimbangan (Ferner and 
+Aronson, 2015). 
+Guldberg dan Waage (1864) menyimpulkan 
+bahwa hasil kali konsentrasi zat­zat hasil 
+reaksi dibagi dengan hasil kali konsentrasi 
+pereaksi pada sistem kesetimbangan, di mana 
+masing­masing konsentrasi itu dipangkatkan 
+dengan koeisien reaksinya adalah tetap.
+1. Tetapan kesetimbangan konsentrasi 
+Apa yang disampaikan oleh Guldberg and Waage dapat dituliskan sebagai 
+berikut.
+pA + qB 
+ rC + sD
+[C] [D]
+[A] [B]
+r
+s
+c
+p
+q
+K 
+Guldberg dan Waage
+Sumber: bpspubs.onlinelibrary.wiley.
+com
+193
+Bab VII  Kesetimbangan Kimia
+Keterangan:
+Kc = konstanta/tetapan kesetimbangan (harganya tetap pada suhu tetap)
+p, q, r, s = koeisien reaksi 
+[A] = konsentrasi zat A
+[B] = konsentrasi zat B 
+[C] = konsentrasi zat C
+[D] = konsentrasi zat D
+Persamaan konstanta atau tetapan kesetimbangan di atas dapat kita 
+sub sti tusi kan ke dalam reaksi-reaksi kesetimbangan. Misalnya reaksi kese-
+timbangan:
+PCl5(g) 
+ PCl3(g) + Cl2(g)
+Maka pada suhu tetap, tetapan kesetimbangannya adalah:
+1
+1
+3
+2
+1
+5
+[PCl ] [Cl ]
+[PCl ]
+c
+K 
+Mengingat koeisiennya adalah 1 maka angka pangkatnya tidak perlu ditulis-
+kan, seperti berikut ini.
+3
+2
+5
+[PCl ] [Cl ]
+[PCl ]
+c
+K 
+Bagaimana dengan tetapan kesetimbangan konsentrasi dari reaksi berikut?
+Fe2O3(s) + 3CO(g) 
+ 2Fe(s) + 3CO2(g)
+Tetapan kesetimbangan konsentrasinya bukanlah:
+2
+3
+2
+3
+2
+3
+[Fe] [CO ]
+[Fe O ] [CO]
+c
+K 
+melainkan:
+3
+2
+3
+[CO ]
+[CO]
+c
+K 
+Catatan:
+Dalam sistem kesetimbangan, zat-zat penyusun kesetimbangan dapat 
+berada dalam fase padat (s), gas (g), cair (l), atau  larutan (aq). Namun, fase 
+yang diikutkan dalam perhitungan tetapan kesetimbangan konsentrasi 
+hanya lah gas (g) dan larutan (aq), sementara fase padat (s) dan cair (l) 
+194
+Kimia untuk SMA/MA Kelas XI
+tidak diikutkan karena nilai konsentrasinya relatif konstan pada saat 
+kese timbangan telah tercapai. 
+Ayo Berlatih
+Nyatakan persamaan tetapan kesetimbangan konsentrasi dari reaksi-
+reaksi berikut!
+1. 
+Sb2S3(s) + 3H2(g) 
+ 2Sb(s) + 3H2(g)
+2. 
+CaCO3(s) 
+ CaO(s) + CO2(g)
+3. 
+C6H12O6(s) + 6O2(g) 
+ 6CO2(g) + 6H2O(g)
+4. 
+CO2(g) + C(s) 
+ CO(g)
+Catatan: untuk reaksi yang belum setara, jangan lupa disetarakan terlebih 
+dahulu.
+2. Tetapan kesetimbangan tekanan parsial
+Selain dinyatakan dalam bentuk tetapan kesetimbangan konsentrasi, tetapan 
+kesetimbangan dapat juga dinyatakan dalam bentuk tetapan kesetimbangan 
+tekanan parsial gas yang dinyatakan dengan notasi Kp. Tetapan kesetimbangan 
+tekanan parsial ini tidak lain adalah hasil kali tekanan parsial gas-gas pada sisi 
+produk dipangkatkan dengan koeisiennya dibagi dengan hasil kali tekanan 
+parsial gas-gas pada sisi reaktan dipangkatkan dengan koeisiennya, seperti 
+ditunjukkan pada persamaan kesetimbangan berikut ini.
+aW(g) + bX(g) 
+ cY(g) + dZ(g)
+Y
+Z
+W
+X
+ . 
+ . 
+c
+d
+p
+a
+b
+P
+P
+K
+P
+P
+
+Keterangan:
+Kp = konstanta/tetapan kesetimbangan tekanan parsial
+a, b, c, d = koeisien reaksi
+PW = tekanan parsial gas W
+PY = tekanan parsial gas Y
+195
+Bab VII  Kesetimbangan Kimia
+PX = tekanan parsial gas X
+PZ = tekanan parsial gas Z
+Persamaan tetapan kesetimbangan tekanan parsial tersebut dapat kita 
+substitusikan ke dalam reaksi-reaksi kesetimbangan lainnya, misalnya pada 
+reaksi kesetimbangan berikut.
+PCl5(g) 
+ PCl3(g) + Cl2(g)
+Kita lihat bahwa semua zat yang terlibat dalam sistem kesetimbangan 
+tersebut berada pada fase gas dan semua koeisien reaksinya adalah 1, maka 
+tetapan kesetimbangan tekanan parsialnya adalah:
+3
+2
+5
+PCl
+Cl
+PCl
+ . 
+p
+P
+P
+K
+P
+
+             
+Ayo Berlatih
+Nyatakan persamaan tetapan kesetimbangan tekanan parsial dari reaksi 
+berikut!
+1. 
+NOCl2(g) 
+ NO(g) + Cl2(g)
+2. 
+2NO(g) + O2(g) 
+ 2NO2(g)
+Catatan: untuk reaksi yang belum setara, jangan lupa disetarakan terlebih 
+dahulu.
+Aktivitas 7.2
+ 
+Membuktikan hubungan Kc dan Kp 
+Pada abad ke-21 ini, kalian dituntut memiliki kecakapan literasi. Tidak hanya 
+memahami bacaan dan literasi sains, tetapi kalian juga harus memiliki 
+keterampilan numerasi atau literasi matematika. Salah satunya kalian harus 
+bisa melakukan operasi matematika dalam menyelesaikan berbagai perma-
+salahan, termasuk permasalahan kimia, seperti dalam melihat hubungan Kc 
+dan Kp. 
+196
+Kimia untuk SMA/MA Kelas XI
+Kalian mungkin sudah mengetahui bahwa orang kimia menyatakan 
+hubungan Kc dan Kp dalam bentuk persamaan berikut ini.
+Kp = Kc (RT)∆n
+Secara berpasangan atau berkelompok, buktikanlah persamaan di atas 
+dengan merujuk kepada persamaan gas ideal, yaitu PV = nRT. 
+Petunjuk: konsentrasi = n
+V
+     
+C. Menggunakan Tetapan Kesetimbangan dalam 
+Perhitungan 
+Setelah memahami tetapan kesetimbangan, kalian juga harus tahu bagaimana 
+menggunakan konsep konstanta kesetimbangan tersebut dalam perhitungan 
+reaksi kesetimbangan. Hal ini tentunya dapat membantu kalian dalam 
+meningkatkan keterampilan numerasi. Berikut adalah beberapa contoh 
+penggunaan konsep konstanta kesetimbangan dalam perhitungan kimia. 
+Contoh
+1. 
+Diketahui reaksi kesetimbangan sebagai berikut.
+Fe2O(s) + 3CO(g) 
+ 2Fe(s) + 3CO2(g)
+Dalam ketel reaksi ukuran 5 liter, direaksikan 5 mol besi oksida dan 15 
+mol karbon monoksida. Ketika sistem dalam keadaan kesetimbangan 
+diketahui terdapat 5 mol gas karbon dioksida. Hitunglah nilai tetapan 
+kesetimbangannya!
+Penyelesaian:
+Untuk menyelesaikan persoalan ini, tentu ada beberapa langkah yang 
+harus kita lakukan.
+Langkah 1: membaca soal dan mencari tahu apa saja yang diketahui dari 
+soal. 
+Dari soal yang diketahui adalah volume (V) = 5 liter, mol besi(III) oksida 
+saat awal = 5 mol, mol karbon monoksida saat awal = 15 mol, serta mol 
+197
+Bab VII  Kesetimbangan Kimia
+karbon dioksida saat kesetimbangan = 5 mol. Secara sederhana, bisa kita 
+tuliskan:
+V = 5 l, n Fe2O3 = 5 mol, n CO = 15 mol, dan n CO2 saat setimbang = 5 mol
+Langkah 2: membuat diagram reaksi. 
+ 
+ Fe2O3(s)   +   3CO(g)   
+   2Fe(s)   +   3CO2(g)
+Awal 
+   5 mol          15 mol 
+Reaksi 
+–1,67 mol      –5 mol            +3,33 mol    +5 mol
+ 
+Setimbang  3,33 mol       10 mol             3,33 mol       5 mol
+Dari manakah didapat mol karbon monoksida saat kesetimbangan 10 mol, 
+besi(III) oksida 3,33 mol, dan besi 3,33 mol? 
+Di soal sebutkan bahwa pada saat kesetimbangan terdapat 5 mol karbon 
+dioksida. Berdasarkan koeisien reaksinya, kita tahu bahwa dengan adanya 
+5 mol karbon dioksida berarti karbon monoksida yang bereaksi adalah 5 
+mol juga (karena koeisien keduanya sama). Pada saat kesetimbangan, mol 
+karbon monoksida yang bersisa adalah (15 – 5) mol = 10 mol. Adapun mol 
+besi(III) oksida yang bereaksi diperoleh dari perbandingan koeisien besi 
+dan karbon dioksida, yaitu 
+1
+3 × 5 mol = 1,67 mol, sehingga besi(III) oksida 
+yang bersisa saat kesetimbangan adalah (5 – 1,67) mol = 3,33 mol. Untuk 
+mol besi yang terbentuk juga ditentukan dari perbandingan koeisien besi 
+dan karbon dioksida (
+2
+3 × 5 mol = 3,33 mol).
+Langkah 3: menghitung nilai Kc
+Kita ingat bahwa nilai Kc hanya dilihat dari zat yang fasenya gas dan 
+larutan, sehingga persamaan Kc dari reaksi di atas adalah:
+3
+2
+3
+]
+[CO
+[CO]
+c
+K 
+Ingat, konsentrasi yang digunakan adalah konsentrasi saat kesetimbangan.
+1
+3
+1
+2
+1
+3
+2
+3
+1 3
+10 mol
+[
+5
+CO]
+2 mol.l
+5 l
+5 mol
+[CO ]
+1 mol.l
+5 l
+se
+[CO
+1
+0,12
+8
+[
+2
+hingga:
+]
+(1 mol.l
+)
+( mol
+]
+l
+)
+CO
+.
+c
+V
+V
+K
+n
+n
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+198
+Kimia untuk SMA/MA Kelas XI
+2. 
+Diketahui reaksi kesetimbangan sebagai berikut.
+PCl5(g) 
+ PCl3(g) + Cl2(g)
+Ke dalam ketel reaksi 5 liter, dimasukkan 5 mol PCl5. Pada saat kesetim-
+bangan terdapat  2 mol PCl5 dengan tekanan total pada saat kesetimbangan 
+adalah 3 atm. Hitunglah nilai Kp dari reaksi tersebut!
+Penyelesaian:
+Langkah1: menentukan hal yang diketahui dari soal. 
+Dari soal diketahui bahwa tekanan total (Ptotal) = 3 atm, mol awal PCl5 = 3 
+mol, dan mol PCl5 saat kesetimbangan = 2 mol. 
+Langkah 2: membuat diagram reaksi dengan melihat data awal reaksi 
+dan kondisi saat kesetimbangan.
+ 
+ PCl5(g)   
+   PCl3(g)   +   Cl2(g)
+Awal               5 mol           
+Reaksi           –3 mol                 3 mol         3 mol
+ 
+Setimbang     2 mol                  3 mol         3 mol
+Langkah 3: menghitung tekanan parsial masing-masing zat saat kesetim-
+bangan.
+mol zat
+Tekanan parsial ( )
+tekanan total
+mol total
+P 
+
+sehingga didapatkan:
+5
+3
+2
+PCl
+PCl
+PCl
+2 mol
+3 atm
+0,75 atm
+8 mol
+3 mol
+3 atm
+1,125 atm
+8 mol
+3 mol
+3 atm
+1,125 atm
+8 mol
+P
+P
+P
+=
+×
+=
+=
+×
+=
+=
+×
+=
+Langkah 4: menghitung tetapan kesetimbangan tekanan parsial.
+2
+3
+5
+PCl
+PCl
+PCl
+ . 
+1,125 atm
+1,125 atm
+1,6875 mol
+0,75 atm
+p
+P
+P
+K
+P
+
+
+
+
+3. 
+Diketahui reaksi kesetimbangan:
+N2(g) + 3H2(g) 
+ 2NH3(g)
+Pada suhu 298 K, nilai Kp dari reaksi kesetimbangan di atas adalah 150. 
+Hitunglah nilai Kc untuk kesetimbangan tersebut!
+199
+Bab VII  Kesetimbangan Kimia
+Penyelesaian:
+Langkah 1: menentukan hal yang diketahui dari soal.
+Dari soal yang diketahui hanyalah nilai Kp, yaitu 150 dan suhu (T) 298 K.
+Kita sudah bahas di awal bahwa:
+Kp = Kc (RT)∆n
+di mana:
+Kp = konstanta kesetimbangan tekanan (diketahui pada soal)
+Kc = konstanta kesetimbangan konsentrasi (yang ditanya)
+R = konstanta gas ideal = 0,082 l.atm.mol–1.K–1
+T = 298 K
+∆n = koeisien produk – koeisien reaktan 
+Langkah 2: menghitung dengan persamaan di atas.
+1
+1
+2
+1 2
+2
+2
+2
+(
+)
+(
+)
+150
+(0,082 l.atm.mol .K
+298 K)
+150
+(24,4 l.atm.mol
+)
+89.304 l .atm .mol
+n
+p
+c
+p
+c
+n
+K
+K
+RT
+K
+K
+RT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+Ayo Berlatih
+1. 
+Dalam sebuah bejana tertutup yang mempunyai volume 1 liter ter-
+dapat 5 mol gas NO2 yang membentuk kesetimbangan dengan reaksi:
+2NO2(g) 
+ 2NO(g) + O2(g)
+Kesetimbangan tercapai setelah terbentuk O2 sebanyak 2 mol.
+Hitunglah: 
+a. 
+konsentrasi masing-masing gas pada saat kesetimbangan
+b. 
+nilai Kc dari reaksi tersebut
+2. 
+Sebanyak 5 mol PCl5 dimasukkan ke dalam wadah 2 liter dan dipanas-
+kan pada suhu 250°C untuk mencapai keadaan setimbang. Keadaan 
+kesetimbangan tercapai pada saat PCl5 terurai 60%. 
+200
+Kimia untuk SMA/MA Kelas XI
+Hitunglah tetapan kesetimbangan Kc jika reaksi yang terjadi adalah:
+PCl5(g) 
+ PCl3(g) + Cl2(g)
+3. 
+Ke dalam sebuah bejana tertutup dimasukkan 3 mol gas A, 3 mol gas B, 
+dan 4 mol gas C dengan reaksi:
+A(g) + B(g) 
+ C(g)
+Jika tekanan dalam bejana tersebut adalah 5 atm, hitunglah:
+a. nilai tekanan parsial masing-masing gas pada saat kesetimbangan
+b. nilai tetapan kesetimbangan (Kp)
+4. 
+Dalam bejana tertutup yang tekanannya 5 atm, dipanaskan 1 mol gas 
+nitrogen dan 3 mol gas hidrogen. Bejana tersebut dipanaskan pada 
+suhu 400 K dan reaksi kesetimbangan yang terjadi adalah:
+N2(g) + H2(g) 
+ 2NH3(g)
+Jika pada saat setimbang terdapat 0,5 gas nitrogen, hitunglah nilai Kp 
+dan Kc dari reaksi tersebut.
+D. Pergeseran Kesetimbangan 
+Kalian mungkin sering mendengar nasihat “kita harus menjaga bumi dan 
+lingkungan untuk anak cucu kita”. Betul sekali, bumi ini tidak hanya untuk 
+kalian, melainkan kelak anak cucu kalian yang akan menempati. Oleh karena 
+itu, kalian harus menjaga bumi ini dan senantiasa mengembangkan perilaku-
+perilaku yang ramah terhadap lingkungan. Tidak membuang sampah semba-
+rangan, gemar menanam pohon atau penghijauan, menggunakan produk-
+produk yang ramah lingkungan, dan masih banyak hal positif lain.
+Coba perhatikan keadaan bumi saat ini. Sampah plastik menumpuk, polusi 
+udara cukup tinggi, berkurangnya keanekaragaman hayati, pemanasan global, 
+dan banyak kerusakan alam lainnya. Hal ini tentu berpengaruh terhadap 
+kesetimbangan alam semesta. Kesetimbangan alam menjadi terganggu akibat 
+gangguan dari luar, yaitu ulah manusia yang merusak alam. Begitu juga 
+dengan kesetimbangan kimia. Ahli kimia berkebangsaan Prancis, Le Chatelier, 
+menyatakan apabila sistem kesetimbangan kimia mendapatkan gangguan 
+dari luar maka posisi kesetimbangan bergeser untuk melawan perubahan dan 
+membangun kembali sistem kesetimbangan tersebut.
+201
+Bab VII  Kesetimbangan Kimia
+1. Pengaruh perubahan konsentrasi pada kesetimbangan
+Gangguan pertama yang bisa diberikan kepada sistem yang berada dalam 
+kesetimbangan kimia adalah perubahan konsentrasi salah satu zat atau 
+senyawa yang ada dalam sistem kesetimbangan kimia tersebut. Bagaimana 
+jika konsentrasi salah satu zat diperbesar, atau bagaimana jika konsentrasi 
+salah satu produk dikurangi? Mari perhatikan penjelasan berikut. 
+Kita akan meninjau pengaruh konsentrasi pada reaksi kesetimbangan 
+antara ion besi(III) (Fe3+) dengan ion tiosianat (SCN–). Ion Fe3+ berasal dari 
+besi(III) nitrat (Fe(NO3)3), sedangkan ion SCN– berasal dari kalium tiosianat 
+(KSCN). Pada awalnya larutan besi(III) nitrat berwarna kuning, sedangkan 
+larutan kalium tiosianat tidak berwarna/bening. Namun, ketika keduanya 
+direaksikan dan mencapai kesetimbangan, warna larutan berubah menjadi 
+merah darah karena kehadiran dari ion kompleks besi(III) tiosianat (Fe(SCN)2+).
+Fe3+(aq)    +    SCN–(aq)    
+    Fe(SCN)2+(aq)
+Fe3+(aq)
+(kuning)
+SCN–(aq)
+(bening)
+Fe(SCN)2+(aq)
+(merah darah)
+Gambar 7.5 Reaksi kesetimbangan antara ion Fe3+ dengan ion SCN–
+Bagaimana jika konsentrasi besi(III) nitrat ditambahkan ke dalam 
+sistem kesetimbangan? Ternyata, penambahan konsentrasi besi(III) nitrat 
+menyebabkan warna larutan menjadi lebih pekat. Artinya, kesetimbangan 
+menjadi bergeser ke arah pembentukan ion kompleks besi tiosianat. Jadi, 
+dapat disimpulkan bahwa:
+Penambahan konsentrasi reaktan atau pengurangan konsentrasi produk 
+akan menggeser kesetimbangan ke arah pembentukan produk.
+202
+Kimia untuk SMA/MA Kelas XI
+2. Pengaruh perubahan suhu pada kesetimbangan
+Pada Bab 5, kalian sudah belajar tentang reaksi endotermik dan eksotermik. 
+Reaksi endotermik adalah reaksi kimia yang memerlukan panas, sedangkan 
+reaksi eksotermik adalah reaksi kimia yang melepaskan panas. Dalam sebuah 
+persamaan reaksi, hal ini mudah diidentiikasi dengan melihat besaran dari 
+nilai entalpi atau ∆H dari reaksi tersebut. Jika nilai ∆H suatu reaksi positif, 
+berarti reaksi tersebut endotermik, sebaliknya jika nilai ∆H negatif, reaksi 
+tersebut eksotermik. 
+Penambahan dan pengurangan suhu akan memengaruhi kesetimbangan 
+kimia. Bagaimana hal ini bisa terjadi? Mari kita kembali ke penjelasan di awal 
+bab, yaitu reaksi pemanasan tembaga sulfat pentahidrat dengan persamaan 
+reaksi sebagai berikut.
+CuSO4.5H2O(s) 
+ CuSO4(s) + 5H2O(l)     ΔH = +78,2 kJ
+Dari persamaan termokimia di atas terlihat bahwa ∆H bernilai positif. 
+Artinya, reaksi ke arah produk memerlukan panas (endotermik), sedangkan 
+reaksi ke arah sebaliknya, yaitu pembentukan reaktan melepaskan panas 
+(eksotermik).
+ΔH > 0   
+endotermik
+eksotermik
+ΔH < 0   
+eksotermik
+endotermik
+Bagaimana jika suhu sistem kesetimbangan reaksi tersebut dinaikkan? Apa 
+yang akan terjadi?
+Kita ketahui bahwa reaksi di atas ber-
+sifat endotermik ke arah pembentukan 
+produk dan eksotermik ke arah pem-
+bentukan reaktan. Ketika suhu dinaikkan 
+maka kesetimbangan akan bergeser ke 
+arah reaksi endotermik, dalam hal ini ke 
+arah pembentukan tembaga sulfat dan 
+air. Pergeseran kesetimbangan ini terlihat 
+dari warna serbuk tembaga sulfat yang 
+semakin memutih.
+CuSO4
+CuSO4.5H2O
+Gambar 7.6 Pemanasan akan 
+meningkatkan pembentukan CuSO4
+203
+Bab VII  Kesetimbangan Kimia
+Penambahan suhu akan menyebabkan kesetimbangan bergeser ke arah 
+reaksi endotermik. Sebaliknya, penurunan suhu akan menyebabkan kese-
+timbangan bergeser ke arah reaksi eksotermik. 
+3. Pengaruh perubahan tekanan dan volume pada kesetimbangan
+Faktor ketiga yang dapat menggeser kesetimbangan adalah perubahan tekanan. 
+Jika ke dalam kesetimbangan dilakukan aksi yang menyebabkan terjadinya 
+perubahan tekanan (diikuti oleh perubahan volume), maka kesetimbangan 
+akan menyesuaikan terhadap aksi yang diberikan tersebut. 
+Mari perhatikan sistem kesetimbangan dari dinitrogen tetraoksida dan 
+nitrogen dioksida dalam wadah tertutup berikut ini.
+N2O4(g) 
+ 2NO2(g)
+Dari koeisien reaksi tersebut terlihat bahwa jumlah molekul gas di 
+sisi reaktan lebih sedikit dibandingkan molekul gas di sisi produk, dengan 
+perbandingan 1 : 2. Bagaimana jika kesetimbangan dinitrogen tetraoksida dan 
+nitrogen dioksida diganggu dengan memperbesar tekanan?
+Ketika dalam sistem kesetimbangan 
+tersebut diperbesar tekanannya, sehingga 
+volume ruang mengecil, maka sistem 
+kesetimbangan akan mengu rangi jumlah 
+molekul gas. Artinya, reaksi kesetimbangan 
+akan bergeser ke arah pembentukan 
+reaktan yang jumlah molekul gasnya lebih 
+sedikit atau koeisien reaksinya lebih 
+kecil. Terlihat dari gambar berikut, jumlah 
+molekul NO2 menjadi berkurang apabila 
+tekanan diperbesar.
+NO₂ (g)
+N₂O₄(g)
+Gambar 7.7 Pengaruh tekanan pada 
+kesetimbangan N2O4 dan NO2
+204
+Kimia untuk SMA/MA Kelas XI
+Jika tekanan diperbesar (berarti memperkecil volume) maka kesetim-
+bangan akan bergeser ke sisi dengan jumlah koeisien yang lebih kecil. 
+Sebaliknya, jika tekanan dikurangi (berarti memperbesar volume) maka 
+kesetimbangan akan bergeser ke sisi dengan jumlah koeisien yang lebih 
+besar.
+Ayo Berlatih
+Apa yang akan terjadi dengan sistem kesetimbangan berikut ini, 
+2NO2(g) 
+ N2O4(g)        ∆H° = –57,20 kJ
+apabila:
+a. 
+suhu dinaikkan
+b. 
+tekanan diturunkan
+c. 
+konsentrasi NO2 ditambahkan ke dalam sistem kesetimbangan
+d. 
+konsentrasi N2O4 dikurangi dari sistem kesetimbangan
+E. Kesetimbangan Kimia dalam Dunia Industri
+Prinsip dari kesetimbangan kimia banyak digunakan dalam dunia industri, 
+salah satu yang paling populer adalah pembuatan amonia dengan proses 
+Haber-Bosch. 
+Pupuk sebagai penyubur tanah pertanian sudah digunakan sejak zaman 
+dahulu. Menurut para ahli, tiga unsur utama yang paling banyak digunakan 
+adalah kalium, fosfor, dan nitrogen (Reger, Goode and Ball, 2011). Dengan 
+meningkatnya populasi manusia, maka kebutuhan pupuk juga semakin 
+besar. Sayangnya tumbuhan tidak bisa mengambil nitrogen langsung dari 
+alam, meskipun nitrogen adalah unsur yang paling melimpah di atmosfer 
+bumi. Untuk itulah ilmuwan memikirkan bagaimana cara memberikan unsur 
+nitrogen kepada tanaman. Salah satu cara yang paling banyak digunakan 
+adalah melalui pemberian pupuk yang mengandung nitrogen. Pupuk ini 
+biasanya menggunakan amonia sebagai bahan bakunya, sehingga bisa 
+dikatakan produksi amonia sebagian besar dipergunakan untuk pupuk.
+205
+Bab VII  Kesetimbangan Kimia
+Bagaimana amonia dibuat? 
+Proses pembuatan amonia yang paling banyak digunakan adalah proses 
+Haber. Proses ini diperkenalkan oleh Fritz Haber, ilmuwan Jerman pada tahun 
+1913. Sebagian orang menyebutnya proses Haber-Bosch, untuk menghargai 
+jasa Karl Bosch, ilmuwan Jerman lainnya yang mengembangkan peralatan 
+pembuatan amonia untuk dunia industri. Karena prosesnya ditemukan oleh 
+Haber dan peralatan produksinya untuk skala industri diperkenalkan oleh 
+Karl Bosch, makanya proses pembuatan amonia ini disebut dengan proses 
+Haber-Bosch. 
+Pada proses Haber-Bosch, amonia dibuat dengan menggunakan hidrogen 
+yang diperoleh dari gas alam dan nitrogen dari alam. Proses pembuatannya 
+berlangsung dalam sistem tertutup pada temperatur 400–500°C (Brady, 1990). 
+Tahap pembuatan amonia dengan proses Haber-Bosch dapat dilihat pada 
+ilustrasi berikut ini. 
+Gambar 7.8 Diagram alur proses Haber-Bosch 
+Sumber: Kemendikbudristek/Munasprianto Ramli (2022)
+206
+Kimia untuk SMA/MA Kelas XI
+Penjelasan dari gambar di atas adalah sebagai berikut.
+1. 
+Pembuatan amonia dimulai dengan mencampurkan gas nitrogen dan 
+hidrogen ke dalam tangki produksi. Nitrogen diperoleh dari alam dan 
+hidrogen berasal dari gas metana. Kedua gas dicampur dan dibersihkan 
+dari pengotor.
+2. 
+Campuran gas hidrogen dan nitrogen dimampatkan hingga tekanannya 
+mencapai 200 atmosfer.
+3. 
+Gas yang sudah dimampatkan ini akan mengalir ke tangki bundar yang 
+berisi katalis besi dengan suhu tangki 450°C.
+4. 
+Campuran gas didinginkan sehingga amonia mengembun menjadi cairan. 
+Adapun nitrogen dan hidrogen yang masih berupa gas akan masuk 
+kembali ke tangki bundar dan proses ini berulang terus-menerus.
+5. 
+Amonia yang sudah mencair dikeluarkan dan disimpan di dalam tangki 
+penyimpan.
+Pengayaan
+Amonia dikenal sebagai gas dengan bau menyengat yang khas. Senyawa ini 
+digunakan sebagai bahan baku pembuatan pupuk urea. Mengingat Indonesia 
+adalah negara agraris maka produksi amonia di Indonesia termasuk salah satu 
+yang tertinggi di dunia. Dilansir dari halaman satitsta.com, Indonesia adalah 
+produsen amonia kelima di dunia setelah Tiongkok, Rusia, Amerika Serikat, 
+dan India.
+Tiongkok
+Rusia
+Amerika Serikat
+India
+Indonesia
+Arab Saudi
+Mesir
+Trinidad dan Tobago
+                                                                                                                                         39,000
+                                              16,000
+                                      14,000
+                              12,000
+      5,900
+4,300
+4,200
+4,200
+Gambar 7.9 Produksi amonia di dunia pada 2021 dalam 1.000 metrik ton
+207
+Bab VII  Kesetimbangan Kimia
+Dalam proses Haber-Bosch, reaksi yang terjadi adalah sebagai berikut.
+N2(g) + H2(g) 
+ NH3(g)        ∆H = –92 kJ
+Dengan memerhatikan prinsip Le Chatellier, kira-kira langkah apa yang paling 
+efektif untuk mengoptimalkan keuntungan dari produksi amonia?
+Inti Sari
+Reaksi kimia dapat berlangsung satu arah (irreversible) atau dua arah 
+(reversible). Untuk reaksi dua arah, akan ada kondisi di mana laju pem-
+bentuk an ke arah produk sama dengan laju pembentukan ke arah reaktan. 
+Kondisi ini disebut kesetimbangan dinamis. Apabila kesetimbangan 
+dinamis diganggu maka kesetimbangan akan berupaya meminimalisasi 
+gangguan tersebut. Menurut Le Chatelier, ada tiga gangguan yang dapat 
+mengubah arah kesetimbangan, yaitu perubahan konsentrasi, suhu, dan 
+tekanan (volume). Hubungan konsentrasi dan tekanan dari zat-zat yang 
+berada dalam sistem kesetimbangan dapat dinyatakan dalam bentuk 
+tetapan/konstanta kesetimbangan. Kesetimbangan kimia sangat banyak 
+digunakan dalam dunia industri, salah satunya untuk pembuatan amonia 
+melalui proses Haber-Bosch.
+Ayo Releksi
+Setelah mempelajari materi Kesetimbangan Kimia, silakan kalian mereleksi 
+diri. Berilah ceklis (√) pada kolom Ya/Tidak untuk pernyataan di bawah ini.
+No.
+Pernyataan
+Tanggapan
+Ya
+Tidak
+1.
+Saya dapat memahami prinsip kesetimbangan kimia.
+2.
+Saya dapat menentukan tetapan kesetimbangan dan 
+menjelaskan hubungan Kc dan Kp.
+3.
+Saya dapat menjelaskan faktor-faktor yang memengaruhi 
+kesetimbangan kimia,
+208
+Kimia untuk SMA/MA Kelas XI
+4.
+Saya dapat menjelaskan aplikasi kesetimbangan kimia 
+dalam dunia industri, salah satunya melalui proses 
+Haber-Bosch.
+Menurut kalian, materi manakah yang sulit untuk dipahami dalam bab 
+Kesetimbangan Kimia? Jelaskan alasannya!
+Ayo Cek Pemahaman
+Pilihlah jawaban yang paling tepat!
+1. 
+Perhatikan reaksi kesetimbangan berikut.
+2NO2(g) 
+ N2(g) + 2O2(g)        ∆H = –136 kJ
+Jika pada saat kesetimbangan nilai Kc = 0,001, maka harga Kc akan menjadi 
+lebih kecil apabila ….
+a. 
+tekanan diperbesar
+b. 
+volume diperbesar
+c. 
+suhu diturunkan
+d. 
+suhu dinaikkan
+e. 
+ditambahkan katalis
+2. 
+Pada temperatur 900 K, reaksi: 
+2SO2(g) + O2(g) 
+ 2SO3(g)
+mempunyai nilai Kp = 0,345. Dalam keadaan kesetimbangan, tekanan 
+parsial SO2 dan O2 masing-masing adalah 0,215 dan 0,679 atm. Maka, 
+tekanan parsial gas SO3 dalam keadaan kesetimbangan tersebut adalah ….
+(OSN-2008)  
+a. 
+0,0504 atm
+b. 
+0,104 atm
+c. 
+0,0108 atm
+d. 
+0,302 atm
+e. 
+0,0910 atm
+3. 
+Dalam suatu wadah tertutup yang suhunya 25°C, sejumlah amonium 
+karbamat (N2H6CO2) menyublim dan terdisosiasi menjadi amonia (NH3) 
+dan karbon dioksida (CO2) sesuai persamaan reaksi berikut.
+209
+Bab VII  Kesetimbangan Kimia
+N2H6CO2(s) 
+ 2NH3(g) + CO2(g)
+Setelah didiamkan beberapa lama, terjadi kesetimbangan dengan tekanan 
+total gas sebesar 0,116 atm. Nilai Kp untuk reaksi tersebut adalah …. 
+(OSK-2015)
+a. 
+4,20 × 10–3
+b. 
+2,99 × 10–3
+c. 
+4,64 × 10–4
+d. 
+3,40 × 10–4
+e. 
+2,31 × 10–4
+4. 
+Pada suhu tertentu dalam wadah tertutup 1,5 liter terjadi reaksi dapat 
+balik sebagai berikut.
+2NO2(g) 
+ 2NO(g) + O2(g)
+Jika pada kesetimbangan terdapat 3 mol NO, 4,5 mol O2, dan 15 mol NO2, 
+maka nilai Kc untuk reaksi tersebut adalah …. 
+a. 
+0,12
+b. 
+0,18
+c. 
+0,90
+d. 
+1,11
+e. 
+8,33
+5. 
+Berikut reaksi kesetimbangan pembentukan gas NOCl dari gas NO dan Cl2.
+2NO(g) + Cl2(g) 
+ 2NOCl(g)        ΔH° = –77,07 kJ
+Jumlah gas NOCl akan bertambah bila ….
+a. 
+suhu diturunkan
+b. 
+gas Cl2 dikurangi
+c. 
+volume wadah ditingkatkan
+d. 
+gas argon ditambahkan ke dalam campuran reaksi dengan volume 
+wadah tetap
+e. 
+gas NOCl ditambahkan ke dalam campuran reaksi 
+Jawablah pertanyaan di bawah ini dengan tepat!
+1. 
+Di bawah ini ada dua reaksi kesetimbangan. Pada reaksi manakah, penam-
+bahan tekanan dari 2 atm menjadi 5 atm akan menggeser kesetimbangan 
+ke arah produk? Jelaskan!
+a. 
+SO2(g) + Cl2(g) 
+ SO2Cl2(g)
+b. 
+N2(g) + O2(g) 
+ 2NO(g)
+210
+Kimia untuk SMA/MA Kelas XI
+2. 
+Sebuah pabrik kimia memproduksi gas klorin melalui proses Deacon. 
+Reaksi yang terjadi adalah:
+HCl(g) + O2(g) 
+ Cl2(g) + H2O(g)        ∆H = –1,47 kJ
+Dengan 
+memerhatikan 
+prinsip-prinsip 
+pergeseran 
+kesetimbangan, 
+sarankan apa yang mesti dilakukan oleh pabrik tersebut agar mereka 
+mendapat keuntungan optimal!
+3. 
+Perhatikan reaksi kesetimbangan berikut ini!
+SO2Cl2(g) 
+ SO2(g) + Cl2(g)
+Hitunglah nilai Kc dari reaksi kesetimbangan di atas, jika nilai Kp dari 
+reaksi tersebut pada suhu 298 K adalah 0,03! 
+211
+Glosarium
+ainitas elektron; perubahan energi 
+yang terjadi ketika suatu atom 
+dalam keadaan gas menerima 
+elektron.
+alkana; senyawa hidrokarbon yang 
+hanya memiliki rantai tunggal 
+antar atom karbonnya.
+alkena; senyawa hidrokarbon yang 
+memiliki ikatan rangkap dua 
+antaratom karbon dalam 
+senyawanya.
+alkuna; senyawa hidrokarbon yang 
+memiliki ikatan rangkap tiga 
+antaratom karbon dalam 
+senyawanya.
+anion; ion yang bermuatan negatif.
+atom; bagian terkecil dari suatu unsur 
+yang masih memiliki sifat unsur 
+tersebut.
+aturan Markovnikov; aturan pada 
+reaksi adisi alkena oleh asam 
+halida yang menya takan bahwa 
+atom hidrogen akan terikat 
+pada atom C yang lebih banyak 
+mengikat atom hidrogen lain.
+bentuk molekul; susunan geometri tiga 
+dimensi atom dalam molekulnya
+bilangan kuantum; bilangan yang 
+menyatakan kedudukan atau 
+posisi elektron dalam atom yang 
+diwakili oleh suatu nilai yang 
+menjelaskan kuantitas kekal 
+dalam sistem dinamis.
+efek rumah kaca; menggambarkan 
+kondisi atmosfer bumi yang 
+seperti kondisi di dalam rumah 
+kaca, di mana panas matahari 
+terperangkap di dalamnya 
+sehingga permukaan bumi 
+menjadi hangat.
+eksotermik; proses perubahan zat yang 
+disertai pelepasan kalor dari 
+sistem ke lingkungan.
+elektron; partikel pembentuk atom yang 
+mengelilingi inti dan bermuatan 
+negatif.
+elektron valensi; elektron yang berada 
+pada kulit terluar suatu atom.
+endotermik; proses perubahan zat yang 
+disertai penyerapan kalor dari 
+ling kungan ke sistem.
+energi aktivasi; energi kinetik total 
+minimum yang harus dimiliki oleh 
+molekul ketika bertumbukan agar 
+reaksi kimia dapat terjadi.
+energi dalam; jumlah berbagai energi 
+yang terdapat dalam suatu materi.
+energi ikatan; energi yang dibutuhkan 
+untuk memutuskan suatu ikatan 
+kimia.
+energi ikatan rata-rata; rata-rata energi 
+disosiasi ikatan yang diperlukan 
+untuk sejumlah spesies berbeda 
+yang mengandung ikatan kovalen 
+tertentu.
+energi ionisasi; energi yang dibutuhkan 
+suatu atom dalam keadaan gas 
+untuk melepaskan satu elektron 
+membentuk kation.
+entalpi; fungsi termodinamika yang 
+digunakan untuk mendeskripsikan 
+proses pada tekanan konstan.
+gas rumah kaca; gas-gas di atmosfer 
+yang dapat menangkap radiasi 
+panas matahari, di antaranya 
+212
+karbon dioksida, nitrogen 
+dioksida, dan freon.
+gaya van der Waals; gaya antarmolekul 
+yang terjadi pada molekul polar-
+polar, molekul polar-nonpolar, 
+dan molekul nonpolar-nonpolar.
+golongan; lajur vertikal (tegak) pada 
+sistem periodik unsur
+hidrokarbon; senyawa yang terdiri atas 
+atom karbon dan hidrogen saja.
+hidrokarbon alifatik; senyawa 
+hidrokarbon rantai terbuka 
+(asiklik) maupun rantai tertutup 
+(siklik) yang tidak memenuhi 
+aturan aromatisitas.
+hidrokarbon aromatik; hidrokarbon 
+siklis yang memiliki ikatan 
+rangkap dua berselang-seling dan 
+memenuhi aturan Huckel.
+hukum Hess; hukum yang menyatakan 
+bahwa jika dua atau lebih 
+persamaan kimia digabungkan 
+lewat penjumlahan atau 
+pengurangan dan menghasilkan 
+persamaan lain maka 
+penjumlahan atau pengurangan 
+perubahan entalpi untuk 
+kedua persamaan tersebut juga 
+menghasilkan perubahan entalpi 
+yang berkaitan dengan persamaan 
+reaksinya.
+ikatan hidrogen; ikatan antarmolekul 
+yang terjadi antara molekul yang 
+memiliki atom hidrogen dengan 
+molekul lain yang memiliki atom 
+dengan keelektro negatifan yang 
+tinggi (atom F, O, dan N).
+ikatan ion; ikatan kimia yang terjadi 
+karena adanya gaya elektrostatis 
+antara ion positif dan ion negatif 
+dalam senyawa ion.
+ikatan kimia; ikatan yang terjadi 
+antara atom dengan atom yang 
+bergabung membentuk senyawa 
+kimia yang stabil.
+ikatan kovalen; ikatan kimia antara 
+atom dengan atom karena 
+pemakaian bersama pasangan 
+elektron.
+ikatan kovalen koordinasi; ikatan kimia 
+antara atom dengan atom, tetapi 
+pasangan elektron yang dipakai 
+bersama berasal dari salah satu 
+atom.
+ikatan kovalen nonpolar; ikatan 
+kovalen antara atom-atom, di 
+mana pasangan elektron yang 
+dipakai bersama berada pada 
+jarak yang sama dari dua atom 
+yang saling berikatan.
+ikatan kovalen polar; ikatan kimia 
+antara atom dengan atom, 
+tetapi pasangan elektron yang 
+dipakai bersama lebih dekat ke 
+salah satu atom yang memiliki 
+keelektronegatifan yang lebih 
+besar.
+ikatan logam; ikatan yang terjadi karena 
+adanya gaya tarik inti atom-atom 
+logam dengan lautan elektron.
+inti atom; bagian dari atom, berisi 
+proton yang bermuatan positif dan 
+neutron yang tidak bermuatan.
+isobar; atom-atom dari unsur yang 
+berbeda, tetapi memiliki nomor 
+massa yang sama.
+isomer; dua senyawa atau lebih yang 
+memiliki rumus kimia yang sama, 
+tetapi struktur atau penataan 
+ruangnya berbeda.
+isomer ruang; dua senyawa atau lebih 
+dengan rumus molekul sama, 
+tetapi dengan penataan ruang 
+yang berbeda.
+isomer struktur; dua senyawa atau 
+lebih dengan rumus molekul 
+sama, tetapi strukturnya berbeda.
+isoton; atom-atom dari unsur yang 
+berbeda, tetapi memiliki jumlah 
+neutron yang sama.
+213
+isotop; atom-atom dari unsur yang sama 
+(memiliki jumlah proton yang 
+sama), tetapi memiliki nomor 
+massa yang berbeda.
+jari-jari atom; jarak antara inti atom 
+sampai dengan elektron pada kulit 
+terluar.
+kaidah oktet; kaidah yang menjadi 
+dasar terbentuknya kestabilan 
+suatu atom dengan memiliki 
+jumlah elektron sama seperti 
+unsur gas mulia, yaitu delapan 
+elektron.
+kalor; salah satu bentuk energi yang 
+diserap atau dilepaskan oleh suatu 
+materi.
+kalor jenis; jumlah kalor yang 
+diperlukan untuk menaikkan 
+temperatur 1 kg suatu zat sebesar 
+1°C.
+kalor reaksi; kalor yang berpindah 
+dari sistem ke lingkungan atau 
+dari lingkungan ke sistem agar 
+temperatur sistem sesudah reaksi 
+sama dengan temperatur sistem 
+sebelum reaksi.
+kalorimeter; alat yang dipakai untuk 
+menentukan kalor reaksi.
+kalorimetri; ilmu yang mempelajari 
+pengukuran panas dari suatu 
+reaksi kimia.
+kapasitas kalor; besaran terukur yang 
+menggambarkan banyaknya kalor 
+yang diperlukan untuk menaikkan 
+suhu suatu zat (benda) sebesar 
+jumlah tertentu.
+katalis; zat yang mampu mempercepat 
+laju reaksi; katalis ikut bereaksi, 
+tetapi di akhir reaksi katalis 
+terbentuk kembali seperti semula.
+kation; ion yang bermuatan positif.
+keelektronegatifan; ukuran 
+kemampuan suatu atom untuk 
+mengikat elektron.
+kereaktifan; mudah atau sukarnya suatu 
+atom untuk bereaksi dengan atom 
+lainnya membentuk ikatan.
+kesetimbangan homogen; suatu 
+keadaan di mana semua unsur 
+atau senyawa yang berada pada 
+sistem kesetimbangan mempunyai 
+fase yang sama.
+kesetimbangan heterogen; suatu 
+keadaan di mana semua unsur 
+atau senyawa yang berada pada 
+sistem kesetimbangan mempunyai 
+fase yang berbeda.
+kesetimbangan kimia; keadaan ketika 
+konsentrasi reaktan dan produk 
+dalam sistem tidak berubah akibat 
+laju pembentukan ke arah produk 
+sama dengan laju pembentukan ke 
+arah reaktan. 
+konigurasi elektron; bentuk distribusi 
+elektron pada setiap kulit dalam 
+suatu atom.
+laju reaksi; perubahan konsentrasi tiap 
+satuan waktu.
+mol; satuan yang digunakan untuk 
+menunjukkan jumlah zat.
+neutron; partikel penyusun atom yang 
+tidak memiliki muatan.
+nomor atom; nomor yang menyatakan 
+jumlah proton dalam inti suatu 
+atom.
+nomor massa; nomor yang menyatakan 
+jumlah proton dan neutron dalam 
+inti atom.
+orbital; daerah kebolehjadian 
+menemukan elektron di sekitar 
+inti atom.
+orde reaksi; variabel yang menunjukkan 
+pengaruh konsentrasi pereaksi 
+terhadap laju reaksi.
+pereaksi pembatas; reaktan yang habis 
+bereaksi ketika reaktan lain masih 
+bersisa.
+214
+periode; lajur horizontal (mendatar) 
+pada sistem periodik unsur
+persamaan laju reaksi; kalimat 
+matematika yang menghubungkan 
+antara reaksi dan konsentrasi 
+reaktan dengan konstanta.
+persen hasil; persentase yang 
+menunjukan perbandingan 
+antara hasil aktual terhadap hasil 
+teoretis.
+persen kemurnian; kadar kemurnian 
+dari bahan kimia 
+perubahan entalpi pembentukan 
+standar; perubahan entalpi yang 
+terjadi dalam pembentukan 1 mol 
+senyawa dari unsur-unsurnya 
+yang paling stabil pada keadaan 
+standar (298K,1 atm, 1 molar).
+perubahan entalpi reaksi standar; 
+perubahan entalpi suatu 
+reaksi yang semua reaktan dan 
+produknya berada pada keadaan 
+standar.
+prinsip le Chatellier; faktor-faktor yang 
+memengaruhi kesetimbangan 
+kimia sesuai dengan apa yang 
+disampaikan oleh ahli kimia 
+berkebangsaan Prancis yang 
+bernama le Chatellier.
+proses Haber-Bosch; proses pembuatan 
+amonia yang diperkenalkan oleh 
+ilmuwan Jerman Bernama Haber 
+dan Bosch.
+proton; partikel penyusun atom yang 
+terletak pada inti atom dan 
+bermuatan positif.
+reaksi adisi; reaksi penambahan gugus 
+pada ikatan rangkap dengan cara 
+memutuskan ikatan rangkap pada 
+alkena dan alkuna.
+reaksi eliminasi; reaksi pengurangan/
+eliminasi gugus atau substituen 
+tertentu dari hidrokarbon 
+sehingga terbentuk ikatan 
+rangkap.
+reaksi substitusi; reaksi penggantian 
+atom hidrogen dengan atom  lain 
+pada alkana.
+reaktan; unsur/senyawa yang bereaksi 
+dalam sebuah reaksi kimia.
+rumus molekul; jumlah sebenarnya dari 
+atom yang menyusun molekul 
+senyawa.
+rumus empiris; perbandingan paling 
+sederhana dari jumlah atom-atom 
+yang menyusun molekul suatu 
+senyawa.
+sifat periodik unsur; sifat unsur yang 
+berhubungan dengan posisi unsur 
+dalam sistem periodik unsur.
+sistem periodik unsur; tabel yang berisi 
+susunan unsur-unsur.
+stoikiometri; hubungan kuantitatif 
+antara reaktan dan produk dalam 
+sebuah reaksi kimia
+termokimia; bagian dari ilmu kimia 
+yang mempelajari tentang 
+perubahan kalor yang menyertai 
+perubahan materi.
+struktur Lewis; struktur yang 
+menunjukkan jumlah ikatan atom-
+atom yang terikat membentuk 
+molekul dan pasangan elektron 
+bebas jika ada.
+teori VSEPR; teori yang menjelaskan 
+tentang gaya tolakan pasangan 
+elektron bebas yang menyebabkan 
+perubahan bentuk molekul.
+teori hibridisasi; teori yang 
+menjelaskan orbital-orbital atom 
+yang bergabung menjadi orbital 
+molekul untuk membentuk suatu 
+ikatan.
+tetapan kesetimbangan; angka yang 
+menunjukkan perbandingan 
+kuantitatif antara produk dan 
+reaktan, baik itu perbandingan 
+konsentrasi maupun 
+perbandingan tekanan.

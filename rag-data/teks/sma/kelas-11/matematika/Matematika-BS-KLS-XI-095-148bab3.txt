@@ -1,0 +1,2567 @@
+79
+Bab 1 | Komposisi Fungsi dan Fungsi Invers
+Bab
+3
+Statistika
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian 
+dapat
+1. 
+Menggambar diagram pencar atau diagram 
+scatter data bivariat
+2. 
+Menginterpretasikan diagram pencar atau 
+diagram scatter data bivariat
+3. 
+Menentukan arah dan bentuk tren data 
+bivariat dari diagram pencar atau diagram 
+scatter
+4. 
+Menggambar persamaan garis regresi linear
+5. 
+Menentukan persamaan garis regresi linear
+6. 
+Menginterpretasikan persamaan garis regresi 
+linear
+7. 
+Menerapkan interpolasi dan ekstrapolasi data 
+berdasarkan suatu persamaan garis regresi 
+linear
+8. 
+Menghitung nilai korelasi product moment 
+dan koefisien determinasi
+9. 
+Menginterpretasikan nilai korelasi product 
+moment dan koefisien determinasi dalam 
+proses analisis regresi linear
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2021
+Matematika untuk SMA/SMK Kelas XI
+Penulis: Dicky Susanto, dkk.
+ISBN: 978-602-244-789-5 (jil.2)
+Matematika untuk SMA/SMK Kelas XI
+80
+Gambar 3.1 Pemadaman Kebakaran Hutan di 
+Pekanbaru
+Sumber: liputan6.com (2019)
+Kebakaran hutan merupakan hal yang 
+cukup sering terjadi di Indonesia. Ketika 
+kebakaran 
+hutan 
+terjadi, 
+apakah 
+dampaknya bagi kita semua? Tentu saja 
+kebakaran hutan ini akan meningkatkan 
+polusi udara. Namun, dari berbagai 
+dampak yang ada, mungkin akan ada 
+orang 
+yang 
+berpendapat 
+bahwa 
+kebakaran hutan dapat mengakibatkan 
+penghasilan warga setempat menurun, 
+peningkatan jumlah orang-orang yang 
+mengalami infeksi saluran pernapasan akut atau berhubungan dengan pemanasan 
+global dan perubahan iklim. Bagaimana kita dapat memastikan bahwa hal tersebut 
+benar atau tidak?
+Gambar 3.2 Ilustrasi Banyak Subscribers di YouTube
+Pada zaman sekarang, media sosial merupakan konsumsi masyarakat umum 
+dalam kehidupan sehari-hari, salah satunya adalah YouTube. Setiap YouTuber pasti 
+selalu menginginkan subscribers yang banyak sehingga menjadi pemacu untuk 
+membuat konten yang menarik. Namun, tahukah kalian bagaimana caranya dan 
+apa saja usaha yang mereka lakukan untuk mencapai hal tersebut? Salah satu usaha 
+yang mereka lakukan adalah menyediakan waktu yang didedikasikan untuk berbagai 
+24:15 / 36:30
+Menang Lawan Pebasket Pro
+1,832,474 views · 3 weeks ago
+725
+30
+SHARE ...
+SUSCRIBE
+2,5M
+Pebasket Rendah Hati
+2,5M subscribers
+30
+SHARE ...
+SUBSCRIBE
+2,5M
+81
+Bab 3 | Statistika
+persiapan pembuatan konten, video, dan lain sebagainya. Hal yang dipertanyakan 
+adalah apakah ada hubungan antara waktu yang didedikasikan oleh para YouTuber 
+dan banyak subscribers? Apakah banyaknya subscribers bergantung pada waktu 
+yang didedikasikan? Jika ya, berapa peningkatan subscribers ketika waktu yang 
+didedikasikan ditambah 1 jam per hari?
+Adakah hal-hal lain yang selama ini terpikirkan oleh kalian bahwa dua hal saling 
+mempunyai hubungan seperti contoh di atas? Misalnya, waktu yang digunakan untuk 
+belajar dan tingkat kompetensi yang tercapai, hubungan antara berat badan dan tinggi 
+badan yang ideal, dan lain-lain. Ketika menghadapi permasalahan seperti itu, apakah 
+kesimpulan yang kalian ambil hanya melalui logika atau pengalaman semata, atau 
+melalui pengolahan data yang tepat?
+Untuk menjawab pertanyaan di atas, kalian perlu mempelajari jenis data yang 
+menyajikan dua variabel kuantitatif dan proses analisis yang akan membantu kalian 
+untuk mengambil kesimpulan yang tepat dari contoh-contoh permasalahan di atas 
+dan juga mempersiapkan kalian untuk menyelesaikan permasalahan baru yang akan 
+kalian temukan dalam kehidupan sehari-hari.
+Pertanyaan Pemantik
+• 
+Bagaimana kita dapat menganalisis hubungan antara dua variabel kuantitatif?
+• 
+Apa peran ukuran pemusatan data dan ukuran penyebaran data dalam proses 
+analisis hubungan antara dua variabel kuantitatif?
+• 
+Apakah ada suatu standar supaya kita dapat menyimpulkan dengan tepat bahwa 
+dua variabel kuantitatif mempunyai hubungan atau tidak?
+• 
+Apakah semua kumpulan data dapat dimodelkan dengan garis lurus?
+• 
+Bagaimana pola suatu kumpulan data yang dapat dimodelkan dengan garis lurus?
+• 
+Bagaimana kita bisa tahu bahwa model garis lurus yang kita buat sudah tepat?
+Kata Kunci
+Data Bivariat, Diagram Pencar/Scatter, Tren, Regresi Linear, Garis Best-fit, Regresi 
+Non-linear, Metode Kuadrat Terkecil, Residu, Interpolasi, Ekstrapolasi, Korelasi, 
+Sebab-Akibat, Koefisien Korelasi, Korelasi Product Moment, Koefisien Determinasi
+Matematika untuk SMA/SMK Kelas XI
+82
+Peta Konsep
+Statistika
+Data Bivariat
+Diagram Pencar/
+Scatter
+Metode Kuadrat
+Terkecil
+Koeﬁsien
+Determinasi
+Koeﬁsien
+Product Moment
+Regresi Non-Linear
+Regresi Linear
+Korelasi
+Positif
+Negatif
+Tidak Berkorelasi
+Kuat
+Sedang atau Cukup
+Lemah atau Tidak
+Berkorelasi 
+Sebab-Akibat
+Metode
+Menghasilkan
+Analisis
+Arah Korelasi
+Dan/ Atau
+Tingkat Korelasi
+Arah Korelasi
+Ayo Mengingat Kembali
+1. 
+Tuliskan pasangan titik-titik koordinat 
+yang terletak pada bidang kartesian 
+di samping.
+A (… , …)
+B (… , …)
+C (… , …)
+D (… , …)
+E (… , …)
+F (… , …)
+G (… , …)
+H (… , …)
+4
+5
+6
+3
+2
+1
+-1
+-2
+-3
+1
+2
+3
+4
+5
+6
+7
+0
+-1
+-2
+A
+F
+E
+B
+D
+G
+C
+H
+83
+Bab 3 | Statistika
+2. 
+Tentukan nilai-nilai berikut ini 
+  
+berdasarkan garis lurus pada 
+ 
+diagram disamping.
+a. 
+Nilai y pada saat nilai x = 0
+b. 
+Nilai y pada saat nilai x = 2
+c. 
+Nilai x pada saat nilai y = 5
+d. 
+Nilai x pada saat nilai y = -1
+3. 
+Rangga ingin berlangganan internet dari penyedia jasa internet Lancar Jaya 
+untuk pembelajaran jarak jauh. Biaya pemasangan layanan internet adalah 
+Rp500.000,00 yang hanya dibayarkan sekali selama berlangganan dan biaya 
+langganan bulanan yang sudah termasuk pajak adalah Rp250.000,00. 
+a. 
+Tentukan berapa biaya total yang perlu dibayarkan oleh Rangga pada bulan 
+pertama.
+b. 
+Tentukan berapa biaya total yang perlu dibayarkan oleh Rangga jika 
+berlangganan hingga bulan ke-12.
+c. 
+Rangga ingin membuat suatu persamaan matematika yang dapat 
+membantunya menghitung biaya total dengan cepat di mana x menyatakan 
+banyaknya bulan berlangganan dan y menyatakan biaya total langganan. 
+Bagaimana persamaan matematika yang tepat?
+d. 
+Tentukan berapa biaya total yang perlu dibayarkan oleh Rangga jika 
+berlangganan hingga bulan ke-24 menggunakan persamaan yang diperoleh 
+di bagian c.
+e. 
+Beberapa bulan kemudian, Rangga menghitung bahwa dia sudah 
+mengeluarkan total uang sebesar Rp2.000.000,00 untuk berlangganan 
+internet. Sudah berapa bulan lamanya Rangga berlangganan internet?
+4
+5
+6
+3
+2
+1
+-1
+-2
+-3
+1
+2
+3
+4
+0
+-1
+-2
+-3
+-4
+-5
+f
+Matematika untuk SMA/SMK Kelas XI
+84
+4. 
+Terdapat sebuah ember yang bocor dan volume air di dalamnya dapat dinyatakan 
+dalam bentuk persamaan garis lurus y = 1 – 0.02x di mana x menyatakan waktu 
+(menit) dan y menyatakan volume air (liter) yang tersisa dalam ember.
+a. 
+Jelaskan makna dari 1 dari persamaan y = 1 – 0.02x
+b. 
+Jelaskan makna dari – 0.02x dari persamaan y = 1 – 0.02x
+c. 
+Berapa liter volume air di dalam ember setelah 5 menit?
+d. 
+Berapa lama volume air di dalam ember tersebut akan habis?
+5. 
+Hitunglah rata-rata dan varians dari data-data berikut.
+8 
+7 
+10 
+12 
+9 
+4 
+6
+A. Diagram Pencar atau Diagram Scatter 
+Ayo kita gunakan konteks mengenai hubungan antara rata-rata waktu yang 
+didedikasikan oleh YouTuber dan banyak subscribers yang mereka miliki. 
+Dalam suatu penelitian sederhana, terpilih sampel tujuh YouTuber dan 
+diperoleh informasi mengenai rata-rata waktu yang didedikasikan per hari dan 
+banyak subscribers mereka pada saat itu (dibulatkan ke ratusan ribu). Informasi yang 
+diperoleh adalah sebagai berikut.
+Tabel 3.1 Data Rata-rata Waktu dan Banyak Subscribers
+Rata-rata waktu per hari
+Banyak subscribers
+5,5 jam
+1.400.000 orang
+8,3 jam
+2.400.000 orang
+3,8 jam
+1.300.000 orang
+6,1 jam
+1.600.000 orang
+3,3 jam
+900.000 orang
+4,9 jam
+1.500.000 orang
+6,7 jam
+1.700.000 orang
+Peneliti ingin mengetahui apakah ada hubungan antara rata-rata waktu yang 
+didedikasikan per hari dan banyak subscribers dari data yang diperoleh di atas. Apa 
+saja yang harus dilakukan oleh peneliti dalam mengolah data yang telah diperoleh? 
+85
+Bab 3 | Statistika
+Apakah ilmu statistika yang telah kalian pelajari sejauh ini cukup untuk memperoleh 
+tujuan analisis dari peneliti tersebut? Coba diskusikan dengan teman-teman kalian.
+Ayo Bereksplorasi
+Eksplorasi
+3.1
+1. 
+Kita akan menyajikan data dari Tabel 3.1 ke dalam bentuk diagram pencar atau 
+diagram scatter. Ayo letakkan pasangan-pasangan data rata-rata waktu dan 
+banyak subscribers dalam bentuk pasangan titik koordinat (rata-rata waktu, 
+banyak subscribers) dalam diagram di bawah ini.
+2. 
+Bagaimana pola penyebaran titik-titik yang telah digambar pada diagram di atas?
+3. 
+Kesimpulan seperti apa yang dapat kalian ambil mengenai hubungan antara 
+rata-rata waktu yang didedikasikan dan banyak subscribers berdasarkan pola 
+penyebaran titik-titik pada nomor 2? 
+4. 
+Data mana yang tidak konsisten dengan kesimpulan kalian pada nomor 3?
+5. 
+Apakah data tersebut akan membuat kesimpulan kalian pada nomor 3 menjadi 
+tidak tepat?
+500000
+1000000
+1500000
+2000000
+2500000
+3000000
+3500000
+0
+Waktu rata-rata (jam)
+1
+2
+0
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Subscribers (orang)
+Matematika untuk SMA/SMK Kelas XI
+86
+Pada Eksplorasi 3.1, kalian telah menggunakan diagram pencar atau diagram 
+scatter. Diagram pencar atau diagram scatter digunakan saat kalian perlu menyajikan 
+data yang terdiri atas dua variabel kuantitatif atau sering juga disebut sebagai data 
+bivariat. 
+Pada contoh permasalahan di atas, rata-rata waktu disebut sebagai variabel 
+independen. Variabel independen adalah variabel yang akan digunakan untuk 
+membuat prediksi terhadap nilai variabel dependen. Variabel independen 
+digambarkan pada bagian sumbu X di diagram pencar, sedangkan banyak subscribers 
+disebut sebagai variabel dependen. Variabel dependen adalah variabel yang nilainya 
+dipengaruhi oleh variabel independen. Variabel dependen digambarkan pada sumbu 
+Y di diagram pencar.
+Ayo Berkomunikasi
+Coba kalian pikirkan apa yang akan terjadi jika variabel X dan Y pada contoh 
+permasalahan di atas tertukar? Diskusikan dengan teman-teman kalian.
+Gambar 3.3 Contoh Kesimpulan yang Salah Akibat Variabel X dan Y yang Tertukar
+Sumber: https://xkcd.com
+Hal lain yang perlu dibedakan adalah konsep korelasi dan sebab-akibat. Dua 
+variabel dikatakan mempunyai hubungan sebab-akibat jika perubahan pada salah 
+satu variabel mengakibatkan perubahan pada variabel lainnya. Hanya karena dua 
+variabel memiliki korelasi, tidak berarti selalu ada hubungan sebab-akibat pada 
+keduanya, karena korelasi hanya melihat pada polanya. Mari kita lihat kembali 
+permasalahan mengenai rata-rata waktu dan banyak subscribers. Hasil Eksplorasi 3.1 
+menyatakan bahwa ada korelasi antara kedua variabel tersebut, namun bukan berarti 
+dapat ditarik kesimpulan bahwa ada hubungan sebab-akibat. Masih banyak variabel 
+Riset besar lain tidak menemukan
+bukti bahwa HP menyebabkan kanker.
+Kok riset WHO bisa seperti itu?
+Amerika Serikat
+Jumlah
+Kasus Kanker
+Oke, sampai saya
+dapat data yang lain, 
+saya akan berasumsi 
+bahwa kanker yang 
+menyebabkan HP
+Hm. .sepertinya 
+mereka terbalik
+Wah. .itu banyak
+sekali salahnya
+Nih lihat. .
+Pengguna
+HP
+1970
+2010
+1980
+1990
+2000
+500
+475
+450
+425
+100
+75
+50
+25
+87
+Bab 3 | Statistika
+lain yang perlu dipertimbangkan untuk menarik kesimpulan sebab-akibat, misalnya 
+sudah berapa lama menjadi YouTuber, tingkat efektivitas kerja, dan lainnya. Hal ini 
+memerlukan studi yang lebih mendalam dan kompleks.
+Penguatan Karakter
+Jadi, berhati-hatilah dalam setiap kali mengambil kesimpulan karena kesimpulan 
+yang tidak tepat dapat mengakibatkan efek negatif bagi berbagai cabang ilmu 
+pengetahuan, kehidupan sosial, dan bernegara.
+Ayo Berpikir Kreatif
+1. Menurut kalian, hal-hal negatif apa saja yang mungkin akan terjadi jika 
+terdapat kesimpulan-kesimpulan yang salah baik di dalam cabang ilmu 
+pengetahuan, kehidupan sosial, dan bernegara?
+2. Menurut kalian, apa yang harus kalian lakukan untuk menghindari 
+pengambilan kesimpulan yang salah?
+3. Menurut kalian, apa yang dapat kalian lakukan untuk menjaga diri sendiri, 
+kehidupan akademik, sosial dan bernegara dari berbagai informasi dengan 
+dasar kesimpulan yang salah?
+Latihan
+3.1
+1. 
+Perhatikan pasangan-pasangan variabel di bawah ini. Tentukan bagaimana 
+hubungan mereka dan berikan alasan kalian.
+a. 
+Banyak kendaraan bermotor dan tingkat polusi udara.
+b. 
+Jarak yang ditempuh oleh sebuah motor dan volume bensin dalam tangki 
+bensin.
+c. 
+Biaya listrik dan biaya air per bulan.
+2. 
+Rizki ingin mengetahui hubungan tingkat kelulusan SMA dan tingkat kemiskinan. 
+Data yang diperoleh oleh Rizki disajikan dalam bentuk diagram pencar berikut.
+Matematika untuk SMA/SMK Kelas XI
+88
+a. 
+Bagaimana pola penyebaran titik-titik yang telah digambar pada diagram 
+di atas?
+b. 
+Kesimpulan seperti apa yang dapat kalian ambil mengenai hubungan 
+persentase kelulusan SMA dan persentase kemiskinan?
+3. 
+Tabel berikut ini memberikan informasi mengenai kandungan gula (gram) dan 
+jumlah kalori dalam satu sajian dari 13 sampel merek sereal. 
+Gula 
+(gram)
+4
+15
+12
+11
+8
+6
+14
+2
+7
+14
+20
+3
+13
+Kalori
+120
+200
+140
+110
+120
+80
+170
+100
+130
+190
+190
+110
+120
+a. 
+Gambarkan diagram pencar atau diagram scatter dari data di atas.
+b. 
+Bagaimana pola penyebaran titik-titik yang telah digambar pada diagram 
+di atas?
+c. 
+Kesimpulan seperti apa yang dapat kalian ambil mengenai hubungan antara 
+gula (gram) dan jumlah kalori?
+4. 
+Ayo Berpikir Kreatif
+ 
+Suatu hari saat pelajaran Statistika, guru menyajikan data mengenai hubungan 
+antara dua variabel dari tinggi badan anak usia dini umur 2 hingga 7 tahun dalam 
+bentuk tabel berikut ini.
+ 
+Persentase Kelulusan SMA
+Persentase Kemiskinan
+8
+10
+6
+12
+4
+76
+78
+80
+82
+84
+86
+88
+90
+92
+94
+14
+16
+18
+89
+Bab 3 | Statistika
+Umur
+Tinggi Rata-rata (cm)
+2
+91
+3
+99
+4
+104
+5
+112
+6
+119
+7
+126
+Salah satu siswa, Kefas, menyimpulkan bahwa semakin bertambahnya umur, 
+semakin bertambah juga tinggi badan. Namun, tidak tepat jika disimpulkan 
+bahwa umur menyebabkan tinggi badan meskipun memang ada yang mendasari 
+hubungan sebab-akibat antara keduanya. 
+a. 
+Menurut kalian, apa yang menjadi dasar sebab-akibat antara umur dan 
+tinggi badan berdasarkan konteks data di atas? 
+b. 
+Apakah kesimpulan Kefas berlaku untuk sepanjang umur manusia hidup? 
+Jelaskan alasan kalian.
+c. 
+Jika kalian diminta untuk mengambil kesimpulan secara umum mengenai 
+hubungan umur dan tinggi badan, apa yang perlu kalian lakukan?
+Ayo Bereksplorasi
+Eksplorasi
+3.2
+Di dalam sebuah kesimpulan hasil analisis, apakah cukup hanya dengan mengatakan 
+bahwa dua variabel memiliki korelasi? Ternyata ada jenis-jenis korelasi berdasarkan 
+arah dan bentuk tren datanya untuk membedakan satu dengan yang lainnya. Dalam 
+permasalahan rata-rata waktu dan banyak subscribers, diperoleh bahwa mereka 
+mempunyai korelasi positif yang artinya adalah semakin meningkat rata-rata waktu 
+maka semakin meningkat juga banyak subscribers, dan bentuk tren data mereka adalah 
+linear karena pola tren data yang menyerupai garis lurus. Kita akan mempelajari lebih 
+banyak lagi melalui eksplorasi berikut ini.
+Matematika untuk SMA/SMK Kelas XI
+90
+Perhatikan diagram berbagai jenis korelasi berikut ini.
+Gambar 3.4 Diagram Pencar dan Jenis Korelasi
+1. 
+Ayo pasangkan (a), (b), (c), (d), dan (e) dengan pilihan kategori A, B, C, D atau E 
+yang tepat sesuai deskripsi pada tabel di bawah ini. Pilihan kategori boleh untuk 
+lebih dari satu diagram. Diskusikan dengan teman-teman kalian.
+Jenis korelasi 
+berdasarkan arah 
+tren data
+Bentuk tren 
+data
+Interpretasi data
+A
+Korelasi positif
+Linear
+Semakin meningkat nilai variabel 
+x, semakin meningkat nilai 
+variabel y
+B
+Korelasi negatif
+Linear
+Semakin meningkat nilai variabel 
+x, semakin menurun nilai variabel 
+y
+C
+Tidak berkorelasi
+Tidak 
+berbentuk
+Nilai variabel x tidak 
+memengaruhi nilai variabel y
+x
+y
+x
+y
+x
+y
+x
+y
+x
+y
+(a)
+(d)
+(e)
+(b)
+(c)
+91
+Bab 3 | Statistika
+Jenis korelasi 
+berdasarkan arah 
+tren data
+Bentuk tren 
+data
+Interpretasi data
+D
+Korelasi positif
+Kurva/Non-
+linear
+Semakin meningkat nilai variabel 
+x, semakin meningkat nilai 
+variabel y
+E
+Korelasi negatif
+Kurva/Non-
+linear
+Semakin meningkat nilai variabel 
+x, semakin menurun nilai variabel 
+y
+2. 
+Jika ada kategori yang tidak dapat dipasangkan dengan diagram-diagram di atas, 
+gambarlah sketsa diagram pencar yang menggambarkan kategori tersebut.
+Berdasarkan hasil Eksplorasi 3.2, kalian telah mempelajari jenis korelasi 
+berdasarkan arah tren data (korelasi positif, korelasi negatif, dan tidak berkorelasi), 
+bentuk tren data (linear dan kurva/non-linear) serta interpretasi masing-masing 
+datanya. Kalian akan mempelajari lebih jauh lagi mengenai hal ini pada subbab 
+berikutnya tentang bagaimana proses analisis korelasi untuk tren data berbentuk 
+linear. Pada jenjang ini, kalian tidak akan mempelajari mengenai proses analisis 
+korelasi untuk tren data berbentuk kurva/non-linear. 
+Ayo Berpikir Kreatif
+Gambarlah suatu diagram pencar yang memiliki bentuk tren data kurva/non-
+linear namun arah tren data tidak menunjukkan korelasi positif maupun negatif. 
+Berikan interpretasi data dari diagram pencar yang telah kalian gambar.
+Ayo latihan untuk memantapkan keterampilan dalam membaca diagram pencar 
+dan interpretasi datanya.
+Matematika untuk SMA/SMK Kelas XI
+92
+Latihan
+3.2
+Pada masing-masing diagram pencar di bawah ini, berikan keterangan (i) jenis 
+korelasinya berdasarkan arah tren data, (ii) bentuk tren datanya dan (iii) interpretasi 
+datanya.
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+16
+18
+14
+20
+12
+12
+14
+16
+18
+20
+22
+24
+22
+24
+x
+y
+16
+18
+14
+20
+12
+0
+2
+4
+6
+8
+10
+12
+22
+24
+x
+y
+17,5
+12,5
+22,5
+28
+12
+16
+20
+24
+28
+27,5
+x
+y
+28
+12
+16
+20
+24
+28
+10
+15
+5
+20
+0
+25
+x
+y
+28
+12
+16
+20
+24
+28
+100
+150
+50
+200
+0
+x
+y
+50
+100
+0
+150
+-50
+12
+16
+20
+24
+28
+x
+y
+93
+Bab 3 | Statistika
+g. 
+h. 
+Ayo Berteknologi
+Ayo, sekarang saatnya kita mencoba menggunakan teknologi untuk menggambar 
+diagram pencar. Penggunaan teknologi ini akan memudahkan kalian 
+dalam menggambar dan menganalisis data dalam jumlah yang banyak serta 
+memberikan efisiensi dalam pengerjaannya. Aplikasi yang dapat kalian gunakan 
+cukup banyak seperti Microsoft Excel, GeoGebra, SPSS, dan lainnya. Buku ini 
+akan memberikan panduan penggunaan Microsoft Excel dan untuk aplikasi 
+lainnya dapat kalian eksplorasi secara mandiri melalui berbagai informasi dari 
+buku lain, dan sumber yang tepat dan baik dari internet.
+Tahapan menggambar diagram pencar menggunakan Microsoft Excel:
+1. 
+Buka aplikasi Microsoft Excel dan buat lembar kerja baru.
+2. 
+Masukkan data bivariat yang akan dibuat diagram pencarnya.
+50
+100
+0
+150
+-50
+200
+12
+16
+20
+24
+28
+x
+y
+12
+16
+20
+24
+28
+100
+150
+50
+200
+0
+x
+y
+Matematika untuk SMA/SMK Kelas XI
+94
+3. 
+Pilihlah semua datanya, kemudian pilih menu Insert dan pilih Scatter Plot yang 
+posisinya ditunjukkan oleh gambar di bawah (posisi kemungkinan akan berbeda 
+tergantung dari versi Microsoft Excel yang digunakan) maka secara otomatis 
+diagram pencar akan dibuat namun masih perlu penyesuaian penamaan variabel 
+x dan y.
+4. 
+Klik diagram kemudian klik tanda “+” yang ada di kanan atas diagram dan 
+pastikan “Axis Titles” dicentang maka akan terlihat bagian untuk penamaan 
+untuk sumbu x dan y.
+5. 
+Ubahlah penamaan sumbu x dan y, dan judul diagram pencar dengan cara klik 
+pada bagian masing-masing dan ketik penamaan yang baru.
+95
+Bab 3 | Statistika
+Mudah, bukan? Ayo berlatih menggunakan aplikasi ini agar kalian tidak lupa 
+tahapannya. Kalian juga dapat menggunakan aplikasi ini untuk memastikan bahwa 
+gambar diagram pencar yang kalian buat dengan gambar tangan sudah tepat atau 
+belum.
+Ayo Berefleksi
+Mari kita merefleksikan kembali hal-hal apa saja yang telah kita pelajari.
+1. Apakah saya sudah dapat membuat diagram pencar?
+2. Apakah saya sudah dapat menentukan arah, bentuk dan interpretasi tren 
+data dengan membaca diagram pencar?
+B. Regresi Linear 
+1. Pengertian
+Ketika dua variabel kuantitatif pada suatu diagram pencar sudah menunjukkan 
+adanya korelasi, kita dapat menggambar suatu garis yang paling tepat untuk 
+mewakili semua data yang ada. 
+Matematika untuk SMA/SMK Kelas XI
+96
+Ayo Berpikir Kritis
+Perhatikan dan pikirkanlah garis mana yang paling tepat untuk mewakili data 
+pada diagram pencar di bawah ini. Jika menurut kalian tidak ada garis yang 
+tepat, buatlah garis kalian sendiri. Kemukakan alasan yang mendasari pilihan 
+garis kalian.
+Gambar 3.5 Diagram Pencar dan Berbagai Kemungkinan Garis Lurus
+Di antara semua garis yang mungkin dibentuk, hanya ada satu garis yang paling 
+tepat yang disebut sebagai garis best-fit. Garis ini merupakan model linear yang 
+memperkirakan hubungan antara dua variabel kuantitatif pada diagram pencar 
+tersebut. Model regresi yang memberikan hubungan garis lurus antara dua variabel 
+ini disebut regresi linear.
+Gambar 3.6 Contoh Regresi Linear
+0
+12
+6
+18
+24
+20
+40
+60
+80
+100
+0
+300
+400
+200
+500
+100
+10
+12
+14
+16
+18
+20
+22
+24
+26
+600
+700
+800
+28
+x
+y
+x,
+(
+(
+y
+97
+Bab 3 | Statistika
+Gambar 3.6 memberikan contoh bagaimana suatu garis best-fit digambar di 
+antara titik-titik pada diagram pencar. Garis ini tidak harus melalui titik-titik tersebut 
+karena hanya bersifat estimasi. Namun, bisa saja garis melewati satu titik atau lebih 
+pada saat penggambaran. Tapi satu hal yang pasti adalah garis tersebut selalu melewati 
+pasangan titik koordinat rata-rata nilai x dan y, (x, y).
+Ayo Berpikir Kritis
+Dapatkah kalian menggunakan model regresi linear sebagai model dari suatu 
+data bivariat yang mempunyai bentuk tren yang tidak menunjukkan bentuk 
+linear? Gunakan gambar diagram pencar di bawah ini untuk membantu berpikir.
+Gambar 3.7 Tren Data pada Diagram Pencar
+2. Metode Kuadrat Terkecil
+Di dalam proses analisis regresi linear, kita mencoba untuk mencari garis lurus yang 
+paling tepat terhadap titik-titik yang ada pada diagram pencar. Garis lurus itu akan 
+memberikan deskripsi terbaik mengenai hubungan antara variabel independen dan 
+dependen. Ayo lakukan Eksplorasi 3.3 sebagai dasar berpikir mengenai metode ini.
+y2 dan x2
+4
+6
+8
+10
+5,0
+7,5
+10,0
+12,5
+15,0
+4
+6
+8
+10
+y1 dan x1
+5,0
+7,5
+10,0
+12,5
+15,0
+y3 dan x3
+5,5
+7,5
+10,0
+12,5
+5,0
+7,5
+10,0
+12,5
+15,0
+y4 dan x4
+5,0
+7,5
+10,0
+12,5
+10
+15
+20
+Matematika untuk SMA/SMK Kelas XI
+98
+Ayo Bereksplorasi
+Eksplorasi
+3.3
+Suatu sekolah menerapkan program rajin menabung pada seluruh siswanya. Mona 
+tertarik untuk melihat bagaimana hubungan antara uang jajan yang diperoleh teman-
+temannya dan besar uang yang ditabung. Dia memilih satu kelas dan dari kelas 
+tersebut diambil sampel delapan siswa untuk memperoleh data mengenai uang jajan 
+yang diterima dan uang yang ditabung. Data yang diperoleh adalah sebagai berikut.
+Uang jajan
+Uang yang ditabung
+Rp10.000,00
+Rp2.000,00
+Rp40.000,00
+Rp11.000,00
+Rp25.000,00
+Rp8.000,00 
+Rp50.000,00
+Rp14.000,00
+Rp15.000,00
+Rp5.000,00
+Rp35.000,00
+Rp10.000,00 
+Rp30.000,00
+Rp7.000,00
+Rp45.000,00
+Rp15.000,00
+1. 
+Gambarlah diagram pencar dari data di atas.
+2. 
+Gambarlah prediksi garis best-fit dari hubungan antara uang jajan dan uang yang 
+ditabung.
+3. 
+Jelaskan alasan mengapa kalian menggambar garis lurus seperti itu.
+4. 
+Bandingkan prediksi garis best-fit yang telah kalian buat dengan prediksi garis 
+best-fit yang digambar oleh teman-teman kalian serta bandingkan alasan kalian.
+5. 
+Tuliskan kesimpulan dari berbagai ide atau gagasan yang menurut kalian paling 
+tepat untuk menggambar suatu garis best-fit.
+Berdasarkan Eksplorasi 3.3, pasti banyak ide atau gagasan yang berbeda-beda 
+mengenai cara menggambar garis lurus yang tepat. Namun pertanyaannya, apakah 
+ada cara yang paling tepat dalam memutuskan apakah suatu garis sudah tepat atau 
+99
+Bab 3 | Statistika
+tidak? Ternyata ada loh, metode umum untuk menempatkan garis lurus ke data-data 
+hasil observasi disebut sebagai metode kuadrat terkecil.
+Tahukah Kamu?
+?
+Metode kuadrat terkecil ditemukan oleh Carl Friedrich Gauss (1777–1855) dari 
+Jerman, Adrien-Marie Legendre (1752–1833) dari Prancis, dan Robert Adrain 
+(1775–1843) dari Irlandia sekitar 200 tahun yang lalu yang masing-masing 
+bekerja secara terpisah. 
+Wow… nama metodenya seperti istilah operasi matematika sehari-hari yang 
+sering kita dengarkan, ya. Sesuai dengan nama metode itu nanti kalian perlu 
+melakukan operasi kuadrat dan tujuannya adalah untuk menemukan suatu nilai 
+terkecil. Nilai apa yang perlu kita kecilkan hingga sekecil mungkin? Mari kita lihat 
+gambar diagram berikut ini sebagai visualisasi sederhana dari metode ini.
+Gambar 3.8 Garis Regresi dan Residu
+Gambar 3.8 memberikan gambaran bahwa ada selisih antara nilai variabel 
+dependen (y) dari data asli dengan nilai variabel dependen (ˆy yang dibaca y topi) dari 
+garis regresi. Selisih antara nilai variabel dependen yang diamati (y) dan nilai variabel 
+dependen yang diprediksi (ˆy) disebut sebagai residu (ε yang dibaca epsilon). Maka 
+dari itu, rumus residu ditulis sebagai berikut.
+Residu (ε) = y −ˆy
+Menurut kalian, jumlah nilai mutlak residu yang semakin kecil atau semakin 
+besar yang akan membuat suatu model garis regresi semakin tepat? Ya, benar, 
+semakin kecil jumlah nilai mutlak residu ini, maka garis semakin dekat ke data asli 
+yang artinya semakin tepat pula garis yang digambar. 
+0
+12
+6
+18
+24
+20
+40
+60
+80
+100
+Garis regresi
+Residu
+Matematika untuk SMA/SMK Kelas XI
+100
+Meskipun demikian, perhitungan yang dilakukan ternyata tidak cukup hanya 
+menggunakan konsep jumlah nilai mutlak residu, namun harus menggunakan 
+konsep jumlah kuadrat dari nilai residu (rumus tertulis di bawah paragraf ini) seperti 
+pada konsep perhitungan varians suatu data. Konsep jumlah kuadrat dari nilai residu 
+dapat memberikan karakteristik khusus untuk membedakan setiap garis regresi yang 
+mungkin terbentuk dari suatu kumpulan data yang tidak dapat diberikan oleh konsep 
+jumlah nilai mutlak residu.
+Kuadrat residu (ε2) = (y −ˆy)2
+Jumlah kuadrat residu (
+X
+ε2) =
+X
+(y −ˆy)2
+Perlu diingat bahwa setiap kumpulan data mempunyai jumlah kuadrat residu 
+terkecil yang dapat dicapai oleh model garisnya. Dasar inilah yang digunakan dalam 
+penurunan rumus untuk mencari persamaan garis regresi. Akan tetapi, hal ini tidak 
+memungkinkan untuk diajarkan saat ini karena memerlukan ilmu kalkulus lanjutan. 
+Karena itulah buku ini akan berusaha menjelaskannya secara deskriptif. Namun bagi 
+kalian yang tertarik dan ingin belajar lebih lanjut, kalian dapat menemukannya di 
+berbagai buku matematika untuk tingkat universitas atau sumber yang tepat dan baik 
+dari internet.
+Ayo Bereksplorasi
+Ayo kita kembali pada Eksplorasi 3.3 dan melanjutkan lagi aktivitasnya. Kali ini 
+kalian bisa menggunakan kalkulator untuk mempermudah perhitungan.
+6. 
+Dari garis best-fit yang telah kalian gambar, carilah persamaan garisnya dengan 
+mencari gradien terlebih dahulu dan titik potong sumbu y kemudian lakukan 
+substitusi ke dalam persamaan garis lurus ˆy = mx + c di mana m adalah 
+gradien dan c adalah titik potong sumbu y.
+7. 
+Gunakan hasil nomor 6 untuk mencari ˆy dan lengkapilah tabel berikut ini untuk 
+menghitung jumlah kuadrat residu.
+x
+y
+ˆy
+y −ˆy
+(y −ˆy)2
+10.000
+2.000
+40.000
+11.000
+25.000
+8.000 
+101
+Bab 3 | Statistika
+x
+y
+ˆy
+y −ˆy
+(y −ˆy)2
+50.000
+14.000
+15.000
+5.000
+35.000
+10.000 
+30.000
+7.000
+45.000
+15.000
+Jumlah kuadrat residu
+8. 
+Bandingkan hasil jumlah kuadrat residu kalian dengan teman-teman kalian. 
+Prediksi garis best-fit yang mempunyai jumlah kuadrat residu terkecil adalah 
+prediksi garis best-fit yang lebih tepat.
+Latihan
+3.3
+1. 
+Tabel berikut menunjukkan banyak tempat duduk terhadap biaya per jam dari 
+tiga model pesawat terbang yang digunakan oleh maskapai Garuda Indonesia.
+Model Pesawat
+Banyak tempat duduk
+Biaya (rupiah/jam)
+A
+50
+1.100.000,00
+B
+100
+2.100.000,00
+C
+150
+2.700.000,00
+Persamaan garis regresi mana yang lebih tepat untuk memprediksi banyak 
+tempat duduk terhadap biaya?
+ˆy = 367000 + 16000x atau ˆy = 300000 + 16000x
+2. 
+Seorang siswa menyelidiki hubungan antara harga (y rupiah) dari 100 gram 
+cokelat dan persentase kandungan cokelat (x %). Data yang diperoleh disajikan 
+pada tabel berikut.
+Matematika untuk SMA/SMK Kelas XI
+102
+Merek Cokelat
+x (% cokelat)
+y (rupiah)
+A
+10
+3.500,00
+B
+20
+5.500,00
+C
+30
+4.000,00
+D
+35
+10.000,00
+E
+40
+6.000,00
+F
+50
+9.000,00
+G
+60
+11.000,00
+H
+70
+13.000,00
+a. 
+Gambarlah diagram pencar dari data tabel tersebut. 
+ 
+Jika diketahui bahwa persamaan garis regresinya adalah 
+ 
+ˆy = 1700 + 154x.
+b. 
+Gambarlah garis regresinya pada diagram pencar. 
+ 
+Siswa tersebut melihat bahwa ada satu merek cokelat yang harganya terlalu 
+tinggi.
+c. 
+Merek cokelat mana yang dimaksud oleh siswa tersebut? Jelaskan alasannya.
+d. 
+Siswa tersebut ingin memberikan saran harga yang cocok untuk cokelat 
+tersebut. Berapakah prediksi harga yang cocok?
+Eksplorasi 3.3 telah memberikan gambaran umum mengenai garis regresi. 
+Sekarang, mari kita melihat bagaimana pendekatan yang dilakukan untuk memperoleh 
+persamaan garis regresi yang memenuhi syarat dari metode kuadrat terkecil supaya 
+kalian dapat menentukannya sendiri. Sama halnya untuk mendapatkan persamaan 
+garis lurus pada umumnya, persamaan garis regresi sering dituliskan dalam bentuk 
+umum berikut ini.
+ˆy = a + bx
+Bentuk persamaan di atas dibaca sebagai regresi y atas x, di mana: 
+ 
+ˆy adalah nilai variabel dependen yang diprediksi  
+x adalah nilai variabel independen 
+ 
+a adalah titik potong sumbu y  
+b adalah gradien garis regresi
+103
+Bab 3 | Statistika
+Maka dari itu, hal yang perlu dicari adalah nilai a dan b, dan kemudian nilai-nilai 
+tersebut disubstitusikan ke dalam persamaan garis regresi di atas. 
+Nilai b dapat dihitung menggunakan konsep jumlah kuadrat variabel-variabelnya. 
+Ada dua jenis jumlah kuadrat variabel yang akan digunakan dan disingkat menjadi SS 
+yang merupakan singkatan dari “sum of squares” yang berarti jumlah kuadrat, yaitu: 
+1. 
+Jumlah kuadrat selisih variabel independen x terhadap rata-ratanya dan variabel 
+dependen y terhadap rata-ratanya.
+SSxy =
+X
+(x −x) (y −y)  atau  SSxy =
+X
+xy −(P x) (P y)
+n
+2. 
+Jumlah kuadrat selisih variabel independen x terhadap rata-ratanya.
+ SSxx =
+X
+(x −x) (x −x) =
+X
+(x −x)2  atau 
+SSxx =
+X
+x2 −(P x)2
+n
+ 
+Ingat, jika nilai SSxy dan SSxx berdiri sendiri masing-masing maka mereka 
+tidak memiliki makna apa-apa. Mereka hanyalah perhitungan sementara yang 
+digunakan untuk proses perhitungan berikutnya.
+Nilai b dapat dihitung dengan menggunakan kedua jenis jumlah kuadrat di atas 
+sehingga menjadi:
+Tahap berikutnya kita perlu mencari nilai a. Untuk mencari ini, kita perlu 
+mengetahui bahwa salah satu karakteristik garis regresi yang memenuhi syarat metode 
+kuadrat terkecil adalah titik rata-ratanya (x, y) selalu dilalui garis regresi tersebut.
+Oleh karena garis regresi linearnya adalah ˆy = a + bx dan titik (x, y) dilalui 
+garis tersebut maka dapat disubstitusikan sehingga menjadi:
+ˆy = a + bx
+y = a + bx…… substitusi (x, y)
+a = y −bx
+Sesuai dengan persamaan di atas, jadi untuk mencari nilai a kalian perlu mencari 
+nilai x, nilai y dan nilai b terlebih dahulu.
+b = SSxy
+SSxx
+Matematika untuk SMA/SMK Kelas XI
+104
+Setelah memperoleh nilai a dan b, substitusikan nilai-nilai tersebut ke dalam 
+persamaan ˆy = a + bx. Maka akhirnya kalian akan mendapatkan persamaan garis 
+regresinya.
+Ayo kita gunakan tahapan dan rumus di atas untuk menyelesaikan permasalahan 
+pada eksplorasi berikut ini serta menggunakan garis regresi yang diperoleh untuk 
+interpretasi dan analisis lanjutan.
+Ayo Bereksplorasi
+Eksplorasi
+3.4
+Tabel berikut ini berisi informasi dari 12 siswa SMA mengenai rata-rata waktu yang 
+digunakan per hari dalam menggunakan media sosial (Facebook, Twitter, dan lain-
+lain) dan internet untuk bersosialisasi dan hiburan, dan nilai mereka.
+Waktu (jam per 
+hari)
+4,4
+6,2
+4,2
+1,6
+4,7
+5,4
+1,3
+2,1
+6,1
+3,3
+4,4
+3,5
+Nilai
+81
+55
+78
+92
+68
+55
+90
+82
+67
+72
+68
+84
+1. 
+Gambarlah diagram pencar dari data di atas. 
+2. 
+Apakah diagram pencarnya memberikan indikasi bahwa ada hubungan linear 
+antara rata-rata waktu untuk media sosial dan internet dengan nilai?
+3. 
+Tentukan persamaan garis regresinya. Ikutilah tahapan berikut ini.
+a. 
+Hitunglah nilai x dan y
+b. 
+Hitunglah nilai SSxy dan SSxx
+c. 
+Hitunglah nilai b, gradien garis regresi, menggunakan hasil dari a) dan b).
+d. 
+Hitunglah nilai a, titik potong sumbu y, menggunakan hasil dari a) dan c).
+e. 
+Tentukan persamaan garis regresinya dengan menggunakan hasil dari c) 
+dan d).
+4. 
+Interpretasikan masing-masing arti nilai a dan b yang ditemukan pada nomor 3.
+5. 
+Hitunglah prediksi nilai siswa yang menggunakan rata-rata waktu 3,8 jam per 
+hari untuk media sosial dan internet menggunakan persamaan garis regresi yang 
+ditemukan pada nomor 3.
+105
+Bab 3 | Statistika
+6. 
+Hitunglah prediksi nilai siswa yang menggunakan rata-rata waktu 16 jam per 
+hari untuk media sosial dan internet menggunakan persamaan garis regresi yang 
+ditemukan pada nomor 3. Berikan komentar mengenai hasil yang ditemukan.
+Pada Eksplorasi 3.4 nomor 5 kalian telah melakukan suatu proses yang 
+disebut interpolasi. Interpolasi adalah penggunaan hubungan antar variabel untuk 
+memprediksi nilai yang berada di dalam jangkauan data. Sedangkan pada nomor 6 
+kalian telah melakukan suatu proses yang disebut ekstrapolasi. Ekstrapolasi adalah 
+penggunaan hubungan antar variabel untuk memprediksi nilai yang berada di 
+luar jangkauan data dengan asumsi bahwa hubungan ini berlaku meskipun di luar 
+jangkauan data. Tentunya, hasil interpolasi lebih dapat dipercaya dibandingkan 
+dengan ekstrapolasi. 
+Ayo Berkomunikasi
+Coba diskusikan dengan teman-teman kalian, menurut kalian kapan hasil 
+ekstrapolasi cukup dapat dipercaya?
+Latihan
+3.4
+1. 
+Pada saat kondisi mendadak, para pengendara mobil memerlukan waktu yang 
+berbeda-beda untuk dapat bereaksi untuk menginjak rem mobil. Jarak yang 
+diperlukan hingga terjadi reaksi menginjak rem disebut sebagai jarak reaksi. 
+Tabel berikut ini memberikan informasi mengenai jarak reaksi dari mobil yang 
+melaju dengan kecepatan yang berbeda-beda.
+Kecepatan (km/jam)
+Jarak Reaksi (m)
+20
+4,1
+30
+6,2
+40
+8,3
+50
+10,1
+60
+12,4
+70
+14,5
+Matematika untuk SMA/SMK Kelas XI
+106
+a. 
+Gambarlah diagram pencar dari data di atas.
+b. 
+Apakah diagram pencarnya memberikan indikasi bahwa ada hubungan 
+linear antara kecepatan dengan jarak reaksi?
+c. 
+Tentukan persamaan garis regresinya.
+d. 
+Interpretasikan nilai a dan b yang diperoleh pada bagian c).
+e. 
+Hitunglah prediksi jarak reaksi jika suatu mobil bergerak dengan kecepatan 
+35 km/jam.
+f. 
+Hitunglah prediksi jarak reaksi jika suatu mobil bergerak dengan kecepatan 
+55 km/jam.
+2. 
+Tabel berikut ini adalah data mengenai rata-rata tinggi badan anak perempuan 
+yang berumur dari 2–14 tahun. 
+Umur 
+(tahun)
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Rata-rata 
+tinggi (cm)
+89
+98
+105
+112
+118
+123
+131
+136
+143
+151
+155
+160
+161
+a. 
+Gambarlah diagram pencar dari data di atas.
+b. 
+Apakah diagram pencarnya memberikan indikasi bahwa ada hubungan 
+linear antara umur dengan rata-rata tinggi badan?
+c. 
+Tentukan persamaan garis regresinya.
+d. 
+Interpretasikan nilai a dan b yang diperoleh pada bagian c).
+e. 
+Hitunglah prediksi tinggi badan anak perempuan yang berumur 5,8 tahun.
+f. 
+Hitunglah prediksi tinggi badan seorang perempuan yang sudah berumur 
+30 tahun.
+g. 
+Berikan komentar mengenai reliabilitas nilai perkiraan di bagian f).
+Ayo Berteknologi
+Apakah kalian sudah mahir menggunakan aplikasi Microsoft Excel untuk 
+menggambar diagram pencar? Kalian bisa selalu kembali ke bagian panduan 
+untuk melatih ulang keterampilan menggambar diagram pencar. Ayo, kita 
+berlatih kembali.
+107
+Bab 3 | Statistika
+Kali ini kita akan menggunakan aplikasi yang sama untuk membantu menggambar 
+garis regresi linear. Kalian juga bisa langsung tahu persamaan garis regresinya tanpa 
+harus dihitung menggunakan rumus yang telah kalian pelajari sebelumnya. Sangat 
+efisien, bukan? Yuk, perhatikan tahapan di bawah ini. Kita akan menggunakan data 
+yang sama dengan latihan membuat diagram pencar sebelumnya.
+1. 
+Klik salah satu titik data pada diagram, kemudian klik kanan dan pilih “Add 
+Trendline.”
+2. 
+Menampilkan garis regresi linear: Setelah tahapan no.1, akan ada tampilan menu 
+tambahan di sebelah kanan dan pilihlah “Linear” pada Trendline Options.
+Matematika untuk SMA/SMK Kelas XI
+108
+3. 
+Menampilkan persamaan garis regresi linear: pada menu yang sama di sebelah 
+kanan, pada bagian bawahnya ada pilihan untuk menampilkan persamaan garis 
+regresi, pastikan centang “Display Equation on chart” maka kalian dapat melihat 
+bahwa persamaan garis regresi sudah ditampilkan pada diagram.
+Mudah, bukan? Jika sudah terbiasa, maka tahapan ini hanya akan memerlukan 
+waktu hitungan detik saja untuk menggambar garis regresi dan menemukan 
+persamaan garis regresinya. 
+Ayo Berpikir Kritis
+Ayo bandingkan persamaan garis yang diberikan oleh Microsoft Excel dengan 
+hasil perhitungan persamaan garis regresi menggunakan rumus.
+1. Apakah jawaban kalian sama atau berbeda?
+2. Jika jawabannya berbeda, apa penyebab perbedaan tersebut?
+3. Interpretasikan nilai koefisien dari variabel x pada garis regresi yang kalian 
+dapatkan dikaitkan dengan rata-rata waktu dan banyak subscribers.
+4. Berapa banyak subscribers dari seorang YouTuber yang bekerja dengan rata-
+rata waktu 5 jam per hari?
+109
+Bab 3 | Statistika
+Ayo Berkomunikasi
+Jika memang penggunaan teknologi akan mempermudah segala hal baik dalam 
+menggambar diagram pencar, menggambar garis regresi dan menemukan 
+persamaan garis regresi, kenapa kalian masih harus melakukan semua hal di atas 
+secara manual dengan menggunakan gambar tangan dan menggunakan rumus?
+Ayo Berefleksi
+Mari kita merefleksikan kembali hal-hal apa saja yang telah kita pelajari.
+1. Apakah saya sudah bisa menentukan persamaan garis regresi?
+2. Apakah saya sudah bisa memberikan interpretasi komponen garis regresi, 
+yaitu gradien dan titik potong sumbu y?
+3. Apakah saya sudah bisa melakukan proses interpolasi dan ekstrapolasi?
+C. Analisis Korelasi
+1. Pengertian
+Analisis korelasi merupakan salah satu metode statistika yang paling banyak 
+digunakan di dalam berbagai penelitian ilmiah. Sejauh ini kalian sudah dapat 
+menemukan persamaan garis regresi untuk data bivariat dan kalian juga sudah tahu 
+bahwa garis regresi yang ditemukan dengan perhitungan rumus yang diberikan 
+adalah garis yang sudah paling tepat mewakili data yang ada. Meskipun demikian, 
+kita masih ada kendala untuk interpretasi lebih lanjut jika hanya menggunakan garis 
+tersebut. Sebagai pemanasan, diskusikan dengan teman-teman kalian pertanyaan di 
+bawah ini.
+Ayo Berkomunikasi
+Setiap manusia pasti mempunyai ukuran tinggi badan. Namun, apa dasarnya 
+ketika kalian mengatakan bahwa seseorang memiliki badan yang tinggi atau 
+pendek? Berikan contoh dan alasan kalian.
+Matematika untuk SMA/SMK Kelas XI
+110
+Kalian pasti menyadari bahwa untuk menyatakan tinggi atau pendek, kalian 
+memerlukan suatu standar dan standar itu sangat bervariasi perbedaannya satu orang 
+dengan yang lainnya. Ketika kita mengambil kesimpulan dari suatu data, tentunya 
+kita perlu suatu standar yang pasti agar setiap orang tidak mengambil kesimpulan 
+yang berbeda-beda. Oleh karena itu, suatu korelasi memiliki suatu standar nilai 
+tingkat korelasi. Nilai ini merupakan ukuran deskriptif numerik dari korelasi yang 
+disebut koefisien korelasi. Koefisien ini akan memberikan informasi arah tren data 
+dan sekaligus tingkat korelasinya apakah kuat, sedang, atau lemah.
+Selain dari analisis di atas, kita perlu mengetahui seberapa tepat suatu garis 
+regresi terhadap data asli. Kalian sudah mempelajarinya, bukan? Ingatkah kalian 
+mengenai jumlah kuadrat residu terkecil? Ternyata ada hal yang bisa lebih tepat 
+untuk menentukan ketepatan suatu garis. Hal ini dapat dilihat dari berapa proporsi 
+(persentase) dari variabel dependen yang diterangkan oleh variabel independen yang 
+disebut sebagai koefisien determinasi. 
+Ayo Berkomunikasi
+Mengapa kita masih memerlukan koefisien determinasi meskipun sudah ada 
+konsep jumlah kuadrat residu terkecil? Diskusikan dengan dasar kesimpulan 
+pada diskusi sebelumnya.
+Sekarang sudah tahu, kan, kenapa kita perlu mempelajari analisis korelasi lebih 
+lanjut? Ayo kita pelajari satu per satu secara lebih mendalam mengenai koefisien 
+korelasi dan koefisien determinasi dan apa hubungan antara keduanya.
+2. Korelasi Product Moment
+Pada bagian ini kalian akan diperkenalkan mengenai konsep koefisien korelasi. 
+Koefisien korelasi yang akan kalian gunakan adalah Korelasi Product Moment. 
+Terkadang nama penemunya juga dimasukkan ke dalam nama korelasi ini sehingga 
+menjadi Korelasi Pearson Product Moment atau Koefisien Korelasi Pearson. 
+Koefisien korelasi ini merupakan jenis koefisien korelasi yang paling umum 
+digunakan.
+111
+Bab 3 | Statistika
+Tahukah Kamu?
+?
+Karl Pearson (1895–1980) merupakan seseorang yang 
+tertarik pada banyak cabang ilmu termasuk matematika, 
+fisika, agama, sejarah, sosial, dan lainnya. Pearson 
+dilahirkan dan besar di London. Karl Pearson banyak 
+berkarya dalam ilmu statistika sehingga banyak ahli 
+statistika yang mengaguminya. Selain berkontribusi 
+dalam menemukan koefisien korelasi Pearson (r), ia 
+juga yang memperkenalkan istilah standar deviasi atau 
+simpangan baku (σ) yang pastinya sudah tidak asing lagi 
+bagi kalian.
+Ayo, kita melihat bagaimana cara kalian dapat menemukan nilai koefisien 
+korelasi ini.
+Konsep korelasi product moment ini tidak jauh dari konsep yang sering kita 
+gunakan yaitu jumlah kuadrat. Terakhir, kalian telah mempelajari dua jenis jumlah 
+kuadrat variabel yaitu SSxy dan SSxx dengan masing-masing artinya. Kali ini kita 
+akan menggunakan tiga jenis jumlah kuadrat di mana terdapat tambahan satu lagi 
+dari yang sebelumnya. Ketiga jenis tersebut yaitu:
+1. 
+Jumlah kuadrat selisih variabel independen x terhadap rata-ratanya dan variabel 
+dependen y terhadap rata-ratanya.
+SSxy =
+X
+(x −x) (y −y) atau SSxy =
+X
+xy −(P x) (P y)
+n
+2. 
+Jumlah kuadrat selisih variabel independen x terhadap rata-ratanya.
+SSxx =
+X
+(x −x) (x −x) =
+X
+(x −x)2 atau
+ SSxx =
+X
+x2 −(P x)2
+n
+ 
+3. 
+Jumlah kuadrat selisih variabel dependen y terhadap rata-ratanya.
+ SSyy =
+X
+(y −y) (y −y) =
+X
+(y −y)2 atau 
+SSyy =
+X
+y2 −(P y)2
+n
+Gambar 3.9 Karl Pearson
+Sumber: en.wikipedia.org/wiki 
+(2021)
+Matematika untuk SMA/SMK Kelas XI
+112
+Untuk menghitung nilai Korelasi Product Moment (r), substitusikan nilai dari 
+ketiga jenis jumlah kuadrat ke dalam rumus Korelasi Product Moment di bawah ini.
+r =
+SSxy
+p
+SSxxSSyy
+Nilai r yang diperoleh akan selalu berada pada interval −1 ≤r ≤1. 
+Ayo, kita lihat bagaimana kalian dapat menginterpretasikan nilai r yang diperoleh 
+dari perhitungan dengan rumus di atas dan hubungannya dengan diagram pencarnya.
+Ayo Berteknologi
+Gunakan tautan atau kode QR berikut ini sebagai simulasi untuk 
+melihat bagaimana garis regresi akan bergerak dan bagaimana 
+nilai koefisien korelasinya berubah terhadap penyebaran 
+datanya. Gunakan Gambar 3.10 dan 3.11 di bawah ini sebagai 
+bahan referensi tambahan ketika melakukan simulasi.  
+https://www.geogebra.org/m/XJ4t8bch
+x
+y
+r = 1
+x
+y
+r = -1
+x
+y
+r = 0
+a) Korelasi positif  
+sempurna
+b) Korelasi negatif 
+sempurna
+c) Tidak berkorelasi  
+linear
+Gambar 3.10 Nilai r dan Hubungan Antara Dua Variabel
+113
+Bab 3 | Statistika
+0 < r < 1
+x
+y
+x
+y
+a) Korelasi positif kuat 
+    (r positif mendekati 1)
+b) Korelasi positif lemah 
+     (r positif namun mendekati 0)
+−1 < r < 0
+x
+y
+r = -1
+x
+y
+r = 0
+c) Korelasi negatif kuat
+    (r negatif mendekati –1)
+d) Korelasi negatif lemah
+    (r negatif namun mendekati 0)
+Gambar 3.11 Hubungan Nilai r dan Penyebaran Data dari Garis Regresi
+Ayo Berkomunikasi
+Kesimpulan apa yang dapat kalian ambil dari Gambar 3.10 di atas mengenai 
+nilai r ?
+1. Jika tetap dipaksakan, apakah kalian tetap dapat menggambar suatu garis 
+regresi pada data di Gambar 3.10 c)? Berikan alasan kalian.
+2. Kesimpulan apa yang dapat kalian ambil dari Gambar 3.11 di atas mengenai 
+nilai r ?
+Terlihat bahwa jika nilai mutlak dari r semakin mendekati 0 (semakin kecil), 
+maka semakin lemah atau tidak ada korelasi antara variabel x dan y, sedangkan jika 
+nilai mutlak dari r semakin mendekati 1 (semakin besar), maka semakin kuat korelasi 
+antara variabel x dan y.
+Mengapa kita menggunakan konsep mutlak dari r ? Perlu diingat bahwa nilai r = 
+–0,97 memiliki korelasi yang lebih kuat dibanding nilai r = 0,62 karena tanda negatif 
+di depan angka hanya menunjukkan arah tren data yang berkorelasi negatif.
+Matematika untuk SMA/SMK Kelas XI
+114
+Supaya suatu nilai r dapat mendeskripsikan lebih jelas tentang suatu korelasi antar 
+dua variabel, maka terkadang nilai koefisien korelasi r sering dibuat dalam interval 
+tertentu dengan deskripsi tingkat hubungan korelasi masing-masing. Perhatikan tabel 
+berikut ini sebagai pedoman menentukan deskripsi tingkat hubungan korelasi.
+Tabel 3.2 Tingkat Hubungan Koefisien Korelasi 
+Nilai r
+Tingkat Korelasi
+0
+Tidak ada korelasi
+–0,3 ≤ r < 0 dan 0 < r ≤ 0,3 
+Lemah
+–0,7 ≤ r < –0,3 dan 0,3 < r ≤ 0,7
+Sedang/Cukup
+–1 < r < –0,7 dan 0,7 < r < 1
+Kuat
+–1 dan 1 
+Sempurna
+Rentang nilai r dan deskripsi yang tertera pada tabel di atas merupakan salah satu 
+model saja yang digunakan untuk mendeskripsikan tingkat hubungan korelasi antara 
+dua variabel. Jika kalian mencari di berbagai buku atau sumber lainnya, maka kalian 
+akan memperoleh model yang berbeda lagi karena adanya perbedaan rentang dan 
+derajat tingkat hubungan korelasi.
+Ayo kita gunakan rumus dan interpretasi nilai r di atas untuk menyelesaikan 
+permasalahan pada eksplorasi berikut ini.
+Ayo Bereksplorasi
+Eksplorasi
+3.5
+Persiapan: pita pengukur atau meteran
+Leonardo da Vinci adalah seorang ilmuwan dan 
+seniman 
+yang 
+menggabungkan 
+keterampilan 
+ini 
+untuk menyusun instruksi untuk seniman lain tentang 
+bagaimana proporsi tubuh manusia dalam lukisan dan 
+patung. Tiga dari aturan Leonardo adalah:
+Gambar 3.12 Leonardo da Vinci
+Sumber: gettyimages.com/mikroman6
+115
+Bab 3 | Statistika
+• 
+tinggi badan sama dengan panjang rentang lengan terentang;
+• 
+tinggi saat berlutut adalah tiga perempat dari tinggi berdiri;
+• 
+panjang tangan (dari pergelangan ke ujung jari tengah) adalah sepersembilan 
+dari tinggi badan.
+Ayo Bekerja Sama
+1. Bekerja sama dengan teman-teman kalian untuk mengukur tinggi badan, 
+tinggi saat berlutut, rentang lengan terentang, dan panjang tangan. 
+Gabungkan data-data kalian dalam suatu tabel.
+2. Periksa tiga aturan Leonardo secara visual dengan membuat tiga diagram 
+pencar yang berbeda. 
+3. Untuk gambar diagram pencar yang memiliki bentuk tren linear, tentukan 
+persamaan garis regresinya dan nilai koefisien korelasi r.
+4. Interpretasikan nilai gradien dari garis regresi masing-masing.
+5. Interpretasikan nilai koefisien korelasi r masing-masing.
+6. Apakah ketiga hubungan yang digambarkan oleh Leonardo berlaku? 
+Bagaimana tingkat hubungan korelasinya?
+Penguatan Karakter
+Dalam konteks eksplorasi ini, kita dapat melihat bawah manusia adalah ciptaan 
+Tuhan yang indah. Kita mempunyai kondisi fisik yang berbeda-beda, namun 
+dalam suatu dasar hukum alam yang sama. Marilah kita menjaga tubuh kita 
+dengan baik dan hargailah kondisi fisik orang-orang di sekitar kita karena kita 
+semua sama derajatnya di hadapan Tuhan.
+Berdasarkan Eksplorasi 3.5, kalian sudah menerapkan koefisien korelasi 
+untuk analisis korelasi yang kalian temukan dalam suatu permasalahan nyata yaitu 
+memastikan klaim atau pernyataan dari seseorang apakah berlaku secara umum atau 
+tidak. Masih ingatkah kalian mengenai diskusi tentang pengaruh atau akibat dari 
+kebakaran hutan pada awal bab ini? Jika kalian mempunyai data yang tepat, maka 
+dengan ilmu statistika yang telah kalian pelajari hingga saat ini, kalian sudah dapat 
+mengambil suatu kesimpulan yang baik dan tepat.
+Matematika untuk SMA/SMK Kelas XI
+116
+Kalian pasti juga sudah mendapat gambaran bagaimana hubungan antara suatu 
+kejadian, data yang diperoleh, sketsa diagram pencar, nilai r dan interpretasinya. Ayo 
+berpikir lebih jauh mengenai kemungkinan kejadian jika hanya diberikan kondisi 
+nilai r.
+Ayo Berpikir Kreatif
+Berikan kasus dalam kehidupan nyata yang melibatkan hubungan dua variabel 
+dalam kondisi berikut ini. 
+1. r bernilai positif dengan hubungan kuat
+2. r bernilai positif dengan hubungan sedang/cukup
+3. r bernilai negatif dengan hubungan kuat
+4. r bernilai negatif dengan hubungan lemah
+Latihan
+3.5
+1. 
+Pasangkan kelima diagram pencar berikut ini dengan nilai korelasinya, dengan 
+pilihan –0,95; –0,5; 0; 0,5; dan 0,95.
+a. 
+b. 
+c. 
+d. 
+e. 
+0
+4
+5
+3
+2
+1
+1
+2
+3
+4
+5
+1
+0
+2
+3
+4
+5
+6
+4
+5
+6
+3
+2
+1
+0
+4
+5
+3
+2
+1
+1
+2
+3
+4
+5
+0
+4
+5
+3
+2
+1
+1
+2
+3
+4
+5
+117
+Bab 3 | Statistika
+2. 
+Berikut ini adalah 8 kumpulan data buatan. Tentukan nilai r untuk setiap 
+kumpulan data, jika memungkinkan tanpa perlu menghitung. Gambarlah sketsa 
+diagram pencarnya untuk membantu penentuan nilai r ini.
+a. 
+x
+y
+–1
+–1
+0
+0
+1
+1
+b.
+x
+y
+–1
+–1
+0
+1
+1
+0
+c.
+x
+y
+–1
+0
+1
+0
+1
+–1
+d.
+x
+y
+–1
+1
+0
+0
+1
+–1
+e. 
+x
+y
+99
+9
+100
+10
+101
+11
+f.
+x
+y
+15
+30
+20
+40
+25
+20
+g.
+x
+y
+1003
+80
+1005
+82
+1009
+81
+h.
+x
+y
+9,9
+1000
+10
+2000
+10,1
+0
+3. 
+Tabel berikut ini merupakan daftar nilai ujian tengah semester dan 
+nilai ujian akhir semester pelajaran Matematika dari 7 siswa di kelas XI. 
+Nilai ujian tengah semester
+79
+95
+81
+66
+87
+94
+59
+Nilai ujian akhir semester
+85
+97
+78
+76
+94
+84
+67
+a. 
+Menurut kalian apakah nilai ujian tengah semester dan nilai ujian akhir 
+semester akan berkorelasi positif atau negatif?
+b. 
+Gambarlah diagram pencarnya.
+c. 
+Dengan melihat pada diagram pencarnya, bagaimana nilai koefisien korelasi 
+yang tepat menurut kalian, apakah mendekati 0, 1 atau –1?
+d. 
+Hitunglah nilai r. Apakah nilai r yang diperoleh sesuai dengan prediksi 
+kalian di bagian a) dan c)?
+4. 
+Seorang pemilik toko es krim lokal di Bekasi ingin menentukan apakah suhu 
+udara berpengaruh terhadap bisnisnya. Tabel berikut ini berisi data suhu udara 
+pada pukul 12.00 selama 10 hari berturut-turut tanpa hujan pada musim kemarau 
+dan jumlah pembeli yang dapat membeli es krim di toko tersebut. 
+Suhu udara (oC)
+30
+27,2 33,3 32,2 36,1 35,6 31,7 31,7 30,6 28,9
+Pembeli (orang)
+317
+355
+463
+419
+507
+482
+433
+388
+362
+340
+Matematika untuk SMA/SMK Kelas XI
+118
+a. 
+Dengan suhu udara sebagai variabel independen dan banyak pembeli sebagai 
+variabel dependen, hitunglah nilai dari SSxy, SSxx dan SSyy .
+b. 
+Gambarlah diagram pencarnya.
+c. 
+Apakah diagram pencarnya memberikan gambaran hubungan positif atau 
+negatif antara suhu udara dan banyak pembeli?
+d. 
+Tentukan persamaan garis regresinya dalam bentuk ˆy = a + bx.
+e. 
+Berikan interpretasi arti nilai a dan b pada perhitungan d).
+f. 
+Hitunglah nilai koefisien korelasi r.
+g. 
+Berikan interpretasi nilai r terhadap korelasi antara suhu udara dan banyak 
+pembeli.
+h. 
+Berikan prediksi berapa banyak pembeli pada saat suhu udaranya 22,8oC. 
+Jelaskan apakah prediksi kalian sudah tepat berdasarkan gambar pada 
+bagian b)? 
+3. Koefisien Determinasi
+Pada bagian ini kita akan mempelajari nilai yang menyatakan seberapa tepat suatu 
+garis regresi dari perspektif proporsi (persentase) dari variabel dependen yang 
+diterangkan oleh variabel independen yang disebut sebagai koefisien determinasi. 
+Simbol yang digunakan adalah r2. 
+Kalian telah mempelajari mengenai koefisien korelasi yang mempunyai simbol r, 
+sehingga akan sangat mudah untuk memperoleh nilai koefisien determinasi (r2) yaitu 
+hanya dengan menguadratkan koefisien korelasi (r) atau kalian dapat menggunakan 
+jumlah kuadrat variabel (SSxy, SSxx, dan SSyy ) seperti perhitungan pada koefisien 
+korelasi (r) kemudian substitusikan ke dalam rumus koefisien determinasi (r2) di 
+bawah ini.
+ 
+Ayo kita lihat rentang nilai yang pasti akan kalian dapatkan ketika menghitung 
+koefisien determinasi (r2).
+Karena nilai r mempunyai rentang nilai −1 ≤r ≤1, maka r2 mempunyai 
+rentang nilai 0 ≤r ≤1.
+r =
+SSxy
+p
+SSxxSSyy
+r2 =
+SSxy
+2
+SSxxSSyy
+119
+Bab 3 | Statistika
+Ayo Berpikir Kritis
+Buktikan dengan perhitungan rentang nilai r2 dengan dasar rentang nilai r.
+Nilai koefisien determinasi (r2) yang mempunyai rentang nilai 0 ≤r ≤1 
+sering diubah ke persentase dengan dikalikan dengan 100 untuk proses interpretasi 
+persentase dari variabel dependen yang diterangkan oleh variabel independen sesuai 
+dengan definisinya. Sebagai contoh, pada konteks di awal bab mengenai hubungan 
+waktu rata-rata yang didedikasikan per hari dengan banyak subscribers, nilai r2 
+yang diperoleh dari data yang disajikan adalah 0,8988. Nilai r2 pada model tersebut 
+memberikan gambaran bahwa 89,88% dari banyak subscribers diterangkan oleh waktu 
+rata-rata yang didedikasikan per hari, dengan sisanya sebesar 10,12% dari banyak 
+subscribers diterangkan oleh variabel-variabel lainnya.
+Ayo kita gunakan konsep di atas pada eksplorasi berikut ini.
+Ayo Bereksplorasi
+Eksplorasi
+3.6
+Diagram 
+pencar 
+di 
+bawah 
+ini 
+menunjukkan tingkat IQ seseorang 
+terhadap lingkar kepalanya dalam 
+cm dari sampel 20 orang. Rata-rata 
+IQ adalah 101 dan rata-rata lingkar 
+kepala adalah 56,125 cm. Nilai 
+koefisien korelasinya adalah 0,138.
+1. 
+Jika kalian tidak mengetahui apa-
+apa mengenai hubungan antara 
+IQ dan lingkar kepala, menurut 
+kalian berapa IQ seseorang yang 
+lingkar kepalanya 54 cm?
+2. 
+Persamaan garis regresinya adalah IQ = 0,997 × lingkar kepala + 45. Berapa 
+perubahan IQ seseorang ketika lingkar kepala bertambah 1 cm?
+52
+53
+54
+55
+56
+57
+58
+59
+60
+85
+100
+105
+95
+110
+90
+115
+120
+130
+125
+Lingkar Kepala (cm)
+Kecerdasan Intelektual (IQ)
+Gambar 3.13 Hubungan Antara Lingkar Kepala dan IQ
+Matematika untuk SMA/SMK Kelas XI
+120
+3. 
+Berapa IQ yang diprediksi persamaan garis ini untuk seseorang dengan lingkar 
+kepala 54 cm? Seberapa besar keyakinan kalian terhadap prediksi ini?
+4. 
+Berapa persentase IQ yang diterangkan oleh lingkar kepala?
+5. 
+Berapa persentase IQ yang diterangkan oleh variabel-variabel lainnya?
+6. 
+Ayo Berpikir Kreatif
+ 
+Menurut kalian, variabel-variabel lain apakah yang menerangkan tingkat IQ 
+seseorang?
+Berdasarkan Eksplorasi 3.6, kalian dapat melihat bahwa proses analisis korelasi 
+tidak terlepas satu dengan yang lainnya dimulai dari diagram pencar, persamaan garis 
+regresi, nilai koefisien korelasi, dan nilai koefisien determinasi. Semua hal tersebut 
+digabungkan untuk memberikan prediksi yang tepat dan meyakinkan.
+Penguatan Karakter
+Ingatlah bahwa ilmu statistika bukan hanya sekadar menghitung dan 
+menggunakan rumus, tetapi kalian perlu mengerti apa yang kalian hitung dan 
+apa interpretasi hasil hitungan tersebut. Semua hal itu akan kalian gunakan 
+untuk memprediksi dan membuat kesimpulan yang tepat supaya kesimpulan 
+tersebut dapat bermanfaat dan berkontribusi di dalam pengembangan ilmu 
+pengetahuan, sosial dan bernegara.
+Latihan
+3.6
+1. 
+Nyoman mengumpulkan data mengenai kandungan lemak (gram) dan kalori 
+pada tujuh jenis pizza pada tabel berikut. Dengan menggunakan data di bawah 
+ini, Nyoman memperoleh nilai koefisien determinasi sebesar 0,8242. Apa 
+interpretasi dari nilai tersebut dalam konteks kandungan lemak (gram) dan 
+kalori?
+121
+Bab 3 | Statistika
+Lemak (gram)
+Kalori
+9,0
+230
+19,5
+385
+14,0
+280
+12,0
+305
+8,0
+230
+14,2
+350
+15,0
+370
+2. 
+Tabel berikut ini memberikan informasi mengenai kandungan gula (gram) dan 
+jumlah kalori dalam satu sajian dari 13 sampel suatu merek sereal.
+Gula 
+(gram)
+4
+15
+12
+11
+8
+6
+7
+2
+7
+14
+20
+3
+13
+Kalori
+120 200 140 110 120
+80
+190 100 130 190 190 110 120
+a. 
+Hitunglah nilai koefisien determinasinya.
+b. 
+Berikan interpretasi dari nilai koefisien determinasi yang didapatkan pada 
+bagian a).
+Ayo Berteknologi
+Apakah kalian sudah mahir menggunakan aplikasi Microsoft Excel untuk 
+menggambar diagram pencar, memunculkan garis regresi, dan persamaan garis 
+regresi? Kalian bisa selalu kembali ke bagian panduan untuk melatih ulang 
+keterampilan untuk menggambar diagram pencar, memunculkan garis regresi, 
+dan persamaan garis regresi. Ayo, kita melatih kembali.
+Kali ini kita akan menggunakan aplikasi yang sama untuk membantu kita dalam 
+menentukan nilai koefisien determinasi (r2). Sangat efisien, bukan? Yuk, perhatikan 
+tahapan di bawah ini. Kita akan menggunakan data yang sama dengan latihan 
+membuat diagram pencar, memunculkan garis regresi, dan persamaan garis regresi 
+sebelumnya.
+Matematika untuk SMA/SMK Kelas XI
+122
+Untuk menampilkan nilai koefisien determinasi (r2), pada menu di sebelah 
+kanan sama seperti saat menampilkan garis regresi dan persamaan garis regresinya, 
+pada bagian bawahnya ada pilihan untuk menampilkan nilai r2, pastikan centang 
+“Display R-squared value on chart” maka kalian dapat melihat bahwa nilai r2 sudah 
+ditampilkan pada diagram.
+Mudah, bukan? Jika sudah terbiasa maka tahapan ini hanya akan menggunakan 
+waktu hitungan detik saja untuk menentukan nilai koefisien determinasi (r2). Namun, 
+yang menjadi pertanyaannya adalah apakah ada menu sederhana untuk menampilkan 
+nilai koefisien korelasi (r) seperti untuk menampilkan nilai koefisien determinasi (r2)? 
+Sayangnya memang Microsoft Excel tidak menyediakan menu sederhana untuk ini. 
+Akan tetapi, bukannya mudah ya untuk menemukan nilai r jika sudah diberikan 
+nilai r2?
+Ayo Berpikir Kritis
+Meskipun Microsoft Excel tidak memberikan menu sederhana untuk 
+menampilkan nilai r, bagaimana caranya agar kalian dapat mendapatkan nilai r 
+dari nilai r2 yang ditampilkan?
+123
+Bab 3 | Statistika
+Tahukah Kamu?
+?
+Kalian juga bisa memperoleh nilai r dengan menggunakan sintaks di Microsoft 
+Excel yaitu dengan mengetikkan =CORREL(array1;array2) dengan array1 diisi 
+dengan deretan data variabel independen x dan array2 diisi dengan deretan data 
+variabel dependen y.
+Ayo Berteknologi
+Mata uang Indonesia, yaitu rupiah, pasti memiliki nilai tukar terhadap berbagai 
+mata uang asing. Dikatakan bahwa salah satu hal yang memengaruhi nilai tukar 
+mata uang adalah tingkat inflasi di suatu negara. Ayo, kita coba cari tahu apakah 
+benar bahwa tingkat inflasi memengaruhi nilai tukar rupiah terhadap mata 
+uang asing dan seberapa berpengaruh terhadap nilai tukar rupiah berdasarkan 
+koefisien determinasi yang ditemukan nantinya. Setelah itu, carilah variabel-
+variabel apa lagi yang mungkin memengaruhi nilai tukar rupiah.
+Untuk kasus ini, mari kita gunakan nilai tukar rupiah terhadap dolar AS. Berikut 
+ini adalah data inflasi bulanan di Indonesia dan nilai tukar rupiah terhadap dolar 
+AS pada setiap akhir bulan pada tahun 2020. Kalian juga dapat menggunakan data 
+tahun-tahun sebelumnya atau sesudahnya dari sumber yang tertera agar analisis 
+kalian lebih tepat lagi. Gunakanlah teknologi seperti Microsoft Excel dan lainnya 
+untuk mempermudah analisis kalian.
+Tabel 3.3 Tingkat Inflasi dan Nilai Tukar Rupiah Terhadap Dolar AS pada Tahun 2020
+Bulan
+Tingkat inflasi
+Nilai tukar rupiah terhadap 
+dolar AS
+Januari
+2,68%
+Rp13.662,00
+Februari
+2,98%
+Rp14.234,00
+Maret
+2,96%
+Rp16.367,00
+April
+2,67%
+Rp15.157,00
+Mei
+2,19%
+Rp14.733,00
+Matematika untuk SMA/SMK Kelas XI
+124
+Bulan
+Tingkat inflasi
+Nilai tukar rupiah terhadap 
+dolar AS
+Juni
+1,96%
+Rp14.302,00
+Juli
+1,54%
+Rp14.653,00
+Agustus
+1,32%
+Rp14.554,00
+September
+1,42%
+Rp14.918,00
+Oktober
+1,44%
+Rp14.690,00
+November
+1,59%
+Rp14.128,00
+Desember
+1,68%
+Rp14.105,00
+Sumber: www.bi.go.id (2021)  
+www.statistik.kemendag.go.id (2021)
+Ayo Berefleksi
+Mari kita merefleksikan kembali hal-hal apa saja yang telah kita pelajari.
+1. Apakah saya sudah bisa menghitung nilai koefisien korelasi?
+2. Apakah saya sudah bisa menginterpretasikan nilai koefisien korelasi?
+3. Apakah saya sudah bisa menghitung nilai koefisien determinasi?
+4. Apakah saya sudah bisa menginterpretasikan nilai koefisien determinasi?
+5. Apakah saya sudah bisa menjelaskan hubungan antara koefisien korelasi 
+dan koefisien determinasi?
+6. Apakah saya sudah bisa mengolah, menginterpretasikan, dan menyimpulkan 
+hasil pengolahan suatu data secara benar dan efektif dengan menggunakan 
+diagram pencar, arah dan bentuk tren data, persamaan garis regresi, koefisien 
+korelasi, dan koefisien determinasi?
+125
+Bab 3 | Statistika
+Uji Kompetensi
+1. 
+Pada setiap diagram pencar di bawah ini:
+Tentukan:
+a. 
+Apakah ada hubungan antara variabel x dan y?
+b. 
+Jika ya, apakah hubungannya linear atau kurva/non-linear?
+c. 
+Apakah hubungannya positif atau negatif?
+2. 
+Untuk setiap pasangan variabel berikut ini, berikan pendapat kalian apakah 
+mereka mempunyai korelasi positif, korelasi negatif atau tidak berkorelasi 
+(korelasi mendekati 0).
+a. 
+Bunga dan banyak pinjaman bank
+b. 
+Tinggi badan dan IQ
+c. 
+Tinggi badan dan ukuran sepatu
+d. 
+Banyak pohon dan tingkat polusi
+Diagram 1
+30
+60
+70
+50
+80
+40
+90
+100
+110
+y
+x
+40
+30
+50
+60
+70
+80
+90
+100
+110
+Diagram 2
+30
+60
+70
+50
+80
+40
+90
+100
+110
+y
+x
+40
+30
+50
+60
+70
+80
+90
+100
+110
+Diagram 3
+30
+60
+70
+50
+80
+40
+90
+100
+110
+y
+x
+40
+30
+50
+60
+70
+80
+90
+100
+110
+Diagram 4
+30
+60
+70
+50
+80
+40
+90
+100
+110
+y
+x
+40
+30
+50
+60
+70
+80
+90
+100
+110
+Matematika untuk SMA/SMK Kelas XI
+126
+3. 
+Sebuah perusahaan manufaktur mobil ingin menyelidiki bagaimana harga salah 
+satu model mobilnya terdepresiasi (penurunan) seiring bertambahnya usia 
+mobil. Departemen riset di perusahaan mengambil sampel delapan mobil model 
+ini dan mengumpulkan informasi berikut tentang usia (dalam tahun) dan harga 
+(dalam jutaan rupiah) mobil-mobil ini.
+Usia (tahun)
+8
+3
+6
+9
+2
+5
+6
+3
+Harga (jutaan rupiah)
+45
+210
+100
+33
+267
+134
+109
+235
+a. 
+Gambarlah diagram pencar dari data di atas.
+b. 
+Apakah diagram pencarnya memberikan indikasi bahwa ada hubungan 
+linear antara usia dan harga mobil?
+c. 
+Tentukan persamaan garis regresinya di mana harga sebagai variabel 
+dependen dan usia sebagai variabel independen.
+d. 
+Interpretasikan nilai a dan b yang diperoleh pada bagian c).
+e. 
+Hitunglah prediksi harga mobil yang berusia 7 tahun.
+f. 
+Hitunglah prediksi harga mobil yang berusia 18 tahun.
+g. 
+Berikan komentar kalian mengenai hasil perhitungan bagian g).
+4. 
+Setiap diagram pencar di bawah ini dibuat pada sumbu x dan y yang sama. 
+Pasangkan setiap diagram pencar berikut ini dengan nilai korelasinya, dengan 
+pilihan –0,06; 0,25; 0,40; 0,52; 0,66; 0,74; 0,85; dan 0,90.
+a. 
+b. 
+c. 
+d. 
+e. 
+f. 
+g. 
+h. 
+127
+Bab 3 | Statistika
+5. 
+Untuk setiap kumpulan pasangan data di bawah ini, hitunglah nilai koefisien 
+korelasinya.
+a. 
+(–2, –1), (–1, 1), (0, 0), (1, 1), (2, 1)
+b. 
+(–2, 2), (0, 2), (0, 3), (0, 4), (2, 4)
+6. 
+Pada pelajaran Biologi, siswa bekerja sama dalam kelompok-kelompok untuk 
+menghitung korelasi antara suhu udara dan berapa kecepatan bunyi mengerik 
+seekor jangkrik. Setiap kelompok menggunakan jangkrik dan berada pada suhu 
+yang sama, tetapi ada kelompok yang menggunakan pengukuran suhu dalam 
+Fahrenheit (oF) dan beberapa menggunakan Celcius (oC). Ada kelompok yang 
+mengukur kecepatan bunyi mengerik dalam berapa kali mengerik per detik dan 
+ada yang berapa kali mengerik per menit. Ada kelompok yang menggunakan 
+variabel x sebagai suhu udara dan variabel y sebagai berapa kali mengerik per 
+satuan waktu sedangkan ada kelompok yang membaliknya.
+a. 
+Apakah semua siswa akan memperoleh gradien yang sama pada garis regresi 
+linearnya? Jelaskan alasan kalian.
+b. 
+Apakah semua kelompok akan memperoleh nilai yang sama untuk koefisien 
+korelasi? Jelaskan alasan kalian.
+7. 
+Gambarlah diagram pencar dan hitunglah nilai r dan r2 dari setiap kumpulan 
+data berikut ini.
+a. 
+x
+–2
+–1
+0
+1
+2
+y
+–2
+1
+2
+5
+6
+b. 
+x
+0
+1
+3
+5
+6
+y
+0
+1
+2
+1
+0
+8. 
+Deskripsikan gradien dari garis regresi dengan nilai r atau r2 berikut ini.
+a. 
+r = 0,7
+b. 
+r = –0,7
+c. 
+r = 0
+d. 
+r2 = 0,64
+9. 
+Rizki ingin mengetahui hubungan tingkat kelulusan SMA dan tingkat kemiskinan. 
+Data yang diperoleh oleh Rizki disajikan dalam bentuk diagram pencar berikut. 
+Selain dari itu, Rizki juga memperoleh nilai koefisien determinasinya sebesar 
+0,558 dan menemukan persamaan garis regresi linear yang dinyatakan sebagai 
+berikut.
+Matematika untuk SMA/SMK Kelas XI
+128
+Persentase Kemiskinan = 64 + 0,621 × Persentase Kelulusan SMA
+a. 
+Berikan interpretasi dari nilai koefisien determinasi yang didapatkan Rizki 
+dalam konteks data di atas.
+b. 
+Tentukan nilai koefisien korelasi r.
+c. 
+Apakah dengan adanya hubungan linear di sini menyiratkan bahwa suatu 
+negara yang menaikkan tingkat persentase kelulusannya akan menyebabkan 
+tingkat persentase kemiskinannya turun? Jelaskan alasan kalian.
+10. Berikut ini adalah data mengenai banyak karyawan pada suatu taman bermain 
+dengan luas taman bermain tersebut. (Disarankan untuk menggunakan teknologi 
+dalam membantu perhitungan ini)
+Banyak karyawan (y)
+Luas taman bermain (x) dalam m2
+95
+39.334
+95
+324
+102
+17.315
+69
+8.244
+67
+620.231
+77
+43.501
+81
+8.625
+116
+31.572
+51
+14.276
+Persentase Kelulusan SMA
+8
+10
+6
+12
+4
+76
+78
+80
+82
+84
+86
+88
+14
+16
+Persentase Kemiskinan
+18
+90
+92
+94
+129
+Bab 3 | Statistika
+Banyak karyawan (y)
+Luas taman bermain (x) dalam m2
+36
+21.094
+96
+103.289
+71
+130.023
+76
+16.068
+112
+3.286
+43
+24.089
+87
+6.309
+131
+14.502
+138
+62.595
+80
+23.666
+52
+35.833
+a. 
+Gambarlah diagram pencarnya.
+b. 
+Tentukan persamaan garis regresinya.
+c. 
+Hitunglah nilai r2.
+d. 
+Apakah garis regresi tersebut akan memberikan hasil yang akurat? Jelaskan 
+alasanmu.
+e. 
+Hapuslah data pada variabel x dengan nilai yang terbesar dan hitung ulang 
+persamaan garis regresinya. 
+f. 
+Apakah hasil pada bagian e) sangat memengaruhi persamaan garis yang baru 
+tersebut jika dibandingkan dengan yang sebelumnya? Jelaskan mengapa hal 
+ini dapat terjadi.
+Matematika untuk SMA/SMK Kelas XI
+130
+Pengayaan
+Pergilah ke supermarket atau minimarket terdekat dan carilah 30 jenis makanan yang 
+ada tertera daftar nutrisi pada pembungkusnya. Untuk setiap makanan, periksalah 
+kadar lemak (dalam gram) dan garam (dalam miligram) per sajian. Pastikan kalian 
+memilih varietas makanan yang beragam untuk memperoleh variasi nilai antara 
+kedua variabel ini. Sebagai contoh, jika kalian memilih 30 jenis mie instan, maka 
+tidak akan memberikan proses analisis yang menarik.
+1. 
+Buatlah diagram pencar dari data yang terkumpul.
+2. 
+Apakah diagram pencar yang telah dibuat memberikan gambaran bahwa data 
+tersebut dapat diwakili dengan suatu garis regresi?
+3. 
+Tentukan persamaan garis regresi untuk data kalian. Jika dapat dibuat suatu 
+garis regresi, maka interpretasikan nilai dari gradien dan titik potong sumbu y 
+garis tersebut. Jika tidak dapat dibuat suatu garis regresi, berikan alasan mengapa 
+persamaan garis regresi ini akan memberikan interpretasi yang salah.
+4. 
+Hitunglah koefisien korelasi dari kedua variabel ini. Bagaimana hubungan antara 
+kedua variabel tersebut dari nilai koefisien korelasi yang kalian dapatkan?
+5. 
+Hitunglah koefisien determinasi dari kedua variabel ini. Interpretasikan nilai 
+koefisien determinasi yang kalian dapatkan.
+131
+Glosarium 
+apotema: jarak dari pusat lingkaran ke tali busur
+busur lingkaran: bagian dari lingkaran
+data bivariat: data yang terdiri atas dua variabel kuantitatif
+diameter: ruas garis yang menghubungkan dua titik pada lingkaran yang melalui 
+pusat lingkaran
+domain atau daerah asal: himpunan yang memuat nilai-nilai masukan (input) di 
+mana fungsi tersebut terdefinisi
+ekstrapolasi: penggunaan hubungan antar variabel untuk memprediksi nilai yang 
+berada di luar jangkauan data
+fungsi: pemetaan setiap anggota himpunan kepada (tepat satu) anggota himpunan 
+yang lain
+fungsi bijektif: fungsi di mana setiap anggota himpunan dari daerah asal (Domain) 
+tepat mempunyai satu pasangan dari himpunan daerah kawan (Kodomain) dan 
+sebaliknya
+fungsi injektif: fungsi di mana anggota berbeda dari himpunan daerah asal (Domain) 
+mempunyai pasangan yang berbeda dari himpunan daerah kawan (Kodomain)
+fungsi invers: fungsi di mana pemetaan anggotanya merupakan kebalikan dari 
+pemetaan fungsi aslinya
+fungsi surjektif: fungsi di mana anggota himpunan daerah hasil (Range) sama dengan 
+anggota himpunan daerah kawan (Kodomain)
+garis best-fit: garis yang paling mewakili data pada diagram pencar
+garis singgung: garis yang menyinggung lingkaran pada tepat satu titik
+interpolasi: penggunaan hubungan antar variabel untuk memprediksi nilai yang 
+berada di dalam jangkauan data
+jari-jari: 1. jarak setiap titik pada lingkaran dengan pusat lingkaran  
+ 
+2. ruas garis yang menghubungkan pusat lingkaran dengan salah satu titik pada 
+lingkaran
+kodomain atau daerah kawan: himpunan yang memuat nilai-nilai keluaran 
+dari fungsi
+132
+koefisien determinasi: proporsi (persentase) dari variabel dependen yang diterangkan 
+oleh variabel independen
+koefisien korelasi: ukuran deskriptif numerik dari suatu korelasi
+komposisi fungsi: penggabungan dua atau lebih operasi fungsi yang dapat dilakukan 
+dengan syarat tertentu
+lingkaran: tempat kedudukan titik-titik yang jaraknya sama dari pusat lingkaran
+range atau daerah hasil: himpunan yang memuat nilai-nilai keluaran yang 
+berpasangan dengan nilai-nilai masukan
+regresi linear: model regresi yang memberikan hubungan garis lurus antara dua 
+variabel
+relasi: hubungan antara anggota suatu himpunan dengan anggota dari himpunan 
+lainnya
+residu: selisih antara nilai variabel dependen yang diamati dan nilai variabel dependen 
+yang diprediksi
+segiempat tali busur: segiempat yang keempat sudutnya terletak pada lingkaran
+sudut pusat: sudut yang titik sudutnya terletak pada pusat lingkaran dan kaki-kaki 
+sudutnya adalah jari-jari lingkaran
+sudut keliling: sudut yang titik sudutnya terletak pada lingkaran dan kaki-kaki 
+sudutnya berupa tali busur
+tali busur: ruas garis yang menghubungkan dua titik pada lingkaran
+teorema Thales: sudut keliling yang menghadap pada diameter lingkaran adalah 
+sudut siku-siku
+teorema Ptolemeus: pada segiempat tali busur, hasil kali diagonal sama besarnya 
+dengan jumlah dari hasil kali sisi yang berhadapan
+tes garis vertikal: salah satu cara menentukan apakah sebuah relasi merupakan 
+fungsi melalui grafiknya; cukup dengan menggeser garis vertikal dari kanan ke 
+kiri (atau sebaliknya) dan melihat jumlah titik potong yang dihasilkan
+titik singgung: titik tempat lingkaran bersinggungan dengan garis singgung
+variabel dependen: variabel yang nilainya dipengaruhi oleh variabel independen
+variabel independen: variabel yang akan digunakan untuk membuat prediksi 
+terhadap nilai variabel dependen

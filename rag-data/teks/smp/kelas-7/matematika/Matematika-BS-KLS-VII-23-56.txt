@@ -1,0 +1,1395 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VII
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-602-244-883-9 (Jil.1)
+0
+0
+10
+10
+20
+20
+30
+30
+40
+50
+C
+37
+36
+38
+40
+41
+39
+42
+35
+°C
+Bab 1
+Bilangan Bulat
+Mengapa perlu bilangan bulat, dan 
+apa bedanya dengan bilangan cacah?
+Matematika untuk SMP/MTs Kelas VII
+2
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+ 
+√Menjelaskan hubungan antara bilangan bulat positif dan bilangan 
+bulat negatif dengan memodelkannya pada garis bilangan (arah 
+dan jarak)
+ 
+√Menggunakan notasi yang tepat untuk menyatakan bilangan bulat
+ 
+√Membandingkan dan mengurutkan bilangan bulat dan meletakkan 
+pada garis bilangan
+ 
+√Mengenal dan menggunakan hubungan antara bilangan dan 
+kebalikannya (invers penjumlahan) untuk menyelesaikan masalah
+ 
+√Menentukan hasil dari operasi hitung penjumlahan, pengurangan, 
+perkalian, dan pembagian bilangan bulat
+ 
+√Menentukan faktor dari bilangan bulat
+ 
+√Mengenal dan menggunakan fakta bahwa bilangan cacah dapat 
+ditulis tepat satu cara sebagai hasil kali bilangan prima 
+ 
+√Menghubungkan faktorisasi prima dari dua bilangan dengan KPK 
+dan FPB 
+ 
+√Menyelesaikan permasalahan mengenai bilangan bulat yang terkait 
+dengan kehidupan sehari-hari
+Pengantar bab
+Gambar 1.1 Suhu di Puncak Jaya
+-3
+07.00
+Presipitasi: 8%
+Selasa 06.00
+Berawan
+Kelembapan: 85%
+Angin: 2 km/h
+-3
+C
+Selasa
+Suhu
+Puncak Jaya
+3
+Rabu
+Kamis
+Jumat
+Sabtu
+Minggu
+Senin
+Selasa
+10.00
+13.00
+16.00
+19.00
+22.00
+01.00
+04.00
+1
+3
+2
+-1
+-2
+-3
+-4
+-4
+F
+3
+-4
+5
+-4
+4
+-4
+4
+-5
+4
+-4
+4
+-4
+4
+-4
+Bab 1 | Bilangan Bulat
+3
+Tahukah Kalian?
+?
+Puncak Jaya adalah puncak gunung yang merupakan bagian dari 
+rangkaian pegunungan Jayawijaya yang berada di Papua.
+Terlihat pada Gambar 1.1, bahwa suhu di Puncak Jaya berada 
+sekitar 
+ hingga 
+. Dengan suhu seperti itu, mengakibatkan salju 
+di Puncak Jaya selalu ada sepanjang tahun. Itulah sebabnya mengapa 
+salju di Puncak Jaya disebut salju abadi.
+Apa arti tanda (–) pada penulisan suhu tersebut?
+Gambar 1.2 Bilangan Bulat pada Kedalaman Laut dan Jumlah Uang pada Buku Tabungan 
+Selain pada penulisan suhu, bilangan dengan tanda negatif juga 
+digunakan pada berbagai konteks dalam kehidupan nyata. Seperti 
+yang tampak pada Gambar 1.2 bilangan negatif juga digunakan ketika 
+menyatakan kedalaman di bawah permukaan laut, jumlah uang pada 
+rincian buku tabungan, dan lain sebagainya. Pada bab ini, kalian akan 
+mempelajari mengenai jenis-jenis bilangan bulat, membandingkan 
+bilangan bulat, operasi hitung bilangan bulat, serta menentukan faktor 
+dari bilangan bulat.
++ 3000
+- 5000
+- 10000
+0
+Gunung Semeru
+Palung Jawa
+Permukaan Laut 0 m
+TANGGAL
+15/04/22
+16/04/22
+5,000,000
+11,000,000
+10,800,000
+SANDI
+DEBET
+KREDIT
+SALDO
+MUTASI (Rupiah)
+200,000
+GTU
+ATR
+Matematika untuk SMP/MTs Kelas VII
+4
+Pertanyaan Pemantik
+ 
+■
+Bilangan bulat mana yang nilainya lebih besar atau lebih kecil?
+ 
+■
+Bagaimana hasil operasi hitung antara bilangan bulat positif dan 
+bilangan bulat negatif?
+ 
+■
+Berapa hasil estimasi pada operasi hitung bilangan bulat?
+ 
+■
+Apa perbedaan dari faktor bilangan bulat positif dan bilangan 
+bulat negatif?
+Kata Kunci
+Bilangan bulat, positif, negatif, estimasi, faktor bilangan
+Bagan Materi
+Memahami
+Bilangan Bulat
+Operasi hitung
+Bilangan Bulat
+Faktor
+Bilangan Bulat
+Pengertian 
+Bilangan Bulat
+Membandingkan
+Bilangan Bulat
+Bilangan Bulat
+Penjumlahan dan
+Pengurangan
+Perkalian dan
+Pembagian
+Faktor
+Bilangan Bulat Positif
+dan Bilangan Bulat
+Negatif
+FPB dan KPK
+Bab 1 | Bilangan Bulat
+5
+Garis bilangan adalah garis yang berisi titik-titik di mana titik tersebut 
+mewakili bilangan tertentu. Garis bilangan juga dapat membantu dalam 
+membandingkan dan melakukan operasi hitung khususnya penjumlahan 
+dan pengurangan bilangan bulat positif. 
+Gambar 1.3 Garis Bilangan
+Sisi sebelah kiri dan kanan garis bilangan dibuat seperti tanda panah, 
+hal ini berarti garis bilangan panjangnya tidak terhingga. Jika sisi 
+sebelah kanan diperpanjang, maka bilangan selanjutnya adalah 10, 11, 
+12, dan seterusnya.
+Lalu, bagaimana jika sisi sebelah kiri yang diperpanjang? Bilangan 
+apa yang ada di sebelah kiri bilangan nol (0)?
+A. Memahami Bilangan Bulat
+Permasalahan
+Gambar 1.4  Termometer Suhu Ruangan
+Ayo Mengingat Kembali
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+-10
+10
+-20
+20
+-30
+30
+40
+30
+100
+120
+20
+0
+40
+-20
+60
+-40
+80
+C
+F
+Matematika untuk SMP/MTs Kelas VII
+6
+Termometer adalah alat yang digunakan untuk mengukur suhu atau 
+temperatur. Termometer di atas ini menyatakan suhu dalam dua satuan 
+yang berbeda F : Fahrenheit, C : Celcius. 
+Terdapat beberapa jenis termometer dengan fungsi masing-masing, 
+contohnya termometer digital, termometer badan, serta termometer 
+suhu ruangan.
+Gambar 1.4 menunjukkan suhu di Puncak Jaya hari ini. Dengan 
+suhu seperti itu, cuaca di Puncak Jaya terasa sangat dingin.
+Dari penjelasan di atas, jawablah pertanyaan berikut ini.
+1. 
+Berapa kira-kira suhu di Puncak Jaya hari ini?
+2. 
+Menurutmu, apa perbedaan antara angka yang berada di atas 
+ dan angka yang berada di bawah 
+ pada termometer suhu 
+ruangan tersebut? Jelaskan jawaban kalian.
+1. Pengertian Bilangan Bulat
+Eksplorasi
+1.1
+ Suhu pada Termometer
+Gambar 1.5 Ilustrasi Suhu pada Termometer Suhu Ruangan
+50
+40
+30
+20
+10
+0
+10
+20
+30
+Bab 1 | Bilangan Bulat
+7
+Gambar 1.5 merupakan ilustrasi bilangan yang ditunjukkan pada 
+termometer suhu ruangan. Ilustrasi tersebut disajikan dalam garis 
+vertikal sesuai dengan letak bilangan pada termometer suhu ruangan 
+pada Gambar 1.4. Pada Gambar 1.5 terlihat bahwa terdapat angka 
+ 
+hingga 
+ yang berada di sebelah atas angka  dan angka 
+ hingga 30 
+yang terletak di sebelah bawah angka .
+Coba kalian tuliskan semua bilangan yang ditunjukkan pada Gambar 
+1.5 disajikan secara horizontal pada garis bilangan kosong pada Gambar 
+1.6. berikut ini. 
+Gambar 1.6 Garis Bilangan Kosong
+Apakah terdapat perbedaan antara bilangan pada sisi sebelah 
+kanan dan sebelah kiri dari titik 0 (nol)? Jelaskan jawaban kalian.
+Berdasarkan hasil pada kegiatan Eksplorasi 1.1, bilangan bulat 
+merupakan bilangan yang terdiri dari bilangan bulat negatif, bilangan 
+nol, dan bilangan bulat positif seperti yang ditunjukkan pada Gambar 
+1.6.
+Gambar 1.7 Pembagian Bilangan Bulat
+Ayo Bereksplorasi
+0
+0
+1
+-1
+2
+Bilangan bulat positif
+Bilangan nol
+Bilangan bulat negatif
+-2
+3
+-3
+4
+-4
+5
+-5
+6
+-6
+Matematika untuk SMP/MTs Kelas VII
+8
+Pembahasan
+Bilangan nol dan bilangan bulat positif disebut bilangan cacah.
+Bilangan bulat positif dapat disebut juga dengan bilangan asli.
+Ayo Berdiskusi
+Diskusikan bersama teman kalian, mengenai pengertian bilangan bulat 
+negatif dan bilangan bulat positif berdasarkan letak pada garis bilangan. 
+Tuliskan dengan bahasa kalian sendiri.
+Ayo Berpikir Kritis
+Nyatakanlah bilangan di bawah ini dengan tanda positif atau negatif.
+a. 
+Berat badan Amir susut sebanyak 3 kg setelah sakit selama satu 
+minggu.
+b. 
+Pedagang masker itu mendapat keuntungan sebesar 
+Rp200.000,00 dari hasil penjualan hari ini.
+c. 
+Gunung Batur memiliki ketinggian 1.717 meter di atas 
+permukaan laut.
+d. 
+Kapal selam menyelam di kedalaman 100 meter di bawah 
+permukaan laut.
+Ayo Berpikir Kreatif
+Sebutkan contoh penerapan bilangan bulat positif dan bilangan bulat 
+negatif dalam kehidupan sehari-hari (minimal 2).
+Bab 1 | Bilangan Bulat
+9
+2. Membandingkan Bilangan Bulat
+Eksplorasi
+1.2
+Suhu Berbagai Kota di Dunia
+Ayo Bereksplorasi
+Gambar 1.8 Prediksi Suhu di Berbagai Kota di Dunia 
+Dari beberapa nama kota di dunia beserta prediksi suhunya di atas, 
+jawablah beberapa pertanyaan berikut.
+a. 
+Kota mana yang cuacanya paling dingin?
+b. 
+Kota mana yang cuacanya paling panas?
+c. 
+Kota mana saja yang lebih dingin dibanding Seoul?
+d. 
+Kota mana saja yang lebih panas dibanding Tokyo?
+e. 
+Kota mana yang lebih dingin, Seoul atau Tokyo?
+f. 
+Kota mana yang lebih panas, New Delhi atau Titlis?
+g. 
+Tuliskan perkiraan letak suhu dari kota di atas pada Gambar 
+1.9 di bawah ini.
+Gambar 1.9 Garis Bilangan Kosong
+Salju ringan
+-31
+C
+Oymyakon, Sakha, Rusia
+F
+Salju
+-14
+C
+Titlis, Swiss
+F
+Sebagian besar berawan
+-2
+C
+Seoul, Korea Selatan
+F
+Cerah
+6
+C
+Tokyo, Jepang
+F
+Kabut
+11
+C
+New Delhi, Delhi, India
+F
+Sebagian berawan
+30
+C
+Kota Kupang, Nusa Tenggara Timur
+F
+0
+Matematika untuk SMP/MTs Kelas VII
+10
+Dari jawaban beberapa pertanyaan di atas, dapat disimpulkan 
+bahwa jika semakin besar suhu yang bertanda positif, maka cuaca 
+semakin panas.
+Jika semakin besar suhu yang bertanda negatif, maka cuaca 
+semakin dingin.
+Ayo Bekerja Sama
+Gunakan garis bilangan yang telah dibuat pada pertanyaan g kegiatan 
+Eksplorasi 1.2 untuk menjawab beberapa pertanyaan di bawah ini. 
+Jawablah  bersama teman sekelompok kalian.
+a. 
+Bilangan mana yang memiliki nilai lebih besar, 
+ atau 
+?
+b. 
+Bilangan mana yang memiliki nilai lebih kecil, 
+ atau ?
+c. 
+Bilangan mana yang memiliki nilai lebih besar, −14 atau −31
+Untuk bilangan positif, kalian sudah memahami jika semakin besar 
+bilangannya, maka nilai dari bilangan tersebut semakin besar. Dan jika 
+semakin kecil bilangannya, maka nilai dari bilangan tersebut semakin 
+kecil.
+Lalu, bagaimana dengan bilangan bulat negatif?
+Ayo Mencoba
+Perhatikan garis bilangan berikut, lalu jawab pertanyaan di bawah ini.
+Gambar 1.10 Garis Bilangan pada Bilangan Bulat Negatif
+a. 
+Bilangan mana yang memiliki nilai lebih besar, 
+ atau 
+? 
+Perhatikan 
+ dan 
+ pada garis bilangan di atas. 
+ 
+Dari kedua bilangan tersebut, bilangan mana yang terletak 
+di sebelah kiri pada garis bilangan jika dibandingkan dengan 
+bilangan lainnya? …. 
+ 
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+-10
+Bab 1 | Bilangan Bulat
+11
+Dari kedua bilangan tersebut, bilangan mana yang terletak 
+di sebelah kanan pada garis bilangan dibandingkan dengan 
+bilangan lainnya? ….. 
+ 
+Pada garis bilangan, 
+ berada di sebelah kanan 
+, jadi nilai 
+dari 
+ lebih besar dari 
+.  
+ 
+Dapat dituliskan dengan 
+ atau −8 < −3
+b. 
+Bilangan mana yang memiliki nilai lebih kecil, 
+ atau 
+ ? 
+Perhatikan letak 
+ dan 
+ pada garis bilangan.  
+ 
+Pada garis bilangan, bilangan ….. berada di sebelah kiri 
+bilangan ….. 
+ 
+Jadi, bilangan …. nilainya lebih kecil dibanding bilangan ….. 
+Dapat dituliskan dengan ….. > ….. atau ….. < …..
+Pembahasan
+Dari beberapa contoh di atas, dapat disimpulkan bahwa pada bilangan 
+bulat negatif, semakin besar bilangannya, nilainya semakin kecil.
+Sebaliknya, semakin kecil bilangannya, maka nilainya semakin besar.
+1. 
+Nyatakan bilangan berikut ini dengan tanda positif atau negatif.
+a. 
+Lia baru membuka tabungan di koperasi sekolah lalu ia 
+menyetorkan uang sebesar Rp100.000,00.
+b. 
+Dino meminjam uang kepada Anne sebesar Rp50.000,00.
+c. 
+Penjualan di toko hari ini mengalami kerugian sebesar 
+Rp250.000,00.
+2. 
+Isilah titik-titik di bawah ini dengan tanda “ > ” yang menyatakan 
+lebih dari atau tanda “ < ” yang menyatakan kurang dari.
+a. 
+−253 ..... 108
+b. 
+38 ..... −79
+c. 
+−1000 ..... 500
+Latihan 1.1
+Matematika untuk SMP/MTs Kelas VII
+12
+3. 
+Urutkan bilangan bulat di bawah ini dari yang terkecil ke terbesar.
+a. 
+b. 
+c. 
+Ayo Berefleksi
+Dari beberapa aktivitas yang telah kalian lakukan, jawablah pertanyaan di 
+bawah ini.
+a. 
+Tuliskan contoh penerapan bilangan bulat negatif dan bilangan 
+bulat positif dalam kehidupan sehari-hari.
+b. 
+Bagaimana nilai bilangan bulat yang semakin ke kanan pada 
+garis bilangan?
+c. 
+Lalu, bagaimana nilai bilangan bulat yang semakin ke kiri pada 
+garis bilangan?
+B. Operasi Hitung Bilangan Bulat
+1. Operasi Penjumlahan dan Pengurangan Bilangan 
+Bulat
+Eksplorasi
+1.3
+Transfer Pemain Liga Sepakbola
+Ayo Bereksplorasi
+Pada liga sepakbola terdapat waktu yang diberikan pengelola liga kepada 
+klub untuk melakukan transfer pemain. Berbagai klub sepakbola tentu 
+saja ingin mendapatkan pemain bagus dapat masuk ke tim mereka dan 
+dapat melepaskan pemain yang performanya buruk.
+Bab 1 | Bilangan Bulat
+13
+Gambar 1.11 Ilustrasi Transfer Pemain Sepakbola 
+Sebelum mengambil keputusan terkait proses transfer pemain, 
+klub harus mempertimbangkan level performa tim di akhir proses 
+transfer. Pada tabel 1.1 disajikan representasi aturan yang berlaku jika 
+melakukan transfer pemain pada Liga Sepakbola di suatu negara.
+Tabel 1.1 Detail Perhitungan Nilai dan Efek Performa Bagi Klub dari Berbagai Proses Transfer
+Proses Transfer Pemain
+Perhitungan 
+Nilai
+Efek Performa 
+Bagi Klub
+Mendapatkan satu pemain bagus
++(+1)
+Performa naik
+Mendapatkan satu pemain buruk
++(−1)
+Performa turun
+Melepaskan satu pemain bagus
+−(+1)
+Performa turun
+Melepaskan satu pemain buruk
+−(−1)
+Performa naik
+Keterangan: 
+Mendapatkan dilambangkan dengan tanda 
+  
+Melepaskan dilambangkan dengan tanda 
+ 
+ 
+Kriteria pemain: Bagus 
+, buruk 
+CLUB BOLA D
+CLUB BOLA F
+Matematika untuk SMP/MTs Kelas VII
+14
+Tuliskan perhitungan nilai dan efek performa bagi klub tersebut 
+setelah melakukan transfer pemain di bawah ini.
+a. 
+Klub A: mendapatkan 3 pemain bagus, mendapatkan 2 pemain 
+buruk. 
+b. 
+Klub B: mendapatkan 4 pemain bagus, melepaskan 2 pemain 
+bagus.
+c. 
+Klub C: mendapatkan 1 pemain bagus, melepaskan 2 pemain 
+bagus, melepaskan 3 pemain buruk.
+d. 
+Klub D: mendapatkan 5 pemain bagus, mendapatkan 2 pemain 
+buruk, melepaskan 3 pemain bagus, melepaskan 4 pemain 
+buruk.
+Ayo Berdiskusi
+Selain proses transfer pemain, transfer pelatih dan sponsor juga 
+menentukan kualitas sebuah klub sepak bola. Berikut disajikan pada 
+Tabel 1.2 perhitungan nilai dan efek performa bagi klub dari proses 
+transfer pelatih dan sponsor.
+Tabel 1.2 Detail Perhitungan Nilai dan Efek Performa Bagi Klub dari Berbagai Proses
+Proses Transfer
+Perhitungan 
+Nilai
+Efek Performa 
+Bagi Klub
+Mendapatkan pelatih bagus
++(+3)
+Performa naik
+Mendapatkan pelatih buruk
+Performa turun
+Melepaskan pelatih bagus
+Performa turun
+Melepaskan pelatih buruk
+Performa naik
+Mendapatkan manajer bagus
+Performa naik
+Bab 1 | Bilangan Bulat
+15
+Proses Transfer
+Perhitungan 
+Nilai
+Efek Performa 
+Bagi Klub
+Mendapatkan manajer buruk
+Performa turun
+Melepaskan manajer bagus
+Performa turun
+Melepaskan manajer buruk
+Performa naik
+Jawablah pertanyaan di bawah ini dengan berdiskusi bersama 
+teman kalian.
+Tentukan hasil perhitungan nilai di bawah ini dan tuliskan detail 
+proses transfer pelatih dan sponsor jika perhitungan nilainya sebagai 
+berikut.
+a. 
+b. 
+c. 
+d. 
+Ayo Berpikir Kritis
+Jawablah pertanyaan berikut ini berdasarkan soal pada kegiatan Ayo 
+Berdiskusi di atas.
+a. 
+Bagaimana hasil perhitungan dari poin a dan b? Apa kesimpulan 
+yang dapat kalian peroleh? 
+b. 
+Bagaimana hasil perhitungan dari poin c dan d? Apa kesimpulan 
+yang dapat kalian peroleh?
+Ayo Mencoba
+Jawablah pertanyaan berikut dengan merujuk pada Tabel 1.1 dan Tabel 
+1.2.
+Matematika untuk SMP/MTs Kelas VII
+16
+a. 
+Tentukan perhitungan nilai dan efek performa bagi klub dari 
+bursa transfer berikut.
+Klub E
+mendapatkan 2 pemain bagus 
+dan mendapatkan pelatih 
+buruk
+Klub F
+mendapatkan pelatih buruk 
+dan mendapatkan 2 pemain 
+bagus
+Klub G
+pada bulan 1: mendapatkan 2 
+pemain bagus, mendapatkan 1 
+pemain buruk
+pada bulan 2: mendapatkan 
+manajer bagus
+Klub H 
+pada bulan 1: mendapatkan 2 
+pemain bagus
+pada bulan 2: mendapatkan 1 
+pemain buruk, mendapatkan 
+manajer bagus
+b. 
+Apakah yang terjadi pada hasil perhitungan nilai dan efek 
+performa Klub E dan F, serta Klub G dan H? Apakah urutan 
+transfer pemain dan manajer memengaruhi hasil perhitungan 
+dan efek performa?
+Kesimpulan dari kegiatan di atas adalah pada operasi hitung 
+penjumlahan bilangan bulat berlaku sifat:
+1. Sifat komutatif
+Jika  dan  bilangan bulat sembarang , maka berlaku:
+ 
+ 
+2. Sifat asosiatif
+Jika ,    dan   bilangan bulat sembarang, maka berlaku:
+ 
+Ayo Berpikir Kritis
+Apakah sifat komutatif dan sifat asosiatif berlaku juga pada operasi 
+hitung pengurangan bilangan bulat? Jelaskan jawaban kalian.
+Bab 1 | Bilangan Bulat
+17
+2. Operasi Perkalian dan Pembagian Bilangan Bulat
+Eksplorasi
+1.4
+Mesin Pendingin Ruang
+Ayo Bereksplorasi
+Gambar 1.12  Mesin Pendingin Ruang
+Mesin pendingin ruang yang prinsip kerjanya bisa menambah dan 
+mengurangi udara dingin serta udara panas dalam kelipatan suhu 
+tertentu. 
+Suhu akan tampak pada indikator seperti pada Gambar 1.12.
+Jawablah pertanyaan di bawah ini.
+1. 
+Suhu ruang sekarang yaitu 
+, prediksilah apakah suhu baru 
+akan berada di atas atau di bawah nol derajat jika ditekan tombol:
+a. 
+b. 
+Jelaskan jawaban kalian.
+2. 
+Jika suhu ruang sekarang sesuai dengan yang tampak pada gambar 
+yaitu 
+. Tentukanlah berapa suhu baru jika ditekan tombol:
+a. 
+b. 
+Jelaskan jawaban kalian.
+x (-2)
+x (-3)
+x (-4)
+x (+2)
++
+-
+x (+3)
+x (+4)
++
+-
+Matematika untuk SMP/MTs Kelas VII
+18
+3. 
+Jika suhu ruang sekarang yaitu 
+, tentukanlah suhu baru jika 
+ditekan tombol:
+a. 
+b. 
+Jelaskan kalian.
+Pembahasan
+Pada kegiatan Eksplorasi 1.5 terdapat operasi hitung perkalian bilangan 
+bulat.
+1. 
+Untuk perkalian dua bilangan positif, contoh: 
+  
+Langkah-langkahnya:
+a. 
+Dimulai dari bilangan kedua yaitu 5. Karena 5 merupakan 
+bilangan positif, maka gambarkan panah dari 0 ke arah 5.
+b. 
+Ketika dikalikan dengan 2 artinya ditarik searah sehingga 
+panjangnya menjadi 2 kalinya yaitu jatuh ke angka 10 
+ 
+ 
+Sehingga, 
+2. 
+Untuk perkalian bilangan negatif dan positif, contoh 
+Langkah-langkahnya:
+a. 
+Dimulai dari bilangan kedua yaitu 5. Karena 5 merupakan 
+bilangan positif, maka gambarkan panah dari 0 ke arah 5.
+b. 
+Ketika dikalikan dengan 
+ artinya ditarik ke berlawanan 
+arah sehingga panjangnya menjadi 2 kalinya yaitu jatuh ke 
+angka 
+. 
+ 
+Sehingga, 
+0
+1
+-1
+2
+-2
+3
+-3
+4
+-4
+5
+-5
+6
+7
+8
+9
+10
+-6
+-7
+-8
+-9
+-10
+0
+1
+-1
+2
+-2
+3
+-3
+4
+-4
+5
+-5
+6
+7
+8
+9
+10
+-6
+-7
+-8
+-9
+-10
+Bab 1 | Bilangan Bulat
+19
+3. 
+Untuk perkalian dua bilangan negatif, contoh 
+a. 
+Dimulai dari bilangan kedua yaitu 
+. Karena 
+ merupakan 
+bilangan negatif, maka gambarkan panah dari 0 ke arah 
+.
+b. 
+Ketika dikalikan dengan 
+ artinya ditarik ke berlawanan 
+arah sehingga panjangnya menjadi 2 kalinya yaitu jatuh ke 
+angka 
+10. 
+Sehingga, 
+Ayo Mencoba
+Lengkapilah titik-titik pada tabel perubahan suhu dari mesin pendingin 
+ruang yang ditunjukkan oleh Gambar 1.12 di bawah ini.
+Tabel 1.3 Tabel Perubahan Suhu dari Mesin Pendingin Ruang
+No.
+Suhu Sekarang
+Tombol yang Ditekan
+Suhu Baru
+1.
+…….. 
+2.
+……….
+3.
+…….. 
+4.
+……….
+×(−2)
+5.
+ dan 
+…….
+6.
+…….
+240
+0
+1
+-1
+2
+-2
+3
+-3
+4
+-4
+5
+-5
+6
+7
+8
+9
+10
+-6
+-7
+-8
+-9
+-10
+Matematika untuk SMP/MTs Kelas VII
+20
+Ayo Berkomunikasi
+Setelah melengkapi tabel perubahan suhu dari mesin pendingin ruang, 
+amatilah isi tabel tersebut. 
+Jawablah pertanyaan berikut, lalu sampaikan jawaban kalian di 
+hadapan teman atau kelompok lain.
+a. 
+Tuliskan hal apa saja yang menarik yang dapat kalian temukan 
+dari perubahan suhu pada tabel 1.3.
+b. 
+Apakah sifat-sifat pada operasi hitung penjumlahan, yaitu 
+sifat komutatif dan asosiatif, berlaku juga pada operasi hitung 
+perkalian?
+Ayo Berpikir Kritis
+Apakah sifat komutatif dan asosiatif berlaku juga dalam operasi hitung 
+pembagian bilangan bulat? Jelaskan jawaban kalian.
+1. 
+Tuliskan hasil dari operasi hitung bilangan berikut ini.
+a. 
+b. 
+c. 
+d. 
+2. 
+Ibu Ratih meminjam uang di Koperasi Desa sebesar Rp1.000.000,00. 
+Pada bulan berikutnya, ia hanya mampu mengembalikan sebesar 
+Rp750.000,00. Berapa sisa utang Ibu Ratih? Jelaskan jawaban kalian 
+dalam bentuk bilangan bulat positif atau negatif.
+3. 
+Pada tes penerimaan siswa baru SMP Bakti Utama, calon siswa 
+diminta untuk mengerjakan 30 soal. Setiap jawaban benar 
+mendapat poin 5, jawaban salah bernilai 
+, serta tidak menjawab 
+mendapat poin 0. Jika Saka hanya menjawab 20 soal dengan benar 
+Latihan 1.2
+Bab 1 | Bilangan Bulat
+21
+dari total 25 soal yang dikerjakannya, berapa total nilai yang 
+diperoleh Saka?
+4. 
+Raja seorang YouTuber terkenal. Tapi karena sering membuat 
+konten prank yang tidak bermanfaat, maka subscriber-nya turun 
+secara drastis. Dalam 4 bulan terakhir, Raja sudah kehilangan 
+sebanyak 200 subscriber. Subscriber berkurang dalam jumlah yang 
+sama tiap bulannya. Berapa jumlah subscriber yang turun setiap 
+bulannya? Nyatakan dalam bentuk bilangan bulat positif atau 
+negatif.
+5. 
+Pada saat melakukan praktikum di laboratorium, guru meminta 
+siswa untuk memanaskan cairan beku yang bersuhu 
+ untuk 
+dipanaskan. Ketika proses pemanasan, setiap 3 menit suhu naik 
+sebesar 
+. Jika cairan beku tersebut dipanaskan selama 15 
+menit, berapa suhu akhir yang dicapai?
+Ayo Berefleksi
+Dari beberapa aktivitas yang telah kalian lakukan mengenai operasi 
+hitung bilangan bulat, jawablah pertanyaan di bawah ini serta berikan 
+penjelasan.
+a. 
+Apakah sifat komutatif dan asosiatif berlaku pada semua operasi 
+hitung bilangan bulat? Jelaskan.
+b. 
+Bagaimana hasil dari operasi hitung perkalian dan pembagian 
+dari dua bilangan bulat yang sejenis yaitu antar dua bilangan 
+bulat positif atau antar dua bilangan bulat negatif?
+c. 
+Bagaimana hasil dari operasi hitung perkalian dan pembagian 
+dari dua bilangan bulat yang berbeda, yaitu antar bilangan bulat 
+positif dan bilangan bulat negatif atau sebaliknya?
+Matematika untuk SMP/MTs Kelas VII
+22
+C. Faktor Bilangan Bulat
+1. Faktor Bilangan Bulat Positif dan Negatif
+Eksplorasi
+1.5
+Mesin Pendingin Makanan
+Gambar 1.13 Mesin Pendingin Makanan
+Ayo Bereksplorasi
+Seorang mahasiswa dari universitas terkenal di Indonesia berhasil 
+membuat mesin pendingin makanan yang bentuknya dan cara kerjanya 
+menyerupai oven. Mesin pendingin makanan tersebut didesain dengan 
+dua tombol pengatur suhu yang tampak seperti pada Gambar 1.12. 
+Jika pengguna menginginkan suhu tertentu dicapai oleh mesin, maka 
+pengguna cukup memutar kedua tombol pengatur suhu yang terletak 
+pada sisi kanan dan kiri. Suhu yang terlihat pada mesin merupakan 
+hasil kali dari angka yang ditunjukkan pada kedua tombol pengatur 
+suhu. Pada tombol pengatur suhu terdapat bilangan negatif hingga 
+positif.
+Berdasarkan uraian di atas, tuliskanlah berbagai kemungkinan 
+pasangan suhu yang dapat ditunjukkan pada kedua tombol pengatur 
+suhu.
+-5
+-4
+-3
+-2
+-1
+1
+2
+3
+4
+5
+0
+-5
+-4
+-3
+-2
+-1
+1
+2
+3
+4
+5
+0
+Tombol pengatur
+suhu kiri
+Tombol pengatur
+suhu kanan
+Bab 1 | Bilangan Bulat
+23
+Tombol Pengatur Suhu Kiri
+Tombol Pengatur Suhu Kanan
+………..
+…………
+Ayo Mencoba
+Jika suhu yang diinginkan pada mesin pendingin makanan adalah 
+sebesar −150C. Tuliskan berbagai kemungkinan pasangan suhu yang 
+ditunjukkan oleh tombol pengatur suhu.
+Tombol Pengatur Suhu Kiri
+Tombol Pengatur Suhu Kanan
+………..
+…………
+Ayo Berpikir Kritis
+Gambar 1.14 Mesin Pendingin Makanan dengan Tiga Tombol Pengatur Suhu
+-5
+-4
+-3
+-2
+-1
+1
+2
+3
+4
+5
+0
+-5
+-4
+-3
+-2
+-1
+1
+2
+3
+4
+5
+0
+-5
+-4
+-3
+-2
+-1
+1
+2
+3
+4
+5
+0
+Tombol pengatur
+suhu kiri
+Tombol pengatur
+suhu kanan
+Tombol pengatur
+suhu tengah
+Matematika untuk SMP/MTs Kelas VII
+24
+Mesin pendingin kali ini dibuat dengan versi berbeda, yaitu 
+memiliki tiga tombol pengatur suhu. Jika suhu yang diinginkan pada 
+mesin pendingin makanan adalah sebesar 
+, tuliskan berbagai 
+kemungkinan bilangan yang ditunjukkan pada ketiga tombol pengatur 
+suhu. Dengan ketentuan yaitu bilangan pada tombol pengatur suhu 
+hanya boleh bilangan bulat positif dan bilangan prima.
+Catatan:  
+ 
+Bilangan prima adalah bilangan asli yang lebih dari 1, yang faktor 
+pembaginya adalah 1 dan bilangan itu sendiri.
+Tombol Pengatur Suhu 
+Kiri
+Tombol Pengatur Suhu 
+Tengah
+Tombol Pengatur Suhu 
+Kanan
+………..
+………
+………..
+Pembahasan
+Faktor dari suatu bilangan adalah bilangan-bilangan tertentu yang 
+dapat membagi habis suatu bilangan.
+Contoh: 
+ 
+Faktor dari 12 adalah, 
+Pasangan faktor dari suatu bilangan adalah pasangan bilangan 
+yang jika dikalikan akan menghasilkan bilangan tertentu. Pasangan 
+faktor tidak hanya bilangan bulat positif, melainkan juga dapat berupa 
+bilangan bulat negatif.
+Contoh: 
+ 
+Pasangan faktor dari 12 adalah 
+ 
+,   
+(−2, −6), (−3, −4)
+Faktorisasi prima adalah bentuk penulisan suatu bilangan sebagai 
+perkalian dari faktor yang merupakan bilangan prima.
+Bab 1 | Bilangan Bulat
+25
+Contoh: 
+ 
+Faktorisasi prima dari 12 adalah …..
+Jawaban: 
+ 
+Menentukan faktorisasi prima dapat menggunakan pohon faktor.
+Pohon faktor adalah pembagian suatu bilangan yang digambarkan 
+ke bawah dengan menyatakan pembagian sebagai perkalian dari 
+bilangan prima.
+Langkah-langkah dalam menentukan faktorisasi prima suatu 
+bilangan dengan pohon faktor:
+1. 
+Bagilah bilangan tersebut dengan bilangan prima terkecil, yaitu 2.
+2. 
+Jika bilangan tersebut tidak dapat dibagi dengan 2, maka lanjutkan 
+membagi bilangan tersebut dengan bilangan prima selanjutnya, 
+yaitu 3, 5, 7, dan seterusnya.
+3. 
+Ulangi langkah 1 dan 2 hingga diperoleh hasil akhirnya merupakan 
+dua bilangan prima.
+Berdasarkan pohon faktor di bawah, maka disimpulkan bahwa 
+faktorisasi prima dari 
+12
+2
+6
+2
+3
+Matematika untuk SMP/MTs Kelas VII
+26
+1. Faktor Persekutuan terbesar (FPB) dan Kelipatan 
+Persekutuan terkecil (KPK)
+Eksplorasi
+1.6
+Ayo Berbagi ke Sesama
+Gambar 1.15 Contoh Penguatan Karakter yaitu Menolong Sesama
+Ayo Bereksplorasi
+Pada masa pandemi covid-19, banyak saudara dan teman yang 
+mengalami sakit. 
+Anita membeli jeruk dan apel untuk sekadar berbagi dan 
+menunjukkan perhatian kepada kerabat yang sedang melakukan 
+isolasi mandiri.
+Anita ingin membagikan kedua jenis buah tersebut dengan jumlah 
+yang sama ke beberapa orang. 
+Setelah dihitung, buah yang dibeli Anita sebanyak:
+Jeruk
+16 buah
+Apel
+24 buah
+Berapa saja kemungkinan banyaknya teman atau kerabat yang 
+dapat dikirimkan buah tersebut? Jelaskan jawaban kalian.
+Bab 1 | Bilangan Bulat
+27
+Penguatan Karakter
+Penguatan karakter yaitu menolong orang yang sedang mengalami 
+kesulitan.
+Ayo Berkomunikasi
+Anita mendapat tambahan buah untuk dibagikan yaitu mangga sebanyak 
+36 buah. Dengan ketiga jenis buah tersebut, tentukan jumlah teman 
+atau kerabat paling banyak yang dapat menerima buah tersebut.
+Komunikasikan strategi yang kalian gunakan dalam menemukan jawaban 
+di depan kelas.
+Ayo Berpikir Kritis
+Anita dan temannya, Rossa, menjadikan kegiatan berbagi buah dan 
+makanan untuk kerabat yang sedang sakit adalah hal yang rutin. Anita 
+membagikan makanan setiap 4 hari, sedangkan Rossa membagikan 
+makanan setiap 6 hari. Jika pada hari ini mereka membagikan makanan 
+bersama-sama, tentukan setiap berapa hari mereka membagikan 
+makanan secara bersama-sama kembali? Jelaskan jawaban kalian.
+Ayo Mencoba
+Aldi sangat kagum dengan Anita dan Rossa yang 
+rutin berbagi makanan untuk kerabat yang 
+sedang sakit, sehingga ia pun mengikuti apa 
+yang telah dilakukan kedua temannya tersebut. 
+Karena Aldi baru mencoba untuk ikut berbagi 
+makanan, maka ia akan melakukannya setiap 8 
+hari. 
+AGUSTUS
+08
+2022
+SENIN
+Matematika untuk SMP/MTs Kelas VII
+28
+Jika pada hari ini, Senin tanggal 8 Agustus 2022 mereka bertiga 
+membagikan makanan secara bersama-sama, maka tanggal berapa 
+mereka melakukannya bersama kembali? Uraikan jawaban kalian.
+Pembahasan
+Faktor persekutuan dari dua bilangan atau lebih adalah faktor-faktor 
+yang sama dari dua bilangan atau lebih.
+Contoh:
+Faktor dari 16 adalah 1, 2, 4, 8, 16. Faktor dari 24 adalah 1, 2, 3, 4, 6, 8, 12, 24. 
+Faktor persekutuan dari 16 dan 24 adalah 1, 2, 4, 8.
+Faktor persekutuan terbesar (FPB) adalah faktor persekutuan 
+yang nilainya terbesar di antara faktor-faktor persekutuan lainnya.
+Contoh:
+Cara 1: Dengan mendaftar faktor persekutuan
+Faktor dari 16 adalah 1, 2, 4, 8, 16.  
+Faktor dari 24 adalah 1, 2, 3, 4, 6, 8, 12, 24. 
+Faktor persekutuan dari 16 dan 24 adalah 1, 2, 4, 8. 
+FPB (16, 24) = 8
+Cara 2: Dengan faktorisasi prima
+ 
+ 
+FPB (16, 24) 
+Kelipatan suatu bilangan adalah hasil perkalian bilangan itu 
+dengan bilangan asli.
+Contoh: 
+ 
+Kelipatan 6 adalah 6, 12, 18, 24, 30, ……
+Bab 1 | Bilangan Bulat
+29
+Kelipatan persekutuan dari dua bilangan atau lebih adalah 
+kelipatan dari suatu bilangan yang sama dengan kelipatan bilangan 
+lainnya.
+Contoh:
+Kelipatan 6 adalah 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, …… 
+Kelipatan 10 adalah 10, 20, 30, 40, 50, 60, 70, …… 
+Kelipatan persekutuan 6 dan 10 adalah 30, 60, ……
+Kelipatan persekutuan terkecil (KPK) adalah bilangan kelipatan 
+terkecil yang sama dari banyaknya kelipatan suatu bilangan tertentu.
+Contoh:
+Cara 1: Dengan mendaftar kelipatan 
+ 
+Kelipatan 6 adalah 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, …… 
+ 
+Kelipatan 10 adalah 10, 20, 30, 40, 50, 60, 70, …… 
+KPK (6, 10) = 30
+Cara 2: Dengan faktorisasi prima
+ 
+ 
+KPK (6, 10) 
+Ayo Berkomunikasi
+Dari berbagai permasalahan yang ada pada Eksplorasi 1.6, jawablah 
+pertanyaan berikut.
+a. 
+Jelaskan perbedaan dari FPB dan KPK dengan kalimat kalian 
+sendiri.
+b. 
+Kapankah kalian menggunakan FPB atau KPK dalam 
+menyelesaikan permasalahan? Jelaskan.
+Matematika untuk SMP/MTs Kelas VII
+30
+Ayo Berpikir Kritis
+Jika terdapat dua bilangan prima sembarang, berapakah FPB dan KPK dari 
+kedua bilangan tersebut? Jelaskan jawaban kalian.
+1. 
+Tentukan pasangan faktor, faktor, serta faktorisasi prima dari:
+a. 
+13
+b. 
+18
+c. 
+28
+2. 
+Klub sains beranggotakan 24 siswa perempuan dan 32 siswa laki-
+laki. Hari ini siswa klub sains akan melakukan percobaan menarik, 
+sehingga pelatih klub akan membagi anggota menjadi beberapa 
+kelompok. Setiap kelompok berisi jumlah yang sama antara siswa 
+perempuan dan laki-laki. Berapa jumlah kelompok paling banyak 
+yang dapat dibentuk?
+3. 
+Arjuna bersepeda setiap 12 hari dan berenang setiap 14 hari. Ia 
+melakukan kedua jenis olahraga tersebut hari ini. Berapa hari 
+dari sekarang Arjuna akan bersepeda dan berenang lagi secara 
+bersamaan?
+4. 
+Sasha memanggang 30 kue nastar dan 48 kue kastengel untuk 
+diberikan kepada teman-teman di sekolah. Dia ingin membagi kue 
+ke dalam wadah plastik sehingga setiap wadah memiliki banyak 
+kue yang sama untuk setiap jenis kue. Jika dia ingin setiap wadah 
+memiliki kue sebanyak mungkin, berapa banyak wadah plastik 
+yang harus Sasha siapkan?
+5. 
+Tiga buah bus sekolah tiba di tempat pemberhentian bus setiap 6 
+menit, 10 menit, dan 15 menit. Jika bus berangkat bersamaan, yaitu 
+pukul 06.30 pagi, maka pukul berapa ketiga bus tersebut berhenti 
+secara bersamaan berikutnya?
+Latihan 1.3
+Bab 1 | Bilangan Bulat
+31
+Refleksi
+Ayo merefleksikan kembali hal-hal apa saja yang telah kalian pelajari.
+1. 
+Apakah saya dapat menjelaskan bilangan apa saja yang termasuk 
+dalam bilangan bulat?
+2. 
+Apakah saya dapat menjelaskan apakah sifat komutatif dan sifat 
+asosiatif berlaku pada operasi hitung penjumlahan, pengurangan, 
+perkalian, dan pembagian bilangan bulat?
+3. 
+Apakah saya dapat membedakan FPB dan KPK?
+Uji Kompetensi
+1. 
+a.  Urutkan suhu berikut dari yang paling dingin. 
+ 
+, 
+, 
+, 
+, 
+. 
+b. 
+Urutkan 
+suhu 
+berikut 
+dari 
+yang 
+paling 
+panas. 
+, 
+, 
+, 
+, 
+2. 
+Perhatikan rincian buku tabungan dari Haris berikut.
+Gambar 1.16 Perincian Tabungan Milik Haris
+Catatan:  
+Kredit: uang masuk 
+Debit: uang keluar
+TANGGAL
+JANUARI 2022
+FEBRUARI 2022
+150.000,00
+SANDI
+DEBET
+KREDIT
+SALDO
+MUTASI (Rupiah)
+200.000,00
+100.000,00
+Matematika untuk SMP/MTs Kelas VII
+32
+Jawablah pertanyaan berikut.
+a. 
+Berapakah total jumlah uang tabungan Haris pada bulan 
+Februari?
+b. 
+Pada bulan Maret Haris melakukan transaksi kredit dan 
+debit. Jika Haris menarik uang sebanyak Rp500.000,00, maka 
+berapa minimal uang yang harus disetorkan Haris agar uang 
+ditabungannya tidak Rp0,00 (nol rupiah)?
+3. 
+Perubahan iklim menyebabkan perubahan cuaca yang ekstrem. 
+Di suatu kota terjadi perubahan suhu yang drastis pada waktu 
+tertentu. Jawablah pertanyaan berikut dan jelaskan jawaban 
+kalian.
+a. 
+Jika suhu sekarang adalah 00C, berapa suhu tiga jam kemudian 
+jika tiap jamnya suhu bertambah 20C?
+b. 
+Jika suhu sekarang adalah 00C, berapa suhu empat jam 
+kemudian jika tiap jamnya terjadi penurunan suhu sebanyak 
+30C?
+4. 
+Kapal selam dapat menyelam hingga ke dasar laut. Kapal selam 
+dapat bergerak hingga kedalaman 180 meter di bawah permukaan 
+laut dalam waktu 3 jam. 
+ 
+Jawablah pertanyaan di bawah ini.
+a. 
+Gambarkan ilustrasi posisi kapal selam pada kedalaman 180 
+meter di bawah permukaan laut dengan garis bilangan.
+b. 
+Pada kedalaman berapa meter di bawah permukaan laut yang 
+dicapai kapal selam dalam 1 jam? Nyatakan dalam bilangan 
+bulat positif atau negatif.
+5. 
+Pada hari pelanggan nasional, bioskop membagikan minuman 
+gratis kepada setiap pelanggan ke-25 dan satu paket popcorn untuk 
+setiap pelanggan ke-30. Pada hari itu, terdapat 1.500 pelanggan 
+datang untuk menonton film. Berapa banyak orang yang menerima 
+minuman dan popcorn gratis tersebut?
+Bab 1 | Bilangan Bulat
+33
+Pengayaan
+Gambar 1.17 Suasana Empat Musim di Jepang
+Jepang merupakan salah satu negara yang mengalami empat musim 
+berbeda selama satu tahun. 
+Berikut rentang bulan dari berbagai musim di negara Jepang.
+ 
+■
+Musim semi: Maret–Mei
+ 
+■
+Musim panas: Juni–Agustus
+ 
+■
+Musim gugur: September–November
+ 
+■
+Musim dingin: Desember–Februari
+Matematika untuk SMP/MTs Kelas VII
+34
+Ayo Menggunakan Teknologi
+Suhu udara terasa sangat berbeda pada keempat musim tersebut. 
+Informasi mengenai suhu di kota tertentu dapat diakses melalui berbagai 
+aplikasi di telepon pintar seperti Weather forecast atau melalui laman situs 
+www.weather.com.
+Jawablah pertanyaan berikut.
+1. 
+Catatlah suhu di kota Kyoto, Sapporo, dan Nagoya, kota-kota di 
+Jepang, melalui aplikasi atau mengakses laman situs yang telah 
+disebutkan di atas pada waktu sebagai berikut.
+a. 
+Pada musim semi
+b. 
+Pada musim panas
+c. 
+Pada musim gugur
+d. 
+Pada musim dingin
+2. 
+Berdasarkan suhu yang telah dicatat pada nomor 1, tuliskan 
+jawaban dari pertanyaan di bawah ini.
+a. 
+Kota mana yang paling hangat ketika musim dingin?
+b. 
+Kota mana yang paling sejuk ketika musim panas?
+c. 
+Tentukan selisih suhu di kota Kyoto dan Nagoya pada musim 
+gugur.
+3. 
+Tuliskan selisih suhu di kota Sapporo dan Nagoya pada musim 
+dingin.

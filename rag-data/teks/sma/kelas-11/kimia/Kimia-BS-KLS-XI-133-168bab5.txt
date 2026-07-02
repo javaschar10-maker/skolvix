@@ -1,0 +1,1677 @@
+119
+Bab V  Termokimia
+Bab
+V
+Termokimia
+Setelah mempelajari bab ini, kalian dapat menjelaskan tentang konsep termokimia, 
+jenis-jenis sistem, hubungan antara energi, kalor, dan kerja, pengertian perubahan 
+entalpi, dan jenis-jenis perubahan entalpi serta menentukan harga perubahan entalpi 
+berdasarkan harga energi ikatan, hukum Hess, dan berdasarkan data percobaan 
+kalorimeter. Selain itu, kalian mampu melakukan percobaan menggunakan kalori-
+meter, mampu membuat kalorimeter sederhana, dan memahami penggunaan konsep 
+termokimia dalam kehidupan sehari-hari.
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XI
+Penulis 
+: Munasprianto Ramli, dkk.
+ISBN 
+: 978-602-427-923-3 (jil.1)
+120
+Kimia untuk SMA/MA Kelas XI
+Mind Map
+Komik Kimia
+121
+Bab V  Termokimia
+Gambar 5.1 Mengatasi permasalahan sampah sebagai energi
+Sumber : RitaE/pixabay (2013)
+Sampah merupakan masalah besar saat ini, terutama di kota-kota besar yang 
+padat penduduk. Minimnya kesadaran masyarakat untuk memilah sampah 
+sesuai dengan jenis bahan dasarnya merupakan salah satu penyebab sulitnya 
+pengolahan sampah. Berdasarkan data dari Badan Statistik Nasional tahun 
+2014, rata-rata 81% masyarakat Indonesia membuang sampah dengan tidak 
+memilah jenis sampah. Selain itu, pengolahan sampah di beberapa daerah di 
+negara kita belum memaksimalkan potensi energi yang terkandung di dalam 
+sampah.
+Negara-negara maju seperti Denmark, Swiss, Amerika, dan Prancis, telah 
+mengatasi masalah sampah dengan pengolahan yang maksimal. Tidak hanya 
+mengatasi bau busuk dari sampah, tetapi mampu mengubah sampah-sampah 
+tersebut menjadi energi listrik. 
+Berdasarkan fakta tersebut, mengapa sampah dapat diolah dan meng-
+hasilkan energi? Bagaimana cara menentukan kalor yang dihasilkan atau 
+dibutuhkan dalam perubahan kimia dan isika? Ayo, pertanyaan apa lagi yang 
+ingin kalian ajukan berkaitan dengan fakta ini?
+122
+Kimia untuk SMA/MA Kelas XI
+A. Hukum Kekekalan Energi
+Semua benda di alam semesta memiliki energi. Energi digunakan pada saat 
+benda tersebut berpindah tempat atau berubah bentuk. Ada dua energi yang 
+dimiliki oleh suatu benda, yaitu energi potensial dan energi kinetik. Energi 
+potensial adalah energi yang dimiliki oleh suatu benda ketika benda tersebut 
+diam. Adapun energi kinetik adalah energi yang dimiliki suatu benda ketika 
+benda tersebut bergerak. Jumlah dari energi kinetik dan energi potensial 
+disebut dengan energi dalam (energi internal). Energi dalam ini yang dapat 
+dimanfaatkan dalam pengolahan sampah menjadi energi listrik atau panas.
+Hukum kekekalan energi menyatakan bahwa energi tidak dapat diciptakan 
+atau dimusnahkan, energi dapat diubah dari satu bentuk ke bentuk lain. Salah 
+satu contoh bentuk perubahan energi adalah energi listrik berubah menjadi 
+energi gerak.
+Gambar 5.2 Pemanasan balon udara
+Sumber: Nicolae Baltatescu/pixabay.com (2021)
+Coba amati perubahan energi yang terjadi pada balon udara. Cara kerja 
+balon udara, pertama-tama balon udara diisi dengan gas sampai mengembang. 
+Selanjutnya, gas tersebut dipanaskan sehingga suhu di dalam balon lebih tinggi 
+dibandingkan suhu di luar balon dan gas menjadi memuai. Ketika gas di dalam 
+balon semakin memuai dan energi kinetik gas semakin besar karena proses 
+pemanasan, balon akan bergerak naik akibat terdorong oleh gas yang ada di 
+dalam balon. Coba kalian diskusikan, perubahan energi apa yang terjadi pada 
+kerja balon udara. Tuliskan hasil diskusi kalian di buku tulis masing-masing.
+123
+Bab V  Termokimia
+Aktivitas 5.1
+Jenis-jenis perubahan energi
+Analisis jenis perubahan energi yang terjadi pada kegiatan-kegiatan berikut!
+No.
+Kegiatan
+Jenis perubahan energi
+1.
+Penggunaan baterai pada mobil 
+mainan.
+2.
+Penggunaan baterai pada lampu 
+senter.
+3.
+Penggunaan turbin pada pembangkit 
+listrik.
+4.
+Penggunaan batu bara pada kereta api.
+Buat kesimpulan dari pengamatan yang sudah kalian lakukan!
+Setelah kalian memahami berbagai bentuk perubahan energi, kita 
+lanjutkan pembahasan mengenai termokimia. Termokimia adalah bagian 
+ilmu kimia yang mempelajari kalor yang menyertai perubahan materi. Kalor 
+adalah salah satu bentuk energi yang dapat diterima atau dilepaskan oleh 
+suatu materi. Kalor, energi, dan kerja dapat dihubungkan melalui rumus 
+matematika berikut.
+ΔE = q + w
+Keterangan:
+∆E = perubahan energi dalam (J)
+q = jumlah kalor yang diserap atau dilepas sistem (J)
+w = kerja yang dilakukan sistem (J)
+Nilai q dan w bisa positif atau negatif. Untuk menentukan nilai q dan w 
+digunakan aturan berikut.
+• 
+q bernilai positif (+) jika sistem menyerap kalor (q > 0).
+• 
+q bernilai negatif (–) jika sistem melepas kalor (q < 0).
+124
+Kimia untuk SMA/MA Kelas XI
+• 
+w bernilai positif (+) jika sistem menerima kerja (w > 0).
+• 
+w bernilai negatif (–) jika sistem melakukan kerja (w < 0).
+Contoh
+Suatu sistem menyerap kalor sebesar 300 kJ setelah melakukan kerja sebesar 
+125 kJ. Tentukan perubahan energi yang terjadi!
+Pembahasan:
+Diketahui: sistem melakukan kerja = –125 kJ 
+ 
+ 
+sistem menyerap kalor = +300 kJ
+Ditanyakan: perubahan energi dalam? 
+Jawab: ΔE = q + w
+ 
+ 
+= 300 kJ + (–125 kJ)
+ 
+ 
+= 175 kJ
+Jadi, perubahan energi dalam pada sistem tersebut adalah +175 kJ.
+B. Sistem dan Lingkungan
+Seorang pelajar sedang mengamati perubahan suhu yang terjadi ketika dia 
+melarutkan satu sendok urea ke dalam satu gelas air. Ternyata, ketika dia 
+mengaduk urea dengan sendok, suhu gelas menjadi dingin. Dia melakukan 
+pengamatan tersebut di atas meja. Jika urea beserta air merupakan sistem, 
+sedangkan gelas, sendok, dan meja disebut sebagai lingkungan, dapatkah 
+kalian menyimpulkan, apa itu sistem dan apa itu lingkungan? Silakan 
+diskusikan dengan guru dan teman-temanmu.
+Sistem
+Lingkungan
+Sistem dan lingkungan dapat melakukan interaksi berupa pertukaran 
+materi dan energi. Berdasarkan interaksi ini, sistem dibedakan menjadi tiga 
+jenis, yaitu:
+125
+Bab V  Termokimia
+1. 
+Sistem terbuka, yaitu sistem yang dapat mengalami pertukaran materi 
+dan energi dengan lingkungan. 
+2. 
+Sistem tertutup, yaitu sistem yang dapat mengalami pertukaran energi 
+dengan lingkungan, tetapi tidak dapat mengalami pertukaran materi. 
+3. 
+Sistem terisolasi, yaitu sistem yang tidak dapat mengalami pertukaran 
+dengan lingkungan, baik materi maupun energi. 
+Aktivitas 5.2
+Jenis-jenis sistem dalam termokimia
+Silakan kalian diskusikan dengan guru dan teman-teman, mengapa contoh-
+contoh berikut dikatakan sistem terbuka, sistem tertutup, dan sistem terisolasi. 
+Hubungkan dengan pengertian dari ketiga jenis sistem tersebut.
+No.
+Contoh
+Penjelasan
+1.
+Air panas dalam gelas terbuka 
+adalah sistem terbuka.
+2.
+Air panas dalam gelas tertutup 
+adalah sistem tertutup.
+3.
+Air panas dalam termos adalah 
+sistem terisolasi.
+C. Reaksi Eksotermik dan Endotermik
+Seperti yang sudah dipelajari dalam subbab sebelumnya, kalor dapat menga-
+lami perpindahan. Perpindahan tersebut terjadi dari sistem ke lingkungan 
+atau dari lingkungan ke sistem karena adanya perbedaan suhu.
+1. Reaksi eksotermik
+Reaksi eksotermik adalah reaksi kimia yang disertai dengan pelepasan kalor 
+dari sistem ke lingkungan. Contohnya reaksi pembakaran.
+C3H8(g) + 5O2(g) 
+ 3CO2(g) + 4H2O(l) + panas
+Pada reaksi eksotermik, sistem akan mengalami penurunan energi karena 
+sistem melepaskan kalor (ditandai dengan suhu lingkungan yang naik). 
+126
+Kimia untuk SMA/MA Kelas XI
+Akibatnya, energi sesudah reaksi (E2) lebih kecil dari energi sebelum reaksi 
+(E1), sehingga perubahan energi (∆E) akan bernilai negatif, E2 – E1 < 0 (berharga 
+negatif).
+2. Reaksi endotermik
+Reaksi endotermik adalah reaksi kimia yang disertai dengan penyerapan kalor 
+dari lingkungan ke sistem. Contohnya reaksi fotosintesis.
+6CO2(g) + 6H2O(l) 
+cahaya matahari
+ C6H12O6(s) + 6O2(g)
+Pada reaksi endotermik, sistem akan mengalami kenaikan energi karena 
+sistem menyerap kalor (ditandai dengan suhu lingkungan yang turun). 
+Akibatnya, energi setelah reaksi (E2) lebih besar dari energi sebelum reaksi 
+(E1), sehingga perubahan energi (∆E) akan bernilai positif, E2 – E1 > 0 (berharga 
+positif).
+Aktivitas 5.3
+Menentukan reaksi eksotermik dan endotermik
+Tujuan:
+Untuk mengetahui reaksi eksotermik dan endotermik berdasarkan hasil 
+percobaan.
+Alat:
+1. 
+2 buah gelas piala 100 ml
+2. 
+1 buah gelas ukur 50 ml
+3. 
+1 buah batang pengaduk
+4. 
+1 buah termometer
+Bahan:
+1. 
+Larutan HCl 0,5 M
+2. 
+Larutan HCl 1 M
+3. 
+Logam Mg
+4. 
+Larutan NaHCO3 0,5 M
+Langkah kerja:
+Percobaan 1: Reaksi logam Mg + larutan HCl
+1. 
+Ukur volume larutan HCl 0,5 M sebanyak 20 ml menggunakan gelas ukur.
+2. 
+Masukkan ke dalam gelas piala 100 ml.
+127
+Bab V  Termokimia
+3. 
+Ukur suhunya dan catat.
+4. 
+Siapkan logam Mg seberat 0,5 gram.
+5. 
+Masukkan logam Mg ke dalam gelas piala yang berisi larutan HCl.
+6. 
+Ukur suhu campuran dan catat.
+7. 
+Hitung perubahan suhu yang terjadi.
+Percobaan 2: Reaksi NaHCO3 dan HCl
+1. 
+Ukur volume larutan NaHCO3 0,5 M sebanyak 20 ml menggunakan gelas 
+ukur.
+2. 
+Masukkan ke dalam gelas piala 100 ml.
+3. 
+Ukur suhunya dan catat.
+4. 
+Ukur volume larutan HCl 1 M sebanyak 20 ml menggunakan gelas ukur.
+5. 
+Ukur pula suhunya dan catat.
+6. 
+Masukkan larutan HCl ke dalam gelas piala yang berisi larutan NaHCO3.
+7. 
+Segera aduk, lalu ukur suhu campuran dan catat.
+8. 
+Hitung perubahan suhu yang terjadi.
+Pengumpulan data:
+Percobaaan
+Suhu awal
+Suhu akhir
+ΔT
+1
+2
+Pertanyaan:
+1. 
+Pada percobaan 1, bagaimana perubahan suhu sebelum dan sesudah 
+reaksi? Bagaimana pula dengan percobaan 2?
+2. 
+Berdasarkan data yang telah kalian peroleh, manakah yang merupakan 
+reaksi eksotermik dan endotermik? Jelaskan!
+D. Kalorimetri
+Di laboratorium, pertukaran kalor dalam proses isika ataupun kimia diukur 
+dengan menggunakan suatu alat yang disebut kalorimeter, sedangkan 
+kegiatan pengukuran perubahan kalor dengan menggunakan kalorimeter 
+disebut dengan kalorimetri. Kalor yang dilepas oleh satu benda akan diserap 
+oleh benda yang lain sesuai dengan hukum kekekalan energi. Sebenarnya, 
+kalor tidak dapat diukur secara langsung dengan alat, tetapi kita dapat 
+mengukur perubahan suhu dengan menggunakan termometer.
+128
+Kimia untuk SMA/MA Kelas XI
+Termometer
+pengaduk
+air
+kawat pemicu
+sampel 
+dalam 
+wadah
+oksigen 
+atmosfer
+Gambar 5.3 Kalorimeter bom dan kalorimeter sederhana
+Tahukah kalian, alat kalorimeter bom digunakan oleh para ahli kimia 
+pangan untuk menentukan kalori yang terdapat dalam bahan makanan? 
+Mengapa demikian? Karena ternyata keadaan awal dan akhir metabolisme 
+tubuh manusia yang sangat kompleks mirip dengan keadaan awal dan akhir 
+pada kalorimeter bom.
+Kalorimeter bom dirancang secara khusus agar tidak ada kalor yang 
+keluar ataupun masuk kalorimeter bom, sehingga:
+qreaksi = –qkalorimeter
+Kapasitas kalor adalah energi yang diperlukan untuk menaikkan suhu 
+benda sebesar 1°C. Antara suhu dan kalor dihubungkan dengan persamaan 
+sebagai berikut.
+q = C.ΔT
+Keterangan:
+q = kalor yang dilepaskan/diserap (J)
+C = kapasitas kalor (J.°C–1)
+ΔT = perubahan suhu (°C)
+Kalor jenis adalah banyaknya kalor yang diserap atau diperlukan oleh 1 
+gram zat untuk menaikkan suhu sebesar 1°C. Jika kita menghitung kalor suatu 
+zat berdasarkan massa zat tersebut maka digunakan persamaan berikut.
+129
+Bab V  Termokimia
+q = m.c.ΔT
+Keterangan:
+q = kalor yang dilepaskan/diserap (J)
+m = massa (g)
+c = kalor jenis (J.g–1.°C–1)
+ΔT = perubahan suhu (°C)
+Contoh
+Seorang ahli kimia pangan akan menghitung jumlah kalori yang terdapat 
+dalam laktosa. Dia memasukkan laktosa sebanyak 200 mg  ke dalam kalorimeter 
+bom dan dibakar sehingga terjadi perubahan suhu dari 20°C menjadi 20,9°C. 
+Jika kapasitas kalor kalorimeter bom adalah 420 J.°C–1, berapakah kalori dari 
+laktosa tersebut?
+Pembahasan:
+Pada proses pembakaran laktosa dalam kalorimeter bom terjadi kenaikan 
+suhu, di mana sistem melepaskan kalor dan lingkungan (kalorimeter) 
+menyerap kalor (sesuai dengan hukum kekekalan energi).
+Kalor yang diserap kalorimeter bom adalah:
+qkal = Ckal.∆T
+ 
+= 420 J.°C–1 × (20,9 – 20)°C
+ 
+= 378 J
+Dari hasil percobaan, ternyata diperoleh kalor yang diserap oleh kalorimeter 
+adalah 378 joule, artinya sistem (laktosa) melepaskan kalor sebesar 378 joule.
+Jadi, qsistem = 378 joule.
+E. Entalpi dan Perubahan Entalpi
+Reaksi kimia lebih banyak dilakukan pada kondisi tekanan tetap, sehingga 
+diperkenalkan fungsi termodinamika lain yang disebut dengan entalpi (H). 
+Ketika reaksi sedang berlangsung pada tekanan tetap, sistem dapat melakukan 
+pertukaran kalor (qp) dan melakukan kerja (w), sehingga dapat digunakan 
+rumus berikut untuk menghitung harga ΔE.
+130
+Kimia untuk SMA/MA Kelas XI
+ΔE = qp + w
+ΔE = qp – P.ΔV
+qp = ΔE + P.ΔV
+Karena P tetap maka P.ΔV = Δ(PV) dan persamaannya menjadi:
+qp = Δ(E + PV)
+Kombinasi (E + PV) yang ada di ruas kanan dideinisikan sebagai entalpi (H).
+H = E + PV
+Sehingga pada tekanan tetap berlaku:
+qp = Δ(E + PV) = ΔH
+Seperti sudah dibahas sebelumnya, reaksi kimia banyak berlangsung 
+dalam kondisi tekanan tetap, sehingga pertukaran kalor sama dengan 
+perubahan entalpi. Perubahan entalpi dapat dideinisikan dengan persamaan:
+ΔH = Hakhir – Hawal
+atau dapat ditulis:
+ΔH = Hproduk – Hreaktan
+Perubahan entalpi dapat bernilai positif dan negatif.
+Pada subbab C, telah dibahas mengenai reaksi eksotermik dan endotermik. 
+Pada reaksi eksotermik, energi akhir (berupa entalpi, H2) lebih kecil daripada 
+energi awal (H1) karena sistem melepaskan kalor, sehingga harga ΔH < 0.
+C3H8(g) + 5O2(g) 
+ 3CO2(g) + 4H2O(l)
+kalor
+H
+ΔH
+H1
+H2
+C3H8(g) + 5O2(g)
+3CO2(g) + 4H2O(l)
+Gambar 5.4 Graik perubahan entalpi reaksi eksotermik
+131
+Bab V  Termokimia
+Pada reaksi endotermik, energi akhir (berupa entalpi, H2) lebih besar 
+dibandingkan energi awal (H2) karena sistem menyerap kalor, sehingga harga 
+ΔH > 0.
+6CO2(g) + 6H2O(l) 
+cahaya matahari
+ C6H12O6(s) + 6O2(g)
+H
+ΔH
+H2
+H1
+C6H12O6(s) + 6O2(g)
+6CO2(g) + 6H2O(l)
+kalor
+Gambar 5.5 Graik perubahan entalpi reaksi endotermik
+Seperti yang sudah dipaparkan di subbab D, kalorimeter bom merupakan 
+sistem yang terisolasi, tidak adanya pertukaran kalor dari sistem ke lingkungan, 
+sehingga kalor reaksi pada kalorimeter dapat dinyatakan dengan:
+qreaksi = –(qsistem + qkalorimeter)
+Kalor yang diserap oleh kalorimeter sangat kecil (420 J.°C–1), seringkali diabai-
+kan, sehingga persamaan di atas dapat ditulis:
+qreaksi = –qsistem
+Pada tekanan tetap: 
+qreaksi = ΔH
+Contoh
+Sebanyak 100 ml larutan NaOH 0,02 M direaksikan dengan 100 ml larutan HCl 
+0,02 M dalam kalorimeter sederhana. Suhu awal dari kedua larutan tersebut 
+adalah 22,5°C. Jika setelah reaksi, suhu campuran menjadi 24,6°C, hitunglah 
+perubahan entalpi (ΔH) untuk reaksi penetralan tersebut!
+132
+Kimia untuk SMA/MA Kelas XI
+Catatan:
+Karena massa zat terlarut sangat kecil maka massa jenis larutan dianggap sama 
+dengan massa jenis air = 1 g.ml–1, kalor jenis air = 4,2 J.g–1.°C–1, dan diasumsikan 
+panas yang dilepaskan ke kalorimeter diabaikan.
+Pembahasan:
+Massa campuran = massa NaOH + massa HCl
+ 
+ 
+= (100 ml × 1 g.ml–1) + (100 ml × 1 g.ml–1)
+ 
+ 
+=  200 gram
+Perubahan suhu (ΔT) = (24,6 – 22,5)°C = 2,1°C
+Kalor yang dilepaskan dari reaksi diterima oleh larutan, sehingga: 
+qlarutan = –qreaksi
+Untuk menghitung perubahan kalor yang terjadi, gunakan persamaan berikut.
+qlarutan = m.c.ΔT
+ 
+ = 200 g × 4,2 J.g–1.°C–1 × 2,1°C
+ 
+ = 1.764 J
+ 
+ = 1,764 kJ
+qreaksi = –1,764 kJ 
+qreaksi merupakan kalor yang dilepaskan ketika mereaksikan 100 ml NaOH 0,02 
+M (0,002 mol NaOH) dan 100 ml HCl 0,02 M (0,002 mol HCl).
+Adapun pada reaksi penetralan:
+NaOH(aq) + HCl(aq) 
+ NaCl(aq) + H2O(l)
+kalor penetralannya berlaku untuk 1  mol NaOH dan 1 mol HCl, sehingga:
+1
+1
+1 764
+0 002
+882
+reaksi
+(
+,
+ kJ)
+,
+ kJ.mol
+q
+
+
+ 
+ 
+Pada tekanan tetap, qreaksi = ∆H sehingga ∆H = –882 kJ.mol–1.
+Catatan:
+100 ml NaOH 0,02 M = 2 mmol = 0,002 mol
+100 ml HCl 0,02 M = 2 mmol = 0,002 mol
+ 
+ 
+Untuk mengukur perubahan entalpi suatu reaksi pada tekanan tetap, 
+dapat dilakukan melalui percobaan. Lakukan percobaan di bawah ini 
+secara berkelompok, olah data hasil percobaan yang kalian dapatkan, buat 
+kesimpulan, dan komunikasikan hasil percobaan kalian dengan teman-teman 
+sekelas.
+133
+Bab V  Termokimia
+Aktivitas 5.4
+Mengukur perubahan entalpi menggunakan kalorimeter
+Alat dan bahan:
+1. 
+Satu set alat kalorimeter sederhana 
+2. 
+Air
+3. 
+NaCl
+Langkah kerja:
+1. 
+Timbang air sebanyak 125 gram, masukkan ke dalam kalorimeter 
+sederhana.
+2. 
+Ukur suhu awal air dalam kalorimeter dan catat.
+3. 
+Timbang NaCl sebanyak 5 gram, masukkan ke dalam kalorimeter.
+4. 
+Tutup kalorimeter dan aduk.
+5. 
+Ukur suhu akhir larutan dan catat.
+6. 
+Tentukan kalor pelarutan NaCl tersebut berdasarkan data hasil percobaan.
+Pertanyaan:
+1. 
+Hitunglah perubahan entalpi pada pelarutan NaCl, jika kalor jenis larutan 
+= kalor jenis air = 4,2 J.g–1.°C–1, kapasitas kalorimeter = 0 J.°C–1, massa jenis 
+air = massa jenis larutan = 1 g.ml–1, dan Mr NaCl = 58,5.
+2. 
+Buat kesimpulan dari percobaan yang sudah kalian lakukan. Apakah 
+proses tersebut berlangsung secara eksotermik atau endotermik? Jelaskan!
+Setelah mempelajari contoh soal dan melakukan percobaan mengenai 
+penentuan kalor dengan menggunakan kalorimetri, ayo berlatih meng hitung 
+kalor reaksi dari data percobaan kalorimetri pada soal-soal berikut.
+Ayo Berlatih
+1. 
+Asam benzoat merupakan zat yang sering digunakan untuk mengawet-
+kan minuman ringan atau sirup. Seorang ahli kimia pangan meneliti 
+jumlah kalori yang terdapat dalam asam benzoat. Dia memasukkan
+134
+Kimia untuk SMA/MA Kelas XI
+500 mg asam benzoat ke dalam kalorimeter bom dan terjadi perubahan 
+suhu dari 20°C menjadi 22,87°C. Jika kapasitas kalor kalorimeter bom 
+adalah 420 J.°C–1, hitung jumlah kalori yang terdapat dalam asam 
+benzoat tersebut!
+2. 
+Seorang pelajar melakukan percobaan di laboratorium sekolahnya. 
+Dia ingin mengetahui jumlah kalor yang menyertai reaksi penetralan 
+150 ml larutan HCl 0,01 M dengan 150 ml larutan KOH 0,01 M. Dia 
+mereaksikan kedua larutan tersebut di dalam kalorimeter sederhana. 
+Setelah reaksi berlangsung terjadi kenaikan suhu sebesar 3,2°C. 
+Berapakah perubahan entalpi pada reaksi tersebut jika kalor jenis 
+larutan = kalor jenis air = 4,2 J.g–1.°C–1 dan massa jenis larutan = massa 
+jenis air = 1 g.ml–1?
+3. 
+Pada proses pelarutan 1,7 gram NaNO3 dalam 100 gram air terjadi 
+penurunan suhu sebesar 1,56°C. Hitung kalor yang menyertai reaksi 
+pelarutan tersebut jika kalor jenis larutan = 4,2 J.g–1.°C–1, kapasitas 
+kalor kalorimeter = 11,7 J.°C–1, dan Mr NaNO3 = 85!
+F. Persamaan Termokimia
+Persamaan termokimia merupakan persamaan reaksi kimia yang menyertakan 
+jumlah kalor yang terlibat di dalam reaksi tersebut. Kalor yang terlibat dalam 
+reaksi tersebut dilambangkan dengan ΔH. Jika reaksi tersebut melepaskan 
+kalor dari sistem ke lingkungan (reaksi eksotemik), maka ΔH akan berharga 
+negatif. Sebaliknya, jika reaksi tersebut berlangsung dengan menyerap kalor 
+dari lingkungan ke sistem (reaksi endotermik), maka ΔH akan berharga positif.
+Perhatikan contoh-contoh persamaan termokimia berikut. 
+1. 
+2P(s) + 3Br2(l) 
+ 2PBr3(g)        ΔH = –242 kJ
+Artinya, reaksi antara 2 mol posporus merah dengan 3 mol bromin akan 
+melepaskan kalor reaksi sebesar 242 kJ (ΔH negatif). 
+2. 
+P(s) +  Br2(l) 
+ PBr3(g)        ΔH = –121 kJ
+Perhatikan koeisien masing-masing zat dan harga perubahan entalpi. Per-
+sa maan termokimia ini merupakan setengah dari persamaan termokimia 
+yang pertama, sehingga harga perubahan entalpinya juga setengah dari 
+135
+Bab V  Termokimia
+ΔH persamaan termokimia pertama. Pada persamaan termokimia, koei-
+sien reaksi boleh berupa pecahan karena merupakan jumlah zat dalam 
+satuan mol. 
+3. 
+H2O(l) 
+ H2O(g)        ΔH = +40,7 kJ.mol–1
+Artinya, untuk menguapkan 1 mol air diserap kalor sebesar 40,7 kJ (ΔH 
+positif). 
+Sedangkan ketika reaksi berlangsung sebaliknya:
+H2O(g) 
+ H2O(l)        ΔH = –40,7 kJ.mol–1
+terjadi pelepasan  kalor sehingga harga ΔH menjadi negatif.
+Agar kalian lebih paham lagi, yuk berlatih dengan mengerjakan soal-soal 
+latihan berikut.
+Ayo Berlatih
+1. 
+Jelaskan arti dari persamaan termokimia berikut!
+C(s) + O2(g) 
+ CO2(g)        ΔH = –393,5 kJ.mol–1
+2. 
+Tuliskan persamaan termokimia dari pernyataan berikut!
+Untuk pembakaran sempurna 1 mol metanol (CH3OH) menjadi gas CO2 
+dan uap air, dilepaskan kalor sebesar 692,6 kJ.
+3. 
+Pada reaksi pembakaran 2 mol gas NO menjadi gas NO2, dilepaskan 
+kalor sebesar 114,14 kJ, menurut reaksi: 
+2NO(g) + O2(g) 
+ 2NO2(g)        ΔH = –114,14 kJ
+Hitunglah kalor yang dilepaskan jika 1,5 gram gas NO dibakar pada 
+tekanan tetap! (Mr NO = 30)
+4. 
+Kalor yang dilepaskan ketika terjadi reaksi pembakaran gas CO 
+menjadi CO2 adalah –283,0 kJ.mol–1, menurut reaksi:  
+CO(g) +  O2(g) 
+ CO2(g)        ΔH = –283,0 kJ.mol–1 
+Hitunglah kalor yang diserap jika 1,1 gram gas CO2 diuraikan menjadi 
+gas CO dan oksigen! (Ar C = 12, O = 16)
+136
+Kimia untuk SMA/MA Kelas XI
+G. Perubahan Entalpi dalam Keadaan Standar
+Entalpi reaksi sama halnya dengan energi mutlak, tidak dapat diukur. Hanya 
+perubahan entalpilah yang dapat diukur atau dihitung. Terdapat satu kondisi 
+sebagai acuan untuk menentukan perubahan entalpi standar dari suatu reaksi.
+Nilai suhu yang umum digunakan pada perubahan entalpi standar 
+adalah 25°C. Perubahan entalpi standar dilambangkan dengan ΔH°. Beberapa 
+perubah an entalpi standar di antaranya perubahan entalpi pembentukan 
+standar ( ∆H f
+o ), perubahan entalpi penguraian standar (
+o
+d
+H
+
+), perubahan 
+entalpi pembakaran standar (
+o
+c
+H
+
+), dan perubahan entalpi pelarutan standar 
+(
+o
+s
+H
+
+).
+1. Perubahan entalpi pembentukan standar
+Perubahan entalpi pembentukan standar ( ∆H f
+o ) adalah perubahan entalpi 
+yang terjadi dalam pembentukan 1 mol senyawa dari unsur­unsurnya yang 
+paling stabil pada keadaan standar (298 K, 1 atm, 1 molar).
+Perhatikan persamaan termokimia berikut.
+H2(g) +   O2(g) 
+ H2O(g)        ∆H f
+o = –241,8 kJ
+Artinya, perubahan entalpi yang dilepaskan (ΔH negatif) untuk membentuk 1 
+mol gas H2O dari unsur-unsurnya pada keadaan standar adalah 214,8 kJ. 
+Contoh
+1. 
+Perhatikan tiga persamaan termokimia berikut.
+H2O(l) + SO3(g) 
+ H2SO4(l)  
+ΔH = –x kJ
+2H+(g) + SO4
+2–(aq) 
+ H2SO4(l) 
+ΔH = –y kJ
+H2(g) + S(s) + 2O2(g) 
+ H2SO4(l) 
+ΔH = –z kJ
+Menurut kalian, manakah dari ketiga persamaan termokimia di atas yang 
+menunjukkan perubahan entalpi pembentukan standar ( ∆H f
+o ) dari H2SO4?
+Pembahasan:
+Seperti yang sudah dijelaskan sebelumnya, perubahan entalpi pemben-
+tukan standar ( ∆H f
+o ) adalah perubahan entalpi yang diserap/dilepaskan 
+dalam pembentukan 1 mol senyawa dari unsur-unsurnya. Maka, yang 
+merupakan ∆H f
+o dari H2SO4 adalah persamaan termokimia yang ketiga, 
+137
+Bab V  Termokimia
+karena pada reaksi tersebut 1 mol H2SO4 terbentuk dari unsur-unsurnya, 
+yaitu hidrogen (gas H2), belerang (padatan S), dan oksigen (gas O2).
+Pada reaksi pertama, H2SO4 terbentuk dari H2O (senyawa) dan SO3 
+(senyawa). Adapun pada reaksi kedua, H2SO4 terbentuk dari ion 2H+ dan 
+ion SO4
+2–.
+2. 
+Perubahan entalpi pembentukan standar ( ∆H f
+o ) NaOH adalah –463,96 
+kJ.mol–1. Hitunglah perubahan entalpi yang dilepaskan/diserap untuk 
+pembentukan 5 gram NaOH dari unsur-unsurnya! (Mr NaOH = 40)
+Pembahasan:
+Persamaan termokimia pembentukan NaOH standar adalah:
+Na(s) +  O2(g) +  H2(g) 
+ NaOH(s)        ∆H f
+o = –463,96 kJ.mol–1
+Dari persamaan termokimia tersebut, kita peroleh data bahwa harga mol 
+NaOH pada keadaan standar adalah 1 mol dan ∆H f
+o = –463,96 kJ.mol–1.
+5 gram NaOH setara dengan 
+1
+5 g
+40 g.mol = 0,125 mol.
+ΔH untuk membentuk 5 gram NaOH dari unsur-unsurnya adalah:
+ΔH = 0,125 mol
+1 mol
+ × (–463,96 kJ.mol–1) = –57,995 kJ.mol–1
+Berikut adalah tabel perubahan entalpi pembentukan standar ( ∆H f
+o ) beberapa 
+senyawa.
+Tabel 5.2  Perubahan entalpi pembentukan standar dari beberapa senyawa
+Senyawa
+ (kJ.mol–1)
+Senyawa
+ (kJ.mol–1)
+H2O(l)
+–285,80
+CH3OH(g)
+–200,66
+H2O(s)
+–292,00
+CCl4(l)
+–135,44
+H2O(g)
+–242,00
+NH3(g)
+–46,11
+CO2(g)
+–393,50
+HNO3(l)
+–174,10
+CO(g)
+–110,50
+NO(g)
++90,25
+NaCl(s)
+–411,15
+NO2(g)
++33,20
+138
+Kimia untuk SMA/MA Kelas XI
+Senyawa
+ (kJ.mol–1)
+Senyawa
+ (kJ.mol–1)
+CH4(g)
+–74,80
+PCl3(g)
+–287,0
+C2H2(g)
++227
+CO(NH2)2(s)
+–333,51
+CaO(s)
+–635,09
+SO2(g)
+–296,83
+CaCl2(s)
+–795,8
+C4H10(g)
+–126
+Berdasarkan kesepakatan internasional, perubahan entalpi pembentukan 
+standar unsur-unsur dalam bentuk stabil memiliki harga nol.
+Ayo Berlatih
+1. 
+Tuliskan persamaan termokimia dari:
+a. 
+o
+f
+H
+
+ HNO2(g) = –79,5 kJ.mol–1
+b. 
+o
+f
+H
+
+ HCl(g) = –92,31 kJ.mol–1
+c. 
+o
+f
+H
+
+ CaCO3(s) = –1.206,92 kJ.mol–1
+2. 
+Tuliskan persamaan termokimia jika pada pembentukan 1 mol gas 
+propana (C3H8) dari unsur-unsurnya dilepaskan kalor sebesar –103,85 
+kJ.mol–1!
+3. 
+Sebanyak 170 gram gas H2S diproduksi dari unsur-unsur pembentuk-
+nya. Pada reaksi tersebut, dilepaskan kalor sebesar –101 kJ.mol–1. Jika 
+kita akan membentuk gas H2S dalam keadaan standar, berapakah 
+kalor yang akan dilepaskan?
+Perubahan entalpi pembentukan standar ( ∆H f
+o ) dapat digunakan untuk 
+menentukan harga perubahan entalpi reaksi yang lain. Sebagai contoh, reaksi 
+kimia berikut.
+CO2(g) + H2(g) 
+ CO(g) + H2O(g)
+Diketahui ∆H f
+o CO2 = –393,5 kJ.mol–1; ∆H f
+o CO = –110,50 kJ.mol–1; dan ∆H f
+o H2O 
+= –242,0 kJ.mol–1.
+139
+Bab V  Termokimia
+reaksi
+ produk
+ reaktan
+o
+o
+f
+f
+H
+H
+H
+
+
+
+
+
+
+
+CO2(g) + H2(g) 
+ CO(g) + H2O(g)
+ 
+ 
+reaktan 
+produk
+∆H f
+o
+reaksi = [ ∆H f
+o CO + ∆H f
+o H2O] – [ ∆H f
+o CO2 + ∆H f
+o H2]
+ 
+ 
+= [–110,50 kJ.mol–1 + (–242,0 kJ.mol–1)] – [–393,50 kJ.mol–1 + 0]
+ 
+ 
+= –41 kJ.mol–1
+Persamaan termokimia untuk reaksi tersebut adalah: 
+CO2(g) + H2(g) 
+ CO(g) + H2O(g)        ΔH = –41 kJ.mol–1
+Ayo Berlatih
+1. 
+Reaksi pembakaran gas metana berlangsung sebagai berikut.
+CH4(g) + 2O2(g) 
+ CO2(g) + 2H2O(g)
+Jika diketahui 
+o
+f
+H
+
+ CH4 = –74,8 kJ.mol–1; 
+o
+f
+H
+
+ CO2 = –393,5 kJ.mol–1; dan 
+o
+f
+H
+
+ H2O = –241,8 kJ.mol–1, hitunglah perubahan entalpi pembakaran 
+1 mol gas metana tersebut!
+2. 
+Jika 1 mol metanol dibakar dalam keadaan standar, akan menghasil-
+kan kalor sebesar 726,9 kJ.mol–1 menurut persamaan termokimia:
+CH3OH(g) +  O2(g) 
+ CO2(g) + 2H2O(l)        ∆H = –726, 9 kJ.mol–1 
+Jika diketahui 
+o
+f
+H
+
+ CO2 = –393,5 kJ.mol–1 dan 
+o
+f
+H
+
+ H2O = –241,8 kJ.mol–1, 
+hitunglah perubahan entalpi pembentukan standar (
+o
+f
+H
+
+) metanol!
+3. 
+Diketahui 
+o
+f
+H
+
+ CO2 = –393,5 kJ.mol–1; 
+o
+f
+H
+
+ H2O = –241,8 kJ.mol–1; dan 
+o
+f
+H
+
+ C3H8 = –104 kJ.mol–1. Jika persamaan termokimia dari reaksi 
+pembakaran gas propana adalah:
+C3H8(g) + 5O2(g) 
+ 3CO2(g) + 4H2O(l)        ΔH = x kJ.mol–1
+hitunglah perubahan entalpi pada reaksi pembakaran 1,1 gram gas 
+propana! (Mr C3H8 = 44)
+140
+Kimia untuk SMA/MA Kelas XI
+2. Perubahan entalpi penguraian standar
+Perubahan entalpi penguraian standar (
+o
+d
+H
+
+) adalah perubahan entalpi yang 
+terjadi pada penguraian 1 mol senyawa menjadi unsur-unsurnya yang stabil 
+pada keadaan standar (298 K, 1 atm, 1 molar).
+Contoh:
+Jika pada bahasan sebelumnya dibahas mengenai entalpi pembentukan 
+standar ( ∆H f
+o ) H2O:
+H2(g) +  O2(g) 
+ H2O(g)        ∆H f
+o = –241,8 kJ
+maka untuk entalpi penguraian standar (
+o
+d
+H
+
+) H2O adalah:
+ H2O(g) 
+ H2(g) +  O2(g)        
+o
+d
+H
+
+ = +241,8 kJ
+Artinya, perubahan entalpi yang diserap (ΔH positif) untuk menguraikan 1 
+mol gas H2O menjadi unsur-unsurnya pada keadaan standar adalah 241,80 kJ.
+3. Perubahan entalpi pelarutan standar
+Perubahan entalpi pelarutan standar (
+o
+s
+H
+
+) adalah perubahan entalpi yang 
+terjadi pada pelarutan 1 mol senyawa pada keadaan standar (298 K, 1 atm, 1 
+molar).
+Contoh:
+HCl(g) 
+ HCl(aq)        
+o
+s
+H
+
+ = –75,14 kJ.mol–1
+Artinya, perubahan entalpi yang dilepaskan (ΔH negatif) pada pelarutan 1 mol 
+HCl dalam keadaan standar adalah 75,14 kJ.
+Penamaan perubahan entalpi untuk reaksi yang lain disesuaikan dengan  jenis 
+reaksinya.
+H. Hukum Hess
+Entalpi adalah suatu fungsi keadaan yang hanya bergantung pada keadaan 
+awal dan akhir reaksi, tanpa peduli tahapan-tahapan reaksi dari awal sampai 
+akhir. Seperti yang telah dijelaskan sebelumnya, perubahan entalpi (ΔH) dapat 
+dihitung dengan mengukur kalor pada keadaan tetap, tetapi tidak semua 
+reaksi dapat diketahui perubahan kalornya.
+141
+Bab V  Termokimia
+Pada tahun 1840, seorang ilmuwan kimia bernama Germain Henri Hess 
+melakukan manipulasi pada persamaan termokimia untuk menghitung 
+perubahan entalpi (ΔH) dan dikenal dengan hukum Hess.
+“Apabila sebuah reaksi berlangsung dalam dua 
+tahap reaksi atau lebih maka perubahan entalpi 
+terhadap reaksi tersebut akan bernilai sama 
+dengan jumlah perubahan entalpi dari seluruh 
+tahapan yang terjadi.”
+(Hukum Hess)
+ 
+Beberapa reaksi kimia dapat berlangsung melalui beberapa tahapan, 
+misalnya reaksi pembakaran karbon. Jika karbon dibakar dengan mengguna-
+kan gas oksigen yang berlebih, maka akan terbentuk gas karbon dioksida, 
+menurut reaksi berikut.
+C(s) + O2(g) 
+ CO2(g)        ΔH = –393,5 kJ
+Perkiraan perubahan reaksi tersebut dapat berlangsung dalam dua tahap. 
+Tahap 1: C(s) +  O2(g) 
+ CO(g) 
+ΔH = –110,5 kJ
+Tahap 2: CO(g) +  O2(g) 
+ CO2(g) 
+ΔH = –283,0 kJ
+Jika kedua tahap di atas digabungkan maka akan terbentuk reaksi berikut.
+C(s) + O2(g) 
+ CO2(g)        ΔH = –393,5 kJ
+Hukum Hess dapat dinyatakan dalam bentuk diagram siklus atau 
+diagram tingkat energi. Untuk reaksi pembakaran karbon di atas, kalian dapat 
+memerhatikan gambar berikut.
+Germain Henri Hess
+Sumber: P.A. Smirnov/wikimedia.org
+142
+Kimia untuk SMA/MA Kelas XI
+C(s) + O2(g)
+CO2(g)
+CO(g) +  O2(g)
+ΔH3 = –393,5 kJ
+ΔH1 = –110,5 kJ
+ΔH2 = –283,0 kJ
+Gambar 5.6 Diagram siklus pembentukan CO2
+Gambar di atas merupakan diagram siklus dari reaksi pembakaran 
+karbon. Dapat kalian lihat bahwa harga ∆H3 merupakan penjumlahan dari 
+ΔH1 dan ΔH2. 
+Perhatikan pula gambar di bawah ini.
+C(s) + O2(g)
+H
+ΔH3
+ΔH1
+ΔH2
+CO(g) +  O2(g)
+CO2(g)
+–393,5 kJ
+0 kJ
+–110,5 kJ
+Gambar 5.7 Diagram tingkat energi pembentukan CO2
+Gambar 5.7 merupakan diagram tingkat energi dari reaksi pembakaran 
+karbon. Coba kalian perhatikan, jika harga ΔH1 = –110,5 kJ dan ΔH3 = –393,5 
+kJ, bisakah kalian menentukan berapakah harga ΔH2? Ya, harga ΔH2 dapat 
+kalian tentukan dari harga ΔH1 dan ΔH3. Perhatikan pula arah panahnya. ΔH3 
+adalah gabungan (jumlah) dari ΔH1 dan ΔH2, sehingga kita dapat menuliskan 
+persamaan matematikanya sebagai berikut.
+         ΔH3  = ΔH1 + ΔH2
+–393,5 kJ = –110,5 kJ + ΔH2
+         ΔH2  = –393,5 kJ + 110,5 kJ = –283,0 kJ
+143
+Bab V  Termokimia
+Agar kalian lebih paham tentang hukum Hess, pelajari contoh soal berikut.
+Contoh
+Pada proses pembuatan asam sulfat, terdapat reaksi pembakaran sulfur 
+(belerang) menjadi gas belerang trioksida. Reaksi tersebut dapat melalui dua 
+tahap.
+Tahap 1:  S(s) + O2(g) 
+ SO2(g) 
+ΔH = –296,8 kJ
+Tahap 2:  2SO2(g) + O2(g) 
+ 2SO3(g) 
+ΔH = –197,8 kJ
+a. 
+Tentukan ΔH untuk reaksi 2S(s) + 3O2(g) 
+ 2SO3(g) berdasarkan hukum 
+Hess.
+b. 
+Buat diagram siklus dari reaksi tersebut.
+c. 
+Buat diagram tingkat energi dari reaksi tersebut.
+Pembahasan:
+a. 
+Kita akan menyusun ulang kedua reaksi (tahap 1 dan 2) menjadi reaksi 
+akhir, yaitu: 
+2S(s) + 3O2(g) 
+ 2SO3(g)
+Pada reaksi akhir, posisi unsur S berada di ruas kiri. Pada reaksi tahap 1 
+pun unsur S ada di ruas kiri, sehingga reaksi tidak perlu dibalik. Namun, 
+pada reaksi akhir, koeisien unsur S adalah 2, sedangkan pada reaksi tahap 
+1 koeisiennya 1, maka reaksi tahap 1 kita kali 2 menjadi: 
+Tahap 1:  2S(s) + 2O2(g) 
+ 2SO2(g)        ΔH = –593,6 kJ
+Selanjutnya, pada reaksi akhir terdapat senyawa SO3 dengan koeisien 
+2, sama dengan koeisien SO3 pada reaksi tahap 2. Begitu pula dengan 
+posisinya, sama-sama berada di ruas kanan, sehingga reaksi tahap 2 kita 
+tulis kembali. 
+Tahap 2:  2SO2(g) + O2(g) 
+ 2SO3(g)        ΔH = –197,8 kJ
+Sekarang, kita jumlahkan kedua reaksi tersebut.
+Tahap 1: 2S(s) + 2O2(g) 
+ 2SO2(g) 
+ΔH = –593,6 kJ
+Tahap 2: 2SO2(g) + O2(g) 
+ 2SO3(g) 
+ΔH = –197,8 kJ
+ 
+ 
++
+ 
+ 
+2S(s) + 3O2(g) 
+ 2SO3(g) 
+ΔH = –791,4 kJ
+144
+Kimia untuk SMA/MA Kelas XI
+b. 
+Diagram siklusnya:
+2S(s) + 2O2(g)
+2SO3(g)
+2SO2(g) + O2(g)
+ΔH3 = –791,4 kJ
+ΔH1 = –593,6 kJ
+ΔH2 = –197,8 kJ
+c. 
+Diagram tingkat energinya:
+H
+ΔH3
+ΔH1
+ΔH2
+2SO3(g)
+–791,4 kJ
+0 kJ
+–593,6 kJ
+2S(s) + 2O2(g)
+2SO2(g) + O2(g)
+Setelah kalian memahami tentang hukum Hess, mari kita berlatih beberapa 
+soal berikut ini.
+Ayo Berlatih
+1. 
+Pada pembuatan tapai, terjadi fermentasi glukosa menjadi alkohol 
+menurut reaksi berikut.
+C6H12O6(s) 
+ 2C2H5OH(aq) + 2CO2(g)
+Reaksi fermentasi tersebut berlangsung dua tahap, yaitu: 
+Tahap 1:  C6H12O6(s) + 6O2(g) 
+ 6CO2(g) + 6H2O(l)        ΔH = –2.820 kJ
+Tahap 2:  2CO2(g) + 3H2O(l) 
+ C2H5OH(aq) + 3O2(g)     ΔH = –1.380 kJ
+145
+Bab V  Termokimia
+Berdasarkan data tersebut, tentukan harga perubahan entalpi reaksi 
+fermentasi glukosa menjadi alkohol!
+2. 
+Perhatikan diagram siklus dari perubahan wujud air berikut.
+2H2(g) + O2(g)
+2H2O(l)
+2H2O(g)
+ΔH1 = –285,8 kJ
+ΔH2 = –292,0 kJ
+ΔH3 = –x kJ
+Berdasarkan data diagram siklus di atas, hitunglah perubahan entalpi 
+yang menyertai perubahan wujud air dari cair menjadi gas!
+3. 
+Perhatikan diagram tingkat energi reaksi pembentukan gas NO2 
+berikut.
+H
+ΔH1
+ΔH2
+ΔH3
+NO(g) + .
+1
+2O2(g)
+1
+2 N2(g) + O2(g)
+NO2(g)
+0 kJ
+90,25 kJ
+33,20 kJ
+Berdasarkan data di atas, tentukan harga ∆H2!
+I. Energi Ikatan
+Di Bab II kalian sudah belajar mengenai ikatan kovalen. Untuk memutuskan 
+setiap ikatan kovalen dibutuhkan energi. Semakin kuat ikatan antaratom maka 
+energi yang dibutuhkan untuk memutuskan ikatan tersebut akan semakin 
+besar. Energi yang diperlukan untuk memutuskan 1 mol ikatan dari suatu 
+molekul yang berwujud gas disebut dengan energi ikatan rata­rata. 
+146
+Kimia untuk SMA/MA Kelas XI
+Perhatikan Tabel 5.3 di bawah ini. Antaratom karbon memiliki tiga jenis 
+ikatan, yaitu ikatan tunggal, ikatan rangkap dua, dan ikatan rangkap tiga. Coba 
+kalian diskusikan, mengapa ikatan C rangkap tiga memiliki energi ikatan lebih 
+besar dibandingkan energi ikatan C rangkap dua dan tunggal, serta mengapa 
+energi ikatan C rangkap dua lebih besar dari energi ikatan C tunggal.
+Berikut adalah beberapa nilai energi ikatan rata-rata dari beberapa ikatan 
+kovalen.
+Tabel 5.3  Beberapa nilai energi ikatan rata-rata (kJ.mol-1)
+Ikatan
+Energi ikatan
+rata­rata
+(kJ.mol­1)
+Ikatan
+Energi ikatan
+rata­rata
+(kJ.mol­1)
+Ikatan
+Energi ikatan
+rata­rata
+(kJ.mol­1)
+C
+H
+414
+H
+H
+436,4
+N
+P
+209
+C
+C
+347
+H
+N
+460
+N
+O
+176
+C
+C
+620
+H
+O
+393
+O
+O
+142
+C
+C
+812
+H
+S
+368
+O
+O
+498,7
+C
+N
+276
+H
+P
+326
+O
+P
+502
+C
+N
+615
+H
+F
+568,2
+O
+S
+469
+C
+N
+891
+H
+Cl
+431,9
+P
+P
+197
+C
+O
+351
+H
+Br
+366,1
+P
+P
+489
+C
+O
+745
+H
+I
+298,3
+S
+S
+268
+C
+P
+263
+N
+N
+193
+S
+S
+325
+C
+S
+255
+N
+N
+418
+F
+F
+146,9
+C
+S
+477
+N
+N
+914,4
+Cl
+Cl
+242,7
+C
+Cl
+238
+ 
+Reaksi kimia merupakan proses penyusunan ulang suatu zat (reaktan) 
+menjadi zat lain (produk). Pada proses penyusunan ulang tersebut, terjadi 
+peristiwa pemutusan ikatan (pada reaktan) dan pembentukan ikatan (pada 
+produk). Ketika terjadi proses pemutusan dan pembentukan ikatan tersebut, 
+ada energi yang terlibat. Selisih antara jumlah energi ikatan yang terputus dan 
+jumlah energi ikatan yang terbentuk, menghasilkan perubahan entalpi reaksi 
+(ΔH), sehingga dapat ditulis dalam persamaan matematika:
+ 
+reaksi
+energi ikatan terputus
+energi ikatan terbentuk
+H
+
+
+
+
+
+147
+Bab V  Termokimia
+Contoh
+Ketika kalian praktikum di laboratorium dan melakukan proses pembakaran, 
+umumnya digunakan pembakar spiritus. Salah satu bahan dasar dari spiritus 
+adalah etanol. Ketika etanol tersebut dibakar maka akan terjadi reaksi: 
+C2H5OH(aq) + 3O2(g) 
+ 2CO2(g) + 3H2O(l)
+Berdasarkan data energi ikatan pada Tabel 5.3, hitunglah perubahan entalpi 
+pada reaksi pembakaran etanol tersebut!
+Pembahasan:
+Untuk menentukan jumlah energi pemutusan dan pembentukan ikatan dalam 
+suatu reaksi kimia, maka perlu kita gambarkan terlebih dahulu struktur 
+ikatannya.
+Jumah energi pemutusan:
+5 × C
+H = 5 × 414 kJ.mol–1 
+= 2.070    kJ.mol–1 
+ 
+C
+C  
+=    347    kJ.mol–1 
+ 
+C
+O  
+=    359    kJ.mol–1 
+ 
+O
+H  
+      393    kJ.mol–1 
+3 × O
+O = 3 × 498,7 kJ.mol–1 = 1.496,1 kJ.mol–1 
+ 
+  
+ 
++
+ 
+  
+ 
+= 4.657,1 kJ.mol–1 
+Jumlah energi pembentukan ikatan:
+4 × C
+O = 4 × 745 kJ.mol–1 
+= 2.980    kJ.mol–1
+6 × O
+H = 6 × 393 kJ.mol–1 
+= 2.358    kJ.mol–1
+ 
+  
+ 
++
+ 
+  
+ 
+= 5.338    kJ.mol–1
+ΔHreaksi = 4.657,1 kJ.mol–1 – 5.338 kJ.mol–1 
+ 
+ 
+= –680,9 kJ.mol–1 
+Jadi, perubahan entalpi reaksi pembakaran etanol adalah 680,9 kJ.mol–1.
+148
+Kimia untuk SMA/MA Kelas XI
+Agar kalian lebih memahami cara menentukan harga perubahan entalpi 
+berdasarkan data energi ikatan, coba kalian kerjakan soal-soal berikut ini.
+Ayo Berlatih
+1. 
+Hitunglah perubahan entalpi dari reaksi-reaksi di bawah ini dengan 
+menggunakan data energi ikatan pada Tabel 5.3!
+a. 
+CH4(g) + 2O2(g) 
+ CO2(g) + 2H2O(l)
+b. 
+2NH3(g) 
+ N2(g) + 3H2(g)
+c. 
+C3H6(g) + Cl2(g) 
+ C3H5Cl(g) + HCl(g)
+2. 
+Pada pembakaran 1 mol metana dihasilkan kalor sebesar 408,6 
+kJ.mol–1, menurut persamaan reaksi:
+CH4(g) + 2O2(g) 
+ CO2(g) + 2H2O(l)        ΔH = –408,6 kJ.mol–1
+Jika diketahui energi ikatan O
+O = 498,7 kJ.mol–1; C
+O = 745 kJ.mol–1; 
+dan H
+O = 393 kJ.mol–1, hitunglah energi ikatan rata-rata pada C
+H!
+Pengayaan
+Membuat Kalorimeter Sederhana
+Penggunaan kalorimeter sudah kalian pelajari pada materi sebelumnya. 
+Sekarang, coba kalian buat alat kalorimeter sederhana.
+Alat:
+1. 
+Wadah styrofoam bekas mi instan (1 buah)
+2. 
+Styrofoam lembaran (1 lembar, jangan yang tebal)
+3. 
+Sumpit (1 buah)
+4. 
+Termometer ruang
+5. 
+Cutter/gunting
+Langkah kerja:
+1. 
+Buat tutup wadah styrofoam bekas mi instan dengan memotong styrofoam 
+lembaran. Usahakan ukurannya pas, tidak terdapat celah.
+149
+Bab V  Termokimia
+2. 
+Lubangi tutup tersebut sebanyak dua buah untuk menempatkan 
+termometer dan sumpit. Usahakan lubangnya pas, tidak longgar.
+3. 
+Tutup wadah styrofoam bekas mi instan dan letakkan termometer dan 
+sumpit pada lubang penutup.
+4. 
+Kalorimeter sederhana siap digunakan.
+Inti Sari
+Termokimia adalah bagian ilmu kimia yang mempelajari kalor yang 
+menyertai perubahan kimia dan isika. Kalor merupakan salah satu 
+bentuk energi. Energi tidak dapat diciptakan atau dimusnahkan, energi 
+hanya dapat diubah dari satu bentuk ke bentuk energi yang lain (hukum 
+kekekalan energi). Energi total suatu zat merupakan jumlah dari seluruh 
+energi yang dimiliki oleh suatu zat, yaitu energi potensial dan energi gerak.
+Kalor dapat diukur dengan menggunakan kalorimeter. Kalorimeter 
+adalah suatu alat dengan sistem terisolasi, sehingga tidak ada pertukaran 
+energi, baik dari sistem ke lingkungan ataupun sebaliknya.
+Perpindahan kalor pada reaksi kimia melibatkan sistem dan 
+lingkungan. Jika sistem menyerap kalor dari lingkungan maka reaksi 
+tersebut merupakan reaksi endotermik dengan perubahan entalpi positif. 
+Sebaliknya, jika sistem melepaskan kalor ke lingkungan maka reaksinya 
+merupakan reaksi eksotermik dengan perubahan entalpi negatif.
+150
+Kimia untuk SMA/MA Kelas XI
+Jenis-jenis perubahan entalpi standar adalah perubahan entalpi pem -
+ben tukan standar (
+o
+f
+H
+
+), perubahan entalpi penguraian standar (
+o
+d
+H
+
+), 
+perubahan entalpi pembakaran standar (
+o
+c
+H
+
+), dan perubahan entalpi pe-
+la rutan standar (
+o
+s
+H
+
+). Adapun penentuan harga ΔH dapat menggunakan 
+data percobaan kalorimetri, data 
+o
+f
+H
+
+, perhitungan hukum Hess, dan data 
+energi ikatan.
+Penggunaan ilmu termokimia dalam kehidupan sehari-hari di antara-
+nya untuk menentukan jumlah kalori pada makanan dengan menggunakan 
+kalorimetri dan pengolahan sampah dengan mengubah energi sampah 
+menjadi energi listrik sesuai dengan hukum kekekalan energi.
+Ayo Releksi
+Setelah mempelajari materi Termokimia, silakan kalian mereleksi diri. Beri-
+lah ceklis (√) pada kolom Ya/Tidak untuk pernyataan di bawah ini.
+No.
+Pernyataan
+Tanggapan
+Ya
+Tidak
+1.
+Apakah kalian mampu menjelaskan perubahan energi 
+yang terjadi dalam kehidupan sehari-hari?
+2.
+Apakah kalian mampu menjelaskan reaksi eksotermik 
+dan endotermik beserta contohnya dalam kehidupan 
+sehari-hari?
+3.
+Apakah kalian mampu menjelaskan perbedaan tiap-tiap 
+perubahan entalpi?
+4.
+Apakah kalian dapat mengerjakan operasi matematika 
+dalam menentukan harga perubahan entalpi (ΔH) 
+dengan menggunakan data percobaan kalorimetri, data 
+o
+f
+H
+
+ , perhitungan hukum Hess, dan data energi ikatan?
+Menurut kalian, materi manakah yang sulit untuk dipahami dalam bab 
+Termokimia? Jelaskan alasannya!
+151
+Bab V  Termokimia
+Ayo Cek Pemahaman
+Pilihlah jawaban yang paling tepat!
+1. 
+Seorang pelajar melakukan percobaan di laboratorium mengenai reaksi 
+eksotermik dan endotermik. Data percobaan yang ia peroleh sebagai 
+berikut.
+Percobaan
+Reaktan
+Suhu awal (°C)
+Suhu akhir (°C)
+1
+Mg + HCl
+25
+32
+2
+NH4Cl + Ba(OH)2
+27
+20
+3
+HCl + CaCO3
+27
+35
+4
+Asam sitrat + H2O
+26
+18
+5
+H2SO4 + NaOH
+27
+22
+Berdasarkan data hasil percobaan, reaksi yang berlangsung secara ekso-
+termik adalah percobaan nomor ….
+a. 
+1 dan 3 
+d. 
+3 dan 5
+b. 
+2 dan 5 
+e. 
+1 dan 4
+c. 
+2 dan 4
+2. 
+Persamaan termokimia di bawah ini yang merupakan reaksi penguraian 
+standar adalah ….
+a. 
+LiOH(aq) 
+ Li+(aq) + OH–(aq)  
+ 
+ΔH = +x kJ
+b. 
+CaCO3(s) 
+ CaO(s) + CO2(g) 
+ 
+ 
+ΔH = +a kJ
+c. 
+Ca(s) + C(s) +  O2(g) 
+ CaCO3(s)     
+ΔH = –y kJ
+d. 
+NaNO3(s) 
+ Na(s) + . N2(g) +  O2(g) 
+ΔH = –z kJ
+e. 
+NaNO3(aq) 
+ Na+(aq) + NO3
+–(aq) 
+ 
+ΔH = +b kJ
+3. 
+Gas asetilena yang dibakar sempurna pada keadaan standar akan meng-
+hasilkan kalor sebesar 1.256 kJ. Jika ∆H f
+o CO2 = –393,5 kJ.mol–1 dan ∆H f
+o 
+H2O = –242 kJ.mol–1 maka harga ∆H f
+o untuk gas asetilena pada reaksi:
+C2H2(g) +  O2(g) 
+ 2CO2(g) + H2O(g)        ΔH = –1.256 kJ.mol–1
+adalah ….
+152
+Kimia untuk SMA/MA Kelas XI
+a. 
++227 kJ.mol–1
+b. 
++137 kJ.mol–1
+c. 
++74 kJ.mol–1
+d. 
+–137 kJ.mol–1
+e. 
+–227 kJ.mol–1
+4. 
+Berdasarkan data pada Tabel 4.3 tentang harga energi ikatan, harga 
+perubahan entalpi pada reaksi:
+CH2
+CH2 + H2O 
+ CH3
+CH2
+OH
+adalah ….
+a. 
+–112 kJ.mol–1
+b. 
+–99 kJ.mol–1
+c. 
+–32 kJ.mol–1
+d. 
++99 kJ.mol–1
+e. 
++112 kJ.mol–1
+5. 
+Perubahan entalpi pembentukan CO2 ditunjukkan pada reaksi:
+C(s) + O2(g) 
+ CO2(g)        ΔH = –394 kJ.mol–1
+Diagram tingkat energi yang sesuai adalah ….
+H
+ΔH = +394 kJ.mol–1
+C(s) + O2(g)
+CO2(g)
+a.
+H
+ΔH = –394 kJ.mol–1
+C(s) + O2(g)
+CO2(g)
+c.
+H
+ΔH = –394 kJ.mol–1
+C(s) + O2(g)
+CO2(g)
+b.
+H
+ΔH = –394 kJ.mol–1
+CO2(g)
+C(s) + O2(g)
+d.
+153
+Bab V  Termokimia
+H
+ΔH = +394 kJ.mol–1
+CO2(g)
+C(s) + O2(g)
+e.
+Jawablah pertanyaan di bawah ini dengan tepat!
+1. 
+Freon merupakan senyawa karbon yang digunakan untuk sistem pen-
+dingin AC. Senyawa freon yang sering digunakan adalah freon-11 (CFCl3) 
+dan freon-12 (CF2Cl2). Kelemahan dari penggunaan freon ini adalah dapat 
+merusak lapisan ozon di atmosfer. Freon mengabsorpsi radiasi energi 
+menghasilkan Cl. Selanjutnya Cl yang dilepaskan akan bereaksi dengan 
+ozon.
+O3 + Cl 
+ O2 + ClO 
+ΔH = –126 kJ
+ClO + O 
+ Cl + O2 
+ΔH = –268 kJ 
+O3 + O 
+ 2O2
+Berdasarkan data reaksi di atas, hitunglah perubahan entalpi yang terjadi 
+pada reaksi perubahan ozon menjadi oksigen!
+2. 
+Setiap bahan bakar yang digunakan akan menghasilkan jumlah energi 
+yang berbeda setiap gramnya. Tabel berikut menyajikan data entalpi 
+pembakaran untuk lima jenis bahan bakar.
+Bahan bakar
+ΔH (kJ.mol–1)
+Mr
+Hidrogen
+–287
+2
+Metana
+–803
+16
+Propana
+–2.201
+44
+Isobutana
+–2.868
+58
+Neopentana
+–3.515
+72
+Bahan bakar mana yang menghasilkan jumlah energi paling besar untuk 
+setiap 1 gram bahan bakar yang digunakan?
+154
+Kimia untuk SMA/MA Kelas XI
+3. 
+Ketika seseorang mengalami patah tangan atau kaki, kemudian diberi 
+gips, saat proses pengerasan gips akan terasa panas. Hal ini terjadi karena 
+ketika bahan gips, CaSO4. H2O, dicampur dengan air, akan terbentuk 
+CaSO4.2H2O (gips) disertai dengan pelepasan panas (reaksi eksotermik). 
+Jika ∆H f
+o CaSO4. H2O = –1.573 kJ.mol–1, ∆H f
+o CaSO4.2H2O = –2.020 kJ.mol–1, 
+dan ∆H f
+o H2O =  –242 kJ.mol–1, hitunglah perubahan entalpi untuk reaksi:
+CaSO4. H2O + H2O 
+ CaSO4.2H2O  

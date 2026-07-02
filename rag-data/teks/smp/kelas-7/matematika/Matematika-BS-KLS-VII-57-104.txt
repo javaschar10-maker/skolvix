@@ -1,0 +1,2116 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VII
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-602-244-883-9 (Jil.1)
+Bab 2
+Bilangan Rasional
+Mengapa perlu menggunakan bilangan 
+rasional, apa bedanya dengan bilangan bulat?
+Matematika untuk SMP/MTs Kelas VII
+36
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+ 
+√
+Mengidentifikasi bilangan yang termasuk bilangan rasional
+ 
+√
+Menyatakan bilangan rasional dalam bentuk pecahan dan desimal
+ 
+√
+Menaksir nilai bilangan rasional
+ 
+√
+Membandingkan bilangan rasional
+ 
+√
+Melakukan estimasi untuk hasil operasi hitung bilangan rasional 
+ 
+√
+Melakukan operasi hitung penjumlahan, pengurangan, perkalian, 
+dan pembagian bilangan rasional 
+ 
+√
+Memecahkan masalah kontekstual yang melibatkan bilangan 
+rasional
+Pengantar bab
+Perhatikan beberapa situasi berikut.
+Gambar 2.1 Pizza
+Setelah dimakan sebagian, masih ada 5
+8 pizza.
+Bab 2 | Bilangan Rasional
+37
+Gambar 2.2 Cek Suhu Badan di Tempat Umum
+Sebelum masuk ke tempat umum, dilakukan pengecekan suhu badan.
+Gambar 2.3 Hasil Pengukuran Kecepatan Internet
+Mbps (Megabit per second) atau dalam bahasa Indonesia Megabit 
+per detik adalah satuan yang digunakan untuk menunjukkan kecepatan 
+internet.  Pada gambar tertera kecepatan mengunduh sebesar 15,22 
+Megabit per detik dan kecepatan untuk mengunggah sebesar 2,37 
+Megabit per detik. 
+Selain bilangan bulat yang telah kalian pelajari di Bab 1, ada 
+bilangan lain yang diperlukan sebagaimana yang kita lihat dari contoh 
+di atas. Bilangan apa yang kita gunakan untuk menyatakan sisa pizza? 
+Bilangan apa yang digunakan untuk menyatakan suhu badan dan hasil 
+tes kecepatan internet?
+Pada bab ini kalian akan memperluas pemahaman kalian mengenai 
+bilangan dengan mengidentifikasi dan menyatakan bilangan rasional, 
+membandingkan, serta melakukan operasi dasar aritmetika dengan 
+bilangan rasional. 
+36,6
+UNDUH
+15,22
+2,37
+Mbps
+UNGGAH Mbps
+Matematika untuk SMP/MTs Kelas VII
+38
+Pertanyaan Pemantik
+ 
+■
+Mengapa bilangan bulat saja tidak cukup untuk menyatakan suatu 
+besaran?
+ 
+■
+Jenis bilangan apa yang lebih akurat dalam menyatakan besaran 
+tertentu?
+ 
+■
+Bagaimana melakukan operasi hitung yang efisien?
+ 
+■
+Bagaimana melakukan estimasi hasil operasi hitung dengan 
+efektif?
+ 
+■
+Pada situasi apa estimasi menjadi langkah yang efektif untuk 
+digunakan?
+Kata Kunci
+Bilangan, 
+bilangan 
+rasional, 
+pecahan, 
+desimal, 
+penjumlahan, 
+pengurangan, perkalian, pembagian, estimasi. 
+Bab 2 | Bilangan Rasional
+39
+Bagan Materi
+Pada bab sebelumnya kalian sudah mempelajari beberapa jenis 
+bilangan seperti tercantum dalam tabel berikut.
+Tabel 2.1 Jenis Bilangan
+Jenis Bilangan
+Bilangan 
+Bilangan Asli 
+1, 2, 3, ...
+Bilangan Cacah
+0, 1, 2, 3, ...
+Bilangan Bulat
+…, -3, -2, -1, 0, 1, 2, 3, ...
+Di antara
+Dua Bilangan Bulat
+Memberikan Estimasi
+Hasil Operasi Hitung
+Operasi
+Penjumlahan dan
+Pengurangan
+Operasi
+Perkalian dan
+Pembagian
+Mengidentiﬁkasi
+Bilangan yang Termasuk
+Bilangan Rasional
+Menyatakan Bilangan
+Rasional dalam Bentuk
+Pecahan dan Desimal 
+Bilangan
+Rasional
+Membandingkan
+Bilangan Rasional
+Bilangan Rasional
+pada
+Garis Bilangan
+Operasi Hitung
+Bilangan Rasional
+Ayo Mengingat Kembali
+Matematika untuk SMP/MTs Kelas VII
+40
+Perhatikan tabel di atas. Apakah kalian dapat melihat hubungan jenis 
+bilangan yang satu dengan jenis bilangan yang lain? Terlihat bahwa 
+bilangan asli adalah bagian dari bilangan cacah dan bilangan cacah 
+merupakan bagian dari bilangan bulat. Di bawah ini adalah ilustrasinya 
+dalam diagram Venn.
+Gambar 2.4 Diagram Venn Bilangan Bulat
+A. Di Antara Dua Bilangan Bulat
+Permasalahan
+Ayo Berdiskusi
+1. 
+Setelah mempelajari bilangan bulat dan garis bilangannya pada 
+bab sebelumnya, perhatikan garis bilangan di bawah ini. Bersama 
+teman kalian cobalah melengkapi garis bilangan di bawah ini 
+dengan bilangan bulat yang sesuai dengan tempatnya.
+Bilangan Bulat
+Bilangan Cacah
+Bilangan Asli
+0
+5
+-5
+Bab 2 | Bilangan Rasional
+41
+2. 
+Perhatikan garis bilangan di bawah ini. 
+ 
+Mintalah teman kalian menyebutkan, bilangan yang mungkin 
+untuk mengisi bagian “▲” dan “■” pada garis bilangan di atas 
+beserta alasannya!
+3. 
+Termometer adalah alat yang digunakan untuk mengukur 
+temperatur. Perhatikan dua gambar termometer di bawah ini!
+Gambar 2.5 Dua Macam Termometer
+a. 
+Apakah kalian tahu perbedaan fungsi kedua termometer di 
+atas?
+b. 
+Perhatikan skala bilangan pada kedua termometer tersebut. 
+Bagaimana perbedaannya?
+c. 
+Mengapa pada termometer B, masih terdapat garis-garis 
+di antara dua bilangan bulat? Misal pada 37° dan 38°. Apa 
+kegunaan garis-garis tersebut?
+0
+1
+2
+-1
+37
+36
+38
+40
+41
+39
+42
+35
+C
+C
+F
+Termometer A
+Termometer B
+Matematika untuk SMP/MTs Kelas VII
+42
+Dari permasalahan di atas, diketahui di antara dua bilangan bulat 
+berurutan terdapat bilangan lain. Bilangan ini bukan bilangan bulat. 
+Jika pada bab sebelumnya kalian telah mempelajari bilangan bulat, 
+maka berikut ini kita akan mempelajari jenis bilangan yang lebih luas 
+lagi.
+1. Pengertian Bilangan Rasional
+Eksplorasi
+2.1
+Memahami bilangan rasional
+1. 
+Perhatikan nilai  dan  pada tabel berikut dan lengkapi kolom 
+Tabel 2.2 Melengkapi Kolom 
+a
+b
+a
+b
+12
+8
+2
+1
+…
+3
+6
+…
+2
+3
+…
+16
+18
+…
+5
+−12
+…
+−8
+−9
+…
+Bab 2 | Bilangan Rasional
+43
+Pembahasan
+Untuk  dan  yang keduanya merupakan bilangan bulat dan  tidak nol, 
+maka semua bilangan yang dapat dinyatakan dalam  disebut sebagai 
+Bilangan Rasional. Pada sistem bilangan yang lebih luas lagi, yaitu 
+bilangan Real, semua bilangan yang tidak termasuk bilangan Rasional 
+disebut bilangan Irasional.
+Ayo Berpikir Kritis
+Mengapa pada bilangan rasional yang dinyatakan dalam , nilai  tidak 
+boleh nol?
+2. Menyatakan Bilangan Rasional dalam Bentuk 
+Pecahan dan Desimal
+Eksplorasi
+2.2
+Menyatakan bilangan rasional dalam 
+bentuk pecahan dan desimal
+1. 
+Perhatikan bilangan pada kolom pertama Tabel 2.3. Nyatakan 
+bilangan tersebut dalam bentuk 
+ sesuai dengan ketentuan 
+sebelumnya, yaitu  dan  merupakan bilangan bulat dan b 6= 0.  
+Tabel 2.3 Menyatakan Bilangan Rasional dalam 
+Bilangan
+Bentuk a
+b dengan  a dan b merupakan bilangan bulat 
+dan b 6= 0.  
+7
+…
+−6
+…
+0, 4
+…
+81
+2
+…
+2, 5
+…
+Matematika untuk SMP/MTs Kelas VII
+44
+Bilangan
+Bentuk a
+b dengan  a dan b merupakan bilangan bulat 
+dan b 6= 0.  
+−0, 5
+…
+−1 1
+10
+…
+  
+Bandingkan  yang kalian dapat dengan  milik teman kalian. Untuk 
+bilangan yang sama, apakah kalian bisa menyebutkan bentuk  yang 
+berbeda-beda? 
+Pembahasan
+Bagaimana kalian menyatakan −0, 5 dalam  ? Bisa jadi ada yang  
+menuliskan −1
+2
+, 1
+−2
+, atau −1
+2
+ atau bentuk lain yang ekuivalen. Ketiga  
+penulisan tersebut berbeda, namun menyatakan bilangan rasional 
+yang sama. Sebuah bilangan rasional dapat dinyatakan  
+dengan banyak cara penulisan  . 
+Ayo Mengingat Kembali
+ 
+2. 
+Apakah kalian masih ingat bagaimana mengubah bilangan pecahan 
+menjadi bilangan desimal? Kerjakan soal di bawah ini dengan cara 
+pembagian bersusun. 
+a. 
+ 
+5 3
+b. 
+ 
+8 20
+c. 
+ 
+100 1
+d. 
+ 
+3 1 
+Bab 2 | Bilangan Rasional
+45
+3. 
+Di bawah ini a dan b bilangan bulat. Nyatakan  berikut ke dalam 
+desimal.
+Tabel 2.4 Menyatakan  dalam Bentuk Desimal
+a
+b
+Desimal
+a
+b
+Desimal
+1
+4
+…
+1
+3
+…
+1
+8
+…
+−2
+3
+…
+5
+4
+…
+1
+6
+…
+−1
+10
+…
+1
+7
+…
+50
+−2
+…
+50
+101
+…
+a. 
+Bentuk  mana saja yang memiliki desimal yang terbatas?
+b. 
+Bentuk  mana saja yang memiliki desimal yang tak terbatas 
+dan berulang?
+Pembahasan
+Pada Tabel 2.4 semua bentuk  merupakan bilangan rasional. Bilangan 
+rasional juga dapat dinyatakan dalam bentuk desimal. Di sekolah dasar 
+kalian telah mempelajari bilangan rasional dalam bentuk pecahan dan 
+desimal yang bernilai positif. Kali ini, kalian juga mempelajari bilangan 
+rasional yang bernilai negatif, baik yang dinyatakan dalam bentuk 
+pecahan, maupun dalam bentuk desimal.
+ 
+Matematika untuk SMP/MTs Kelas VII
+46
+Ayo Berpikir Kritis
+4. 
+Apakah semua bilangan desimal merupakan bilangan rasional? 
+Perhatikan bilangan di bawah ini, ketiganya memiliki angka 
+desimal yang tak terbatas.
+1) 
+√
+2 = 1, 414213562 . . .
+2) 
+π = 3, 141592564 . . .
+3) 
+e = 2, 718281828459 . . .
+a. 
+Apakah desimal pada ketiga bilangan di atas berulang?
+b. 
+Apakah kalian dapat menyatakan ketiga bilangan di atas 
+dalam pembagian bilangan bulat  dengan b 6= 0?
+Pembahasan
+Bilangan 
+,  dan   pada soal di atas  tidak dapat dinyatakan dalam 
+pembagian bilangan bulat  dengan b 6= 0. Bilangan 
+,  dan  termasuk 
+ke dalam bilangan irasional. Kalian akan mempelajari bilangan irasional 
+di tingkat berikutnya. Bilangan Rasional dan Irasional termasuk ke 
+dalam Bilangan Real. Perhatikan ilustrasinya dalam tabel dan diagram 
+Venn berikut.
+Tabel 2.5 Jenis Bilangan
+Jenis Bilangan
+Bilangan
+Bilangan Asli 
+1, 2, 3, · · ·
+Bilangan Cacah
+0, 1, 2, 3, · · ·
+Bilangan Bulat
+· · · −3, −2, −1, 0, 1, 2, 3, · · ·
+Bilangan Rasional
+..., –3, –2, –1,−1
+2 , –0,4, 0, 0,78, 1, 11
+6 , 2, 3, ...
+Bilangan Irasional
+. . . ,
+√
+2, e, π, . . .
+Bab 2 | Bilangan Rasional
+47
+Gambar 2.6 Diagram Venn Bilangan Real
+Ayo Berdiskusi
+Pada bilangan-bilangan berikut, identifikasi mana yang merupakan 
+bilangan rasional dan mana yang merupakan bilangan irasional.
+π
+3
+−
+√
+7
+2
+3, 14
+18
+2
+0, 7320508 . . .
+21
+e
+22
+7
+Bilangan Rasional
+Bilangan Irasional
+Bilangan Real
+Bilangan Bulat
+Bilangan Cacah
+Bilangan Asli
+Matematika untuk SMP/MTs Kelas VII
+48
+B. Membandingkan Bilangan Rasional
+Pada beberapa situasi kita perlu membandingkan beberapa bilangan 
+rasional. Di sekolah dasar kalian sudah pernah belajar bagaimana 
+membandingkan bilangan. Pada bagian ini kalian akan membandingkan 
+beberapa bilangan rasional yang dinyatakan dalam bentuk pecahan 
+dan desimal. 
+Eksplorasi
+2.3
+Membandingkan bilangan rasional
+1. 
+Terdapat dua bilangan sebagai berikut  
+ 
+1
+6 dan 4
+6
+a. 
+Bilangan mana yang bernilai lebih besar?
+b. 
+Letakkan kedua bilangan tersebut pada garis bilangan di 
+bawah ini.
+2. 
+Terdapat dua bilangan sebagai berikut 
+ 
+3
+5 dan 3
+8
+a. 
+Bilangan mana yang bernilai lebih besar?
+b. 
+Lakukan estimasi untuk meletakkan kedua bilangan tersebut 
+pada garis bilangan di bawah ini.
+3. 
+Terdapat dua bilangan sebagai berikut 
+ 
+3
+5 dan 4
+7
+a. 
+Bilangan mana yang bernilai lebih besar?
+b. 
+Lakukan estimasi untuk meletakkan kedua bilangan tersebut 
+pada garis bilangan di bawah ini.
+0
+1
+-1
+0
+1
+2
+-1
+0
+1
+2
+-1
+Bab 2 | Bilangan Rasional
+49
+4. 
+Terdapat dua bilangan sebagai berikut  
+ 
+3
+5 dan 11
+5 
+a. 
+Bilangan mana yang bernilai lebih besar?
+b. 
+Lakukan estimasi untuk meletakkan kedua bilangan tersebut 
+pada garis bilangan di bawah ini.
+5. 
+Terdapat dua bilangan sebagai berikut 
+ 
+1, 99 dan 
+a. 
+Bilangan mana yang bernilai lebih besar?
+b. 
+Lakukan estimasi untuk meletakkan kedua bilangan tersebut 
+pada garis bilangan di bawah ini.
+6. 
+ Terdapat dua bilangan sebagai berikut 
+ 
+ 
+ dan 
+a. 
+Bilangan mana yang bernilai lebih besar?
+b. 
+Lakukan estimasi untuk meletakkan kedua bilangan tersebut 
+pada garis bilangan di bawah ini.
+Ayo Mencoba
+1. 
+Terdapat dua bilangan sebagai berikut  
+ 
+−1
+5 dan 1
+2
+a. 
+Bilangan mana yang bernilai lebih besar?
+b. 
+Letakkan kedua bilangan tersebut secara tepat pada garis 
+bilangan di bawah ini.
+0
+1
+2
+-1
+0
+1
+2
+-1
+0
+1
+2
+-1
+0
+1
+2
+-1
+Matematika untuk SMP/MTs Kelas VII
+50
+2. 
+Perhatikan bilangan di bawah ini. 
+ 
+11
+5; 0, 8; 2
+5
+a. 
+Bagaimana cara kalian mengurutkan bilangan di atas dari 
+bilangan dengan nilai terkecil ke nilai terbesar?
+b. 
+Letakkan bilangan-bilangan tersebut secara tepat pada garis 
+bilangan di bawah ini.
+Latihan 2.1
+1. 
+Lengkapi Tabel 2.6 dengan bilangan yang belum terisi.
+Tabel 2.6 Melengkapi Bilangan
+Bilangan Rasional
+Dinyatakan dalam 
+bentuk pecahan
+Dinyatakan dalam 
+bentuk desimal
+3
+20
+…
+…
+0, 2
+51
+4
+…
+…
+−0, 35
+−1
+20
+…
+…
+−5, 12
+2. 
+Gunakan tanda “ < ”, “ = ” atau “ > ” agar pernyataan berikut bernilai 
+benar. 
+0
+1
+2
+-1
+Bab 2 | Bilangan Rasional
+51
+a.
+1
+3
+…
+4
+11
+b.
+0, 35
+…
+3
+8
+c.
+2 3
+10
+…
+2, 35
+d.
+−0, 125
+…
+−1
+20
+3. 
+Lengkapi garis bilangan berikut pada lokasi dengan tanda “ 
+ ” 
+dengan bilangan yang sudah disediakan dalam kotak di bawah. 
+-3
+-1
+0
+1
+2
+ 
+ 
+12
+5
+4. 
+Urutkan bilangan berikut dari yang memiliki nilai terkecil ke nilai 
+terbesar.
+a. 
+0, 22; 1, 5; 7
+8  
+b. 
+1
+2; 1
+5; −0, 45; 0, 8 
+c. 
+6, 28; −7, 1; −4
+5; 1, 1 
+5. 
+Ananta dan Budi membantu paman di tempat pembuatan batu 
+bata. Batu bata yang sudah selesai dicetak kemudian dijemur di 
+bawah terik matahari. Ananta dan Budi membantu memindahkan 
+batu bata yang sudah selesai dijemur. Masing-masing diberi tugas 
+memindahkan batu bata dengan jumlah yang sama.  Setelah 
+bekerja selama satu jam, Ananta sudah memindahkan  bagian, 
+sementara Budi sudah memindahkan 3
+8 bagian. 
+a. 
+Lakukan estimasi untuk menentukan siapa yang lebih 
+mendekati selesai memindahkan batu bata. Kemukakan 
+alasan kalian dalam menentukan pilihan tersebut. 
+Matematika untuk SMP/MTs Kelas VII
+52
+b. 
+Ubahlah kedua pecahan di atas dalam penyebut yang sama, 
+kemudian bandingkan pembilangnya. Manakah pecahan yang 
+bernilai lebih besar? Apakah hasilnya sesuai dengan estimasi 
+yang kalian lakukan sebelumnya?
+6. 
+Di suatu waktu yang sama, suhu di kota A sebesar −2, 5◦C
+sementara suhu di kota B −8, 5◦C. Suhu di kota mana yang terasa 
+lebih hangat?
+7. 
+Adik dan kakak masing-masing menerima bantuan kuota belajar 
+dengan nilai yang sama, yaitu 12 GB. Setelah satu minggu adik 
+telah menghabiskan 1, 25 GB sementara kakak menghabiskan 11
+2 
+GB. Awal minggu berikutnya, ayah membelikan mereka kuota 
+tambahan, adik sebesar 0,5 GB dan kakak sebesar 2 GB. 
+a. 
+Dari pernyataan berikut, tentukan apakah nilai bilangan 
+berikut  positif atau negatif.
+1) 
+Minggu pertama kakak menghabiskan 11
+2 GB. 
+2) 
+Minggu pertama adik menghabiskan 1, 25 GB
+3) 
+Ayah membelikan adik kuota tambahan sebesar 0,5 GB
+4) 
+Ayah membelikan kakak kuota tambahan sebesar 2 GB
+b. 
+Isilah titik-titik di bawah ini dengan “lebih besar” atau “lebih 
+kecil” agar kalimat menjadi benar 
+ 
+Nilai kuota yang dihabiskan kakak ……..... dibandingkan 
+dengan nilai kuota yang dihabiskan adik. 
+8. 
+Pada telepon seluler terdapat ruang penyimpanan untuk 
+menyimpan gambar, video, dokumen, aplikasi maupun sistem 
+operasi yang digunakan. 
+ 
+Gambar berikut menunjukkan keterisian ruang penyimpanan di 
+telepon seluler Adi. 
+ 
+Bab 2 | Bilangan Rasional
+53
+ 
+Jawablah pertanyaan berikut.
+a. 
+Bagian ruang penyimpanan terbesar digunakan untuk ….
+b. 
+Sisa ruang penyimpanan sebesar ….
+c. 
+Untuk keperluan pembelajaran jarak jauh, Adi perlu memasang 
+aplikasi lain di telepon selulernya.  
+ 
+Diketahui 1 GB= 1.000 MB 
+ 
+Aplikasi X : 200 MB 
+ 
+Aplikasi Y : 500 MB 
+ 
+Aplikasi Z : 750 MB 
+ 
+Aplikasi mana saja yang bisa terpasang di telepon seluler Adi?
+Ayo Berefleksi
+1. 
+Apa yang dimaksud dengan bilangan rasional?
+2. 
+Bagaimana bilangan rasional dapat dinyatakan?
+3. 
+Bagaimana membedakan bilangan rasional dan bilangan irasional?
+4. 
+Bagaimana cara membandingkan bilangan rasional? 
+Sisa 
+Sistem 
+Dokumen 
+Gambar 
+Aplikasi dan data
+8,92 GB
+Lainnya
+0,71 GB
+10,74 GB
+1,84 GB
+1,45 GB
+9,5 GB
+Matematika untuk SMP/MTs Kelas VII
+54
+C. Operasi Hitung Bilangan Rasional
+Setelah kalian membandingkan bilangan rasional, berikut ini kalian 
+akan melakukan operasi hitung yang melibatkan bilangan rasional. 
+Selain itu, kalian juga akan memberikan estimasi hasil operasi hitung 
+yang melibatkan bilangan rasional.
+Eksplorasi
+2.4
+Estimasi menggunakan pecahan
+Di toko bahan dan peralatan membuat kue, banyak dijual cangkir ukur 
+(measuring cup) dan sendok ukur (measuring spoon) untuk menakar 
+bahan yang akan digunakan dalam resep.
+Keterangan: 
+ 
+sdm 
+: sendok makan 
+ 
+sdt 
+: sendok teh
+Gambar 2.7 Sendok Ukur dan Cangkir Ukur
+Lakukan estimasi untuk menentukan sendok ukur atau cangkir ukur 
+mana yang harus Karina gunakan untuk menakar kebutuhan di bawah 
+ini.
+1. 
+  sdm saus tiram
+2. 
+  sdt garam
+3. 
+ cangkir kaldu
+4. 
+  cangkir kecap asin 
+Cangkir
+1/4 
+Cangkir
+1/3 
+Cangkir
+1/2
+Cangkir
+1
+sendok
+teh
+1/2 
+sendok
+makan
+1/2 
+sendok
+makan
+1
+sendok
+teh
+1 
+Bab 2 | Bilangan Rasional
+55
+1. Operasi Penjumlahan dan Pengurangan Bilangan 
+Rasional
+Ayo Mengingat Kembali
+Tentukan hasil operasi hitung bilangan rasional di bawah ini.
+1. 
+2. 
+3. 
+4. 
+Eksplorasi
+2.5
+Penjumlahan dan pengurangan bilangan 
+rasional yang dinyatakan dalam bentuk pecahan
+1. 
+Karina mencatat tiga resep kue tradisional dari nenek dan hendak 
+membuatnya di akhir pekan nanti. Berikut resep ketiga kue tersebut. 
+ 
+Kue Nagasari
+• 1 3
+4 cangkir tepung 
+beras
+• 8 1
+2  sdm gula pasir
+• 3 1
+2 cangkir santan
+• 1
+2 sdt garam
+• 1 buah pisang tanduk
+• daun pisang 
+secukupnya untuk 
+membungkus 
+Kue Talam
+• 2 1
+3 cangkir tepung 
+beras
+• 6 1
+2 sdm gula pasir
+• 2 3
+4 cangkir santan
+• 1 sdt garam
+• 
+1
+2 sdt pasta pandan
+• 2 lembar daun pandan
+Kue Surabi
+• 
+1
+2 cangkir tepung beras
+• 1 cangkir tepung terigu
+• 1 1
+2 cangkir santan
+• 2 sdm gula pasir
+• 
+1
+2 sdt garam
+• 1 butir telur
+• 
+1
+2 sdt ragi instan
+• 
+1
+2 sdt baking powder
+ 
+Karina perlu berbelanja tepung beras, gula pasir, dan santan. 
+Sebelum pergi ke pasar Karina menghitung kebutuhan bahan 
+tersebut untuk ketiga resepnya. 
+a. 
+Tuliskan dalam operasi Matematika banyak tepung beras yang 
+dibutuhkan, kemudian hitunglah kebutuhan tepung beras 
+tersebut.
+Matematika untuk SMP/MTs Kelas VII
+56
+b. 
+Tuliskan dalam operasi Matematika banyak gula pasir yang 
+dibutuhkan, kemudian hitunglah kebutuhan gula pasir 
+tersebut.
+c. 
+Tuliskan dalam operasi Matematika banyak santan yang 
+dibutuhkan, kemudian hitunglah kebutuhan santan tersebut.
+d. 
+Operasi hitung apa yang kalian gunakan untuk menghitung 
+kebutuhan tepung beras, gula pasir, dan santan?
+Ayo Berkomunikasi
+Komunikasikan pada teman kalian bagaimana kalian menyusun strategi 
+untuk menghitung kebutuhan tepung beras, gula pasir, dan santan untuk 
+ketiga resep di atas dengan efektif dan efisien. 
+2. 
+Karina membeli 1 kantong kecil tepung beras, 1 kantong gula pasir, 
+dan 1 teko santan. 
+Gambar 2.8 Tepung Beras, Gula Pasir, dan Santan
+1 kantong kecil tepung beras setara dengan 10 cangkir tepung 
+beras.
+1 kantong gula pasir setara dengan 20 sendok makan gula pasir.
+1 teko santan setara dengan 6 1
+2 cangkir santan.
+a. 
+Dengan melakukan estimasi, tentukan ketercukupan bahan-
+bahan yang dibeli pada tabel berikut.
+GULA
+PASIR
+T
+E
+P
+U
+N
+G
+B
+E
+RA
+S
+SANTAN
+GULA
+PASIR
+Bab 2 | Bilangan Rasional
+57
+Tabel 2.7 Ketercukupan Bahan Kue
+No.
+Bahan yang 
+tersedia 
+Kue 
+Nagasari
+Kue 
+Talam
+Kue 
+Surabi
+Cukup/ 
+Tidak 
+Cukup
+1.
+1 kantong kecil 
+tepung beras setara 
+dengan 10 cangkir 
+tepung beras.
+1 3
+4 
+cangkir
+2 1
+3 
+cangkir
+1
+2  
+cangkir
+…
+2.
+1 kantor gula pasir 
+setara dengan 20 
+sendok makan gula 
+pasir.
+8 1
+2 
+sdm
+6 1
+2 
+sdm
+2  
+sdm
+…
+3.
+1 teko santan setara 
+dengan 6 1
+2 cangkir 
+santan.
+3 1
+2 
+cangkir
+2 3
+4 
+cangkir
+1 1
+2 
+cangkir
+…
+b. 
+Lakukan operasi hitung untuk menentukan ketercukupan 
+tepung beras, gula pasir, dan santan. Operasi hitung apa yang 
+kalian gunakan?
+c. 
+Apakah ada bahan yang tersisa? Berapa banyak sisanya?
+d. 
+Apakah 
+ada 
+bahan 
+yang 
+kurang? 
+Berapa 
+banyak 
+kekurangannya?
+Eksplorasi
+2.6
+Penjumlahan dan pengurangan bilangan 
+rasional yang dinyatakan dalam bentuk desimal
+1. 
+Karina membeli gantungan dinding untuk kamarnya. Gantungan 
+dinding di bawah ini tidak memerlukan paku untuk menempelkan 
+ke dinding sehingga praktis untuk digunakan. Walau hanya 
+menggunakan perekat, gantungan ini cukup kuat untuk menahan 
+beban sampai 4,5 kg. 
+Matematika untuk SMP/MTs Kelas VII
+58
+Gambar 2.9 Gantungan Dinding Berperekat
+Karina sudah menggantung beban yang pertama dengan berat 2,75 
+kg kemudian ia menggantungkan juga beban yang kedua dengan 
+berat 1,4 kg. 
+a. 
+Nyatakan 4,5 kg, 2,75 kg, dan 1,4 kg dalam bentuk pecahan 
+campuran.
+b. 
+Berapa kg total beban yang digantungkan Karina?
+c. 
+Operasi hitung apa yang kalian gunakan untuk mencari 
+jawaban pada soal b?
+d. 
+Berapa kg beban yang masih dapat digantungkan?
+e. 
+Operasi hitung apa yang kalian gunakan untuk mencari 
+jawaban pada soal d?
+Pembahasan
+a. 
+4, 5 = 4 5
+10
+ 
+ 
+2, 75 = 2 75
+100
+ 
+ 
+1, 4 = 1 4
+10
+ 
+b. 
+Total beban yang digantungkan Karina   
+ 
+ 2, 75 + 1, 4 = 2 75
+100 + 1 4
+10 
+Samakan kedua penyebut menjadi 
+ 
+Bab 2 | Bilangan Rasional
+59
+ 2 75
+100 + 1 40
+100 
+ = 3115
+100 
+ = 4 15
+100 
+ 
+ 
+Nyatakan kembali ke bentuk desimal 
+ 
+ 4 15
+100 = 4, 15 
+ 
+Jadi, total berat badan yang digantungkan Karina  
+ 
+adalah 4,15 kg
+c. 
+Operasi penjumlahan
+d. 
+Berat beban yang masih dapat digantungkan 
+ 
+ 4, 5 −4, 15 = 4 5
+10 −4 15
+100 
+Samakan kedua penyebut menjadi 
+ 
+ = 4 50
+100 −4 15
+100 
+ = 35
+100 
+ 
+Nyatakan kembali ke bentuk desimal 
+ 
+ 35
+100 = 0, 35  
+Jadi, total beban yang masih dapat digantungkan 
+ 
+adalah 0,35 kg
+e. 
+Operasi pengurangan
+Penjumlahan dan pengurangan desimal  juga dapat dikerjakan tanpa 
+mengubah ke bentuk pecahan. Teknik bersusun ke bawah seperti 
+pada penjumlahan dan pengurangan bilangan bulat dapat digunakan. 
+Jumlahkan atau kurangkan sesuai dengan nilai tempatnya. 
+Matematika untuk SMP/MTs Kelas VII
+60
+a. 
+2, 75 + 1, 4 
+b. 
+4, 5 −4, 15 
+–
+4, 5
+4, 15
+ 
+Tuliskan 4,5 menjadi 4,50 
+ 
+–
+4,50
+4,15
+Gunakan teknik meminjam 
+ 
+–
+4, 5 0
+4, 1 5
+0, 3 5
+4 10
+Ayo Mencoba
+Tentukan hasil penjumlahan atau pengurangan bilangan rasional yang 
+dinyatakan dalam bentuk desimal di bawah ini.
+1. 0,54 + 0,32
+2. 
+0,5 + 0,12
+3. 
+2,43 + 7,1
+4. 
+6,53 – 2,12
+5. 
+9,5 – 4,33
+6. 
+2,17 – 3,5 
+7. 
+6,2 – (2,14+8,43) 
+8. 
+(3,77 – 0,31) + (1,34 – 2,91)
+2,75
+1,4
+4,15
++
+Satuan
+Persepuluhan
+Perseratusan
+Bab 2 | Bilangan Rasional
+61
+Eksplorasi
+2.7
+Penjumlahan dan pengurangan bilangan 
+rasional yang dinyatakan dalam bentuk pecahan dan 
+desimal
+Bagaimana melakukan operasi penjumlahan dan pengurangan yang 
+memuat bilangan rasional dalam bentuk pecahan dan juga bentuk 
+desimal sekaligus?
+Mari lakukan kegiatan berikut secara berpasangan. 
+Siswa A 
+2
+5 + 0, 3 = . . .
+Bilangan 0,3 dapat dinyatakan 
+dalam bentuk pecahan 3
+10. 
+Lakukan penjumlahan 
+bilangan rasional yang 
+dinyatakan dalam bentuk 
+pecahan.  
+2
+5 + 3
+10 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Siswa B 
+2
+5 + 0, 3 = . . .
+Bilangan 2
+5 dapat dinyatakan 
+dalam bentuk desimal 0,4.
+Lakukan penjumlahan 
+bilangan rasional yang 
+dinyatakan dalam bentuk 
+desimal.
+0, 4 + 0, 3 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Matematika untuk SMP/MTs Kelas VII
+62
+Lanjutkan dengan kegiatan berikut.
+Siswa A 
+30
+20 −0, 75 = . . .
+Bilangan 0,75 dapat 
+dinyatakan dalam bentuk 
+pecahan 75
+100
+.
+Lakukan pengurangan 
+bilangan rasional yang 
+dinyatakan dalam bentuk 
+pecahan.
+ 
+3
+20 −75
+100 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Siswa B 
+3
+20 −0, 75 = . . .
+Bilangan 3
+20 dapat 
+dinyatakan dalam bentuk 
+desimal 0, 15
+Lakukan pengurangan 
+bilangan rasional yang 
+dinyatakan dalam bentuk 
+desimal.
+0, 15 −0, 75 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Ayo Mencoba
+1. 
+Nyatakan hasil operasi hitung bilangan rasional berikut ke bentuk 
+pecahan. 
+ 
+a. 
+1
+4 + 1
+6 + 1
+8 
+b. 
+ 
+c. 
+Bab 2 | Bilangan Rasional
+63
+2. 
+Nyatakan hasil operasi hitung bilangan rasional berikut ke bentuk 
+desimal. 
+a. 
+ 
+b. 
+ 
+c. 
+2. Operasi Perkalian dan Pembagian Bilangan 
+Rasional
+Pada bagian ini kalian akan melanjutkan operasi perkalian dan 
+pembagian yang melibatkan bilangan rasional.
+Ayo Mengingat Kembali
+1. 
+Tentukan hasil operasi perkalian di bawah ini. 
+ 
+a. 
+ 
+b. 
+ 
+c. 
+ 
+2. 
+Tentukan hasil operasi pembagian di bawah ini. 
+ 
+a. 
+1
+2 : 2 
+b. 
+1
+3 : 4 
+c. 
+2
+5 : 3
+ 
+Matematika untuk SMP/MTs Kelas VII
+64
+Eksplorasi
+2.8
+Perkalian bilangan rasional yang 
+dinyatakan dalam bentuk pecahan 
+1. 
+Perhatikan resep Kue Nagasari berikut. 
+ 
+ 
+Tentukan ketercukupan kebutuhan tepung beras, gula pasir, dan 
+santan pada tabel berikut.
+Tabel 2.8 Ketercukupan Bahan untuk 6 Kali Resep
+Bahan
+Takaran 
+1 resep
+Banyak 
+resep 
+Bahan yang 
+tersedia
+Cukup/ 
+Tidak cukup
+a.
+Tepung 
+beras
+1 3
+4 
+cangkir
+6
+6 cangkir
+…
+b.
+Gula 
+pasir
+8 1
+2 sdm
+6
+60 sdm
+…
+c.
+Santan
+3 1
+2 
+cangkir 
+6
+20 cangkir
+…
+2. 
+Setelah belajar membuat kue nagasari pada minggu sebelumnya, 
+kali ini Karina akan membuat kue nagasari lagi dalam jumlah 
+yang lebih banyak. Resep kue nagasari yang ia catat dari nenek 
+menghasilkan 5 porsi kue. Akhir pekan ini Karina akan membuat 
+30 porsi kue nagasari. 
+Kue Nagasari
+untuk 5 porsi
+1 3
+4  cangkir tepung beras 
+ 
+8 1
+2  sdm gula pasir 
+ 
+3 1
+2  cangkir santan 
+ 
+1
+2    sdt garam 
+ 
+1 buah pisang tanduk 
+ 
+daun pisang secukupnya untuk membungkus
+Bab 2 | Bilangan Rasional
+65
+a. 
+Untuk membuat 30 porsi kue nagasari, berapa kali lipat resep 
+yang akan digunakan?
+b. 
+Nyatakan dalam operasi hitung Matematika kebutuhan tepung 
+beras untuk 6 resep, dan hitunglah kebutuhannya.
+c. 
+Nyatakan dalam operasi hitung Matematika kebutuhan gula 
+pasir untuk 6 resep, dan hitunglah kebutuhannya.
+d. 
+Nyatakan dalam operasi hitung Matematika kebutuhan santan 
+untuk 6 resep, dan hitunglah kebutuhannya.
+3. 
+Perhatikan gambar di bawah ini. 
+ 
+ 
+Gambar di atas menunjukkan persegi berukuran 1 x 1. 
+ 
+Persegi kemudian dibagi menjadi 16 bagian seperti pada gambar di 
+bawah ini. 
+ 
+ 
+Perhatikan daerah yang terarsir pada persegi di bawah ini. 
+ 
+a. 
+Menunjukkan berapa bagian daerah yang diarsir pada persegi 
+di atas? 
+ 
+Matematika untuk SMP/MTs Kelas VII
+66
+Perhatikan daerah yang terarsir pada persegi di bawah ini. 
+b. 
+Berapa bagian panjang daerah yang terarsir?
+c. 
+Berapa bagian lebar daerah yang terarsir?
+d. 
+Jelaskan mengapa luas daerah yang diarsir dapat dinyatakan 
+dengan 
+ !
+e. 
+Hitunglah bagian persegi yang terarsir pada gambar di atas!
+f. 
+Gunakan jawaban pada bagian e untuk menentukan hasil 
+perhitungan 
+4. 
+Pada gambar di bawah ini arsirlah bagian persegi panjang kecil 
+untuk menunjukkan: 
+a.
+1
+2 × 2
+3
+b.
+2
+3 × 3
+4
+c.
+2
+5 × 2
+4
+Bab 2 | Bilangan Rasional
+67
+5. 
+Gunakan gambar seperti pada soal nomor 3 dan 4 untuk 
+menunjukkan masing-masing perkalian di bawah ini.
+a. 
+ 1
+2 × 1
+5
+b. 
+ 6
+7 × 1
+2
+c. 
+ 4
+5 × 3
+4
+Pembahasan
+Hasil kali dua bilangan rasional yang dinyatakan dalam bentuk 
+pecahan dapat dihitung sebagai hasil kali kedua pembilang dibagi hasil 
+kali kedua penyebut. 
+Perhatikan contoh di bawah ini. 
+Tentukan operasi hitung
+a. 
+ 
+b. 
+ 
+Penyelesaian: 
+a. 
+ 
+b. 
+−1
+5 × 2
+3 = −1 × 2
+5 × 3 = −2
+15 = −2
+15
+Matematika untuk SMP/MTs Kelas VII
+68
+Ayo Mencoba
+Tentukan hasil perkalian pecahan di bawah ini. 
+ 
+1. 
+ 
+2. 
+ 
+3. 
+6
+9 ×
+✓
+−11
+3
+◆
+ 
+4. 
+−2
+6 ×
+✓
+−32
+3
+◆
+Eksplorasi
+2.9
+Pembagian bilangan rasional yang 
+dinyatakan dalam bentuk pecahan
+1. 
+Perhatikan perkalian berikut. 
+ 
+a. 
+Jelaskan bagaimana kalian bisa mendapatkan nilai yang belum 
+diketahui. 
+ 
+ 3
+4 × ⇤= 3
+8
+b. 
+Nyatakan bagian yang belum diketahui dalam operasi 
+pembagian.
+c. 
+ Carilah hasil operasi hitung 
+ 
+ 3
+4 × 4
+3
+d. 
+Carilah hasil operasi hitung 
+ 
+ 3
+8 × 4
+3
+3
+4 × 1
+2 = 3
+8
+Bab 2 | Bilangan Rasional
+69
+e. 
+Di bawah ini, kedua ruas dikalikan dengan 4
+3
+. Carilah nilai ⇤ 
+dengan menyelesaikan operasi berikut. 
+ 
+2. 
+Gunakan prosedur yang sama dengan nomor di atas untuk 
+menentukan nilai ⇤ yang belum diketahui pada soal di bawah ini. 
+a. 
+b. 
+c. 
+d. 
+Pembahasan
+Dua bilangan dikatakan saling resiprokal atau berkebalikan, jika 
+memiliki hasil kali sama dengan 1. Contoh  berkebalikan dengan  
+ dan 
+ berkebalikan dengan 
+. Untuk mencari hasil pembagian 
+pecahan dengan pecahan, kalian dapat mengalikan pecahan yang akan 
+dibagi dengan resiprokal pembaginya. 
+Perhatikan contoh berikut. 
+ 
+a. 
+3
+8 : 1
+2 = 3
+8 × 2
+1 = 6
+8 = 3
+4
+ 
+b. −2
+35 : 2
+7 = −2
+35 × 7
+2 = −14
+70 = −1
+5
+✓3
+4 × 4
+3
+◆
+× ⇤= 3
+8 × 4
+3
+4
+7 × ⇤= 1
+6
+⇤× 2
+5 = 2
+20
+−1
+3 × ⇤= −5
+24
+⇤× 2
+7 = −2
+35
+Matematika untuk SMP/MTs Kelas VII
+70
+Ayo Mencoba
+Tentukan hasil pembagian pecahan di bawah ini. 
+ 
+1. 
+1
+2 : 2
+3 
+2. 
+−14
+5 : 2
+9
+ 
+3. 
+6
+11 :
+✓
+−21
+2
+◆
+ 
+4. 
+−12
+5 :
+✓−2
+3
+◆
+Setelah kalian menguasai perkalian dan pembagian bilangan rasional 
+yang dinyatakan dalam bentuk pecahan, berikut ini akan dipelajari 
+perkalian dan pembagian bilangan rasional yang dapat dinyatakan 
+dalam bentuk desimal. Kalian bisa menggunakan strategi seperti pada 
+contoh di bawah ini.
+Contoh:
+1. 
+Tentukan hasil perkalian 
+. 
+Penyelesaian: 
+Strategi yang dapat digunakan adalah dengan mengubah ke 
+bentuk pecahan 
+ 
+2. 
+Tentukan hasil pembagian 2,4 : 0,2.  
+Penyelesaian: 
+Strategi yang dapat digunakan adalah dengan mengubah ke 
+bentuk pecahan 
+ 2, 4 : 0, 2 = 24
+10 : 2
+10 = 24
+10 × 10
+2 = 12
+ 
+Bab 2 | Bilangan Rasional
+71
+Eksplorasi
+2.10 Perkalian dan pembagian bilangan 
+rasional dalam bentuk desimal
+1. 
+Karina mencoba mengalikan 2, 4 × 2 dengan teknik bersusun ke 
+bawah seperti perkalian pada bilangan bulat 24 × 2 
+ 
+ 
+ 
+2, 4
+0, 2
+×
+0, 48
+ 
+Di mana tanda koma harus diletakkan agar perkalian desimal 
+tersebut menjadi benar?
+2. 
+Letakkan tanda koma pada hasil perkalian berikut agar hasilnya 
+menjadi benar. 
+ 
+   
+ 
+   
+ 
+ 
+3. 
+Tentukan  hasil pembagian 3,24 : 0,2 dengan mengubahnya terlebih 
+dahulu ke bentuk pecahan. 
+4. 
+Perhatikan kembali pembagian 3,24 : 0,2. Di bawah ini, pembagian 
+mana yang menurut kalian lebih mudah untuk dilakukan? Jelaskan 
+alasan kalian.
+a. 
+32,4 : 2
+b. 
+324 : 20
+Ayo Mencoba
+1. 
+Tentukan hasil perkalian bilangan rasional dalam bentuk desimal 
+di bawah ini.
+a. 
+11 × 0, 3 
+b. 
+0, 3 × 0, 04 
+c. 
+−0, 45 × 0, 2 
+d. 
+−0, 65 × 1, 2 
+e. 
+−0, 18 × (−0, 5)
+12, 5
+1, 3
+×
+375
+125
++
+1625
+2, 31
+0, 24
+×
+924
+462
++
+5544
+0, 112
+2, 5
+×
+560
+224
++
+2800
+Matematika untuk SMP/MTs Kelas VII
+72
+2. 
+Tentukan hasil pembagian bilangan rasional dalam bentuk desimal 
+di bawah ini.
+a. 
+0,12 : 0,4
+b. 
+0,36 : 1,8
+c. 
+−0,45 : 1,5
+d. 
+−2,25 : 0,3
+Eksplorasi
+2.11
+Perkalian dan pembagian bilangan 
+rasional yang dinyatakan dalam bentuk pecahan dan 
+desimal
+Lakukan kembali kegiatan berikut secara berpasangan.
+Siswa A 
+−1
+2 × 0, 8 = . . .
+Bilangan 0, 8 dapat 
+dinyatakan dalam bentuk 
+pecahan 8
+10.
+Lakukan perkalian bilangan 
+rasional yang dinyatakan 
+dalam bentuk pecahan.
+ 
+−1
+2 × 8
+10 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Siswa B 
+−1
+2 × 0, 8 = . . .
+Bilangan −1
+2
+ dapat 
+dinyatakan dalam bentuk 
+desimal −0, 5.
+Lakukan perkalian bilangan 
+rasional yang dinyatakan 
+dalam bentuk desimal.
+−1
+2 × 0, 8 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Bab 2 | Bilangan Rasional
+73
+Lanjutkan dengan kegiatan berikut.
+Siswa A 
+18
+25 : 0, 3 = . . .
+Bilangan 0, 3 dapat 
+dinyatakan dalam bentuk 
+pecahan 3
+10.
+Lakukan pembagian bilangan 
+rasional yang dinyatakan 
+dalam bentuk pecahan.
+ 
+18
+25 : 3
+10 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Siswa B 
+18
+25 : 0, 3 = . . .
+Bilangan 
+ dapat dinyatakan 
+dalam bentuk desimal 0, 72.
+Lakukan pembagian bilangan 
+rasional yang dinyatakan 
+dalam bentuk desimal.
+0, 72 : 0, 3 = . . .
+Bandingkan jawaban kalian 
+dengan pasangan kalian!
+Latihan 2.2
+ 
+1. 
+Lengkapi bagian  dengan operasi hitung “ +, −, ×, : ” yang sesuai 
+agar pernyataan di bawah ini bernilai benar.
+a. 
+2
+3⇤1
+3 = 1
+b. 
+c. 
+d. 
+Matematika untuk SMP/MTs Kelas VII
+74
+2. 
+Tentukan hasil operasi hitung berikut.
+a. 
+b. 
+c. 
+1, 6 : (−0, 8) + 2
+5
+d. 
+ 2, 6 × 4
+7 + 2
+5
+3. 
+Ayah mengerjakan puzzle selama 1, 2 jam, kemudian adik 
+melanjutkan mengerjakan puzzle yang sama selama 21
+3 jam. 
+ 
+Berapa lama waktu yang sudah dihabiskan untuk menyelesaikan 
+puzzle tersebut?
+4. 
+Umur Tono  kali umur ayah. Umur kakek saat ini 2,25 kali umur 
+ayah. Umur ayah sekarang adalah 28 tahun.
+a. 
+Berapakah umur Tono saat ini?
+b. 
+Berapakah umur kakek saat ini?
+c. 
+Berapakah umur ayah saat Tono lahir?
+5. 
+Ibu memiliki kain sepanjang 20 meter. Ibu ingin memotong-motong 
+kain tersebut dengan panjang tiap potongan 1,25 m. Berapa banyak 
+potongan kain yang ibu dapat?
+Bab 2 | Bilangan Rasional
+75
+Ayo Berefleksi
+1. 
+Bagaimana melakukan operasi hitung pada bilangan rasional?
+2. 
+Bagaimana menentukan operasi hitung yang tepat untuk 
+menyelesaikan suatu masalah kontekstual yang melibatkan bilangan 
+rasional?
+Refleksi
+Pada bab ini, kalian telah mempelajari mengenai bilangan rasional. 
+Jawablah pertanyaan di bawah ini untuk memeriksa pemahaman 
+kalian.
+1. 
+Apakah saya dapat mengidentifikasi bilangan yang termasuk 
+bilangan rasional?
+2. 
+Apakah saya dapat menyatakan bilangan rasional?
+3. 
+Apakah saya dapat menaksir nilai bilangan rasional?
+4. 
+Apakah saya dapat membandingkan nilai bilangan rasional?
+5. 
+Apakah saya dapat melakukan estimasi untuk hasil operasi hitung 
+bilangan rasional? 
+6. 
+Apakah saya dapat melakukan operasi hitung penjumlahan, 
+pengurangan, perkalian, dan pembagian bilangan rasional? 
+7. 
+Apakah saya dapat memecahkan masalah kontekstual yang 
+melibatkan bilangan rasional?
+Matematika untuk SMP/MTs Kelas VII
+76
+Uji Kompetensi
+1. 
+Lengkapi tabel di bawah ini dengan menyatakan nilai kebenaran 
+masing-masing pernyataan beserta alasannya.
+Tabel 2.9 Menentukan Nilai Kebenaran Pernyataan
+No.
+Pernyataan
+Benar/Salah
+Alasan
+1.
+ merupakan bilangan 
+rasional
+…
+…
+2.
+ merupakan bilangan 
+rasional
+…
+…
+3.
+ merupakan bilangan 
+rasional
+…
+…
+4.
+ merupakan bilangan 
+rasional
+…
+…
+5.
+ merupakan bilangan 
+rasional
+…
+…
+6.
+ merupakan 
+bilangan rasional
+…
+…
+7.
+0 merupakan bilangan 
+rasional
+…
+…
+8.
+Semua bilangan bulat 
+negatif merupakan 
+bilangan rasional
+…
+…
+2. 
+Ibu menekuni usaha pembuatan jamu. Ibu memasarkan 
+produk jamu buatannya dengan mengikuti bazar UMKM. Ibu 
+membawa sejumlah stok jamu untuk dijual di acara bazar yang 
+diselenggarakan selama tiga hari di balai kota. Hari pertama 
+Bab 2 | Bilangan Rasional
+77
+ibu menjual  bagian dari stok jamu yang ada. Hari kedua ibu 
+menjual  dari sisa stok jamu hari pertama. Pada hari ketiga ibu 
+berhasil menjual seluruh stok yang ada. 
+a. 
+Berapa sisa stok jamu pada hari pertama?
+b. 
+Berapa bagian stok jamu yang ibu jual pada hari ketiga?
+3. 
+Paman menguji coba tiga jenis pakan ayam di peternakan ayam 
+potong miliknya. Tiga ayam diberi jenis pakan berbeda dan 
+ditimbang beratnya setiap minggu. Tabel di bawah ini menunjukkan 
+hasil penimbangan berat ayam.
+Tabel 2.10 Berat Ayam 
+Berat ayam dalam gram
+Saat 
+menetas
+Minggu 
+1
+Minggu 
+2
+Minggu 3
+Minggu 4
+Ayam 
+dengan 
+pakan A
+42,9
+152,6
+367,9
+732,7
+1.043,5
+Ayam 
+dengan 
+pakan B
+41,5
+120,8
+338,1
+733,4
+1.112,8
+Ayam 
+dengan 
+pakan C
+48,3
+155,4
+403,6
+824,0
+1.294,2
+a. 
+Ayam yang diberi pakan apa yang memiliki berat tertinggi 
+pada minggu pertama?
+b. 
+Ayam yang diberi pakan apa yang memiliki penambahan berat 
+tertinggi pada minggu pertama?
+c. 
+Ayam yang diberi pakan apa yang memiliki penambahan berat 
+tertinggi sepanjang empat minggu?
+4. 
+Jarak rumah Fajar dengan sekolah sejauh 1,7 km. Tepat di separuh 
+jarak antara rumah dan sekolah terdapat toko alat tulis. Siang ini 
+sepulang sekolah ia hendak singgah ke toko alat tulis. Diketahui 
+posisi Fajar berada 0,42 km dari sekolah. 
+Matematika untuk SMP/MTs Kelas VII
+78
+a. 
+Berapa jauh jarak Fajar dengan toko alat tulis?
+b. 
+Berapa jauh jarak yang masih harus Fajar tempuh untuk 
+sampai di rumah?
+5. 
+Persen digunakan untuk menyatakan pecahan per seratus. 
+Persen banyak digunakan dalam kehidupan sehari-hari, misalnya 
+untuk menyampaikan potongan harga atau diskon suatu barang. 
+Diskon 70% artinya nilai barang tersebut dikurangi sebesar 
+ 
+dari harga awalnya. 
+ 
+Perhatikan diskon yang diberikan dua toko di bawah ini.
+ 
+a. 
+Toko mana yang memberikan potongan harga lebih besar? 
+b. 
+Tentukan besar potongan harga dari masing-masing toko 
+untuk jenis sepatu yang sama!
+Diskon
+70%
+Diskon
+75%
+TOKO
+B
+TOKO
+A
+Rp150.000,00
+Bab 2 | Bilangan Rasional
+79
+c. 
+Jika terdapat perbedaan harga awal, seperti pada gambar 
+berikut, toko mana yang akan kalian pilih untuk membeli 
+sepatu tersebut? Jelaskan jawaban kalian! 
+ 
+6. 
+Won Korea Selatan adalah mata uang yang digunakan di Korea 
+Selatan, simbol yang digunakan adalah ₩. 
+ 
+Nilai tukar untuk 1 Won Korea Selatan atau 1 KRW pada 18 Februari 
+2022 terhadap rupiah (IDR) yang dikeluarkan oleh salah satu bank 
+swasta di Indonesia ditunjukkan dalam tabel berikut.
+Tabel 2.11 Nilai Tukar KRW ke IDR
+Beli adalah nilai yang digunakan bank untuk membeli 1 KRW. 
+Jual adalah nilai yang digunakan bank untuk menjual 1 KRW.
+Karina berencana berlibur ke Seoul, Korea Selatan dalam waktu 
+dekat bersama keluarga. Ia membantu ibu menyusun berbagai 
+alokasi biaya kebutuhan selama di sana.
+Diskon
+70%
+Diskon
+75%
+TOKO
+B
+TOKO
+A
+Rp120.000,00
+Rp130.000,00
+Literasi Finansial
+Mata Uang
+KRW
+11,75
+12,47
+Beli (IDR)
+Jual (IDR)
+Matematika untuk SMP/MTs Kelas VII
+80
+a. 
+Berapa selisih nilai beli dan nilai jual yang dikeluarkan bank 
+hari itu?
+b. 
+Kebutuhan biaya transportasi per hari sebesar 50.000 KRW. 
+Berapa rupiah yang perlu dibayarkan untuk mendapatkan 
+50.000 KRW?
+c. 
+Tahun lalu, ayah juga pergi ke Seoul untuk urusan pekerjaan. 
+Ayah masih memiliki sisa uang won sebesar 1.432 KRW. 
+Berapa nilai uang 1.432 KRW ayah dalam rupiah per tanggal 
+18 Februari 2022?
+d. 
+Untuk kebutuhan oleh-oleh, ibu menyiapkan anggaran sebesar 
+Rp624.000,00. Berapa KRW besar anggaran untuk membeli 
+oleh-oleh? Bulatkan ke nilai satuan. 
+e. 
+Sebesar 10% dari biaya akomodasi dialokasikan untuk biaya 
+tidak terduga. Jika ibu mengalokasikan Rp24.940.000,00 untuk 
+biaya akomodasi, berapa won biaya tak terduga yang tersedia?
+Bab 2 | Bilangan Rasional
+81
+Pengayaan
+Body Mass Index (BMI) atau Indeks Massa Tubuh (IMT) adalah salah 
+satu ukuran kadar lemak berdasarkan tinggi dan berat seseorang. 
+Indeks Massa Tubuh dihitung dengan cara
+Indeks Massa Tubuh = BB
+TB2
+BB: Berat badan atau massa tubuh dalam kg 
+ 
+TB: Tinggi badan dalam meter
+Tabel 2.12 Kategori Indeks Massa Tubuh
+Kategori
+IMT
+Kekurangan berat badan tingkat berat
+Kurang dari 17,0
+Kekurangan berat badan tingkat ringan
+17,0 sampai 18,4
+Normal
+18,5 sampai 25,0
+Kelebihan berat badan tingkat ringan
+25,1 sampai 27,0
+Kelebihan berat badan tingkat berat
+Lebih dari 27,0
+sumber: kemkes/p2ptm (2019)
+Di bawah ini terdapat data berat dan tinggi badan lima orang. 
+Hitunglah nilai IMT dan tentukan kategorinya.
+Tabel 2.13 Data Berat dan Tinggi Badan
+No
+Nama
+Berat 
+Badan 
+(kg) 
+Tinggi 
+Badan (m)
+Nilai IMT 
+Kategori
+1.
+2.
+3.
+4.
+5.
+Pak Ananta
+Pak Bintoro
+Bu Citra
+Bu Dian
+Pak Erlangga
+80
+50
+65
+60
+75
+1,80
+1,70
+1,68
+1,60
+1,65
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+ 
+Matematika untuk SMP/MTs Kelas VII
+82
+Jawablah pertanyaan berikut!
+a. 
+Pada Tabel 2.13, siapa yang memiliki IMT dengan kategori 
+kekurangan berat badan tingkat ringan? Berapa berat badan 
+yang harus ditambah agar tercapai IMT sebesar 18,5?
+b. 
+Pada Tabel 2.13, siapa yang memiliki IMT dengan kategori 
+kelebihan berat badan tingkat berat? Berapa berat badan yang 
+harus dikurangi agar tercapai IMT sebesar 25?

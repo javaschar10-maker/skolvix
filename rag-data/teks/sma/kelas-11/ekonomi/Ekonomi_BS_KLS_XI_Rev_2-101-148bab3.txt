@@ -1,0 +1,1610 @@
+Uang, Inﬂasi, 
+dan Kebijakan Moneter
+BAB
+Mengapa harga barang 
+mengalami kenaikan?
+III
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2024
+Ekonomi untuk SMA/MA Kelas XI (Edisi Revisi)
+Penulis: Aisyah Nurjanah dan Yeni Fitriani
+ISBN 978-623-388-196-8
+EKONOMI UNTUK SMA/MA KELAS XI
+92
+Tujuan Pembelajaran
+Pada bab ini, kamu akan memahami konsep uang dan peredaran 
+uang serta kaitannya dengan inȵasi dan kebijakan moneter. Selain itu, 
+kamu akan  menganalisis informasi berkaitan dengan kondisi inȵasi, 
+menganalisis solusi permasalahan inȵasi melalui kebijakan moneter, 
+serta mereȵeksikan kebijakan moneter yang sedang berlaku.
+ǎ Uang
+ǎ Indeks Harga Konsumen (IHK)
+ǎ Inȵasi
+ǎ Kebijakan moneter
+Kata Kunci
+Peta Materi
+Uang, Inﬂasi,
+dan Kebijakan
+Moneter
+Permintaan
+dan Penawaran
+Uang
+Kebijakan
+Moneter
+Inﬂasi
+93
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Siap-Siap Belajar
+Ketidakstabilan ekonomi yang ditandai dengan tingginya tingkat 
+pengangguran dapat memengaruhi nilai mata uang negara. Hal 
+ini menunjukkan adanya hubungan antara pengangguran dengan 
+stabilitas ekonomi yang diwakili oleh nilai mata uang. Pada bab ini, 
+kamu akan mempelajari konsep permintaan dan penawaran uang 
+serta pengaruhnya terhadap inȵasi dan solusi mengatasinya melalui 
+kebijakan moneter.
+A.	
+A.	
+Permintaan dan Penawaran Uang
+Sebelum belajar seputar uang, inȵasi, dan kebijakan moneter, 
+pahamilah teori permintaan uang dan penawaran uang berikut ini!
+1.	 Teori Permintaan Uang
+Apakah kamu pernah meminta uang jajan dari orang tuamu? Jika iya, 
+apakah kamu menggunakan uang tersebut untuk belanja? Jika kamu 
+melakukan tindakan tersebut, sebetulnya kamu sedang melakukan 
+permintaan uang. Sama halnya dengan tindakanmu yang meminta 
+uang pada orang tua untuk belanja, masyarakat juga melakukan 
+permintaan uang untuk melakukan transaksi ekonomi. Guna 
+memahami tindakan masyarakat dalam melakukan permintaan uang, 
+kamu perlu mengetahui teori permintaan uang.
+EKONOMI UNTUK SMA/MA KELAS XI
+94
+Cermati Gambar Berikut!
+Gambar 3.1 Anak diberi uang jajan oleh orang tua.
+Teori permintaan uang adalah sejumlah uang yang diperlukan 
+masyarakat atau keinginan masyarakat untuk memegang uang dalam 
+periode waktu tertentu dalam rangka memenuhi kebutuhannya. Teori 
+permintaan uang dikembangkan oleh beberapa tokoh ekonomi. Salah 
+satunya ialah Irving Fisher. Teori permintaan uang Irving Fisher juga 
+disebut dengan teori kuantitas uang. Teori kuantitas uang menjelaskan 
+bagaimana uang beredar di masyarakat. Irving Fisher merumuskan 
+teori kuantitas uang, yaitu sebagai berikut.
+M . V = P . T
+Keterangan:
+M	
+=	
+Money (jumlah uang 
+beredar)
+V	
+=	
+Velocity (kecepatan 
+peredaran uang)
+P	
+=	
+Price (harga)
+T	
+=	
+Transaction (volume 
+barang yang 
+diperdagangkan)
+95
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Untuk meningkatkan pengetahuan kamu tentang teori kuantitas 
+uang, kerjakanlah aktivitas berikut ini!
+Ayo, Memahami!
+ 
+ Aktivitas 3.1
+Teori Kuantitas Uang
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas berikut ini secara berkelompok!
+2.	 Uraikanlah teori uang dari dua tokoh ekonomi berikut ini dengan 
+menjabarkan serta menganalisis perbedaan dari kedua teori 
+tersebut!
+3.	 Kalian boleh mencari informasi di buku ajar yang tersedia atau 
+situs internet terpercaya.
+4.	 Setelah selesai, presentasikan dan diskusikan hasil pekerjaan 
+kelompok kalian dengan kelompok lain!
+No.
+Tokoh
+Teori
+1
+Irving Fisher
+2
+Marshall–Pigou (Cambridge)
+Ayo, Menghitung!
+ 
+ Aktivitas 3.2
+Teori Kuantitas Uang Fisher
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+2.	 Kamu boleh mencari informasi di buku ajar yang tersedia atau situs 
+terpercaya.
+EKONOMI UNTUK SMA/MA KELAS XI
+96
+No.
+Pernyataan
+1.
+Menjelang lebaran, kebutuhan terus meningkat mulai dari kewajiban memberikan 
+Tunjangan Hari Raya (THR), mudik, membeli hantaran, membeli baju baru, hingga 
+membeli makanan untuk persediaan. Tidak heran, setiap tahun khususnya 
+menjelang lebaran, kebutuhan uang tunai ikut meningkat. Untuk memenuhi 
+kebutuhan transaksi rupiah menjelang hari raya Idulŕtri 2024, Bank Indonesia telah 
+menyiapkan uang tunai sebanyak 197 triliun rupiah. Berdasarkan wacana tersebut, 
+mengapa permintaan uang tunai mengalami kenaikan menjelang lebaran? Jelaskan!
+2.
+Dalam suatu transaksi perekonomian dengan tingkat harga sebesar 
+Rp1.000.000,00 dan barang yang terjual sebanyak 100 unit, diketahui bahwa 
+kecepatan peredaran uang sebanyak 10 kali. Tentukanlah jumlah uang yang 
+beredar berdasarkan transaksi tersebut!
+Selain Fisher, teori permintaan uang juga dikemukakan oleh John 
+Maynard Keynes. Keynes menyebutkan bahwa masyarakat memiliki 
+tiga motif dalam memegang uang, yaitu sebagai berikut.
+a.	 Motif Transaksi
+Motif transaksi adalah motif masyarakat memegang uang dengan 
+tujuan melakukan transaksi ekonomi atau konsumsi sehari-hari. 
+Dorongan untuk melakukan kegiatan membeli barang maupun jasa 
+merupakan salah satu  penerapan dari motif ini. 
+b.	 Motif Berjaga-jaga
+Motif berjaga-jaga adalah motif masyarakat memegang uang dengan 
+tujuan melakukan pembayaran. Salah satunya adalah pembayaran 
+yang tidak terduga di masa yang akan datang. Misalnya, uang digunakan 
+untuk pembayaran saat sakit.
+c.	 Motif Spekulasi
+Motif spekulasi adalah motif masyarakat memegang uang dengan 
+tujuan melakukan kegiatan spekulasi melalui pembelian produk-produk 
+investasi dengan harapan mendapatkan keuntungan di masa yang akan 
+datang. Contoh produk-produk investasi tersebut adalah saham, obligasi, 
+dan reksadana. Untuk meningkatkan pengetahuan kamu tentang 
+permintaan uang Keynes, kerjakanlah aktivitas berikut ini!
+97
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Ayo, Mencari Tahu!
+ 
+ Aktivitas 3.3
+Permintaan Uang
+Petunjuk Pengerjaan
+1.	 Kerjakanlah aktivitas berikut ini secara mandiri!
+2.	 Lakukanlah wawancara pada orang tuamu berkaitan dengan 
+pengeluaran rutin!
+3.	 Isilah kolom berikut ini sesuai dengan hasil wawancaramu!
+4.	 Buatlah kesimpulan dari hasil wawancaramu dan kaitkan dengan 
+konsep permintaan uang!
+No.
+Pernyataan
+Hasil Wawancara
+1.
+Berapa jumlah anggaran rumah tangga 
+keluarga kamu setiap bulan?
+2.
+Berdasarkan anggaran tersebut, apa 
+saja jenis-jenis kebutuhan yang harus 
+dipenuhi setiap bulan? Jabarkan mulai 
+dari kebutuhan yang paling prioritas!
+3.
+Berapa besar anggaran untuk belanja 
+kebutuhan dasar rumah tangga setiap 
+bulan?
+4.
+Berapa besar anggaran untuk 
+simpanan darurat?
+5.
+Apakah keluarga kamu mengalokasikan 
+anggaran untuk  membeli surat 
+berharga, misalnya saham, obligasi, 
+dan reksadana? Jika iya, berapa besar 
+yang dianggarkan?
+Kesimpulan:
+EKONOMI UNTUK SMA/MA KELAS XI
+98
+Ayo, Mengidentiﬁkasi!
+ 
+ Aktivitas 3.4
+Permintaan Uang Keynes
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas berikut ini secara berkelompok!
+2.	 Identifikasilah kolom pernyataan berikut ini ke dalam motif 
+memegang uang (transaksi, berjaga-jaga, atau spekulasi)!
+3.	 Diskusikan jawaban kalian bersama anggota kelompok kalian!
+4.	 Kalian boleh mencari informasi di buku ajar yang tersedia atau 
+situs terpercaya.
+5.	 Beri tanda centang (✔) pada kolom motif memegang uang sesuai 
+dengan pernyataan yang tepat menurut kalian!
+6.	 Setelah selesai, presentasikan dan diskusikan hasil pekerjaan 
+kelompok kalian dengan kelompok lain!
+No.
+Pernyataan
+Motif  Memegang Uang
+Transaksi
+Berjaga-jaga
+Spekulasi
+1.
+Hani menganggarkan uang 
+sebesar Rp3.000.000,00 setiap 
+bulannya untuk membeli 
+kebutuhan pokok keluarganya.
+2.
+Meski anaknya masih berusia 
+5 tahun, setiap bulan, Zui 
+menganggarkan uang untuk 
+pendidikan anaknya di masa 
+depan.
+3.
+Sugi menyisihkan penghasilan 
+yang diterimanya untuk 
+berinvestasi di pasar modal.
+4.
+Rina rutin membeli produk 
+perawatan wajah setiap bulan.
+5.
+Caca menganggarkan dana 
+berobat untuk keluarganya.
+99
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+No.
+Pernyataan
+Motif  Memegang Uang
+Transaksi
+Berjaga-jaga
+Spekulasi
+6.
+Setiap bulan, Kholid 
+membayar iuran keamanan 
+dan kebersihan di lingkungan 
+tempat tinggalnya.
+7.
+Asma mengeluarkan uang yang 
+cukup besar untuk membeli 
+reksadana.
+8.
+Zaki menabung uang 
+Rp200.000,00 per bulan di salah 
+satu bank yang  dekat dengan 
+rumahnya.
+9.
+Yani membeli produk sukuk 
+ritel.
+10.
+Jeonghan harus selalu 
+menganggarkan dana darurat 
+dari anggaran bulannya untuk 
+mengantisipasi kebutuhan yang 
+tidak terduga. 
+2.	 Teori Penawaran Uang
+Jika permintaan uang dilakukan oleh masyarakat, siapakah pihak yang 
+melakukan penawaran uang? Berapa banyak uang yang ditawarkan 
+pada masyarakat? Penawaran uang adalah jumlah uang yang beredar 
+di masyarakat. Bank Indonesia, selaku otoritas moneter di Indonesia, 
+memiliki tugas untuk mengatur jumlah uang beredar. Menurut Bank 
+Indonesia (BI), komponen uang beredar terdiri dari uang kartal yang 
+dipegang masyarakat, uang giral, uang kuasi, dan surat berharga selain 
+saham yang diterbitkan oleh sistem moneter.
+Komponen uang dibagi menjadi dua, yaitu uang dalam arti sempit 
+(M1) dan uang dalam arti luas (M2). Menurut Bank Indonesia, M1 terdiri 
+dari uang kartal yang dipegang masyarakat dan uang giral, termasuk 
+uang elektronik yang diterbitkan bank. Uang kartal adalah uang yang 
+EKONOMI UNTUK SMA/MA KELAS XI
+100
+diterbitkan oleh Bank Indonesia yang menjadi alat pembayaran yang 
+sah, di antaranya uang kertas dan uang logam. Uang giral adalah uang 
+yang diterbitkan oleh bank umum yang berupa saldo atau tagihan, 
+contohnya  cek, wesel, dan kartu kredit.     
+Uang beredar dalam arti luas (M2) adalah komponen M1 
+ditambahkan uang kuasi. Uang kuasi sendiri terdiri dari simpanan 
+berjangka dan tabungan (rupiah dan valas) serta simpanan giro valas. 
+Secara sederhana, rumus M1 dan M2 adalah sebagai berikut. 
+M1 = Uang kartal + Uang Giral
+M2 = M1 + Uang Kuasi
+Untuk meningkatkan pengetahuan kamu tentang penawaran uang, 
+kerjakanlah aktivitas berikut ini! 
+Ayo, Menganalisis!
+ 
+ Aktivitas 3.5
+Teori Penawaran Uang
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas berikut ini secara berkelompok!
+2.	 Amatilah  infografik berikut ini, kemudian jawablah pertanyaan 
+yang tersedia! 
+101
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+101
+Gambar 3.2 Uang Beredar Tumbuh Lebih Tinggi 
+Sumber: Bank Indonesia/bi.go.id (2024)
+EKONOMI UNTUK SMA/MA KELAS XI
+102
+Pertanyaan
+1.	 Komponen uang yang termasuk dalam M1 adalah ….
+2.	 Salah satu faktor penyebab meningkatnya uang beredar dalam arti 
+luas (M2) pada bulan Maret 2024 adalah ….
+3.	 Tentukan pernyataan berikut ini dalam kategori benar atau salah!
+Pernyataan
+Benar
+Salah
+Uang elektronik dan tabungan yang bisa diambil 
+sewaktu-waktu termasuk dalam komponen M2.
+Pada bulan Maret 2024, pertumbuhan M2 lebih besar 
+dibandingkan dengan M1.
+Semakin tinggi angka penyaluran kredit, semakin tinggi 
+pula jumlah uang yang beredar. 
+Pada bulan Maret 2024, uang kuasi juga mengalami 
+peningkatan.
+Semakin sedikit jumlah uang yang dipegang 
+masyarakat, maka jumlah M1 akan mengalami kenaikan.
+4.	 Lengkapi tabel berikut ini!
+Bulan
+M1
+M2
+Selisih
+Februari
+Rp4.791,6 T
+Rp8.739,6 T
+.........
+Maret
+Rp4.919,9 T
+Rp8.888,4 T
+.........
+5.	 Berikan kesimpulan berdasarkan data tersebut!
+103
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Tingginya permintaan terhadap uang akan menambah jumlah 
+peredaran uang di masyarakat. Kondisi tersebut mengindikasikan 
+adanya inȵasi. Apa yang dimaksud dengan inȵasi? Bagaimana kaitan 
+tingkat harga dengan inȵasi? Selanjutnya, kamu akan mempelajari 
+materi tentang inȵasi. 
+B.	
+B.	
+InȔasi 
+Pada bagian ini, kamu akan belajar tentang inȵasi secara detail. Berikut 
+ini adalah konsep perubahan harga, indeks harga, pengertian inȵasi, 
+jenis-jenis inȵasi, menghitung inȵasi, dan dampak inȵasi. 
+1.	 Konsep Perubahan Harga
+Menurut Kamus Besar Bahasa Indonesia (KBBI), harga merupakan 
+nilai barang yang ditentukan dengan uang. Dalam kegiatan ekonomi, 
+harga suatu barang akan mengalami perubahan. Perubahan harga 
+merupakan perubahan jumlah uang untuk memperoleh suatu barang 
+dengan jenis yang sama pada waktu yang berbeda. Ada tiga faktor 
+yang memengaruhi perubahan harga, yaitu perubahan permintaan, 
+pendapatan, dan biaya produksi.
+Untuk mengetahui perubahan atau perbandingan harga barang dari 
+waktu ke waktu, kamu dapat menghitungnya dengan menggunakan 
+indeks relatif harga. Rumusnya adalah sebagai berikut.
+ΔP =
+× 100%
+Pn
+Po
+Keterangan:
+ΔP	 =	
+Perubahan harga
+Pn	 =	
+Harga pada tahun 
+ditanyakan
+Po	 =	
+Harga pada tahun 
+dasar
+EKONOMI UNTUK SMA/MA KELAS XI
+104
+Untuk memahami materi konsep perubahan harga, kerjakanlah 
+aktivitas berikut ini!
+Ayo, Mengamati!
+ 
+ Aktivitas 3.6
+Konsep Perubahan Harga
+Petunjuk 
+Pengerjaan
+1.	 Kerjakan aktivitas 
+ini secara mandiri!
+2.	 Perhatikan tabel 
+di samping dengan 
+saksama!
+3.	 Tabel di samping 
+merupakan harga 
+beras premium 
+selama tahun 2023.
+Bulan 
+Harga Beras Per Kg
+Januari 
+Rp13.140,00
+Februari 
+Rp13.410,00
+Maret 
+Rp13.530,00
+April 
+Rp13.620,00
+Mei 
+Rp13.590,00
+Juni 
+Rp13.570,00
+Juli 
+Rp13.580,00
+Agustus 
+Rp13.730,00
+September 
+Rp14.470,00
+Oktober 
+Rp14.950,00
+November 
+Rp14.980,00
+Desember 
+Rp14.990,00
+Sumber: Badan Pangan Nasional/panelharga.badanpangan.go.id (2023)
+Berdasarkan tabel tersebut, jawablah pertanyaan berikut ini!
+No.
+Pertanyaan
+Jawaban
+1.
+Apa yang dapat kamu simpulkan dari data pada tabel 
+tersebut?
+2.
+Apakah harga komoditas tersebut mengalami 
+perubahan setiap bulan?
+105
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+No.
+Pertanyaan
+Jawaban
+3.
+Apakah perubahan harga berlaku untuk komoditas 
+lain?
+4.
+Seberapa penting pemerintah harus mengatur harga 
+komoditas? Jabarkan dengan bahasa kalian sendiri!
+2.	 Indeks Harga
+Pernahkah kamu mengamati harga barang-barang yang selalu 
+mengalami perubahan? Apa jenis barang yang sering mengalami 
+perubahan di lingkungan sekitarmu? Secara statistik, perubahan harga 
+barang dapat diukur dan dihitung dengan menggunakan indeks harga. 
+Indeks harga merupakan sebuah rataan dari perubahan harga 
+yang proporsional pada suatu barang atau jasa tertentu antara suatu 
+periode ke periode lain. Menurut Badan Pusat Statistik (BPS), indeks 
+harga merupakan suatu ukuran statistik untuk menyatakan perubahan-
+perubahan harga yang terjadi pada suatu periode ke periode yang 
+lainnya. 
+Indeks harga sangat diperlukan untuk mengetahui perubahan 
+kondisi ekonomi suatu negara. Salah satu indeks harga yang sering 
+dijadikan indikator inȵasi adalah Indeks Harga Konsumen (IHK). 
+Menurut The Classification of Individual Consumption by Purpose 
+(COICOP), IHK dikelompokan dalam sebelas kelompok pengeluaran 
+yang terdiri dari kelompok berikut ini.
+EKONOMI UNTUK SMA/MA KELAS XI
+106
+Sebelas Kelompok 
+Pengeluaran Indeks  
+Harga Konsumen
+6
+KELOMPOK
+Transportasi
+1
+KELOMPOK
+Makanan, minuman, 
+dan tembakau
+7
+KELOMPOK
+Informasi, 
+komunikasi, dan jasa 
+keuangan
+2
+KELOMPOK
+Pakaian dan  
+alas kaki
+8
+KELOMPOK
+Rekreasi, olahraga, 
+dan budaya
+3
+KELOMPOK
+Perumahan, air, 
+listrik, dan bahan 
+bakar rumah 
+tangga
+9
+KELOMPOK
+Pendidikan
+4
+KELOMPOK
+Perlengkapan, 
+peralatan, dan 
+pemeliharaan rutin 
+rumah tangga
+10
+KELOMPOK
+Penyediaan 
+makanan dan 
+minuman/restoran
+5
+KELOMPOK
+Kesehatan
+11
+KELOMPOK
+Perawatan pribadi 
+dan jasa lainnya
+Gambar 3.3 Sebelas Kelompok Pengeluaran Indeks Harga Konsumen
+Indeks harga bisa dihitung menggunakan beberapa metode, salah 
+satunya yaitu metode tidak tertimbang (agregatif sederhana). Menurut 
+metode ini, semua barang dianggap sama dan dijumlahkan secara 
+agregatif (keseluruhan), baik untuk tahun dasar maupun tahun yang 
+akan dihitung angka indeksnya. Dengan kata lain, indeks agregatif 
+sederhana menunjukan perbandingan harga atau produksi dari 
+107
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+sekelompok jenis barang. Angka indeks dengan metode sederhana 
+dirumuskan sebagai berikut.
+IA =
+× 100
+ΣPn
+ΣPo
+Keterangan:
+IA	 =	
+Indeks Harga 
+Agregatif
+ΣPn = 
+Jumlah harga-harga 
+pada tahun ke–n 
+(tahun yang akan 
+dihitung)
+ΣPo = 
+Jumlah harga-harga 
+pada tahun dasar 
+(based year)
+Contoh Soal
+Perhatikan tabel berikut ini!
+No.
+Jenis Barang
+Tahun 2022
+Tahun 2023
+1.
+Telur
+Rp27.000,00
+Rp29.000,00
+2.
+Gula 
+Rp14.500,00
+Rp17.000,00
+3.
+Minyak Goreng
+Rp20.000,00
+Rp24.000,00
+4.
+Beras
+Rp13.500,00
+Rp15.000,00
+Total
+Rp75.000,00
+Rp85.000,00
+Berdasarkan tabel tersebut, hitunglah 
+besaran indeks harga pada tahun 2023!
+IA2023 =
+× 100
+ΣPn (2023)
+ΣPo (2023)
+IA2023 =
+× 100
+Rp85.000,00
+Rp75.000,00
+IA2023 = 113,33
+Beberapa hal yang harus diperhatikan dalam menentukan tahun 
+dasar untuk perhitungan indeks harga adalah sebagai berikut.
+EKONOMI UNTUK SMA/MA KELAS XI
+108
+1.	 Pada tahun tersebut, kondisi perekonomian suatu negara sedang 
+stabil. Artinya, tingkat inȵasi berada dalam kondisi rendah.
+2.	 Jarak antartahun tidak terlalu jauh. Misalnya, ketika akan 
+menghitung indeks harga 2023, tahun dasar (based year) yang 
+digunakan hendaklah dalam rentang waktu 5 sampai 10 tahun 
+terakhir. 
+3.	 Penentuan tahun dasar (based year) juga bisa diambil berdasarkan 
+peristiwa penting, seperti adanya pergantian pemimpin.
+Ayo, Menganalisis!
+ 
+ Aktivitas 3.7
+Konsep Indeks Harga
+Petunjuk Pengerjaan
+1.	 Kerjakan tugas ini secara berkelompok!
+2.	 Pergilah ke salah satu pasar tradisional di sekitar tempat tinggal 
+kalian (survei secara langsung)!
+3.	 Lakukan wawancara dengan beberapa pedagang di pasar tersebut 
+untuk mengetahui harga barang-barang tertentu!
+4.	 Carilah data dalam kurun waktu 3 bulan terakhir!
+Barang
+Bulan 1
+Bulan 2
+Bulan 3
+Beras 
+Bawang merah 
+Cabe
+Telur 
+Daging ayam 
+Total (Σ)
+5.	 Berdasarkan data tersebut, jawablah tiga pertanyaan berikut ini!
+109
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+a.	 Hitunglah indeks harga dengan metode indeks agregatif 
+sederhana!
+Indeks Harga Bulan 2
+Indeks Harga Bulan 3
+b.	 Pada periode tersebut, apakah harga barang mengalami kenaikan 
+atau penurunan? Jelaskan penyebabnya!
+c.	
+Apa jenis barang atau komoditas yang sering mengalami 
+perubahan harga? Temukan dan jelaskan penyebab dari 
+perubahan harga barang-barang tersebut!
+Ayo, Menganalisis!
+ 
+ Aktivitas 3.8
+Konsep Indeks Harga
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berkelompok!  
+2.	 Carilah daftar harga beberapa komoditas atau kebutuhan pokok di 
+daerah kalian atau daerah lain selama 3 tahun terakhir!
+3.	 Carilah data-data tersebut melalui situs BPS (www.bps.go.id)! 
+4.	 Tuliskan hasil pengamatan kalian pada tabel berikut ini!
+No.
+Barang
+2021
+2022
+2023
+Total (Σ)
+EKONOMI UNTUK SMA/MA KELAS XI
+110
+5.	 Berdasarkan data tersebut, jawablah beberapa pertanyaan berikut!
+a.	 Hitunglah indeks harga dengan metode indeks agregatif 
+sederhana! Tahun dasar yang digunakan adalah tahun 2021!
+Indeks Harga 2022
+Indeks Harga Bulan 2023
+b.	 Apakah terdapat kenaikan atau penurunan indeks? Berapa 
+persentase kenaikan atau penurunannya? 
+c.	
+Perhitungan indeks harga konsumen dilihat dari barang dan 
+jasa yang sering dikonsumsi oleh masyarakat umum. Mengapa 
+demikian? Kemukakan alasannya!
+d.	 Seberapa penting indeks harga bagi perekonomian? Apa 
+manfaat yang bisa diperoleh dengan adanya indeks harga?
+3.	 Pengertian InȔasi
+Setelah kalian memahami indeks harga, materi selanjutnya yang akan 
+dipelajari adalah inȵasi. Indeks harga merupakan indikator yang dapat 
+digunakan untuk menentukan tingkat inȵasi. Untuk memahami materi 
+inȵasi, amati gambar berikut ini!
+Gambar 3.4 Ilustrasi InȒasi
+111
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+	
+Apa yang dapat kamu simpulkan dari gambar tersebut? 
+Pernahkah kamu mengalami kondisi seperti itu? Seiring bertambahnya 
+waktu, jumlah barang dan jasa yang dibeli dengan uang tertentu 
+semakin berkurang. Kondisi tersebut merupakan salah satu fenomena 
+yang disebut inȵasi.
+Menurut BPS, inȵasi adalah kecenderungan naiknya harga barang 
+dan jasa pada umumnya yang berlangsung secara terus menerus 
+di dalam suatu perekonomian. Terjadinya kenaikan harga tersebut 
+menyebabkan turunnya nilai uang. Dengan demikian, inȵasi juga dapat 
+diartikan sebagai penurunan nilai uang terhadap nilai barang dan jasa 
+secara umum. 
+     Secara umum, kondisi inȵasi terjadi jika memenuhi tiga kriteria, 
+yaitu terjadi kenaikan harga, bersifat umum, dan berlangsung secara 
+terus menerus. Apabila kenaikan harga terjadi hanya pada satu atau 
+dua jenis barang, hal tersebut belum dapat dikategorikan sebagai 
+inȵasi. Dengan kata lain, inȵasi harus menggambarkan kenaikan harga 
+sejumlah besar barang dan jasa yang dipergunakan atau dikonsumsi 
+dalam suatu perekonomian. Kenaikan harga yang bersifat umum 
+juga belum dikategorikan inȵasi, jika hanya terjadi sesaat, misalnya 
+kenaikan harga dalam rentang harian. 
+Untuk memahami konsep inȵasi, mari kerjakan aktivitas berikut ini!
+Ayo, Mengamati!
+ 
+ Aktivitas 3.9
+Konsep InȔasi
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas berikut ini secara berkelompok!
+2.	 Carilah harga 7 komoditas berikut ini dari sumber yang relevan 
+dan lengkapi tabel dengan informasi yang kalian peroleh! 
+EKONOMI UNTUK SMA/MA KELAS XI
+112
+3.	 Presentasikan hasil diskusi kelompok kalian di depan kelas!
+No. 
+Jenis barang 
+(Kg) 
+Harga barang
+     2019
+2020
+2021
+2022
+2023
+1.
+Beras 
+2.
+Telur 
+3.
+Terigu 
+4.
+Minyak goreng
+5.
+Gula pasir
+6.
+Daging ayam 
+7.
+Daging sapi 
+4.	 Berdasarkan data yang sudah kalian cari, komoditas apa saja yang 
+bisa kalian beli pada tahun 2019 dan 2023 dengan uang sebesar 
+Rp200.000,00? Tuliskan hasilnya pada tabel berikut ini.
+Tahun 2019
+Tahun 2023
+5.	 Setelah melakukan aktivitas tersebut, jawablah pertanyaan berikut 
+ini!
+a.	 Apakah harga-harga barang akan selalu mengalami kenaikan?
+b.	 Apa dampak yang dirasakan oleh masyarakat dari adanya 
+kenaikan harga-harga barang tersebut?
+c.	
+Buatlah kesimpulan dari aktivitas yang sudah kalian lakukan!
+113
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+4.	 Jenis-Jenis InȔasi
+Cermatilah bagan jenis-jenis inȵasi berikut! 
+Jenis
+Inﬂasi
+Penyebab
+Demand
+Pull 
+Inﬂation
+Cost 
+Push 
+Inﬂation
+Asal
+Domestik
+Luar
+Negeri
+Tingkat
+Keparahan
+Sedang
+Ringan
+Berat
+Hyper
+Inﬂasi
+Bagan 3.1 Jenis InȒasi
+Berdasarkan bagan tersebut, jenis inȵasi ada tiga, yaitu (1) inȵasi 
+berdasarkan penyebabnya, (2) inȵasi berdasarkan tingkat keparahan, 
+dan (3) inȵasi berdasarkan asalnya. Jenis-jenis tersebut dipaparkan 
+sebagai berikut.
+a.	 InȔasi Berdasarkan Penyebabnya
+Berdasarkan penyebabnya, inȵasi dapat dikelompokkan menjadi dua 
+jenis, yaitu inȵasi tarikan permintaan dan kenaikan biaya produksi. 
+Penyebab inȵasi tersebut dipaparkan sebagai berikut.
+1)	 InȔasi Tarikan Permintaan (Demand Pull Inȵation)
+Inȵasi ini disebabkan karena adanya tarikan permintaan barang 
+dan jasa yang lebih tinggi dibandingkan dengan kapasitas 
+produksi. Inȵasi ini biasanya terjadi ketika perekonomian suatu 
+EKONOMI UNTUK SMA/MA KELAS XI
+114
+negara mengalami perkembangan yang cukup pesat. Tingginya 
+kesempatan 
+kerja 
+mengakibatkan 
+masyarakat 
+memperoleh 
+pendapatan sehingga permintaan terhadap barang dan jasa akan 
+mengalami kenaikan. Apabila kenaikan permintaan tersebut 
+melebihi ketersediaan barangnya, harga barang akan naik.  
+2)	 Kenaikan Biaya Produksi (Cost Push Inȵation)
+Inȵasi ini disebabkan oleh kenaikan biaya produksi. Naiknya biaya 
+produksi akan mengakibatkan harga suatu barang juga mengalami 
+kenaikan sehingga mendorong inȵasi. Menurut Bank Indonesia, 
+kenaikan biaya produksi ini disebabkan beberapa faktor berikut 
+ini.
+a)	 Depresiasi Nilai Tukar
+Depresiasi merupakan kondisi melemahnya nilai mata uang 
+suatu negara. Kondisi ini bisa mengakibatkan harga barang 
+impor mengalami kenaikan sehingga biaya produksi meningkat 
+dan mendorong inȵasi. 
+b)	 Meningkatnya Harga Komoditas yang Diatur Pemerintah
+Contoh komoditas yang diatur pemerintah adalah Bahan 
+Bakar Minyak (BBM) dan tarif listrik. Kenaikan BBM 
+akan mengakibatkan naiknya harga barang lain sehingga 
+menyebabkan inȵasi. 
+c)	 Bencana Alam
+Kondisi ini mengakibatkan terhambatnya distribusi barang 
+maupun jasa yang menyebabkan penawaran barang dan jasa 
+menjadi berkurang. Hal tersebut mengakibatkan harga barang 
+berpotensi mengalami kenaikan. 
+115
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+b.	 Berdasarkan Tingkat Keparahan
+Inȵasi berdasarkan tingkat keparahan dikelompokkan ke dalam empat 
+jenis, yaitu inȵasi ringan, sedang, berat, dan hiperinȵasi. Berikut adalah 
+penjelasnnya. 
+1)	 Inȵasi ringan adalah inȵasi dengan laju di bawah 10%.
+2)	 Inȵasi sedang adalah inȵasi dengan laju berkisar antara 10% s.d. 30%.
+3)	 Inȵasi berat adalah inȵasi dengan laju berkisar antara 30% s.d. 100%.
+4)	 Hiperinȵasi adalah inȵasi dengan laju di atas 100%. 
+c.	 InȔasi Berdasarkan Asalnya
+Inȵasi berdasarkan asalnya dikelompokkan ke dalam dua jenis, yaitu 
+inȵasi domestik dan inȵasi luar negeri. 
+1)	 Inȵasi domestik (domestic inސation) adalah inȵasi yang berasal 
+dari dalam negeri. Salah satu penyebab inȵasi domestik adalah 
+Gambar 3.5 Kenaikan Harga 
+BBM, Salah Satu Penyebab InȒasi
+EKONOMI UNTUK SMA/MA KELAS XI
+116
+gagal panen yang mendorong harga bahan pangan mengalami 
+kenaikan dan memengaruhi kenaikan laju inȵasi.
+2)	 Inȵasi luar negeri (imported inސation) adalah inȵasi yang terjadi 
+karena naiknya harga barang impor akibat inȵasi yang juga 
+terjadi di negara mitra dagang.
+Untuk lebih memahami perbedaan penyebab inȵasi, kerjakan 
+aktivitas berikut ini!
+Ayo, Memahami!
+ 
+ Aktivitas 3.10
+Penyebab InȔasi
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+2.	 Berikan tanda centang (✔) pada pilihan yang dianggap benar!
+No.
+Pernyataan
+Penyebab InŖasi
+Demand Pull 
+Inflation
+Cost Push 
+Inflation
+1.
+Bahan BBM dan gas mengalami kenaikan 
+harga.
+2.
+Tarif dasar listrik yang ditetapkan oleh PLN 
+mengalami kenaikan.
+3.
+Terjadi kenaikan upah yang lebih besar 
+dibandingkan peningkatan produktivitas.
+4.
+Kenaikan Pajak Pertambahan Nilai (PPN) dari 
+17.5% menjadi 20%.
+5.
+Peningkatan kepercayaan konsumen dan 
+bisnis.
+6.
+Kenaikan tingkat konsumsi yang 
+mengakibatkan naiknya harga komoditas atau 
+produk tertentu.
+117
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+No.
+Pernyataan
+Penyebab InŖasi
+Demand Pull 
+Inflation
+Cost Push 
+Inflation
+7.
+Depresiasi terhadap mata uang asing sehingga 
+menyebabkan naiknya harga barang impor. 
+8.
+Peningkatan pengeluaran pemerintah juga 
+akan meningkatkan permintaan agregat dalam 
+suatu perekonomian.
+9.
+Peningkatan harga-harga komoditas yang 
+diatur oleh pemerintah.
+10
+Akibat terjadinya bencana alam, supply barang 
+menjadi terhambat.  
+5.	 Menghitung InȔasi
+Salah satu indikator yang bisa digunakan untuk menghitung laju inȵasi 
+adalah dengan menggunakan Indeks Harga Konsumen (IHK). Adapun 
+rumus yang digunakan untuk menghitung laju inȵasi adalah sebagai 
+berikut. 
+Laju InȔasi =
+× 100%
+IHKn
+IHKo
+Keterangan:
+IHKn =	 Indeks harga pada 
+periode yang 
+ditanyakan
+IHKo =	 Indeks harga pada 
+periode sebelumnya
+Perhatikan contoh soal  
+berikut ini!
+Berikut ini merupakan data Indeks Harga 
+Konsumen (IHK) Indonesia periode 
+Oktober s.d. Desember tahun 2023.
+Bulan 
+IHK
+Oktober 
+115,64
+November 
+116,08
+Desember 
+116,56
+Berdasarkan data tersebut, hitunglah laju inȵasi pada bulan Desember 
+2023!
+EKONOMI UNTUK SMA/MA KELAS XI
+118
+Laju Inȵasi =
+× 100%
+IHKn
+IHKo
+Laju Inȵasi =
+× 100%
+116,56–116,08
+116,08
+ 
+Laju Inȵasi = 0,41%
+Berdasarkan perhitungan tersebut, kategori inȵasi Indonesia pada 
+bulan Desember 2023 termasuk kategori ringan karena nilainya kurang 
+dari 10%.  Untuk lebih memahami perhitungan inȵasi, mari kerjakan 
+aktivitas berikut ini. 
+Ayo, Menghitung!
+ 
+ Aktivitas 3.11
+Menghitung InȔasi
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berkelompok!
+2.	 Carilah data Indeks Harga Konsumen (IHK) di kota tempat kalian 
+tinggal atau data IHK Indonesia (data satu tahun terakhir) melalui 
+situs Badan Pusat Statistik (www.bps.go.id), kemudian hitunglah 
+laju inȵasi setiap bulannya!
+Bulan
+IHK
+Laju InŖasi
+Kategori InŖasi
+Januari
+Februari
+Maret
+April
+Mei
+Juni
+119
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Bulan
+IHK
+Laju InŖasi
+Kategori InŖasi
+Juli
+Agustus
+September
+Oktober
+November
+Desember 
+3.	 Berdasarkan data tersebut, buatlah infografik berdasarkan 
+pertanyaan berikut ini.
+a.	 Apakah angka IHK mengalami kenaikan atau penurunan?
+b.	 Apakah angka inȵasi mengalami kenaikan atau penurunan?
+c.	
+Apa alasan dari kenaikan atau penurunan IHK dan inȵasi 
+tersebut?
+d.	 Apa saja komoditas yang mendorong inȵasi pada periode 
+tersebut? 
+e.	 Hitunglah rata-rata inȵasi pada tahun tersebut dan tentukan 
+jenis inȵasinya!
+6.	 Dampak InȔasi
+Inȵasi akan memberikan dampak negatif bagi perekonomian. Dampak 
+inȵasi di antaranya, yaitu:
+a.	 turunnya nilai mata uang; 
+b.	 turunnya pendapatan riil masyarakat sehingga standar hidup 
+masyarakat juga mengalami penurunan;
+c.	
+ketidakpastian bagi pelaku usaha; serta
+d.	 menyulitkan keputusan masyarakat dalam melakukan konsumsi, 
+produksi, dan distribusi sehingga menghambat pertumbuhan 
+ekonomi.
+EKONOMI UNTUK SMA/MA KELAS XI
+120
+Ayo, Lakukan Simulasi!
+ 
+ Aktivitas 3.12
+Kalkulator InȔasi
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+2.	 Aktivitas 
+ini 
+akan 
+memberikan 
+gambaran bagaimana nilai uang di 
+masa depan!
+Studi kasus
+Kamu memiliki uang atau tabungan 
+sejumlah 
+tertentu. 
+Untuk 
+melihat 
+bagaimana nilai uang di masa lalu, gunakan 
+kalkulator inȵasi melalui pranala atau QR 
+di samping! Isi sejumlah uang yang kamu 
+miliki dan ikuti instruksi selanjutnya.  
+Pindai Saya!
+Pranala:  
+https://buku.kemdikbud.go.id/s/SK
+Berdasarkan simulasi tersebut, jawablah beberapa pertanyaan berikut.
+1.	 Apa manfaat yang kamu dapatkan dari simulasi tersebut? 
+2.	 Apakah kamu akan tetap menabung di masa depan? 
+3.	 Apa saja yang harus kamu perhatikan agar nilai uang atau tabungan 
+kamu tidak turun akibat inȵasi?
+Ditinjau dari dampak inȵasi terhadap perekonomian, permasalahan 
+inȵasi perlu diatasi. Permasalahan inȵasi bisa diatasi, salah satunya 
+melalui kebijakan moneter. Apa yang dimaksud dengan kebijakan 
+moneter? Siapa pihak yang berwenang untuk melaksanakan kebijakan 
+ini? Kamu dapat menemukan jawaban tersebut setelah belajar materi 
+kebijakan moneter berikut.
+121
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+C.	
+C.	
+Kebijakan Moneter
+Pada bagian ini, kamu akan belajar tentang kebijakan moneter secara 
+detail. Berikut ini adalah konsep kebijakan moneter, instrumen 
+kebijakan moneter, dan jenis kebijakan moneter. 
+1.	 Konsep Kebijakan Moneter
+Apakah kamu masih ingat tugas bank sentral yang pernah kamu 
+pelajari di kelas X? Salah satu tugas bank sentral adalah menetapkan 
+dan melaksanakan kebijakan moneter. Apa yang dimaksud dengan 
+kebijakan moneter?
+Menurut Bank Indonesia, kebijakan moneter merupakan kebijakan 
+bank sentral dalam bentuk pengendalian besaran moneter yang 
+meliputi jumlah peredaran uang, uang primer dan kredit moneter, 
+serta pengendalian tingkat suku bunga untuk mencapai stabilitas 
+ekonomi makro. Indikator stabilitas ekonomi makro tercermin melalui 
+tingkat pertumbuhan ekonomi, penurunan pengangguran, dan laju 
+inȵasi yang rendah (kestabilan harga). 
+Pengertian lain dari kebijakan moneter adalah suatu kebijakan 
+ekonomi yang menjadi bagian integral dari kebijakan ekonomi makro 
+yang bertujuan menjaga keseimbangan kegiatan ekonomi dengan 
+tingkat pertumbuhan ekonomi yang berkesinambungan. Kebijakan 
+moneter di setiap negara dikendalikan oleh otoritas moneter. Dalam hal 
+ini adalah bank sentral. Di Indonesia, kebijakan moneter dikendalikan 
+oleh Bank Indonesia sebagai bank sentral.
+EKONOMI UNTUK SMA/MA KELAS XI
+122
+2.	 Instrumen Kebijakan Moneter
+Menurut Undang-Undang Nomor 3 Tahun 2004 Pasal 10 ayat (1) 
+disebutkan bahwa dalam rangka menetapkan dan melaksanakan 
+kebijakan moneter, Bank Indonesia berwenang untuk melakukan hal-
+hal berikut ini.
+a.	 Menetapkan sasaran-sasaran moneter dengan memperhatikan 
+sasaran laju inȵasi.
+b.	 Melakukan pengendalian moneter dengan menggunakan cara-cara 
+yang termasuk tetapi tidak terbatas pada:
+1)	 operasi pasar terbuka di pasar uang, baik rupiah maupun 
+valuta asing;
+2)	 penetapan tingkat diskonto;
+3)	 penetapan cadangan wajib minimum; dan
+4)	 pengaturan kredit atau pembiayaan. 
+Mengacu pada pasal tersebut, setidaknya terdapat empat instrumen 
+kebijakan moneter. Instrumen tersebut adalah sebagai berikut.
+a.	 Fasilitas politik diskonto adalah pengaturan tingkat suku bunga 
+yang diberikan bank sentral kepada bank umum. Instrumen ini 
+bisa diterapkan dengan cara menaikan atau menurunkan tingkat 
+suku bunga.
+b.	 Operasi Pasar Terbuka (OPT) adalah kegiatan jual beli surat 
+berharga pemerintah oleh bank sentral, baik di pasar primer 
+maupun sekunder melalui mekanisme lelang maupun nonlelang, 
+contohnya Sertifikat Bank Indonesia (SBI).
+c.	
+Cadangan kas atau Giro Wajib Minimum (GWM) adalah cadangan 
+kas minimum yang wajib dimiliki oleh setiap bank umum. Instrumen 
+ini juga dikenal dengan cash ratio. Penerapan kebijakan moneter 
+dengan instrumen ini bisa diterapkan dengan cara menaikan dan 
+menurunkan cadangan kas perbankan.
+123
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+d.	 Kebijakan kredit yang diterapkan dengan memberlakukan kredit 
+secara ketat maupun longgar.
+3.	 Jenis Kebijakan Moneter
+Terdapat dua jenis kebijakan moneter yang dilakukan oleh Bank 
+Indonesia selaku bank sentral, yaitu sebagai berikut.
+a.	 Kebijakan Moneter Ekspansif
+Kebijakan moneter ekspansif dikenal juga dengan kebijakan uang 
+longgar (easy money policy). Kebijakan moneter ekspansif dilakukan 
+untuk meningkatkan pertumbuhan ekonomi dengan meningkatkan 
+jumlah uang yang beredar. Kebijakan ini bisa diterapkan dengan cara:
+1)	 menurunkan tingkat suku bunga, 
+2)	 membeli surat berharga pemerintah, 
+3)	 menurunkan cadangan wajib minimum, dan
+4)	 memberlakukan kebijakan kredit longgar. 
+b.	 Kebijakan Moneter Kontraktif
+Kebijakan moneter kontraktif dikenal juga dengan kebijakan uang ketat 
+(tight money policy). Kebijakan ini bisa diterapkan ketika ekonomi suatu 
+negara mengalami resesi dan tingkat inȵasi yang tinggi. Kebijakan ini 
+bisa diterapkan dengan cara:
+1)	 menaikkan tingkat suku bunga,
+2)	 menjual surat berharga pemerintah,
+3)	 menaikan cadangan wajib minimum, dan
+4)	 memberlakukan kebijakan kredit ketat.
+Agar lebih memahami instrumen dan jenis kebijakan moneter, 
+kerjakanlah aktivitas berikut ini!
+EKONOMI UNTUK SMA/MA KELAS XI
+124
+Ayo, Menganalisis!
+ 
+ Aktivitas 3.13
+Instrumen Kebijakan Moneter
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas berikut ini secara berkelompok!
+2.	 Perhatikan instruksi yang disampaikan oleh guru terkait penerapan 
+teknik pembelajaran!
+3.	 Buatlah kelompok dengan masing-masing kelompok berjumlah 
+empat orang!
+4.	 Jawablah pertanyaan berikut ini menurut pendapat kalian masing-
+masing!
+Tugas
+1.	 Setiap kelompok terdiri empat orang. Adapun pembagiannya, yaitu 
+sebagai berikut.
+Orang nomor 1: Membahas topik "Politik Diskonto"
+Orang nomor 2: Membahas topik "Operasi Pasar Terbuka"
+Orang nomor 3: Membahas topik "Giro Wajib Minimum"
+Orang nomor 4: Membahas topik "Kebijakan Kredit"
+2.	 Diskusikan topik tersebut di dalam kelompok ahli dan presentasikan 
+di kelompok asal!
+Kelompok Ahli 1:  Politik Diskonto
+No.
+Pertanyaan
+Jawaban
+1.
+Apa yang kalian ketahui tentang politik diskonto?
+2.
+Apa yang akan terjadi apabila bank sentral 
+menaikan tingkat suku bunga?
+125
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+No.
+Pertanyaan
+Jawaban
+3.
+Apa yang akan terjadi apabila bank sentral 
+menurunkan tingkat suku bunga?
+4.
+Bagaimana cara kerja bank sentral menggunakan 
+tingkat suku bunga untuk menjaga kestabilan 
+harga? Jelaskan!
+5.
+Berapa tingkat suku bank saat ini? Carilah data 
+mengenai tingkat suku bunga yang ditentukan 
+Bank Indonesia pada saat ini dan jabarkan 
+dampak penetapan suku bunga tersebut terhadap 
+perekonomian negara!
+Kelompok Ahli 2:  Operasi Pasar Terbuka
+No.
+Pertanyaan
+Jawaban
+1.
+Apa yang kalian ketahui tentang operasi pasar 
+terbuka?
+2.
+Apa yang akan terjadi apabila bank sentral menjual 
+surat berharga pemerintah kepada masyarakat?
+3.
+Apa yang akan terjadi apabila bank sentral 
+membeli surat berharga pemerintah dari 
+masyarakat?
+4.
+Bagaimana cara kerja bank sentral menggunakan 
+instrumen operasi pasar terbuka untuk menjaga 
+kestabilan harga? Jelaskan!
+5. 
+Apa contoh surat berharga pemerintah yang saat 
+ini digunakan pemerintah sebagai instrumen 
+kebijakan moneter ini? Carilah informasi mengenai 
+surat berharga yang digunakan bank sentral 
+sebagai salah satu instrumen kebijakan moneter 
+saat ini dan jabarkan dampaknya terhadap 
+perekonomian negara!
+EKONOMI UNTUK SMA/MA KELAS XI
+126
+Kelompok Ahli 3: Giro Wajib Minimum (Cash Ratio)
+No.
+Pertanyaan
+Jawaban
+1.
+Apa yang kalian ketahui tentang giro wajib 
+minimum atau cadangan kas?
+2.
+Apa yang akan terjadi apabila bank sentral 
+menaikan tingkat cadangan kasnya?
+3.
+Apa yang akan terjadi apabila bank sentral 
+menurunkan tingkat cadangan kasnya?
+4.
+Bagaimana cara kerja bank sentral menggunakan 
+pengaturan giro wajib minimum atau cadangan 
+kas untuk menjaga kestabilan harga? Jelaskan!
+5.
+Carilah data mengenai tingkat cadangan kas 
+bank umum yang ditetapkan Bank Indonesia saat 
+ini serta interpretasikan data tersebut dengan 
+menggunakan bahasa kalian sendiri!
+Kelompok Ahli 4: Kebijakan Kredit
+No.
+Pertanyaan
+Jawaban
+1.
+Apa yang kalian ketahui tentang kebijakan kredit?
+2.
+Apa yang akan terjadi apabila bank sentral 
+menerapkan kebijakan ketat dalam pemberian 
+kredit?
+3.
+Apa yang akan terjadi apabila bank sentral 
+melonggarkan pemberian kredit kepada 
+masyarakat?
+4.
+Bagaimana cara kerja bank sentral menggunakan 
+instrumen kebijakan kredit untuk menjaga 
+kestabilan harga? Jelaskan!
+Setelah kalian memahami instrumen kebijakan moneter, kerjakanlah 
+aktivitas berikut ini sebagai post test supaya lebih memahami perbedaan 
+jenis kebijakan moneter serta penerapannya. 
+127
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Ayo, Menganalisis!
+ 
+ Aktivitas 3.14
+Membedakan Jenis  
+Kebijakan Moneter
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara mandiri!
+2.	 Berilah tanda centang (✔) pada kolom jawaban yang kalian anggap 
+benar!
+Tugas 
+Kamu berperan sebagai pemangku kebijakan pemerintah. Untuk setiap 
+situasi pada pernyataan berikut ini, pilihlah salah satu kebijakan yang 
+sesuai. 
+1.	 Kebijakan moneter ekspansif digunakan untuk meningkatkan 
+pertumbuhan ekonomi dan menambah kesempatan kerja dengan 
+menaikan jumlah uang yang beredar.
+2.	 Kebijakan moneter kontraktif digunakan ketika suatu negara 
+mengalami inȵasi yang tinggi.
+3.	 Kebijakan bujukan moral (moral suasion) merupakan himbauan 
+dari bank sentral untuk bank umum. 
+No.
+Pernyataan
+Jenis Kebijakan Moneter
+Ekspansif
+Kontraktif
+Bujukan Moral
+1.
+Semenjak pandemi, PDB 
+Indonesia turun sebesar 
+2,07% pada tahun 2020.
+2.
+Indeks Harga Konsumen 
+(IHK) dan Indeks 
+Harga Produsen (IHP) 
+mengalami kenaikan 
+sebesar 3% dalam 6 
+bulan terakhir.
+EKONOMI UNTUK SMA/MA KELAS XI
+128
+No.
+Pernyataan
+Jenis Kebijakan Moneter
+Ekspansif
+Kontraktif
+Bujukan Moral
+3.
+Perekonomian suatu 
+negara sedang 
+mengalami penurunan. 
+Kondisi tersebut ditandai 
+dengan rendahnya daya 
+beli masyarakat.
+4.
+Produk Domestik Bruto 
+mengalami pertumbuhan 
+dan harga meningkat 
+dengan tajam.
+5.
+Suatu negara mengalami 
+tingkat inŖasi dan 
+pengangguran yang 
+tinggi.
+6.
+Akibat pandemi Covid-19, 
+negara berada dalam 
+kondisi resesi dan 
+ekonomi mengalami 
+kemerosotan.
+7.
+Tingkat pengangguran 
+sangat tinggi dan harga 
+barang terus mengalami 
+kenaikan.
+8.
+Bank sentral 
+menghimbau agar 
+masyarakat menabung di 
+bank.
+9.
+Tingkat pengangguran 
+naik menjadi 11 %, 
+sementara pertumbuhan 
+indeks harga konsumen 
+turun dari 8% menjadi 
+2%.  
+10.
+Jumlah peredaran uang 
+di masyarakat mengalami 
+kenaikan sehingga harga 
+barang secara umum 
+mengalami kenaikan. 
+129
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Penerapan kebijakan moneter akan berdampak pada kegiatan ekonomi 
+suatu negara. Untuk menambah pengetahuan kamu tentang dampak 
+kebijakan moneter, kerjakan aktivitas berikut ini.
+Ayo, Menganalisis!
+ 
+ Aktivitas 3.15
+Analisis Kebijakan Moneter
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berkelompok!
+2.	 Bacalah pernyataan berikut ini dengan saksama!
+3.	 Lengkapi tabel berikut ini berdasarkan hasil analisis kalian!
+Tugas 
+Berikut ini terdapat beberapa pernyataan yang menggambarkan 
+perekonomian suatu negara. Tugas kalian adalah memberikan solusi 
+melalui proses analisis kebijakan moneter yang sesuai untuk mengatasi 
+permasalahan tersebut!
+No.
+Pernyataan 
+Solusi Kebijakan 
+Moneter
+Dampaknya terhadap 
+Perekonomian 
+1.
+Suatu negara memiliki tingkat 
+inŖasi yang tinggi dan tingkat 
+pengangguran yang terus 
+mengalami kenaikan sampai 
+pada tahap yang sangat 
+berbahaya. 
+2.
+Kondisi inŖasi suatu negara 
+sangat rendah.  Di sisi lain, 
+tingkat pengangguran terus 
+mengalami peningkatan. 
+EKONOMI UNTUK SMA/MA KELAS XI
+130
+No.
+Pernyataan 
+Solusi Kebijakan 
+Moneter
+Dampaknya terhadap 
+Perekonomian 
+3.
+Pandemi Covid-19 
+mengakibatkan resesi 
+ekonomi di sejumlah negara 
+di dunia. 
+Penerapan kebijakan moneter di Indonesia merupakan wewenang 
+Bank Indonesia selaku bank sentral. Lalu, bagaimana penerapan 
+kebijakan moneter di Indonesia? Mari kerjakan aktivitas berikut ini. 
+Ayo, Mencari Tahu!
+ 
+ Aktivitas 3.16
+Penerapan Kebijakan  
+Moneter Indonesia
+Petunjuk Pengerjaan
+1.	 Kerjakan aktivitas ini secara berkelompok!
+2.	 Carilah informasi tentang kebijakan moneter yang pernah 
+diterapkan di Indonesia!
+3.	 Presentasikan hasil diskusi kelompok kalian di depan kelas!
+No.
+Jenis Kebijakan Moneter yang 
+Diterapkan 
+Periode 
+Tujuan Penerapan 
+Kebijakan 
+131
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Uji Kompetensi
+Pilihan Ganda
+Pilihlah jawaban yang tepat!
+1.	 Berikut ini adalah hal-hal yang dapat menyebabkan timbulnya 
+inȵasi, kecuali ….
+A.	 permintaan masyarakat naik melebihi kapasitas produksi
+B.	 harga bahan baku dan upah buruh yang naik terus
+C.	 jumlah uang beredar yang terus bertambah
+D.	 jumlah barang-barang impor yang cenderung menurun
+E.	 berkurangnya jumlah barang akibat gagal panen
+2.	 Inȵasi yang disebabkan dorongan biaya (cost push  inސation) 
+biasanya terjadi karena kenaikan biaya produksi berupa bahan 
+baku. Dampak yang ditimbulkan oleh kenaikan biaya tersebut bagi 
+produsen adalah ....
+A.	 peningkatan jumlah barang yang ditawarkan atau diproduksi
+B.	 penurunan jumlah barang yang ditawarkan atau diproduksi
+C.	 pertambahan penawaran lebih kecil dibandingkan 
+peningkatan permintaan agregat
+D.	 penurunan penawaran lebih besar dibandingkan peningkatan 
+permintaan agregat
+E.	 perubahan jumlah barang yang diminta bergantung pada 
+kenaikan harga faktor produksi
+3.	 Pak Seno menggunakan uangnya untuk dibelikan surat-surat 
+berharga berupa saham dan obligasi. Motivasi pemanfaatan uang 
+semacam ini tergolong sebagai ….
+A.	 motif transaksi (transaction motive)
+B.	 motif spekulasi (speculative motive)
+EKONOMI UNTUK SMA/MA KELAS XI
+132
+C.	 motif investasi (investment motive)
+D.	 motif arbitrasi (arbitration motive)
+E.	 motif berjaga-jaga (precautionary motive)
+4.	 Masalah ekonomi terbilang sangat kompleks sehingga untuk 
+mengatasinya akan menggunakan berbagai macam kebijakan yang 
+terjadi lintas sektoral. Pernyataan berikut ini yang tepat dalam 
+mengatasi masalah deȵasi dengan menerapkan kebijakan moneter 
+adalah ….
+A.	 menaikan suku bunga bank
+B.	 membeli surat berharga Bank Indonesia
+C.	 menaikan cadangan kas minimum bank
+D.	 memperketat persyaratan kredit
+E.	 himbauan moral BI kepada bank umum untuk menarik uang 
+lama
+5.	 Kebijakan moneter merupakan suatu rangkaian sistem yang 
+bertujuan menjaga keseimbangan jumlah uang yang beredar 
+dan nilai uang. Kebijakan moneter yang bersifat ekspansif akan 
+memiliki dampak perekonomian yang luas, yaitu ….
+A.	 jumlah uang beredar bertambah dan kegiatan ekonomi 
+masyarakat meningkat
+B.	 tingkat suku bunga pinjaman naik sehingga minat masyarakat 
+meminjam turun
+C.	 tingkat investasi masyarakat menurun akibat adanya 
+kebijakan kredit selektif
+D.	 penerimaan pemerintah dari sektor pajak meningkat
+E.	 peningkatan pengeluaran pemerintah akan mampu 
+menggerakan sektor riil
+6.	 Kebijakan moneter yang bersifat ekspansif seperti menurunkan 
+cash ratio dan menurunkan tingkat suku bunga dapat memengaruhi 
+133
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+kondisi perekonomian secara keseluruhan. Dampak kebijakan 
+moneter tersebut adalah ….
+A.	 menurunkan minat usaha dan kegiatan ekonomi masyarakat
+B.	 jumlah uang beredar semakin menurun sehingga mengurangi 
+laju inȵasi
+C.	 minat investasi meningkat dan kegiatan ekonomi meningkat
+D.	 kegiatan perdagangan internasional mengalami penurunan
+E.	 kondisi perekonomian secara keseluruhan mengalami 
+kemajuan
+Pilihan Ganda Kompleks
+Pilihlah tiga jawaban yang tepat dengan cara memberikan tanda silang!
+7.	 Berikut ini merupakan pernyataan yang menunjukkan adanya 
+gejala inȵasi.
+1)	 Terdapat pada negara yang sedang berkembang.
+2)	 Kenaikan harga secara umum/keseluruhan.
+3)	 Untuk barang yang bersifat pokok, seperti harga harga minyak 
+dan tarif dasar listrik.
+4)	 Kenaikan terjadi secara terus-menerus.
+5)	 Hanya untuk barang impor.
+8.	 Berikut ini merupakan inȵasi yang disebabkan oleh kenaikan biaya 
+produksi (cost push inސation).
+1)	 Menjelang lebaran, harga daging sapi meningkat.
+2)	 Tuntutan para buruh berupa kenaikan upah kelayakan regional 
+dikabulkan.
+3)	 Pakan ternak sapi meningkat sehingga harga daging sapi 
+meningkat.
+4)	 Langkanya BBM menyebabkan harga telur meningkat.
+5)	 Kenaikan ekspor telur ke Singapura menyebabkan harga telur 
+dalam negeri meningkat.
+EKONOMI UNTUK SMA/MA KELAS XI
+134
+134
+EKONOMI UNTUK SMA/MA KELAS XII
+9.	 Berikut ini merupakan instrumen yang digunakan untuk 
+menerapkan kebijakan moneter.
+1)	 Operasi pasar terbuka
+2)	 Politik diskonto
+3)	 Giro wajib minimum/cash ratio
+4)	 Pajak dan subsidi
+5)	 Pengeluaran pemerintah
+10.	 Berikut ini merupakan kebijakan moneter yang bisa diterapkan 
+untuk mengatasi inȵasi.
+1)	 Menaikkan tingkat suku bunga.
+2)	 Menjual surat berharga pemerintah.
+3)	 Menurunkan cadangan wajib minimum di bank umum.
+4)	 Memperketat aturan pemberian kredit.
+5)	 Menaikkan pajak. 
+Kategorisasi
+Perhatikan infograȑk berikut untuk menjawab soal nomor 11 sampai 15!
+135
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+Gambar 3.6 Perkembangan Harga Indeks Konsumen pada Desember 2023
+Sumber: Badan Pusat Statistik/bps.go.id (2024)
+Berdasarkan infografik tersebut, tentukan pernyataan dalam kategori 
+benar atau salah!
+No. 
+Pertanyaan 
+Benar 
+Salah 
+11.
+Tingkat inŖasi nasional pada bulan Januari adalah 
+sebesar 2,57%. 
+12.
+Beras merupakan salah satu komoditas penyumbang 
+utama andil inŖasi tertinggi untuk kategori inŖasi 
+tahunan. 
+13.
+Selama tahun 2023, tingkat inŖasi Indonesia 
+menunjukkan kondisi yang Ŗuktuatif. 
+14.
+Indeks harga konsumen dijadikan dasar untuk 
+menghitung inŖasi di Indonesia. 
+15
+Kabupaten Belitung merupakan salah satu daerah 
+yang mengalami deŖasi pada bulan Januari 2024. 
+EKONOMI UNTUK SMA/MA KELAS XI
+136
+Uraian
+16.	 Mengapa dalam teori penawaran uang modern, lembaga keuangan 
+ikut menentukan jumlah uang beredar? Jelaskan menurut 
+pendapatmu!
+17.	 Keyness dikenal karena salah satu teorinya, yaitu liquidity preference 
+of money. Teori tersebut menyatakan bahwa terdapat tiga alasan 
+utama orang memegang uang. Jelaskan ketiga alasan tersebut! 
+18.	 Mengapa indeks harga konsumen dijadikan sebagai indikator 
+perhitungan inȵasi?
+19.	 Mengapa inȵasi dapat mengurangi kesejahteraan hidup individu 
+maupun masyarakat di suatu negara?
+20.	 Inȵasi bisa diatasi salah satunya dengan menerapkan kebijakan 
+moneter. Apa yang kalian ketahui tentang kebijakan moneter? 
+Uraikan upaya pemerintah mengatasi inȵasi dengan kebijakan ini!
+Belajar Lebih Lanjut
+Bagian 1
+Petunjuk 
+1.	 Kerjakan 
+aktivitas 
+ini 
+secara 
+berkelompok!
+2.	 Carilah artikel atau materi tentang inȵasi 
+terparah Indonesia dari sumber yang 
+relevan!
+3.	 Tautan artikel di samping bisa digunakan 
+sebagai referensi.
+Pindai Saya!
+Pranala:  
+https://buku.kemdikbud.go.id/s/IIP
+137
+BAB III — UANG, INFLASI, DAN KEBIJAKAN MONETER
+No.
+Periode
+Kategori
+Penyebab
+Cara Pemerintah 
+Mengatasinya
+Bagian 2
+1.	 Kerjakan aktivitas ini secara berkelompok! 
+2.	 Analisis kebijakan moneter yang pernah diterapkan di Indonesia 
+dan jelaskan dampaknya terhadap perekonomian!
+No.
+Pernyataan
+Dampak terhadap Perekonomian 
+1.
+Selama pandemi, BI telah 
+menurunkan tingkat suku 
+bunga acuan sebesar 1%.
+2.
+Bank Indonesia menerapkan 
+kebijakan penurunan biaya 
+transfer dana Sistem Kliring 
+Nasional Bank Indonesia 
+(SKNBI).
+EKONOMI UNTUK SMA/MA KELAS XI
+138
+No.
+Pernyataan
+Dampak terhadap Perekonomian 
+3.
+Bank Indonesia melakukan 
+restrukturisasi kredit 
+dengan cara memberikan 
+perpanjangan jangka waktu 
+pembayaran kredit bagi 
+perbankan (untuk UMKM).
+4.
+Bank Indonesia 
+memberlakukan kebijakan DP 
+kredit kendaraan bermotor 
+berwawasan lingkungan dari 
+5-10% menjadi 0%.
+5.
+Bank Indonesia membeli 
+surat berharga pemerintah 
+dari masyarakat.
+Reﬂeksi
+Selamat! Kamu sudah menyelesaikan Bab III di buku ini. Manfaat apa 
+yang kamu dapatkan setelah mempelajari bab ini? Apa kontribusi yang 
+dapat kamu berikan bagi perekonomian Indonesia?

@@ -1,0 +1,1726 @@
+1
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Bab
+I
+Struktur Atom dan 
+Sistem Periodik Unsur
+Setelah mempelajari bab ini, kalian dapat menggambarkan struktur atom 
+berdasarkan hasil analisis perkembangan model atom, menentukan bilangan 
+kuantum elektron dalam suatu atom, menyusun konigurasi elektron dan 
+menentukan kedudukannya dalam sistem periodik unsur, serta menganalisis 
+keperiodikan sifat unsur dan hubungannya dengan kereaktifan unsur.
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XI
+Penulis 
+: Munasprianto Ramli, dkk.
+ISBN 
+: 978-602-427-923-3 (jil.1)
+2
+Kimia untuk SMA/MA Kelas XI
+Komik Kimia
+Mind Map
+3
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Gambar 1.1 Matahari menyinari bumi
+Sumber: Larisa-K/pixabay.com (2014)
+Apakah hari ini cuacanya cerah dan matahari bersinar dengan hangat?  Kita 
+perlu bersyukur sampai dengan hari ini matahari masih bersinar. Makhluk 
+hidup sangat membutuhkan matahari untuk kelangsungan hidup, contohnya 
+tumbuhan hijau, memerlukan matahari untuk fotosintesis. Tumbuhan hijau 
+adalah produsen pada rantai makanan, penyedia bahan makanan bagi hewan 
+dan manusia. Salah satu manfaat sinar matahari pagi bagi manusia adalah 
+dapat memicu sintesis vitamin D dalam tubuh secara alami. Terbentuknya 
+vitamin D secara alami dipercaya dapat meningkatkan kekebalan tubuh. 
+Namun, dalam kuantitas yang berlebih, matahari juga memiliki efek negatif 
+bagi tubuh. Beberapa efek negatif dari sinar matahari, antara lain kulit 
+terbakar, penuaan dini, dan kanker kulit. 
+Dari manakah asal sumber energi matahari? Materi apa yang terdapat di 
+dalam matahari? Hidrogen merupakan unsur terbesar yang terdapat di dalam 
+matahari. Setelahnya terdapat unsur helium. Empat atom hidrogen akan 
+membentuk satu atom helium. Massa unsur helium lebih besar dibandingkan 
+hidrogen, sehingga helium menyumbangkan massa terberat pada matahari 
+meskipun kelimpahannya lebih sedikit dibandingkan hidrogen. Bagaimana 
+kalian mengetahui nomor atom dan nomor massa dari unsur hidrogen dan 
+helium?
+4
+Kimia untuk SMA/MA Kelas XI
+A. Struktur Atom
+Menurut kalian, apakah kata “peralatan elektronik” berasal dari kata elektron? 
+Siapa penemu elektron dan bagaimana elektron ditemukan? 
+Tahun 1807, John Dalton menyatakan atom sebagai partikel terkecil 
+penyusun suatu materi. Atom tidak dapat dibagi lagi, tidak dapat diciptakan, 
+dan tidak dapat dimusnahkan. Atom dalam suatu unsur memiliki sifat yang 
+sama dalam segala hal (ukuran, bentuk, dan massa). Namun, menurut teori 
+atom modern, atom dipecah lagi menjadi partikel-partikel dasar, yaitu proton, 
+neutron, dan elektron, seperti terlihat pada Gambar 1.2.
+proton
+elektron
+neutron
+Gambar 1.2 Partikel dasar penyusun atom
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+1. Elektron
+Keberadaan elektron dalam atom dapat dijelaskan melalui ilustrasi tabung 
+katode yang terdapat pada perangkat televisi berikut.
+Gambar 1.3 Tabung katode yang terdapat pada perangkat televisi
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+5
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Tabung katode merupakan salah satu perangkat pada televisi yang 
+berfungsi menghasilkan pencitraan gambar dan suara. Sinar katode menjadi 
+sebuah dasar penemuan elektron yang kali pertama ditemukan oleh Karl 
+Braun. Tabung sinar katode berupa tabung hampa dari kaca. Di dalamnya 
+terdapat anode sebagai kutub positif dan katode sebagai kutub negatif. Saat 
+tabung katode diberi aliran listrik, terjadi aliran radiasi yang tidak terlihat 
+dari kutub negatif ke kutub positif. 
+Lebih lanjut, pada tahun 1879, William Crookes menyempurnakan 
+penemuan sinar katode. W. Crookes menemukan bahwa sifat sinar katode 
+tidak dipengaruhi oleh jenis kawat yang digunakan, jenis gas dalam tabung, 
+dan bahan yang digunakan dalam menghasilkan arus listrik. Sinar katode juga 
+merambat lurus dari kutub negatif ke kutub positif, serta dapat dibelokkan 
+oleh medan magnet dan listrik, seperti tampak pada gambar berikut.
+voltase
+tinggi
+(a)
+katode
+anode
+sinar katode
+voltase
+tinggi
+katode
+anode
+sinar katode
+(b)
+Gambar 1.4 (a) Sinar katode merambat lurus, 
+(b) sinar katode dibelokkan oleh medan magnet dan listrik.
+Penemuan elektron ini lebih lanjut dikembangkan oleh Joseph Thomson. 
+Thomson menemukan bahwa materi yang terdapat pada sinar katode sangat-
+lah kecil. Sinar katode merupakan partikel penyusun atom yang memiliki 
+muatan negatif. Namun, atom bermuatan netral, sehingga menurut Thomson 
+atom terdiri atas partikel yang bermuatan positif dan negatif. Atom dianggap 
+sebagai bola pejal yang bermuatan positif dengan partikel bermuatan negatif 
+yang tersebar di dalamnya. Model atom yang dikemukakan Thomson dikenal 
+dengan roti kismis, seperti terlihat pada Gambar 1.5.
+6
+Kimia untuk SMA/MA Kelas XI
+Gambar 1.5 Model atom Thomson
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+2. Proton
+Proton kali pertama pertama ditemukan oleh Eugene Goldstein melalui 
+penemuan sinar kanal. Sinar kanal adalah sinar yang memiliki arah yang 
+berlawanan dengan sinar katode. Ketika katode dilubangi, ada sinar yang 
+melewati lubang tersebut pada arah yang berlawanan dengan sinar katode, 
+seperti terlihat pada Gambar 1.6. Lebih lanjut, Wilhelm Wien menemukan 
+bahwa sinar kanal tersebut bermuatan positif yang kemudian disebut dengan 
+proton. 
+tegangan tinggi
+sinar katode
+sinar kanal
+katode (-)
+anode
+(+)
+Gambar 1.6 Aliran sinar katode dan sinar kanal
+Posisi proton di dalam atom dijelaskan melalui percobaaan yang dilakukan 
+oleh Ernest Rutherford. Rutherford menembakkan partikel alfa ke lempeng 
+emas tipis, seperti yang terlihat pada Gambar 1.7. Dari percobaan tersebut, 
+ditemukan sebagian besar sinar diteruskan (sinar lurus). Hal ini menunjukkan 
+7
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+bahwa bagian dalam atom sebagian besar berupa ruang hampa, bukan bola 
+pejal yang bermuatan positif seperti yang dijelaskan oleh Thomson. Adanya 
+sebagian kecil sinar yang dibelokkan dan dipantulkan dapat menggambarkan 
+bahwa di dalam atom terdapat inti bermuatan positif yang sangat kecil dan 
+dikelilingi elektron bermuatan negatif.
+layar berlapis
+seng sulﬁda
+yang dapat
+bergerak
+memutar
+sinar dipantulkan
+Uranium (sumber partikel alfa)
+disimpan dalam kotak yang 
+terbuat dari timbal
+sinar lurus
+sinar dibelokkan
+lempeng emas tipis
+Gambar 1.7 Percobaan Rutherford
+3. Neutron
+Penemuan neutron bermula saat Rutherford meyakini bahwa ada materi lain 
+di dalam atom. Bermula dari adanya perbedaan massa atom hidrogen dan 
+helium. Rutherford menemukan bahwa perbandingan massa hidrogen dan 
+helium adalah 1 : 4, sementara perbandingan jumlah protonnya 1 : 2. Rutherford 
+melakukan percobaan menggunakan partikel alfa yang ditembakkan ke logam 
+boron. Logam boron menghasilkan radiasi, tetapi tidak dibelokkan oleh medan 
+magnet maupun medan listrik. Artinya, radiasi tersebut merupakan materi 
+penyusun atom yang tidak bermuatan positif maupun negatif. Rutherford 
+menyatakan bahwa materi tersebut adalah neutron. 
+Jadi, dalam ketiga percobaan yang telah dijabarkan, diketahui bahwa 
+ada tiga partikel penyusun sebuah atom, yaitu elektron, proton, dan neutron. 
+Karakteristik ketiga partikel penyusun atom tersebut terangkum dalam Tabel 
+1.1.
+8
+Kimia untuk SMA/MA Kelas XI
+Tabel 1.1  Karakteristik partikel dasar penyusun atom
+Partikel dasar
+Massa
+Muatan
+Sesungguhnya 
+(gram)
+Relatif
+(sma)
+Sesungguhnya
+(coulomb)
+Relatif
+(sma)
+Elektron (e)
+9,1096 × 10–28
+0
+1,6 × 10–19
+–1
+Proton (p)
+1,6726 × 10–24
+1
+1,6 × 10–19
++1
+Neutron (n)
+1,6750 × 10–24
+1
+0
+0
+4. Notasi atom
+Pernahkah kalian mendengar tentang penemuan artefak? Bagaimana cara 
+peneliti menentukan umur artefak tersebut? Artefak dapat ditentukan umur-
+nya menggunakan isotop. Isotop akan dijelaskan pada materi notasi atom. 
+Seperti yang telah dipelajari pada pelajaran Ilmu Pengetahuan Alam kelas 
+X, bahwa notasi atom terdiri atas lambang unsur, nomor massa, dan nomor 
+atom. Notasi atom adalah identitas sebuah atom yang membedakan atom 
+unsur yang satu dengan atom unsur lainnya. 
+Apakah ada dua unsur atau lebih dapat memiliki nomor atom yang sama? 
+Nomor atom menunjukkan jumlah proton dan elektron. Karena atom tidak 
+bermuatan maka jumlah proton sama dengan elektron. Proton merupakan 
+penyusun inti sebuah atom suatu unsur. Jumlah proton dalam sebuah atom 
+berbeda dengan atom unsur lainnya. Jadi, nomor atom adalah identitas utama 
+sebuah unsur. 
+Nomor massa merupakan jumlah proton ditambah neutron. Ada atom-
+atom dari unsur yang sama memiliki nomor massa yang berbeda. Artinya, 
+atom-atom tersebut memiliki nomor atom yang sama, tetapi nomor massanya 
+berbeda. Atom-atom ini disebut dengan isotop. Contoh isotop adalah karbon 
+dengan nomor massa 12 (12C) dan nomor massa 14 (14C). Nomor atomnya sama, 
+yaitu 6, karena unsurnya sama, yaitu karbon. Isotop 14C biasanya digunakan 
+sebagai pendeteksi umur fosil dan artefak.
+Atom-atom unsur yang memiliki nomor massa yang sama, tetapi nomor 
+atomnya berbeda disebut dengan isobar. Contoh isobar adalah 
+40
+19K dan 
+40
+20Ar . Unsur kalium dan argon memiliki nomor massa yang sama, yaitu 40. 
+Sementara unsur yang memiliki jumlah neutron yang sama disebut dengan 
+isoton, contohnya 
+23
+11Na dan 12
+24Mg . Natrium dan magnesium memiliki jumlah 
+neutron yang sama, yaitu 12.
+9
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+5. Tingkat energi
+Model atom Rutherford memiliki kelemahan dalam menjelaskan posisi 
+elektron pada atom. Tahun 1913, Niels Bohr melakukan percobaan untuk mem-
+perbaiki kelemahan model atom Rutherford tersebut. Bohr menggabungkan 
+teori Rutherford dan hipotesis Planck yang dikenal dengan Postulat Bohr. Bohr 
+menemukan bahwa setiap unsur memberikan spektrum garis yang berbeda 
+dan bersifat khas. Bohr mengemukakan empat postulat, yaitu:
+a. 
+Elektron mengelilingi inti atom dalam orbit tertentu. Orbit merupakan 
+lintasan gerak stasioner elektron dalam mengelilingi inti dengan jarak 
+tertentu. Setiap lintasan yang dipakai oleh elektron diberikan nomor 1, 2, 
+3, dan seterusnya. Lintasan ini juga menyatakan jumlah kulit atom atau 
+tingkat energi.
+b. 
+Energi elektron tetap selama berada di dalam lintasannya.
+c. 
+Elektron hanya dapat berpindah dari satu lintasan ke lintasan lainnya, 
+serta menyerap dan melepaskan energi sesuai konstanta Planck:
+ΔE = h.ʋ
+ΔE = energi (J)
+h 
+= konstanta Planck (6,63 × 10-34 J.detik–1)
+ʋ 
+= frekuensi (hertz atau detik–1)
+Tingkat energi dari lintasan satu dibanding lintasan yang lainnya dapat 
+dilihat pada Gambar 1.8.
+d. 
+Lintasan elektron memiliki momentum sudut. 
+ 
+Gambar 1.8 Model atom Bohr
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+10
+Kimia untuk SMA/MA Kelas XI
+Elektron-elektron akan menempati kulit pertama (K) sampai penuh (2 
+elektron), kemudian mengisi kulit L (8 elektron), dan seterusnya (Gambar 
+1.8). Jumlah elektron yang menempati kulit terluar disebut dengan elektron 
+valensi. Namun, model atom Bohr memiliki kelemahan, yakni tidak dapat 
+menjelaskan efek Zeeman. Efek Zeeman menjelaskan pembelahan garis 
+spektrum menjadi dua komponen atau lebih yang berbeda frekuensi ketika 
+atom berada dalam medan magnet. Meskipun begitu, teori Bohr dipakai 
+sebagai acuan oleh para ilmuwan dan melahirkan teori atom modern, yaitu 
+teori mekanika kuantum.
+Ayo Berlatih
+1. 
+Bagaimana Rutherford membuktikan adanya neutron pada atom?
+2. 
+Bagaimana model atom Bohr menjelaskan posisi elektron dalam suatu 
+atom?
+B. Teori Atom Mekanika Kuantum
+Teori atom modern merupakan pengembangan dari teori atom Bohr. Model 
+ini ditemukan oleh beberapa ilmuwan, yaitu Louis de Broglie, Wolfgang Pauli, 
+Erwin Schrödinger, dan Werner Heisenberg. Louis de Broglie pada tahun 1924 
+menyatakan bahwa partikel kecil mempunyai sifat yang berbeda dengan 
+benda besar. Cahaya dan partikel-partikel kecil selain dapat bersifat sebagai 
+materi, dapat pula bersifat sebagai gelombang. Sifat ini dikenal dengan 
+dualisme partikel gelombang. 
+Model atom mekanika kuantum memiliki kriteria sebagai berikut.
+1. 
+Lintasan atomnya tidak stasioner seperti model atom Bohr. Hal ini karena 
+gerakan elektron memiliki sifat gelombang. 
+2. 
+Bentuk dan ukuran orbital (ruang dengan peluang tinggi untuk 
+ditemukannya elektron dalam suatu atom) bergantung pada harga 
+bilangan kuantumnya (dibahas setelah ini).
+3. 
+Posisi elektron yang berhasil ditemukan oleh Bohr berjarak 0,529 angstrom 
+dari inti hidrogen bukan berarti sesuatu yang pasti, tetapi merupakan 
+kebolehjadian ditemukannya elektron.
+11
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+1. Bilangan kuantum
+Posisi elektron merupakan dasar penentuan struktur atom. Posisi elektron 
+dapat digambarkan melalui model atom mekanika kuantum yang dikenal 
+dengan bilangan kuantum. Bilangan kuantum terdiri atas:
+a. 
+Bilangan kuantum utama (n)
+Bilangan kuantum utama menyatakan kulit tempat elektron berada 
+atau tingkat energi elektron dalam suatu atom. Orbital dengan bilangan 
+kuantum berbeda memiliki tingkat energi yang berbeda pula. 
+1) 
+Kulit K, bilangan kuantum (n) = 1
+2) 
+Kulit L, bilangan kuantum (n) = 2
+3) 
+Kulit M, bilangan kuantum (n) = 3
+4) 
+dan seterusnya
+b. Bilangan kuantum azimut (l)
+Bilangan kuantum azimut menyatakan subkulit atau orbital. Bilangan 
+kuantum azimut biasa dinyatakan dalam sharp (s), principal (p), diffuse (d), 
+dan fundamental (f). Harga bilangan kuantum azimut dikaitkan dengan 
+bilangan kuantum utama. Harga bilangan kuantum azimut dalam sebuah 
+kulit bernilai 0 hingga (n – 1).
+1) 
+Bilangan kuantum azimut (l) = 0, subkulit s
+2) 
+Bilangan kuantum azimut (l) = 1, subkulit p
+3) 
+Bilangan kuantum azimut (l) = 2, subkulit d
+4) 
+Bilangan kuantum azimut (l) = 3, subkulit f
+c. 
+Bilangan kuantum magnetik (m)
+Bilangan kuantum magnetik menyatakan orientasi orbital. Harga bilangan 
+kuantum magnetik bergantung pada bilangan kuantum azimut. Bilangan 
+kuantum magnetik bernilai –l hingga +l (termasuk 0). Pada kulit K dengan 
+bilangan kuantum azimut l = 0, maka bilangan kuantum magnetiknya m = 
+0, artinya orientasi orbital s hanya 1. Sementara bilangan kuantum azimut 
+l = 1 pada kulit L, memiliki tiga orientasi orbital, yaitu m = –1, m = 0, dan 
+m= +1 (px, py, dan pz).
+1) 
+l = 0 maka m = 0
+2) 
+l = 1 maka m = –1, 0, +1
+3) 
+l = 2 maka m = –2, –1, 0, +1, +2
+4) 
+dan seterusnya
+12
+Kimia untuk SMA/MA Kelas XI
+d. Bilangan kuantum spin (s)
+Bilangan kuantum spin menyatakan arah putar elektron terhadap 
+sumbunya saat elektron mengelilingi inti atom. Bilangan kuantum spin 
+dilambangkan dengan s, di mana nilai s = +½ dan s = –½. Arah putar 
+elektron searah jarum jam dan berlawanan jarum, seperti yang terlihat 
+pada Gambar 1.9.
+1
+2
+s = +
+1
+2
+s = −
+ 
+Gambar 1.9 Spin atau arah putar elektron
+ 
+2. Konigurasi elektron
+Bohr menjelaskan bahwa inti atom dikelilingi oleh elektron. Elektron-elektron 
+tersebut bergerak dalam lintasan-lintasan yang disebut dengan tingkat energi. 
+Setiap tingkat energi hanya boleh ditempati maksimum 2n2 elektron. Untuk 
+menjelaskan penempatan elektron dalam setiap tingkat energi tersebut 
+maka digunakan konigurasi elektron. Konigurasi elektron yang disusun 
+berdasarkan model atom mekanika kuantum harus mengikuti tiga aturan, 
+yaitu:
+a. 
+Asas larangan Pauli
+Wolfgang Pauli pada tahun 1926 mengungkapkan bahwa tidak ada dua 
+buah elektron dalam orbital yang sama memiliki keempat bilangan 
+kuantum yang sama. Aturan ini dikenal dengan asas larangan Pauli. 
+Jumlah elektron yang menempati sebuah orbital paling banyak dua yang 
+arahnya berlawanan.
+Contoh: 
+tidak diizinkan
+tidak diizinkan
+diizinkan
+13
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+b. Aturan Aufbau
+Elektron-elektron cenderung menempati orbital pada tingkat energi 
+terendah. Aturan pengisian dimulai pada energi terendah ini dikenal 
+dengan aturan Aufbau. Pengisian elektron dalam orbital dimulai dari 
+orbital dengan tingkat energi paling rendah. Setelah penuh, pengisian 
+berlanjut ke tingkat energi yang lebih tinggi, begitu seterusnya. Pola ini 
+dapat dilihat pada gambar berikut.
+1s
+2s  2p
+3s  3p  3d
+4s  4p  4d  4f
+5s  5p  5d  5f  ...
+6s  6p  6d   ...  ...  ...
+Gambar 1.10 Skema urutan pengisian elektron pada orbital atom
+Contoh:
+Konigurasi elektron untuk atom 23V dan 33As
+23V : 1s2 2s2 2p6 3s2 3p6 4s2 3d3
+33As : 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p3 
+c. 
+Kaidah Hund
+Friedrich Hund pada tahun 1927 menyatakan bahwa elektron-elektron 
+yang berada di suatu orbital menempati orbital yang kosong dengan arah 
+rotasi sejajar. Setelah semua orbital tersebut terisi satu elektron, elektron-
+elektron lainnya menempati orbital tersebut dengan arah rotasi yang 
+berlawanan. 
+Aturan hanya berlaku bila ada alternatif pengisian, yaitu orbital p, d, 
+dan f yang tidak terisi penuh, sedangkan orbital yang penuh tidak boleh 
+melanggar asas larangan Pauli. Contoh, 7N dengan konigurasi elektron 1s2 
+2s2 2p3, elektron valensinya 2s2 2p3. Susunan yang lebih stabil terlihat pada 
+Gambar 1.11.
+14
+Kimia untuk SMA/MA Kelas XI
+7N: [He] 2s2 2p3
+Diagram orbitalnya:
+  2s2  
+ 2px
+1   2py
+1   2pz
+1
+ 
+  2s2  
+ 2px
+2   2py
+1   2pz
+0
+ 
+  2s2  
+ 2px
+1   2py
+1   2pz
+1
+ 
+kurang stabil
+kurang stabil
+lebih stabil (yang terpilih)
+Gambar 1.11 Contoh penggunaan kaidah Hund
+Pemahaman tentang konigurasi elektron suatu atom dan bilangan kuantum 
+dapat digunakan untuk menentukan kebolehjadian menemukan posisi tiap-
+tiap elektron dalam suatu atom. Pahami contohnya berikut ini.
+Contoh
+Tentukan bilangan kuantum elektron terakhir 3Li dan 9F!
+1. 
+Konigurasi elektron unsur 3Li: 1s2 2s1
+Elektron terakhir unsur Li berada pada orbital 2s1.
+Harga keempat bilangan kuantumnya adalah: 
+n = 2 (pada kulit L)
+l = 0 (pada subkulit s)
+m = 0 (subkulit s hanya memiliki 1 orientasi)
+s = +½ (arah spin ke atas/searah jarum jam)
+2. 
+Konigurasi elektron unsur 9F: 1s2 2s2 2p5
+Elektron terakhir unsur F berada pada orbital 2p5.
+Harga keempat bilangan kuantumnya adalah: 
+n = 2 (pada kulit L)
+l = 1 (pada subkulit p)
+m = 0 (pada orientasi py)
+s = –½ (arah spin ke bawah/berlawanan arah jarum jam)
+15
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Ayo Berlatih
+Tentukan empat bilangan kuantum elektron terakhir pada atom unsur 17Cl 
+dan 12Mg!
+C. Sistem Periodik Unsur
+1. Perkembangan sistem periodik unsur
+Unsur-unsur yang sudah ditemukan harus disusun dan dikelompokkan dengan 
+baik. Pada tahun 1829, Johann Döbereiner menyusun unsur berdasarkan 
+massa atomnya. Döbereiner membuat kelompok unsur yang terdiri atas tiga 
+unsur. Susunan ini dikenal dengan triade Döbereiner. Massa unsur di tengah 
+merupakan hasil rata-rata penjumlahan kedua massa unsur di sebelah kiri 
+dan kanannya. Setiap kelompok tiga unsur ini memiliki kemiripan sifat. 
+Teori Döbereiner memiliki kelemahan, yakni tidak dapat menjelaskan 
+hubungan sifat satu triade dengan triade lainnya. Pada tahun 1865, John 
+Newlands menemukan bahwa unsur yang disusun berdasarkan kenaikan 
+massa atomnya akan memiliki kemiripan sifat setelah atom kedelapan. Jadi, 
+unsur kesatu sifatnya mirip dengan unsur kedelapan, unsur kedua mirip 
+dengan unsur kesembilan, dan seterusnya.  Pola ini dikenal dengan teori oktaf. 
+Teori Döbereiner dan oktaf hanya menitikberatkan pada sifat isika unsur. 
+Pada tahun 1869, Dimitri Mendeleev menyusun unsur-unsur berdasarkan 
+kemiripan sifat isika dan kimianya. Susunan ini dikenal dengan sistem 
+periodik unsur bentuk pendek. Sifat unsur disusun berdasarkan kenaikan 
+massa atom. Namun, sistem periodik bentuk pendek ini memiliki kelemahan, 
+yaitu adanya unsur yang disusun tidak sesuai dengan urutan massa atomnya. 
+Contohnya, unsur argon (Ar) dengan massa atom 39,9 ditempatkan sebelum 
+unsur kalium (K) yang memiliki massa atom 39,1.
+Kesalahan sistem periodik bentuk pendek diperbaiki oleh Moseley. Unsur-
+unsur tidak disusun berdasarkan kenaikan nomor massa, melainkan nomor 
+atom. Susunan inilah yang dipakai hingga sekarang dan disebut dengan sistem 
+periodik unsur modern. Susunan ini juga dikenal dengan sistem periodik 
+unsur bentuk panjang. Hal ini karena terdapat periode pada lajur mendatar 
+dan golongan pada lajur tegak, seperti terlihat pada Gambar 1.12.
+16
+Kimia untuk SMA/MA Kelas XI
+1
+2
+3
+4
+5
+6
+7
+1     2     3     4     5     6     7     8     9    10     11    12    13    14    15    16    17    18
+ 
+H
+Hidrogen
+1.0078
+1
+Li
+Litium
+6.9410
+3
+Na
+Natrium
+22.990 
+11
+K
+Kalium
+39.098 
+19
+Rb
+Rubidium
+85.468 
+37
+Cs
+Sesium
+132.91 
+55
+Fr
+Fransium
+223
+87
+Be
+Berillium
+9.0122 
+14
+Mg
+Magnesium
+24.305 
+12
+Ca
+Kalsium
+40.078 
+20
+Sr
+Stronsium
+87.620 
+38
+Ba
+Barium
+137.33 
+56
+Ra
+Radium
+226
+88
+B
+Boron
+10.811 
+5
+Al
+Aluminium
+26.982 
+13
+Ga
+Galium
+69.723 
+31
+In
+Indium
+114.82 
+49
+Tl 
+Talium
+204.38 
+81
+Nh
+Nihonium
+286 
+113
+C
+Karbon
+12.011 
+6
+Si
+Silikon
+28.086 
+14
+Ge
+Germanium
+72.640
+32
+Sn
+Timah
+118.71 
+50
+Pb
+Timbal
+207.20 
+82
+Fl
+Flerovium
+289 
+114
+Ce
+Serium
+140.12 
+58
+Th
+Torium
+232.04 
+90
+Pr
+Praseodimium
+140.91 
+59
+Pa
+Protaktinium
+231.04 
+91
+Nd
+Neodimium
+144.24 
+60
+U
+Uranium
+238.03 
+92
+Pm
+Prometium
+145 
+61
+Np
+Neptunium
+237.05 
+93
+Sm
+Samarium
+150.36 
+62
+Pu
+Plutonium
+244 
+94
+Eu
+Europium
+151.96 
+63
+Am
+Amerisium
+243 
+95
+Gd
+Gadolinium
+157.25 
+64
+Cm
+Kurium
+247 
+96
+Tb
+Terbium
+158.93 
+65
+Bk
+Berkelium
+247 
+97
+Dy
+Disprosium
+162.5 
+66
+Cf
+Kalifornium
+251 
+98
+Ho
+Holmium
+164.93 
+67
+Es
+Einsteinium
+252 
+99
+Er
+Erbium
+167.26 
+68
+Fm
+Fermium
+257 
+100
+Tm
+Thulium
+168.93 
+69
+Md
+Mendelevium
+258 
+101
+Yb
+Iterbium
+173.04 
+70
+No
+Nobelium
+259 
+102
+Lu
+Lutesium
+174.97 
+71
+Lr
+Lawrensium
+262 
+103
+N
+Nitrogen
+14.007 
+7
+P
+Fosfor
+30.974 
+15
+As
+Arsen
+74.922 
+33
+Sb
+Antimon
+121.76 
+51
+Bi
+Bismut
+208.98 
+83
+Mc
+Moscovium
+289 
+115
+O
+Oksigen
+15.999 
+8
+S
+Belerang
+32.065 
+16
+Se
+Selenium
+78.960 
+34
+Te
+Telurium
+127.60 
+52
+Po
+Polonium
+209 
+84
+Lv
+Livermorium
+293 
+116
+F
+Fluor
+18.998 
+9
+Cl
+Klor
+35.453 
+17
+Br
+Bromin
+79.904 
+35
+I
+Yodium
+126.90 
+53
+At
+Astatin
+210 
+85
+Ts
+Tennessine
+117
+He
+Helium
+4.0026 
+2
+Ne
+Neon
+20.180 
+10
+Ar
+Argon
+39.948 
+18
+Kr
+Kripton
+83.798 
+36
+Xe
+Xenon
+131.29 
+54
+Rn
+Radon
+222
+86
+Og
+Oganesson
+294
+118
+Ti
+Titanium
+47.867 
+22
+Zr
+Zirkonium
+91.224 
+40
+Hf
+Hafnium
+178.49 
+72
+Rf
+Rutherfordium
+261
+104
+Sc
+Skandium
+44.956 
+21
+Y
+Itrium
+88.906 
+39
+57-71
+89-103
+La
+Lantanium
+138.91 
+57
+Ac
+Aktinium
+227
+89
+V
+Vanadium
+50.942 
+23
+Nb
+Niobium
+92.906 
+41
+Ta
+Tantalum
+180.95 
+73
+Db
+Dubnium
+262
+105
+Cr
+Kromium
+51.996 
+24
+Mo
+Molibdenum
+95.950 
+42
+W
+Wolfram
+183.84 
+74
+Sg
+266
+Seaborgium
+106
+Mn
+Mangan
+54.938 
+25
+Tc
+Teknesium
+98
+43
+Re
+Renium
+186.21 
+75
+Bh
+Bohrium
+264
+107
+Fe
+Besi
+55.845 
+26
+Ru
+Rutenium
+101.07 
+44
+Os
+Osmium
+190.23 
+76
+Hs
+Hasium
+269
+108
+Co
+Kobal
+58.933 
+27
+Rh
+Rodium
+102.91 
+45
+Ir
+Iridium
+192.22 
+77
+Mt
+Meitnerium
+278
+109
+Ni
+Nikel
+58.693 
+28
+Pd
+Paladium
+106.42 
+46
+Pt
+Platina
+195.08 
+78
+Ds
+Darmstadtium
+281
+110
+Cu
+Tembaga
+63.546 
+29
+Ag
+Perak
+107.87 
+47
+Au
+Emas
+196.97 
+79
+Rg
+Roentgenium
+282
+111
+Zn
+Seng
+65.380 
+30
+Cd
+Kadmium
+112.41 
+48
+Hg
+Raksa
+200.59 
+80
+Cn
+Kopernisium
+285 
+112
+C
+Hg
+H
+Rf
+Padat
+Cair
+Gas
+Unknown
+Logam alkali
+Logam alkali
+tanah
+Logam transisi
+Post-trantition
+metals
+Metaloid
+Non-logam
+lainnya
+Gas mulia
+Lantanida
+L O G A M
+NON-LOGAM
+Aktinida
+IVB
+IA
+IIA
+IIIB
+VB
+VIB
+VIIB
+VIIIB
+IB
+IIB
+IIIA
+IVA
+VA
+VIA
+VIIA
+VIIIA
+Nomor Atom
+Massa Atom
+Simbol Elemen
+Nama Elemen
+Gambar 1.12 Sistem periodik unsur bentuk panjang
+17
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+2. Hubungan konigurasi elektron dengan sistem periodik unsur
+Penulisan konigurasi elektron dapat ditulis menurut aturan Aufbau (bentuk 
+panjang) atau dalam bentuk pendek. Konigurasi elektron bentuk pendek dari 
+suatu unsur dimulai dengan penulisan unsur gas mulia yang nilai konigurasi 
+lebih kecil dari jumlah elektron unsur tersebut, lalu diikuti dengan jumlah 
+elektron yang tersisa. 
+Contoh:
+Konigurasi elektron untuk atom 26Fe
+26Fe : 1s2 2s2 2p6 3s2 3p6 4s2 3d6, bentuk pendeknya [Ar] 4s2 3d6
+ 
+ Konigurasi elektron atom Ar  
+Konigurasi elektron akan menentukan posisi unsur dalam golongan dan 
+periode pada sistem periodik unsur, seperti yang terlihat pada Tabel 1.2.
+Tabel 1.2  Hubungan konigurasi elektron dengan posisi unsur 
+dalam golongan dan periode
+Konigurasi 
+elektron
+Posisi unsur pada sistem 
+periodik
+Konigurasi 
+elektron
+Posisi unsur pada 
+sistem periodik
+Golongan
+Periode
+Golongan
+Periode
+ns1
+IA
+n
+ns2 (n – 1)d1
+IIIB
+n
+ns2
+IIA
+n
+ns2 (n – 1)d2
+IVB
+n
+ns2 np1
+IIIA
+n
+ns2 (n – 1)d3
+VB
+n
+ns2 np2
+IVA
+n
+ns2 (n – 1)d4
+VIB
+n
+ns2 np3
+VA
+n
+ns2 (n – 1)d5
+VIIB
+n
+ns2 np4
+VIA
+n
+ns2 (n – 1)d6
+VIIIB
+n
+ns2 np5
+VIIA
+n
+ns2 (n – 1)d7
+VIIIB
+n
+ns2 np6
+VIIIA
+n
+ns2 (n – 1)d8
+VIIIB
+n
+ns1 (n – 1)d10
+IB
+n
+ns2 (n – 1)d10
+IB
+n
+18
+Kimia untuk SMA/MA Kelas XI
+Contoh
+Tentukan posisi unsur 11Na, 6C, 54Xe, dan 30Zn di dalam sistem periodik unsur!
+Jawab:
+1. 
+11Na: 1s2 2s2 2p6 3s1
+11Na: [Ne] 3s1
+Berakhir pada orbital ns, berarti golongan A.
+3s1 (1) = golongan IA
+n = 3 (periode 3)
+2. 
+6C: 1s2 2s2 2p2
+6C: [He] 2s2 2p2
+Berakhir pada orbital ns np, berarti golongan A.
+2s2 2p2 (2 + 2 = 4) = golongan IVA
+n = 2 (periode 2)
+3. 
+54Xe: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p6 5s2 4d10 5p6
+Berakhir pada orbital ns np, berarti golongan A.
+5s2 5p6 (2 + 6 = 8) = golongan VIIIA
+n = 5 (periode 5)
+4. 
+30Zn: 1s2 2s2 2p6 3s2 3p6 4s2 3d10
+30Zn: [Ar] 4s2 3d10
+Berakhir pada orbital ns (n – 1)d, berarti golongan B.
+4s2 3d10 (2 + 10 = 12) = golongan IIB
+n = 4 (periode 4)
+Ayo Berlatih
+Tentukan posisi unsur di bawah ini pada sistem periodik unsur.
+1. 
+20Ca 
+3. 
+22Ti
+2. 
+35Br 
+4. 
+26Fe 
+19
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Unsur kalium, natrium, dan litium berada 
+dalam satu golongan, yakni golongan alkali (IA). 
+Kalium berada paling bawah dari ketiga unsur 
+tersebut dan memiliki jari-jari yang lebih besar 
+dibandingkan unsur di atasnya (Gambar 1.14).
+Gambar 1.14 Jari-jari atom 
+litium, natrium, dan kalium
+Sumber: Kemendikbudristek/Nanda 
+Saridewi (2022)
+D. Sifat Periodik Unsur
+Penyusunan unsur-unsur dalam sistem periodik unsur modern berkaitan erat 
+dengan sifat-sifat atom. Kesamaan sifat atom maupun perubahan sifatnya 
+dapat dikaitkan dengan letaknya dalam periode atau golongan. Berikut ini 
+sifat-sifat atom berdasarkan posisinya dalam sistem periodik unsur.
+1. Jari-jari atom
+Kalium menghasilkan ledakan yang lebih besar dibandingkan natrium dan 
+litium saat logam tersebut dimasukkan ke dalam air, seperti yang terlihat pada 
+Gambar 1.13. Mengapa hal ini dapat terjadi? 
+Gambar 1.13 Reaksi logam alkali (dari kiri ke kanan: litium, natrium, 
+dan kalium) dengan air
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+20
+Kimia untuk SMA/MA Kelas XI
+Seperti yang telah dipelajari pada materi IPA kelas X, jari-jari atom 
+adalah jarak inti atom dengan kulit terluar. Dalam satu golongan, dari atas ke 
+bawah, jumlah kulit semakin bertambah sehingga jarak inti atom dengan kulit 
+terluarnya semakin besar. Sementara dalam satu periode, dari kiri ke kanan, 
+jumlah kulitnya sama, tetapi jumlah protonnya semakin bertambah. Hal ini 
+menyebabkan semakin besar gaya tarik-menarik elektron terluarnya ke inti 
+atom yang bermuatan positif sehingga terjadi penciutan kulit. Akibatnya, jari-
+jari atomnya mengecil. 
+Kalium memiliki jari-jari yang lebih besar, elektron terluarnya berada 
+lebih jauh dari inti atom. Gaya tarik-menarik elektron terluarnya dengan inti 
+atom lebih lemah sehingga lebih mudah lepas. Hal ini yang menyebabkan 
+kalium lebih reaktif dibandingkan dengan natrium dan litium. 
+2. Energi ionisasi
+Setiap pergantian tahun, masyarakat gemar membakar kembang api. Warna-
+warni pada kembang api menambah kemeriahan malam sehingga menarik 
+untuk dinikmati. Mengapa kembang api ketika dibakar dapat menghasilkan 
+nyala yang berwarna-warni? Setelah mempelajari materi ini, kalian akan bisa 
+menjelaskan hal tersebut.
+Gambar 1.15 Warna-warni nyala kembang api 
+Sumber: Nick/pixabay.com (2017)
+21
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Warna nyala api dapat dijelaskan menggunakan energi ionisasi. Energi 
+ionisasi adalah energi yang dibutuhkan oleh satu atom netral dalam fase gas 
+untuk melepaskan satu elektronnya. Energi ionisasi pertama adalah energi 
+yang dibutuhkan oleh satu atom untuk melepaskan satu elektronnya, sedang-
+kan energi ionisasi kedua adalah energi yang dibutuhkan untuk melepaskan 
+satu elektron keduanya, begitu seterusnya. 
+Li(g) 
+ Li+(g) + e–  
+(energi ionisasi pertama)
+Mg(g) 
+ Mg+(g) + e–  
+(energi ionisasi pertama)
+Mg+(g) 
+ Mg2+(g) + e–  (energi ionisasi kedua)
+Perbedaan energi yang dibutuhkan oleh suatu unsur untuk melepaskan 
+satu elektronnya akan memberikan perbedaan warna nyala yang dihasilkan 
+unsur tersebut. Unsur dengan energi ionisasi lebih rendah dapat memancarkan 
+cahaya pada daerah sinar tampak ketika diberikan api bunsen. Namun, unsur 
+dengan energi ionisasi yang lebih tinggi memerlukan suhu yang lebih tinggi pula 
+(tidak bisa dengan api bunsen saja) untuk menghasilkan nyala dan memiliki 
+cahaya pada daerah ultraviolet. Kembang api biasanya terdiri atas beberapa 
+unsur logam. Ketika dibakar, setiap logam akan memancarkan cahaya sesuai 
+dengan energi ionisasinya. Hal inilah yang menyebabkan warna-warni pada 
+nyala kembang api.
+Gambar 1.16 Kecenderungan energi ionisasi pertama dalam sistem periodik unsur
+Sumber: Kemendikbudristek/Nanda Saridewi (2022)
+Mengapa energi ionisasi unsur semakin besar dalam satu periode (dari 
+kiri ke kanan) dan semakin kecil dalam satu golongan (dari atas ke bawah), 
+seperti pada Gambar 1.16? Dalam satu periode, semakin ke kanan, jari-
+jari atom semakin kecil. Gaya tarik-menarik inti atom dengan elektron 
+22
+Kimia untuk SMA/MA Kelas XI
+terluarnya semakin kuat sehingga elektron terluarnya sulit untuk lepas yang 
+menyebabkan energi ionisasinya semakin besar. Hal sebaliknya dalam satu 
+golongan, dari atas ke bawah, jari-jari atom semakin besar. Jarak inti atom 
+dengan elektron terluarnya semakin jauh sehingga gaya tarik-menariknya 
+menjadi lebih lemah yang menyebabkan elektron terluarnya mudah lepas 
+sehingga energi ionisasinya menjadi semakin kecil.
+Energi ionisasi menunjukkan kecenderungan untuk membentuk kation 
+(ion positif). Semakin kecil energi ionisasinya maka semakin mudah suatu 
+atom untuk membentuk kation. Unsur logam cenderung memiliki energi 
+ionisasi yang lebih kecil daripada unsur nonlogam sehingga lebih cenderung 
+untuk melepaskan elektron membentuk kation. Hal sebaliknya terjadi pada 
+unsur nonlogam, cenderung lebih susah untuk melepaskan elektron. 
+Aktivitas 1.1
+Uji nyala
+Bahan dan alat:
+Hati-hati dalam menggunakan bahan kimia!
+1. 
+Garam NaCl  
+5. 
+Garam MgSO4
+2. 
+Garam KNO3  
+6. 
+Alkohol
+3. 
+Garam CuSO4  
+7. 
+Bunsen (satu buah)
+4. 
+Garam CaCO3  
+8. 
+Kawat nikrom (satu buah)
+Langkah kerja: 
+1. 
+Celupkan kawat nikrom ke dalam alkohol.
+2. 
+Ambil sedikit garam dan letakkan di ujung kawat.
+3. 
+Bakar garam tersebut di api bunsen.
+4. 
+Amati warna nyala yang terlihat.
+5. 
+Catatlah hasil pengamatan kalian di dalam buku latihan.
+No.
+Nama logam
+Warna nyala
+1.
+2.
+3.
+4.
+5.
+23
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Pertanyaan:
+1. 
+Temukan nilai energi ionisasi logam natrium, kalium, tembaga, kalsium, 
+dan magnesium!
+2. 
+Bagaimana hubungan nilai energi ionisasi terhadap warna nyala yang 
+dihasilkan?
+3. Ainitas elektron
+Pada uraian mengenai energi ionisasi diketahui bahwa unsur golongan 
+nonlogam memiliki energi ionisasi yang lebih besar dibandingkan unsur logam 
+sehingga lebih sulit melepaskan elektron valensinya. Unsur nonlogam lebih 
+cenderung untuk menerima elektron dibandingkan melepaskan elektron. 
+Ainitas elektron menyatakan perubahan energi yang dihasilkan saat 
+suatu atom dalam keadaan gas menerima satu elektron membentuk anion 
+(ion negatif). Ainitas elektron menjadi sebuah ukuran mudah atau tidaknya 
+suatu atom dalam menerima elektron. Semakin besar perubahan energi 
+yang dihasilkan, semakin besar pula kecenderungan atom menarik elektron 
+membentuk anion. Unsur golongan halogen (VIIA) memiliki ainitas yang 
+paling besar dibanding golongan A lainnya, seperti terlihat pada gambar 
+berikut.
+H
+–73
+He
+> 0
+Li
+–60
+Be
+> 0
+B
+–27
+C
+–122
+N
+> 0
+O
+–141
+F
+–328
+Ne
+> 0
+Na
+–53
+Mg
+> 0
+Al
+–43
+Si
+–134
+P
+–72
+S
+–200
+Cl
+–249
+Ar
+> 0
+K
+–48
+Ca
+–2
+Ga
+–30
+Ge
+–119
+As
+–78
+Se
+–195
+Br
+–325
+Kr
+> 0
+Rb
+–47
+Sr
+–5
+In
+–30
+Sn
+–107
+Sb
+–103
+Te
+–190
+I
+–295
+Xe
+> 0
+IA
+IIA
+IIIA
+IVA
+VA
+VIA
+VIIA
+VIIIA
+Gambar 1.17 Ainitas elektron unsur golongan A
+24
+Kimia untuk SMA/MA Kelas XI
+4. Keelektronegatifan
+Selama pandemi kita diwajibkan untuk selalu menjaga kebersihan diri dan 
+lingkungan. Penggunaan pembersih atau disinfektan pada ruangan, lantai, 
+dinding, permukaan perabot, bahkan gagang pintu merupakan salah satu cara 
+untuk mengantisipasi penularan virus Covid-19. Klorin merupakan salah satu 
+unsur penyusun bahan disinfektan yang banyak digunakan. Mengapa klorin 
+dapat digunakan untuk menghancurkan virus dan bakteri?
+H
+2,1
+He
+Li
+1,0
+Be
+1,5
+B
+2,0
+C
+2,5
+N
+3,0
+O
+3,5
+F
+4,0
+Ne
+Na
+0,9
+Mg
+1,2
+Al
+1,5
+Si
+1,8
+P
+2,1
+S
+2,5
+Cl
+3,0
+Ar
+K
+0,8
+Ca
+1,0
+Ga
+1,6
+Ge
+1,8
+As
+2,0
+Se
+2,4
+Br
+2,8
+Kr
+3,0
+Rb
+0,8
+Sr
+1,0
+In
+1,7
+Sn
+1,8
+Sb
+1,9
+Te
+2,1
+I
+2,5
+Xe
+2,6
+Cs
+0,7
+Ba
+0,9
+Tl
+1,8
+Pb
+1,8
+Bi
+1,9
+Po
+2,0
+At
+2,2
+Rn
+2,4
+Fr
+0,7
+IIA
+IIIA
+IVA
+VA
+VIA
+VIIA
+VIIIA
+IA
+Gambar 1.18 Keelektronegatifan unsur golongan A
+Klorin merupakan unsur golongan halogen yang memiliki keelektrone-
+gatifan yang tinggi, seperti terlihat pada data di Gambar 1.18. Keelektro­
+negatifan merupakan suatu ukuran yang menunjukkan kemampuan suatu 
+atom untuk menarik elektron ke arah atomnya untuk membentuk ikatan 
+kimia. Semakin tinggi nilai keelektronegatifannya maka semakin mudah 
+atom tersebut menerima elektron. Unsur halogen cenderung untuk menerima 
+elektron membentuk anion. Hal ini menyebabkan unsur halogen lebih mudah 
+tereduksi (berkurangnya bilangan oksidasi, dari 0 menjadi –1) dan bersifat 
+sebagai oksidator kuat (mengoksidasi atom lain). Sifat oksidator inilah 
+yang menyebabkan klorin dapat mengoksidasi virus dan bakteri sehingga 
+jaringannya rusak dan mati atau hancur. 
+25
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Aktivitas 1.2
+Reaksi unsur halogen
+Bahan dan alat:
+Hati-hati dalam menggunakan bahan kimia!
+1. 
+Fe2(SO4)3 0,1 M
+2. 
+NaCl 0,1 M
+3. 
+NaBr 0,1 M
+4. 
+KI 0,1 M
+5. 
+Tabung reaksi (tiga buah)
+6. 
+Pipet tetes (tiga buah)
+Langkah kerja:
+1. 
+Ambil 3 tabung reaksi dan masukkan 10 tetes larutan Fe2(SO4)3 0,1 M ke 
+dalam masing-masing tabung reaksi.
+2. 
+Tambahkan 10 tetes larutan NaCl 0,1 M ke dalam tabung 1.
+3. 
+Tambahkan 10 tetes larutan NaBr 0,1 M ke dalam tabung 2.
+4. 
+Tambahkan 10 tetes larutan KI 0,1 M ke dalam tabung 3.
+5. 
+Bandingkan warna dari masing-masing tabung.
+6. 
+Cermati perubahan yang terjadi pada setiap tabung reaksi, catat di dalam 
+buku latihan.
+Pertanyaan:
+1. 
+Manakah larutan garam yang lebih mudah bereaksi dengan larutan 
+Fe(SO4)3?
+2. 
+Bagaimana hubungan keelektronegatifan unsur halogen (Cl, Br, dan I) 
+terhadap reaksi yang terjadi pada larutan NaCl, NaBr, dan KI?
+Ayo Berlatih
+1. 
+Mengapa unsur-unsur logam golongan IA lebih mudah membentuk 
+kation?
+2. 
+Bagaimanakah kecenderungan kereaktifan unsur-unsur halogen 
+dalam satu golongan (dari atas ke bawah)?
+26
+Kimia untuk SMA/MA Kelas XI
+Pengayaan
+Mengapa matahari masih bersinar hingga sekarang?
+Matahari masih tetap bersinar karena terjadi reaksi penggabungan hidrogen 
+membentuk helium sehingga menghasilkan pancaran cahaya. Hidrogen 
+merupakan unsur penyusun matahari terbesar yang mencapai 91,2%. 
+Kelimpahan gas hidrogen pada matahari merupakan sumber energi bagi 
+kehidupan di bumi. Salah satu manfaat adanya hidrogen pada matahari 
+adalah sebagai sumber energi alternatif dalam bentuk sel surya. Gambar 1.18 
+memperlihatkan contoh panel surya sebagai sumber energi listrik di rumah. 
+Inverter
+Baterai
+Panel surya
+Pengontrol
+ 
+Gambar 1.19 Panel surya sebagai sumber energi listrik di rumah
+Hidrogen juga menjadi sumber bahan bakar dalam teknologi berbasis 
+elektrokimia. Bahan bakar ini tanpa emisi dengan keberadaan yang sangat 
+melimpah. Selain di matahari, hidrogen dapat dihasilkan dari reaksi logam 
+alkali dan alkali tanah dengan air. Luasnya perairan yang ada di Indonesia 
+sangat memungkinkan tersimpan cadangan hidrogen di bawah laut Indonesia 
+yang demikian banyak. 
+Salah satu contoh reaksi logam alkali litium dengan air:
+Li(s) + H2O(l) 
+ LiOH(aq) + H2(g)
+27
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+Ketika logam direaksikan dengan H2O akan menghasilkan produk berupa 
+gas hidrogen (H2). Selain logam alkali, logam lain juga dapat menghasilkan gas 
+hidrogen jika dilarutkan dengan pelarut asam. Contohnya logam aluminium 
+dengan pelarut H2SO4. 
+Coba kalian praktikkan di rumah.
+1. 
+Timbang 5 gram limbah kemasan yang mengandung logam aluminium.
+2. 
+Masukkan ke dalam gelas kaca yang berisi air aki atau H2SO4.
+3. 
+Tutup erat gelas kaca tersebut dengan balon.
+4. 
+Biarkan balon membesar sampai tidak bertambah besar lagi.
+5. 
+Ukur diameter balon.
+Setelah melakukan percobaan ini, jawablah pertanyaan berikut.
+1. 
+Temukan lima contoh limbah lain yang dapat digunakan sebagai penghasil 
+gas hidrogen!
+2. 
+Mengapa produk limbah kemasan yang kalian temukan tersebut dapat 
+digunakan sebagai penghasil gas hidrogen?
+Inti Sari
+Partikel dasar penyusun atom adalah proton, neutron, dan elektron. 
+Proton sebagai penyusun inti atom yang bermuatan positif dikelilingi oleh 
+elektron yang bergerak dalam lintasannya. Sistem periodik unsur bentuk 
+panjang menjelaskan bahwa unsur-unsur disusun berdasarkan kenaikan 
+nomor atom. Sifat keperiodikan suatu unsur terdiri atas jari-jari atom, 
+energi ionisasi, ainitas elektron, dan keelektronegatifan. Jari-jari atom 
+semakin mengecil dengan bertambahnya jumlah proton dan elektron 
+valensi pada kulit yang sama dan bertambah seiring bertambahnya jumlah 
+kulit. Energi ionisasi, ainitas elektron, dan keelektronegatifan semakin 
+bertambah dengan turunnya jari-jari atom dan berkurang dengan naiknya 
+jari-jari atom. Sifat keperiodikan unsur sangat memengaruhi kereaktifan 
+suatu unsur. Unsur yang mudah melepaskan atau menerima elektron 
+memiliki kereaktifan yang besar karena mudah bereaksi dengan unsur 
+lainnya. Kereaktifan suatu unsur dapat diaplikasikan pada berbagai 
+bidang kehidupan.
+28
+Kimia untuk SMA/MA Kelas XI
+Ayo Releksi
+Setelah mempelajari materi Struktur Atom dan Sistem Periodik Unsur, silakan 
+kalian mereleksi diri. Berilah ceklis (√) pada kolom Ya/Tidak untuk pernyataan 
+berikut ini.
+No.
+Pernyataan
+Tanggapan
+Ya
+Tidak
+1.
+Saya dapat menggambarkan struktur atom berdasarkan 
+hasil analisis perkembangan model atom.
+2.
+Saya dapat menentukan bilangan kuantum elektron 
+dalam suatu atom.
+3.
+Saya dapat menyusun konigurasi elektron dan 
+menentukan kedudukannya dalam sistem periodik 
+unsur.
+4.
+Saya dapat menganalisis  keperiodikan sifat unsur dan 
+hubungannya dengan kereaktifan unsur.
+Menurut kalian materi manakah yang sulit dipahami dalam bab Struktur 
+Atom dan Sistem Periodik Unsur? Jelaskan alasannya!
+Ayo Cek Pemahaman
+Pilihlah jawaban yang paling tepat!
+1. 
+Perhatikan tabel berikut.
+Atom
+Nomor massa
+Nomor atom
+W
+31
+15
+X
+30
+15
+Y
+29
+14
+Z
+27
+13
+Pasangan yang merupakan isoton adalah ….
+29
+Bab I  Struktur Atom dan Sistem Periodik Unsur
+a. 
+W dan X
+b. 
+X dan Y
+c. 
+Y dan Z
+d. 
+W dan Y
+e. 
+X dan Z
+2. 
+Atom kalium memiliki nomor atom 19. Ketika atom kalium terionisasi 
+membentuk kation, bilangan kuantumnya adalah ….
+a. 
+n = 3, l = 1, m = 0, s = +½ 
+b. 
+n = 3, l = 1, m = –1, s = +½
+c. 
+n = 3, l = 1, m = +1, s = –½
+d. 
+n = 4, l = 0, m = 0, s = +½
+e. 
+n = 4, l = 0, m = 0, s = –½
+3. 
+Pernyataan yang tidak tepat dari sifat periodik unsur adalah …
+a. 
+Dalam satu periode (dari kiri ke kanan), jari-jari atom semakin kecil.
+b. 
+Dalam satu golongan (dari atas ke bawah), ainitas elektron semakin 
+kecil.
+c. 
+Unsur golongan IA memiliki energi ionisasi yang lebih besar 
+dibandingkan golongan IIA.
+d. 
+Unsur golongan halogen memiliki kelektronegatifan yang tinggi.
+e. 
+Unsur golongan VIIA lebih mudah menerima elektron dibandingkan 
+golongan VIA.
+4. 
+Suatu atom memiliki konigurasi elektron 31X: 1s2 2s2 2p6 3s2 3p6 4s2 3d10 4p1. 
+Unsur dari atom tersebut berada pada sistem periodik ….
+a. 
+golongan IA periode 4
+b. 
+golongan IIIB periode 4
+c. 
+golongan IB periode 4
+d. 
+golongan IIIA periode 4
+e. 
+golongan IIIA periode 3
+5. 
+Diketahui unsur Na dan Mg. Pernyataan yang tepat tentang kedua unsur 
+tersebut adalah …
+a. 
+Jari-jari atom Na lebih kecil dari Mg.
+b. 
+Energi ionisasi Na lebih besar dari Mg.
+c. 
+Atom Na dan Mg berada dalam satu golongan.
+d. 
+Keelektronegatifan Na lebih kecil dari Mg.
+e. 
+Ainitas elektron Na lebih besar dari Mg.
+30
+Kimia untuk SMA/MA Kelas XI
+Jawablah pertanyaan di bawah ini dengan tepat!
+1. 
+Rutherford melakukan percobaan menggunakan lempeng emas tipis 
+dan menembakkannya dengan sinar alfa yang berasal dari uranium. 
+Dari percobaan tersebut diketahui bahwa atom bukanlah bola pejal yang 
+bermuatan positif. Bagaimanakah Rutherford dapat menjelaskan posisi 
+proton dan elektron berdasarkan percobaan yang dilakukannya?
+2. 
+Kaporit atau kalsium hipoklorit merupakan salah satu zat yang digunakan 
+sebagai disinfektan pada kolam renang. Kaporit mengandung sekitar 
+70 persen klorin. Disinfektan ini dapat menghancurkan bakteri yang 
+ada di dalam air kolam renang. Namun, perlu diperhatikan bahwa 
+penggunaannya tidak boleh berlebihan. Mengapa klorin dapat digunakan 
+sebagai disinfektan?
+3. 
+Unsur logam berilium tidak beraksi ketika dimasukkan ke dalam air. 
+Sementara unsur magnesium bereaksi lambat dalam air dingin, tetapi 
+bereaksi lebih baik dalam air panas. Lebih lanjut, logam kalsium dapat 
+menghasilkan reaksi yang kuat ketika dimasukkan ke dalam air dingin. 
+Mengapa hal ini dapat terjadi?

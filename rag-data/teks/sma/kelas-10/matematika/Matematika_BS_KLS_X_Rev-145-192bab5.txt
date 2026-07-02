@@ -1,0 +1,1777 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi  
+Republik Indonesia, 2023
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-623-118-558-7
+Persamaan dan 
+Fungsi Kuadrat
+5
+Bab
+Bagaimana menggunakan 
+persamaan dan fungsi kuadrat untuk 
+menyelesaikan masalah dalam 
+kehidupan sehari-hari?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+130
+Tujuan Pembelajaran 	
+Setelah mempelajari bab ini, diharapkan kamu dapat menyelesaikan 
+masalah yang berkaitan dengan persamaan kuadrat dalam kehidupan sehari-
+hari dan menggunakan fungsi kuadrat untuk menyelesaikan masalah dalam 
+kehidupan sehari-hari.
+Kata Kunci 	
+•	
+persamaan kuadrat
+•	
+akar-akar persamaan kuadrat
+•	
+variabel
+•	
+fungsi kuadrat
+•	
+diskriminan
+Peta Materi 	
+Memfaktorkan
+Menggunakan
+rumus kuadrat
+Melengkapkan
+kuadrat sempurna
+Karakteristik
+fungsi kuadrat
+Penyelesaian
+masalah
+Konstruksi
+fungsi kuadrat
+Persamaan dan
+Fungsi Kuadrat
+Persamaan Kuadrat
+Fungsi Kuadrat
+131
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Persamaan kuadrat dan fungsi kuadrat digunakan dalam kehidupan sehari-
+hari.  Contoh sederhana dari penerapan persamaan kuadrat adalah 
+menentukan sisi sebuah persegi jika diketahui luasnya, yaitu x2 = 16.  
+Contoh lainnya adalah menentukan waktu yang diperlukan oleh bola kaki 
+agar tiba di tanah, setelah ditendang. Masyarakat Babilonia diyakini sudah 
+menggunakan persamaan kuadrat. Contohnya adalah mereka 
+menggunakannya untuk menentukan dua bilangan positif yang hasil 
+penjumlahan dan perkalian kedua bilangan tersebut diketahui.  Mereka juga 
+menghubungkan pemahaman luas sebuah persegi dengan persegi panjang 
+dengan mencari solusi persamaan kuadrat.
+Bagaimana dengan fungsi kuadrat? Contoh penerapan fungsi kuadrat 
+adalah menentukan hubungan biaya yang diperlukan dengan pendapatan 
+dari penjualan sejumlah produksi tertentu. Fungsi kuadrat juga ditemukan 
+dalam perumusan lintasan parabola yang dilalui oleh sebuah bola basket. 
+Gambar 5.1 Lintasan Bola Basket
+Di SMP, kamu telah mempelajari fungsi dan persamaan linear. Kamu tentu bisa 
+membedakan kedua hal ini. Contohnya adalah pembayaran tagihan listrik 
+berdasarkan pemakaian energi listrik dalam satuan kWh, dengan biaya per kWh 
+berbeda untuk golongan listrik yang berbeda. Jika biaya sebesar Rp1.467,28 per 
+kWh untuk batas daya 1300 VA maka fungsi biaya sebagai jumlah kWh yang 
+digunakan menjadi B(x) = 1.467, 28x + 75.124 dengan x merupakan jumlah 
+Ayo, Mengingat Kembali
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+132
+kWh dan 75.124 merupakan biaya awal. Jika 1.467, 28x + 75.124 = 100.000, 
+maka dapat ditentukan jumlah kWh yang memenuhi persamaan tersebut.
+Kamu juga telah mempelajari faktorisasi dan sifat distributif untuk 
+menyelesaikan soal-soal matematika. Contoh penggunaan sifat distributif adalah 
+2(x + 5) = 2x + 10 dan 15x + 10 = 5(3x + 2).  Faktorisasi dan sifat distributif  
+digunakan dalam penyelesaian persamaan kuadrat.
+Coba kamu kerjakan soal-soal di bawah ini.  
+1.	
+Lima baju serupa berharga Rp420.000.  Berapa harga tujuh baju?  
+Jika uang kamu sebesar Rp1.008.000, berapa baju yang kamu peroleh?
+2.	
+Jabarkan 4 (2x - 6).
+3.	
+Faktorkan 14x + 36.
+A.	 Persamaan Kuadrat
+Lakukan kegiatan eksplorasi berikut untuk memahami bagaimana 
+merumuskan suatu masalah dalam bentuk persamaan kuadrat. 
+Eksplorasi   5.1	
+Perumusan Masalah dalam Bentuk Persamaan 
+Kuadrat
+1.	
+Empat sudut baca berukuran 
+sama dibuat dalam sebuah ruang 
+kelas berukuran 4 m x 6 m (lihat 
+Gambar 5.2). Tentukan luas kelas 
+yang tersisa untuk mengatur 
+susunan tempat duduk para siswa.
+Gambar 5.2 Empat Sudut Ruang Baca dalam 
+Kelas
+
+
+
+
+
+
+
+
+4 m
+6 m
+Ayo, Bereksplorasi
+133
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+2.	
+Perkalian dua bilangan adalah 63. Penjumlahannya adalah 16. 
+Tunjukkan persamaan matematika yang dibuat untuk menyelesaikan 
+masalah ini.    
+3.	
+Sebuah kendaraan menempuh jarak sejauh 320 km dengan kelajuan 
+tertentu dalam waktu tertentu. Jika kendaraan melaju lebih cepat 24 
+km/jam daripada biasanya, maka waktu tempuhnya berkurang  tiga 
+jam untuk menempuh jarak yang sama. Berapa kelajuan mula-mula? 
+Tunjukkan persamaan matematika yang dibuat untuk menyelesaikan 
+masalah ini. 
+Persamaan kuadrat merupakan suatu persamaan matematika yang 
+melibatkan bentuk kuadrat.
+ax2 + bx + c = 0
+dengan a, b, dan c merupakan bilangan real dan a̸ = 0. Persamaan kuadrat 
+tetap berlaku jika b atau c atau keduanya sama dengan nol. Persamaan 
+kuadrat merupakan suatu polinom dengan pangkat tertinggi adalah 2. Suatu 
+persamaan polinom dinyatakan sebagai berikut.
+anxn + an−1xn−1 + · · · · · · · · · · · · + a1x + a0 = 0
+dengan a merupakan suatu bilangan yang disebut sebagai koefisien dan 
+n > 0 (n adalah bilangan asli) merupakan pangkat tertinggi dari polinom.  
+Istilah kuadrat berasal dari kata bahasa Latin, yaitu quadatrus, yang 
+berarti membuat persegi.
+Penyelesaian persamaan kuadrat dapat menghasilkan dua solusi. 
+Jenis solusi yang dihasilkan oleh persamaan kuadrat akan dibahas lebih 
+mendalam. Solusi persamaan kuadrat disebut juga sebagai akar-akar 
+persamaan kuadrat.
+Apakah bentuk-bentuk di bawah ini merupakan persamaan kuadrat? 
+1.	
+1
+x + 2x + 4 = 0 
+2.	
+1
+x−5 +
+1
+x−3 = x2 −4 
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+134
+Berikan dua contoh soal yang dapat dinyatakan dalam persamaan kuadrat.
+Latihan   5.1	
+1.	
+Tentukan apakah persamaan-persamaan matematika di bawah ini 
+merupakan persamaan kuadrat.
+a.	 x3 + x2 + x = 0
+b.	 3x2 + 2x −1 = 0
+c.	
+1
+x + 5x = 0
+d.	 x2 + 1
+x + 3 = 0 
+2.	
+Jabarkan 
+a.	 (x + 2)(x + 3) = 0
+b.	 ( 1
+3x −4)(x + 9) = 0
+c.	 (2x −8)(x + 5) = 0
+3.	
+Jabarkan luas persegi panjang di bawah ini. 
+4.	
+Luas bangun datar di bawah ini adalah 20 m2. Bangun datar tersebut 
+terdiri atas satu persegi dan empat persegi panjang yang sama besar.
+Ayo, Berdiskusi
+Ayo, Mencoba
+(x+a)
+(x–b)
+135
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+a.	
+Nyatakan luas bangun datar yang merupakan gabungan persegi 
+dan empat persegi panjang yang sama besar tersebut dalam bentuk 
+persamaan kuadrat.
+b.	
+Jika bangun datar tersebut dibuat berbentuk persegi maka tentukan 
+tambahan luas yang diperlukan oleh bangun datar di atas.  Nyatakan 
+juga luas persegi yang dibuat dalam bentuk persamaan kuadrat. 
+5.	
+Perhatikan gambar sebuah bangun 
+datar di samping ini. Luas bangun 
+datar adalah  150 m2. Nyatakan luas 
+bangun datar dalam persamaan 
+kuadrat.
+1.	 Menyelesaikan Persamaan Kuadrat dengan Faktorisasi
+Eksplorasi   5.2	
+Menyelesaikan Persamaan Kuadrat dengan Ubin 
+Aljabar (Faktorisasi)
+Ubin aljabar dapat digunakan untuk menyelesaikan persamaan kuadrat. 
+Ubin aljabar terdiri atas ubin bernilai x2(x × x),  ubin bernilai x(x × 1), 
+dan ubin bernilai 1(1 × 1).   Penyelesaian dengan ubin aljabar menggunakan 
+2 
+2 
+ 2
+2 
+2 
+x
+x
+b
+Ayo, Bereksplorasi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+136
+pendekatan perkalian sebagai luas bangun datar yang berupa persegi atau  
+persegi panjang. Perhatikan Gambar 5.3
+Gambar 5.3 Ubin-Ubin Aljabar
+Cari solusi atau akar-akar dari  persamaan kuadrat x2 + 3x + 2 = 0  
+dengan menggunakan ubin aljabar.
+Gambar 5.4 Ubin-Ubin Aljabar untuk x2 + 3x + 2 = 0
+Susunlah ubin-ubin aljabar sehingga terbentuk persegi atau persegi 
+panjang.
+Gambar 5.5 Penyusunan Ubin-Ubin Aljabar 
+Berdasarkan Gambar 5.5 jelaslah bahwa persamaan kuadrat  
+x2 + 3x + 2 = 0 dapat dinyatakan dalam (x + 1)(x + 2) = 0 sehingga 
+X2
+X
+1
+X2
+X
+X
+X
+1
+1
+X2
+X
+X
+X
+1
+1
+137
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+akar-akar dari persamaan kuadrat x2 + 3x + 2 = 0 adalah x = −2 dan 
+x = −1.
+Bentuk persamaan kuadrat ax2 + bx + c = 0  menjadi 
+a(x −x1)(x −x2) jika dilakukan faktorisasi dengan x1 dan x2 merupakan 
+dua solusi persamaan kuadrat atau akar-akar persamaan kuadrat. 
+Penggunaan ubin aljabar menolong pemahaman dalam menyelesaikan 
+persamaan kuadrat dengan cara faktorisasi.       
+Kerjakan tugas di bawah ini secara berpasangan. 
+1.	
+Selesaikan persamaan kuadrat x2 + 6x + 5 = 0 dengan menggunakan 
+ubin aljabar. 
+2.	
+Selesaikan persamaan kuadrat 2x2 + 5x + 2 = 0 dengan menggunakan 
+ubin aljabar. 
+Perhatikan diagram di bawah ini untuk memahami peran koefisien 
+dari persamaan kuadrat ax2 + bx + c = 0. Bentuk  kuadrat x2 + 6x + 8 
+merupakan hasil perkalian dari (x + 2)(x + 4). Bentuk  kuadrat  
+2x2 + 7x + 6 merupakan hasil perkalian dari (2x + 3)(x + 2). 
+a
+b
+Gambar 5.6 Diagram Bentuk Kuadrat
+Berdasarkan Gambar 5.6a, nilai c sebesar 8 merupakan hasil perkalian 
+dari 4 dan 2 sedangkan nilai b sebesar 6 merupakan hasil penjumlahan 4 dan 
+2. Berdasarkan Gambar 5.6b, nilai c sebesar 6 merupakan hasil perkalian 
+dari 3 dan 2 sedangkan nilai b sebesar 7 merupakan hasil penjumlahan 
+dari (2 × 2) dan (1 × 3). Pemfaktoran dari 2 adalah 1 dan 2 sedangkan 
+pemfaktoran dari 3 adalah 1 dan 3. Coba kamu pikirkan jika salah satu 
+atau kedua koefisien bernilai negatif, bagaimana hubungannya dengan 
+pemfaktoran persamaan kuadrat.
+X
+X
+X2
++4
++2
+2x
+4x
+8
+2X
+X
+2X2
++3
++2
+4x
+3x
+6
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+138
+Nilai koefisien c dari persamaan kuadrat ax2 + bx + c = 0 menentukan 
+faktorisasi. Jika a = 1 maka nilai b merupakan penjumlahan kedua faktor.    
+Jika a̸ = 1 maka gabungan pemfaktoran a dan c memberikan nilai b.   
+Perhatikan contoh soal penyelesaian persamaan kuadrat ini. Salah satu 
+akar dari persamaan kuadrat x2 + bx + 6 = 0 adalah −3. Tentukan nilai b 
+dan  akar lainnya. 
+Penyelesaian: 
+9 −3b + 6 = 0 maka b = 5.
+Dapat dituliskan x2 + 5x + 6 = (x + 3)(x + 2) = 0. Akar lainnya adalah 
+−2.
+Contoh lainnya adalah persamaan kuadrat 2x2 −18x = 0 diselesaikan 
+dengan cara pemfaktoran.
+2x(x −9) = 0 
+Akar-akarnya adalah 0 dan 9.  
+Pemfaktoran dengan Ubin Berbeda
+Bagaimana jika kamu diminta menyelesaikan x2 - 2x - 3= 0 dengan 
+menggunakan ubin aljabar? Ubin-ubin aljabar, yang digunakan untuk 
+menyelesaikan persamaan kuadrat pada eksplorasi sebelumnya, mewakili 
+nilai koefisien yang positif. Kamu perlu menentukan ubin-ubin aljabar yang 
+mewakili nilai koefisien negatif. Ubin aljabar untuk mewakili nilai negatif 
+diberikan warna yang berbeda daripada yang bernilai positif. Kamu bisa 
+menerapkan  warna apa saja untuk menentukannya. Pada buku ini, maka 
+ubin yang mewakili nilai -x berwarna merah dan ubin yang mewakili nilai 
+-1 berwarna oranye. 
+ 
+ -x     
+ 
+ -1  
+Guna menyelesaikan soal di atas maka diperlukan satu ubin biru bernilai x2, 
+dua ubin bernilai –x, dan tiga ubin bernilai –1.   
+139
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+                                                                       
+Dapatkah kamu menyusun sebuah persegi atau persegi panjang dari 
+ubin-ubin aljabar di atas? Jika kamu mencoba membuatnya maka kamu 
+mendapatkan bahwa tidak mungkin membangun sebuah persegi atau 
+persegi panjang. Bagaimana menyelesaikan persamaan kuadrat ini dengan 
+menggunakan ubin aljabar?  Perhatikan gambar di bawah ini. 
+Nampak bahwa dibutuhkan dua ubin aljabar dengan luas x (dapat bernilai 
+positif atau negatif) untuk membuat sebuah bentuk persegi panjang. Kedua 
+ubin tersebut terdiri atas satu ubin bernilai positif dan satu ubin bernilai 
+negatif. Jika kedua ubin ini ditambahkan maka persamaan kuadrat tidak 
+berubah.  
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+140
+Penyusunan kembali akan memberikan bentuk di bawah ini.
+Persamaan kuadrat x2 - 2x - 3 dapat dituliskan sebagai (x + 1) (x - 3).   
+Akar-akarnya adalah  -1 atau 3.
+Coba  kamu selesaikan persamaan kuadrat 2x2 + 5x - 3 = 0. Ubin-ubin aljabar 
+yang bersesuaian dengan persamaan kuadrat tersebut diberikan di bawah 
+ini. 
+x2
+x
+-1 -1
+-1
+x
+x
+x
+x
+x2
+Ingat kembali bahwa bahwa gabungan ubin x dan ubin –x bernilai 0 karena 
+x + (–x) = 0
+x
+- x
+141
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+x2
+x
+x
+x
+x
+x
+x
+-1
+-x
+-1
+-1
+x2
+Bagaimana menuliskan pemfaktoran ini? Perhatikan tabel di bawah ini.
+atau
+Bagaimana menyelesaikan persamaan kuadrat di bawah  ini secara 
+pemfaktoran tetapi tanpa menggunakan ubin aljabar?
+3x2 + 13x - 10 = 0 
+Perhatikan langkah-langkah penyelesaian persamaan kuadrat tersebut yang 
+terdapat dalam tabel di bawah ini.
+1.
+Kalikan 3 dengan -10
+3 × (-10) = -30
+2.
+Cari pasangan bilangan yang jika 
+dikalikan hasilnya -30 dan jika 
+dijumlahkan hasilnya +13
+15 × (-2) = -30
+15 + (-2) = 13
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+142
+Berdasarkan langkah 2 diperoleh 
+bilangan 15 dan -2. 
+Kedua bilangan ini digunakan untuk 
+mendapatkan pemfaktoran.
+Perhatikan  koefisien-koefisien 
+persamaan kuadrat 
+3x2 + 13x -10 = 0 dengan a = 3, 
+b = 13, dan c = -10. 
+Koefisien a = 3 merupakan 
+perkalian 3 × 1 sehingga 
+pemfaktoran dapat dituliskan 
+sebagai 
+.
+Jelaslah bahwa bilangan 15 
+merupakan perkalian 3 × 5 sehingga 
+pemfaktoran menjadi seperti ini
+. 
+ 
+Bilangan -2 dinyatakan sebagai 
+perkalian -2 × 1 sehingga 
+pemfaktoran menjadi 
+(3x -2) (x + 5).
+-2
+15
+Catatan: Tidak semua persamaan kuadrat dapat diselesaikan dengan 
+pemfaktoran.
+143
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Latihan   5.2	
+
+Kerjakan soal-soal berikut ini. 
+1.	
+Salah satu akar dari persamaan kuadrat 2x2 −bx −6 = 0 adalah 6. 
+Tentukan nilai b dan akar lainnya.
+2.	
+Salah satu akar dari persamaan kuadrat ax2 −17x −6 = 0 adalah 6. 
+Tentukan nilai a dan akar lainnya.
+3.	
+Salah satu akar dari persamaan kuadrat 2x2 −3x + c = 0 adalah −6. 
+Tentukan nilai c dan  akar lainnya.
+4.	
+Tentukan solusi atau akar-akar dari persamaan kuadrat 
+2x2 −8x + 6 = 0. 
+5.	
+Tentukan akar-akar dari persamaan kuadrat 2x2 −18 = 0.
+6.	
+Tentukan akar-akar dari persamaan kuadrat 2x2 −5x −18 = 0.
+7.	
+Akar-akar   persamaan kuadrat dari ax2 + bx + c = 0 adalah −1
+2 dan 3. 
+Tentukan b, dan c jika a = 2.
+8.	
+Akar-akar persamaan kuadrat ax2 + bx + c = 0 adalah 2
+3 dan −4. 
+Tentukan a dan b jika c = −8. 
+9.	
+Suatu bilangan terdiri atas dua angka. Jika penyusun bilangan dikalikan 
+diperoleh hasil 12. Jika bilangan tersebut dikurangi 9 maka diperoleh 
+bilangan yang penyusun bilangan sebelumnya bertukar tempat. 
+Tentukan bilangan tersebut. 
+10.	 Dua pipa, A dan B, mengisi sebuah tangki dalam waktu 24 menit. Pipa A 
+mengisi tangki tersebut 36 menit lebih cepat daripada pipa B. Tentukan 
+waktu yang diperlukan oleh pipa B untuk mengisi penuh tangki.  
+Ayo, Mencoba
+B
+A
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+144
+2.	 Melengkapi Kuadrat Sempurna
+Eksplorasi   5.3	
+Menyelesaikan Persamaan Kuadrat dengan 
+Melengkapi Kuadrat Sempurna
+Selesaikan persamaan kuadrat x2 + 4x + 2 = 0. Bentuk ini sulit diselesaikan 
+dengan faktorisasi. Perhatikan petunjuk untuk menyelesaikan persamaan 
+kuadrat ini dengan cara berbeda. 
+1.	
+Perhatikan diagram yang ditunjukkan oleh Gambar 5.6. Buatlah 
+perkalian (x + 2)(x + 2) dengan menggunakan diagram.    
+2.	
+Tuliskan hubungan antara (x + 2)2 dengan x2 + 4x + 2. 
+3.	
+Selesaikanlah nomor 2.    
+4.	
+Ulangi langkah 1-3 untuk menyelesaikan persamaan kuadrat lainnya 
+x2 + 10x + 6 = 0. 
+5.	
+Apa yang menjadi kunci penyelesaian dengan cara seperti ini? Jelaskan.   
+Cara menyelesaikan persamaan kuadrat seperti yang dilakukan 
+dalam kegiatan eksplorasi di atas disebut sebagai cara melengkapi kuadrat 
+sempurna. Melengkapi kuadrat sempurna adalah mengubah bentuk 
+persamaan kuadrat ax2 + bx + c = 0 menjadi bentuk (x + m)2 = n
+
+Suatu persamaan kuadrat berbentuk x2 + 14x = 32   
+1.	
+Gunakan luas bangun datar untuk menggambarkan x2 + 14x sehingga 
+nantinya dengan penambahan luas maka bangun datar tersebut menjadi 
+bentuk persegi. Bangun datar mencakup satu luas persegi x2 dan dua luas 
+persegi panjang sebesar 7x. 
+2.	
+Perluas bangun datar yang ditunjukkan oleh gambar nomor 1 agar 
+terbentuk persegi. Nyatakan luas persegi sebagai perkalian sisi dengan sisi. 
+Nyatakan juga nilai luas persegi. Jika keduanya membentuk persamaan 
+maka didapatkan bentuk melengkapi persamaan kuadrat. Selesaikan 
+persamaan kuadrat  x2 + 14x = 32.    
+Ayo, Berpikir Kreatif
+   luas persegi panjang  14x dibuat menjadi 7x + 7x
+Petunjuk
+i
+145
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Latihan   5.3	
+
+Selesaikan persamaan kuadrat  dengan cara melengkapi kuadrat sempurna.
+1.	
+x2 + 5x + 6 = 0
+2.	
+2x2 + 6x + 3 = 0
+3.	
+6x2 + 2x + 1
+6 = 0
+4.	
+x2 −12x −15 = 0
+5.	
+3
+2x2 −8x −6 = 0
+3.	 Menggunakan Rumus Persamaan Kuadrat
+Eksplorasi   5.4	
+ Membuktikan Rumus Mencari Akar-Akar dari 
+Persamaan Kuadrat
+Buktikan bahwa akar-akar dari persamaan 
+kuadrat ax2 + bx + c = 0 adalah 
+Persamaan kuadrat dapat diselesaikan dengan 
+menggunakan rumus persamaan kuadrat.   
+Akar-akar persamaan kuadrat berbentuk ax2 + bx + c = 0 adalah x1 dan x2. 
+Tunjukkan 
+1.	
+hubungan antara penjumlahan kedua akar dengan koefisien-koefisien 
+persamaan kuadrat, yaitu x1 + x2 = −b
+a. 
+2.	
+hubungan antara perkalian kedua akar dengan koefisien-koefisien 
+persamaan kuadrat, yaitu x1 x2 = c
+a.  
+Ayo, Mencoba
+Susunlah 
+persamaan kuadrat 
+ax2 + bx + c = 0 
+sebagai bentuk yang 
+penyelesaiannya dilakukan 
+dengan melengkapi kuadrat 
+sempurna.
+Petunjuk
+i
+x = −b ±
+√
+b2 −4ac
+2a
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+146
+Suatu persamaan kuadrat  x2 + 4x + 3 memiliki dua akar berbeda, yaitu  p dan q.   
+Bagaimana bentuk persamaan kuadrat yang baru dengan akar 2p dan 2q? 
+Penjumlahan kedua akar  p
+q
+b
+a
+
+ 
+ 4
+Perkalian kedua akar pq
+c
+a
+ 
+ 3
+Misalkan, kedua  akar baru  P = 2p dan Q = 2q membentuk persamaan 
+kuadrat Ax2 + Bx + C = 0. 
+Penjumlahan kedua akar 
+P
+Q
+p
+q
+p
+q
+B
+A
+
+
+
+
+
+
+    
+2
+2
+2
+8
+Maka B
+A = 8 atau  B = 8A
+Perkalian kedua akar PQ
+p
+q
+pq
+C
+A
+
+
+
+
+
+2
+2
+4
+12
+Maka C
+A = 12 atau C = 12A
+Persamaan kuadrat yang baru adalah Ax2 + 8Ax + 12A = 0 atau x2 + 8x + 12 = 0
+Perhatikan contoh yang lain.
+Suatu persamaan kuadrat x2 + 4x - 21 = 0 memiliki dua akar berbeda yaitu  p 
+dan q.   Bagaimana bentuk persamaan kuadrat yang baru dengan akar 1
+2p dan
+1
+2q? 
+Penjumlahan kedua akar p
+q
+b
+a
+
+ 
+ 4
+Perkalian kedua akar pq
+c
+a
+ 
+ 21
+Misalkan, kedua  akar baru P
+p
+= 1
+2
+ dan Q
+q
+= 1
+2
+ membentuk persamaan 
+kuadrat Ax2 + Bx + C = 0. 
+Penjumlahan kedua akar P + Q 
+P
+Q
+p
+q
+q
+pq
+p
+pq
+p
+q
+pq
+
+
+
+
+
+
+
+
+1
+2
+1
+2
+2
+2
+2
+4
+21
+147
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Maka  B
+A = 4
+21
+ 
+B
+A
+= 4
+21
+Perkalian kedua akar PQ 
+PQ
+p
+q
+pq
+
+
+
+
+1
+2
+1
+2
+1
+4
+1
+84
+Maka 
+C
+A   1
+84
+C
+A
+= 1
+84
+Persamaan kuadrat yang baru adalah 
+Ax
+Ax
+A
+2
+4
+21
+1
+84
+0
+
+ 
+
+x
+x
+2
+4
+21
+1
+84
+0
+
+
+
+Latihan   5.4	
+Selesaikan persamaan kuadrat  dengan cara menggunakan rumus persamaan 
+kuadrat. 
+1.	
+x2 + 5x + 6 = 0
+2.	
+2x2 + 6x + 3 = 0
+3.	
+6x2 + 2x + 1
+6 = 0
+4.	
+1
+2x2 + 4x + 6 = 0
+5.	
+2
+3x2 + 2x −12 = 0 
+Ayo, Mencoba
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+148
+4.	 Jenis-Jenis Akar Persamaan Kuadrat 
+Ada tiga jenis solusi persamaan kuadrat, yaitu solusi dengan dua akar real 
+yang berbeda, solusi dengan akar real yang kembar (sama), dan solusi 
+dengan dua akar imajiner (tidak real) yang berbeda. 
+Lakukan eksplorasi di bawah ini untuk memahami solusi berupa akar-
+akar  imajiner atau tidak nyata.
+Eksplorasi   5.5	
+Akar-Akar Tidak Nyata atau Imajiner
+Selesaikan x2 + 4x + 8 = 0 dengan cara menggunakan rumus persamaan 
+kuadrat yang dikerjakan dalam Eksplorasi 5.4.
+ 
+Apakah yang menjadi kendala dalam menyelesaikan persamaan kuadrat di atas?  
+Selama ini kamu mengenal bilangan yang nyata atau real. Pada garis 
+bilangan, setiap bilangan real dapat menunjukkan suatu panjang yang tepat  
+(
+√
+3 dan π juga bilangan real). Selain bilangan real, ada juga yang disebut 
+bilangan imajiner. Bilangan imajiner merupakan akar dari bilangan negatif, 
+yang didefinisikan sebagai √−1 = i. Contoh, √−9 =
+√
+9 · √−1 = 3i . 
+Bilangan kompleks merupakan gabungan bilangan real dan bilangan 
+imajiner, misalnya 2 + 3i. Bagaimana hasil Eksplorasi 5.5?
+Perhatikan kembali penggunaan rumus persamaan kuadrat untuk 
+menyelesaikan persamaan kuadrat berbentuk ax2 + bx + c = 0.     
+Jika b2 −4ac = 0 maka akan diperoleh solusi persamaan kuadrat yang 
+berupa akar real yang kembar (atau yang sama). 
+Jika b2 −4ac bernilai positif maka akan diperoleh solusi persamaan 
+kuadrat yang berupa dua nilai akar real berbeda.
+Jika b2 −4ac bernilai negatif maka akan diperoleh solusi persamaan 
+kuadrat yang berupa dua nilai akar imajiner berbeda.
+Pernyataan matematika  b2 −4ac disebut sebagai diskriminan (D).  
+Ayo, Berdiskusi
+x = −b ±
+p
+b2 −4ac
+2a
+149
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Latihan   5.5	
+Tentukan jenis-jenis akar dari persamaan kuadrat di bawah ini dengan 
+mengecek nilai diskriminan.
+1.	
+4x2 + 20x + 25 = 0   
+2.	
+2x2 −5x + 6 = 0
+3.	
+3x2 + 5x −7 = 0 
+4.	
+1
+2x2 + 5x + 9 = 0
+5.	
+1
+3x2 + 4x −3 = 0
+1.	
+Apakah saya dapat menyelesaikan persamaan kuadrat dengan 
+faktorisasi?
+2.	
+Apakah saya dapat menyelesaikan persamaan kuadrat dengan 
+melengkapkan kuadrat sempurna?
+3.	
+Apakah saya dapat menyelesaikan persamaan kuadrat dengan 
+menggunakan rumus persamaan kuadrat?
+4.	
+Apakah saya dapat membedakan jenis solusi persamaan kuadrat 
+dengan memperhatikan diskriminan?
+B.	Fungsi Kuadrat
+Di SMP kamu telah belajar membedakan fungsi linear dengan fungsi non-
+linear. Saat ini kamu akan belajar tentang fungsi kuadrat. Fungsi kuadrat 
+adalah salah satu fungsi nonlinear. Grafiknya tentu bukan merupakan garis 
+lurus. Bagaimana mengenali fungsi kuadrat? Bagaimana karakteristik fungsi 
+kuadrat? Bagaimana grafiknya? Dalam kehidupan sehari-hari, fungsi kuadrat 
+dapat ditemui dalam keadaan apa saja? Mari belajar bersama.
+Ayo, Mencoba
+Ayo, Berefleksi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+150
+1.	 Karakteristik Fungsi Kuadrat
+Eksplorasi   5.6	
+Karakteristik Fungsi Kuadrat
+Melalui eksplorasi ini diharapkan kamu mengenal karakteristik fungsi 
+kuadrat.
+Sebelumnya, perhatikan terlebih dahulu contoh di bawah ini.
+Buatlah grafik fungsi 
+  dengan cara: 
+a.	
+Melengkapi Tabel 5.1
+Tabel 5.1 Nilai 
+ dan 
+untuk fungsi 
+-2
+4
+-1
+1
+0
+0
+1
+1
+2
+4
+Ayo, Bereksplorasi
+151
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+b.	
+Plot setiap titik pada Tabel 5.1 ke dalam sistem koordinat. Koordinat 
+titik yang didapatkan dari Tabel 5.1 adalah (-2,4), (-1,1), (0,0), (1,1), 
+dan (2,4).
+Gambar 5.7 Plot Titik pada Grafik Fungsi 
+c.	
+Hubungkan titik-titik dalam sistem koordinat sehingga didapatkan 
+grafik fungsinya.
+Gambar 5.8 Grafik Fungsi 
+1.	
+Kamu perlu bekerja sama untuk melakukan eksplorasi dengan 
+menggambar grafik-grafik fungsi kuadrat terlebih dahulu. Jika kamu 
+memiliki graphic calculator atau aplikasi  GeoGebra, kamu boleh  
+menggunakannya. Grafik yang digambar adalah  
+ dengan 
+ 
+adalah fungsi kuadrat yang berbentuk 
+.
+Ayo, Bekerja Sama
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+152
+Lakukan langkah-langkah yang sama untuk setiap fungsi kuadrat ini, 
+gunakan kertas berpetak. 
+a.	
+b.	
+c.	
+d.	
+e.	
+f.	
+g.	
+h.	
+i.	
+j.	
+Gunakan hasilnya untuk menjawab pertanyaan-pertanyaan selanjutnya.
+2.	
+Selidiki peran tanda pada nilai a(a > 0 atau a < 0).
+a.	 a > 0
+1)	
+Tuliskan fungsi-fungsi dengan a > 0
+2)	
+Bagaimana bentuk grafiknya? 
+b.	 a < 0
+1)	
+Tuliskan fungsi-fungsi dengan a < 0
+2)	
+Bagaimana bentuk grafiknya? 
+c.	
+Mengapa dalam daftar fungsi kuadrat di atas tidak ada fungsi dengan 
+nilai a = 0 ?
+d.	
+Lengkapi tabel dengan menggambar bentuk grafik.
+f(x) = ax2 + bx + c
+Bentuk Grafik
+a > 0
+a < 0
+3.	
+Titik potong grafik fungsi kuadrat dengan sumbu y.
+153
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+No.
+f(x) = ax2 + bx + c
+Titik Potong Grafik Fungsi 
+dengan Sumbu y
+c
+a.
+f(x) = −x2
+(0, 0)
+0
+Untuk setiap fungsi kuadrat f(x) = ax2 + bx + c, titik potong 
+grafik dengan sumbu y terletak pada koordinat __________________
+4.	
+Titik potong grafik fungsi kuadrat dengan sumbu .
+No.
+f(x) = ax2 + bx + c
+D = b2 −4ac
+Banyak Titik Potong 
+Grafik dengan Sumbu x
+a.
+f(x) = −x2
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+154
+f(x) = ax2 + bx + c
+Banyak Akar 
+ax2 + bx + c = 0
+Banyak Titik Potong 
+Grafik dengan Sumbu 
+x
+D > 0
+D = 0
+D < 0
+5.	
+Menentukan sumbu simetri dari setiap grafik. 
+Contoh sumbu simetri dari f(x) = x2 adalah x = 0.
+6.	
+Menentukan titik maksimum atau minimum dari setiap grafik. 
+Contoh titik minimum dari y = x2 adalah 0, 0.
+Berdasarkan Eksplorasi 5.6 kamu menemukan bahwa fungsi kuadrat 
+terbuka ke atas jika 
+ dan terbuka ke bawah jika 
+.
+Gambar 5.9 Dua Jenis Grafik Fungsi Kuadrat dengan Tanda  Berbeda
+Eksplorasi 5.6 menunjukkan peran  dalam fungsi kuadrat 
+  yaitu menentukan titik potong grafik dengan 
+sumbu y. Nilai  menentukan titik potong grafik dengan sumbu y. 
+155
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Latihan   5.6	
+ 
+1.	
+a.     Tentukan gambar parabola yang terbuka ke atas dan ke bawah.
+b.	
+Bandingkan kedua parabola. Menurut kamu, parabola mana 
+lebih lebar terbukanya? Konstanta dari fungsi kuadrat  
+ mana yang menentukan terbukanya 
+sebuah parabola?
+2.	
+Fungsi kuadrat yang terbuka ke atas adalah______________(Jawaban dapat 
+lebih dari satu)
+a.	
+b.	
+c.	
+d.	
+3.	
+Fungsi kuadrat yang terbuka ke bawah adalah______________(Jawaban 
+dapat lebih dari satu)
+a.	
+b.	
+c.	
+d.	
+Jembatan A
+Jembatan B
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+156
+Latihan   5.7	
+ 
+1.	
+Kamu perhatikan bahwa posisi awal tidak dimulai pada nol.
+5
+6
+9
+14
+21
+30
+41
+a.	
+Isi tabel jarak tempuh mobil terhadap waktu. 
+Waktu (det)
+0
+1
+2
+3
+4
+5
+6
+Jarak (m)
+b.	
+Gambarkan grafik jarak terhadap waktu pada kertas berpetak.
+c.	
+Apakah hasilnya menggambarkan bentuk parabola?
+d.	
+Berapa nilai c jika merujuk pada y = 
+ ?
+2.	
+Tabel di bawah menunjukkan jarak tempuh sebuah mobil pada setiap 
+waktu.
+Waktu (Detik)
+0
+1
+2
+3
+4
+5
+6
+Jarak (m)
+0
+5
+8
+9
+8
+5
+0
+Tanpa menggambar grafik, tentukan apakah grafik fungsi kuadrat 
+terbuka ke atas atau ke bawah. Jelaskan alasanmu.
+3.	
+Tabel di bawah menunjukkan keuntungan penjualan produk untuk 
+jumlah produk yang terjual.
+Jumlah Benda
+0
+10
+20
+25
+30
+40
+Keuntungan (Ribu Rupiah)
+0
+800
+1200
+1250
+1200
+800
+Tanpa menggambar grafik, tentukan apakah grafik fungsi kuadrat 
+terbuka ke atas atau ke bawah. Jelaskan alasanmu.
+157
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Dapatkah kamu menyebutkan karakteristik lain dari fungsi kuadrat 
+berdasarkan Eksplorasi 5.6.
+Gambar 5.10 Karakteristik Fungsi Kuadrat
+Gambar ulang berdasarkan tautan  https://buku.kemdikbud.go.id/s/jqpbfj.
+Perhatikan Gambar 5.10 dan amati beberapa titik istimewa dalam fungsi 
+kuadrat:
+•	
+Titik potong dengan sumbu y, yaitu 
+ . Apakah kamu masih ingat 
+bagaimana menentukan titik potong dengan sumbu y?
+•	
+Titik-titik potong dengan sumbu x, yaitu (-1,0) dan 
+ . 
+•	
+Vertex disebut juga sebagai titik puncak, dapat berupa titik maksimum 
+atau titik minimum (sesuai dengan grafik terbuka ke atas atau ke bawah). 
+Titik minimum dalam grafik yaitu 
+ .
+•	
+Sumbu simetri selalu melalui titik puncak, 
+1.	
+Bagaimana karakteristik grafik fungsi kuadrat dengan 
+  dan 
+ ?
+2.	
+Bagaimana hubungan antara titik potong dengan sumbu x dengan jenis 
+akar persamaan kuadrat?
+Titik potong dengan sumbu x menunjukkan bahwa 
+ , artinya 
+kamu mencari akar-akar persamaan kuadrat.
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+158
+Gambar 5.11 Titik Potong dengan Sumbu x
+Gambar ulang berdasarkan tautan  https://buku.
+kemdikbud.go.id/s/jqpbfj.
+Pada fungsi kuadrat berbentuk 
+ 
+, diskriminan diberikan oleh nilai 
+ untuk 
+menentukan jumlah titik potong dengan sumbu x. 
+ maka ada dua titik potong dengan sumbu x. (dua akar real berbeda) 
+ maka ada satu titik potong dengan sumbu x. (akar real kembar) 
+ maka tidak ada titik potong dengan sumbu x. (dua akar imajiner)
+Latihan   5.8	
+1.	
+Tentukan banyak titik potong dengan sumbu x dari fungsi kuadrat 
+berikut.
+a.	
+b.	
+c.	
+d.	
+e.	
+f.	
+g.	
+h.	
+Tidak ada Titik Potong
+Satu Titik Potong
+Dua Titik Potong
+159
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+2.	
+Tentukan koordinat titik puncak, sumbu simetri, koordinat titik potong 
+dengan sumbu y,  dan banyak titik potong dari grafik fungsi-fungsi 
+kuadrat di bawah ini.
+Apakah hubungan antara titik puncak dengan grafik terbuka ke atas atau 
+ke bawah?
+3.	
+Perhatikan tabel di bawah ini, yang menunjukkan jarak tempuh sebuah 
+mobil sebagai fungsi dari waktu
+Waktu (detik)
+0
+1
+2
+3
+4
+5
+6
+Jarak (m)
+8
+13
+16
+17
+16
+13
+8
+a.	
+Berapa jarak maksimum yang ditempuh?
+b.	
+Berapa koordinat titik maksimum?
+c.	
+Tentukan persamaan garis sumbu simetri. 
+4.	
+Perhatikan tabel di bawah ini, yang menunjukkan biaya produksi sebagai 
+fungsi dari jumlah barang.
+Biaya Produksi
+0
+500
+400
+500
+800
+1300
+Jumlah
+0
+10
+20
+30
+40
+50
+a.	
+Berapa biaya minimum?
+b.	
+Berapa koordinat titik minimum?
+c.	
+Tentukan persamaan garis sumbu simetri. 
+4
+y
+x
+3
+2
+1
+0
+-1
+1
+-1
+-2
+-3
+2
+3
+-2
+4
+y
+x
+2
+6
+0
+-2
+-4
+2
+4
+-2
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+160
+Untuk setiap kasus di bawah ini tentukan apakah grafik fungsi kuadrat 
+terbuka ke atas atau ke bawah.
+d.	
+Biaya produksi sebagai fungsi dari jumlah barang.
+e.	
+Keuntungan sebagai fungsi dari jumlah barang.
+f.	
+Kualitas bunyi dari sound system sebagai fungsi dari amplitudo 
+gelombang bunyi.  
+g.	
+Efektivitas obat sebagai fungsi dari dosis obat.
+h.	
+Keselamatan pemakaian suatu jenis bahan sebagai fungsi dari waktu 
+pemakaian. 
+2.	 Mengonstruksi Fungsi Kuadrat
+Eksplorasi   5.7	
+Menentukan Fungsi Kuadrat dari Lengkungan 
+Busur
+Tentukan tiga titik yang melalui busur. 
+Gambar 5.12 Busur Panah sebagai Fungsi Kuadrat
+Ayo, Berpikir Kritis
+Ayo, Bereksplorasi
+161
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Bagaimana kamu menentukan fungsi kuadrat dari lengkungan busur?
+Jika tiga titik diketahui maka 
+ dapat ditentukan. 
+Kamu dapat menggunakan sistem persamaan tiga variabel untuk 
+menentukan nilai , 
+, dan .  
+Contoh: 
+Carilah persamaan fungsi kuadrat yang 
+grafiknya melalui titik 
+, 
+, 
+dan 
+.
+Alternatif Penyelesaian 1:
+Substitusi koordinat K(-1,0) ke 
+dalam fungsi, didapat persamaan: 
+Substitusi koordinat L(0,-3) didapat persamaan:
+ 
+ 
+Substitusi koordinat M(1,-4) didapat persamaan:
+Dari tiga persamaan ini didapatkan sistem persamaan linear
+Kamu telah mempelajari sistem persamaan linear dan solusinya adalah 
+a = 1, b = −2, c = −3
+Persamaan fungsi kuadrat yang melalui titik K(-1,0), L(0,-3), dan M(1,-4)  
+adalah
+Alternatif Penyelesaian 2:
+Memanfaatkan fakta bahwa M(1,-4) adalah titik puncak fungsi, maka 
+ 
+Gambar 5.13 Grafik fungsi kuadrat yang 
+melalui K (-1,0), L(0,-3), dan M(1,-4)
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+162
+Substitusi titik potong dengan sumbu y 
+Sehingga persamaan fungsi kuadratnya adalah  
+Kamu dapat mengeksplorasi berbagai bentuk fungsi kuadrat 
+berdasarkan grafik-grafik yang telah kamu buat sebelumnya.
+Eksplorasi   5.8	
+Menuliskan Fungsi Kuadrat
+Gunakan grafik-grafik dalam rubrik Ayo, Bekerja Sama dalam hal. 141.
+1.	
+Memfaktorkan bentuk fungsi 
+a.	
+Tentukan fungsi yang dapat dituliskan dalam bentuk 
+1)	
+Tentukan nilai  dan 
+2)	
+Tentukan titik potong grafik dengan sumbu x
+3)	
+Tentukan nilai 
+4)	
+Tentukan akar-akar persamaan kuadrat 
+b.	
+Tentukan fungsi yang dapat dituliskan dalam bentuk 
+1)	
+Tentukan nilai 
+2)	
+Bagaimana letak grafik dengan sumbu x? Berapa koordinatnya?
+3)	
+Tentukan nilai 
+4)	
+Tentukan akar-akar persamaan kuadrat 
+c.	
+Tentukan fungsi yang tidak melalui sumbu x.
+1)	
+Tentukan nilai 
+2)	
+Tentukan akar-akar persamaan kuadrat 
+d.	
+Bagaimana nilai 
+  menentukan banyak perpotongan 
+grafik fungsi dengan sumbu x?
+Ayo, Bereksplorasi
+163
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Fungsi
+Bentuk Faktor
+Koordinat Titik Potong 
+dengan Sumbu x
+2.	
+Sumbu simetri adalah garis yang melalui titik puncak.  Untuk setiap 
+grafik fungsi yang ada:
+a.	
+Tentukan sumbu simetrinya
+b.	
+Tentukan kaitan nilai 
+ pada no. 1 dengan sumbu simetri
+c.	
+Tentukan nilai 
+d.	
+Tuliskan dua cara menentukan sumbu simetri.
+3.	
+Titik puncak adalah koordinat titik maksimum atau titik  minimum. 
+Untuk setiap grafik fungsi yang ada:
+a.	
+Tentukan koordinat titik puncaknya
+b.	
+Tentukan hubungan nilai absis titik puncak dengan sumbu simetri
+c.	
+Substitusi nilai sumbu simetri pada fungsi 
+ .  
+Nilai ini sama dengan apa?
+d.	
+Hitung nilai 
+  . Nilai ini sama dengan apa?
+e.	
+Ubah bentuk 
+  menjadi bentuk 
+ . Nilai 
+ menunjukkan apa?
+f.	
+Tuliskan berbagai cara menentukan koordinat titik puncak grafik 
+fungsi kuadrat.
+Berdasarkan eksplorasi kamu melihat ada tiga bentuk untuk menuliskan 
+fungsi kuadrat.
+1.	
+Bentuk standar 
+2.	
+Titik potong dengan sumbu x pada 
+ dan 
+, yaitu 
+ 
+3.	
+Bentuk dengan titik puncak 
+ yaitu 
+ 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+164
+Latihan   5.9	
+1.	
+Fungsi kuadrat dengan titik puncak (2,6) dan melalui titik (1,7). Nyatakan 
+fungsi kuadrat dalam ketiga bentuk.
+2.	
+Sebuah bola dilemparkan dari ketinggian awal 4 m dan mencapai 
+ketinggian maksimum 8 m setelah dua detik sejak dilempar. Nyatakan 
+fungsi kuadrat dalam ketiga bentuk.
+3.	
+ 
+Untuk setiap kasus di bawah ini tentukan apakah diskriminan fungsi 
+kuadrat sama dengan nol, lebih kecil dari nol atau lebih besar dari nol.
+a.	
+Pendapatan dari penjualan sebagai fungsi dari jumlah barang.
+b.	
+Keuntungan sebagai fungsi dari jumlah barang.
+c.	
+Kualitas bunyi dari sound system sebagai fungsi dari amplitudo 
+gelombang bunyi.  
+d.	
+Efektivitas obat sebagai fungsi dari dosis obat.
+e.	
+Keselamatan pemakaian suatu jenis bahan sebagai fungsi dari waktu 
+pemakaian. 
+3.	 Menyelesaikan Masalah Fungsi Kuadrat 
+Eksplorasi   5.9	
+Menentukan Penghematan Maksimum  
+dari Grafik
+Suatu kajian dilakukan untuk mengetahui penghematan bahan bakar (km/
+liter) terhadap kelajuan mobil (km/jam). 
+ adalah penghematan bahan 
+bakar dan 
+adalah kelajuan mobil.
+Tabel 5.2 Penghematan Bahan Bakar Terhadap Kelajuan Mobil
+9,5
+10,8
+11,7
+12,3
+12,2
+12,8
+12,7
+12,8
+12,9
+12,2
+11,6
+10,8
+24
+32
+40
+48
+56
+64
+72
+80
+88
+96
+104
+112
+Sumber: Transportation Energy Data Book
+Ayo, Berpikir Kritis
+Ayo, Bereksplorasi
+165
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+1.	
+Buat grafik 
+  terhadap 
+ dengan bentuk parabola, mungkin saja ada 
+titik-titik yang tidak melalui grafik.
+2.	
+Setelah mendapatkan bentuk grafiknya tentukan fungsi kuadratnya.
+3.	
+Berapa kelajuan yang menghasilkan penghematan bahan bakar 
+maksimum?
+Kamu dapat menggunakan kalkulator atau aplikasi Desmos atau GeoGebra 
+untuk menentukan fungsi kuadrat dari sekelompok data.
+Petunjuk menggunakan kalkulator untuk membuat fungsi kuadrat dari 
+sekelompok data.
+1.	
+Masukkan data pada kalkulator. 
+2.	
+Buatlah sebaran data yang tampak pada layar kalkulator. 
+3.	
+Gunakan fitur quadratic regression untuk mendapatkan grafik kuadrat 
+terbaik.
+4.	
+Untuk mendapatkan kelajuan yang bersesuaian dengan penghematan 
+bahan bakar maksimum, gunakan fitur maksimum pada kalkulator.
+Eksplorasi   5.10	 Menentukan Luas Maksimum
+Seorang petani ingin membuat pagar pembatas tanaman seperti yang 
+ditunjukkan oleh gambar di bawah ini. Panjang kawat adalah 96 m. Berapa 
+luas maksimum yang dapat dibuat oleh petani?
+Dua contoh di atas menunjukkan salah satu kegunaan fungsi kuadrat 
+untuk dapat mengetahui nilai maksimum atau minimum. Kamu sudah 
+Ayo, Menggunakan Teknologi
+Ayo, Bereksplorasi
+166
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+mempelajari beberapa cara untuk mendapatkan nilai minimum atau 
+maksimum.   
+Fungsi kuadrat digunakan dalam berbagai bidang kehidupan, seperti 
+olahraga, bangunan, ekonomi, kesehatan, dan lainnya.
+Harga 1 buku diberikan oleh h = 900 −0, 25x  dengan   adalah banyak 
+buku yang diproduksi. Jika  pendapatan dari penjualan adalah 
+, 
+tentukan banyak buku yang diproduksi agar diperoleh pendapatan optimal atau  
+maksimal. 
+Latihan   5.10	 
+1.	
+Bandingkan fungsi linear dengan fungsi kuadrat.
+Waktu (detik)
+Jarak Tempuh (m)
+Jarak Tempuh (m)
+0 
+0
+0
+1
+2
+3
+2
+4
+8
+3
+6
+15
+4
+8
+24
+5
+10
+35
+6
+12
+48
+Apakah untuk setiap detik perubahan jarak sama untuk kedua fungsi? 
+Jelaskan.
+2.	
+Tabel di bawah menunjukkan hubungan antara kelajuan mobil dengan 
+efisiensi bahan bakar. Buatlah pendekatan grafik fungsi kuadrat dengan 
+ adalah penghematan bahan bakar dan x adalah kelajuan mobil.
+Kelajuan (km/jam)
+16
+32
+48
+64
+80
+96
+112
+128
+Ayo, Mencoba
+167
+
+ 
+167
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Bahan Bakar  
+(km/liter)
+7,5
+10,2
+12,2
+13,2
+13,5
+12,8
+11,3
+9,1
+Berapa kelajuan yang menghasilkan penghematan maksimum?
+3.	
+Bandingkan fungsi eksponensial dengan fungsi kuadrat. Apakah fungsi 
+eksponensial mempunyai nilai maksimum atau nilai minimum?
+1.	
+Apakah kamu sudah memahami karakteristik fungsi kuadrat? 
+2.	
+Apakah kamu dapat membentuk fungsi kuadrat jika diketahui tiga titik 
+dari fungsi kuadrat?
+3.	
+Apakah kamu dapat membentuk fungsi kuadrat jika diketahui titik 
+potong dengan sumbu x?
+4.	
+Apakah kamu dapat membentuk fungsi kuadrat jika diketahui titik 
+puncak?
+5.	
+Apakah kamu dapat membuat grafik fungsi kuadrat jika diberikan 
+sekelompok data?
+6.	
+Apakah kamu dapat membuat fungsi kuadrat dari suatu masalah dan 
+menyelesaikannya?     
+Uji Kompetensi	
+1.	
+Suatu masalah matematika dari Babilonia berbunyi sebagai berikut, 
+“Berapa sisi sebuah persegi jika luas persegi dikurangi sisi persegi adalah 
+600?”.   
+2.	
+Suatu persamaan kuadrat berbentuk x2 −5x −14 = 0. 
+a.	
+Tentukan jumlah dan hasil perkalian kedua akar persamaan kuadrat.
+b.	
+Buatlah suatu persamaan kuadrat yang baru dengan setiap akarnya   
+merupakan hasil penjumlahan akar persamaan kuadrat lama 
+dengan 3. 
+c.	
+Buatlah suatu persamaan kuadrat yang baru dengan setiap akarnya 
+merupakan hasil perkalian akar persamaan kuadrat lama dengan 3. 
+3.	
+Suatu persamaan kuadrat berbentuk 2x2 −7x −6 = 0.
+a.	
+Tentukan jumlah dan hasil perkalian kedua akar persamaan kuadrat
+Ayo, Berefleksi
+
+168
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+168
+b.	
+Buatlah suatu persamaan kuadrat yang baru dengan setiap akarnya   
+merupakan hasil penjumlahan akar persamaan kuadrat lama 
+dengan 1
+2. 
+c.	
+Buatlah suatu persamaan kuadrat yang baru dengan setiap akarnya   
+merupakan hasil perkalian  akar persamaan kuadrat lama dengan 1
+2.
+4.	
+Perhatikan gambar di bawah ini. Apakah bola basket akan masuk ke 
+dalam basket (ring)? Jelaskan jawabanmu.
+5.	
+Para ilmuwan mengukur konsentrasi obat dalam darah seiring dengan 
+berjalannya waktu. Fungsi kuadrat digunakan untuk memodelkan 
+hal ini, yaitu C(t) = −0, 0003t2 + 0, 09t dengan satuan t adalah 
+menit dan konsentrasi obat dalam mg/L. Tentukan  berapa lama waktu 
+yang diperlukan agar konsentrasi obat menjadi nol dan konsentrasi 
+maksimum obat yang terdapat dalam darah. 
+6.	
+Perhatikan tabel di bawah ini yang menunjukkan hubungan antara 
+harga jual sebuah pulpen dengan jumlah pulpen yang terjual. 
+x
+y
+169
+
+ 
+169
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Harga Satu Pulpen (p)
+Jumlah Pulpen yang Terjual (J(p))
+3000 rupiah
+ 2000
+2700 rupiah
+ 1800
+2400 rupiah
+ 1600
+Biaya pembuatan satu pulpen ialah Rp2.000,00. Tentukan:
+a.	
+fungsi J(p) yang menyatakan hubungan antara harga sebuah pulpen 
+dengan penjualan sejumlah pulpen, 
+b.	
+fungsi keuntungan yang merupakan selisih dari harga penjualan 
+dengan biaya pembuatan sejumlah pulpen, dan 
+c.	
+harga jual sebuah pulpen untuk mendapatkan keuntungan terbesar.
+7.	
+Dari grafik berikut, yang manakah yang merupakan grafik fungsi 
+kuadrat?
+a.	
+
+170
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+170
+b.	
+c.	
+171
+
+ 
+171
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+d.	
+e.	
+
+172
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+172
+f.	
+g.	
+173
+
+ 
+173
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+h.	
+i.	
+
+174
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+174
+j.	
+8.	
+Gambarkan grafik fungsi 
+ 
+a.	
+Tentukan titik potong grafik dengan sumbu x.
+b.	
+Tentukan titik potong grafik dengan sumbu y.
+c.	
+Tentukan sumbu simetrinya.
+d.	
+Apakah fungsi ini memiliki nilai maksimum atau minimum? 
+Tentukan nilainya.
+9.	
+Bola dilemparkan ke atas dari tanah dengan kecepatan tertentu 
+sehingga  ketinggian yang  dicapai merupakan fungsi dari waktu, 
+. 
+Berapa ketinggian maksimum yang dicapai oleh bola?
+10.	 Pendapatan dari hasil penjualan barang 
+ ditentukan oleh jumlah 
+barang yang diproduksi . 
+ . Tentukan 
+pendapatan maksimal atau optimal dan jumlah barang yang bersesuaian 
+dengannya.
+175
+
+ 
+175
+
+ Bab 5 | Persamaan dan Fungsi Kuadrat
+Pengayaan	
+Persamaan Kuadrat Berpangkat
+Carilah semua solusi real dari persamaan berikut: 
+(x2 −5x + 5)(x2−11x+30) = 1
+Ada enam kemungkinan solusi untuk 
+persamaan tersebut. Apakah kamu dapat 
+menemukan keenam solusinya?
+Berikut ini beberapa permasalahan untuk 
+diselesaikan: 
+1.	
+Carilah semua solusi untuk 
+(x2 −7x + 11)(x2−13x+42) = 1. Bagaimana solusi 
+ini dibandingkan dengan persamaan yang pertama?
+2.	
+Dapatkah kamu menentukan sebuah persamaan kuadrat berpangkat 
+dengan solusi 3, 4, 5, 6, 7, 8? Bagaimana dengan 4, 5, 6, 7, 8, 9?
+3.	
+Jelaskan mengapa hanya ada 4 solusi untuk (x2 −5x + 5)(x2−4) = 1?
+4.	
+Jelaskan mengapa hanya ada 3 solusi untuk (x2 −6x + 10)(x2+x−2) = 1?
+5.	
+Dapatkah kamu menentukan sebuah persamaan kuadrat berpangkat 
+dengan tepat 2 solusi? 5 solusi?
+Sumber: https://nrich.maths.org/11009
+Refleksi 	
+Pertanyaan Asesmen Diri
+Bisa
+Perlu 
+Bantuan
+Belum 
+Bisa
+1.	
+Saya bisa mengidentifikasi 
+persamaan kuadrat.
+2.	
+Saya bisa merumuskan  
+masalah sehari-hari dalam 
+bentuk persamaan kuadrat.
+3.	
+Saya bisa menyelesaikan 
+persamaan kuadrat dengan cara 
+faktorisasi.
+Untuk persamaan bilangan 
+berpangkat ab = 1, nilai a 
+dan b apa yang memenuhi 
+persamaan tersebut?  
+Jika a = 1, maka apa 
+kemungkinan nilai b?  
+Jika a = −1, maka apa 
+kemungkinan nilai b?  
+Jika a = 2, maka b harus 
+memiliki nilai apa?
+Petunjuk
+i
+
+176
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+176
+Pertanyaan Asesmen Diri
+Bisa
+Perlu 
+Bantuan
+Belum 
+Bisa
+4.	
+Saya bisa menyelesaikan 
+persamaan kuadrat dengan cara 
+melengkapi kuadrat sempurna.
+5.	
+Saya bisa menyelesaikan 
+persamaan kuadrat dengan 
+cara menggunakan rumus 
+persamaan kuadrat.
+6.	
+Saya bisa mengidentifikasi jenis-
+jenis solusi persamaan kuadrat 
+berdasarkan nilai diskriminan.
+7.	
+Saya bisa menggambar grafik 
+fungsi kuadrat.
+8.	
+Saya bisa menjelaskan 
+karakteristik fungsi kuadrat 
+apakah terbuka ke atas atau ke 
+bawah, apakah mempunyai titik 
+potong dengan sumbu -x atau 
+tidak, apakah mempunyai titik 
+maksimum atau titik minimum.
+9.	
+Saya bisa menyelesaikan 
+soal-soal fungsi kuadrat 
+yang berkaitan dengan titik 
+maksimum atau titik minimum 
+dan titik potong dengan 
+sumbu-x.
+10.	 Saya bisa mengkonstruksi 
+fungsi kuadrat.

@@ -1,0 +1,1788 @@
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+1
+Bab
+I
+Sistem Pengukuran
+dalam Kerja Ilmiah
+  Berbagai macam alat ukur biasa dijumpai dalam kehidupan sehari-
+hari. Mengapa pengetahuan tentang alat ukur penting untuk dikuasai? 
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2023
+Ilmu Pengetahuan Alam untuk SMA/MA Kelas X (Edisi Revisi)
+Penulis : Niken Resminingpuri Krisdianti, Elizabeth Tjahjadarmawan, 
+Ayuk Ratna Puspaningsih
+ISBN 
+: 978-623-118-461-0 (jil.1 PDF)
+Sumber: freepik/freepik.com (2023)
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+2
+Setelah mempelajari bab ini, kalian dapat mengklasiikasikan macam-macam alat 
+ukur berdasarkan besaran yang diukur, mengukur dengan menggunakan alat ukur 
+yang sesuai, melakukan pengolahan data hasil pengukuran dengan menggunakan 
+aturan angka penting, menuliskan hasil pengukuran dengan menggunakan aturan 
+penulisan notasi ilmiah dan satuan yang sesuai, menentukan nilai ketidakpastian 
+pada pengukuran berulang, serta merancang percobaan untuk menyelidiki suatu 
+kasus terkait pengukuran.
+Tujuan Pembelajaran
+Peta Konsep
+PENGUKURAN
+menggunakan
+menghasilkan
+memiliki
+Faktor-Faktor 
+Kesalahan 
+Pengukuran
+dapat mengalami
+didapatkan 
+dari proses
+memberi 
+informasi
+memberi 
+informasi
+jenis-jenis
+Pengukuran 
+Tunggal
+Satuan
+Aturan Angka 
+Penting
+Besaran Turunan
+Nilai 
+Ketidakpastian 
+Tunggal
+Alat Ukur Suhu
+Non-SI
+Rata-Rata Data 
+Pengukuran
+Dimensi
+Komponen Alat 
+Ukur
+Alat Ukur 
+Panjang
+Pengukuran 
+Berulang
+Besaran
+Data Pengukuran
+Alat Ukur
+Nilai Skala 
+Terkecil
+Besaran Pokok
+Nilai Skala 
+Terkecil
+Alat Ukur Massa
+Satuan 
+Internasional (SI)
+Cara Mengukur
+Alat Ukur Volume
+Alat Ukur 
+Besaran Lain
+pengolahan 
+data
+terdiri atas
+terdiri atas
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+3
+Diberitakan di kompas.com, 27 Maret 
+2021, dengan judul berita "Ban Truk yang 
+Lepas Tiba-tiba Biasanya akibat Baut 
+Longgar", menyebutkan truk bermuatan 
+kayu gelondongan mengalami insiden 
+roda lepas di wilayah Lasem, Jawa 
+Tengah (Gambar 1.1). Roda truk dapat 
+terlepas akibat baut dan mur pada pelek 
+roda longgar, atau dapat disebabkan 
+juga karena baut pelek patah. Kasus 
+patah baut roda truk seperti ini telah 
+banyak terjadi di Indonesia. Hal ini 
+dapat disebabkan oleh banyak faktor, seperti muatan truk me lebihi kapasitas 
+maksimum, ukuran mur dan baut yang tidak sesuai, dan penggunaan baut 
+dengan material bahan yang tidak sesuai.
+Gambar 1.2 Baut Roda Truk
+Sumber: Logga Wiggler/pixabay.com (2011)
+Kritisilah kejadian patah baut roda truk di atas. Bagaimana cara memastikan 
+ukuran baut sudah sesuai dengan murnya? Bagaimana cara memastikan 
+material bahan mur dan baut sudah benar? Bagaimana pengetahuan mengenai 
+pengukuran dapat mencegah kejadian tersebut terulang kembali? Semua jawaban 
+ini dapat kalian ketahui dengan menelusuri bab ini.
+Gambar 1.1 Tangkapan layar kasus 
+kecelakaan lalu lintas yang terjadi di Lasem, 
+Jawa tengah.
+Sumber: Zacky Wahyudhi/otomotif.kompas.com (2021)
+• alat ukur
+• angka penting
+• besaran
+• ketidakpastian pengukuran
+• satuan
+Kata 
+Kunci
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+4
+A. Macam-Macam Alat Ukur
+Coba kalian amati Gambar 1.3. Tentu kalian tidak asing dengan aktivitas tersebut, 
+bukan? Apa pun bidang pekerjaannya, aktivitas yang dilakukan masyarakat dalam 
+kehidupan sehari-hari tidak lepas dari kegiatan pengukuran. Oleh karena itu, 
+penting bagi kalian untuk dapat memahami tentang prinsip-prinsip pengukuran.
+(a)
+(b)
+(c)
+Gambar 1.3 Kegiatan Pengukuran dalam Kehidupan Sehari-hari
+Sumber: (a) Andi Sahrial/dinkes.surabaya.go.id (2017) (b) Kukuh Kurniawan/tribunjatim.com (2018) (c) Ono Kosuki/pexels.
+com (2020)
+Tentu kalian pernah melakukan pengukuran, bukan? Pahamkah kalian, 
+apa itu pengukuran? Ketika kalian sedang mengukur suatu benda yang 
+ukurannya tidak diketahui dengan menggunakan alat ukur, artinya kalian 
+sedang membandingkan ukuran suatu benda yang belum diketahui ukurannya 
+dengan alat yang dianggap sebagai ukuran standar.
+Terdapat banyak sekali alat ukur yang dapat kalian jumpai dalam kehidupan 
+sehari-hari. Penggunaan alat ukur tersebut tergantung pada apa yang ingin 
+diukur. Seberapa luas wawasan kalian mengenai alat ukur dan penggunaannya? 
+Mari uji wawasan kalian dengan Aktivitas 1.1.
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+5
+Coba kalian perhatikan Gambar 1.4.
+  
+Isilah tabel berikut ini sesuai dengan pengetahuan kalian!
+No.
+Nama Alat Ukur
+Penggunaan dalam Kehidupan Sehari-hari
+1.
+2.
+3.
+4.
+....
+Gambar 1.4 Macam-Macam Alat Ukur
+Sumber: (a) Charlote Johnson/sciencing.com (2017), (b) freepik/freepik.com, (c) pixabay/pexels.com (2016), 
+(d) Adriano Gadini/pixabay.com (2015), (e) Nekhil R/unsplash.com (2021), (f) Tima Miroshnichenko/
+pexels.com, (g) Steve Buissinne (Stevepb)/pixabay.com (2014), (h) Mike Bird/pexels.com (2018), (i) Dmitriy 
+(ds_30)/pixabay.com (2020)
+Aktivitas 1.1
+Ayo Mengamati
+(a)
+(d)
+(g)
+(b)
+(e)
+(h)
+(c)
+(f)
+(i)
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+6
+B. Besaran, Satuan, dan Dimensi
+Tentu kalian sudah terbiasa melakukan pengu kuran dengan menggunakan 
+penggaris, bukan? Bacalah hasil pengukuran pada ilustrasi di samping. Berapakah 
+panjang kertas tersebut? Sebutkan dua komponen dari hasil pengukuran ini! 
+Berikut ini merupakan ulasan mengenai komponen hasil pengukuran.
+Gambar 1.5 Pengukuran panjang kertas menggunakan penggaris.
+1. Besaran
+“Besar” yang didapatkan dari hasil pengukuran berkaitan dengan suatu besaran. 
+Pada Gambar 1.5, sesuatu yang diukur itu adalah panjang. Besaran merupakan 
+sesuatu yang akan diukur. Besaran terdiri atas besaran pokok dan besaran 
+turunan. Besaran pokok merupakan besaran dasar yang satuannya sudah 
+ditetapkan. Besaran turunan merupakan besaran yang satuannya tersusun dari 
+beberapa satuan besaran pokok.
+2. Satuan
+Satuan merupakan ukuran yang menjadi acuan dari suatu besaran. Terdapat 
+beberapa sistem satuan yang digunakan di dunia, yaitu sistem FPS (feet, pound, 
+second), CGS (sentimeter, gram, sekon), dan MKS (meter, kilogram, sekon). 
+Beberapa negara memiliki kebiasaannya masing-masing dalam penggunaan 
+sistem satuan. Oleh karena itu, masyarakat ilmiah bersama-sama membuat 
+kesepakatan tentang satu sistem satuan baku yang digunakan secara universal. 
+Satuan tersebut adalah satuan internasional, dalam bahasa aslinya Systeme 
+International D’ Unites, atau disingkat SI. Kalian dapat melihat beberapa contoh 
+satuan SI dari besaran pokok pada Tabel 1.1 dan besaran turunan pada Tabel 1.2.
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+7
+Tabel 1.1 Besaran, Satuan SI, dan Dimensi dari Besaran-Besaran Pokok
+No.
+Nama Besaran
+Lambang 
+Besaran
+Satuan SI
+Dimensi
+1.
+Panjang
+l
+meter (m)
+[L]
+2.
+Massa
+m
+kilogram (kg)
+[M]
+3.
+Waktu
+t
+sekon (s)
+[T]
+4.
+Kuat arus listrik
+i
+ampere (A)
+[I]
+5.
+Suhu mutlak
+T
+kelvin (K)
+[θ]
+6.
+Intensitas cahaya
+I
+candela (Cd)
+[J]
+7.
+Jumlah zat
+n
+mol (mol)
+[N]
+Tabel 1.2 Besaran, Satuan SI, dan Dimensi dari Beberapa Besaran Turunan
+No.
+Nama Besaran
+Lambang Besaran 
+dan Rumusnya
+Satuan SI
+Dimensi
+1.
+Luas
+A = p × l
+m2
+ [L]2
+2.
+Volume
+V = p × l × t
+m3
+[L]3
+3.
+Massa jenis
+ 
+m
+V
+ 
+kg/m3
+[M][L]–3
+4.
+Kecepatan
+v
+s
+t
+m/s
+[L][T]–1
+5.
+Percepatan
+ 
+v
+a
+t
+
+ 
+m/s2
+[L][T]–2
+6.
+Gaya
+F = m × a
+newton (N)
+[M][L][T]–2
+7.
+Usaha
+W = F × Δs
+joule (J)
+[M][L]2[T]–2
+8.
+Daya
+ 
+W
+P
+t
+
+watt (W)
+[M][L]2[T]–3
+Fisika mempelajari objek dengan berbagai ukuran, mulai dari benda 
+berukuran sangat kecil hingga sangat besar. Tidak hanya itu, dasar pemahaman 
+tentang pengukuran juga bermanfaat untuk mengidentiikasi ciri isis suatu 
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+8
+objek di bidang pengetahuan lainnya. Misalnya pada bidang kimia, elektron 
+merupakan salah satu penyusun atom. Dalam keadaan diam, elektron memiliki 
+massa yang sangat kecil, yaitu sebesar 0,000000000000000000000000000000911 
+kg. Untuk memudahkan penulisan, nilai massa elektron diam dapat dituliskan 
+dalam bentuk notasi ilmiah, yaitu 9,11 × 10-31 kg. Notasi ilmiah merupakan cara 
+penulisan angka berupa bilangan sepuluh berpangkat untuk mengakomodasi 
+penulisan angka yang sangat kecil dan angka yang sangat besar. Contoh lainnya 
+pada bidang biologi, virus Covid-19 berdiameter sangat kecil, yaitu berkisar 0,1 
+mikrometer. Satu mikrometer setara dengan 1/1.000.000 meter. Mikro, pada 
+satuan ukuran virus Covid-19, merupakan salah satu contoh awalan satuan. 
+Awalan satuan merupakan preiks (awalan) yang bermakna sebagai pangkat 
+n dari sepuluh satuan tertentu. 
+Tabel 1.3 Berbagai Awalan Satuan pada Sistem Metrik dalam SI 
+Kelipatan
+Awalan 
+Satuan
+Singkatan 
+Awalan 
+Satuan
+Kelipatan
+Awalan 
+Satuan
+Singkatan 
+Awalan 
+Satuan
+101
+deka
+da
+10–1
+desi
+d
+102
+hekto
+ha
+10–2
+senti
+c
+103
+kilo
+k
+10–3
+mili
+m
+106
+mega
+M
+10–6
+mikro
+µ
+109
+giga
+G
+10–9
+nano
+n
+1012
+tera
+T
+10–12
+piko
+p
+1015
+peta
+P
+10–15
+femto
+f
+1018
+eksa
+E
+10–18
+atto
+a
+1021
+zetta
+Z
+10–21
+zepto
+z
+1024
+yotta
+Y
+10–24
+yocto
+y
+3. Dimensi
+Dimensi merupakan cara suatu besaran turunan disusun berdasarkan besaran 
+pokoknya. Suatu besaran turunan dapat dinyatakan dalam susunan beberapa 
+besaran pokok yang dapat diketahui dengan melakukan analisis dimensi. Dimensi 
+dari besaran pokok berupa lambang yang ditulis dengan kurung siku dan huruf 
+kapital tertentu seperti yang ditunjukkan pada Tabel 1.1.
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+9
+Bagaimana pengetahuan mengenai konsep besaran, satuan, dan dimensi 
+ini digunakan? Mari kerjakan Aktivitas 1.2.
+1. 
+Kalian sudah mendapatkan pengetahuan mengenai besaran, satuan, 
+dan dimensi. Perhatikan kembali Gambar 1.4, kemudian isilah tabel 
+berikut ini!
+No.
+Nama Alat 
+Ukur
+Besaran 
+yang 
+Diukur
+Jenis 
+Besaran*
+Satuan 
+pada 
+Alat
+Satuan 
+dalam SI
+Dimensi
+1.
+2.
+3.
+4.
+....
+* Isilah dengan besaran pokok atau besaran turunan.
+2. 
+Perhatikanlah Gambar 1.3(a) dan (b). Alat ukur pada kedua gambar 
+tersebut mengukur besaran yang sama. Lihat pula tabel pada soal 
+nomor 1, terdapat alat ukur yang memiliki dimensi yang sama. Jelaskan 
+pendapatmu, mengapa harus ada kedua alat ukur yang berbeda untuk 
+besaran yang sama?
+Baut dan mur berfungsi untuk menya-
+tukan dua komponen alat secara tidak 
+permanen, sehingga ketika dua komponen 
+alat tersebut perlu dipisahkan maka dapat 
+mudah dipisahkan tanpa mengalami 
+kerusakan. Biasanya sebelum dipasangkan, 
+baut dan mur ini diukur terlebih dahulu 
+untuk memastikan ukurannya sesuai dengan 
+komponen-komponen alat agar komponen alat 
+tidak mengalami kerusakan saat digunakan.
+Gambar 1.6 Baut dan Mur
+Sumber: Amol Sharma (CompileIdeas)/pixabay.com 
+Aktivitas 1.2
+Ayo Identiikasi
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+10
+(2022)Alat ukur apa yang dapat digunakan untuk mengukur besaran-besaran 
+isis baut dan mur? Bagaimana cara mengukurnya? Mari telusuri bersama 
+pada Aktivitas 1.3. 
+Untuk memilih alat ukur yang digunakan dalam kegiatan pengukuran, kalian 
+perlu mempertimbangkan besaran apa yang diukur. Pada kasus ini, kalian 
+harus memilih alat ukur yang cocok untuk mengukur besaran-besaran 
+baut. Untuk itu, kalian perlu mengetahui cara mengukur menggunakan 
+alat-alat ukur berikut.
+1. Jangka Sorong
+Carilah informasi mengenai hal-hal berikut.
+a. 
+Bagian-bagian jangka sorong 
+Gambar 1.7 Jangka Sorong
+Sumber: Wahyu Noveriyanto/Kemendikbudristek (2021)
+Tuliskanlah nama bagian-bagian jangka sorong beserta fungsinya!
+b. Nilai skala terkecil pada alat ukur
+Perhatikan kembali Gambar 1.7. Pada alat ukur jangka sorong terdapat 
+dua skala. Skala yang letaknya di atas (nomor 4) disebut skala utama. 
+Skala utama merupakan skala yang bernilai cm pada alat ukur tersebut. 
+Sementara skala yang letaknya di bawah (nomor 6) disebut skala nonius. 
+Skala nonius merupakan skala mm.
+Amatilah jangka sorong pada Gambar 1.7, kemudian tentukanlah nilai 
+skala terkecil dari skala utama dan skala nonius!
+Aktivitas 1.3
+Ayo Cari Tahu
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+11
+c. 
+Nilai ketidakpastian untuk sekali pengukuran
+Setiap pengukuran selalu ada kemungkinan terjadinya ketidaktelitian. 
+Oleh karena itu, terdapat nilai yang menyatakan kemungkinan error dari 
+kegiatan pengukuran, yaitu nilai ketidakpastian. Nilai ketidakpastian 
+untuk sekali pengukuran dapat ditentukan dengan persamaan 
+matematika:
+ 
+1
+2
+nilai skala terkecil
+x
+
+
+
+          (1.1)
+Tentukanlah nilai ketidakpastian untuk pengukuran tunggal meng-
+gunakan jangka sorong!
+d. Cara mengukur menggunakan jangka sorong
+Tuliskanlah langkah-langkah pengukuran suatu benda menggunakan 
+jangka sorong!
+e. 
+Membaca pengukuran jangka sorong
+Kalian telah mengidentiikasi alat ukur jangka sorong. Bagaimana cara 
+membaca hasil pengukuran menggunakan jangka sorong? Berikut ini 
+merupakan langkah-langkah membaca hasil pengukuran jangka sorong.
+Gambar 1.8 Pengukuran dengan Menggunakan Jangka Sorong
+Gambar 1.9 Membaca Skala Utama Jangka Sorong
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+12
+Perhatikan Gambar 1.8 dan Gambar 1.9 yang merupakan perbesaran 
+dari Gambar 1.8. 
+Langkah pertama, membaca skala utama. Skala bagian atas jangka 
+sorong merupakan skala utama. Selain angka nol pada skala utama, 
+acuan pembacaan ukuran skala utama adalah angka nol skala nonius 
+seperti ditunjukkan pada Gambar 1.9.
+Satu skala yang tepat berada di belakang nol skala nonius merupakan 
+hasil pembacaan skala utama. Pada Gambar 1.9, skala utama yang 
+terbaca dari hasil pengukuran tersebut adalah 3,700 cm.
+Gambar 1.10 Membaca Skala Nonius Jangka Sorong 
+Langkah kedua, membaca skala nonius. Skala nonius yang garisnya 
+berimpit dengan skala utamanya merupakan hasil pembacaan skala 
+noniusnya seperti yang ditunjukkan pada Gambar 1.10. Skala nonius 
+yang terbaca pada hasil pengukuran tersebut adalah 5,5. Kemudian, 
+hasil pembacaan skala nonius dikalikan 0,01 cm, sehingga didapatkan 
+skala nonius dari pengukuran tersebut adalah 0,055 cm.
+Langkah ketiga, menjumlahkan hasil pembacaan skala utama dengan 
+skala nonius. Hasil penjumlahan skala utama dan skala nonius 
+pengukuran dengan jangka sorong pada Gambar 1.8 adalah 3,755 cm 
+dengan nilai ketidakpastian alat ukur jangka sorong ini sebesar 0,005 
+cm, sehingga hasil pengukurannya adalah (3,755 ± 0,005) cm.
+Coba tentukan hasil pengukuran diameter benda yang ditunjukkan 
+oleh Gambar 1.11 berikut ini!
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+13
+Gambar 1.11 Membaca Alat Ukur Jangka Sorong
+Sumber: Wahyu Noveriyanto/Kemendikbudristek (2021)
+f. 
+Menuliskan hasil pengukuran 
+Cara penulisan hasil pengukuran beserta nilai ketidakpastian dari 
+suatu kegiatan pengukuran adalah sebagai berikut.
+ x
+x
+           (1.2)
+Tuliskanlah hasil pengukuran pada Gambar 1.11 sesuai dengan aturan 
+penulisan di atas!
+2. Mikrometer Sekrup
+Carilah informasi mengenai hal-hal berikut.
+a. 
+Bagian-bagian mikrometer sekrup
+Gambar 1.12 Bagian-Bagian Mikrometer Sekrup
+Sumber: Wahyu Noveriyanto/Kemendikbudristek (2021)
+Tuliskanlah nama komponen-komponen pada mikrometer sekrup 
+beserta fungsinya!
+Skala utama
+= .....
+Skala nonius
+= ..... × 0,01
+= .....
+Hasil pengukuran
+= .....
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+14
+b. Nilai skala terkecil pada alat ukur
+Perhatikan kembali Gambar 1.12. Alat ukur mikrometer sekrup juga 
+memiliki dua skala. Skala yang letaknya di kiri dan arah pembacaannya 
+horizontal (nomor 5) disebut skala utama. Skala utama merupakan 
+skala yang bernilai 1 mm pada alat ukur tersebut. Sementara skala yang 
+letaknya di kanan dan arah pembacaannya vertikal (nomor 6) disebut 
+skala nonius. Skala nonius merupakan skala yang bernilai 0,01 mm.
+Amatilah mikrometer sekrup pada Gambar 1.12, kemudian tentukan lah 
+nilai skala terkecil dari skala utama dan skala noniusnya!
+c. 
+Nilai ketidakpastian untuk sekali pengukuran
+Kalian sudah mengetahui cara menentukan nilai ketidakpastian 
+untuk sekali pengukuran menggunakan jangka sorong pada aktivitas 
+sebelumnya. Sekarang, coba kalian tentukan nilai ketidakpastian untuk 
+pengukuran tunggal menggunakan mikrometer sekrup!
+d. Cara mengukur menggunakan mikrometer sekrup
+Tuliskanlah langkah-langkah pengukuran suatu benda menggunakan 
+mikrometer sekrup!
+e. 
+Membaca pengukuran mikrometer sekrup
+Perhatikan Gambar 1.13 dan Gambar 1.14 yang merupakan perbesaran 
+dari Gambar 1.13. 
+Gambar 1.13 Pengukuran dengan Menggunakan Mikrometer Sekrup
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+15
+Gambar 1.14 Membaca Skala Utama Mikrometer Sekrup
+Langkah pertama, membaca skala utama. Skala pada selubung dalam 
+merupakan skala utama. Garis vertikal ujung selubung luar, seperti 
+yang ditunjukkan pada Gambar 1.14, adalah patokan atau acuan 
+pembacaan skala utama.
+Satu skala yang tepat berada di garis vertikal ujung selubung luar 
+merupakan hasil pembacaan skala utama. Pada Gambar 1.14, skala 
+utama yang terbaca dari hasil pengukuran adalah 16,50 mm.
+Gambar 1.15 Membaca Skala Nonius Mikrometer Sekrup 
+Langkah kedua, membaca skala nonius. Skala nonius yang garisnya 
+sejajar dengan skala utamanya merupakan hasil pembacaan skala 
+noniusnya, seperti ditunjukkan pada Gambar 1.15. Skala nonius yang 
+terbaca pada hasil pengukuran tersebut adalah 44. Kemudian, hasil 
+pembacaan skala nonius dikalikan 0,01 mm, sehingga didapatkan skala 
+nonius dari pengukuran tersebut adalah 0,44 mm.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+16
+Langkah ketiga, menjumlahkan hasil pembacaan skala utama dengan 
+skala nonius. Hasil penjumlahan skala utama dan skala nonius 
+pengukuran dengan mikrometer sekrup pada Gambar 1.13 adalah 16,94 
+mm dengan nilai ketidakpastian alat ukur jangka sorong ini sebesar 
+0,01 mm, sehingga hasil pengukurannya adalah (16,94 ± 0,01) cm.
+Coba tentukan hasil pengukuran diameter benda yang ditunjukkan 
+oleh Gambar 1.16 berikut ini!
+Gambar 1.16 Membaca Alat Ukur Mikrometer Sekrup
+Sumber: Wahyu Noveriyanto/Kemendikbudristek (2021)
+Skala utama
+= .....
+Skala nonius
+= ..... × 0,01
+= .....
+Hasil pengukuran
+= .....
+f. 
+Menuliskan hasil pengukuran
+Tuliskanlah hasil pengukuran mikrometer sekrup sesuai dengan aturan 
+cara penulisan hasil pengukuran pada persamaan 1.2!
+3. Neraca Massa
+Massa adalah jumlah materi yang terkandung dalam suatu zat tanpa 
+dipengaruhi gravitasi bumi. Untuk mengukur massa zat digunakan 
+alat yang disebut neraca. Neraca yang umum digunakan adalah neraca 
+digital dan neraca nondigital. 
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+17
+Carilah informasi tentang hal-hal berikut.
+a. 
+Bagian-bagian neraca empat lengan sebagai neraca nondigital
+Gambar 1.17 Bagian-Bagian Neraca Empat Lengan
+Tuliskanlah nama komponen-komponen neraca empat lengan beserta 
+fungsinya!
+b. Nilai skala terkecil pada neraca empat lengan
+Tentukanlah nilai skala terkecil dari neraca empat lengan!
+c. 
+Nilai ketidakpastian untuk sekali pengukuran
+Tentukanlah nilai ketidakpastian untuk pengukuran tunggal meng-
+gunakan neraca empat lengan!
+d. Cara mengukur menggunakan neraca empat lengan
+Tuliskanlah langkah-langkah untuk mengukur massa benda meng-
+gunakan neraca empat lengan.
+e. 
+Membaca pengukuran neraca empat lengan
+Hasil pengukuran massa suatu benda dengan menggunakan neraca 
+empat lengan dapat dilihat pada skala-skala yang ditunjukkan pada 
+keempat lengannya.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+18
+Gambar 1.18 Membaca alat ukur neraca empat lengan
+Berdasarkan Gambar 1.18, tentukan hasil pengukurannya!
+Lengan
+Hasil Pembacaan Ukuran (gram)
+Lengan Pertama
+Lengan Kedua
+Lengan Ketiga
+Lengan Keempat
+Hasil Pengukuran total
+f. 
+Menuliskan hasil pengukuran
+Tuliskanlah hasil pengukuran neraca empat lengan sesuai dengan 
+aturan cara penulisan pada persamaan 1.2!
+g. 
+Neraca digital
+Kalian telah melakukan eksplorasi alat ukur massa neraca empat lengan, 
+namun dalam kehidupan sehari-hari kalian lebih sering menjumpai 
+neraca digital. Untuk mengenal lebih jauh mengenai neraca digital, 
+jawablah pertanyaan berikut ini!
+1. 
+Mengapa neraca digital lebih banyak digunakan dalam masyarakat 
+dibandingkan neraca nondigital?
+2. 
+Terdapat bermacam-macam neraca digital berdasarkan objek yang 
+diukur. Carilah satu contoh neraca digital di internet dan buatlah 
+deskripsi tentang batas bawah pengukuran, batas atas pengukuran, 
+dan nilai ketidakpastian alat ukur tersebut!
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+19
+Fakta Sains
+3. 
+Apa kekurangan dari neraca digital?
+4. 
+Bagaimana langkah-langkah mengukur dengan menggunakan 
+neraca digital?
+Alat Ukur Suhu
+Suhu merupakan ukuran intensitas panas atau dinginnya suatu benda. Alat 
+ukur suhu adalah termometer. Dalam kehidupan sehari-hari, termometer 
+dapat ditemukan dalam beragam jenis, 
+bergantung bahan atau skala suhunya. Jenis 
+termometer yang umum dijumpai adalah 
+termometer analog (termometer raksa atau 
+alkohol). Termometer raksa atau alkohol 
+berupa tabung kaca dengan rongga kolom 
+cairan yang sempit dan tertutup. Pada 
+termometer raksa atau alkohol, terdapat 
+bulb berisi raksa atau alkohol pada salah 
+satu ujung tabung. Alkohol atau raksa dapat 
+memuai dan menyusut di dalam tabung 
+apabila terjadi perubahan suhu pada benda 
+yang diukur. Penyusutan dan pemuaian 
+raksa atau alkohol mengisi kolom tabung 
+termometer dideinisikan dalam bentuk 
+skala angka, sehingga perubahan suhu 
+dapat terukur secara kuantitatif. 
+Gambar 1.19 Perbandingan Skala 
+Termometer Celcius, Kelvin, dan 
+Fahrenheit
+Skala termometer yang banyak digunakan adalah celsius. Skala yang 
+ditetapkan sebagai satuan standar internasional untuk besaran suhu adalah 
+kelvin. Skala lainnya adalah reamur dan fahrenheit.
+Termometer dapat digunakan untuk berbagai keperluan pengukuran 
+suhu, misalnya termometer klinis untuk mengukur suhu tubuh dan 
+termometer laboratorium. Termometer klinis dapat berupa termometer 
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+20
+analog dan digital. Termometer klinis mempunyai skala suhu antara 32–42oC. 
+Bagaimana dengan termometer laboratorium? Termometer laboratorium 
+digunakan untuk mengukur suhu larutan dengan skala umumnya –10 
+sampai 150oC.
+(a)
+(b)
+(c)
+Gambar 1.20 Macam-macam termometer berdasarkan kegunaannya: (a) termometer 
+klinis analog, (b) termometer klinis digital, dan (c) termometer laboratorium.
+Sumber: (a) PublicDomainPictures/pixabay.com (2010), (b) 4595544/pixabay.com (2018), (c) Sophie Bradford (bs2sjh)/
+pixabay.com (2016)
+Alat Ukur Volume
+Dalam bidang ilmu pengetahuan alam, terdapat banyak alternatif alat ukur 
+volume yang dapat digunakan bergantung pada zat yang diukur. Berikut 
+ini beberapa contohnya.
+1. 
+Silinder Ukur
+Silinder ukur digunakan dengan cara mengisi cairan sebanyak volume 
+yang diinginkan. Ada beberapa batas atas ukuran pada silinder ukur, mulai 
+dari 10 ml, 50 ml, 100 ml, 250 ml, 500 ml, 1.000 ml, dan 2.000 ml. Perlu 
+diperhatikan, volume cairan dilihat dari skala yang berimpit pada bagian 
+cekung (meniskus) permukaan cairan.
+2. 
+Pipet Volumetrik
+Alat ukur ini digunakan untuk mengukur volume cairan pada skala 0,1 
+ml.  Untuk mengambil cairan digunakan pompa karet yang disebut bulp.
+Fakta Sains
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+21
+3. 
+Labu Ukur
+Labu ukur terbuat dari kaca yang memiliki kapasitas tertentu misalnya 10 
+ml, 50 ml, 100 ml, 250 ml, 500 ml, 1.000 ml, dan 2.000 ml. Terdapat tanda garis 
+pada leher labu yang menunjukkan batas volume cairan. Cara membaca 
+batas cairan ini adalah pada batas cekungan (meniskus) yang merupakan 
+bagian atas permukaan cairan.
+4. 
+Piknometer
+Alat untuk mengukur massa jenis larutan salah satunya adalah piknometer. 
+Alat ini terbuat dari kaca, memiliki tutup, dan mempunyai kapasitas volume 
+tertentu, misalnya 25 ml. Cara kerjanya adalah piknometer kosong beserta 
+tutup ditimbang lalu dicatat massanya. Piknometer diisi cairan yang akan 
+diukur massa jenisnya sampai penuh lalu ditutup. Volume cairan ini adalah 
+25 ml. Untuk menentukan massa cairan, piknometer berisi cairan dan 
+tutupnya ditimbang kembali. Selisih massa piknometer bertutup dan berisi 
+cairan dikurangi massa piknometer bertutup dalam keadaan kosong adalah 
+massa cairan (gram). Dengan demikian, massa jenis adalah perbandingan 
+massa cairan (g) dibagi volume cairan (cm3). Satuan yang umum digunakan 
+adalah g/cm3, g/ml, atau kg/m3.
+(a)
+(b)
+(c)
+(e)
+Gambar 1.21 Macam-macam alat ukur 
+volume (a) silinder ukur, (b) labu ukur, 
+(c) piknometer, (d) pipet volumetrik
+Sumber: Elizabeth Tjahjadarmawan/Kemdikbudristek 
+(2023)
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+22
+Pada aktivitas sebelumnya, kalian sudah memahami beragam alat ukur. 
+Sekarang, coba kalian bandingkan penggunaan alat ukur panjang untuk 
+mengukur panjang dari beberapa benda di sekitar kalian.
+1. 
+Kalian akan mengukur satu benda yang sama dengan menggunakan 
+tiga alat ukur yang berbeda. Apakah hasil pengukurannya akan sama 
+atau berbeda? Jelaskanlah alasannya!
+2. 
+Salinlah dan isi tabel berikut ini sesuai dengan hasil pengukuran pada 
+buku latihan kalian.
+No.
+Besaran Benda yang 
+Diukur
+Mikrometer 
+Sekrup
+Jangka 
+Sorong
+Penggaris
+1.
+Diameter dalam tutup 
+botol
+2.
+Diameter luar tutup 
+botol
+3.
+Panjang botol
+4.
+Tebal buku tulis
+5.
+Lebar buku tulis
+6.
+Panjang buku tulis
+3. 
+Berdasarkan aktivitas yang kalian lakukan, adakah alat ukur yang tidak 
+sesuai dengan benda yang diukur? Besaran apa sajakah itu? Mengapa 
+bisa tidak sesuai?
+4. 
+Berdasarkan perbandingan hasil pengukuran yang kalian dapatkan, 
+alat ukur apa yang cocok untuk mengukur diameter baut? Seberapa 
+teliti pengukurannya? Jelaskan alasannya!
+C. Aturan Angka Penting
+Kalian sudah melakukan pengukuran diameter luar tutup botol pada Aktivitas 
+1.4. Coba tentukanlah luas permukaan lingkaran tutup botol tersebut dengan 
+menggunakan data diameter luarnya dan nyatakan hasilnya dalam satuan SI. 
+Aktivitas 1.4
+Ayo Identiikasi
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+23
+Kalian diperbolehkan menggunakan kalkulator, namun hasil yang ditunjukkan 
+pada kalkulator harus ditulis ulang, tidak boleh dibulatkan.
+Perhitungan yang kalian lakukan menghasilkan nilai desimal yang begitu 
+panjang. Tentu ini menjadi tidak praktis dalam penulisannya. Untuk itu, terdapat 
+beberapa aturan pembulatan yang telah disepakati, yaitu aturan angka penting. 
+Mengapa disebut angka penting? Apakah ada angka yang tidak penting? 
+Bagaimana aturan pembulatan angka penting pada operasi hitung? Untuk 
+memahami aturan angka penting, kalian perlu memahami angka penting dan 
+angka tidak penting.
+Tabel 1.4 Angka Penting dan Angka Tidak Penting 
+Angka Penting
+Angka Tidak Penting
+Semua angka bukan nol
+Contoh:
+3,25 cm ada 3 angka penting.
+125,5 g ada 4 angka penting.
+Angka nol di belakang angka bukan 
+nol tanpa tanda desimal
+Contoh: 
+1.000 m ada 1 angka penting; tiga angka 
+nol bukan angka penting.
+Angka nol yang berada di antara 
+angka bukan nol
+Contoh: 
+1,004 cm ada 4 angka penting.
+10,75 g ada 4 angka penting.
+Angka nol berada di depan tanda 
+desimal tanpa angka bukan nol
+Contoh: 
+0,0026 kg ada 2 angka penting; angka nol 
+di depan tanda desimal dan dua angka 
+nol di belakang tanda desimal juga 
+bukan angka penting.
+Angka di belakang tanda desimal dan 
+mengikuti angka bukan nol
+Contoh: 
+31,00 cm ada 4 angka penting.
+0,150 kg ada 3 angka penting.
+Angka nol di belakang angka nol yang 
+digarisbawahi
+Contoh: 
+400 cm ada 2 angka penting; angka nol 
+terakhir bukan angka penting.
+Angka nol berada di antara angka 
+bukan nol dan tanda desimal
+Contoh: 
+20,0 cm ada 3 angka penting.
+Notasi ilmiah atau notasi eksponen 
+bukan angka penting
+Contoh: 
+3,14 × 10–5 m ada 3 angka penting, 
+yaitu 3,14, sementara 10–5 bukan angka 
+penting.
+Angka nol yang diberi garis bawah dan 
+berada di belakang angka bukan nol
+Contoh: 
+400 cm ada 2 angka penting.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+24
+Jika seluruh angka hasil pengolahan data tidak ditulis seluruhnya, apa yang 
+perlu dilakukan? Berdasarkan aturan matematika, seluruh angka hasil operasi 
+matematika dapat dibulatkan. Bagaimana aturan pembulatan angka? 
+Pembulatan ke atas dilakukan apabila angka yang dibulatkan bernilai sama 
+dengan atau lebih dari 5. Contohnya 52,976686625 cm2 ingin dibulatkan hingga 
+4 angka penting, maka angka kelimanya perlu dibulatkan. Angka kelima dari 
+angka tersebut bernilai 6 (lebih dari lima), sehingga dilakukan pembulatan ke atas 
+dengan cara menambahkan 1 pada angka keempat. Jadi, hasil pembulatannya 
+adalah 52,98 cm2.
+Adapun pembulatan ke bawah dilakukan apabila angka yang dibulatkan 
+bernilai kurang dari 5. Contohnya 52,973376625 cm2 ingin dibulatkan hingga 4 
+angka penting, maka angka kelimanya perlu dibulatkan. Angka kelima dari angka 
+tersebut bernilai 3 (kurang dari lima), sehingga dilakukan pembulatan ke bawah 
+dengan cara menambahkan 0 pada angka keempat. Jadi, hasil pembulatannya 
+adalah 52,97 cm2. 
+1. Aturan Operasi Penjumlahan dan Pengurangan Angka Penting
+Setiap hasil pengukuran mengandung angka pasti dan angka taksiran (angka 
+tidak pasti). Angka pasti merupakan angka yang diberikan oleh alat ukur sesuai 
+dengan ketelitiannya. Angka taksiran dalam ilmu pengukuran disebut sebagai 
+error atau uncertainty merupakan angka terakhir hasil pengukuran yang ditaksir. 
+Contohnya hasil pengukuran dengan menggunakan jangka sorong adalah 4,23 
+cm. Angka pasti dari pengukuran tersebut adalah 4,2 cm, sementara 3 merupakan 
+angka taksiran. Angka taksiran biasanya diberi tanda garis bawah. 
+Contoh:
+Sebuah batang besi panjangnya diukur dengan menggunakan jangka sorong 
+sebesar 8,235 cm. Batang besi tersebut disambung dengan batang besi sepanjang 
+4,5 cm yang diukur dengan menggunakan penggaris. Berdasarkan aturan 
+operasi penjumlahan angka penting, panjang batang besi setelah disambung 
+dapat ditentukan dengan cara berikut.
+   8,235 cm
+  4,5     cm
+12,735 cm
++
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+25
+Hasil penjumlahan tidak boleh mengandung dua angka taksiran, sehingga 
+harus dilakukan pembulatan angka pada angka 3 agar angka taksiran hanya 
+menyisakan satu. Pembulatan dari hasil penjumlahan tersebut adalah 12,7 cm 
+dengan angka 7 sebagai angka taksiran.
+2. Aturan Operasi Perkalian dan Pembagian Angka Penting
+Pembulatan hasil operasi perkalian dan pembagian dalam pengolahan data 
+pengukuran dilakukan berdasarkan jumlah angka pentingnya. Banyaknya 
+angka penting dari hasil operasi perkalian dan pembagian harus sejumlah 
+angka penting terkecil dari hasil pengukuran. 
+Contoh 1:
+Selembar karton diukur dengan menggunakan jangka sorong memiliki lebar 
+12,455 cm. Sementara panjangnya diukur dengan menggunakan penggaris sebesar 
+35,2 cm. Karton tersebut berbentuk persegi panjang sehingga luas permukaannya 
+dapat ditentukan dengan cara mengalikan panjang dan lebarnya. Berdasarkan 
+aturan operasi perkalian angka penting, luas karton tersebut dapat ditentukan 
+dengan cara berikut.
+Langkah pertama, menentukan jumlah angka penting dari hasil pengukuran.
+12,455 cm merupakan 5 angka penting
+35,2 cm merupakan 3 angka penting
+Langkah kedua, membandingkan jumlah angka penting terkecil dari hasil 
+pengukuran. Panjang karton 35,2 cm memiliki angka penting lebih kecil daripada 
+lebar karton 12,455 cm, yaitu sebanyak 3 angka penting, sehingga hasil perkalian 
+harus dibulatkan hingga 3 angka penting.
+Langkah ketiga, mengalikan panjang dengan lebar karton. Hasil perkaliannya 
+adalah 438,416 cm2. 
+Langkah keempat, membulatkan hasil perkalian sejumlah angka penting 
+terkecil hasil pengukuran. Luas karton sebesar 438,416 cm2 memiliki 6 angka 
+penting. Hasil pembulatan hingga tiga angka penting adalah 438 cm2. 
+Contoh 2:
+Contoh aturan operasi perkalian angka penting lainnya adalah mencari luas 
+permukaan atas tutup botol berdiameter 3,12 cm yang diukur menggunakan 
+jangka sorong.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+26
+Luas permukaan tutup botol dapat dicari dengan cara:
+ 
+2
+1
+4
+1
+4
+7 641404
+2
+2
+Luas
+(3,14)(3,12)
+,
+ cm
+d
+
+
+
+
+Kemudian, tentukan jumlah angka penting dari hasil pengukuran diameter 
+tutup botol. Phi dan ¼ merupakan konstanta yang nilainya tetap sehingga angka 
+pentingnya tidak perlu dihitung.
+Diameter tutup botol adalah 3,12 cm, maka jumlah angka pentingnya adalah tiga.
+Lakukan pembulatan nilai luas permukaan atas tutup botol sampai sejumlah 
+angka penting, yaitu tiga angka penting.
+Luas = 7,641404 cm2 dibulatkan menjadi 7,64 cm2.
+Coba kalian lakukan kembali aturan pembulatan tersebut untuk menghitung 
+luas permukaan atas tutup botol pada kegiatan pengukuran sebelumnya. Tuliskan 
+langkah-langkahnya pada buku latihan kalian.
+Untuk memudahkan kalian dalam menuliskan hasil pengolahan data yang 
+angkanya sangat kecil atau sangat besar, kalian dapat menggunakan aturan 
+penulisan notasi ilmiah. Contohnya pada perhitungan luas permukaan atas 
+tutup botol sebelumnya, kalian mendapati luas sebesar 7,64 cm2. Nilai ini jika 
+dikonversikan dalam satuan m2 menjadi 0,0000764 m2. Hasil konversi ini dapat 
+dituliskan dalam aturan notasi ilmiah atau dinyatakan dalam 10 pangkat n 
+sebagai berikut.
+Luas = 0,0000764 m2 = 7,64 × 10–4 m2
+Catatan:
+Sebelum melakukan konversi satuan, nilai luas permukaan harus dibulatkan 
+terlebih dahulu sejumlah angka pentingnya. Lakukan konversi satuan luas 
+sesuai dengan satuan yang kalian inginkan. Kemudian tuliskan dalam 
+bentuk aturan notasi ilmiah. Tuliskan langkah-langkahnya pada buku 
+latihan kalian.
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+27
+Kalian sudah memahami bahwa untuk membulatkan hasil pengolahan data 
+tidak bisa sembarang. Untuk menguji pemahaman kalian, coba kerjakan 
+soal-soal berikut!
+1. 
+Mengapa jumlah angka penting dari hasil pengukuran perlu diketahui?
+2. 
+Jika nilai yang kalian dapatkan dari hasil pengolahan data sangat kecil 
+atau sangat besar, bagaimana cara kalian menuliskannya?
+3. 
+Hasil pengukuran panjang sebuah batang kayu dengan menggunakan 
+jangka sorong adalah 12,75 cm. Batang kayu tersebut disambung 
+dengan batang kayu lainnya yang diukur dengan menggunakan 
+penggaris sepanjang 7,5 cm. Tentukanlah panjang batang kayu yang 
+telah tersambung itu dengan menggunakan aturan angka penting!
+ 4. Sebuah pelat aluminium memiliki panjang 15,32 cm dan lebar 10,2 
+cm. 
+a. 
+Tentukanlah luas pelat aluminium dengan menggunakan aturan 
+angka penting!
+b. 
+Konversikan satuan luas pelat aluminium tersebut dalam SI!
+5. 
+Diameter sebuah tutup kaleng sebesar 22,25 cm.
+a. 
+Tentukanlah luas permukaan tutup kaleng dengan menggunakan 
+aturan angka penting!
+b. 
+Konversikan satuan luas permukaan tutup kaleng tersebut dalam 
+SI!
+Ayo Berlatih
+D. Nilai Ketidakpastian pada Pengukuran Berulang
+Pada setiap aktivitas pengukuran, kesalahan pengukuran tidak dapat 
+dihindarkan, apalagi jika pengukuran hanya dilakukan sekali, peluang 
+ketidaksesuaian antara hasil pengukuran dengan ukuran sebenarnya semakin 
+besar. Coba telusuri informasi tentang penyebab kesalahan pengukuran pada 
+Aktivitas 1.5 berikut ini.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+28
+Untuk mengurangi faktor kesalahan pengukuran, kalian dapat mengatasi-
+nya dengan melakukan pengukuran secara berulang. Pengambilan data untuk 
+pengukuran berulang minimal dilakukan sebanyak lima kali. Bagaimana cara 
+mengetahui nilai ketidakpastian pengukuran berulang? Untuk mengetahuinya, 
+kalian dapat menggunakan persamaan standar deviasi yang dinyatakan sebagai 
+berikut.
+ 
+2
+2
+1
+1
+1
+1
+N
+N
+i
+i
+i
+i
+N
+x
+x
+N
+N
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+x
+          (1.3)
+Kegiatan Pendahuluan
+Sebelum menjawab pertanyaan di bawah, lakukanlah langkah-langkah 
+kegiatan pendahuluan berikut secara berkelompok dengan beranggotakan 
+lima orang.
+1. 
+Pilihlah satu benda untuk diukur dengan menggunakan jangka sorong.
+2. 
+Lakukanlah pengukuran secara bergantian dengan menggunakan 
+jangka sorong yang sama oleh setiap anggota kelompok.
+3. 
+Masing-masing anggota menuliskan hasil pengukuran pada buku tulis, 
+tanpa memberitahukan kepada teman sekelompok.
+4. 
+Tuliskan data hasil pengukuran seluruh anggota kelompok dalam 
+bentuk tabel.
+Tugas
+1. 
+Apakah hasil pengukuran setiap orang dalam satu kelompok berbeda? 
+Mengapa demikian?
+2. 
+Carilah informasi mengenai faktor-faktor apa saja yang dapat 
+menyebabkan kesalahan pengukuran!
+Aktivitas 1.5
+Ayo Cari Tahu
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+29
+Keterangan:
+N 
+= banyaknya data
+xi 
+= data ke-i, dengan i berurut dari 1 hingga N
+xi
+2 
+= data ke-i dikuadratkan
+Σxi
+2 = penjumlahan seluruh kuadrat data ke-i
+Σxi 
+= penjumlahan seluruh data ke-i
+(Σxi)2 = kuadrat penjumlahan seluruh data ke-i
+Bagaimana aturan membulatkan angka hasil pengolahan data?
+Langkah pertama, menentukan nilai ketidakpastian relatifnya dengan cara 
+sebagai berikut.
+ 
+100
+Ketidakpastian relatif
+%
+x
+x
+
+
+
+                (1.4)
+Langkah kedua, mencocokkan persentase ketidakpastian relatif yang didapatkan 
+dengan aturan berikut.
+Aturan penulisan hasil pengolahan data berdasarkan ketidakpastian relatif
+1. 
+Jika persentase ketidakpastian relatif pada kisaran nilai 0,1%, jumlah 
+angka hasil pengolahan data yang dituliskan 4 angka penting.
+2. 
+Jika persentase ketidakpastian relatif pada kisaran nilai 1%, jumlah 
+angka hasil pengolahan data yang dituliskan 3 angka penting.
+3. 
+Jika persentase ketidakpastian relatif pada kisaran nilai 10%, jumlah 
+angka hasil pengolahan data yang dituliskan 2 angka penting.
+Hasil pengolahan data dapat dituliskan dengan cara yang ditunjukkan oleh 
+Persamaan 1.2 dengan  x merupakan rata-rata nilai besaran yang diukur secara 
+berulang. 
+Contoh:
+Lima orang siswa mengukur diameter sebuah tutup botol dengan mengguna-
+kan jangka sorong secara bergantian. Masing-masing siswa mendapatkan 
+kesempatan satu kali mengukur, sehingga didapatkan tabel hasil pengukuran 
+sebagai berikut.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+30
+Percobaan
+Nama Siswa yang 
+mengukur
+Diameter tutup botol 
+(cm)
+1
+Andi
+3,12
+2
+Bernadette
+3,14
+3
+Nisa
+3,15
+4
+Neneng
+3,11
+5
+Togar
+3,14
+Mereka diminta untuk menentukan luas permukaan lingkaran tutup botol 
+beserta nilai ketidakpastiannya.
+Berikut ini tabel pengolahan datanya.
+No.
+Diameter Tutup 
+Botol, d (cm)
+Luas Permukaan 
+Atas Tutup Botol,
+A = ¼πd2 (cm2)
+Kuadrat Luas 
+Permukaan Atas 
+Tutup Botol, A2 (cm4)
+1.
+3,12
+7,64
+58,4
+2.
+3,14
+7,74
+59,9
+3.
+3,15
+7,79
+60,7
+4.
+3,11
+7,59
+57,6
+5.
+3,14
+7,74
+59,9
+ΣA
+38,5 cm2
+x = (ΣA)2
+1.482,25 cm4
+y = ΣA2
+296,5 cm4
+Keterangan:
+x merupakan kuadrat nilai hasil penjumlahan seluruh luas permukaan lingkaran 
+tutup botol dan y merupakan penjumlahan seluruh nilai hasil kuadrat luas 
+permukaan lingkaran tutup botol.
+Diketahui: jumlah data, N = 5
+ 
+ 
+x = 1.482,25 cm4
+ 
+ 
+y = 296,5 cm4
+Jawaban:
+Menentukan nilai rerata luas permukaan lingkaran tutup botol:
+ 
+1
+38,5
+7,70 cm2
+5
+N
+i
+A
+A
+N
+
+
+
+
+
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+31
+Menentukan nilai ketidakpastian pengukuran berulang:
+2
+2
+1
+1
+2
+1
+1
+1
+5(296,5)
+1.482,25
+5
+1
+5
+1
+1.482,50
+1.482,25
+5
+1
+5
+1
+0,25
+4
+5
+1
+1
+16
+5
+1
+1
+.
+2,236 4
+1
+8,944
+0,11181 cm
+N
+N
+i
+i
+N
+A
+A
+A
+N
+N
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nilai ketidakpastian relatifnya adalah:
+Persentase ketidakpastian relatif
+100%
+0.11181
+100%
+7,70
+0,014520363 100%
+1,45%
+A
+A
+
+
+
+
+
+
+
+
+Persentase ketidakpastian relatif bernilai 1,45%, atau nilainya pada kisaran 
+1%, sehingga jumlah angka hasil pengolahan datanya dituliskan sebanyak 3 
+angka penting.
+Jadi, luas permukaan tutup botol tersebut adalah:
+A = (7,70 ± 0,11) cm2 
+Kalian sudah mempelajari banyak hal, mulai dari kegiatan pengukuran 
+hingga mengolah data. Sekarang, mari kita selesaikan kasus berita pada awal 
+bab dengan melakukan Proyek Akhir Bab berikut.
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+32
+Menentukan Massa Jenis Baut
+A. Tahap Persiapan Praktikum
+Di awal bab, kalian telah membaca berita singkat mengenai kecelakaan 
+akibat patahnya baut roda truk. Truk selalu mengangkut muatan 
+berat sehingga baut roda yang dipilih haruslah tidak mudah patah, 
+berkarat, dan memuai.
+Gambar 1.22 Macam-Macam Material Baut
+Sumber: Alex Tepetidis/pexels.com
+Ada bermacam jenis baut, baik dari ukuran maupun warna atau bahan 
+materialnya. Baut yang berkualitas tentu memiliki nilai ekonomis yang 
+lebih tinggi dibandingkan baut biasa. Kali ini, kalian akan berlatih 
+bagaimana cara mengetahui material baut dan kemungkinan adanya 
+pemalsuan. Kalian perlu menyiapkan tiga sampel baut yang berbeda 
+warna dan ukurannya. Untuk menentukan jenis materialnya, kalian 
+dapat melakukan percobaan sederhana berikut.
+B. Observasi
+1. 
+Amatilah Gambar 1.25. Berdasarkan pengamatan kalian, besaran 
+turunan isika apa yang dapat digunakan untuk mengetahui jenis 
+baut? Tentukan persamaannya!
+2. 
+Untuk mendapatkan besaran isika pada nomor 1, besaran-besaran 
+apa saja yang harus diukur?
+Proyek Akhir Bab
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+33
+3. 
+Dengan mempertimbangkan wujud baut, alat ukur apa yang 
+dapat digunakan untuk mengukur besaran-besaran pada nomor 
+2? Jelaskan cara kalian mengukurnya? Kalian dapat memilih alat 
+ukur yang ada pada Aktivitas 1.2 dan 1.4 sebagai referensi)
+C. Klasiikasi
+Dalam suatu praktikum, hubungan sebab-akibat ini diperlihatkan 
+oleh berubahnya besaran-besaran tertentu akibat perlakuan atau 
+berubahnya besaran-besaran lainnya. Besaran-besaran yang terlibat 
+dalam hubungan sebab-akibat ini disebut dengan variabel.
+4. 
+Besaran apa yang diubah-ubah nilainya (variabel bebas) pada 
+praktikum ini?
+5. 
+Dalam praktikum, terdapat besaran yang nilainya harus sama 
+ketika pengukuran dilakukan pada ketiga baut (variabel kontrol). 
+Besaran apakah itu?
+D. Interpretasi
+6. 
+Besaran apa saja yang ikut berubah karena adanya variabel bebas? 
+(Besaran ini kemudian kita sebut sebagai variabel terikat).
+E. Merencanakan Eksperimen
+7. 
+Jika ketiga baut berbeda jenisnya (terlihat dari warnanya yang 
+berbeda), sementara ukurannya sama, tentukanlah variabel bebas, 
+variabel terikat, dan variabel kontrol dalam praktikum ini!
+F. 
+Memproses dan Menganalisis Informasi
+Buatlah laporan praktikum dengan format sebagai berikut.
+I. 
+Judul praktikum
+II. Tujuan praktikum
+III. Dasar teori
+IV. Alat dan bahan
+V. 
+Prosedur Praktikum
+VI. Tabel Pengamatan
+VII. Tabel Pengolahan Data
+VIII. Analisis Data
+IX. Kesimpulan
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+34
+1. 
+Mengukur adalah kegiatan membandingkan ukuran suatu benda 
+yang belum diketahui ukurannya dengan alat yang dianggap sebagai 
+ukuran standar.
+2. 
+Besaran merupakan sesuatu yang akan diukur.
+3. 
+Besaran pokok merupakan besaran dasar yang satuannya sudah 
+ditetapkan.
+4. 
+Besaran turunan merupakan besaran yang satuannya tersusun dari 
+beberapa satuan besaran pokok.
+5. 
+Satuan merupakan ukuran yang menjadi acuan dari suatu besaran.
+6. 
+Dimensi merupakan cara suatu besaran turunan disusun berdasarkan 
+besaran pokoknya.
+7. 
+Nilai ketidakpastian pengukuran menyatakan nilai yang menyatakan 
+kemungkinan error dari kegiatan pengukuran. Untuk sekali pengukuran, 
+nilai ketidakpastian alat ukur dinyatakan dengan persamaan: 
+ 
+1
+2
+nilai skala terkecil
+x
+
+
+
+Untuk pengukuran berulang, nilai ketidakpastian alat ukur dinyatakan 
+dengan:
+ 
+2
+2
+1
+1
+1
+1
+N
+N
+i
+i
+i
+i
+N
+x
+x
+N
+N
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+x
+8. 
+Nilai ketidakpastian relatif pengukuran ditentukan dengan persamaan:
+ 
+100
+Ketidakpastian relatif
+%
+x
+x
+
+
+
+9. 
+Aturan pembulatan angka hasil pengolahan data dilakukan dengan 
+aturan angka penting.
+10. Hasil pengukuran atau hasil akhir pengolahan data dituliskan dengan 
+cara: x ± Δx.
+Intisari
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+35
+I. 
+Pilihlah salah satu jawaban yang paling tepat!
+1. 
+Perhatikan tabel berikut ini.
+No.
+Besaran
+Satuan
+1.
+Tekanan
+Pa
+2.
+Massa jenis
+kg/m2
+3.
+Energi
+joule
+4.
+Gaya
+kg/m.s2
+5.
+Intensitas cahaya
+candela
+Besaran turunan beserta satuannya dalam SI yang benar adalah ....
+a. 
+1, 2, dan 3 
+d. 
+3 dan 4
+b. 
+1, 3, dan 5 
+e. 
+4 dan 5
+c. 
+1 dan 2
+2. 
+Dimensi dari gaya dikalikan selang waktu adalah ....
+a. 
+[M][L][T]2 
+d. 
+[M][L][T]–2
+b. 
+[M][L][T] 
+e. 
+[M][L]–1[T]–2
+c. 
+[M][L][T]–1
+3. 
+Sebuah mobil melaju dengan kelajuan yang 
+ditunjukkan oleh speedometer di samping.
+Dapat disimpulkan bahwa dalam selang waktu 
+satu detik, mobil tersebut telah berpindah sejauh 
+....
+a. 
+6.000 meter 
+d. 
+167 meter
+b. 
+1.000 meter 
+e. 
+16,7 meter
+c. 
+600 meter
+4. 
+Pak Maman ingin menyambungkan pipa-pipa 
+saluran air dengan penyambung pipa berbentuk 
+T seperti gambar di samping.  
+Agar Pak Maman tidak salah membeli, ia perlu 
+mengukur diameter dalam pipa T dengan meng-
+gunakan ....
+Ayo Cek Pemahaman
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+36
+TEMPO.CO, Bangkalan. 
+Petugas Dinas Perindustrian 
+dan Perdagangan Jawa 
+Timur menggelar tera 
+ulang timbangan di kantor 
+Kecamatan Kamal, Kabu-
+paten Bangkalan, Jawa 
+Timur, Selasa, 3 November 
+2015. Puluhan pedagang di 
+Pasar Kamal dan pemilik 
+Inilah Cara Mengenali Timbangan yang Dicurangi Pedagang
+toko kelontong datang membawa timbangan mereka untuk diservis.
+“Mayoritas timbangan yang dibawa tidak sesuai dengan standar nasional,” 
+kata Dary, petugas tera dari Unit Pelaksana Tugas Bidang Kemetrologian 
+Pamekasan Dinas Perindustrian dan Perdagangan Jawa Timur.
+Menurut dia, ada banyak hal yang menyebabkan timbangan pedagang 
+tidak sesuai dengan standar nasional, di antaranya cara pemakaian yang tidak 
+tepat dan lain-lain. Tentu ada juga yang sengaja diakali. “Tapi, mayoritas yang 
+dibawa ke sini karena faktor alam, yaitu karatan, sehingga keseimbangan 
+berubah melewati batas toleransi dengan selisih sebesar 20 gram untuk 
+timbangan 5 kilogram,” ujarnya.
+a. 
+jangka sorong 
+d. 
+mikrometer sekrup
+b. 
+meteran roll 
+e. 
+neraca o'hauss
+c. 
+Penggaris
+5. 
+Pada lashdisk tertulis “8 GB”, artinya adalah kapasitas penyimpanannya 
+mencapai .....
+a. 
+8 × 103 Byte 
+d. 
+8 × 1012 Byte
+b. 
+8 × 106 Byte 
+e. 
+8 × 1015 Byte
+c. 
+8 × 109 Byte
+II. Bacalah cuplikan berita berikut kemudian jawablah pertanyaannya!
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+37
+Sementara itu, Komarudin, salah satu petugas tera, menyebut ciri-ciri 
+timbangan yang diakali pedagang. Menurut dia, bila pedagang buah atau 
+pedagang sembako selalu meletakkan batu kiloan di atas timbangan, patut 
+dicurigai timbangan tersebut telah diakali.
+Sementara itu, Sukron, pedagang di Pasar Kamal, meminta tera ulang 
+tidak dilakukan sekali dalam satu tahun. Sebab, kerusakan timbangan 
+selalu membuat dia tekor. “Kalau bisa, ada petugas tera di tiap kecamatan. 
+Jadi, kapan pun rusak, timbangan bisa langsung diperbaiki,” ucapnya. Soal 
+biaya tera, Sukron mengatakan tidak mahal. Untuk timbangan 5 kilogram 
+hanya dikenai biaya Rp6.500 per unit.
+Sumber bacaan: https://nasional.tempo.co/read/715491/inilah-cara-mengenali-timbangan-yang-dicurangi-pedagang
+Untuk soal nomor 1 sampai 4, pilihlah satu jawaban yang paling tepat dan 
+berikan alasannya!
+1. 
+Kesalahan pengukuran yang disebutkan pada paragraf ketiga kalimat ketiga 
+termasuk dalam kesalahan pengukuran akibat .... 
+ 
+ Kesalahan acak
+ 
+ Kesalahan sistematik
+ 
+ Kesalahan paralaks
+ 
+ Keterbatasan keterampilan pengamat
+ 
+Alasan: ____________________________________________________________________
+2. 
+Kesalahan pengukuran yang disebutkan pada paragraf ketiga kalimat 
+pertama termasuk dalam kesalahan pengukuran akibat .... 
+ 
+ Kesalahan acak
+ 
+ Kesalahan sistematik
+ 
+ Kesalahan paralaks
+ 
+ Keterbatasan keterampilan pengamat
+ 
+Alasan: ____________________________________________________________________
+3. 
+Pada paragraf ketiga kalimat ketiga disebutkan bahwa kesalahan akibat 
+faktor karatan menyebabkan keseimbangan berubah melewati batas 
+toleransi dengan selisih sebesar 20 gram untuk timbangan 5 kilogram, 
+artinya persentase ketidakpastian relatifnya adalah .... 
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+38
+Pengayaan
+Kalian sudah mencoba melakukan kegiatan pengukuran. Bagaimana 
+pengukuran dapat bermanfaat pada bidang kimia dan biologi? Cobalah 
+lakukan aktivitas pengukuran pada bidang biologi dan kimia berikut!
+1. Bagaimana penerapan pengukuran dalam konteks ilmu 
+biologi?
+Pengukuran tidak terlepas dari kehidupan kita, termasuk ketika kalian 
+belajar tentang makhluk hidup. Petani lele harus mengukur panjang dan 
+diameter lele yang tepat ketika melakukan pemanenan agar tidak rugi, 
+karena pembeli lele yang umumnya pedagang pecel lele lebih memilih 
+ukuran lele yang tidak terlalu besar untuk mendapatkan untung yang besar. 
+Begitu pula petani mutiara mengukur diameter mutiara sebagai salah satu 
+pertimbangan harga mutiara. Semakin lama proses pembentukan mutiara 
+maka semakin besar mutiaranya dan semakin mahal harganya.
+ 
+ 0,25% 
+ 2,50%
+ 
+ 0,40% 
+ 4,00%
+ 
+Alasan: ____________________________________________________________________
+4. 
+Seseorang membeli telur sebanyak 5 kg dengan harga per kilogramnya 
+Rp24.000,00. Telur tersebut ditimbang dengan menggunakan timbangan 
+berkarat seperti yang disebutkan pada soal nomor 3. Maka, kerugian yang 
+ditanggung pembeli akibat kesalahan pengukuran tersebut adalah .... 
+ 
+ Rp300 
+ Rp3.000
+ 
+ Rp480 
+ Rp4.800
+ 
+Alasan: ____________________________________________________________________
+5. 
+Kalian adalah seorang pedagang sukses yang telah memahami konsep 
+pengukuran dalam isika. Bagaimana kalian harus bersikap terkait 
+pengukuran? Jelaskan alasannya!
+ 
+Sikap: _____________________________________________________________________
+ 
+Alasan: ____________________________________________________________________
+Bab I Sistem Pengukuran
+dalam Kerja Ilmiah
+39
+Mari kita coba melakukan pengukuran dalam percobaan pengaruh intensitas 
+cahaya matahari terhadap pertumbuhan tanaman berikut ini. 
+Alat dan Bahan:
+1. 
+tiga buah gelas transparan
+2. 
+kapas
+3. 
+spidol
+4. 
+biji kacang hijau atau biji kacang lainnya yang mudah didapat
+5. 
+penggaris
+Langkah Kerja:
+1. 
+Tuliskan huruf A, B, dan C pada masing-masing gelas.
+2. 
+Letakkan kapas yang sudah dicelupkan ke dalam air pada dasar 
+masing-masing gelas.
+3. 
+Letakkan 5 biji kacang di atas kapas pada masing-masing gelas.
+4. 
+Letakkan gelas A pada ruangan tertutup (tidak terkena sinar matahari), 
+gelas B di bawah naungan pohon, dan gelas C di tempat terbuka yang 
+mendapat sinar matahari sepanjang hari.
+5. 
+Ukurlah tinggi kecambah setiap hari pada masing-masing gelas selama 
+1 minggu dengan menggunakan penggaris. Catat hasilnya!
+6. 
+Tampilkan dalam bentuk graik pertambahan tinggi tanaman setiap 
+hari! Apa yang dapat kalian simpulkan?
+2. Bagaimana penerapan pengukuran dalam konteks ilmu 
+kimia?
+Pengukuran dalam kimia berhubungan dengan penggunaan alat-alat ukur 
+massa dan volume. Alat ukur ini digolongkan menjadi dua jenis, yaitu alat 
+ukur kualitatif dan kuantitatif. Neraca 4 lengan dengan ketelitian 3 desimal 
+bersifat kualitatif, sementara neraca analitik dengan tingkat ketelitian 
+4 desimal bersifat kuantitatif. Demikian juga alat ukur volume ada dua 
+jenis, yaitu alat ukur dengan ketelitian rendah (gelas ukur, pipet ukur) 
+dan ketelitian tinggi (labu ukur, buret, pipet gondok, pipet volumetrik). 
+Bagaimana cara menggunakan alat ukur massa dan volume ini?
+Ilmu Pengetahuan Alam
+untuk SMA/MA Kelas X (Edisi Revisi)
+40
+Kalian telah mempelajari bahwa massa jenis atau densitas adalah 
+salah satu besaran turunan. Massa jenis merupakan perbandingan massa 
+terhadap volume suatu zat. Simbol massa jenis adalah ρ. 
+Dalam kehidupan sehari-hari, massa jenis berguna untuk meng-
+identiikasi antara zat yang satu dengan zat lainnya, misalnya menguji 
+kemurnian suatu campuran bahan. Mengapa demikian? Setiap zat memiliki 
+massa jenis yang berbeda. Pada percobaan berikut ini, kalian akan membuat 
+larutan asam asetat atau cuka dengan konsentrasi 10% volume dari larutan 
+cuka dapur yang konsentrasinya 25% volume. Setelah itu, kalian akan 
+menentukan massa jenis larutan cuka 10% yang telah kalian buat. Apakah 
+arti persen di sini? Arti 10% volume adalah 10 ml cuka ditambahkan ke 
+dalam 90 ml air menghasilkan larutan cuka sebanyak 100 ml.
+Videokan cara penggunaan alat ukur untuk pembuatan larutan cuka 
+10% dan langkah-langkah menentukan massa jenisnya. Unggahlah video 
+tersebut ke akun media sosial kalian untuk mendapatkan tanggapan dari 
+teman-teman dan guru kalian.
+Setelah kalian mempelajari bab ini, peranan, manfaat, atau pembelajaran 
+apa yang dapat kalian ambil? Tuliskan pada buku latihan kalian!
+Ayo Bereleksi

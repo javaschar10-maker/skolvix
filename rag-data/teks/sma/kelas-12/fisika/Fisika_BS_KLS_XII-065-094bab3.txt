@@ -1,0 +1,1306 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Lia Laela Sarah, Irma Rahma Suwarma
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 3
+KEMAGNETAN
+Kata Kunci
+Medan Magnet • Induksi • Gaya Magnet • GGL Induksi • Induktansi • Generator • Transformator
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, peserta didik dapat menerapkan konsep 
+kemagnetan (gaya magnet, medan magnet induksi, GGL induksi, dan induktansi) 
+pada berbagai produk teknologi serta mampu merancang dan mengembangkan 
+alat sederhana berdasarkan konsep kemagnetan.
+Sumber: bearfotos/ freepik (2022)
+46
+Fisika untuk SMA/MA Kelas XII
+Magnet banyak digunakan untuk 
+menghasilkan 
+putaran 
+pada 
+alat 
+elektronik saat ini, mixer, blender, 
+kipas angin, bahkan mobil listrik 
+terbaru 
+merupakan 
+peralatan 
+elektronik 
+yang 
+menggunakan 
+prinsip kerja magnet induksi. Kalian 
+jika membuka bagian dalam alat 
+elektronik ini, maka kalian akan 
+menemukan 
+motor 
+listrik, 
+yaitu 
+terdiri dari magnet dan kumparan 
+kawat yang akan berputar saat diberi 
+arus listrik.
+Prinsip kerja motor listrik adalah 
+mengubah energi listrik menjadi 
+Gambar 3. 2 Alat elektronik yang  
+menggunakan elektromagnet
+Sumber: Unknown/Canva edu (2022)
+energi mekanik (gerak). Energi gerak dihasilkan oleh gaya yang timbul karena 
+kumparan berada di dalam medan magnet yang diberi arus listrik.
+Gambar 3. 1 Peta konsep Kemagnetan
+Sumber : Kinkin Suartini/Kemendikbudristek (2022)
+47
+BAB 3 | Kemagnetan
+Konsep medan magnet induksi 
+dan gaya magnetik juga telah 
+dimanfaatkan pada kereta Maglev 
+Gambar 3.3, teknologi transportasi 
+modern dengan laju mencapai 600 
+km/jam.
+Fenomena 
+sebaliknya, 
+yaitu 
+ketika 
+ada 
+perubahan 
+medan 
+magnet pada kumparan ternyata 
+menghasilkan Gaya Gerak Listrik 
+(GGL) yang dikenal induksi elektromagnetik. Fenomena ini dimanfaatkan 
+pada generator untuk menghasilkan sumber energi listrik. Prinsip induksi 
+elektromagnetik juga digunakan pada trafo untuk menaikan/menurunkan 
+tegangan listrik. Penggunaan trafo sangat diperlukan dalam sistem transmisi 
+sumber daya listrik dari pembangkit sampai ke rumah rumah penduduk. 
+Tegangan dari generator dinaikkan oleh trafo step-up agar mampu menjangkau 
+jarak yang jauh ketika ditransmisikan kemudian diturunkan kembali oleh 
+trafo step down sehingga siap digunakan.
+Ayo, Bernalar Kritis!
+Bagaimana cara kerja kumparan menghasilkan gaya gerak listrik dan 
+bagaimana prinsip kerja trafo sehingga dapat menaikan/menurunkan 
+tegangan?
+Gambar 3. 3 Maglev
+Sumber: Unknown/Canva edu (2022)
+A.	 Medan Magnet
+Coba ingat kembali bahwa magnet yang kutubnya 
+senama akan saling tolak menolak, sedangkan 
+kutub yang berbeda akan tarik menarik. Kalian 
+akan temukan di daerah sekitar magnet terdapat 
+medan magnet. Saat serbuk besi ditaburkan di 
+sekitarnya, akan terbentuk pola garis-garis seperti 
+pada Gambar 3.5 a). Arah medan magnet di sebuah 
+titik ditunjukkan oleh arah kompas yang diletakan 
+pada titik tersebut, perhatikan Gambar 3.5 b).
+Gambar 3. 4 Interaksi magnet
+Sumber : Nanda Auliarahma/Kemendikburistek 
+(2022)
+Gambar 3. 5 Medan magnet di sekitar magnet batang
+Sumber : Chetvorno / wikimedia commons (2021)
+48
+Fisika untuk SMA/MA Kelas XII
+Bumi juga merupakan sebuah 
+magnet 
+raksasa 
+yang 
+memiliki 
+medan magnet di sekitarnya. Dapat 
+diibaratkan Bumi memiliki magnet 
+batang di dalam inti Bumi. Kutub 
+utara magnet Bumi berada di kutub 
+selatan geografi Bumi sedangkan 
+kutub selatan magnet Bumi berada 
+di kutub utara geografi Bumi. Antara 
+kutub utara magnet dan kutub selatan 
+geografi Bumi tidak tepat berhimpit 
+namun berbeda 11,5o seperti Gambar 
+3.6..
+Gambar 3. 6 Medan magnet bumi
+Sumber: Hubi/Wikimedia Commons (2003)
+Dapatkah kalian memperkirakan bagaimana magnet Bumi terbentuk?
+B.	Gaya Magnet
+1.	 Gaya Pada Muatan Bergerak
+Pada bab 2, sudah dibahas jika sebuah muatan 
+berada dalam medan listrik maka muatan akan 
+mendapatkan gaya listrik. Hanya saja, ketika 
+muatan berada dalam medan magnet, belum 
+tentu muatan mendapat gaya magnet. Sebuah 
+muatan dalam medan magnet akan mendapat 
+gaya magnet jika:
+1.	 muatan bergerak
+2.	 arah kecepatan muatan tidak sejajar dengan 
+Gambar 3. 7 Arah gaya magnet 
+pada muatan
+Sumber : Lia L. Sarah/Kemendikbudristek 
+(2022)
+arah medan magnet.
+Perhatikan Gambar 3.7, sebuah muatan positif dengan kecepatan ke kanan 
+berada dalam medan magnet secara tegak lurus yang arahnya menembus 
+bidang. Gaya magnet yang terjadi pada muatan ke arah vertikal tegak lurus 
+terhadap gerak muatan dan medan magnetnya. Sama hal dengan menentukan 
+besar medan listrik berdasarkan gaya listrik dan muatannya, besar medan 
+magnet juga dapat ditentukan dari besar gaya magnet dan muatannya. Vektor 
+gaya listrik (F) pada muatan (q) yang bergerak dengan kecepatan (v) dalam 
+medan magnet (B), yaitu:
+F = qv × B 
+atau besar nya dijabarkan menjadi:
+F= qvB sinθ
+v
+v
+v
+(3-1)
+(3-2)
+49
+BAB 3 | Kemagnetan
+dengan F adalah gaya magnet pada muatan (N) dan θ adalah sudut antara v 
+dan B.
+Ingatlah kembali arah gerak muatan dalam medan listrik agar kalian 
+dapat memahami perbedaan antara gerak muatan dalam medan listrik dan 
+medan magnet. Muatan yang berada dalam medan listrik akan mendapat
+gaya listrik baik muatannya diam atau 
+bergerak, sedangkan dalam medan 
+magnet muatan yang diam tidak akan 
+mendapatkan gaya magnet. Muatan 
+akan mendapat gaya magnet ketika 
+bergerak tidak sejajar dengan medan 
+magnetnya. 
+Jika muatan bergerak tegak lurus 
+terhadap arah medan magnet, maka 
+arah gaya magnet dapat ditentukan 
+dengan 
+aturan 
+tangan 
+kanan. 
+Gambar 3. 8 Aturan tangan kanan gaya magnet
+Sumber : jfmlero / Wikimedia Commons (2009)
+Perhatikan Gambar 3.8, ibu jari menyatakan arah kecepatan muatan, telunjuk 
+menyatakan arah medan magnet dan telapak tangan menyatakan arah gaya 
+magnetnya. Ketika muatan bergerak masuk ke daerah medan magnet secara 
+tegak lurus, maka muatan akan mengalami perubahan gerak.
+Aktivitas 3.1.
+Bagaimana gaya magnet yang dialami muatan dalam 
+medan magnet?
+Jika internet tersedia, buka tautan di bawah atau 
+pindai kode QR: https://ophysics.com/em7.html
+Diskusikan pertanyaan berikut:
+1.	 Apa saja faktor yang mempengaruhi jari-jari lintasan gerak 
+muatan?
+2.	 Saat sebuah muatan partikel bergerak dalam medan magnet 
+dengan lintasan berupa lingkaran, tentukan besar jari-jari 
+lingkaran dari partikel!
+Gambar 3. 9 Pengamatan gerak 
+muatan
+Sumber: Unknown/Ophysics.com(2022)
+Tanda titik 
+menunjukkan 
+Arah medan keluar 
+bidang kertas 
+(menuju pembaca)
+50
+Fisika untuk SMA/MA Kelas XII
+Muatan yang bergerak dengan 
+kecepatan 
+v 
+memasuki 
+daerah 
+dengan 
+medan 
+magnet 
+B 
+akan 
+mendapatkan gaya magnet sehingga 
+bergerak pada lintasan melingkar. 
+Gaya magnet dalam hal ini berperan 
+sebagai gaya sentripetal.
+Fm = Fsp
+Gambar 3. 10 Prinsip kerja spektrometer massa
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Persamaan (3-3) biasa digunakan pada alat spektrometer massa yaitu 
+alat untuk menentukan massa dari sebuah atom. Sampel yang akan diukur 
+diionisasi sehingga menjadi bermuatan positif, kemudian dilewatkan pada 
+pelat dengan beda potensial ΔV sehingga memiliki kecepatan v saat memasuki 
+celah. Dari persamaan (3-3), massa partikel yang masuk ke celah detektor 
+dapat ditentukan dengan:
+dengan m adalah massa partikel (kg), q yaitu muatan partikel (C), B adalah kuat 
+medan magnet (Tesla), r adalah jari-jari lintasan (m) dan v adalah kecepatan 
+partikel (m/s). 
+Coba kalian subsitusikan persamaan energi kinetik (Ek =     mv2) dan energi 
+potensial listrik (Ep = qΔV) untuk mendapatkan persamaan massa partikel 
+sebagai fungsi beda potensial listriknya. Asumsikan seluruh energi potensial 
+listriknya diubah menjadi energi kinetik.
+Substitusikan persamaan v pada kotak kiri ke persamaan sebelah kanan
+Ketika muatan diam dalam medan listrik, muatan akan mendapatkan 
+gaya listrik dan saat muatan bergerak dalam medan magnet muatan akan 
+mendapatkan gaya magnet. Gaya total yang dialami muatan yang bergerak 
+dalam medan listrik dan medan magnet, yang merupakan gabungan dari 
+gaya magnet dan gaya listrik dikenal dengan Gaya Lorentz. Gaya Lorentz (F) 
+pada muatan (q) yang bergerak dalam medan listrik (E) dan medan magnet (B) 
+adalah:
+qvB =
+r
+mv2
+(3-3)
+qB =
+r
+mv
+m =
+v
+qBr
+(3-4)
+2
+1
+Ek = Ep
+2
+1 mv2  = qΔV
+v = ...
+m =
+v
+qBr
+m = ...
+v
+v
+v
+51
+BAB 3 | Kemagnetan
+Gaya Lorentz dimanfaatkan pada pemilih kecepatan yaitu alat untuk 
+mengukur kecepatan muatan partikel. Alat ini menggunakan medan magnet 
+dan medan listrik agar pada kecepatan tertentu menghasilkan gaya yang 
+seimbang. Karena resultan gaya nol, muatan dengan kecepatan yang sesuai 
+dapat bergerak lurus keluar melewati alat pemilih sedangkan muatan 
+dengan kecepatan yang tidak sesuai akan dibelokan sehingga tidak mampu 
+melewatinya.
+Ayo, Bernalar Kritis!
+Sebuah partikel bermuatan positif dalam pemilih kecepatan bergerak 
+dengan laju v dalam medan magnet B secara tegak lurus dan melewati 
+tabung pelat sejajar dengan medan magnet E.
+Gambar 3. 11 Pemilih kecepatan
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Jika arah medan magnet B masuk bidang kertas seperti ditunjukkan 
+gambar, bagaimana arah medan listrik pada pelat sejajar jika:
+a.	 searah dengan arah medan magnet?
+b.	 berlawanan dengan arah medan magnet?
+c.	 dari pelat atas menuju ke pelat bawah dari pelat bawah ke pelat 
+atas?
+Ayo, Cek Pemahaman!
+Gambar 
+3.12 
+menunjukkan 
+lintasan 
+yang 
+ditempuh 
+tiga 
+partikel bermuatan masuk ke 
+dalam 
+medan 
+magnet 
+yang 
+arahnya keluar bidang.
+1.	 Lakukan analisis jenis muatan 
+masing-masing lintasan, dan 
+jelaskan alasannya
+Gambar 3. 12 Lintasan partikel bermuatan
+Sumber : Jhon D. Cutnell/Physics 9ed (2012)
+ 
+F = qv × B + qE
+v
+v
+v
+v
+(3-5)
+52
+Fisika untuk SMA/MA Kelas XII
+2.	 Dari lintasan 2 dan 3 dengan massa dan besar muatan partikel 
+yang sama, partikel mana yang memiliki kecepatan lebih tinggi?
+2.	 Gaya Magnet pada Kawat Berarus Listrik
+Pada Bab 1, sudah dibahas bahwa arus listrik merupakan aliran muatan 
+maka ketika kawat berarus listrik berada dalam medan magnet, juga akan 
+mendapatkan gaya magnet. Dengan menggunakan persamaan gaya magnet 
+untuk muatan yang bergerak:
+F = qvB sinθ,
+bagi persamaan dengan       , maka untuk kawat berarus dengan panjang l:
+F =        (v∆t)B sin θ,
+       adalah besar arus listrik sedangkan v∆t merupakan jarak yang ditempuh 
+muatan sepanjang kawat atau panjang kawat (l), maka:
+Besar gaya magnet pada kawat yang panjangnya l berarus listrik i dalam 
+medan magnet B adalah:
+F = ilB sinθ
+dengan F adalah gaya magnet pada kawat (N), i adalah kuat arus listrik (A), l 
+adalah panjang kawat (m), B adalah kuat medan magnet (Tesla), dan θ adalah 
+sudut antara arah kawat berarus dan medan magnet.
+Arah gaya magnet yang timbul pada kawat berarus dalam medan magnet 
+dapat ditentukan dengan aturan tangan kanan.
+Gambar 3. 13 Aturan tangan kanan gaya magnet
+Sumber : OpenStax / Wikimedia Commons (2011)
+∆t
+∆t
+∆t
+q
+∆t
+q
+(3-6)
+53
+BAB 3 | Kemagnetan
+Perhatikan Gambar 3.13, arah ibu jari menyatakan arah arus listrik 
+(arahnya ke kanan), jari lainnya menyatakan arah medan magnet (arahnya 
+masuk) dan arah telapak tangan adalah arah gayanya (arah ke atas). Gaya 
+magnet ini merupakan dasar dari motor listrik.
+Ayo Cek Pemahaman!
+1.	 Sebuah kawat 50 cm dihubungkan dengan sumber tegangan DC 
+berada dalam medan magnet 0,06 T. Jika arus listrik yang mengalir 
+pada rangkaian sebesar 0,05 A, tentukan besar dan arah gaya pada 
+kawat YZ.
+Gambar 3. 14 Kawat dalam medan Magnet
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+2.	 Sebuah kawat horizontal digantung 
+pada langit-langit ruangan dengan 
+dua 
+tali 
+tak 
+bermassa. 
+Kawat 
+tersebut memiliki panjang 0,20 m 
+dan massa 0,08 kg.  Sebuah medan 
+magnet 
+seragam 
+besarnya 
+0,07 
+T diarahkan dari langit-langit ke 
+lantai. Ketika arus i = 42 A mengalir 
+pada kawat, kawat berayun ke atas 
+kemudian mencapai kesetimbangan 
+Gambar 3.15 Ayunan magnetik
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+membentuk sudut terhadap vertikal seperti ditunjukkan Gambar 
+3.15. Tentukan 
+a.	 sudut 
+b.	 tegangan masing-masing tali.
+C.	 Motor Listrik
+Motor listrik merupakan dasar dari semua alat elektronik yang berputar saat 
+diberi arus listrik. Motor listrik terdiri dari magnet dan kumparan kawat yang 
+akan berputar saat diberi arus listrik. Perhatikan Gambar 3.17, saat arus listrik 
+mengalir pada kumparan timbul gaya F yang berpasangan pada kedua sisi 
+kumparan.
+54
+Fisika untuk SMA/MA Kelas XII
+Gambar 3. 16 Bagian bagian motor listrik
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Putaran kumparan pada motor listrik dipengaruhi oleh medan magnet, 
+arus listrik dan jumlah lilitan kumparan. Putaran ini disebabkan adanya 
+momen kopel yang timbul karena dua momen gaya berlawanan pada kawat 
+berarus listrik. Besar momen gaya pada masing-masing kawat selalu berubah 
+karena besar lengan gaya selalu berubah akibat perubahan posisi kawat 
+terhadap arah medan magnetnya meskipun besar gaya magnetnya tetap. 
+Besar gaya magnet pada setiap sisi kawat dapat diturunkan dari persamaan:
+F = iLB sin90o 
+dengan L yaitu panjang sisi kiri atau sisi kanan dan sudut θ = 90o karena arah 
+arus listrik pada kawat selalu tegak lurus terhadap medan magnet. Adapun 
+besar momen gaya pada setiap sisi dapat ditentukan dengan persamaan:
+τ = F d
+dengan d yaitu lengan gaya atau jarak tegak lurus antara poros rotasi dan titik 
+tangkap gayanya. Coba perhatikan Gambar 3.17, yaitu penggambaran Gambar 
+3.16 pada arah atas loop,terlihat lengan gayanya adalah d = 
+Gambar 3. 17 Kumparan motor dari atas
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Karena luas penampang kawat A = xL, maka momen gaya pada satu sisi 
+sebesar:
+Sehingga besar momen gaya total dari kedua sisi atau momen kopelnya: 
+Momen kopel terbesar saat ϕ = 90o , dan momen kopel terkecil saat ϕ = 0o.
+2
+1 xsinϕ.
+τ = iLB
+2
+1 xsinϕ = 
+sinϕ
+2
+iAB
+τ = iLB sinϕ
+(3-7)
+55
+BAB 3 | Kemagnetan
+Aktivitas 3.3.
+Tujuan 
+Menunjukkan medan magnet induksi pada kawat berarus listrik.
+Alat dan Bahan 
+kawat tembaga, baterai 9V / catu daya, 3 resistor (10 Ohm, 22 Ohm, 33 
+Ohm) atau rheostat, ampere meter, penyangga, jarum kompas, saklar.
+Kegiatan 1
+Susun alat seperti gambar 3.18.
+Gambar 3. 18 Skema percobaan Oersted
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Aktivitas 3.2. Ayo, Berpikir Kreatif!
+Pada aktivitas ini, coba diskusikan bagaimana rancangan sebuah 
+motor listrik. Tuliskan alat dan bahan yang dibutuhkan, disain alat dan 
+langkah-langkah pembuatannya. Kemudian buat motor listrik sesuai 
+rancangan dan uji coba. Buat laporan pembuatan produk dan hasilnya 
+dipresentasikan.
+D.	Medan Magnet Induksi
+Teori kemagnetan dan kelistrikan dikembangkan secara terpisah sampai 
+pada tahun 1820 Hans Christian Oersted (1777-1851) menemukan bahwa arus 
+listrik mempengaruhi simpangan kompas. Oersted juga menyatakan bahwa 
+kemagnetan berkaitan dengan kelistrikan. Tidak lama setelah itu, tahun 1827 
+Andre Marie Ampere (1775-1856) mengusulkan bahwa arus listrik adalah 
+sumber dari fenomena magnetik.
+Sebelum diberi arus listrik, pastikan kawat tembaga searah arah 
+jarum kompas ke utara selatan. Hubungkan sakelar listrik, dan lihat 
+arus yang terukur oleh ampere meter, perhatikan berapa derajat besar 
+simpangan kompas (jika sulit menentukan sudut simpangannya, cukup 
+bandingkan secara kualitatif). 
+56
+Fisika untuk SMA/MA Kelas XII
+1.	 Medan Magnet di Sekitar Kawat Lurus
+Kompas 
+yang 
+menyimpang 
+saat 
+diletakan dekat dengan kawat berarus 
+listrik menunjukkan bahwa di sekitar 
+kawat berarus listrik terdapat medan 
+magnet, atau dikenal dengan medan 
+magnet induksi. Arah medan magnet 
+memenuhi aturan tangan kanan yaitu 
+arah ibu jari menyatakan arah arus dan 
+arah jari yang melingkar menyatakan 
+arah medan magnetnya. Lihat Gambar 
+3.19.
+Gambar 3.19 Aturan tangan kanan medan magnet
+Sumber : Mike Run / Wikimedia Commons (2020)
+Jika arah medan digambarkan 
+dalam dua dimensi, untuk kawat lurus 
+panjang ke kanan seperti Gambar 
+3.20, maka arah medan magnet 
+bagian atas keluar bidang kertas 
+(digambarkan dengan titik) dan arah 
+medan magnet bagian bawah kawat 
+masuk bidang kertas (digambarkan 
+dengan silang). Berdasarkan hasil 
+Gambar 3.20 Arah medan magnet
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Besar kuat medan magnet induksi (B)  kawat lurus yang sangat panjang, 
+pada sebuah titik sebanding dengan arus listrik (i) dan berbanding 
+terbalik jaraknya (r):
+dengan μ0 adalah permeabilitias medium udara atau ruang hampa sebesar 
+μ0= 4π × 10-7  mA-1.
+Coba ubah arah arus pada kawat dan perhatikan 
+arah simpangan kawat. Diskusikan bagaimana 
+pengaruh arus listrik terhadap simpangan kompas? 
+Alternatif lain, jika peralatan tidak tersedia 
+jika dapat terkoneksi internet, maka lakukan 
+pengamatan virtual pada tautan di bawah atau 
+pindai kode QR.
+https://javalab.org/en/magnetic_field_around_a_wire_en/
+eksperimen ditemukan bahwa medan magnet sebanding dengan besar arus 
+listrik dan berbanding terbalik dengan jaraknya.
+B =
+2πr
+μ0 I
+(3-8)
+57
+BAB 3 | Kemagnetan
+2.	 Kawat Melingkar Berarus Listrik
+Jika arus listrik mengalir pada kawat melingkar, medan magnet yang timbul 
+terlihat pada Gambar 3.21. Di pusat lingkaran, arah medan magnet ditunjukkan 
+dengan arah jari tangan sedangkan ibu jari menunjukkan arah arus pada 
+kawat. Untuk besar medan magnet N lilitan kawat berarus listrik di pusat 
+lingkaran dengan jari-jari R adalah:
+Gambar 3.21 Arah medan magnet kawat melingkar
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Medan magnet merupakan besaran vektor, sehingga dalam menentukan 
+resultan besar medan magnetnya Kalian harus menentukan arahnya dulu. 
+Perhatikan contoh berikut.
+Contoh
+Dua kawat seperti ditunjukkan 
+Gambar 3.22 diberi arus listrik 
+sama besar I. Jika jari-jari kawat 
+setengah lingkaran 2 πa dan jarak 
+antar kawat a, tentukan besar dan 
+arah medan magnet induksi di 
+titik pusat setengah lingkaran.
+Jawaban
+Tentukan arah medan magnet induksi di titik pusat setengah 
+lingkaran akibat dari arus yang mengalir dari kawat lurus (B1) dan 
+dari arus yang mengalir dari kawat setengah lingkaran (B2). Arah B1 
+keluar bidang kertas ( . ), kita asumsikan arah positif. Arah B2 masuk 
+bidang kertas ( X ), kita asumsikan arah negatif Resultan medan 
+magnet induksi:
+Btot= B1 - B2
+Gunakan persamaan medan magnet induksi untuk kawat lurus 
+pada B1 dan medan magnet induksi pada kawat melingkar untuk B2, 
+tapi karena hanya setengah lingkaran kalikan dengan ½. 
+B = N
+2r
+μ0 I
+(3-9)
+Gambar 3.22 Dua kawat berarus listrik
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+2 πa
+58
+Fisika untuk SMA/MA Kelas XII
+Aktivitas 3.4
+Buat sebuah solenoida meng- 
+gunakan kawat konduktor, ke- 
+mudian lakukan penyelidikan apa 
+saja yang mempengaruhi medan 
+magnet yang dihasilkan solenoida.
+Gambar 3.23 Solenoida
+Sumber : Zureks /Wikimedia Commons (2008)
+3.	 Solenoida
+Solenoida 
+merupakan 
+lilitan 
+kumparan 
+kawat 
+berbentuk 
+heliks dengan panjang lebih besar 
+dibandingkan diameternya. Medan 
+magnet yang dihasilkan solenoida 
+dapat dilihat pada Gambar 3.24.
+Gambar 3. 24 Medan magnet pada solenoida
+Sumber: OpenStax/Wikimedia Commons (2011)
+Besar medan magnet di pusat 
+solenoida dapat dinyatakan 
+dengan:
+B=μ0 nI	               (3-10)
+dengan n yaitu jumlah lilitan (N) tiap satuan panjang (l)
+Inti besi biasanya dimasukan ke dalam lilitan solenoida untuk meningkatkan 
+medan magnet yang dihasilkan solenoida. Inti besi memiliki permeabilitas 
+ , dengan R yaitu jari-jari setengah lingkaran
+Btot =
+2πr
+μ0 I
+2r
+μ0 I
+2
+1
+-
+Btot =
+2πa
+4π10-7
+2 2πa
+4π10-7
+2
+1
+-
+=
+a
+2 10-7
+-
+2a
+10-7
+(
+)
+Btot =
+2a
+410-7-10-7
+2a
+3
+=
+10-7 Tesla
+Karena hasil Btot positif, maka searah dengan B1 yaitu keluar bidang 
+kertas.
+n =
+l
+N
+59
+BAB 3 | Kemagnetan
+Solenoida banyak digunakan pada produk teknologi. Salah satunya pada 
+bel listrik. Saat arus listrik mengalir dalam rangkaian solenoida bel listrik, 
+medan magnet dibangkitkan di sekitarnya. Medan magnet ini menyebabkan 
+gaya tarik pada batang besi, menarik besi masuk ke dalam kumparan dan 
+memukul belnya.
+Gambar 3.25 Bel listrik
+Sumber : IOK / Wikimedia Commons (2008)
+Ayo Cek Pemahaman
+1.	 Dua kawat lurus panjang, satu sama lain 
+berjarak a diberi aliran arus listrik seperti 
+ditunjukkan pada gambar 3.26. Jika arus 
+listrik pada masing-masing kawat I1 = 
+2I2, di manakah letak titik dengan kuat 
+medan induksi nol?
+Gambar 3. 26 Kawat berarus listrik
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+2.	 Tiga sistem kawat setengah melingkar masing-masing tersusun 
+secara konsentris. Arus yang mengalir pada setiap kawat sama 
+besar dan arahnya ditunjukkan pada Gambar 3.27. Urutkan besar 
+medan magnet induksi pada setiap pusat setengah lingkaran 
+mulai dari yang terbesar!
+Gambar 3. 27 Kawat Melingkar Berarus listrik
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Aktivitas 3.5. Literasi
+Magnetic Levitation adalah kereta 
+yang 
+diangkat 
+secara 
+magnetik. 
+Kereta ini menggunakan gaya magnet 
+induksi yang menyebabkannya dapat 
+melayang di atas jalur pemandu 
+Maglev
+Gambar 3. 28 Levitasi magnetik
+Sumber : Nanda Auliarahma/Kemendikburistek 
+(2022)
+magnetik yang tinggi sehingga mudah termagnetisasi. Medan magnet 
+yang dihasilkan inti besi saat berada dalam solenoida berarus listrik akan 
+memperkuat medan magnet yang dihasilkan solenoid itu sendiri.
+60
+Fisika untuk SMA/MA Kelas XII
+Gambar 3.29 Arah gaya magnet medorong maglev maju
+Sumber : Cool Cat / Wikimedia Commons (2005)
+Akibat gaya dorong dari interaksi magnetik kutub-kutub sejenis 
+dan berlawanan jenis ini, badan kereta dapat bergerak maju pada 
+jalur pemandu. Pengaturan kutub sejenis dan tidak sejenis antara 
+jalur pemandu dan badan kereta ini juga berfungsi untuk mengatur 
+kecepatan kereta.
+Maglev juga merupakan moda transportasi yang sangat murah 
+dan efisien. Jalur pemandu dapat bertahan setidaknya selama 50 
+tahun dengan perawatan minimal karena tidak ada kontak mekanis 
+dan keausan. Pada 480 kilometer per jam, Maglev mengkonsumsi 0,4 
+megajoule per penumpang per mil (1 mil = 1,60934 km) dibandingkan 
+dengan 4 megajoule per penumpang per mil pada kecepatan 96 
+kilometer per jam pada kereta berkecepatan tinggi. Perbandingan 
+energi per satu luas persegi per kilometer Maglev transrapid dan kereta 
+berkecepatan tinggi ICE 3 di Jerman dapat dilihat pada Tabel 3.1.
+(guideway). Kereta naik beberapa sentimeter di atas jalur, sehingga 
+terbebas dari gaya gesek saat bergerak.
+Maglev tidak menggunakan rel biasa, tapi jalur pemandu yang 
+diibaratkan memiliki solenoida sangat panjang. Medan magnet induksi 
+dihasilkan pada jalur pemandu ketika arus dialirkan. Sedangkan pada 
+badan kereta sendiri dipasang elektromagnet yang kutub-kutubnya 
+dapat diatur. Perhatikan Gambar 3.28, ketika kutub-kutubnya 
+berlawanan maka timbul gaya tolak menolak yang menyebabkan 
+badan kereta terangkat beberapa sentimeter sehingga tidak menyentuh 
+jalur. Gaya magnet induksi ke arah atas ini seimbang dengan gaya berat 
+kereta. Fenomena terangkatnya kereta dari jalur pemandu karena gaya 
+magnet ini dikenal dengan istilah levitasi magnetik.
+Badan kereta perlu ada gaya dorong ke depan, maka arah arus pada 
+jalur pemandu dibuat sedemikan rupa sehingga kutub magnet yang 
+dihasilkannya diatur seperti Gambar 3.29. Kutub magnet pada jalur 
+pemandu yang berlawanan jenis berada di depan kereta sedangkan 
+kutub sejenis berada di belakangnya.
+61
+BAB 3 | Kemagnetan
+Jawab pertanyaan berikut :
+1.	 Buatlah kesimpulan mengenai konsumsi energi Maglev transrapid 
+dibandingkan dengan kereta ICE3 berdasarkan data Tabel 3.1.
+2.	 Sebuah Maglev transrapid dengan kapasitas maksimum 200 
+penumpang bergerak pada kecepatan 480 km/jam menempuh 
+jarak sejauh 300 mil. Jika elektromagnet dalam Maglev diibaratkan 
+solenoida panjang dan tegangan listrik yang digunakan untuk 
+menghasilkan gaya magnetnya yaitu 30 kV, tentukan :
+a.	 konsumsi energinya
+b.	 arus listrik yang mengalir pada rangkaian
+Tabel 3.1 Perbandingan Konsumsi Energi ICE3 dan Maglev
+No
+Laju (km/jam)
+Konsumsi Energi Watt jam / km.m2
+ICE 3
+MaglevTransrapid
+1.
+150
+24
+27
+2.
+200
+28
+31
+3.
+250
+33
+35
+4.
+300
+40
+41
+5.
+330
+46
+45
+6.
+350
+50
+47
+7.
+400
+56
+8.
+430
+64
+Sumber: stanford.edu (2010)
+E.	 Gaya Gerak Listrik (GGL) Induksi
+Pada sub-bab sebelumnya, kalian sudah mengetahui jika di sekitar kawat 
+berarus listrik terdapat medan magnet induksi. Fenomena sebaliknya, ketika 
+ada perubahan medan magnet akan menghasilkan Gaya Gerak Listrik (GGL). 
+Aktivitas 3.5
+Pada 
+aktivitas 
+ini 
+Kalian 
+akan 
+menyelidiki bagaimana GGL dihasilkan 
+pada kumparan akibat gerakan magnet.
+Alat 
+yang 
+dibutuhkan 
+yaitu 
+3 
+kumparan 
+dengan 
+jumlah 
+lilitan 
+yang berbeda, magnet batang 2 buah 
+dengan kekuatan yang berbeda, dan 
+galvanometer/multimeter.
+Gambar 3. 30 Percobaan GGL induksi
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+62
+Fisika untuk SMA/MA Kelas XII
+Sebuah magnet batang jika digerakan ke dalam lilitan kumparan kawat yang 
+dihubungkan dengan galvanometer, maka jarum galvanometer akan bergerak. 
+Jarum galvanometer ini menunjukkan adanya arus listrik atau Gaya Gerak 
+Listrik (GGL). GGL ini dihasilkan oleh perubahan fluks magnetik induksi 
+dalam kumparan.
+Gambar 3. 31 Arah GGL induks
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Perhatikan Gambar 3. 31. Saat kutub utara magnet digerakkan mendekati 
+kumparan, arah arus listrik berbeda dengan saat kutub utara magnet 
+digerakkan menjauhi kumparan. Fenomena ini dijelaskan dengan Hukum 
+Faraday dan Hukum Lenz. Sebelum memahami keduanya, pahami terlebih 
+dulu mengenai fluks magnet.
+1.	 Fluks Magnet
+Sebuah magnet memiliki medan magnet di sekitarnya. Perhatikan Gambar 3. 
+32, jika ada sebuah kumparan berada dalam medan magnet, maka terdapat 
+garis-garis medan magnet yang masuk ke dalam kumparan.
+Susun alat seperti Gambar 3.30, kemudian coba 
+diskusikan bagaimana syarat GGL induksi dihasilkan 
+dan apa saja faktor-faktor yang menentukan besar 
+GGL induksi.
+Alternatif 
+lain 
+penyelidikan 
+dapat 
+melalui 
+melalui simulasi virtual pada tautan atau pindai kode 
+QR.
+https://phet.colorado.edu/
+sims/html/faradays-law/latest/
+faradays-law_en.h   tml
+63
+BAB 3 | Kemagnetan
+Gambar 3. 32 Fluks magnet
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Jumlah garis gaya magnet yang masuk dalam kumparan disebut flux 
+magnet.
+Secara umum, besar fluks magnet dapat dinyatakan:
+Sudut θ dalam hal ini adalah sudut yang dibentuk oleh garis gaya magnet 
+dengan garis normal bidang. Perhatikan Gambar 3.32 a), sudut θ pada Gambar 
+tersebut adalah 0o sehingga persamaannya dapat dituliskan:
+	
+(3-12)
+dengan ϕ adalah fluks magnet (Weber), B yaitu kuat medan magnet (Tesla) 
+dan A adalah luas penampang (m2).
+atau
+ϕ = BA cos θ
+ϕ = BA	
+2.	 Besar GGL Induksi
+Perhatikan kembali Gambar 3.31, saat magnet digerakkan mendekati atau 
+menjauhi kumparan, terdapat perubahan fluks magnet yang masuk dalam 
+kumparan. Akibat dari perubahan fluks ini mengakibatkan adanya perubahan 
+fluks induksi. Adanya fluks induksi inilah yang menyebabkan adanya GGL 
+induksi.
+Besar GGL induksi dapat dinyatakan:
+(3-13)
+dengan ε adalah GGL induksi (volt), ∆ϕ adalah perubahan fluks (Weber), N 
+adalah jumlah lilitan kumparan dan ∆t adalah waktu. 
+Jika perubahan terjadi dalam waktu sesaat, maka persamaan dapat 
+dinyatakan dalam persamaan turunan:
+ϕ = B.A
+v
+v
+(3-11)
+Δϕ
+Δt
+ε = -N
+64
+Fisika untuk SMA/MA Kelas XII
+Persamaan GGL induksi di atas dikenal dengan Hukum Faraday, yaitu 
+GGL induksi dalam rangkaian sebanding dengan laju perubahan fluks 
+magnetnya. Sedangkan tanda negatif pada persamaan dinyatakan oleh Hukum 
+Lenz, yaitu bahwa fluks magnet induksi selalu berlawanan dengan perubahan 
+fluks penyebabnya. Pada Gambar 3.31 a, saat magnet bergerak mendekati 
+kumparan, jumlah fluks magnet dari kutub utara yang masuk ke dalam 
+kumparan semakin meningkat. Oleh karena itu, timbul fluks magnet induksi 
+yang berlawanan. Perubahan fluks magnet induksi inilah yang menghasilkan 
+GGL induksi.
+Gambar 3. 33 kawat dalam medan magnet
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+dengan L = panjang logam (m), v = kecepatan gerak logam (m/s), B = besar 
+medan magnet (Tesla) dan ε = GGL induksi (volt).
+Logam jika dihubungkan dengan hambatan resistor R membentuk 
+rangkaian tertutup, maka arus I yang mengalir pada rangkaian
+Pada 
+kasus 
+rangkaian 
+seperti 
+Gambar 3. 33, ketika logam dalam 
+medan magnet digeser ke arah kanan, 
+maka terdapat penambahan jumlah 
+fluks magnet yang masuk ke dalam 
+kumparan PQRS. Oleh karena itu, 
+terjadi perubahan fluks induksi yang 
+berlawanan dengan perubahan fluks 
+tersebut.
+Perubahan fluks ini menyebabkan ujung-ujung logam memiliki beda 
+potensial. Ujung logam P menjadi positif dan ujung logam Q menjadi negatif 
+artinya pada ujung-ujung logam terdapat GGL induksi. Hal ini terjadi karena 
+muatan-muatan yang berada dalam logam memiliki kecepatan yang sama 
+dengan kecepatan logam saat kawatnya digeser. Ketika muatan bergerak 
+dalam medan magnet maka akan timbul gaya magnet pada muatan (Lihat 
+pembahasan sub- bab sebelumnya). Muatan negatif akan bergerak ke arah 
+bawah, sehingga ujung-ujung kawat PQ memiliki beda potensial (GGL induksi). 
+Ketika kawat dihubungkan dengan resistor, arus akan mengalir dari P menuju 
+resistor R kemudian ke Q dan kembali lagi ke P. Substitusikan persamaan fluks 
+magnet, maka besar GGL induksi pada logam dapat dituliskan sebagai:
+karena                , maka
+(3-14)
+(3-15)
+(3-16)
+dϕ
+dt
+ε = -N
+Δϕ
+Δt
+ε =
+Δ(BA)
+Δt
+BΔ(A)
+Δt
+BΔ(Lx)
+Δt
+BLΔx
+Δt
+=
+=
+=
+=
+= BLv
+ε = BLv
+Δx
+Δt
+v =
+ε
+R
+I =
+= BLv
+R
+65
+BAB 3 | Kemagnetan
+F.	 Generator
+Kalian sudah memahami bagaimana GGL 
+induksi dihasilkan. Konsep ini merupakan 
+dasar 
+dari 
+pengembangan 
+generator 
+sebagai sumber tegangan listrik. Generator 
+pada dasarnya terdiri dari magnet dan 
+kumparan.
+Kumparan diputar untuk menghasilkan 
+GGL dengan menggunakan berbagai energi 
+baik air, angin, panas bumi, bahkan energi 
+yang berasal dari pembakaran batu bara. 
+Generator 
+mengubah 
+energi 
+mekanik 
+menjadi energi listrik.
+Gambar 3.34 Generator
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Saat kumparan dalam medan magnet berputar, terjadi perubahan 
+fluks magnetik dalam kumparan. Akibat perubahan fluks dalam kumparan 
+menghasilkan GGL induksi dan pada rangkaian tertutup menghasilkan arus 
+listrik. Grafik GGL yang terukur saat kumparan digerakan dalam medan 
+magnet terlihat pada Gambar 3.35.
+Gambar 3.35. Grafik GGL yang dihasilkan generator
+sumber: Paul G. Hewitt/Conceptual Physics (2014)
+Substitusikan persamaan GGL induksi, maka besar GGL pada generator 
+dapat dituliskan menjadi:
+Karena medan magnet B dan luas penampang kumparan A selalu tetap 
+sedangkan putaran kumparan mengakibatkan perubahan sudut yang terus 
+menerus, maka persamaan dituliskan
+Sudut θ yaitu sudut putaran kumparan yang dapat dinyatakan dalam laju 
+angularnya, θ = ωt sehingga persamaan GGL-nya:
+dϕ
+dt
+ε = N
+= Nd (BA cos θ)
+dt
+ε = NBAd (cos θ)
+dt
+66
+Fisika untuk SMA/MA Kelas XII
+Persamaan 3-17 sesuai dengan grafik Gambar 3.36, yaitu berupa fungsi 
+sinusoidal. Adapun GGL maksimum yang dihasilkan
+Dengan N yaitu jumlah lilitan kumparan, B yaitu besar kuat medan magnet 
+(Tesla), A yaitu luas penampang loop kumparan (m2) dan ω yaitu laju sudut 
+putaran (rad/s). Laju sudut putaran dapat dinyatakan,
+dengan f adalah frekuensi putaran (Hz).
+Ayo Cek Pemahaman
+1.	 Sebuah magnet dan kumparan yang diberi inti besi terlihat pada 
+Gambar 3.36. Ketika magnet bergerak mendekati dan menjauhi 
+kumparan dengan kutub yang berbeda, gambarkan arah arus 
+induksi pada masing-masing kumparan.
+2.	 Dua lampu A dan B memiliki 
+hambatan 16 Ω dan 9 Ω, masing-
+masing akan dihubungkan dengan 
+rangkaian konduktor dalam medan 
+magnet B dengan arah masuk 
+bidang kertas seperti Gambar 3.36. 
+Gambar 3. 36 Batang konduktor bergerak
+Sumber: Jhon D.Cutnell/Physics 9ed (2012)
+ε = NBAω
+ω = 2πf
+Gambar 3.36. Inti besi dalam solenoida
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+(3-17)
+(3-18)
+ε = NBAd (cos ωt)
+dt
+= NBA ωsin ωt
+67
+BAB 3 | Kemagnetan
+G.	Induktansi dan Transformator
+Transformator atau trafo merupakan alat yang sangat penting dalam sistem 
+transmisi energi listrik dari pembangkit listrik sampai siap digunakan di 
+rumah-rumah. Pada sistem transmisi, trafo step up digunakan untuk menaikan 
+tegangan dari pembangkit listrik agar dapat dialirkan dalam jarak jauh tanpa 
+kehilangan daya yang besar. 
+Tegangan dari pembangkit listrik 6-25 kV dinaikkan menjadi 70 – 150 kV 
+untuk tegangan tinggi dan 500 kV untuk tegangan ekstra tinggi (TET). Setelah 
+sampai titik distribusi, tegangan diturunkan kembali menggunakan trafo step 
+down menjadi 20 kV sehingga siap digunakan oleh bidang industri, kemudian 
+menjadi 230 V sehingga siap digunakan pada skala rumah tangga.
+Gambar 3.38. Sistem transmisi listrik
+sumber: Tom Duncan/Physics (2014)
+Agar kedua nyala lampu memiliki daya yang sama, tentukan 
+perbandingan laju batang konduktor.
+1.	 Induktansi
+Pada dasarnya, prinsip kerja trafo berkaitan dengan induksi elektromagnetik. 
+Perhatikan Gambar 3.39, saat sakelar dihubungkan, terjadi perubahan arus 
+listrik dalam kumparan pertama sehingga terjadi perubahan fluks magnet 
+dalam waktu sesaat.
+Garis 
+magnet 
+ini 
+juga 
+mempengaruhi 
+kumparan 
+kedua 
+sehingga pada kumparan kedua juga 
+terjadi perubahan fluks magnet dalam 
+waktu singkat. Meskipun tidak ada 
+kabel penghubung dari kumparan 
+pertama ke kumparan kedua, namun 
+karena terdapat perubahan fluks 
+magnet, pada kumparan kedua juga 
+timbul GGL induksi pada waktu 
+Gambar 3. 39 Induksi bersama
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+68
+Fisika untuk SMA/MA Kelas XII
+dengan M = induktansi bersama (Henry), N2 = jumlah lilitan kumparan 
+kedua, I1 = arus listrik kumparan pertama, ϕ21  = jumlah fluks (Weber).
+Besar GGL pada kumparan kedua akibat dari perubahan arus pada 
+kumparan pertama yaitu:
+dengan ε = GGL induksi (volt), M = induktansi bersama (Henry), dan 
+     = laju perubahan arus pada kumparan (A/s). Perubahan arus ini selain 
+terjadi pada saat rangkaian dihidupkan atau diputuskan aliran listriknya, 
+juga terjadi karena aliran arusnya berupa arus bolak balik (AC). Arus AC akan 
+dibahas pada Bab 4.
+Konsep induktansi berlaku juga pada satu kumparan, ketika arus listrik 
+mengalir dalam kumparan akan menghasilkan fluks magnet. Besar fluks 
+magnet induksi sebanding dengan arus listriknya, oleh karena itu didefinisikan 
+besaran induktansi diri (L). Persamaan L dinyatakan:
+dengan L = induktansi diri (Henry), ϕ = jumlah fluks (Weber), I = arus listrik 
+(Ampere).
+Perubahan arus listrik dalam kumparan menyebabkan perubahan fluks 
+magnet sehingga menyebabkan adanya GGL induksi pada kumparan. Besar 
+GGL induksi dalam kumparan dapat dinyatakan:
+dengan ε = GGL induksi (volt), L = induktansi diri (Henry),            = laju perubahan 
+arus pada kumparan (A/s).
+2.	 Transformator
+Ada dua jenis transformator atau trafo yang digunakan dalam sistem kelistrikan 
+yaitu trafo step up yang berfungsi untuk menaikan tegangan dan trafo 
+step down yang berfungsi menurunkan tegangan. Dengan memahami GGL 
+induksi ε sebanding dengan jumlah lilitan kumparan N, untuk menaikan atau 
+menurunkan tegangan dapat dilakukan dengan cara mengubah jumlah lilitan 
+kumparan.
+sesaat, yaitu saat sakelar dihubungkan. Namun setelah sakelar terhubung dan 
+arus listriknya konstan, GGL kembali nol. Efek ini dikenal dengan induksi 
+bersama (mutual induction). Besaran yang berkaitan dengan induksi bersama 
+dikenal dengan induktansi bersama,
+(3-18)
+(3-19)
+(3-20)
+(3-21)
+N2 ϕ21
+I1
+M =
+ΔI
+Δt
+ε = -M
+ΔI
+Δt
+Nϕ
+I
+L =
+ΔI
+Δt
+Δϕ
+At
+ε = -N
+= -L
+ΔI
+Δt
+69
+BAB 3 | Kemagnetan
+Gambar 3.40 Jenis trafo
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Pada trafo step down, jumlah lilitan primer (Np) lebih besar dari jumlah lilitan 
+sekunder (Ns), sedangkan pada trafo step up sebaliknya. Perbandingan GGL 
+induksi pada kumparan primer εp dan sekunder εs  dapat dinyatakan sebagai :
+Persamaan pada trafo umum dituliskan sebagai:
+Pada saat arus listrik mengalir dalam rangkaian, sebagian energi diubah 
+menjadi panas disebut daya disipasi (Ingat kembali pembahasan Bab 1). Oleh 
+karena itu, trafo pada umumnya tidak memiliki efiensi 100%. Sama dengan 
+nilai efisiensi pada mekanika dan termodinamika bahwa efisiensi merupakan 
+perbandingan daya primer atau daya input dengan daya sekunder atau daya 
+output, maka
+efisiensi trafo, yaitu:
+dengan Vp adalah tegangan primer atau tegangan input (Volt), Vs adalah 
+tegangan sekunder atau tegangan output (Volt), Np adalah jumlah lilitan 
+primer, dan Ns adalah jumlah lilitan sekunder.
+Aktivitas 3.7
+Gambar 3.41. Eksperimen trafo
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Tujuan 
+Menyelidiki prinsip kerja trafo.
+Alat dan bahan 
+•	
+trafo step down
+•	
+catu daya
+•	
+multimeter
+•	
+kabel penghubung.
+(3-22)
+εp
+εs
+Np
+Ns
+=
+Vp
+Vs
+Np
+Ns
+=
+70
+Fisika untuk SMA/MA Kelas XII
+Ayo Cek Pemahaman
+1.	 Induksi bersama merupakan prinsip dasar detektor logam. Alat ini 
+menggunakan dua kumparan besar yang sejajar satu sama lain dan 
+memiliki sumbu yang sama. Karena induksi bersama, generator AC 
+yang terhubung ke kumparan primer menyebabkan GGL induksi 
+pada kumparan sekunder sebesar 0,46 V. Ketika kumparan melewati 
+logam, induktansi bersama meningkat. Perubahan GGL memicu 
+alarm berbunyi. Jika induktansi bersama meningkat tiga kalinya, 
+tentukan GGL induksinya sekarang.
+2.	 Sebuah stasiun pembangkit listrik menghasilkan daya 1,2x106 W yang 
+akan dikirimkan ke sebuah kota berjarak 7,0 km menggunakan dua 
+kabel transmisi. Masing-masing kabel transmisi memiliki hambatan 
+5,0 x 102 Ω/km.
+a.	 Tentukan daya disipasinya jika daya ditransmisikan pada 
+tegangan 1200 V.
+b.	 Jika trafo step-up 100:1 digunakan untuk menaikkan tegangan 
+sebelum daya ditransmisikan. Berapa daya disipasinya sekarang?
+Proyek
+Pada kegiatan proyek Bab 3 ini, diskusikan bersama teman sekelompok 
+untuk merancang dan membuat produk terkait medan magnet induksi 
+atau GGL induksi. Produk yang dibuat diharapkan dapat menjadi 
+alternatif penyelesaian masalah yang terjadi di lingkungan sekitar. 
+Sebagai inspirasi proyek, Kalian dapat memilih beberapa tema berikut
+Langkah kegiatan:
+1.	 Rangkai trafo dan catu dayapada mode tegangan AC sebagai sumber 
+tegangan input (Vin) sebesar 12 V, kemudian pasang kabel pada 
+masing-masing pin tegangan keluaran dan hubungkan dengan 
+multimeter.
+2.	 Ukur tegangan input (Vin) dan tegangan output (Vout) trafo
+3.	 Ubah tegangan catu daya, lakukan kembali Langkah 2.
+4.	 Tuliskan data pengamatan dalam bentuk tabel.
+5.	 Diskusikan kesimpulan data tabel pengamatan dan tuliskan.
+6.	 Diskusikan apakah efisiensi trafo tersebut dapat ditentukan dan 
+berapa hasilnya?
+71
+BAB 3 | Kemagnetan
+1.	 Medan magnet adalah daerah di sekitar magnet ketika magnet atau 
+muatan yang bergerak akan mengalami gaya.
+2.	 Besar gaya magnet pada muatan yang bergerak dalam medan magnet 
+secara tegak lurus, F = qvB
+3.	 Gaya magnet akan timbul pada kawat berarus listrik ketika kawat 
+tersebut membentuk sudut terhadap medan magnet.
+4.	 Besar gaya magnet pada kawat lurus berarus listrik dalam medan 
+magnet secara tegak lurus, F = iLB
+5.	 Besar medan magnet induksi di sekitar kawat lurus panjang berarus 
+listrik, 
+6.	 Besar medan magnet induksi di pusat melingkar berarus listrik,
+ 
+7.	 Besar medan magnet induksi di pusat solenoida berarus listrik,
+8.	 Lintasan gerak muatan dengan kecepatan konstan pada bidang tegak 
+lurus terhadap medan magnet homogen berupa lingkaran.
+9.	 Perubahan fluks magnet dalam kumparan menyebabkan adanya GGL 
+induksi yang disebabkan fluks induksi.
+10.	 Hukum Lenz menyatakan bahwa arah fluks induksi selalu berlawanan 
+dengan fluks penyebabnya.
+11.	 Besar GGL induksi, 
+Rangkuman
+1.	 Merancang dan membuat prototipe pembangkit listrik alternatif 
+dengan energi terbarukan seperti tenaga mikrohidro dan angin.
+2.	 Merancang dan membuat produk pemanfaatan motor listrik / 
+dinamo dalam kehidupan sehari-hari seperti alat penyapu rumah 
+otomatis (sweeping machine).
+3.	 Merancang dan membuat mobil listrik mainan menggunakan 
+solenoida (solenoid engine).
+Kalian boleh membuat produk inovasi lainnya dengan tetap 
+menunjukkan penggunaan konsep medan magnet induksi atau 
+elektromagnetik. Buat laporan produk berupa karya tulis ilmiah.
+B =
+2πr
+μ0 I
+B = N
+2πr
+μ0 I
+B =
+L
+μ0N I
+Δϕ
+Δt
+ε = -N
+72
+Fisika untuk SMA/MA Kelas XII
+Asesmen
+1.	 Dua kawat lurus panjang terpisah 
+pada jarak 0,1 m satu sama lain. 
+Pada masing-masing kawat 
+mengalir arus listrik sebesar 8 A 
+pada arah berlawanan. Tentukan 
+besar medan magnet pada titik A 
+(0,05 m dari kawat 1) dan B (titik 
+tengah antara kawat 1 dan 1) 
+yang sejajar dengan kedua kawat 
+seperti terlihat pada Gambar 3.42.
+2.	 Sebuah medan magnet melewati 
+loop kawat stasioner, dan 
+besarnya berubah terhadap 
+waktu sesuai dengan grafik pada 
+gambar dengan arah medan 
+konstan.
+Ada tiga interval waktu yang 
+ditunjukkan dalam grafik : 0–3,0 
+detik, 3,0–6,0 detik, dan 6,0–9,0 
+detik. Loop terdiri dari 100 lilitan 
+kawat dan memiliki luas 0,15 m2. Medan magnet diorientasikan 
+sejajar dengan garis normal loop.
+a.	 Pada interval manakah GGL induksi dihasilkan?
+b.	 Tentukan GGL induksi untuk setiap interval.
+c.	 Tentukan arus induksi untuk interval pertama dan ketiga jika  
+kawat memiliki hambatan 0,50 Ω. 
+3.	 Perhatikan pernyataan di bawah ini, kemudian beri tanda ceklis (√) 
+pada kolom benar jika pernyataan tersebut benar dan beri tanda 
+ceklis (√) pada kolom salah jika pernyataan tersebut salah.
+12.	 Besar induktansi diri (L), 
+13.	 Induktansi solenoida dapat ditingkatkan dengan menambahkan inti 
+besi ke dalam solenoida.
+14.	 Persamaan pada trafo, 
+Jawablah pertanyaan-pertanyaan di bawah ini dengan tepat.
+Gambar 3.43 Grafik medan induksi
+Sumber : Jhon D. Cutnell / Physics 9ed (2012)
+Gambar 3.42 Dua kawat sejajar
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+Nϕ
+I
+L =
+Vp
+Vs
+Np
+Ns
+=
+73
+BAB 3 | Kemagnetan
+MRI (Magnetic Resonance Imaging)
+ 
+Magnetic resonance imaging (MRI) 
+adalah salah satu alat pencitraan 
+medis yang sangat bermanfaat dan 
+berkembang pesat. MRI menghasilkan 
+gambar tubuh dua dimensi dan tiga 
+dimensi yang memberikan informasi 
+medis penting tanpa bahaya sinar X. 
+Gambar MRI sangat rinci dan informatif 
+tentang struktur dan fungsi organ 
+sehingga digunakan untuk mengetahui 
+Pengayaan
+Pernyataan
+Benar
+Salah
+GGL induksi timbul pada kumparan jika magnet 
+berada di dalam kumparan
+Semakin cepat gerak magnet keluar / masuk 
+kumparan, GGL induksi semakin besar
+Arah fluks induksi selalu berlawanan dengan 
+arah fluks penyebab
+GGL induksi pada kumparan tidak dipengaruhi 
+jumlah lilitan kumparan
+4.	 Laju 
+aliran 
+darah 
+dalam 
+pembuluh darah dapat diukur 
+dengan 
+menggunakan 
+alat 
+seperti 
+ditunjukkan 
+dalam 
+Gambar 
+3.44. 
+Jika 
+pembuluh 
+darah berdiameter 5mm, besar 
+medan magnet yang digunakan 
+0,08 T sedangkan tegangan yang 
+terukur pada voltmeter adalah 
+0,1 mV. Tentukan laju aliran 
+darah dalam pembuluh.
+Gambar 3. 44 Alat ukur laju aliran darah
+Sumber : Nanda Auliarahma/Kemendikburistek (2022)
+5.	 Sebuah transformator terdiri dari dua kumparan yang dililitkan 
+pada inti besi dihubungkan ke generator dan resistor. Jika kumparan 
+primer terdiri dari 100 lilitan dan kumparan sekunder terdiri dari 
+180 lilitan sedangkan tegangan maksimum pada resistor adalah 67 V. 
+Tentukan GGL maksimum generator.
+Gambar 3.45 MRI
+sumber: Westmead Hospital, CSIRO/Wikimedia 
+Commons (2006)
+74
+Fisika untuk SMA/MA Kelas XII
+penyakit tumor, stroke, cedera bahu, infeksi dan sebagainya. Pada 
+prinsipnya, MRI didasarkan pada efek resonansi magnetik nuklir. 
+Bagian terbesar dari alat ini adalah magnet superkonduktor yang 
+menciptakan medan magnet antara 1 dan 2 T. Magnet yang dihasilkan 
+ini memberikan interaksi pada atom-atom dalam tubuh. Buatlah 
+sebuah artikel mengenai prinsip kerja MRI secara rinci.
+Setelah alian mempelajari Bab 3 Kemagnetan:
+1.	 Materi apa yang menarik menurut Kalian?
+2.	 Bagaimana manfaat medan magnetik induksi dalam kehidupan 
+sehari-hari?
+3.	 Apakah Kalian sudah memahami konsep-konsep yang ada pada Bab 
+3 ini?
+4.	 Apa yang ingin Kalian kembangkan terkait pemanfaatan induksi 
+magnetik dalam kehidupan sehari-hari?
+Refleksi

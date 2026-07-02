@@ -1,0 +1,2804 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VIII
+Penulis: Mohammad Tohir, dkk. 
+ISBN: 978-602-427-919-6 (Jil.2)
+Bab 2
+TEOREMA PYTHAGORAS
+A
+B
+C
+Bagaimana teorema Pythagoras dapat 
+membantu aktivitas sehari-hari?
+Matematika untuk SMP/MTs Kelas VIII
+46
+Pengantar Bab
+Gambar 2.1 Jembatan Kanor-Rengel di Kabupaten Bojonegoro
+Jembatan Kanor-Rengel  melintasi Bengawan Solo dan menghubungkan 
+Kecamatan Kanor dengan Kecamatan Rengel. Pembangunan jembatan 
+Kanor-Rengel dimaksudkan untuk mendukung akses masyarakat. 
+Keberadaan 
+jembatan 
+memungkinkan 
+pergerakan 
+orang 
+dan 
+memberikan dampak positif bagi kegiatan di berbagai sektor seperti 
+pertanian, perdagangan, pariwisata dan pendidikan. Bahan utama 
+jembatan ini terbuat dari baja dan struktur utamanya adalah segitiga 
+siku-siku. Bentuk segitiga siku-siku, salah satunya ditunjukkan oleh 
+garis merah pada Gambar 2.1. Ilustrasi di atas menunjukkan penerapan 
+teorema Pythagoras dalam kehidupan sehari-hari, paling sering 
+digunakan dalam konstruksi bangunan, baik jembatan maupun rumah.
+Tahukah Kalian?
+?
+Bab 2 | Teorema Pythagoras
+47
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+ 
+√Menganalisis beberapa informasi untuk membuktikan teorema 
+Pythagoras
+ 
+√Membuat pembuktian berupa skema atau prosedur terhadap 
+rumus teorema Pythagoras
+ 
+√Menentukan panjang sisi segitiga menggunakan teorema 
+Pythagoras
+ 
+√Membandingkan sisi pada segitiga siku-siku istimewa
+ 
+√Menemukan bentuk tripel Pythagoras
+ 
+√Menyelesaikan permasalahan dalam kehidupan sehari-hari terkait 
+penerapan  teorema Pythagoras
+ 
+√Menentukan jarak antara dua titik dalam koordinat Kartesius 
+(pengayaan)
+Pertanyaan Pemantik
+ 
+■
+Apakah nilai akar kuadrat dari suatu bilangan positif dapat 
+ditemukan?
+ 
+■
+Bagaimana aturan teorema Pythagoras berlaku untuk segitiga 
+siku-siku?
+ 
+■
+Apakah teorema Pythagoras hanya berlaku untuk segitiga siku-
+siku istimewa?
+ 
+■
+Apa perbedaan antara triple Pythagoras dan bukan triple 
+Pythagoras?
+ 
+■
+Bagaimana cara menentukan jarak dari satu titik ke titik lainnya?
+Kata Kunci
+Bilangan kuadrat, Segitiga siku-siku, teorema Pythagoras, koordinat 
+kartesius
+Matematika untuk SMP/MTs Kelas VIII
+48
+Peta Konsep
+Penerapan
+Teorema
+Pythagoras
+Teorema
+Pythagoras
+Tripel
+Pythagoras
+Segitiga
+Istimewa
+Segitiga Siku-siku
+sudut 300,600,900
+Segitiga Siku-siku
+sama kaki
+Konsep
+Teorema
+Pythagoras
+Bab 2 | Teorema Pythagoras
+49
+A. Menemukan Konsep Pythagoras
+1. 
+Kuadrat suatu bilangan
+Perhatikan bentuk perkalian berikut:
+2
+2
+2
+4
+2
+#
+=
+=
+4
+4
+4
+16
+2
+#
+=
+=
+6
+6
+6
+36
+2
+#
+=
+=
+Bentuk perkalian di atas merupakan bentuk kuadrat yang biasanya 
+ditulis a
+a
+a
+2
+#
+=
+. Bilangan kuadrat adalah bilangan  yang dihasilkan 
+dari perkalian dua bilangan yang sama, seperti 4, 9, 16, 25, 36, dan 
+seterusnya. Sementara itu, proses mengalikan dua bilangan yang 
+sama disebut pengkuadratan. Misalkan, 2
+2
+2
+4
+2
+#
+=
+=
+, dimana 22  
+merupakan bentuk kuadrat, sedangkan 4 adalah bilangan kuadrat.
+2. 
+Akar kuadrat suatu bilangan
+Akar kuadrat dari a yang  biasanya disimbolkan dengan 
+a yang 
+merupakan bilangan positif yang jika dikuadratkan  sama dengan .a 
+Jika kuadrat dari 3 adalah 9 maka akar kuadrat dari 9 sama dengan 3 
+dan dan dapat ditulis 
+9
+3
+=
+.
+Secara umum, bilangan positif  k
+a
+2
+=
+  memiliki akar kuadrat positif 
+yang dilambangkan dengan 
+k dan akar kuadrat negatif yang 
+dilambangkan dengan 
+k
+-
+. Misalkan k
+64
+=
+, maka 64 memiliki dua 
+akar yaitu 8 dan -8. Pembahasan Teorema Pythagoras berfokus pada 
+pengukuran panjang, sehingga akar kuadrat yang berlaku berada pada 
+akar positif. Sifat-sifat akar kuadrat dari suatu bilangan ditunjukkan di 
+bawah ini
+i. 
+,
+,
+A
+B
+A
+B A
+B
+0
+0
+#
+#
+$
+$
+=
+ii. 
+,
+,
+B
+A
+B
+A
+A
+B
+0
+0
+!
+$
+=
+ 
+iii. 
+,
+,
+A B
+A C
+A
+B
+C
+B
+C
+0
+0
+$
+$
++
+=
++
+^
+h
+iv. 
+,
+A
+A
+A A
+0
+#
+$
+=
+Ayo Mengingat Kembali
+Matematika untuk SMP/MTs Kelas VIII
+50
+Contoh 2.1
+1. 
+Hitunglah nilai kuadrat bilangan-bilangan berikut. 
+a. 13² 
+b. 24
+c. 35
+d. (82,5)²
+e. 119²
+2. 
+Hitunglah nilai akar kuadrat bilangan-bilangan berikut. 
+a. 
+49
+b. 
+169
+c. 
+256
+d. 
+484
+e. 
+625
+Gunakan tautan berikut https://www.geogebra.org/m/pvnmvwsx untuk 
+menghitung permasalahan pada Contoh 2.1.
+Alternatif penyelesaian: 
+1. 
+a.   13
+13
+13
+169
+2
+#
+=
+=
+b. 24
+24
+24
+576
+2
+#
+=
+=
+c. 35
+35
+35
+1225
+2
+#
+=
+=
+d. 
+,
+,
+,
+,
+82 5
+82 5
+82 5
+6806 25
+2
+#
+=
+=
+e. 119
+119
+119
+14161
+2
+#
+=
+=
+2. 
+a.   49
+7
+=
+b. 
+169
+13
+=
+c. 
+256
+16
+=
+d. 
+484
+22
+=
+e. 
+625
+25
+=
+Ayo Berteknologi
+Bab 2 | Teorema Pythagoras
+51
+Segitiga siku-siku
+Coba kalian ingat kembali terkait segitiga siku-siku?
+Perhatikan segitiga siku-siku ABC berikut beserta bagian-bagiannya.
+Keterangan:
+ 
+■
+Segitiga ABC adalah segitiga dengan  siku-siku  di B dan besar 
+sudutnya adalah 
+°
+90 .
+ 
+■
+Sisi depan sudut siku-siku atau sisi C adalah sisi terpanjang yang 
+disebut sisi miring (hipotenusa).
+ 
+■
+Sisi lain pembentuk sudut siku-siku (sisi AB  dan sisi BC ) disebut 
+sisi siku-siku.
+Penggunaan  teorema Pythagoras dalam kehidupan sehari-hari cukup 
+banyak. Salah satunya di bidang konstruksi bangunan. Seorang tukang 
+dan pekerjanya mendapatkan proyek untuk membangun rumah. Sebelum 
+memulai konstruksi, tukang harus terlebih dahulu membuat benang sudut 
+siku pada   pemasangan  bouwplank  sebagai acuan pembuatan pondasi, 
+dinding, dan elemen lainnya agar rumah dapat dibangun dengan baik dan 
+kokoh. Di bawah ini adalah ilustrasi untuk membentuk sudut siku-siku.
+A
+C
+B
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+52
+Gambar 2.2 Membuat sudut siku
+Gambar 2.2 di atas menunjukkan beberapa tukang, mereka memastikan 
+bahwa sudut fondasi yang akan dibangun rumah harus membentuk 
+sudut siku-siku menggunakan kawat dan pita pengukur. Perbandingan 
+ukuran yang disiapkan oleh tukang adalah
+,
+,
+cm
+cm
+cm
+30
+40
+50
+,
+,
+cm
+cm
+cm
+12
+5
+14
+,
+,
+cm
+cm
+cm
+60
+80
+100
+,
+,
+cm
+cm
+cm
+90
+120
+140
+,
+,
+cm
+cm
+cm
+12
+16
+20
+Bagaimana Anda bisa membantu tukang membuktikan bahwa 
+perbandingan ini membentuk segitiga siku-siku atau tidak?
+Bab 2 | Teorema Pythagoras
+53
+Ayo Mencoba
+Sebagai stimulus kegiatan ini bertujuan untuk mempelajari Teorema 
+Pythagoras dan memveriikasi kebenarannya. Pembuktian Teorema 
+Pythagoras erat kaitannya dengan luas persegi dan segitiga. Pythagoras 
+menunjukkan bahwa kuadrat dari panjang sisi miring suatu segitiga 
+siku-siku sama dengan jumlah kuadrat dari panjang sisi lainnya. Untuk 
+memeriksa akurasi, gunakan langkah-langkah sebagai berikut.
+1. 
+Sediakan kertas HVS (atau kertas berpetak), kertas karton, pensil, 
+penggaris, dan gunting.
+2. 
+Buatlah tiga buah persegi dari kertas yang sudah disediakan 
+dengan panjang sisi setiap persegi adalah a = 3 satuan (3 kotak), b 
+= 4 satuan, dan c = 5 satuan. Kemudian guntinglah ketiga persegi 
+itu.
+3. 
+Tempel ketiga persegi tersebut di karton sedemikian sehingga dua 
+dari empat sudut mereka saling berimpit dan membentuk segitiga 
+di dalamnya. Tampak pada Gambar 2.3. Segitiga apakah yang 
+terbentuk?
+Gambar 2.3  Bangun Datar Pembuktian Teorema Pythagoras
+A
+B
+C
+Matematika untuk SMP/MTs Kelas VIII
+54
+4. 
+Perhatikan luas ketiga persegi. Apakah luas persegi yang terbesar 
+sama dengan jumlah dua luas persegi yang lebih kecil?
+5. 
+Ulangi langkah nomor 2 dan 3 dengan membuat persegi yang 
+berukuran a = 6 satuan, b = 8 satuan, dan c = 10 satuan.
+6. 
+Setelah melakukan kegiatan tersebut, apa yang dapat kalian 
+ketahui tentang hubungan nilai a, b, dan c?   
+Untuk lebih meyakinkan kalian tentang hubungan nilai a, b, dan c, 
+lanjutkan dengan kegiatan berikut.
+7. 
+Pada kertas berpetak, gambar tiga segitiga siku-siku ABC dengan 
+tiga ukuran yang berbeda.
+a. 
+AB = 5 satuan, BC = 12 satuan
+b. 
+AB = 8 satuan, BC = 15 satuan
+c. 
+AB = 9 satuan, BC = 12 satuan
+8. 
+Ukurlah panjang sisi yang ketiga dari setiap segitiga.
+9. 
+Lengkapi tabel berikut berdasarkan ketiga segitiga yang telah 
+kalian buat.
+Segitiga ABC
+AB
+BC
+AC
+AB2
+BC2
+AC2
+a.
+...
+...
+...
+...
+...
+...
+b.
+...
+...
+...
+...
+...
+...
+c.
+...
+...
+...
+...
+...
+...
+Ayo Berpikir Kritis
+Memperhatikan kegiatan Ayo Mencoba, tunjukkan hubungan yang kalian 
+temukan antara luas persegi pada sisi miring dengan dua persegi lain 
+pada sisi siku-sikunya? Selanjutnya, hubungan apakah yang dapat kalian 
+temukan antara kuadrat dari sisi miring dengan kuadrat sisi lainnya?
+Bab 2 | Teorema Pythagoras
+55
+Dalil Pythagoras
+Pada suatu segitiga siku-siku, luas persegi pada sisi miringnya 
+sama dengan jumlah luas persegi lain pada kedua sisi siku-
+sikunya, hal ini juga berarti jumlah dari kuadrat kedua sisi 
+siku-siku segitiga pada segitiga siku-siku sama dengan kuadrat 
+panjang sisi miringnya (hipotenusa).
+Teorema Pythagoras
+Pada 
+ABC
+T
+ siku-siku dengan siku-siku di B, berlaku: 
+  c
+a
+b
+2
+2
+2
+=
++
+ 
+ 
+ 
+ 
+Secara matematis, seperti apakah Teorema Pythagoras? Berikut 
+adalah salah satu pembuktian untuk memeriksa kebenaran Teorema 
+Pythagoras.
+i
+ii
+Gambar 2.4  Pembuktian Teorema Pythagoras
+A
+a
+b
+c
+C
+B
+1
+2
+a
+b
+b
+a
+a
+b
+a + b
+c
+c2
+4
+3
+a
+b
+1
+2
+a
+b
+a
+b
+a
+b
+a + b
+a2
+b 2
+4
+3
+a
+b
+Matematika untuk SMP/MTs Kelas VIII
+56
+Berdasarkan Gambar 2.4. Kita dapat menemukan bentuk persamaan 
+seperti berikut.
+Pada Gambar 2.4(i) diperoleh bahwa a
+b
+ab
+c
+ab
+c
+4
+2
+1
+2
+2
+2
+2
+#
++
+=
++
+=
++
+^
+h
+ 
+Selanjutnya, perhatikan pada Gambar 2.4(ii) diperoleh bahwa
+ 
+ 
+ 
+ 
+ 
+     a
+b
+a
+ab
+b
+2
+2
+2
+2
++
+=
++
++
+^
+h
+Sehingga, berdasarkan Gambar 2.4(i) dan 2.4(ii) diperoleh
+Dengan demikian, luas persegi pada sisi hipotenusa adalah c
+2 , dan 
+jumlah luas persegi pada kedua sisi tegaknya adalah a
+b
+2
+2
++
+.
+Contoh 2.2
+1. 
+Tentukan panjang hipotenusa segitiga di bawah. 
+Alternatif penyelesaian 
+Diketahui: 
+,
+AB
+cm BC
+cm
+12
+5
+=
+=
+a
+b
+a
+b
+ab
+c
+a
+ab
+b
+c
+ab
+a
+b
+ab
+c
+ab
+a
+b
+ab
+c
+a
+b
+ab
+ab
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
++
+=
++
++
+=
++
++
++
+=
++
++
++
+=
++
++
+=
++
+-
+-
+^
+^
+h
+h
+A
+C
+B
+5 cm
+12 cm
+Bab 2 | Teorema Pythagoras
+57
+Ditanya:
+Hipotenusa atau panjang AC.
+Jawab:
+Jadi, panjang hipotenusa 
+AC
+cm
+13
+=
+=
+.
+2. 
+Tentukan panjang a pada segitiga berikut.
+Alternatif penyelesaian 
+Diketahui:
+misal
+,
+,
+,
+PR
+cm QR
+cm
+2 9
+2 1
+=
+=
+Ditanya:
+panjang a = PQ.
+c
+a
+b
+AC
+AB
+BC
+AC
+AC
+AC
+12
+5
+144
+25
+169
+169
+13
+2
+2
+2
+2
+2
+2
+2
+2
+2
+=
++
+=
++
+=
++
+=
++
+=
+=
+=
+a
+2,1 cm
+2,9 cm
+P
+R
+Q
+a
+2,1 cm
+2,9 cm
+Matematika untuk SMP/MTs Kelas VIII
+58
+Jawab: 
+Jadi, panjang a = PQ = 2 cm
+3. 
+Perhatikan gambar trapesium berikut.
+Alternatif penyelesaian 
+Diketahui:
+,
+,
+AD
+cm CD
+cm AB
+cm
+15
+25
+33
+=
+=
+=
+Ditanya:
+Panjang BC adalah ...
+Jawab:
+Untuk menyelesaikan masalah di atas, 
+terlebih dahulu kita buat garis dari C dan tegak lurus dengan 
+garis AB. 
+,
+,
+,
+,
+,
+,
+c
+a
+b
+PR
+PQ
+QR
+PQ
+PQ
+PQ
+PQ
+PQ
+2 9
+2 1
+2 9
+2 1
+8 41
+4 41
+4
+4
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+=
++
+=
++
+=
++
+=
+-
+=
+-
+=
+=
+=
+A
+B
+C
+D
+15 cm
+25 cm
+33 cm
+Bab 2 | Teorema Pythagoras
+59
+Misalkan titik potong dengan garis AB adalah E, maka 
+terbentuk segitiga siku-siku BEC. Sehingga berlaku Teorema 
+Pythagoras.
+BC
+CE
+BE
+2
+2
+2
+=
++
+Panjang BE
+BE
+AB
+DC
+BE
+BE
+33
+25
+8
+=
+-
+=
+-
+=
+Jadi, panjang BE
+cm
+8
+=
+.
+Panjang CE
+AD
+cm
+15
+=
+=
+Perhatikan 
+BEC
+T
+ siku-siku di E
+Jadi, panjang BC adalah 17 cm.
+A
+B
+E
+C
+D
+15 cm
+25 cm
+33 cm
+BC
+CE
+BE
+BC
+BC
+BC
+BC
+BC
+15
+8
+225
+64
+289
+289
+17
+2
+2
+2
+2
+2
+2
+2
+2
+=
++
+=
++
+=
++
+=
+=
+=
+Matematika untuk SMP/MTs Kelas VIII
+60
+Doni mendapatkan tugas mata pelajaran Seni Budaya untuk membuat 
+miniatur rumah dari stik eskrim. Dia membuat perhitungan dulu 
+terkiat ukuran-ukuran yang nantinya akan digunakan sebagai ukuran 
+miniatur rumah yang dibuat. Miniatur rumah yang dia buat diharapkan 
+seperti contoh di atas, maka dia menghitung ukuran miniatur tersebut 
+salah satunya adalah pada bangunan atap yang membentuk segitiga. 
+Bagaimanakah cara kalian membantu Doni menentukan panjang AB, 
+AC, BC, AD, BD, dan DC serta hubungannya?
+Tuliskan hasil temuan kalian dari kegiatan Ayo Berpikir Kritis pada lembar 
+kerja (kertas karton/ppt/hasil karya lain). Diskusikan hasil temuan kalian 
+tersebut, kemudian sampaikan kepada teman kalian di dalam kelas.
+1. 
+Tentukan nilai variabel pada panjang segitiga sebelah kiri kemudian 
+pasangkan pada nilai yang sesuai yang berada di samping kanan.
+Ayo Berpikir Kreatif
+A
+B
+C
+D
+Ayo Berkomunikasi
+Soal Laihan
+2.1
+Bab 2 | Teorema Pythagoras
+61
+11 cm
+t cm
+14 cm
+○
+○
+12
+8 cm
+ h cm
+ 9 cm
+○
+○
+,
+13 2
+5 m
+p m
+13 m
+○
+○
+75
+y cm
+2.3 cm
+4.3 cm
+○
+○
+13
+6 m
+8 m
+d m
+3 m
+○
+○
+65
+3 m
+4 m
+12 m
+f m
+○
+Matematika untuk SMP/MTs Kelas VIII
+62
+2. 
+Gambar berikut memperlihatkan tiang antena TV di atas genting. 
+Tiang antena tersebut ditarik oleh kawat supaya kuat dan tidak 
+goyang saat terkena angin. Biasanya kawat tersebut dipasang pada 
+4
+3  bagian dari tinggi tiang dari permukaan atas genting.
+a. 
+Jelaskan cara kalian dalam menentukan panjang kawat 
+tersebut tanpa mengukurnya, jika tiang antena tingginya 8 
+meter.
+b. 
+Tentukan panjang kawat jika jarak antara kawat dan tiang 
+pada tanah adalah 8 meter.
+3. 
+Aldo akan menaiki tangga untuk 
+memperbaiki jam dinding yang 
+ditunjukkan seperti gambar di 
+bawah ini. Jika tinggi tembok dari 
+tumpuan tangga ke permukaan 
+tanah adalah 3 meter. Tentukan 
+panjang tangga yang digunakan 
+Aldo.
+Ayo Berpikir Kritis
+0.4 m
+Bab 2 | Teorema Pythagoras
+63
+4. 
+Haris merupakan salah satu siswa yang ikut terlibat dalam 
+merencanakan 
+pembangunan 
+tenda 
+tempat 
+pengungsian. 
+Koordinator pembangunan tenda menunjukkan gambar kerangka 
+tenda pengungsian (tampak depan) seperti gambar di bawah.
+Haris diminta untuk menentukan perkiraan panjang bambu yang 
+digunakan sebagai penyangga tinggi tenda. Jika pada gambar 
+di atas dijelaskan bahwa tenda akan diikatkan ke tanah dengan 
+menggunakan tali AF dan CF yang merupakan tali lurus. Bantulah 
+Haris mencari tinggi tenda (panjang EF).
+5. 
+Arjuna berada di lantai atas gedung paling tinggi yang memiliki 
+tinggi bangunan 120 meter. Dia melihat mobil berwarna hijau dan 
+mobil berwarna merah. Jika gedung tempat Arjuna berada terletak 
+segaris dengan kedua mobil, maka jarak mobil hijau dan mobil 
+merah adalah ...
+Ayo Berpikir Kritis
+A
+C
+D
+B
+G
+H
+E
+F
+2 m
+2 m
+2 m
+3 m
+150 m
+130 m
+Matematika untuk SMP/MTs Kelas VIII
+64
+Ayo Berefleksi
+Berdasarkan beberapa aktivitas yang telah kalian lakukan terkait 
+menemukan konsep Teorema Pythagoras, berikan jawaban dan 
+penjelasan pada beberapa pertanyaan di bawah ini.
+1. 
+Apakah bilangan kuadrat dan akar kuadrat suatu bilangan 
+merupakan bilangan dasar yang menentukan terbentuknya Teorema 
+Pythagoras? Jelaskan.
+2. 
+Bagaimana bentuk hubungan dari setiap sisi pada segitiga siku-siku? 
+Apakah dari hubungan tersebut dapat dikaitkan dengan Teorema 
+Pythagoras? Jelaskan .
+3. 
+Bagaimana langkah kalian menentukan hipotenusa dari suatu 
+segitiga siku-siku jika diketahui kedua sisi yang lain dari segitiga 
+tersebut? Jelaskan.
+B. Tripel Pythagoras
+Pada setiap pembuatan struktur atap menggunakan genting seperti 
+bangunan rumah di pedesaan ataupun perkotaan, sebagian besar 
+menggunakan siku-siku sebagai pedoman supaya atap yang dibangun 
+bisa kuat dan kokoh, seperti yang ditunjukkan pada kerangka atap di 
+bawah ini.
+Gambar 2.5  Struktur Kerangka Atap pada Suatu Bangunan
+Ayo Bereksplorasi
+Bab 2 | Teorema Pythagoras
+65
+Kerangka atap yang sudah dipasang dan dinaikkan di atas 
+bangunan, seperti pada Gambar 2.5. dapat dilihat bahwa kerangka 
+sudah membentuk sudut siku-siku, utamanya pada kerangka yang diberi 
+label kuning. Proses pembuatan siku-siku tersebut, tukang bangunan 
+pastinya memiliki ukuran yang spesiik menggunakan kelompok 
+bilangan yang pasti menghasilkan siku-siku. Misalnya, 6 cm, 8 cm, dan 
+10 cm. Apakah kalian mengetahui kelompok bilangan tersebut? Apakah 
+kalian sependapat dengan pernyataan tukang bangunan tersebut.
+Kebalikan Teorema Pythagoras
+Sebelum membahas lebih detail terkait tripel Pythagoras, kita perlu 
+mengingat kembali terkait Teorema Pythagoras. Hal ini dikarenakan 
+bahwa terdapat kebalikan dari Teorema Pythagoras yang juga sering 
+digunakan dalam menyelesaikan permasalahan dalam kehidupan 
+sehari-hari.
+Pada kegiatan Ayo Bereksplorasi terdapat kondisi bahwa tukang 
+membuat ukuran yang digunakan untuk membentuk dasar pondasi 
+tepat siku-siku. Kegiatan tukang tersebut berarti memanfaatkan 
+kebalikan dari Teorema Pythagoras. 
+Teorema Pythagoras
+menyatakan:
+Pada 
+ABC
+T
+ jika 
+C
++
+ siku-siku dan 
+,
+,
+AB
+c BC
+a CA
+b
+=
+=
+=
+maka AB
+BC
+CA
+c
+a
+b
+2
+2
+2
+2
+2
+2
+=
++
+=
++
+A
+B
+C
+Matematika untuk SMP/MTs Kelas VIII
+66
+Pada kebalikan dari teorema Pythagoras dapat dinyatakan bahwa 
+dalam 
+ABC
+T
+, jika c
+a
+b
+2
+2
+2
+=
++
+, maka 
+C
++
+ siku-siku.
+Dengan demikian, dapat disimpulkan hal berikut ini.
+Pada 
+ABC
+T
+, apabila a, b, dan c adalah sisi-sisi dihadapan sudut A, 
+B, dan C maka berlaku kebalikan Teorema  Pythagoras, yaitu:
+Tabel 2.1 Kebalikan Teorema Pythagoras
+A
+B
+C
+Untuk b
+c
+a
+1
+1
+Jika a
+b
+c
+2
+2
+2
+=
++
+, 
+Maka 
+ABC
+T
+ siku-siku di A
+A
+B
+C
+Untuk a
+c
+b
+1
+1
+Jika b
+a
+c
+2
+2
+2
+=
++
+, 
+Maka 
+ABC
+T
+ siku-siku di B
+A
+B
+C
+Untuk a
+b
+c
+1
+1
+Jika c
+a
+b
+2
+2
+2
+=
++
+, 
+Maka 
+ABC
+T
+ siku-siku di C
+Sehingga, tiga bilangan a, b, c dengan  a
+b
+c
+1
+1
+ dikatakan tripel 
+Pythagoras jika memenuhi hubungan persamaan c
+a
+b
+2
+2
+2
+=
++
+.
+Bab 2 | Teorema Pythagoras
+67
+Ayo Mencoba
+Berdasarkan hubungan antara c
+2 dengan a
+b
+2
+2
++
+^
+h dan kebalikan dari 
+Teorema Pythagoras maka dapat digunakan untuk menentukan apakah 
+suatu segitiga termasuk segitiga siku-siku atau tidak. Sebagai pembuktian 
+lakukan kegiatan berikut.
+Alat dan bahan
+1. 
+Kertas berpetak
+2. 
+Benang 
+3. 
+Penggaris
+4. 
+Bolpoin 
+5. 
+Lem 
+Langkah kerja
+1. 
+Siapkan kertas berpetak, kemudian buatlah garis dengan ukuran 6 
+kotak satuan, 8 kotak satuan, 10 kotak satuan, 12 kotak satuan, dan 
+13 kotak satuan.  
+2. 
+Ambil benang kemudian sesuaikan dengan panjang garis yang 
+sudah dibuat pada langkah sebelumnya, kemudian potong dengan 
+ukuran yang sama. 
+3. 
+Buatlah segitiga dari tiga benang yang sudah dipotong dengan 
+ukuran 6 kotak satuan, 8 kotak satuan, dan 10 kotak satuan 
+kemudian rekatkan dengan lem pada kertas berpetak. 
+4. 
+Amati segitiga yang terbentuk dari ketiga benang tersebut. Jenis 
+segitiga apakah yang dapat kalian temukan?
+5. 
+Lakukan langkah yang sama seperti pada nomor 3 dan nomor 4 
+dengan ukuran potongan benang 8 kotak satuan, 12 kotak satuan, 
+dan 13 kotak satuan. 
+6. 
+Lakukan langkah yang sama seperti pada nomor 3 dan nomor 4 
+dengan ukuran potongan benang 6 kotak satuan, 8 kotak satuan, 
+dan 12 kotak satuan. 
+Matematika untuk SMP/MTs Kelas VIII
+68
+7. 
+Lengkapi tabel berikut.
+Kegiatan
+Ukuran
+*Segitiga yang 
+terbentuk
+Bentuk 
+Umum
+Kegiatan 1
+6 kotak satuan, 8 
+kotak satuan, 10 
+kotak satuan
+Siku-siku/ lancip/ 
+tumpul
+c
+a
+b
+2
+2
+2
+=
++
+Kegiatan 2
+8 kotak satuan, 12 
+kotak satuan, 13 
+kotak satuan
+Siku-siku/ lancip/ 
+tumpul
+Kegiatan 3
+6 kotak satuan, 8 
+kotak satuan, 12 
+kotak satuan
+Siku-siku/ lancip/ 
+tumpul
+*coret pada segitiga yang tidak sesuai
+Diskusikan dengan teman sebangku kalian untuk menemukan 
+kesimpulan dari kegiatan Ayo Mencoba. Bagaimana bentuk umum 
+segitiga siku-siku, segitiga tumpul dan segitiga lancip?
+Humam diberikan tugas oleh gurunya untuk membuat Tangram 
+segitiga siku-siku yang nantinya akan digunakan untuk membuat 
+beberapa bentuk yang menarik. Untuk membuat beberapa  potongan 
+kertas yang digunakan sebagai bahan Tangram dia membuat beberapa 
+ukuran potongan membentuk segitiga siku-siku dan membuat daftar 
+ukuran segitiga siku-siku dengan menggunakan aturan yang dipelajari 
+dari buku seperti gambar pada halaman berikut. 
+Ayo Bekerja Sama
+Ayo Menggunakan Teknologi
+Bab 2 | Teorema Pythagoras
+69
+Pada gambar di atas diketahui bahwa segitiga siku-siku dengan 
+panjang hipotenusa p
+q
+2
+2
++
+ dan panjang sisi siku-siku yang lain adalah 
+p
+q
+2
+2
+-
+ dan 2pq. Berdasarkan informasi bahwa panjang segitiga siku-
+siku tersebut merupakan tripel Pythagoras. Sebagai pembuktian, maka 
+Humam melakukan pengecekan supaya Tangram yang dibuat bisa 
+bagus dan kreatif.
+Bantulah Humam untuk mengisi tabel di bawah sebagai upaya 
+menemukan ukuran-ukuran yang nantinya digunakan bagian Tangram 
+dengan mengisi dua sebarang bilangan asli yang dimisalkan p dan 
+q sedemikian sehingga p > q. Selanjutnya, hitunglah sesuai dengan 
+contoh sebelumnya dengan tujuan untuk menentukan tiga bilangan 
+yang dibentuk merupakan tripel Pythagoras.
+p
+q
+p
+2 + q
+2
+p
+2 - q
+2
+2pq
+Hubungan
+Tripel 
+Pythagoras
+2
+1
+2
+2 + 1
+2 = 5
+2
+2 - 1
+2 = 3
+2 × 2
+ × 1 = 4
+5
+2 = 3
+2 + 4
+2
+5, 3, 4
+3
+1
+3
+2 + 1
+2 = 10
+3
+2 - 1
+2 = 8
+2 × 3
+ × 1 = 6
+10
+2 = 6
+2 + 8
+2
+10, 8, 6
+3
+2
+3
+2 + 2
+2 = 13
+4
+1
+4
+2
+4
+3
+5
+1
+5
+2
+5
+3
+5
+4
+p
+2 + q
+2
+2pq
+p
+2 - q
+2
+Matematika untuk SMP/MTs Kelas VIII
+70
+Petunjuk:
+1. 
+Gunakan tautan berikut untuk membantu Humam melengkapi 
+tabel di atas. 
+ 
+2. 
+Sebagai pembuktian tripel pythagoras pada kolom tabel yang 
+paling kanan, manfaatkan tautan berikut.
+Pada tautan di atas, kalian akan dikenalkan dengan bahasa 
+koding. Tampilan pada tautan tersebut merupakan output hasil 
+pengkodingan. Untuk melakukan pembuktian ikuti langkah 
+berikut.
+a. 
+Ketikkan huruf “c”. Huruf “c” berarti sebagai sisi miring (sisi 
+terpanjang), 
+b. 
+Selanjutnya tekan enter. Maka akan muncul perintah 
+memasukkan nilai “a”, ketikkan angka sesuai hasil perhitungan 
+pada kolom p
+q
+2
+2
+-
+^
+h
+c. 
+Tekan enter, akan muncul perintah memasukkan nilai “b”, 
+ketikkan angka sesuai hasil perhitungan pada kolom (
+)
+pq
+2
+, 
+lalu tekan enter
+d. 
+Terakhir akan muncul hasil perhitungan seperti angka pada 
+kolom p
+q
+2
+2
++
+^
+h. Jika hasilnya tidak sama, maka angka tersebut 
+bukan tripel Pythagoras.
+s.id/1uhmC
+http://ringkas.kemdikbud.go.id/
+TripelPythagoras2
+Bab 2 | Teorema Pythagoras
+71
+Tahukah Kalian?
+?
+Tangram
+Tangram adalah jenis permainan pola yang terdiri dari tujuh buah atau 
+potongan yang terpisah. Istilah Tangram dapat diartikan sebagai tujuh 
+papan keterampilan. Tujuan dari permainan ini adalah untuk menyusun 
+kembali tujuh buah potongan yang ada menjadi pola atau gambar yang 
+utuh dalam berbagai bentuk sesuai dengan outline atau siluet yang 
+diberikan.
+Gambar 2.6 Tangram
+Permainan Tangram merupakan cara terbaik untuk meningkatkan 
+kemampuan mental, dan mudah dimainkan serta cocok untuk segala 
+usia. Permainan ini dapat melatih imajinasi untuk membentuk 
+bangun lain seperti bentuk geometris, huruf, angka, perahu, hewan 
+dan benda lain.
+Contoh 2.3
+Sebagai latihan untuk menambah pemahaman, perhatikan contoh 
+berikut.
+1. 
+Putri suka sekali dengan tumbuhan sehingga saat pergi ke 
+suatu tempat selalu memperhatikan taman yang menurutnya 
+bagus. Gambar taman di bawah ini dilihat oleh Putri dan 
+dia berkeinginan untuk membuat seperti taman tersebut di 
+Matematika untuk SMP/MTs Kelas VIII
+72
+rumahnya. Taman tersebut berbentuk segitiga, karena di 
+rumahnya  tempat kosong untuk taman berbentuk segitiga 
+siku-siku, maka dia ingin membuktikan apakah taman di 
+tempat yang ditemuinya itu juga berbentuk segitiga siku-siku 
+atau bukan. Setelah diukur panjang sisi taman adalah 4 meter, 
+5 meter, dan 6 meter.
+Alternatif penyelesaian 
+Misalkan sisi terpanjang adalah c, maka :  
+,
+,
+a
+m b
+m dan c
+m
+c
+5
+4
+6
+6
+36
+2
+2
+=
+=
+=
+=
+=
+a
+b
+5
+4
+25
+16
+41
+2
+2
+2
+2
++
+=
++
+=
++
+=
+Karena c
+a
+b
+2
+2
+2
+!
++
+, maka segitiga tersebut bukan segitiga 
+siku-siku.
+Nilai c
+a
+b
+2
+2
+2
+1
++
+, maka segitiga tersebut adalah segitiga 
+lancip.
+2. 
+Perhatikan gambar berikut.
+E
+G
+24 cm
+10 cm
+15 cm
+D
+F
+Bab 2 | Teorema Pythagoras
+73
+,
+DG
+cm GE
+cm
+10
+24
+=
+=
+, dan FG
+cm
+15
+=
+.
+a. Hitunglah panjang DF dan EF.
+b. Tentukan jenis 
+DEF
+T
+.
+Alternatif penyelesaian 
+a. 
+b. Pada 
+DEF
+T
+, sisi terpanjang adalah DE. Sehingga
+DF
+EF
+325
+801
+1126
+2
+2
++
+=
++
+=
+Karena DE
+DF
+FE
+2
+2
+2
+2
++
+, maka 
+DEF
+T
+ adalah segitiga 
+tumpul di F.
+Pak Ahmad menyampaikan bahwa bilangan-bilangan yang memenuhi 
+tripel Pythagoras didapat dengan cara lain seperti berikut.
+ 
+■
+Pilihlah sebarang bilangan ganjil yang dimisalkan sebagai panjang 
+sisi terpendek dari suatu segitiga
+DF
+DG
+GF
+DF
+DF
+EF
+FG
+GE
+EF
+EF
+10
+15
+100
+225
+325
+325
+15
+24
+225
+576
+801
+801
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+=
++
+=
++
+=
++
+=
+=
+=
++
+=
++
+=
++
+=
+=
+DE
+10
+24
+34
+1156
+2
+2
+2
+=
++
+=
+=
+^
+h
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VIII
+74
+ 
+■
+Gunakan rumus M
+S
+2
+1
+2
+=
+-
+, 
+S = panjang sisi terpendek
+M = sisi tegak lainnya
+ 
+■
+Berdasarkan langkah sebelumnya, kalian sudah mendapatkan sisi 
+tegak lain dari suatu segitiga
+ 
+■
+Hitunglah panjang hipotenusa menggunakan rumus c
+a
+b
+2
+2
+2
+=
++
+Setujukah kalian dengan pak Ahmad? Mengapa aturan tersebut 
+juga hanya berlaku jika sisi terpendeknya adalah bilangan ganjil?
+1. 
+Sesuaikan tiga bilangan berikut dengan pasangan yang sesuai 
+apakah termasuk segitiga siku-siku, segitiga lancip, dan segitiga 
+tumpul.
+7, 10,12
+○
+12, 16, 20
+○
+○
+Segitiga siku-siku
+120, 110, 50
+○
+10, 22, 26
+○
+○
+Segitiga lancip
+19, 16, 10
+○
+2, 5, 29
+○
+○
+Segitiga Tumpul
+17, 15, 8
+○
+1,73; 2,23; 1,41
+○
+Soal Laihan
+2.2
+Bab 2 | Teorema Pythagoras
+75
+2. 
+Buktikan bahwa diantara kelompok tiga bilangan berikut manakah 
+yang merupakan tripel Pythagoras.
+a. 
+24, 17, 25
+b. 
+7, 13, 11
+c. 
+6, 2 2
+1 , 6 2
+1
+3. 
+ 
+Seekor kucing berada di atas genting dan terlihat kebingungan 
+karena tidak bisa turun. Aysha yang melihat kucing tersebut 
+langsung mencari galah dan kemudian diikat dengan keranjang kecil 
+pada ujung galah tersebut. Saat menolong kucing tersebut, Cintia 
+melihat Aysha dan mencoba membantunya untuk mengarahkan 
+galah yang telah diikat keranjang tepat pada titik lokasi kucing 
+pada jarak 4 meter. Jika jarak pandangan Cintia terhadap kucing 
+diperkirakan 5 meter. Tentukan hasil dari pernyataan berikut ini.
+a. 
+Tentukan jarak atap yang ditempati kucing terhadap tanah 
+tempat Aysha berdiri. 
+b. 
+Tentukan panjang galah yang digunakan Aysha menolong 
+kucing, jika tinggi Aysha 165 cm.
+4. 
+Kusen jendela yang berbentuk 
+persegi panjang memiliki tinggi 
+40,8 cm dan panjang 30,6 cm, serta 
+panjang salah satu diagonalnya 
+52,5 cm. Apakah kusen jendela 
+benar-benar 
+persegi 
+panjang? 
+Jelaskan.
+Ayo Berpikir Kreatif
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VIII
+76
+5. 
+Jika (p - q), p, (p + q) membentuk tripel Pythagoras, 
+a. 
+Tentukan hubungan antara p dan q.
+b. 
+Jika p = 12, tentukan tripel Pythagoras.
+Berdasarkan beberapa aktivitas yang telah kalian lakukan terkait tripel 
+Pythagoras, berikan penjelasan pada beberapa pertanyaan di bawah ini.
+1. 
+Apakah bilangan kuadrat dan akar kuadrat suatu bilangan 
+merupakan bilangan dasar yang menentukan terbentuknya Teorema 
+Pythagoras? Jelaskan.
+2. 
+Bagaimana bentuk hubungan dari setiap sisi pada segitiga siku-siku? 
+Apakah dari hubungan tersebut dapat dikaitkan dengan Teorema 
+Pythagoras? Jelaskan.
+C. Segitiga Istimewa
+Pada bangunan minimalis seperti gambar di bawah, biasanya 
+menggunakan kerangka segitiga yang memiliki ukuran sisi miring sama, 
+baik dari sisi miring kanan dan kiri.
+Gambar 2.7 Rumah Segitiga Minimalis
+Ayo Berefleksi
+Ayo Bereksplorasi
+Bab 2 | Teorema Pythagoras
+77
+Berdasarkan gambar di atas diketahui bahwa bingkai yang menyangga 
+kaca pada sisi depan atap berbentuk segitiga istimewa. Jika diperhatikan 
+dengan baik, segitiga istimewa pada bingkai kaca di atas berbentuk 
+segitiga siku-siku sama kaki. Menggunakan aturan Teorema  Pythagoras 
+kalian akan dapat menentukan panjang dari ketiga sisi bingkai tersebut. 
+Bagaimana kalian dapat menentukan ciri khusus dari segitiga siku-siku 
+samakaki? Jika Anda  hanya mengetahui satu sisi segitiga sama kaki, 
+bagaimana cara menghitung panjang salah satu sisi segitiga siku-siku 
+sama kaki?
+Pembahasan
+Segitiga siku-siku sama kaki adalah segitiga istimewa yang ukuran 
+ketiga sudutnya adalah 
+°
+°
+°
+45
+45
+90
+-
+-
+. Semua segitiga siku-siku sama 
+kaki adalah setengah persegi. Segitiga ABC di samping memiliki sisi 
+siku-siku AB dan BC serta sisi miring AB. Diketahui bahwa sisi AB = 
+BC = a maka panjang sisi miringnya adalah
+Berdasarkan perhitungan di atas diperoleh perbandingan sisi-
+sisinya adalah 
+Sehingga, pada segitiga istimewa dengan sudut 45°, 90°, dan 45° 
+memiliki panjang sisi miring  2 kali panjang dari sisi yang lain.
+A
+B
+C
+45°
+45°
+a
+a
+AC
+AB
+BC
+a
+a
+a 2
+2
+2
+2
+2
+=
++
+=
++
+=
+AB
+BC
+AC
+a
+a
+a 2
+|
+|
+|
+|
+=
+Matematika untuk SMP/MTs Kelas VIII
+78
+Ayo Mencoba
+Sebagai pembuktian pada kegiatan sebelumnya, gunakan Teorema  
+Pythagoras untuk menentukan panjang sisi hipotenusa setiap segitiga 
+siku-siku sama kaki pada gambar di bawah. Kemudian sederhanakan 
+setiap bentuk akar kuadratnya.
+Salin dan lengkapi tabel berikut dengan melihat gambar sebelumnya.
+Panjang sisi siku-siku
+1
+2
+3
+4
+5
+6
+...
+10
+...
+p
+Panjang hipotenusa
+2
+5 2
+Perhatikan panjang hipotenusa setiap kolom yang telah kalian 
+lengkapi. Bagaimanakah pola yang terbentuk dari panjang sisi siku-
+siku dan panjang sisi miring pada segitiga siku-siku sama kaki di atas?
+Contoh 2.4
+Diketahui suatu segitiga siku-siku sama kaki 
+ABC
+T
+ dengan 
+°
+C
+90
++
+=
+dan AB
+cm
+15 2
+=
+. Hitunglah panjang AC.
+Alternatif penyelesaian 
+Diketahui:
+Berikut segitiganya
+?
+3
+3
+?
+2
+2
+G
+1
+1
+?
+p
+p
+Bab 2 | Teorema Pythagoras
+79
+ 
+A
+C
+B
+45°
+45°
+a
+a
+15√2
+ 
+AC
+CB
+AB
+1
+1
+2
+|
+|
+|
+|
+=
+,  Karena AC = CB
+maka 
+Perhatikan gambar dibawah ini.
+Segitiga ABC siku-siku di C  
+dengan sisi miring AB dan sisi 
+siku-sikunya AC dan BC, serta ᯯ
+ A = 30°, ᯯ C = 90°, ᯯ B = 60° 
+Kalian coba buktikan bahwa 
+pada segitiga siku-siku yang 
+sudut-sudutnya 30° dan 60°, 
+perbandingan sisi terpendek 
+dan sisi lainnya adalah 
+1
+2
+3
+|
+|
+AC
+AB
+AC
+AC
+AC
+AC
+cm
+1
+2
+15 2
+1
+2
+2
+1
+15 2
+2
+15 2
+15
+|
+|
+|
+|
+#
+#
+=
+=
+=
+=
+=
+Ayo Berpikir Kreatif
+A
+B
+D
+C
+2
+a
+a
+a
+a
+a
+a√3
+30°
+60°
+Matematika untuk SMP/MTs Kelas VIII
+80
+Contoh 2.5
+Pada 
+ABC
+T
+, 
+°
+B
+60
++
+=
+ dan 
+°
+A
+30
++
+=
+. Panjang BC
+cm
+12
+=
+, 
+hitunglah panjang:
+a. AC
+b. AB
+Alternatif penyelesaian
+Menggunakan perbandingan pada segitiga istimewa yaitu panjang 
+sisi miring adalah 2 kali sisi terpendek dan panjang sisi lainnya 
+adalah 
+3 kali sisi terpendek.
+a. 
+b. 
+A
+B
+C
+12 cm
+30°
+60°
+BC
+AC
+AC
+AC
+1
+3
+12
+1
+3
+12 3
+=
+=
+=
+BC
+AB
+cm
+AB
+AB
+cm
+1
+2
+12
+1
+2
+24
+=
+=
+=
+Bab 2 | Teorema Pythagoras
+81
+Gambar di bawah ini merupakan Theodorus yang diberi nama 
+berdasarkan nama pembuatnya yaitu Theodore dari Kirene. Theodore 
+adalah orang yang memiliki pendapat yang sama dengan Pythagoras. 
+Gambar Roda Theodorus dimulai dengan segitiga siku-siku dengan 
+panjang kedua sisinya adalah 1 satuan panjang dan bergerak berlawanan 
+arah jarum jam yang ditunjukkan seperti gambar berikut.
+Gambar 2.8 Roda Theodorus
+Coba kalian perhatikan gambar di atas, selanjutnya diskusikan dengan 
+teman kalian dalam satu kelompok untuk membuktikan panjang 
+hipotenusa setiap segitiga yang terbentuk, sehingga kalian akan 
+menemukan panjang AO pada segitiga siku-siku terakhir dari Roda 
+Theodorus di atas.
+1. 
+Berikut ditunjukkan gambar rencana bangun rumah yang sedang 
+dikerjakan oleh Amri sebagai seorang arsitek yang terlihat tampak 
+depan.
+Ayo Bekerja Sama
+A
+O
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+√2
+Soal Laihan
+2.3
+Matematika untuk SMP/MTs Kelas VIII
+82
+8.4 m
+6 m
+6 m
+Tentukan tinggi atap rumah di atas, jika lebar rumah adalah 6.4 
+meter.
+2. 
+Bagaimana kalian dapat menemukan nilai x  dan y pada bangun 
+datar berikut.
+3. 
+Perhatikan gambar segitiga siku-siku ABC di  samping. Tentukan
+a. 
+Keliling segitiga ABC.
+b. 
+Tentukan luas segitiga 
+ABC.
+x + y
+30°
+x
+60°
+B
+D
+A
+C
+8 cm
+8 cm
+30°
+Bab 2 | Teorema Pythagoras
+83
+4. 
+Suatu tembok pembatas berbentuk trapesium akan di cat dasar 
+untuk diberikan gambar mural. Jika dalam satu kaleng cat dapat 
+digunakan mengecat untuk 
+,
+m
+1 5
+2 dengan harga Rp. 22.500,00. 
+Tentukan biaya yang harus dihabiskan untuk mengecat tembok 
+tersebut.(
+,
+)
+3
+1 73
+=
+5. 
+Perhatikan gambar jaring-jaring piramida segitiga berikut.
+a. 
+Tentukan panjang b.
+b. 
+Berapakah luas permukaan piramida segitiga tersebut?
+4 m
+4 m
+4 m
+4 m
+4 m
+60°
+60°
+6 cm
+6 cm
+6 cm
+6 cm
+b
+6 cm
+Matematika untuk SMP/MTs Kelas VIII
+84
+D. Penerapan Teorema Pythagoras
+Pemanfaatan Teorema Pythagoras sering kali kita jumpai dalam 
+kehidupan sehari-hari, mulai dari aktivitas yang membantu pekerjaan 
+dan juga aktivitas bermain yang dilakukan oleh anak-anak.
+Permainan Bentengan atau Rerebonan merupakan permainan yang 
+dimainkan oleh dua kelompok penawan dan tertawan. Masing-masing 
+kelompok terdiri atas empat hingga delapan orang. Lalu, memiliki satu 
+tempat sebagai markas. Markas atau ‘benteng’ bisa berupa sebuah tiang, 
+pohon, atau pilar.
+Gambar 2.9 Anak-anak sedang bermain Bentengan atau Rerebonan
+Apakah kalian pernah bermain bentengan? Jika Kalian berada 4 meter 
+sebelah utara dan 3 meter sebelah timur dari benteng kalian. Benteng 
+lawan kalian berada di 6 meter sebelah utara dan 8 meter sebelah 
+timur dari benteng kalian. Bagaimanakah menentukan jarak kalian 
+dengan benteng lawan kalian? Masalah ini bisa kalian selesaikan 
+dengan menggunakan Teorema  Pythagoras. Namun sebelumnya kalian 
+pelajari terlebih dahulu kegiatan ini.
+Ayo Bereksplorasi
+Bab 2 | Teorema Pythagoras
+85
+Pembahasan
+Berdasarkan kegiatan eksplorasi di atas kalian dapat ketahui melalui 
+visualisasi gambar berikut.
+Titik awal yang digunakan untuk perhitungan adalah titik tumpu 
+tiang pada tanah. Sehingga jarak antara titik awal dengan posisi kalian, 
+serta jarak antara titik awal ke pohon sebagai daerah lawan yaitu titik 
+tumpu pohon pada tanah dapat dihitung, bisa dengan memanfaatkan 
+tripel Pythagoras.
+Jarak antara dua titik
+Perhatikan Gambar 2.10. Setiap ruas garis yang tidak sejajar dengan 
+sumbu-x maupun sumbu-y adalah hipotenusa dari segitiga siku-siku 
+dari dua sisi yang sejajar dengan sumbu-x dan sumbu-y. Sehingga 
+kalian bisa menentukan jarak dua titik pada bidang kartesius dengan 
+menggunakan Teorema Pythagoras.
+Gambar 2.10 Ilustrasi ruas garis yang membentuk Segitiga Siku-siku
+8 m
+4 m
+3 m
+6 m
+x
+y
+Matematika untuk SMP/MTs Kelas VIII
+86
+Untuk mengukur panjang ruas garis yang menghubungkan dua 
+titik pada bidang koordinat, kita dapat menggambar titik-titik tersebut. 
+Setelah itu, kita menentukan panjang setiap ruas garis. Namun, 
+bagaimana jika titik-titik yang diketahui tidak memungkinkan untuk 
+diplotkan pada bidang kartesius? Misalkan, diminta untuk menentukan 
+jarak antara titik A(−5, 3) dan B(3, −4). Bagaimana kita dengan mudah 
+menentukan jarak dua titik pada bidang kartesius?
+Untuk menyelesaikan masalah di atas, lakukan kegiatan di bawah 
+terlebih dahulu bagaimana menentukan jarak titik antara dua titik.
+1. 
+Gambar kedua titik A dan B pada 
+bidang 
+kartesius. 
+Tarik 
+garis 
+sehingga menghubungkan kedua 
+titik. Gambar yang kalian buat akan 
+tampak sama seperti pada gambar 
+di bawah.
+2. 
+Pada gambar di poin (1) Apabila 
+ditarik garis dari titik (-5, 3) dan (3, 
+-4) yang sejajar dengan sumbu-x 
+dan sumbu-y, maka kita bisa melihat 
+suatu 
+segitiga 
+siku-siku 
+dengan 
+panjang sisi tegaknya adalah 7 satuan 
+dan 8 satuan. Sehingga, kita bisa 
+menggunakan Teorema Pythagoras 
+untuk menentukan jarak kedua titik 
+tersebut.
+x
+y
+-4
+-5
+x
+y
+-4
+(3,-4)
+(-5,3)
+-5
+8
+t
+7 satuan
+Bab 2 | Teorema Pythagoras
+87
+Berdasarkan gambar di atas, dan menerapkan Teorema Pythagoras 
+jarak kedua titik sebagai sisi miring, berlaku
+sisi miring 
+Sehingga, jarak kedua titik tersebut sebagai sisi miring adalah 
+113 satuan.
+Contoh 2.6
+Aldo adalah seorang penjaga pantai yang selalu mengawasi kondisi 
+pantai dan juga perahu-perahu yang akan bersandar di sekitaran 
+pantai. 
+Suatu hari Aldo melihat dua perahu, yaitu perahu wisata dan 
+perahu nelayan, seperti yang ditunjukkan pada gambar. Jika 
+kecepatan rata-rata kedua perahu untuk mendekati pantai adalah 
+30 km/jam, tentukan selisih waktu yang ditempuh kedua perahu 
+tersebut untuk mendekati pantai.
+Alternatif penyelesaian 
+Berdasarkan gambar diketahui bahwa jarak Aldo dan perahu 
+nelayan adalah 15 km, kemudian jarak kedua perahu adalah 20 
+km. Pada gambar juga diketahui bahwa jarak antara Aldo, perahu 
+wisata dan perahu nelayan membentuk suatu segitiga siku-siku. 
+Sehingga berlaku aturan dalam Teorema Pythagoras. 
+8
+7
+64
+49
+113
+2
+2
+=
++
+=
++
+=
+15 km
+20 km
+Matematika untuk SMP/MTs Kelas VIII
+88
+Menemukan jarak Aldo dengan perahu wisata.  
+Jarak Raja dengan Perahu Wisata 
+Dengan kecepatan 30 km/jam, maka waktu yang dibutuhkan untuk 
+menempuh perjalanan perahu wisata menuju tempat Aldo adalah
+perjalanan perahu wisata 
+0,83 jam itu setara dengan 50 menit.
+Perjalanan perahu nelayan menuju tempat Aldo adalah
+perjalanan perahu nelayan 
+0,5 jam itu setara dengan 30 menit.
+Dengan demikian, selisih antara perjalanan perahu wisata dan 
+perahu nelayan menuju tempat Aldo adalah 50 ─ 30 = 20 menit. 
+Contoh 2.7
+Dua pesawat sedang terbang melintasi kapal induk. Suatu radar 
+yang berlokasi sejauh 9 km dari kapal induk mendeteksi bahwa 
+km
+15
+20
+225
+400
+625
+25
+2
+2
+=
++
+=
++
+=
+=
+,
+30
+25
+0 83 jam
+=
+=
+,
+30
+15
+0 5 jam
+=
+=
+Bab 2 | Teorema Pythagoras
+89
+posisi kedua pesawat tempur tersebut berjarak 10 km dan 12 km 
+dari radar. Tentukan jarak kedua pesawat diukur berdasarkan 
+ketinggiannya.
+Alternatif penyelesaian
+Perhatikan bahwa masalah di atas bisa digambarkan seperti 
+berikut. 
+Berdasarkan gambar di atas, jarak kedua pesawat yang dimaksud 
+adalah panjang CD.
+Untuk menentukan panjang CD, terlebih dahulu kita akan 
+menentukan panjang BC dan BD.
+Berdasarkan Teorema Pythagoras,
+Maka 
+,
+,
+,
+DC
+BD
+BC
+7 93
+4 35
+3 58
+=
+-
+=
+-
+=
+Sehingga jarak kedua pesawat tersebut adalah ,
+km
+3 58
+.
+9 km
+10 km
+12 km
+A
+B
+C
+D
+BC
+AC
+AB
+10
+9
+100
+81
+19
+2
+2
+2
+2
+2
+=
+-
+=
+-
+=
+-
+=
+,
+,
+BC
+BD
+AD
+AB
+BD
+19
+4 35
+12
+9
+144
+81
+63
+63
+7 93
+2
+2
+2
+2
+2
+.
+.
+=
+=
+-
+=
+-
+=
+-
+=
+=
+Matematika untuk SMP/MTs Kelas VIII
+90
+Pengayaan
+E. Rumus Jarak
+Perhatikan gambar berikut.
+Memperhatikan gambar di atas, dapat diketahui bahwa ABC 
+merupakan segitiga siku-siku dengan koordinat
+,
+,
+,
+,
+A x y
+B x y
+1
+1
+2
+2
+^
+^
+h
+h dan 
+,
+C x y
+2
+1
+^
+h. AC, AB, dan BC merupakan sisi-sisi segitiga, dengan sisi 
+dan
+AC
+x
+x
+BC
+y
+y
+2
+1
+2
+1
+=
+-
+=
+-
+. Karena segitiga ABC adalah segitiga 
+siku-siku, maka berlaku Teorema Pythagoras, sehingga jarak AB dapat 
+diketahui menggunakan aturan berikut.
+Berdasarkan aturan di atas, Jelaskan beberapa pernyataan berikut.
+a. 
+Apakah aturan di atas terbukti berlaku untuk menentukan 
+hipotenusa dari suatu segitiga siku-siku.
+b. 
+Diketahui titik 
+,
+,
+dan
+A
+B
+2
+1
+3 11
+-
+-
+^
+^
+h
+h Bagaimana panjang AB 
+c. 
+Pada koordinat kartesius terdapat koordinat negatif, apakah 
+aturan di atas juga berlaku pada korrdinat titik yang semuanya 
+negatif? Jelaskan.
+X
+Y
+C (x2,y1)
+B (x2,y2)
+A (x1,y1)
+x1
+y1
+y2
+x2
+y2-y1
+x2-x1
+(
+)
+(
+)
+B
+AC
+BC
+x
+x
+y
+y
+AB
+x
+x
+y
+y
+2
+2
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+2
+1
+2
+=
++
+=
+-
++
+-
+=
+-
++
+-
+^
+^
+h
+h
+Bab 2 | Teorema Pythagoras
+91
+1. 
+Diketahui 
+ABC
+T
+ dengan titik-titik A(−1, 3), B(4, −2), dan C(1, −5). 
+Apakah segitiga ABC merupakan segitiga siku-siku? Jelaskan.
+2. 
+Kalian diminta guru untuk menentukan jarak antara dua titik yaitu 
+(4, 2) dan (7, 6). Jika kalian menggunakan titik (4, 2) sebagai 
+,
+,
+x y
+1
+1
+^
+h
+sedangkan teman kalian menggunakan titik (7, 6) sebagai 
+,
+.
+x y
+1
+1
+^
+h
+Berdasarkan analisis kalian apakah hasil yang kalian temukan 
+sama? Jelaskan.
+3. 
+Aldo dan Arjuna berdiri saling membelakangi untuk main tembak-
+tembakan pistol bambu. Aldo berjalan 20 langkah ke depan 
+kemudian 15 langkah ke kanan. Pada saat yang sama, Arjuna juga 
+berjalan 16 langkah ke depan kemudian 12 langkah ke kanan. Pada 
+titik terakhir, mereka berdua saling menembak.
+a. 
+Gambar situasi di atas dengan menggunakan bidang kartesius.
+b. 
+Berapa langkah jarak kalian berdua saat mereka saling 
+menembak?
+4. 
+Seorang atlet tenis mengajukan pertanyaan kepada wasit. Suara 
+atlet mampu didengar wasit hanya pada jarak maksimum 30 kaki. 
+Berdasarkan posisi wasit dan atlet tenis pada gambar berikut, 
+dapatkah wasit mendengar suara sang atlet? Jelaskan jawaban 
+kalian.
+Soal Laihan
+2.4
+24 kaki
+5 kaki
+12 kaki
+Matematika untuk SMP/MTs Kelas VIII
+92
+5. 
+Humam merupakan penyelam yang peduli  terhadap lingkungan. 
+Suatu ketika dia dan timnya akan melakukan penanaman karang 
+untuk memperbaiki terumbu karang yang rusak. Kondisi Humam 
+jika didokumentasikan ditunjukkan seperti gambar di bawah. Jika 
+laut yang diselami adalah 20 meter dan dasarnya datar. Berapa 
+luas dasar laut yang dapat dicapai oleh Humam untuk menanam 
+terumbu karang?
+Uji Kompetensi Bab 2
+A. 
+Pilihlah jawaban pada soal berikut dengan jawaban yang benar 
+dan tepat
+1. 
+Suatu segitiga siku-siku memiliki panjang hipotenusa 34 cm dan 
+salah satu sisi siku-siku adalah 16 cm. Panjang sisi siku-siku lainnya 
+adalah …
+a. 
+30 cm
+b. 
+29 cm
+c. 
+31 cm
+d. 
+21 cm
+2. 
+Panjang sisi-sisi siku-siku pada suatu segitiga siku-siku adalah 7 cm 
+dan 6 cm. Panjang hipotenusanya adalah …
+a. 
+8,2
+b. 
+9,2
+c. 
+7,2
+d. 
+6,2
+20 m
+20 m
+25
+ 
+m
+Bab 2 | Teorema Pythagoras
+93
+3. 
+Pengrajin kayu akan membuat hiasan dinding berbentuk segitiga 
+siku-siku dengan salah satu sudutnya adalah 30°. Panjang sisi di 
+depan sudut 30° adalah 60 cm. Panjang hipotenusanya adalah …
+a. 
+120 cm
+b. 
+80 cm
+c. 
+60
+3
+d. 
+120
+3   
+4. 
+Humam, Arjuna, dan Aldo mencoba mengukur lebar sungai. 
+Ilustrasi ditunjukkan melalui gambar di bawah
+Jika jarak Humam dan Arjuna 6 m, maka lebar sungai tersebut 
+adalah …
+a. 
+7 m
+b. 
+6 m
+c. 
+8 m
+d. 
+9 m
+5. 
+Suatu segitiga dikatakan segitiga siku-siku jika panjang ketiga 
+sisinya berturut-turut adalah …
+a. 
+ 3 cm, 5 cm, dan 6 cm
+b. 
+ 7 cm, 8 cm, dan 12 cm
+c. 
+ 5 cm, 12, cm, dan 15 cm
+d. 
+ 8 cm, 15 cm, dan 17 cm
+Aldo
+Arjuna
+Humam
+10 m
+Matematika untuk SMP/MTs Kelas VIII
+94
+B. Kerjakan soal-soal berikut dengan benar
+1. 
+Tentukan nilai x pada beberapa gambar di bawah ini.
+2. 
+Sudut yang dibentuk oleh diagonal sebuah persegi panjang dan sisi 
+terpendeknya adalah 60°. Tentukan luas persegi panjang tersebut 
+jika panjang diagonalnya 12 cm.
+3. 
+Andi sedang membantu Ibunya untuk membuat tempat jemuran 
+pakaian. Jika bentuk jemuran yang diinginkan Andi ditunjukkan 
+seperti gambar berikut. Berapa panjang tali keseluruhan yang 
+dibutuhkan Andi untuk membuat jemuran pakaian tersebut?
+5 cm
+x cm
+cm
+cm
+√7
+a.
+x m
+6 m
+5 m
+b.
+2x
+5x
+5x
+√42
+c.
+Bab 2 | Teorema Pythagoras
+95
+4. 
+Sebuah helikopter pengamat sedang melihat ke beberapa objek 
+yang ada di bawahnya dengan ketinggian 500 m di atas permukaan 
+tanah. Objek yang dilihat oleh helikopter tersebut diberi nama titik 
+A, titik B, dan titik C. (
+,
+)
+3
+1 73
+=
+3 m
+3 m
+500 m
+O
+A
+B
+C
+60°
+45°
+30°
+Matematika untuk SMP/MTs Kelas VIII
+96
+Berdasarkan 
+ilustrasi 
+gambar 
+dan 
+informasi 
+sebelumnya, 
+tentukanlah
+a. 
+Jarak OA  
+b. 
+Jarak AB 
+c. 
+Jarak BC 
+5. 
+Diketahui suatu tangga yang disandarkan pada tembok. Titik ujung 
+dan pangkal tangga masing-masing A dan B. Jika ujung tangga 
+(A) terhadap tembok adalah 160 cm dan panjang tangga 200 cm. 
+Tentukan tinggi tembok tersebut (dalam meter).

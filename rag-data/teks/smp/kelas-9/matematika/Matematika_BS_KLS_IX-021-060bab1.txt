@@ -1,0 +1,2660 @@
+Bab I
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA, 2022
+Matematika    
+untuk SMP/MTs Kelas IX
+Penulis:  Yosep Dwi Kristanto, dkk
+ISBN:  978-602-427-918-9 (jil.3)
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian diharapkan mampu memahami konsep 
+sistem persamaan linear dua variabel dan menyelesaikannya dengan 
+menggunakan metode grafik, substitusi, eliminasi, dan campuran. Selain itu, 
+kalian juga diharapkan mampu menyelesaikan permasalahan kontekstual 
+dengan memodelkannya ke dalam sistem persamaan linear dua variabel.
+Sistem Persamaan 
+Linear Dua Variabel
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+2
+Ayo Bersiap Belajar!
+Dalam kehidupan sehari-hari, kita selalu menggunakan energi listrik 
+misalnya untuk sumber penerangan dan penghasil gerak. Panel surya 
+merupakan salah satu sumber energi listrik. Untuk menganalisis 
+apakah manfaat panel surya sepadan dengan biaya yang dikeluarkan, 
+kalian dapat menggunakan konsep dari sistem persamaan linear 
+dua variabel yang akan kalian pelajari pada bab ini. Hal ini akan 
+kalian temukan pada proyek halaman 37. Sistem persamaan linear 
+dua variabel dapat digunakan untuk memodelkan dan memecahkan 
+permasalahan kontekstual yang berkaitan dengan perdagangan, 
+investasi, dan kecepatan. Selain itu, pada bagian matematika dan sains 
+halaman 10, kalian akan mengetahui bagaimana persamaan linear 
+dua variabel dapat digunakan untuk memodelkan hubungan antara 
+peregangan pegas dari neraca pegas dan berat beban. Untuk itu, ayo 
+semangat belajar sistem persamaan linear dua variabel!
+ 
+Gambar 1.1 Panel Surya
+A. 	 Persamaan Linear Dua Variabel
+Kalian telah mempelajari operasi bentuk aljabar di kelas VII dan 
+persamaan linear satu variabel di kelas VIII. Materi tersebut merupakan 
+dasar untuk mempelajari sistem persamaan linear dua variabel. Namun, 
+sebelum kalian mempelajari sistem persamaan linear dua variabel, 
+kalian harus memahami konsep persamaan linear dua variabel. 
+ Bab I - Sistem Persamaan Linear Dua Variabel
+3
+Eksplorasi
+1.1  Konsep Persamaan Linear Dua Variabel
+Melalui kegiatan eksplorasi ini, kalian diajak untuk menemukan 
+konsep persamaan linear dua variabel. Perhatikan permasalahan 
+berikut.
+Gambar 1.2 Toko Sembako
+Veronika pergi ke toko sembako. Ia berencana membeli beras merah 
+dan tepung terigu. Harga 1 kg beras merah Rp20.000,00, sedangkan 
+harga 1 kg tepung terigu Rp10.000,00. Uang yang dibayarkan 
+Veronika Rp120.000,00. 
+B	 Tulislah kemungkinan berat (dalam kg) tepung terigu dan beras 
+merah yang dibeli Veronika.
+Tabel 1.1 Berat Beras Merah dan Tepung Terigu
+Berat beras 
+merah 
+(dalam kg) 
+Berat 
+tepung 
+terigu 
+(dalam kg)
+Uang yang dibayarkan
+0
+12
+0(20.000)+12(10.000)=120.000
+0,5
+11
+0,5(20.000)+11(10.000)=120.000
+1
+…
+…
+…
+9,5
+…
+…
+…
+…
+…
+…
+…
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+4
+C	 Data di Tabel 1.1 disajikan pada bidang koordinat sebagai 
+berikut.
+0
+2
+4
+6
+8
+10
+12
+2
+4
+6
+8
+10
+12
+x
+y
+Berat Beras Merah (kg)
+Berat Tepung Terigu (kg)
+Gambar 1.3 Grafik Hubungan Berat Beras Merah dan Tepung Terigu.
+D	 Buatlah sebuah persamaan yang menghubungkan berat beras 
+merah dan tepung terigu (dalam kg) dengan total uang yang 
+dibayarkan Veronika!
+F	 Persamaan yang kalian temukan pada kasus ini disebut dengan 
+persamaan linear dua variabel. Tuliskan yang kalian ketahui 
+tentang persamaan linear dua variabel!
+Secara umum, persamaan linear dua variabel dapat didefinisikan 
+sebagai berikut.
+Definisi
+1.1 Persamaan Linear Dua Variabel
+Persamaan linear dua variabel adalah persamaan yang dapat 
+dinyatakan dalam bentuk  ax + by = c, dengan x, y adalah variabel 
+dan 
+   
+ 
+Penyelesaian dari persamaan linear dua variabel yang berbentuk 
+ax + by = c   dapat ditentukan dengan mencari bilangan-bilangan peng­
+ganti variabel x dan y yang menyebabkan persamaan linear tersebut 
+benar. Penyelesaian persamaan linear dua variabel dapat ditulis dalam 
+ Bab I - Sistem Persamaan Linear Dua Variabel
+5
+bentuk pasangan berurutan (x, y), sedangkan himpunan penyelesaian 
+dari persamaan linear dua variabel adalah himpunan dari semua 
+pasangan berurutan yang merupakan penyelesaian dari persamaan 
+linear dua variabel. Untuk lebih memahami persamaan linear dua 
+variabel marilah kita perhatikan contoh berikut ini.
+Contoh
+1.1
+Memodelkan Persamaan Linear Dua Variabel 
+Tissa pergi ke toko alat tulis. Ia membeli 3 buku tulis dan 5 bolpoin 
+dengan membayar Rp19.000,00. Buatlah model matematika dari 
+permasalahan tersebut. 
+Alternatif Penyelesaian
+Gambar 1.4 Toko Alat Tulis
+Misalkan m menyatakan harga 1 buku tulis dan n menyatakan harga 
+1 bolpoin. Dengan demikian, harga 3 buku tulis adalah 3m, harga 5 
+bolpoin 5n dan total harga adalah Rp19.000,00. Persamaan linear 
+dua variabel dapat dituliskan sebagai berikut.
+3m + 5n = 19.000
+Diketahui keliling sebuah segitiga sama kaki adalah 48 cm. 
+Tentukan model matematika yang menghubungkan antara 
+keliling dan panjang sisi segitiga tersebut.	
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+6
+Perhatikan kasus pada Contoh 1.1. Dapatkah kalian menentukan 
+harga 1 buku tulis dan harga 1 bolpoin? Persamaan pada kasus tersebut 
+adalah 3m + 5n = 19.000. Untuk mengetahui harga buku tulis dan bolpoin 
+kita harus menentukan penyelesaian dari persamaan tersebut. Jika kita 
+mengganti m dengan bilangan bulat positif (ingat bahwa m menyatakan 
+harga 1 buku tulis), maka nilai n dapat diperoleh sebagai berikut.
+Misalkan m = 3.000 maka diperoleh:
+3(3.000) + 5n	 =	 19.000
+	 9.000 + 5n	 =	 19.000
+	
+5n	 =	 19.000 - 9.000
+	
+5n	 =	 10.000
+	
+n 	 =	 2.000
+Apabila harga 1 buku tulis Rp3.000,00 maka harga 1 bolpoin 
+Rp2.000,00. Pasangan berurutan (3.000, 2.000) merupakah salah 
+satu penyelesaian dari persamaan 3m + 5n = 19.000. Apakah hanya 
+(3.000, 2.000) penyelesaian dari persamaan tersebut? Tentu saja tidak. 
+Apabila nilai m berubah maka nilai n bergantung pada nilai m, begitu 
+pun sebaliknya. Untuk lebih jelasnya dalam mencari penyelesaian 
+persamaan linear dua variabel, marilah kita perhatikan contoh berikut.
+Contoh
+1.2
+Penyelesaian Persamaan Linear Dua Variabel 
+Tentukan himpunan penyelesaian dari persamaan linear dua 
+variabel  2x+y=8, jika:
+B	 Nilai x dan y adalah bilangan cacah.
+C	 Nilai x dan y adalah bilangan bulat.
+D	 Nilai x dan y adalah bilangan real.
+Alternatif Penyelesaian
+B	 Misalkan nilai  x=1 dan y=5, nilai x dan y tersebut merupakan 
+bilangan cacah tetapi tidak memenuhi persamaan 2x+y=8. 
+Nilai   x=5 dan y=-2  memenuhi persamaan  2x+y=8, tetapi 
+nilai y bukan bilangan cacah. Nilai x=1 dan y=6 merupakan 
+bilangan cacah dan memenuhi persamaan 2x+y=8. Bilangan 
+cacah x dan y yang memenuhi persamaan 2x+y=8 dapat kalian 
+lihat pada Tabel 1.2.
+ Bab I - Sistem Persamaan Linear Dua Variabel
+7
+Tabel 1.2 Pasangan Bilangan Cacah x dan y yang Memenuhi 
+Persamaan 2x+y=8
+x
+y
+2x+y
+0
+8
+8
+1
+6
+8
+2
+4
+8
+3
+2
+8
+4
+0
+8
+Informasi pada Tabel 1.2 disajikan pada Gambar 1.5.
+0
+1
+3
+4
+5
+6
+8
+2
+4
+6
+5
+8
+7
+1
+3
+x
+y
+2
+7
+(4, 0)
+(3, 2)
+(2, 4)
+(1, 6)
+(0, 8)
+Gambar 1.5 Grafik Persamaan 2x+y=8, dengan x dan y Bilangan Cacah
+Jadi, himpunan penyelesaian dari persamaan linear dua variabel 
+2x+y=8 dengan nilai x dan y merupakan bilangan bulat adalah 
+( , ),( , ),( , ),( , ),( , )
+0 8
+1 6
+2 4
+3 2
+4 0
+"
+,.
+C	 Misalkan nilai x
+2
+1
+=
+  dan y=7 , nilai x dan y tersebut 
+memenuhi persamaan 2x+y=8  tetapi nilai x bukan 
+bilangan bulat. Nilai x=-3 dan y=14 merupakan bilangan 
+bulat dan memenuhi persamaan 2x+y=8. Bilangan bulat 
+x dan y yang memenuhi persamaan  2x+y=8 dapat kalian 
+lihat pada Tabel 1.3.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+8
+Tabel 1.3 Pasangan Bilangan Bulat x dan y  yang Memenuhi 
+Persamaan 2x+y=8
+x
+y
+ 2x+y
+…
+…
+…
+-3
+14
+8
+-2
+12
+8
+-1
+10
+8
+0
+8
+8
+1
+6
+8
+2
+4
+8
+3
+2
+8
+…
+…
+…
+Nilai x dan y berupa anggota bilangan bulat, sehingga terdapat 
+tak hingga tetapi tercacah banyaknya penyelesaian dari sistem 
+persamaan linear dua variabel (dapat dilihat pada Gambar 1.6).
+2
+4
+6
+8
+10
+–2
+–4
+–6
+–8
+2
+4
+6
+8
+10
+12
+14
+y
+–2
+–4
+0
+x
+(7, –6)
+(6, –4)
+(5, –2)
+(4, 0)
+(3, 2)
+(2, 4)
+(1, 6)
+(0, 8)
+(–1, 10)
+(–2, 12)
+(–3, 14)
+(–4, 16)
+Gambar 1.6 Grafik Persamaan  2x+y=8, dengan x dan y  Bilangan Bulat
+Jadi, himpunan penyelesaian dari persamaan linear dua variabel 
+2x+y=8 dengan nilai x dan y merupakan bilangan bulat adalah 
+...,( 3,14),( 2,12),( 1,10),(0,8),(1,6),(2,4),(3,2), ...
+-
+-
+-
+#
+-.
+ Bab I - Sistem Persamaan Linear Dua Variabel
+9
+D	 Nilai dari variabel x dan y berupa anggota bilangan real, 
+sehingga terdapat tak hingga (tetapi tidak tercacah) banyaknya 
+penyelesaian dari persamaan linear dua variabel. Jika digambar 
+dalam grafik, himpunan penyelesaian persamaan linear dua 
+variabel merupakan kumpulan semua titik yang membentuk 
+garis lurus dengan persamaan 2x+y=8 (dapat dilihat pada 
+Gambar 1.7). Jadi, himpunan penyelesaian dari persamaan 
+linear dua variabel 2x+y=8  dengan nilai x dan y anggota 
+bilangan real adalah {(x,y)|2x+y=8; x, y
+}.
+2
+4
+6
+8
+10
+–1
+–2
+–3
+–4
+2
+4
+6
+8
+10
+12
+14
+y
+–2
+–4
+0
+x
+Gambar 1.7 Grafik Persamaan 2x+y=8, dengan x dan y  Bilangan Real
+Tentukan himpunan penyelesaian dari persamaan linear dua 
+variabel  -3x+2y=12, jika:
+B	
+Nilai x dan y adalah bilangan cacah.
+C	
+Nilai x dan y adalah bilangan bulat.
+D	
+Nilai x dan y adalah bilangan real.
+Jika tidak dituliskan secara spesifik, maka nilai variabel dari persamaan 
+linear dua variabel mewakili bilangan real.
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+10
+Matematika dan Sains
+Mengukur Berat dengan Neraca Pegas
+Carilah satu benda di dekat kalian (misalnya pensil 
+atau bolpoin), kemudian perkirakan panjang dan 
+beratnya! Mana yang lebih mudah: memperkirakan 
+panjang atau beratnya? Bagi sebagian besar orang, 
+memperkirakan panjang suatu benda lebih mudah 
+dibandingkan dengan memperkirakan beratnya. Hal 
+ini dikarenakan panjang suatu benda dapat diamati 
+secara langsung.
+	
+Fakta tersebut digunakan dalam neraca pegas. 
+Ketika kita menimbang suatu benda dengan neraca 
+pegas (lihat Gambar 1.8), berat benda tersebut ditunjukkan dengan 
+seberapa jauh pegasnya memanjang. Akan tetapi, agar cara 
+menimbang seperti ini benar, kita perlu memastikan bahwa berat 
+benda yang ditimbang proporsional dengan panjang regangan 
+pegasnya. Namun hal tersebut telah dijamin oleh Hukum Hooke.
+	
+Untuk pegas tertentu, pegas tersebut akan meregang sejauh 
+2,4 cm ketika diberi beban 200 g, meregang 4,8 cm ketika diberi 
+beban 400 g, meregang sejauh 7,2 cm ketika diberi beban 600 g, 
+dan demikian seterusnya. Hubungan antara peregangan pegas dan 
+berat bebannya dapat dimodelkan ke dalam grafik berikut ini.
+2
+0
+4
+6
+8
+10
+12
+x
+200
+400
+600
+800
+1000
+y
+Peregangan Pegas (cm)
+Gambar 1.9 Grafik Hubungan antara Peregangan Pegas dan Berat Beban
+Hubungan tersebut dapat dimodelkan ke dalam persamaan linear 
+dua variabel berikut
+Gambar 1.8 
+Neraca Pegas
+ Bab I - Sistem Persamaan Linear Dua Variabel
+11
+y =
+x
+3
+250
+ atau 250x-3y=0
+dengan y adalah berat beban dan x adalah panjang peregangannya.
+	
+Di dalam ilustrasi tersebut kita dapat melihat bahwa ilmu 
+pengetahuan alam dapat membantu kita untuk mengukur 
+berat suatu benda dengan neraca pegas. Neraca pegas tersebut 
+menggunakan Hukum Hooke yang menjamin bahwa peregangan 
+suatu pegas proporsional dengan berat bebannya. Hubungan 
+antara peregangan pegas dan berat beban tersebut selanjutnya 
+dapat dimodelkan ke dalam persamaan linear dua variabel. Dengan 
+cara seperti ini, kita dapat menentukan berat suatu benda dengan 
+melihat seberapa jauh peregangan pegasnya. Menarik bukan? 
+Latihan
+A
+Persamaan Linear Dua Variabel
+Kerjakan latihan berikut dengan teliti dan benar.
+Pemahaman Konsep
+B	 Di antara persamaan-persamaan berikut ini, manakah yang 
+merupakan persamaan linear dua variabel berdasarkan Definisi 
+1.1?
+ⓐ	 3p–6=7
+ⓑ	 3a=5–b
+ⓒ	 2p–7q=–3p
+ⓓ	 –n–3=4n
+ⓔ	 x
+y
+2
+5
+2
+10
++
+=
+C	 Tentukan apakah pasangan berurutan berikut merupakan salah 
+satu penyelesaian dari persamaan yang diberikan.
+ⓐ	 
+; ( ,
+)
+y
+x
+5
+0 5
+ 
+ 
+=
+ⓑ	 
+;
+,
+y
+x
+2
+7
+2
+1
+6
+ 
+ 
+=
+-
+-
+a
+k
+ⓒ	 
+; (
+, )
+x
+y
+3
+4
+6
+2 3
+-
+-
+=-
+-
+ⓓ	 
+; (
+,
+)
+y
+x
+2
+3
+4
+3
+5
+ 
+ 
+=
++
+-
+-
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+12
+Penerapan Konsep
+B	 Tentukan persamaan dari grafik berikut.
+ⓐ	
+2
+4
+x
+y
+0
+–2
+–4
+	
+ⓑ	
+2
+4
+x
+y
+0
+2
+4
+	
+ⓒ	
+–2
+–4
+x
+y
+0
+2
+4
+	 
+C	 Tentukan himpunan penyelesaian dari persamaan linear dua 
+variabel  x
+y
+2
+3
+3
++
+=
+, jika:
+ⓐ	 Nilai x dan y adalah bilangan cacah;
+ⓑ	 Nilai x dan y adalah bilangan real.
+D	 Nyatakan pernyataan berikut ke dalam bentuk persamaan linear 
+dua variabel.
+ⓐ	 Diketahui harga tiket film di suatu bioskop Rp35.000,00. y 
+menyatakan pendapatan dari hasil penjualan tiket dan x 
+menyatakan banyak tiket terjual.
+ⓑ	 Tarif listrik R-1/tegangan rendah dengan daya 1300 watt pada 
+tahun 2022 adalah Rp1.444,70 per kWh dan dikenakan biaya 
+administrasi Rp6.000,00 per bulan. 
+ⓒ	 Harga 2 ekor sapi dan 5 ekor kambing Rp64.000.000,00.
+B.	 Sistem Persamaan Linear Dua Variabel
+Untuk memahami ide tentang sistem persamaan linear dua variabel, 
+ayo kerjakan aktivitas eksplorasi berikut.
+Eksplorasi
+1.2 	 Waktunya Bercerita!
+Sekarang kalian diminta untuk bercerita. Apakah kalian siap? Ayo 
+perhatikan Gambar 1.10 berikut!
+ Bab I - Sistem Persamaan Linear Dua Variabel
+13
+0
+Gambar 1.10 Grafik untuk 
+Diceritakan
+B	 Carilah situasi yang pernah kalian lihat atau alami dan dapat 
+dimodelkan ke dalam grafik pada Gambar 1.10!
+C	 Buatlah sebuah cerita tentang situasi pada nomor 1!
+D	 Sampaikan cerita tersebut pada teman kalian dan mintalah dia 
+menghubungkan cerita kalian dengan grafik pada Gambar 1.10
+Di aktivitas eksplorasi selanjutnya, kalian diajak untuk memahami 
+konsep sistem persamaan linear dua variabel.
+Eksplorasi
+1.3 	 Konsep Sistem Persamaan Linear Dua 
+Variabel
+Melalui 
+kegiatan 
+eksplorasi 
+ini, 
+kalian diajak untuk menemukan 
+konsep sistem persamaan linear dua 
+variabel. Perhatikan permasalahan 
+berikut. 
+	
+Pada pukul 08.00 Putri melakukan 
+perjalanan dari Yogyakarta menuju 
+Semarang dengan kecepatan 60 km/
+jam. Setengah jam setelah Putri 
+berangkat, Akbar berangkat dari lokasi yang sama. Akbar melaku­
+kan perjalanan dengan kecepatan 80 km/jam melalui jalan dan arah 
+yang sama dengan Putri.
+Gambar 1.11 Perjalanan
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+14
+Jawablah pertanyaan-pertanyaan berikut.
+B	 Kalimat-kalimat berikut ini cocok dikatakan oleh Putri atau 
+Akbar? Centanglah kolom yang sesuai atau kosongkan jika tidak 
+sesuai.
+	 	
+Tabel 1.4 Pernyataan Putri atau Akbar
+Pernyataan
+Putri
+Akbar
+Saya menempuh jarak 0 km, saat 2
+1 jam 
+setelah pukul 08.00.
+Saya menempuh jarak 30 km, saat 2
+1 
+jam setelah pukul 08.00.
+Saya menempuh jarak 40 km, saat 1 jam 
+setelah pukul 08.00.
+Saya menempuh jarak 60 km, saat 1 jam 
+setelah pukul 08.00.
+Saya menempuh jarak 80 km, saat 2
+3 
+jam setelah pukul 08.00.
+Saya menempuh jarak 90 km, saat 2
+3 
+ 
+jam setelah pukul 08.00.
+C	 Kasus Putri dan Akbar disajikan pada Gambar 1.12
+	
+1
+2
+3
+4
+50
+100
+150
+200
+250
+x
+y
+0
+Waktu (jam)
+Jarak (km)
+1
+2
+1
+2
+1
+1
+2
+2
+1
+2
+3
+1
+2
+4
+	
+Gambar 1.12 Grafik Perjalanan Putri dan Akbar
+ⓐ	 Perhatikan Gambar 1.12, garis berwarna apa yang menyatakan 
+kasus Putri? Garis berwarna apa yang menyatakan kasus 
+Akbar?
+ Bab I - Sistem Persamaan Linear Dua Variabel
+15
+ⓑ	 Jelaskan makna dari kemiringan setiap garis.
+ⓒ	 Tentukan titik potong kedua garis, kemudian jelaskan makna 
+dari titik potong dua garis.
+	
+Sebagai alternatif kegiatan Eksplorasi 1.3, kalian dapat ber­eksplo­
+rasi melalui aktivitas interaktif berikut.
+Aktivitas Interaktif
+Aktivitas interaktif ini tujuannya serupa dengan 
+kegiatan Eksplorasi 1.3. Untuk mengaksesnya, 
+silakan kunjungi tautan https://student.desmos.
+com/ dan masukkan kode kelas yang diberikan 
+guru kalian.
+Dalam Eksplorasi 1.3 kalian telah mengenal sistem persamaan 
+linear dua variabel. Apa definisi dari sistem persamaan linear dua 
+variabel? Ayo kita cermati definisi berikut.
+Definisi
+1.2  Sistem Persamaan Linear Dua Variabel
+Apabila terdapat dua buah persamaan linear dua variabel yang 
+berbentuk  ax
+by
+c
++
+=
+ dan  dx
+ey
+f
++
+=
+, dengan persamaan satu 
+dan lainnya saling berkaitan maka kedua persamaan tersebut 
+dinamakan sistem persamaan linear dua variabel. Bentuk umum 
+sistem persamaan linear dua variabel adalah sebagai berikut.
+ax
+by
+c
+dx
+ey
+f
++
+=
++
+=
+)
+x, y adalah variabel dengan  a, b, c, d, e,   
+ 
+Penyelesaian sistem persamaan linear dua variabel yang berbentuk 
+ax
+by
+c
+dx
+ey
+f
++
+=
++
+=
+)
+  dapat ditentukan dengan mencari nilai x dan y yang 
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+16
+memenuhi kedua persamaan linear tersebut. Penyelesaian sistem 
+persamaan linear dua variabel tersebut dapat ditulis sebagai pasangan 
+bilangan berurutan (x, y). 
+Contoh
+1.3
+Sistem Persamaan Linear Dua Variabel
+Perhatikan informasi di bawah ini.
+Gambar 1.13  Harga Susu Kedelai dan Susu Sapi
+Apabila harga 1 botol susu kedelai dinyatakan dengan x dan harga 
+1 botol susu sapi dinyatakan dengan y, modelkan informasi pada 
+Gambar 1.13 ke dalam sistem persamaan linear dua variabel.
+Alternatif Penyelesaian
+Variabel x menyatakan harga 1 botol susu kedelai dan variabel y 
+menyatakan harga 1 botol susu sapi.
+Harga susu 
+kedelai
+Harga susu 
+sapi
+Total harga 
+(Rupiah)
+Kasus I
+2x
+3y
+36.000
+Kasus II
+x
+4y
+38.000
+Dengan demikian, sistem persamaan linear dari informasi tersebut 
+adalah sebagai berikut.
+.
+.
+x
+y
+x
+y
+2
+3
+36 000
+4
+38 000
++
+=
++
+=
+)
+ Bab I - Sistem Persamaan Linear Dua Variabel
+17
+Perhatikan informasi di bawah ini.
+Gambar 1.14  Harga Baju Batik dan Celana Panjang
+Jika harga 1 baju batik dinyatakan dengan p dan harga 1 celana 
+panjang dinyatakan dengan q, modelkan informasi pada 
+Gambar 1.14 ke dalam sistem persamaan linear dua variabel.	
+Untuk menyelesaikan sistem persamaan linear dua variabel dapat 
+dilakukan dengan metode berikut.
+1.	
+Metode Grafik
+Kalian sudah mempelajari konsep sistem persamaan linear dua 
+variabel. Kalian dapat menentukan penyelesaian dari sistem persamaan 
+linear dua variabel dengan menggunakan metode grafik. Langkah-
+langkah penyelesaian sistem persamaan linear dua variabel dengan 
+menggunakan metode grafik adalah sebagai berikut.
+B	 Menggambar grafik kedua persamaan pada satu bidang koordinat.
+C	 Menentukan perkiraan titik potong kedua grafik (jika ada).
+D	 Memeriksa kembali titik potong kedua grafik dengan memasukkan 
+nilai dari variabel ke setiap persamaan.
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+18
+Agar lebih memahami cara penyelesaian sistem persamaan linear 
+dua variabel dengan metode grafik, mari kita amati Contoh 1.4.
+Contoh
+1.4
+Menggunakan Metode Grafik 
+Dengan menggunakan metode grafik, tentukan penyelesaian dari 
+sistem persamaan linear berikut.
+x
+y
+x
+y
+4
+3
+24
+2
+10
+-
+=
+-
+=
+)
+Alternatif Penyelesaian
+Untuk memudahkan kalian dalam menggambar grafik, tentukan 
+titik potong sumbu x dan sumbu y.
+4x-3y=24
+2x-y=10
+x
+0
+6
+x
+0
+5
+y
+-8
+0
+y
+-10
+0
+(x, y)
+(0, -8)
+(6, 0)
+(x, y)
+(0, -10)
+(5, 0)
+ 
+2
+4
+6
+8
+10
+12
+–2
+–4
+–6
+–8
+-10
+–12
+2
+y
+–2 0
+x
+2x – y = 10
+4x – 3y = 24
+Gambar 1.15  Grafik 
+x
+y
+x
+y
+4
+3
+24
+2
+10
+-
+=
+-
+=
+)
+.
+Gambar 1.15 merupakan grafik dari sistem persamaan linear 
+x
+y
+x
+y
+4
+3
+24
+2
+10
+-
+=
+-
+=
+)
+.
+Pada Gambar 1.15, terlihat bahwa perkiraan titik potong kedua 
+persamaan adalah (3,-4). Untuk memastikan apakah (3,-4) 
+ Bab I - Sistem Persamaan Linear Dua Variabel
+19
+merupakan titik potong kedua garis tersebut, periksalah dengan 
+memasukkan nilai x dan y ke dalam setiap persamaan.
+Persamaan: 	
+4x-3y	
+?
+= 	24	
+ 2x-y	
+?
+= 	 10
+	
+	
+4(3)-3(-4)	
+?
+= 	24	
+2(3)-(-4)	
+?
+= 	 10
+	
+	
+12+12	
+?
+= 	 24	
+6+4	
+?
+= 	 10
+	
+	
+24	 =	 24 (Benar)	
+10	=	 10 (Benar) 
+Jadi, penyelesaian dari sistem persamaan linear dua variabel 
+x
+y
+x
+y
+4
+3
+24
+2
+10
+-
+=
+-
+=
+)
+adalah  (3,-4).
+Dengan menggunakan metode grafik, tentukan penyelesaian 
+dari sistem persamaan linear berikut. 
+x
+y
+x
+y
+6
+5
+9
+2
+3
+3
++
+=
+-
+=
+)
+Aktivitas Interaktif
+Untuk membantu pemahaman penyelesaian 
+sistem 
+persamaan 
+linear 
+dua 
+variabel 
+menggunakan metode grafik, lakukan aktivitas 
+interaktif berikut ini. Pindai kode QR atau buka 
+tautan berikut! 
+http://ringkas.kemdikbud.go.id/
+MengenalSPLDV 
+Eksplorasi
+1.4
+  Menggunakan Metode Grafik
+Gambarlah grafik setiap sistem persamaan linear dua variabel 
+berikut untuk melihat penyelesaiannya!
+ⓑ	
+2
+2
+2
+2
+y
+x
+y
+x
+=
+-
+=
++
+)
+	
+ⓑ 
+x
+y
+x
+y
+2
+4
+1
++
+=
+-
+=-
+)
+ 
+ⓒ 
+x
+y
+x
+y
+2
+3
+6
+4
+6
+12
+-
+=-
+-
++
+=
+)
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+20
+Berdasarkan grafik yang telah kalian gambar, ada berapa banyak 
+penyelesaian setiap sistem persamaan tersebut? Mengapa?	
+Dari Eksplorasi 1.4 dapat kita lihat bahwa penyelesaian sistem 
+persamaan linear dua variabel dapat memiliki tepat satu penyelesaian 
+(lihat Gambar 1.16), tidak memiliki penyelesaian (lihat Gambar 
+1.17), atau mempunyai tak hingga penyelesaian (lihat Gambar 1.18). 
+Perhatikan gambar berikut ini. 
+Gambar 1.16 Dua Garis 
+Berpotongan di Tepat 
+Satu Titik
+Gambar 1.17. Dua Garis 
+Tidak Berpotongan 
+(Sejajar)
+Gambar 1.18 Dua Garis 
+Berpotongan di Tak 
+Hingga Titik (Berimpit)
+x
+0
+y
+x
+0
+y
+x
+0
+y
+	
+Dengan menggunakan gradien (kemiringan) garis, apakah kalian 
+dapat menentukan penyelesaian sistem persamaan linear dua 
+variabel yang memiliki satu penyelesaian, banyak penyelesaian, 
+atau tidak memiliki penyelesaian? Jelaskan.
+2.	
+Metode Substitusi
+Pada bagian sebelumnya kalian telah belajar menggunakan metode 
+grafik. Apakah ada cara lain untuk menyelesaikan sistem persamaan 
+linear dua variabel? Ayo cari tahu dengan mengerjakan Eksplorasi 1.5 
+berikut ini!
+Ayo Berpikir Kritis 1.1
+ Bab I - Sistem Persamaan Linear Dua Variabel
+21
+Eksplorasi
+1.5 Mencermati Pekerjaan Rafael
+Ketika mengerjakan Eksplorasi 1.3, Rafael menyelesaikan model 
+matematika yang dia peroleh seperti berikut.
+Gambar 1.19 Pekerjaan Rafael
+Jelaskan strategi yang digunakan Rafael dalam menemukan nilai x 
+dan y!
+Di Eksplorasi 1.5, kalian telah mengenal cara lain untuk 
+menyelesaikan sistem persamaan linear dua variabel. Cara tersebut 
+disebut dengan metode substitusi. Untuk melihat penggunaan metode 
+substitusi, mari cermati Contoh 1.5 berikut!
+Contoh
+1.5
+Menggunakan Metode Substitusi
+Perhatikan permasalahan pak Ahmad berikut, kemudian bantulah 
+pak Ahmad untuk menyelesaikan permasalahan tersebut.
+Hari yang cerah,
+jalan ke toko sepeda.
+Langsung
+Masuk saja.
+Silakan pak,
+ada yang bisa
+kami bantu?
+Saya berencana
+membeli sepeda.
+ok pak.
+Saya membeli
+untuk dijual kembali.
+Garasi toko saya 
+dapat menampung 
+25 sepeda.
+Itu ada 
+sepeda gunung 
+dan sepeda balap.
+Ini jenis sepeda
+apa saja?
+Berapa harga 
+dari setiap jenis 
+sepeda itu?
+Beli berapa
+banyak ya?
+Uang saya
+Rp42.000.000,00.
+1 buah sepeda gunung
+harganya Rp1.500.000,00
+dan 1 buah sepeda balap
+harganya Rp2.000.000,00.
+Bapak akan membeli berapa?
+Gambar 1.20 Permasalahan Pak Ahmad  
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+22
+Alternatif Penyelesaian
+Misalkan 	x menyatakan banyak sepeda gunung
+	
+	 	
+y menyatakan banyak sepeda balap
+sistem persamaan linear dari kasus tersebut adalah:
+II
+persamaan 
+I
+persamaan 
+.
+.
+.
+.
+.
+.
+x
+y
+x
+y
+25
+1 500 000
+2 000 000
+42 000 000 
++
+=
++
+=
+*
+   
+	
+Persamaan linear dua variabel tersebut dapat disederhanakan 
+dengan membagi persamaan II dengan 500.000, maka diperoleh 
+sistem persamaan sebagai berikut.
+II
+persamaan 
+I
+persamaan 
+x
+y
+x
+y
+25
+3
+4
+84 
++
+=
++
+=
+*
+   
+	
+Untuk menyelesaikan sistem persamaan linear tersebut dengan 
+menggunakan metode substitusi, kita lakukan langkah-langkah 
+berikut ini.
+Langkah pertama: Pilih salah satu persamaan, misal persamaan I 
+kemudian nyatakan salah satu variabelnya dalam bentuk variabel 
+lain.
+Persamaan I diubah menjadi x=25–y. 
+Langkah kedua: Substitusikan atau gantikan persamaan yang 
+diperoleh dari langkah pertama ke persamaan lain pada sistem 
+persamaan linear dua variabel.  
+Substitusikan x=25-y ke persamaan ke II, diperoleh:
+	
+3(25-y)+4y	 =	 84
+	
+75-3y+4y	 =	 84
+	
+75+y	 =	 84
+	
+y	 =	
+9
+Langkah ketiga: Substitusi nilai variabel yang sudah diperoleh dari 
+langkah kedua pada salah satu persamaan, untuk memperoleh nilai 
+variabel lain. 
+Substitusikan nilai y=9 ke x=25-y diperoleh nilai x=16.
+Dari uraian sebelumnya diperoleh nilai x=16  dan y=9 , sehingga 
+penyelesaian dari 
+x
+y
+x
+y
+25
+3
+4
+84
++
+=
++
+=
+)
+ adalah (16, 9). Jadi, banyaknya 
+sepeda yang akan dibeli pak Ahmad adalah 16 buah sepeda gunung 
+dan 9 buah sepeda balap.
+ Bab I - Sistem Persamaan Linear Dua Variabel
+23
+Seorang pemilik rumah membagi sebagian halaman belakang 
+rumahnya untuk dijadikan kebun sayuran. Lebar kebun 
+tersebut adalah 4 meter lebih pendek dari panjangnya. Keliling 
+kebun sayur tersebut adalah 52 m. Berapakah luas kebun sayur 
+itu?
+1.		 Menurut kalian, sistem persamaan linear yang bagaimana 
+yang mudah diselesaikan menggunakan metode substitusi?
+2.		 Cara Joko menyelesaikan sistem persamaan linear dua variabel 
+x
+y
+x
+y
+2
+10
+2
+3
+6
++
+=
+-
++
+=-
+)
+ adalah sebagai berikut.
+x
+y
+x
+y
+2
+10
+2
+10
+&
++
+=
+=-
++
+y
+y
+2
+10
+2
+10
+-
++
++
+=
+x
+y
+2
+10
+10
+10
++
+=
+=
+Jadi, sistem persamaan linear  
+x
+y
+x
+y
+2
+10
+2
+3
+6
++
+=
+-
++
+=-
+)
+ memiliki banyak 
+penyelesaian.
+Apakah pekerjaan Joko sudah tepat? Apabila belum tepat, 
+bantulah Joko menyelesaikan sistem persamaan tersebut.
+3. 	 Metode Eliminasi
+Selain metode grafik dan metode substitusi, ternyata masih ada cara 
+lain untuk menyelesaikan sistem persamaan linear dua variabel. Untuk 
+mengetahuinya, kerjakan Eksplorasi 1.6 berikut!
+Ayo Mencoba
+Ayo Berpikir Kritis 1.2
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+24
+Eksplorasi
+1.6  Mencermati Pekerjaan Butet
+Butet memiliki cara yang berbeda dengan Rafael (di Eksplorasi 1.5) 
+dalam menyelesaikan permasalahan di Eksplorasi 1.3. Model yang 
+didapatkan Butet adalah seperti ini.
+x
+y
+x
+y
+60
+0
+80
+40
+-
+=
+-
+=
+)
+Untuk menyelesaikan sistem tersebut, Butet menggunakan strategi 
+seperti pada Gambar 1.20 berikut.
+Gambar 1.21 Pekerjaan Butet
+Cermati pekerjaan Butet tersebut dan jelaskan strategi yang 
+digunakan Butet untuk menemukan nilai x dan y!
+Di Eksplorasi 1.6 kalian telah mengenal metode eliminasi. 
+Sesuai namanya, ide utama metode ini adalah mengeliminasi atau 
+menghilangkan satu variabel untuk menyelesaikan variabel lainnya. 
+Untuk melihat penggunaan metode ini secara detail, ayo cermati Contoh 
+1.6 berikut!
+Contoh
+1.6
+Menggunakan Metode Eliminasi
+Tentukan penyelesaian sistem persamaan berikut dengan metode 
+eliminasi.
+ 
+x
+y
+x
+y
+3
+4
+15
+5
+2
+12
+-
+=
++
+=
+)
+ Bab I - Sistem Persamaan Linear Dua Variabel
+25
+Alternatif Penyelesaian
+Sistem persamaan linear dua variabel yang diberikan adalah 
+sebagai berikut.
+x
+y
+x
+y
+3
+4
+15
+5
+2
+12
+   persamaan I
+   persamaan II
+-
+=
++
+=
+*
+Untuk menyelesaikannya, kita lakukan langkah-langkah berikut ini
+Langkah Pertama: Eliminasi variabel x.
+Untuk mengeliminasi variabel x, persamaan I dikalikan dengan 5 
+dan persamaan II dikalikan dengan 3. 
+ 
+x
+y
+x
+y
+x
+y
+x
+y
+3
+4
+15
+2
+12
+5
+3
+15
+20
+75
+15
+6
+36
+ 5
+  
+#
+#
+-
+=
++
+=
+-
+=
++
+=
+y
+y
+y
+26
+39
+26
+39
+1 2
+1
+-
+=
+= -
+=-
+Langkah kedua: Eliminasi variabel y.
+Untuk mengeliminasi variabel y, persamaan I dikalikan dengan 1 
+dan persamaan II dikalikan dengan 2. 
+x
+y
+x
+y
+x
+y
+x
+y
+3
+4
+15
+2
+12
+1
+2
+4
+15
+10
+4
+24
+ 5
+  3
+  
+#
+#
+-
+=
++
+=
+-
+=
++
+=
++
+x
+x
+x
+39
+13
+39
+3
+13 =
+=
+=
+Jadi, penyelesaian dari  
+x
+y
+x
+y
+3
+4
+15
+5
+2
+12
+-
+=
++
+=
+)
+ adalah 
+,3
+1 2
+1
+-
+a
+k.
+Tentukan penyelesaian sistem persamaan berikut dengan 
+metode eliminasi.
+ 
+x
+y
+x
+y
+3
+7
+5
+5
+2
+22
++
+=
+-
+=
+)
+  
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+26
+Buatlah sistem persamaan linear dua variabel yang penyelesaian­
+nya adalah (2,-5).
+Di bagian ini kalian akan diajak untuk berkolaborasi dengan teman 
+kalian. Akan tetapi, nomor 1 berikut digunakan sebagai pemanasan 
+sebelum kalian melakukan kolaborasi.
+B	 Abel pergi ke rumah Dhien. Dhien pergi ke rumah Abel. Kapan 
+mereka akan berpapasan?
+C	 Berpasanganlah dengan satu teman kalian. Guru kalian akan 
+memberikan selembar kartu masalah atau kartu data. Jangan 
+tunjukkan kartu yang kalian dapat ke pasangan kalian!
+Lakukan hal-hal berikut jika 
+kalian mendapatkan kartu 
+masalah.
+ⓐ	
+Bacalah di dalam hati masalah 
+yang tertulis pada kartu 
+tersebut. Pikirkan informasi 
+apa saja yang kalian perlukan 
+untuk menjawab masalah 
+tersebut.
+ⓑ	
+Tanyakan informasi yang 
+kalian perlukan ke pasangan 
+kalian.
+ⓒ	
+Kalian perlu menanyakan 
+beberapa informasi ke 
+pasangan kalian agar kalian 
+dapat mengerjakan masalah 
+yang diberikan.
+ⓓ	
+Perlihatkan kartu masalahnya 
+kepada teman kalian agar 
+masalahnya dapat dikerjakan 
+secara individu.
+ⓔ	
+Baca kartu data yang 
+dimiliki pasanganmu dan 
+berdiskusilah tentang jawaban 
+kalian masing-masing.
+Lakukan hal-hal berikut jika 
+kalian mendapatkan kartu data.
+ⓐ	
+Bacalah di dalam hati 
+informasi yang ada pada kartu 
+tersebut.
+ⓑ	
+Tanyakan kepada pasangan 
+kalian, “Informasi apa yang 
+kamu perlukan?”
+	
+Jika kalian tidak mengetahui 
+informasi yang ditanyakan, 
+katakan bahwa kalian tidak 
+memiliki informasinya.
+ⓒ	
+Tanyakan kepada pasangan 
+kalian, “Mengapa kamu 
+memerlukan informasi 
+tersebut?”
+ⓓ	
+Baca kartu masalah yang 
+dimiliki pasanganmu dan 
+kerjakan masalah tersebut 
+secara mandiri.
+ⓔ	
+Bagikan kartu datanya ke 
+teman kalian dan diskusikan 
+jawaban kalian masing-
+masing.
+Ayo Berpikir Kreatif 1.1
+Ayo Bekerja Sama
+ Bab I - Sistem Persamaan Linear Dua Variabel
+27
+4.	
+Metode Campuran
+Kalian telah mempelajari penyelesaian sistem persamaan linear dua 
+variabel menggunakan metode grafik, metode substitusi, dan eliminasi. 
+Sekarang kalian akan belajar metode berikutnya, yaitu metode 
+campuran.
+Perhatikan Contoh 1.7 berikut untuk melihat penggunaan metode 
+campuran dalam menyelesaikan sistem persamaan linear dua variabel.
+Contoh
+1.7
+Menggunakan Metode Campuran
+Tentukan penyelesaian sistem persamaan berikut dengan metode 
+campuran.
+x
+y
+x
+y
+3
+11 2
+1
+4
+5
+5
+-
+=
++
+=-
+*
+Alternatif Penyelesaian
+Berikut ini adalah sistem persamaan yang diberikan.
+x
+y
+x
+y
+3
+11 2
+1
+4
+5
+5
+   persamaan I
+    persamaan II
+-
+=
++
+=-
+*
+Untuk menyelesaikannya, kita lakukan langkah-langkah berikut ini.
+Langkah Pertama: Eliminasi salah satu variabel.
+Untuk mengeliminasi variabel x, persamaan I dikalikan dengan 4 
+dan persamaan II dikalikan dengan 1. 
+  
+x
+y
+x
+y
+x
+y
+x
+y
+3
+11 2
+1
+4
+5
+5
+4
+1
+4
+12
+46
+4
+5
+5
+#
+#
+-
+=
++
+=-
+-
+=
++
+=-
+  
+   
+y
+y
+y
+17
+51
+17
+51
+3
+-
+=
+= -
+=-
+Langkah Kedua: Substitusikan nilai variabel ke salah satu 
+persamaan pada sistem persamaan linear dua variabel.
+Substitusi y=-3  ke persamaan I.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+28
+(
+)
+x
+y
+x
+x
+x
+x
+3
+11 2
+1
+3
+3
+11 2
+1
+9
+11 2
+1
+11 2
+1
+9
+2 2
+1
+-
+=
+-
+-
+=
++
+=
+=
+-
+=
+Jadi, penyelesaian sistem persamaan yang diberikan adalah 
+,
+2 2
+1
+3
+-
+a
+k. 
+Tentukan penyelesaian sistem persamaan berikut dengan 
+metode campuran.	
+x
+y
+x
+y
+3
+7
+1
+2
+5
+20
+-
++
+=
++
+=-
+)
+ 	
+Nusa Tenggara Timur (NTT) merupakan 
+provinsi yang kaya akan warisan budaya, 
+salah satunya kain tenun. Garlola dan Laberi 
+pergi ke toko kain NTT untuk membeli kain 
+tenun. Garlola membeli 5 tenun buna dan 
+2 tenun ikat dengan harga Rp5.150.000,00. 
+Laberi membeli 2 tenun buna dan 3 tenun 
+ikat dengan total harga Rp3.050.000,00. 
+Tanesya akan membeli kain tenun di 
+tempat yang sama dan dia memiliki uang 
+Rp5.500.000,00. Menurut Tanesya uangnya 
+cukup untuk membeli 9 kain tenun, tetapi menurut Laberi uang 
+Tanesya tidak cukup. Menurut Garlola tergantung jenis tenun yang 
+akan dibeli Tanesya. Pernyataan manakah yang benar? Mengapa? 
+Ayo Mencoba
+Gambar 1.22 Kain 
+Tenun NTT
+Ayo Berpikir Kritis 1.4
+ Bab I - Sistem Persamaan Linear Dua Variabel
+29
+Aktivitas Interaktif
+Aktivitas interaktif ini mengajak kalian meracik 
+warna. 
+Ayo 
+kunjungi 
+https://student.desmos.
+com/ atau pindai kode QR di samping, kemudian 
+masukkan kode kelas yang diberikan oleh guru 
+kalian!
+Latihan
+B
+Sistem Persamaan Linear Dua Variabel
+Pemahaman Konsep
+B	 Benar atau salah. Pasangan (x, y ) merupakan penyelesaian suatu 
+sistem persamaan linear dua variabel apabila nilai x dan y tersebut 
+memenuhi semua persamaan pada sistem persamaan tersebut.
+C	 Benar atau salah. Diberikan sistem persamaan  
+ax
+by
+c
+px
+qy
+r
++
+=
++
+=
+)
+. Jika 
+p
+a
+q
+b
+=
+ maka sistem persamaan linear dua variabel tersebut 
+mempunyai tepat satu penyelesaian.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+30
+D	 Pasangkan sistem persamaan linear dua variabel berikut dengan 
+grafiknya.
+ⓐ	
+x
+y
+x
+y
+3
+2
+6
+2
+7
++
+=
+-
+-
+=
+)
+	
+	
+ 
+ⓑ	
+x
+y
+x
+y
+7
+2
+4
+5
+3
+5
+-
+=-
+-
++
+=-
+)
+	
+ⓒ 
+x
+y
+x
+y
+3
+4
+6
+4
+1
+3
+1
+2
+1
+-
+=
+-
+=
+*
+Penerapan Konsep 
+E	 Selesaikan sistem persamaan berikut dengan menggunakan metode 
+grafik.
+ⓐ	
+x
+y
+x
+y
+2
+3
+26
+-
+=
++
+=
+)
+	
+ⓑ	
+x
+y
+x
+y
+4
+8
+2
+2
+2
+1
+-
+=-
+-
+=-
+*
+F	 Selesaikan sistem persamaan berikut dengan menggunakan metode 
+substitusi.
+ⓐ	
+x
+y
+x
+y
+4
+8
+11
+5
+1
+-
+=
++
+=
+)
+	
+ⓑ	
+x
+y
+x
+y
+2
+1
+2
+3
+5
+=
++
++
+=-
+)
+2
+0
+x
+y
+–2
+2
+–2
+0
+x
+y
+2
+2
+0
+x
+y
+ Bab I - Sistem Persamaan Linear Dua Variabel
+31
+G	 Selesaikan sistem persamaan berikut dengan menggunakan metode 
+eliminasi.
+ⓐ	
+x
+y
+x
+y
+3
+4
+11
+3
+1
+6
+2
+-
+=-
++
+=
+*
+	
+ⓑ	
+x
+y
+x
+y
+4
+5
+2
+8
+5
+5
++
+=-
+-
+=
+)
+	
+ 
+H	 Selesaikan sistem persamaan berikut dengan menggunakan metode 
+campuran.
+ ⓐ	
+x
+y
+x
+y
+2
+5
+49
+4
+6
+70
+-
++
+=-
+-
+=
+)
+	
+ⓑ	
+x
+y
+x
+y
+2
+3
+13
+11
+9
+-
+=
++
+=
+)
+I	 Tentukan nilai n agar sistem persamaan linear 
+x
+y
+x
+ny
+13
+9
+-
+=
+- -
+=
+)
+  tidak 
+memiliki penyelesaian.
+J	 Wayan pergi ke toko kue tradisional untuk membeli kue basung 
+(kue yang berasal dari Sumatera Barat) dan kue mendut (kue yang 
+berasal dari Jawa Tengah). Dia membeli satu kue basung dan tiga 
+kue mendut dengan harga seluruhnya Rp13.500,00. Di toko yang 
+sama, Aisyah membeli dua kue basung dan lima kue mendut dengan 
+harga seluruhnya Rp24.000,00. Berapa harga tiga kue mendut dan 
+tujuh kue basung? 
+K	 Suatu toko alat lukis menjual 40 kuas lukis. Harga kuas lukis jenis 
+I Rp35.000,00 dan harga kuas lukis jenis II Rp24.000,00. Jika uang 
+yang didapat oleh toko tersebut Rp1.103.000,00, maka berapa 
+banyak masing-masing jenis kuas lukis yang terjual?
+L	 Apabila terdapat dua bilangan yang berbeda, tentukan penyelesaian 
+dari teka-teki berikut ini.
+“ 4
+1  dari bilangan pertama ditambah 1 sama dengan  2
+1 dari 
+bilangan kedua.”
+“Bilangan pertama sama dengan 4 lebihnya dari dua kali bilangan 
+kedua.”
+	
+Tentukan nilai bilangan pertama dan bilangan kedua.
+M	 Tentukan nilai  x y
+$
+, jika diketahui sistem persamaan linear berikut.
+x
+y
+x
+y
+y
+x
+5
+7
+3
+3
+2
+7
+6
+8
+2
+5
+5
+1
++
++
+-
++
+=
+- +
++
+=
+Z
+[
+\
+]]]]]
+]]]]]
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+32
+Ringkasan
+B Persamaan linear dua variabel adalah persamaan yang dapat 
+dinyatakan dalam bentuk  ax+by=c, dengan x, y adalah variabel 
+dan 
+ 
+ 
+).
+C	 Apabila terdapat dua persamaan linear dua variabel yang berbentuk 
+ax+by=c dan dx+ey=f , dengan persamaan satu dan lainnya saling 
+berkaitan maka kedua persamaan tersebut dinamakan sistem 
+persamaan linear dua variabel. Bentuk umum sistem persamaan 
+linear dua variabel adalah ax
+by
+c
+dx
+ey
+f
++
+=
++
+=
+)
+  dengan x, y adalah variabel 
+dengan a, b, c, d, e, 
+  .
+D	 Metode yang dapat digunakan untuk menyelesaikan sistem 
+persamaan linear dua variabel adalah metode grafik, metode 
+substitusi, metode eliminasi, dan metode campuran.
+E	 Tiga kasus penyelesaian sistem persamaan linear dua variabel 
+adalah:
+ⓐ	 Sistem 
+persamaan 
+linear 
+dua 
+variabel 
+memiliki 
+satu 
+penyelesaian jika grafik dari kedua persamaan linear 
+pembentuknya berpotongan tepat di satu titik.
+ⓑ	 Sistem persamaan linear dua variabel tidak memiliki 
+penyelesaian jika grafik dari kedua persamaan linear 
+pembentuknya sejajar.
+ⓒ Sistem persamaan linear dua variabel mempunyai banyak 
+penyelesaian jika grafik dari kedua persamaan linear 
+pembentuknya berimpit. 
+F 	Penyelesaian sistem persamaan linear dua variabel dengan metode 
+grafik adalah dengan cara menentukan titik potong kedua grafik 
+persamaan linear.
+G	 Penyelesaian sistem persamaan linear dua variabel dengan 
+metode substitusi dilakukan dengan cara mengganti salah satu 
+variabel dalam variabel lain kemudian mensubstitusikannya pada 
+persamaan lain.
+H	 Penyelesaian sistem persamaan linear dua variabel dengan metode 
+eliminasi dilakukan dengan cara menghilangkan (eliminasi) salah 
+ Bab I - Sistem Persamaan Linear Dua Variabel
+33
+satu variabel dari sistem persamaan linear untuk menentukan nilai 
+dari variabel lain. Proses eliminasi satu variabel dilakukan secara 
+bergantian dengan variabel lainnya.
+I	 Penyelesaian sistem persamaan linear dua variabel dengan metode 
+campuran dilakukan dengan cara eliminasi untuk menentukan 
+nilai dari salah satu variabel kemudian dilanjut substitusi untuk 
+menentukan nilai dari variabel yang lain. 
+Uji Kompetensi
+Uji Pemahaman
+B	 Benar atau salah. Persamaan  
+x
+y
+7
+3
+11
+9
+12
+-
+=
+ bukan merupakan 
+persamaan linear dua variabel.
+C	 Benar atau salah. Titik (4,-1)  merupakan salah satu penyelesaian 
+dari persamaan  
+x
+y
+2
+3
+5
+1
+-
++
+=-
+.
+D	 Benar atau salah. Cara satu-satunya yang dilakukan pada metode 
+eliminasi adalah menambahkan persamaan satu dan persamaan 
+dua.
+E	 Benar atau salah. Diberikan sistem persamaan  
+ax
+by
+c
+px
+qy
+r
++
+=
++
+=
+)
+. Jika 
+p
+a
+q
+b
+r
+c
+!
+=
+, maka sistem persamaan linear tersebut tidak memiliki 
+penyelesaian.
+F	 Apabila grafik dari sistem persamaan linear dua variabel berimpit, 
+maka sistem persamaan linear yang dibentuk dari dua persamaan 
+tersebut memiliki penyelesaian sebanyak _____.
+G	 Tentukan himpunan penyelesaian dari persamaan linear dua 
+variabel  2x+5y=14, jika:
+	ⓐ	 nilai x dan y anggota bilangan cacah;
+	ⓑ	 nilai x dan y anggota bilangan real.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+34
+Penerapan 
+H	 PERDAGANGAN. Harga 3 tangkai bunga lili dan 10 tangkai bunga 
+mawar adalah Rp86.000,00. Buatlah persamaan linear dari masalah 
+tersebut.
+I	 Selesaikan sistem persamaan berikut.
+ⓐ	
+x
+y
+x
+y
+3
+5
+2
+5
+8
+- +
+=-
+-
+=
+)
+	
+ⓑ	
+x
+y
+x
+y
+2
+9
+4
+1
+2
+1
+10
+-
+=-
+-
+=
+*
+ⓒ	
+x
+y
+x
+y
+5
+10
+25
+15
+30
+75
++
+=
++
+=
+)
+	
+ 
+J	 Tentukan nilai n agar sistem persamaan berikut tidak memiliki 
+penyelesaian.
+ⓐ	
+x
+y
+x
+ny
+2
+7
+2
+9
+- +
+=-
+-
+=
+)
+	
+ⓑ	
+x
+y
+nx
+y
+7
+3
+13
+6
+23
+-
+=-
+-
+=
+)
+K	 Tentukan 
+nilai 
+p+q, 
+jika 
+diketahui 
+sistem 
+persamaan 
+(
+)
+x
+y
+p
+p
+x
+y
+q
+3
+4
+7
+2
+4
+9
++
+=
++
+-
+-
+=
+-
+)
+  mempunyai banyak penyelesaian.
+L	 PERDAGANGAN. 
+Harga 
+5 
+kg 
+jeruk 
+dan 2 kg apel adalah Rp125.000,00. 
+Sedangkan harga 3 kg jeruk dan 4 kg apel 
+Rp131.000,00. Tentukan uang yang harus 
+dibayarkan apabila membeli 7 kg jeruk 
+dan 1 kg apel. 
+M	 GEOMETRI. Diketahui dua sudut saling 
+berpenyiku. Besar sudut yang lebih besar adalah 6°  lebih dari 
+empat kali ukuran sudut yang lebih kecil. Tentukan besar kedua 
+sudut tersebut.
+N	 KECEPATAN. Alex dan Dava adalah atlet balap sepeda, mereka 
+sedang melakukan balapan dengan jarak rute balap sejauh 2 km. 
+Kedua pembalap mulai pada waktu yang sama dan melaju dengan 
+Gambar 1.23 Toko Buah
+ Bab I - Sistem Persamaan Linear Dua Variabel
+35
+kecepatan konstan. Berikut tabel yang memberikan informasi 
+tentang waktu dan jarak tempuh Dava mengendarai sepeda:
+ Waktu 
+(dalam detik)
+Jarak yang ditempuh 
+(dalam meter)
+6
+180
+9
+270
+Alex menempuh seluruh balapan dengan kecepatan tetap 30 meter 
+per detik. Apakah ada pemenang dari balapan tersebut?
+O	 PINJAMAN. Seorang pedagang meminjam uang untuk modal 
+usahanya. Ia mengambil dua pinjaman dengan total Rp8.000.000,00. 
+Pinjaman pertama dengan bunga sebesar 5% per tahun dan 
+pinjaman kedua dengan bunga tahunan sebesar 3%. Bunga tahun 
+pertama adalah Rp310.000,00. Berapa besar pinjaman masing-
+masing?
+P	 KECEPATAN. Sebuah motor menempuh jarak 240 km dalam waktu 
+yang sama dengan sebuah mobil yang menempuh jarak 222 km. 
+Jika laju motor adalah 6 km/jam lebih cepat dari laju mobil, tentukan 
+kecepatan mobil dan motor tersebut.  
+Q	 GERAK DENGAN ARUS. Sebuah bola 
+pingpong dilempar dari ketapel (lihat 
+Gambar 
+1.22). 
+Ketika 
+berlawanan 
+dengan angin kecepatannya adalah 6 
+m/s sedangkan ketika searah dengan 
+angin kecepatannya 10 m/s. Tentukan 
+kecepatan angin dan kecepatan bola 
+pingpong.
+R	 NUTRISI. Seorang apoteker memiliki dua bubuk suplemen vitamin. 
+Bubuk pertama mengandung 20% vitamin B1 dan 10% vitamin B2. 
+Bubuk kedua mengandung 15% vitamin B1 dan 20% vitamin B2. 
+Berapa miligram masing-masing bubuk yang harus digunakan 
+apoteker untuk membuat campuran yang mengandung 130 mg 
+vitamin B1 dan 80 mg vitamin B2?
+Gambar 1.24 Bola Pingpong 
+Dilempar dari Ketapel
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+36
+S	 MASALAH INVESTASI. Allegra memiliki uang Rp84.000.000,00 untuk 
+diinvestasikan. Ia membagi uangnya untuk diinvestasikan pada 
+dua rekening yang berbeda. Hasil investasi tahunan rekeningnya 
+adalah 4% dan 6%. Pada akhir tahun Allegra memperoleh hasil 
+investasi Rp4.560.000,00. Tentukan besar uang yang diinvestasikan 
+pada setiap rekening.
+T	 GEOMETRI. Tentukan sudut x dan y pada gambar berikut.  
+x
+y
+y
+3
+70
+x-
+U	 LARUTAN. Seorang pengrajin perhiasan akan mencampurkan 
+logam dengan kandungan paladium 48% dan logam dengan 
+kandungan paladium 84% untuk mendapatkan 32 gram logam baru 
+dengan kandungan paladium 75%. Berapa gram berat dari masing-
+masing logam yang harus digunakan?
+V	 GERAK DENGAN ARUS. Sebuah pesawat jet terbang searah dengan 
+angin menempuh jarak 2.200 km dalam waktu 4 jam. Namun jika 
+melawan angin, pesawat hanya bisa menempuh jarak 1.840 km 
+dalam jumlah waktu yang sama. Carilah kecepatan pesawat di 
+udara tenang (tidak ada angin) dan kecepatan angin.
+W	 PENJUALAN TIKET. Harga tiket terusan 
+masuk Candi Borobudur-Prambanan 
+berbeda 
+bagi 
+pengunjung 
+dewasa 
+dan anak-anak seperti yang disajikan 
+pada Gambar 1.23. Pendapatan dari 
+hasil penjualan tiket terusan masuk 
+Candi Borobudur-Prambanan adalah 
+Rp7.560.000,00 dengan menjual 120 
+tiket. Berapa banyak tiket terusan untuk dewasa dan anak-anak 
+yang terjual?
+Gambar 1.25 Harga Tiket
+ Bab I - Sistem Persamaan Linear Dua Variabel
+37
+Penalaran
+X	 Tentukan nilai x dan y dari sistem persamaan berikut.
+(
+)
+(
+)
+(
+)
+x
+y
+x
+y
+x
+y
+x
+y
+4
+3
+21
+23
+3
+2
+12
+19
+-
++
++
+-
+=
++
+-
+-
+=
+Z
+[
+\
+]]]]
+]]]
+Y	 KECEPATAN. Ampong adalah kakak dari Mores. Mereka sekolah di 
+tempat yang sama. Ampong berangkat sekolah pukul 06.30 dengan 
+kecepatan 40 km/jam. Mores berangkat 15 menit setelah Ampong 
+dengan melalui jalan yang sama dengan Ampong. Berapa kecepatan 
+kendaraan Mores agar dapat menyusul Ampong dalam waktu 45 
+menit? 
+Z	 MENGANALISIS KESALAHAN. Diberikan sistem persamaan linear 
+berikut.
+ 
+x
+y
+x
+y
+3
+2
+6
+6
+4
+12
++
+=
++
+=
+)
+Apabila sistem persamaan tersebut digambar grafik, kedua garisnya 
+sejajar. Jika kedua garis tidak berpotongan, maka sistem persamaan 
+linear tersebut tidak memiliki penyelesaian. Pernyataan ini salah. 
+Kesalahan apa yang dibuat?
+Proyek
+Panel Surya
+Energi listrik sangatlah penting untuk memenuhi kebutuhan manusia. 
+Banyak yang menawarkan energi baru, tetapi terkadang sumber energi 
+baru lebih mahal. Tahukah kalian tentang panel surya? Panel surya 
+adalah pembangkit listrik tenaga surya yang dapat mengubah cahaya 
+matahari menjadi energi listrik. Apakah panel surya lebih efektif 
+daripada perusahaan listrik?
+Selesaikan permasalahan berikut.
+ⓐ	 Berapakah biaya listrik di rumah kalian setiap bulannya? Asumsikan 
+biaya dan penggunaan tetap untuk setiap bulan kemudian isilah 
+tabel berikut untuk melihat biaya listrik.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+38
+Tabel 1.5. Biaya Listrik 
+Waktu (dalam bulan)
+Kumulatif Biaya listrik 
+(dalam rupiah)
+1
+…
+2
+…
+3
+…
+…
+…
+…
+…
+ⓑ	 Berapakah biaya pembelian panel surya dengan daya yang sama 
+dengan daya listrik di rumah kalian? Biaya panel surya tidak 
+diasumsikan untuk memenuhi 24 jam karena banyak faktor yang 
+mempengaruhi seperti penggunaan beban yang tidak terkontrol, 
+sinar matahari tidak stabil, dan keterbatasan sistem. Panel surya 
+ini bertahan sampai 10 tahun. 
+ⓒ  Buatlah model matematika yang kalian peroleh pada poin a dan b. 
+Kemudian gambarlah grafik pada bidang koordinat.
+ⓓ  Tentukan titik potong grafik, jelaskan makna dari titik potong 
+tersebut.
+ⓔ  Kapan perusahaan listrik menjadi pilihan terbaik?
+ⓕ  Kapan perusahaan listrik berhenti menjadi pilihan terbaik?
+ⓖ  Kapan perusahaan panel surya menjadi pilihan terbaik?
+ⓗ  Jika suatu hari kalian membeli rumah, apakah kalian berpikir akan 
+menggunakan panel surya? Berikan alasanmu.
+Pengayaan
+Sumber Belajar Lanjutan
+Berikut ini adalah beberapa sumber belajar lain yang dapat kalian 
+gunakan untuk memperdalam atau memperluas pengetahuan kalian 
+mengenai sistem persamaan linear dua variabel.
+ Bab I - Sistem Persamaan Linear Dua Variabel
+39
+Sumber belajar ini berupa buku teks pelajaran 
+alternatif. Untuk mempelajari sistem persamaan 
+linear dua variabel, silakan baca bab kelima. 
+Pindai kode QR atau buka tautan berikut! http://
+ringkas.kemdikbud.go.id/BTPAlternatif
+Laman ini menjelaskan tentang permasalahan 
+kontekstual yang berkaitan dengan sistem 
+persamaan linear dua variabel. http://ringkas.
+kemdikbud.go.id/VideoSPLDV
+Refleksi
+Ingat-ingat kembali pengalaman belajar kalian di Bab 1 Sistem 
+Persamaan Linear Dua Variabel ini. Setelah itu, refleksikan pengalaman 
+belajarmu dengan menanggapi pertanyaan atau pernyataan panduan 
+berikut.
+B	 Sejauh mana manfaat yang dapat kalian rasakan setelah 
+berdinamika di Bab 1 Sistem Persamaan Linear Dua Variabel? 
+Ceritakan manfaat yang dapat kalian rasakan.
+C	 Strategi-strategi belajar seperti apa yang kalian gunakan untuk 
+belajar di Bab 1 Sistem Persamaan Linear Dua Variabel? Apakah 
+semua strateginya sudah membantu kalian untuk belajar secara 
+optimal?
+D	 Sekarang, nilailah pembelajaran kalian sendiri di Bab 1 Sistem 
+Persamaan Linear Dua Variabel ini dengan mencentang kolom-
+kolom yang sesuai pada tabel berikut.
+Matematika untuk SMP/MTs Kelas IX
+Matematika untuk SMP/MTs Kelas IX
+40
+No.
+TARGET PEMBELAJARAN
+Subbab A Persamaan Linear Dua Variabel
+1.
+Saya dapat memahami konsep persamaan 
+linear dua variabel
+2.
+Saya 
+dapat 
+menentukan 
+penyelesaian 
+persamaan linear dua variabel
+Subbab B Sistem Persamaan Linear Dua Variabel
+3
+Saya dapat memahami konsep dari sistem 
+persamaan linear dua variabel
+4.
+Saya 
+dapat 
+menentukan 
+penyelesaian 
+sistem persamaan linear dua variabel 
+dengan metode grafik
+5.
+Saya 
+dapat 
+menentukan 
+penyelesaian 
+sistem persamaan linear dua variabel 
+dengan metode substitusi
+6
+Saya 
+dapat 
+menentukan 
+penyelesaian 
+sistem persamaan linear dua variabel 
+dengan metode eliminasi
+7
+Saya 
+dapat 
+menentukan 
+penyelesaian 
+sistem persamaan linear dua variabel 
+dengan metode campuran
+8
+Saya dapat membuat model matematika 
+dari 
+permasalahan 
+kontekstual 
+yang 
+berkaitan dengan sistem persamaan linear 
+dua variabel
+9
+Saya dapat menyelesaikan permasalahan 
+kontekstual yang berkaitan dengan sistem 
+persamaan linear dua variabel

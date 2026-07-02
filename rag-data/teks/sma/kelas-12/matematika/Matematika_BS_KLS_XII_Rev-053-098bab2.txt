@@ -1,0 +1,2523 @@
+Bayangkan kamu memiliki sejumlah uang atau aset dan kamu ingin uang atau 
+aset tersebut bertumbuh seiring waktu. Apa saja pilihan yang kamu miliki?
+?
+Bab 2
+Bab 2
+Investasi dan Pinjaman
+Investasi dan Pinjaman
+KEMENTERIAN PENDIDIKAN DASAR DAN MENENGAH
+REPUBLIK INDONESIA, 2025
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+Penulis: Mohammad Tohir, dkk 
+ISBN: 978-634-00-3118-8 (jil.3 PDF)
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+36
+Tujuan Pembelajaran 	
+Setelah kamu mempelajari bab ini, diharapkan dapat menjelaskan pengertian 
+dan memodelkan bunga majemuk dan anuitas pada investasi dan pinjaman, 
+serta dapat menganalisis pengaruh parameter dalam model numerik dan 
+grafis
+Kata Kunci 	
+	
+ࡋ
+Bunga majemuk
+	
+ࡋ
+Anuitas
+	
+ࡋ
+Investasi 
+	
+ࡋ
+Pinjaman 
+	
+ࡋ
+Suku bunga 
+Peta Konsep 	
+Suku Bunga
+Periode
+Memuat
+Pengertian
+Pemodelan
+ Pengaruh
+Parameter
+Memuat
+ Bunga
+Tunggal
+ Bunga
+Majemuk
+Pengertian
+Pemodelan
+ Pengaruh
+Parameter
+Investasi
+ dan Pinjaman
+Mempelajari
+Berhubungan
+Berhubungan
+Memuat
+Suku Bunga
+Periode
+Memuat
+Anuitas
+Bab 2 | Investasi dan Pinjaman
+37
+A.	 Suku Bunga Tunggal 
+Ayo, Mengingat Kembali
+Masyarakat Indonesia tentu sudah tidak asing dengan koperasi, dalam 
+kehidupan sehari-hari, bahkan ketika kamu di sekolah, seringkali 
+berinteraksi dengan koperasi. Koperasi merupakan salah satu wadah 
+atau sarana perputaran kegiatan ekonomi di masyarakat. Salah satu jenis 
+koperasi yang umum ialah koperasi simpan pinjam. Koperasi simpan 
+pinjam yang sudah dikenal ini, biasanya menggunakan bunga tunggal 
+sebagai metode dalam transaksi pembiayaan. Bunga tunggal merupakan 
+imbalan yang diberikan oleh koperasi kepada nasabah dalam periode 
+tertentu secara tunggal. Selain koperasi, juga terdapat lembaga keuangan 
+lainnya, seperti bank, yang juga menjadi bagian dari perputaran ekonomi 
+masyarakat.
+Suku 
+bunga 
+dapat 
+diartikan 
+sebagai balas jasa yang diberikan 
+nasabah 
+kepada 
+bank 
+atas 
+peminjaman 
+uang 
+dari 
+bank 
+atau balas jasa yang diberikan 
+pihak bank kepada nasabah atas 
+penyimpanan uang di bank.
+Ayo, Bereksplorasi
+∑
+1.	
+Berpasanganlah dengan temanmu untuk menyelesaikan kedua masalah 
+(Masalah A dan Masalah B) tentang bunga tunggal.
+2.	
+Tentukan bersama-sama data yang diketahui dari masing-masing soal, 
+seperti modal awal, persentase bunga, dan lama waktu penyimpanan.
+3.	
+Lengkapilah langkah-langkah perhitungan bunga tunggal sesuai rumus: 
+B = M × p% × n
+Gambar 2.1 Koperasi Simpan Pinjam
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+38
+4.	
+Hitunglah jumlah bunga (B) yang diperoleh dan modal akhir (Makhir) pada 
+masing-masing soal.
+5.	
+Periksa kembali hasil perhitunganmu bersama pasanganmu, lalu tuliskan 
+jawaban akhir dalam kalimat lengkap.
+6.	
+Diskusikan hasil pekerjaanmu dan cocokkan dengan pasangan lainnya 
+untuk memastikan kebenaran jawaban.
+Masalah A
+Pak Roni merupakan anggota koperasi simpan pinjam. Pak Roni menyimpan 
+sejumlah uang di koperasi sebesar Rp15.000.000,00 dengan bunga koperasi 
+1% per tahun. Berapa jumlah simpanan Pak Roni setelah 5 tahun?
+Alternatif penyelesaian:
+Berdasarkan informasi tersebut, langkah pertama yang dilakukan adalah 
+dengan menentukan besar bunga yang didapat oleh pak Roni. 
+B = M × p% × n
+B = 15.000.000 × ...% × ...
+B = ...
+Selanjutnya, uang simpanan yang dimiliki Pak Roni setelah bunga yang 
+didapat adalah sebagai berikut.
+Makhir = Mawal + B 
+Makhir = 15.000.000 + ...
+Makhir = ...
+Jadi, modal akhir yang akan didapatkan oleh Pak Roni selama 5 tahun 
+sebesar Rp....
+Masalah B
+Pak Bayu merupakan anggota koperasi "Maju Bersama". Beliau menyimpan 
+modal awal sebesar Rp1.000.000,00 di koperasi tersebut. Koperasi 
+memberikan bunga tunggal sebesar 18% per tahun untuk simpanan 
+Bab 2 | Investasi dan Pinjaman
+39
+anggota. Pak Bayu menyimpan modalnya selama 8 bulan. Hitunglah 
+berapa besar bunga yang akan diterima dan berapa total simpanan Pak 
+Bayu setelah 8 bulan?
+Alternatif penyelesaian:
+Mawal	 = Rp1.000.000,00 
+p 	 = 18% per tahun maka didapat p = 12
+18 % per bulan
+n	
+= 8 bulan
+B 	 = M × p% × n
+B 	 = ... × 12
+18 % × ...
+B 	 = ...
+sehingga
+Makhir	= Mawal + B
+Makhir	= ... + ...
+Makhir	= ...
+Jadi, modal akhir yang akan didapatkan setelah 8 bulan adalah Rp....
+Dari penyelesaian kedua soal tersebut, dapat disimpulkan bahwa besar bunga 
+dan modal akhir bertambah secara linear sesuai lama waktu penyimpanan, 
+karena bunga tunggal tidak dihitung dari modal yang sudah ditambahkan 
+bunga sebelumnya. Pemahaman tentang bunga tunggal ini membantu kamu 
+dalam mengambil keputusan keuangan sederhana, seperti menabung atau 
+meminjam uang di koperasi atau bank.
+Kamu telah mempelajari dan menerapkan bunga tunggal. Dalam kehidupan 
+sehari-hari, seseorang harus memutuskan apakah akan menginvestasikan 
+atau meminjam uang atau aset yang dimiliki. Tentu saja, konsep bunga tunggal 
+yang kamu pelajari tidaklah cukup, sehingga diperlukan alat tambahan 
+lainnya, seperti bunga majemuk dan anuitas, yang juga sering digunakan 
+dalam industri perbankan.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+40
+B.	 Investasi Bunga Majemuk
+Ayo, Bereksplorasi
+∑
+Pernahkah kamu menabung di bank? Tahukah kamu tentang deposito? 
+Salah satu produk dari suatu bank adalah deposito. Deposito adalah produk 
+dari proses kerja sama antara nasabah dengan pihak bank untuk menaruh 
+sejumlah uang dalam jangka waktu tertentu sesuai waktu yang disepakati 
+bersama antara pihak bank dengan nasabah. Kerja sama ini akan memberikan 
+keuntungan untuk kedua pihak, baik pihak bank maupun nasabahnya.
+Gambar 2.2 Deposito
+Dalam praktiknya, sering kali bank memberikan bunga, dalam hal ini adalah 
+bunga majemuk. Bunga majemuk sering digunakan untuk menghitung bunga 
+pada investasi jangka panjang, seperti deposito, reksa dana, dan saham. 
+Bunga majemuk adalah perhitungan imbalan jasa yang dilakukan berdasarkan 
+besar modal pada periode bunga berjalan. Perhitungan menggunakan bunga 
+majemuk menghasilkan besar bunga pertama yang berbeda dengan besar 
+bunga kedua, ketiga, dan seterusnya.
+Ayo, Mencoba
+Pada perhitungan sebelumnya terkait bunga tunggal, modal akhir yang 
+didapat mengacu pada bunga dengan persentase yang sama tiap periodenya. 
+Untuk lebih memahaminya, kamu dapat menyelesaikan perhitungan berikut 
+secara mandiri. Kemudian, jawablah beberapa pertanyaan di bawahnya.
+Bab 2 | Investasi dan Pinjaman
+41
+Tabel 2.1 Perhitungan Bunga Tunggal
+Tahun ke
+Bunga (Rp)
+Modal akhir (Rp)
+0
+0
+15.000.000,00
+1
+150.000,00
+15.150.000,00
+2
+300.000,00
+15.300.000,00
+3
+450.000,00
+15.450.000,00
+4
+…
+…
+5
+…
+…
+6
+…
+…
+…
+…
+…
+Berdasarkan Tabel 2.1, coba kamu diskusikan dengan temanmu dan jawab 
+beberapa pertanyaan berikut.
+1.	
+Berapakah bunga yang didapat pada tahun ke-6 hingga ke-10?
+	
+___________________________________________________________________________
+2.	
+Dapatkah kalian menemukan modal akhir yang didapat selama kurun 
+waktu 6 hingga 10 tahun?
+	
+___________________________________________________________________________
+3.	
+Apa yang dapat kalian simpulkan dari kegiatan tersebut? Berikan pendapat 
+dengan kalimat kalian sendiri?
+	
+___________________________________________________________________________
+Ayo, Berkolaborasi
+Perhatikan dan diskusikan masalah berikut. Apa yang kalian temukan? 
+Bandingkan hasilnya.
+Pak Roni menabung uang di bank sebesar Rp15.000.000,00 dengan bunga 
+majemuk 1% per tahun selama 5 tahun. Dari hasil perhitungan pihak bank, ia 
+akan memperoleh investasi sebagai berikut.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+42
+Tabel 2.2 Perhitungan Bunga Majemuk
+Tahun ke
+Bunga (Rp)
+Modal akhir (Rp)
+0
+0
+15.000.000,00
+1
+150.000,00
+15.150.000,00
+2
+151.500,00
+15.301.500,00
+3
+153.015,00
+15.454.515,00
+4
+154.545,00
+15.609.060,00
+5
+156.091,00
+15.765.151,00
+6
+…
+…
+7
+…
+…
+…
+…
+…
+N
+…
+…
+Berdasarkan Tabel 2.2, terlihat bahwa pada tahun pertama mendapat bunga 
+1% sebesar Rp150.000,00 dari modal awal Rp15.000.000,00. 
+Misalkan	 B1 : bunga pada tahun pertama
+	
+M1 : modal pada tahun pertama
+	
+B1 = 1% × 15.000.000,00 = .... 
+	
+M1 = 15.000.000,00 + B1 = 15.000.000,00 + ….………… = ….…………
+	
+Jadi, modal akhir yang didapat pada tahun pertama sebesar Rp....
+Selanjutnya, pada tahun kedua bunga 1% dikenakan kembali dengan 
+menggunakan modal awal pada tahun pertama Rp15.150.000,00. Dengan 
+demikian, dapat ditulis:
+B2 : bunga pada tahun kedua
+M2 : modal pada tahun kedua
+	
+B2 = 1% × 15.150.000,00 = ...
+	
+M2 = 15.150.000,00 + B2 = 15.150.000,00 + ….………… = ….…………
+	
+Jadi, modal akhir yang didapat pada tahun kedua sebesar Rp....
+Bab 2 | Investasi dan Pinjaman
+43
+Demikian seterusnya untuk tahun ketiga hingga tahun berikutnya. Dengan 
+demikian, dapatkah kalian menentukan bunga dan modal akhir yang didapat 
+pada tahun ke-6, tahun ke-7, tahun ke-8, ..., hingga tahun ke-n?
+Ayo, Menggunakan Teknologi
+Kamu dapat menggunakan kalkulator scientific untuk 
+memudahkan dalam membuat perhitungan pada Tabel 2.2. 
+Selain itu, kamu dapat menggunakan aplikasi lain secara 
+online. Berikut tautan untuk mengakses salah satu kalkulator 
+online tersebut: https://bukupusbuk.id/s/kaldesmos. 
+Sebelum menggunakan kalkulator, sebaiknya mintalah izin 
+kepada guru.
+Petunjuk:
+Siapkan kalkulator scientific. Jika menggunakan kalkulator online, kamu 
+bisa membuka internet pada gawai atau laptop. Ketikkan tautan atau 
+scan QR code yang disediakan. Kerjakan soal dengan bantuan kalkulator. 
+Gunakan kalkulator online dengan bijak dan mintalah izin atau arahan 
+dari gurumu.
+Rumus Bunga Majemuk 	
+Perhatikan kembali, jika suatu modal M dengan bunga p% per tahun, maka 
+dapat ditulis 
+	
+1 tahun modal menjadi = M + bunga 
+	
+M1 = M + M × p = M (1 + p) 
+	
+2 tahun modal menjadi = M1 + bunga
+	
+M2 = M(1 + p) + M(1 + p) × p = M(1 + p)(1 + p) = M(1 + p)2 
+	
+3 tahun modal menjadi = M2 + bunga
+	
+M3 = M(1 + p)2 + M(1 + p)2 I = M(1 + p)2 (1 + p) = M(1 + p)3
+	
+Dapatkah kalian melanjutkan untuk tahun ke-4, ke-5 dan seterusnya 
+hingga tahun ke-n?
+Pindai
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+44
+Setelah melakukan kegiatan tersebut kalian telah menemukan pola uraian di 
+atas, maka pada n tahun modal menjadi sebuah rumus untuk menentukan 
+model perhitungan bunga majemuk
+(
+)
+M
+M
+p
+1
+n
+n
+#
+=
++
+Keterangan :
+Mn 	 : modal akhir/simpanan akhir	
+	
+p	 : persentase bunga
+M 	 : modal awal/simpanan awal		
+	
+n 	 : periode
+Contoh
+2.1
+Modal sebesar Rp5.000.000,00 dibungakan dengan bunga majemuk 10% per 
+tahun. Tentukan modal akhir dan bunga yang diperoleh setelah 6 tahun.
+Alternatif penyelesaian:
+M 	 = Rp5.000.000,00
+p 	 = 10% per tahun = 0,1 per tahun 
+n 	 = 6 tahun 
+Mn 	= M (1 + p)n = 5.000.000 (1 + 0.1)6 
+	
+= 5.000.000 (1,1)6 
+	
+= 8.857.805
+Bunga	= 8.857.805 - 5.000.000 = 3.857.805
+Jadi, modal akhir yang akan didapatkan setelah 6 tahun adalah Rp8.857.805,00 
+dan bunga yang didapat adalah Rp3.857.805,00.
+Ayo, Menggunakan Teknologi
+Kamu dapat menggunakan kalkulator scientific untuk 
+membantu perhitungan. Kalkulator scientific memiliki 
+fitur yang dapat digunakan untuk berbagai aplikasi yang 
+memerlukan perhitungan yang rumit.
+Sebelum menggunakan kalkulator, sebaiknya mintalah izin 
+kepada guru.
+Pindai
+https://bukupusbuk.
+id/s/kaldesmos
+Bab 2 | Investasi dan Pinjaman
+45
+Contoh
+2.2
+Ahmad menabung uang di bank dengan bunga majemuk sebesar 3% per 
+4 bulan. Setelah 8 bulan menabung, saldo tabungan menjadi sebesar 
+Rp2.121.800,00. Berapakah jumlah uang yang ditabung Ahmad semula?
+Alternatif penyelesaian:
+p = 3% per 4 bulan
+n = 8 bulan, maka terjadi 2 periode 4 bulan, sehingga n = 2
+M = ?
+Misalkan jumlah saldo setelah 8 bulan adalah M2.
+M2	
+= M × (1 + 3%)2
+2.121.800	 = M × (1,03)2 
+2.121.800	 = M × 1,0609
+M 	
+= 2.000.000
+Jadi, jumlah uang yang ditabung Ahmad semula adalah Rp2.000.000,00.
+Tahukah Kalian
+“Kekuatan bunga majemuk” (compound interest) sebagai keajaban dunia 
+ke-8 menurut Albert Einstein atau contoh nyata bagaimana investasi 
+jangka panjang dengan bunga majemuk dapat menghasilkan kekayaan 
+signifikan misalnya, dana pensiun atau reksa dana
+C.	 Investasi Anuitas
+Ayo, Bereksplorasi
+∑
+Kamu telah mengamati bahwa jumlah saldo suatu tabungan bertambah 
+dengan adanya bunga. Jika diperhatikan, pada kondisi tersebut saldo tabungan 
+hanya masuk satu kali di awal. Bagaimana jika seseorang rutin berinvestasi/
+menabung setiap bulan? Apakah perhitungan bunganya akan sama?
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+46
+Anuitas merupakan istilah yang tidak 
+asing dalam bidang keuangan. Anuitas 
+sering 
+terdengar 
+ketika 
+mengambil 
+pinjaman di bank. Petugas kredit di bank 
+biasanya menjelaskan mengenai konsep 
+anuitas kepada nasabahnya. Istilah ini 
+memang sangat melekat pada produk 
+perbankan, terutama yang berkaitan 
+dengan kredit, simpanan, serta investasi 
+jangka panjang. Tahukah kamu, apa itu 
+anuitas dan apa saja jenis-jenisnya?
+Anuitas adalah sistem pembayaran atau penerimaan yang dilakukan pada 
+periode waktu yang teratur dalam jumlah yang sama atas suatu investasi. 
+Periode pembayaran atau penerimaan dapat dilakukan setiap bulan, triwulan, 
+kuartal, semester, atau per tahun.
+Pada umumnya, terdapat dua jenis anuitas, yaitu anuitas terutang dan 
+anuitas biasa. Anuitas terutang adalah anuitas yang pembayarannya atau 
+penerimaannya dilakukan di awal setiap periode, sedangkan anuitas biasa 
+adalah anuitas yang pembayarannya atau penerimaannya dilakukan di akhir 
+setiap periode.
+Investasi dengan anuitas meliputi sistem penyetoran tabungan yang dilakukan 
+pada periode waktu yang teratur dalam jumlah yang sama ataupun sistem 
+penerimaan sejumlah uang yang sama pada periode waktu yang teratur 
+dari tabungan yang telah terkumpul sebelumnya. Bunga yang dikenakan 
+merupakan imbal hasil dari pihak bank yang diterima oleh pihak penabung. 
+Untuk mengetahui perhitungan anuitas yang merupakan penyetoran rutin 
+pada simpanan, perhatikan penjelasan dari masalah berikut.
+Ayo, Berpikir Kritis
+Affan seorang pengusaha yang rutin mendepositokan uangnya setiap 
+tahun sebesar Rp20.000.000,00 di sebuah bank yang menawarkan bunga 
+deposito 7,2% per tahun. Berikut adalah tabel yang menjelaskan besar 
+tabungan deposito Affan tiap tahunnya.
+Gambar 2.3 Menabung di Bank
+Bab 2 | Investasi dan Pinjaman
+47
+Tabel 2.3 Perincian Tabungan Deposito Affan
+Tahun
+Saldo Masuk
+Saldo Deposito (Mn)
+Bunga (Bn)
+0
+Mn
+Rp20.000.000,00
+0
+1
+Rp20.000.000,00
+Rp41.440.000,00
+Rp1.440.000,00
+2
+Rp20.000.000,00
+Rp64.423.680,00
+Rp2.983.680,00
+3
+Rp20.000.000,00
+Rp89.062.184,96
+Rp4.638.504,96
+4
+Rp20.000.000,00
+Rp115.474.662,28
+Rp6.412.477,317
+5
+Rp20.000.000,00
+Rp143.788.838,00
+Rp8.314.175,684
+Berdasarkan Tabel 2.3, setelah tahun pertama, tabungan deposito Affan 
+menghasilkan bunga sebesar Rp1.440.000,00, sehingga tabungannya 
+menjadi 
+Rp21.440.000,00. 
+Kemudian, 
+ditambah 
+dengan 
+uang 
+sebesar Rp20.000.000,00 sebagai tabungan rutin berikutnya menjadi 
+Rp41.440.000,00. Uang tersebut dalam satu tahun menghasilkan bunga 
+sebesar Rp2.983.680,00. Jika ditambahkan dengan saldo berjalan 
+Rp41.440.000,00 dan saldo masuk Rp20.000.000,00, maka menjadi 
+Rp64.423.680,00.
+Bagaimana cara merumuskan permasalahan tersebut untuk mencari total 
+uang yang terkumpul dalam beberapa periode menabung? Masalah tersebut 
+dapat diselesaikan dengan sistem anuitas. Untuk lebih memahaminya, 
+lakukan kegiatan berikut.
+Ayo, Berkolaborasi
+1.	
+Bentuklah kelompok beranggotakan 2–4 orang.
+2.	
+Diskusikan permasalahan, jika seseorang rutin menabung dengan sistem 
+anuitas sebesar A setiap tahun di bank, dengan bunga majemuk sebesar 
+i per tahun selama n tahun. Berapakah jumlah tabungan orang tersebut 
+dalam n tahun?
+3.	
+Lengkapilah tabel yang tersedia dengan nilai saldo setiap tahun 
+berdasarkan rumus yang diberikan.
+4.	
+Diskusikan hasil pengisian tabel untuk menemukan jumlah tabungan 
+setelah n tahun.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+48
+Tabel 2.4 Kegiatan Anuitas
+Tahun ke-n
+Anuitas Tahun 
+ke-n
+Masing-masing saldo 
+setelah n Tahun (An)
+Jumlah saldo setelah n 
+Tahun Sn
+0
+A
+A (1 + i)n
+A (1 + i)n
+1
+A
+A (1 + i)n - 1
+A (1 + i)n-1 + A (1 + i)n
+2
+A
+A (1 + i)n - 2
+....
+3
+A
+....
+....
+....
+....
+....
+....
+n - 1
+A
+A (1 + i)n(n - 1)
+....
+n
+A
+A (1 + i)n - n
+....
+5.	
+Tuliskan kesimpulan dari permasalahan tersebut.
+6.	
+Presentasikan hasil diskusi kelompok di depan kelas.
+Perhitungan jumlah tabungan dapat dilakukan dengan menghitung nilai 
+tabungan akhir setelah n tahun dari masing-masing anuitas sebesar A. Jumlah 
+semua nilai tabungan akhir tersebut membentuk deret geometri dengan suku 
+pertama A dan rasio (1 + i). Dengan demikian, total anuitas beserta bunganya 
+membentuk deret geometri. 
+Misalkan jumlah tabungan seseorang setelah n tahun adalah Sn, maka:
+Sn = A + A(1 + i) + A(1 + i)2 + .... + A(1 + i)n-1 + A(1 + i)n
+dengan menggunakan rumus Jumlah deret geometri S = 
+(
+)
+r
+a r
+1
+1
+k
+-
+-
+dimana:
+suku pertama: a = A
+rasio:  r = (1 + i) 
+Jumlah suku : k = n
+substitusikan,
+Sn = 
+(
+)
+,
+A
+i
+i
+1
+1
+1
+1
+n
+#
++
+-
++
+-
+sehingga diperoleh Sn = 
+(
+)
+A
+i
+i
+1
+n
+1
+#
++
+-
+Bab 2 | Investasi dan Pinjaman
+49
+Ayo, Bereksplorasi
+∑
+Nilai Masa Depan Anuitas  	
+Kamu telah mempelajari cara menentukan nilai uang yang ditabung dengan 
+sistem anuitas menggunakan konsep deret geometri. Sekarang, jika kamu 
+bandingkan nilai sejumlah uang yang disimpan di rumah dan nilai sejumlah 
+uang yang disimpan di bank dengan sistem bunga majemuk setelah dua atau 
+tiga tahun, manakah yang lebih besar? Nilai uang yang disimpan di rumah 
+tentu tidak akan berubah dari tahun ke tahun, sedangkan nilai uang yang 
+disimpan di bank akan mengalami perubahan dan semakin bertambah di masa 
+depan. Uang yang ditabung di bank dengan bunga akan bertambah nilainya 
+dari waktu ke waktu. Oleh karena itu, perhitungan total uang yang ditabung 
+dengan bunga dan sistem anuitas juga bisa disebut sebagai nilai masa depan 
+(Future Value) yang dinotasikan dengan FV.
+FV = A × (
+)
+i
+i
+1
+1
+n
++
+-
+Keterangan:
+FV	 : nilai masa depan	 	
+	
+	
+i 	 : suku bunga
+A	
+: nilai simpanan	
+	
+	
+	
+n	 : periode
+Contoh
+2.3
+Santi selalu menyisihkan uangnya sebesar Rp15.000.000,00 per tahun dan 
+memasukannya ke dalam rekening deposito dengan bunga majemuk 6% per 
+tahun. Berapa nilai masa depan tabungan Santi dalam 10 tahun?
+Alternatif penyelesaian:
+FV	= 
+(
+)
+A
+i
+i
+1
+1
+n
+#
++
+-
+FV	= 15.000.000 × 
+,
+(
+,
+)
+0 06
+1
+0 06
+1
+10
++
+-
+FV	= 15.000.000 × 
+,
+( ,
+)
+0 06
+1 06
+1
+10 -
+FV 	= 197.711.924,13571
+FV 	≈ 197.711.924
+Jadi, nilai masa depan tabungan Santi dalam 10 tahun sebesar Rp197.711.924,00.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+50
+Ayo, Menggunakan Teknologi
+Kamu dapat menggunakan kalkulator scientific untuk 
+membantu perhitungan. Kalkulator scientific memiliki 
+fitur yang dapat digunakan untuk berbagai aplikasi yang 
+memerlukan perhitungan yang rumit.
+Sebelum menggunakan kalkulator, sebaiknya mintalah izin 
+kepada guru.
+Ayo, Berpikir Kreatif
+Kamu telah menentukan nilai masa depan suatu aset atau investasi dengan 
+anuitas. Apakah kamu dapat menentukan nilai sekarang? Bagaimana 
+hubungan antara anuitas nilai sekarang dengan nilai masa depan?
+Perhatikan informasi berikut.
+Aliyya seorang pengusaha wanita muda yang saat ini berusia 25 tahun. Jika 
+suatu saat nanti pensiun, ia berharap tetap mendapat penghasilan yang 
+berasal dari tabungannya. Aliyya ingin mendapatkan penghasilan sebesar 
+Rp6.000.000,00 tiap bulan selama 10 tahun setelah pensiun. Ia memutuskan 
+untuk menginvestasikan uangnya di bank. Bunga yang dikenakan bank 
+adalah 12%. Analisislah besar uang tabungan yang harus ia persiapkan?  
+Jika ia ingin mendapatkan penghasilan yang lebih besar, faktor apa saja 
+yang harus dipersiapkan Aliyya?
+Selain nilai masa depan, uang juga memiliki nilai pada saat sekarang atau biasa 
+disebut dengan nilai sekarang (Present Value) dengan notasi PV. Nilai masa 
+depan dan nilai sekarang adalah dua cara untuk menghitung nilai uang pada 
+waktu yang berbeda. Pada konsep bunga majemuk, nilai sekarang merupakan 
+besarnya tabungan awal, sedangkan nilai masa depan adalah besarnya 
+tabungan akhir setelah dikenai bunga majemuk dalam waktu tertentu. Oleh 
+karena itu, hubungan antara nilai sekarang dengan nilai masa depan dapat 
+dituliskan dalam persamaan berikut.
+FV = PV × (1 + i)n
+Pindai
+https://www.desmos.
+com/scientific
+Bab 2 | Investasi dan Pinjaman
+51
+Keterangan:
+FV	= nilai masa depan atau jumlah akhir		
+PV	 = nilai sekarang atau modal awal	 	
+	
+i	
+= suku bunga per periode 
+n 	 = jumlah periode
+Kamu telah mempelajari sistem penyetoran rutin pada simpanan yang erat 
+kaitannya dengan nilai masa depan. Sekarang, kamu akan mempelajari 
+konsep anuitas pada simpanan yang meliputi sistem penerimaan sejumlah 
+uang tabungan yang rutin dilakukan setiap periode tertentu. Perhatikan 
+contoh berikut.
+Contoh
+2.4
+Seseorang menabung sejumlah uang di bank dan mendapat bunga majemuk 
+4% per tahun. Mulai dari tahun berikutnya, setiap tahun uang tabungan 
+tersebut diambil Rp1.000.000,00 untuk keperluan hidup. Berapakah uang yang 
+harus ditabung agar setiap tahun ia dapat mengambil Rp1.000.000,00 yang 
+disimpan selama 10 tahun?
+Alternatif penyelesaian:
+Perhatikan bahwa menghitung besarnya uang tabungan yang diperlukan agar 
+nantinya dapat diambil setiap bulan sebesar Rp1.000.000,00 selama 10 tahun 
+sama halnya dengan memperkirakan nilai sekarang untuk tabungan tersebut.
+A = 1.000.000
+n = 10
+i = 4% = 0,04
+Ingat kembali rumus untuk menghitung FV berikut.
+FV	= 
+(
+)
+A
+i
+i
+1
+1
+n
+#
++
+-
+	
+... (1)
+FV	= PV × (1 + i)n	
+... (2)
+Berdasarkan persamaan (1) dan (2), maka didapat penurunan rumus berikut.
+PV × (1 + i)n	= 
+(
+)
+A
+i
+i
+1
+1
+n
+#
++
+-
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+52
+                PV 	= 
+(
+)
+A
+i
+i
+i
+1
+1
+1
+n
+n
+#
+#
++
+-
++
+-
+]
+g
+                PV	= 
+(
+)
+A
+i
+i
+1
+1
+n
+#
+-
++
+-
+]
+g
+Dengan demikian, besar uang yang harus ditabung dihitung sebagai berikut.
+PV 	= .
+.
+,
+(
+,
+)
+1 000 000
+0 04
+1
+1
+0 04
+10
+#
+-
++
+-
+^
+h
+PV 	= .
+.
+,
+,
+1 000 000
+0 04
+0 3244358
+#
+PV 	= 8.110.895,78
+Jadi, agar seseorang dapat menerima anuitas sebesar Rp1.000.000,00 setiap 
+tahun dari uang tabungan yang sudah disimpan selama 10 tahun, maka besar 
+uang tabungan awal minimal sebesar Rp8.110.895,78.
+Ayo, Menggunakan Teknologi
+Kamu dapat menggunakan kalkulator scientific untuk 
+membantu perhitungan. Kalkulator scientific memiliki 
+fitur yang dapat digunakan untuk berbagai aplikasi yang 
+memerlukan perhitungan yang rumit.
+Sebelum menggunakan kalkulator, sebaiknya mintalah izin 
+kepada guru.
+Tahukah Kalian
+Bayangkan jika hari ini kalian membeli mie ayam dengan harga Rp15.000,00.  
+Apakah harga mie ayam 15 tahun ke depan masih tetap sama? 
+Harga mie ayam tentu akan mengalami kenaikan.  
+Kenaikan harga barang dan jasa secara terus menerus dalam periode 
+tertentu disebut inflasi
+Pindai
+https://bukupusbuk.
+id/s/kaldesmos
+Bab 2 | Investasi dan Pinjaman
+53
+Ayo, Berkolaborasi
+Lakukan kegiatan berikut secara berkelompok untuk mendalami penerapan 
+konsep anuitas dalam kehidupan sehari-hari.
+1.	
+Bentuk kelompok dan atur peran.
+a.	
+Buat kelompok beranggotakan 2–4 orang.
+b.	
+Bagi peran menjadi ketua, pencari data, pengolahan perhitungan, 
+penulis laporan, dan penyaji (opsional).
+2.	
+Pilih tema skenario.
+a.	
+Tentukan rencana masa depan yang realistis, misalnya menabung 
+untuk biaya pendidikan kuliah, membeli kendaraan atau rumah, 
+modal buka usaha, atau liburan ke luar negeri.
+	
+b.	 Tulis latar belakang mengapa rencana itu dipilih.
+	
+c.	 Rinci data dan estimasi biaya.
+3.	
+Kumpulkan data dari sumber nyata (internet, brosur, wawancara orang 
+tua, dan lain-lain).
+a.	
+Susun tabel biaya (misal, harga tiket, penginapan, uang kuliah, DP 
+Rumah, dan lain-lain).
+b	
+6ertakan asumsi suku bunga atau tingkat inflasi Mika diperlukan
+4.	
+Gunakan konsep anuitas.
+a.	
+Terapkan rumus nilai masa depan (Future Value on Annuity).
+b.	
+Hitung berapa tabungan per bulan yang diperlukan untuk mencapai 
+target dana sesuai jangka waktu.
+c.	
+Tuliskan langkah perhitungan secara runtut.
+5.	
+Susun laporan kelompok (produk akhir).
+	
+Laporan sebaiknya berisi:
+a.	
+Kover (judul, nama anggota, kelas, dan tanggal).
+b.	
+Pendahuluan (latar belakang dan tujuan proyek).
+c.	
+Skenario Rencana Masa Depan (deskripsi lengkap tokoh, tujuan, 
+waktu, dan alasan).
+d.	
+Tabel Rincian Biaya (dengan sumber data).
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+54
+e.	
+Asumsi Perhitungan (bunga/tabungan, periode, dan lain-lain).
+f.	
+Perhitungan Anuitas (dengan langkah-langkah matematis).
+g.	
+Kesimpulan dan Saran Strategi (misalnya, tip mengatur keuangan, 
+cara menghemat).
+h	
+/ampiran bukti penFarian data, brRsur, grafik perhitungan, dan lainlain
+6.	
+Presentasi dan Diskusi
+a.	
+Sajikan laporan dalam bentuk presentasi singkat (3–5 menit).
+b.	
+Gunakan media kreatif seperti powerpoint, infRgrafik, pRster, atau 
+video singkat.
+c.	
+Setiap anggota berperan saat persentasi.
+	
+Refleksi
+6etelah persentasi, tulis refleksi kelRmpRk
+a.	
+Apa yang dipelajari tentang konsep anuitas?
+b.	
+Tantangan yang dihadapi.
+c.	
+Manfaat perencanaan keuangan di kehidupan sehari-hari.
+Latihan
+2.1
+1.	
+Andi menyimpan uang sejumlah Rp5.000.000,00 di bank yang menawarkan 
+bunga majemuk sebesar 6% setiap tahun dengan pembayaran setiap 
+bulan. Setelah satu tahun, Andi akan mencairkan seluruh uangnya. Total 
+nilai uang Andi sebesar ....
+A.	 Rp5.203.535,00	 	
+	
+	
+	
+D.	 Rp5.308.390,00
+B.	
+Rp5.229.553,00	 	
+	
+	
+	
+E.	
+Rp5.416.257,00
+C.	
+Rp5.281.979,00
+2.	
+Seseorang berinvestasi saham di suatu aplikasi online. Modal usaha yang 
+diberikan sebesar Rp5.000.000,00.  Keuntungan yang didapat menggunakan 
+suku bunga majemuk 15% per tahun. Hitunglah nilai akhir modal tersebut 
+setelah 3 tahun.
+Perhatikan informasi berikut untuk mengerjakan soal nomor 3–5.
+Tabungan deposito adalah salah satu produk investasi yang ditawarkan oleh 
+bank dengan bunga yang biasanya lebih besar dari bunga tabungan biasa. 
+Seluruh bank di suatu wilayah menawarkan deposito dengan bunga 5%–7% 
+Bab 2 | Investasi dan Pinjaman
+55
+per tahun. Bank XYZ termasuk salah satu bank di wilayah tersebut dengan 
+Ahmad dan Maya sebagai nasabahnya. Ahmad telah menjadi nasabah selama 
+5 tahun dan Maya telah menjadi nasabah selama 10 tahun.
+3.	
+Tentukanlah pernyataan berikut Benar atau Salah. Beri tanda centang (3) 
+pada kolom yang sesuai.
+Pernyataan
+Benar
+Salah
+Bunga deposito sebesar 5% per bulan.
+Bunga deposito sebesar 1% per bulan.
+Bunga deposito sebesar 0,4% per bulan.
+4.	
+Jika Maya rajin menyetorkan uang sebesar Rp25.000.000,00 setiap tahun 
+ke rekening depositonya sejak ia membuat rekening di Bank XYZ, total 
+uang yang dimiliki oleh Maya saat ini sebesar ....
+5.	
+Jika saldo deposito Ahmad menjadi Rp26.764.500,00, uang yang disetorkan 
+oleh Ahmad mula-mula adalah ....
+A.	 Rp18.000.000,00
+B.	
+Rp20.000.000,00
+C.	
+Rp22.000.000,00
+D.	 Rp24.000.000,00
+E.	
+Rp25.000.000,00
+6.	
+Seseorang membeli rumah dengan membayar Rp500.000.000,00. Sisanya 
+sebesar Rp120.000.000,00 akan dibayar 2 tahun kemudian. Berapa nilai 
+rumah tersebut jika diperhitungkan dengan suku bunga majemuk 5% 
+setiap enam bulan?
+D.	 Pinjaman Bunga Majemuk
+Pada materi sebelumnya kamu telah mempelajari konsep investasi dengan 
+bunga majemuk. Perhitungan bunga majemuk pinjaman memiliki prinsip 
+yang sama dengan bunga majemuk investasi, yaitu berdasarkan uang pokok 
+pada periode bunga berjalan. Namun, jika bunga pada simpanan cenderung 
+akan bertambah seiring berjalannya waktu, bunga pada pinjaman justru akan 
+berkurang. Perhatikan contoh berikut.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+56
+Ayo, Mencoba
+Pernahkah kamu mencoba melakukan simulasi kredit secara mandiri? 
+Simulasi kredit kini dapat dilakukan secara mandiri hanya tinggal mengakses 
+dari gawaimu.
+Perhatikan informasi berikut kemudian lengkapi titik-titik yang tersedia.
+Jihan meminjam uang sebesar Rp15.000.000,00 di bank dengan bunga 12% per 
+tahun yang diangsur selama 10 bulan. Dari hasil perhitungan pihak bank, ia 
+memperoleh angsuran sebagai berikut. 
+Tabel 2.5 Angsuran Pinjaman
+Angsuran 
+Bulan 
+ke-n
+Sisa Pinjaman
+Angsuran
+Total Angsuran 
+per bulan 
+(Pokok + 
+Bunga)
+Angsuran Pokok 
+Bunga (1%)
+1
+Rp15.000.000,00
+Rp1.500.000,00
+Rp150.000,00
+Rp1.650.000,00
+2
+Rp13.500.000,00
+Rp1.500.000,00
+Rp135.000,00
+Rp1.635.000,00
+3
+Rp12.000.000,00
+Rp1.500.000,00
+Rp120.000,00
+Rp1.620.000,00
+4
+….
+Rp1.500.000,00
+Rp105.000,00
+….
+5
+….
+Rp1.500.000,00
+….
+….
+6
+….
+Rp1.500.000,00
+….
+….
+7
+….
+Rp1.500.000,00
+….
+….
+8
+Rp4.500.000,00
+Rp1.500.000,00
+….
+….
+9
+Rp3.000.000,00
+Rp1.500.000,00
+Rp30.000,00
+….
+10
+Rp1.500.000,00
+Rp1.500.000,00
+Rp15.000,00
+….
+Jumlah
+Rp……………..
+Rp……………..
+Rp……………..
+Bab 2 | Investasi dan Pinjaman
+57
+Alternatif penyelesaian:
+Perhatikan perhitungan besar bunga majemuk pinjaman tersebut yang dikenakan 
+tiap bulannya. Persentase bunga adalah 12% per tahun atau 1% per bulan.
+Perlu diketahui bahwa besar angsuran tiap bulan yang harus dibayarkan 
+(belum termasuk bunga) adalah
+= Rp15.000.000,00 : 10
+= Rp1.500.000,00
+	
+Pada bulan pertama, bunga 1% dikenakan pada uang pokok 
+Rp15.000.000,00.
+	
+B1 = 1% × 15.000.000 = ....
+	
+Jadi, total angsuran pada bulan pertama adalah: 
+	
+Angsuran tanpa bunga + Bunga 	= .......... + Rp150.000,00
+	
+= ..........
+ Pada bulan kedua, bunga 1% dikenakan pada uang pokok pinjaman 
+yang sedang berjalan yaitu sebesar Rp15.000.000,00 yang dikurangi 
+angsuran sebelumnya sebesar Rp1.500.000,00 menjadi Rp13.500.000,00.
+	
+B2 = 1% × 13.500.000 = ....
+	
+Jadi, total angsuran pada bulan kedua adalah: 
+	
+Angsuran tanpa bunga + Bunga 	= .......... + Rp135.000,00 
+	
+	
+= ..........
+ Pada bulan ketiga, bunga 1% dikenakan pada uang pokok 
+pinjaman yang sedang berjalan yaitu sebesar Rp13.500.000,00 yang 
+dikurangi angsuran sebelumnya sebesar Rp1.500.000,00 menjadi 
+Rp12.000.000,00.
+	
+B3 = 1% × 12.000.000 = ....
+	
+Jadi, total angsuran pada bulan kedua adalah: 
+	
+Angsuran tanpa bunga + Bunga 	= .......... + Rp120.000,00 
+	
+	
+= ..........
+ Perhitungan yang sama berlanjut hingga angsuran pada bulan ke-10.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+58
+Rumus Besar Bunga Pinjaman Majemuk Setiap Bulan 	
+ 
+Bk = [Pa - A  × (k - 1)] × b
+12 
+Keterangan:
+Bk	 : besar bunga bulan ke-k		
+	
+	
+	
+A	
+: angsuran pokok
+Pn 	 : nilai akhir (total pinjaman + bunga)		
+k	
+: bunga bulan ke-k
+Pa	 : pokok pinjaman awal/modal awal	
+	
+b	
+: persentase bunga per tahun
+Contoh
+2.5
+Pak Andi meminjam Rp20.000.000,00 di bank dengan suku bunga 10% per 
+tahun ȯ , per bulan 3inMaman itu akan dikembalikan dalam  bulan 
+dengan sistem angsuran pokok tetap dan bunga menurun. 
+a.	
+Buatlah tabel angsuran per bulan.
+b.	
+Hitung besaran bunga pada cicilan ke-3.
+Alternatif penyelesaian:
+a.	
+Tabel angsuran per bulan
+Tabel 2.6 Tabel Angsuran Pak Andi per Bulan
+Bulan
+Saldo Awal 
+(Rp)
+Bunga 
+(Rp)
+Angsuran 
+Pokok (Rp)
+Total 
+Angsuran (Rp)
+Sisa Pinjaman 
+(Rp)
+1
+20.000.000
+166.600
+4.000.000
+4.166.600
+16.000.000
+2
+16.000.000
+133.280
+4.000.000
+4.133.280
+12.000.000
+3
+12.000.000
+99.960
+4.000.000
+4.099.960
+8.000.000
+4
+8.000.000
+66.640
+4.000.000
+4.066.640
+4.000.000
+5
+4.000.000
+33.320
+4.000.000
+4.033.320
+0 (Lunas)
+b.	
+Besar bunga pada cicilan ketiga dapat dihitung dengan menggunakan rumus 
+Bk = [Pa - A × (k -1)] × b
+= [20.000.000 - 4.000.000 × (3 - 1)] × 
+%
+12
+10
+= 12.000.000 × 0,0083
+= 99.960
+Jadi, bunga pada cicilan ke-3 sebesar Rp99.960,00.
+Bab 2 | Investasi dan Pinjaman
+59
+E.	 Pinjaman dengan Anuitas
+Ayo, Bereksplorasi
+∑
+Kamu telah memahami bahwa anuitas dapat digunakan untuk investasi. Kamu 
+juga telah mempelajari sistem anuitas pada simpanan. Anuitas pada simpanan 
+meliputi sistem penerimaan dan penyetoran, sedangkan pada pinjaman 
+meliputi suatu sistem pembayaran yang dilakukan setiap satu periode tertentu 
+dengan jumlah yang sama. Kali ini kamu akan mempelajari anuitas yang sering 
+dimanfaatkan dalam kehidupan sehari-hari, yakni anuitas pinjaman.
+Anuitas pada pinjaman sangat erat kaitannya dalam kehidupan masyarakat. 
+Beberapa contoh penerapan anuitas pada pinjaman, misalnya pembayaran 
+kendaraan bermotor dengan kredit, pembayaran KPR (Kredit Perumahan 
+Rakyat), dan asuransi pedidikan.
+Anuitas pada kasus pinjaman biasanya merupakan sistem pembayaran 
+yang dilakukan pada periode waktu yang teratur dalam jumlah yang sama 
+atas suatu pinjaman. Pembayaran anuitas (A) terdiri atas bagian angsuran 
+pinjaman pokok yang harus dibayarkan (a) dan bagian bunga (b). Oleh karena 
+itu, hubungan antara besar anuitas, angsuran pokok, dan bunga angsuran 
+dapat dituliskan ke dalam persamaan berikut.
+Anuitas (A) = Angsuran (a) + Bunga (b) 
+Untuk lebih memahaminya, pelajarilah penyelesaian permasalahan berikut.
+Ayo, Mencoba
+Bulan ini Andi akan membeli sepeda motor 
+seharga Rp10.000.000,00 dengan cara meminjam 
+uang di bank. Andi akan membayar angsuran 
+motornya 
+dengan 
+metode 
+pembayaran 
+yang sama tiap bulannya. Dalam pelunasan 
+tersebut diberikan anuitas bulanan sebesar 
+Rp2.000.000,00 dengan bunga 12% per tahun. 
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+60
+Dapatkah kamu membantu melengkapi tabel mekanisme pembayaran yang akan 
+diperoleh Andi? Kerjakan secara mandiri, gunakanlah kalkulator jika diperlukan.
+Perhatikan langkah berikut.
+Pinjaman (M) = Rp10.000.000,00
+Anuitas (A) = Rp2.000.000,00
+Persentase bunga (P) = 12% per tahun atau 1% per bulan
+3	
+Bunga bulan pertama yaitu B1 = 10.000.000 ×  % = 100.000
+3
+Angsuran pinjaman pokok bulan pertama (a1) yaitu 
+	
+a1 = 2.000.000 -  100.000 = 1.900.000
+3
+Sisa utang setelah angsuran pertama dibayarkan (M1) yaitu
+	
+M1 = 10.000.000 - 1.900.000 = 8.100.000
+Dengan perhitungan yang sama untuk perhitungan bulan berikutnya, coba 
+kamu lengkapi dan jelaskan dengan panduan Tabel 2.7 berikut.
+Tabel 2.7 Mekanisme Pembayaran Anuitas
+Bulan
+Bunga (Rp)
+Angsuran (Rp)
+Sisa Utang (Rp)
+Kesatu
+B1
+= 10.000.000 × 1%
+= 100.000
+a1
+= 2.000.000 – 100.000
+= 1.900.000
+M1
+= 10.000.000 – 1.900.000
+= 8.100.000
+Kedua
+B2
+= 8.100.000 × 1%
+= 81.000
+a2
+= 2.000.000 – 81.000
+= 1.919.000
+M2
+= 8.100.000 – 1.919.000
+= 6.181.000
+Ketiga
+B3
+= 6.181.000 × 1%
+= ….
+a3
+= 2.000.000 – ….
+= ….
+M3
+= 6.181.000 – ….
+= ….
+Keempat
+B4
+= 4.242.810 × 1%
+= ….
+a4
+= 2.000.000 – ….
+= ….
+M4
+= 4.242.810 – ….
+= ….
+Kelima
+B5
+= 2.285.238,1 × 1%
+= ….
+a5
+= 2.000.000 – ….
+= ….
+M5
+= 2.285.238,1 – 1.977.147,619
+= 308.090,481
+Keenam
+B6
+= 308.090,481 × 1%
+= 3.080,90481
+a6
+= ....
+M6
+= 0
+	
+Besar anuitas terakhir yaitu
+	
+a6 = 308.090,481 + 3.080,90481 = 311.171,3858
+Perlu diketahui bahwa besar anuitas terakhir dapat berbeda dari sebelumnya 
+karena menyesuaikan besar sisa pinjaman yang ada ditambah bunganya. 
+Dari perhitungan tersebut, dapat disimpulkan bahwa seseorang akan 
+melunasi semua utangnya dalam 6 bulan dengan anuitas terakhir sebesar 
+Rp311.171,3858.
+Bab 2 | Investasi dan Pinjaman
+61
+Ayo, Menggunakan Teknologi
+Kamu dapat menggunakan kalkulator scientific untuk 
+membantu perhitungan. Kalkulator scientific memiliki 
+fitur yang dapat digunakan untuk berbagai aplikasi yang 
+memerlukan perhitungan yang rumit.
+Sebelum menggunakan kalkulator, sebaiknya mintalah izin 
+kepada guru.
+Tabel Rencana Pelunasan (Amortization Schedule)  	
+Tahukah Kalian
+Matematikawan 
+Italia 
+yang 
+memperkenalkan 
+konsep bunga majemuk dan dasar perhitungan nilai 
+waktu uang (time value of money) dalam bukunya 
+Liber Abaci (1202).
+Karyanya menjadi fondasi untuk perhitungan 
+anuitas dan amortisasi.
+Tabel pelunasan (amortization schedule) adalah suatu tabel yang merinci 
+pembayaran cicilan pinjaman anuitas secara periodik, mencakup jumlah 
+pembayaran per periode, suku bunga dan angsuran pokok dalam setiap 
+cicilan, serta sisa utang setelah setiap pembayaran.
+Berdasarkan kasus pada kegiatan Ayo, Mencoba, untuk memudahkan 
+perhitungan anuitas dan sisa pinjamannya dapat dibuat tabel rencana 
+pelunasan sebagai berikut.
+Pindai
+https://bukupusbuk.
+id/s/kaldesmos
+Gambar 2.4 Leonardo 
+da Pisa
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+62
+Tabel 2.8 Rencana Pelunasan
+Pinjaman Pokok Bulan 
+Ke- (Rp)
+Anuitas (Rp2.000.000,00)
+Sisa Pinjaman 
+Akhir Bulan      
+Ke– (Rp)
+Bunga (Rp)
+Angsuran 
+1
+10.000.000
+100.000
+1.900.000
+8.100.000
+2
+8.100.000
+81.000
+1.919.000
+6.181.000
+3
+6.181.000
+61.810
+1.938.190
+4.242.810
+4
+4.242.810
+42.428,1
+1.957.571,9
+2.285.238,1
+5
+2.285.238,1
+22.852,381
+1.977.147,619
+308.090,481
+6
+308.090,481
+3.080,90481
+308.090,481
+0
+Dari perhitungan yang disajikan dalam Tabel 2.8, dapat dilihat bahwa besar 
+bunga dari bulan ke bulan semakin berkurang, sedangkan besarnya angsuran 
+dari bulan ke bulan semakin besar.
+Untuk melihat lebih jelas mengenai perbandingan besar bunga angsuran dan 
+angsuran pokok pada sistem anuitas, perhatikan grafik berikut
+Anuitas dalam jumlah rupiah
+Angsuran Pokok dan Bunga Angsuran 
+pada Pinjaman dengan Sistem Anuitas
+1
+0
+1
+9
+5
+3
+11
+13
+15
+17
+19
+7
+2
+10
+Bulan
+12
+14
+16
+18
+20
+6
+4
+8
+3
+2
+4
+5
+Pinjaman Pokok
+Bunga
+Gambar 2.5 Grafik Angsuran Pokok dan Bunga Angsuran
+*rafik pada *ambar  menunMukkan perbedaan kRmpRsisi besar bunga 
+angsuran dan angsuran pokok pada setiap anuitas yang dibayarkan dari waktu 
+ke waktu dalam periode 12 bulan. 
+Bab 2 | Investasi dan Pinjaman
+63
+Ayo, Berpikir Kreatif
+	
+%erdasarkan 7abel  renFana pelunasan serta *ambar  grafik 
+angsuran pokok dan bunga angsuran, bagaimana jika pelunasan 
+dilakukan lebih cepat dari yang seharusnya? Berikan alasan.
+	
+%erdasarkan 7abel  renFana pelunasan serta *ambar  grafik 
+angsuran pokok dan bunga angsuran, bagaimana jika pelunasan 
+dilakukan tidak tepat waktu? Anggap saja lebih dari 6 bulan.	
+3.	
+Apakah memungkinkan pelunasan dilakukan dalam 10 bulan? Berapa 
+besar anuitas terakhir yang perlu dibayarkan?	
+Besar Angsuran Pokok Bulan ke-n pada Anuitas 	
+Kamu telah mempelajari cara menghitung anuitas. Misalkan saat ini kamu 
+meminjam uang di bank dengan bunga dan anuitas tertentu, bagaimana cara 
+menghitung pembayaran pada bulan ketiga, kelima, atau bulan ke-n? Untuk 
+mengetahui cara menghitungnya, lakukan kegiatan berikut dengan teliti.
+Ayo, Berkolaborasi
+Buatlah kelompok dengan 2–4 orang anggota yang terdiri atas laki-laki dan 
+perempuan.
+1.	
+Analisislah permasalahan berikut dengan cermat.
+2.	
+Misal seseorang ingin mengambil pinjaman di bank sebesar M dengan 
+bunga i per bulan. Pinjaman tersebut akan dilunasi dengan anuitas setiap 
+bulan sebesar A. Misal besar angsuran pokok dari anuitas pertama, kedua, 
+dan seterusnya adalah a1, a2, a3, ..., an. Bagaimana rencana pelunasan 
+hutang tersebut?
+3.	
+Diskusikan bersama kelompok kalian, kemudian lengkapilah tabel 
+rencana pelunasan berikut.
+Tabel 2.9 Rencana Pelunasan
+Pinjaman Pokok Bulan 
+Ke-
+Anuitas
+Sisa Pinjaman 
+Akhir Bulan Ke-
+Bunga (Rp)
+Angsuran (Rp)
+1
+M
+i . M
+a1 = A - i . M
+M - (A - i . M)
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+64
+Pinjaman Pokok Bulan 
+Ke-
+Anuitas
+Sisa Pinjaman 
+Akhir Bulan Ke-
+Bunga (Rp)
+Angsuran (Rp)
+2
+M - (A - i .M)
+3
+…
+N
+4.	
+Amati hubungan antara besar angsuran dari bulan pertama hingga ketiga, 
+kemudian sederhanakan menjadi bentuk rasional seperti berikut.
+...
+...
+...
+...
+a
+a
+a
+a
+1
+2
+2
+3
+=
+=
+5.	
+Apa yang dapat kalian simpulkan mengenai nilai a
+a
+n
+n
+1
+- ?
+6.	
+Apa yang dapat kalian simpulkan mengenai barisan a1, a2, a3,…., an?
+7.	
+Carilah jumlah n suku pertama dari barisan a1, a2, a3,…., an.
+8.	
+Sampaikan hasil kerja kelompok kalian di depan kelas.
+Berdasarkan hasil diskusi dari kegiatan Ayo, Berkolaborasi, dapat 
+disimpulkan bahwa besar angsuran membentuk barisan geometri dengan 
+rasio r = 1 + i dan suku pertama a1 = A – i . M. 
+Besar angsuran pada bulan ke-n dapat dirumuskan sebagai berikut.
+an = a1 × r(n - 1)
+an = a1 × (1 + i)(n-1)
+an = (A - Mi) × (1 + i)(n-1)
+Keterangan:
+an	 : Besar angsuran
+i	
+: Persentase bunga
+A	
+: Anuitas	
+Mi	 : Pinjaman/Modal awal
+n	
+: Periode bulan
+Bab 2 | Investasi dan Pinjaman
+65
+Contoh
+2.6
+Leni meminjam uang di bank sebesar Rp50.000.000,00 dengan bunga 12% 
+per tahun. Leni membayar pinjaman tersebut dengan anuitas sebesar 
+Rp2.000.000,00 per bulan. Berapakah besar angsuran pinjaman yang 
+dibayarkan Leni pada anuitas bulan ke-5?
+Alternatif penyelesaian:
+i = 1% per bulan
+Besar angsuran pinjaman bulan ke-5 (a5).
+a5 = (A - Mi) . (1 + i)(n - 1)
+a5 = (2.000.000 - 0,01 × 50.000.000) . (1 + 0,01)(5 - 1)
+a5 = (2.000.000 - 500.000) . (1,01)(4)
+a5 = (1.500.000) . (1,01)(4)
+a5 = 1.560.906
+Ayo, Berpikir Kreatif
+	 Kamu telah memahami konsep pinjaman dengan anuitas. Jika terdapat 
+suatu pinjaman sebesar M dengan bunga i dan anuitas A, bagaimana 
+cara menentukan jumlah angsuran yang sudah dibayarkan? Selain itu, 
+bagaimana cara menentukan sisa pinjaman yang ada?
+Jumlah Angsuran dan Sisa Pinjaman  	
+Jika terdapat suatu pinjaman sebesar M dengan bunga i dan anuitas A, maka 
+jumlah angsuran yang sudah dibayarkan hingga anuitas ke-n dapat dicari 
+dengan menggunakan rumus jumlah suku ke-n barisan geometri sebagai 
+berikut.
+Sn = (A - Mi) × (
+)
+i
+i
+1
+1
+n
++
+-
+ 
+Dengan Sn merupakan total angsuran yang sudah dibayarkan hingga anuitas 
+ke-n.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+66
+Contoh
+2.7
+Juan meminjam uang di bank sebesar Rp50.000.000,00 dengan bunga 12% per 
+tahun. Juan membayar hutang tersebut dengan anuitas sebesar Rp2.000.000,00 
+per bulan. Berapakah jumlah angsuran pinjaman yang telah dibayarkan Juan 
+hingga pada pembayaran anuitas bulan ke-5? Berapakah sisa pinjaman yang 
+masih perlu dibayar?
+Alternatif penyelesaian:
+Jumlah angsuran pinjaman hingga hingga bulan ke-5 (S5).
+Bunga 12% per tahun = 1% per bulan
+S5 = ( .
+.
+.
+.
+,
+)
+,
+,
+2 000 000
+5 000 000
+0 01
+0 1
+1
+0 01
+1
+5
+#
+-
++
+-
+^
+h
+S5 = ( .
+.
+.
+.
+,
+)
+,
+,
+2 000 000
+5 000 000
+0 01
+0 01
+1 01
+1
+5
+#
+-
+-
+^
+h
+S5 = ( .
+.
+)
+,
+,
+1 500 000
+0 01
+1 01
+1
+5 -
+^
+h
+S5 = 7.651.507,51
+Dengan demikian, sisa pinjaman yang masih harus dibayar adalah 
+M – S5 = 50.000.000 – 7.651.507,51 = Rp42.348.492,49
+Menghitung Pinjaman Awal  	
+Berapakah besar pinjaman awal M dari suatu pinjaman di bank yang 
+diangsur dengan sistem anuitas sebesar A dengan bunga i yang dilakukan 
+sebanyak n kali? Tahukah kamu, bahwa perhitungan besar pinjaman awal 
+ini memiliki prosedur yang sama dengan perhitungan nilai sekarang pada 
+anuitas pinjaman? Sama halnya dengan jumlah pinjaman awal yang semakin 
+berkurang seiring dengan periode pembayaran yang berjalan, jumlah uang 
+tabungan awal juga akan semakin berkurang ketika dilakukan pengambilan 
+berkala dari simpanan tersebut.
+Dengan demikian, berlaku persamaan berikut.
+M = 
+(
+(
+)
+)
+i
+A
+i
+1
+1
+n
+#
+-
++
+-
+Bab 2 | Investasi dan Pinjaman
+67
+Contoh
+2.8
+Seseorang meminjam uang di bank dengan bunga 3% per bulan dan 
+melunasinya dengan sistem anuitas. Jika ia harus membayar kepada pihak 
+bank sebesar Rp5.023.104,00 setiap bulan selama satu tahun, maka berapa 
+jumlah pinjaman awal yang diberikan oleh bank?
+Alternatif penyelesaian:
+M = 
+(
+(
+)
+)
+i
+A
+i
+1
+1
+n
+#
+-
++
+-
+M = 
+(
+(
+)
+,
+.
+.
+,
+)
+1
+1
+0 03
+5 023 104
+0 03
+12
+#
+-
++
+-
+M = 
+(
+)
+,
+.
+.
+( ,
+)
+1
+1
+0 03
+5 023 104
+03
+12
+#
+-
+-
+M = 50.000.000
+Jadi, besar pinjaman awal adalah Rp50.000.000,00.
+Menentukan Besar Anuitas 	
+Besar anuitas A untuk pinjaman sebesar M dengan bunga i yang dilakukan 
+dalam n kali pembayaran memenuhi persamaan berikut. 
+A = M (
+(
+) )
+i
+i
+1
+1
+n
+-
++
+-
+	
+Untuk lebih memahami cara menentukan anuitas, pelajari contoh soal berikut 
+dengan cermat. Tanyakan kepada gurumu, jika kamu mengalami kesulitan.
+Contoh
+2.9
+Kanaya membeli suatu sepeda listrik dari dealer yang menggunakan sistem 
+anuitas pada pembayaran kreditnya. Harga sepeda listrik tersebut adalah 
+Rp12.000.000,00 dengan menggunakan tingkat suku bunga 6% per tahun. 
+Kanaya berencana melunasi kreditnya dengan 8 kali anuitas yang dibayarkan 
+setiap enam bulan. Berapakah besar anuitas yang harus dibayarkan oleh 
+Kanaya?
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+68
+Alternatif penyelesaian:
+i = 3% per enam bulan
+Besar anuitas (A) yaitu
+A = M (
+(
+)i
+i
+1
+1
+n
+-
++
+-
+A = 12.000.000 × (
+(
+,
+)
+,
+1
+1
+0 03
+0 03
+8
+-
++
+-
+A = 12.000.000 × (
+( ,
+)
+,
+1
+1 03
+0 03
+8
+-
+-
+A = 1.709.477
+ 
+Ayo, Menggunakan Teknologi
+Google Spreadsheet (atau Google Sheets) adalah aplikasi pengolah data 
+berbasis web yang dikembangkan oleh Google. Ini adalah bagian dari 
+Google Drive dan memungkinkan pengguna untuk membuat, mengedit, 
+dan berkolaborasi dalam spreadsheet secara online.
+Langkah-Langkah:
+1.	
+Buka pranala atau internet pada gawai atau laptop.
+2.	
+Ketikkan Google Spreadsheet.
+3.	
+Buka sheets.google.com atau melalui Google Drive → New → Google 
+Sheets.
+4.	
+Lakukanlah kegiatan ini secara berkelompok untuk mendalami 
+penerapan konsep anuitas dalam kehidupan sehari-hari.
+5.	
+Bentuklah kelompok yang terdiri atas 2–4 orang anggota. Kalian akan 
+berbagi peran, bekerja samalah dengan baik dan bagilah tugas dengan 
+adil. Kerjakan tugas ini dalam kurun waktu 1 minggu.
+6.	
+Diskusikan dengan anggota kelompok kalian untuk membagi peran, 
+yaitu dua orang sebagai pihak bank dan dua orang sebagai pihak 
+nasabah.
+7.	
+Pihak nasabah membuat skenario seseorang meminjam uang di 
+bank. Lengkapi keterangan mengenai rincian pendapatan dan alokasi 
+Bab 2 | Investasi dan Pinjaman
+69
+pendapatan untuk membayar angsuran pinjaman dan kebutuhan yang 
+lain. Buatlah alokasi ini sesuai anjuran yang diberikan badan keuangan. 
+Pastikan besar angsuran tidak melebihi anggaran pendapatan yang 
+telah direncanakan.
+8.	
+Pihak bank harus menyediakan tawaran pinjaman yang sesuai dengan 
+skenario pihak nasabah. Setelah itu, buatlah tabel rencana pelunasan 
+untuk pihak nasabah. Gunakan platform Google untuk pengolah data. 
+Contohnya Google Spreadsheet untuk membantu tugas kalian.
+9.	
+Diskusikanlah dengan guru kalian pada jam pelajaran selanjutnya, 
+jika kalian mengalami kesulitan.
+10.	 Buatlah suatu laporan berdasarkan hasil diskusi kelompok kalian 
+dalam menyelesaikan permasalahan tersebut.
+Latihan
+2.2
+1.	
+Ibu Hasti meminjam dana sebesar Rp12.000.000,00 yang diangsur selama 
+6 bulan (pokok tetap) dengan bunga 8% per tahun. Hitung:
+a.  	 angsuran pokok per bulan,
+b. 	 bunga bulan ke-3, dan
+c. 	 total bunga keseluruhan.
+Perhatikan informasi berikut untuk menjawab soal nomor 2–5.
+Salah satu produk dari bank untuk memudahkan nasabah mendapatkan 
+rumah adalah dengan menawarkan Kredit Pemilikan Rumah (KPR), di mana 
+nasabah perorangan yang berencana dapat membeli atau merenovasi rumah. 
+Bank menyediakan Kredit Pemilikan Rumah dengan bunga majemuk seperti 
+tabel berikut.
+Tabel 2.10 Bunga Majemuk KPR
+Kategori
+Suku Bunga
+Minimun Tenor
+Peruntukan
+Promo X
+3% per tahun
+12 tahun
+Pembelian properti 
+dari proyek pilihan X.
+3,45% per tahun
+15 tahun
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+70
+Kategori
+Suku Bunga
+Minimun Tenor
+Peruntukan
+Promo Y
+4,5% per tahun
+15 tahun
+Pembelian properti 
+dari proyek pilihan Y.
+6% per tahun
+12 tahun
+Promo Z
+7,8% per tahun
+12 tahun
+Pembelian properti 
+dari proyek pilihan Z.
+Diketahui bahwa KPR tersebut diperuntukkan untuk proyek berikut.
+	
+Proyek pilihan X memiliki harga sebesar Rp200.000.000,00 dengan 
+pembayaran uang muka sebesar 30%. Sisa tagihan Rp140.000.000,00.
+	
+Proyek pilihan Y memiliki harga sebesar Rp400.000.000,00 dengan 
+pembayaran uang muka sebesar 25%. Sisa tagihan Rp300.000.000,00.
+	
+Proyek pilihan Z memiliki harga sebesar Rp600.000.000,00 dengan 
+pembayaran uang muka sebesar 20%. Sisa tagihan Rp480.000.000,00.
+2.	
+Pasangkanlah persentase pada kolom A dengan persentase pada kolom B.
+Kolom A
+Kolom B
+3% per tahun
+ࡐ
+ࡐ
+0,2875% per bulan
+3,45% per tahun
+ࡐ
+ࡐ
+0,375% per bulan
+4,5% per tahun
+ࡐ
+ࡐ
+0,65% per bulan
+6% per tahun
+ࡐ
+ࡐ
+3 per semester
+ࡐ
+1,5 per triwulan
+3.	
+Tentukanlah pernyataan berikut benar atau salah. Beri tanda 3 pada 
+kolom yang sesuai.
+Pernyataan
+Benar
+Salah
+Uang muka untuk proyek pilihan X adalah 
+Rp60.000.000,00
+Semakin lama tenor yang dipilih, semakin kecil 
+anuitasnya.
+Besar anuitas cicilan promo X lebih kecil dari 
+promo Y.
+Bab 2 | Investasi dan Pinjaman
+71
+Pernyataan
+Benar
+Salah
+Besar anuitas cicilan promo Y lebih besar dari 
+promo Z.
+Anuitas Z yang paling kecil di antara yang lain.
+4.	
+Ibu ingin membeli rumah yang ditawarkan pada proyek pilihan Y. Jika ibu 
+mendapatkan penghasilan bulanan sebesar Rp10.000.000,00, manakah 
+KPR yang akan diambil oleh ibu dengan pertimbangan cicilan perbulan 
+tidak melebihi 30% dari penghasilan ibu? Jelaskan alasanmu.
+5.	
+Seseorang hendak membeli KPR dan mengambil promo X, berapakah 
+selisih total pembayaran dari memilih tenor 12 tahun dengan memilih 
+tenor 15 tahun?
+F.	 Parameter Investasi dan Pinjaman
+Suatu parameter dapat mempengaruhi besar kecilnya suatu nilai akhir. 
+Parameter yang pertama yaitu suku bunga. Bagaimanakah pengaruh suku 
+bunga pada nilai akhir?  Untuk mengetahuinya, amati dan kerjakan aktivitas 
+berikut.
+Ayo, Berpikir Kritis
+Parameter Suku Bunga 	
+Suatu perusahaan listrik dan elektronik “SURYA LIGHT” memiliki omset 
+yang bervariasi setiap bulannya berkisar antara Rp300.000.000,00 sampai 
+dengan Rp475.000.000,00. Sebagian dari omset tersebut digunakan untuk 
+dana investasi rutin sebesar 10% dari omset minimum. Dana investasi 
+tersebut akan dikelola dalam kurun waktu tertentu 2–4 tahun. Seorang 
+konsultan investasi diminta untuk mengatur dan mengelola dana 
+investasi perusahaan tersebut. Kondisi perekonomian yang tidak stabil 
+mempengaruhi suku bunga per tahunnya sehingga suku bunga bank 
+kisaran 3%–7% per tahun.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+72
+1.	
+Jika melihat kondisi suku bunga yang terjadi, menurutmu apa yang harus 
+dilakukan oleh konsultan tersebut agar nilai akhir dana investasi tersebut 
+mendapat return atau hasil yang optimal? Jelaskan.
+2.	
+Jika konsultan mengambil keputusan untuk menginvestasikan dananya 
+pada kurun waktu 2 tahun, berapa nilai akhir yang didapat dari dana 
+investasi tersebut ketika suku bunga berada pada angka 3%?	
+3.	
+Dengan investasi dalam kurun waktu yang sama, yaitu 2 tahun, berapa nilai 
+akhir yang didapat dari dana investasi tersebut ketika suku bunga berada 
+pada nilai maksimal (7%)? Bandingkan hasilnya dengan suku bunga 3%.
+4.	
+Apa yang dapat disimpulkan tentang pengaruh suku bunga terhadap nilai 
+akhir?
+3erhatikan grafik berikut ini
+drő˛k íʗkʗ BʗȚǅő ƉeȚǅőȚ ¡iȂői ùʗkőr
+6őȚő
+íʗkʗ BʗȚǅő
+11.200
+11.000
+10.800
+10.600
+10.400
+11.100
+10.900
+10.700
+10.500
+10.300
+10.500
+10.800
+11.100
+10.200
+3%
+5%
+9%
+Gambar 2.6 Grafik Hubungan Suku Bunga dengan Dana
+*rafik tersebut merupakan hubungan antara suku bunga dengan nilai akhir
+Jika suku bunga 3%, maka nilai akhir sebesar ….
+Jika suku bunga 6%, maka nilai akhir sebesar ….
+Jika suku bunga 9%, maka nilai akhir sebesar ….
+Bab 2 | Investasi dan Pinjaman
+73
+'ari gambar grafik tersebut, apa yang dapat kamu simpulkan"
+Bagaimana jika suku bunga makin besar?
+Makin besar suku bunga yang diberikan, maka bagaimana nilai akhirnya?
+Parameter Periode Pembayaran 	
+Parameter yang kedua adalah periode pembayaran. Bagaimanakah pengaruh 
+periode pembayaran pada nilai akhir?  Untuk mengetahuinya, perhatikan 
+kembali informasi sebelumnya.
+Suatu perusahaan listrik dan elektronik “SURYA LIGHT” memiliki omset 
+yang bervariasi setiap bulannya berkisar antara Rp300.000.000,00 sampai 
+dengan Rp475.000.000,00. Sebagian dari omset tersebut digunakan untuk 
+dana investasi rutin sebesar 10% dari omset minimum. Dana investasi 
+tersebut akan dikelola dalam kurun waktu tertentu 2–4 tahun. Seorang 
+konsultan investasi diminta untuk mengatur dan mengelola dana 
+investasi perusahaan tersebut. Kondisi perekonomian yang tidak stabil 
+mempengaruhi suku bunga per tahunnya sehingga rate bunga bank 
+kisaran 3%–7% per tahun.
+1.	
+Jika melihat kurun waktu pengelolaan, menurutmu apa yang harus 
+dilakukan oleh konsultan tersebut agar nilai akhir dana investasi tersebut 
+agar mendapat return atau hasil yang optimal? Jelaskan.
+2.	
+Jika konsultan mengambil keputusan untuk menginvestasikan dananya 
+pada kurun waktu 2 tahun berapa nilai akhir yang didapat dari dana 
+investasi tersebut ketika suku bunga berada pada angka 5%?
+3.	
+Anggap suku bunga yang terjadi adalah 5%. Berapa nilai akhir yang didapat 
+dari dana investasi tersebut, jika konsultan tersebut mempertimbangkan 
+periode waktunya lebih lama, yaitu 3 atau 4 tahun? Apa yang terjadi? 
+Bandingkan hasilnya.
+4.	
+Apa yang dapat disimpulkan tentang pengaruh periode terhadap nilai akhir?
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+74
+3erhatikan grafik berikut ini
+ 
+11.000.000
+10.700.000
+10.400.000
+10.900.000
+10.600.000
+10.300.000
+10.300.000
+10.609.000
+10.927.700
+10.100.000
+10.800.000
+10.500.000
+10.200.000
+10.000.000
+9.900.000
+¡iȂői AkǗir
+ÜerioƉe ÜeȔŵőyőrőȚ
+drő˛k ÜerioƉe ÜeȔŵőyőrőȚ ƉeȚǅőȚ ¡iȂői AkǗir
+1
+2
+3
+Gambar 2.7 Grafik Hubungan Periode Pembayaran dengan Nilai Akhir
+*rafik tersebut merupakan hubungan antara periRde pembayaran dengan 
+nilai akhir.
+Jika periode pembayaran selama 1 tahun, maka nilai sebesar ….
+Jika periode pembayaran selama 2 tahun, maka nilai sebesar ….
+Jika periode pembayaran selama 3 tahun, maka nilai sebesar ….
+'ari gambar grafik tersebut, apa yang dapat kamu simpulkan"
+Bagaimana jika periode pembayaran makin lama?
+Makin lama periode pembayaran yang diberikan, maka bagaimana nilai akhirnya?
+Latihan
+2.3
+1.	
+Suatu 
+aplikasi 
+pinjaman 
+online 
+memberikan 
+pinjaman 
+sebesar 
+Rp10.000.000,00 dengan suku bunga 2% per tahun. Periode pinjaman 
+selama 24 bulan. Berapakah nilai akhir pengembalian pinjaman tersebut?
+2.	
+Suatu Bank XYZ memberikan pinjaman sebesar Rp40.000.000,00 dengan 
+suku bunga 3% per tahun. Diketahui periode pinjaman selama 4 tahun. 
++itunglah nilai akhir mRdal tersebut setiap tahunnya %uatlah grafik yang 
+menunjukkan kondisi tersebut.
+3.	
+Untuk menggalakkan program koperasi berdaya guna, beberapa koperasi 
+akan memberikan pinjaman masing-masing sebesar Rp50.000.000,00 
+kepada pengurus desa untuk modal pembangunan. Koperasi A 
+Bab 2 | Investasi dan Pinjaman
+75
+memberikan suku bunga sebesar 3% per tahun selama 6 tahun, sedangkan 
+Koperasi B memberikan suku bunga sebesar 2% per tahun selama 4 tahun. 
+Bandingkan nilai akhir yang akan didapat oleh masing-masing koperasi. 
+Manakah yang lebih menguntungkan?
+4.	
+Surya memberikan modal di dua tempat, masing-masing sebesar 
+Rp100.000.000,00. Modal pada tempat pertama memiliki suku bunga 2,5% 
+per tahun dengan periode 5 tahun. Modal pada tempat kedua memiliki 
+suku bunga 3% per tahun dengan periode 4 tahun. Hitunglah nilai akhir 
+modal pada kedua tempat tersebut? Manakah yang lebih menguntungkan.
+5.	
+Ayah ingin memberikan modal investasi untuk anaknya sebesar 
+Rp45.000.000,00. Tentukan pernyataan berikut Benar atau Salah. Beri 
+tanda centang (3) pada kolom yang sesuai.
+Pernyataan
+Benar
+Salah
+Nilai akhir yang didapat sebesar Rp54.697.781,25 
+jika suku bunga 5% per tahun dengan periode 
+selama 4 tahun.
+Nilai akhir yang didapat sebesar Rp59.895.000,00 
+jika suku bunga 10% per tahun dengan periode 
+selama 3 tahun.
+Nilai akhir yang didapat lebih besar jika suku 
+bunga 5% selama 4 tahun dibanding suku bunga 
+10% selama 3 tahun.
+Ayo, Bereﬂeksi 
+Pada bab ini, kamu telah mempelajari materi tentang pinjaman dan investasi. 
+Apakah kamu sudah memahami konsep materi tersebut? Berilah tanda 
+centang (3) pada materi yang sudah/belum kamu pahami.
+No.
+Pernyataan
+Sudah
+Belum
+1.
+Saya mampu memahami konsep bunga majemuk 
+dan anuitas pada investasi.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+76
+No.
+Pernyataan
+Sudah
+Belum
+2.
+Saya mampu menghitung besar bunga investasi 
+dengan sistem anuitas.
+3.
+Saya mampu menghitung besar tabungan yang 
+dilakukan dengan sistem anuitas.
+4.
+Saya mampu memahami konsep bunga majemuk 
+dan anuitas pada pinjaman.
+5.
+Saya mampu membuat tabel rencana pelunasan.
+6.
+Saya mampu menghitung besar angsuran dan sisa 
+pinjaman.
+7.
+Saya mampu menentukan besar anuitas yang 
+dibayarkan.
+Pelajari kembali konsep yang belum kamu pahami. Jika kamu kesulitan dalam 
+memahami konsep yang dimaksud, diskusikan bersama teman dan gurumu.
+Uji Kompetensi Bab 2 	
+Perhatikan teks berikut untuk soal nomor 1–3.
+Koperasi Sukamaju Desa Sukakaya memiliki program simpanan berjangka 
+sedang yang dapat diambil sesuai jangka waktu yang telah disepakati. Pak 
+Subekti telah menggunakan simpanan berjangka tersebut dengan suku 
+bunga majemuk 2% per triwulan selama 15 bulan. Simpanan tersebut saat ini 
+mencapai Rp44.160.000,00.
+N
+(1 + i) dengan i = 2%
+2
+1,0404
+3
+1,0612
+4
+1,0824
+5
+1,104
+Bab 2 | Investasi dan Pinjaman
+77
+1.	
+Berdasarkan tabel tersebut, simpanan awalnya sebesar ....
+a.	
+Rp20.000.000,00		
+	
+	
+d.	
+Rp36.000.000,00
+b.	
+Rp25.000.000,00		
+	
+	
+e.	
+Rp40.000.000,00
+c.	
+Rp30.000.000,00
+2.	
+Total bunga yang diterima Pak Subekti adalah ... dari tabungan awal.
+a.	
+0,7%	
+	
+	
+	
+	
+	
+d.	
+10,4%
+b.	
+2%	 	
+	
+	
+	
+	
+	
+e.	
+14%
+c.	
+4% 
+3.	
+Misalkan tabungan awal Pak Subekti sebesar M. Dengan menggunakan 
+tabel tersebut, cara yang tidak tepat untuk menghitung perkiraan nilai 
+tabungan Pak Subekti yang disimpan selama satu setengah tahun adalah 
+….
+a.	
+(1,104) × (0,02) × M	 	
+	
+d.	
+(1,0404) 3 × M
+b.	
+(1,0824) × (1,0404) × M	
+	
+e.	
+(1,02) 6 × M
+c.	
+(1,0612) × M
+Perhatikan informasi berikut untuk menjawab soal nomor 4–5.
+Seseorang meminjam uang sebesar Rp10.000.000,00 selama setengah tahun 
+dengan suku bunga 8% per bulan. Berikut dalam tabel rencana angsuran 
+pinjaman tersebut hingga anuitas ke-3 (dalam satuan Rp100.000,00).
+Bulan
+Jumlah Pinjaman 
+Awal Bulan
+Bunga 
+Pinjaman
+Angsuran 
+Pinjaman
+Jumlah Pinjaman 
+Akhir Bulan
+1
+100
+8
+14
+86
+2
+86
+6,88
+15,12
+70,88
+3
+70,88
+5,7604
+16,32
+54,5504
+4.	
+Besar anuitas pada sistem angsuran tersebut adalah ….
+a.	
+Rp2.000.000,00	 	
+	
+	
+d.	
+Rp2.300.000,00
+b.	
+Rp2.100.000,00	 	
+	
+	
+e.	
+Rp2.400.000,00
+c.	
+Rp2.200.000,00
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+78
+5.	
+Besarnya bunga angsuran yang dibayarkan pada anuitas ke-5 adalah ....
+a.	
+Rp278.628,14	
+	
+	
+	
+d.	
+Rp301.213,54
+b.	
+Rp286.462,33	
+	
+	
+	
+e.	
+Rp325.594,67
+c.	
+Rp295.315,46
+Perhatikan teks berikut untuk menjawab soal nomor 6–8.
+Dani adalah seorang mahasiswa tingkat dua akhir yang ingin menabung untuk 
+melanjutkan studi magister di suatu universitas Kota S. Biaya kuliah dan hidup 
+di Kota S diperkirakan sebesar Rp100.000.000,00. Dani berencana untuk mulai 
+menabung setelah pergantian semester sebesar Rp2.000.000,00 setiap bulan ke 
+dalam rekening deposito yang memberikan bunga 9% per tahun.
+6.	
+Lama waktu Dani harus menabung agar dapat mencapai targetnya adalah 
+… bulan.
+a.	
+41	 	
+	
+	
+	
+	
+	
+d.	
+44
+b.	
+42	 	
+	
+	
+	
+	
+	
+e.	
+45
+c.	
+43
+7.	
+Nilai masa depan dari tabungannya setelah empat tahun adalah ….
+a.	
+Rp112.000.000,00	
+	
+	
+b.	
+Rp113.000.000,00	
+	
+	
+c.	
+Rp114.000.000,00
+d.	
+Rp115.000.000,00
+e.	
+Rp116.000.000,00
+8.	
+Dani tidak jadi menabung dan kemudian meminjam uang di bank untuk 
+melanjutkan studinya. Jika ia mengambil pinjaman dari bank yang 
+menawarkan bunga 0,4% per bulan dan dibayar dengan sistem anuitas 
+sebesar Rp2.064.492,5 setiap bulan selama empat tahun, maka besar uang 
+yang dipinjam oleh Dani adalah ….
+a.	
+Rp85.000.000,00		
+	
+	
+b.	
+Rp87.000.000,00		
+	
+	
+c.	
+Rp90.000.000,00
+d.	
+Rp92.000.000,00
+e.	
+Rp95.000.000,00
+Bab 2 | Investasi dan Pinjaman
+79
+Perhatikan teks berikut untuk menjawab pertanyaan no. 9–10.
+Bu Tania adalah pemilik usaha toko elektronik yang telah berkembang pesat 
+di kotanya. Usahanya menghasilkan omzet rata-rata sebesar Rp120.000.000,00 
+per bulan. Ia memiliki 10 orang karyawan dengan gaji rata-rata Rp4.000.000,00, 
+serta pengeluaran rutin lainnya sebesar Rp25.000.000,00 per bulan.
+Kini Bu Tania ingin memperluas usahanya ke kota lain dan membutuhkan 
+tambahan modal. Ia mengajukan kredit ke Bank Sentosa, dan mendapat brosur 
+simulasi angsuran kredit seperti tabel berikut.
+Pinjaman
+Jarak Waktu (dalam Bulan)
+12
+24
+36
+48
+60
+Rp10.000.000,00
+Rp874.515,00
+Rp456.847,00
+-
+-
+-
+Rp25.000.000,00
+Rp2.186.287,00
+Rp1.142.119,00
+-
+-
+-
+Rp30.000.000,00
+Rp2.623.545,00
+Rp1.370.542,00
+-
+-
+-
+Rp40.000.000,00
+Rp3.498.059,00
+Rp1.827.390,00
+-
+-
+-
+Rp50.000.000,00
+Rp4.372.574,00
+Rp2.284.237,00
+-
+-
+-
+Rp60.000.000,00
+Rp5.247.089,00
+Rp2.741.085,00
+Rp1.907.984,00
+-
+-
+Rp70.000.000,00
+Rp6.121.603,00
+Rp3.197.932,00
+Rp2.225.981,00
+-
+-
+Rp80.000.000,00
+Rp6.996.118,00
+Rp3.654.780,00
+Rp2.543.978,00
+-
+-
+Rp100.000.000,00
+Rp8.745.148,00
+Rp4.568.474,00
+Rp3.179.973,00
+Rp2.488.504,00
+-
+Rp130.000.000.00
+Rp11.368.693,00
+Rp5.939.017,00
+Rp4.133.965,00
+Rp3.235.055,00
+Rp2.698.586,00
+Rp150.000.000,00
+Rp13.117.722,00
+Rp6.852.711,00
+Rp4.769.959,00
+Rp3.732.756,00
+Rp3.113.753,00
+Bu Tania memutuskan bahwa angsuran maksimal yang dapat ia bayarkan 
+per bulan tidak lebih dari 20% dari total pendapatan bersih per bulan jika 
+mengangsur selama 12 bulan. Namun, jika mengambil angsuran lebih dari 12 
+bulan (24, 36, 48, atau 60 bulan) tidak lebih dari 10% dari total pendapatan 
+bersih per bulan.
+9.	
+Tentukanlah apakah pernyataan-pernyataan berikut Benar atau Salah 
+berdasarkan batas kemampuan angsuran Bu Tania. Beri tanda centang (3) 
+pada kolom yang sesuai.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+80
+Pernyataan
+Benar
+Salah
+Pinjaman Rp100.000.000,00 dengan tenor 12 bulan.
+Pinjaman Rp100.000.000,00 dengan tenor 24 bulan.
+Pinjaman Rp120.000.000,00 dengan tenor 12 bulan.
+Pinjaman Rp130.000.000,00 dengan tenor 24 bulan.
+Pinjaman Rp150.000.000,00 dengan tenor 24 bulan.
+10.	 Andaikan Bu Tania mengambil pinjaman sebesar Rp100.000.000,00 dengan 
+tenor paling singkat, yaitu 12 bulan, Setelah membuka cabang baru, Bu 
+Tania merekrut 5 orang karyawan tambahan dengan besaran gaji yang 
+sama seperti karyawan sebelumnya (Rp4.000.000,00 per orang). Berapa 
+omzet minimal yang harus diperoleh dari cabang baru agar pendapatan 
+bersih total Bu Tania menjadi dua kali lipat dari sebelumnya?
+Refleksi 	
+Setelah mempelajari bab ini, berikan tanggapan atas beberapa pertanyaan 
+berikut ini.
+1.	
+Berdasarkan konsep investasi dan pinjaman yang sudah dipelajari, 
+pengalaman apa yang paling relevan dalam kehidupan sehari-harimu? 
+Ceritakan pengalaman tersebut.
+2.	
+Bagaimana perasaanmu saat memainkan peran atau melakukan 
+eksperimen berdasarkan materi investasi dan pinjaman?
+3.	
+Apa strategi belajar yang dapat kamu gunakan untuk menerapkan materi 
+investasi dan pinjaman?
+4.	
+Kendala apa saja yang kamu temui dalam mempelajari serta menerapkan 
+konsep materi investasi dan pinjaman dalam kehidupan sehari-hari?
+5.	
+Pada materi investasi dan pinjaman, kegiatan pembelajaran manakah 
+kamu sukai? Apa alasannya?
+6.	
+Bagian mana saja yang kamu anggap paling menyenangkan dan 
+mengasyikkan dari pembelajaran materi investasi dan pinjaman? Apa 
+alasannya?

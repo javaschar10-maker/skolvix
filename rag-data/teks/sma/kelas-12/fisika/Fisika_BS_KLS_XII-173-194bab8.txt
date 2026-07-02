@@ -1,0 +1,712 @@
+153
+BAB 8 | Gejala Kuantum
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI
+REPUBLIK INDONESIA 2022
+Fisika untuk SMA/MA Kelas XII
+Penulis	: Irma Rahma Suwarma, Lia Laela Sarah
+ISBN	
+: 978-623-472-722-7 (jil.2)
+BAB 8
+GEJALA KUANTUM
+Setelah mempelajari bab ini, kalian dapat menganalisis gejala kuantum (radiasi 
+benda hitam, teori kuantum Planck, efek fotolistrik, efek compton, dualitas 
+gelombang partikel, dan sinar-X) serta penerapannya dalam kehidupan sehari-
+hari.
+Tujuan Pembelajaran
+Kata Kunci
+Foton • Efekfotolistrik • Hipotesa Planck • Efek Compton • Sinar-X
+Sumber: phys.org (2022)
+154
+Fisika untuk SMA/MA Kelas XII 
+Mikroskop elektron atau scanning 
+microscope electron (SEM) sudah 
+banyak digunakan oleh para peneliti 
+untuk mendapatkan foto dari objek-
+objek yang super kecil seperti virus 
+SarCov-2 (virus Corona). Prinsip kerja 
+dari SEM ini menggunakan fakta 
+yang pada abad 20 mengejutkan para 
+fisikawan, yaitu partikel elektron 
+ternyata dapat memiliki perilaku 
+seperti gelombang. Elektron dengan 
+Gambar 8. 2 Foto virus SarCov-2 hasil SEM
+Sumber: NIAID / Wikimedia Commons (2020)
+panjang gelombang lebih kecil dari panjang gelombang cahaya tampak 
+digunakan pada mikroskop elektron untuk mendapatkan resolusi gambar 
+yang tajam dan setiap detailnya akurat.
+Gambar 8.1 Peta konsep Gejala Kuantum
+Sumber : Kinkin Suartini (2022)
+155
+BAB 8 | Gejala Kuantum
+Ayo, Bernalar Kritis!
+Apa perbedaan dasar dari partikel dan gelombang?  
+Apakah cahaya termasuk partikel atau gelombang?  
+Prediksikan perilaku apa yang dimiliki elektron pada mikroskop 
+elektron sehingga bersifat seperti gelombang?
+A.	 Konsep Foton
+FAKTA
+Thomas Young (1773-1829), pada 1801 melakukan “eksperimen 
+celah ganda” yang membuktikan bahwa cahaya adalah fenomena 
+gelombang. Pandangan ini diperkuat oleh prediksi Maxwell (1831-
+1879) pada 1862 bahwa cahaya membawa energi dalam medan listrik 
+dan medan magnet yang berosilasi. Dua puluh lima tahun kemudian, 
+Heinrich Hertz (1857-1894) menggunakan rangkaian listrik untuk 
+mendemonstrasikan gelombang elektromagnetik (frekuensi radio) 
+dan menunjukkan cahaya sebagai salah satu bentuk gelombang 
+elektromagnetik. Selanjutnya Max Planck (1858-1947) pada 1901 
+mempublikasikan tentang  teori kuantum cahaya. Planck dalam 
+teorinya berhipotesis bahwa cahaya merupakan paket-paket energi 
+dalam berkas diskrit yang disebut kuanta atau foton.
+Ayo, Cermati!
+Planck memulai revolusi ide dengan hipotesisnya yang telah mengubah 
+cara berpikir tentang berbagai fenomena. Hipotesis ini mulai dipercaya 
+pada 1905. Saat itu, Albert Einstein menggunakan teori kuantum cahaya 
+untuk menjelaskan gejala fenomena efek fotolistrik yang sebelumnya 
+tidak dapat dijelaskan dengan teori gelombang. Gagasan efek fotolistrik ini 
+menghantarkan Einstein menjadi pemenang Hadiah Nobel Fisika 1921. 
+Einstein menyatakan bahwa cahaya yang berinteraksi dengan materi 
+pada efek fotolistrik tidak dalam gelombang kontinu seperti teori Maxwell, 
+tapi dalam paket energi sesuai teori kuantum Planck. Secara garis besar, 
+kumpulan hukum yang berkembang dari 1900 hingga akhir 1920-an yang 
+156
+Fisika untuk SMA/MA Kelas XII 
+1.	 Radiasi Benda Hitam
+Ayo, Bernalar Kritis!
+Apa yang dimaksud dengan radiasi benda hitam? 
+Apakah setiap benda memiliki radiasi panas?  
+Apakah ada benda hitam sempurna? 
+Mengapa jika kita mengenakan pakaian berwarna hitam pada 
+siang hari akan terasa lebih panas dibandingkan kita memakai 
+pakaian berwarna putih?
+Ayo, Ingat Kembali!
+Energi dari Matahari mampu melewati ruang angkasa menembus 
+atmosfer Bumi kemudian menghangatkan permukaan Bumi. 
+Perpindahan energi ini tidak melewati atmosfer secara konduksi 
+karena udara merupakan konduktor yang buruk dan tidak juga 
+melalui konveksi karena konveksi dimulai hanya setelah Bumi 
+dihangatkan. Konduksi maupun konveksi tidak mungkin terjadi 
+di ruang kosong antara atmosfer dan Matahari. Oleh karena 
+itu, energi dari Matahari tersebut dialirkan dengan cara lain, 
+yaitu melalui radiasi sehingga disebut energi radiasi (radiant 
+energy).
+Kalian pada bab 5 sudah mengetahui bahwa semua objek atau benda 
+memancarkan radiasi karena suhunya lebih besar dari 0 K. Kalian pada 
+suhu normal ( ~ 300 K) tidak dapat merasakan atau melihat adanya radiasi 
+tersebut karena panjang gelombangnya berada dalam rentang inframerah 
+dari gelombang elektromagnetik. Saat objek dipanaskan mencapai sekitar 
+~ 1000 K, energi radiasinya cukup menghasilkan spektrum cahaya tampak 
+sehingga objek berpijar merah muda. Jika suhu objek lebih dari 2000 K, maka 
+objek akan bersinar dengan warna kuning atau putih, contoh pada lampu 
+filamen. Dengan demikian, spektrum yang diemisikan oleh setiap benda 
+dipengaruhi oleh suhunya.
+menggambarkan semua fenomena kuantum dunia mikro dikenal sebagai 
+fisika kuantum.
+157
+BAB 8 | Gejala Kuantum
+Sebuah 
+benda 
+yang 
+mampu 
+menyerap 
+seluruh 
+radiasi 
+yang 
+mengenainya disebut dengan benda 
+hitam 
+sempurna. 
+Benda 
+hitam 
+sempurna diibaratkan sebuah rongga 
+dengan lubang kecil yang ketika 
+seberkas cahaya masuk ke dalamnya, 
+cahaya tersebut akan dipantulkan 
+terus menerus di dalamnya dan tidak 
+dapat keluar dari rongga.
+Gambar 8. 3 Benda hitam sempurna
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+Cobalah lakukan pengambilan data melalui simulasi 
+PHET pada: 
+https://phet.colorado.edu/sims/html/blackbody-
+spectrum/latest/blackbody-spectrum_en.html
+8.1 Ayo, Amati!
+Buatlah tabel pengumpulan data, temukan hubungan suhu dan 
+panjang gelombang pada puncak gelombang. Kemudian, tuliskan 
+interpretasi Kalian terhadap data tersebut! 
+Istilah benda hitam pertama kali diperkenalkan oleh Gustav Kirchoff 
+(1824-1887) pada 1859. Radiasi benda hitam adalah radiasi gelombang 
+elektromagnetik ketika benda berada dalam kesetimbangan termal dengan 
+lingkungannya. Kirchoff membuktikan suatu teorema bahwa setiap benda 
+yang berada dalam kesetimbangan termal memiliki daya radiasi yang 
+2. tampilkan 
+nilai pada grafik
+1. Ubah nilai 
+temperatur
+158
+Fisika untuk SMA/MA Kelas XII 
+dipancarkan sebanding dengan daya yang diserapnya. Pernyataan tersebut 
+dituliskan dalam persamaan berikut:
+Rf = J (f,T)
+J(f,T) merupakan fungsi universal (untuk semua benda) yang bergantung 
+pada frekuensi cahaya (f) dan suhu mutlak (T). 
+Joseph Stefan dan Ludwig Boltzman pada 1879,  melakukan eksperimen 
+laju energi radiasi yang dipancarkan seuatu permukaan benda yang 
+kemudian dikenal dengan Hukum Stefan-Boltzman. Hukum Stefan-Boltzmann 
+menyatakan bahwa total intensitas radiasi yang dipancarkan sama dengan luas 
+daerah di bawah grafik kurva distribusi spektrum. Boltzman juga menyatakan 
+bahwa jika suhu meningkat dari 2000K ke 4000K (2 kali) maka total intensitas 
+radiasi yang dipancarkan adalah 24 atau 16 kali lipat (lihat kembali hasil 8.1 
+Ayo, Cermati!). 
+Hasil eksperimen ini menyimpulkan bahwa daya total per satuan luas 
+yang dipancarkan pada semua frekuensi (Itot) sebanding dengan pangkat empat 
+suhu mutlaknya. Hasil penemuan tersebut dirumuskan dalam persamaan:
+Itotal =∫Rf df = σT4
+Itot adalah intensitas radiasi (daya per satuan luas) pada permukaan suatu 
+benda hitam pada semua frekuensi. Rf adalah intensitas radiasi per satuan 
+frekuensi, T adalah suhu mutlak benda, dan  Jika σ adalah tetapan Stefan 
+Boltzman sebesar 5,67 x 10-8 W m-2K-4. Jika suatu benda bukan merupakan 
+benda hitam, maka benda tersebut akan memenuhi hukum yang sama namun 
+diberi koefisien emisivitas e, sehingga persamaan 8.2 menjadi:
+Itotal = eσT4
+P/A = eσT4  atau  P = eσAT4
+(8.2)
+(8.3)
+(8.4)
+8.1 Ayo, Cek Pemahaman!
+Seorang petani tetap merasa kedinginan, padahal ia menyalakan 
+pembakar propana di lumbungnya pada pagi yang dingin dan 
+memanaskan udara hingga 20°C (68°F). Kenapa petani itu masih 
+merasa kedinginan?
+2.	 Pergeseran Wien
+Ayo, Bernalar Kritis!
+Pada panjang gelombang berapa suatu intensitas radiasi yang 
+dipancarkan dari suatu benda hitam mencapai titik maksimum? 
+(8.1)
+159
+BAB 8 | Gejala Kuantum
+Buka Kembali link simulasi PhET berikut:
+https://phet.colorado.edu/sims/html/blackbody-spectrum/latest/
+blackbody-spectrum_en.html
+8.2 Ayo, Amati!
+Gambar 8. 4 Grafik data pergeseran wien
+Sumber : unknown/savemyexam.co.uk(2022)
+Tuliskan data pengamatan dan hitunglah data tersebut pada 
+kertas terpisah.
+Coba kalian lihat kegiatan 8.2 Ayo, Cermati! teramati bahwa panjang 
+gelombang pada intensitas radiasi maksimum suatu benda hitam (λmax) 
+bergeser ke panjang gelombang lebih pendek saat suhunya naik. Perhatikan 
+Gambar 8.4, pada intensitas radiasi maksimum, semakin tinggi suhu benda T 
+maka panjang gelombangnya λm semakin kecil
+λm . T = K
+(8.5)
+Dapatkah kita menghitung suhu suatu benda berdasarkan panjang 
+gelombang radiasinya?
+1.	 Ambil data panjang gelombang maksimum pada suhu sesuai pada 
+Gambar 8.1.
+2.	 Buatlah tabel hasil pengamatan.
+3.	 Buatlah 
+hubungan 
+matematis 
+antara 
+panjang 
+gelombang 
+maksimum (λmax) dengan suhu mutlak (T).
+160
+Fisika untuk SMA/MA Kelas XII 
+3.	 Teori Kuantum Planck
+Ide mengenai kuantisasi energi yang dikemukakan oleh Max Planck (1858-
+1947) merupakan suatu hal baru yang tidak dapat dijelaskan dalam fisika 
+klasik. Planck pada 1900 memulai percobaannya mengenai benda hitam, 
+saat itu elektron belum ditemukan. Planck merepresentasikan benda 
+hitam sebagai sejumlah osilator atomik yang masing-masing menyerap dan 
+memancarkan gelombang elektromagnetik. Planck berhipotesis bahwa:
+Energi radiasi yang dipancarkan oleh osilator atomik tidak kontinu 
+melainkan berupa paket paket energi diskrit.
+En = nhf
+(8.6)
+Persamaan ini dikenal sebagai persamaan pergeseran Wien dengan 
+K adalah konstanta Wien sebesar 2,898 x 10-3 mK. Persamaan pergeseran 
+Wien ini dapat digunakan untuk menghitung seberapa panas suatu bintang 
+berdasarkan pancaran radiasi yang dihasilkannya.
+Contoh Kasus:
+Spektrum radiasi bintang Rigel di konstelasi Orion memuncak pada 
+panjang gelombang 263 nm, sedangkan spektrum bintang Betelgeuse 
+memuncak pada panjang gelombang 828 nm. Manakah dari kedua 
+bintang ini yang lebih dingin, Betelgeuse atau Rigel?
+Jawab:
+Rigel:
+Betelguese:
+λmaxT = 2,9 x 10-3 mK
+T = 2,9 x 10-3
+λmax
+T = 2,9 x 10-3
+λmax
+=
+2,9 x 10-3
+263 x 10-9 = 11026 = 11000K
+T = 2,9 x 10-3
+λmax
+=
+2,9 x 10-3
+263 x 10-9 = 11026 = 11000K
+161
+BAB 8 | Gejala Kuantum
+dengan n adalah bilangan asli,  f adalah frekuensi getaran (hertz) dan h 
+adalah konstanta Planck,
+h = 6,63 x 10-34 Js.
+Kontanta Planck (h) memiliki peranan yang sangat penting. Konstanta 
+Planck adalah konstanta dasar alam yang berfungsi untuk menetapkan 
+batas bawah pada atom dan muncul berulang kali dalam fisika kuantum. 
+Persamaan E = hf memberikan jumlah energi terkecil yang dapat diubah 
+menjadi cahaya dengan frekuensi f. Radiasi cahaya yang dipancarkan ini 
+tidak secara terus menerus tetapi dipancarkan sebagai paket energi berupa 
+aliran foton, dengan masing-masing foton memiliki frekuensi f dan membawa 
+energi hf.
+Kalian dengan memahami bahwa energi cahaya sebesar E=hf, maka 
+kalian juga dapat memahami mengapa radiasi microwave tidak dapat 
+merusak jaringan sel hidup seperti halnya sinar ultraviolet (UV) dan sinar-X. 
+Frekuensi microwave lebih rendah dari sinar-X dan sinar UV sehingga 
+menghasilkan energi foton yang rendah. Oleh karena itu, radiasi microwave 
+tidak mampu mengionisasi jaringan sel hidup. Foton dari sinar ultraviolet 
+dapat memberikan energi sekitar satu juta kali lebih besar karena frekuensi 
+radiasinya satu juta kali lebih besar daripada frekuensi microwave. Sinar-X 
+juga demikian, frekuensinya tinggi sehingga dapat menghasilkan energi 
+foton lebih tinggi dari UV dan menyebabkan kesusakan jaringan sel jika 
+terpapar berlebihan.
+8.2 Ayo, Cek Pemahaman!
+1.	 Apa yang dimaksud dengan istilah kuantum?
+2.	 Berapa energi total dalam suatu berkas monokromatik yang 
+memiliki frekuensi f dan terdiri dari n foton?
+B.	Efek Fotolistrik
+Ayo, Bernalar Kritis!
+Apa yang dimaksud dengan efek fotolistrik? 
+Bagaimana proses efek fotolistrik terjadi? 
+Faktor apa saja yang mempengaruhi terjadi efek fotolistrik? 
+Apa aplikasi efek fotolistrik dalam kehidupan sehari-hari?
+162
+Fisika untuk SMA/MA Kelas XII 
+2. Tentukan panjang 
+gelombang cahaya yang 
+akan menyinari logam
+1. Pilih salah satu 
+bahan logan
+3. Tentuan 
+intensitas cahaya
+4. Ubah-ubah nilai  
+beda potensial
+Akhir 
+abad 
+ke-19, 
+beberapa 
+peneliti 
+memperhatikan 
+bahwa 
+cahaya 
+mampu 
+mengeluarkan 
+elektron 
+dari 
+berbagai 
+permukaan logam. Fenomena ini dikenal 
+dengan efek fotolistrik. Salah satu pemanfaatan 
+fenomena 
+efek 
+fotolistrik 
+pada 
+produk 
+teknologi adalah charge-coupled device (CCD) 
+pada kamera digital yang berfungsi sebagai 
+pengganti film untuk menangkap gambar 
+dalam bentuk kumpulan-kumpulan elektron. 
+Gambar 8. 5 Digital kamera
+Sumber: Kreuzchanabel / Wikimedia Commons 
+(2012)
+CCD juga digunakan pada perekam camcorder dan pemindai elektronik yang 
+digunakan astronom untuk menangkap gambar planet-planet dan bintang.
+8.3 Ayo, Amati!
+Coba analisis eksperimen efek fotolistrik melalui simulasi pada link 
+berikut: https://javalab.org/en/photoelectric_effect_2_en/.
+Pada 
+simulasi 
+tersebut, 
+sebuah 
+lempeng 
+disinari suatu sumber cahaya dengan frekuensi f 
+diarahkan ke target T dan mengeluarkan elektron 
+dari lempeng tersebut. Sebuah beda potensial V 
+diatur antara target T dan tempat pengumpul arus 
+C untuk menampung elektron ini (disebut sebagai 
+fotoelektron). Kumpulan ini menghasilkan arus 
+fotolistrik i yang diukur dengan amperemeter A.
+163
+BAB 8 | Gejala Kuantum
+1.	 Amati grafik arus (i) yang terbentuk dari perubahan V (beda 
+potensial) yang kalian lakukan. Temukan nilai Vstop, nilai V saat 
+grafik menunjukan nilai I yang mengalami penurunan atau 
+keadaan nilai I pada grafik tidak berubah (konstan).
+2.	 Cari nilai energi maksimum yang dihasilkan dari pergerakan 
+elektron.
+Buatlah tabel hasil pengamatan serta grafik V terhadap I. Kemudian 
+tentukan nilai energi kinetik maksimum untuk sejumlah elektron yang 
+dilepaskan. Buatlah interpretasi antara energi kinetik dengan beda 
+tegangan.
+Tulis jawabanmu disini: 
+Kmax =______________
+Buka link berikut: https://javalab.org/en/photoelectric_effect_en/
+3. Tentuan 
+intensitas cahaya
+1. Pilih salah satu 
+bahan logan
+2. Tentukan panjang 
+gelombang cahaya yang 
+akan menyinari logam
+E = hf
+f = c
+λ
+E = hc
+λ
+164
+Fisika untuk SMA/MA Kelas XII 
+dari logam sehingga arus listriknya semakin besar. Beda potensial henti 
+(-ΔVs) elektron padahal sama besar untuk setiap intensitas cahayanya. 
+Hal ini, menunjukkan bahwa kecepatan atau energi kinetik elektron tidak 
+dipengaruhi intensitas cahayanya.
+Sisi lain, seberkas sinar ultraviolet (frekuensi cahaya lebih tinggi) 
+dengan intensitas lemah menghasilkan lebih sedikit elektron tetapi pada 
+kecepatan yang jauh lebih tinggi. Contoh grafik energi elektron dan 
+frekuensi cahaya yang digunakan terlihat pada Gambar 8.7.
+Tuliskan data hasil pengamatanmu dan buatlah grafik untuk 
+merepresentasikan data tersebut.
+Tuliskan kesimpulan hasil pengamatanmu.
+Hasil eksperimen efek fotolistrik ini merupakan teka-teki bagi fisika 
+klasik. Tinjauan fisika klasik, cahaya adalah gelombang elektromagnetik yang 
+berosilasi secara sinusoidal. Saat cahaya mengenai logam, elektron dalam 
+logam ikut berosilasi karena gaya listrik dari gelombang elektromagnetik 
+cahaya tersebut. Jika amplitudo atau intensitas cahaya diperbesar, maka 
+amplitudo elektron juga cukup besar sehingga elektron mampu melepaskan 
+diri dari permukaan logam. Kenyataannya hal tersebut tidak terjadi. Pada 
+percobaan ini, amplitudo gelombang cahaya atau intensitas cahaya tidak 
+mempengaruhi energi elektron yang keluar dari permukaan logam. 
+Gambar 8. 6 Grafik intensitas cahaya terhadap 
+arus listrik
+Hasil 
+pengamatan 
+menunjukan 
+bahwa 
+elektron 
+keluar dari logam segera setelah 
+mendapatkan 
+cahaya 
+dengan 
+frekuensi 
+tertentu 
+meskipun 
+cahayanya paling redup atau 
+intensitasnya 
+paling 
+kecil. 
+Kecerahan cahaya sama sekali 
+tidak 
+mempengaruhi 
+energi 
+elektron 
+yang 
+keluar 
+dari 
+logam. Grafik intensitas cahaya 
+terhadap arus listrik sebagai 
+hasil keluarnya elektron dari 
+logam 
+terlihat 
+pada 
+Gambar 
+8.6. 
+Saat 
+intensitas 
+cahaya 
+diperbesar 
+(lebih 
+terang), 
+lebih banyak elektron keluar 
+165
+BAB 8 | Gejala Kuantum
+Gambar 8. 7 Grafik energi elektron terhadap frekuensi cahaya pada Zn
+Sumber : Ponor / Wikimedia Commons (2020)
+Elektron pada peristiwa efek fotolistrik Zn tidak mampu keluar dari 
+logam ketika diberi cahaya tampak.  Elektron saat diberi cahaya dengan 
+frekuensi mendekati 10,4 x 1014 Hz mampu keluar dari logam dan jika diberi 
+cahaya lebih tinggi lagi elektron mampu bergerak dengan energi yang lebih 
+besar.
+Einstein mempublikasikan makalahnya pada 1905 untuk menjelaskan 
+fenomena hasil eksperimen efek fotolistrik ini. Einsten juga menjelaskan gerak 
+Brown dan mengemukakan teori relativitas khusus. Einstein menggunakan 
+teori kuantum cahaya Planck untuk menjelaskan fenomena efek fotolistrik. 
+Cahaya menurut teori kuantum adalah paket-paket energi yang disebut 
+foton. Einstein menghubungkan sifat kuantum cahaya dengan peristiwa efek 
+fotolistrik dan memandang radiasinya sebagai hujan es partikel. Satu foton 
+diserap sepenuhnya oleh setiap elektron yang keluar dari logam sehingga 
+tidak ada penundaan waktu keluarnya elektron dari logam.
+Cahaya agar dapat mengeluarkan elektron dari permukaan logam, maka 
+energi cahaya tersebut harus lebih besar dari energi ambang logam atau 
+fungsi kerja logam, W0. Fungsi kerja ini diperlukan agar elektron mampu 
+meninggalkan permukaan logam. Foton frekuensi rendah dengan energi 
+kurang dari W0 tidak mampu mengeluarkan elektron dari permukaan logam. 
+Energi foton lebih besar dari W0 menghasilkan efek fotolistrik 
+(mengeluarkan elektron). Energi foton yang masuk sebesar E, akan sama 
+dengan energi kinetik elektron yang keluar Kmax ditambah energi yang 
+dibutuhkan untuk mengeluarkannya dari logam W0. Einstein merumuskan 
+hal tersebut pada persamaan:
+E = Kmax + W0 
+dengan E adalah besar energi cahaya, E = hf, Kmax adalah energi kinetik 
+elektron dan W0 adalah fungsi kerja logam
+166
+Fisika untuk SMA/MA Kelas XII 
+Gambar 8. 8 Efek Compton
+Sumber : Lia L. Sarah/Kemendikbudristek (2022)
+W0 = hf0
+dengan f0 adalah frekuensi ambang logam, yaitu frekuensi cahaya yang 
+dibutuhkan untuk mengeluarkan elektron dari permukaan logam.
+8.3 Ayo, Cek Pemahaman!
+1.	 Apakah cahaya yang lebih terang mengeluarkan lebih banyak 
+elektron dari permukaan fotosensitif daripada cahaya yang lebih 
+redup dengan frekuensi yang sama?
+2.	 Apakah cahaya frekuensi tinggi mengeluarkan lebih banyak 
+elektron daripada cahaya frekuensi rendah?
+C.	 Efek Compton
+Ayo, Bernalar Kritis!
+Kalian telah memahami bahwa elektron dapat keluar dari sebuah 
+lempeng logam saat disinari cahaya pada fenomena fotolistrik. 
+Bagaimana gerakan elektron tersebut saat keluar dari lempeng 
+logam? Apakah memiliki pola gerakan yang sama?
+Einstein walaupun telah mempublikasikan penjelasannya mengenai efek 
+fotolistrik dengan teori kuantum cahaya pada 1905, teori teori kuantum cahaya 
+baru diterima secara luas pada 1923 setelah Arthur H. Compton menggunakan 
+model kuantum untuk menjelaskan eksperimennya mengenai hamburan 
+sinar -X pada grafit. Saat foton dari sinar-X bertabrakan dengan elektron, 
+foton melepaskan sebagian energinya dan diserap oleh elektron. Panjang 
+gelombang foton meningkat atau frekuensinya menurun setelah bertumbukan. 
+Fenomena ini disebut efek Compton dan dijelaskan dengan persamaan yang 
+menghubungkan kehilangan energi foton dengan sudut hamburan.
+167
+BAB 8 | Gejala Kuantum
+Ayo, Berdiskusi!
+Simak dan cermati kembali Gambar 8.8. 
+Sinar-x menumbuk suatu elektron, kemudian sinar-x tersebut 
+dihamburkan kembali dengan sudut tertentu.
+Bagaimana panjang gelombang sinar yang dihamburkan tersebut? 
+Jelaskan dampaknya terhadap energi cahaya tersebut.
+Tuliskan persamaan momentum yang dialami akibat tumbukan foton 
+dan elektron tersebut. 
+Compton dengan menghitung perbedaan panjang gelombang sebelum 
+dan setelah tumbukan, ia menemukan suatu persamaan. Tuliskan 
+persamaan  Yang dirumuskan oleh Compton.
+Pengurangan frekuensi foton yang dihamburkan adalah bukti mendasar 
+untuk proporsionalitas energi dengan frekuensi cahaya, dan untuk kinematika 
+relativistik elektron. Klein dan Nishina pada 1929 menghitung distribusi sudut 
+hamburan Compton dari elektron bebas dalam salah satu aplikasi pertama 
+elektrodinamika kuantum (QED). Klein-Nishina memberikan probabilitas, 
+penampang diferensial sehingga foton akan dihamburkan ke sudut tertentu. 
+Saat ini, ketika diterapkan pada proses elektromagnetik 50 juta kali lebih 
+energik, prediksi QED tampaknya masih terbukti.
+Compton menunjukkan beda panjang gelombang cahaya setelah 
+tumbukan λ’  dan panjang gelombang cahaya datang λ berhubungan dengan 
+sudut hamburannya θ
+dengan m adalah massa electron (kg) dan c adalah laju cahaya (m/s).
+8.4 Ayo, Cek Pemahaman!
+Apakah panjang gelombang cahaya saat dihamburkan setelah 
+tumbukan antara foton dan elektron akan mengalami perubahan 
+energi?
+D.	Dualitas Gelombang Partikel
+Fenomena efek fotolistrik membuktikan bahwa cahaya memiliki sifat partikel. 
+Sisi lain, fenomena interferensi menunjukkan bahwa cahaya memiliki 
+λ’ - λ = h
+mc (1 - cos θ)
+168
+Fisika untuk SMA/MA Kelas XII 
+E.	 Sinar–X
+Ayo, Bernalar Kritis!
+Apa yang dimaksud dengan sinar-x? 
+Apakah salah satu bagian tubuh kalian pernah disiniari oleh 
+sinar-x? Bagaimana proses kerja sinar-x?
+sifat gelombang. Dalam fisika klasik ini kontradiktif. Sudut pandang fisika 
+kuantum, cahaya memiliki sifat keduanya baik “seperti gelombang” maupun 
+“seperti partikel” tergantung pada tinjauan eksperimennya. 
+Berkaitan dengan ini, pada 1923 De Broglie (1892-1987) mengusulkan 
+hipotesis bahwa karena gelombang cahaya dapat menunjukkan perilaku 
+seperti partikel, maka partikel juga dapat menunjukkan perilaku seperti 
+gelombang. De Broglie mengusulkan bahwa semua materi yang bergerak 
+memiliki panjang gelombang yang terkait dengan gerakannya. De Broglie 
+mengusulkan hubungan panjang gelombang λ dengan momentum geraknya 
+p adalah:
+dengan h adalah konstanta Planck.
+Hipotesis ini baru dibuktikan oleh Clinton J. Davisson (1881–1958) and 
+Lester H. Germer  (1896–1971) yang masing-masing melakukan eksperimen 
+secara terpisah. Davisson dan Germer menembakan berkas elektron ke 
+kristal nikel dan mengamati bahwa elektron menunjukkan perilaku difraksi 
+sebagai sifat gelombang, dengan panjang gelombang sesuai hipotesis De 
+Broglie.
+Ayo, Berdiskusi!
+Meskipun menurut hipotesis De Broglie semua materi memiliki 
+panjang gelombang, tapi efek panjang gelombang yang teramati 
+hanya berlaku pada partikel dengan ukuran yang sangat kecil. 
+Jelaskan mengapa hal ini berlaku demikian? Apakah ada syarat 
+lain agar panjang gelombang partikel dapat teramati?.
+λ =
+h
+p
+169
+BAB 8 | Gejala Kuantum
+Ayo, Ingat Kembali!
+Sinar-x merupakan salah satu bentuk gelombang elektromagnetik 
+yang memiliki panjang gelombang antara 10-8-10-12
+Penyelidikan lebih dalam tentang atom dimulai pada 1895 ketika fisikawan 
+Jerman Wilhelm Roentgen (1845-1923) menemukan sinar-x. Dinamakan 
+sinar-x karena sinar tersebut sifatnya belum diketahui. Roentgen menemukan 
+“sinar jenis baru” ini yang dihasilkan oleh seberkas “sinar katoda” (kemudian 
+ditemukan sebagai elektron) yang mengenai permukaan kaca tabung 
+pelepasan gas. 
+Roentgen menemukan bahwa sinar-x dapat menembus bahan padat, 
+dapat mengionisasi udara, tidak menunjukkan pembiasan pada kaca, 
+dan tidak dibelokkan oleh medan magnet. Sinar-x adalah gelombang 
+elektromagnetik frekuensi tinggi, biasanya dipancarkan oleh eksitasi 
+elektron orbital terdalam atom. Arus elektron dalam lampu fluoresen 
+mengeluarkan elektron terluar atom dan menghasilkan foton ultraviolet dan 
+cahaya tampak, berkas elektron yang memiliki cukup energi dan mengenai 
+permukaan padat menggerakan elektron terdalam dan menghasilkan foton 
+frekuensi tinggi dari radiasi sinar-X. 
+Foton sinar-x memiliki energi yang tinggi dan dapat menembus banyak 
+lapisan atom sebelum diserap atau dihamburkan. Sinar-x melakukan ini saat 
+melewati jaringan lunak untuk menghasilkan gambar tulang di dalam tubuh 
+(Gambar 8.9). Tabung sinar-x modern, di dalamnya target berkas elektron 
+adalah pelat logam bukan dinding kaca tabung.
+Gambar 8.9  Proses kerja sinar-x
+Sumber : Paul G. Hewitt/Conceptual Physics (2015)
+Awal 1896, beberapa bulan 
+setelah Roentgen mengumumkan 
+penemuan 
+sinar-x, 
+fisikawan 
+Prancis Antoine Henri Becquerel 
+(1852-1908) 
+menemukan 
+jenis 
+radiasi penetrasi baru. Becquerel 
+sedang mempelajari fluoresensi 
+dan fosforesensi yang diciptakan 
+oleh cahaya dan sinar-X yang 
+baru ditemukan. Suatu malam, 
+ia kebetulan meninggalkan pelat 
+fotografi terbungkus di laci di samping beberapa kristal yang mengandung 
+uranium.
+170
+Fisika untuk SMA/MA Kelas XII 
+Hari berikutnya,  Becquerel terkejut karena menemukan pelat fotografi 
+telah digelapkan, tampaknya oleh radiasi spontan dari Uranium. Ia kemudian 
+melanjutkan untuk menunjukkan bahwa radiasi baru ini dapat mengionisasi 
+udara dan berbeda dari sinar-x karena dapat dibelokkan oleh medan listrik 
+dan magnet.
+Ayo, Cermati!
+Penerapan sinar-x dalam kehidupan sehari-hari telah banyak 
+digunakan, khususnya pada bidang kesehatan. Teknologi dalam 
+pemanfaatannya sering memiliki dampak negatif, selain memberikan 
+banyak dampak yang positif. Teknologi dapat bermanfaat, tapi juga 
+dapat menimbulkan bahaya melalui resiko yang ditimbulkannya.
+Amati Gambar 8.5 proses kerja sinar-x berikut!
+Gambar 8.10  Prinsip kerja sinar-x
+sumber: unknown/iastate.edu(2022)
+Seberkas elektron berenergi tinggi dipancarkan dengan memanaskan 
+katoda (biasanya tembaga), yang kemudian berjalan menuju anoda yang 
+berputar (biasanya tungsten) dan setelah menabrak anoda, berhenti total. 
+Energi yang dilepaskan pada serangan semacam itu dilepaskan sebagai 
+sinar-X, yang kemudian datang melalui jendela ke arah yang diinginkan.
+Sinar-x berada pada rentang panjang gelombang 0,01 nanometer 
+sampai 100 nanometer. Sinar-x yang memiliki Panjang gelombang 10 
+nanometer termasuk ke dalam sinar-x lembut, sedangkan sinar-x yang 
+memiliki panjang gelombang 100 pikometer merupakan sinar-x keras. 
+171
+BAB 8 | Gejala Kuantum
+Proyek
+1.	 Carilah bentuk penerapan sinar-x dalam kehidupan sehari-hari, 
+2.	 kemudian selidiki bagaimana cara kerja sinar-x pada 
+penerapannya tersebut. 
+3.	 Cari tahu keuntungan dan resiko penggunaan sinar-x pada 
+penerapan yang kalian pilih.
+4.	 Tuangkan hasil pencarian dan penyelidikanmu dalam bentuk 
+video dan laporan ilmiah.
+Rangkuman
+1.	 Gejala kuantum merupakan salah satu cara mengidentifikasi 
+karakteristik atom, salah satunya adalah elektron. 
+2.	 Gejala-gejala kuantum diawali dengan memahami konsep 
+foton, kemudian diidentifikasi melalui eksperimen efek 
+fotolistrik, efek Compton, serta aplikasinya pada sinar-x.
+3.	 Energi radiasi gelombang elektromagnetik dipancarkan dalam 
+bentuk diskrit, masing-masing diskrit ini disebut sebagai 
+kuantum.
+4.	 Paket-paket energi kecil yang dihasilkan dari cahaya yang 
+berinteraksi dengan suatu materi disebut sebagai foton.
+5.	 Efek fotolistrik terjadi Ketika cahaya mengenai suatu logam 
+pada frekuensi dan beda potensial tertentu sehingga membuat 
+elektron keluar dari logam tersebut.
+6.	 Efek Compton  menunjukan hamburan cahaya yang 
+menumbuk suatu elektron. 
+Penggunaan sinar-x dalam kehidupan sehari-hari sangat beragam, 
+antara lain: pencitraan media, keamanan, dan terapi radiasi.
+172
+Fisika untuk SMA/MA Kelas XII 
+1.	 Manakah dari teori berikut: teori cahaya, teori gelombang atau 
+teori partikel, yang didukung oleh temuan Young, Maxwell, dan 
+Hertz?
+2.	 Manakah yang lebih berhasil melepaskan elektron dari 
+permukaan logam: foton cahaya ungu atau foton cahaya merah? 
+Berikan alasannya!
+3.	 Sebuah elektron dan proton bergerak dengan kecepatan yang 
+sama. Manakah yang memiliki momentum lebih besar? Manakah 
+yang memiliki panjang gelombang lebih panjang?
+4.	 Kita tidak dapat melihat panjang gelombang materi yang bergerak 
+dalam keseharian kita. Apakah ini karena panjang gelombangnya 
+luar biasa besar atau luar biasa kecilnya?
+5.	 Seorang teman berkata, “Jika elektron bukan partikel, maka itu 
+pasti gelombang.” Apa tanggapan Anda? (Apakah Anda sering 
+mendengar pernyataan “tidak tepat” seperti ini?).
+6.	 Foton dengan panjang gelombang 0,06 nm mengalami hamburan 
+Compton dengan sudut hamburan 60 derajat. Tentukan panjang 
+gelombang foton yang dihamburkan!.
+Asesmen
+Selesaikan permasalahan berikut dengan baik dan benar!
+7.	 Hamburan cahaya pada efek Compton memiliki panjang 
+gelombang yang lebih besar dibandingkan panjang gelombang 
+cahaya sebelum menumbuk electron sehingga sebagian energi 
+diserap oleh elektron yang dikenainya.
+8.	 Hipotesis De Broglie menyatakan bahwa semua materi yang 
+bergerak memiliki panjang gelombang.
+9.	 Sinar-x merupakan salah satu gelombang elektromagnetik yang 
+memiliki energi cukup tinggi pada rentang panjang gelombang 
+10-8-10-12m.
+173
+BAB 8 | Gejala Kuantum
+Pengayaan
+Sel surya merupakan piranti semikonduktor yang menggunakan 
+cahaya matahari untuk menghasilkan energi listrik. Pembangkit 
+listrik tenaga surya disebut-sebut sebagai energi terbarukan masa 
+depan yang mampu menggantikan pembangkit listrik bertenaga batu 
+bara. Indonesia yang selalu mendapatkan cahaya Matahari sepanjang 
+tahun memiliki peluang besar untuk mengembangkan pembangkit 
+listrik tenaga surya agar dapat memenuhi kebutuhan masyarakat 
+terhadap energi listrik. 
+Sebagai piranti semikonduktor, coba kalian analisis dari berbagai 
+sumber dan diskusikan apakah prinsip kerja sel surya merupakan 
+aplikasi dari efek fotolistrik yang sesuai dengan penjelasan Einsten 
+pada Subbab B. Kemudian analisis juga bagaimana tantangan 
+dan hambatan pengembangan pembangkit listrik tenaga surya di 
+Indonesia.
+Gambar 8. 11. Sel surya
+Sumber : Mj-Bird / Wikimedia Commons (2018)
+Refleksi
+Setelah mempelajari Bab 8 Gejala Kuantum:
+1.	 Apakah kalian menyadari manfaat fenomena gejala kuantum 
+dalam kehidupan sehari-hari?
+174
+Fisika untuk SMA/MA Kelas XII 
+2.	 Apakah kalian sudah memahami konsep-konsep esensial dari 
+gejala kuantum?
+3.	 Apa yang akan kalian lakukan untuk meningkatkan pemahaman 
+mengenai gejala kuantum ini?

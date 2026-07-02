@@ -1,0 +1,985 @@
+Bab III
+Memanfaatkan 
+Usaha, Energi, dan 
+Pesawat Sederhana
+Pernahkah kalian melihat kincir air? Apa saja manfaat kincir air 
+bagi manusia?
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2024
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VIII (Edisi Revisi)
+Penulis : Okky Fajar Tri Maryana, dkk.
+ISBN 
+: 978-623-388-560-7 (jil.2 PDF)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+76
+Pada bab ini kalian akan mengenal konsep dasar dari kincir air, yaitu usaha, 
+energi, dan pesawat sederhana. Agar lebih memahaminya, pada akhir bab, 
+kalian akan diajak untuk mengerjakan projek pembuatan model kincir air 
+yang bermanfaat bagi kehidupan. Melalui projek tersebut diharapkan kalian 
+dapat menjadi individu yang kreatif dan berjiwa penolong.
+• usaha
+• energi
+• pesawat sederhana
+• kincir air
+Tujuan Pembelajaran
+Kata Kunci
+Peta Konsep
+Usaha, Energi, dan Pesawat Sederhana
+Usaha
+Energi
+Pesawat 
+Sederhana
+Memindahkan 
+Benda
+Meringankan 
+Pekerjaan
+Energi 
+Kinetik
+Energi 
+Mekanik
+Energi 
+Potensial
+Pengungkit
+Bidang
+Miring
+Roda
+Katrol
+Daya
+menggabungkan konsep 
+usaha dan energi
+berfungsi 
+untuk
+berdasarkan prinsip kerjanya, dibagi menjadi
+digunakan 
+untuk
+bagaimana 
+menghitung
+dibagi menjadi
+(tinjauan 
+kecepatan)
+(penjumlahan 
+energi kinetik 
+dan potensial)
+(tinjauan 
+ketinggian)
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+77
+Gambar 3.1  Kincir air yang dibuat oleh petani di Kampung Sukasirna, Kabupaten 
+Tasikmalaya, Jawa Barat.
+Pertanyaan apa yang timbul setelah kalian melihat gambar di atas? Kincir air 
+tersebut dibangun di atas Sungai Citanduy untuk mengatasi kekeringan di 
+lahan pertanian. Kincir air adalah teknologi sederhana yang masih digunakan 
+hingga kini, dibuat untuk memudahkan manusia dalam melakukan berbagai 
+kerja yang bermanfaat bagi kehidupan. Prinsip kerja kincir air adalah dengan 
+memanfaatkan kecepatan aliran air sungai untuk memutar bilah-bilah kincir. 
+Bilah-bilah kincir akan memutar dan membawa air dari bawah hingga titik 
+paling atas. Dengan memanfatkan ketinggian, air yang berada pada wadah 
+bilah kincir di titik paling atas akan mengalir ke bawah melalui pipa bambu 
+hingga mengaliri sawah-sawah. 
+Selain untuk mengairi sawah seperti pada gambar di atas, apa kegunaan 
+lain dari kincir air? Kincir air yang lebih modern dapat dimanfaatkan untuk 
+menghasilkan listrik, menggerakkan mesin, dan banyak lainnya. Menarik 
+sekali, bukan? Kira-kira konsep sains apakah yang mendasari sistem kincir 
+air tersebut? Bagaimanakah agar kincir air dapat menghasilkan tenaga yang 
+maksimal? Adakah alat teknologi sederhana lainnya yang bermanfaat bagi 
+kehidupan manusia? 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+78
+Bersiap untuk Menjelajah
+Apakah kalian pernah melihat orang yang mengangkut hasil perkebunan dengan 
+menggunakan gerobak yang memiliki roda seperti Gambar 3.2? Mengapa 
+orang tersebut mampu mendorong gerobak beserta muatannya meski tampak 
+muatannya begitu banyak dan berat? Apa yang diberikan/dilakukan orang 
+tersebut terhadap gerobak beroda? Dapatkah kalian menjelaskan fenomena 
+tersebut?
+Gambar 3.2  Hasil perkebunan dipindahkan mengunakan gerobak beroda. 
+A. 
+Usaha
+1. Memindahkan Benda
+Jika orang tersebut mampu memindahkan hasil perkebunan sejauh 100 meter, 
+sedangkan satu orang lainnya hanya mampu memindahkan sejauh 50 meter. 
+Menurutmu, siapakah yang akan lebih mudah letih dan siapa yang lebih banyak 
+mengeluarkan tenaga? Mengapa demikian?
+Orang yang mengangkut hasil perkebunan dengan gerobak beroda adalah 
+bentuk usaha. Di dalam sains, usaha adalah upaya yang dilakukan suatu gaya 
+untuk memindahkan suatu benda atau beban pada jarak tertentu. Pada Gambar 
+3.2, gaya diberikan oleh seseorang dalam bentuk gaya dorong. Jika dirumuskan 
+adalah sebagai berikut.
+W = F . s
+(3.1)
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+79
+Keterangan:
+W = usaha (joule, J)
+F = gaya yang diberikan (newton, N) 
+s = perpindahan benda (meter, m)
+Jika kalian mencoba mendorong gerobak berisi muatan penuh dengan 
+gerobak beroda, tetapi gerobak tersebut tidak berpindah posisi sama sekali, 
+apakah kalian telah melakukan usaha? Mengapa demikian?
+2. Daya 
+Jika seseorang mendorong gerobak berisi hasil perkebunan dari tempat semula 
+hingga ke penampungan sejauh 200 meter, maka orang tersebut telah melakukan 
+usaha atau mengeluarkan tenaga sebesar gaya dorong dikalikan jarak tempuh. 
+Selain besarnya gaya dan jarak, ada hal lain yang perlu diketahui yang berkaitan 
+dengan efektivitas usaha yang dilakukan. Hal tersebut adalah waktu. Jika ada 
+dua orang mendorong gerobak hasil perkebunan dengan gaya dorong dan jarak 
+tempuh yang sama, tetapi waktu yang diperlukan berbeda, maka kedua orang 
+tersebut memiliki daya yang berbeda. 
+Perhatikan Gambar 3.3 di bawah. Jika waktu yang diperlukan lebih singkat, 
+misalkan mendorong gerobak dengan berlari, maka daya yang dilakukan 
+orang tersebut semakin besar. Sebaliknya, jika waktu yang diperlukan lebih 
+lama, misalkan mendorong gerobak dengan berjalan santai, maka daya yang 
+dilakukan orang tersebut semakin kecil. Apakah yang dapat kalian pahami dari 
+peristiwa tersebut?
+a
+b
+Gambar 3.3  Dua orang yang sedang mendorong gerobak sambil (a) berlari dan         
+(b) berjalan.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+80
+Agar lebih memahami tentang konsep daya, kalian bisa melakukan Aktivitas 
+3.1 berikut!
+Aktivitas 3.1 
+Ayo Cari Tahu
+Balap Ski Lantai
+Perhatikan Gambar 3.4 di bawah. Permainan tersebut dikenal sebagai 
+olahraga ski. Buatlah minimal dua tim. Pada setiap tim terdiri atas dua 
+orang. Tentukan satu orang sebagai pendorong dan satu orang lagi sebagai 
+pembalap ‘ski lantai’. Carilah lantai yang permukaannya licin sehingga 
+pembalap dapat mudah meluncur jika didorong. Lakukanlah balapan ‘ski 
+lantai’ dengan jarak tempuh yang telah disepakati di ruang yang cukup 
+luas. Tunjuklah salah seorang sebagai juri untuk mengukur waktu yang 
+diperlukan dalam menempuh lintasan dari garis start hingga 昀椀nis dengan 
+menggunakan stopwatch.
+Gambar 3.4  Dua orang anak yang sedang bermain ski lantai.
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+81
+Isilah tabel berikut ini sesuai dengan hasil lomba!
+Tabel 3.1  Perhitungan Daya dari Hasil Lomba Ski Lantai
+Gaya 
+dorong yang 
+diperlukan 
+(newton)
+Panjang 
+lintasan 
+hingga garis 
+昀椀nis
+(meter)
+Usaha yang 
+dilakukan 
+(gaya dorong 
+dikali panjang 
+lintasan) 
+(N.m)
+Waktu yang 
+diperlukan 
+untuk sampai 
+di garis 昀椀nis 
+(detik)
+Daya yang 
+dikeluarkan 
+(usaha dibagi 
+waktu)
+(watt)
+Pembalap ke-1 
+= 500 N
+Pembalap ke-2 
+= 550 N
+pembalap ke-3 
+= 600 N
+Dari Tabel 3.1 di atas apakah kalian menemukan perbedaan antara pembalap 
+pertama, kedua, dan ketiga? Apakah daya ketiganya sama besar? Jika tidak, 
+variabel apa saja yang berpengaruh terhadap nilai daya?
+Daya (P) atau dikenal juga dengan laju energi adalah besar total energi yang 
+dipergunakan dalam setiap detiknya. Secara matematika, perumusannya dapat 
+ditentukan dengan cara membagi besar usaha (W) dengan selang waktunya (t).
+P = W
+t
+ 
+(3.2)
+Keterangan:
+P = daya (watt, W)
+W = energi (joule, J)
+t = selang waktu (sekon, s)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+82
+Ayo Uji Kemampuan
+Dapatkah kalian menentukan manakah dari aktivitas orang-orang berikut 
+yang tidak termasuk usaha? Manakah yang memerlukan usaha paling besar?
+Gambar 3.5  Berbagai Aktivitas Keseharian Manusia
+Sumber: Aryodhimar Khairu Trihasmoro & Bari Ardoko/Kemendikbudristek (2021)
+B. 
+Energi
+Perhatikanlah gambar berikut! 
+Gambar 3.6  Orang tampak kesulitan saat mendorong dan menarik gerobak.
+Saat mendorong gerobak berisi muatan penuh, kalian mungkin hanya 
+mampu memindahkan gerobak tersebut dalam jarak yang sangat pendek atau 
+bahkan tidak bergerak sama sekali. Tahukah kalian mengapa itu terjadi? Apa 
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+83
+yang akan kalian lakukan agar gerobak tersebut dapat didorong dengan jarak 
+yang jauh? Kemudian, adakah upaya lain yang dapat kalian lakukan agar gerobak 
+tersebut dapat sampai lebih cepat dan kalian tidak merasa letih?
+1. Energi Kinetik
+Ketika mendorong gerobak berisi muatan, kalian tentu akan mengeluarkan 
+tenaga, bukan? Semakin berat beban muatan dan semakin jauh jarak perpin-
+dahannya, maka tenaga yang kalian keluarkan akan semakin banyak. Tenaga 
+inilah yang dalam sains disebut sebagai energi. Dengan kata lain, energi adalah 
+kemampuan atau potensi untuk melakukan usaha. 
+Energi pada benda yang bergerak dikenal sebagai energi kinetik. Kata kinetik 
+berasal dari bahasa Yunani, yaitu kinetikos yang artinya bergerak. Jadi, setiap 
+benda yang sedang bergerak memiliki energi kinetik.
+Cobalah kalian bayangkan, saat mendorong gerobak bermuatan tersebut 
+kalian lakukan dengan berlari kencang dan semakin kencang lagi. Apakah 
+kalian akan merasa letih? Semakin cepat kalian berlari mendorong gerobak, 
+rasa letihnya semakin besar? Mengapa bisa demikian?
+Benda yang bergerak pasti memiliki kecepatan. Besar energi kinetik akan 
+sebanding dengan kecepatan yang terjadi. Kalian harus mengingat, semakin cepat 
+benda bergerak, energinya akan naik sebanding dengan kuadrat kecepatannya. 
+Secara matematis, perumusan energi kinetik dapat dituliskan dengan persamaan 
+berikut.
+Ek = 1
+2
+ mv2 
+(3.3)
+Keterangan:
+Ek = energi kinetik benda (J) 
+m = massa benda (kg)
+v = kecepatan gerak benda (m/s)
+Benda yang bergerak akan berpindah posisi, sehingga energi kinetik 
+benda akan sebanding dengan usaha benda tersebut. Antara energi dan usaha 
+memiliki satuan yang sama, yaitu joule, disingkat J. Perubahan energi kinetik 
+suatu benda sebanding dengan usaha yang dilakukan pada benda tersebut yang 
+dalam perumusannya dituliskan sebagai berikut.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+84
+W = ∆Ek = 1
+2
+ m(∆v)2 
+(3.4)
+Kita dapat uraikan persamaan di atas dengan:
+W 
+= usaha benda (J)
+ΔEk = perubahan energi kinetik (J)
+m 
+= massa benda (kg)
+(∆v)2 = v2
+2 – v1
+2 = perubahan kecepatan (m/s)
+Sekarang, cobalah kalian hitung besar energi kinetik gerobak yang berisi muatan 
+50 kg dengan kecepatan dorong 10 m/s! Lalu, bagaimana jika kecepatan dorongnya 
+dikurangi menjadi 5 m/s? Dengan muatan yang sama, menurut kalian gerobak 
+mana yang energi kinetiknya lebih besar? Berapakah besar perbedaannya?
+2. Energi Potensial
+Kalian telah mengetahui bahwa benda yang sedang bergerak akan memiliki 
+energi kinetik. Bagaimana jika benda tersebut berada pada ketinggian tertentu, 
+apakah ada energi lain yang muncul?
+Suatu benda yang berada pada ketinggian tertentu akan cenderung jatuh ke 
+bawah jika tidak ada yang menghalanginya. Apakah yang menyebabkan benda 
+jatuh ke bawah? Gaya tarik gravitasi bumi yang menyebabkan suatu benda 
+jatuh ke tanah atau posisi paling rendah. Pernahkah kalian perhatikan kondisi 
+buah yang terjatuh dari pohon? Ada buah yang masih utuh, ada juga yang sudah 
+hancur. Mengapa demikian? Dapatkah kalian memberikan penjelasannya?
+Buah-buah yang jatuh dari pohonnya memiliki energi yang disebut energi 
+potensial. Perlu diingat bahwa tidak hanya buah yang sedang jatuh, buah yang 
+tidak jatuh pun memiliki energi potensial. Mengapa demikian? Pada prinsipnya, 
+energi potensial adalah bentuk energi yang dikaitkan dengan posisi, keadaan, 
+atau kondisi suatu benda atau sistem. Karena itu, sederhananya energi potensial 
+akan bernilai besar jika posisinya semakin tinggi dari permukaan tanah. Namun 
+demikian, energi ini dapat diubah menjadi energi kinetik atau bentuk energi 
+lainnya selama terjadi perubahan keadaan benda tersebut. Ungkapan matematis 
+energi potensial diungkapkan pada persamaan berikut.
+Ep = m . g . h
+(3.5)
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+85
+Keterangan:
+Ep = energi potensial (J)
+m = massa benda (kg)
+g = gravitasi bumi (9,8 m/s2)
+h = ketinggian benda dari suatu acuan (m)
+Karena energi potensial sebanding dengan jarak perpindahan benda, maka 
+energi potensial juga sebanding dengan usaha benda tersebut. Secara matematis 
+dinyatakan dengan:
+W = ΔEp = m . g . Δh
+(3.6)
+Dari persamaan di atas dapat dilihat bawa usaha sebanding dengan perubahan 
+ketinggian benda.
+3. Energi Mekanik
+Setiap benda yang bergerak di permukaan bumi umumnya memiliki energi total 
+berupa gabungan dari energi kinetik dan potensial. Gabungan kedua energi 
+ini disebut sebagai energi mekanik. Mobil yang sedang bergerak di jalan raya 
+memiliki energi mekanik. Jika mobil berjalan di jalan yang datar maka energi 
+potensialnya nol. Namun, jika mobil berjalan di jalan menanjak atau menurun 
+maka mobil tersebut memiliki energi potensial.
+Secara matematis, energi mekanik dapat dituliskan dengan persamaan berikut.
+Em = Ek + Ep
+(3.7)
+Keterangan:
+Em = energi mekanik (J) 
+Ep = energi potensial (J)
+Ek = energi kinetik (J) 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+86
+Aktivitas 3.2 
+Ayo Berkreasi
+Roller Coaster Kardus
+Kalian pasti bisa merancang dan membuat sebuah wahana permainan 
+bernama roller coaster seperti gambar berikut.
+Gambar 3.7  Model roller coaster kardus untuk mengamati fenomena energi 
+kinetik dan potensial.
+Bahan yang kalian perlukan adalah kardus, gunting, pita perekat atau 
+lem, dan bola pingpong atau kelereng. Buatlah jalur roller coaster dengan 
+menggunakan kardus. Jalur ini harus memiliki beberapa titik tinggi (titik 
+dengan energi potensial tinggi) dan rendah (di mana energi potensial berubah 
+menjadi energi kinetik).
+Gunakan gunting untuk me-
+motong kertas sesuai desain, lalu 
+bentuk dan rekatkan jalur dengan 
+pita perekat atau lem. Pastikan 
+ada bagian yang cukup curam di 
+awal untuk memberikan energi 
+potensial awal pada bola pingpong 
+atau kelereng.
+Ide pembuatan roller coaster dari kardus 
+dapat kalian bisa lihat pada video berikut.
+https://buku.kemdikbud.
+go.id/s/HTM
+tps://buku.kemdikbud.
+go.id/s/DRC
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+87
+Letakkan bola atau kelereng di titik tertinggi dan lepaskan. Amati 
+bagaimana bola bergerak melintasi jalur menurun dan menanjak, juga saat 
+berbelok. Bagaimana perubahan energi potensial dan kinetik yang terjadi? 
+Jalur manakah yang membuat bola bergerak lebih cepat atau lebih lambat? 
+Tuliskan hasil pengamatan kalian dan sampaikan di depan kelas!
+Fakta Sains
+Air Sebagai Sumber Energi Terbarukan
+Pernahkah kalian mendengar istilah energi terbarukan? Dari mana sumber 
+energi terbarukan didapat? Benar, energi terbarukan berasal dari sumber 
+daya alam yang dapat diperbarui secara alami, contohnya angin, air, panas 
+bumi, dan sinar matahari. Salah satu pemanfaatan sumber energi terbarukan 
+adalah Pembangkit Listrik Tenaga Air (PLTA). Bagaimana listrik dihasilkan 
+dari aliran air?
+Sebuah PLTA dicirikan dengan adanya bendungan. Bendungan berfungsi 
+menampung air, di mana energi potensial air terkumpul karena ketinggian 
+air yang signi昀椀kan. Energi potensial ini diubah menjadi energi kinetik saat 
+air dilepaskan dan mengalir dengan kecepatan tinggi melalui saluran atau 
+pipa turbin. Aliran air yang deras ini akan memutar turbin. Saat air melewati 
+turbin, energi kinetik dari aliran air menggerakkan bilah turbin, mengonversi 
+energi kinetik menjadi tenaga mekanis. Putaran turbin ini akan memutar 
+generator yang berfungsi mengubah tenaga mekanis menjadi energi listrik. 
+Dari generator, listrik kemudian dialirkan ke jaringan listrik nasional untuk 
+didistribusikan ke rumah-rumah, industri, dan pengguna lain.
+Desain bendungan dan turbin sangat memengaruhi besar daya listrik 
+yang dihasilkan. Bendungan harus dirancang dengan mempertimbangkan 
+volume air maksimal yang bisa ditampung dan kecepatan aliran air yang 
+optimal untuk menggerakkan turbin. Faktor-faktor seperti ketinggian jatuh air 
+(head), volume aliran, dan karakteristik geogra昀椀s sungai di lokasi bendungan 
+memainkan peran penting dalam menentukan desain agar menghasilkan 
+daya listrik yang besar.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+88
+AIR
+Pembangkit Listrik Tenaga Air (PLTA) adalah 
+pembangkit listrik yang mengubah energi 
+potensial air menjadi energi mekanik 
+menggunakan turbin, kemudian 
+diubah menjadi energi listrik 
+menggunakan generator dengan 
+memanfaatkan ketinggian dan 
+kecepatan aliran air.
+Pikohidro
+5 kW
+Mikrohidro
+5–100 kW
+Minihidro
+101 kW–1 MW
+Bendungan/dam
+> 100 MW
+Sumber Energi 
+Terbarukan
+Klasi昀椀kasi PLTA berdasarkan 
+keluaran daya listriknya:
+Gambar 3.8  Klasi昀椀kasi PLTA berdasarkan keluaran daya listriknya.
+Melalui penggunaan teknologi yang tepat dan desain yang e昀椀sien, PLTA 
+tidak hanya memberikan sumber energi yang berkelanjutan, tetapi juga 
+membantu dalam pengelolaan sumber daya air yang efektif, yang mendukung 
+keberlanjutan lingkungan dan ekonomi lokal. Dengan memanfaatkan secara 
+maksimal prinsip 昀椀sika energi potensial dan kinetik, PLTA berperan vital 
+dalam transformasi energi yang berkelanjutan dan ramah lingkungan.
+https://buku.kemdikbud.
+go.id/s/ENA
+https://buku.kemdikbud.
+go.id/s/HYD
+Kalian bisa melihat cara kerja PLTA pada 
+video berikut.
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+89
+Ayo Uji Kemampuan
+1. 
+Perhatikanlah gambar berikut! Dapatkah kalian menentukan benda-
+benda apa saja yang memiliki energi mekanik? Berikankah penjelasan 
+sesuai pemahaman kalian pada setiap benda tersebut!
+Gambar 3.9  Beberapa Benda di Lingkungan Sekitar
+Sumber: Aryodhimar Khairu Trihasmoro & Bari Ardoko/Kemendikbudristek (2021)
+2. 
+Berdasarkan infogra昀椀k tentang penggunaan listrik rumah tangga berikut, 
+jawablah pertanyaan-pertanyaannya.
+CARA MENGHITUNG PENGGUNAAN LISTRIK RUMAH TANGGA
+Bagaimana memperkirakan berapa biaya penggunaan listrik di rumah? Kalian harus 
+tahu berapa daya peralatan listrik di rumah dan lama pemakaiannya per hari, seperti 
+contoh berikut.
+Kulkas: 
+100 watt × 24 jam
+= 2.400 watthour (Wh)
+Televisi: 
+50 watt × 2 jam
+= 100 Wh
+*) Perhitungan Pemakaian daya listrik per hari
+(dengan asumsi konsumsi listrik per hari sama)
+Penyejuk Udara: 
+1.000 watt × 12 jam
+= 12.000 Wh
+Komputer: 
+100 watt × 8 jam
+= 800 Wh
+Lampu: 
+10 watt × 10 jam
+= 100 Wh
+TOTAL KONSUMSI LISTRIK PER HARI = 
+TOTAL KONSUMSI LISTRIK SEBULAN = 
+15.900 Wh atau 15,9 kWh
+477 kWh
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+90
+Gambar 3.10  Cara menghitung penggunaan listrik rumah tangga
+a. 
+Jika rumah memiliki daya 1.300 VA dengan tarif Rp1.467,28 per 
+kWh, berapakah total biaya listrik per bulan jika konsumsi listrik 
+per hari adalah 15,9 kWh?
+b. 
+Berdasarkan infogra昀椀k, alat manakah yang memiliki konsumsi 
+energi terendah per hari dan berapa konsumsinya?
+c. 
+Jika pengguna mengurangi penggunaan AC 1.000 watt dari 12 jam 
+sehari menjadi 6 jam sehari, berapa kWh energi yang dihemat 
+dalam sebulan?
+2. 
+Berdasarkan infogra昀椀k tentang bijak memanfaatkan listrik pada Gambar 
+3.11, jawablah pertanyaan-pertanyaan berikut.
+a. 
+Infogra昀椀k menunjukkan bahwa mematikan listrik selama 1 jam di 
+Jawa-Bali dapat menyimpan energi yang cukup untuk menerangi 
+2.527.469 rumah di Timur Indonesia selama 1 hari. Berdasarkan 
+informasi ini, berapa banyak rumah yang bisa diterangi selama 
+satu hari jika listrik dimatikan selama 2 jam di Jawa-Bali?
+b. 
+Dari infogra昀椀k, 83 watt energi listrik disia-siakan dalam kondisi 
+standby per jam. Jika sebuah perangkat elektronik dibiarkan dalam 
+kondisi standby selama 24 jam, berapa kWh energi yang terbuang 
+dalam satu hari?
+c. 
+Menurut infogra昀椀k, energi yang disimpan dengan mematikan listrik 
+selama 1 jam di Jawa-Bali cukup untuk menerangi 11 lampu LED
+Jika rumah kalian memiliki daya 1.300 VA maka tarifnya 
+Rp1.467,28 per kWh.
+Dengan demikian, besar tagihan listrik rumah kalian
+= tarif per kWh × total konsumsi listrik sebulan
+= Rp1.467,28 per kWh × 477 kWh
+= Rp699.892,56
+Besaran Tarif Golongan Pelanggan Rumah Tangga
+900 VA nonsubsidi
+Rp1.352/kWh
+1.300 VA ke atas
+Rp1.467,28/kWh
+Hitungan Tagihan Listrik:
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+91
+selama 1 jam. Jika Anda memiliki 22 lampu LED, berapa lama lampu 
+tersebut bisa dinyalakan dengan energi yang disimpan dengan 
+mematikan listrik selama 1 jam?
+Gambar 3.11  Cara Bijak Memanfaatkan Energi Listrik
+Sumber: Kementerian Energi dan Sumber Daya Mineral RI/x.com (2016)
+Ayo Bere昀氀eksi
+Sebelum melanjutkan ke subbab berikutnya, saatnya kalian berhenti sejenak 
+dan kembali melihat pertanyaan-pertanyaan yang kalian diskusikan di awal 
+bab ini. Apakah kalian sudah memahami pengertian usaha dan energi? 
+Apakah kalian mengerti perbedaan di antara keduanya? Adakah pertanyaan 
+baru berkaitan dengan subbab usaha dan energi yang ingin kalian temukan 
+jawabannya?
+ 
+Berdiskusi dengan teman dan guru dapat membantumu melengkapi 
+pemahaman pada materi ini. Mencari tahu dari sumber belajar lain pun 
+dapat kalian lakukan. Ayo semangat, belajar sains itu sangat menarik.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+92
+C. 
+Pesawat Sederhana
+Pernahkah kalian berpikir mengapa 
+gerobak menggunakan roda? Mengapa 
+tangga dibuat miring sekitar 45°? Per-
+nahkah kalian mengamati orang-orang 
+di desa menimba air di sumur? Alat apa 
+yang digunakan orang tersebut untuk 
+mengambil air dari dalam sumur?
+Gambar 3.12  Katrol biasa digunakan untuk 
+menimba air dari dalam sumur.
+1. Manusia Membutuhkan Pesawat Sederhana
+Manusia diciptakan Tuhan Yang Maha Esa dengan akal pikiran yang terbaik 
+dari semua makhluk hidup di dunia. Manusia dapat memecahkan berbagai 
+persoalan yang tidak mampu atau rumit untuk diselesaikan. Aktivitas sehari-
+hari manusia tak terlepas dari bantuan alat yang memudahkan dalam bekerja. 
+Sebagai contoh, saat membangun rumah, manusia memerlukan tangga untuk 
+menggapai bagian yang tinggi, atau menggunakan gerobak untuk mengangkut 
+bahan bangunan yang berat. Alat-alat bantu sederhana tersebut di dalam sains 
+disebut sebagai pesawat sederhana. Dapatkah kalian menyebutkan alat bantu 
+lainnya yang sering ditemukan dalam kehidupan sehari-hari?
+Secara umum, pesawat sederhana adalah peralatan yang digunakan untuk 
+mempermudah pekerjaan sehari-hari, seperti mengangkat beban atau memotong 
+benda. Prinsip utama pesawat sederhana adalah memanfaatkan besar keuntungan 
+mekanis (KM), yaitu rasio antara gaya keluaran terhadap gaya masukan. 
+Keuntungan mekanis menggambarkan seberapa efektif pesawat sederhana 
+dalam memperbesar gaya yang diberikan atau mengubah arahnya.
+KM = gaya keluaran
+gaya masukan
+(3.8)
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+93
+Bagaimana pesawat sederhana membantu memper mudah pekerjaan manusia?
+a. 
+Pesawat sederhana dapat meningkatkan besar gaya angkat atau dorong 
+pada suatu objek, contohnya tuas atau pengungkit.
+Umumnya, tuas sederhana dapat berupa sebuah batang yang terbuat dari 
+kayu atau besi. Cara kerja tuas, yaitu dengan memanfaatkan sebuah penumpu 
+berupa batu atau benda keras lainnya. Penumpu diletakkan di antara dua 
+ujung batang tuas dengan posisi lebih dekat ke titik beban. Sementara ujung 
+lainnya untuk titik kuasa. Dengan demikian, benda yang cukup berat dapat 
+dipindahkan dengan lebih mudah.
+Gambar 3.13  Contoh tuas atau pengungkit yang sering digunakan manusia.
+b. 
+Pesawat sederhana dapat meringankan gaya angkat dengan menambah 
+jarak perpindahan, contohnya bidang miring.
+Seorang pekerja ingin mengangkat peti besar ke atas mobil bak atau truk. 
+Untuk memudahkan pekerjaannya, dia menggunakan papan sebagai bidang 
+miring. Meskipun ada penambahan jarak dari lantai ke dalam bak mobil, 
+namun gaya yang digunakan untuk mengangkat barang ke dalam mobil 
+menjadi lebih kecil.
+Gambar 3.14  Seorang pekerja memindahkan peti ke atas bak mobil.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+94
+c. 
+Pesawat sederhana dapat mengubah arah gaya yang bekerja, contohnya 
+kapak kayu dan katrol.
+Ketika seorang tukang kayu membelah balok kayu dengan kapak, gaya dari 
+kapak yang kita ayunkan ke balok kayu bergerak ke bawah, kemudian gaya 
+ini berubah arah ke kanan dan kiri sehingga balok kayu terbelah. Contoh 
+lain adalah saat kita menimba air dari dalam sumur. Gaya yang kita berikan 
+adalah mengerek tali katrol ke bawah, sedangkan ember berisi air yang 
+berada di dalam sumur naik ke atas.
+Gambar 3.15  Membelah kayu dan menarik ember air adalah contoh 
+penggunaan pesawat sederhana.
+2. Macam-Macam Pesawat Sederhana
+a. Katrol
+Katrol adalah roda yang sekelilingnya diberi tali, 
+biasa dipakai untuk mempermudah pekerjaan 
+menarik beban. Secara umum, ada tiga macam 
+katrol, yaitu katrol tetap, katrol bebas, dan katrol 
+majemuk.
+Gambar 3.16  Katrol, salah satu alat yang 
+mempermudah pekerjaan manusia. 
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+95
+1) Katrol tetap
+Jika kalian perhatikan pada gambar di 
+samping, katrol tetap pada posisinya saat 
+digunakan. Poros pada katrol dipasang 
+pada suatu tempat sehingga tidak dapat 
+berpindah tempat. Pada katrol tetap, gaya 
+kuasa yang dikeluarkan akan bernilai 
+sama dengan berat bebannya. Hal ini 
+yang menyebabkan keuntungan mekanis 
+katrol tetap bernilai satu. Katrol tetap 
+bisa ditemukan di tiang bendera dan 
+sumur timba.
+Gambar 3.17  Gaya yang bekerja 
+pada katrol tetap.
+2) Katrol bebas
+Katrol bebas berkebalikan dengan katrol 
+tetap. Jika kalian perhatikan, poros pada 
+katrol bebas tidak dipasang pada tempat 
+yang tetap. Katrol dapat berpindah tempat 
+atau bergerak bebas saat digunakan.
+Pada katrol bebas, gaya kuasa yang dike-
+luarkan untuk menarik beban bernilai 
+setengah dari berat bebannya. Oleh 
+karena itu, keuntungan mekanis katrol 
+bebas bernilai dua. Alat-alat pengangkat 
+peti kemas di pelabuhan umumnya meng-
+gunakan katrol jenis ini.
+Gambar 3.18  Gaya yang bekerja 
+pada katrol bebas.
+3) Katrol majemuk
+Dapatkah katrol tetap dan katrol bebas digunakan bersamaan? Tentu 
+saja bisa. Gabungan keduanya dinamakan katrol majemuk. Coba kalian 
+perhatikan Gambar 3.17. Di bagian paling atas terdapat katrol tetap dan 
+katrol bebas diposisikan di bawahnya. Keduanya dihubungkan dengan tali. 
+Keterangan:
+FB = gaya beban
+FK = gaya kuasa
+FB
+FK = FB
+Keterangan:
+FB = gaya beban
+FK = gaya kuasa
+FB
+FK = 
+1
+2 FB
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+96
+Keuntungan mekanis katrol majemuk sama dengan jumlah tali atau jumlah 
+katrol yang digunakan untuk mengangkat benda tersebut. Katrol majemuk 
+sering dipakai untuk mengangkat alat-alat berat dalam perindustrian.
+KM = n (jumlah katrol yang digunakan)
+(3.9)
+FB
+Keterangan:
+FB = gaya beban
+FK = gaya kuasa
+Katrol tetap
+Katrol bebas
+FK = 
+1
+2 FB
+Gambar 3.19  Gaya yang bekerja pada katrol majemuk.
+b. Roda
+Roda merupakan benda yang umum kita jumpai sehari-hari. Roda sangat 
+meringankan pekerjaan manusia, terutama dalam bidang transportasi. Roda 
+dapat memperkecil gaya yang dibutuh kan untuk menggeser suatu benda dengan 
+meminimalkan gaya gesek. Tahukah kalian bahwa roda merupakan salah satu 
+jenis pesawat sederhana?
+Roda digunakan bersama dengan poros. Dalam sistem roda dan poros, 
+jari-jari roda berperan sebagai lengan gaya, sedangkan poros bertindak sebagai 
+titik tumpu. Gaya yang diterapkan di pinggir roda membuatnya lebih mudah 
+untuk menggerakkan beban yang terhubung ke poros yang memiliki jari-jari 
+yang lebih kecil.
+Keuntungan mekanis penggunaan roda akan memengaruhi kecepatan yang 
+dihasilkan, nilainya adalah:
+KM = 
+rroda
+rporos
+ 
+(3.10)
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+97
+Keterangan:
+KM = keuntungan mekanis roda
+rroda = jari-jari roda
+rporos = jari-jari poros
+Ini berarti semakin besar perbedaan antara radius roda dan poros, semakin 
+besar keuntungan mekanis yang diperoleh. Misalnya, jika radius roda lima kali 
+lebih besar dari radius poros, maka gaya yang diperlukan untuk menggerakkan 
+beban akan berkurang menjadi seperlima dari gaya tanpa menggunakan roda.
+Gambar 3.20  Roda meminimalkan gaya gesek.
+c. 
+Bidang Miring
+Bidang miring adalah pesawat sederhana berupa papan/bidang yang dibuat 
+miring. Tujuannya adalah untuk memperkecil usaha saat memindahkan beban 
+yang berat. Saat memindahkan objek, jarak yang ditempuh menjadi lebih besar, 
+tetapi gaya yang diperlukan menjadi lebih kecil. Semakin landai bidang miring, 
+gaya yang diberikan semakin kecil. Sebaliknya, semakin curam bidang miring, 
+gayanya semakin besar. Prinsip bidang mirip banyak dimanfaatkan dalam 
+kehidupan kita, antara lain jalan pegunungan dibuat berkelok-kelok, tangga 
+berputar, pisau, kapak, dan sekrup.
+Perhatikanlah Gambar 3.19. Fk adalah gaya kuasa untuk menarik sebuah balok 
+pada bidang miring, W adalah berat balok, dan l adalah panjang lintasan bidang 
+miring, sehingga keuntungan mekanik bidang miring adalah:
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+98
+Fk
+W
+l
+h
+(3.10)
+KM = 
+gaya beban
+gaya kuasa
+KM = 
+panjang bidang miring
+ketinggian
+KM = l
+h
+Gambar 3.21  Keuntungan mekanis pada bidang miring.
+d. Pengungkit
+Pengungkit adalah pesawat sederhana yang terbuat dari sebuah batang yang 
+keras, seperti balok kayu atau batang logam, yang digunakan untuk mengangkat 
+atau mencongkel benda. Prinsip dasar pengungkit adalah memudahkan usaha 
+dengan menggandakan gaya kuasa dan mengubah arah gaya. Pengungkit bekerja 
+dengan tiga komponen utama, yaitu titik tumpu, gaya kuasa, dan beban.
+1. 
+Titik tumpu (fulcrum), yaitu titik di mana pengungkit berputar atau bergerak, 
+fungsinya untuk menahan batang pengungkit. Posisi titik tumpu sangat 
+penting karena menentukan efektivitas pengungkit dalam menggandakan 
+gaya yang diberikan.
+2. 
+Gaya kuasa (effort force), yaitu gaya yang diterapkan oleh pengguna pada 
+pengungkit untuk menggerakkan beban. Gaya ini biasanya diterapkan pada 
+salah satu ujung pengungkit.
+3. 
+Beban (load), yaitu objek yang perlu diangkat atau dipindahkan menggunakan 
+pengungkit. Beban diletakkan pada pengungkit di antara titik tumpu dan 
+titik di mana gaya kuasa diterapkan, tergantung pada jenis pengungkit.
+Selain itu, ada istilah jarak beban dan jarak kuasa yang menentukan besar 
+keuntungan mekanis yang diperoleh.
+1. 
+Jarak beban (load distance), yaitu jarak antara titik tumpu dan beban. Sema-
+kin jauh jarak beban dari titik tumpu, semakin kecil usaha yang diperlukan.
+2. 
+Jarak kuasa (effort distance), yaitu jarak antara titik tumpu dan titik di mana 
+gaya kuasa diterapkan. Semakin jauh jarak kuasa, semakin besar keuntungan 
+mekanis yang diperoleh, yang berarti gaya kuasa yang diperlukan untuk 
+mengangkat beban menjadi lebih kecil.
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+99
+Pengungkit dapat ditemukan dalam berbagai ukuran dan bentuk, mulai dari 
+alat sehari-hari hingga peralatan industri. Contoh pengungkit yang sering kita 
+temui antara lain jungkat-jungkit, linggis, sekop, hingga alat-alat kecil seperti 
+gunting, pembuka tutup botol, pemecah biji kenari, tusuk gigi, dan pinset.
+Jenis-jenis pengungkit:
+1. 
+Pengungkit jenis pertama, di mana 
+posisi titik tumpu berada di tengah-
+tengah beban dan kuasa.
+Gambar 3.22  Gunting, contoh 
+pengungkit jenis pertama.
+Sumber: Monfocus/pixabay.com
+2. 
+Pengungkit jenis kedua, titik bebannya 
+berada di tengah-tengah antara kuasa dan 
+titik tumpu.
+Gambar 3.23  Alat pembuka botol, contoh 
+pengungkit jenis kedua.
+Sumber: DJTaylor/shutterstock.com
+3. 
+Pengungkit jenis ketiga, posisi 
+titik kuasanya berada di tengah-
+tengah antara beban dan titik 
+tumpu.
+Gambar 3.24  Pemotong kuku, contoh 
+pengungkit jenis ketiga.
+Sumber: Sim/pixahive.com
+Beban
+Titik tumpu
+Kuasa
+Beban
+Titik tumpu
+Kuasa
+Titik tumpu
+Beban
+Kuasa
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+100
+Aktivitas 3.3 
+Ayo Identi昀椀kasi
+Pengungkit Ada di Mana-Mana
+Cari dan amatilah benda-benda di sekitarmu yang termasuk pengungkit 
+dan kategorikanlah jenis pengungkit keberapa. Isikan pada tabel berikut!
+Tabel 3.1  Hasil Pengamatan Jenis-Jenis Pengungkit
+No.
+Nama Benda
+Jenis Bahan
+Jenis 
+Pengungkit
+Keuntungan 
+Mekanis
+Diskusikanlah hasil pencatatanmu di depan kelas dan bandingkanlah dengan 
+kelompok lain!
+Fakta Sains
+Tuas dan Sistem Gerak Manusia
+Tahukah kalian, ternyata pesawat sederhana juga ada pada tubuh kita? Coba 
+perhatikan sistem gerak pada tubuhmu, prinsip kerjanya sama dengan salah 
+satu jenis pesawat sederhana yang sudah kita bahas sebelumnya, yaitu tuas.
+Gambar 3.25  Sistem Gerak dan Otot pada Manusia
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+101
+Tuas memiliki bagian-bagian utama yang mendukung cara kerjanya. 
+Bagian-bagian itu adalah titik tumpu (TT), titik beban (TB), dan titik tempat 
+memberikan gaya atau titik kuasa (TK).
+Pada sistem gerak tubuh kita, hubungan antara tuas dan sistem gerak 
+dapat diamati pada Gambar 3.25. Tuas jenis pertama titik tumpunya (TT) 
+berada di antara titik kuasa (TK) dan titik beban (TB), sama seperti sistem 
+gerak bagian atas. Tulang rahang dan kepala bagian depan sebagai beban, 
+tulang tengkorak sebagai titik tumpu, dan otot leher sebagai titik kuasa.
+TT
+TT
+TT
+TT
+TT
+TK
+TK
+TK
+TB
+TB
+TB
+TK
+TK
+TK
+TK
+TB
+TB
+TT
+TB
+TB
+TB
+TB
+TT
+TT
+TK
+TT
+TK
+Pengungkit Jenis 
+Pertama
+Pengungkit Jenis 
+Kedua
+Pengungkit Jenis 
+Ketiga
+Gambar 3.26  Konsep Pesawat Sederhana pada Sistem Gerak Manusia
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+102
+Tuas jenis kedua titik bebannya (TB) ada di antara titik kuasa (TK) dan 
+titik tumpu (TT), sama seperti sistem gerak bagian bawah. Tulang telapak 
+kaki sebagai titik tumpu, tulang kering sebagai beban, dan otot kaki sebagai 
+titik kuasa. Sementara tuas jenis ketiga titik kuasanya (TK) ada di antara 
+titik tumpu (TT) dan titik beban (TB), sama seperti sistem gerak lengan. 
+Tulang telapak tangan sebagai beban, sendi siku sebagai titik tumpu, dan 
+otot lengan atas sebagai titik kuasa.
+Ayo Uji Kemampuan
+1. 
+Hitunglah keuntungan mekanis tangga kayu 
+pada gambar di samping!
+2. 
+Berapakah beban total yang dapat ditarik oleh katrol 
+di samping?
+Projek Akhir Bab
+Ayo Jaga Sumber Daya Air Kita!
+Sebagai pelajar yang peduli terhadap lingkungan dan sesama manusia, kalian 
+dapat berinisiatif untuk menghasilkan energi bersih yang terjangkau tanpa 
+merusak lingkungan secara permanen. Bayangkan kalian akan bekerja sama 
+8 N
+Beban
+100 cm
+80 cm
+  Bab III Memanfaatkan Usaha, Energi, 
+dan Pesawat Sederhana
+103
+dengan para ilmuwan dan insinyur di kotamu merancang dan membangun 
+bendungan yang menghasilkan energi dari aliran air.
+Secara ringkas, kincir air dapat menghasilkan energi listrik dengan 
+memanfaatkan gerakan air mengalir atau energi potensial dari air yang jatuh 
+dari ketinggian tertentu. Ketika air menabrak bilah-bilah kincir air, energi aliran 
+air membuat kincir berputar. Bilah-bilah pada kincir air dirancang sedemikian 
+rupa sehingga dapat memaksimalkan energi dari aliran air. Perputaran 
+kincir ini menghasilkan energi mekanis. Energi mekanis adalah jenis energi 
+yang dihasilkan oleh benda bergerak, dalam hal ini gerakan kincir berputar.
+Kincir yang berputar dihubungkan ke generator. Generator adalah sebuah 
+alat yang dapat mengubah energi mekanis dari putaran kincir menjadi 
+energi listrik. Di dalam generator, perputaran kincir menghasilkan aliran 
+listrik dengan membantu menggerakkan magnet dekat dengan kawat-kawat 
+yang menghasilkan arus listrik.
+Untuk lebih memahami prinsip pemanfaatan energi kincir air, kalian 
+mendapat tugas untuk merancang, membuat, dan menghitung daya kincir 
+air serta mengukur gaya, jarak, dan waktu dari kincir air tersebut, seperti 
+gambar berikut.
+Bahan dan bentuk kincir dibebaskan sesuai kreasi kalian.
+Gunakan stopwatch untuk menghitung waktu total sampai 
+beban terangkat sepanjang tali (1 m).
+Batang 
+kayu/besi
+Botol 
+kosong
+Papan 
+kincir
+Panjang tali 
+= 1 meter
+Beban
+Gambar 3.27  Rancangan kincir air yang akan dibuat
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+104
+Bilah-bilah kincir air yang digerakkan oleh aliran air akan mengangkat 
+beban yang tergantung di bawahnya. Dari sanalah kalian dapat mengamati 
+berapa kemampuan beban yang dapat diangkat oleh putaran bilah kincir. 
+Jangan lupa ulangi percobaan untuk mendapat hasil yang valid. Catat 
+hasilnya pada tabel berikut.
+Tabel 3.1  Hasil Pengamatan Putaran Bilah Kincir Air
+Percobaan
+F = m × g
+s
+t
+W = F × s
+P = W × t
+1
+10 N
+1 m
+…. s
+…. J
+…. watt
+2
+10 N
+1 m
+…. s
+…. J
+…. watt
+3
+10 N
+1 m
+…. s
+…. J
+…. watt
+Setelah selesai, presentasikan hasilnya di depan guru dan temanmu. Tim 
+manakah yang berhasil membuat kincir air dengan daya paling besar? Apa 
+yang dapat kalian lakukan untuk meningkatkan daya kincir air buatanmu?
+Ayo Bere昀氀eksi
+Di sinilah akhir dari petualangan kita mempelajari usaha, energi, dan pesawat 
+sederhana. Sekarang, saatnya kalian melihat lagi sejauh mana pengetahuan 
+dan pemahaman yang kalian dapat. 
+1. 
+Apakah ada pertanyaan yang belum terjawab setelah kalian mempelajari 
+bab ini?
+2. 
+Apakah hal terpenting yang kalian pelajari pada bab ini?
+3. 
+Kegiatan pembelajaran manakah yang paling menambah pemahaman 
+kalian tentang konsep usaha?
+4. 
+Sikap apakah yang kalian kembangkan dalam bab ini dikaitkan dengan 
+berbagai Pro昀椀l Pelajar Pancasila?

@@ -1,0 +1,1385 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VII
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-602-244-883-9 (Jil.1)
+Bab 3
+Rasio
+Kapan dan mengapa menggunakan rasio 
+untuk membandingkan?
+Matematika untuk SMP/MTs Kelas VII
+84
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+ 
+√
+Menjelaskan konsep rasio, berbagai bentuk rasio dan 
+penggunaannya dalam kehidupan sehari-hari
+ 
+√
+Membedakan antara selisih, yang merupakan perbandingan 
+secara penjumlahan, dan rasio, yang merupakan perbandingan 
+secara perkalian  
+ 
+√
+Menggunakan faktor skala untuk menyelesaikan masalah yang 
+berhubungan dengan rasio 
+ 
+√
+Menghubungkan rasio ekuivalen dengan proporsi dalam 
+penyelesaian masalah sehari-hari
+ 
+√
+Menggunakan rasio (dan laju perubahan yang terkait) untuk 
+menyelesaikan masalah 
+Pengantar bab
+Perhatikan beberapa situasi berikut.
+Gambar 3.1 Ukuran Foto dan Lukisan
+Bab 3 | Rasio
+85
+Gambar 3.2 Beberapa Ukuran Kertas Fotokopi
+Gambar 3.3 Susu Cokelat dengan Kepekatan Cokelat Berbeda
+Apa kesamaan dari ketiga gambar di atas? Dalam tiga contoh di atas, 
+kita membandingkan dua besaran. Untuk foto dan lukisan, pelukis 
+perlu memastikan bahwa panjang dan lebar dari hasil lukisan di 
+kanvas sesuai dengan perbandingan di fotonya. Demikian juga dengan 
+berbagai ukuran kertas memiliki perbandingan panjang dan lebar 
+yang sama. Agar rasa minimum cokelat tetap sama, penjual harus 
+memastikan perbandingan bahannya sama.
+Pada bab ini kalian akan mempelajari bagaimana rasio, yaitu 
+perbandingan dua besaran, dapat digunakan untuk menyelesaikan 
+berbagai masalah, seperti menentukan ukuran lukisan jika diketahui 
+Rajin
+Belajar
+Rajin
+Belajar
+841 x 1189 mm
+A0
+594 x 841 mm
+A1
+420 x 594 mm
+A2
+297 x 420 mm
+A3
+A4
+Rajin
+Belajar
+Rajin
+Belajar
+Rajin
+Belajar
+Rajin
+Belajar
+Matematika untuk SMP/MTs Kelas VII
+86
+ukuran foto dan komposisi perbandingan susu dan cokelat untuk 
+menentukan kepekatan cokelat yang diinginkan. 
+Pertanyaan Pemantik
+ 
+■
+Bagaimana membandingkan dua besaran dengan menggunakan 
+rasio? 
+ 
+■
+Kapan membandingkan dua besaran dengan menggunakan 
+pembagian atau perkalian dan kapan membandingkannya dengan 
+menggunakan selisih? 
+ 
+■
+Hubungan rasio apa yang terdapat dalam proporsi dan apa 
+bedanya? 
+ 
+■
+Bagaimana memodelkan dan menyelesaikan masalah yang 
+berkaitan dengan hubungan proporsional?
+ 
+■
+Bagaimana menerapkan laju perubahan satuan dalam 
+penyelesaian masalah?
+Kata Kunci
+Rasio, perbandingan, pecahan, persen, skala, laju perubahan satuan, 
+rasio ekuivalen, proporsi. 
+Bab 3 | Rasio
+87
+Bagan Materi
+Gambar 3.4 Bagan Materi
+Di bab-bab sebelumnya kalian sudah belajar mengenai bilangan bulat, 
+pecahan, desimal, persen, faktor, kelipatan, dan bilangan prima. Masih 
+ingatkah kalian bagaimana menentukan faktor dan kelipatan bilangan? 
+A. Konsep Rasio
+Melalui eksplorasi kadar cokelat dalam minuman susu cokelat berikut, 
+kalian akan mempelajari konsep rasio sebagai perbandingan dua 
+besaran.
+Eksplorasi
+3.1
+Pemahaman rasio
+Permasalahan
+Kalian akan menyelesaikan masalah utama yang berkaitan dengan 
+campuran susu cokelat dengan komposisi cokelat dan susu yang 
+berbeda-beda. Akan tetapi, kalian perlu membedakan pemahaman 
+perbandingan dan rasio. Bagaimana merepresentasikan perbandingan 
+dalam bentuk pecahan, persen, dan desimal? 
+Rasio
+Konsep Rasio
+Skala
+Laju 
+Perubahan
+Satuan
+Ayo Mengingat Kembali
+Matematika untuk SMP/MTs Kelas VII
+88
+Gambar 3.5 Susu dan Cokelat 
+A. 
+Jawablah pertanyaan yang berkaitan dengan pecahan dan 
+perbandingan. 
+a. 
+Berapa banyak gelas berisi cokelat dari keseluruhan gelas 
+berisi minuman? 
+b. 
+Berapa banyak gelas berisi susu dari keseluruhan gelas berisi 
+minuman?
+c. 
+Berapa perbandingan banyak gelas berisi susu dengan gelas 
+berisi cokelat? 
+Ayo Berkomunikasi
+Apa perbedaan konsep rasio dan pecahan? 
+B. 
+Kandungan cokelat murni dinyatakan dalam persen. Cokelat 
+batang seringkali merupakan campuran cokelat dan bahan lainnya 
+seperti gula. 
+Bab 3 | Rasio
+89
+Perhatikan keterangan di bawah ini.
+Gambar 3.6 Kandungan Cokelat
+a. 
+Gambarkan diagram lingkaran dari komposisi cokelat batang 
+yang menyatakan 80% cokelat murni dan 20% gula.  
+b. 
+Nyatakan perbandingan banyak cokelat murni terhadap 
+banyak gula jika berat cokelat batang adalah 100 gram.
+Pembahasan
+Pada eksplorasi bagian A kalian menyatakan perbandingan banyak gelas 
+berisi cokelat  dari keseluruhan gelas berisi minuman. Perbandingan ini 
+dapat ditulis sebagai pecahan. Pecahan menyatakan berapa banyak 
+bagian dari keseluruhan. 
+Tugas berikutnya adalah membandingkan banyak gelas berisi susu 
+dengan banyak gelas berisi cokelat, yaitu 4 : 6 yang disederhanakan 
+menjadi 2 : 3. Perhatikan bahwa tanda (:) bukan berarti pembagian.
+Perbandingan banyak gelas berisi susu terhadap banyak gelas 
+berisi cokelat disebut sebagai rasio.  
+COKELAT
+80%
+GULA
+20%
+Matematika untuk SMP/MTs Kelas VII
+90
+Rasio merupakan perbandingan dua besaran, dapat berupa ukuran 
+atau jumlah benda.   
+Rasio dapat dituliskan sebagai berikut:
+  a : b
+Rasio dapat dituliskan dalam bentuk yang paling sederhana, artinya 
+perbandingan dibuat sekecil mungkin. Contoh 3 : 9 = 1 : 3.  
+Apakah arti rasio banyak gelas berisi susu terhadap gelas berisi 
+cokelat adalah 1 : 3 ?
+Untuk setiap satu gelas berisi susu terdapat tiga gelas berisi 
+cokelat. 
+Pada eksplorasi B kalian menentukan rasio dari banyak cokelat 
+terhadap banyak gula jika diketahui persentase cokelat murni dalam 
+cokelat batang. Persentase merupakan salah satu bentuk pecahan.
+Ayo Mencoba
+1. 
+Perhatikan Gambar 3.7 berikut. Ada enam donat dalam satu piring 
+dan tiga jenis donat yaitu donat meses, donat gula, dan donat 
+cokelat.
+Gambar 3.7 Berbagai Jenis Donat
+a. 
+Nyatakan rasio dari banyak donat meses terhadap donat 
+cokelat.
+b. 
+Nyatakan rasio dari banyak donat gula terhadap donat cokelat. 
+c. 
+Nyatakan rasio dari banyak donat meses terhadap donat gula. 
+d. 
+Jika ada dua piring donat, berapa rasio dari banyak donat gula 
+terhadap donat cokelat?
+Bab 3 | Rasio
+91
+e. 
+Jika setiap jenis donat ditambah masing-masing dua, ulangi 
+pertanyaan a dan b kemudian jawablah. 
+2. 
+Rasio volume air dalam botol mineral besar terhadap botol kecil 
+adalah 5 : 1. Satuan volume yang digunakan adalah mililiter. 
+Pikirkan tiga kemungkinan perbandingan volume botol besar dan 
+botol kecil yang memenuhi rasio 5 : 1.    
+Tahukah Kalian?
+?
+Tahukah Kalian Penggunaan Rasio Gir dalam Mesin Motor? 
+Gir digunakan dalam mesin motor. Gir mempunyai ujung-ujung 
+yang tajam yang disebut sebagai gigi. Gambar 3.8 menunjukkan 
+dua gir dengan banyak gigi yang berbeda. Gir menggunakan rasio 
+dengan satuan yang sama. Banyak gigi dibuat berbeda dengan tujuan 
+menghasilkan putaran yang berbeda, ada yang lebih cepat dan ada yang 
+lebih lambat.    
+Gambar 3.8 Gir dengan Banyak Gigi Berbeda
+C. 
+Jawablah pertanyaan yang berkaitan dengan rasa cokelat dalam 
+campuran susu cokelat. Tentukan gelas mana yang mempunyai 
+rasa cokelat yang lebih kuat dalam setiap kasus dan jelaskan 
+jawaban kalian. Jika kalian tidak pasti menjawabnya berikan juga 
+alasannya.
+Matematika untuk SMP/MTs Kelas VII
+92
+Gambar 3.9 Dua Minuman Susu Cokelat dengan Kepekatan Sama 
+Pada gelas A ditambahkan satu sendok takar cokelat bubuk dan 
+pada gelas B ditambahkan satu gelas kecil susu.
+Gambar 3.10  Dua Minuman Susu Cokelat dengan Kepekatan Berbeda
+a. 
+Pada setiap gelas ditambahkan satu sendok takar cokelat 
+bubuk.  
+b. 
+Pada setiap gelas ditambahkan satu gelas kecil susu.  
+c. 
+Pada gelas C ditambahkan satu sendok takar susu bubuk dan 
+gelas D ditambahkan satu sendok takar cokelat bubuk.
+Gambar 3.11 Dua Minuman Susu Cokelat dengan Kepekatan Sama
+Kasus 1
+Gelas A
+Gelas B
+Gelas C
+Gelas D
+Kasus 2
+Kasus 3
+Gelas E
+Gelas F
+Bab 3 | Rasio
+93
+a. 
+Pada setiap gelas ditambahkan satu sendok takar cokelat 
+bubuk.  
+b. 
+Pada setiap gelas ditambahkan satu gelas kecil susu.  
+c. 
+Pada gelas E ditambahkan satu sendok takar susu bubuk dan 
+gelas F ditambahkan satu sendok takar cokelat bubuk.
+Gambar 3.12 Dua Minuman Susu Cokelat dengan Kepekatan Berbeda
+Pada gelas G dan H masing-masing ditambahkan satu gelas 
+kecil susu.  
+Pembahasan
+Pada eksplorasi C kalian menentukan rasa cokelat yang paling kuat 
+dalam berbagai kasus berdasarkan perbandingan banyak cokelat 
+terhadap susu. 
+Rasa cokelat yang lebih kuat menunjukkan lebih banyak cokelat 
+dibandingkan dengan banyak susu. 
+Gelas G
+Gelas H
+Kasus 4
+Matematika untuk SMP/MTs Kelas VII
+94
+Ayo Berpikir Kritis
+Dua takaran susu dan cokelat yang berbeda diberikan dalam Gambar 
+3.13. 
+Gambar 3.13 Banyak Cokelat dan Banyak Susu
+Tiga siswa memberikan pendapatnya dengan membandingkan 
+rasa cokelat pada susu cokelat tersebut.
+A: Keduanya mempunyai rasa yang sama karena pada gambar kiri 
+dan gambar kanan selisih banyak susu dan cokelat adalah 1 gelas. 
+B: Gambar kanan mempunyai rasa cokelat paling kuat karena lebih 
+banyak cokelatnya, walaupun selisih banyak cokelat dan susu adalah 
+sama untuk gambar kanan maupun gambar kiri.
+C: Rasio dari gambar kiri adalah 2 : 1 sedangkan rasio dari gambar 
+kanan adalah 5 : 4. Rasio keduanya berbeda sehingga rasa cokelatnya 
+juga berbeda. Gambar kiri terasa paling kuat cokelatnya karena nilai 
+rasio lebih besar daripada gambar kanan.
+Siapakah 
+yang 
+paling 
+tepat 
+mengemukakan 
+pendapatnya? 
+Mengapa?
+P
+e   tan Karakter
+Buatlah daftar lama kegiatan belajar dan penggunaan media sosial setiap 
+hari selama seminggu, yang selama ini kalian lakukan. Kegiatan belajar 
+yang dimaksud bukan kegiatan belajar di sekolah.
+Bab 3 | Rasio
+95
+Tabel 3.1 Kegiatan Belajar dan Penggunaan Media Sosial
+Hari
+Kegiatan Belajar
+Penggunaan 
+Media Sosial
+Senin
+2 jam
+2 jam
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+…
+ 
+Hitunglah waktu total kegiatan belajar dan penggunaan media sosial. 
+Tentukan rasio dari kedua waktu tersebut. Apa kesimpulan kalian? 
+Latihan 3.1
+1. 
+Ibu membeli 2,8 kg mangga dan 4,2 kg jeruk dan menempatkannya 
+dalam keranjang.
+a. 
+Berapa rasio dari berat mangga terhadap jeruk? 
+b. 
+Apa arti rasio dari nomor a?
+c. 
+Tunjukkan perbandingan berat mangga dan jeruk dalam 
+diagram kotak.  
+2. 
+Sebuah bingkai berukuran 120 cm x 80 cm. 
+a. 
+Berapa rasio dari panjang dan lebar bingkai? 
+b. 
+Apa arti rasio dari nomor a?
+3. 
+Perhatikan gambar di bawah ini. 
+Cokelat batang terdiri atas campuran susu, gula, dan cokelat 
+murni. 
+Matematika untuk SMP/MTs Kelas VII
+96
+Gambar 3.14 Persentase Cokelat, Susu dan Gula
+a. 
+Nyatakan rasio dari banyak susu dan gula terhadap cokelat 
+murni.
+b. 
+Jika berat cokelat adalah 130 gram berapa berat susu dan gula? 
+c. 
+Seorang siswa mengatakan bahwa selisih antara cokelat 
+murni dan campuran susu dan gula selalu 30% berapa pun 
+berat cokelat batang. Apa pendapat kalian tentang kesimpulan 
+siswa tersebut? 
+d. 
+Seorang siswa mengatakan bahwa penambahan berat yang 
+sama untuk cokelat murni dan campuran susu dan gula selalu 
+menghasilkan rasio yang sama, misalnya 20 gram cokelat 
+murni dan juga 20 gram susu gula. Apa pendapat kalian 
+tentang kesimpulan siswa tersebut? 
+4. 
+Carilah informasi tentang kandungan emas 23 karat. 
+a. 
+Tentukan persentase emas murni dalam emas 23 karat.
+b. 
+Tentukan banyak bahan emas murni dan bahan campuran 
+lainnya dalam emas 23 karat jika berat emas 100 gram. 
+5. 
+Pernahkah kalian melihat alkohol dengan tulisan 70%? Apa 
+artinya? 
+Larutan alkohol 100% sepenuhnya mengandung alkohol, tidak 
+ada campuran air.
+COKLAT
+65%
+GULA +
+SUSU BUBUK
+35%
+Bab 3 | Rasio
+97
+Gambar 3.15 Larutan Alkohol 70%
+Larutan alkohol 100% dengan volume 100 mililiter mengandung 
+100 mililiter alkohol.
+Isilah tabel di bawah ini.
+Tabel 3.2 Larutan Alkohol
+Larutan Alkohol 
+100 ml
+Volume Alkohol
+Volume Air
+Rasio 
+Alkohol : Air 
+90%
+...
+...
+...
+80%
+...
+...
+...
+70%
+...
+...
+...
+ 
+a. 
+Berapa volume alkohol dari larutan alkohol 70% jika volume 
+larutan alkohol 200 mililiter?
+b. 
+Tuliskan 70% dalam bentuk pecahan per seratus.
+c. 
+Arsirlah pecahan yang menyatakan 70%.
+ALKOHOL
+70%
+Matematika untuk SMP/MTs Kelas VII
+98
+6. 
+Perhatikan Tabel 3.3 di bawah ini.
+Tabel 3.3 Angka Putus Sekolah, 2019 
+Berapa rasio siswa SD yang putus sekolah di daerah pedesaan dan 
+perkotaan? 
+7. 
+Seutas tali sepanjang 2,4 m akan digunakan untuk memagari suatu 
+luas persegi panjang dalam rangka penelitian ekosistem kebun 
+sekolah. Tentukan beberapa kemungkinan rasio panjang terhadap 
+lebar, gunakan bilangan bulat.   
+8. 
+Perhatikan Gambar 3.16 di bawah ini.
+Gambar 3.16 Bidang Miring
+Bidang 
+miring 
+digunakan 
+karena 
+memudahkan 
+untuk 
+memindahkan benda ke tempat yang lebih tinggi. Kemudahan 
+ini dinyatakan dalam rasio panjang bidang miring terhadap 
+ketinggiannya.  
+Karakteristik
+( 1 )
+Total
+Tipe Daerah
+Perkotaan
+Perdesaan
+Sumber: Badan Pusat Statistik
+Jenis Kelamin
+Laki-laki
+Perempuan
+0,36
+0,39
+0,39
+0,36
+0,85
+1,33
+1,14
+1,00
+1,67
+1,92
+1,80
+1,73
+( 2 )
+( 3 )
+( 4 )
+Jenjang Pendidikan
+SD/sederajat
+SMP/sederajat
+SMA/sederajat
+Bab 3 | Rasio
+99
+Tabel 3.4 Panjang Terhadap Ketinggian Bidang Miring
+Bidang Miring
+Panjang Bidang Miring 
+(cm)
+Ketinggian Bidang Miring 
+(cm)
+A
+150 
+100
+B
+100 
+50
+C
+120
+40
+Menurut kalian, bidang miring mana yang paling memudahkan 
+untuk memindahkan drum? Jelaskan jawaban kalian.
+9. 
+Seorang siswa SMP mengatakan bahwa rasio 31 : 61 lebih kecil 
+daripada rasio 1 : 2. Setujukah kalian dengan pendapatnya? 
+Bagaimana cara membuktikannya? 
+10. 
+Komodo merupakan hewan yang hanya terdapat di Indonesia 
+khususnya di sebelah timur Pulau Flores. Komodo termasuk hewan 
+yang dilestarikan agar tidak punah. Komodo dewasa dapat berjalan 
+sejauh 11,2 km per hari sedangkan anak komodo berjalan 2000 m 
+per hari. Tentukan rasio jarak tempuh komodo dewasa terhadap 
+anak komodo. 
+B. Skala 
+Skala berkaitan dengan perbesaran atau pengecilan suatu ukuran, 
+tetapi tidak mengubah bentuknya. Hal ini dapat dilakukan dengan 
+menggunakan rasio yang sama.  
+Skala dipelajari juga dalam bab 5 tentang kesebangunan. Bab 5 
+membahas skala dengan membandingkan dua bangun datar yang 
+berbeda ukurannya, tetapi sebangun.
+Kesadaran Lingkungan
+Matematika untuk SMP/MTs Kelas VII
+100
+Eksplorasi
+3.2
+Skala dan rasio ekuivalen
+Permasalahan
+Bagaimana kalian memperkecil atau memperbesar sebuah gambar 
+dengan tetap mempertahankan bentuknya secara proporsional? 
+Pengertian proporsional menunjukkan bentuk dengan ukuran baru, 
+tetapi tetap sebanding dengan bentuk asalnya. 
+ 
+Gambar 3.17 Perubahan Ukuran Gambar
+Bagi siswa yang mempunyai akses ke google drive. 
+Pada dokumen di google drive terdapat aplikasi mengubah ukuran 
+gambar, yaitu dengan mengubah skala lebar dan skala tinggi.
+Perubahan ukuran dibuat dalam persen untuk panjang dan lebar, 
+perhatikan Gambar 3.17. 
+Pilihlah sebuah gambar dan gunakan aplikasi dalam google 
+drive untuk mengubah ukuran gambar menurut tabel di halaman 
+berikut. Tentukan rasio dari panjang dan lebar gambar dan amati 
+proporsionalitas gambar. Untuk setiap rasio, nyatakan proporsional 
+atau tidak. 
+Ukuran & Rotasi
+Lebar
+Kunci rasio tinggi lebar
+13.15
+cm
+Tinggi
+7.13
+cm
+Skala Lebar
+100
+cm
+Skala Tinggi
+100
+cm
+Bab 3 | Rasio
+101
+Tabel 3.5 Perubahan Skala Panjang dan Skala Lebar dalam Persen 
+Gambar
+Skala 
+Panjang (%)
+Skala 
+Lebar (%)
+Rasio
+Proporsionalitas
+A
+100
+100
+...
+...
+B
+100
+125
+...
+...
+C
+200
+200
+...
+...
+D
+150
+100
+...
+...
+E
+75
+100
+...
+...
+F
+50
+50
+...
+...
+Gambar mana yang sebanding atau proporsional dengan gambar 
+asal A? 
+Catatan: Siswa yang mempunyai akses ke google drive tetap perlu 
+mengerjakan tugas yang menggunakan Tabel 3.6. 
+Bagi siswa yang belum mempunyai akses ke google drive. 
+Gunakan Tabel 3.6 ini untuk mengamati perubahan gambar A, B, C, 
+dan D yang terdapat pada Gambar 3.18 di halaman berikutnya.
+Tanpa menggunakan aplikasi dalam google drive kalian dapat 
+menentukan apakah gambar proporsional dengan gambar asal. 
+Tabel 3.6 Perubahan Ukuran Panjang dan Lebar dalam Satuan cm 
+Gambar
+Panjang (cm)
+Lebar (cm)
+Rasio
+A
+10
+8
+...
+B
+10
+12
+...
+C
+15
+12
+...
+D
+10
+6
+...
+Matematika untuk SMP/MTs Kelas VII
+102
+Gambar 3.18 Ukuran Gambar Proporsional dan Tidak Proporsional
+a. 
+Gambar mana yang sebanding atau proporsional dengan 
+gambar asal A?   
+b. 
+Bagaimana rasio dari dua gambar yang proporsional atau 
+sebanding? 
+c. 
+Jika panjang dibuat tetap dan lebar dibuat tiga kali apakah 
+gambar baru tetap proporsional?
+Pembahasan
+Rasio yang ekuivalen, apakah memperbesar atau memperkecil, akan 
+menghasilkan bentuk yang proporsional. Hal ini tampak pada gambar 
+A dan C.   
+Gambar A
+Gambar C
+Gambar B
+Gambar D
+Bab 3 | Rasio
+103
+Dua rasio dikatakan ekuivalen jika nilai kedua rasio tersebut adalah 
+sama. a : b = c : d
+a
+b = c
+d
+Perbesaran gambar C adalah 1,5 kali gambar A karena panjang 
+diperbesar 1,5 kali demikian juga lebar diperbesar 1,5 kali. Jadi, dapat 
+dikatakan faktor skala adalah 1,5. 
+Ayo Berpikir Kreatif
+Berikan contoh penerapan rasio ekuivalen dalam kehidupan sehari-hari.  
+Skala menggunakan rasio yang memperkecil ukuran di mana jarak 
+sebenarnya diwakili oleh jarak pada peta.
+Ayo Berpikir Kritis
+Skala denah rumah menunjukkan perbandingan ukuran dalam gambar 
+terhadap ukuran sebenarnya. Skala 1:100 artinya ukuran 1 cm dalam 
+gambar mewakili ukuran 100 cm yang sebenarnya. Mungkinkah ada 
+skala 1:10000 untuk denah rumah? Jelaskan jawaban dan alasan kalian. 
+Gambar 3.19 Denah Rumah
+Matematika untuk SMP/MTs Kelas VII
+104
+Bagaimana menyelesaikan soal-soal yang menggunakan rasio 
+ekuivalen yang menghasilkan bentuk proporsional?
+Gambar 3.20 Dua Persegi Panjang Proporsional
+Panjang dan lebar sebuah gambar adalah 16 cm dan 12 cm 
+kemudian gambar itu diperbesar sehingga panjangnya menjadi 32 cm. 
+Berapa lebar gambar setelah diperbesar?
+Perbandingan lebar dan panjang sebelum diperbesar adalah 
+12 : 16.
+Perbandingan lebar dan panjang sesudah diperbesar adalah 
+lebar : 32
+    12 : 16 = 5 : lebar : 32
+12
+16 = lebar
+32
+Cara pertama:  
+16 menjadi 32 artinya perbesaran adalah 2 kali  
+Jadi, lebar juga menjadi 2 kali, yaitu 24
+Cara kedua:
+Rasio 12 : 16 dikecilkan dahulu 
+Rasio ini digunakan lagi 3
+4 = lebar
+32 
+ 
+Lebar = 24 
+16 cm
+12 cm
+12
+16 = 3
+4
+Bab 3 | Rasio
+105
+Contoh soal penggunaan rasio ekuivalen dapat dilihat dalam bentuk 
+di bawah ini.
+Gambar 3.21 Kelinci dan Makanannya
+Berapa banyak makanan yang diperlukan oleh 5 kelinci?
+Rasio kelinci terhadap banyak makanan  1 : 60.
+Rasio 5 kelinci terhadap banyak makanan adalah 5 : banyak makanan
+1 : 60 = 5 : banyak makanan
+Cara pertama: 
+1 kelinci menjadi 5 kelinci artinya perbesaran 5 kali
+Jadi, banyak makanan juga menjadi 5 kali, yaitu 300 gram.
+Cara kedua: 
+   
+1
+60 =
+5
+banyak makanan
+Banyak makanan = 5 x 60 = 300 gram 
+1 Kelinci
+60 gram
+........ gram
+5 Kelinci
+Matematika untuk SMP/MTs Kelas VII
+106
+Dua cara penyelesaian soal rasio ekuivalen dalam proporsionalitas 
+diberikan dalam bagan di bawah ini.
+Gambar 3.22 Bagan Penyelesaian Masalah Rasio Ekuivalen
+Ayo Menggunakan Teknologi
+Gambar 3.23 Photo & Picture Resize
+Aplikasi untuk mengubah ukuran gambar dapat diunduh dari Play 
+Store, yaitu Photo & Picture Resizer. 
+di antara
+di antara
+di dalam
+P
+Q
+p
+q
+Ubah Ukuran Foto & Gambar
+Pilih ukuran gambar
+Pilih foto
+Simpan foto
+972 x 648 (25%)
+155 x 1037 (40%)
+1944 x 1296 (50%)
+2916 x 1944 (75%)
+Custom %
+Bab 3 | Rasio
+107
+Tahukah Kalian?
+?
+Mikroskop digunakan untuk melihat objek-objek yang sangat kecil yang 
+tak dapat dilihat oleh mata. Mikroskop terdiri atas dua lensa cembung, 
+yaitu sebagai lensa objektif dan lensa okuler. Lensa objektif dipasang 
+dekat dengan benda dan lensa okuler dipasang dekat mata. Setiap 
+lensa menghasilkan perbesaran. Perbesaran total merupakan perkalian 
+perbesaran kedua lensa, dapat bernilai ratusan hingga ribuan kali. 
+Gambar 3.24 Mikroskop dan Perbesarannya
+Latihan 3.2
+1. 
+Ukuran gambar diubah untuk mengecilkan ukuran bitnya.
+Gambar 3.25 Pengecilan Ukuran
+Berapa faktor skalanya berdasarkan ukuran gambar (dalam KB) 
+sebelum dan sesudah diubah?
+Perbesaran
+lensa okuler
+x10
+x10
+x10
+x10
+x4
+x10
+x40
+x100
+40
+100
+400
+1000
+Perbesaran
+lensa objektif
+Perbesaran
+total
+Sebelum berubah ukuran
+Gambar A
+Tipe gambar
+JPG File
+Lokasi
+E/
+Ukuran
+Ukuran di disk
+654,5 KB
+654,5 KB
+Setelah berubah ukuran
+Gambar B
+Tipe gambar
+JPG File
+Lokasi
+E/
+Ukuran
+Ukuran di disk
+93.5 KB
+95 KB
+Matematika untuk SMP/MTs Kelas VII
+108
+2. 
+Tabel kebutuhan energi dan zat gizi pada remaja berdasarkan AKG 
+2013 diberikan di bawah ini.
+Tabel 3.7 Kebutuhan Energi dan Zat Gizi pada Remaja Berdasarkan AKG 2013
+Sumber: https://ocw.ui.ac.id/pluginfile.php/12147/mod_resource/content/1/Kulum%20
+Gizi%20Remaja_2020%20%281%29.pdf
+a. 
+Berapa rasio banyak protein yang diperlukan anak laki-laki 
+terhadap anak perempuan usia 10–12 tahun? 
+b. 
+Tentukan banyak protein yang diperlukan oleh dua anak 
+perempuan usia 10–12 tahun dan tiga anak laki-laki usia 13–15 
+tahun.
+3. 
+Ukuran rumah yang sebenarnya diberikan dalam denah di bawah 
+ini. Tentukan skala dari denah.
+Gambar 3.26 Denah Rumah Sederhana
+Energi (Kal)
+2100
+2475
+2675
+56
+72
+66
+70
+83
+89
+2000
+2125
+2125
+60
+69
+59
+67
+71
+71
+Protein (g)
+Lemak (g)
+Laki-Laki
+10-12
+tahun
+13-15
+tahun
+16-18
+tahun
+Perempuan
+10-12
+tahun
+13-15
+tahun
+16-18
+tahun
+RUANG
+MAKAN
+DAPUR
+TOILET
+KAMAR
+RUANG
+TENGAH
+4.00
+3.75
+5.00
+3.75
+1.25
+Bab 3 | Rasio
+109
+4. 
+Amati peta Indonesia dan penjelasannya dengan saksama.  Ukurlah 
+panjang garis tebal hitam. Panjang garis tersebut mewakili 175 km. 
+Panjang 
+garis 
+hitam 
+tebal 
+adalah 
+_____ 
+cm 
+Gambar 3.27 Peta Indonesia   
+Lengkapi Tabel 3.8 di bawah ini.
+Tabel 3.8 Panjang pada Peta dan Jarak Sebenarnya 
+Kota ke kota
+Panjang di peta (cm)
+Jarak sebenarnya (km)
+Garis hitam
+...
+175 km
+Jakarta–Jayapura
+...
+...
+Jakarta–Medan
+...
+...
+Jakarta–Palangkaraya
+...
+...
+5. 
+Ada beberapa nilai rasio sebagai skala dalam tabel. Tentukan 
+apakah rasio tersebut lebih tepat untuk skala denah rumah, suatu 
+pulau atau Indonesia. 
+INDONESIA
+0 km
+175
+350
+525
+Matematika untuk SMP/MTs Kelas VII
+110
+Skala
+Rumah atau Pulau atau Indonesia?
+1:50
+Denah rumah
+1:400
+...
+1:2000
+...
+1:8000
+...
+1:20000
+...
+6. 
+Sirup lemon dibuat dengan resep 4 jeruk dan 1 sendok teh gula.
+a. 
+Jika ingin dibuat dua kali resep berapa banyak jeruk dan gula 
+yang diperlukan?
+b. 
+Jika ada 4 sendok teh gula berapa banyak jeruk yang 
+diperlukan?
+c. 
+Jika ada 5 sendok teh gula dan 12 jeruk, apakah ada bahan 
+yang sisa? Berapa banyak sisanya?
+7. 
+Carilah sebuah foto dan bingkai yang ada di rumahmu.
+Ukur panjang dan lebar foto dan bingkai kemudian isikan hasil 
+pengukuran dalam tabel di bawah ini. 
+Tabel 3.9 Rasio Bingkai dan Foto
+Panjang 
+Lebar
+Rasio (Panjang : Lebar)
+Panjang foto
+Lebar foto
+...
+Panjang bingkai
+Lebar bingkai
+...
+Apakah rasio bingkai dan foto merupakan rasio yang ekuivalen?
+8. 
+Perhatikan Tabel 3.10 di bawah ini.
+Tabel 3.10 Resep Kue
+Telur
+Terigu 
+Gula
+Porsi
+Bolu Kukus
+6
+500
+500
+10 orang
+Kue Pisang
+2
+250
+200
+5 orang
+Kue Cokelat  
+3
+180
+150
+5 orang 
+Bab 3 | Rasio
+111
+Ibu mempunyai stok 1800 gram gula, 15 butir telur, dan 2500 gram 
+terigu. Ibu ingin membuat 2 jenis kue untuk 15 orang, dengan 
+setiap orang mendapatkan 1 kue untuk 1 jenis. Tentukan jenis kue 
+yang dipilih oleh ibu dan hitunglah berapa sisa bahan kue.    
+9. 
+Mesin fotokopi mempunyai fitur untuk memperbesar dan 
+memperkecil hasil fotokopi.  
+Gambar 3.28 Ukuran Berbagai Kertas 
+a. 
+Jika kertas ukuran A4 diperbesar dua kali, apakah ukuran 
+kertas yang digunakan?
+b. 
+Jika kertas ukuran A0 diperkecil setengahnya, apakah ukuran 
+kertas yang digunakan?  
+10. Perhatikan diagram pembuatan eko-enzim. 
+Wadah dengan ukuran tertentu digunakan untuk menampung 1 
+takaran gula merah, 3 takaran sampah organik, dan 10 takaran air. 
+Rajin
+Belajar
+Rajin
+Belajar
+841 x 1189 mm
+A0
+594 x 841 mm
+A1
+420 x 594 mm
+A2
+297 x 420 mm
+A3
+A4
+Rajin
+Belajar
+Rajin
+Belajar
+Rajin
+Belajar
+Rajin
+Belajar
+Matematika untuk SMP/MTs Kelas VII
+112
+Gambar 3.29 Bahan Pembuat eko-enzim 
+Jika ada 3 takaran gula merah, 8 takaran sampah, dan 20 takaran 
+air, berapa wadah eko-enzim yang dapat dibuat? 
+C. Laju Perubahan Satuan 
+Kalian memerlukan laju perubahan satuan sehingga dapat menentukan 
+suatu pilihan dari berbagai pilihan yang ada. Ketika membuat susu 
+cokelat, misalnya, kalian mencampur satu sendok takar cokelat bubuk 
+dan dua sendok takar susu bubuk dengan air. Jadi, perbandingan 
+cokelat terhadap susu adalah 1 : 2 dengan menggunakan satuan yang 
+sama.
+Tetapi, 
+bisa 
+juga, 
+kalian 
+membuat 
+susu 
+cokelat 
+dengan 
+mencampurkan satu sendok takar cokelat bubuk dengan 200 mililiter 
+susu cair. Perbandingan cokelat terhadap susu adalah 1 : 200, tetapi 
+dengan satuan yang berbeda. Rasio yang melibatkan satuan berbeda 
+disebut sebagai laju perubahan satuan.    
+1 Takaran
+Gula Merah
+3 Takaran
+Sampah Organik
+10 Takaran
+Air
+Bab 3 | Rasio
+113
+Permasalahan
+Kalian akan menentukan rasa cokelat dalam cokelat susu yang dibuat 
+dari campuran cokelat bubuk dan susu cair dengan komposisi berbeda. 
+Eksplorasi
+3.3
+Kadar cokelat dalam susu cokelat
+Ada empat botol berisi susu cokelat yang merupakan campuran bubuk 
+cokelat dan susu cair. Banyak bubuk cokelat diukur dengan sendok 
+takar dan banyak susu cair dalam mililiter.
+Kasus 1
+Gambar 3.30 Botol Susu Cokelat 
+Tuliskan rasio dalam Tabel 3.11.
+Tabel 3.11 Susu dan Bubuk Cokelat
+Botol
+Susu (ml)
+Bubuk Cokelat 
+(Sendok Takar)
+Rasio
+A
+100
+4
+...
+B
+120
+5
+...
+C
+180
+6
+...
+D
+200
+10
+...
+Botol A
+Botol B
+Botol C
+Botol D
+Matematika untuk SMP/MTs Kelas VII
+114
+a. 
+Susu cokelat mana yang paling pekat cokelatnya? Jelaskan 
+jawaban kalian.
+b. 
+Andaikan susu cokelat A dan C digabung, demikian juga susu 
+coklat B dan D digabung, gabungan susu cokelat manakah 
+yang paling pekat rasa cokelatnya? Jelaskan jawaban kalian. 
+Pembahasan
+Untuk menentukan kepekatan susu cokelat diperlukan laju perubahan 
+satuan. Banyak susu dibandingkan untuk 1 sendok takar cokelat. 
+Dengan membuat salah satu besaran bernilai 1 maka rasio dapat 
+dibandingkan.
+Contoh  Mira ingin membuat dua jenis jus jeruk. 
+Jus pertama: 2 gelas air dan 3 perasan jeruk 
+Jus kedua: 3 gelas air dan 5 perasan jeruk 
+Jus manakah yang lebih terasa jeruknya? 
+Jus pertama: untuk 1 perasan jeruk diperlukan 2/3 gelas air.   
+Jus kedua: untuk 1 perasan jeruk diperlukan 3/5 gelas air. 
+Jus kedua lebih terasa jeruknya.  
+   
+Ayo Menggunakan Teknologi
+Gunakan Microsoft Excel untuk menentukan laju perubahan satuan, 
+misalnya banyak susu terhadap banyak cokelat.  
+A
+1
+Banyak susu
+Banyak cokelat
+3
+=A2/B2
+200
+Rasio
+2
+B
+C
+ 
+ 
+ 
+Bab 3 | Rasio
+115
+Ayo Berpikir Kreatif
+Pikirkan contoh sehari-hari dari rasio yang melibatkan satuan yang sama 
+dan satuan yang berbeda. Berikan dua contoh untuk satuan yang sama 
+dan dua contoh untuk satuan yang berbeda.
+Latihan 3.3
+1. 
+Ada berbagai merek cokelat yang dijual di toko, seperti yang 
+ditunjukkan oleh Tabel 3.12 di bawah ini. 
+Tabel 3.12 Berbagai Harga Cokelat
+Jenis Cokelat 
+Berat
+Harga 
+Lezats
+60 gram 
+Rp18.000,00
+Chocolas
+75 gram
+Rp24.000,00
+Bola Kecil
+100 gram
+Rp28.000,00
+Kokoa
+120 gram
+Rp32.000,00
+Susunlah harga cokelat dari yang termurah hingga termahal. 
+2. 
+Massa jenis
+Massa jenis menunjukkan bahwa untuk suatu volume tertentu 
+berat benda juga tertentu.  
+Ada dua sampel diberikan di bawah ini.
+Gambar 3.31 Dua Sampel dengan Massa Jenis Berbeda
+Sampel mana yang mempunyai massa jenis terbesar?
+5 cm
+4 cm
+4 cm
+5 cm
+3 cm
+4 cm
+Sampel A
+massa = 400 gram
+Sampel B
+massa = 360 gram
+Matematika untuk SMP/MTs Kelas VII
+116
+3. 
+Toko A menjual paket mangga seharga Rp30.000.00 untuk berat 1,2 
+kg. Toko B menjual mangga yang sama seharga Rp15.000.00 untuk 
+0,75 kg. Toko mana yang kalian pilih untuk membeli mangga? 
+4. 
+Taman Nasional Komodo terletak di bagian barat Pulau Flores, 
+Provinsi Nusa Tenggara Timur dan terdiri atas 5 pulau utama. 
+Komodo, disebut juga sebagai kadal raksasa, hanya terdapat di 
+daerah sekitar Taman Nasional Komodo, tidak terdapat di bagian 
+dunia mana pun.   
+Gambar 3.32 Peta Taman Nasional Komodo
+Tabel 3.13 Populasi Komodo  
+Pulau
+Populasi Komodo
+Pulau Komodo
+1727
+Pulau Rinca
+1049
+Pulau Gili Motang
+58
+Kesadaran Lingkungan
+Komodo = 311,5 km 2
+Rinca = 204,8 km2
+Gili Motang = 9,5 km 2
+Nusa Kode = 7,8 km2
+Padar = 14,1 km 2
+A
+D
+C
+E
+B
+5 PULAU UTAMA
+Bab 3 | Rasio
+117
+Pulau
+Populasi Komodo
+Pulau Nusa Kode
+57
+Pulau Padar
+6
+Sumber data: https://www.bbc.com/indonesia/indonesia-58096691
+Tentukan pulau yang terpadat populasi komodonya. Tunjukkan 
+pekerjaan kalian.
+5. 
+Tabel penggunaan bahan bakar dan jarak tempuh oleh empat jenis 
+mobil yang sama, tetapi merek berbeda diberikan di bawah ini. 
+Tabel 3.14 Jarak Tempuh dan Bahan Bakar
+Mobil A
+Mobil B
+Mobil C
+Mobil D
+Jarak Tempuh 
+(km)
+138
+165
+185
+330
+Bahan Bakar 
+(liter)
+10
+15
+20
+25
+Mobil mana yang menggunakan bahan bakar paling efisien?
+ 
+Tahukah Kalian?
+?
+Ada berbagai jenis ukuran mesin 
+penggiling cokelat. 
+Mesin penggiling cokelat dapat 
+menggiling 10 kg biji cokelat hingga 
+menjadi lelehan cokelat selama 8 jam. 
+Mesin lainnya dapat menggiling 100 kg 
+biji cokelat hanya dalam waktu 5 jam.  
+Refleksi
+Pada bab ini, kalian telah mempelajari rasio dan proporsi. Jawablah 
+pertanyaan di bawah ini untuk memeriksa pemahaman kalian.
+Gambar 3.33 Mesin Penggiling Cokelat
+Matematika untuk SMP/MTs Kelas VII
+118
+1. 
+Apakah saya dapat menjelaskan konsep rasio dan berbagai bentuk 
+rasio?
+2. 
+Apakah saya dapat membedakan antara selisih, yang merupakan 
+perbandingan secara penjumlahan, dan rasio, yang merupakan 
+perbandingan secara perkalian?  
+3. 
+Bagaimana 
+saya 
+dapat 
+menerapkan 
+konsep 
+rasio 
+untuk 
+menyelesaikan masalah?
+4. 
+Bagaimana saya menghubungkan rasio ekuivalen dengan proporsi 
+dalam penyelesaian masalah sehari-hari?
+5. 
+Apakah 
+saya 
+sudah 
+memahami 
+faktor 
+skala 
+dan 
+dapat 
+menyelesaikan masalah yang berkaitan dengannya?
+6. 
+Bagaimana saya memahami laju perubahan satuan dalam 
+kaitannya dengan rasio?
+Uji Kompetensi 
+1. 
+Perhatikan berbagai kemasan air mineral di bawah ini.
+Gambar 3.34 Berbagai Kemasan Air Mineral
+Tentukan:
+a. 
+Rasio dari volume gelas 220 ml terhadap volume botol 330 ml. 
+b. 
+Rasio dari volume botol 600 ml terhadap volume botol 1500 ml. 
+Air 
+Mineral
+Air 
+Mineral
+Air 
+Mineral
+Botol
+1500 ml
+Botol
+600 ml
+Botol
+330 ml
+Gelas
+240 ml
+Bab 3 | Rasio
+119
+c. 
+Rasio dari volume botol 330 ml dan botol 600 ml yang masing-
+masing dikurangi 30 ml.  
+2. 
+Sebuah pabrik cokelat mengeluarkan produk cokelat yang rendah 
+kadar gula dan karbohidrat. 
+Gambar 3.35 Cokelat Batang
+a. 
+Cokelat terdiri atas 24 potongan kecil. Jika panjang dan lebar 
+satu potongan kecil masing-masing 1, lengkapi tabel di bawah 
+ini.
+Matematika untuk SMP/MTs Kelas VII
+120
+Tabel 3.15 Ukuran Cokelat
+b. 
+Bentuk mana yang memberikan rasio yang sama dengan 
+ukuran satu potong cokelat?
+c. 
+Prediksi satu susunan potongan cokelat yang memberikan 
+rasio yang sama dengan satu potong cokelat. 
+3. 
+Perhatikan tiga komposisi sirup merah.
+ 
+■
+Untuk satu liter air campurkan 2
+3 liter sirup merah
+ 
+■
+Campurkan air dan sirup merah dengan perbandingan 2 : 3
+ 
+■
+2
+3 dari campuran sirup merah adalah air 
+Campuran mana yang paling manis? Jelaskan alasan kalian. 
+Bentuk
+Panjang
+Lebar
+Rasio
+Bab 3 | Rasio
+121
+Kesadaran Lingkungan
+Sesuai aturan Dinas Pertamanan DKI Jakarta yang dikeluarkan pada 
+tahun 2002 maka setiap penebangan satu pohon harus diimbangi 
+dengan penanaman pohon sebanyak tiga kali yang ditebang.
+Gambar 3.36 Penanaman Pohon
+4. 
+a. 
+Tuliskan rasio dari penebangan pohon terhadap penanaman  
+ 
+kembali pohon. 
+b. 
+Sebanyak 191 pohon ditebang di sekitar area revitalisasi 
+ 
+Monumen Nasional. Berapa banyak pohon yang perlu  
+ 
+ 
+ditanam?  
+5. 
+Rasio dari banyak siswa laki-laki dan siswa perempuan dari 
+kelas 7A adalah 2 : 3. Rasio dari banyak siswa laki-laki dan siswa 
+perempuan dari kelas 7B adalah 3 : 4. Menurut seorang siswa kelas 
+7, rasio banyak siswa laki-laki dan siswa perempuan dari kelas 7A 
+dan 7B adalah sama. Alasannya adalah untuk kedua kelas tersebut 
+selisih antara banyak siswa laki-laki dan siswa perempuan adalah 
+1. Apa pendapat kalian tentang pemahaman teman kalian ini? 
+Matematika untuk SMP/MTs Kelas VII
+122
+6. 
+ 
+Studi yang dilakukan oleh Kementerian Komunikasi dan Informasi 
+pada tahun 2014 menunjukkan bahwa 80% anak-anak dan remaja 
+Indonesia adalah pengguna internet. Berapa rasio dari anak-anak 
+dan remaja pengguna internet dan bukan pengguna internet?   
+Pengayaan
+Curah hujan menunjukkan banyak air yang menggenangi suatu 
+permukaan selama periode tertentu. Curah hujan menentukan 
+seberapa tinggi air hujan yang terkumpul pada tempat datar, tidak 
+menguap, tidak meresap, dan tidak mengalir. 
+Gambar 3.37 Curah Hujan dan Volume
+Carilah informasi tentang curah hujan di wilayah rumah kalian. 
+Tentukan banyak air yang menggenangi halaman rumah dengan 
+mengetahui luas halaman.
+Keamanan Digital
+1 m
+1 mm
+1 L
+1 m

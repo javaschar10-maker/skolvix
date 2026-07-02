@@ -1,0 +1,1612 @@
+Bab 1
+Bab 1
+Barisan dan Deret
+Barisan dan Deret
+Kamu memiliki suatu tanaman yang tumbuh dengan pola pertumbuhan tinggi 
+teratur setiap minggu. Jika tinggi tanaman pada minggu pertama 2 cm, minggu 
+kedua 4 cm, dan minggu ketiga 6 cm, kira-kira berapa tinggi tanamanmu pada 
+minggu ke-7?
+Apakah pola tinggi tanaman tersebut dapat diprediksi? 
+?
+KEMENTERIAN PENDIDIKAN DASAR DAN MENENGAH
+REPUBLIK INDONESIA, 2025
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+Penulis: Mohammad Tohir, dkk 
+ISBN: 978-634-00-3118-8 (jil.3 PDF)
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+2
+Tujuan Pembelajaran 	
+Setelah kamu mempelajari bab ini, diharapkan dapat menyelesaikan 
+permasalahan kehidupan sehari-hari yang berkaitan dengan konsep barisan 
+dan deret aritmetika maupun barisan dan deret geometri. Selain itu, kamu 
+juga diharapkan dapat menggunakan konsep barisan dan deret untuk 
+menyelesaikan permasalahan yang berkaitan dengan bunga tunggal.
+Kata Kunci 	
+	
+ࡋ
+Barisan aritmetika
+	
+ࡋ
+Barisan geometri
+	
+ࡋ
+Deret aritmetika 
+	
+ࡋ
+Deret geometri 
+	
+ࡋ
+Bunga tunggal
+Peta Konsep 	
+Barisan
+Deret
+Aritmetika
+Geometri
+Pola Bilangan
+Dibedakan menjadi
+Urutan 
+bilangan
+Beda tetap
+Rasio tetap
+Jumlahan 
+bilangan
+Barisan dan Deret
+Bab 1 | Barisan dan Deret
+3
+A.	 Barisan 
+1.	 Barisan Aritmetika
+Ayo, Mengingat Kembali
+Barisan dan deret sangat erat kaitannya dengan konsep pola. Penerapan 
+barisan bilangan sangat mudah ditemui dalam kehidupan sehari-hari. 
+Coba perhatikan gambar berikut.
+Jika kamu menemukan susunan kursi berikut,  dapatkah kamu menentukan 
+dengan tepat berapa banyak kursi pada kotak terakhir?
+Gambar 1.1 Susunan Kursi
+Jika kamu menemukan susunan bola berikut,  dapatkah kamu menentukan 
+dengan tepat berapa banyak bola pada kotak terakhir?
+Gambar 1.2 Susunan Bola
+Untuk mengetahui cara menentukan dengan tepat susunan kursi dan bola 
+pada kolom terakhir, pelajari materi berikut dengan cermat.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+4
+Ayo, Bereksplorasi
+∑
+Perhatikan gambar berikut.
+Gambar 1.3 Susunan Mangkok
+Gambar tersebut menunjukkan tumpukan beberapa mangkok yang disusun 
+secara bertingkat. Setiap penambahan satu mangkok menyebabkan tinggi 
+tumpukan bertambah dengan ukuran tertentu. Dari pengukuran pada 
+gambar, diketahui bahwa tinggi tumpukan 1 mangkok adalah 10 cm, 2 
+mangkok adalah 12 cm, 3 mangkok adalah 14 cm, dan seterusnya hingga 10 
+mangkok memiliki tinggi 28 cm.
+Ayo, amati dan bandingkan tinggi tumpukan mangkok pada setiap penambahan 
+jumlah mangkok. Perhatikan bahwa setiap kali satu mangkok ditambahkan, 
+tinggi tumpukan tidak bertambah secara acak, melainkan mengikuti pola 
+tertentu.
+Jawablah pertanyaan berikut dengan berdiskusi bersama teman kelompokmu.
+1.	
+Jika tinggi tumpukan mangkok dicatat dalam tabel berikut, lengkapi data 
+yang belum terisi. 
+Tabel 1.1 Banyak Susunan Mangkok
+Jumlah mangkok
+1
+2
+3
+4
+5
+6
+Tinggi (cm)
+10
+12
+14
+16
+...
+...
+b.	
+Jika tinggi maksimal rak dapur adalah 40 cm, berapa mangkok paling 
+banyak yang dapat ditumpuk tanpa melebihi tinggi rak tersebut? 
+Bagaimana cara kalian menentukan jawabannya? Jelaskan alasan kalian.
+Bab 1 | Barisan dan Deret
+5
+Tabel 1.1 menunjukkan pola bilangan 10, 12, 14, 16, ..., ...
+Jika kalian amati dengan cermat, tinggi tumpukan mangkok bertambah 
+secara teratur dengan selisih yang sama. Pola bilangan yang memiliki aturan 
+pertambahan tetap seperti ini disebut barisan bilangan.
+ Jika tinggi tumpukan mangkok dinyatakan sebagai suku, dapat ditulis:
+suku ke-1 dilambangkan dengan U1 = 10
+suku ke-2 dilambangkan dengan U2 = 12
+suku ke-3 dilambangkan dengan U3 = ...
+suku ke-4 dilambangkan dengan U4 = ...
+...
+suku ke-n dilambangkan dengan Un.
+Barisan bilangan dapat dinyatakan dalam bentuk umum berikut.
+U1, U2, U3, U4, ..., Un
+Jika kamu perhatikan, ada selisih yang sama antara suku-suku tersebut.
+10
+12
+...
+...
+...
+14
+16
+Berapakah beda atau selisih antara dua suku yang berdekatan?
+U2 - U1 = ... - ... = ...
+U3 - U2 = ... - ... = ...
+U4 - U3 = ... - ... = ...
+Ternyata beda atau selisih antara dua suku yang berdekatan selalu sama, 
+sehingga dapat dikatakan bahwa
+Suatu barisan dengan beda atau selisih antara dua suku berurutan 
+selalu tetap atau konstan disebut BARISAN ARITMETIKA. Beda pada 
+barisan aritmetika dilambangkan dengan b.
+Karena beda selalu tetap, maka b pada barisan aritmetika dapat dinyatakan 
+dengan
+b = Un - Un -1
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+6
+Ayo, Berkolaborasi
+Pada suatu kegiatan kerja bakti di sekolah, sekelompok siswa mengamati 
+susunan batu bata yang disusun bertingkat membentuk bangunan menyerupai 
+piramida. Susunan bata tersebut dibuat rapi, di mana lapisan paling bawah 
+terdiri atas paling banyak bata, sedangkan semakin ke atas jumlah bata 
+pada setiap lapisan semakin berkurang. Visualisasi susunan bata tersebut 
+ditunjukkan pada gambar berikut.
+Gambar 1.4 Susunan Batu Bata Bertingkat
+Dari gambar tersebut, terlihat bahwa setiap tingkat tersusun secara teratur 
+dan membentuk suatu pola tertentu. Guru kemudian mengajak siswa untuk 
+mengamati dan menyelidiki apakah susunan batu bata pada setiap tingkat 
+membentuk pola bilangan yang teratur. Secara rinci, banyak batu bata pada 
+setiap tingkat adalah sebagai berikut.
+Baris ke-1	 = 28
+Baris ke-2	 = 25
+Baris ke-3	 = 22
+Baris ke-4	 = 19
+Baris ke-5	 = 16
+...
+dan seterusnya
+Bab 1 | Barisan dan Deret
+7
+Berdasarkan data tersebut, amati dengan cermat perubahan jumlah batu bata 
+pada setiap tingkat. Selanjutnya, diskusikan bersama kelompokmu untuk 
+menjawab pertanyaan “Berapa banyak batu bata pada tingkat ke-10?”
+Sebagai bantuan untuk menentukan banyak batu bata pada tingkat ke-
+10, terlebih dahulu analisislah banyak batu bata pada setiap tingkat untuk 
+menemukan pola yang berlaku.
+a.	
+Menentukan beda atau selisih banyak kursi pada tiap baris.
+Tingkat ke-1  = 28	 = 28	
+Tingkat ke-2  = 25	 = 28 + (–3)	
+	
+(28 ditambah –3 sebanyak 1 kali)
+	
+	
+= 28 + ( 1 × (–3))	
+Tingkat ke-3  = 22	 = 28 + (–3) + (–3)	
+(28 ditambah –3 sebanyak 2 kali)
+	
+	
+= 28 + (… × (–3))	
+Tingkat ke-4  = 19	 = 28 + ... + ... + ...	
+(28 ditambah –3 sebanyak ... kali)
+	
+	
+= 28 + (… × (–3))	
+Tingkat ke-5  = 16	 = 28 + ... + ... + ... + ...	
+(28 ditambah ... sebanyak ... kali)
+	
+	
+= 28 + (… × …)	
+ 
+⋮	
+	
+Sehingga,
+Tingkat ke-10 	
+28 ditambah ... sebanyak ... kali
+	
+	
+	
+= 28 + (… × …)	
+	
+	
+	
+= ...
+b.	
+Menentukan pola dari perhitungan-perhitungan sebelumnya.
+Tingkat ke-10 = 28 + (… × …) = ...
+Berdasarkan analisis di atas, rumus umum untuk menentukan suku ke-n pada 
+suatu barisan aritmetika adalah
+Un = a + (n - 1)b
+Suku ke-n (Un)
+Selisih/beda (b)
+(n – 1)
+Suku pertama (a) 
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+8
+Keterangan:
+Un	= suku ke-n 
+a 	 = suku pertama	
+n 	 = urutan suku 
+b 	 = beda
+Contoh
+1.1
+Suatu barisan aritmetika dengan suku ke-4=16, suku ke-8=28. Rumus suku ke-n 
+barisan tersebut adalah ...
+Alternatif penyelesaian:
+Terlebih dahulu suku ke-3 dan suku ke-6 dinyatakan dalam bentuk rumus 
+umum seperti berikut.
+U4 = a + 3b = 16
+U8 = a + 7b = 28
+             -4b = -12
+                  b = 
+4
+12
+-
+-
+  
+                  b = 3 
+Substitusi b = 3
+	
+   a + 3b  = 16
+	
+a + 3(3) = 16
+	
+     a + 9 	=16
+	
+           a 	= 16 - 9
+	
+           a 	= 7
+Sehingga, rumus suku ke-n barisan aritmetika di atas adalah
+	
+Un	 = a + (n - 1)b
+	
+Un	 = 7 + (n - 1)3
+	
+	
+= 7 + 3n - 3
+	
+Un	 = 3n + 4
+Jadi, rumus suku ke-n dari barisan tersebut adalah Un = 3n + 4
+Bab 1 | Barisan dan Deret
+9
+Contoh
+1.2
+Dina mengikuti program menabung rutin di koperasi sekolah. Setiap bulan, 
+jumlah uang yang ia tabungkan selalu bertambah dengan selisih yang tetap. 
+Diketahui bahwa pada bulan ke-5, uang tabungan Dina sebesar Rp70.000,00, 
+sedangkan pada bulan ke-9 uang tabungannya menjadi Rp90.000,00.
+a.	
+Berapakah selisih kenaikan nominal tabungan Dina setiap bulan?
+b.	
+Tentukan berapa rupiah uang yang ditabung Dina pada bulan pertama.
+Alternatif penyelesaian:
+Diketahui:
+U5 = 70.000
+U9 = 90.000
+a.	
+Selisih kenaikan nominal tabungan Dina setiap bulan 
+	
+                  U5 	= 70.000
+	
+a + ( 5 - 1)b	 = 70.000 
+                   a + 4b 	= 70.000 ........... (persamaan 1)
+                          U9 	= 90.000
+         a + (9 - 1)b 	= 90.000
+                   a + 8b 	= 90.000 ............ (persamaan 2)
+Eliminasi persamaan 1 dan 2
+                   a + 8b 	= 90.000
+                   a + 4b	 = 70.000 
+                          4b 	= 20.000
+                            b 	= 5.000
+ 
+ 
+b adalah beda atau selisih
+	
+Sehingga, selisih kenaikan nominal tabungan Dina setiap bulan adalah 
+Rp5.000,00.
+b.	
+Uang yang ditabung Dina pada bulan pertama
+	
+Proses menentukan uang yang ditabung Dina pada bulan pertama, yaitu 
+menentukan suku pertama yang dilambangkan dengan bantuan nilai b 
+(beda) yang telah diketahui.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+10
+	
+Gunakan persamaan 1, lalu substitusi nilai b = 5.000, diperoleh
+	
+           a + 4b	 = 70.000
+	
+a + 4(5.000)	 = 70.000
+	
+   a + 20.000	 = 70.000
+	
+                   a	 = 70.000 - 20.000
+	
+                   a	 = 50.000
+	
+a adalah suku pertama
+Jadi, uang yang ditabung Rudi untuk pertama kalinya adalah Rp50.000,00.
+Ayo, Berpikir Kreatif
+Coba kamu temukan alternatif penyelesaian yang lain. Jika uang yang 
+ditabung pertama kali oleh Rudi dihitung menggunakan persamaan 2, 
+apakah hasilnya sama? Bagaimana jika kamu diminta menentukan jumlah 
+tabungan setelah satu tahun pertama dan setelah bulan ke-17?
+Latihan
+1.1
+1.	
+Tuliskan dua suku berikutnya dari barisan bilangan di bawah ini.
+Barisan bilangan
+Suku berikutnya
+12, 10, 8, 6, ..., ...
+ࡐ
+ࡐ
+–4, 0
+... , 7, 12, 18, 25, ... 
+ࡐ
+ࡐ
+4, 2
+–16, –12, -8, ..., ...
+ࡐ
+ࡐ
+3, 33
+.... , ..., 4, –2, –10, –20
+ࡐ
+ࡐ
+–4, –7
+ࡐ
+10, 8
+2.	
+Tentukan suku ke-100 dari barisan berikut: 6, –1, –8, –15, …
+3.	
+Jika diketahui barisan aritmetika dengan suku ke-3 = –43 dan suku ke-8 = 2.
+	
+Tentukan suku pertama, beda, serta rumus suku ke-n dari barisan tersebut.
+4.	
+Setiap minggu, Ibu Rina mengumpulkan 8 botol plastik bekas untuk 
+didaur ulang. Setiap kali pengumpulan, jumlah total botol plastik yang 
+telah terkumpul dicatat oleh petugas bank sampah di lingkungannya.
+Bab 1 | Barisan dan Deret
+11
+	
+Data pencatatan tersebut disajikan pada tabel berikut.
+Minggu ke-
+Botol yang 
+Dikumpulkan
+Total Botol Terkumpul
+1
+8
+8
+2
+8
+16
+3
+8
+24
+	
+Kolom ketiga menunjukkan jumlah seluruh botol plastik yang telah 
+dikumpulkan Ibu Rina sampai minggu ke-n.
+a.	
+Berapa total botol plastik yang tercatat pada minggu ke-12?
+b.	
+Setelah 25 minggu, berapakah total botol yang tercatat pada kolom total?
+5.	
+Siti sedang berlatih melompat tali setiap sore. Pada hari pertama ia 
+mampu melakukan 3 lompatan, hari kedua 5 lompatan, dan hari ketiga 7 
+lompatan. Jumlah lompatan yang ia lakukan setiap hari selalu bertambah 
+secara teratur dengan pola yang sama. Latihan tersebut berlangsung 
+hingga hari ke-10. Berapa banyak lompatan yang dilakukan Siti pada hari 
+ke-10?
+2. 	 Barisan Geometri 
+Ayo, Mengingat Kembali
+Oemar bermain bola kasti, dia men­
+jatuhkan bola tersebut dari balkon yang 
+memiliki ketinggian tertentu. Setelah 
+dijatuhkan, kejadian yang terjadi adalah 
+bola memantul kembali ke ketinggian 
+setengah dari ketinggian sebelumnya. 
+Misalnya, 
+ketinggian 
+balkon 
+rumah 
+Oemar adalah 16 meter, maka pantulan 
+pertamanya mencapai 8 meter. Pantulan 
+kedua mencapai 4 meter, dan seterusnya. 
+Setiap 
+pantulan 
+berikutnya 
+hanya 
+mencapai 
+setengah 
+dari 
+ketinggian 
+pantulan sebelumnya.
+Gambar 1.5 Menjatuhkan Bola dari 
+Balkon Rumah
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+12
+Pola ketinggian pantulan ini membentuk sebuah urutan di mana setiap 
+suku adalah setengah dari suku sebelumnya. Pola ini disebut rasio, dan ini 
+adalah kunci untuk memahami Barisan Geometri. 
+Ayo, Bereksplorasi
+∑
+Seorang siswa kelas XII melakukan simulasi komputasi tentang pembagian 
+ruang memori digital pada sebuah sistem komputer. Sebuah blok memori 
+utama berbentuk persegi panjang dianggap sebagai satu kesatuan utuh. Pada 
+tahap awal, sistem melakukan proses partisi biner, yaitu membagi setiap blok 
+memori menjadi dua bagian yang sama besar. Pada tahap ke-1, blok memori 
+dibagi satu kali sehingga terbentuk 2 partisi memori yang sama besar. Pada 
+tahap berikutnya, setiap partisi kembali dibagi menjadi dua bagian yang sama 
+besar.
+Proses ini dilakukan secara berulang hingga beberapa tahap. Banyaknya 
+partisi memori yang terbentuk dicatat dalam Tabel 1.2 berikut.
+Tabel 1.2 Banyak Lipatan dan Bagian Sama Besar yang Terbentuk Pada Kertas
+Jumlah tahap partisi
+1 tahap
+2 tahap
+3 tahap
+4 tahap
+Banyak blok memori 
+sama besar
+2 blok
+... blok
+... blok
+... blok
+Selanjutnya, peserta didik mencoba urutan pembagian memori yang berbeda, 
+misalnya dengan membagi sebagian blok terlebih dahulu sebelum blok lain.
+a.	
+Tentukan banyaknya blok memori sama besar yang terbentuk pada setiap 
+tahap.
+b.	
+Apakah jumlah blok memori yang terbentuk selalu sama meskipun urutan 
+pembagiannya berbeda?
+	
+Apakah banyaknya blok memori yang sama besar pada setiap tahap 
+partisi membentuk barisan bilangan?
+	
+Aturan apa yang terdapat pada barisan bilangan tersebut?
+	
+Operasi hitung apa yang ada di antara suku-suku pada barisan 
+bilangan di atas?
+Bab 1 | Barisan dan Deret
+13
+2
+4
+...
+...
+...
+8
+...
+	
+Coba amati dan tuliskan rasio antara dua suku yang berdekatan.
+...
+...
+...
+...
+...
+...
+...
+...
+...
+U
+U
+U
+U
+U
+U
+1
+2
+2
+3
+3
+4
+=
+=
+=
+=
+=
+=
+	
+Apakah rasio antara dua suku yang berdekatan memiliki nilai yang sama?
+Definisi
+Suatu barisan dengan rasio antara dua suku berurutan selalu tetap 
+atau konstan disebut barisan geometri. Rasio pada barisan geometri 
+dilambangkan dengan r.
+Karena nilai r selalu sama, yaitu r = U
+U
+U
+U
+U
+U
+1
+2
+2
+3
+3
+4
+=
+=
+, maka rasio pada 
+barisan geometri dapat dinyatakan
+r = U
+U
+n
+n
+1
+- 
+Contoh
+1.3
+Suku pertama dari suatu barisan geometri adalah 3 dan rasionya adalah 2. 
+Tuliskan lima suku pertama dari barisan tersebut.
+Alternatif penyelesaian:
+Untuk menemukan suku-suku berikutnya, kalikan suku sebelumnya dengan 
+rasio.
+Suku ke-1 (U1)	 = 3
+Suku ke-2 (U2)	 = 3 × 2 = 6
+Suku ke-3 (U3)	 = 6 × 2 = 12
+Suku ke-4 (U4)	 = 12 × 2 = 24
+Suku ke-5 (U5)	 = 24 × 2 = 48
+Jadi, lima suku pertamanya adalah 3, 6, 12, 24, dan 48.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+14
+Ayo, Berkolaborasi
+Perkembangan teknologi digital dan media sosial memberikan kemudahan 
+bagi remaja dalam mengakses dan menyebarkan informasi. Peserta didik 
+SMA, khususnya kelas XII, merupakan kelompok usia yang sangat aktif 
+menggunakan berbagai platform media sosial seperti Instagram, TikTok, 
+WhatsApp, dan X. Namun, tingginya intensitas penggunaan media sosial 
+tersebut juga meningkatkan risiko terpapar informasi hoaks, yaitu informasi 
+yang tidak benar, menyesatkan, atau belum terYerifikasi kebenarannya 
+Berdasarkan hasil diskusi tim literasi digital sekolah, ditemukan bahwa 
+hoaks yang sering diterima oleh remaja SMA antara lain berkaitan dengan 
+isu pendidikan, selebritas, kesehatan, lowongan kerja, hingga isu sosial dan 
+pRlitik +Raks semaFam ini sering menyebar melalui fitur forward, share, 
+atau repost, tanpa terlebih dahulu dilakukan pengecekan kebenaran sumber 
+informasinya. Untuk memahami seberapa cepat hoaks dapat menyebar, tim 
+literasi digital melakukan sebuah simulasi. Pada awal pengamatan, terdapat 
+2 akun media sosial peserta didik yang membagikan sebuah informasi hoaks 
+di dalam grup pertemanan. Setiap 2 jam, setiap akun yang telah membagikan 
+hoaks tersebut memengaruhi 3 akun lain untuk ikut menyebarkan informasi 
+yang sama, baik secara sadar maupun tidak sadar. Pola penyebaran ini 
+diasumsikan berlangsung secara konsisten selama periode pengamatan.
+Untuk menentukan jumlah akun yang terlibat dalam penyebaran hoaks setelah 
+10 jam, kamu harus melengkapi beberapa pernyataan di bawah ini.
+	
+Suku pertama pada permasalahan di atas adalah ….
+	
+Setiap dua jam, akun yang dipengaruhi menjadi 3, maka rasio pada barisan 
+di atas adalah ….
+	
+Dalam 10 jam, terjadi persebaran hoaks sebanyak 10 jam : 2 jam = ... kali
+Maka n = 5.
+	
+U… = ...	
+	
+U1 = 2	
+	
+U2 = 2 × 3	
+(2 dikali 3 sebanyak 1 kali) = 2 × 31
+	
+U3 = 2 × … × …	
+(2 dikali 3 sebanyak ... kali) = 2 × 3…
+	
+U4 = 2 × … × … × …	
+(2 dikali 3 sebanyak ... kali) = 2 × 3…
+	
+U5 = 2 × … × … × … × …	 (2 dikali 3 sebanyak ... kali) = 2 × 3…
+Bab 1 | Barisan dan Deret
+15
+Sehingga didapatkan bahwa,
+U5 = 2 × 3…
+Dengan demikian, rumus umum menentukan suku ke-n pada barisan geometri 
+adalah
+Un = a . rn - 1
+Keterangan:
+Un	 = suku ke-n
+a = suku pertama
+n = urutan suku
+r 
+= rasio
+Contoh
+1.4
+Suku pertama dari suatu barisan geometri adalah 20 dan nilai suku ke-4 adalah 
+540. Tentukan rasio dari barisan tersebut.
+Alternatif penyelesaian:
+Diketahui a = 20 dan U4 = 540.
+Rasio barisan tersebut dapat dihitung seperti berikut.
+U4	
+= 540
+a ࠍ r4 – 1 	= 540
+ ࠍ r3	 = 540 
+     r3	
+= 20
+540
+     r3	
+= 27
+     r	
+= 
+27
+3
+     r	
+= 3
+Jadi, rasio barisan geometri tersebut adalah 3.
+Suku ke-n (Un)
+Urutan Suku
+Rasio (r) 
+Suku pertama (a) 
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+16
+Contoh
+1.5
+Seorang pelari membagi latihannya menjadi 5 interval dengan jarak tempuh 
+membentuk barisan geometri. Jika interval terpendek adalah 16 meter dan 
+interval terpanjang adalah 81 meter, berapa jarak pada interval ketiga yang 
+harus dia tempuh?
+Alternatif penyelesaian:
+Diketahui:
+Interval terpendek: a =16
+Interval terpanjang: U5 = 81
+Ditanyakan:
+U3 = ...?
+Penyelesaian:
+Langkah pertama, tentukan rasio terlebih dahulu.
+U5	
+= 81
+a ࠍ r5 – 1 	= 81
+ ࠍ r4	 = 81 
+       r4	 = 16
+81
+       r	
+= 
+16
+81
+4
+       r	
+= 
+16
+81
+4
+4
+       r	
+= 2
+3
+Selanjutnya, substitusi nilai r = 2
+3 untuk menemukan U3
+ 
+ U3	 =	 a ࠍ r3 – 1
+ 
+ U3 	 	  ࠍ r2
+ 
+ U3 	 	  ࠍ 2
+3
+2
+b
+l  
+ 
+ U3 	 	  ࠍ 4
+9
+ 
+ U3 	 	  ࠍ 
+ 
+ U3 	=	 36
+Jadi, jarak tempuh pada interval yang ketiga adalah 36 meter.
+Bab 1 | Barisan dan Deret
+17
+Ayo, Berpikir Kreatif
+Misal kamu sedang melakukan aktivitas 
+untuk menyelesaikan tugas kokurikuler. 
+Aktivitas tersebut dilaksanakan dengan 
+menjelajahi suatu situs kuil kuno yang 
+memiliki deretan pilar-pilar misterius. 
+Pilar pertama tampak tinggi biasa saja. 
+Namun, pilar kedua terlihat dua kali lebih 
+tinggi dari pilar pertama, pilar ketiga 
+empat kali lebih tinggi dari yang pertama, 
+dan seterusnya. Kamu mulai bertanya-tanya, apakah ada pola tersembunyi 
+di balik tinggi pilar-pilar ini? Tiba-tiba, kamu menemukan gulungan kuno 
+yang bertuliskan bahwa siapa pun yang mampu menebak tinggi pilar ke-10 
+akan menemukan harta karun tersembunyi. Bersama kelompokmu, kamu 
+diminta menyusun catatan pengamatan dan menyimpulkan hubungan 
+antartinggi pilar. Apakah kamu dapat menemukan pola pengali tetap 
+yang digunakan? Apa yang terjadi jika kamu ubah tinggi pilar pertama? 
+Bagaimana jika pola ini diteruskan hingga pilar ke-5 atau ke-8?
+Ayo, Berpikir Kritis
+Seorang siswa menyatakan bahwa pada barisan geometri, rasio yang 
+lebih besar dari satu akan menyebabkan setiap suku bertambah besar, 
+sedangkan rasio antara nol dan satu akan membuat nilai suku semakin 
+mengecil. Tinjau kembali pendapat tersebut dengan mempertimbangkan 
+berbagai kemungkinan nilai awal dan tanda rasio. Sajikan contoh maupun 
+lawan contoh, lalu jelaskan keteraturan perubahan suku secara logis.
+Gambar 1.6 Pilar-Pilar Kuno
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+18
+Latihan
+1.2
+1.	
+Tentukan dua suku berikutnya dari barisan bilangan berikut ini.
+a.	
+27
+1 , 9
+1 , 3
+1 , …, …	
+	
+	
+b.	
+16, 4, 1, …, …	
+	
+	
+	
+c.	
+1, 1, 2, 6, …, …
+d.	
+4, 4, 4, 4, …, …
+2.	
+Lakukan analisis untuk menentukan apakah barisan bilangan pada soal 
+nomor 1 termasuk ke dalam barisan aritmetika atau barisan geometri. 
+Jelaskan dasar penalaran yang digunakan dalam penentuan tersebut. 
+Apabila barisan bilangan tersebut tidak termasuk keduanya, uraikan pola 
+atau aturan yang membentuk barisan tersebut. Selanjutnya, diskusikan 
+hasil analisis bersama anggota kelompok.
+3.	
+Tentukan suku ke-10 dari barisan 108, 36, 12, 4, …
+4.	
+Jika diketahui barisan geometri dengan suku ke-2 = 48 dan suku ke-6 = 3. 
+Tentukan tiga suku pertama dari barisan geometri tersebut.
+5.	
+Rani membagikan sebuah kartu ucapan kepada tiga orang temannya. Pada 
+hari berikutnya, masing-masing penerima kartu tersebut menyampaikan 
+kartu ucapan yang sama kepada tiga orang teman lain yang belum 
+menerimanya. Kegiatan ini berlangsung secara berkelanjutan, dengan 
+setiap penerima kartu meneruskan kartu tersebut kepada tiga individu 
+baru pada hari selanjutnya. Dengan asumsi bahwa setiap orang hanya 
+menerima kartu ucapan satu kali, tentukan banyaknya orang yang 
+menerima kartu ucapan tersebut pada hari keenam.
+6.	
+Seorang petani menanam satu pohon yang setiap tahunnya berkembang 
+menjadi dua pohon baru. Pada tahun pertama, hanya terdapat satu pohon. 
+Namun, pada tahun berikutnya, pohon tersebut akan menghasilkan dua 
+pohon, dan setiap pohon yang ada juga akan menghasilkan dua pohon 
+tambahan setiap tahunnya. Proses ini berulang setiap tahun, di mana 
+setiap pohon menggandakan jumlah pohon yang ada. Jika pohon pertama 
+kali ditanam pada tahun pertama, berapa jumlah pohon yang akan 
+ditemukan pada akhir tahun ke-15?
+Bab 1 | Barisan dan Deret
+19
+B.	 Deret  
+Ayo, Bereksplorasi
+∑
+Ibu Wiji berencana membeli rumah untuk kebutuhan keluarganya. Rencana 
+tersebut diawali dengan berinvestasi Rp10.000.000,00 di suatu bank dengan 
+persentase pertumbuhan setiap tahun meningkat. Pertambahannya sebesar 
+12% setiap tahun dari tahun sebelumnya. Ibu Wiji saat ini memiliki anak 
+berusia 3 tahun.  Beliau akan merealisasikan pembelian rumah saat anaknya 
+berusia 13 tahun. Bantulah Bu Wiji untuk mengamati perkembangan 
+investasinya dengan memperhatikan beberapa pertanyaan berikut.
+a.	
+Tuliskan nilai investasi yang dilakukan Bu Wiji untuk 5 tahun pertama.
+b.	
+Berapa total nilai investasi Bu Wiji setelah 10 tahun?
+F	
+0enurutmu, apa yang terMadi pada grafik deret geometri? Gambarkan 
+perkiraan grafik inYestasi %u :iMi pada kertas berpetak grafik
+Aktivitas ini dapat diselesaikan dengan menggunakan konsep deret aritmetika 
+dan geometri.
+Coba diskusikan dengan teman sebangkumu terkait kegiatan eksplorasi di atas.
+1.	
+Tuliskan investasi Bu Wiji untuk 5 tahun pertama.
+2.	
+Jika kalian termotivasi untuk memulai investasi dari Bu Wiji. Kalian 
+memulai investasi dengan Rp1.000.000,00 yang mendapatkan pertambahan 
+nilai investasi sebesar Rp200.000,00 setiap tahun dari tahun sebelumnya.
+a.	
+Tuliskan nilai investasi kalian untuk 3 tahun pertama.
+b.	
+Jika kalian mulai berinvestasi sejak menjadi siswa baru, berapa total 
+investasi kalian sampai lulus SMA?
+3.	
+Coba bandingkan hasil temuan kalian terkait peningkatan nilai investasi 
+dari Bu Wiji dengan nilai investasi kalian.  
+Berdasarkan 
+aktivitas 
+sebelumnya, 
+dapat 
+diketahui 
+bahwa 
+bentuk 
+penjumlahan dari barisan bilangan akan membentuk deret bilangan. Dengan 
+demikian, deret bilangan adalah jumlah suku-suku penyusun barisan 
+bilangan. Deret bilangan terdiri dari deret aritmetika dan deret geometri.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+20
+1. 	 Deret Aritmetika
+Tahukah Kalian
+Carl Friedrich Gauss (1777–1855) lahir pada 30 April 1777 di Braunschweig. 
+Dia adalah seorang matematikawan Jerman yang telah menunjukkan 
+bakatnya sejak kecil. Ketika duduk di kelas 4 SD, guru matematikanya 
+memberikan soal berupa penjumlahan bilangan dari 1 sampai 100 berikut 
+untuk mengisi waktu luang.
+1 + 2 + 3 + 4 + ... + 97 + 98 + 99 + 100 = ...
+Tidak membutuhkan waktu yang lama, Gauss yang 
+saat itu masih berusia 10 tahun langsung menjawab 
+“5.050”. Ia menggunakan rumus deret aritmatika 
+yang kini dikenal sebagai "Rumus Gauss". Gurunya 
+terkejut dan menyadari bahwa Gauss adalah anak 
+jenius.
+Berikut cara Gauss menyelesaikan penjumlahan 
+bilangan tersebut. 
+1 + 2 + 3 + 4 + ... + 97 + 98 + 99 + 100
+101
+101
+101
+101
+ 
+Gauss mengelompokkan suku-suku pada deret tersebut sehingga memiliki 
+nilai yang sama ketika dijumlahkan.
+Gambar 1.7 Carl Friedrich 
+Gauss
+Bab 1 | Barisan dan Deret
+21
+1 + 2 + 3 + 4 + ... + 97 + 98 + 99 + 100	=	(1 + 100) + (2 + 99) + ... + (50 + 51)
+	
+=	101 + 101 + ... + 101
+	
+	   
+50 kali
+	
+=	50 × 101
+	
+=	5.050
+Sekarang coba cermati kembali deret bilangan berikut
+1 + 2 + 3 + 4 + ... + 97 + 98 + 99 + 100 = ...
+ 
+Apakah bilangan pada deret di atas membentuk barisan?
+ 
+Barisan apakah yang dibentuk dari suku-suku pada deret di atas?
+Ayo, Bereksplorasi
+∑
+Deret aritmetika adalah suatu deret yang diperoleh dari menjumlahkan suku-
+suku pada barisan aritmetika.
+Jika diketahui suatu barisan aritmetika U1, U2, U3, U4, …, U10
+dapat dibentuk deret aritmetika: U1 + U2 + U3 + ... + U10.
+Sehingga, didapatkan pola berikut.
+U1	 = a
+U2	 = a + b
+U3	 = a + 2b
+⋮	
+U8	 = a + 7b
+U9	 = a + 8b
+U10	 = a + 9b
+Ayo menganalisis rumus untuk menemukan 4 suku pertama (S6) dan 10 suku 
+pertama (S10).
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+22
+ 
+Jumlah empat suku pertama deret aritmetika (S6).
+	
+	
+S6	 = U1 + U2 + U3 + U4 + U5 + U6
+	
+	
+	
+= a + (a + b) + (a + 2b) + (a + 3b) + (a + 4b) + (a + 5b) 
+	
+	
+	
+= 6a + 15b
+	
+	
+	
+= 3(2a + 5b)
+	
+	
+S6	 = 2
+6 (2a + (4 - 1))b
+ 
+Jumlah sepuluh suku pertama deret aritmetika (S10).
+	
+	
+S10	= U1 + U2 + U3 + U4 + ... + U8 + U9 + U10
+	
+	
+	
+= a + (a + b) + (a + 2b) + (a + 3b) + ... + (a + 7b) + (a + 8b) + (a + 9b)
+	
+	
+	
+= 10a + 45b
+	
+	
+	
+= 5(2a + 9b)
+	
+	
+S10	= 2
+10 (2a + (10 - 1))b
+Didapatkan jumlah 6 suku pertama deret aritmetika, yaitu S6 = 2
+6 (2a + (4 - 1))b, 
+dan jumlah 10 suku pertama deret aritmetika, yaitu S10 = 2
+10 (2a + (10 - 1))b.
+Dari kedua temuan di atas, dapat disimpulkan bahwa rumus jumlah n suku 
+pertama suatu deret aritmetika:
+	
+Sn = U1 + U2 + U3  + U4 + ... + Un
+	
+	
+= a + (a + b) + (a + 2b) + ... + (a + (n - 1)b ..................... (1)
+Sn dapat ditulis juga menjadi
+ 
+Sn = Un + Un - 1 + ...+ U2 + U1
+	
+	
+= (a + (n -1)b) + (a + (n - 2)b) + ... + (a + 2b) + a .......................(2)
+Jika persamaan (1) dan (2) dijumlahkan, maka diperoleh
+	
+Sn	 	 =              a 	 	
++       (a + b) 	
++ ... + (a + (n - 1)b 
+	
+Sn	 	 = (a + (n - 1)b)	+ (a + (n - 2)b)	+ ... +           a                   
+	
+2Sn	 = 2a + (n - 1)b	 +  2a + (n - 1)b	+ ... + 2a + (n - 1)b   
+	
+2Sn	 = n × [2a + (n - 1)b]
+	
+2Sn	 = n × [a + a + (n - 1)b]
+	
+2Sn	 = n × (a + Un)
+	
+Sn	 	 = n
+2 (a + Un)
+Bab 1 | Barisan dan Deret
+23
+Rumus Deret Aritmetika 	
+Rumus untuk menghitung jumlah suku-suku deret aritmetika adalah 
+Sn = n
+2 (a + Un) atau Sn = n
+2 (2a + (n - 1)b)  
+Keterangan:
+Sn = jumlah deret sebanyak n pada suku pertama
+a	 = suku pertama
+b	 = beda
+n	 = urutan suku
+Ayo, Berpikir Kritis
+Setelah melakukan eksplorasi, amati pola deret aritmetika yang terbentuk 
+dari jarak antar anak tangga pada sebuah gedung, misalnya 2 m, 4 m, 6 m, 
+hingga tangga ke-20. Tanpa menghitung satu per satu, buat prediksi mengenai 
+total jarak dari tangga pertama hingga tangga terakhir. Bandingkan prediksi 
+tersebut dengan pengukuran langsung atau simulasi. Jelaskan secara logis 
+dan matematis mengapa pola deret dapat digunakan untuk memperkirakan 
+total jarak, serta analisis bagaimana variasi tinggi tangga pertama atau jarak 
+antar tangga memengaruhi hasil perhitungan.
+Ayo, Menggunakan Teknologi
+Buka tautan atau scan QR code yang tersedia.
+1.	
+Pahami petunjuk yang ada pada lembar kerja.
+2.	
+Tuliskan beberapa pola bilangan pada tempat yang 
+disediakan, analisislah pola bilangan tersebut.
+3.	
+Amati dan diskusikan temuanmu.	
+https://bukupusbuk.
+id/s/mtk12geogebra1
+Pindai
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+24
+Contoh
+1.6
+Suatu deret aritmetika memiliki pola 9 + 12 + 15 + .... 
+Berapa jumlah 26 suku pertama deret tersebut?
+Alternatif penyelesaian:
+Diketahui deret bilangan memiliki a = 9, b = 3, dan n = 26.
+Jumlah 26 suku pertama deret dihitung sebagai berikut.
+Sn	 = n
+2 (2a + (n - 1)b)
+S26	 = 2
+26 [2 × 9 + (26 - 1)3]
+		
+=  2
+26 [18 + 25 × 3]
+		
+= 13(18 + 75)
+		
+= 13(93)
+		
+= 1.209
+Jadi, jumlah 26 suku pertama deret aritmetika di atas adalah 1.209.
+Latihan
+1.3
+1.	
+Suatu deret aritmetika memiliki suku pertama 3 dan beda 4. Tentukan 
+suku ke-10 dan jumlah 10 suku pertama.
+2.	
+Seorang petani menata buah jeruk dalam tumpukan berbentuk segitiga. 
+Tumpukan paling bawah berisi 50 jeruk, di atasnya 47 jeruk, kemudian 
+44 jeruk, dan seterusnya hingga tumpukan terakhir hanya berisi 2 jeruk. 
+Hitunglah total jeruk yang ditumpuk.
+3.	
+Diberikan deret aritmetika dengan S10 = 120 dan S20 = 440. Seorang siswa 
+menyimpulkan bahwa suku pertama (a) adalah 4 dan beda (b) adalah 2. 
+Apakah kesimpulan siswa tersebut benar? Jelaskan.
+4.	
+Tiga bilangan membentuk deret aritmetika. Jika jumlah mereka 24 dan 
+hasil kalinya 440, tentukan ketiga bilangan tersebut.
+5.	
+Jika Un menyatakan suku ke-n suatu barisan aritmetika dan diketahui 
+U6 - U8 + U10 - U12 + U14 = 20, berapa jumlah 19 suku pertama barisan 
+tersebut?
+Bab 1 | Barisan dan Deret
+25
+2. 	 Deret Geometri
+Ayo, Bereksplorasi
+∑
+Di suatu kawasan permukiman padat, terjadi peningkatan banyak rumah 
+tangga yang membuang sampah sembarangan ke sungai dari bulan ke bulan. 
+Data dari lembaga lingkungan menunjukkan bahwa perilaku ini tidak hanya 
+meningkat, tetapi juga mengikuti pola yang teratur dan mengkhawatirkan. 
+Dimulai dari hanya beberapa rumah tangga pada bulan pertama, banyaknya 
+melonjak tajam dalam lima bulan terakhir. Coba kamu hitung dampak 
+pola pertumbuhan kasus lingkungan ini. Selain itu, renungkan dampaknya 
+terhadap kesehatan masyarakat dan keseimbangan ekosistem. Berikut data 
+yang dihimpun dari lembaga lingkungan tersebut.
+Tabel 1.3 Banyak Rumah Tangga yang Membuang Sampah dalam 5 Bulan
+Bulan
+Agustus 
+2024
+September 
+2024
+Oktober 
+2024
+November  
+2024
+Desember 
+2024
+Jumlah Rumah 
+Tangga
+2
+6
+18
+54
+162
+Analisislah permasalahan tersebut dengan menjawab beberapa pertanyaan 
+berikut.
+a.	
+Apakah banyak rumah tangga yang membuang sampah tersebut 
+membentuk suatu barisan bilangan?
+b.	
+Berapa beda atau rasio dari barisan tersebut?
+c.	
+Berapa banyak suku barisan tersebut?
+d.	
+Bagaimana kamu menemukan jumlah seluruh rumah tangga yang 
+membuang sampah pada bulan September-November?
+Ayo, Berkolaborasi
+Diskusikan dengan teman sebangkumu mengenai jumlah suku-suku deret 
+geometri dengan melengkapi Tabel 1.4 berikut ini.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+26
+Tabel 1.4 Proses Menganalisis Rumus Jumlah Deret Geometri
+1
+2
+3
+S2 : Jumlah rumah 
+tangga dua bulan 
+pertama
+S2 = 2 + 6 = ...
+S2 = 
+...
+3
+1
+18
+2
+2
+16
+-
+-
+=
+=
+S2 = 
+r
+U
+U
+1
+3
+1
+-
+-
+S3 : Jumlah rumah 
+tangga tiga bulan 
+pertama
+S3 = 2 + ... + ... = ...
+S3 = ...
+...
+...
+...
+3
+1
+2
+-
+-
+=
+=
+S3 = 
+r
+U
+U
+1
+...
+1
+-
+-
+S4 : Jumlah rumah 
+tangga empat 
+bulan pertama
+S4 = ... + ... + ... + ... = ....
+S4 = ...
+...
+...
+...
+...
+...
+...
+-
+-
+=
+=
+S4 = 
+r
+U
+U
+1
+...
+1
+-
+-
+Berdasarkan kolom ke-3 diperoleh:
+Sn = 
+r
+U
+U
+1
+n
+1
+1
+-
+-
++
+	
+	
+= 
+r
+ar
+a
+1
+n
+1
+1
+-
+-
++
+-
+^
+h
+	
+	
+= r
+ar
+a
+1
+n
+-
+-
+	
+Sn = 
+r
+a r
+1
+1
+n
+-
+-
+^
+h 	
+Rumus Deret Geometri 	
+Rumus untuk menghitung jumlah suku-suku deret geometri adalah
+S
+r
+a r
+1
+1
+n
+n
+=
+-
+-
+^
+h atau S
+a
+r
+r
+1
+1
+n
+n
+=
+-
+-
+ dengan r ≠ 1
+Keterangan:
+Sn = jumlah n suku pertama deret	
+r 	= rasio
+a = suku pertama	
+n = banyaknya suku
+Contoh
+1.7
+Jumlah penonton sebuah pertunjukan teater mengalami peningkatan setiap 
+minggu dengan pola barisan geometri. Penonton pada minggu pertama 
+tercatat sebanyak 80 orang, sedangkan total jumlah penonton selama empat 
+minggu awal mencapai 1.340 orang. Tentukan rasio pertumbuhan jumlah 
+penonton setiap minggu serta hitung jumlah penonton pada minggu keempat.
+Bab 1 | Barisan dan Deret
+27
+Alternatif penyelesaian:
+Diketahui:
+Barisan geometri, suku pertama a1 = 80
+Jumlah 4 suku pertama S4 = 1.340
+Ditanyakan: 
+Rasio (r)
+Suku ke-4 (a4)
+Langkah pertama:
+Jumlah suku pertama barisan geometri:
+Sn = a
+r
+r
+1
+1
+n
+1 =
+-
+-
+Untuk 4 suku: 1.340 = r
+r
+1
+1
+4
+-
+-
+Langkah kedua:
+Bagi kedua sisi dengan 80, yaitu r
+r
+1
+1
+4
+-
+-
+= 16,75
+Langkah ketiga:
+Faktorkan (r4 – 1) = (r – 1) (r3 + r2 + r + 1), sehingga:
+r3 + r2 + r + 1 = 16,75 r3 + r2 + r – 15,75 = 0 
+Langkah keempat:
+Dengan pendekatan, coba r = 2:
+23 + 22 + 2 = 8 + 4 + 2 = 14 (lebih kecil) 
+Coba r = 2,1:
+2,13 + 2,12 + 2,1 = 9,261 + 4,41 + 2,1 = , ȯ ,  
+Sehingga, rasio pertumbuhannya r ȯ ,
+Langkah kelima:
+Hitung jumlah penonton minggu ke-4:
+a4 = a1 × r3 = 80 × (2,1)3 ȯ  × 9,261 = , ȯ  Rrang 
+-adi, rasiR pertumbuhan tiap minggu rȯ, dan Mumlah penRntRn minggu 
+keempat a4 ȯ  Rrang
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+28
+3. 	 Deret Geometri Tak Hingga
+Deret geometri tak hingga (infinite JeRPetUic seUies) adalah deret geometri 
+yang jumlah sukunya tidak terbatas. Hal ini berarti, kamu menjumlahkan 
+suku-suku suatu barisan geometri dan menghasilkan hasil tanpa henti. 
+Ayo, Bereksplorasi dan Menggunakan Teknologi
+∑
+Petunjuk
+1.	
+Pindai kode respons cepat atau akses tautan yang telah 
+disediakan.
+2.	
+Amati dan pelajari aktivitas yang ada pada tautan 
+Geogebra tersebut.
+3.	
+Kamu dapat melakukan eksplorasi dengan menjawab 
+pertanyaan 
+maupun 
+menemukan 
+solusi 
+dari 
+permasalahaan yang diberikan.
+Setelah mempelajari aktivitas tersebut, coba analisis bersama dengan teman 
+sebangkumu mengenai informasi penting yang kamu temukan.
+Ayo, Berpikir Kreatif
+Dapatkah kamu membuat pola pembagian serupa tetapi dengan rasio 
+selain 2
+1 ? Misalnya 3
+1 ? Apa yang akan terjadi dengan jumlah totalnya?
+Contoh
+1.8
+Suatu bola tenis dijatuhkan ke lantai dari ketinggian 5 meter. Setiap kali 
+bola memantul, bola mencapai ketinggian 5
+3 dari ketinggian yang dicapai 
+sebelumnya. Tentukan panjang lintasan yang terjadi sampai bola berhenti.
+Alternatif penyelesaian:
+Diketahui barisan lintasan yang dilalui bola seperti berikut.
+Lintasan 1 : 5 meter
+https://bukupusbuk.
+id/s/mtk12geogebra2
+Pindai
+Bab 1 | Barisan dan Deret
+29
+Lintasan 2 : 5
+3 × 5 = 3 meter (pantulan 1)
+Lintasan 3 : 5
+3 × 3 = 1,8 meter (pantulan 2)
+dan seterusnya.
+Panjang lintasan dihitung menggunakan rumus geometri tak hingga berikut.
+S
+r
+a
+1
+=
+-
+3
+^
+h
+Berdasar soal, diketahui a = 3 (tinggi pantulan pertama) dan r = 5
+3 .
+Karena bola tenis memantul 2 kali saat jatuh, maka panjang lintasan untuk 
+pantulan adalah
+2S∞	 = 2
+1
+5
+3
+3
+#
+-
+b
+l
+	
+= 2
+5
+5
+5
+3
+3
+#
+-
+b
+l
+	
+= 2
+5
+2
+3
+#
+	
+= 2 × 3 × 2
+5
+	
+= 15
+Ditemukan bahwa panjang lintasan untuk pantulan adalah 15 meter. Jadi, 
+total panjang lintasan seluruhnya adalah 5 + 15 = 20 meter.
+Latihan
+1.4
+1.	
+Suatu deret geometri memiliki suku pertama a = 5 dan rasio r = 2. Hitunglah 
+jumlah 6 suku pertama deret tersebut.
+2.	
+Suku ke-4 suatu deret geometri adalah 108 dan suku ke-6 adalah 972. 
+Tentukan suku pertama (a) dan rasio (r) deret tersebut.
+3.	
+Suatu bola dijatuhkan dari ketinggian 10 meter. Setiap pantulan mencapai 
+3
+2 dari tinggi sebelumnya. Hitung total seluruh jarak yang ditempuh oleh 
+bola tersebut hingga berhenti.
+4.	
+Galang berpendapat bahwa deret 3 + 6 + 12 + 24 + ... dengan r = 2 memiliki 
+jumlah tak hingga S∞ = -3. Apakah pendapat Galang benar? Jelaskan.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+30
+5.	
+Diberikan dua deret geometri. Deret A dengan a = 2, r = 3, dan n = 4, 
+sedangkan deret B dengan a = 6, r = 2 dan n = 3. Manakah deret yang 
+memiliki jumlah suku lebih besar? Buktikan.
+C.	 Bunga Tunggal  
+Konsep simpan dan pinjam di suatu bank akan memunculkan bunga. Ketika 
+kamu melakukan simpanan atau menabung, maka akan mendapatkan bunga. 
+Begitu juga, saat kamu melakukan pinjaman, juga akan mendapatkan bunga. 
+Menurut Otoritas Jasa Keuangan, bunga simpanan adalah balas jasa dari bank 
+kepada nasabah atas jasa nasabah menyimpan uangnya di bank. Sementara 
+itu, bunga pinjaman adalah balas jasa yang ditetapkan bank kepada peminjam 
+atas pinjaman yang didapatkannya. Ada dua jenis bunga, yaitu bunga tunggal 
+dan bunga majemuk.
+Ayo, Bereksplorasi
+∑
+Angga adalah seorang siswa SMA yang rajin dan memiliki semangat menabung. 
+Setelah menerima hadiah ulang tahun berupa uang tunai sebesar Rp1.000.000,00 
+dari orang tuanya, ia memutuskan untuk tidak menghabiskannya begitu saja. Ia 
+pergi ke bank dan membuka rekening tabungan khusus pelajar. Petugas bank 
+menjelaskan bahwa tabungannya akan mendapatkan bunga tetap sebesar 5% 
+setiap tahun dari saldo awal. Bunga tersebut akan langsung ditambahkan ke 
+saldo tabungannya setiap akhir tahun.
+Angga pun mulai menghitung, jika ia tidak menarik uang itu selama beberapa 
+tahun, berapa perkiraan total uang yang akan terkumpul? Ia berpikir, “Kalau 
+setiap tahun bertambah 5% dari saldo awal, maka tahun depan tabungannya 
+lebih banyak dari sekarang, dan tahun berikutnya akan lebih banyak lagi 
+karena bunganya terus bertambah setiap tahun.”
+Rasa ingin tahu itu mendorong Angga untuk menghitung dan memahami 
+bagaimana uangnya tumbuh dari waktu ke waktu. Ia kemudian belajar 
+bahwa ini merupakan contoh pertumbuhan berdasarkan barisan dan deret 
+aritmetika, karena bunga bertambah secara berkala dan bergantung pada 
+jumlah sebelumnya.
+Bantulah Angga dalam membuat perhitungan nilai pertambahan tabungannya 
+setiap tahun dengan melengkapi Tabel 1.5 berikut ini.
+Bab 1 | Barisan dan Deret
+31
+Tabel 1.5 Perhitungan Nilai Tabungan Angga
+Tahun
+Bunga
+Nilai Uang
+1
+5% × 1.000.000 = 50.000
+1.000.000 + 50.000 = 1.050.000
+2
+5% × 1.000.000 = ....         
+1.050.000 + 50.000 = ...                
+3
+…
+…
+4
+…
+…
+5
+…
+…
+Perhatikan pada kolom nilai uang. Barisan jenis apakah yang dibentuk oleh 
+nilai uang yang disimpan dengan bunga tunggal?
+Barisan yang terbentuk yaitu barisan ....
+dengan U1 = ...
+dan b = ...
+Jadi, dapat ditentukan bentuk umum untuk nilai uang yang telah disimpan 
+dalam n tahun. 
+Un = ...
+Total nilai uang yang disimpan di bank dengan bunga tunggal akan membentuk 
+deret ....
+Dengan demikian, secara matematis bunga tunggal disimbolkan (B) 
+dengan rumus
+B = M × p% × n
+Keterangan:	 	
+	
+	
+B	 = bunga tunggal	
+p%	 = persentase bunga	
+M	 = modal awal/simpanan awal	
+n	
+= periode/tahun
+Contoh
+1.9
+Zaka memulai bisnis kecil-kecilan ikan cupang hias dan memperoleh 
+keuntungan pertama sebesar Rp2.000.000,00. Uang tersebut ia simpan di 
+koperasi desa yang memberikan bunga tunggal sebesar 5% per tahun. Bunga 
+diberikan sekali setahun dan langsung ditambahkan ke total simpanan 
+sebelumnya. Berapa total uang yang didapatkan Zaka selama 4 tahun?
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+32
+Alternatif penyelesaian:
+Diketahui beberapa hal berikut.
+Simpanan pertama (M) = Rp2.000.000,00
+Persentase bunga (p%) = 5%
+Terlebih dahulu ditentukan besar bunga yang didapatkan selama 4 tahun, 
+yaitu
+B	 = M × p% × n
+	
+= 2.000.000 × 0,05 × 4
+B	 = 400.000
+Dengan demikian, 
+Total	= M + B
+	
+= 2.000.000 + 400.000
+	
+= 2.400.000
+Total uang yang didapatkan Zaka selama 4 tahun sebesar Rp2.400.000,00.
+Ayo, Bereﬂeksi 
+Berikan centang (3) pada kolom yang menurutmu sesuai dengan pemahamanmu 
+setelah mempelajari materi barisan dan deret.
+Peryataan Asesmen Diri
+Sudah Memahami
+Belum Memahami
+Membedakan barisan aritmetika dengan 
+barisan geometri.
+Menentukan suku ke-n dari suatu barisan 
+aritmetika.
+Menentukan suku-n dari suatu barisan 
+geometri.
+Menentukan jumlah n suku pertama dari 
+suatu barisan aritmetika.
+Menentukan jumlah n suku pertama dari 
+suatu barisan geometri.
+Membedakan bunga tunggal.
+Menghitung bunga tunggal.
+Bab 1 | Barisan dan Deret
+33
+Uji Kompetensi Bab 1 	
+1.	
+Suatu barisan aritmetika 4, 1, –2, –5, …. Suku ke-10 dari barisan tersebut 
+adalah ....
+2.	
+Suku ke-n dari suatu barisan bilangan dirumuskan Un = 15 - 3n. Suku 
+ke-15 dari barisan bilangan tersebut adalah ....
+3.	
+Tempat duduk di suatu gedung diatur mulai dari barisan depan ke 
+belakang dengan banyak baris di belakang 3 kursi lebih banyak dari baris 
+di depannya. Jika dalam gedung tersebut terdapat 12 baris kursi dan baris 
+terdepan ada 8 kursi, jumlah seluruh kursi dalam gedung tersebut ada ....
+4.	
+Seorang petani jeruk mencatat hasil panennya selama 11 hari pertama. 
+Setiap harinya, hasil panen mengalami kenaikan tetap dimulai hari 
+pertama, kedua, ketiga berturut-turut 15 kg, 17 kg, 19 kg, dan seterusnya. 
+Jumlah hasil panen selama 11 hari pertama adalah ....
+5.	
+Diketahui deret bilangan 10 + 11 + 12 + 13 + ... + 99. Dari deret bilangan 
+tersebut, jumlah bilangan yang habis dibagi dua tetapi tidak habis dibagi 
+lima adalah ....
+6.	
+Raka mengikuti program Youth Creative Entrepreneur di sekolahnya. 
+Untuk membeli peralatan produksi awal, ia memperoleh dana talangan 
+usaha sebesar Rp2.500.000,00 dari koperasi pemuda. Koperasi tersebut 
+menerapkan bunga sederhana sebesar 4% per tahun dan memberikan 
+keringanan berupa angsuran bulanan tetap selama 2 tahun agar para 
+peserta tidak terbebani 6ebagai bentuk tanggung MaZab finansial, Raka 
+perlu menghitung besar cicilan bulanan yang harus ia bayarkan agar 
+pinjaman tersebut lunas sesuai perjanjian. Berapakah cicilan yang harus 
+dibayarkan Raka setiap bulan?
+7.	
+SMA Abisatya mempersiapkan pameran seni tahunan, panitia menyiapkan 
+sebuah instalasi seni cahaya yang akan dipasang di aula sekolah. Instalasi 
+tersebut menggunakan lima batang pipa logam sebagai rangka utama, 
+dengan panjang pipa yang dibuat berbeda-beda agar tampilan visual 
+terlihat proporsional dan menarik. Untuk mencapai desain tersebut, 
+panjang kelima pipa disusun mengikuti pola pertumbuhan beraturan 
+sehingga membentuk barisan geometri dari pipa yang paling pendek 
+hingga yang paling panjang. Diketahui bahwa pipa terpendek memiliki 
+panjang 4 cm, sedangkan pipa terpanjang memiliki panjang 324 cm. Seluruh 
+pipa tersebut berasal dari satu batang pipa logam utuh yang kemudian 
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+34
+dipotong menjadi lima bagian sesuai rancangan. Berdasarkan informasi 
+tersebut, tentukan panjang batang pipa semula sebelum dipotong.
+8.	
+Sebuah gedung konvensi pemuda akan digunakan untuk menyelenggarakan 
+acara Student Leadership Summit. Panitia menyusun tempat duduk 
+peserta dalam barisan bertingkat, di mana setiap baris di bagian belakang 
+memiliki 2 kursi lebih banyak dibandingkan baris di depannya agar 
+seluruh peserta dapat melihat panggung dengan jelas. Berdasarkan 
+rancangan denah tempat duduk, diketahui bahwa perbandingan jumlah 
+kursi pada baris ke-5 dan baris ke-13 adalah 1 : 2, serta baris terakhir 
+merupakan baris dengan jumlah kursi terbanyak, yaitu 50 kursi. Untuk 
+keperluan persiapan logistik, panitia perlu menentukan jumlah seluruh 
+kursi yang tersedia di gedung tersebut. Berdasarkan informasi tersebut, 
+tentukan total kursi pada ruang pertemuan itu.
+	
+.enaikan harga barangbarang disebut inflasi %erdasarkan analisis, 
+ekRnRmi ,ndRnesia akan mengalami inflasi sebesar  per tahun selama  
+tahun mendatang. Apabila harga emas sekarang ini adalah Rp2.000.000,00 
+per gram, tentukan harga emas tersebut empat tahun kemudian.
+10.	 Bakteri membelah menjadi 2 bagian setiap 4 jam. Jika pada pukul 12.00 
+banyaknya bakteri 1.000 unit, berapa banyaknya bakteri pada pukul 20.00 
+untuk hari yang sama?
+Refleksi 	
+Setelah mempelajari bab ini, berikan tanggapan atas beberapa pertanyaan di 
+bawah ini.
+1.	
+Strategi apa yang kamu gunakan untuk memahami materi barisan dan 
+deret?
+2.	
+Apakah strategi tersebut telah membantu kamu belajar lebih mudah?
+3.	
+Menurutmu, bagian mana dari materi barisan dan deret paling mudah? 
+Selain itu, bagian mana yang masih sulit kamu pahami?
+4.	
+Menurutmu, apa manfaat mempelajari barisan dan deret untuk 
+kehidupanmu di masa depan?

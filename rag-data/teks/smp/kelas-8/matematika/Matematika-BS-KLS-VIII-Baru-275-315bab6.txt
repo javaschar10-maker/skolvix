@@ -1,0 +1,2197 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VIII
+Penulis: Mohammad Tohir, dkk. 
+ISBN: 978-602-427-919-6 (Jil.2)
+Bab 6
+STATISTIKA
+Mengapa diperlukan pemusatan 
+dan penyebaran dari suatu data?
+Matematika untuk SMP/MTs Kelas VIII
+256
+Pengantar Bab
+Gambar 6.1 Neraca Perdagangan Indonedia Tahun 2021 dan 2022
+Sumber: httpssatudata.kemendag.go.id
+Statistika banyak digunakan dalam kehidupan sehari-hari, misalnya 
+dalam bidang ekonomi, perindustrian, keuangan, kesehatan, perda-
+gangan,  dan bidang lainnya. Dalam bidang perdagangan, data tentang 
+ekspor, impor, dan neraca  akan lebih mudah terbaca jika disajikan 
+dalam bentuk tabel dan diagram. Setelah kalian mempelajari penyajian 
+data dalam berbagai diagram. Pada bab ini, kalian akan mempelajari 
+pengukuran data yang meliputi ukuran pemusatan dan ukuran penye-
+baran dari suatu data.
+0.0
+0.0
+MEI
+2021
+JUN
+2021
+JUL
+2021
+AGU
+2021
+EKSPOR
+IMPOR
+NERACA(RHS)
+SEP
+2021
+OKT
+2021
+NOV
+2021
+DES
+2021
+JAN
+2022
+FEB
+2022
+MAR
+2022
+APR
+2022
+MEI
+2022
+13.0
+18.0
+23.0
+28.0
+33.0
+NILAI MILIAR US$
+NILAI MILIAR US$
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+NERACA PERDAGANGAN INDONEDIA
+TAHUN 2021 DAN 2022
+Bab 6 | Statistika
+257
+Tujuan Pembelajaran
+Setelah mempelajari Bab ini diharapkan kalian dapat:
+ 
+√Menentukan ukuran pemusatan data (modus, median, dan rata-
+rata)
+ 
+√Menentukan ukuran penyebaran data (jangkauan, kuartil,  dan 
+simpangan kuartil)
+ 
+√Menyelesaikan masalah sehari-hari yang berkaitan dengan ukuran 
+pemusatan
+ 
+√Menyelesaikan masalah sehari-hari yang berkaitan dengan ukuran 
+penyebaran
+Pertanyaan Pemantik
+ 
+■
+Bagaimana menentukan modus dari suatu data  
+ 
+■
+Bagaimana menentukan median dari suatu data  
+ 
+■
+Bagaimana menentukan rata-rata dari suatu data  
+ 
+■
+Bagaimana menentukan jangkauan dari suatu data  
+ 
+■
+Bagaimana menentukan kuartil dan simpangan kuartil  dari suatu 
+data
+Kata Kunci
+ 
+■
+Modus
+ 
+■
+Median
+ 
+■
+Rata-rata
+ 
+■
+Jangkauan
+ 
+■
+Kuartil
+Matematika untuk SMP/MTs Kelas VIII
+258
+Peta Konsep
+STATISTIKA
+Pengukuran
+Data
+Modus
+Median
+Rata
+Rata
+Penyebaran
+Data
+Pemusatan
+Data
+Kuartil
+Simpangan
+Kuartil
+Jangkauan
+Bab 6 | Statistika
+259
+A. Pemusatan Data
+Ketika di kelas VII kalian   pernah mempelajari tentang penyajian 
+data dalam diagram garis, diagram batang, dan diagram lingkaran. 
+Pada bab ini kalian akan mempelajari pengukuran data. Data yang 
+disajikan dalam berbagai bentuk penyajian data, perlu dihitung dan 
+diinterpretasikan terhadap ukuran tertentu, yaitu pemusatan dan 
+penyebaran data. Dengan pemusatan data, kalian  dapat melihat 
+letak dari suatu data, bagaimana dan di mana data tersebut akan 
+mengelompok  jika data tersebut diletakkan pada satu garis bilangan. 
+Pengukuran data meliputi Modus, Median, dan Rata-rata. 
+Penyajian data dalam bentuk diagram akan mempermudah dalam 
+membaca data dari pada data disajikan dalam bentuk tabel. Selanjutnya 
+kalian akan memahami modus, median, dan  rata-rata dari suatu data 
+dalam bentuk diagram.
+Gambar 6.2 Temuan kasus positif Covid-19 bulanan
+Sumber https://covid19.go.id
+1. Modus
+Untuk memahami modus dari suatu data, coba perhatikan data kasus 
+Positif Covid-19 di salah satu Provinsi di Indonesia pada gambar 6.2. 
+Dalam graik tersebut dipaparkan data kasus Covid-19 di salah satu 
+Provinsi di Indonesia mulai bulan Maret 2020 sampai April 2022. Dari 
+tabel tersebut terlihat jelas bahwa data terendah pada bulan Maret 
+2020 dan data tertinggi pada bulan Juli 2021 sebesar 9.651 kasus.
+1
+29
+98
+98
+42
+64
+26
+17
+6
+106
+335
+969
+878
+642
+256
+273
+286
+1.251 1.218
+1.103
+1.988
+4.342
+9.651
+2.258
+3.731
+1.292
+Kasus Baru
+Mar
+Apr
+Mei
+Jun
+Jul
+Agu
+Sep
+Okt
+Nov
+Des
+Apr
+Mei
+Jun
+Jul
+Agu
+Sep
+Okt
+Nov
+Des
+Jan
+Feb
+Mar
+Apr
+Jan
+Feb
+Mar
+TEMUAN KASUS POSITIF COVID-19 BULANAN
+Matematika untuk SMP/MTs Kelas VIII
+260
+Agar kalian lebih memahami modus, coba diskusikan dengan teman 
+kalian untuk melengkapi tabel berikut.
+Data
+Data yang paling 
+sering muncul 
+Modus
+Nilai ulangan matematika siswa 
+kelas 8 adalah 
+74, 58, 69, 74, 86, 82, 90, 74, 86, 97, 
+90, 86
+…..
+…..
+Tinggi badan siswa siswa kelas 8 
+adalah 159, 150, 161, 157, 159, 156, 
+150, 152, 149, 168, 147, 159
+…..
+…..
+Data ukuran sepatu siswa kelas 8 
+ditunjukkan dalam tabel berikut.
+…..
+…..
+Nilai ulangan matematika  siswa 
+kelas 8 ditunjukkan dalam tabel 
+berikut.
+…..
+…..
+Ayo Berkomunikasi
+Ukuran 
+Sepatu
+Frekuensi
+36
+2
+37
+4
+38
+8
+39
+12
+40
+8
+41
+5
+42
+1
+0
+56
+60
+65
+70
+75
+80
+85
+90
+100
+95
+100
+Nilai Matematika
+2
+4
+6
+8
+Bab 6 | Statistika
+261
+Berdasarkan tabel tersebut dapat disimpulkan bahwa Modus dari suatu 
+data adalah data yang sering muncul. Dengan demikian, kalian dapat 
+menentukan modus pada gambar 6.3 yaitu data yang sering muncul 
+pada bulan Juli 2021, yaitu sebesar 9.651 kasus, sehingga modus dari 
+diagram tersebut adalah Juli 2021.
+Setelah kalian dapat menentukan modus dari berbagai bentuk 
+penyajian data, selanjutnya coba perhatikan diagram batang berikut 
+ini. Diagram batang berikut yang menunjukkan data penjualan buku 
+tulis di Koperasi sekolah dalam sepekan dan data yang sering muncul 
+ada 2 yang sama. Coba temukan modus dari diagram batang berikut 
+ini.
+Dari data tersebut dapat diperoleh bahwa data yang  sering 
+muncul yaitu pada hari …………. dan ………. masing-masing 
+sebanyak …………... 
+Dengan demikian, modus dari diagram batang tersebut adalah 
+………………….. 
+Apa yang dapat kalian simpulkan?
+Selanjutnya perhatikan diagram batang pada halaman berikut. 
+Diagram berikut menunjukkan ukuran sepatu dari 6 siswa kelas 8 di 
+sebuah SMP dan semua data menunjukkan ukuran yang sama.
+SENIN
+SELASA
+RABU
+KAMIS
+JUMAT
+SABTU
+5
+10
+15
+20
+25
+30
+Matematika untuk SMP/MTs Kelas VIII
+262
+Pada diagram batang tersebut terlihat bahwa semua ukuran 
+sepatu 6 siswa memiliki ukuran yang sama yaitu ukuran 40. 
+Tentukan modus dari data tersebut?
+Apa yang dapat kalian simpulkan?
+Untuk selanjutnya, kalian coba perhatikan kembali Gambar berikut 
+ini.
+Gambar 6.3 Kumulatif Kasus Covid19 tahun 2021
+Dari Gambar 6.3 terlihat bahwa Kasus Covid-19 untuk tahun 2021 
+dapat ditulis dalam tabel pada halaman berikut.
+1
+2
+3
+4
+5
+6
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+42
+17
+6
+642
+256
+273
+286
+1.103
+1.988
+4.342
+9.651
+2.258
+Apr
+Mei
+Jun
+Jul
+Agu
+Sep
+Okt
+Nov
+Des
+Jan
+Feb
+Mar
+Bab 6 | Statistika
+263
+Bulan 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Banyak 
+kasus 
+Covid-19
+642
+256
+273
+1.103
+1.938
+4.342
+9.651
+2.258
+286
+42
+17
+6
+Modus dari data tersebut adalah bulan Juli 2021 sebesar 9.651. Apa 
+yang akan terjadi jika bulan Juli tidak dimasukkan dalam perhitungan 
+modus? Coba jelaskan jawaban kalian.
+1. 
+Berdasarkan beberapa diagram batang dan uraian tersebut, apa yang 
+dapat kalian simpulkan dari pemusatan data dengan menggunakan 
+modus? 
+2. 
+Apakah kelebihan dan kekurangan Modus sebagai ukuran pemusatan 
+data? Coba diskusikan dalam kelompok.
+Karena Modus memiliki kelemahan dan kurang tepat  dalam 
+menetukan ukuran pemusatan data, maka sekarang kalian akan 
+mempelajari median sebagai ukuran pemusatan data.
+2. Median  
+Median dari kumpulan data merupakan suatu nilai data yang terletak 
+di tengah-tengah kumpulan data yang telah diurutkan. Jadi, terdapat 50 
+% dari banyak data yang nilai-nilainya lebih tinggi atau sama dengan 
+median dan 50 % dari banyak data yang nilai-nilainya kurang dari atau 
+sama dengan median. Median dari kumpulan data yang jumlahnya 
+ganjil dan data yang jumlahnya genap memiliki cara yang tidak sama.
+Untuk memahami Median coba lakukan kegiatan pada halaman berikut.
+Ayo Berpikir Kritis
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+264
+a. Menentukan Median dengan banyak data ganjil 
+Ukuran sepatu dari 11 siswa adalah sebagai berikut 41, 39, 38, 36, 40, 
+37, 38, 40, 42, 38, 39
+Tentukan Median dari data tersebut.
+Untuk menentukan median lakukan beberapa langkah berikut.
+Langkah ke-1 
+Urutkan data tersebut dari data terkecil sampai data 
+terbesar, sehingga diperoleh data sebagai berikut 
+………………………………………………
+Langkah ke-2 
+Pasangkan data yang sudah terurut dari sisi terluar ke sisi 
+dalam, sehingga menyisakan satu data tunggal 
+Langkah ke-3
+Data bagian tengah yang tidak memiliki pasangan dinamakan 
+dengan Median 
+Jadi, median dari data 41, 39, 38, 36, 40, 37, 38, 40, 42, 38, 39 
+adalah …..
+36
+42
+....
+....
+....
+....
+....
+Median
+....
+....
+....
+....
+Bab 6 | Statistika
+265
+b. Menentukan Median dengan banyak data genap 
+Nilai UTS dari dari 10 siswa adalah sebagai berikut 67, 89, 78, 96, 80, 
+77, 68, 90, 72, 88
+Tentukan Median dari data tersebut.
+Untuk menentukan median lakukan beberapa langkah berikut.
+Langkah ke-1 
+Urutkan data tersebut dari data terkecil ke besar, sehingga 
+diperoleh data sebagai berikut ………………………………………………
+Langkah ke-2 
+Pasangkan data yang sudah terurut dari sisi terluar ke sisi 
+dalam, sehingga menyisakan satu data tunggal 
+Langkah ke-3
+Karena ada dua data pada bagian tengah, maka nilai median  
+berada di tengah-tengah kedua data tersebut. Cara menentukan 
+median adalah dengan  membagi dua jumlah dari dua data pada 
+bagian tengah, yaitu 
+2
+g
+g
+f
++
+=
+ 
+Jadi median dari data 67, 68, 72, 77, 78, 80, 88, 89, 90, 96 
+adalah …..
+67
+96
+....
+....
+....
+....
+....
+Median
+....
+....
+....
+....
+Matematika untuk SMP/MTs Kelas VIII
+266
+Berdasarkan kedua contoh tersebut dapat disimpulkan bahwa 
+Median  dari data ganjil diperoleh dengan menentukan data bagian 
+tengah dari data yang sudah diurutkan. 
+Median dari data genap  diperoleh dengan membagi dua jumlah dua 
+data pada bagian tengah. Hal ini menunjukkan bahwa nilai median dari 
+data tersebut berada diluar kumpulan data.
+Setelah kalian dapat menentukan median dari data, coba bagaimana 
+menentukan median jika data seperti berikut ini.
+Hasil Ulangan Harian Matematika siswa kelas 8 adalah sebagai 
+berikut.
+90
+76
+80
+74
+64
+88
+74
+84
+90
+88
+60
+66
+92
+90
+76
+80
+66
+64
+88
+96
+84
+92
+86
+84
+90
+70
+80
+78
+64
+88
+Coba diskusikan dengan teman kalian, bagaimana menentukan 
+Median dari data tersebut.
+Langkah pertama mengurutkan data dari kecil ke besar dan 
+menuliskan banyak data yang nilainya sama dan dituliskan dalam 
+kolom frekuensi seperti tabel berikut.
+Data
+Frekuensi
+60
+1
+64
+3
+66
+2
+70
+…
+74
+…
+76
+…
+78
+…
+80
+…
+Ayo Berkomunikasi
+Bab 6 | Statistika
+267
+Data
+Frekuensi
+84
+…
+86
+…
+88
+…
+90
+…
+92
+…
+96
+…
+Setelah diketahui frekuensi dari setiap data, langkah berikutnya 
+adalah menuliskan frekuensi komulatif. Frekuensi komulatif diperoleh 
+dengan cara menjumlahkan berturut-turut  frekuensi pada baris 
+awal dengan frekuensi berikutnya.  Frekuensi komulatif  baris kedua 
+berasal dari jumlah dari frekuensi baris pertama dengan baris kedua, 
+frekuensi komulatif baris ketiga berasal dari penjumlahan frekuensi 
+baris pertama sampai baris ketiga, demikian seterusnya, sehingga 
+diperoleh tabel sebagai berikut.
+Data
+Frekuensi
+Frekuensi Komulatif
+60
+1
+1
+64
+3
+4
+66
+2
+6
+70
+…
+…
+74
+…
+…
+76
+…
+…
+78
+…
+…
+80
+…
+…
+84
+…
+…
+86
+…
+…
+88
+…
+…
+90
+…
+…
+92
+…
+…
+96
+…
+…
+Matematika untuk SMP/MTs Kelas VIII
+268
+Untuk menentukan median dari data tersebut dapat dilakukan 
+dengan menetukan nilai data yang berada di tengah-tengah berdasarkan 
+frekuensi komulatif, sehingga diperoleh bahwa median dari data 
+tersebut adalah ...
+c. Menentukan Median dari data yang acak yang 
+heterogen 
+Coba perhatikan tabel berikut yang menunjukkan pasien sembuh 
+covid-19 untuk 5 provinsi secara acak  di Indonesia pada bulan Agustus 
+2022.
+Berdasarkan dari diagram batang tersebut diperoleh bahwa 
+mediannya adalah provinsi Bali sebesar 160.328. Data bagian atas 
+dari  median adalah Provinsi DKI Jakarta :  1.357.210 dan Provinsi 
+Jawa Barat : 1.129.758. Jika dijumlahkan data bagian atas dari median 
+sebesar 2.486.968  pasien yang sembuh dari Covid-19. Sementara data 
+bagian bawah  dari median yaitu Provinsi Sumatra Utara : 153.755 
+dan Provinsi Riau : 147.475. Jika dijumlahkan data bagian bawah  dari 
+median adalah 301.230 pasien yang sembuh dari Covid-19. Apa yang 
+dapat disimpulkan dari menentukan median dari diagram batang 
+tersebut? Coba diskusikan dengan temanmu?
+Untuk selanjutnya, kalian akan mempelajari data pemusatan yang 
+ketiga yaitu nilai rata-rata.
+RIAU
+147.475
+153.755
+160.328
+1.129.758
+1.357.210
+SUMATERA
+UTARA
+BALI
+JAWA
+BARAT
+DKI
+JAKARTA
+Bab 6 | Statistika
+269
+3. Rata-rata
+Perhatikan kembali data berikut ini
+Diagram Batang tersebut menggambarkan pasien Covid-19 yang 
+sembuh dari 5 Provinsi di Indonesia. Berapakah nilai rata-ratanya? 
+Untuk menjawab pertanyaan tersebut coba lakukan langkah-langkah 
+berikut ini. 
+Langkah pertama, data yang ada di diagram batang diubah dalam 
+bentuk tabel, seperti berikut ini.
+No
+Provinsi 
+Jumlah Pasien Sembuh 
+1
+Riau 
+147.475
+2
+Sumatra Utara 
+…………….
+3
+Bali 
+…………….
+4
+Jawa Barat
+…………….
+5
+DKI Jakarta
+……………
+Jumlah 
+…………….
+Rata-rata
+…………….
+Ayo Bereksplorasi
+RIAU
+147.475
+153.755
+160.328
+1.129.758
+1.357.210
+SUMATERA
+UTARA
+BALI
+JAWA
+BARAT
+DKI
+JAKARTA
+Matematika untuk SMP/MTs Kelas VIII
+270
+Langkah kedua, jumlahkan semua data tersebut, bagilah dengan 
+banyak data, dalam hal ini karena ada 5 Provinsi, maka banyak ada 
+ada 5. Hasil dari Pembagian tersebut menunjukkan nilai rata-rata dari 
+Pasien yang sembuh Covid-19 untuk 5 Provinsi, yaitu sebesar …………..
+Nilai rata-rata dari data pada tabel tersebut menunjukkan bahwa 
+memiliki nilai keseimbangan di antara data yang ada, rata-rata 
+menunjukkan titik keseimbangan dari semua data. Dengan demikian, 
+untuk menentukan pemusatan data yang paling baik adalah dengan 
+menggunakan rata-rata. Agar kalian memiliki keterampilan dan 
+pemahaman yang baik dalam mencari rata-rata dari suatu data, coba 
+lengkapi tabel berikut ini.
+Untuk menentukan nilai rata-rata, coba diskusikan dengan teman kalian 
+untuk melengkapi tabel berikut.
+Data dalam kehidupan 
+sehari-hari 
+Data
+Banyak 
+data 
+Cara 
+menghitung 
+rata-rata
+Kesimpulan
+Pak Burhan mempunyai 
+dua putra yang berumur 
+8 tahun dan 4 tahun. 
+Berapa rata-rata 
+umur kedua putra Pak 
+Burhan?
+4 dan 8 
+2
+2
+4
+8
+2
+12
+6
++
+=
+=
+Rata-rata 
+umur putra 
+Pak Burhan 
+adalah 6 
+tahun
+Ukuran sepatu 4 siswa 
+adalah 39, 41, 41, dan 43, 
+Berapa rata-rata ukuran 
+sepatu keempat siswa 
+tersebut?
+……
+……
+…………….
+…………….
+Ayo Berkomunikasi
+Bab 6 | Statistika
+271
+Data dalam kehidupan 
+sehari-hari 
+Data
+Banyak 
+data 
+Cara 
+menghitung 
+rata-rata
+Kesimpulan
+Penjualan sepeda motor 
+dari dealer adalah 
+Senin : 12, Selasa : 15, 
+Rabu : 9 Kamis : 18, 
+Jumat : 16, Sabtu : 20
+Berapa rata-rata sepeda 
+motor yang terjual 
+dalam sepekan?
+……
+……
+…………….
+…………….
+Pasien Covid-19 yang 
+sembuh setelah di rawat 
+di rumah sakit selama 
+10 hari terakhir adalah: 
+12 orang, 15 orang, 
+10 orang, 17 orang, 
+14 orang, 19 orang, 17 
+orang, 24 orang, 20 
+orang, dan 25 orang. 
+Tentukan rata-ratanya?
+……
+……
+…………….
+…………….
+Hasil Ulangan Harian 
+Matematika siswa kelas 
+8 adalah sebagai berikut
+……
+……
+…………….
+…………….
+Nilai ulangan 
+matematika 
+Frekuensi
+60
+2
+65
+3
+70
+4
+75
+8
+80
+10
+85
+6
+90
+4
+95
+2
+100
+1
+Matematika untuk SMP/MTs Kelas VIII
+272
+Berdasarkan tabel tersebut dapat disimpulkan bahwa untuk mencari 
+nilai rata-rata dari suatu data dengan menjumlahkan nilai semua data 
+dan membagi dengan banyak data, atau dapat ditulis dengan
+Rata-rata 
+banyak data
+jumlah data
+=
+  atau  Mean  (
+)
+x
+n
+x
+x
+x
+xn
+1
+2
+3
+g
+=
++
++
++
++
+Kalian sudah bisa mencari rata-rata dari suatu data, selanjutnya 
+bagaimanakah menentukan rata-rata dari suatu data yang cukup 
+banyak? Untuk menjawab pertanyaan tersebut, kalian dapat melakukan 
+langkah-langkah berikut.
+Hasil Ulangan Harian Matematika siswa kelas 8 adalah sebagai 
+berikut
+95
+75
+85
+80
+90
+80
+90
+80
+90
+85
+85
+80
+90
+100
+95
+90
+85
+85
+90
+80
+90
+85
+75
+85
+85
+90
+90
+90
+95
+95
+Bagaimana cara yang lebih efektif untuk menentukan rata-rata 
+data tersebut? Kalau kalian menjumlahkan semua data yang ada dan 
+membagi dengan banyak data? Tentu cara ini  kurang efektif dan cukup 
+lama.  
+Untuk menentukan rata-rata dari data tersebut akan lebih mudah 
+dan efektif  jika dikelompokkan berdasarkan nilai yang sama dan 
+dihitung banyak data yang sama seperti pada tabel berikut. Jika data 
+75 ada 2 maka pada kolom turus ditulis 2, tentukan berapa banyak data 
+yang sama untuk yang lainnya.
+Nilai
+Turus 
+Jumlah
+75
+II
+...
+80
+...
+...
+85
+...
+...
+Ayo Mencoba
+Bab 6 | Statistika
+273
+Nilai
+Turus 
+Jumlah
+90
+...
+...
+95
+...
+...
+100
+...
+...
+Untuk selanjutnya banyaknya  data yang sama dinamakan frekuensi.
+Nilai
+Frekuensi 
+75
+...
+80
+...
+85
+...
+90
+...
+95
+...
+100
+...
+Untuk menentukan nilai rata-rata data yang ada frekuensinya dengan 
+cara mengalikan data dengan frekuensinya.
+Data 
+frekuensi
+Data × Frekuensi
+75
+...
+...
+80
+...
+...
+85
+...
+...
+90
+...
+...
+95
+...
+...
+100
+...
+...
+Jumlah 
+30
+...
+Rata-rata 
+30
+gg
+ff
+=
+=
+Jadi, rata-rata nilai Ulangan Harian Matematika siswa kelas 8 adalah 
+………
+Matematika untuk SMP/MTs Kelas VIII
+274
+Berdasarkan dari contoh tersebut dapat disimpulkan bahwa 
+untuk menentukan rata-rata dari suatu data yang cukup banyak dapat 
+digunakan dengan cara menjumlahkan hasil kali antara data dengan 
+frekuensinya setelah itu dibagi dengan banyak data yang ada. Dalam 
+bentuk umum dapat ditulis
+ 
+Ayo Berpikir Kreatif
+1. 
+Apakah mungkin kumpulan data memiliki nilai modus dan median 
+yang sama? Jelaskan jawabanmu. 
+2. 
+Apakah mungkin kumpulan data memiliki nilai rata-rata, modus dan 
+median yang sama? Coba jelaaskan jawaban kalian.
+1. 
+Tentukan Modus, Median, dan Rata-rata data berikut
+a. 
+9, 4, 6, 7, 5, 4, 9, 8, 8, 3
+b. 
+56, 78, 90, 66, 78, 86, 66, 84, 90
+2. 
+Berdasarkan hasil survei sebuah toko sepatu dalam satu bulan, 
+nomor sepatu yang terjual dalam sebulan adalah sebagai berikut.
+43
+36
+38
+39
+40
+37
+35
+41
+42
+34
+40
+42
+35
+39
+43
+36
+38
+39
+40
+37
+38
+39
+43
+36
+38
+39
+40
+37
+39
+41
+39
+40
+37
+35
+41
+40
+38
+42
+35
+42
+Tentukan modus, median, dan rata-rata dari data tersebut.
+x
+f
+f
+f
+f x
+f x
+f x
+i
+i
+1
+2
+1
+1
+1
+2
+2
+g
+g
+=
++
++
++
++
++
++
+r
+Ayo Mencoba
+Bab 6 | Statistika
+275
+3. 
+Hasil Ulangan Harian IPA siswa kelas 8A dan 8B ditunjukkan 
+dengan tabel berikut.
+kelas 8A
+kelas 8B
+Nilai
+Frekuensi
+Nilai
+Frekuensi
+60
+1
+60
+2
+65
+2
+65
+1
+70
+5
+70
+4
+75
+6
+75
+5
+80
+7
+80
+6
+85
+4
+85
+4
+90
+2
+90
+4
+95
+2
+95
+2
+100
+1
+100
+2
+a. 
+Budi mengatakan bahwa rata-rata siswa kelas A lebih tinggi 
+dari kelas B. Apakah pendapat Budi tersebut benar?  Jelaskan 
+jawaban kalian.
+b. 
+Ani mengatakan bahwa Median kelas A sama dengan median 
+kelas B. Apakah pendapat Ani tersebut benar? Jelaskan 
+jawaban kalian.
+c. 
+Johan berpendapat bahwa Modus kelas A berbeda dengan 
+modus kelas B. Apakah pendapat Johan tersebut benar? 
+Jelaskan jawaban kalian.
+Jika kalian ingin belajar lebih banyak tentang ukuran pemusatan data, 
+kalian bisa melihat video di youtube  di Kemendikbud//rumahbelajar.
+id/ukuran pemusatan data.
+1. 
+Tentukan rata-rata dari data berikut ini.
+a. 
+6, 7, 7, 8, 9, 9, 10
+b. 
+7, 9, 8, 5, 6, 7, 9, 6, 9, 7, 8, 5, 8
+c. 
+76, 80, 56, 69, 80, 84, 67, 85, 74, 93
+d. 
+3,4;  5,8;  7,8;  9,3;  5,8;  8,1;  6,9;  4,6
+Ayo Berpikir Kritis
+Soal Laihan
+6.1
+Matematika untuk SMP/MTs Kelas VIII
+276
+2. 
+Tentukan rata-rata dari data berikut ini.
+a. 
+b. 
+3. 
+Terdapat 35 siswa kelas 8 yang mengikuti Ulangan Harian 
+Matematika dengan data sebagai  berikut: siswa yang memperoleh 
+nilai 5 ada 5 orang, nilai 6 ada 8 orang, nilai 7 ada 10 orang, nilai 8 
+ada 8 orang, nilai 9 ada 3 orang, dan nilai 10 ada 1 orang.
+Tentukan nilai rata-ratanya.
+4. 
+Berdasarkan  diagram batang berikut tentukan rata-rata produksi 
+minyak bumi Indonesia selama 7 bulan?
+5. 
+Rata-rata  berat badan 9  anak adalah 56 kg, jika berat badan Domi 
+dimasukkan dalam hitungan tersebut, rata-ratanya menjadi 56,7. 
+Tentukan berat badan Doni. 
+6. 
+Rata-rata tinggi 12 anak adalah 166 cm. Setelah ditambah 6 anak, 
+rata-rata tingginya  menjadi 167 cm. Berapa rata-rata tinggi 6 anak? 
+7. 
+Rata-rata Ulangan Matematika adalah 78 dan nilai yang paling 
+banyak muncul adalah 69, tentukan median dari ulangan 
+Matematika tersebut. 
+Data 
+4
+5
+6
+7
+8
+9
+frekuensi
+3
+6
+4
+5
+2
+1
+Data 
+55
+60
+65
+70
+75
+80
+85
+90
+95
+100
+frekuensi
+3
+6
+9
+12
+16
+12
+10
+8
+5
+1
+Januari
+Februari
+Maret
+Bulan
+Jumlah Produksi
+(ribu barel perhari)
+April
+Mei
+Juni
+Juli
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Jumlah Produksi Minyak Bumi Indonesia Tahun 2020
+Bab 6 | Statistika
+277
+8. 
+Banyak Roti yang terjual di Toko Roti Maghiroh dalam sepekan 
+digambarkan dalam diagram batang sebagai berikut.
+a. 
+Coba temukan hari  apa yang sangat mempengaruhi nilai rata-
+rata dari data tersebut? Jelaskan alasan kalian. 
+b. 
+Menurut kalian, pada hari apa  yang dapat menggambarkan 
+nilai rata-rata data tersebut? Jelaskan alasan kalian.
+c. 
+Jika hari Minggu libur, apa yang terjadi terhadap nilai rata-
+rata? Jelaskan jawabanmu?
+9. 
+Penjualan motor di  Dealer  Amanah selama lima  hari, ditunjukkan 
+pada diagram batang berikut.
+a. 
+Tentukan minimal penjualan motor yang pada hari Sabtu agar 
+rata-rata penjualan dalam seminggu adalah 12 motor.
+b. 
+Tentukan motor yang terjual pada hari Sabtu agar rata-rata 
+penjualan motor dalam seminggu adalah 13 motor.
+Senin
+Selasa
+Rabu
+Kamis
+Jumat
+Sabtu
+Minggu
+0
+20
+40
+60
+80
+100
+120
+140
+160
+85
+80
+64
+74
+95
+89
+134
+Senin
+Selasa
+Rabu
+Kamis
+Jumat
+Sabtu
+Banyak
+Motor
+Terjual
+0
+2
+4
+6
+8
+10
+12
+14
+16
+Matematika untuk SMP/MTs Kelas VIII
+278
+10. Sepuluh orang pegawai memiliki penghasilan perbulan. Lima 
+orang berpenghasilan Rp2.000.000,00, tiga orang berpenghasilan 
+Rp1.500.000,00 satu orang yang berpenghasilan Rp2.500.000,00 
+dan satu orang lagi belum diketahui penghasilannya. Jika rata-rata 
+penghasilan dari 10 orang tersebut adalah Rp2.000.000,00, 
+a. 
+Apakah penghasilan satu orang tersebut kurang atau lebih 
+dari dari Rp2.000.000,00?  Jelaskan jawaban kalian.
+b. 
+Berapa penghasilan satu orang yang belum diketahui?
+B. Penyebaran Data
+Setelah kalian mempelajari ukuran pemusatan data, berikutnya 
+kalian akan mempelajari ukuran penyebaran data. Penyebaran data 
+merupakan nilai yang menyatakan seberapa jauh data dari pusat data. 
+Penyebaran data terdiri dari jangkauan, kuartil, dan simpangan kuartil. 
+Untuk lebih jelasnya, coba kalian pelajari satu-persatu.
+1. Jangkauan
+Perhatikan Diagram garis produksi Beras Indonesia berikut
+Gambar 6.4 Perkembangan Produksi Beras di Indonesia (Ribu Ton Beras) 2020-2021
+Sumber : https://www.bps.go.id/
+Produksi Beras (Ribu Ton Beras)
+0
+1000
+2000
+3000
+4000
+5000
+6000
+Jan
+2020
+Mar
+Mei
+Jul
+Sep
+Nov
+Feb
+Apr
+Jun
+Agu
+Okt
+Des
+934
+3.632
+3586
+2.578
+3.161
+1.858
+1.328
+5.626
+2.059
+3.345
+2.455
+935
+1.200
+5.570
+2.277
+3.175
+2.464
+1.653
+2.337
+4.476
+2.326
+2.402
+2.302
+1.174
+2021
+Bab 6 | Statistika
+279
+Gambar diagram garis tersebut menggambarkan perkembangan 
+produksi beras di Indonesia dalam satuan Ribuan Ton untuk tahun 
+2020 (garis hijau) dan tahun 2021 (garis merah). Dalam diagram garis 
+tersebut terlihat bahwa produksi beras Indonesia mengalami kenaikan 
+dan penurunan pada bulan-bulan tertentu. Selisih produksi beras 
+tertinggi dan terendah dalam setahun dapat ditentukan dengan cara 
+mengurangi data tertinggi dengan data terendah. Agar dapat dihitung 
+selisihnya, coba lengkapi tabel berikut
+Tahun
+Tertinggi (ton)
+Terendah (ton)
+Selesih (ton)
+2020
+…………………
+…………………
+…………………
+2021
+…………………
+…………………
+…………………
+Untuk selanjutnya selisih dari data tertinggi dengan data terendah 
+dinamakan dengan Jangkauan. Jadi, jangkauan dapat diartikan dengan 
+mengurangi data tertinggi dengan data terendah.
+Jangkauan data tahun 2020 adalah ……… - ……… = ………
+Jangkauan data tahun 2021 adalah ……… - ……… = ………
+Berdasarkan diagram tersebut, maka dapat disimpulkan bahwa 
+Jangkauan adalah selisih antara nilai data terbesar dengan nilai data 
+terkecil. Jangkauan diperoleh dengan mengurangi data terbesar 
+dengan data terkecil.
+1. 
+Tinggi badan siswa kelas 8 adalah sebagai berikut.
+Anton
+Joko
+Made
+Nadiva
+Cut Mutia
+Dewa
+Robert
+Andika
+156 cm
+162 cm
+158 cm
+154 cm
+160 cm
+168 cm
+167 cm
+166 cm
+a. 
+Tentukan Jangkaun dari data tersebut?
+b. 
+Jika Nadiva tidak ikut dalam perhitungan, tentukan jangkauan 
+data  yang terbaru?
+c. 
+Enam bulan lagi semua siswa tinggi badannya naik 2 cm, kecuali 
+Robert naik 4 cm, tentukan jangkauan dari data terbaru?
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas VIII
+280
+2. 
+Perhatikan diagram batang berikut ini
+Diagram batang berikut menunjukkan data vaksinasi dosis ke-2 di 
+10 Provinsi
+a. 
+Tentukan Jangkaun dari data tersebut?
+b. 
+Jika Provinsi Jawa Timur tidak ikut dalam perhitungan, 
+tentukan jangkauan data  yang terbaru?
+c. 
+Jika tiga bulan lagi semua provinsi naik 10%, kecuali Papua 
+naik 40%, tentukan jangkauan dari data terbaru?
+2. Kuartil 
+Ukuran penyebaran data yang kedua adalah kuartil. Jika median adalah 
+membagi data yang diurutkan menjadi dua kelompok yang sama 
+banyak, maka kuartil adalah membagi data yang diurutkan menjadi 
+empat yang sama banyak, sehingga masing-masing kelompok terdiri 
+atas ¼ bagian data. Ada tiga jenis kuartil, yaitu kuartil pertama/kuartil 
+bawah (Q1), kuartil kedua/kuartil tengah atau median(Q2), dan kuartil 
+ketiga/kuartil atas (Q3).  
+Untuk lebih jelasnya, coba kalian perhatikan contoh berikut
+Contoh 6.1
+Diketahui hasil ulangan Matematika 10 siswa  kelas 8 adalah 
+sebagai berikut.
+82 
+68 
+76 
+80 
+72 
+94 
+78 
+86 
+90 
+66
+Tentukan kuartil pertama, kuartil kedua, dan kuartil ketiga.
+Aceh
+1.059.866
+1.116.609
+3.707.756
+4.932.704
+7.780.398
+2.106.483
+1.062.688
+410.824
+1.303.184
+197.754
+SumUt
+DKI
+Jakarta
+JaTim
+KalTim
+Bali
+SulSel
+Nusa
+Tenggara
+Papua
+SulUt
+DATA VAKSIN KE-2 PER AGUSTUS 2022 DI 10 PROPINSI
+Bab 6 | Statistika
+281
+Alternatif penyelesaian
+Langkah pertama, urutkan data dari terkecil ke terbesar, sehingga 
+diperoleh 
+Setelah data sudah terurut, tentukan Kuartil kedua dulu, sekaligus 
+sebagai median
+Kuartil kedua adalah berada diantara 78 dan 80,
+sehingga Q
+2
+78
+80
+79
+2 =
++
+=
+Setelah Kuartil kedua ditentukan, maka kuartil pertama dan 
+ketiga dapat ditentukan juga
+Data dibagi menjadi empat kelompok  yang sama banyak, 
+kelompok pertama adalah  66 dan 68, kelompok kedua adalah 76 
+dan 78, kelompok ketiga adalah 80 dan 82, serta kelompok keempat 
+adalah 90 dan 94. Dengan demikian, kuartil pertama adalah 72, 
+kuartil kedua adalah 79, dan kuartil ketiga adalah 86.
+Ayo Mencoba
+Selanjutnya untuk meningkatkan pemahaman dan keterampilan 
+dalam menentukan kuartil, siswa diminta untuk menentukan kuartil 
+dari data berikut.
+60
+90
+76
+76
+80
+64
+66
+80
+64
+90
+76
+80
+90
+66
+76
+92
+66
+68
+72
+76
+78
+80
+82
+86
+90
+94
+66
+68
+72
+76
+78
+80
+82
+86
+90
+94
+Q2/Median
+66
+68
+72
+76
+78
+80
+82
+86
+90
+94
+Q3
+Q1
+Q2/Median
+Matematika untuk SMP/MTs Kelas VIII
+282
+Alternatif Jawaban
+Langkah pertama adalah data diurutkan dari terkecil ke data terbesar
+Tentukan Q2 terlebih dahulu
+Setelah bagilah bagian sebelah kiri dan sebelah kanan dari Q2 menjadi dua 
+bagian ynag sama. Maka titik tengah dari masing-masing bagian itu adalah 
+letak dari Q1 dan Q3
+Dalam gambar tersebut jelas terlihat bahwa data dibagi menjadi empat 
+bagian yang sama, dan batas-batas dari masing-masing bagian itu adalah Q1, 
+Q2 dan Q3.
+Berdasarkan gambar tersebut dapat ditentukan bahwa 
+Q1 adalah ……………. 
+Q2 adalah ……………. 
+Q3 adalah …………….
+3. Jangkauan Kuartil dan Simpangan Kuartil
+Jenis ukuran penyebaran data yang terakhir adalah Jangkauan Kuartil. 
+Jika kalian perhatikan nilai dari Q3 lebih besar daripada nilai Q1 dan 
+nilai Q2. Kalau jangkauan data diperoleh dari selisih data terbesar 
+dengan data terkecil, maka Jangkauan Kuartil dapat diperoleh dari 
+selisih Kuartil terbesar dengan kuartil terkecil. Dalam hal ini Kuartil 
+dengan nilai terbesar adalah Q3 dan Kuartil dengan nilai terkecil adalah 
+Q1. Sehingga, Jangkauan Kuartil = Q3 – Q1. Pada data Ayo Mencoba 
+tersebut, diperoleh Q1 = ……  dan Q3 = ………. Jangkauan Kuartilnya 
+adalah Q3 – Q1 = …………………….. 
+Q2
+Q2
+Q3
+Q1
+Bab 6 | Statistika
+283
+Simpangan Kuartil dapat dilakukan dengan membagi dua jangkauan 
+Kuartil yang sudah ditentukan, yaitu 2
+1 (Q3 – Q1). Pada data tersebut 
+diperoleh simpangan kuartil adalah
+2
+1 (Q3 – Q1) = …………………………..
+Jika kalian ingin belajar lebih banyak tentang ukuran pemusatan data, 
+kalian bisa melihat video di youtube  di Kemendikbud//rumahbelajar.
+id/ukuran penyebaran data
+1. 
+Tentukan kuartil bawah, kuartil atas, jangkauan dan simpangan 
+antar kuartil dari data berikut.
+a. 
+3, 6, 4, 4, 8, 7, 8, 9, 4, 5, 6, 6
+b. 
+50, 60, 85, 70, 65, 50, 80, 85, 90, 65, 65, 75, 80 65
+2. 
+Ukuran sepatu siswa kelas 8 ditunjukkan dengan tabel berikut.
+Ukuran
+Frekuensi
+35
+1
+36
+2
+37
+4
+38
+6
+39
+7
+40
+5
+41
+3
+42
+2
+Tentukan
+a. 
+Kuartil bawah dan kuartil atas
+b. 
+Jangkaun kuartil
+c. 
+Simpangan antar kuartil
+3. 
+Tekanan darah seorang pasien di rumah sakit dicatat seperti 
+berikut.
+175  150  176  135  174  170  185  165  165  124  182  165  124  120 126  180
+Tentukanlah kuartil, jangkauan antarkuartil, dan simpangan 
+kuartil dari data tersebut. 
+Soal Laihan
+6.2
+Matematika untuk SMP/MTs Kelas VIII
+284
+4. 
+Seorang ibu mencatat perkembangan berat badan anaknya setiap 
+bulan selama dua tahun (dinyatakan dalam kilogram) sebagai 
+berikut.
+2,9      5,6      8,2     9,2
+3,1      5,9      8,5     9,2
+3,5      6,6      8,6     9,4
+4,0      7,1      8,6     9,4
+4,8      7,5      8,8     9,8
+5,1      7,8      8,9     9,9
+a. 
+Tentukan kuartil bawah dan kuartil atas
+b. 
+Jangkauan kuartil dan Simpangan antar kuartil.
+Refleksi
+Setelah memahami Bab ini apakah kalian dapat
+ 
+■
+Menentukan nilai rata-rata dari kumpulan data
+ 
+■
+Menentukan nilai median dan modus dari suatu data
+ 
+■
+Menentukan kuartil, jangkauan kuartil, dan simpangan kuartil 
+dari suatu data
+Uji Kompetensi Bab 6
+1. 
+Nilai rata-rata dari 24 siswa kelas 8A adalah 78, nilai rata-rata dari 
+20 siswa kelas 8B adalah 82, dan nilai rata-rata dari 22 siswa kelas 
+8C adalah 75. Tentukan nilai rata-rata dari semua siswa kelas 8.
+2. 
+Diketahui data  7, 8, 4, 9, 5, 6, a, 7, 10, b 
+a. 
+Jika rata-ratanya 6,9 tentukan  a + b
+b. 
+Jika modusnya 7 tentukan nilai a + b
+c. 
+Tentukan Q1, Q2 dan Q3
+3. 
+Nilai rata-rata Ulangan Harian Matematika dari 24 siswa kelas 8A 
+adalah 76. Jika ada seorang siswa yang mendapat nilai 87 tidak 
+dimasukkan dalam perhitungan rata-rata, tentukan nilai rata-rata 
+yang baru dari siswa kelas 8A?
+Bab 6 | Statistika
+285
+4. 
+Berikut adalah data nilai ulangan matematika 10 orang anak 
+62, 74, 95, 60, 56, 70, 72, 65, 60, 58
+a. 
+Tentukan nilai yang dapat mempengaruhi nilai rata-rata. 
+Berikan alasanmu!
+b. 
+Nilai manakah yang lebih baik untuk menyatakan nilai rata-
+rata ulangan siswa?
+5. 
+Perhatikan dua data berikut ini!
+Data A :  5, 7, 7, 8, 8, 8, 9, 9, 10, 11, 12, 13
+Data B :  6, 7, 7, 7, 8, 8, 9, 9, 10, 10, 12, 18
+a. 
+Jelaskan, mengapa rata-rata  data B lebih besar daripada data 
+A!
+b. 
+Jelaskan, mengapa median dari data A sama dengan median 
+dari data B?
+c. 
+Jelaskan mengapa modus dari data A dan B berbeda?
+6. 
+Penjualan Motor di salah satu dealer ditunjukkan dengan diagram 
+garis berikut. Tentukan
+a. 
+Rata-rata 
+b. 
+Median 
+c. 
+Modus
+d. 
+Kuartil pertama dan Kuartil ketiga
+25
+20
+15
+10
+5
+25
+Jan
+Feb
+Mar
+Apr
+Mei
+Jun
+Jul
+Agu
+Sep
+Okt
+Nov
+Des
+Penjualan
+Motor
+Matematika untuk SMP/MTs Kelas VIII
+286
+7. 
+Nilai rata-rata 24 siswa adalah 78. Jika nilai ujian 12 siswa yang 
+pertama, masing-masing ditambah 2, 4, 6, 8,… sedangkan nilai 
+ujian 12 siswa berikutnya masing-masing dikurangi 10. Tentukan 
+nilai rata-rata ujian semua siswa tersebut.
+8. 
+Perhatikan diagram garis berikut ini.
+Diagram garis menunjukkan perbandingan luas lahan pertanian 
+tahun 2020 dengan tahun 2021. Tentukan
+a. 
+Perbandingan rata-rata tahun 2020 dengan 2021
+b. 
+Perbandingan median tahun 2020 dengan 2021
+c. 
+Perbandingan modus tahun 2020 dengan 2021
+d. 
+Perbandingan kuartil bawah dan kuartil atas  tahun 2020 
+dengan 2021
+Jan
+Mar
+Mei
+Ribu Hektar
+Jul
+Sep
+Nov
+Feb
+Apr
+Jun
+Agu
+Okt
+Des
+0
+400
+800
+1200
+1600
+2000
+Jan
+2020
+Mar
+Mei
+Jul
+Sep
+Nov
+Feb
+Apr
+Jun
+Agu
+Okt
+Des
+653
+452
+846
+821
+1.624
+1.308
+403
+632
+806
+1.023
+1.786
+879
+494
+673
+1.208
+1.138
+1.685
+1.305
+523
+1.055
+1.035
+1.452
+1.852
+825
+2021
+Bab 6 | Statistika
+287
+Pengayaan
+1. 
+Kasus Covid-19 pertama kali dikonirmasi di Indonesia pada 
+tanggal 2 Maret 2020, dan terus menyebar hampir ke seluruh 
+Provinsi di Indonesia. Sampai tanggal 20 Agustus 2022, kasus Aktif, 
+komulatif kasus sembuh, dan Kumulatif kasus meninggal tertinggi 
+di 10 provinsi ditunjukkan diagram di halaman berikut.
+a. 
+Tentukan rata-rata dari kasus aktif, rata-rata komulatif kasus 
+sembuh dan rata-rata kasus meninggal dari 10 provinsi 
+tersebut?
+b. 
+Apakah kasus aktif, komulatif kasus sembuh dan komulatif 
+kasus meninggal setiap provinsi menunjukkan urutan yang 
+sama? 
+c. 
+Provinsi manakah yang menunjukkan mendekati median 
+untuk kasus aktif Covid-19? Mengapa Coba jelaskan. 
+d. 
+Provinsi 
+manakah 
+yang 
+sangat 
+mempengaruhi 
+dalam 
+menentukan nilai rata-rata dari Komulatif kasus meninggal? 
+Jelaskan.
+Riau 147.234
+Sumut 153.236
+Bali 159.447
+Kaltim 202.129
+DI Yogyakarta 216.724
+Banten 315.705
+560.997
+Jatim
+598.357
+Jateng
+1.122.930
+Jabar
+1.341.122
+DKI Jakarta
+Kumulatif Kasus
+Sembuh
+Aceh 3.359
+Lampung 4.181
+Riau 4.448
+Bali 4.681
+Kaltim 5.723
+DI Yogyakarta 5.924
+DKI Jakarta 15.462
+15.910
+Jabar
+31.710
+Jatim
+33.303
+Jateng
+Kumulatif Kasus
+Meninggal
+19.494
+DKI Jakarta
+Jawa Barat
+17.382
+Banten
+5.709
+Jateng 1.763
+Kasus Aktif
+Bali 1.159
+Jatim 970
+Sumut 861
+DI. Yogya 779
+Papua 636
+Kalsel 621
+10 PROVINSI DENGAN KASUS TERTINGGI
+Matematika untuk SMP/MTs Kelas VIII
+288
+2. 
+Rata-rata 15 data adalah 19. Rata-rata 10 data pertama adalah 18 
+dan rata-rata 3 data selanjutnya adalah 25. Jika ke-14 nilainya sama 
+dengan dua kali  data ke-15, tentukan nilai data ke-15? 
+3. 
+Diketahui kelompok bilangan 2, 3, 7,7, 8, 8, 8, 9, 11. Berdasarkan 
+data tersebut 4 siswa punya pendapat yang berbeda, yaitu
+a. 
+Siti berpendapat bahawa Modus lebih dari Rata-rata
+b. 
+Astuti berpendapat bahwa Median kurang dari Rata-rata
+c. 
+Nabila berpendapat bahwa Modus sama dengan rata-rata
+d. 
+Nadiva berpendapat bahwa Modus sama dengan median
+Diantara 4 pendapat tersebut, manakah yang benar menurut 
+kalian? Jelaskan.
+4. 
+Hasil Ujian siswa menunjukkan bahwa 40% siswa mendapat nilai 
+65, 20% siswa memperoleh nilai 75, dan 30% siswa memperoleh 
+nilai 85, sedangkan sisanya memperoleh nilai 95. Berdasarkan data 
+tersebut, beberapa siswa membuat kesimpulan, antar lain
+a. 
+Anton berpendapat bahwa Median <  Rata-rata <  Modus, 
+setujukah kalian dengan pendapat Anton? Jelaskan jawaban 
+kalian .
+b. 
+Budi berpendapat bahwa Modus < Median < Rata-rata, 
+setujukah kalian dengan pendapat Budi? Jelaskan jawaban 
+kalian.
+c. 
+Chica berpendapat bahwa Rata-rata < Median < Modus, 
+setujukah kalian dengan pendapat Chica? Jelaskan jawaban 
+kalian. 
+d. 
+Dodi berpendapat bahwa Modus < Rata-rata < Median, 
+setujukah kalian dengan pendapat Dodi? Jelaskan jawaban 
+kalian.
+289
+Index
+A
+Aljabar, 28 
+Anggota himpunan, 144, 145 
+Akar kuadrat, 31, 32, 33  
+B
+Bentuk aljabar, 28,  
+Bidang Cartesius 
+Bilangan Kuadrat, 47, 49, 64, 76, 
+Bilangan Bentuk Baku, 36, 37, 39, 40 
+Bilangan Berpangkat, 1, 3, 5, 7, 40, 12, 13, 14, 15, 16, 18, 20, 23, 26, 27, 37, 40
+Bilangan Bulat, 3, 8, 13, 15, 16, 18, 19, 21, 24, 31, 32, 34 
+ 
+D
+Data, 257, 259, 260, 263, 264, 265, 266, 269, 272, 274, 278, 280, 282 
+Data berkelompok, 257, 264, 266 
+Data tunggal, 264, 265 
+Diagram, 261, 263, 268, 269, 278, 280, 287 
+ 
+Diagram batang, 268, 269, 280, 259, 261, 263  
+F
+Fungsi, 137, 138, 139, 145, 162, 163, 165, 166, 167, 169, 170, 171, 173, 175, 
+178, 180, 190, 191, 193, 195, 202, 203, 
+Fungsi linear, 236 
+Fungsi kuadrat, 249 
+G
+Graik, 209, 211, 213, 215, 217, 224, 233, 234 
+H
+Himpunan, 107, 108, 118, 122, 123, 124, 132 
+Himpunan berhingga, 144
+Himpunan penyelesaian, 107, 118, 123, 124, 132, 
+Himpunan semesta, 142, 147, 148 
+ 
+Hipotenusa, 51, 55, 64, 69, 78, 81, 85, 90 
+J
+Jangkauan, 257, 278, 279, 282
+290
+K
+Koeisien, 101 
+Konstanta, 101 
+Korespondensi satu-satu, 193, 197, 198
+Kuartil,  
+ 
+L
+Linier, 97, 99, 102, 109, 113, 114, 118, 120, 126, 128, 132, 182 
+M
+Modus, 257, 259, 260, 261, 262, 274
+Median, 257, 259, 263, 264, 265, 266, 268, 280, 281, 
+Mean, 272
+Merasionalkan Penyebut, 34
+N
+Notasi, 144, 146, 147, 177, 203  
+P
+Pengkuadratan, 49 
+Persamaan, 97, 99, 101, 109, 111, 113, 115, 117, 129
+Persamaan linier, 97, 101, 109, 111, 113, 114, 115, 116, 117, 118, 126, 129, 132
+Pythagoras, 45, 46, 47, 48, 49, 51, 53, 55, 59, 64, 65, 76, 84, 85, 90
+Peridaksamaan linier, 97, 99, 109, 120, 122, 123, 124, 126, 127, 128, 130 
+R
+Relasi, 137, 138, 139, 141, 149, 150, 152, 156, 157, 165, 171, 190, 191, 192, 202
+Rasional, 34, 35 
+S
+Segitiga siku-siku, 46, 47, 51, 53, 54, 55, 63, 67, 68, 77, 78, 79, 81, 85, 90
+Segitiga lancip, 68, 72 
+Segitiga tumpul, 67, 68,  
+Statistik, 256, 257   
+Statistika, 256 
+Simpangan kuartil, 257, 278, 282, 283
+T
+Teorema, 1, 46, 47, 53, 55, 64, 65, 77, 84, 85, 90
+Teorema Pythagoras, 1, 46, 47, 48, 49, 51, 53, 55, 59, 64, 65, 76, 84, 85, 90 
+V
+Variabel, 100, 101, 107, 109, 111, 113, 115, 116, 120, 126, 127, 128, 130, 132
+291
+Glosarium
+A
+Aljabar
+: Perumusan aritmatika atau sistem logika yang 
+dinyatakan dalam bentuk notasi atau simbol.
+Anggota himpunan : suatu objek dalam suatu himpunan.
+Akar kuadrat
+: suatu bilangan yang jika dikalikan dengan 
+bilangan itu sendiri akan menghasilkan bilangan 
+dalam tanda akar.
+B
+Bentuk aljabar
+: bentuk penulisan yang merupakan kombinasi 
+antara koeisien, variabel dan konstanta.
+Bidang Cartesius
+: bidang yang dibentuk oleh sebuah sumbu 
+horizontal (x) dan sebuag sumbu vertikal (y).
+Bilangan Kuadrat
+: bilangan yang dihasilkan dari perkalian dua 
+bilangan yang sama.
+Bilangan Bentuk 
+Baku
+: Notasi ilmiah yang digunakan untuk menuliskan 
+bilangan yang sangat besar atau sangat kecil 
+agar lebih sederhana.
+D
+Data
+: ukuran dari suatu nilai. Data biasanya dalam 
+bentuk bilangan, dikumpulkan dalam bentuk 
+tabel, diolah dalam bentuk diagram.
+Data berkelompok : data yang sudah dikelompokkan dalam kelas-
+kelas.
+Data tunggal
+: data mentah yang belum diolah atau 
+dikelompokkan.
+Diagram
+: gambar yang menunjukkan data tertentu untuk 
+membantu menjelaskan bentuk aljabar.
+Diagram Venn
+: suatu representasi grais dari suatu himpunan 
+atau himpunan-himpunan.
+292
+Diagram batang
+: gambar yang menggunakan batang secara 
+horizontal atau vertikal untuk menunjukkan 
+suatu data.
+F
+Fungsi
+: relasi khusus yang memasangkan setiap anggota 
+suatu himpunan dengan tepat satu anggota pada 
+himpunan lain.
+Fungsi linear
+: sebuah fungsi yang mana variabelnya 
+berpangkat satu atau suatu fungsi yang graiknya 
+adalah garis lurus.
+Fungsi kuadrat
+: sebuah fungsi polinom yang memiliki peubah/
+variabel dengan pangkat tertingginya adalah 2 
+(dua).
+G
+Graik
+: suatu kerangka atau gambar yang digunakan 
+untuk membuat objek visualisasi dari data-data 
+pada tabel.
+H
+Himpunan
+: unit yang terdiri beberapa anggota.
+Himpunan 
+berhingga
+: suatu himpunan dengan n elemen di mana 
+n adalah suatu bilangan bulat tak negatif 
+Himpunan tak berhingga suatu himpunan yang 
+anggotanya tak berhingga.
+Himpunan 
+penyelesaian
+: himpunan yang berisi nilai-nilai variabel. 
+yang memnuhi semua persamaan atau 
+pertidaksamaan yang diberikan.
+Himpunan semesta : himpunan yang memuat semua objek di bawah 
+pertimbangan.
+Hipotenusa
+: sisi suatu segitiga siku-siku dihadapan sisi siku-
+sikunya (sisi miring).
+293
+J
+Jangkauan
+: Nilai yang diperoleh dari pengurangan data 
+terbesar dengan data terkecil dari sekumpulan 
+data.
+K
+Koeisien
+: bilangan yang berada di depan variabel.
+Konstanta
+: bilangan tetap.
+Korespondensi 
+satu-satu
+: relasi khusus yang memasangkan setiap anggota 
+suatu himpunan dengan tepat satu anggota 
+himpunan yang lain juga sebaliknya.
+Kuartil
+: Nilai yang membagi sekumpulan data yang 
+terurut menjadi empat bagian yang sama.
+L
+Linier
+: posisi yang terletak pada suatu garis lurus.
+M
+Modus
+: Data yang sering muncul dari sekumpulan data.
+Median
+: Nilai tengah dari sekumpulan data yang 
+diurutkan.
+Merasionalkan 
+penyebut
+: membuat penyebut menjadi bilangan rasional.
+N
+Notasi
+: lambang/simbol.
+P
+Pengkuadratan
+: proses perkalian dua bilangan yang sama.
+Persamaan
+: dua ekspresi aljabar yang dihubungkan dengan 
+sama dengan.
+Persamaan linier
+: persamaan disebut persamaan linear apabila 
+graik semua penyelesaiannya terletak pada 
+sebuah garis. Contoh: y = x + 3 adalah linear 
+karena graik semua penyelesaian terletak pada 
+satu garis.
+294
+Pertidaksamaan
+: kalimat matematika yang mengandung tanda 
+ketaksamaan, yaitu: < (kurang dari), > (lebih 
+dari), ≤ (kurang dari sama dengan), dan ≥ (lebih 
+dari sama dengan), ! (tidak sama dengan).
+Pertidaksamaan 
+linier
+: suatu pertidaksamaan yang daerah himpunan 
+penyelesaiannya dibatasi oleh suatu garis lurus.
+Pythagoras
+: pernyataan mengenai hubungan antara sisi-sisi 
+sebuah segitiga siku-siku.
+R
+Relasi
+: aturan yang memasangkan anggota-anggota 
+dalam suatu himpunan kepada himpunan lain.
+Rata-rata
+: bilangan yang mewakili ukuran pemusatan dari 
+sekumpulan data.
+S
+Segitiga siku-siku
+: bangun segitiga yang salah satu besar sudutnya 
+adalah 90c.
+Segitiga lancip
+: segitiga yang semua sudutnya memiliki besar 
+sudut kurang dari 90c.
+Segitiga tumpul
+: segitiga yang salah satu sudutnya lebih besar 
+dari 90c.
+Statistik
+: hasil analisis atau pengolahan data.
+Statistika
+: 1. cabang dari matematika terapan yang 
+mempunyai cara-cara mengumpulkan dan 
+menyusun data, mengolah dan menganalisis 
+data serta menyajikan data dalam bentuk 
+kurva atau diagram, menarik kesimpulan, 
+menafsirkan parameter dan menguji 
+hipotesis yang didasarkan pada hasil 
+pengolahan data. 
+2. ukuran atau karakteristik yang didapatkan 
+menggunakan data dari sampel.
+Simpangan Kuartil : Nilai yang diperoleh dari setengah jangkauan.
+295
+T
+Teorema
+: kesimpulan umum yang dikemukakan untuk 
+dibuktikan berdasarkan hipotesis tertentu yang 
+diberikan.
+Teorema 
+Pythagoras
+: hubungan dalam segitiga siku-siku yang 
+menyatakan bahwa kuadrat panjang sisi miring 
+suatu segitiga siku-siku sama dengan jumlah 
+kuadrat sisi-sisi lain pada segitiga tersebut, 
+secara matematis dituliskan c
+a
+b
+2
+2
+2
+=
++
+.
+V
+Variabel
+: huruf atau simbol lain yang digunakan untuk 
+mewakili bilangan atau nilai yang tidak 
+ditentukan.

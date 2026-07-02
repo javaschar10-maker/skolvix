@@ -1,0 +1,766 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VII
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-602-244-883-9 (Jil.1)
+Bab 5
+Kesebangunan
+Bagaimana kesebangunan dapat menolong 
+kita menentukan ukuran bangun datar lain?
+Matematika untuk SMP/MTs Kelas VII
+160
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+ 
+√
+Menentukan hubungan antar sudut pada garis-garis yang 
+berpotongan dan pada dua garis sejajar yang dipotong oleh garis 
+transversal
+ 
+√
+Mengestimasi besar sudut
+ 
+√
+Menggunakan informasi mengenai sudut (pelurus, penyiku, 
+sehadap dan berseberangan pada bangun datar untuk 
+menyelesaikan masalah untuk sudut yang tidak diketahui)
+ 
+√
+Menggunakan syarat kesebangunan untuk menentukan apakah 
+dua segitiga sebangun 
+ 
+√
+Menggunakaan syarat kesebangunan untuk menyelesaikan 
+masalah
+Pengantar bab
+Perhatikan beberapa gambar berikut. Apa kesamaan dari gambar-
+gambar ini? 
+Gambar 5.1 Maket
+Bab 5 | Kesebangunan
+161
+     
+2 x 3
+3 x 4
+4 x 6
+Gambar 5.2 Foto
+INDONESIA
+0 km
+175
+350
+525
+Gambar 5.3 Peta
+ 
+Gambar 5.4 Fraktal
+Maket, peta, dan foto, seperti terlihat pada Gambar 5.1 s.d. 5.3, adalah 
+model dari aslinya yang dibuat secara proporsional. Maket merupakan 
+model tiga dimensi yang menunjukkan bentuk dari rumah sebenarnya 
+sehingga dengan melihat maket tersebut, kita dapat membayangkan 
+rumah aslinya seperti apa. Peta merupakan model dua dimensi yang 
+menyatakan berbagai daerah (benua, kepulauan, dan sebagainya) 
+Matematika untuk SMP/MTs Kelas VII
+162
+dalam perbandingan yang sesuai dengan sebenarnya. Walaupun 
+ukuran foto berbeda-beda, namun tetap menunjukkan gambaran orang 
+aslinya. Dengan kata lain, maket, peta, dan foto sebangun dengan benda 
+aslinya. Fraktal, seperti terlihat pada Gambar 5.4, dapat dibagi menjadi 
+bagian-bagian yang sebangun dengan gambar utuhnya. Semua contoh 
+ini berkaitan dengan konsep proporsional telah kalian pelajari pada 
+Bab 3. 
+Pada bab ini kalian akan memperluas pemahaman kalian mengenai 
+proporsi dengan menerapkannya pada benda-benda yang sebangun. 
+Kita akan memulai dengan mempelajari hubungan antar sudut, arti 
+kesebangunan, dan kesebangunan pada segitiga.
+Pertanyaan Pemantik
+ 
+■
+Bagaimana saya tahu sudut mana yang sama besar tanpa 
+mengukur?
+ 
+■
+Apa artinya sebangun?
+ 
+■
+Apa syarat minimum dua segitiga sebangun?
+Kata Kunci
+Sudut, besar sudut, pelurus, penyiku, garis sejajar, bertolak belakang, 
+sehadap, berseberangan, segitiga, segi empat, sebangun, perbandingan 
+sisi
+Bagan Materi
+Hubungan
+Antar Sudut
+Arti
+Kesebangunan
+Kesebangunan
+pada Segitiga
+Kesebangunan
+Bab 5 | Kesebangunan
+163
+Ayo Mengingat Kembali
+Pada jenjang sebelumnya, kalian pasti pernah belajar tentang sudut.
+Masih ingatkah kalian cara mengukur sudut? Ukurlah besar sudut-
+sudut berikut. 
+ 
+a.
+b.
+c.
+A. Hubungan Antar Sudut
+Gambar 
+5.5 
+menunjukkan 
+persimpangan 
+jalan. 
+Setiap 
+persimpangan jalan membentuk 
+sudut. Sudut yang ukurannya 
+terlalu kecil akan menyulitkan 
+kendaraan 
+yang 
+akan 
+berbelok. Saat para perencana 
+merencanakan 
+sebuah 
+kota, 
+sudut pada persimpangan jalan 
+perlu ditentukan dengan cermat. 
+Idealnya persimpangan sudutnya tegak lurus, namun kondisi geografis 
+maupun kondisi lingkungan yang sudah ada sebelumnya dapat 
+membuat persimpangan tidak dapat tegak lurus.
+Eksplorasi
+5.1
+Besar Sudut Persimpangan
+Asep bermain game simulasi perancangan kota. Di suatu daerah, 
+terdapat dua jalan yang sejajar, Jalan Sumatera dan Jalan Sulawesi. 
+Asep ingin membuat Jalan Papua melewati kedua jalan tersebut, namun 
+game mengalami eror dan jalan ini tidak bisa tegak lurus dengan 
+Gambar 5.5 Persimpangan Jalan
+Matematika untuk SMP/MTs Kelas VII
+164
+kedua jalan lainnya. Bantu Asep untuk menyelidiki akibatnya terhadap 
+besarnya sudut-sudut antar jalan.
+Jalan Sumatera
+Jalan Papua
+Jalan Sulawesi
+Gambar 5.6 Persimpangan di Daerah N
+1. 
+Buat bentuk seperti Gambar 5.6 di atas. 
+Langkah-langkah:
+ 
+■
+Ambillah penggaris kalian, buat garis pada kedua sisinya. Dua 
+garis ini mewakili dua jalan yang sejajar.
+ 
+■
+Ambil sebatang lidi, letakkan sehingga berpotongan dengan 
+kedua garis tadi. Lidi ini mewakili jalan ketiga.
+ 
+■
+Untuk memudahkan penyebutan, beri nama setiap sudut yang 
+ada. Nama sudut biasanya dituliskan dengan huruf Yunani 
+(abjad Yunani dapat dilihat pada lampiran). Huruf yang 
+digunakan tidak harus berurutan. Tulis jawabanmu pada 
+Tabel 5.1 di bawah ini.
+Bab 5 | Kesebangunan
+165
+Tabel 5.1 Nama Sudut
+dari Jalan
+belok kiri/
+kanan
+ke Jalan
+nama
+a.
+Sulawesi
+kiri
+Papua
+α
+b.
+Sulawesi
+kanan
+Papua
+β
+c.
+...
+...
+...
+γ
+d.
+...
+...
+...
+...
+e.
+...
+...
+...
+...
+f.
+...
+...
+...
+...
+g.
+...
+...
+...
+...
+h.
+...
+...
+...
+...
+2. 
+Gunakan busur derajat untuk mengukur besarnya sudut-sudut 
+yang ada.
+ 
+■
+Jika kalian menemukan dua buah sudut yang sama besar, 
+letakkan busur derajat pada masing-masing sudut (kalian 
+akan membutuhkan dua busur derajat).
+ 
+■
+Geser-geserlah lidi. Amati besar kedua sudut yang diukur. 
+Apakah kedua sudut itu tetap sama besar?
+ 
+■
+Tuliskan sudut-sudut yang sama besar:
+a. 
+Sudut yang sama besar dengan  adalah  
+________________________________
+b. 
+Sudut yang sama besar dengan β adalah  
+_______________________________
+c. 
+ dan β adalah dua sudut yang _______________________ 
+karena α + β = ______
+Matematika untuk SMP/MTs Kelas VII
+166
+Tahukah Kalian?
+?
+1. 
+Sudut-sudut yang berpenyiku 
+adalah sudut yang jika dijumlahkan 
+membentuk sudut siku-siku (90◦). 
+Sudut yang besarnya 
+ dan 50◦ 
+adalah dua sudut yang berpenyiku 
+karena jumlahnya 90◦. 
+2. 
+Sudut-sudut yang berpelurus 
+adalah sudut yang jika dijumlahkan 
+membentuk garis lurus (180◦).  
+Sudut yang besarnya 65◦ dan 115◦ 
+adalah dua sudut yang berpelurus 
+karena jumlahnya 180◦.
+3. 
+Ada beberapa istilah yang perlu kalian ketahui tentang hubungan 
+antar sudut.
+Pada dua garis yang berpotongan, terdapat sudut yang bertolak 
+belakang, sedangkan pada dua garis sejajar yang berpotongan 
+dengan garis lain, dikenal istilah sehadap, dalam berseberangan, 
+luar berseberangan, dalam sepihak, luar sepihak.
+Contoh untuk masing-masing istilah dapat dilihat pada Tabel 5.2.
+Gambar 5.7 Dua Garis yang Sejajar yang Berpotongan dengan Garis Lain
+40
+50
+65
+115
+Bab 5 | Kesebangunan
+167
+Tabel 5.2 Istilah dalam Hubungan Antar Sudut untuk Gambar 5.7
+Istilah
+Nama Sudut
+bertolak belakang
+α dan γ
+β dan δ
+ε dan η
+ζ dan θ
+sehadap
+α dan ε
+β dan ζ
+δ dan θ
+γ dan η
+dalam berseberangan
+δ dan ζ
+γ dan ε
+luar berseberangan
+α dan θ
+β dan η
+dalam sepihak
+δ dan ε
+γ dan ζ
+luar sepihak
+α dan θ
+β dan η
+4. 
+Setelah membaca Tabel 5.2, perhatikan lagi lidi-lidi di hadapan 
+kalian (yang sesuai dengan Gambar 5.6).
+ 
+■
+Lengkapi Tabel 5.3 dengan pasangan-pasangan sudut yang 
+sesuai dengan masing-masing istilah pada Tabel 5.2. Gunakan 
+nama sudut yang kalian tulis pada Tabel 5.1.
+ 
+■
+Untuk setiap pasang sudut, tentukan apakah sudut-sudut itu 
+sama besar atau saling berpelurus.
+Matematika untuk SMP/MTs Kelas VII
+168
+Tabel 5.3 Hubungan Antar Sudut untuk Sudut pada Tabel 5.1
+Istilah
+Nama Sudut (gunakan 
+nama pada Tabel 5.1)
+Sama Besar/ 
+Berpelurus
+a.
+bertolak belakang
+• 
+_________________
+• 
+_________________
+• 
+_________________
+• 
+_________________
+...
+b.
+sehadap
+• 
+_________________
+• 
+_________________
+• 
+_________________
+• 
+_________________
+...
+c.
+dalam 
+berseberangan
+• 
+_________________
+• 
+_________________
+...
+d.
+luar 
+berseberangan
+• 
+_________________
+• 
+________________
+...
+e.
+dalam sepihak
+• 
+_________________
+• 
+_________________
+...
+f.
+luar sepihak
+• 
+_________________
+• 
+_________________
+...
+5. 
+ 
+Hubungan mana yang masih berlaku jika kedua garis tidak sejajar?
+Ayo Berpikir Kritis
+Bab 5 | Kesebangunan
+169
+Latihan 5.1
+Kerjakan soal-soal berikut.
+1. 
+Pada segitiga, jika sudut-sudutnya dijumlahkan, besarnya selalu 
+tetap. Gunakan pengetahuanmu tentang hubungan antar sudut 
+untuk menentukan besarnya jumlah sudut dalam segitiga ini.
+2. 
+Pada 4DEF diketahui bahwa dua sudut besarnya 550 dan 500. 
+Tentukan besar sudut ketiga.
+3. 
+Gambar berikut menunjukkan dua pasang garis sejajar. Salah 
+satu sudut diketahui besarnya. 
+A
+B
+C
+50
+55
+D
+E
+F
+Matematika untuk SMP/MTs Kelas VII
+170
+a. 
+Tentukan besar sudut-sudut yang lain.
+b. 
+Bangun apakah yang ditunjukkan oleh segi empat ABCD? 
+Jelaskan.
+Ayo Berefleksi
+1. 
+Apakah saya memahami apa yang dimaksud dengan sudut bertolak 
+belakang, sehadap, dalam berseberangan, luar berseberangan, 
+dalam sepihak, dan luar sepihak?
+2. 
+Apakah saya tahu sudut mana saja yang sama besarnya?
+3. 
+Apakah saya bisa mengerjakan soal yang terkait dengan hubungan 
+antar sudut?
+B. Arti Kesebangunan
+Gambar 5.8 Pas Foto Berbagai Ukuran
+A
+B
+D
+C
+130
+2 x 3
+3 x 4
+4 x 6
+Bab 5 | Kesebangunan
+171
+Permasalahan
+Pas foto seperti terlihat pada Gambar 5.8 dapat dicetak dengan ukuran 
+berbeda-beda. Berapa pun ukurannya, foto yang tercetak sama. Secara 
+matematis, istilah yang digunakan adalah sebangun. Benda yang 
+sebangun dapat memiliki ukuran yang berbeda, namun bentuknya 
+tetap.
+Eksplorasi
+5.2
+Memperbesar dan Memperkecil
+Secara elektronik, memperbesar dan memperkecil dapat dilakukan 
+dengan memanfaatkan fitur zoom in dan zoom out. Kalian dapat 
+mencoba memperbesar secara sederhana sebagai berikut.
+1. 
+Ikuti langkah-langkah berikut untuk memperbesar gambar ini.
+a. 
+Kaitkan dua buah karet gelang dengan simpul.
+b. 
+Dengan salah satu jari, tekan salah satu ujung karet pada 
+sebuah titik (jaga sehingga bagian ini tidak bergeser selama 
+kegiatan). Sebaiknya gunakan tangan yang berbeda dengan 
+tangan yang akan memegang pensil.
+c. 
+Kaitkan pensil pada ujung yang lain. Tariklah karet sehingga 
+simpul karet bergerak menelusuri gambar. 
+Matematika untuk SMP/MTs Kelas VII
+172
+d. 
+Gambar apakah yang dihasilkan oleh goresan pensil?
+2. 
+Bandingkan gambar awal dan gambar buatan kalian. Dalam hal apa 
+kedua gambar tersebut sama? Dalam hal apa keduanya berbeda? 
+Bandingkan hal-hal berikut:
+a. 
+Bentuk secara umum
+b. 
+Panjang garis
+c. 
+Keliling
+d. 
+Luas
+e. 
+Besar sudut
+3. 
+Lakukan hal yang sama untuk gambar yang berbeda (kalian dapat 
+membuat gambar sendiri). Bandingkan kedua gambar tersebut.
+4. 
+ 
+Modifikasi apa yang dapat kalian lakukan untuk memperkecil 
+gambar?
+Bangun datar yang dihasilkan dalam Eksplorasi 5.2 adalah bangun datar 
+yang sebangun dengan bangun datar awal.
+Ayo Berpikir Kritis
+Bab 5 | Kesebangunan
+173
+Latihan 5.2
+1. 
+Untuk setiap pasangan gambar berikut, tentukan apakah 
+pasangan gambar tersebut sebangun atau tidak sebangun.
+a. 
+b. 
+c. 
+d. 
+2. 
+Kinan mengubah ukuran gambar pada layar komputernya. 
+Manakah gambar yang sebangun dengan gambar asli? 
+ 
+Gambar asli
+Matematika untuk SMP/MTs Kelas VII
+174
+a. 
+b. 
+c. 
+d. 
+3. 
+Cermin manakah yang menghasilkan bayangan yang sebangun 
+dengan benda asalnya?
+a. 
+b. 
+c. 
+Bab 5 | Kesebangunan
+175
+Ayo Berefleksi
+1. 
+Apakah saya dapat membedakan benda yang sebangun dan yang 
+tidak sebangun?
+2. 
+Apakah saya dapat memberikan contoh benda-benda yang 
+sebangun?
+C. Kesebangunan pada Segitiga
+Gambar 5.9 Fraktal
+Tahukah Kalian?
+?
+Fraktal (seperti ditunjukkan pada Gambar 5.9) disusun dari gambar-
+gambar yang sebangun secara berulang. Berikut salah satu contohnya. 
+ 
+Mari mempelajari kesebangunan dari bangun datar yang paling 
+sederhana.
+
+
+
+
+Matematika untuk SMP/MTs Kelas VII
+176
+Eksplorasi
+5.3
+Memperbesar atau Memperkecil Secara 
+Proporsional
+Angga sedang membuat sebuah dokumen elektronik dan perlu 
+memasukkan gambar segitiga di dalamnya. Ini adalah gambar segitiga 
+yang ia buat, tetapi gambar ini terlalu kecil. 
+Ia memperbesar gambar tersebut dan berusaha mengatur ukuran 
+gambar dengan menggeser tetikus pada kotak berwarna biru yang ada 
+di sekeliling gambar segitiga.
+1. 
+Angga mencoba beberapa kali dan setiap kali mendapatkan hasil 
+yang berbeda. Berikut adalah segitiga-segitiga yang dia dapatkan. 
+Bantulah Angga untuk menentukan segitiga mana yang sebangun 
+dengan segitiga awal. Jelaskan alasannya.
+a. 
+Bab 5 | Kesebangunan
+177
+b. 
+c. 
+2. 
+Kali ini Angga menggunakan fitur size options pada aplikasi 
+yang digunakannya. Segitiga yang kanan adalah segitiga yang 
+dihasilkan dengan memperbesar segitiga sebelah kiri sebesar 
+200%.
+Ukuran & Rotasi
+Lebar
+Kunci rasio tinggi lebar
+4,3
+cm
+Tinggi
+2,5
+cm
+Skala Lebar
+200
+%
+Skala Tinggi
+200
+%
+Gambar awal
+Gambar yang diperbesar
+Matematika untuk SMP/MTs Kelas VII
+178
+a. 
+Apa saja persamaan kedua segitiga?
+b. 
+Apa saja perbedaan kedua segitiga?
+3. 
+Ukur panjang sisi-sisi segitiga dan tuliskan perbandingan:
+a. 
+Sisi terpendek di kedua segitiga
+b. 
+Sisi terpanjang di kedua segitiga
+c. 
+Sisi yang bukan terpendek maupun terpanjang di kedua 
+segitiga
+d. 
+Adakah perbandingan sisi yang sama?
+Ruas garis yang menghubungkan titik A dan titik B dapat dituliskan 
+sebagai AB. Selain itu, AB juga digunakan untuk menuliskan panjang 
+ruas garis AB.
+Jika AB dan CD menyatakan panjang ruas garis AB dan CD, 
+perbandingan panjang keduanya dituliskan sebagai AB
+CD
+.
+Ada beberapa cara penamaan sudut:
+1. 
+Pada subbab A kalian sudah belajar menamai sudut dengan huruf 
+Yunani.
+2. 
+Sudut dapat dinamai sesuai nama titik sudutnya. Contohnya, pada 
+4ABC ada tiga sudut, yaitu ∠A, ∠B, dan ∠C.
+3. 
+Menggunakan tiga huruf. Nama titik sudutnya diletakkan di 
+tengah. Contohnya ∠A pada 4ABC dibentuk oleh perpotongan 
+ruas garis BA dan ruas garis AC, maka ∠A dapat juga dituliskan 
+∠BAC atau ∠CAB.
+Sudut pada Gambar 5.10 dapat dinyatakan sebagai α atau ∠A, atau 
+dapat juga disebut ∠BAC atau ∠CAB.
+Bab 5 | Kesebangunan
+179
+A
+B
+C
+Gambar 5.10 Penamaan Sudut
+4ABC sebangun dengan 4DEF dapat dituliskan 4ABC ⇠4DEF . 
+Perhatikan bahwa urutan huruf dalam penulisan ini artinya  
+ 
+ 
+ 
+
+
+
+
+
+∠A = ∠D
+∠B = ∠E
+∠C = ∠F
+Latihan 5.3
+1. 
+Perhatikan 4ABC berikut. Titik D terletak pada AB. Jika E terletak 
+pada AC, gambarkan 4ADE yang sebangun dengan 4ABC.
+D
+C
+A
+B
+a. 
+Pada dua segitiga yang sebangun, sudut-sudut yang 
+berpadanan besarnya _________
+4ABC ⇠4ADE
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VII
+180
+b.
+∠A =  ∠ ________
+sudut berimpit
+c.
+∠B = ∠ ________
+sudut sehadap
+Untuk 
+mendapatkan 
+sudut 
+yang 
+sehadap dengan ∠B pada titik D, pada 
+titik D gambarkan garis yang 
+______________ dengan BC.
+d. 
+Titik E adalah perpotongan garis _____ dan garis ______
+e. 
+Apakah 4ADE yang kalian gambar sebangun dengan 
+4ABC? Jelaskan.
+2. 
+Pada 4ABC, AB = 7 cm, BC = 5 cm, AC = 6 cm. Titik D 
+terletak pada AB sehingga AD = 4 cm, DB = 3 cm.
+a. 
+Tentukan letak titik E sehingga 4ABC ⇠4ADE.
+b. 
+Tentukan panjang DE
+3. 
+ 
+a. 
+Lengkapi gambar di sebelah kanan supaya menjadi segitiga 
+yang sebangun dengan 4ABC.
+D
+C
+A
+B
+Ayo Berpikir Kritis
+Bab 5 | Kesebangunan
+181
+b. 
+Tentukan sudut dan sisi yang berpadanan.
+i. 
+∠G = ∠ ________________
+ii. 
+ 
+GH
+BA =_________________
+iii. 
+GI
+BC = _________________
+c. 
+Apakah data-data pada pertanyaan b cukup untuk menjamin 
+bahwa 4GHI sebangun dengan A?
+d. 
+Tuliskan dengan urutan huruf yang tepat
+4GHI ⇠4 ____________
+4. 
+Pada 4ABC, ∠ABC = 90◦ AB = 4 cm, BC = 3 cm. BD adalah 
+garis tinggi. Tentukan:
+a. 
+Luas 4ABC
+b. 
+Panjang BD
+c. 
+Segitiga yang sebangun
+d. 
+Panjang DC
+e. 
+Luas 4BCD
+H
+G
+A
+B
+C
+I
+Matematika untuk SMP/MTs Kelas VII
+182
+Refleksi
+Ayo merefleksikan kembali hal-hal apa saja yang telah kalian pelajari.
+1. 
+Apakah saya memahami sifat-sifat segitiga yang sebangun?
+2. 
+Apakah saya memahami syarat-syarat sehingga dua segitiga 
+disebut sebangun?
+3. 
+Apakah saya dapat memanfaatkan sifat kesebangunan segitiga 
+untuk menyelesaikan masalah?
+4. 
+Pada segitiga yang sebangun, sudut-sudut yang berpadanan 
+besarnya ______________
+5. 
+Pada segitiga yang sebangun, sisi-sisi yang berpadanan memiliki 
+perbandingan yang ____________
+Uji Kompetensi
+1. 
+Tentukan sudut-sudut yang sama besar.
+2. 
+Temukan segitiga-segitiga yang sebangun pada gambar nomor 1.
+3. 
+Seorang siswa yang tinggi badannya 150 cm mengamati 
+bayangannya. Kawannya mengukur bayangan itu. Ternyata 
+panjangnya 100 cm. Mereka kemudian mengukur bayangan 
+sebuah gedung di dekat lapangan. Ternyata panjangnya 300 cm. 
+Tentukan tinggi gedung tersebut.
+Bab 5 | Kesebangunan
+183
+4. 
+Tentukan segitiga yang sebangun dengan 4ABC. Jika EF = 5 cm, 
+tentukan panjang AB.
+Pengayaan
+Pada 4ABC, AD membagi ∠A menjadi dua bagian yang sama besar. 
+AD disebut garis bagi. Titik D terletak pada sisi BC.
+a. 
+ 
+Gambarkan garis yang sejajar dengan AD dan melalui titik C. 
+Garis ini berpotongan dengan perpanjangan AB di titik E.
+b. 
+Tuliskan sudut-sudut yang sama besar.
+Petunjuk
+i
+Matematika untuk SMP/MTs Kelas VII
+184
+c. 
+Beri alasan bahwa 4ACE sama kaki. Tuliskan sisi-sisi yang 
+sama panjang.
+d. 
+Tuliskan segitiga yang sebangun dengan 4BCE.
+e. 
+Tuliskan perbandingan sisi yang sama, manfaatkan untuk 
+menunjukkan bahwa 
+BD
+DC = AB
+AC.

@@ -1,0 +1,1012 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Fisika untuk SMA/MA Kelas XI
+Penulis 
+: Marianna Magdalena Radjawane, Alvius Tinambunan, Lim Suntar Jono
+ISBN 
+: 978-623-472-721-0 (jil.1)
+Kalor
+BAB 6
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, kalian dapat 
+menguraikan besaran suhu dan konversi 
+satuannya, menjelaskan asas Black serta 
+penerapannya dalam perubahan suhu dan 
+wujud zat, menguraikan pemuaian panjang, 
+luas, dan volume dari suatu materi,  serta 
+membedakan tiga jenis perpindahan kalor dan 
+penerapannya dalam kehidupan sehari-hari.
+Kata-kata kunci:
+• 
+Kalor
+• 
+Asas Black
+• 
+Suhu
+• 
+Termometer
+• 
+Pemuaian 
+• 
+Kalor jenis
+• 
+Kalor Laten 
+• 
+Konduksi 
+• 
+Konveksi 
+• 
+Radiasi
+Sumber: Batuhan Alper Bilginer/Pexels.com(2022)
+150
+Fisika untuk SMA/MA Kelas XI
+Pada siang hari yang panas dan malam hari yang dingin, tubuh kalian perlu 
+dijaga agar berada pada suhu yang hampir konstan. Pada hari yang panas, 
+kalian memakai pakaian yang lebih tipis, mengonsumsi minuman yang 
+dingin, serta duduk di dekat kipas angin atau masuk ke dalam ruangan yang 
+mempunyai pendingin untuk meningkatkan perpindahan panas dari tubuh 
+ke udara. Pada hari yang dingin, kalian memakai pakaian yang lebih tebal, 
+mengonsumsi minuman hangat atau tetap berada di ruangan yang hangat. 
+Kegiatan tersebut kalian lakukan agar suhu tubuh tetap terjaga. Peristiwa 
+di atas berkaitan dengan konsep suhu dan kalor. Pada bab ini kalian akan 
+mempelajari keterkaitan antara suhu dengan kalor serta pengaruhnya 
+terhadap perubahan suhu dan wujud benda. Selain itu dipelajari juga 
+pengaruh kalor terhadap ukuran benda serta cara perpindahan kalor.
+Peta Konsep
+mengkaji
+mengkaji
+mengkaji
+memengaruhi
+memengaruhi
+KALOR
+Suhu
+Skala linear
+Kalor 
+Jenis
+Kalor 
+Laten
+Muai Panjang
+Konduksi
+Muai Luas
+Konveksi
+Muai Volume
+Radiasi
+Koeisien Muai
+Panjang
+Termometer
+Pemuaian
+Perpindahan Kalor
+151
+ Bab 6 | Kalor
+A. Suhu
+1. Pengertian Suhu dan Alat Ukurnya 
+ 
+Istilah suhu sudah sering kalian gunakan dalam kehidupan sehari-hari. Kon-
+sep suhu berakar dari pengamatan terhadap keadaan panas atau dingin 
+suatu benda berdasarkan indera sentuhan. Tangan atau kulit kalian sebe-
+narnya tidak dapat merasakan perbedaan suhu dari dua benda dalam wak-
+tu bersamaan. Kalian hanya dapat membedakan bahwa suatu benda lebih 
+panas atau lebih dingin dari benda lainnya. Hal ini menunjukkan bahwa 
+pengukuran suhu menggunakan tangan atau kulit kurang akurat. 
+Untuk menunjukkan keterbatasan tangan mengukur suhu, lakukan 
+Aktivitas 6.1 berikut ini.
+Gambar 6.1 Tiga wadah dengan suhu air yang berbeda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Aktivitas 6.1
+1. 
+Sediakan tiga buah wadah atau tempat air lainnya. 
+2. 
+Isilah wadah pertama dengan air dingin, wadah kedua dengan air 
+hangat, dan wadah ketiga dengan air biasa. Letakkan wadah ketiga 
+di antara wadah pertama dan kedua.
+3. 
+Masukkan tangan kanan kalian pada wadah pertama dan tangan 
+kiri pada wadah kedua. 
+4. 
+Angkat kedua tangan dan segera masukkan ke wadah ketiga secara 
+bersamaan
+Apa kesimpulan yang kalian dapatkan dari sensasi yang dirasakan 
+tangan kalian?  Apakah tangan kalian dapat menjadi alat ukur yang 
+baik dalam pengukuran suhu? 
+152
+Fisika untuk SMA/MA Kelas XI
+Hasil pengamatan dari Aktivitas 6.1 menunjukkan bahwa tangan bukan 
+alat pengukur suhu yang baik. Kedua tangan kalian merasakan hal yang 
+berbeda saat berada di wadah ketiga padahal suhu air pada wadah ketiga 
+tetap tidak berubah. Hanya karena keadaan awal kedua tangan kalian yang 
+berbeda, kalian merasakan adanya perbedaan suhu pada wadah ketiga. Untuk 
+itulah diperlukan suatu alat pengukur suhu yang dinamakan termometer. 
+Untuk mengukur suhu sebuah benda, sentuhkan termometer dengan benda 
+tersebut. Cermati kegiatan di bawah ini untuk semakin memahami panas 
+atau dingin karena sifat bahan yang berbeda.
+Pada umumnya orang akan menjawab bahwa logam lebih rendah 
+suhunya daripada keset kaki. Keset kaki dan logam sesungguhnya berada 
+dalam kesetimbangan termal. Apa itu kesetimbangan termal? Perhatikan 
+Gambar 6.3. Air yang berbeda suhunya akan mencapai suhu yang sama ketika 
+tidak lagi terjadi perpindahan panas dari air panas ke air dingin.  Ketika suhu 
+keduanya sama dikatakan terjadi kesetimbangan termal. Keset dan logam 
+memberikan sensasi berbeda karena mempunyai sifat menghantarkan 
+panas yang berbeda.
+Injak salah satu kaki kalian pada 
+keset kaki dan satunya lagi pada 
+logam, misalnya kaki kursi. Apakah 
+ada perbedaan yang kalian rasakan 
+dan 
+apakah 
+ada 
+hubungannya 
+dengan suhu?
+Gambar 6.2 Satu kaki pada keset kaki dan logam
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 6.3 Kesetimbangan termal
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cermati!
+153
+ Bab 6 | Kalor
+Apa sebenarnya suhu itu? Suhu adalah besaran isis yang dimiliki bersama 
+oleh suatu sistem dengan sistem lainnya dalam keadaan setimbang termal. 
+Suhu juga menunjukkan energi kinetik rata-rata yang dimiliki oleh partikel-
+partikel materi yang bergetar atau bergerak secara translasi atau lurus. 
+Partikel-partikel juga dapat berotasi.  Jika suatu materi menjadi lebih panas 
+maka energi kinetik dari atom-atom atau molekul-molekul akan meningkat. 
+Perhatikan Gambar 6.4 yang menunjukkan gerak partikel-partikel dengan 
+kecepatan tertentu. Anak panah menunjukkan kecepatan partikel. 
+Suhu merupakan besaran yang menunjukkan seberapa panas atau 
+dingin suatu benda terhadap standar tertentu. Standar yang digunakan 
+sebagai acuan pada alat ukur suhu adalah skala suhu. Cara kerja termometer 
+memanfaatkan perubahan isis yang bergantung pada perubahan suhu, 
+yaitu sifat termometrik. Perubahan isis ini dapat diamati melalui perubahan 
+volume, perubahan hambatan listrik, perubahan sifat kemagnetan, dan 
+perubahan sifat optik. Suhu zat yang diukur sama besarnya dengan skala 
+yang ditunjukkan oleh termometer saat terjadi kesetimbangan termal antara 
+zat dengan termometer. Dengan kata lain, suhu yang ditunjukkan oleh 
+termometer sama dengan suhu zat yang diukur. 
+Gambar 6.4 Suhu sebagai energi kinetik rata-rata partikel
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Carilah informasi tentang dua termometer dengan sifat termometrik 
+yang  berbeda! Pahami cara kerjanya dan pemanfaatannya dalam 
+kehidupan sehari-hari. 
+Ayo, Cermati!
+154
+Fisika untuk SMA/MA Kelas XI
+2. Skala Suhu 
+ 
+Pembuatan termometer memerlukan penentuan suhu acuan. Suhu acuan 
+yang sering digunakan adalah titik didih dan titik beku air murni pada 
+tekanan udara 1 atm. Beberapa skala termometer yang dikenal saat ini ada-
+lah skala Celsius, skala Rearmur, skala Fahrenheit, dan skala Kelvin. Konver-
+si pembacaan skala dari satu termometer ke termometer lainnya menggu-
+nakan prinsip skala linier, yang artinya perbandingan panjang skala antar 
+termometer bersifat linier. Perhatikan Gambar 6.5. Termometer × memiliki 
+titik beku air 20
+ox dan titik didih air 80
+ox. Suhu suatu cairan yang diukur 
+dengan termometer × adalah 30
+ox, berapa suhu tersebut jika diukur dengan 
+termometer Y?  Karena berlaku sifat linier maka kalian dapat menggunakan 
+perbandingan panjang skala yang terbaca. 
+Dapat dituliskan,
+30
+20
+( 20)
+80
+20
+60
+( 20)
+40
+20
+6
+3
+y
+y
+x
+−
+−−
+=
+−
+−−
+= −
+= −
+Gambar 6.5 Prinsip konversi pada termometer
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cek Pemahaman!
+Buatlah soal tentang dua termometer dengan skala dan titik acuan 
+berbeda serta namai kedua termometer tersebut! Tentukan hubungan 
+antara kedua skala tersebut.
+o
+155
+ Bab 6 | Kalor
+Gambar 6.6 Percobaan penentuan kalor oleh Joule
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+B. Kalor
+1. Pengertian Kalor  
+Saat sendok dingin dimasukkan ke dalam secangkir air teh panas, sendok 
+dan air teh menjadi hangat ketika mencapai kesetimbangan termal. Interaksi 
+yang menyebabkan perubahan suhu ini pada dasarnya adalah perpindahan 
+energi dari satu bahan ke bahan lainnya. Energi yang ditransfer dari suatu 
+benda ke benda yang lain karena perbedaan suhu disebut kalor.
+Ketika beban jatuh ke bawah maka energi potensial berubah menjadi 
+energi kinetik bagi batangan logam yang ada di dalam air. Batangan logam 
+berputar dan mengaduk air. Gesekan antara batangan logam dengan air 
+menaikkan suhu air. Jadi, ada perubahan energi kinetik menjadi kalor yang 
+digunakan untuk menaikkan suhu air. Kesimpulan yang didapatkan adalah 
+untuk menaikkan suhu 1 gram air sebanyak 1 
+oC dibutuhkan energi sebesar 
+4,2 joule. Besar energi tersebut dihitung dari perubahan energi potensial 
+beban yang turun. Energi sebesar 4,2 joule (J) ini dikatakan sebagai 1 kalori 
+(kal) atau 1 J = 0,24 kal. 
+Untuk membuktikan bahwa kalor 
+adalah salah satu bentuk energi 
+maka James Prescott Joule (1818-
+1889) melakukan percobaan dengan 
+alat yang sederhana seperti yang 
+ditunjukkan oleh Gambar 6.6. Ada 
+beban yang digantung dan batangan 
+logam untuk mengaduk air dalam 
+wadah.  
+Ayo, Berdiskusi!
+Gesekkan terus-menerus kedua telapak tangan kalian dengan cukup 
+kuat dan cepat. Apa yang terjadi dengan suhu tangan kalian? Apa 
+yang berpindah dalam peristiwa ini? Bagaimana peristiwa ini dapat 
+terjadi?
+Ayo, Berpikir Kritis!
+Berdasarkan eksperimen Joule, apakah proses pemanasan merupakan 
+satu-satunya cara untuk menaikkan suhu benda? Jelaskan jawaban 
+kalian. 
+156
+Fisika untuk SMA/MA Kelas XI
+2. Pengaruh Kalor terhadap Perubahan Suhu  
+Apakah setiap materi akan mengalami perubahan suhu yang sama ketika 
+diberikan kalor yang sama? Jawabannya adalah tidak! Begitu juga sebalikn-
+ya, setiap materi akan menyerap kalor dengan besar yang berbeda meskipun 
+kenaikan suhu materi tersebut sama besar. Dengan demikian, ada faktor lain 
+yang memengaruhi hubungan antara kalor yang keluar-masuk materi den-
+gan perubahan suhu materi tersebut. Faktor-faktor ini akan kalian pelajari 
+pada aktivitas selanjutnya.
+Aktivitas 6.2
+Untuk menyelidiki pengaruh kalor terhadap perubahan suhu yang 
+berbeda, lakukanlah percobaan berikut secara berkelompok. Kalian 
+perlu menyiapkan sebuah gelas beaker, pemanas spiritus, termometer, 
+stopwatch atau arloji, kaki tiga, neraca, statif, dan air.
+Lakukanlah langkah-langkah berikut:
+1. Ukur massa gelas beaker kosong, kemudian masukkan air ke dalam 
+gelas beaker dan timbang massanya  menggunakan neraca. Massa 
+air sama dengan massa gelas beaker berisi air dikurangi massa gelas 
+beaker kosong.
+2. Masukkan termometer ke dalam air menggunakan statif. Ukur suhu 
+awal air.
+3. Panaskan air pada gelas beaker menggunakan pembakar spriritus 
+hingga mendidih. Hati-hati saat memanaskan air jangan sampai 
+kalian terkena api atau air panas.
+4. Ukur suhu air yang dipanaskan setiap tiga menit. Gunakan stopwatch 
+atau arloji untuk mengukur waktu.
+5. Ulangi langkah 1 sampai 6 dengan massa air yang berbeda. Catat 
+semua data ke dalam tabel data hasil pengamatan.
+1. Buatlah graik hubungan antara waktu dengan suhu air untuk setiap 
+massa air dan hubungan perubahan suhu dengan massa air.
+2. Faktor-faktor apa yang memengaruhi banyaknya kalor yang 
+dibutuhkan untuk menaikan suhu air?
+3. Kesimpulan apakah yang diperoleh dari graik tersebut.
+Tugas dan pertanyaan
+157
+ Bab 6 | Kalor
+Kalor jenis menunjukkan kemampuan materi menyerap kalor sehingga 
+suhunya naik. Kalor jenis c menyatakan besar kalor yang diperlukan untuk 
+menaikkan suhu 1 kg suatu benda sebesar 1
+oC. Semakin besar kalor jenis 
+benda makin kecil kenaikan suhunya. Mana yang lebih mudah antara 
+memanaskan 2 kg logam besi dengan 1 kg logam besi sebesar 1
+oC? Semakin 
+besar massanya maka energi kalor yang dibutuhkan semakin besar untuk 
+perubahan suhu tertentu. 
+Kalor jenis c menunjukkan besaran karakteristik dari zat. 
+Q
+c
+m
+T
+=
+∆
+Besar kalor Q yang dibutuhkan untuk mengubah suhu benda tertentu 
+sebanding dengan massa m dan perubahan suhu ΔT.
+Q=m c ΔT                    
+Dengan : 
+c   = kalor jenis (J/kg
+oC), 
+Q  = kalor (J), 
+m  = massa benda (kg) dan 
+ΔT = perubahan suhu (oC)  
+(6.1)
+Ayo, Berpikir Kritis!
+Perhatikan graik dalam Gambar 6.7 yang menunjukkan kenaikan 
+suhu dengan kalor yang diserap untuk aluminium dan air yang 
+bermassa sama. 
+Apakah air atau aluminium yang membutuhkan kalor lebih 
+banyak untuk kenaikan suhu yang sama? Jelaskan!
+Gambar 6.7 Kenaikan suhu terhadap kalor
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+158
+Fisika untuk SMA/MA Kelas XI
+Ayo, Cek Pemahaman!
+1. 
+Sebatang logam besi bermassa 0,5 kg diberikan kalor sebanyak 
+900 joule. Jika suhu mula-mula besi tersebut adalah 25
+oC, tentukan 
+suhu akhir logam besi tersebut! cbesi = 450 J/kg
+oC
+2. 
+Jelaskan pengaruh massa dan perubahan suhu pada kalor yang 
+diperlukan berdasarkan pemahaman konsep suhu sebagai 
+ukuran EK rata-rata partikel!
+Kalor jenis untuk berbagai materi diberikan dalam Tabel 6.1
+Tabel 6.1 Kalor Jenis Berbagai Materi
+Aluminium
+900
+Stainless steel
+420
+Perak
+230
+Air
+4180
+ Tembaga
+390
+Besi
+450
+Kayu
+1760
+Es (sekitar -5
+oC)
+2100
+Kaca
+840
+Bata
+840
+Alkohol
+2400
+Udara
+1000
+Materi
+Kalor Jenis (J/Kg
+oC) 
+ sumber: Yonanes Surya, Suhu dan termodinamika (Tangerang, PT Kandel, 2009)
+159
+ Bab 6 | Kalor
+(6.2)
+a. Kapasitas kalor 
+ 
+Kaitan antara massa m dan kalor jenis c dapat dihubungkan dengan suatu 
+besaran yang disebut dengan kapasitas kalor. 
+Untuk suatu benda, faktor m c dapat dipandang sebagai satu kesatuan. 
+Kapasitas kalor merupakan jumlah kalor yang dibutuhkan untuk menaikan 
+suhu suatu zat sebesar 1
+o C atau 1 K.
+C = c m 
+Q
+C
+T
+= ∆
+Dengan : 
+ C    = satuan J/K, 
+Q   = kalor (J), dan 
+ΔT = perubahan suhu (
+oC).
+(6.3)
+Ayo, Berpikir Kritis!
+Pada siang hari suhu di gurun pasir dapat mencapai 38
+oC dan pada 
+malam hari suhu dapat mencapai -3,9
+oC.  Jelaskan mengapa demikian.
+b. Asas Black 
+Hukum kekekalan energi menyatakan energi tidak dapat diciptakan atau di-
+musnahkan. Energi hanya dapat berubah dari satu bentuk ke bentuk energi 
+yang lain. Asas Black berlaku apabila dua zat yang memiliki suhu yang ber-
+beda dicampurkan, maka zat yang memiliki suhu tinggi akan melepaskan ka-
+lor dan memberikannya pada zat yang memiliki suhu rendah sehingga suhu 
+campuran dari kedua zat tersebut menjadi sama.
+Gambar 6.8 Perpindahan panas
+Sumber: Uriel Mont/Pexels.com (2020) dan Ron Lach/Pexel.com (2021)
+160
+Fisika untuk SMA/MA Kelas XI
+Jika dua benda yang memiliki suhu berbeda saling berinteraksi akan 
+terjadi perpindahan kalor. Kalor yang dilepaskan oleh suatu benda harus 
+sama dengan kalor yang diterima oleh benda lain. 
+Qlepas = Qterima
+m1 c1 ΔT1 = m2 c2 ΔT2 
+(6.4)
+Ayo, Cek Pemahaman!
+1. Air sebanyak 2 liter dengan suhu mula-mula 20
+oC dicampurkan ke 
+dalam air sebanyak 3 liter dengan suhu mula-mula 80
+oC. Tentukan 
+suhu akhir campuran tersebut!
+2. Suatu wadah berisikan air sebanyak 100 gram dengan suhu 40
+oC. Kemudian besi panas bermassa 400 gr dan bersuhu 70
+oC 
+dimasukkan ke dalam air tersebut. Tentukan suhu campuran jika 
+wadah diabaikan dalam penyerapan kalornya! 
+3. Pengaruh Kalor pada Perubahan Wujud 
+ 
+Dalam kehidupan sehari-hari kalian menemukan air yang dipanaskan terus 
+menerus akan menjadi uap, es batu yang disimpan di atas wadah akan men-
+cair, dan kapur barus yang disimpan di tempat terbuka akan habis tak tersisa. 
+Peristiwa tersebut menunjukkan bahwa air, es, dan kapur barus mengalami 
+perubahan wujud ketika berinteraksi dengan kalor dari lingkungan. Wujud 
+zat ada tiga macam, yaitu padat, cair, dan gas. Apabila suatu zat menerima 
+atau melepas kalor, maka zat tersebut akan mengalami perubahan wujud. 
+Ketika zat mengalami berbagai proses perubahan wujud, seperti melebur, 
+membeku, menguap, mengembun, dan menyublim maka proses tersebut ti-
+dak mengalami perubahan suhu walaupun terdapat pelepasan atau penyer-
+apan kalor. 
+Kalor yang diperlukan atau dilepaskan tiap satuan massa zat saat terjadi 
+perubahan wujud dinamakan kalor laten. Kalor laten memenuhi persamaan:
+L = Q/m
+Q = m L
+Dengan : 
+Q   = kalor yang diserap atau dilepas (J), 
+L   = kalor laten ((J/kg),  
+m  = massa zat (kg).
+(6.5)
+161
+ Bab 6 | Kalor
+Zat
+Kalor Lebur(J/Kg)
+Kalor Uap (J/Kg)
+Helium
+5230
+209000
+Raksa
+11800
+272000
+Alkohol
+104200
+853000
+Air
+334000
+2256000
+Perak
+88300
+2336000
+Emas
+64500
+1578000
+Berdasarkan perubahan wujud yang terjadi, kalor laten mempunyai 
+beberapa jenis. Zat yang mengalami perubahan wujud dari padat menjadi 
+cair (melebur), kalor latennya dinamakan kalor lebur, sedangkan ketika 
+membeku dinamakan kalor beku. Besarnya kalor lebur sama dengan 
+kalor beku. Apabila zat mengalami perubahan wujud dari cair ke uap 
+(menguap), kalor latennya dinamakan kalor uap, sedangkan ketika 
+mengembun dinamakan kalor embun. Besarnya kalor uap sama dengan 
+kalor embun. Kalor lebur dan kalor uap untuk berbagai zat ditunjukkan 
+pada tabel 6.2.
+Tabel 6.2 Kalor Lebur dan Kalor Uap Berbagai Zat
+Ayo, Berpikir Kritis!
+Apakah ada perbedaan titik didih jika air dimasak di lokasi sekitar 
+permukaan air laut dengan air yang dimasak di lokasi sekitar puncak 
+gunung? Berikan penjelasan isisnya!
+Kalor diperlukan oleh suatu zat untuk mengalami perubahan wujud serta 
+kenaikan suhu. Perhatikan ilustrasi di bawah ini.
+Gambar 6.9 Perubahan suhu terhadap perubahan wujud
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+162
+Fisika untuk SMA/MA Kelas XI
+Gambar 6.9 merupakan graik suhu terhadap kalor untuk spesimen air 
+dengan wujud awal padat (es). Perhatikan ketika es melebur menjadi air, hal 
+itu terjadi pada suhu 0
+oC dan ketika air menjadi uap, hal itu terjadi pada suhu 
+100
+oC dengan tekanan udara sekitar bernilai 1 atm.
+Ayo, Cek Pemahaman!
+1. 
+Berapa kalor yang dibutuhkan agar es bermassa 500 gram bersuhu 
+-4
+oC menjadi uap bersuhu 100
+oC? Data kalor jenis, kalor lebur dan 
+kalor uap laten dapat dilihat pada Tabel 6.1 dan 6.2.
+2. 
+Sejumlah air dengan suhu 30
+oC diberikan pada es bermassa 100 
+gram dengan suhu -5
+oC. Jika hanya 50% es yang mencari berapa 
+massa air yang dicampurkan?
+4. Pengaruh Kalor pada Pemuaian
+Secara umum, materi yang dipanaskan memuai dan menyusut jika 
+didinginkan. Pertambahan ukuran disebabkan oleh makin cepatnya gerak 
+atau getaran partikel-partikel sehingga jarak antar partikel makin besar. 
+Lihat Gambar 6.10.
+Gambar 6.10 Pertambahan jarak antara partikel
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+163
+ Bab 6 | Kalor
+Perubahan suhu dan jenis materi jelas memengaruhi pemuaian. 
+Ketika dipanaskan, setiap materi tidak memuai dengan ukuran yang 
+sama. Kemampuan materi untuk bertambah panjang akibat pemanasan 
+dinyatakan dengan koeisien muai panjang.
+Ayo, Berpikir Kritis!
+Gambar 6.12 menunjukkan susunan pertikel di dalam sebuah materi 
+sebelum dan sesudah dipanaskan. 
+Bandingkan kedua susunan tersebut. Jelaskan faktor apa yang 
+berpengaruh pada pemuaian!
+Gambar 6.12 Pengaruh ukuran mula-mula pada pemuaian
+sumber : Marcha Roselini Y/Kemendikbudristek (2022)
+Gambar 6.11 Tangki bawah tanah pada pompa bensin dan bensin menetes
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Contoh pemuaian termal adalah pemuaian bensin. Perhatikan Gambar 
+6.11 yang menunjukkan tangki bawah tanah dari suatu pompa bensin. Pada 
+siang hari bensin yang terdapat dalam tangki bawah tanah lebih rendah 
+suhunya dibandingkan jika bensin sudah berada dalam tangki mobil. Saat 
+bensin memenuhi tangki mobil, cairan bahan bakar ini memuai lebih cepat 
+sehingga bensin dapat menetes keluar dari mobil.
+164
+Fisika untuk SMA/MA Kelas XI
+Zat
+Koeisien
+muai panjang
+Zat
+Koeisien
+muai panjang
+Aluminium
+24 × 10-6
+Udara
+3,67 × 10-4
+Kuningan
+19 × 10-6
+Alkohol
+1,12 × 10-4
+Tembaga
+17 × 10-6
+Benzena
+1,24 × 10-4
+Kaca (biasa)
+9 × 10-6
+Aseton
+1,5 × 10-4
+Timbal
+29 × 10-6
+Raksa
+1,82 × 10-4
+Invar
+0,9 × 10-6
+Bensin
+9,6 × 10-4
+Pemuaian terjadi pada panjang, luas, dan volume benda. Pemuaian 
+panjang dapat didekati dengan pengamatan logam berbentuk kabel tipis 
+(luas penampang kecil) sehingga dapat menggunakan model satu dimensi. 
+Nilai koeisien muai panjang α dideinisikan oleh persamaan:
+(
+)
+o
+L
+L
+T
+α
+∆
+=
+∆
+Dengan : 
+α    = koeisien muai panjang (/
+oC), 
+ΔL  = perubahan panjang (m), 
+Lo   = panjang mula-mula (m) dan 
+ΔT  = perubahan suhu (
+oC)
+Di bawah ini adalah tabel koeisien muai panjang untuk beberapa jenis zat 
+(6.6)
+Sumber: Yonanes Surya, Suhu dan termodinamika (Tangerang, PT Kandel, 2009)
+Tabel 6.3. Tabel koeisien muai panjang beberapa zat
+Sebatang logam timbal dengan panjang mula-mula 1,5 meter dinaikan 
+suhunya dari 10
+oC menjadi 30
+oC. Koeisien muai panjang timbal adalah 
+29 × 10
+-6 /
+oC. Tentukan panjang timbal itu sekarang!
+Ayo, Cermati!
+165
+ Bab 6 | Kalor
+Jika suatu cincin logam dipanaskan, 
+apakah ukuran lubang cincin 
+berkurang, tetap atau bertambah? 
+Ayo, Berpikir Kritis!
+Gambar 6.13 Cincin logam yang dipanaskan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Pemuaian volume dinyatakan dengan koeisien muai volume, yaitu
+V
+V
+T
+ο
+γ
+∆
+=
+∆
+Dengan : 
+ γ    = Koeisien muai volume (/
+oC),
+ΔV  = Perubahan volume (m
+3),
+Vo   = Volume mula-mula (m
+3) dan
+ΔT  = perubahan suhu (
+oC). 
+nilai γ = 3α jika α diketahui.
+(6.8)
+Analisis pemuaian pelat persegi dengan panjang sisi mula-mula Lo. 
+Setelah dipanaskan dengan perubahan suhu ΔT panjang sisi persegi 
+menjadi L. Jika koeisien muai panjang α, cobalah kalian buat 
+penurunan matematisnya untuk mendapatkan nilai koeisien muai 
+luas β = 2 α.  
+Ayo, Berdiskusi!
+Untuk benda yang luasnya tidak dapat diabaikan, seperti pelat persegi tipis 
+atau pelat berbentuk cakram, maka pemuaian luas ini harus diperhitungkan. 
+Mudah atau sulitnya pemuaian luas ini dinyatakan oleh koeisien muai luas:
+A
+A
+T
+ο
+β
+∆
+=
+∆
+Dengan : 
+ β    = koeisien muai luas (/
+oC),
+ΔA  = perubahan luas (m
+2),
+Ao   = luas mula-mula (m
+2) dan 
+ΔT  = perubahan suhu (
+oC)
+Apa hubungan antara koeisien muai panjang (α) dengan koeisien muai 
+luas (β)? Untuk jenis materi yang sama, nilai β = 2α.
+(6.7)
+166
+Fisika untuk SMA/MA Kelas XI
+C. Perpindahan Kalor 
+ 
+Perpindahan kalor dapat terjadi melalui konduksi, konveksi atau radiasi.
+1. Konduksi  
+Perpindahan kalor yang tidak diikuti perpindahan partikel zat disebut kon-
+duksi. Ketika materi dipanaskan, atom-atomnya bergetar lebih cepat karena 
+mendapatkan energi. Getaran ini menyebabkan atom - atom ini menumbuk 
+atom tetangganya sehingga energi berpindah. 
+Khusus pemanasan logam, elektron-elektron bebas pada atom logam 
+juga mendapatkan energi sehingga bergerak lebih cepat dan menumbuk 
+elektron-elektron yang lebih jauh. Perpindahan kalor oleh elektron lebih 
+cepat daripada perpindahan kalor yang diakibatkan getaran antar atom. Zat 
+yang mudah menghantarkan kalor disebut konduktor, misalnya logam. Zat 
+yang sukar menghantarkan kalor disebut isolator, misalnya plastik dan kayu. 
+Laju perpindahan kalor secara konduksi (laju kalor konduksi) sebanding 
+dengan luas penampang dan perbedaan suhu antara titik yang lebih panas 
+dan lebih dingin. 
+Gambar 6.14 Proses Konduksi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Persamaan yang menghubungkan beberapa besaran yang mempengaruhi 
+laju kalor konduksi ditunjukkan dengan persamaan berikut.
+(
+)
+panas
+dingin
+A T
+T
+Q
+A T
+H
+k
+k
+t
+x
+x
+−
+∆
+=
+=
+=
+∆
+∆
+Dengan : 
+ H  = Q/t = laju kalor konduksi (W) atau (J/s), 
+A   = luas permukaan (m
+2), 
+∆x = tebal bahan (m), 
+k   = konduktivitas termal bahan (Jm
+-1K
+-1), dan 
+T   = suhu (
+oC atau K). 
+Beberapa nilai konduktivitas termal bahan (k) disajikan pada tabel berikut 
+ini.
+(6.9)
+167
+ Bab 6 | Kalor
+Terdapat dua jenis konveksi, yaitu konveksi bebas dan konveksi paksa. 
+Konveksi ini terjadi karena adanya perbedaan massa jenis pada bagian-bagian 
+luida tersebut. Ketika dipanaskan, bagian luida yang berdekatan dengan 
+sumber panas akan memuai sehingga massa jenisnya berkurang (terjadi 
+pemuaian volume). Akibatnya bagian luida yang massa jenisnya lebih rendah 
+ini akan berpindah ke atas. Sedangkan konveksi paksa adalah konveksi yang 
+dibantu oleh benda eksternal seperti kipas, pompa dan pengaduk. 
+2. Konveksi
+Gambar 6.16 Proses konveksi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tangan akan terasa panas apabila 
+didekatkan 
+di 
+atas 
+api 
+karena 
+pemanasan udara di sekitar api. 
+Proses perpindahan energi panas 
+disertai perpindahan partikel disebut 
+konveksi. Energi panas ini umumnya 
+dibawa oleh luida (sesuatu yang 
+mengalir).
+Salah satu aplikasi dari konduksi 
+adalah solder listrik. Panas dari solder 
+listrik akan dialirkan melalui timah. 
+Konsep pemuaian dan perubahan wujud 
+benda juga terjadi pada proses tersebut.
+Gambar 6.15. Solderan
+Sumber : Blaz Erzetic/Pexels.com (2019)
+Tabel 6.4. Tabel konduktivitas termal beberapa zat
+Sumber : Yonanes Surya, Suhu dan termodinamika (Tangerang, PT Kandel, 2009), p.20
+Zat
+k (W/m.K)
+Zat
+k (W/m.K)
+Perak
+406
+Gabus
+0,04
+Alumunium
+205
+Bulu halus
+0,02
+Perunggu
+109
+Kapuk
+0,03
+Besi
+50
+Es
+1,6
+Air
+0,6
+Kaca
+0,8
+Kayu
+0,13
+Bensin
+9,6 × 10-4
+168
+Fisika untuk SMA/MA Kelas XI
+Persamaan yang menghubungkan beberapa besaran yang memengaruhi laju 
+kalor konveksi ditunjukkan dengan persamaan di bawah:
+Q
+H
+hA T
+t
+=
+=
+∆
+Dengan : 
+ H   = Q/t = laju kalor konveksi (W) atau (J/s),
+A   = luas permukaan yang bersentuhan 
+dengan luida (m
+2),
+ΔT = beda suhu antara benda dan luida (
+oC atau K) dan
+h   = koeisien konveksi (Wm
+-2K
+-1).
+Cuaca merupakan salah satu aplikasi dari konveksi. Perbedaan suhu dan 
+kelembaban mempengaruhi pergerakan awan dan akan berakibat pada cuaca 
+di suatu daerah.
+(6.10)
+Gambar 6.17. Proses radiasi
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(6.11)
+3. Radiasi 
+ 
+Mengapa tangan kita tetap merasa panas 
+walau tidak berada di atas api? Tangan 
+kita akan tetap merasa panas karena 
+perpindahan kalor melalui proses radiasi.
+Setiap benda memancarkan ataupun 
+menyerap 
+radiasi 
+menurut 
+persamaan 
+Stefan-Boltzmann. Persamaan yang menghubungkan beberapa besaran yang 
+memengaruhi laju kalor radiasi ditunjukkan oleh persamaan berikut ini.
+4
+Q
+H
+eA T
+t
+σ
+=
+=
+Dengan : 
+ H = Q/t = laju kalor radiasi (W) atau (J/s),
+A = luas permukaan benda (m
+2) ,
+T = suhu mutlak (K),
+e = emisivitas benda (0 ≤ e ≤ 1), dan
+σ = konstanta Boltzmann yang besarnya 
+5,67 × 10
+-8  W m
+-2 K
+-4.
+Emisivitas merupakan karakteristik suatu benda yang bergantung pada 
+jenis zat dan permukaannya. Permukaan yang hitam kusam, seperti arang 
+mempunyai emisivitas mendekati 1, yang berarti dapat memancarkan dan 
+menyerap radiasi sangat baik.
+169
+ Bab 6 | Kalor
+Gambar 6.20. Oven Microwave
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+4. Aplikasi Perpindahan Kalor 
+ 
+Perhatikan bagian-bagian termos di bawah ini.
+Mengapa penutup terbuat dari plastik? 
+Mengapa 
+ada 
+permukaan 
+mengkilat? 
+Mengapa ada ruang vakum?
+Termos didesain dengan pemahaman bahwa 
+perpindahan kalor dapat terjadi melalui 
+konduksi, konveksi atau radiasi.
+Aktivitas 6.4
+Desain suatu penyelidikan untuk mengetahui kemampuan pembungkus 
+wadah menghantarkan panas. Sediakan 3 botol selei atau gelas dengan 
+penutup, ketiganya harus identik. Tiga jenis pembungkus adalah bubble 
+wrap atau plastik, kertas jenis apa saja dan potongan kain.  
+1. Alternatif pertama: jika tidak ada termometer, masukkan potongan 
+coklat dalam setiap wadah
+2. Alternatif kedua: jika ada termometer, masukkan air panas dalam 
+setiap wadah
+Pikirkan variabel bebas, variabel terikat dan variabel kontrol dalam 
+kegiatan ini.  Tunjukkan alat dan bahan, prosedur kerja, pengambilan 
+dan pengolahan data serta kesimpulan.
+Sementara permukaan yang putih mengkilat mempunyai emisivitas 
+mendekati 0 yang menunjukkan benda kurang baik dalam memancarkan 
+dan menyerap radiasi.Fenomena radiasi 
+sering ditemukan dalam kehidupan sehari-
+hari, salah satu pemanfaatan dari fenomena 
+radiasi 
+adalah 
+oven 
+microwave 
+yang 
+digunakan untuk memasak.
+Gambar 6.21. Bagian-bagian termos
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+170
+Fisika untuk SMA/MA Kelas XI
+Intisari
+Kalor adalah energi yang mengalir dari benda bersuhu tinggi ke benda 
+bersuhu rendah. Ketika kalor berpindah pada suatu materi, maka 
+terjadi perubahan isis pada materi. Kalor dapat mengubah wujud 
+dan suhu benda. Besar kalor yang dibutuhkan untuk perubahan 
+wujud benda berkaitan dengan kalor laten, sedangkan besar kalor 
+yang dibutuhkan untuk perubahan suhu berkaitan dengan kalor jenis 
+benda tersebut. 
+ 
+Perubahan isis akibat penyerapan atau pelepasan kalor oleh suatu 
+materi juga adalah perubahahan ukuran dari materi tersebut. Materi 
+akan mengalami pemuaian ketika dipanaskan. Perubahan ukuran 
+suatu materi baik pemuaian panjang, pemuaian luas, maupun 
+pemuaian volume, terkait erat dengan nilai koeisien muai materi 
+tersebut. 
+Ketika dua benda bersentuhan, maka secara spontan akan terjadi 
+perpindahan energi panas tersebut. Perpindahan kalor akan berhenti 
+ketika kondisi benda sudah berada dalam kesetimbangan termal. 
+Perpindahan kalor itu sendiri dapat terjadi melalui tiga cara, yaitu 
+konduksi, konveksi, dan radiasi.
+Releksi
+Setelah kalian melakukan berbagai aktivitas pembelajaran dalam 
+bab ini, coba releksikan bagaimana kalian memahami konsep kalor 
+beserta aplikasinya dalam kehidupan sehari-hari.
+1. Carilah nilai konduktivitas termal dari setiap material. 
+2. Tentukan laju perpindahan kalor secara konduksi, jika mempunyai 
+data suhu.
+Pertanyaan
+171
+ Bab 6 | Kalor
+1. Sebuah jendela kaca di desain dengan 
+bentuk seperti gambar di samping. 
+Apabila konduktivitas termal kaca dan 
+udara masing-masing adalah 0,7 w/mK 
+dan 0,03 w/mK. Apabila suhu di dalam 
+adalah 17
+o dan di luar adalah 30
+oC. 
+Tentukan suhu kaca yang bersentuhan 
+dengan 
+udara 
+di 
+dalam 
+jendela 
+(abaikan perpindahan kalor karena 
+konveksi dan anggaplah ketebalan kaca 
+kiri sama dengan ketebalan kaca kanan 
+serta ketebalan udara adalah dua kali 
+ketebalan salah satu kaca).
+Asessmen
+2. Sebuah sistem pendingin di dalam sebuah mobil terdiri atas sistem 
+tertutup yang menyerap panas dari motor dan sebuah radiator kemudian 
+memindahkan panas tersebut ke lingkungan. Berikut tabel untuk menguji 
+keefektifan dari tiga sistem pendingin.
+ 
+Dari data di atas, pendingin manakah yang lebih efektif? Berikan 
+alasan kenapa dua pendingin lain tidak cocok untuk dijadikan sebagai 
+pendingin.
+3. Wadah kosong yang terbuat dari logam tembaga pada suhu 25 
+oC dengan 
+volume 60 liter diisikan bensin sampai penuh. Pada suhu 55 
+oC, Apakah 
+cairan bensin akan tumpah keluar dari wadah tersebut? Jika cairan bensin 
+tumpah, berapa volume bensin yang akan tumpah tersebut? Data koeisien 
+muai untuk logam tembaga dan cairan bensin dapat dilihat pada Tabel 6.3.
+Pendingin
+Titik Lebur
+Titik Didih
+Kalor jenis 
+(Jkg-1C-1)
+A
+-40° C
+95° C
+4800
+B
+-25° C
+25° C
+5200
+C
+0° C
+100° C
+3900
+172
+Fisika untuk SMA/MA Kelas XI
+Sebelum pencampuran
+Setelah pencampuran
+Cairan A
+Cairan B
+Cairan C
+Cairan  
+A & B
+Cairan  
+A & C
+Cairan  
+B & C
+2 Kg, 20°C
+1 Kg, 60°C
+4 kg, 40°C
+40°C
+30°C
+?
+5. Dua buah logam berbentuk balok dengan ukuran dan suhu yang sama 
+yaitu 8 cm × 8 cm × 0,5 cm. Logam yang pertama terbuat dari perak dan 
+logam yang kedua terbuat dari besi dengan beberapa data sebagai berikut.
+4. Tiga buah cairan A, B, dan C dengan tiga proses pencampuran berbeda, 
+yaitu cairan A dengan cairan B, cairan A dengan cairan C, dan cairan B 
+dengan cairan C. Berikut tabel data dari proses pencampuran tersebut.
+Menurut kalian, berapakah suhu akhir campuran cairan B dengan cairan 
+C? Berikan argumentasi kalian dalam bentuk perhitungan yang sistematis!
+Jika masing-masing logam tersebut diletakkan sepotong es batu yang 
+memiliki massa dan suhu yang sama di atas luasan 8 cm × 8 cm, jelaskan 
+es batu pada logam mana yang akan lebih cepat mencair! Berikan 
+argumentasimu melalui analisis data pada tabel yang diberikan!
+Zat
+Konduktivitas
+(W/m.K)
+Kalor Jenis
+(J/Kg.K)
+Massa jenis 
+(kg/m3)
+Perak
+406
+230
+1050
+Besi
+205
+450
+7874

@@ -1,0 +1,2619 @@
+BAB 3 Evolusi 
+129
+Evolusi
+Bagaimanakah asal-usul kehidupan dan 
+mekanisme terjadinya evolusi?
+BAB
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Biologi 
+untuk SMA Kelas XII
+Penulis	
+Shilviani Dewi, dkk.
+ISBN 	
+978-602-427-958-5 (jil.2)
+3
+Evolusi
+Definisi 
+Evolusi
+Teori Evolusi Pra-Darwin
+Teori Evolusi 
+Pasca-Darwin
+Teori abiogenesis atau 
+generatio spontanea
+Teori evolusi sintesis
+Teori evolusi modern
+Sejarah Perjalanan dan Pokok 
+Pikiran Darwin dan Wallace
+Mekanisme Evolusi Darwin
+Hanyutan genetik (genetic drift)
+Aliran gen (gene flow)
+Bukti-bukti mekanisme 
+evolusi Darwin
+Hukum Hardy Weinberg dan 
+Mikroevolusi
+Teori Biogenesis
+Teori Evolusi Kimia
+Teori dari Laut ke Darat
+Teori Evolusi Lamarck
+Teori dari Prokariotik ke 
+Eukariotik
+Teori Evolusi Darwin dan Wallace
+Perkembangan 
+Teori Evolusi
+Biologi untuk SMA/MA Kelas XII
+130
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+1.	
+menjelaskan berbagai teori terkait asal-usul makhluk hidup.
+2.	
+menjelaskan mekanisme terjadinya evolusi disertai dengan bukti-bukti 
+adanya evolusi. 
+3.	
+menghubungkan 
+prinsip 
+adaptasi 
+dan 
+seleksi 
+alam 
+dengan 
+mekanisme evolusi. 
+4.	
+menganalisis prinsip genetic drift dan gene flow dengan mekanisme evolusi. 
+5.	
+membuktikan perubahan frekuensi gen melalui hukum Hardy Weinberg. 
+Kata Kunci
+evolusi, adaptasi, seleksi alam, genetic drift, gene flow, hukum Hardy Weinberg, 
+mekanisme evolusi.
+Peta Materi
+BAB 3 Evolusi 
+131
+Tahukah Kalian
+Coba, kalian amati keberadaan makhluk hidup di sekitar kalian. Dari 
+manakah asal mula keberadaan makhluk hidup tersebut? Saat melihat 
+seekor burung, pikirkan dari mana asal burung tersebut? Mungkin 
+kalian akan berpikir bahwa burung berasal dari telur. Lalu, dari 
+manakah asal telur tersebut? 
+Pernahkah kalian mendengar kisah tentang burung maleo? Burung 
+Maleo merupakan jenis burung endemik yang hidup di Sulawesi. Burung ini 
+dianggap lebih menyerupai ayam dibandingkan anggota burung lainnya. Hal 
+ini disebabkan burung tersebut lebih sering menggunakan kakinya untuk 
+berjalan daripada sayap untuk terbang. Mengapa hal tersebut dapat terjadi? 
+Apakah ada sejarah kekerabatan antara ayam dan burung maleo? Pada bab 
+ini, kalian akan mempelajari tentang asal-usul makhluk hidup, perkembangan 
+kehidupan serta kekerabatan antarmakhluk hidup. 
+	
+Dalam bukunya yang berjudul The Origin Of Species, Charles Darwin 
+menyampaikan teori evolusi. Profesor Richard Dawkins mencoba menjelaskan 
+teori evolusi Darwin tersebut dengan menggunakan analogi sebuah arloji yang 
+tanpa sengaja ditemukan dalam sebuah perjalanan. Ketika dibongkar, ternyata 
+arloji tersebut tersusun oleh berbagai material, seperti mesin penghubung 
+baterai, per, dan berbagai materi lainnya yang saling terhubung sehingga 
+dapat menjalankan fungsi sebagai penunjuk waktu. Berdasarkan hal tersebut 
+	Gambar 3.1 Burung maleo endemik Sulawesi, 
+	
+Indonesia.
+	
+Biologi untuk SMA/MA Kelas XII
+132
+dapat disimpulkan bahwa keberadaan arloji bukanlah kebetulan, melainkan 
+memiliki perancang khusus untuk mendesain fungsinya. 
+Analogi arloji di atas dapat digunakan untuk memahami asal-usul 
+kompleksitas tubuh makhluk hidup. Seperti halnya struktur tubuh burung 
+maleo yang diperlihatkan pada gambar di atas memiliki berbagai organ 
+tubuh antara lain kaki, bulu, sayap, dan lain sebagainya sehingga keberadaan 
+organ tersebut saling bersinergi untuk membangun suatu sistem regulasi di 
+dalam tubuh.  
+Ayo Mengingat Kembali
+Masih ingatkah kalian pembahasan mengenai Materi Genetik dan 
+Pewarisan Sifat yang sudah kalian pelajari di bab sebelumnya? Coba, 
+kalian ingat kembali dengan melakukan kegiatan berikut.
+AKTIVITAS 3.1
+Mengamati Variasi Anjing
+1. 
+Amati gambar variasi anjing berikut.
+ 
+ 
+ 
+ Gambar 3.2 Variasi anjing.
+2. 
+Berdasarkan pengamatan gambar, tuliskan minimal 5 persaman 
+dan perbedaan secara morfologi yang kalian temukan dari gambar 
+tersebut. 
+Karakter
+Persamaan
+Perbedaan 
+Telinga
+Memiliki 
+dua telinga 
+Bentuk telinga panjang  
+Bentuk telinga pendek
+BAB 3 Evolusi 
+133
+Rambut
+Pola warna 
+dst
+3.	
+Diskusikan bersama teman dan guru kalian tentang hal-hal terkait 
+dengan penyebab munculnya berbagai variasi dalam satu spesies 
+yang sama. 
+Berdasarkan aktivitas di atas, kalian tahu bahwa ada begitu banyak 
+perbedaan yang ditemukan, namun perbedaan tersebut tidak menunjukkan 
+perbedaan spesies. Variasi yang terjadi pada Gambar 3.2 memperlihatkan satu 
+spesies yang sama.
+Variasi anjing pada Gambar 3.2 disebabkan adanya perbedaan pada level 
+gen. Dengan demikian, dapat dikatakan bahwa terdapat hubungan yang 
+sangat erat antara genotip dan fenotip pada makhluk hidup.
+A.	 Definisi Evolusi
+Sebelum kalian mempelajari lebih jauh mengenai perkembangan teori evolusi, 
+lakukan aktivitas berikut.
+AKTIVITAS 3.2
+Mengamati Proses Evolusi Kuda
+1.	
+Bentuk kelompok yang terdiri 
+atas 3 – 4 orang.
+2.	
+Amati dengan cermat gambar 
+evolusi kuda di samping!
+ 
+Gambar 3.3
+Evolusi kuda.
+Biologi untuk SMA/MA Kelas XII
+134
+3.	
+Jawablah pertanyaan berikut dengan berdiskusi!
+a.	
+Berdasarkan gambar di atas, apa yang dapat kalian amati?
+b.	
+Bandingkan struktur tubuh kuda Eohippus yang hidup kisaran 
+56 juta tahun lalu dengan fosil Equus kuda yang hidup sekitar 
+dua juta tahun lalu dan dikenal sebagai kuda modern. 
+c.	
+Apa perbedaan dari kedua kuda tersebut?
+d.	
+Bisakah kalian melihat perkembangan perubahan ukuran 
+tubuh kuda Eohiphus hingga kuda modern? Kira-kira, apa 
+penyebab dari perubahan ukuran tersebut? 
+4. 
+Dari hasil pengamatan kalian, susunlah sebuah definisi dari evolusi.
+5.	
+Presentasikan hasil pengamatan kalian di depan kelas. 
+Evolusi berasal dari bahasa Inggris, evolution yang berarti perkembangan. 
+Dalam ilmu biologi, evolusi adalah perubahan pada makhluk hidup yang 
+terjadi secara perlahan dalam waktu yang sangat panjang. Salah satu contoh 
+peristiwa evolusi, yaitu evolusi pada kuda. Perkembangan ukuran tubuh 
+kuda yang semula seukuran kucing butuh waktu puluhan juta tahun untuk 
+mencapai ukuran kuda modern saat ini. 
+Perkembangan ukuran kuda seperti diuraikan di atas merupakan contoh 
+dari evolusi progresif. Selain progresif, evolusi juga dapat terjadi secara 
+regresif. Evolusi regresif terjadi karena adanya perubahan pada makhluk hidup 
+dari yang kompleks menjadi sederhana, bahkan menuju punah. Contohnya, 
+burung kasuari diturunkan dari burung bersayap dan bisa terbang menjadi 
+tidak bersayap dan tidak bisa terbang. Contoh lainnya, yaitu perkembangan 
+dinosaurus yang berakhir dengan kepunahan karena ketidakmampuan 
+dalam adaptasi.
+Pada Aktivitas 3.1, kalian telah mengingat kembali hubungan antara 
+genotip dan fenotip. Kalian telah memahami bahwa sifat yang muncul di 
+permukaan dipengaruhi oleh gen yang terdapat dalam makhluk hidup 
+tersebut. Lalu, bagaimana hubungan antara makhluk hidup berkaitan dengan 
+peristiwa evolusi? Coba, kalian lakukan aktivitas 3.3 berikut.
+BAB 3 Evolusi 
+135
+AKTIVITAS 3.3
+Mengamati Gambar Hubungan Dasar Evolusi Makhluk Hidup
+1.	
+Lakukanlah pengamatan pada gambar 3.4 berikut ini. 
+BA
+CT
+ER
+IA
+ ( 
+EU
+BA
+CT
+ER
+IA
+)  
+   
+   
+  A
+RC
+HA
+EA
+ (
+AR
+CH
+AE
+BA
+CT
+ER
+IA
+)  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+EU
+CA
+RY
+OT
+ES
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+AR
+CH
+AE
+A 
+(A
+RC
+HA
+EB
+AC
+TE
+RI
+A)
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  E
+UC
+AR
+YO
+TE
+S
+Aquifex
+Thermomicrobium
+E. coli
+Bacillus
+Cyanobacteria
+Thermofilum
+Sulfolobus
+Haloferax
+Methanobacterium
+(rumen sapi)
+Methanococcus
+Dictyostelium
+Manusia
+Jagung
+Ragi
+Paramecium
+Euglena
+Trypanosoma
+Giardia
+Trichomonas
+1 perubahan/
+10 nukleotida
+sel awal 
+yang sama
+ Gambar 3.4 Pohon filogeni yang menunjukkan hubungan evolusi berbagai 
+makhluk hidup.
+	
+	
+	
+	
+	
+Sumber: Albert B, dkk (2008)
+2.	
+Berdasarkan pengamatan gambar, isilah tabel di bawah ini dengan 
+memberikan tanda (v) untuk hal-hal yang berhasil kalian amati.
+Pernyataan
+Saya berhasil 
+memahami
+Ya
+Tidak
+Saya memahami bahwa makhluk hidup mula-mula berasal 
+dari satu sel tunggal sebagai common ancestor yang selalu 
+dilestarikan.
+Saya memahami bahwa makhluk hidup berkembang dari spesies 
+sederhana menjadi semakin kompleks seiring berjalannya waktu.
+Saya memahami bahwa makhluk hidup dikelompokkan dalam 
+tiga domain yang berkembang dari common ancestor.
+Saya memahami bahwa setiap spesies yang memiliki kesamaan 
+ciri dalam pohon filogeni disusun saling berdekatan.
+3.	
+Jika dari sel origin of life diperlukan waktu jutaan tahun untuk 
+membentuk organisme yang kompleks, apakah garis waktu evolusi 
+masih bekerja saat ini? Prediksilah kemungkinan jutaan tahun 
+yang akan datang apakah masih terjadi evolusi pada manusia? 
+Diskusikan hal tersebut bersama teman sebangku kalian.
+4.	
+Presentasikan hasil diskusi kalian didepan kelas!
+5.	
+Dengarkanlah penjelasan dan umpan balik yang diberikan oleh guru.
+Biologi untuk SMA/MA Kelas XII
+136
+B.	 Perkembangan Teori Evolusi 
+Bagaimana asal-usul kehidupan makhluk hidup di muka bumi? Pertanyaan 
+tersebut masih menjadi perdebatan hingga saat ini dikarenakan keterbatasan 
+bukti yang tersedia untuk memperlihatkan asal-usul kehidupan. Perkembangan 
+teori terkait mekanisme evolusi dapat kalian lihat pada Gambar 3.5 berikut. 
+1750
+1800
+1850
+1900
+Revolusi Amerika
+Revolusi Prancis
+Perang Sipil Amerika
+Linasus (klasifikasi)
+Hutton (perubahan geologi bertahap)
+Lamarch (spesies bisa berubah)
+Malthus (batas populasi)
+Cuvier (fosil, kepunahan)
+Lyell (geologi modern)
+Darwin (evolusi, seleksi alam)
+Mendel (mewarisi)
+Wallace (evolusi, seleksi alam)
+1795    Hutton mengusulkan teorinya tentang gradualisme
+1798    Malthus menerbitkan "Essay on the Principle of Population"
+1809    Lamarck menerbitkan teorinya tentang evolusi
+1830    Lyell menerbitkan Principles of Geology
+1831–1836    Darwin keliling dunia dengan HMS Beagle
+1837    Darwin mencatat tentang asal usul spesies
+1837    Darwin menulis esainya tentang asal usul spesies
+1837    Wallace mengirimkan teorinya ke Darwin
+1837    The Origin of Species diterbitkan
+1865    Mendell menerbitkan makalah warisan
+ 
+	Gambar 3.5 Perkembangan teori mekanisme evolusi.
+	
+Sumber: Campbell (2003)
+Berdasarkan Gambar 3.5, terdapat tiga kelompok besar perkembangan 
+teori evolusi, yaitu teori pra-Darwin, teori Darwin, dan teori pasca-Darwin. 
+1.	 Teori Evolusi Pra-Darwin
+a.	 Teori abiogenesis atau generatio spontanea
+Pernahkah kalian membiarkan sepotong roti tawar tergeletak di atas meja 
+dalam hitungan hari atau bahkan minggu? Fenomena apa kira-kira yang 
+mungkin terjadi? Mungkin saja dalam peristiwa tersebut, kalian akan 
+menemukan belatung di permukaan roti. Kira-kira, dari manakah asal 
+belatung tersebut? Apakah belatung berasal dari roti? 	
+Pada kasus ini, penganut teori abiogenesis memberikan argumen 
+sebagai jawaban pertanyaan asal-usul munculnya belatung. Sesuai 
+dengan nama teorinya, “a” yang artinya tidak, “bio” artinya hidup, dan 
+BAB 3 Evolusi 
+137
+“genesis” artinya kejadian maka teori abiogenesis menyatakan bahwa 
+makhluk hidup berasal dari makhluk tidak hidup atau kejadian makhluk 
+hidup terjadi secara spontan (generatio spontanae). Teori ini dikemukakan 
+oleh Aristoteles (tahun 384 SM) dan didukung oleh beberapa filsuf lainnya, 
+di antaranya berikut ini. 
+◉	 Antonie Van Leeuwenhoek
+Bayangkan, jika kalian mengamati setetes air di bawah mikroskop 
+dan menemukan makhluk kecil yang mampu bergerak. Kira-kira, 
+dari mana asal makhluk tersebut? Apakah mungkin air menghasilkan 
+mikroorganisme tersebut? Coba, kalian pikirkan!
+Pendapat Antonie Van Leeuwenhoek mengenai teori abiogenesis 
+didasarkan pada pengamatan di bawah mikroskop sekitar abad ke-17. Ia 
+melihat adanya mikroorganisme (makhluk hidup kecil) di dalam tetesan 
+air hujan dan air jerami sehingga ia menyimpulkan bahwa makhluk 
+hidup (mikroorganisme) berasal dari benda mati, yaitu air hujan atau air 
+rendaman Jerami.
+◉	 John Turberville Needham 
+Coba, kalian pikirkan apa yang akan terjadi jika ayam direbus dalam 
+sebuah wadah, lalu air bekas rebusannya dibiarkan hingga beberapa 
+hari. Mungkin kalian akan menemukan bahwa air kaldu tersebut berubah 
+warna menjadi lebih keruh, berbau busuk, dan tidak segar. 
+Pendapat Needham mengenai teori abiogenesis didasarkan pada 
+pengamatannya di bawah mikroskop  pada setetes air kaldu yang telah 
+tersimpan beberapa hari ternyata banyak dijumpai mikroorganisme. 
+Dengan demikian, Needham menyimpulkan bahwa makhluk hidup 
+berasal dari benda mati.
+b.	 Teori Biogenesis
+Teori biogenesis dikemukakan oleh tiga orang ahli, yaitu Francesco 
+Redi, Lazzaro Spallanzani, dan Louis Pasteur. Teori yang mereka ajukan 
+muncul sebagai bentuk perlawanan terhadap teori abiogenesis. Secara 
+harfiah “bio” dapat diartikan hidup dan “genesis” berarti kejadian. Teori 
+ini menyatakan bahwa makhluk hidup berasal dari makhluk hidup 
+sebelumnya. 
+Biologi untuk SMA/MA Kelas XII
+138
+◉	 Percobaan Francesco Redi
+Untuk lebih memahami mengenai teori abiogenesis yang dikemukakan 
+oleh Francesco Redi, coba lakukan aktivitas 3.4 berikut!
+AKTIVITAS 3.4
+Memahami Percobaan Francesco Redi
+Alat:
+1.	
+3 buah toples dengan ukuran dan jenis yang sama 
+2.	
+1 lembar kain kasa seukuran penutup toples
+3.	
+alat tulis 
+4.	
+kertas label 
+Bahan:
+3 potong daging segar 
+Langkah percobaan: 
+1.	
+Masukkan potongan daging pada setiap toples.
+2.	
+Beri label I, II, dan III pada masing-masing toples tersebut.
+3.	
+Berikan perlakuan pada ketiga toples, yaitu:
+a.	
+toples I dibiarkan terbuka. 
+b.	
+toples II ditutup dengan kain kasa.
+c.	
+toples III ditutup dengan rapat sehingga tidak memungkinkan 
+ada celah. 
+4.	
+Letakkan ketiga toples tersebut di tempat yang aman.
+5.	
+Lakukan pengamatan terhadap ketiga toples tersebut. 
+6.	
+Catat hasil pengamatan yang telah dilakukan pada tabel berikut. 
+Toples yang Diamati
+Hasil Pengamatan Perubahan Daging 
+pada Hari ke-
+1
+2
+3
+4
+5
+6
+7
+Toples I 
+(dibiarkan terbuka)
+Toples II (ditutup 
+dengan kain kasa)
+Toples III (ditutup 
+dengan rapat)
+7.	
+Berdasarkan tabel hasil pengamatan, jawablah pertanyaan berikut.
+a.	
+Tuliskan hal yang terjadi pada kaldu yang ada pada masing-
+masing toples setelah tujuh hari pengamatan.
+BAB 3 Evolusi 
+139
+b. 
+Jika pada toples I dan II ditemukan belatung, dari mana kira-
+kira asal dari belatung tersebut?
+c. 
+Mengapa tidak ditemukan belatung pada toples III? 
+d. 
+Buatlah kesimpulan dari percobaan yang telah kalian lakukan. 
+Francesco Redi melakukan percobaan seperti percobaan yang telah 
+kalian lakukan. Ia memberikan tiga perlakuan pada daging yang 
+diletakkan di dalam toples. Perhatikan Gambar 3.6 berikut!
+Percobaan I 
+ 
+       Percobaan II  
+ 
+ 
+Percobaan III
+Sebelum
+Sesudah
+ Gambar 3.6 Hasil percobaan Francesco Redi.
+Berdasarkan hasil percobaan, Francesco Redi menyimpulkan bahwa 
+belatung-belatung yang muncul di atas permukaan kasa dan permukaan 
+daging dalam toples terbuka berasal dari telur-telur lalat yang tertinggal 
+ketika lalat-lalat tersebut menghinggapi daging. Dengan demikian, 
+Francecsco Redi menyimpulkan bahwa makhluk hidup muncul dari 
+makhluk hidup sebelumnya dan bukan dari benda mati. 
+◉ Percobaan Lazzaro Spallanzani
+Pada tahun 1765, Spallanzani melakukan percobaan yang berlawanan 
+dengan Needham. Hal ini dilakukan untuk mendukung teori Redi. 
+Spallanzani mengatakan bahwa Needham tidak merebus tabung cukup 
+Biologi untuk SMA/MA Kelas XII
+140
+lama sampai semua organisme terbunuh (proses sterilisasi) dan Nedham 
+juga tidak menutup leher tabung dengan rapat sehingga masih ada 
+organisme yang masuk dan tumbuh. Spallanzani melakukan percobaan 
+dengan dua bentuk perlakuan. Perhatikan Gambar 3.7 berikut. 
+Perlakuan I                                                      Perlakuan II
+Labu dipanaskan
+Dibiarkan terbuka
+Menjadi keruh
+Labu dipanaskan
+Ditutup rapat
+Tetap jernih
+air kaldu
+air kaldu
+ Gambar 3.7 Percobaan Lazarro Spalanzani.
+ 
+Berikut penjabaran dari percobaan yang dilakukan Lazzaro 
+Spalanzani.
+Perlakuan ① Labu diisi air kaldu dan dididihkan sampai semua 
+mikroorganisme di dalam labu tersebut mati. Kemudian, labu didiamkan 
+dalam kondisi terbuka. Setelah beberapa hari, air kaldu di dalam labu 
+berubah warna menjadi keruh dan terdapat mikroorganisme.
+Perlakuan ② Labu diisi air kaldu dan didihkan sampai semua 
+mikroorganisme di dalam labu tersebut mati. Kemudian, labu didiamkan 
+dalam kondisi tertutup rapat. Setelah beberapa hari, air kaldu di dalam 
+labu masih tetap jernih dan tidak ditemukan mikroorganisme di dalamnya. 
+Berdasarkan percobaannya, Spalanzani menyimpulkan bahwa 
+mikroorganisme yang terdapat di dalam labu terbuka berasal dari 
+mikroorganisme yang tersebar di udara. Hal ini mendukung teori 
+biogenesis bahwa makhluk hidup berasal dari makhluk hidup sebelumnya. 
+BAB 3 Evolusi 
+141
+◉	 Percobaan Louis Pasteur
+Louis Pasteur adalah seorang ahli biologi. Pada tahun 1864, ia melakukan 
+percobaan menggunakan tabung leher angsa untuk menyempurnakan 
+percobaan Spallanzani. Perhatikan Gambar 3.8 berikut untuk mengamati 
+percobaan yang dilakukan oleh Pasteur.
+◉	 Gambar 3.8 Percobaan leher angsa 
+Louis Pasteur.
+	
+	
+1
+3
+2
+Berikut adalah langkah-langkah percobaan Pasteur:
+1.	
+Labu diisi 70 cc air kaldu dan ditutup rapat dengan gabus. Lalu, 
+celah antara gabus dan mulut labu diolesi parafin cair sehingga 
+meminimalisir celah. Selanjutnya, pada gabus tersebut dipasang pipa 
+kaca berbentuk leher angsa dan dipanaskan untuk sterilisasi.
+2.	
+Labu didinginkan dan diletakkan pada tempat yang aman. Setelah 
+beberapa hari, air kaldu diamati dan keadaan air kaldu tersebut tetap 
+jernih serta tidak mengandung mikroorganisme. 
+3.	
+Lalu, labu tersebut dimiringkan sampai air kaldu di dalamnya mengalir 
+ke permukaan pipa hingga bersentuhan dengan udara. Selanjutnya, 
+labu diletakkan kembali pada kondisi yang aman. Setelah beberapa 
+hari, air kaldu diamati dan keadaan air kaldu menjadi keruh serta 
+mengandung mikroorganisme. 
+Dari hasil percobaan Louis Pasteur dapat disimpulkan bahwa 
+mikroorganisme yang tumbuh tidak berasal dari benda mati (cairan kaldu), 
+tetapi dari mikroorganisme yang terdapat di udara. Mikroorganisme yang 
+merupakan makhluk hidup terdapat di udara bersama dengan debu.
+Biologi untuk SMA/MA Kelas XII
+142
+Setelah percobaan yang dilakukan oleh Louis Pasteur, tumbanglah 
+pemahaman evolusi yang didasarkan pada teori abiogenesis dan muncul 
+paham baru tentang asal-usul makhluk hidup yang dikenal dengan teori 
+biogenesis. Teori tersebut menyatakan:
+1.	
+omne vivum ex ovo = semua makhluk hidup berasal dari telur. 
+2.	
+omne ovum ex vivo = semua telur berasal dari makhluk hidup.
+3.	
+omne vivum ex vivo = semua makhluk hidup berasal dari makhluk 
+hidup sebelumnya. 
+AKTIVITAS 3.5 
+Membandingkan 
+Beberapa 
+Percobaan 
+yang 
+Mendukung 
+Perkembangan Teori Evolusi
+1.	
+Bandingkan percobaan yang mendukung teori perkembangan 
+mekanisme evolusi beberapa ilmuwan berikut. Tulis dalam tabel di 
+bawah ini.
+Uraian 
+Van 
+Leuwenhook Needham Francesco
+Redi
+Lazzaro 
+Spalanzani 
+Louis
+Pasteur
+Bahan 
+Percobaan yang 
+dilakukan 
+Hasil 
+Kelemahan
+2.	
+Tulis pendapat kalian (pro atau kontra) secara pribadi terkait 
+beberapa teori yang telah dipelajari. Lengkapi juga pendapat kalian 
+dengan alasan yang ilmiah dan dapat diterima.
+3.	
+Bagikan dan diskusikan hasil penugasan kalian di depan kelas. 
+c.	 Teori Evolusi Kimia
+Percobaan Pasteur telah berhasil menumbangkan paham abiogenesis 
+sekaligus membangkitkan paham biogenesis, akan tetapi belum mampu 
+memberi jawaban atas pertanyaan asal-usul makhluk hidup pertama kali. 
+Bisakah kalian membayangkan munculnya suatu makhluk hidup dari 
+ketiadaan? Oleh karena itu, paham biogenesis tetap mempertanyakan 
+dari mana asal makhluk hidup pertama tersebut. 
+BAB 3 Evolusi 
+143
+Menurut teori evolusi kimia, makhluk hidup berasal dari reaksi 
+senyawa CH4, NH3, H2, dan H2O dengan bantuan energi sinar kosmik dan 
+halilintar sehingga terakumulasi menjadi senyawa organik serupa asam 
+amino. Teori tersebut dikemukakan oleh Harold Urey. 
+Kemudian, teori tersebut dibuktikan oleh Stanley Miller dalam 
+percobaannya di laboratorium menggunakan alat yang diberi nama 
+pesawat uratmosphare. Perhatikan Gambar 3.9 untuk memahami 
+rangkaian percobaan yang dilakukan Miller. 
+Percobaan ini didasarkan pada pemahaman bahwa bahan organik 
+merupakan bahan dasar organisme. Percobaan tersebut dapat dijelaskan 
+dalam beberapa fase, di antaranya:
+Fase 1	 tersedianya molekul metana (CH4), amonia (NH3), hidrogen, dan 
+uap air yang sangat banyak di dalam atmosfer. 
+Fase 2	 keberadaan halilintar dan radiasi sinar-sinar kosmis sebagai 
+sumber energi dapat menyebabkan terjadinya reaksi molekul-
+molekul di atas untuk membentuk suatu zat.
+Fase 3	 hasil reaksi yang terjadi menghasilkan suatu zat hidup yang lebih 
+kompleks dari unsur sebelumnya.
+Fase 4	 zat hidup yang terbentuk diperkirakan berupa asam amino yang 
+kemudian berkembang selama berjuta-juta tahun menjadi sejenis 
+organisme yang lebih kompleks.
+	Gambar 3.9 Alat percobaan Miller.
+Biologi untuk SMA/MA Kelas XII
+144
+Dari percobaan yang dilakukannya, Miller berhasil membuktikan 
+teori Urey. Alat percobaan Miller disimpan dalam sebuah kondisi yang 
+diperkirakan sama dengan kondisi pada waktu sebelum ada kehidupan 
+yang terdiri atas kumpulan zat anorganik dan energi kosmik yang 
+bersumber dari sinar kosmik dan halilintar seperti dugaan Urey. Ke 
+dalam alat tersebut dimasukkan bermacam-macam gas, seperti uap air 
+yang dihasilkan dari air yang dipanaskan, hidrogen, metan, dan amonia. 
+Kemudian, alat tersebut dialiri listrik 75.000 volt (sebagai pengganti 
+kilatan halilintar). Setelah seminggu, Miller mendapatkan zat organik 
+berupa asam amino yang berperan sebagai komponen kehidupan. Selain 
+R - CH(NH₂) - COOH (asam amino), diperoleh juga HCN (asam sianida) 
+dan CH₄N₂O (urea).  
+Penemuan yang dilakukan Miller masih memunculkan pertanyaan 
+terkait mekanisme perkembangan makhluk hidup dari yang sederhana 
+menjadi kompleks. Misalnya, perubahan organisme prokariot menjadi 
+eukariot dan teori yang menjelaskan asal-usul kehidupan terjadi di darat. 
+Oleh karena itu, muncullah teori yang menjelaskan asal-usul terkait sel. 
+d. Teori dari Prokariotik ke Eukariotik 
+Sel prokariotik dianggap sebagai ancestor of life. Lalu, dari manakah sel 
+eukariotik terbentuk? Atau bagaimanakah mekanisme perubahan sel 
+prokariotik menjadi sel eukariotik? Sebelum melanjutkan uraiannya lebih 
+lanjut, perhatikan Gambar 3.10 di bawah ini.  
+DNA
+Sitoplasma
+Retikulum
+endoplasma
+Nukleus
+Mitokondria
+Mitokondria
+Plastida
+Membran
+plasma
+Lipatan membran 
+plasma
+Membran inti
+Sel yang
+memiliki 
+nukleus dan
+sistem 
+endomembran
+Masuknya 
+prokariot aerob 
+heterotrof
+Nenek moyang
+sel eukariot
+heterotrof
+Masuknya 
+prokariot fotosintetik
+Nenek moyang
+sel eukariot
+fotosintetik
+Nenek moyang
+sel prokariot
+ Gambar 3.10 Mekanisme endosimbiosis.
+ 
+BAB 3 Evolusi 
+145
+Sel eukariotik terbentuk karena adanya interaksi yang sangat erat 
+antara dua sel. Gambar 3.10 di atas menjelaskan suatu interaksi perubahan 
+sel prokariotik menjadi sel eukariotik yang disebut endosimbiosis. 
+Interaksi sampai terjadinya endosimbiosis setidaknya melibatkan dua sel. 
+Salah satu sel akan berperan sebagai inang (ancestral host cell) dan sel 
+lainnya masuk ke dalam sel inang untuk menjadi organel. 
+Teori ini menjelaskan bahwa asal usul sel eukariotik dimulai ketika 
+sel prokariotik purba “dimakan” oleh sel eukariotik sederhana yang 
+berukuran lebih besar dan berperan sebagai sel inang. Sementara, sel 
+prokariotik purba yang masuk akan menjadi cikal bakal organel sel 
+berupa mitokondria dan kloroplas. Jadi, pembentukan organel sel pada 
+sel eukariot dengan endosimbiosis.
+e.	 Teori dari Laut ke Darat
+Jika teori interaksi endosimbiosis dapat diterima, dapatkah kalian 
+menafsirkan bahwa kehidupan pertama kali berada di dasar laut? Lalu, 
+bagaimana kehidupan dari laut dapat berpindah ke darat sehingga 
+terbentuk kehidupan seperti yang saat ini dapat kita amati? 
+Teori ini menjelaskan bahwa pertama kali sel-sel berada di laut 
+dan berkembang menjadi organisme yang hidup di laut. Adanya faktor 
+kompetisi untuk bertahan hidup, seperti adanya predator antarorganisme 
+laut menyebabkan beberapa organisme mencoba beralih hidup dari laut 
+ke darat. Fakta yang mendukung teori ini, yaitu siklus hidup amfibi yang 
+sebagian masa hidupnya dilalui di air. Dari fertilisasi sampai berudu, amfibi 
+hidup di air. Kemudian, mengalami metamorfosis untuk hidup di darat.
+f.	
+Teori Evolusi Lamarck
+Sebelum mempelajari mekanisme teori evolusi yang dikemukakan oleh 
+Lamarck, coba kalian lakukan aktivitas 3.6 berikut!
+AKTIVITAS 3.6
+Menarik Kesimpulan Sementara terkait Teori Evolusi Lamarck
+Pengamatan Lingkungan
+1.	
+Coba, kalian amati lingkungan sekitar.
+2.	
+Lalu, jawablah pertanyaan berikut berdasarkan pengamatan kalian.
+Biologi untuk SMA/MA Kelas XII
+146
+a.	
+Apakah kalian pernah melihat jerapah berleher pendek? Ya/Tidak 
+b.	
+Apakah kalian setuju dengan pernyataan bahwa semua jerapah 
+berleher panjang? Ya/Tidak
+Pengamatan Gambar
+1.	
+Coba, kalian amati gambar berikut
+.
+	Gambar 3.11 Asal-usul jerapah berleher panjang.
+2.	
+Lalu, jawablah pertanyaan berikut sebagai hasil pengamatan kalian. 
+a.	
+Tuliskan fakta-fakta tentang perubahan ukuran tubuh jerapah 
+yang kalian temukan berdasarkan pengamatan gambar.  
+b.	
+Tuliskan alasan terjadinya perubahan ukuran tubuh jerapah 
+berdasarkan fakta-fakta yang kalian temukan pada nomor a.
+Pada Aktivitas 3.6, kalian menemukan bahwa jerapah berleher pendek 
+pernah menjadi salah satu variasi dari jerapah. Tetapi, saat ini kita tidak 
+dapat menemukan lagi jenis tersebut dan hanya tersisa jerapah berleher 
+panjang. Jean Lamarck memberikan penjelasan terkait perkembangan 
+dan perubahan organisme yang dimulai dari organisme sederhana 
+menjadi organisme kompleks.  Berikut beberapa hal yang menjadi pokok 
+dasar teori Lamarck.
+BAB 3 Evolusi 
+147
+1)	
+Makhluk hidup sederhana merupakan nenek moyang makhluk hidup 
+yang kompleks atau sempurna.
+2)	
+Makhluk hidup akan terus beradaptasi dan menyesuaikan diri dengan 
+lingkungannya sebagai upaya untuk bertahan hidup.
+3)	
+Organ yang mengalami perubahan karena dipakai secara terus-
+menerus akan berkembang secara sempurna, sedangkan organ 
+yang tidak diperlukan lagi akan mengalami penurunan atau tidak 
+berkembang lagi. Prinsip ini dinyatakan sebagai teori use and disuse. 
+4)	
+Evolusi organik terjadi karena perubahan yang disebabkan pengaruh 
+lingkungan dan perubahan ini dapat diwariskan ke generasi 
+berikutnya. 
+Teori Lamarck menjelaskan bahwa pada awalnya seluruh jerapah 
+berleher pendek. Namun, jerapah akan beradaptasi seiring berjalannya 
+waktu dan semakin sering menggunakan lehernya untuk menjangkau 
+makanan demi bertahan hidup, sehingga terbentuklah jerapah berleher 
+panjang. Sifat tersebut akan diwariskan kepada generasi berikutnya.  
+2.	 Teori Evolusi Darwin dan Wallace
+a.	 Sejarah Perjalanan dan Pokok Pikiran Darwin
+Teori evolusi yang dicetuskan Charles Darwin memiliki pengaruh yang 
+sangat besar terhadap perkembangan ilmu biologi dimulai dari sebuah 
+perjalanan yang dilakukan menggunakan kapal H.M.S Beagle saat berusia 
+22 tahun pada Desember 1831. Pada saat pelayaran tersebut, Charles 
+Darwin terkesan dengan persebaran flora dan fauna di Amerika Serikat. 
+Menurut Darwin, fakta tersebut merupakan sebuah petunjuk menjawab 
+pertanyaan tentang asal-usul spesies. Charles Darwin merupakan seorang 
+naturalis yang memiliki ketertarikan dengan organisme di kawasan Benua 
+Amerika. Darwin mengamati berbagai adaptasi tumbuhan dan hewan 
+yang menempati hutan Brazil, bentangan padang rumput di Argentina, 
+daratan terpencil Tierra del Fuego dekat Argentina, dan pegunungan 
+Andes. Setelah mencatat dan mengamati berbagai flora dan fauna di 
+Amerika. Ia menyimpulkan bahwa  terdapat perbedaan karakteristik flora 
+dan fauna yang ia temui di  Amerika dan Eropa.
+Biologi untuk SMA/MA Kelas XII
+148
+Fauna yang paling membuat Charles Darwin terkesan, yaitu 
+keberadaan burung finch di Galapagos, suatu kepulauan yang berada 
+di sebelah Barat pesisir Amerika Selatan. Darwin menemukan berbagai 
+jenis burung finch yang berbeda bentuk paruhnya. Perhatikan Gambar 
+3.12 untuk mengamati variasi paruh burung finch yang ditemukan 
+Charles Darwin. 
+ Gambar 3.12 Variasi paruh burung finch yang ditemukan Charles Darwin.
+	
+ 
+BAB 3 Evolusi 
+149
+AKTIVITAS 3.7
+Jawablah pertanyaan berikut ini, untuk melengkapi hasil pengamatan 
+kalian terkait Gambar 3.12. 
+1.	
+Bisakah kalian menemukan perbedaan paruh masing-masing 
+variasi burung? Pikirkan, hal yang menjadi faktor utama penyebab 
+perbedaan bentuk paruh. 
+2.	
+Bagaimana mekanisme perubahan bentuk paruh karena faktor 
+yang kalian sebutkan? Jelaskan!  
+Berdasarkan Aktivitas 3.7, kalian sudah sama-sama mengamati bahwa 
+struktur morfologi burung disesuaikan dengan jenis makanan. Coba, 
+kalian bayangkan jika burung pemakan daging memiliki bentuk paruh 
+yang serupa dengan burung pemakan biji-bijian maka fungsi organ paruh 
+tersebut tidak berjalan dengan baik. Perbedaan bentuk dan ukuran paruh 
+merupakan adaptasi terhadap makanan tertentu. 
+Ada tiga kelompok burung finch yang ditemui Darwin, yaitu 
+sebagai berikut.
+1.	
+Burung finch yang hidup di tanah (Geospiza magnirostris) mempunyai 
+paruh besar yang teradaptasi untuk memecahkan biji.
+2.	
+Burung finch (Camarhynchus pallidus) yang menggunakan duri 
+kaktus atau ranting kecil sebagai alat untuk mengorek semut atau 
+serangga lainnya.
+3.	
+Burung finch (Camarhynchus parvulus) yang menggunakan paruhnya 
+untuk menangkap serangga. 
+Untuk memperkuat pemahaman terkait teori Darwin, coba kalian 
+membuat kesimpulan sementara berdasarkan pengamatan lingkungan 
+dan gambar dengan melakukan aktivitas berikut. 
+Biologi untuk SMA/MA Kelas XII
+150
+AKTIVITAS 3.8
+Menarik Kesimpulan Sementara terkait Teori Evolusi Darwin
+Pengamatan Lingkungan
+1.	
+Coba, amati lingkungan sekitar kalian.
+2.	
+Lalu, jawablah pertanyaan berikut berdasarkan pengamatan kalian.
+a.	
+Apakah 
+kalian 
+pernah 
+melihat 
+jerapah 
+berleher 
+pendek? Ya/Tidak 
+b.	
+Apakah kalian setuju dengan pernyataan bahwa semua jerapah 
+berleher panjang? Ya/Tidak
+Pengamatan Gambar
+1.	
+Coba, amati gambar berikut. 
+	Gambar 3.13 Asal-usul jerapah berleher panjang.
+2.	
+Lalu, jawablah pertanyaan berikut sebagai hasil pengamatan kalian. 
+a.	
+Tuliskan 
+fakta-fakta 
+yang 
+kalian 
+temukan 
+pada 
+pengamatan gambar.
+b.	
+Tuliskan analisis kalian terkait asal-usul jerapah leher panjang 
+berdasarkan fakta-fakta yang ditemukan. 
+c.	
+Amati kembali Gambar 3.11. Lalu, tuliskan perbedaan teori 
+asal-usul jerapah berleher panjang Lamarck dan Darwin. 
+Pada evolusi jerapah yang kalian amati pada Aktivitas 3.8, Darwin 
+menjelaskan bahwa pada awalnya terdapat jerapah berleher panjang 
+BAB 3 Evolusi 
+151
+dan berleher pendek. Seiring berjalannya waktu, terjadi kompetisi 
+makanan dan pepohonan yang semakin tinggi sehingga jerapah berleher 
+pendek mengalami kepunahan sebab tidak dapat menjangkau makanan. 
+Adapun jerapah berleher panjang akan bertahan dan beradaptasi 
+dengan lingkungan. Sifat leher panjang tersebut akan diwariskan kepada 
+keturunannya. Pokok-pokok pikiran Darwin dituangkan dalam bukunya 
+yang berjudul The Origin of Species. Beberapa intisari dari buku tersebut 
+antara lain:
+a.	
+Semua makhluk hidup yang ada di bumi merupakan hasil keturunan 
+dari moyang yang sama dan mengalami modifikasi. Spesies bukanlah 
+sesuatu yang kekal atau tidak mengalami perubahan, melainkan 
+berevolusi melalui proses perubahan bertahap dari berbagai spesies 
+yang telah ada.
+b.	
+Menyajikan sejumlah besar fakta yang menjelaskan asal usul makhluk 
+hidup dengan teori evolusi dan tidak cukup dengan teori penciptaan. 
+c.	
+Mekanisme perubahan evolusi terjadi dengan adanya seleksi alam 
+dilanjutkan dengan adaptasi. Hal ini dapat dipahami dengan melihat 
+kembali mekanisme asal-usul jerapah berleher panjang (Lihat 
+Gambar 3.13). 
+b. 	 Sejarah perjalanan dan pokok pikiran Alfred Russel Wallace
+Alfred Russel Wallace adalah seorang naturalis yang juga hidup di 
+masa Darwin. Ia secara terpisah mengembangkan teori seleksi alam 
+dalam perjalanannya mengamati serta mengumpulkan berbagai spesies 
+serangga, burung dan hewan lainnya di Brazil dan kepulauan Melayu 
+yang membentuk Indonesia. Wallace mengamati keberagaman fauna di 
+Borneo dan melanjutkan perjalanannya ke daerah Sulawesi dan Maluku. 
+Disana Wallace melihat bahwa adanya perbedaan yang signifikan 
+antara keanekaragaman fauna di Indonesia Barat dan Indonesia timur. 
+Pernahkah kalian mendengar adanya garis Wallace? Garis tersebut 
+merupakan garis imajiner yang melintang di sepanjang Pulau Kalimantan 
+dan Pulau Sulawesi serta memisahkan Selat Lombok dan Pulau Bali. 
+Garis ini membagi wilayah biogeografis di Nusantara menjadi dua, yang 
+mencerminkan perbedaan flora dan fauna antara Asia dan Australia. Coba 
+kalian perhatikan gambar berikut ini yang memperlihatkan perbedaan 
+biodiversitas Indonesia bagian barat dan bagian timur yang dipisahkan 
+oleh garis Wallace. 
+Biologi untuk SMA/MA Kelas XII
+152
+ Gambar 3.14 Garis Wallace dan Persebaran Fauna di Indonesia
+Selama perjalanannya, Wallace memikirkan mekanisme dibalik 
+variasi spesies yang dia temukan. Wallace  pun secara aktif mengirimkan 
+hasil temuannya kepada Darwin. Meskipun keduanya melakukan 
+perjalanan dan observasi di belahan dunia yang berbeda, namun memiliki 
+kesamaan dalam kesimpulanya yaitu adanya seleksi alam dan adaptasi. 
+Agar memperdalam pemahaman kalian terkait sejarah dan pokok pikiran 
+Wallace dalam perjalanannya mengembangkan teori evolusi, maka 
+lakukanlah aktivitas berikut ini:
+AKTIVITAS 3.9
+Menarik kesimpulan sementara terkait teori evolusi Wallace
+Tujuan: Siswa mampu memahami konsep seleksi alam berdasarkan 
+teori Wallace 
+1. 
+Amatilah kertas bergambar hewan-hewan yang diberikan oleh 
+gurumu. Misalnya: bentuk sayap, ukuran tubuh dan lain-lain.
+2. 
+Anggaplah setiap hewan tersebut adalah perwakilan dari suatu 
+populasi yang menempati suatu wilayah tertentu  
+3. 
+Kategori hewan mencakup burung, serangga, mamalia kecil, 
+atau lainnya
+BAB 3 Evolusi 
+153
+4.	
+Berikanlah 
+label 
+tambahan 
+untuk 
+setiap 
+hewan 
+yang 
+menggambarkan ciri khas (misalnya, burung dengan paruh 
+panjang, sayap lebar, tubuh kecil, dll.)
+5.	
+Letakkanlah masing-masing gambar hewan tersebut di atas sebuah 
+kertas. Kertas tersebut dianggap sebagai kondisi yang ideal atau 
+stabil sebagai habitat hewan yang diberikan. 
+6.	
+Dengarkanlah cerita “tantangan lingkungan” yang disampaikan 
+oleh guru.
+•	
+Tantangan yang pertama adalah suhu menjadi semakin dingin. 
+Hanya hewan dengan ukuran tubuh lebih besar yang mampu 
+bertahan karena mereka dapat mempertahankan panas 
+tubuh. Siswa yang memegang gambar hewan bertubuh kecil 
+dieliminasi.
+•	
+Tantangan kedua perubahan sumber makanan: Makanan di 
+pulau semakin terbatas pada biji yang keras. Hanya hewan 
+dengan paruh yang lebih kuat dan besar yang dapat makan. 
+Hewan dengan paruh kecil dieliminasi.
+•	
+Tantangan ketiga: Burung predator datang, yang memangsa 
+burung dengan warna mencolok. Burung dengan warna netral 
+atau kamuflase yang baik bertahan hidup.
+•	
+Tantangan selanjutnya disesuaikan sehingga jumlah yang 
+bertahan hidup tersisa sedikit dan lanjutkan kegiatan tersebut 
+dengan diskusi.
+7.	
+Lakukan diskusi dengan teman kelas lainnya lalu sampaikan 
+jawabanmu kepada guru. 
+Pertanyaan diskusi
+1.	
+Mengapa beberapa hewan (siswa) bertahan, sementara yang lain 
+tidak? Diskusikan bagaimana tantangan lingkungan mempengaruhi 
+hewan-hewan tersebut dan mengapa sifat-sifat tertentu memberikan 
+keuntungan.
+2.	
+Bagaimanakah populasi berubah dari awal hingga akhir?
+	
+Jelaskan bahwa ini adalah contoh dari bagaimana spesies bisa 
+berevolusi seiring waktu. Individu yang bertahan lebih mungkin 
+mewariskan sifat-sifat mereka ke generasi berikutnya, sehingga 
+populasi akan menyesuaikan dengan tantangan yang ada.
+Biologi untuk SMA/MA Kelas XII
+154
+3.	
+Bagaimanakah jika tantangan lingkungan berubah kembali?
+	
+Diskusikan bagaimana spesies yang sudah beradaptasi dengan 
+satu tantangan mungkin tidak bisa bertahan jika lingkungan 
+kembali berubah.
+Setelah melakukan aktivitas tersebut, kalian sudah melakukan 
+simulasi seleksi alam seperti yang ditemukan oleh Wallace dalam 
+perjalanannya terkait perbedaan geografis menyebabkan perbedaan 
+persebaran flora dan fauna. Berikut adalah beberapa poin yang menjadi 
+pokok-pokok pikiran Wallace terkait evolusi:
+a.	
+Seleksi alam merupakan gagasan inti dalam teori Wallace. individu-
+individu dengan karakteristik yang paling sesuai dengan lingkungan 
+mereka memiliki peluang lebih besar untuk bertahan hidup dan 
+bereproduksi
+b.	
+Lingkungan memiliki peranan yang penting dalam keberlangsungan 
+hidup makhluk hidup serta perubahan lingkungan hidup memberi 
+pengaruh terhadap arah evolusi
+c.	
+Isolasi geografis dapat menyebabkan terbentuknya spesies baru. 
+Ketika populasi hewan atau tumbuhan terpisah secara geografis, 
+mereka berkembang secara terpisah, dan perbedaan lingkungan 
+menghasilkan spesies yang berbeda.
+Di kepulauan Aru, Wallace menderita sakit malaria yang pada waktu 
+itu tidak ada obatnya. Ketika pada suatu hari ia kemudian sembuh, 
+sedangkan pekerjanya banyak yang meninggal. Dari penyakitnya itu, 
+timbullah ide mengenai hukum alam: siapa yang kuat, dialah yang menang 
+atau survival of the fittest. Frase ini disepakati oleh Wallace dan Darwin 
+sebagai suatu pemikiran yang tepat untuk menjelaskan konsep seleksi 
+alam sebagai usaha untuk menghindari makna ambigu bahwa alamlah 
+yang melakukan seleksi.
+c. 	 Perbedaan Teori Evolusi Darwin dan Wallace
+Setelah membaca pembahasan teori evolusi Darwin dan Wallace yang 
+disampaikan di atas, tentu saja kalian sudah memahami peran dari 
+seleksi alam dalam evolusi makhluk hidup. Darwin dan Wallace memiliki 
+persamaan pandangan terhadap perkembangan makhluk hidup sebagai 
+BAB 3 Evolusi 
+155
+hasil dari seleksi alam. Satu hal yang membedakan pandangan antara 
+Darwin dan Wallace adalah perkembangan evolusi sebagai akibat seleksi 
+seksual. Meskipun  keduanya sepakat bahwa seleksi seksual melibatkan 
+kompetisi antar individu untuk mendapatkan pasangan. Darwin meyakini 
+bahwa beberapa fenotip menarik yang berkembang sebagai karakteristik 
+individu tidak memiliki fungsi khusus namun mempengaruhi daya tarik 
+individu lain dalam memilih pasangan.  Sebaliknya Wallace berpendapat 
+bahwa munculnya fenotip atau karakteristik menarik yang dimiliki 
+oleh suatu individu menunjukkan kualitas fisik yang berfungsi sebagai 
+kekuatan untuk seleksi alam.
+Perbedaan antara Darwin dan Wallace dalam seleksi seksual dapat 
+kalian perhatikan pada ilustrasi berikut ini.
+ 
+ Gambar 3.15 Dua burung merak jantan dan 1 burung merak betina. Burung merak 
+betina akan memilih burung merak jantan yang lebih indah. (Source: www.vogue.com)
+Darwin berpendapat bahwa warna cerah pada burung jantan  bisa 
+berkembang hanya karena betina menganggapnya menarik tanpa 
+mempertimbangkan fungsi khusus dari fenotip tersebut. Seleksi seksual 
+prinsipnya adalah bentuk perluasan konsep seleksi alam dari Darwin 
+seperti yang ditulis dalam bukunya pada tahun 1871 yang berjudul The 
+Descent of Man and Selection in Relation to Sex. Secara singkat, Darwin 
+menyatakan bahwa seleksi alam diakibatkan oleh persaingan untuk 
+bertahan hidup, tetapi seleksi seksual muncul karena persaingan untuk 
+bereproduksi. Persaingan seksual ada dua macam: yang satu antara 
+individu berjenis kelamin sama, biasanya jantan, untuk mengusir atau 
+membunuh saingan mereka, dan betina tetap pasif; sementara yang lain 
+adalah persaingan yang juga antara individu berjenis kelamin sama untuk 
+Biologi untuk SMA/MA Kelas XII
+156
+menyenangkan atau mempesona lawan jenis, biasanya betina, yang tidak 
+lagi pasif, tetapi menyeleksi pasangan yang cocok.
+Alfred Russel Wallace mengkritik teori seleksi seksual Darwin dan 
+menyatakan bahwa aspek dari seleksi seksual hanyalah merupakan salah 
+satu bentuk dari seleksi alam, dan bahwa contoh sayap merak sebenarnya 
+bersifat adaptif. Wallace berpendapat bahwa warna cerah yang dimiliki 
+oleh burung menunjukkan kekuatan dan daya tahan, hal inilah yang 
+menjadi pertimbangan betina dalam pemilihan pasangan. 
+c. 	 Mekanisme Evolusi
+Kalian telah mengetahui bahwa mutasi merupakan salah satu faktor 
+penyebab yang mengubah susunan urutan materi genetik sehingga 
+memungkinkan munculnya fenotip baru. Hal lain yang mempengaruhi 
+munculnya spesies baru, yaitu seleksi alam, seperti perubahan leher 
+jerapah sesuai teori Darwin. Mekanisme ini bekerja dalam sebuah 
+ekosistem yang terdiri atas berbagai populasi yang saling memperebutkan 
+makanan atau ruang untuk berkembang. Pada kondisi tersebut, alam 
+akan menyeleksi spesies-spesies yang lebih kompetitif, resisten terhadap 
+penyakit, dan paling mampu beradaptasi pada perubahan lingkungan 
+agar bisa bertahan hidup dan bereproduksi. Adapun spesies lain yang 
+rentan terhadap penyakit dan perubahan lingkungan akan mati. 
+Setelah jutaan tahun, sifat gen dan alel yang menguntungkan atau 
+paling mampu bertahan akan terakumulasi dalam satu spesies tertentu 
+dan membentuk satu sifat baru dengan kemampuan adaptasi yang lebih 
+baik. Karakter spesies yang adaptif tersebut kemungkinan akan berbeda 
+jauh dari spesies awal.
+BAB 3 Evolusi 
+157
+AKTIVITAS 3.10
+Memahami Mekanisme Seleksi Alam
+(a)
+(b)
+	Gambar 3.14 (a) Kupu-kupu Biston betularia sayap gelap (b) Kupu-kupu Biston betularia 
+sayap cerah.
+	
+Sumber: https://pxhere.com/ pada 29 Mei 2022
+1.	
+Bacalah teks berikut dengan saksama.
+Kupu-kupu Biston betularia memiliki variasi sayap cerah dan gelap. 
+Sebelum revolusi industri di Inggris, jumlah kupu-kupu bersayap cerah 
+lebih banyak daripada kupu-kupu bersayap gelap. Sebaliknya, setelah 
+revolusi industri, kupu-kupu bersayap cerah jumlahnya menjadi lebih 
+sedikit dibandingkan dengan kupu-kupu bersayap gelap. 
+2.	
+Mengapa hal demikian bisa terjadi? 
+3.	
+Diskusikan dengan teman sekelompok kalian mengenai kasus di atas.
+4.	
+Presentasikan hasil diskusi kalian di depan kelas.
+Mekanisme seleksi alam dapat dibedakan menjadi dua jenis, yaitu 
+seleksi alami dan seleksi buatan (artificial).
+1)	 Seleksi alami 
+Masihkah kalian ingat, variasi paruh burung finch pada pembahasan 
+sebelumnya? Darwin menjelaskan bahwa variasi paruh burung tersebut 
+disesuaikan dengan jenis makanannya. Berdasarkan hal tersebut, dapat 
+disimpulkan bahwa seleksi alam bekerja langsung pada fenotip (sifat yang 
+tampak). Seleksi alami bekerja dengan mengubah distribusi frekuensi 
+sifat yang diwariskan dalam suatu populasi. Distribusi frekuensi sifat 
+dapat terjadi dengan 3 cara, yaitu direksional, disruptif, dan stabilitas. 
+Perhatikan  Gambar 3.15 berikut.  
+Biologi untuk SMA/MA Kelas XII
+158
+ Gambar 3.15 Distribusi frekuensi gen seleksi alam.
+ 
+Berdasarkan gambar di atas, gambar pertama (a) merupakan 
+keadaan awal persebaran frekuensi fenotip sebelum terjadi seleksi 
+alam. Selanjutnya, terjadi distribusi dengan tiga tipe distribusi frekuensi 
+gen, yaitu: 
+a. 
+Seleksi alam penstabilisasi adalah kondisi seleksi alam yang 
+menghilangkan 
+varian 
+ekstrem 
+dan 
+mempertahankan 
+tipe 
+intermediet. Pada Gambar 3.15 (b) di atas, terlihat sisi fenotip kiri 
+warna cerah dan kanan warna gelap berkurang drastis, sedangkan 
+sifat intermediet yang berada di bagian tengah dapat bertahan dan 
+semakin banyak. 
+b. 
+Seleksi 
+alam 
+direksional 
+adalah 
+kondisi 
+seleksi 
+alam 
+yang 
+menguntungkan varian/fenotip pada salah satu distribusi ekstrem. 
+Pada Gambar 3.15 (c) di atas, peristiwa seleksi alam mengakibatkan 
+berkurangnya jumlah kumbang berwarna cerah, namun jumlah 
+kumbang berwarna gelap semakin bertambah. 
+c. 
+Seleksi alam disruptif adalah peristiwa seleksi alam yang bersifat 
+menguntungkan varian pada kedua ujung distribusi. Peristiwa ini 
+dapat dilihat pada Gambar 3.15 (d) yang memperlihatkan kumbang 
+cerah dan gelap mengalami pertambahan jumlah, sedangkan sifat 
+intermediet berkurang drastis. 
+Seleksi alam dapat terjadi pada kondisi berbeda, yaitu terkait perilaku. 
+Coba, kalian lakukan aktivitas 3.10 untuk mempelajari hal ini. 
+(a)
+(b)
+(c)
+(d)
+BAB 3 Evolusi 
+159
+AKTIVITAS 3.11
+Mendiskusikan Seleksi Alam terkait Perilaku Makhluk Hidup
+1.	
+Baca artikel pada link berikut.
+https://www.bbc.com/indonesia/majalah/2013/07/130725_
+iptek_peacock
+	
+	
+	Gambar 3.16 Ekor kipas merak jantan digunakan untuk menarik perhatian betina.
+2.	
+Berdasarkan bacaan pada link di atas, tuliskan hal-hal yang bisa 
+dianggap sebagai kebiasaan perilaku burung merak jantan dalam 
+menarik perhatian burung merak betina.
+3.	
+Prediksilah apa hubungan antara kebiasan perilaku burung merak 
+jantan menarik burung merak betina tersebut dengan mekanisme 
+seleksi alam.
+3.	
+Apakah perilaku tersebut memiliki pengaruh terhadap keberadaan 
+variasi burung merak? Diskusikan bersama kelompok kalian.
+2)	 Seleksi buatan/artifisial
+Kalian telah mempelajari seleksi alamiah. Kini saatnya, kalian mengenal 
+seleksi buatan. Apa itu seleksi buatan? Coba, kalian lakukan aktivitas 3.11.
+AKTIVITAS 3.12
+Mengeksplorasi Sifat yang Diminati pada Tanaman Anggrek
+Pada perkembangan teknologi saat ini, telah banyak dikembangkan 
+penemuan baru untuk menyelesaikan permasalahan. Salah satunya 
+Biologi untuk SMA/MA Kelas XII
+160
+dalam bidang pertanian, contohnya anggrek yang memiliki banyak 
+varietas. 
+Carilah informasi di internet terkait sifat-sifat yang dicari para 
+pembudidaya untuk mengembangkan varietas anggrek. Apakah 
+ada alasan tertentu sehingga varietas tersebut lebih diminati untuk 
+dibudidayakan? Diskusikan bersama teman kalian.
+Dalam berbagai aspek kehidupan, manusia seringkali hanya 
+memerlukan suatu sifat unggul yang dibuat secara sengaja. Untuk 
+membuatnya, biasanya dapat dilakukan dengan mengubah sifat genetik 
+melalui persilangan atau rekayasa genetik. Cara seperti inilah yang disebut 
+dengan seleksi buatan. Pada Aktivitas 3.11, kalian sudah menemukan salah 
+satu contoh pembuatan sifat unggul secara sengaja untuk mendapatkan 
+nilai jual yang tinggi. Artinya, aktivitas seleksi buatan ini dilakukan untuk 
+menemukan sifat-sifat yang dianggap menguntungkan manusia. Hal 
+tersebut umumnya dilakukan dalam bidang bioteknologi. Mari kita cari 
+tahu dengan melakukan aktivitas 3.12!
+AKTIVITAS 3.13
+Mencari Tahu Seleksi Buatan pada Makhluk Hidup
+1.	
+Bentuklah kelompok yang terdiri atas 2 - 3 orang.
+2.	
+Lakukan literasi menggunakan berbagai sumber buku atau internet 
+untuk mencari tahu satu contoh seleksi buatan pada hewan dan 
+tumbuhan. 
+3.	
+Susun hasil literasi kalian dalam sebuah poster.
+4.	
+Presentasikan poster tersebut di depan kelas.
+5.	
+Setelah melakukan dan mendengarkan presentasi terkait seleksi 
+buatan, jawablah pertanyaan-pertanyaan berikut secara mandiri.
+a.	
+Apakah tujuan dilakukannya kegiatan seleksi buatan?
+b.	
+Bagaimanakah hasil dari suatu kegiatan seleksi buatan?
+c.	
+Apakah keuntungan dan kerugian dari kegiatan seleksi buatan 
+bagi manusia?
+d.	
+Bagaimana pengaruh kegiatan seleksi buatan terhadap 
+keseimbangan ekosistem? 
+BAB 3 Evolusi 
+161
+c.  Hukum Hardy Weinberg dan Mikroevolusi
+Setiap mekanisme evolusi yang terjadi menyebabkan perubahan 
+frekuensi gen dalam populasi. Populasi merupakan kelompok individu 
+dari spesies yang sama dan menempati wilayah yang sama, serta dapat 
+melakukan perkawinan satu sama lain dan menghasilkan keturunan yang 
+fertil. Genetika populasi berfokus pada perubahan genetik dalam sebuah 
+kelompok individu sepanjang waktu. 
+Setiap populasi memiliki gene pool, yaitu kumpulan total gen dalam 
+populasi (semua alel pada semua lokus gen yang terdapat pada semua 
+individu yang menyusun populasi). Perhatikan gambar berikut untuk 
+memahami definisi gene pool.
+ 
+ 
+kumpulan gen
+BB
+BB
+BB
+BB
+Bb
+Bb
+Bb
+Bb
+Bb
+Bb
+bb
+bb
+bb
+bb
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+b
+b
+b
+b
+b
+b
+AA
+AA
+AA
+AA
+AA
+AA
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+aa
+aa
+aa
+aa
+aa
+Kumpulan
+Gen
+ Gambar 3.17 Gene pool.
+Dalam sebuah gene pool, terdapat frekuensi genotip, frekuensi fenotip, 
+dan frekuensi alel. Frekuensi genotip adalah perbandingan sebuah genotip 
+tertentu dalam suatu populasi. Frekuensi fenotip adalah perbandingan 
+sebuah fenotip tertentu dalam suatu populasi. Adapun frekuensi alel 
+adalah perbandingan sebuah alel spesifik dalam suatu populasi. 
+Menurut Godfrey Harold Hardy (British) & Wilhelm Weinberg 
+(Jerman) pada tahun 1908, frekuensi alel dan genotip tidak berubah 
+dari generasi ke generasi atau bersifat tetap/konstan. Kondisi ini dikenal 
+dengan kesetimbangan Hardy Weinberg. Beberapa syarat terjadinya 
+kesetimbangan ini antara lain:
+1) 
+ukuran populasi sangat besar (tidak ada genetic drift).
+2) 
+terisolasi dari populasi lain (tidak ada gene flow).
+3) 
+tidak ada mutasi. Mutasi mungkin saja terjadi, akan tetapi dengan 
+syarat bahwa frekuensi mutasi maju sama dengan frekuensi mutasi 
+mundur. Artinya, ketika alel A bermutasi menjadi a, memiliki 
+frekuensi yang sama ketika alel a bermutasi menjadi A.
+Biologi untuk SMA/MA Kelas XII
+162
+4)	
+perkawinan acak.
+5)	
+tidak ada seleksi alam.
+Fakta menunjukkan bahwa kesetimbangan populasi sulit dicapai, 
+karena syarat-syarat di atas sulit terpenuhi. Persamaan kesetimbangan 
+Hardy Weinberg dapat dituliskan dalam bentuk persamaan berikut. 
+	
+	
+	
+p+q=1
+p2+2pq+q2=1
+ 
+Dalam persamaan ini, yang dimaksud frekuensi alel adalah 
+perbandingan alel dengan alel lainnya dalam suatu gene pool. Untuk 
+memahami persamaan Hardy Weinberg lebih detail, perhatikan 
+contoh berikut.
+Contoh:
+Jumlah individu dalam suatu populasi sebanyak 60.000 orang. Perbandingan 
+penderita albino (aa) dengan orang normal (AA atau Aa) sebesar 1:10.000. 
+Berapakah jumlah orang normal yang heterozigot? 
+Diketahui:
+Albino merupakan alel homozigot resesif (aa).
+Frekuensi orang albino 1:10.000 = 0,0001. Pada hukum Hardy Weinberg disimbolkan 
+sebagai q2. 
+Maka frekuensi alel albino (q) =   0,0001=0,01
+Jawab:
+Berdasarkan Hukum Hardy Weinberg bahwa p + q = 1
+Maka, p + 0,01 	 = 1
+Frekuensi alel A	 = 1 – 0,01 
+                         	
+= 0,99
+Frekuensi orang normal heterozigot Aa 	= 2Aa
+	
+	
+= 2 x 0,99 x 0,01 
+	
+	
+= 0,0198
+Maka jumlah orang normal heterozigot 	= 0,0198 x 60.000
+	
+	
+= 1.118 orang 
+Keterangan:
+p2 	
+: 	frekuensi alel AA
+q2 	
+: 	frekuensi alel aa
+2pq	: 	frekuensi alel Aa
+1 
+:	semua alel individu dalam populasi
+BAB 3 Evolusi 
+163
+Untuk menambah pemahaman kalian seputar hukum Hardy 
+Weinberg, coba lakukan aktivitas 3.15 berikut!
+AKTIVITAS 3.14
+Ayo Berlatih
+Kerjakan soal berikut, lalu diskusikan bersama guru kalian. 
+1. 
+Jumlah penduduk suatu desa sebanyak 1.000 orang. Orang 
+bergolongan darah B sebanyak 150 orang dan orang bergolongan 
+darah O sebanyak 490 orang. Tentukan jumlah orang bergolongan 
+darah A heterozigot! 
+2. 
+Dalam suatu populasi, terdapat individu perasa pahit kertas PTC 
+(phenil-thio-carbamide) sebesar 75%, sedangkan yang lainnya bukan 
+perasa PTC. Sifat bukan perasa PTC dikendalikan alel resesif (t) dan 
+perasa PTC dikendalikan oleh alel dominan (T). Berapakah frekuensi 
+genotip perasa PTC dan bukan perasa PTC dalam populasi tersebut? 
+d.  Hanyutan genetik (genetic drift)
+Hanyutan genetik merupakan perubahan frekuensi alel secara tak 
+terduga dari generasi ke generasi berikutnya, terutama di dalam populasi 
+kecil. Hanyutan genetik menjadi faktor penyebab terjadinya mikroevolusi 
+dalam suatu populasi. Perhatikan gambar berikut.
+A A
+A A
+A A
+A A
+A A
+A a
+A a
+A a
+A a
+a a
+a a
+a a
+a a
+A A
+A A
+A A
+A a
+A a
+A a
+A A
+A A
+A A
+A A
+A A
+A A
+A A
+A A
+A A
+A A
+Hanya 5
+dari 10
+tanaman 
+yang
+menghasilkan
+keturunan 
+Hanya 2
+dari 10
+tanaman 
+yang
+menghasilkan
+keturunan 
+Generasi I
+pp   = 4,9
+2pq =  4,2
+qq   =0.9
+Generasi II
+pp   = 0,3
+2pq = 0,3
+qq   = 0,3
+Generasi III
+pp   =1
+2pq =0
+qq   = 0
+ Gambar 3.18 Perubahan alel dalam sebuah genetic drift.
+ 
+Sumber: Campbell (2003)
+Biologi untuk SMA/MA Kelas XII
+164
+Berdasarkan gambar 3.18 di atas, dapat dilihat bahwa populasi awal 
+bunga liar berjumlah 10 tanaman yang bervariasi dengan perbandingan 
+genotip AA : Aa : aa sebesar 4 : 3 : 1. Dari jumlah total 10 tanaman, hanya 
+5 tanaman yang bertahan dengan perbandingan genotip 1 : 3 : 1. Seiring 
+berjalannya waktu, perubahan frekuensi gen tetap terjadi hingga pada 
+akhirnya hanya satu jenis genotip saja yang diwariskan pada generasi 
+ketiga, yaitu gen AA. Hal ini memberi dampak pada populasi bunga liar 
+yang terdapat di generasi ketiga hanya ada satu jenis warna bunga merah 
+dengan genotip AA. Perubahan frekuensi alel yang terjadi dari generasi 
+ke generasi memberikan dampak berkurangnya variasi bunga liar di 
+generasi terakhir. Faktor utama terjadinya genetic drift ada dua, yaitu efek 
+pendiri (founder effect) dan efek leher botol (bottleneck effect). 
+1)	 Efek pendiri (founder effect)
+Sebelum mempelajari lebih jauh mengenai efek pendiri, lakukan aktivitas 
+3.16 berikut!
+AKTIVITAS 3.15
+Menganalisis Frekuensi Alel Penyakit Retinitis Pigmentosa
+1.	
+Baca teks berikut dengan saksama.
+Koloni Orang Inggris di Tristan da Cunha
+Koloni Orang Inggris di Tristan da CunhaTahun 
+1814, sebanyak 15 orang membentuk koloni 
+orang Inggris di Tristan da Cunha (lautan 
+Atlantik antara Afrika dan Amerika Serikat). 
+Ternyata, salah seorang penduduk awal 
+koloni tersebut membawa alel resesif untuk kelainan mata yang disebut 
+retinitis pigmentosa, yaitu suatu bentuk kebutaan progresif yang 
+menyerang individu homozigot.
+Dari 240 orang keturunan yang masih hidup di tahun 1960-an, diketahui 
+4 orang mengidap penyakit retinitis pigmentosa dan 9 orang telah 
+diketahui pembawa sifat (carrier). Frekuensi alel penyebab penyakit 
+tersebut di Tristan de Cunha 10 kali lebih tinggi daripada di daerah 
+populasi asal. 
+	Gambar 3.19 Perbedaan 
+mata normal dan mata 
+yang berkelainan
+BAB 3 Evolusi 
+165
+2. 
+Berdasarkan teks di atas, coba kalian analisis dan diskusikan 
+pertanyaan berikut.
+a. 
+Mengapa penyakit retinitis pigmentosa lebih banyak terjadi di 
+tempat baru dibanding populasi asal? 
+b. 
+Apakah dampak dari peristiwa tersebut?
+3. 
+Tulis hasil analisis dan diskusi kalian dalam bentuk laporan 
+sederhana dan presentasikan di depan kelas.
+Setelah melakukan analisa pada kasus di atas, kita akan melanjutkan 
+pembahasan hubungan antara pembentukan koloni baru dengan evolusi. 
+Efek pendiri terjadi pada saat kelompok kecil individu terisolasi dari 
+populasi yang besar, kemudian kelompok tersebut menghasilkan populasi 
+baru dengan gene flow yang berbeda dari populasi awal. Untuk lebih 
+mudah memahami definisi efek pendiri, perhatikan gambar berikut.
+Efek pendiri dapat terjadi pada 
+populasi kecil dalam suatu area
+Kumpulan total gen dalam 
+sebuah populasi bunga 
+dengan variasi warna merah, 
+kuning, dan biru.
+Seekor burung membawa biji bunga 
+ke suatu lokasi baru sehingga ditemukan 
+variasi baru di lokasi tersebut.
+Allel pengkode warna kuning 
+ditemukan di populasi yang 
+baru meningkat.
+Populasi baru
+Populasi lama
+ Gambar 3.20  Peristiwa pembentukan koloni baru.
+ 
+Hal yang mungkin terjadi dari peristiwa efek pendiri pada gambar di 
+atas, antara lain:
+a. 
+Susunan genetik penghuni baru tidak mewakili kumpulan gen 
+populasi besar yang mereka tinggalkan atau koloni asal. 
+b. 
+Memberikan sumbangan atas frekuensi kelainan dan gangguan 
+keturunan tertentu yang relatif tinggi pada populasi hasil keturunan 
+sejumlah kecil penghuni baru. Jika hal ini terus-menerus berlangsung 
+dalam kurun waktu yang panjang dengan varian yang adaptif maka 
+akan muncul spesies baru yang berbeda dengan spesies aslinya.
+Biologi untuk SMA/MA Kelas XII
+166
+2) Efek leher botol 
+Sebelum mempelajari lebih jauh mengenai efek pendiri, lakukan aktivitas 
+3.17 berikut.  
+AKTIVITAS 3.16
+Memahami Keterkaitan Penurunan Populasi dengan 
+Mekanisme Evolusi
+1. 
+Perhatikan gambar berikut dengan saksama!
+ Gambar 3.21  Perubahan jumlah rumput teki
+ 
+1. 
+Berdasarkan gambar di atas, deskripsikan hal yang kalian amati 
+jika dilihat dari perubahan jumlah rumput teki pada tahun 1820 
+dan tahun 1993.
+2. 
+Perhatikan 
+gambar 
+berikut, 
+lalu 
+deskripsikan 
+hal 
+yang 
+mungkin terjadi.
+ Gambar 3.22 Kebakaran hutan Sumatera.
+ 
+ 
+BAB 3 Evolusi 
+167
+3.	
+Berdasarkan Gambar 3.21 dan Gambar 3.22, jawab pertanyaan
+	
+berikut.
+a.	
+Apa persamaan kedua gambar tersebut? 
+b.	
+Bagaimana hubungannya dengan mekanisme evolusi? Jelaskan!
+4.	
+Tulis jawaban kalian dalam bentuk laporan sederhana dan 
+presentasikan di depan kelas.
+Setelah melakukan Aktivitas 3.17, selanjutnya kita akan membahas 
+efek leher botol serta hubungannya dengan mekanisme evolusi. Efek 
+leher botol adalah peristiwa terjadinya penurunan ukuran populasi 
+secara besar-besaran karena perubahan mendadak pada lingkungan. 
+Hal ini dapat diakibatkan oleh  kebakaran, gunung meletus, banjir, dan 
+lainnya. Populasi telah melewati “leher botol” pembatas ukuran. Untuk 
+lebih memahami efek leher botol, perhatikan gambar berikut. 
+	
+	
+Penyimpangan genetik
+Efek leher botol
+Populasi induk
+Efek leher botol
+(pengurangan drastis 
+populasi)
+Individu yang 
+masih hidup
+Generasi
+berikut
+	
+	
+	Gambar 3.23  Mekanisme efek leher botol.
+	
+	
+	
+Gambar 3.23 di atas merupakan ilustrasi dari peristiwa leher botol 
+yang dapat mengakibatkan perubahan frekuensi genotip pada sebuah 
+populasi antargenerasi. Botol pertama merupakan populasi induk atau 
+Biologi untuk SMA/MA Kelas XII
+168
+populasi awal yang memiliki banyak variasi genotip yang disimbolkan 
+dengan warna-warni di dalam botol. Botol yang dimiringkan merupakan 
+analogi peristiwa efek leher botol dapat berupa bencana alam, kepunahan, 
+dan sebagainya. Oleh karena itu, pada botol berikutnya merupakan 
+analogi untuk populasi generasi kedua, di mana jumlah variasi sudah 
+berkurang. Spesies yang dapat melewati leher botol dianggap sebagai 
+spesies yang selamat dan mampu bertahan hidup. Sifat dari spesies yang 
+bertahan tersebut yang akan diwariskan ke generasi berikutnya sehingga 
+pada generasi terakhir jumlah variasi yang tersisa menjadi sedikit. 
+Berdasarkan penjabaran di atas, beberapa hal yang mungkin terjadi 
+sebagai dampak dari efek leher botol, antara lain: 
+a.	
+Susunan genetik dari populasi yang selamat tidak sama lagi dengan 
+susunan gen populasi awal. 
+b.	
+Suatu alel-alel tertentu muncul secara dominan dibanding alel-alel 
+yang lain pada individu-individu yang selamat. 
+c.	
+Beberapa alel akan berkurang sehingga jumlahnya sedikit pada 
+individu-individu yang selamat. 
+d.	
+Beberapa alel akan hilang sehingga tidak ditemukan lagi pada 
+individu-individu yang selamat. 
+Tahukah Kamu
+Pada tahun 1870, variasi anjing laut gajah utara (Mirounga 
+angustirostris) masih cukup banyak, meskipun jumlah 
+individunya hanya 20 ekor. Tetapi saat diuji pada tahun 
+1970-an, jumlah anjing laut gajah utara mencapai 
+30.000 ekor tanpa variasi genetik atau 
+hanya ditemukan satu spesies. 
+Setelah mempelajari pembahasan di atas, coba kalian mengingat 
+kembali pembahasan yang telah dipelajari dengan melakukan aktivitas 
+3.18 berikut!
+ Gambar 3.24  Anjing laut gajah utara
+BAB 3 Evolusi 
+169
+AKTIVITAS 3.17
+Ayo Berlatih
+Jawablah pertanyaan-pertanyaan berikut.
+1. 
+Jelaskan bagaimana efek leher botol dan efek pendiri menjadi 
+faktor terjadinya mikroevolusi!
+2. 
+Mengapa hanyutan genetik sangat berdampak pada populasi kecil, 
+namun tidak terlalu berpengaruh pada populasi besar?  
+e.  Aliran gen (gene flow)
+Aliran genetik merupakan peristiwa perpindahan alel (masuk atau keluar) 
+dari populasi akibat pergerakan individu yang fertil. Aliran gen cenderung 
+mengurangi perbedaan/variasi antarpopulasi. Aliran gen tersebut terjadi 
+melalui penyerbukan dan migrasi (emigrasi & imigrasi). Perhatikan 
+gambar berikut untuk memahami mekanisme aliran gen. 
+ 
+ 
+Populasi A      Populasi B
+Kondisi populasi sebelum terjadi aliran gen
+Populasi A      Populasi B
+Kondisi populasi setelah terjadi aliran gen
+Aliran gen adalah perpindahan gen di antara dua fasilitas
+ 
+ 
+ Gambar 3 25 Mekanisme aliran gen antarpopulasi.
+f.  Bukti-bukti mekanisme evolusi Darwin
+Pernahkah kalian menonton tentang animasi hewan-hewan purbakala, 
+seperti dinosaurus? Jika hewan tersebut telah punah jutaan tahun lalu, 
+bagaimana kita mampu menggambarkan keberadaan tubuh dinosaurus 
+tersebut? Oleh karena itu, sangat diperlukan sebuah petunjuk yang 
+menjelaskan keberadaan dan asal-usul hewan yang telah punah. Petunjuk 
+tersebut dikenal dengan istilah bukti-bukti evolusi. Berikut beberapa 
+bukti evolusi.
+Biologi untuk SMA/MA Kelas XII
+170
+1) 	 Variasi individu dalam satu keturunan 
+Sebelum membahas variasi genetik sebagai bukti evolusi, lakukan aktivitas 
+3.19 terlebih dahulu.
+AKTIVITAS 3.18   
+Menganalisis Faktor Penyebab Kemiripan dalam Anggota Keluarga
+1.	
+Amati lingkungan keluarga kalian di rumah dan isi tabel berikut.
+No.
+Anggota
+Keluarga
+Warna
+Kulit
+Rambut
+Warna
+Mata
+Daun
+Telinga
+Tinggi
+Berat
+2.	
+Buatlah kesimpulan dari hasil pengamatan kalian terkait seberapa 
+besar persentase kemiripan di antara anggota keluarga kalian. 
+3.	
+Coba kalian analisis faktor penyebab adanya kemiripan tersebut 
+dengan menghubungkan pembelajaran genetika pada bab ini. 
+Setelah melakukan kegiatan pengamatan sederhana di atas, kalian 
+akan menemukan bahwa terdapat perbedaan dan kemiripan di antara 
+anggota keluarga. Fakta biologi memperlihatkan bahwa tidak pernah 
+ditemui dua individu yang identik, bahkan pada anak kembar sekalipun. 
+Hal inilah yang disebut keanekaragaman tingkat gen. Faktor utama yang 
+menyebabkan munculnya variasi di antara spesies, yaitu faktor gen dan 
+faktor luar, seperti makanan, suhu, keadaan tanah, dan sebagainya. 
+Perhatikan Gambar 3.26 di bawah ini dan coba tuliskan kesimpulan 
+yang bisa kalian ambil berdasarkan gambar tersebut.
+BAB 3 Evolusi 
+171
+           
+Gen pigmeni
+warna gelap 
+Gen pigmentasi
+Warna cerah
+Transkripsi dan translasi
+Tingkat molekuler
+enzim pigmentasi yang 
+sangat fungsional
+Enzim pigmentasi yang 
+tidak berfungsi dengan baik
+Sel sayap
+Molekul pigmen
+Banyak molekul pigmen
+Hanya sedikit molekul pigmen
+Tingkat sel
+Tingkat organisme
+Kupu-kupu bersayap gelap
+Kupu-kupu bersayap cerah
+Kupu-kupu bersayap gelap biasanya 
+hidup di daerah pepohonan
+Kupu-kupu bersayap cerah biasanya 
+hidup di daerah tanpa pepohonan
+Tingkat populasi
+ 
+ 
+ Gambar 3.26 Ekspresi gen pada kupu-kupu bersayap gelap dan cerah
+ 
+ 
+Biologi untuk SMA/MA Kelas XII
+172
+Gambar 3.26 memperlihatkan bahwa keberadaan gen yang mengode 
+pigmen warna akan memengaruhi warna sayap kupu-kupu yang akan 
+dihasilkan. Variasi di dalam suatu spesies dalam perkembangannya akan 
+diwariskan pada keturunan berikutnya. Jika keturunan dengan variasi 
+yang berbeda menempati suatu daerah yang berbeda maka dapat terjadi 
+perubahan fenotip yang menunjukkan terjadinya peristiwa spesiasi 
+(proses pembentukan spesies yang baru). 
+2) 	 Fosil 
+Coba kalian pikirkan, bagaimana para ilmuwan mengetahui adanya 
+kehidupan di masa lampau dan memprediksi perkembangan kehidupan 
+makhluk hidup? Hal ini tentu saja memerlukan sebuah petunjuk yang 
+memperlihatkan hubungan dekat antara kehidupan saat ini dengan 
+kehidupan masa lampau. 
+Fosil merupakan sisa-sisa binatang dan tumbuhan pada masa lampau. 
+Ilmu yang mempelajari tentang fosil, yaitu paleontologi. Pengamatan 
+terhadap fosil menunjukkan adanya evolusi, misalnya  dengan 
+membandingkan struktur tubuh hewan yang sudah menjadi fosil dengan 
+hewan yang masih ada saat ini. Kesimpulan dari pengamatan tersebut 
+bahwa keadaan lingkungan pada masa lampau dan masa sekarang 
+berbeda. Ditemukannya fosil kuda menjadi sebuah bukti terjadinya 
+perubahan struktur morfologi kuda dari masa ke masa. Perhatikan 
+Gambar 3.27 di bawah ini. 
+	
+	
+Mesohippus
+eosen akhir
+Merychippus
+pertengahan miosen
+Pliohippus
+miosen akhir
+Equus
+terkini
+	
+	
+	Gambar 3.27  Evolusi kuda.
+	
+	
+	
+BAB 3 Evolusi 
+173
+Fosil kuda merupakan satu-satunya fosil terlengkap yang pernah 
+ditemukan.  Berikut perubahan-perubahan yang terjadi dari Eohippus 
+sampai Equus.
+a.	
+Ukuran tubuh semakin besar. Awalnya, Eohippus sebesar kucing, 
+sedangkan Equus ukuran tubuhnya sebesar kuda yang ada sekarang. 
+b.	
+Kepala semakin besar dan jarak antara mulut dengan mata 
+semakin jauh. 
+c.	
+Leher semakin panjang. 
+d.	
+Geraham depan dan belakang semakin besar dan bentuknya lebih 
+sesuai untuk memakan rumput-rumputan. 
+e.	
+Kaki depan dan belakang semakin panjang, gerakannya 
+Coba, kalian perhatikan Gambar 3.28 terkait gambaran perbandingan 
+beberapa organ pada fosil kuda berikut. 
+            
+Hyracoterium
+Miohippus
+Mercychippus
+Equus
+Hyracoterium
+Miohippus
+Mercychippus
+Equus
+                           (a)	
+      (b)
+   
+	
+	
+	Gambar 3.28  (a) Fosil kaki kuda (b) Fosil gigi kuda
+	
+	
+	
+Kalian telah memahami perkembangan kuda dilihat dari fosil yang 
+ditemukan. Coba lakukan aktivitas 3.20 sehingga menambah pemahaman 
+kalian terkait fosil sebagai bukti terjadinya evolusi. 
+Biologi untuk SMA/MA Kelas XII
+174
+AKTIVITAS 3.19
+Fosil sebagai Bukti Evolusi
+1.	
+Bentuklah kelompok yang terdiri atas 3 - 4 orang. 
+2.	
+Lakukan kegiatan literasi untuk mencari tahu penemuan fosil yang 
+menjelaskan evolusi dan perkembangan manusia. 
+3.	
+Gunakan referensi dari sumber lain, baik internet maupun buku 
+lainnya yang relevan. 
+4.	
+Tuliskan hasil literasi dan diskusi yang kalian lakukan dan 
+presentasikan di depan kelas. 
+3) 	 Homologi dan analogi organ tubuh 
+	
+	
+	
+	
+	Gambar 3.29 Filogeni antara rubah, serigala, dan anjing.
+	
+	
+	
+Coba perhatikan berbagai jenis makhluk hidup vertebrata di sekitar 
+kalian. Bisakah kalian menemukan kesamaan dari berbagai makhluk 
+hidup tersebut? Sebagian besar anggota kingdom Animalia memiliki 
+dua mata, dua telinga, dua pasang anggota gerak, hati, otak, jari dan lain 
+sebagainya. Pada Gambar 3.29 di atas, kalian bisa melihat hubungan 
+filogeni antara rubah, serigala, dan anjing. Jika diamati lebih detail, kalian 
+akan menemukan bahwa anjing dan serigala memiliki akar filogeni 
+yang sama sementara rubah berbeda. Semakin detail pengamatan kalian 
+mengenai struktur makhluk hidup, semakin banyak juga pola-pola yang 
+BAB 3 Evolusi 
+175
+bisa ditemukan di antara makhluk hidup. Contoh yang diperlihatkan 
+pada Gambar 3.29 di atas menunjukkan bahwa anjing lebih mirip dengan 
+serigala dibandingkan dengan rubah. Kemiripan-kemiripan struktur 
+tersebut disebut homolog dan sifat yang mirip tersebut menjadi bukti sifat 
+yang diwariskan dari nenek moyang yang sama. 
+Homologi adalah organ-organ makhluk hidup yang memiliki bentuk 
+asal yang sama, kemudian berubah strukturnya sehingga memiliki fungsi 
+yang berbeda. Misalnya, sayap burung homolog dengan tangan manusia 
+dan kaki depan kuda homolog dengan sirip dada ikan paus. Lawan dari 
+homologi, yaitu analogi organ tubuh. 
+Analog adalah organ-organ tubuh yang mempunyai fungsi sama tetapi 
+bentuk asalnya berbeda. Contohnya sayap serangga dengan sayap burung. 
+Untuk memahami homolog dan analog pada makhluk hidup, perhatikan 
+Gambar 3.30. Pada gambar tersebut terlihat gambar organ alat gerak pada 
+pinguin, buaya, kelelawar, dan manusia. Bisakah kalian menemukan 
+kemiripan organ tersebut? 
+	
+	
+Humerus
+Radius
+Ulna
+Carpals
+Metacarpal
+Phalanges
+	
+	
+	Gambar 3.30  Homolog dan analog organ tubuh makhluk hidup.
+	
+	
+	
+Biologi untuk SMA/MA Kelas XII
+176
+4) 	 Embriologi perbandingan 
+Masihkah kalian ingat pembelajaran di jenjang sebelumnya tentang sistem 
+reproduksi? Pada pembahasan tersebut disampaikan bahwa reproduksi 
+hewan vertebrata dimulai dari perkembangan embrio hingga menuju 
+perkembangan janin. Skema perkembangan embrio terjadi mulai dari 
+pembentukan zigot, morula, blastula, dan gastrula hingga membentuk 
+embrio. Setelah fase embrio, fase perkembangan mengalami perbedaan. 
+Coba perhatikan Gambar 3.31 berikut untuk mengamati perbedaan 
+perkembangan embrio pada beberapa spesies. 
+	
+	
+	
+	
+	Gambar 3.31 Tahapan perkembangan embriologi vertebrata.
+	
+	
+	
+Berdasarkan Gambar 3.31, dapatkah kalian menemukan perbedaan 
+antara hasil perkembangan embrio pada berbagai spesies menurut 
+Hackel dan Richardson? Coba kalian amati dan tuliskan kesimpulan 
+perbedaannya. 
+Tahukah kalian bahwa di dalam tubuh manusia terdapat berbagai 
+jenis organ yang tidak memiliki fungsi, artinya keberadaan organ tersebut 
+tidak mengganggu mekanisme tubuh manusia. Pada hewan lain organ 
+tersebut masih ditemukan dan memiliki fungsi tertentu. Coba, kalian 
+lakukan aktivitas 3.21 untuk mengetahui organ yang tidak memiiliki 
+fungsi pada tubuh manusia.
+BAB 3 Evolusi 
+177
+AKTIVITAS 3.20
+Organ Sisa pada Tubuh Manusia
+1.	
+Bacalah artikel yang terdapat pada link berikut.
+	
+https://biologimediacentre.com/10-sisa-organ-yang-tak-berguna-
+pada-manusia/
+2.	
+Buatlah ringkasan dari hasil bacaan pada artikel tersebut dalam 
+bentuk mind map.
+3.	
+Jawablah pertanyaan-pertanyaan berikut.
+a.	
+Mengapa terdapat organ sisa tersebut dalam tubuh manusia? 
+b.	
+Apakah organ sisa tersebut dapat dijadikan sebagai bukti evolusi 
+dan dianggap sebagai organ sisa evolusi? Berikan argumen. 
+5)	 Bukti molekuler dan kemiripan DNA
+Masihkah kalian ingat pembahasan peranan materi genetik dalam 
+menentukan sifat suatu spesies? Pada topik sebelumnya telah dibahas 
+bahwa semakin mirip penampakan spesies maka semakin besar 
+persentase kemiripan materi genetiknya. Misalnya, antara manusia dan 
+monyet memiliki kemiripan materi genetik sekitar 90%, sementara antara 
+manusia dan kucing juga memiliki kesamaan genetik lebih kecil dari 90%. 
+Hal ini menunjukkan bahwa semua spesies memiliki nenek moyang yang 
+sama dan semakin besar persentase kemiripan DNA memperlihatkan 
+semakin dekat hubungan kekerabatan antarspesies tersebut. 
+Kedekatan hubungan kekerabatan antara makhluk hidup yang satu 
+dengan lainnya dapat digambarkan dalam cladogram atau pohon filogeni. 
+Saat di kelas X, kalian telah membahas terkait klasifikasi makhluk 
+hidup. Masihkah kalian mengingat bahwa klasifikasi makhluk hidup 
+disusun berdasarkan persamaan dan perbedaannya? Coba ingat kembali 
+proses pembuatan cladogram dalam klasifikasi makhluk hidup dengan 
+melakukan aktivitas 3.22 berikut.
+Biologi untuk SMA/MA Kelas XII
+178
+AKTIVITAS 3.21
+Membuat Kladogram
+1. 
+Amati hubungan antara tabel hasil pengamatan persamaan dan 
+gambar kladogram berikut.
+ 
+ 
+ 
+ 
+Rambut
+Telur bercangkang
+Berjalan menggunakan
+empat kaki
+Rahang
+Tulang belakang
+Lancelet
+Lampre
+Tuna
+Salamander
+Kura-kura
+Macan tutul
+0      0      0      0      0      1
+0      0      0      0      1      1
+0      0      0      1      1      1
+0      0      1      1      1      1
+0      1      1      1      1      1
+Lancelett            Lampre          Tuna          Salamander        Kura-kura    Macan tutul
+Rambut
+Telur bercangkang
+Berjalan menggunakan
+empat kaki
+Rahang
+Tulang belakang
+2. 
+Temukan hubungan antara kedua gambar tersebut dengan 
+mendiskusikannya bersama teman kalian. 
+3. 
+Untuk menguji kembali pemahaman kalian terkait kladogram, 
+lakukan pengamatan dan menentukan persamaan ciri pada 
+tabel berikut.
+ 
+ 
+ 
+ 
+No         Ciri/karakteristik
+Nama hewan
+1.     
+Habitat di darat
+2.  
+Pembuahan eksternal
+3.    
+Suhu tubuh cenderung konstan
+4.      
+Kulit ditutupi oleh rambut
+4. 
+Setelah kalian mengisi tabel persamaan karakter di atas, lengkapi 
+diagram kladogram berikut.
+ 
+ 
+ 
+ 
+Ikan mas          Katak              Cicak       Burung merpati     Orang utan  
+5. 
+Komunikasikan kepada guru, apakah kladogram yang digambar 
+sudah tepat. 
+BAB 3 Evolusi 
+179
+Pada kegiatan di atas, kalian telah membuat kladogram berdasarkan 
+persamaan ciri pada makhluk hidup. Kladogram juga dapat dibuat 
+berdasarkan kemiripan materi genetik antarspesies. Coba, kalian lakukan 
+aktivitas berikut!
+AKTIVITAS 3.22
+Membuat Kladogram
+Misalkan ada empat spesies, yaitu A, B, C, dan D yang mempunyai urutan 
+DNA sebagai berikut.
+A– GCTTGTCCGTTACGAT
+B – ACTTGTCTGTTACGAT
+C – ACTTGTCCGAAACGAT
+D – ACTTGACCGTTTCCTT
+Gambarkan pohon filogeni atau kladogram ke empat spesies tersebut 
+sehingga memperlihatkan hubungan kekerabatan terdekat sesuai 
+dengan kemiripan materi genetik penyusunnya.  
+3.	 Teori Evolusi Modern
+Apakah kalian masih mengingat frasa survival of the fittest yang digunakan 
+oleh Darwin dan Wallace untuk menjelaskan konsep seleksi alam. 
+Mekanisme seleksi alam memberikan penjelasan bahwa populasi dengan 
+kemampuan menyesuaikan diri dengan lingkungan memiliki peluang 
+lebih besar untuk bertahan hidup dan meneruskan keturunannya. 
+Namun, teori seleksi alam yang disampaikan oleh Darwin dan Wallace 
+tidak menjelaskan bagaimana sifat-sifat tersebut diwariskan. Hal ini 
+berkaitan dengan objek pengamatan yang dilakukan pada masa tersebut 
+hanya mengamati penampakan fisik makhluk hidup.
+Teori evolusi memiliki jasa terhadap perkembangan ilmu biologi. 
+Penemuan Struktur DNA Double helix oleh Watson & Crick pada tahun 
+1953 semakin memperjelas mekanisme evolusi. Pada teori evolusi modern 
+ini, para ilmuwan menghubungkan mekanisme evolusi dengan genetika. 
+Sekarang coba kalian perhatikan diagram berikut ini yang menjelaskan 
+teori evolusi modern yang muncul setelah masa Darwin dan Wallace:
+Biologi untuk SMA/MA Kelas XII
+180
+Darwin
+variasi 
+Pewarisan sifat 
+Seleksi alam
+Mutasi
+Pewarisan sifat Mendel
+Populasi genetik
+kemungkinan
+perubahan
+spesiasi
+Pewaris DNA
+Seleksi genetik
+Isolasi Genom
+Sintesis Modern 
+(Neo-Darwin)
+Sintesis 
+Terintegrasi
+Teori evolusi dan 
+perkembangan 
+adaptasi dan 
+lingkungan
+Pewaris sifat pengaruh 
+epigenetik
+seleksi bertahap
+Perubahan genom
+Pembentukan relung
+Teori replikasi
+Kemampuan evolusi
+  Gambar 3.32 ilustrasi definisi Darwinisme, Sintesis Modern (neo-Darwinisme) dan 
+Sintesis Terpadu
+Sumber: Denis Noble,Hans H. Hoppeler, Evolution beyond neo-Darwinism: a new conceptual framework, J Exp Biol, 2015
+Secara umum diagram tersebut menjabarkan teori evolusi modern 
+dapat dibagi menjadi dua yaitu sintesis modern (Neo-Darwinisme) dan 
+Integrated synthesis (sintesis terpadu). Diagram tersebut memperlihatkan 
+bahwa teori Darwin dan Wallace terkait variasi, pewarisan sifat dan 
+seleksi alam merupakan bagian dari perkembangan teori selanjutnya. 
+a.	 Sintesis modern (Neo-Darwinisme)
+Mari mengingat kembali topik pembahasan yang sudah disampaikan pada 
+BAB sebelumnya. Pada BAB Genetika, tentu saja kalian sudah memahami 
+dogma sentral genetik bahwa fenotip selalu dikode oleh genotip. Pada 
+teori sintesis modern atau yang lebih sering dikenal sebagai teori neo 
+darwinisme adalah teori yang menjelaskan perkembangan variasi 
+makhluk hidup dengan menghubungkan mekanisme evolusi Darwin 
+yaitu seleksi alam dengan karya Mendel terkait mekanisme pewarisan 
+sifat dan mutasi.
+Teori evolusi Neo-Darwinisme ini muncul pada awal abad ke-20 yang 
+didukung oleh beberapa ahli diantaranya yaitu Gregor Mendel sebagai 
+Bapak genetika yang menemukan hukum Mendel, Ronald A.Fisher 
+yang mengembangkan genetika populasi, dan Sewall Wright yang 
+BAB 3 Evolusi 
+181
+memperkenalkan adanya faktor acak yang mempengaruhi alel sebuah 
+populasi. Beberapa poin utama dari teori Neo Darwinisme yaitu:
+1.	
+Variasi yang muncul pada setiap spesies ditentukan oleh gen yang 
+mengkode pada DNA spesies tersebut.
+2.	
+Terjadinya mutasi atau perubahan acak dalam urutan basa nitrogen 
+DNA bisa menghasilkan variasi baru dalam suatu spesies. Variasi baru 
+tersebut dapat bersifat merugikan atau menguntungkan sehingga 
+memungkinkan 
+spesies 
+tersebut 
+mampu 
+beradaptasi 
+dengan 
+lingkungannya. 
+3.	
+Rekombinasi gen-gen dari dua spesies yang berperan sebagai parental 
+dapat menghasilkan spesies dengan variasi baru dalam populasi. 
+4.	
+Terjadinya aliran gen dan Hanyutan genetik di dalam populasi bisa 
+mempengaruhi frekuensi alel dalam populasi. 
+Kesimpulannya, evolusi Neo-Darwinisme ini menjelaskan bahwa 
+variasi genetik mempengaruhi evolusi dan seleksi alam adalah mekanisme 
+yang mendorong untuk terjadinya evolusi. 
+b.	 Integrated synthesis (sintesis terpadu)
+Teori evolusi Integrated synthesis (sintesis terpadu) merupakan per­
+kembangan dari teori evolusi Neo Darwinisme dengan cara meng­
+hubungkan teori evolusi dengan temuan baru dari bidang ilmu biologi 
+seperti biologi molekuler, epigenetika, evolusi perkembangan dan ekologi. 
+Teori ini memberikan satu pemahaman baru yang lebih kompleks dengan 
+menjelaskan bahwa evolusi bukan hanya dipengaruhi oleh seleksi alam 
+dan mutasi, namun juga dipengaruhi oleh interaksi kompleks antara gen, 
+lingkungan dan perilaku organisme. Untuk mengetahui topik ini lebih 
+jauh, coba kalian baca kembali pembahasan BAB Genetika pada topik 
+Epigenetika. Bisakah kamu menemukan hubungan antara mekanisme 
+epigenetika dengan perkembangan makhluk hidup? 
+Pada BAB sebelumnya, kita telah melihat bahwa epigenetika telah 
+menunjukkan pewarisan sifat tidak hanya dipengaruhi oleh perubahan 
+urutan basa nitrogen pada DNA melalui mutasi namun melalui modifikasi 
+pada gen yang mempengaruhi ekspresinya tanpa mengubah urutan 
+basa nitrogen DNA. Ekspresi yang muncul sebagai akibat dari epigenetik 
+tersebut dianggap sebagai hasil perkembangan makhluk hidup dengan 
+variasi baru.
+Biologi untuk SMA/MA Kelas XII
+182
+Pada tahun 2003 seorang peneliti Randy Jirtle dan Robert Waterland 
+melakukan pengamatan terkait pengaruh nutrisi terhadap tikus Agouti. 
+Tikus Agouti memiliki gen Agouti yang mengendalikan warna bulu. Tikus 
+dengan gen Agouti yang aktif memiliki warna bulu kuning dan rentan 
+terhadap obesitas, diabetes dan kanker. Penelitian ini mengungkapkan 
+bahwa lingkungan dalam hal nutrisi dapat memodifikasi ekspresi gen. 
+Penelitian ini dilakukan dengan memberikan perlakuan terhadap tikus 
+betina yang sedang hamil. Para peneliti memberi makan dengan diet 
+yang kaya akan donor metil seperti asam folat, vit B12, kolin dan betain. 
+Nutrisi-nutrisi tersebut diketahui dapat meningkatkan proses metilasi 
+DNA. Setelah perlakuan tersebut, pada generasi berikutnya diperoleh 
+keturunan dengan bulu gelap (coklat). Hal ini terjadi karena donor metil 
+menyebabkan hipermetilasi pada gen Agouti dan menekan produksi bulu 
+berwarna kuning. 
+Bagaimana menurut kalian? apakah variasi baru dari tikus agouti 
+lebih menguntungkan? Berdasarkan hasil penelitian tersebut, selain 
+terjadinya perubahan warna bulu tikus Agouti yang lahir dari tikus yang 
+diberi perlakukan diet  yang kaya donor metil memiliki risiko yang lebih 
+rendah terhadap obesitas, diabetes dan kanker. Perubahan ekspresi gen 
+yang terjadi pada tikus Agouti ini bisa diwariskan ke keturunan berikutnya 
+dengan peluang yang kecil sebab modifikasi epigenetik seperti metilasi 
+DNA bisa diubah oleh lingkungan yang dipengaruhi oleh perubahan pola 
+makan, gaya hidup atau paparan lainnya di generasi selanjutnya. 
+Mari kita perhatikan ekspresi gen yang muncul pada keturunan tikus 
+Agouti yang diberikan beberapa perlakuan hipermetilasi pada induk 
+betina yang sedang hamil untuk memperlihatkan bahwa epigenetik dapat 
+mengubah ekspresi gen. 
+BAB 3 Evolusi 
+183
+ 
+  Gambar 3.33 Ekspresi gen Agouti pada tikus Agouti dengan beberapa perlakukan 
+(a) ekspresi gen Agouti pada tikus tanpa perlakuan berwarna kuning (coklat < 5%); (b) 
+Perlakukan donor metil dengan ekspresi sedikit berbintik coklat kira-kira 5-50% coklat; (c) 
+Perlakuan genistein dengan ekspresi berbintik 50% coklat; (d) perlakuan etanol dengan 
+ekspresi gen sangat berbintik 50% - 95% coklat; (e) ekspresi gen agouti dengan perlakuan 
+radiasi pengion menghasilkan pseudoagouti > 95% coklat
+Berdasarkan penjabaran di atas, maka dapat disimpulkan bahwa 
+epigenetik merupakan salah satu faktor yang dapat menyebabkan 
+perkembangan variasi spesies. 
+Selamat, karena pada tahap ini kalian sudah menyelesaikan proses 
+pembelajaran topik evolusi. Perlu kita sadari bersama bahwa ilmu biologi 
+bersifat dinamis dan akan mengalami perkembangan terus menerus, 
+demikian halnya dengan perkembangan teori evolusi tidak pernah 
+berhenti seiring berjalan waktu. 
+Biologi untuk SMA/MA Kelas XII
+184
+AKTIVITAS 3.23
+Debat Pro dan Kontra Evolusi
+Tujuan:
+1.	
+Siswa dapat memahami konsep dasar evolusi.
+2.	
+Siswa dapat mengembangkan kemampuan berpikir kritis dan 
+argumentatif.
+3.	
+Siswa dapat menghargai perbedaan pendapat dan mendiskusikannya 
+secara rasional dan sopan
+Tahapan kegiatan:
+1.	
+Bagilah kelas menjadi 2 kelompok besar yang terdiri dari pro 
+evolusi dan kontra evolusi sesuai dengan arahan guru 
+2.	
+Lakukanlah kegiatan literasi untuk memperkuat pemahaman 
+sesuai dengan pembagian kelompok yang sudah dibagikan. 
+a.	
+Kelompok pro evolusi melakukan kegiatan literasi dengan 
+menyoroti bukti ilmiah seperti fosil, seleksi alam dan genetik
+b.	
+Kelompok kontra evolusi melakukan kegiatan literasi dengan 
+menyoroti keterbatasan bukti terjadinya evolusi dan teori 
+alternatif lain yang menentang evolusi 
+3.	
+Diskusikan setiap sumber informasi yang telah diperoleh bersama 
+dengan teman kelompok yang telah ditentukan untuk membangun 
+argumen dan pemahaman saat debat berlangsung. 
+4.	
+Silahkan untuk akses beberapa sumber informasi berikut ini untuk 
+membangun pemahaman dan argumen kalian:
+No
+Nama tokoh
+Tahun
+Temuan
+Keterangan
+1
+Charles Darwin
+1859
+Teori seleksi alam 
+pada bukunya The 
+origin of species
+www.gutenberg.
+org./ebooks/1228
+2
+Alfred 
+Russel Wallace
+1858
+Teori Seleksi Alam, 
+Independently 
+conceived 
+natural selection
+www.nhm.ac.uk/
+discover/who-
+was-alfred-russel-
+wallace.html
+3
+Thomas Huxley
+1860an
+Pembela utama 
+Darwin, dijuluki 
+"Darwin's Bulldog"
+www.britannica.com/
+biography/Thomas-
+Henry-Huxley
+4
+Stephen Jay Gould
+1972
+Teori Punctuated 
+Equilibrium
+www.britannica.
+com/biography/
+Stephen-Jay-
+Gould#ref246406
+BAB 3 Evolusi 
+185
+5
+Jean-
+Baptiste Lamarck
+1809
+Teori Lamarckisme, 
+pewarisan 
+karakteristik 
+yang diperoleh
+www.britannica.
+com/biography/Jean-
+Baptiste-Lamarck
+6
+Francis Collins
+2000an
+Genetika 
+Manusia, percaya 
+pada harmoni 
+sains dan agama
+www.genome.
+gov/10001018/
+former-nhgri-
+director-francis-
+collins-biography
+7
+Michael Behe
+1996
+Desain Cerdas, 
+konsep "Irreducible 
+Complexity"
+www.discovery.
+org/p/behe
+8
+Jonathan Wells
+2000
+Mengkritik bukti 
+evolusi dari 
+embrio, fosil, 
+dan seleksi alam 
+yang dianggap 
+direkayasa.
+https://
+iconsofevolution.
+com/the-problem-
+of-evidence/
+9
+Lynn Margulis
+2011
+Mengkritik peran 
+seleksi alam, 
+mengusulkan 
+simbiosis 
+sebagai faktor 
+utama evolusi.
+https://www.
+cell.com/
+current-biology/
+fulltext/S0960-
+9822(11)01375-3
+10
+Günter Bechly
+2016
+Menyoroti 
+ketidaksempurnaan 
+catatan fosil dan 
+keraguan akan 
+makro-evolusi.
+https://academic.
+oup.com/icb/artic-
+le/43/1/157/604502
+5.	
+Lakukan kegiatan debat dengan alur debat berikut ini:
+a.	
+Pada kegiatan ini guru akan berperan sebagai moderator yang 
+memimpin jalannya debat 
+b.	
+Kelompok pro mempresentasikan argumen yang telah disusun 
+selama 5 menit 
+c.	
+Kelompok kontra mempresentasikan argumen yang telah 
+disusun selama 5 menit 
+d.	
+ Kedua kelompok diberi kesempatan secara bergantian untuk 
+saling bertanya dan menanggapi argumen selama 10 menit
+e.	
+Masing-masing kelompok diberi waktu 3 menit untuk 
+menyampaikan pernyataan penutup
+f.	
+Moderator menutup kegiatan debat dengan meringkas poin-
+poin utama dari kedua sisi
+Biologi untuk SMA/MA Kelas XII
+186
+6. 
+Guru memandu siswa untuk melakukan kegiatan refleksi bersama 
+dengan panduan berikut:
+a.	
+Apa yang dipelajari dari pengalaman debat tersebut? karakter 
+apa yang bertumbuh di dalam diri kamu? ceritakanlah
+b.	
+Bagaimanakah kalian dapat menggunakan keterampilan debat 
+dalam kehidupan sehari-hari?
+AYO BEREFLEKSI
+Setelah kalian mempelajari Bab Evolusi ini, lakukan refleksi secara 
+pribadi untuk mengukur tingkat pemahaman kalian. Berikan tanda v 
+untuk pernyataan-pernyataan berikut ini secara jujur.
+Pernyataan
+Ya
+Tidak
+Saya mampu menjelaskan berbagai teori terkait asal-usul 
+makhluk hidup. 
+Saya mampu menganalisis mekanisme terjadinya evolusi 
+disertai dengan bukti-bukti yang sesuai.
+Saya mampu menghubungkan prinsip adaptasi dan seleksi 
+alam dengan mekanisme evolusi. 
+Saya mampu menjelaskan prinsip genetic drift dan gene flow 
+dengan mekanisme evolusi. 
+Saya mampu membuktikan perubahan frekuensi gen dalam 
+populasi menggunakan Hukum Hardy Weinberg. 
+BAB 3 Evolusi 
+187
+UJI KOMPETENSI
+A.	 Pilihan Ganda 
+	
+Pilihlah satu jawaban yang paling tepat dari soal-soal berikut ini. 
+1.	 Evolusi merupakan perubahan pada suatu individu yang disebabkan 
+oleh lingkungan dan bersifat diturunkan. Pendapat tersebut merupakan 
+gagasan dari .... 
+A.	 De Lamarck 	 	
+	
+	
+C.	 Lelly	
+	
+	
+	
+E.	 August. W
+B.	 C. Darwin 		
+	
+	
+	
+D.	 Antoni
+ 
+2.	 Populasi jerapah bersifat heterogen, ada yang berleher pendek dan ada 
+yang berleher panjang. Dalam kompetisi mendapatkan makanan, jerapah 
+yang berleher panjanglah yang lestari, sedangkan jerapah berleher pendek 
+lenyap secara perlahan-lahan. Peristiwa tersebut mengingatkan teori 
+evolusi yang dikemukakan oleh …. 
+A.	 Weismann 	
+	
+	
+	
+D.	 Lamarck
+B.	 Gerabah 	 	
+	
+	
+	
+E.	 Gregor Johan Mendel
+C.	 Charles Darwin 
+ 
+3.	 Seorang sejarawan melakukan penelitian mengenai evolusi dan 
+menemukan beberapa fakta yang terjadi di alam antara lain: 
+1)	 terdapat homologi organ 
+2)	 adanya variasi individu dalam satu keturunan 
+3)	 ditemukannya hewan yang sama pada tempat yang berbeda 
+4)	 semua spesies mempunyai potensi reproduksi yang tinggi 
+	
+Fakta yang diperoleh dan dapat dijadikan sebagai dasar teori 
+evolusi adalah… 
+A.	 1 dan 2 	
+	
+	
+	
+C.	 2 dan 3	
+	
+	
+	
+E.	 3 dan 4
+B.	 1 dan 3 	
+	
+	
+	
+D.	 2 dan 4
+ 
+4.	 Alat-alat yang tersisa pada organisme dapat dianggap sebagai petunjuk 
+adanya evolusi. Pada manusia yang bukan merupakan alat sisa, yaitu …  
+A.	 rambut pada dada 	 	
+	
+D.	 gigi taring yang runcing
+B.	 tulang telapak tangan 	
+	
+E.	 otot-otot (penggerak) telinga
+C.	 umbai cacing (usus buntu) 
+ 
+5.	 Pada suatu daerah dengan 10.000 penduduk terdapat 4% warga albino 
+maka perbandingan jumlah orang yang berkulit homozigot dan normal 
+heterozigot berturut-turut sebesar … 
+A.	 6.400 dan 1.600 	 	
+	
+	
+D.	 3.200 dan 4.00
+B.	 6.400 dan 3.200 	 	
+	
+	
+E.	 1.600 dan 4.00
+C.	 3.200 dan 1.600 
+ 
+Biologi untuk SMA/MA Kelas XII
+188
+6.	 Suatu populasi burung terpisah menjadi dua populasi. Setelah ribuan 
+tahun kedua populasi burung tersebut bersatu kembali, tetapi gagal 
+melakukan perkawinan. Berikut ini yang bukan penjelasan untuk hal 
+tersebut adalah … 
+A.	 masa kawin kedua populasi tersebut berubah 
+B.	 populasi asal berevolusi menjadi dua spesies berbeda 
+C.	 tidak terjadi isolasi gamet 
+D.	 dua populasi tersebut menjadi terisolasi secara geografis 
+E.	 telah terjadi isolasi gamet 
+7.	 Agust Weisman memotong ekor tikus jantan dan tikus betina, kemudian 
+keduanya dikawinkan. Anak tikus keturunannya pun mengalami perlakuan 
+yang sama sampai 50 generasi. Pada generasi yang ke-50, ternyata tetap 
+dihasilkan keturunan tikus yang berekor. Eksperimen ini bertentangan 
+dengan mekanisme evolusi yang dicetuskan oleh …. 
+A.	 Lamarck, seleksi alam 
+B.	 Darwin, seleksi alam 
+C.	 Lamarck, adaptasi 
+D.	 Darwin, adaptasi 
+E.	 Aristoteles, generatio spontanea
+8.	 Pengujian insektisida terhadap populasi nyamuk dewasa sangat efektif 
+dalam pemutusan siklus hidupnya. Jumlah populasi nyamuk akan menurun 
+secara drastis. Namun setelah dua tahun kemudian, jumlah nyamuk 
+kembali meningkat. Penyemprotan insektisida menjadi tidak efektif lagi. 
+Berdasarkan teori seleksi alam Darwin hasil observasi tersebut dapat 
+terjadi karena sebagian populasi nyamuk …. 
+A.	 terisolasi dari pengaruh insektisida 
+B.	 berproduksi sebelum insektisida digunakan 
+C.	 mampu beradaptasi terhadap insektisida dan mampu menghasilkan 
+keturunan 
+D.	 menjadi resisten terhadap insektisida, tetapi tidak mampu 
+menghasilkan keturunan 
+E.	 merupakan hasil migrasi dari populasi daerah lain 
+9.	 Pada suatu daerah terdapat penduduk bertangan kidal resesif (kk) sebesar 
+9%. Penduduk bertangan normal memiliki genotip KK dan Kk. Apabila 
+populasi penduduk di desa tersebut sebesar 20.000 jiwa maka jumlah 
+penduduk bertangan normal homozigot sebanyak …. 
+A.	 1.600 orang 	 	
+	
+D.	 6.800 orang
+B.	 2.400 orang 	 	
+	
+E.	 9.800 orang
+C.	 3.600 orang 
+BAB 3 Evolusi 
+189
+10.	Variasi yang terjadi dalam suatu keturunan terutama disebabkan oleh …. 
+A.	 mutasi gen dan rekombinasi gen 	
+	
+	
+D.	 rekombinasi gen
+B.	 mutasi gen dan diferensiasi sel 	 	
+	
+	
+E.	 diferensiasi sel
+C.	 seleksi alam 
+ 
+B.	 Esay
+Jawablah pertanyaan berikut dengan benar. 
+1.	 Di dalam suatu populasi tidak terjadi mutasi, tidak ada seleksi alam, dan 
+tidak terjadi perkawinan secara acak. Berdasarkan hal tersebut, apakah 
+berlaku hukum Hardy-Weinberg untuk populasi tersebut? Jelaskan!
+2.	 Berikan penjelasan, apakah bencana alam dapat dijadikan sebagai salah 
+satu penyebab mekanisme evolusi? 
+3.	 Tunjukkan perbedaan evolusi yang dicetuskan Lamarck dan evolusi yang 
+disampaikan Darwin!
+4.	 Jelaskan argumenmu terhadap argumen yang menyatakan bahwa 
+simpanse dan manusia memiliki perbedaan molekuler sekitar 1% 
+memperlihatkan hubungan kekerabatan yang sangat dekat!
+5.	 Persentase laki-laki buta warna di Indonesia sebesar 7%. Anggota populasi 
+laki-laki dengan wanita berjumlah sama dengan perbandingan 1 : 1. 
+Berapakah perbandingan wanita buta warna dan wanita carrier? 
+Biologi untuk SMA/MA Kelas XII
+190
+PENGAYAAN
+Untuk memperdalam pemahaman kalian terkait materi evolusi, silahkan ikuti 
+tahapan berikut.
+1.	
+Baca jurnal yang terdapat pada link berikut. 
+https://core.ac.uk/download/pdf/270148743.pdf
+2.	
+Jawablah pertanyaan berikut.
+a.	
+Kesimpulan apa yang bisa diambil dari tulisan di atas? 
+b.	
+Berikan pendapat pribadi kalian, apakah evolusi secara keseluruhan 
+bertolak belakang dengan agama? 
+c.	
+Bagaimana pandangan kalian secara pribadi terhadap teori evolusi 
+yang dicetuskan oleh Charles Darwin? 

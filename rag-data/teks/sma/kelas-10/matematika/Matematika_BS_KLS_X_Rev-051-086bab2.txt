@@ -1,0 +1,1446 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi  
+Republik Indonesia, 2023
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-623-118-558-7
+Barisan dan Deret
+2
+Bab
+Apa perbedaan barisan dan deret 
+aritmetika dengan barisan dan deret 
+geometri?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+36
+Tujuan Pembelajaran 	
+Setelah mempelajari bab ini, diharapkan kamu dapat menyelesaikan 
+permasalahan kehidupan sehari-hari yang berkaitan dengan konsep barisan 
+aritmetika dan barisan geometri serta konsep deret aritmetika dan deret 
+geometri. Selain itu, kamu juga diharapkan mampu menggunakan konsep 
+barisan dan deret untuk menyelesaikan permasalahan yang berkaitan 
+dengan bunga tunggal dan bunga majemuk.
+Kata Kunci 	
+•	
+barisan aritmetika
+•	
+barisan geometri
+•	
+deret aritmetika
+•	
+deret geometri
+•	
+bunga
+Peta Materi 	
+Barisan
+dan Deret
+Barisan
+Barisan
+Aritmetika
+Barisan
+Geometri
+Bunga
+Deret
+Bunga
+Tunggal
+Bunga
+Majemuk
+Deret
+Aritmetika
+Deret
+Geometri
+37
+
+ Bab 2 | Barisan dan Deret
+Barisan dan deret sangat erat kaitannya dengan konsep pola bilangan yang 
+telah kamu pelajari pada jenjang SMP. Penerapan barisan dan deret sangat 
+mudah ditemui dalam kehidupan sehari-hari. 
+Konsep barisan dan deret terkait dengan menghitung susunan kursi 
+dengan banyaknya kursi yang berbeda di tiap barisnya. Kamu dapat 
+menentukan banyak objek yang disusun dengan pola piramida di mana 
+objek tersebut dapat bertambah atau berkurang secara konstan. Kamu dapat 
+mempelajari pembelahan bakteri. Kamu juga dapat menentukan panjang 
+lintasan dari bola yang dipantulkan. Bunga uang juga menggunakan konsep 
+barisan dan deret.
+Jika kamu dihadapkan pada rangkaian susunan bilangan berikut, dapatkah 
+kamu menebak bilangan berikutnya?
+ 
+Dapatkah kamu menebak dua bilangan berikut pada susunan berikut?
+ 
+Untuk lebih jelasnya, mari belajar tentang Barisan dan Deret!
+A.	 Barisan
+1.	 Barisan Aritmetika
+Eksplorasi   2.1	
+Banyaknya Kursi
+Ayo, bandingkan banyak meja dan kursi pada Gambar 2.1 dan Gambar 2.2. 
+Pada Gambar 2.1, terdapat satu meja berbentuk segi empat yang dilengkapi 
+empat kursi. Jika dua meja disatukan, maka dapat dilengkapi dengan 6 kursi 
+(Gambar 2.2)
+Ayo, Mengingat Kembali
+2
+4
+6
+8
+...
+...
+1
+2
+4
+8
+...
+...
+Ayo, Bereksplorasi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+38
+ 
+Jawablah pertanyaan berikut dengan berdiskusi bersama teman kelompokmu.
+1.	
+Berapa orang yang dapat duduk di kursi dengan sejumlah meja yang 
+disatukan? Ayo, berkolaborasi dengan temanmu dalam mengisi Tabel 2.1 
+untuk menjawab pertanyaan tersebut. 
+2.	
+Jika terdapat 20 orang yang akan makan bersama di satu meja, maka berapa 
+meja yang perlu disatukan? Bagaimana kamu mengetahuinya? Jelaskan 
+jawabanmu.
+Tabel 2.1 menampilkan pola bilangan: 4, 6, 8, 10, …. 
+Jika diamati lebih teliti, pola bilangan di atas disusun berdasarkan aturan 
+tertentu. Pola bilangan yang demikian disebut dengan barisan bilangan.
+Berapa suku barisan bilangan tersebut?
+•	
+Suku ke-1 dilambangkan dengan U1= ...
+•	
+Suku ke-2 dilambangkan dengan U2= ...
+•	
+Suku ke-3 dilambangkan dengan U3= ...
+•	
+Suku ke-4 dilambangkan dengan U4= ...
+Gambar 2.1 Meja Segi Empat dengan 
+Empat Kursi
+Gambar 2.2 Dua Meja Segi Empat Disatukan
+Ayo, Berdiskusi
+Tabel 2.1 Banyak Meja dan Kursi
+Banyak meja
+1
+2
+3
+4
+5
+6
+Banyak kursi
+4
+6
+...
+...
+...
+...
+39
+
+ Bab 2 | Barisan dan Deret
+•	
+Suku ke-n dilambangkan dengan Un 
+Sehingga, barisan bilangan dapat dinyatakan dalam bentuk umum, yaitu 
+U1,U2,U3,U4, … ,Un.
+•	
+Selanjutnya, aturan apa yang ada pada barisan bilangan pada Tabel 2.1?
+•	
+Operasi penghitungan apa yang ada di antara suku-suku pada barisan 
+bilangan di atas?
+•	
+Berapakah beda atau selisih antara dua suku yang berdekatan?
+U2  – U1   = ... – ... = ...
+U3  – U2   = ... – ... = ...
+U4  – U3   = ... – ... = ...
+•	
+Apakah beda atau selisih antara dua suku yang berdekatan selalu sama?
+Suatu barisan dengan beda atau selisih antara dua suku berurutan 
+selalu tetap atau konstan disebut BARISAN ARITMETIKA. Beda pada 
+barisan aritmetika dilambangkan dengan b.
+Seperti yang telah diuraikan di atas, untuk mencari beda dapat dilakukan dengan 
+cara mengurangkan dua suku yang berurutan sehingga dapat dituliskan sebagai 
+berikut.
+b  = U2 – U1
+b  = U3 – U2
+b  = U4 – U3 dan seterusnya.
+Jadi, beda pada barisan aritmetika dapat dinyatakan dengan 
+b = Un  – U(n–1)
+4          6          8          10
+...         ...         ...
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+40
+Eksplorasi   2.2	
+Gedung Pertunjukan Seni
+Ayo, cermati banyak kursi di tiap 
+baris pada gedung pertunjukkan seni 
+yang tampak pada Gambar 2.3:
+Baris ke-1 = 20 
+Baris ke-2 = 24 
+Baris ke-3 = 28 
+Baris ke-4 = 32 
+Baris ke-5 = 36
+Berapakah jumlah kursi pada baris 
+ke-15?
+Untuk menentukan banyak kursi pada baris ke-15, sebelumnya kamu 
+amati terlebih dahulu banyak kursi di tiap baris.
+•	
+Berapa beda atau selisih banyak kursi pada tiap baris?
+•	
+Baris ke-1 = 20                
+•	
+Baris ke-2 = 24  = 20+ 4	
+	
+    (20 ditambah 4 sebanyak 1 kali) 
+= 20 + (1×4)
+•	
+Baris ke-3 = 28  = 20 + ... + ...	
+    (20 ditambah 4 sebanyak ... kali)  
+= 20 + (… × 4)
+•	
+Baris ke-4 = 32  = 20 + ... +... +...	
+    (20 ditambah ... sebanyak ... kali)  
+= 20 + (… × …) 
+•	
+Baris ke-5 = 36  = 20 + ... + ... + ... +...   (20 ditambah ... sebanyak ... kali)  
+= 20 + (… × …)
+•	
+Jadi, pada baris ke-15 = 20 ditambah … sebanyak …. kali  
+= 20 + (… × …) = ...
+Baris ke-15 = 20 + (… × …) = ...
+Gambar 2.3 Gedung Pertunjukan Seni
+Ayo, Bereksplorasi
+Suku ke-n (Un)
+Suku pertama (a)
+selisih/beda (b)
+(n-1)
+41
+
+ Bab 2 | Barisan dan Deret
+Jadi, rumus umum menentukan suku ke-n pada barisan aritmetika 
+adalah:
+Un  = a + (n - 1) b
+Keterangan: 
+Un = suku ke-n    a = suku pertama    n = nomor suku    b = beda
+Contoh  1  
+Diketahui suatu barisan aritmetika, suku ke-3 = 9, suku ke-6 = 18. Tentukan 
+rumus suku ke-n.
+Alternatif penyelesaian:
+Rumus suku ke-n :  
+Jadi, rumus suku ke-n dari barisan tersebut adalah Un = 3n
+Contoh  2  
+Rudi menabung di bank dengan selisih kenaikan nominal uang yang 
+ditabung antarbulan tetap. Jika pada bulan ke-5, nominal uang yang ditabung 
+Rp70.000,00 dan pada bulan ke-9 Rudi menabung sebesar Rp90.000,00.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+42
+a.	
+Berapa rupiah selisih nominal uang yang ditabung antarbulan?
+b.	
+Tentukan berapa rupiah uang yang ditabung Rudi untuk pertama 
+kalinya? 
+Alternatif Penyelesaian:
+U5 = 70.000
+a + (5 – 1)b = 70.000
+a + 4b = 70.000 ... (persamaan 1)
+U9 = 90.000
+a + (9 –1)b = 90.000
+a + 8b = 90.000 ... (persamaan 2) 
+Eliminasi Persamaan 1 dan 2
+a + 8b = 90.000
+a + 4b = 70.000 – 
+4b = 20.000
+b = 5.000
+b adalah beda atau selisih.
+Jadi, selisih nominal uang yang ditabung Rudi antarbulan adalah Rp5.000,00.
+Selanjutnya, menentukan uang yang ditabung Rudi pertama kali, yaitu 
+menentukan suku pertama yang dilambangkan dengan a dengan bantuan 
+nilai b (beda) yang telah diketahui.
+Gunakan persamaan 1, lalu substitusi nilai b (beda) yang telah diperoleh.
+a + 4b = 70.000
+a + 4(5.000) = 70.000
+a + 20.000 = 70.000
+a = 70.000 – 20.000
+a = 50.000
+a adalah suku pertama.
+Jadi, uang yang ditabung Rudi untuk pertama kalinya adalah sebesar 
+Rp50.000,00.
+Penjelasan di atas menggunakan Persamaan 1 untuk menentukan suku 
+pertama. Bagaimana jika menggunakan Persamaan 2? Apakah hasilnya akan 
+sama?
+43
+
+ Bab 2 | Barisan dan Deret
+Latihan   2.1	
+1.	
+Tuliskan dua suku berikutnya dari barisan bilangan di bawah ini.
+a.	
+8, 5, 2, -1, …
+b.	
+2, 3, 5, 8, 
+c.	
+-15, -11, -7, …
+d.	
+…10, 8, 4, -2, …
+Pertanyaan singkat di bawah ini dapat membantumu dalam menjawab 
+soal nomor 1.
+•	
+Apakah barisan di atas barisan aritmetika?
+•	
+Jika iya, berapa beda dari barisan tersebut? Lalu, tentukan dua suku 
+berikutnya dari barisan di atas.
+•	
+Jika tidak, maka aturan apa yang terdapat pada barisan bilangan 
+tersebut? 
+2.	
+Tentukan suku ke-50 dari barisan berikut: 5, –2, –9, –16, … 
+Pertanyaan singkat di bawah ini dapat membantumu dalam menjawab 
+soal nomor 2.
+•	
+Berapa beda pada barisan tersebut?
+•	
+Un = a + (n – 1)b
+Maka, suku ke - 50 = U50 = · · ·
+3.	
+Jika diketahui barisan aritmetika dengan suku  
+ke - 3 = −4 1
+2 dan suku ke - 8 = −2.  
+Tentukan suku pertama, beda, serta rumus 
+suku ke-n dari barisan tersebut. 
+4.	
+Setiap hari Jumat, Pak Hasan memberikan 
+sepuluh bungkus nasi ke panti asuhan di dekat 
+rumahnya. Setiap kali, pengurus panti mencatat banyaknya nasi bungkus 
+yang pernah diberikan oleh Pak Hasan. 
+Ayo, Mencoba
+Tahap penyelesaian soal 
+nomor 3 dapat dilihat pada 
+contoh soal 1 dan 2.
+Petunjuk
+i
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+44
+Jumat Ke-
+Banyaknya Nasi Bungkus
+Total Nasi Bungkus 
+yang Pernah 
+Diberikan
+1
+10
+10
+2
+10
+20
+3
+10
+30
+Kolom ketiga adalah total nasi bungkus yang pernah diberikan oleh Pak 
+Hasan.
+a.	
+Berapa yang tertulis dalam kolom ketiga setelah sepuluh minggu? 
+b.	
+Setelah satu tahun, berapa bilangan terakhir yang tercatat?
+5.	
+Ivan membagikan permen kepada teman-temannya dengan cara 
+tertentu. Teman pertama mendapat tiga permen. Teman kedua mendapat 
+lima permen. Teman ketiga mendapat tujuh permen. Dia melanjutkan 
+pola ini hingga sepuluh temannya mendapat permen. Berapa permen 
+yang didapat oleh teman kesepuluh?
+2.	 Barisan Geometri	 	
+Lima anak berbagi kue dengan aturan berikut.
+•	
+Anak pertama mengambil setengah kue dan memberikan sisanya kepada 
+anak kedua.
+•	
+Anak kedua mengambil setengah dari kue yang diterimanya dan 
+memberikan sisanya kepada anak ketiga.
+•	
+Demikian seterusnya. Setiap anak mengambil setengah dari yang 
+diterimanya dan memberikan sisanya kepada anak berikutnya.
+Perbandingan kue yang diambil dengan kue yang diterima konstan. 
+Dikatakan rasio kue yang diambil terhadap kue yang diterima adalah setengah.
+Rasio adalah hal yang penting dalam Barisan Geometri. Mari, belajar 
+tentang Barisan Geometri.
+Ayo, Mengingat Kembali
+45
+
+ Bab 2 | Barisan dan Deret
+Eksplorasi   2.3	
+Melipat kertas
+Siapkan kertas berbentuk persegi panjang. Ayo,  
+bereksplorasi melipat kertas beberapa kali. Jika 
+kertas tersebut dilipat sebanyak 1 kali seperti 
+pada Gambar 2.4, maka kertas akan terbagi 
+menjadi 2 bagian sama besar. Lanjutkan melipat 
+kertas sebanyak beberapa kali, lalu tuliskan 
+jumlah bagian sama besar yang terbentuk pada 
+Tabel 2.2.
+Tabel 2.2 Jumlah Lipatan Kertas dan Bagian Sama Besar yang Terbentuk
+Jumlah melipat kertas
+1 kali
+2 kali
+3 kali
+4 kali
+Banyaknya bagian sama 
+besar yang terbentuk
+2 bagian
+... bagian
+... bagian
+... bagian
+Temukan cara melipat kertas yang berbeda. Bagaimana dengan jumlah bagian 
+sama besar yang terbentuk? Apakah sama dengan yang ada pada tabel? 
+Jelaskan.
+•	
+Apakah banyaknya bagian yang sama besar pada lipatan kertas 
+membentuk barisan bilangan?
+•	
+Aturan apa yang terdapat pada barisan bilangan tersebut?
+•	
+Operasi hitung apa yang ada di antara suku-suku pada barisan bilangan 
+di atas?
+•	
+2          4          8          ...
+...         ...         ...
+•	
+Ayo amati rasio antara dua suku yang berdekatan. 	
+	
+Gambar 2.4 Kertas Dilipat Satu Kali
+Ayo, Bereksplorasi
+Ayo, Berpikir Kreatif
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+46
+•	
+Apakah rasio antara dua suku yang berdekatan selalu sama?
+Suatu barisan dengan rasio antara dua suku berurutan selalu 
+tetap atau konstan disebut BARISAN GEOMETRI. Rasio pada barisan 
+geometri dilambangkan dengan r. 
+Seperti yang telah diuraikan di atas, untuk mencari rasio dapat dengan 
+membagi dua suku yang berurutan. Dengan demikian, dapat dituliskan 
+sebagai berikut.
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+   
+dan seterusnya
+Jadi, rasio pada barisan geometri dapat dinyatakan dengan
+  
+Eksplorasi   2.4	
+Pembelahan Bakteri
+Bakteri merupakan makhluk hidup yang 
+berkembang biak dengan cara membelah 
+diri. Dalam waktu dua jam, satu sel bakteri 
+membelah diri menjadi 3 bagian seperti 
+pada Gambar 2.5. Ayo, mencari jumlah 
+bakteri setelah 20 jam, jika jumlah awal 
+adalah 2 sel bakteri.
+Untuk menentukan jumlah sel bakteri setelah 20 jam, kamu harus 
+melengkapi pernyataan di bawah ini.
+•	
+Suku pertama pada permasalahan di atas adalah ….
+Gambar 2.5 Pembelahan pada Bakteri
+Ayo, Bereksplorasi
+47
+
+ Bab 2 | Barisan dan Deret
+•	
+Tiap dua jam, membelah menjadi 3, maka rasio pada barisan di atas 
+adalah ….
+Dalam 20 jam, terjadi pembelahan sebanyak 20 jam : 2 jam = · · · kali 
+→n = 10. 
+U…	= … 
+U1 	 = 2 
+U2 	 = 2 ×…	
+(2 dikali 3 sebanyak … kali) = 2 × 3… 
+U3  	= 2 × … × …	
+(2 dikali 3 sebanyak … kali) = 2 × 3… 
+U4 	 = 2 × … × … × …	
+(2 dikali 3 sebanyak … kali) = 2 × 3… 
+U5  	= 2 ×… ×… ×… × …	 (2 dikali 3 sebanyak … kali)  = 2 × 3…
+U10 = 2 dikali 3 sebanyak … kali 
+U10 = 2 × 3
+…   
+Suku ke-n (Un)
+Suku pertama (a)
+(n-1)
+rasio (r)
+Jadi, rumus umum menentukan suku ke-n pada barisan geometri adalah: 
+ 
+Keterangan:	 
+Un = suku ke-n    a = suku pertama    n = nomor suku    r = rasio
+Contoh  3 
+Suku pertama dari suatu barisan geometri adalah 4 dan suku ke-4 adalah 108. 
+Tentukan rasio dari barisan tersebut.
+Alternatif penyelesaian:
+(substitusi nilai a)
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+48
+Jadi, rasio barisan geometri tersebut adalah 3.
+Contoh  4 
+Seutas tali dibagi menjadi 5 bagian dengan ukuran panjang membentuk 
+suatu barisan geometri. Jika tali yang paling pendek adalah 16 cm dan 
+tali yang paling panjang adalah 81 cm, maka tentukan panjang tali pada 
+potongan ketiga. 
+Alternatif penyelesaian:
+Tali yang paling pendek : a = 16 
+Tali yang paling panjang : U5 = 81 
+	
+	
+	
+       U3 = …
+Kalian harus menentukan rasio terlebih dahulu.
+(substitusi nilai a)
+Jadi, panjang tali pada potongan ketiga adalah 36 cm.
+Pada soal mengenai barisan 
+geometri, dapat juga 
+memanfaatkan konsep sifat 
+bilangan eksponen.
+Petunjuk
+i
+49
+
+ Bab 2 | Barisan dan Deret
+Latihan   2.2	 
+1.	
+Tuliskan dua suku berikutnya dari barisan bilangan di bawah ini.
+a.	
+1
+8, 1
+4, 1
+2, ···
+···, ···
+···		
+b.	
+25, 5, 1, … , …
+c.	
+2, 2, 4, 12, …
+d.	
+3, 3, 3, 3, …
+Pertanyaan singkat di bawah ini dapat membantumu dalam menjawab 
+soal nomor 1.
+•	
+Apakah barisan di atas merupakan barisan geometri atau 
+aritmetika? Bagaimana kamu mengetahuinya? Lalu, tentukan dua 
+suku berikutnya dari barisan di atas.
+•	
+Jika bukan keduanya, maka aturan apa yang ada pada barisan 
+bilangan tersebut? Ayo diskusikan dengan teman kelompokmu.
+2.	
+Tentukan suku ke-10 dari barisan 64, 32, 16, 8, …. 
+Pertanyaan singkat di bawah ini dapat membantumu dalam menjawab 
+soal nomor 2.
+•	
+Berapa rasio pada barisan tersebut?
+•	
+ 
+Maka, suku ke-10 = U10 = … … … … …
+3.	
+Jika diketahui barisan geometri dengan suku ke-2 = 80 dan suku ke-6 = 5. 
+Tentukan tiga suku pertama dari barisan geometri tersebut.
+4.	
+Dina mengirimkan sebuah foto kepada tiga orang temannya. Keesokan 
+harinya, setiap teman ini akan mengirimkan foto itu kepada tiga 
+temannya. Demikian seterusnya, setiap orang yang menerima foto akan 
+meneruskan foto itu kepada tiga teman lain di hari berikutnya.  
+Jika diasumsikan setiap orang hanya menerima foto satu kali, berapa 
+orang yang menerima foto pada hari keenam?
+5.	
+Dalam proses pembelahan sel, satu sel membelah menjadi dua, dua sel 
+membelah menjadi empat, dan seterusnya (pada setiap tahap, setiap sel 
+membelah menjadi dua sel). Berapa sel yang ada pada tahap ke-20?
+Berikan contoh aplikasi barisan bilangan dalam kehidupan sehari-hari selain dari 
+yang telah dibahas pada subbab A.
+Ayo, Berpikir Kreatif
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+50
+B.	Deret 
+Barisan bilangan, terdiri atas barisan aritmetika dan barisan geometri.
+•	
+Beda pada barisan aritmetika dinyatakan dengan 
+•	
+Suku ke-n barisan aritmetika dinyatakan dengan 
+.
+•	
+Rasio pada barisan geometri dinyatakan dengan 
+.
+•	
+Suku ke-n barisan geometri dinyatakan dengan 
+Seorang temanmu mengatakan bahwa jika rasio pada barisan geometri berupa 
+bilangan bulat/bilangan pecahan positif, maka barisan geometri tersebut terdiri 
+atas bilangan bulat/pecahan positif. Dan apabila rasionya bilangan bulat/pecahan 
+negatif, maka barisan geometri tersebut terdiri atas bilangan bulat/pecahan 
+negatif. Setujukah kamu dengan pendapatnya? Jelaskan.
+Ayo, Berpikir Kritis
+Pernyataan
+Bisa
+Perlu 
+Bantuan
+Belum 
+Bisa
+1.	
+Saya dapat membedakan barisan 
+aritmetika dengan barisan geometri.
+2.	
+Saya dapat menentukan suku ke-n 
+dari suatu barisan aritmetika.
+3.	
+Saya dapat  menentukan suku ke-n 
+dari suatu barisan geometri.
+Ayo, Berefleksi
+Ayo, Mengingat Kembali
+51
+
+ Bab 2 | Barisan dan Deret
+Eksplorasi   2.5	
+Jabat Tangan
+Ayo, Bereksplorasi
+Ayo bereksplorasi dengan melakukan jabat 
+tangan dengan beberapa teman yang ada di 
+kelompokmu. Setiap pasangan berjabat 
+tangan tepat satu kali.
+Setelah itu, jawablah pertanyaan berikut dengan berkolaborasi bersama anggota 
+kelompok.
+1.	
+Jika ada 2 orang, berapa banyak jabat tangan yang terjadi? ………………..
+2.	
+Jika ada 3 orang, berapa banyak jabat tangan yang terjadi? ………………..
+3.	
+Jika ada 4 orang, berapa banyak jabat tangan yang terjadi? ………………..
+4.	
+Berapa total siswa dalam kelompokmu, dan berapa banyak jabat tangan 
+yang terjadi? Bagaimana kamu mengetahuinya? ………………..
+Apakah banyak jabat tangan di atas membentuk barisan? Jelaskan jawabanmu.
+Dari Eksplorasi 2.5, banyak jabat tangan yang terjadi dapat dinyatakan 
+sebagai berikut.
+Tabel 2.3 Banyak Jabat Tangan yang Terjadi di Kelas
+Banyaknya orang 
+yang hadir
+Banyak jabat  
+tangan
+Uraian dari banyak  
+jabat tangan
+Dua orang
+1
+1
+Tiga orang
+3
+1 + 2
+Empat orang
+..
+1 + … + …
+Lima orang
+…
+1 + … + … + …
+Gambar 2.6 Siswa SMA Saling 
+Berjabat Tangan
+Ayo, Berdiskusi
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+52
+•	
+Apakah uraian dari jumlah jabat tangan merupakan bentuk 
+penjumlahan dari barisan bilangan?
+Bentuk penjumlahan dari barisan bilangan akan membentuk deret bilangan.
+Jadi, deret bilangan adalah jumlah suku-suku penyusun barisan bilangan.
+Deret bilangan, terdiri atas deret aritmetika dan deret geometri.
+1.	 Deret Aritmetika
+Carl Friedrich Gauss (1777-1855) adalah seorang 
+matematikawan Jerman yang telah menunjukkan 
+bakatnya sejak kecil. Ketika duduk di kelas 4 SD, 
+guru matematikanya memberikan soal berupa 
+penjumlahan bilangan  
+1 + 2 + 3 + 4+ …  + 98 + 99 + 100 = …
+Tidak membutuhkan waktu yang lama, Gauss 
+yang saat itu masih berusia 10 tahun langsung 
+menjawab “5.050”.
+Berikut cara Gauss menyelesaikan penjumlahan 
+bilangan tersebut.
+Ia mengelompokkan suku-suku pada deret tersebut sehingga memiliki 
+nilai yang sama ketika dijumlahkan. 
+Gambar 2.7 
+Carl Friedrich Gauss
+Sumber: Christian Albrecht Jensen/
+id.wikipedia.org (2009)
+Tahukah Kalian?
+?
+1 + 2 + 3 + 4 + ... + 97 + 98 + 99 +100
+101
+101
+101
+101
+1 + 2 + 3 + · · · + 98 + 99 + 100 = (1 + 100) + (2 + 99) + · · · + (50 + 51)
+= 101 + 101 + · · · + 101
+|
+{z
+}
+50⇥
+= 50 ⇥101
+= 5.050
+53
+
+ Bab 2 | Barisan dan Deret
+  
+Sekarang, ayo cermati kembali deret bilangan di atas.  
+1 + 2 + 3 + 4 +… + 98 + 99 + 100 = …
+•	
+Apakah bilangan pada deret di atas membentuk barisan?
+•	
+Barisan apakah yang dibentuk dari suku-suku pada deret di atas?
+Deret aritmetika adalah suatu deret yang diperoleh dari menjumlahkan 
+suku-suku pada barisan aritmetika.
+Dari barisan aritmetika: U1, U2, U3, U4, . . . . . . . . . , Un.
+Dapat dibentuk deret aritmetika: U1 + U2 + U3 + U4 + . . . . . . . . . + U10
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+Jumlah 4 suku pertama deret aritmetika: S₄
+	
+	
+1+2+3+.....+98+99+100 = ?
+1+2+3+4+.....97+98+99+100 = 50 x 101
+101
+101
+101
+101
+50.50
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+54
+Jumlah 10 suku pertama deret aritmetika: S10
+	
+	
+Jumlah 4 suku pertama deret 
+aritmetika
+Jumlah 10 suku pertama deret 
+aritmetika
+Dari kedua contoh di atas, maka dapat disimpulkan bahwa rumus  
+jumlah n suku pertama deret aritmetika:
+Sn dapat juga dituliskan Sn = Un + Un−1 + . . . + U2 + U1
+Bisakah kamu membuktikan dengan cara yang berbeda?
+n×
+Sn
+=
+a
++
+a + b
++
+. . .
++
+a + (n −1)b
+Sn
+=
+a + (n −1)b
++
+a + (n −2)b
++
+. . .
++
+a
+2Sn
+=
+2a + (n −1)b
++
+2a + (n −1)b
++
+. . .
++
+2a + (n −1)b +
+2Sn = n ⇥[2a + (n −1)b]
+2Sn = n ⇥[a + a + (n −1)b]
+2Sn = n (U1 + Un)
+Sn = n
+2 (U1 + Un)
+Ayo, Berpikir Kritis
+55
+
+ Bab 2 | Barisan dan Deret
+Rumus untuk menghitung jumlah suku-suku deret aritmetika adalah
+  atau  
+Keterangan:  
+Sn 	 = jumlah deret sebanyak n suku pertama 
+a 	 = suku pertama 
+b 	 = beda 
+n 	 = banyaknya suku  
+Dengan rumus di atas, ayo hitunglah berapa jumlah deret bilangan 
+1 + 2 + 3 + 4+ … + 98 + 99 + 100 = …
+Apakah hasilnya sama dengan penghitungan Gauss?
+Contoh  5 
+Diketahui deret: 13 + 16 + 19 + 22 + …… 
+Jumlah 30 suku pertama deret tersebut adalah ……
+Alternatif penyelesaian: 
+Suku pertama atau 
+Ayo, Mencoba
+a = 13
+b = 3
+n = 30
+S30 = 30
+2 [2(13) + (30 −1)3]
+= 15(26 + 29 · 3)
+= 15(26 + 87)
+= 15 · 113
+= 1.695
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+56
+2.	 Deret Geometri
+Eksplorasi   2.6	
+Jumlah Pasien Terinfeksi Covid-19
+Di suatu kota tercatat peningkatan yang signifikan dari jumlah pasien yang 
+terinfeksi Covid-19. Berikut data yang dihimpun dari Gugus Covid-19 kota 
+tersebut.
+Tabel 2.4 Jumlah Pasien Terinfeksi Covid-19 dalam Waktu 5 Bulan
+Bulan
+Januari 
+2020
+Februari 
+2020
+Maret 
+2020
+April 
+2020
+Mei 
+2020
+Jumlah pasien
+4
+12
+36
+108
+324
+Jawablah pertanyaan di bawah ini terkait data pada Tabel 2.4.
+•	
+Apakah jumlah pasien membentuk barisan bilangan?
+•	
+Berapa beda atau rasio dari barisan tersebut?
+•	
+Berapa suku barisan tersebut?
+Ayo cermati jumlah suku-suku deret geometri dengan melengkapi Tabel 2.5 
+melalui data yang ada pada Tabel 2.4 bersama teman kelompokmu.
+Ayo, Bekerja Sama
+Tabel 2.5 Proses Menemukan Kembali Rumus Jumlah Deret Geometri
+1
+2
+3
+S2 : jumlah pasien 
+dua bulan pertama
+S2 = 4 + 12 = …
+S3 : jumlah pasien 
+tiga bulan pertama
+S3 = … + … + … 
+     = 52
+Sn = . . . −4
+3 −1 = . . .
+. . . = 52
+S4 : jumlah pasien 
+empat bulan 
+pertama
+S4 = … + … + … + 
+         … = …
+Ayo, Bereksplorasi
+57
+
+ Bab 2 | Barisan dan Deret
+Dari kolom nomor 3 diperoleh:
+Sehingga, rumus untuk menghitung jumlah suku-suku deret geometri 
+adalah: 
+Sn = a(rn−1)
+r−1
+ atau Sn = a(1−rn)
+1−r
+ untuk r̸ = 1
+Keterangan:  
+Sn = jumlah deret sebanyak n suku pertama 
+a = suku pertama 
+r = rasio 
+n = banyaknya suku  
+Apa yang terjadi jika r = 1 ?
+Contoh  6 
+Hasil produksi sebuah perusahaan sepeda pada tahun 2020 meningkat setiap 
+bulannya dan membentuk barisan geometri. Produksi pada bulan Januari 
+sebanyak 120 unit. Pada bulan April, hasil produksi mencapai 3.240 unit. 
+Berapakah total hasil produksi sepeda hingga bulan Mei?
+Alternatif penyelesaian:
+Hasil produksi Januari: U1 = a = 120 
+Hasil produksi April: U4 = 3.240
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+58
+Total hasil produksi hingga bulan Mei: S5 
+Sebelum menentukan S5, harus dicari ratio (r) terlebih dahulu.
+	
+	
+	
+	
+	
+	
+	
+   
+	
+	
+	
+	
+	
+            (substitusi nilai a)
+Jadi, total hasil produksi sepeda hingga bulan Mei adalah sebanyak 14.520 
+unit.
+Latihan   2.3	 
+1.	
+Tentukanlah jumlah bilangan kelipatan 4 di antara bilangan 10 dan 99.
+Petunjuk singkat di bawah ini dapat membantumu dalam menjawab soal 
+nomor 1.
+•	
+Tuliskan terlebih dahulu bilangan 
+kelipatan 4 dari 10 hingga 100:
+•	
+12 + … + … + …. + …+ …. + ….
+•	
+Suku terakhir dari deret bilangan tersebut 
+adalah ………...
+•	
+Suku terakhir: Un=a+(n - 1)b 
+Untuk mengetahui 
+banyaknya suku pada 
+deret tersebut, kamu harus 
+mengetahui suku pertama, 
+beda dan banyak suku 
+terlebih dahulu.
+Petunjuk
+i
+59
+
+ Bab 2 | Barisan dan Deret
+•	
+Selanjutnya, menentukan Sn dengan nilai n yang telah diketahui 
+sebelumnya.
+•	
+Jadi, jumlah bilangan kelipatan 4 di antara bilangan 10 dan 99 adalah 
+……………
+2.	
+Suku pertama dan rasio dari suatu deret geometri berturut-turut adalah 
+9 dan 3. Tentukan banyak suku jika diketahui jumlah deret bilangan 
+tersebut adalah 9.837.
+Petunjuk singkat di bawah ini dapat membantumu dalam menjawab soal 
+nomor 2.
+•	
+Dari soal, diketahui:
+a = …	
+	
+r = …		
+	
+Sn = …
+•	
+Dengan tiga informasi di atas, maka dapat ditentukan n = · · ·
+3.	
+Diketahui deret geometri berikut ini: 3
+2 + 3 + 6 + 12 + · · · + Y = 762
+4 
+Tentukan nilai Y .
+Petunjuk singkat di bawah ini dapat membantumu dalam menjawab soal 
+nomor 3.
+•	
+Dengan nilai a ,r dan Sn yang telah terdapat pada soal, kamu akan 
+mendapatkan nilai n.
+•	
+Setelah memperoleh nilai n, kamu dapat menentukan nilai Y .
+4.	
+Vina membagikan permen kepada tujuh temannya dengan cara tertentu. 
+Teman pertama mendapat dua permen. Teman kedua mendapat lima 
+permen. Teman ketiga mendapat delapan permen. Dia melanjutkan pola 
+ini, setiap teman mendapat tiga permen lebih banyak daripada teman 
+sebelumnya, sampai semua temannya mendapat permen. Berapa permen 
+yang harus Vina siapkan?
+5.	
+Dani mengirimkan sebuah foto kepada dua orang temannya. Keesokan 
+harinya, setiap teman ini akan mengirimkan foto itu kepada dua 
+temannya. Demikian seterusnya, setiap orang yang menerima foto akan 
+meneruskan foto itu kepada dua teman lain di hari berikutnya. Jika 
+diasumsikan setiap orang hanya menerima foto satu kali, setelah tujuh 
+hari, berapa orang yang telah melihat foto tersebut?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+60
+3.	 Deret Geometri Tak Hingga
+Eksplorasi   2.7	
+Memotong Kertas
+Untuk eksplorasi ini kamu membutuhkan selembar kertas origami.
+1.	
+Lipat kertas menjadi dua bagian yang sama besar dan gunting sesuai 
+lipatan.
+2.	
+Ambil salah satu potongan kertas, lipat menjadi dua bagian yang sama 
+besar dan gunting sesuai lipatan. Potongan kertas ini besarnya 1
+4 dari 
+kertas origami awal.
+3.	
+Ambil salah satu potongan kertas dan lakukan hal yang sama. Potongan 
+kertas ini besarnya _______________ dari kertas origami awal.
+4.	
+Lakukan seterusnya.
+5.	
+Kumpulkan potongan-potongan kertas yang ada. Perhatikan bahwa 
+potongan-potongan kertas tersebut, makin lama makin kecil ukurannya. 
+6.	
+Tulislah deret yang menyatakan nilai potongan-potongan kertas ini. 
+Sn =______________________
+7.	
+Susun potongan-potongan kertas tersebut menyerupai bentuk kertas 
+origami utuh. 
+a.	
+b.	
+Pikirkan: berapa hasil penjumlahan deret ini?
+Eksplorasi 2.7 adalah salah satu contoh deret geometri yang hasilnya 
+mendekati suatu nilai tertentu. Deret geometri yang mempunyai sifat seperti 
+ini adalah deret geometri yang memiliki |r| < 1. Amati bahwa untuk nilai 
+|r| < 1, makin besar nilai n maka nilai rn makin kecil, namun selalu 
+merupakan bilangan positif. Dengan kata lain, makin lama makin mendekati 
+nilai 0.
+Ayo, Bereksplorasi
+Apa artinya fakta ini bagi nilai Sn
+Ayo Berpikir Kreatif
+61
+
+ Bab 2 | Barisan dan Deret
+Deret geometri tak hingga adalah deret geometri yang memiliki banyak 
+sekali suku (tak terhingga banyaknya). Ada dua jenis deret geometri tak 
+hingga.
+•	
+Deret geometri konvergen. Sn = 1
+2 + 1
+4 + 1
+8 + . . . +
+1
+2n adalah salah 
+satu contoh deret geometri konvergen. Deret geometri konvergen 
+memiliki |r| < 1 dan jumlah deretnya menuju ke suatu nilai tertentu. 
+(Konvergen artinya menuju ke suatu nilai tertentu.)
+•	
+Deret geometri divergen, yaitu deret geometri yang memiliki nilai  
+|r| > 1. Pada deret geometri divergen, Sn makin lama makin besar, tanpa 
+batasan tertentu. Dikatakan nilai Sn = ±1.
+Latihan   2.4	
+1.	
+Suku pertama suatu deret geometri tak hingga 
+adalah x. Tentukan x yang memenuhi sehingga 
+jumlah deret geometri tak hingga tersebut 
+adalah 10.
+Petunjuk singkat di bawah ini dapat 
+membantumu dalam menjawab soal nomor 1.
+•	
+Soal di atas hanya berisi informasi yaitu S∞ 
+= 10.
+•	
+Karena S∞ = 10 maka deret geometri tak hingga yang dimaksud pada 
+soal adalah deret geometri tak hingga konvergen.
+•	
+Hubungkan rumus jumlah deret geometri tak hingga dengan syarat 
+rasio pada deret konvergen.
+S
+=
+a
++
+ar
++
+ar2
++
+ar3
++
+. . .
+rS
+=
+ar
++
+ar2
++
+ar3
++
+. . .
+(1 −r)S = a
+S =
+a
+1 −r
+Dalam menyelesaikan soal 
+deret tak hingga, kamu 
+harus selalu ingat syarat 
+rasio dari deret konvergen 
+maupun divergen
+Petunjuk
+i
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+62
+2.	
+Agar deret geometri 1 + (m - 1) + (m -1)2  + (m - 1)3  + .... merupakan deret 
+konvergen, tentukan nilai m.
+Petunjuk singkat di bawah ini dapat membantumu dalam menjawab soal 
+nomor 2.
+•	
+Tentukan terlebih dahulu rasio dari deret tersebut.
+3.	
+Tentukan jumlah deret geometri tak hingga 4 + 12 + 36 + 108 + …
+Petunjuk singkat di bawah ini dapat membantumu dalam menjawab soal 
+nomor 3.
+•	
+Selidiki terlebih dahulu, deret geometri tak hingga tersebut 
+merupakan deret konvergen atau divergen.
+•	
+Tentukan S1.
+Melalui subbab B, kamu telah belajar mengenai deret aritmetika dan 
+geometri.
+ 
+Berikan contoh aplikasi deret bilangan dalam kehidupan sehari-hari selain dari 
+yang telah dibahas.
+Berikan contoh aplikasi deret geometri tak hingga konvergen dan divergen selain 
+dari yang telah dibahas pada subbab B.
+Ayo, Berpikir Kreatif
+Pernyataan
+Bisa
+Perlu 
+Bantuan
+Belum 
+Bisa
+1.	
+Saya dapat menjelaskan perbedaan 
+deret aritmetika dan deret geometri.
+2.	
+Saya dapat menjelaskan perbedaan 
+deret geometri tak hingga konvergen 
+dan divergen
+Ayo, Berefleksi
+63
+
+ Bab 2 | Barisan dan Deret
+Latihan   2.5	 
+1.	
+Suku ke-3 suatu barisan aritmetika adalah 28.500 dan suku ke-7 adalah 
+22.500. Tentukan nilai n agar suku ke-n = 0.
+2.	
+Suku ketiga dan kelima barisan geometri berturut-turut adalah 20 dan 
+80. Tentukan suku ke-10 barisan tersebut.
+3.	
+Hitunglah jumlah dari deret berikut.
+a.	
+b.	
+4.	
+Sebuah kue dimakan bersama oleh dua orang kakak beradik. Kakak 
+mengambil sepertiga kue. Adik mengambil sepertiga dari sisanya. Lalu 
+kakak mengambil sepertiga dari sisanya. Demikian seterusnya. 
+a.	
+Jika banyaknya kue yang diambil dituliskan, deret apakah yang 
+didapatkan?
+b.	
+Apakah deret ini konvergen? Jelaskan alasannya!
+c.	
+Jika deret ini konvergen, berapakah jumlahnya?
+5.	
+Bola tenis dilemparkan ke atas setinggi 1 m. Bola tersebut akan terus 
+memantul sampai akhirnya berhenti. Setelah dicermati, setiap kali bola 
+memantul, tingginya menjadi 1
+4 kali dari tinggi pantulan sebelumnya. 
+Kira-kira berapa panjang lintasan bola sampai akhirnya berhenti?
+6.	
+Pertambahan penduduk di suatu desa setiap tahunnya membentuk 
+barisan geometri. Pada tahun 2021, penduduk bertambah sebanyak 
+10 orang, lalu pada tahun 2023 sebanyak 90 orang. Berapa jumlah 
+pertambahan penduduk pada tahun 2025?
+7.	
+Pak Artus seorang peternak ayam. Ia mengumpulkan telur ayam 
+sebanyak 30.000 butir selama 2 bulan. Banyak telur yang Pak Artus 
+kumpulkan membentuk barisan aritmetika. Pada hari pertama ia 
+mengumpulkan telus ayam sebanyak 50 butir. Berapa butir telur yang 
+Pak Artus kumpulkan pada hari terakhir?
+8.	
+Penambahan jumlah pasien yang terjangkit virus Covid-19 di suatu kota 
+melonjak dua kali lipat di tiap minggunya. Berdasarkan data yang di 
+rumah sakit, pada minggu pertama terdapat 24 orang yang dinyatakan 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+64
+positif. Pada minggu ketiga, tercatat 96 pasien positif Covid-19. Berapa 
+total jumlah pasien pada bulan kedua?
+9.	
+Sebuah bola dijatuhkan dari ketinggian 8 meter. Apabila ketinggian yang 
+dicapai saat memantul tiga perlima kali tinggi sebelumnya, tentukan 
+panjang lintasan yang dilalui bola tersebut hingga berhenti memantul.
+10.	 Keliling lima buah lingkaran membentuk barisan aritmetika. Jika luas 
+lingkaran terbesar adalah 1.368 cm2 dan luas lingkaran terkecil adalah 
+154 cm2. Tentukan keliling lingkaran pada urutan ketiga. π = 22
+7
+11.	 Sisipkan 5 bilangan di antara 3 dan 192 agar susunan bilangan tersebut 
+membentuk barisan geometri.
+12.	 Sisi segitiga sama sisi panjangnya 20 cm. Di dalamnya terdapat segitiga 
+sama sisi kedua dengan menghubungkan titik-titik tengah sisi-sisi 
+segitiga pertama. Hal yang sama untuk segitiga ketiga, keempat, kelima, 
+dan keenam. Berapa total keliling semua segitiga?
+C.	 Bunga
+Jika kalian menabung uang di bank, kalian akan mendapatkan bunga. 
+Sebaliknya, jika kamu meminjam uang dari bank, maka bank akan 
+mengenakan bunga. Menurut Otoritas Jasa Keuangan, bunga simpanan 
+adalah balas jasa dari bank kepada nasabah atas jasa nasabah menyimpan 
+uangnya di bank. Sedangkan bunga pinjaman adalah balas jasa yang 
+ditetapkan bank kepada peminjam atas pinjaman yang didapatkannya. Ada 
+dua jenis bunga, yaitu bunga tunggal dan bunga majemuk.
+1.	 Bunga Tunggal
+Bunga tunggal adalah bunga yang besarnya hanya ditentukan oleh pokok 
+uangnya. Seberapa lamanya uang disimpan di bank, bunganya hanya 
+tergantung nilai pokok uangnya.
+Angga menabung di bank sebesar Rp1.000.000,00. Setiap tahun dia 
+mendapat bunga sebesar 5%.
+65
+
+ Bab 2 | Barisan dan Deret
+Eksplorasi   2.8	
+Tabungan dengan Bunga Tunggal
+1.	
+Lengkapilah tabel berikut
+Tahun
+Bunga
+Nilai Uang
+1
+50% × 1.000.000 = 50.000
+1.000.000 + 50.000 = 1.050.000
+2
+50% × 1.000.000 = 50.000
+1.050.000 + 50.000 = 1.100.000
+3
+50% × 1.000.000 = 50.000
+1.100.000 + 50.000 = 1.150.000
+4
+50% × 1.000.000 = 50.000
+1.150.000 + 50.000 = 1.200.000
+2.	
+Perhatikan kolom nilai uang. Barisan jenis apakah yang dibentuk oleh 
+nilai uang yang disimpan dengan bunga tunggal?
+Barisan __________ dengan U1 = .... dan b = ...
+3.	
+Tentukan bentuk umum untuk nilai uang setelah disimpan n tahun. 
+Un = ...
+Nilai uang yang disimpan di bank dengan bunga tunggal membentuk 
+barisan ______________ .
+2.	 Bunga Majemuk
+Dalam perhitungan bunga majemuk, bunga yang didapat dalam periode 
+sebelumnya dimasukkan ke pokok tabungan. Bunga periode berikutnya 
+dihitung dengan nilai pokok tabungan yang baru.
+Eksplorasi   2.9	
+Tabungan dengan Bunga Majemuk
+1.	
+Lengkapilah tabel berikut.
+Tahun
+Pokok
+Bunga
+Tabungan
+1
+1.000.000
+5% ⇥1.000.000
+= 50.000
+1.000.000 + 50.000
+= 1.050.000
+2
+1.050.000
+5% ⇥1.050.000
+= 52.500
+1.050.000 + 52.500
+= 1.102.500
+Ayo, Bereksplorasi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+66
+Tahun
+Pokok
+Bunga
+Tabungan
+3
+1.102.500
+5% ⇥1.102.500
+= . . . . . .
+1.102.500 + . . . . . .
+= . . . . . .
+2.	
+Perhatikan kolom nilai uang. Barisan jenis apakah yang dibentuk oleh 
+nilai uang yang disimpan dengan bunga majemuk?
+Barisan __________ dengan U1 = . . . dan r = . . . 
+3.	
+Tentukan bentuk umum untuk nilai uang setelah disimpan  tahun. 
+U1 = . . .
+Nilai uang yang disimpan di bank dengan bunga majemuk membentuk 
+barisan ______________ .
+Latihan   2.6	 
+1.	
+Firman menyimpan uang sejumlah Rp10.000.000,00 di bank dalam 
+bentuk deposito dengan bunga 3% per tahun. Setiap tahun bank 
+mengirim bunga ke rekening tabungan Firman.
+a.	
+Berapa bunga yang diterima Firman di rekening tabungannya setiap 
+tahun?
+b.	
+Berapa uang Firman setelah satu tahun?
+c.	
+Berapa uang Firman setelah dua tahun?
+d.	
+Berapa uang Firman setelah lima tahun?
+2.	
+Gigih juga memiliki deposito sejumlah Rp10.000.000,00 di bank dengan 
+bunga 3% per tahun. Setiap tahun, saat perpanjangan deposito, 
+Gigih meminta bank untuk menambahkan bunganya ke dalam nilai 
+depositonya.
+a.	
+Lengkapilah tabel berikut.
+Tahun
+Pokok
+Bunga
+Tabungan
+1
+67
+
+ Bab 2 | Barisan dan Deret
+Tahun
+Pokok
+Bunga
+Tabungan
+2
+3
+b.	
+Berapa uang Gigih setelah satu tahun?
+c.	
+Berapa uang Gigih setelah dua tahun?
+d.	
+Setelah lima tahun, lebih banyak uang Firman atau Gigih? Berapa 
+selisihnya?
+e.	
+Jika kamu memiliki uang seperti Firman dan Gigih, apa yang akan 
+kamu lakukan? Mengapa?
+f.	
+Dalam keadaan seperti apa kamu akan bertindak seperti Firman? 
+Seperti Gigih?
+3.	
+Made meminjam uang sejumlah Rp2.500.000,00 dengan bunga 4% per 
+tahun. Dia berjanji mengembalikan selama dua tahun dengan cicilan 
+tetap setiap bulan. Berapakah cicilan yang harus dia bayarkan setiap 
+bulannya?
+4.	
+Dina meminjam uang senilai Rp3.000.000,00 dengan bunga 3% per tahun 
+selama tiga tahun. Dia mencicil utangnya setiap tahun. Pokok utang yang 
+telah dibayar, tidak dibayarkan lagi bunganya. Lengkapilah tabel berikut.
+Tahun 
+ke-
+Nilai 
+Utang
+Cicilan 
+Pokok
+Bunga
+Cicilan Utang
+1
+3.000.000
+1.000.000
+3% × 3.000.000 =
+1.000.000 + . . . = . . .
+2
+2.000.000
+1.000.000
+3% × 2.000.000 =
+3
+1.000.000
+
+68
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+68
+Uji Kompetensi 	
+1.	
+Tentukan suku ke-10 dan jumlah 10 suku pertama dari deret berikut.
+a.	
+4 + 2 + 1 + …  
+b.	
+4 + 1 + (-2) + …
+2.	
+Tentukan suku ke-9 barisan aritmetika, jika diketahui jumlah dari suku 
+ke-2, suku ke-5, dan suku-20 adalah 54.
+3.	
+Sebuah pipa dipotong menjadi 5 bagian. Panjang setiap bagian 
+membentuk barisan geometri. Jika potongan pipa terpendek sepanjang 
+4 cm, dan potongan pipa terpanjang adalah 324 cm, maka tentukan 
+panjang pipa semula. 
+4.	
+Pada suatu ruang pertemuan, jumlah kursi pada baris tertentu lebih 
+banyak 2 kursi dari baris sebelumnya. Perbandingan banyak kursi pada 
+baris ke-5 dan baris ke-13 adalah 1 : 2. Baris terakhir terisi 50 kursi. 
+Berapa total kursi pada ruang pertemuan tersebut?
+5.	
+Tentukan jumlah deret geometri tak hingga 
+ … …, jika 
+diketahui 
+.
+Pengayaan 	
+Selain barisan dan deret aritmetika dan geometri, ada barisan dan deret yang 
+lain, salah satunya barisan dan deret Fibonacci. Contoh barisan Fibonacci: 
+1, 1, 2, 3, 5, 8, 13, ...
+Barisan Fibonacci memiliki sifat Un = Un−1 + Un−2 dengan berbagai 
+nilai U1 dan U2.
+Perhatikan bilangan pada barisan Fibonacci:
+1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, …
+Kapan bilangannya genap dalam barisan?
+Apakah ada polanya? Mengapa?
+Bilangan Fibonacci manakah yang dapat dibagi habis 3?
+69
+
+ 
+69
+
+ Bab 2 | Barisan dan Deret
+Gambar 2.8 Bunga Matahari
+Sumber: Wofeypoo/Pixabay (2013)
+Barisan Fibonacci dapat ditemukan di alam. Salah satunya pada bunga 
+matahari. Jika kamu menghitung banyaknya spiral pada susunan biji bunga 
+matahari pada Gambar 2.8 yang searah dengan garis biru, kamu akan 
+mendapatkan 34 spiral. Sedangkan yang searah dengan garis berwarna 
+merah ada 55 spiral.
+Refleksi  	
+Pertanyaan Asesmen Diri
+bisa
+perlu 
+bantuan
+belum 
+bisa
+1.	
+Saya dapat membedakan barisan 
+aritmetika dengan barisan geometri.
+2.	
+Saya dapat menentukan suku ke-n dari 
+suatu barisan aritmetika dan suatu 
+barisan geometri.
+3.	
+Saya dapat menentukan suku ke-n dari 
+suatu barisan geometri.
+4.	
+Saya dapat menentukan jumlah n suku 
+pertama dari suatu barisan aritmetika
+
+70
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+70
+Pertanyaan Asesmen Diri
+bisa
+perlu 
+bantuan
+belum 
+bisa
+5.	
+Saya dapat menentukan jumlah n suku 
+pertama dari suatu barisan geometri.
+6.	
+Saya dapat membedakan bunga 
+tunggal dan bunga majemuk.
+7.	
+Saya dapat menghitung bunga tunggal 
+dan bunga majemuk.

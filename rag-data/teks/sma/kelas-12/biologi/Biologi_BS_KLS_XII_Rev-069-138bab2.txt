@@ -1,0 +1,2859 @@
+BAB 2 Genetik dan Pewarisan Sifat 
+59
+Genetik dan 
+Pewarisan Sifat
+Apakah materi genetik itu? Bagaimana 
+pewarisan sifat terjadi?
+BAB 2
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Biologi 
+untuk SMA Kelas XII
+Penulis	
+Shilviani Dewi, dkk.
+ISBN 	
+978-602-427-958-5 (jil.2)
+Biologi untuk SMA/MA Kelas XII
+60
+Tujuan Pembelajaran 
+Setelah mempelajari bab ini, kalian diharapkan dapat:
+1.	 menjelaskan komposisi dan struktur DNA, gen, serta kromosom.
+2.	 mengkorelasikan peran antara DNA, gen, dan kromosom dalam pewa-
+risan sifat.
+3.	 menjelaskan tahap-tahap sintesis protein.
+4.	 membandingkan tahap-tahap mitosis dan meiosis.
+5.	 menganalisis peran mitosis dan meiosis.
+6.	 menganalisis pentingnya produksi sel-sel yang identik secara genetik.
+7.	 menganalisis pola-pola pewarisan sifat pada makhluk hidup.
+8.	 menerapkan konsep penyimpangan semu hukum Mendel pada beberapa 
+kasus soal.
+9.	 menghitung hasil persilangan sampai mendapatkan perbandingan fenotip 
+dan genotipnya.
+10.	 menjelaskan peristiwa mutasi dan sebab-sebab terjadi­nya mutasi.
+Kata Kunci 
+DNA, gen, kromosom, mitosis, meiosis, hereditas, hukum Mendel.
+Peta Materi 
+Materi Genetik, 
+Pembelahan 
+Sel & Pewarisan 
+Sifat
+Materi 
+Genetik
+DNA
+Kromosom
+Unit Dasar 
+Penyusunan 
+DNA
+Struktur 
+Kromosom
+Mitosis
+Mekanisme
+Pewarisan 
+Sifat Normal
+Warna 
+Kulit
+Bentuk 
+Rambut
+Warna 
+Mata
+Albinisme
+Sindrome 
+Down
+Buta 
+Warna
+Hukum 
+Mendel I 
+& Hukum 
+Mendel II
+Penyimpangan 
+Semu Hukum 
+Mendel
+Pola
+Persilangan  
+Monohibrid
+Kelainan 
+Sifat yang 
+Diturunkan
+Mutasi
+Persilangan  
+Dihibrid
+Meiosis
+Jumlah 
+Kromosom
+Jenis 
+Kromosom
+Model 
+Molekul 
+DNA
+Replikasi
+Transkripsi
+Translasi
+Kode 
+Genetik
+Gen
+Pembelahan 
+Sel
+Pola dan 
+Mekanisme 
+Pewarisan 
+Sifat
+Penerapan 
+Pewarisan 
+Sifat
+BAB 2 Genetik dan Pewarisan Sifat 
+61
+Coba perhatikan gambar di bawah ini. Gambar tersebut menunjukkan 
+terjadinya pewarisan sifat dari dua induk kepada keturunannya.
+Vanda tricolor X V. limbata.
+Vanda limbata asal NTB
+Vanda tricolor asal Merapi
+	Gambar 2.1 Hasil persilangan anggrek Vanda tricolor dengan Vanda limbata asal NTB 
+menghasilkan varietas baru Vanda tricolor X V. limbata.
+	
+Pada gambar tersebut, terlihat induk jantan bunga anggrek Vanda limbata 
+memiliki sifat berwarna merah kecoklatan dengan bibir lebar berwarna 
+ungu dan induk betina bunga anggrek Vanda tricolor memiliki sifat berwarna 
+putih totol-totol cokelat keunguan dengan bibir panjang berwarna merah 
+keunguan. Persilangan antara bunga jantan dan betina tersebut menghasilkan 
+keturunan yang memiliki campuran sifat dari kedua induknya, yaitu memiliki 
+bunga berwarna cokelat totol-totol putih dengan bibir panjang berwarna 
+ungu. Hal tersebut menunjukkan bahwa sifat induk dapat diwariskan kepada 
+keturunannya. 
+A.	 Materi Genetik
+Setiap makhluk hidup memiliki materi genetik yang akan diwariskan 
+kepada keturunannya. Secara umum, keseluruhan materi genetik akan 
+menentukan karakteristik makhluk hidup. Untuk memahami mengenai materi 
+genetik, lakukan aktivitas berikut.
+Biologi untuk SMA/MA Kelas XII
+62
+AKTIVITAS 2.1 
+Mengenal Materi Genetik melalui Penelusuran Video
+1.	
+Bentuk kelompok terdiri atas 3 – 4 orang.
+2.	
+Lakukan penelusuran video melalui sumber literatur terpercaya di 
+Youtube dengan kata kunci pencarian DNA, gen, dan kromosom. 
+3.	
+Jawablah pertanyaan berikut dengan berdiskusi.
+a.	
+Apakah kalian tahu mengenai materi genetik DNA, gen, 
+dan kromosom?
+b.	
+Bagaimana struktur atau bentuk DNA, gen, dan kromosom? 
+c.	
+Apa fungsi DNA, gen, dan kromosom? 
+4.	
+Buatlah kesimpulan berdasarkan hasil diskusi kalian.
+5.	
+Kumpulkan jawaban kalian kepada guru.
+1.	 DNA dan Gen
+G
+G
+C
+C
+T
+A
+A
+T
+Nukleotida
+Berdasarkan Gambar 2.1, kalian dapat amati 
+bersama bahwa ada sifat-sifat yang terlihat 
+secara langsung, seperti warna bunga, bentuk 
+bunga, bentuk bibir bunga, warna bibir bunga, 
+dan karakteristik lain yang tampak. Sifat yang 
+tampak atau dapat diamati disebut fenotip. 
+Fenotip ditentukan oleh kekhasan struktur 
+gen yang disebut genotip. Jadi, genotip akan 
+menentukan fenotipnya. Lalu, apakah yang 
+dimaksud dengan gen?
+Gen adalah segmen DNA yang merupakan 
+rangkaian nukleotida dengan urutan tertentu. 
+Apa itu nukleotida? Coba, perhatikan Gambar 
+2.2. Nukleotida merupakan satuan dasar yang 
+terdiri atas gula yang disebut deoksiribosa, 
+gugus fosfat, dan basa yang mengandung 
+nitrogen. Adapun basa yang mengandung 
+nitrogen di dalam DNA ada empat macam, yaitu 
+adenin (A), sitosin (C), guanin (G), dan timin (T).
+ Gambar 2.2 Simbol  
+     komponen penyusun 
+     nukleotida.
+BAB 2 Genetik dan Pewarisan Sifat 
+63
+DNA yang mengekspresikan sifat tertentu, mengkode pembentukan 
+suatu polipeptida yang nantinya akan membentuk protein. Protein inilah 
+yang menjalankan fungsi gen dalam pewarisan sifat. Keterkaitan antara 
+DNA, gen, dan protein dalam pembentukan sifat (fenotip tertentu) dikenal 
+dengan istilah dogma sentral. Perhatikan gambar berikut.  
+DNA
+mRNA
+Protein
+replikasi
+transkripsi
+reverse transcription
+translasi
+ Gambar 2.3 Dogma sentral.
+Begitu pentingnya peran DNA dalam menentukan sifat sehingga 
+satu saja nukleotida yang berubah dapat memengaruhi perubahan 
+sifat dari suatu individu. Misalnya, perubahan sitosin menjadi guanin 
+pada manusia dapat mengubah fenotip rambut lurus menjadi keriting. 
+Peristiwa ini dikenal sebagai single nucleotide polymorphism. Perhatikan 
+gambar berikut.
+A   A   T   G   G   T
+G
+G
+C
+C
+C
+C
+C
+C
+C
+C
+ Gambar 2.4 Perubahan satu nukleotida G menjadi C dapat mengubah fenotip jenis rambut.
+Biologi untuk SMA/MA Kelas XII
+64
+2.	 Merakit Nukleotida 
+G
+C
+T
+A
+Basa Nitrogen
+Deoksiribosa
+ Gambar 2.6 Polinukleotida.
+2nm
+3.4nm
+DNA
+5’
+5’
+3’
+3’
+	Gambar 2.7 Rantai ganda 
+DNA merupakan struktur 
+yang berpilin.
+Basa-basa yang mengandung nitrogen, gula 
+deoksiribosa, dan gugus fosfat dapat bergabung 
+membentuk empat molekul nukleotida berbeda 
+seperti yang ditunjukkan gambar berikut.
+C
+ Gambar 2.5 Nukleotida.
+Sejumlah nukeotida dapat digabungkan 
+membentuk rantai panjang yang disebut 
+polinukleotida. Perhatikan gambar 2.6!
+Setiap 
+gen 
+tersusun 
+atas 
+rangkaian 
+nukleotida dengan urutan tertentu. Perbedaan 
+urutan nukleotida (basa-basa) antara satu 
+dengan lainnya menyebabkan gen bersifat 
+spesifik, gen yang satu berbeda dengan 
+gen yang lain. Coba, kalian amati Gambar 
+2.7. Molekul DNA tersusun atas dua rantai 
+polinukleotida antiparalel. Molekul tersebut 
+disebut antiparalel maksudnya rantai DNA 
+yang merentang dari 5' ke 3' akan berpasangan 
+dengan rantai DNA yang merentang dari 3' ke 5'. 
+Basa-basa di satu rantai berikatan dengan basa-
+basa di rantai seberang atau komplemennya, 
+sesuai aturan perpasangan basa sehingga 
+menyusun apa yang disebut rantai double helix. 
+Molekul DNA dengan dua rantai (double helix) 
+tersebut, umum ditemukan dalam nukleus sel 
+eukariotik. Molekul DNA yang direntangkan 
+menyerupai tangga dengan anak tangganya 
+berupa basa komplementer. Adapun pada 
+bakteriofage (virus pemakan bakteri), DNA 
+hanya berupa satu untai atau tunggal.
+ 
+BAB 2 Genetik dan Pewarisan Sifat 
+65
+3.	 Aturan Perpasangan Basa 
+A
+T
+G
+C
+C
+G
+Adakah  yang 
+mau bersamaku?
+Aku mau
+bersamamu
+A
+T
+Aku pasangan 
+yang cocok 
+untuk A
+Bagaimana denganku,
+apakah ada yang 
+mau berpasangan?
+Aku 
+ Gambar 2.8 Aturan perpasangan basa nitrogen. 
+Aturan perpasangan basa, yaitu adenin (A) selalu berpasangan dengan 
+timin (T) dan sitosin (C) selalu berpasangan dengan guanin (G). Oleh sebab 
+itu, adenin dan timin disebut basa komplementer, begitu juga dengan 
+sitosin dan guanin. Basa-basa komplementer tersebut dihubungkan oleh 
+ikatan hidrogen. 
+G
+G
+C
+C
+T
+A
+A
+T
+Ikatan Hidrogen
+Nukleotida
+basa nitrogen
+fosfat
+deoksiribosa
+b
+deok
+t
+ Gambar 2.9 Pasangan basa komplementer.
+Biologi untuk SMA/MA Kelas XII
+66
+AKTIVITAS 2.2
+Membuat Model Molekul DNA
+Tujuan:
+Mengetahui struktur molekul DNA.
+Alat:
+1.	
+gunting
+2.	
+penggaris
+3.	
+wadah
+4.	
+cutter
+5.	
+pulpen/spidol
+Bahan:
+1.	
+koran
+2.	
+gabus/styrofoam
+3.	
+cat akrilik dan kuas
+4.	
+lem kayu
+5.	
+double tape
+6.	
+lidi
+Langkah percobaan:
+1.	
+Gunting koran menjadi 4 bagian.
+2.	
+Linting koran tersebut dan tempel dengan double tape agar lintingan 
+tidak terbuka kembali.
+3.	
+Ambil lintingan terpanjang dan masukkan lidi ke dalam lintingan 
+tersebut. Buat 6 lintingan kertas koran. Lintingan akan menjadi 
+pondasi DNA dan basa nitrogennya.
+4.	
+Ukur lintingan kertas koran sepanjang 8 cm dan gunting. Lalu, 
+tandai bagian basa nitrogen dan ikatannya.
+5.	
+Beri warna pada basa nitrogen, misal merah untuk adenin, biru 
+untuk timin, hijau untuk sitosin, orange untuk guanin, dan warna 
+putih untuk ikatan hydrogen. 
+6.	
+Beri warna pada pondasi DNA, misal warna kuning.
+7.	
+Potong gabus atau styrofoam berbentuk kubus.
+8.	
+Tancapkan pondasi rantai DNA pada styrofoam dan tempelkan 
+basa nitrogen pada rantai DNA. Buat menjadi bentuk anak tangga 
+yang memutar.
+9.	
+Buat bola-bola kecil sebagai gula deoksiribosa menggunakan 
+bubur kertas. Caranya, sobek kertas koran, lalu tambahkan air dan 
+BAB 2 Genetik dan Pewarisan Sifat 
+67
+hancurkan hingga menjadi bubur. Selanjutnya, tambahkan lem 
+kayu pada bubur kertas dan buat bola-bola kecil. Lalu, keringkan 
+bola-bola tersebut. Setelah kering, beri warna untuk membedakan 
+tiap jenis gula deoksiribosa.
+10.	 Tempelkan fosfat dan deoksiribosa pada rantai DNA.
+11.	 Tampilkan model DNA yang sudah kalian buat, lalu jelaskan 
+mengenai bentuk dan unit dasar penyusun DNA di depan kelas.
+4.	 Model Molekul DNA oleh Watson dan Crick
+Kalian telah mengetahui bahwa DNA memiliki struktur heliks ganda 
+(double helix). Selain itu, DNA mengandung nukleotida yang terdiri atas 
+deoksiribosa, gugus fosfat, dan pasangan basa yang mengandung nitrogen 
+seperti yang telah dijelaskan sebelumnya. 
+Penemuan fenomenal mengenai struktur DNA oleh James Watson dan 
+Francis Crick pada tahun 1953, membuat mereka mendapatkan hadiah 
+Nobel dalam Fisiologi atau Kedokteran pada tahun 1962 untuk temuan 
+penting ini. Artikel riset mereka yang berjudul A Structure for Deoxyribose 
+Nucleic Acid dalam jurnal ilmiah Nature telah membuka jalan bagi banyak 
+kemajuan di bidang rekayasa genetika yang kita lihat saat ini. 
+	Gambar 2.10.  DNA model Watson dan Crick.
+	
+Sumber: thehistoryblog.com
+Biologi untuk SMA/MA Kelas XII
+68
+AKTIVITAS 2.3
+Ayo Berpikir Kritis
+Kalian pasti sudah banyak mendengar mengenai metode pemeriksaan 
+PCR, terkait dengan pandemi Covid-19 akhir-akhir ini. Pada metode 
+pemeriksaan PCR yang dilakukan secara in vitro, ada tahap di mana DNA 
+dikopi atau diamplifikasi menjadi banyak. Coba, lakukan studi literatur 
+melalui sumber yang terpercaya untuk menjawab pertanyaan berikut.
+1.	
+Bagaimana mekanisme pemeriksaan PCR? 
+2.	
+Apakah proses pengopian DNA pada metode PCR sama dengan 
+proses replikasi yang terjadi di dalam sel? 
+Tulis jawaban kalian dalam bentuk laporan sederhana dan presentasikan 
+di depan kelas.
+5.	 Replikasi DNA
+Setelah melakukan Aktivitas 2.3, Kalian telah mengetahui bahwa DNA 
+dapat digandakan melalui metode PCR. Di dalam tubuh pun, DNA melalui 
+proses penggandaan yang dinamakan replikasi. Jadi replikasi DNA 
+adalah suatu tahapan penggandaan DNA yang terjadi pada saat sebelum 
+pembelahan sel, yaitu pada tahap interfase. Replikasi dilakukan dalam 
+upaya membentuk DNA yang sama pada sel anakan hasil pembelahan 
+sel. Dalam proses replikasi DNA memerlukan beberapa komponen, 
+seperti enzim helikase, DNA polimerase, dan enzim ligase. Enzim helikase 
+berfungsi sebagai pembuka double helix DNA. Enzim DNA polimerase 
+akan membentuk DNA baru sebagai suatu polimer, dari satu rantai 
+tunggal DNA lama yang dijadikan cetakan menjadi dua untai DNA baru 
+double helix.  Adapun enzim ligase berperan dalam melekatkan setiap 
+fragmen Okazaki yang merupakan rantai pasangan semula yang tidak 
+berhubungan menjadi satu rantai yang utuh.
+Replikasi diawali dengan sintesis RNA primer. Dengan kata lain, 
+rantai DNA baru (DNA “anak”) disintesis dari arah 5’→3’, sedangkan 
+DNA polimerase bergerak pada DNA “induk” dengan arah 3’→5’. Kalian 
+dapat melihat video animasi dengan kata kunci replikasi DNA pada kanal 
+Youtube untuk memahami proses replikasi DNA.
+Ada beberapa model replikasi DNA. Coba, kalian perhatikan Gambar 
+2.11. Berikut beberapa model replikasi DNA menurut para ahli.
+BAB 2 Genetik dan Pewarisan Sifat 
+69
+a.	
+Teori konservatif
+Pita DNA rangkap heliks tidak berpisah, tetapi langsung menjadi 
+cetakan bagi pita DNA baru. Akhirnya, terbentuk dua pita rangkap 
+heliks yang sama seperti asalnya.
+b.	
+Teori semikonservatif
+Pita DNA rangkap heliks memisahkan diri menjadi dua pita tunggal 
+yang berperan sebagai pola cetakan. Setiap pita lama membentuk pita 
+baru pasangannya. Dan akhirnya, terbentuk dua pita rangkap heliks 
+yang sama seperti asalnya.
+c.	
+Teori dispersive
+Pita DNA heliks rangkap terputus-putus atas beberapa potongan. 
+Setiap potongan berpola sebagai pola cetakan dan membentuk DNA 
+baru pasangannya. Akhirnya, terbentuk pita rangkap heliks yang 
+sama seperti asalnya.
+	Gambar 2.11 Tiga model replikasi DNA, yaitu (a) semikonservatif, (b) konservatif, dan (c) 
+dispersif.
+	
+6.	 Pengaturan atau Pengemasan DNA di Dalam Sel?
+Bagaimanakah DNA sepanjang kurang lebih 2 meter dapat masuk ke dalam 
+sel yang sangat kecil? Untaian DNA di dalam sel sangat panjang. Untuk 
+dapat dikemas dalam inti sel yang kecil, diperlukan suatu mekanisme 
+tertentu. Mekanisme tersebut dimulai dari untai DNA dipintal dalam 
+suatu protein yang dinamakan protein histon. Protein histon mengikat 
+Biologi untuk SMA/MA Kelas XII
+70
+DNA menjadi suatu unit yang disebut nukleosom. Nukleosom satu dengan 
+yang lain akan bergabung membentuk benang yang lebih padat dan 
+terpintal menjadi lipatan-lipatan yang disebut solenoid. Solenoid satu 
+dengan yang lain bergabung membentuk benang yang dikenal dengan 
+benang kromatin. Benang-benang kromatin memadat membentuk lengan 
+kromatid. Selanjutnya, lengan kromatid akan berpasangan membentuk 
+kromosom. 
+	Gambar 2.12 Pengemasan DNA di dalam sel.
+7.	 Kromosom
+Pada Aktivitas 2.1, kalian telah melakukan penelusuran video mengenai 
+struktur DNA, gen, dan kromosom. Tentunya, kalian sudah mengetahui 
+sedikit gambaran mengenai struktur kromosom. Kromosom adalah suatu 
+struktur makromolekul yang tersusun atas asam nukleat (DNA/RNA) dan 
+protein. Kromosom merupakan bagian penting dari inti sel yang berfungsi 
+sebagai pembawa sifat pada keturunan.
+Apakah kalian pernah melihat kromosom secara langsung? Biasanya, 
+kromosom berukuran sangat kecil dan untuk melihatnya diperlukan 
+mikroskop elektron. Namun, ada kromosom yang dapat dilihat dengan 
+mikroskop cahaya yang dikenal dengan kromosom raksasa atau kromosom 
+politen. Biasanya, kromosom ini ditemukan pada Drosophilla melanogaster, 
+Chironomus sp., dan hewan lain yang termasuk ordo Diptera. Pada sel 
+yang sedang tidak membelah, kromosom ini berupa benang-benang tipis 
+yang dikenal dengan kromatin. Coba, kalian lihat bentuk kromosom D. 
+melanogaster melalui Aktivitas 2.4.
+BAB 2 Genetik dan Pewarisan Sifat 
+71
+	Gambar 2.13 D. 
+melanogaster.
+AKTIVITAS 2.4 
+Pengamatan Bentuk Kromosom Lalat Buah (D. melanogaster)
+Tujuan: 
+Mengetahui bentuk kromosom D. melanogaster.
+Alat: 
+1.	
+cawan petri		
+	
+	
+	
+	
+5.	
+mikroskop
+2.	
+gelas penutup (cover glass)	
+	
+6.	
+pinset
+3.	
+gelas benda (object glass)	
+	
+7.	
+botol selai
+4.	
+jarum	 	
+	
+	
+	
+	
+	
+8.	
+kantong plastik besar
+Bahan:
+1.	
+akuades	
+	
+	
+	
+	
+	
+3.	
+1 buah pisang
+2.	
+D. melanogaster		
+	
+	
+	
+4.	
+tisu
+Langkah percobaan:
+1.	
+Bentuk kelompok yang terdiri atas 4 – 5 orang.
+2.	
+Ambil beberapa ekor D. melanogaster dengan cara berikut.
+a.	
+siapkan botol selai beserta tutupnya dan kantong plastik besar.
+b.	
+pergi ke tempat di mana terdapat tempat sampah.
+c.	
+kembangkan kantong plastik besar dengan mulut plastik 
+terbuka lebar. Lalu, pegang bagian pangkalnya dan arahkan 
+mulut plastik ke tempat sampah yang terbuka. Buat kejutan 
+dengan memukul atau mengguncang-guncangkan tempat 
+sampah sehingga lalat buah terperangkap di dalam plastik.
+d.	
+masukkan lalat buah yang ter­perangkap 
+di dalam plastik ke da­lam botol selai 
+berisi buah pisang. Berikut contoh 
+gambar lalat buah D. melanogaster.
+3.	
+Letakkan lalat buah di cawan petri yang 
+berisi air suling (akuades).
+4.	
+Ambil lalat buah dan letakkan pada gelas 
+objek (object glass).
+5.	
+Tusuk 
+bagian 
+anterior 
+(depan) 
+dan 
+posterior 
+(belakang) 
+menggunakan jarum, lalu tarik secara berlawanan. 
+6.	
+Pisahkan lalat buah dengan kelenjar ludahnya, lalu tutup dengan 
+gelas penutup (cover glass).
+7.	
+Amati di bawah mikroskop dan gambarlah hasil pengamatan kalian. 
+8.	
+Diskusikan hasil pengamatan kalian bersama teman satu kelompok.
+9.	
+Buat laporan percobaan pengamatan kromosom D. melanogaster.
+Biologi untuk SMA/MA Kelas XII
+72
+Setelah mengamati kromosom D. melanogaster, kalian menjadi 
+semakin paham mengenai bentuk kromosom. Mengapa kromosom lalat 
+buah dikatakan kromosom raksasa? Hal ini dikarenakan kromosom ini 
+terbentuk melalui penggandaan DNA (replikasi) berulang hingga 10 kali 
+tanpa pembelahan sel.
+Bentuk kromosom sebagai materi genetik hanya dimiliki kelompok 
+makhluk hidup eukariotik. Materi genetik pada makhluk hidup, seperti 
+virus dan bakteri tidak ditemukan dalam bentuk kromosom tetapi berupa 
+asam nukleat murni, yaitu DNA atau RNA. Pada eukariotik, kromosom 
+terdapat di dalam inti sel (nukleus) yang dilingkupi membran inti. 
+Pada prokariotik, materi genetik terdapat di dalam sel tanpa dilingkupi 
+membran inti yang dikenal dengan nukleoid. 
+8.	 Bagian Kromosom
+Bagian utama kromosom eukariotik, yaitu DNA yang merupakan rangkaian 
+nukleotida yang dikemas oleh suatu protein yang disebut protein histon. 
+Rangkaian nukleotida tertentu akan membentuk gen tertentu pula. Gen 
+tertentu akan menyandi protein tertentu. Jadi, kromosom merupakan 
+totalitas gen di dalam sel yang membawa semua faktor keturunan untuk 
+kehidupan sel. Kromosom memiliki bagian berupa lengan dan sentromer. 
+Satuan dasar kromatin yang melingkar disebut nukleosom. Nukleosom 
+terdiri atas sebuah loop tunggal bahan DNA yang melilit protein histon.
+Gambar 
+2.14 Struktur 
+kromosom yang 
+memperlihatkan 
+lengan (kromatid) 
+dan sentromer.
+BAB 2 Genetik dan Pewarisan Sifat 
+73
+Lengan kromosom disebut kromatid yang merupakan bagian dari 
+badan kromosom itu sendiri. Bagian sentromer berperan dalam tahap 
+pembelahan sel, yaitu sebagai tempat melekatnya benang-benang 
+spindel. Apa itu benang spindel? Benang spindel adalah bagian yang 
+menghubungkan sentriol pada saat pembelahan sel dan untuk menarik 
+kromosom menuju kutub yang berlawanan pada saat pembelahan sel. 
+	Gambar 2.15 
+Benang spindel, 
+lengan (kromatid), 
+dan sentromer 
+pada saat 
+pembelahan sel.
+Lengan
+Sentromer
+Benang Spindel
+Berdasarkan letak sentromernya, kromosom dapat dibedakan 
+menjadi beberapa bentuk, yaitu telosentrik, akrosentrik, submetasentrik, 
+dan metasentrik. Perhatikan gambar berikut.
+Lengan
+Sentromer
+(a)  Telosentrik                (b)  Akrosentrik          (c)  Submetasentrik         (d)  Metasentrik
+Lengan
+Sentromer
+Lengan
+Sentromer
+Lengan
+Sentromer
+Lengan
+Lengan
+Lengan
+	Gambar 2.16 Bentuk kromosom berdasarkan letak sentromer, yaitu (a) telosentrik, (b) 
+akrosentrik, (c) submetasentrik, dan (d) metasentrik. 
+9.	 Struktur Kromosom pada Inti Eukariot
+Berdasarkan aktivitas penelusuran video mengenai DNA, gen, dan 
+kromosom, serta pengamatan bentuk kromosom D. melanogaster, kalian 
+sudah melihat bentuk kromosom secara langsung. Dapat dikatakan 
+Biologi untuk SMA/MA Kelas XII
+74
+bahwa kromosom terdiri atas satu atau dua kromatid yang masing-masing 
+tersusun atas benang-benang kromatin.
+Kromosom berasal dari kata chrome yang artinya berwarna dan soma 
+artinya badan atau tubuh. Istilah tersebut dapat diartikan sebagai badan 
+yang dapat menyerap warna. Apa maksud dari badan yang menyerap 
+warna? Apakah kromosom dapat menyerap warna? 
+Ternyata, studi mengenai kromosom memperlihatkan adanya pita-pita 
+pada suatu kromosom sebagai akibat perbedaan intensitas penyerapan 
+warna pada berbagai wilayahnya. Wilayah yang menyerap warna lebih 
+pekat disebut heterokromatin, sedangkan yang berwarna lebih terang 
+disebut eukromatin. Heterokromatin merupakan wilayah dengan DNA 
+yang berpilin sangat kompak atau padat sehingga berwarna lebih pekat, 
+sedangkan wilayah DNA yang berpilin lebih longgar merupakan wilayah 
+eukromatin. Pada wilayah heterokromatin, terdapat gen-gen yang tidak 
+aktif berekspresi, sedangkan gen-gen yang aktif berekspresi terdapat pada 
+wilayah eukromatin. 
+ Gambar 2.17 Bagian eukromatin dan heterokromatin pada kromosom.
+Secara sederhana, kromosom dapat diibaratkan sebagai asosiasi 
+DNA dan protein histon yang memperlihatkan bentuk yang serupa 
+dengan untaian manik-manik. Dalam keadaan sel sedang giat melakukan 
+metabolisme, kromosom eukariotik tidak tampak. Namun, benang-benang 
+BAB 2 Genetik dan Pewarisan Sifat 
+75
+kromatinlah yang tampak. Biasanya, kromosom diambil pada jaringan 
+yang sedang aktif membelah. Misalnya, jaringan yang terdapat di ujung 
+batang, ujung akar, lingkaran kambium, kelenjar, epitel, dan tulang.
+Komponen protein penyusun kromosom eukariotik, yaitu protein 
+histon dan nonhiston. Protein histon adalah protein bersifat basa yang 
+banyak mengandung asam amino arginin dan lisin. Terdapat lima macam 
+protein histon, yaitu H1, H2A, H2B, H3, dan H4. Protein histon memiliki 
+struktur primer yang stabil dan terpelihara selama evolusi. Protein ini 
+penting dalam mempertahankan integritas fungsi dan struktur kromatin. 
+Adapun protein nonhiston adalah protein yang bersifat asam. Separuh 
+dari protein ini merupakan enzim-enzim dan faktor-faktor yang berperan 
+dalam replikasi DNA dan RNA transkripsi. 
+AKTIVITAS 2.5
+Jumlah Kromosom pada Makhluk Hidup
+1.	
+Buat kelompok yang terdiri atas 4 - 5 orang. 
+2.	
+Coba lakukan studi literatur melalui internet untuk menjawab 
+pertanyaan berikut.
+a.	
+Apakah jumlah kromosom ada hubungannya dengan besar 
+kecilnya makhluk hidup?
+b.	
+Apakah jumlah kromosom yang sama antarmakhluk hidup 
+dapat menunjukkan hubungan kekerabatannya?
+3.	
+Diskusikan hasil penelusuran kalian. Mintalah bantuan guru jika 
+ada permasalahan yang belum dipahami.
+10.	Jumlah Kromosom
+Berdasarkan Aktivitas 2.5, kalian sudah mengetahui bahwa setiap jenis 
+organisme memiliki jumlah kromosom tetap dan dalam bentuk yang saling 
+berpasangan. Kromosom yang saling berpasangan ini disebut kromosom 
+homolog. Kromosom homolog memiliki ukuran, bentuk, dan jumlah gen 
+yang sama. Jumlah kromosom spesies eukariotik beranekaragam baik 
+hewan maupun tumbuhan, diploid maupun monoploid/haploid. 
+Haploid adalah kondisi pada suatu individu yang tidak memiliki 
+pasangan kromosom dikarenakan hanya mempunyai genom tunggal. 
+Kromosom haploid dapat digandakan dan akan menghasilkan individu 
+Biologi untuk SMA/MA Kelas XII
+76
+homozigot baru. Sel haploid terdapat pada gamet yang dapat menghasilkan 
+sifat diploid. Hal ini dikarenakan sel gamet betina yang sudah dibuahi sel 
+jantan akan melebur dan berkembang menjadi zigot yang bersifat diploid. 
+Diploid merupakan kondisi berlawanan dari haploid, di mana pada diploid 
+terdapat dua kromosom homolog dalam satu set (2n). Kondisi diploid 
+ditemukan pada sel-sel tubuh/sel somatik. Selain haploid dan diploid, ada 
+kondisi lain, yaitu triploid (3n) dan poliploid (memiliki banyak kromosom).
+AKTIVITAS 2.6
+Menyusun Kariotip
+1.	
+Perbanyaklah 
+dengan 
+mengopi 
+atau 
+menggambar 
+sendiri 
+kromosom-kromosom 
+penyusun 
+kariotip 
+suatu 
+individu 
+di 
+bawah ini.
+2.	
+Gunting masing-masing kromosom pada gambar di sebelah kiri. 
+3.	
+Susun kromosom-kromosom berpasangan pada gambar di sebelah 
+kanan. Mulai dari kromosom terbesar dengan nomor terendah. 
+4.	
+Susun pasangan kromosom tersebut menjadi empat baris. Baris 
+pertama nomor 1-5, baris kedua nomor 6 - 12, baris ketiga nomor 13 - 
+18, dan baris terakhir kromosom nomor 19 dan kromosom kelamin. 
+5.	
+Setelah selesai, tentukan jenis kelamin apa yang ditunjukkan oleh 
+kromosom tersebut.
+Gambar 2.18
+Kariotip.
+BAB 2 Genetik dan Pewarisan Sifat 
+77
+11.	 Jenis Kromosom
+Dari hasil Aktivitas 2.6, kalian dapat melihat kariotip dari individu yang 
+menunjukkan adanya kromosom autosom dan gonosom. Kromosom 
+autosom disebut juga kromosom tubuh dan kromosom gonosom disebut 
+juga kromosom seks. Istilah kromosom tubuh dan kromosom seks lebih 
+sering menyebabkan miskonsepsi. Kromosom tubuh dianggap hanya 
+berada di sel tubuh dan kromosom seks hanya berada di sel seks/kelamin. 
+Sebenarnya, kromosom tubuh dan kromosom seks terletak di semua bagian 
+sel individu baik sel tubuh maupun sel kelamin. Kedua kromosom tersebut 
+mengekspresikan sifat-sifat yang terkait ciri fenotip baik morfologi, sifat, 
+maupun ekspresi kelamin.
+Berdasarkan dogma sentral yang telah dibahas sebelumnya, dapat 
+diketahui bahwa gen sangat penting dalam pembentukan protein yang 
+dapat menentukan sifat. Bagaimana urutan aktivasi gen dalam membentuk 
+protein? Gen yang merupakan bagian dari DNA akan membentuk molekul 
+perantara yang disebut ribonucleic acid (RNA).
+12.	 RNA (ribonucleic acid)
+2nm
+3.4nm
+RNA
+3’
+5’
+RNA atau asam ribonukleat merupakan 
+polinukleotida 
+seperti 
+halnya 
+DNA. 
+Namun, RNA hanya terdiri atas satu 
+rantai (single stranded). Gula pentosa 
+yang menyusun RNA berupa gula ribose. 
+Basa nitrogen pada RNA sedikit berbeda 
+dibandingkan DNA. Jika pada DNA basa 
+pirimidin berupa timin (T) maka pada 
+RNA basa pirimidin timin (T) digantikan 
+dengan urasil (U). Umumnya, RNA terletak 
+di dalam inti sel, sitoplasma, dan ribosom. 
+Jenis dan jumlah RNA dapat berubah 
+bergantung aktivitas sintesis protein. 
+Gambar 2.19
+RNA terdiri atas satu rantai.
+Biologi untuk SMA/MA Kelas XII
+78
+Ada tiga jenis RNA, yaitu messenger RNA (mRNA) atau RNA duta 
+(dRNA), transfer/transport RNA (tRNA), dan ribosom RNA (rRNA).
+a.	
+Messenger RNA (mRNA) berfungsi membawa pesan informasi genetik 
+dari DNA di inti sel ke ribosom di sitoplasma. Pesan yang dibawa 
+berupa triplet basa nitrogen yang ada pada mRNA yang disebut 
+kodon. Kodon pada mRNA merupakan komplemen dari kodogen, 
+yaitu urutan basa-basa nitrogen/nukleotida pada DNA yang dipakai 
+sebagai pola cetakan. Pembentukan mRNA hanya terjadi saat akan 
+dilakukan sintesis protein. Jika proses sintesis protein selesai, mRNA 
+akan segera dihancurkan kembali.
+b.	
+Transfer RNA (tRNA) atau RNA pemindah berfungsi mengenali kodon 
+dan menerjemahkan menjadi asam amino di ribosom. tRNA dibuat 
+di inti sel dan dibawa ke sitoplasma. Pada bagian tRNA terdapat 
+basa-basa nitrogen yang saling berpasangan dan ada pula basa-basa 
+nitrogen yang tidak saling berpasangan. Akibatnya, tRNA berbentuk 
+seperti daun semangi. Di mana bagian yang tidak berpasangan 
+membentuk struktur membulat. Ada tiga urutan basa yang terdapat 
+di ujung lengan tRNA yang akan cocok dengan kodon yang terdapat 
+di mRNA, urutan basa tersebut dikenal sebagai antikodon. Sebagai 
+contoh, jika kodon dalam mRNA mempunyai urutan ACC UAU GGA 
+maka antikodon yang sesuai pada tRNA urutannya UGG AUA CCU.
+c.	
+Ribosom RNA (rRNA) dibuat di inti sel dan akan ditempatkan ke 
+ribosom. rRNA berfungsi sebagai tempat sintesis protein. Ribosom 
+terdiri atas 2 subunit, yaitu subunit kecil yang berperan mengikat 
+mRNA dan subunit besar yang berperan mengikat tRNA yang sesuai.
+mRNA
+ribosom unit kecil
+ribosom unit besar
+anti kodon
+kodon
+polipeptida
+asam amino
+tRNA
+5’
+3’
+tRNA
+Amino Acid
+attachment site
+D loop
+Anticodon loop
+Anticodon
+mRNA
+Codon
+T loop
+5’
+3’
+	Gambar 2.20 Molekul RNA pada ribosom.
+BAB 2 Genetik dan Pewarisan Sifat 
+79
+13.	 Genotip dan Keterkaitannya dengan Sifat
+	
+Sifat fenotip ditentukan oleh interaksi sifat gen dominan dan resesif. 
+Gen dominan diberi simbol huruf kapital, sedangkan gen resesif diberi 
+simbol huruf kecil. Gen dominan selalu muncul sebagai sifat yang tampak, 
+sedangkan gen resesif hanya bisa muncul sebagai sifat yang tampak 
+apabila berpasangan dengan gen resesif pasangannya. Jadi, genotip AA 
+atau Aa akan muncul sebagai fenotip A. Adapun gen a hanya akan muncul 
+sebagai fenotip a, apabila genotipnya aa. Organisme yang mempunyai dua 
+gen yang sama pada satu lokus (AA atau aa) disebut homozigot, sedangkan 
+yang mempunyai pasangan gen alternatif (Aa) disebut heterozigot. Contoh 
+organisme homozigot memiliki batang tinggi dengan genotip (AA), 
+sedangkan organisme heterozigotnya memiliki genotip (Aa) walaupun 
+fenotipnya batang tinggi. Gen yang terdapat pada lokus yang sama pada 
+kromosom homolog, tetapi sifatnya berlawanan atau gen alternatif (A 
+atau a) disebut alel. 
+AKTIVITAS 2.7 
+Identifikasi Forensik dengan Teknologi Genetika
+1. 	 Bentuk kelompok yang terdiri atas 4 – 5 orang.
+2. 	 Simak dengan saksama uraian berikut!
+	
+Ada suatu kasus pembunuhan yang terjadi di sebuah rumah. Pelaku 
+meninggalkan jejak berupa bercak darah dan puntung rokok 
+yang terdapat sel epitel bibir tertinggal di sana. Polisi melakukan 
+identifikasi forensik untuk mencari sang pelaku dengan menerapkan 
+teknologi DNA. Ternyata, metode forensik tersebut menggunakan 
+prinsip genetika untuk mengidentifikasi pelaku dengan kesamaan 
+struktur DNA pelaku dan bukti yang berada di lokasi. 
+3.	
+Jelaskan 
+bagaimana 
+prinsip 
+pemeriksaan 
+foreksik 
+dengan 
+menerapkan teknologi DNA seperti pada kasus di atas! Lakukan 
+eksplorasi melalui studi literatur mengenai hal tersebut.
+4.	
+Diskusikan dengan teman sekelompok. Lalu, tukarkan informasi 
+dari hasil diskusi kalian dengan kelompok lain.
+Biologi untuk SMA/MA Kelas XII
+80
+14.	Kode Genetik
+Aktivitas 2.7 menunjukkan bahwa para ahli forensik menggunakan profil 
+DNA untuk menentukan apakah sampel dari tersangka cocok dengan 
+sampel yang terdapat di lokasi kejadian. Dengan membandingkan DNA 
+tersangka di tempat kejadian perkara dengan DNA anggota keluarga 
+terdekat tersangka, seperti ayah atau saudara kandungnya maka 
+identifikasi forensik dapat dilacak. 
+Sidik DNA berupa garis-garis seperti barcode di kemasan makanan 
+atau minuman yang berkisar antara 30 sampai 100 sekuens (urutan basa 
+nukleotida) rantai kode genetik. Apa itu kode genetik? Kode genetik adalah 
+kode-kode yang menentukan macam protein yang akan dibuat. Kode 
+genetik ditentukan oleh urutan tiga basa nitrogen atau kode triplet berupa 
+urutan kodon pada mRNA. Urutan kodon ini akan menyandikan urutan 
+asam amino yang akan dibentuk menjadi polipeptida yang kemudian 
+akan menjadi protein.
+Umumnya, jumlah asam amino yang ada sebanyak 20 jenis, sedangkan 
+jumlah kemungkinan kode triplet yang disusun oleh 4 macam basa 
+nitrogen sebanyak 43 = 64 buah maka kemungkinan satu asam amino 
+memiliki lebih dari satu kodon. Ciri khas suatu protein ditentukan oleh 
+jumlah, macam, dan urutan asam amino yang membangunnya.
+Tabel 2.1 Tabel Kode Genetika (Kodon) Asam Amino.
+Basa 
+Pertama
+Basa Kedua
+Basa 
+Ketiga
+U
+C
+A
+G
+U
+UUU
+UUC
+UUA
+UUG
+Phe
+Leu
+UCU
+UCC
+UCA
+UCG
+Ser
+UAU
+UAC
+UAA
+UAG
+"Stop"
+"Stop"
+Tyr
+UGU
+UGC
+UGA
+UGG
+"Stop"
+Trp
+Cys
+U
+C
+A
+G
+C
+CUU
+CUC
+CUA
+CUG
+Leu
+CCU
+CCC
+CCA
+CCG
+Pro
+CAU
+CAC
+CAA
+CAG
+His
+Gln
+CGU
+CGC
+CGA
+CGG
+Arg
+U
+C
+A
+G
+A
+AUU
+AUC
+AUA
+AUG
+Ile
+Met
+ACU
+ACC
+ACA
+ACG
+Thr
+AAU
+AAC
+AAA
+AAG
+Asn
+Lys
+AGU
+AGC
+AGA
+AGG
+Ser
+Arg
+U
+C
+A
+G
+G
+GUU
+GUC
+GUA
+GUG
+Val
+GCU
+GCC
+GCA
+GCG
+Ala
+GAU
+GAC
+GAA
+GAG
+Asp
+Glu
+GGU
+GGC
+GGA
+GGG
+Gly
+U
+C
+A
+G
+BAB 2 Genetik dan Pewarisan Sifat 
+81
+Biasanya, kode triplet ditulis dengan mengatur tiga huruf alfabet A, U, 
+G, dan C yang masing-masing mewakili adenin, urasil, guanin, dan sitosin. 
+Tabel kode genetik dibaca dari sisi kiri dasar triplet sebagai yang pertama, 
+lalu dilanjutkan ke bagian kedua dan ketiga. Misal, kodon UUU pada 
+RNA sesuai dengan asam amino fenilalanin (Phe) di sudut kanan bawah. 
+Terdapat tiga kodon, yaitu UAG, UAA, dan UGA yang tidak mengkode asam 
+amino apapun sehingga disebut stop kodon, yang akan melepas rantai 
+polipeptida atau menghentikan pembentukan asam amino ketika sintesis 
+protein, ibaratnya seperti tanda titik pada akhir kalimat. Pada Tabel 2.1 
+ini, kalian dapat melihat juga start kodon, yaitu AUG (Met) yang berfungsi 
+menandai awal proses dari sintesis protein. 
+B.	 Sintesis Protein
+Apakah kalian pernah merasa lesu, gelisah, moody, dan galau? Tahukah kalian 
+bahwa keadaan tersebut merupakan ciri orang yang kekurangan protein. 
+Protein sendiri merupakan senyawa organik yang berperan penting dalam 
+struktur dan fungsi sel makhluk hidup. Saat pembentukan protein, asam 
+amino yang membentuk polipeptida akan melipat dan membentuk struktur 
+khusus hingga akhirnya terbentuk protein.
+Sintesis protein merupakan suatu proses yang kompleks, termasuk di 
+dalamnya penerjemahan kode-kode RNA menjadi polipeptida. Sintesis protein 
+melibatkan komponen DNA, RNA, asam amino, dan protein. Hubungan antara 
+komponen yang terlibat dalam proses sintesis protein dikenal sebagai dogma 
+sentral biologi, seperti yang telah dijelaskan sebelumnya. 
+Di dalam sel, DNA ditemukan di nukleus, mitokondria, dan kloroplas 
+(misalnya, pada tumbuhan). Proses sintesis protein berlangsung di  ribo­
+som yang terletak di sitoplasma. Oleh karena DNA terletak pada suatu organel 
+yang dibatasi membran inti maka DNA tidak dapat bergerak keluar dari 
+kompartmen tersebut. Oleh sebab itu, dibutuhkan fasilitator berupa mRNA 
+sebagai pembawa pesan untuk diterjemahkan di ribosom untuk pembentukan 
+protein. Peristiwa pembacaan pesan genetik dari DNA menjadi mRNA disebut 
+transkripsi. Selanjutnya, pesan genetik berupa kodon yang dibawa oleh mRNA 
+diterjemahkan di ribosom menjadi urutan asam amino yang akan membentuk 
+polipeptida, peristiwa ini disebut translasi. Secara keseluruhan proses ini 
+disebut sebagai sintesis protein. Coba, kalian perhatikan gambar 2.21 berikut!
+Biologi untuk SMA/MA Kelas XII
+82
+DNA                    RNA                  mRNA                   Protein
+Transkripsi                                                                  Translasi
+Rantai 
+polipeptida/protein
+Sel
+Sitoplasma
+Nukleus
+Asam amino
+tRNA
+Ribosom
+Ribosom 
+sub unit besar 
+Ribosom 
+sub unit kecil 
+2
+1
+mRNA melekat
+di ribosom
+Transkripsi
+RNA
+Gen
+DNA
+mRNA
+tRNA membawa 
+asam amino 
+ke ribosom 
+3
+Translasi
+tRNA
+keluar
+Ribosom menggabungkan
+asam amino ke dalam
+rantai polipeptida
+yang sedang 
+terbentuk
+tRNA
+keluar
+Sintesis
+Protein
+mRNA
+mRNA
+mRNA
+	Gambar 2.21  Sintesis protein
+BAB 2 Genetik dan Pewarisan Sifat 
+83
+Proses transkripsi terjadi di dalam nukleus. Tahap awal transkripsi, yaitu 
+RNA polimerase akan memisahkan untaian DNA menjadi dua dengan cara 
+bergerak dari daerah terminator ke daerah promoter. Ketika RNA polimerase 
+sampai di promoter, terjadi proses inisiasi. Selanjutnya, RNA polimerase akan 
+berjalan menuju terminator dan membentuk mRNA. Ketika RNA polimerase 
+dan mRNA sampai di terminator maka proses transkripsi selesai. Proses akhir 
+dari transkripsi ini disebut terminasi. 
+Setelah transkripsi selesai, selanjutnya akan masuk ke tahap translasi. 
+Proses translasi terjadi di sitoplasma. Untuk dapat mensintesis protein 
+yang berada di ribosom dibutuhkan fasilitator untuk membawa pesan hasil 
+transkripsi dan membawanya ke ribosom. DNA tidak dapat bergerak sendiri 
+menuju ke ribosom. Oleh karena itu, ketika mRNA terbentuk di proses 
+transkripsi maka mRNA atau messenger RNA atau RNA “pembawa pesan” bisa 
+membawa kode hasil salinan DNA ke ribosom. mRNA sendiri berisi kumpulan 
+dari kodon-kodon DNA.
+Ada tiga proses dalam tahap translasi, yaitu sebagai berikut.
+1.	
+Tahap inisiasi, yaitu tahap di mana kodon pertama mRNA bertemu dengan 
+ribosom dan disebut kodon pemula (start codon). Start codon memiiliki 
+kode AUG. 
+2.	
+Tahap elongasi, yaitu tahap di mana kodon yang dibawa mRNA akan 
+diterjemahkan menjadi asam amino. Setelah itu, asam-asam amino akan 
+digabungkan oleh tRNA yang akan membawa asam amino untuk disusun 
+membentuk rantai polipeptida atau protein. 
+3.	
+Tahap terminasi, yaitu tahap terakhir di mana proses sintesis akan 
+berakhir setelah sampai pada kodon stop (stop codon). Ada tiga jenis kodon 
+stop, yaitu UAA, UAG, dan UGA. 
+Untuk lebih mudah memahami proses sintesis protein, kalian dapat 
+melihat video Youtube dengan kata kunci from DNA to protein, sintesis protein, 
+atau dogma sentral biologi. Selain itu, coba lakukan aktivitas berikut untuk 
+menambah pemahaman kalian mengenai sintesis protein.
+Biologi untuk SMA/MA Kelas XII
+84
+AKTIVITAS 2.8
+Memahami Sintesis Protein dengan Bermain Peran
+1.	
+Buat kelompok yang terdiri atas 7 - 8 orang.
+2.	
+Bagilah peran kepada setiap anggota kelompok. Misalnya, siswa 
+bernama Steven menjadi mRNA, Mike menjadi tRNA, Afifa menjadi 
+ribosom, Lia menjadi asam amino, dan anggota kelompok lainnya 
+sesuai kebutuhan peran.
+3.	
+Buat properti-properti yang dapat mendukung peran masing-masing.
+4.	
+Lakukan simulasi proses sintesis protein dengan satu orang anggota 
+kelompok menjadi narator cerita dan teman lainnya memperagakan 
+proses sintesis protein.
+C.	 Pembelahan Sel
+octopus
+life
+cycle
+ Gambar 2.22 Pertumbuhan mimic octopus (Thaumoctopus mimicus).
+Mimic octopus merupakan gurita cerdas yang dapat menyamar saat diserang. 
+Mimic octopus atau biasa disebut gurita penyamar dapat bertelur sampai 
+sekitar 100 butir. Umumnya, telur-telur tersebut akan menetas setelah dierami 
+induknya. Setelah menetas, telur akan menjadi anak gurita yang mirip 
+induknya. Kemudian, anak gurita akan berubah menjadi gurita dewasa. 
+Bagaimana perubahan telur menjadi anak gurita dan tumbuh menjadi 
+gurita dewasa? Perubahan ini pasti melibatkan proses pembelahan sel. 
+Bagaimana terjadinya proses pembelahan sel pada makhluk hidup? 
+Pembelahan sel pada makhluk hidup dapat terjadi melalui dua cara, yaitu 
+mitosis dan meiosis. Untuk memahami proses mitosis, lakukan aktivitas berikut.
+BAB 2 Genetik dan Pewarisan Sifat 
+85
+AKTIVITAS 2.9
+Pengamatan Mitosis pada Akar Bawang Bombai
+Tujuan:
+Mengetahui tahap-tahap pembelahan mitosis pada akar bawang bombai. 
+Alat:
+1.	
+mikroskop	 	
+	
+4.	
+gelas arloji	 	
+7.	
+silet	
+2.	
+kaca objek	 	
+	
+5.	
+pinset	 	
+	
+8.	
+lampu spirtus
+3.	
+kaca penutup	
+	
+6.	
+wadah plastik	
+	
+	
+Bahan
+1.	
+bawang bombai		
+	
+	
+	
+	
+	
+2.	
+larutan aceto orcein 2%/aceto karmin
+3.	
+larutan HCl 1 M
+Langkah percobaan:
+1.	
+Tumbuhkan bawang bombai selama empat hari pada wadah plastik 
+berisi pasir yang dibasahi air.
+2.	
+Amati pertumbuhan bawang bombai. Dalam beberapa hari akan 
+tumbuh akar yang akan digunakan sebagai sampel percobaan.
+3.	
+Pilih akar muda yang sedang aktif tumbuh dan potong 1 cm dari 
+ujung. Lalu, letakkan pada gelas arloji.
+4.	
+Beri larutan HCl 1 M dan biarkan potongan akar terendam beberapa 
+menit hingga menjadi lunak.
+5.	
+Ambil potongan akar yang sudah direndam HCl dan potong dengan 
+silet hingga menjadi potongan-potongan kecil. 
+6.	
+Letakkan potongan akar bawang pada kaca objek yang telah ditetesi 
+aceto orcein 2%. Lalu, tutup dengan kaca penutup.
+7.	
+Panaskan di atas lampu spirtus, namun jangan sampai mendidih.
+8.	
+Tekan kaca penutup hingga akar bawang menyebar dan 
+menjadi tipis.
+9.	
+Amati 
+di 
+bawah 
+mikroskop 
+dengan 
+perbesaran 
+rendah 
+terlebih dahulu.
+10.	 Gambar hasil pengamatan kalian dan bandingkan dengan literatur. 
+lalu buatlah laporan.
+11.	 Buat laporan dan presentasikan hasil pengamatan kalian di 
+dalam kelas.
+Biologi untuk SMA/MA Kelas XII
+86
+1. Mitosis
+Pada Aktivitas 2.9, kalian telah melihat langsung proses mitosis yang terjadi 
+pada sel tumbuhan. Kalian telah mengamati sel-sel hasil pembelahan 
+dengan posisi kromosom yang berbeda-beda. Perbedaan posisi kromosom 
+dapat menunjukkan tahapan-tahapan dalam pembelahan mitosis. 
+Mitosis merupakan pembelahan sel yang menghasilkan set kromosom 
+dalam jumlah yang sama dengan sel induk. Dengan demikian, sel anakan 
+yang dihasilkan identik secara genetik dengan induknya, baik jumlah 
+maupun sifat kromosomnya. Contoh sel yang mengalami proses mitosis 
+selain pada sel akar bawang, yaitu sel kulit dan sel darah. 
+Pembelahan mitosis terjadi dalam beberapa tahap. Coba kalian 
+perhatikan Gambar 2.23 mengenai tahap pembelahan mitosis berikut. 
+ 
+ 
+Tahap-Tahap Mitosis
+Memasuki profase benang kromatin 
+yang telah berduplikasi pada fase 
+interfase, mengalami kondensasi, 
+kromosom menggulung pada protein 
+histon membentuk kromosom. 
+Kromosom memadat, memendek dan 
+menjadi lebih tebal. Tiap kromosom 
+terdiri atas 2 kromatid yang identik 
+yang melekat pada sentromer. 
+Nukleolus dan membran inti 
+menghilang. Akhir profase 
+terbentuklah benang spindel.
+Pada fase ini, pasangan kromatid 
+bergerak ke bagian tengah inti sel di 
+sepanjang bidang ekuator dengan 
+sentromer melekat pada benang 
+benang spindel.
+Proses ini didahului dengan 
+membelahnya sentromer. 
+Benang-benang spindel memendek 
+dan menarik kromatid hingga setiap 
+kromatid memisahkan diri dari 
+sentromer dan masing-masing 
+bergerak sebagai kromosom anakan 
+menuju kutub dari spindel yang 
+berlawanan letaknya.          
+Datangnya kromosom anakan di 
+kutub spindel merupakan tanda 
+dimulainya telofase. Benang-benang 
+spindel terurai dan menghilang. 
+Terbentuknya membran inti baru di 
+sekeliling kromosom-kromosom pada 
+masing-masing kutub sel.
+Profase
+Metafase
+Anafase
+Telofase
+ Gambar 2.23 Tahap 
+pembelahan mitosis.
+BAB 2 Genetik dan Pewarisan Sifat 
+87
+Hampir bersamaan dengan telofase, terjadi juga tahap sitokinesis. 
+Dengan terbentuknya dua buah inti baru maka di bagian tengah sel 
+terbentuk dinding baru. Dan berlangsunglah tahap sitokinesis atau 
+pembelahan sitoplasma dan dibentuk oleh mikrofilamen dan mengalami 
+pelekukan ke dalam.
+	
+	
+  
+	
+	
+ Gambar 24. Sitokinesis.
+Selanjutnya, apa yang terjadi dengan sel anakan hasil pembelahan? 
+Sel-sel anakan ini akan terus-menerus menghasilkan sel anakan berikutnya 
+sehingga dari proses ini terjadilah pertumbuhan dan perkembangan 
+dari suatu individu. Di samping untuk pertumbuhan dan perkembangan 
+individu, hasil pembelahan mitosis dapat digunakan juga untuk mengganti 
+sel-sel mati dan rusak.
+ AKTIVITAS 2.10
+Siklus Sel
+1. 	 Bentuklah kelompok yang terdiri atas 3 – 4 orang.
+2. 	 Baca teks di bawah ini dengan cermat.
+	
+Sesekali, hasil pembelahan sel dapat mengalami masalah, tidak 
+sesuai dengan kebutuhan. Pada keadaan ini, sel melakukan “quality 
+control” sendiri. Apabila tidak sesuai, sel rusak harus dimatikan 
+sendiri dan dibuang. Sel-sel rusak ini akan membunuh dirinya 
+sendiri. Setiap waktu, ada saja kesalahan dalam pembelahan sel di 
+tubuh kita. Namun, kita tidak pernah menyadarinya karena tubuh 
+sudah mempunyai program yang secara otomatis berjalan.
+	
+Namun, bagaimana jika suatu saat program “bunuh diri sel” 
+gagal?  Dalam keadaan ini, sel-sel yang salah dalam pembelahan 
+sel tidak terdeteksi sehingga tidak musnah. Sebaliknya, sel-sel ini 
+berkembang biak dengan mempertahankan kesalahannya. 
+3.	
+Coba jelaskan bagaimana jika terjadi kasus seperti di atas? Apa yang 
+terjadi pada tubuh kita? Diskusikan bersama kelompok kalian.
+4.	
+Coba cari satu contoh kasus melalui literatur ilmiah dan 
+presentasikan di depan kelas.
+Biologi untuk SMA/MA Kelas XII
+88
+Setelah melakukan Aktivitas 2.10, kalian tahu bahwa tubuh memiliki 
+proses pembelahan sel yang berjalan secara otomatis. Begitu pula jika ada 
+sel yang rusak maka tubuh secara otomatis akan mengeliminasinya. Jika 
+proses eliminasi tidak terjadi maka akan menimbulkan suatu gangguan 
+terhadap individu, misalnya berupa penyakit.
+2.	 Siklus Sel
+Proses yang terjadi antara satu pembelahan sel dan pembelahan sel 
+berikutnya disebut dengan siklus sel. Siklus sel terdiri atas tiga tahap, yaitu:
+a.	
+interfase, yaitu tahap persiapan untuk proses berikutnya.
+b.	
+mitosis, yaitu pembelahan inti atau kariokinesis.
+c.	
+pembelahan sel, yaitu pembelahan sitoplasma atau sitokinesis. 
+P
+er
+k
+e
+m
+b
+a
+n
+g
+a
+n
+s
+el
+G1
+G2
+S
+P
+e
+rs
+ia
+p
+an
+m
+it
+o
+si
+s
+R
+e
+pl
+ik
+a
+si
+D
+N
+A
+I
+n
+t
+e
+r
+f
+a
+s
+e
+Sitokinesis
+Telofase
+Anafase
+Metafase
+Profase
+M
+P
+e
+m
+b
+el
+a
+h
+a
+n
+s
+el
+M
+it
+o
+si
+s
+ Gambar 2.25 Siklus sel.  
+Sebagian besar waktu siklus sel dihabiskan dalam tahap interfase. 
+Interfase sering dikatakan sebagai tahap ketika sel beristirahat. Pada tahap 
+ini, sel tidak melakukan pembelahan. Namun, hal ini tidak sepenuhnya 
+benar. Hal ini dikarenakan pada fase ini terjadi proses penimbunan 
+energi dengan menyerap energi dan membangun protoplasma untuk 
+mempersiapkan proses pembelahan sel. 
+BAB 2 Genetik dan Pewarisan Sifat 
+89
+Pada tahap interfase, sentriol pada sel hewan akan membelah. 
+Selama interfase, kromosom tampak seperti untaian benang tipis yang 
+disebut kromatin. Sebelum sel membelah, masing-masing untai kromatin 
+bereplikasi atau menduplikasi diri menghasilkan dua untai kromatin 
+identik yang berada pada satu titik yang disebut sentromer. 
+ Gambar 2.26 Interfase.
+Setelah melalui tahap interfase, selanjutnya siklus sel menuju ke tahap 
+kariokinesis. Pada tahap ini, terjadi pembelahan inti sel yang meliputi 
+profase, metafase, anafase, telophase, dan sitokinesis. Tahapan tersebut 
+sama seperti tahapan pada fase mitosis.
+AKTIVITAS 2.11
+Sel Gamet dan Sel Tubuh
+Semua makhluk hidup tidak ada yang abadi. Pada akhirnya, 
+semua makhluk hidup akan mati. Untuk dapat mempertahankan 
+keberlangsungan jenisnya sehingga tidak punah maka makhluk hidup 
+melakukan reproduksi dengan menghasilkan makhluk hidup baru yang 
+mirip dengan induknya. 
+Untuk dapat lebih memahami bagaimana reproduksi seksual terjadi, 
+coba jawab pertanyaan berikut!
+1.	
+Apa itu sel gamet? 
+2.	
+Apa perbedaan sel gamet dan sel tubuh? 
+3.	
+Bagaimana pembelahan sel pada organisme untuk menghasilkan 
+sel gamet? 
+Coba cari jawaban dari pertanyaan di atas melalui studi literatur 
+terpercaya. Lalu, presentasikan jawaban kalian di depan kelas!
+Biologi untuk SMA/MA Kelas XII
+90
+3. Meiosis
+Setelah melakukan Aktivitas 2.11, kalian sudah mengetahui bahwa 
+salah satu jenis pembelahan sel pada organisme yang bereproduksi 
+secara seksual, yaitu meiosis. Meiosis merupakan pembelahan sel 
+yang menghasilkan empat sel anak dengan masing-masing sel anakan 
+memiliki setengah dari jumlah kromosom sel induk. Meiosis terjadi saat 
+pembentukan gamet-gamet saja. Pembelahan ini berlangsung dalam dua 
+tahap,  yaitu meiosis I dan meiosis II.
+Profase I
+Pada tahap profase I, kromatin menebal dan
+berubah menjadi kromosom. Kromosom 
+tersebut terdiri dari 2 kromatid. Kromosom 
+tersebut kemudian saling berpasangan dengan 
+homolognya. Pasangan kromosom homolog 
+pada posisi ini disebut sinapsis. Karena posisinya 
+yang saling berdekatan antara dua kromatin 
+memungkinkan terjadinya pindah silang. 
+Selanjutnya membran inti mulai menghilang.
+Interfase
+Tahapan yang terjadi sebelum pembelahan sel
+yaitu seluruh kebutuhan yang diperlukan pada
+pembelahan sel dipersiapkan. Tahap ini dibagi
+menjadi 3 yaitu fase G1 (gap pertama), fase S 
+(sintesis), fase G2 (gap kedua). Nukleus dan 
+nucleolus terlihat jelas, kromosom pada sel tidak 
+terlihat karena masih dalam bentuk kromatin.
+Metafase I
+Pada tahap metaphase I, kromosom homolog
+mulai bersusun sedemikian rupa di bagian
+tengah atau ekuator dengan posisi berpasangan. 
+Serat spindel menempel pada dua sentromer 
+di masing-masing kromosom homolog.
+Anafase I
+Pada anafase I, masing-masing kromosom 
+homolog akan bergerak menuju kutub yang 
+berlawanan akibat adanya tarikan dari benang 
+gelendong. Dengan terpisahnya kedua kromosom 
+homolog ini, maka pada tahap selanjutnya yaitu 
+telophase I, jumlah kromosom telah menjadi 
+setengah dari kromosom induk.
+BAB 2 Genetik dan Pewarisan Sifat 
+91
+Telofase I 
+dan Sitokinesis
+Pada tahap telophase I ini, membrane inti mulai 
+terbentuk kembali dan terjadi proses sitokinesis 
+dimana sitoplasma dari satu sel membelah 
+menjadi dua sel anak dengan kromosom haploid 
+atau setengah dari kromosom induk (n).
+Interkinesis
+Profase II
+Profase II ini, sentrosom membelah menjadi 2 
+sentriol yang akan bergerak ke kutub yang 
+berlawanan. Selanjutnya, kromosom akan mulai 
+memendek dan menebal diikuti dengan 
+menghilangnya membran inti sel. Pada tahap 
+ini mulai terbentuk benang-benang spindel.
+Metafase II
+Pada tahap metafase II, kromosom mulai tersusun rapi pada bidang 
+ekuator. Dengan susunan seperti pada metaphase mitosis. Mulai tersusun 
+benang-benang spindel yang salah satu ujungnya melekat pada sentromer,
+ujung lainnya melekat pada kutub yang berlawanan.
+Biologi untuk SMA/MA Kelas XII
+92
+Anafase II
+Pada tahap anafase II terjadi pemisahan kromatid. Kromatid ditarik 
+menuju kutub yang berlawanan, Selanjutnya kromatid yang sudah 
+dipisah ini disebut sebagai kromosom.
+Telofase II dan Sitokinesis
+Fase akhir disebut dengan telofase II. Benang-benang spindel 
+menghilang dan membran inti mulai terlihat. Hasil dari proses akhir 
+ini adalah 4 sel anak, yang masing-masing memiliki separuh jumlah 
+kromosom sel induknya.
+ Gambar 2.27  Tahapan meiosis I dan meiosis II.
+4. Gametogenesis
+Setelah mempelajari meiosis, kalian sudah mengetahui bahwa pada proses 
+meiosis terjadi pembentukan gamet atau gametogenesis. Gametogenesis 
+merupakan proses pembentukan dan perkembangan sel germinal diploid 
+(2n) menjadi sel kelamin (ovum dan spermatozoa) haploid (n). Proses 
+pembentukan ovum disebut oogenesis. Adapun proses pembentukan 
+spermatozoa disebut spermatogenesis.
+BAB 2 Genetik dan Pewarisan Sifat 
+93
+Coba, kalian perhatikan Gambar 2.28. Spermatogenesis adalah proses 
+di mana sel-sel germinal primer jantan mengalami pembelahan dan 
+menghasilkan sejumlah sel yang disebut spermatogonium. Selanjutnya, 
+spermatogonium (diploid/2n) berdiferensiasi menjadi spermatosit primer 
+yang masih bersifat diploid (2n). Setiap spermatosit primer (2n) akan 
+membelah menjadi dua spermatosit sekunder yang bersifat haploid 
+(n) melalai meiosis I. Kemudian, masing-masing spermatosit sekunder 
+membelah menjadi 2 spermatid (n) melalui meiosis II. Selanjutnya, 
+spermatid berkembang menjadi spermatozoa matang haploid (n) dan 
+dikenal sebagai sel sperma.
+Oogonium
+2n
+2n
+n
+n
+n
+n
+Pembelaan mitosis
+Oosit primer
+Meoisis I
+Oosit sekunder
+Meoisis II
+Badan
+polar
+Badan
+polar
+Ovum
+Ovulasi
+Folikel De Graff
+Folikel sekunder
+Meiosis I
+Meiosis II
+  Gambar 2.28 Proses spermatogenesis.
+ Gambar 2.29 Proses oogenesis.
+Biologi untuk SMA/MA Kelas XII
+94
+Coba, kalian perhatikan Gambar 2.29. Gambar tersebut menunjukkan 
+proses oogenesis. Oogenesis adalah proses pembentukan sel telur. Sel 
+induk telur yang dikenal dengan oogonium (2n) menjadi besar sebelum 
+membelah secara meiosis. Sel ini disebut oosit primer (2n). Berbeda 
+dengan spermatogenesis, sel oosit primer jauh lebih besar dibandingkan 
+spermatosit primer karena mengandung komponen sitoplasmik lebih 
+banyak. Oosit primer membelah menjadi dua oosit sekunder melalui 
+meiosis I. Satu oosit sekunder (n) akan melakukan meiosis II dan 
+menghasilkan satu sel telur fungsional dan satu badan kutub yang 
+berdegenerasi. Satu sel oosit sekunder lain yang berukuran lebih kecil 
+yang disebut badan kutub pertama akan mengalami degenerasi (mati). 
+Dengan demikian, oogenesis menghasilkan empat sel haploid (n), di mana 
+hanya ada satu sel fungsional dan tiga lainnya berdegenerasi. 
+AKTIVITAS 2.12
+Membedakan Mitosis dan Meiosis
+1.	
+Buatlah kelompok yang terdiri atas 4 - 5 orang untuk bekerja sama 
+menyusun gambar sel dalam proses mitosis dan meiosis, layaknya 
+menyusun suatu puzzle. 
+2.	
+Susun gambar sel tersebut sesuai dengan tahapan mitosis dan 
+meiosis yang benar.
+3.	
+Presentasikan di depan kelas mengenai tahapan serta perbedaan 
+mitosis dan meiosis menggunakan gambar yang telah kalian susun.
+4.	
+Perhatikan pula saat kelompok lain sedang melakukan presentasi. 
+Coba utarakan pendapat kalian mengenai pekerjaan teman 
+kelompok lain tersebut.
+D.	 Pewarisan Sifat
+Berdasarkan aktivitas sebelumnya, tentunya kalian sudah memahami mengenai 
+proses mitosis dan meiosis. Kalian juga sudah memahami bahwa proses 
+gametogenenis mendasari pewarisan sifat dari induk kepada keturunannya. 
+Oleh karena itu, tidak menutup kemungkinan anak dapat menyerupai orang 
+tuanya. Pada subbab ini, kalian akan mempelajari pewarisan sifat. Sebagai 
+pendahuluan, coba kalian lakukan aktivitas berikut. 
+BAB 2 Genetik dan Pewarisan Sifat 
+95
+AKTIVITAS 2.13
+Mencocokkan Kemiripan Orang Tua dan Anak
+1.	
+Bawa foto ayah dan ibu kalian ke sekolah.
+2.	
+Tukar foto yang dibawa dengan teman sebangku kalian.
+3.	
+Amati foto tersebut dengan saksama.
+4.	
+Berdasarkan pengamatan yang dilakukan, isilah tabel di bawah ini.
+Fenotipe
+Ayah
+Ibu
+Anak 
+(teman kalian)
+Rambut (berombak, 
+keriting, atau lurus)
+Warna kulit (terang 
+atau gelap)
+Warna mata
+Bentuk mata
+Bentuk hidung
+Telinga (berlobus 
+atau menempel)
+5.	
+Berikan kesimpulan mengenai kemiripan teman kalian dengan 
+orang tuanya. Tentukan apakah teman kalian lebih mirip ayah 
+atau ibunya.
+6.	
+Jawablah pertanyaan berikut.
+a.	
+Mengapa anak menyerupai orang tuanya? 
+b.	
+Apa yang menjadikan anak mirip dengan orang tuanya?
+Dari Aktivitas 2.13, kalian mengetahui bahwa bentuk/jenis rambut, 
+warna mata, bentuk mata, bentuk hidung, bentuk telinga, dan warna kulit 
+merupakan sejumlah sifat atau ciri yang dapat diwariskan dari orang 
+tua kepada anak. Sifat-sifat tersebut merupakan sifat warisan karena 
+dapat diwariskan dari satu generasi ke generasi berikutnya. Coba, kalian 
+amati Gambar 2.30 di bawah ini. Dari foto keluarga tersebut, kalian dapat 
+melihat adanya ciri atau sifat yang diturunkan dari orang tua kepada 
+anak-anaknya.
+Biologi untuk SMA/MA Kelas XII
+96
+	
+	
+ 
+ Gambar 2.30 Foto keluarga.
+Sumber: Remigius Gunawan Susilowarno
+Pewarisan sifat dipelajari dalam ilmu genetika. Para ilmuwan yang 
+mempelajari pewarisan sifat disebut ahli genetika. Gregor Johann Mendel 
+dianggap sebagai peletak dasar ilmu genetika atau dikenal sebagai 
+Bapak Genetika. Semasa hidupnya, beliau senang melakukan percobaan 
+di kebunnya untuk menyelidiki bagaimana sifat-sifat tanaman induk 
+diturunkan kepada keturunannya. 
+Eksperimen Mendel dimulai pada saat beliau berada di Biara Brunn, 
+didorong oleh keingintahuannya tentang suatu ciri tumbuhan diturunkan 
+dari induk ke keturunannya. Mendel sangat memperhitungkan sifat atau 
+karakter dari keturunan dan keturunan tersebut diteliti sebagai satu 
+kelompok. Mendel juga memisahkan berbagai macam ciri dan meneliti 
+satu jenis ciri saja pada waktu tertentu, tidak memusatkan perhatian pada 
+tumbuhan secara keseluruhan. Dalam eksperimennya, Mendel memilih 
+tumbuhan kacang polong. Mendel melakukan penyilangan terhadap 
+kacang polong. Dari percobaan tersebut, Mendel melahirkan hukum 
+pewarisan sifat, yaitu:
+BAB 2 Genetik dan Pewarisan Sifat 
+97
+a.	
+Hukum Mendel I atau hukum pemisahan (segregation). Pada hukum 
+ini, gen yang merupakan pasangan alel yang terletak pada lokus yang 
+sama di kromosom homolog mengalami pemisahan secara bebas saat 
+pembentukan gamet.
+b.	
+Hukum Mendel II atau hukum berpasangan secara bebas (independent 
+assortment). Pada hukum ini, gen di dalam gamet mengalami 
+penggabungan secara bebas saat pembentukan individu baru.
+1.	 Persilangan Monohibrid 
+Persilangan monohibrid adalah persilangan dengan satu sifat beda. 
+Dengan kata lain, kita hanya memerhatikan satu sifat saja dari setiap 
+individu, seperti warna bunga (ungu, putih, dan sebagainya) atau bentuk 
+buah (bulat, keriput, dan sebagainya).
+Hukum Mendel I ditemukan berdasarkan persilangan monohibrid, di 
+mana pada saat pembentukan gamet kedua (G2), gen di dalam alel yang 
+sebelumnya berpasangan akan mengalami pemisahan secara bebas dalam 
+sel anakan yang berbentuk gamet.
+Mendel melakukan persilangan monohibrid dengan satu sifat beda 
+yang menunjukkan sifat dominansi yang muncul secara penuh. Persilangan 
+pada kasus dominan penuh akan terjadi apabila sifat gen yang satu lebih 
+kuat dibandingkan dengan sifat gen yang lain. Sifat gen yang lebih kuat 
+tersebut dapat menutupi sifat gen yang lemah. Gen yang memiliki sifat 
+kuat disebut gen dominan dan gen yang memiliki sifat lemah disebut gen 
+resesif. Perlu kalian ingat, fenotip merupakan sifat yang tampak dan dapat 
+diamati secara langsung. 
+Tabel 2.2 Percobaan Mendel yang Melibatkan Pewarisan Sifat Monohibrid.
+Sifat Tumbuhan Induk
+Generasi F1 (sifat 
+yang muncul 
+dominan)
+Generasi F2
+Rasio Dominan 
+terhadap 
+Resesif pada 
+Generasi F2
+biji bulat x biji keriput
+semua bulat
+5474 bulat
+1850 keriput
+2.96 : 1
+Biologi untuk SMA/MA Kelas XII
+98
+biji kuning x biji hijau
+semua kuning
+6022 kuning
+2001 hijau
+3.01 : 1
+bunga ungu x bunga putih
+semua ungu
+705 ungu
+224 putih
+3.15 : 1
+polong gembung x polong 
+kisut
+semua gembung
+882 gembung
+299 kisut
+2.95 : 1
+polong hijau x polong 
+kuning
+semua hijau
+428 hijau
+152 kuning
+2.82 : 1
+bunga aksial x bunga 
+terminal
+semua aksial
+651 aksial
+207 terminal
+3.14 : 1
+batang panjang x batang 
+pendek
+semua panjang
+787 panjang
+277 pendek
+2.84 : 1
+Berdasarkan persilangan pada tabel di atas, kalian dapat mengetahui 
+perbandingan fenotip dan genotip dari percobaan monohibrid yang 
+dilakukan Mendel. Jika kalian perhatikan, keturunan pertama dari 
+persilangan bunga berwarna ungu (PP) dan bunga berwarna putih (pp) 
+didapatkan keturunan semuanya memiliki bunga berwarna ungu (Pp). 
+Persilangan monohibrid tersebut menunjukkan pada F1 dengan genotip 
+Pp di mana karakter p (resesif) tertutupi oleh karakter P dominan 
+yang berwarna ungu. Untuk hasil F2, kalian dapat mengetahui bahwa 
+didapatkan hasil perbandingan fenoti sebesar 3:1.
+BAB 2 Genetik dan Pewarisan Sifat 
+99
+2.	 Persilangan Dihibrid
+Pada persilangan monohibrid sebelumnya, kalian hanya memerhatikan 
+satu sifat beda. Pada persilangan dihibrid, kalian akan memerhatikan dua 
+sifat beda atau lebih. Misalkan, warna buah dan bentuk buah atau bentuk 
+bibir bunga dan warna bunga.
+Hukum Mendel II ditemukan berdasarkan persilangan dihibrid, karena 
+ketika pembentukan F2, gen di dalam gamet yang semula mengalami 
+pemisahan akan bergabung secara bebas. Contoh persilangan dihibrid, 
+yaitu persilangan antara biji bulat kuning (BBKK) dengan biji kisut hijau 
+(bbkk). Biji berbentuk bulat (B) dominan terhadap biji berbentuk kisut (b) 
+dan biji warna kuning (K) dominan terhadap biji warna hijau (k). Pada 
+persilangan tersebut dihasilkan F1 yang semuanya berbiji bulat dan 
+berwarna kuning. Kemudian, Mendel menyilangkan sesama tanaman F1. 
+Perhatikan persilangan tanaman sesama F1 berikut.
+	
+P2:        Biji bulat warna kuning    x    biji bulat warna kuning
+                            BbKk                                         BbKk
+Gamet :       BK, Bk, bK, bk                         BK, Bk, bK, bk
+F2:
+BK
+Bk
+bK
+bk
+BK
+BBKK
+(bulat kuning)
+BBKk
+(Bulat kuning)
+BbKK
+(Bulat kuning)
+BbKk
+(Bulat kuning)
+Bk
+BBKk
+Bulat kuning
+BBkk
+Bulat hijau
+BbKk
+Bulat kuning
+Bbkk
+Bulat hijau
+bK
+BbKK
+Bulat kuning
+BbKk
+Bulat kuning
+bbKK
+Keriput kuning
+bbKk
+Keriput kuning
+bk
+BbKk
+Bulat kuning
+Bbkk
+Bulat hijau
+bbKk
+Keriput kuning
+bbll
+Keriput hijau
+Fenotip:	 9 Bulat kuning	
+: 3 bulat hijau	 : 3 keriput kuning	
+: 1 keriput hijau
+	
+9	
+: 3	
+: 3	
+: 1
+	
+	
+Dari persilangan tanaman sesama F1 dihasilkan tanaman F2 yang 
+memiliki empat kombinasi fenotip, yaitu berbiji bulat kuning, bulat 
+hijau, keriput kuning, dan keriput hijau dengan perbandingan 9 : 3 : 3 : 1. 
+Kombinasi hasil F2 tersebut menunjukkan adanya pengelompokkan dua 
+pasang gen secara bebas yang dikenal dengan hukum Mendel II.
+Untuk mempermudah perhitungan hasil persilangan genetik, kalian 
+dapat menggunakan metode Punnett atau dikenal dengan metode segi 
+empat Punnet. Metode Punnet adalah cara cepat dan bermanfaat untuk 
+merangkum dan berlatih melacak persilangan genetik. Berikut contoh 
+Biologi untuk SMA/MA Kelas XII
+100
+metode Punnett untuk menentukan persilangan sesama antara tumbuhan 
+dengan buah bulat (Bb).
+Gamet
+B
+b
+B
+BB (bulat)
+Bb (bulat)
+b
+Bb (bulat)
+bb (keriput)
+Setelah mempelajari mengenai persilangan monohibrid, dihibrid, dan 
+metode Punnett, sekarang coba kalian terapkan konsep tersebut untuk 
+menjawab pertanyaan pada kegiatan berikut di aktivitas 2.14.
+AKTIVITAS 2.14
+Ayo Berlatih
+1.	
+Jawablah pertanyaan-pertanyaan berikut.
+a.	
+Seorang siswa melakukan percobaan monohibrid terhadap 20 
+tumbuhan kacang ercis untuk menguji teori Mendel. Namun, 
+siswa tersebut tidak memperoleh rasio 3 : 1 seperti yang 
+diharapkan pada generasi F2. 
+	
+Mengapa rasio tersebut tidak tercapai? Berikan alasannya!
+	
+Untuk menjawab hal tersebut, kalian dapat melakukan 
+percobaan menggunakan kancing genetika.
+b.	
+Seorang petani manggis melakukan persilangan tanaman 
+manggis berbuah manis (Aa) dengan tanaman manggis berbuah 
+asam (aa). 
+	
+Berapa rasio kemungkinan munculnya tanaman manggis buah 
+manis dari persilangan tersebut?
+c.	
+Tanaman berbatang tinggi dan berbuah manis (TTMM) 
+disilangkan dengan tanaman berbatang pendek dan berbuah 
+asam (ttmm). 
+Berapa persen tanaman berbatang tinggi dan berbuah asam 
+serta berbatang pendek dan berbuah manis apabila persilangan 
+sampai F2?
+2.	
+Setelah mendapatkan jawabannya, coba cocokkan jawaban kalian 
+dengan teman sebangku kalian. Apabila ada jawaban yang berbeda, 
+kalian dapat berdiskusi bersama. 
+BAB 2 Genetik dan Pewarisan Sifat 
+101
+AKTIVITAS 2.15
+Sifat Resesif dan Dominan
+Organisme yang memiliki sifat dominan tidak lebih sehat atau kuat 
+daripada organisme yang memiliki sifat resesif dan sebaliknya. Carilah 
+fakta-fakta mengenai berbagai penyakit mematikan tertentu pada 
+manusia yang melibatkan sifat resesif dan dominan. Pilih satu penyakit 
+dan buat makalah mengenai penyakit tersebut kaitannya dengan 
+sifat resesif dan dominan. Lalu, presentasikan makalah tersebut di 
+depan kelas.
+3. Uji Silang 
+Setelah melakukan Aktivitas 2.15, kalian sudah tahu mengenai sifat resesif 
+dan dominan. Genotip organisme yang menunjukkan sifat dominan 
+dapat ditentukan dengan cara menyilangkan organisme induk homozigot 
+dominan dengan organisme induk homozigot resesif. Cara tersebut 
+dikenal sebagai uji silang. 
+Mari kita coba menyilangkan bunga mawar merah (MM) dengan 
+mawar putih (mm) di mana M bersifat dominan penuh. Persilangan untuk 
+menentukan genotip keturunan pertamanya 100% merah heterozigot 
+(Mm) ditunjukkan pada persilangan berikut. 
+        
+ 
+M
+M
+m
+m
+Mm
+Mm
+Mm
+Mm
+MM
+mm
+Homozigot dominan
+Homozigot resesif
+Fenotipe induk
+Genotipe induk
+Gamet
+Fenotipe induk
+Genotipe induk
+ 
+ 
+ Gambar 2.31 uji silang melibatkan genotipe homozigot dominan.
+Biologi untuk SMA/MA Kelas XII
+102
+Bila organisme heterozigot disilangkan maka setengah jumlah 
+total keturunan akan menunjukkan sifat dominan. Sisanya lagi akan 
+menunjukkan sifat resesif. Perhatikan persilangan berikut.
+ 
+ 
+  
+M
+m
+m
+m
+Mm
+Mm
+mm
+mm
+Mm
+mm
+Heterozigot 
+Heterozigot resesif
+Fenotipe induk
+Genotipe induk
+Gamet
+Fenotipe induk
+Genotipe induk
+ 
+ 
+ Gambar 2.32 uji silang melibatkan genotipe heterozigot
+4. Penyimpangan Semu Hukum Mendel
+Penyimpangan semu hukum Mendel merupakan bentuk persilangan yang 
+menghasilkan rasio fenotip yang berbeda dengan dasar hukum Mendel. 
+Mengapa disebut dengan penyimpangan semu? Hal tersebut dikarenakan 
+hukum Mendel masih berlaku dalam pola pewarisan tersebut, namun 
+terdapat sedikit perbedaan akibat sifat gen-gen yang unik. Ada beberapa 
+macam penyimpangan semu hukum Mendel. Coba, kalian lakukan 
+Aktivitas 2.16 sebagai permulaan dalam mempelajari penyimpangan 
+semu hukum Mendel.
+AKTIVITAS 2.16
+Ayo Bereksplorasi
+1. 
+Buat kelompok yang terdiri atas 5 orang. 
+2. 
+Amati jari anggota kelompok kalian untuk melihat ada tidaknya 
+rambut di bagian jari.
+3. 
+Coba cari tahu, apa penyebab munculnya fenotip tersebut melalui 
+sumber terpercaya.
+4. 
+Diskusikan dalam kelompok kalian dan persentasikan di depan kelas.
+BAB 2 Genetik dan Pewarisan Sifat 
+103
+a. 	 Alel majemuk 
+Setelah melakukan Aktivitas 2.16, ternyata ada gen yang bertugas 
+menentukan genotip sifat rambut jari yang dipengaruhi oleh alel majemuk 
+atau alel ganda. Selain itu, golongan darah manusia juga merupakan 
+contoh sifat dengan alel majemuk. 
+Alel majemuk adalah istilah untuk gen yang memiliki lebih dari dua 
+alel. Misalnya, pada penggolongan darah AB0. Ada empat golongan darah 
+AB0 dalam populasi manusia, yaitu golongan darah A, B, AB, dan 0. Sejauh 
+ini, kita mengasumsikan bahwa hanya ada dua alel yang mungkin untuk 
+suatu sifat tertentu. Ternyata, dalam suatu populasi dimungkinkan ada 
+sifat yang ditentukan oleh lebih dari dua alel. Alel untuk golongan darah 
+A, B, dan 0 disimbolkan secara berturut-turut dengan IA, IB, dan IO. IA dan 
+IB dominan terhadap IO, namun IA dan IB menunjukkan kodominansi. Apa 
+itu kodominansi? 
+	
+	
+Tabel 2.3 Golongan Darah Manusia dan Genotipnya 
+Golongan Darah
+Genotip
+A
+IAIA atau IAIO 
+B
+IBIB atau IBIO 
+AB
+IAIB 
+O
+IOIO 
+b. 	 Kodominansi 
+Pada Tabel 2.5, kalian dapat melihat contoh kodominansi pada golongan 
+darah AB dengan genotipe IAIB. Pada golongan darah AB, genotipnya 
+menunjukkan bahwa tidak ada salah satu alel yang lebih dominan antara 
+IAIB sehingga fenotipnya muncul sebagai golongan darah AB. Jadi, dapat 
+dikatakan bahwa kodominansi terjadi ketika dua alel yang mengendalikan 
+satu sifat sama-sama terekspresikan pada organisme. 
+c. 	 Atavisme
+Atavisme adalah interaksi antargen berbeda alel yang menghasilkan 
+keturunan dengan fenotip yang berbeda dari induknya. Salah satu contoh 
+persilangan kasus atavisme yang terkenal, yaitu kasus jengger ayam.
+Biologi untuk SMA/MA Kelas XII
+104
+ Gambar 2.33 Interaksi gen antara alel R dengan alel P dalam menentukan model jengger ayam. 
+Bentuk jengger ayam dipengaruhi oleh dua gen berbeda alel, yaitu 
+gen R mengatur jengger untuk bentuk rose, gen P untuk fenotip pea, gen R 
+dan gen P jika bertemu membentuk fenotip walnut. Jika gen r bertemu p 
+menimbulkan fenotip single. Berdasarkan hasil persilangan pada gambar 
+di atas, diperoleh rasio fenotip 9 Walnut : 3 Rose : 3 Pea : 1 single.  Dengan 
+adanya interaksi antara dua gen dominan dan gen resesif seluruhnya 
+akan menghasilkan variasi fenotip baru, yaitu pea. Gen dominan R yang 
+berinteraksi dengan gen dominan P akan menghasilkan bentuk jengger 
+pea. Perbedaan bentuk jengger ayam ini yang dinamakan atavisme.
+d. 	 Kriptomeri
+Kriptomeri adalah peristiwa tersembunyinya suatu gen dominan jika tidak 
+berpasangan dengan gen dominan dari alel lainnya. Ketika gen dominan 
+berdiri sendiri maka sifatnya akan tersembunyi (kriptos). Warna bunga 
+Linaria maroccana dipengaruhi oleh 4 gen, yaitu A = terbentuk pigmen 
+antosianin, a = tidak terbentuk pigmen antosianin, B = protoplasma basa, 
+dan b = protoplasma asam. Salah satu contoh kasus kriptomeri terdapat 
+BAB 2 Genetik dan Pewarisan Sifat 
+105
+pada persilangan bunga Linaria maroccana. Antosianin merupakan 
+pigmen akan memicu pembentukan warna pada bunga, warna yang 
+timbul juga dipengaruhi oleh tingkat keasaman (pH) protoplasma sel. Jika 
+protoplasma bersifat basa (dipengaruhi oleh gen B) maka warna yang 
+muncul ungu, sedangkan jika protoplasma bersifat asam (dipengaruhi 
+gen b) maka akan muncul warna merah. Dari persilangan bunga Linaria 
+maroccana di bawah ini, kalian dapat melihat bahwa F2 yang dihasilkan 
+dari persilangan kriptomeri memiliki rasio fenotip 9 : 3 : 4. 
+ 
+ 
+P    fenotipe :            merah                   x         putih
+    genotipe  :             AAbb                              aaBB
+                 gamet  :                Ab                                 aB
+F1             fenotipe :          AaBb
+               genotipe :                                 ungu
+F1 x F1    genotipe :    AaBb    x            AaBb
+    gamet  :   AB, Ab, aB, ab        AB, Ab, aB, ab   
+F2                                            
+AB       Ab                    aB                     ab 
+AB          AABB              AABb               AaBB               AaBb
+Ab          AABb               AAbb    AaBb      Aabb
+aB   AaBB      AaBb       aaBB      aaBb
+ab        AaBb      Aabb    aaBb      aabb 
+ 
+ 
+ Gambar 2.34 Kriptomeri pada pewarisan sifat warna bunga Linaria maroccana.
+e.  Polimeri
+Polimeri adalah kondisi di mana terdapat banyak gen yang tidak se-alel, 
+namun memengaruhi sifat yang sama. Ada beberapa ciri yang menandakan 
+adanya polimeri, yaitu semakin banyak gen yang bersifat dominan maka 
+sifatnya semakin kuat dan hasil persilangan polimeri rasio fenotip pada 
+F2-nya, yaitu 15 : 1. Perhatikan contoh persilangan polimeri berikut!
+Biologi untuk SMA/MA Kelas XII
+106
+	 	
+	
+	
+ Gambar 2.35 Contoh persilangan polimeri.
+f. 	 Epistasis - Hipostasis
+Epistasis-hipostasis merupakan peristiwa ketika gen yang bersifat 
+dominan akan menutupi pengaruh gen dominan lain yang bukan alelnya. 
+Gen yang menutupi disebut dengan epistasis dan gen yang ditutupi disebut 
+hipostasis. Salah satu contoh kasus epistasis-hipostasis pada persilangan 
+labu, yaitu pembentukan warna kulit labu (Cucurbita pepo). Perhatikan 
+contoh persilangan epistasis-hipostasis pada gambar berikut!
+BAB 2 Genetik dan Pewarisan Sifat 
+107
+	
+	
+	
+	
+ Gambar 2.36 Contoh persilangan epistasis-hipostasis
+Diketahui bahwa gen P dominan terhadap gen p dan gen K 
+dominan terhadap gen k. Gen P menyebabkan labu berwarna putih, 
+gen K menyebabkan labu berwarna kuning, sementara gen p dan k 
+menyebabkan labu berwarna hijau. Pada F1, gen P dan K berada bersama 
+dan keduanya dominan, namun sifat yang muncul adalah warna putih. 
+Hal ini menandakan bahwa gen P bersifat epistasis (menutupi) terhadap 
+gen K, gen K bersifat hipostasis (ditutupi) oleh gen P.
+g. 	 Komplementer 
+Penyimpangan semu hukum Mendel komplementer adalah interaksi 
+antara dua gen dominan berbeda alel yang saling melengkapi untuk 
+memunculkan fenotip tertentu. Apabila salah satu gen tidak muncul maka 
+sifat yang dimaksud tidak akan muncul. Salah satu contoh komplementer 
+dapat ditemukan pada persilangan bunga Lathyrus odoratus yang memiliki 
+Biologi untuk SMA/MA Kelas XII
+108
+gen C = membentuk pigmen warna, c = tidak membentuk pigmen warna, P 
+= membentuk enzim pengaktif, dan p = tidak membentuk enzim pengaktif.
+Pada tumbuhan Lathyrus odoratus, warna bunga ungu hanya muncul 
+jika tumbuhan memiliki gen C dan gen P, yang berarti warna bunga ungu 
+akan muncul tumbuhan membentuk pigmen warna yang dipengaruhi 
+oleh gen C dan membentuk enzim pengaktif yang dipengaruhi oleh gen 
+P. Misalkan dilakukan persilangan antara bunga Lathyrus odoratus yang 
+berwarna putih dengan yang berwarna putih pula. Maka akan diperoleh 
+keturunan dan rasio seperti di bawah ini.
+ 
+ 
+P    fenotipe :            merah                   x         putih
+    genotipe  :             AAbb                              aaBB
+                 gamet  :                Ab                                 aB
+F1             fenotipe :          AaBb
+               genotipe :                                 ungu
+F1 x F1    genotipe :    AaBb    x            AaBb
+    gamet  :   AB, Ab, aB, ab        AB, Ab, aB, ab   
+F2                                            
+AB       Ab                    aB                     ab 
+AB          AABB              AABb               AaBB               AaBb
+Ab          AABb               AAbb    AaBb      Aabb
+aB   AaBB      AaBb       aaBB      aaBb
+ab        AaBb      Aabb    aaBb      aabb 
+P    fenotipe :            putih                      x  
+   putih
+    genotipe  :            ccPP                          CCpp
+                 gamet  :            cP                                 Cp
+F1             fenotipe :       CcPp
+               genotipe :       Ungu
+F1 x F1    genotipe :              CcPp  
+   x      CcPp
+    gamet  :        CP, Cp, cP, cp              CP, Cp, cP, cp
+F2                                            
+  CP               Cp                     cP                        cp  
+CP           CCPP                   CCPp                   CcPP                   CcPp       
+Cp            CCPp                   CCpp                   CcPp                   Ccp
+cP     CcPP       CcPp     ccPP      ccPp
+cp           CcPp      Ccpp     ccPp 
+     ccpp
+ 
+ 
+ Gambar 2.37 Contoh persilangan komplementer
+Berdasarkan persilangan di atas, diperoleh F2 dengan warna bunga 
+berwarna ungu dengan pigmen warna dan enzim pengaktif (C-P-), bunga 
+berwarna putih dengan pigmen warna dan tanpa enzim pengaktif (C-pp), 
+bunga berwarna putih tanpa pigmen warna dan ada enzim pengaktif (ccP), 
+bunga berwarna putih tanpa pigmen warna dan tanpa enzim pengaktif 
+(ccpp), hasil F2 dari persilangan tersebut menghasilkan fenotip 12 : 7. 
+BAB 2 Genetik dan Pewarisan Sifat 
+109
+AKTIVITAS 2.17
+Penyimpangan Semu Hukum Mendel
+1.	
+Bentuk kelompok yang terdiri atas 3 – 4 orang.
+2.	
+Telusurilah jurnal-jurnal penelitian yang berkaitan dengan 
+penyimpangan semu hukum Mendel.
+3.	
+Buktikan 
+melalui 
+jurnal-jurnal 
+penelitian 
+tersebut 
+bahwa 
+peristiwa atavisme, kriptomeri, polimeri, epistasis-hipostasis, dan 
+komplementer merupakan penyimpangan semu hukum Mendel.
+4.	
+Buat kumpulan jurnal penelitian dan ringkasan dari keseluruhan 
+jurnal yang kalian temukan.
+5.	 Penentuan Jenis Kelamin 
+Sebagian besar makhluk hidup dibedakan menjadi dua berdasarkan jenis 
+kelaminnya, yaitu jantan atau laki-laki dan betina atau perempuan. Apa 
+yang menyebabkan makhluk hidup dapat berjenis kelamin tersebut? 
+Seperti yang dijelaskan sebelumnya pada materi kromosom, hal ini karena 
+faktor genetik yang ditentukan oleh kromosom gonosom.
+Organisme dengan jenis kelamin terpisah, kromosom gonosom yang 
+menentukan jenis kelamin organisme mungkin berbeda pada jantan dan 
+betina. Misalnya pada manusia, laki-laki memiliki satu kromosom X dan 
+satu kromosom Y dalam setiap sel tubuh normal. Adapun pada perempuan 
+memiliki sepasang kromosom X dalam setiap sel tubuh normal. 
+	
+	
+	
+	
+ Gambar 2.38 Penentuan jenis kelamin manusia saat proses fertilisasi.
+Biologi untuk SMA/MA Kelas XII
+110
+Sel manusia mengandung 23 pasang kromosom yang terdiri atas 22 
+pasang kromosom autosom dan sepasang kromosom seks. Gambar di atas 
+menunjukkan sel telur hanya mengandung satu kromosom X, sedangkan 
+laki-laki menghasilkan dua jenis sperma yang satu mengandung satu 
+kromosom X dan kromosom Y. Contoh lain penentuan jenis kelamin yang 
+sama dengan manusia terjadi pada lalat buah (D. melanogaster). 
+Ada beberapa tipe penentuan jenis kelamin. Tahukah kalian, ada 
+yang unik dengan tipe penentuan jenis kelamin pada belalang. Belalang 
+betina memiliki  kromosom kelamin terdiri atas sepasang kromosom 
+X  dan  belalang jantan  memiliki  kromosom kelamin terdiri atas satu 
+kromosom X dan tidak memiliki kromosom Y. Coba, kalian temukan tipe 
+penentuan jenis kelamin yang lain dengan melakukan aktivitas berikut.
+AKTIVITAS 2.18
+Penentuan Jenis Kelamin pada Lebah Madu
+1.	
+Bentuklah kelompok yang terdiri atas 3 – 4 orang.
+2.	
+Bacalah teks berikut.
+	
+Apakah kalian tahu penentuan jenis kelamin pada lebah madu 
+sangat unik. Setelah melakukan perkawinan, lebah jantan akan 
+mati. Setelah kawin, seekor lebah ratu dapat menghasilkan telur 
+sebanyak kurang lebih 2.000 butir per hari. Apabila telur terbuahi 
+oleh sperma yang tersimpan dalam ovarium lebah ratu maka akan 
+menghasilkan individu baru yang memiliki jenis kelamin yang 
+sama dengan ratu, yaitu betina. Adapun jika telur tidak terbuahi 
+oleh sperma yang tersimpan dalam ovarium lebah ratu maka akan 
+menghasilkan individu berjenis kelamin jantan. 
+3.	
+Apa tipe penentuan jenis kelamin pada lebah madu? Mengapa 
+demikian? 
+	
+Coba cari jawaban dari pertanyaan di atas melalui sumber referensi 
+yang terpercaya di internet. 
+4.	
+Buat kesimpulan dari jawaban kalian, lalu kumpulkan dan 
+diserahkan kepada guru. 
+BAB 2 Genetik dan Pewarisan Sifat 
+111
+6.	 Mutasi dan Penyakit Keturunan
+Sebelum mempelajari mutasi dan penyakit keturunan, coba kalian 
+lakukan kegiatan berikut.
+AKTIVITAS 2.19
+Ayo Berpikir Kritis
+Ada suatu kasus di mana seseorang berjenis kelamin laki-laki memiliki 
+testis yang tidak berkembang (Testicular dysgenesis) sehingga tidak 
+dapat menghasilkan sperma. Namun, laki-laki tersebut memiliki payu­
+dara yang tumbuh. 
+Coba, kalian cari tahu apakah penyebab hal tersebut? Apakah dapat 
+diobati? Diskusikan bersama dengan teman kelompok kalian. Kemudian, 
+presentasikan hasil kalian di depan kelas. 
+Setelah melakukan Aktivitas 2.19, kalian menjadi sadar bahwa mutasi 
+tidak hanya terjadi di film-film. Namun, mutasi juga dapat terjadi di 
+sekeliling kita. Seseorang yang memperlihatkan perubahan sifat (fenotip) 
+akibat mutasi disebut mutan. 
+Pewarisan gen diturunkan dari satu generasi ke generasi berikutnya. 
+Sebelum sel membelah, kromosom direplikasi dan gen-gen yang dibawanya 
+disalin sama persis. Oleh karena itu, pewarisan sifat bergantung kepada 
+replikasi yang akurat. Kesalahan mungkin terjadi saat proses replikasi. Bila 
+kesalahan tersebut tidak diperbaiki, gen kemungkinan akan termodifikasi 
+atau kromosom mungkin berubah. Peristiwa inilah yang disebut mutasi. 
+Jadi, mutasi adalah perubahan acak mendadak pada struktur gen atau 
+jumlah kromosom. 
+Mutasi juga dapat menyebabkan keanekaragaman dalam suatu 
+spesies. Mutasi gen menghasilkan variasi di antara individu, sebab 
+mutasi gen menyebabkan timbulnya alel-alel baru. Jika mutasi terjadi saat 
+produksi gamet, perubahan genetik yang dihasilkan dapat diwariskan ke 
+keturunan. Mutasi yang terjadi pada sel tubuh selain pada gamet disebut 
+mutasi somatik. Mutasi somatik tidak bisa diwariskan dari induk ke 
+keturunannya. 
+Biologi untuk SMA/MA Kelas XII
+112
+Mutasi dapat menyebabkan penyakit keturunan. Penyakit ini tidak 
+dapat dicegah keberadaanya karena disebabkan oleh kelainan genetik 
+yang diwariskan dari orang tua kepada keturunannya. Berikut beberapa 
+contoh penyakit keturunan.
+a. 	 Albinisme 
+Albinisme adalah penyakit keturunan yang disebabkan oleh adanya 
+mutasi gen resesif. Individu yang memiliki alel albinisme homozigot inilah 
+yang disebut albino. Albinisme ditandai dengan tidak adanya pigmen 
+pada kulit, rambut, dan mata. Individu dengan kondisi albino memiliki 
+kulit putih pucat kemerahan dan rambut putih. Individu dengan kondisi 
+ini memiliki kulit yang sangat sensitif. Kulit mereka mudah terbakar 
+oleh sinar matahari. Iris mata albinisme berwarna merah karena tidak 
+mengandung pigmen sehingga yang terlihat hanya pembuluh darahnya. 
+b. 	 Sindrom Down 
+Sindrom Down merupakan penyakit keturunan 
+yang terjadi karena mutasi jumlah kromosom. 
+Seperti yang kalian ketahui, jumlah normal 
+kromosom manusia sebanyak 46. Namun, 
+pada sebagian orang ada yang memiliki 
+satu kromosom tambahan di dalam sel-
+sel tubuh mereka sehingga terdapat 47 
+kromosom. Kasus inilah yang dikenal sebagai 
+sindrom Down. Sindrom Down disebabkan 
+gagalnya pembelahan sel gamet pada proses 
+meiosis I dan II sehingga menyebabkan 
+kelebihan kromosom 21 sel gamet. 
+Sindrom 
+Down 
+merupakan 
+penyebab genetik disabilitas 
+intelektual yang jarang sekali 
+diturunkan. Sindrom Down ini dapat 
+terlihat dari perawakan yang muncul, seperti hidung pesek, mata sipit, 
+telinga kecil, lidah besar, dan perawakan tubuh yang pendek. 
+Gambar 2.39  Anak dengan 
+sindrom Down.
+BAB 2 Genetik dan Pewarisan Sifat 
+113
+c.  Buta warna
+Buta warna adalah suatu kondisi di mana manusia tidak dapat melihat 
+warna tertentu, atau tidak dapat membedakan warna tertentu. Penyakit 
+keturunan ini disebabkan adanya mutasi pada kromosom X. Seseorang 
+akan mengalami buta warna, jika memiliki kromosom X dengan gen buta 
+warna (Xc). 
+Seorang pria hanya memiliki 1 kromosom X, sehingga pasti akan 
+mengalami buta warna apabila memiliki gen buta warna (Xc).  Berbeda 
+dengan wanita yang memiliki 2 kromosom X. Jika seorang wanita memiliki 
+1 kromosom X dengan gen buta warna atau memiliki genotip XCXc maka 
+wanita tersebut hanya menjadi pembawa (carrier). Namun, jika memiliki 
+2 kromosom X dengan gen buta warna atau memiliki genotip XcXc maka 
+wanita menjadi penderita buta warna. Wanita carrier tampak normal dan 
+dapat melihat warna seperti biasa. Namun, wanita tersebut kemungkinan 
+akan mewariskan penyebab buta warna ke anaknya.  
+7. EPIGENETIK
+Apakah kalian pernah melihat kembar 
+identik? Mereka terlihat mirip sekali secara 
+fisik namun mungkin salah satu diantara 
+mereka ada yang menderita penyakit ginjal 
+kronik (CKD), sedangkan yang satunya 
+lagi tidak. Apakah yang menyebabkan 
+hal tersebut?
+Dalam beberapa kasus, kembar identik 
+dapat mengidap penyakit genetik, sementara 
+kembar lain tidak, meskipun genom mereka 
+identik. Kembar identik memiliki perbedaan 
+dalam kerentanan terhadap suatu penyakit. 
+Variasi epigenetik dapat menjelaskan hal ini. 
+Jadi apakah epigenetik itu? Epigenetik adalah ilmu yang mempelajari 
+faktor eksternal dan lingkungan yang mengaktifkan atau menonaktifkan 
+gen sehingga gen dapat terekpresi atau tidak terekspresi, aktif atau tidaknya 
+suatu gen dapat menentukan sifat yang muncul pada suatu individu 
+melalui gen yang terekspresikan (ekspresi gen). Epigenetik juga dikenal 
+sebagai perubahan dalam regulasi ekspresi gen yang dapat diturunkan 
+Gambar 2.40 Kembar Identik
+Biologi untuk SMA/MA Kelas XII
+114
+tanpa mengubah urutan DNA, hal ini pertama kali diperkenalkan oleh 
+Conrad Waddington.
+Masih ingat apa itu kromatin, eukromatin, heterokromatin dan 
+nukleosom? Mari kita sedikit mengulas kembali. Polimer DNA yang 
+disebut kromatin terdiri dari DNA yang mengelilingi “bantalan benang” 
+protein yang disebut protein histon, yang berperan dalam menyokong 
+seluruh genom materi genetik dalam sel eukariot. Nukleosom merupakan 
+unit dasar kromatin, terdiri dari oktamer berisikan dua histon (H2A, H2B, 
+H3, dan H4, terbungkus di dalam 147 bp DNA). 
+Nukleosom dipisahkan oleh DNA linker dengan panjang 20 hingga 
+50 bp. Oleh karena itu, posisi genom dan perubahan nukleosom dapat 
+mempengaruhi kemampuan protein untuk berikatan dengan sekuens 
+target DNA. Eukromatin memiliki konformasi yang lebih longgar yang 
+memungkinkan transkripsi aktif, sedangkan heterokromatin memiliki 
+kromatin yang terbungkus ketat, terutama mengandung gen tidak aktif. 
+Modifikasi kromatin atau histon adalah beberapa kondisi yang dapat 
+mempengaruhi proses epigenetik (gambar 2.41).
+Ph
+Ph
+Ph
+Ub
+Ub
+Me
+Me
+Me
+Me
+Me
+Me
+Me
+Ac
+Ac
+Ac
+Ac
+Ac
+Ac
+ 
+ 
+  Gambar 2.41 Nukleosom.
+Unit dasar fungsional kromatin adalah nukleosom (Panel A), tersusun atas oktamer histon dikelilingi DNA. Oktamer 
+dipisahkan oleh DNA linker. Oktamer histon dibentuk oleh histon tetramer H3:H4 dan dua dimer H2A: H2B. Ekor histon 
+terdiri dari empat histon inti yang dipengaruhi oleh modifikasi post-translasi (Panel B). Hal ini meliputi metilasi (Me), 
+asetilasi (Ac), fosforilasi (Ph), ubiquilasi (Ub) dan isomerisasi prolin (Iso), yang terjadi pada tempat asam amino yang 
+spesifik, seperti K4 dan K9 pada ekor histon H3. Asam amino histon yang sama juga mengalami modifikasi post translasi 
+yang berbeda. Dikutip dari Dawson MA, Tony Kouzarides T, Huntly BJP. Targeting epigenetic readers in cancer. N Engl J 
+Med 2012;367:647-57.
+BAB 2 Genetik dan Pewarisan Sifat 
+115
+Meskipun semua sel di dalam tubuh mempunyai urutan DNA yang 
+identik, namun setiap sel mempunyai fenotipe dan pola ekspresi gen yang 
+berbeda. Misalnya, perubahan kromatin di jantung dapat mempengaruhi 
+ekspresi gen yang berupa ‘epigenetik’ dan menetap walaupun terjadi 
+pembelahan sel.
+Epigenetik mengatur kromatin di dalam genom. Oleh karena itu, 
+epigenetik menghasilkan pola indeks yang diturunkan pada pembelahan 
+sel, yang menghasilkan “memori” seluler, yang merupakan ekstensi 
+informasi yang berasal dari kode genetik (DNA). Akibatnya, epigenetik 
+dapat didefinisikan sebagai perubahan dalam transkripsi gen melalui 
+perubahan kromatin tanpa adanya perubahan urutan DNA. Proses 
+epigenetik menyebabkan perubahan ekspresi gen biasanya melalui 
+metilasi DNA, modifikasi kromatin/histon, dan non-coding RNA.
+Misalnya pada proses perkembangan sel telur yang dibuahi dapat 
+dimulai dengan satu genom tunggal, yang menghasilkan sejumlah 
+“epigenom” yang berbeda pada lebih dari 200 jenis sel (Gambar 2.42). 
+Variasi program ini dikenal sebagai “kode epigenetik”, yang mempengaruhi 
+kondisi kromatin selama pembelahan dan perkembangan sel. 
+???
+  Gambar 2.42 Mekanisme Epigenetik dalam Proses Perubahan Fenotip Pada Individu. 
+Komposisi kromatin pada seluruh genom bergantung pada tipe sel, dan respon terhadap signal internal dan eksternal. 
+(Panel bawah) Divertifikasi genom pada organisme multiseluler selama perkembangan dan diferensiasi dari satu 
+stem cell (embrio yang telah dibuahi) menjadi sel terdiferensiasi. Pengembalian diferensiasi (de-deferensiasi) atau 
+transdiferensiasi (garis biru) memerlukan reprogramming epigenom sel. Dikutip dari Allis CD, Jenuwen T, Reinberg D. 
+Overview and concepts. In: Allis CD eds., EpigeneticsCold Spring Harbour Laboratory Press 2007, p. 23-61. 
+Biologi untuk SMA/MA Kelas XII
+116
+Waddington menggambarkan perubahan fenotipe dari sel ke sel selama 
+perkembangan organisme multiseluler sebagai “epigenetic landscape”. 
+Namun, spektrum sel dari stem cell ke sel yang mengalami diferensiasi 
+memiliki urutan DNA yang sama, tetapi profil gen yang diekspresikan 
+sangat berbeda. Regulasi epigenetik terhadap stem cell meliputi modifikasi 
+DNA, modifikasi ekor histon setelah translasi, remodelling nukleosom, dan 
+long noncoding RNA. Pemahaman terbaru tentang modifikasi histon pada 
+remodeling kromatin, juga dikenal sebagai kode histon, telah menunjukkan 
+banyak hubungan epigenetik yang kompleks. Modifikasi DNA atau histon 
+terdiri dari enzim yang mengkatalisis modifikasi. Proses epigenetik yang 
+menyebabkan perubahan ekspresi gen biasanya melibatkan proses 
+metilasi DNA, modifikasi kromatin/histon, dan non-coding RNA. 
+a. 	 Metilasi DNA
+Meskipun hampir semua sel dalam suatu organisme mengandung informasi 
+genetik yang sama, tidak semua gen diekspresikan secara bersamaan oleh 
+semua jenis sel. Dalam pengertian yang lebih luas, mekanisme epigenetik 
+memediasi profil ekspresi gen yang beragam di berbagai sel dan jaringan 
+pada organisme multiseluler.
+Sekarang ini, kita akan membahas mekanisme epigenetik utama yang 
+melibatkan modifikasi kimia langsung pada DNA, yang dikenal sebagai 
+metilasi DNA. Metilasi DNA telah ditemukan pada mamalia sejak DNA 
+pertama kali diidentifikasi sebagai materi genetik. Avery dan rekannya, 
+1944; McCarty dan Avery, 1946). Meskipun banyak peneliti mengusulkan 
+bahwa metilasi DNA mungkin mengatur ekspresi gen, baru pada tahun 
+1980-an beberapa studi menunjukkan bahwa metilasi DNA terlibat dalam 
+regulasi gen dan diferensiasi sel. (Holliday and Pugh, 1975; Compere and 
+Palmiter, 1981). Sekarang ini sudah diakui dengan baik bahwa metilasi 
+DNA bersama dengan pengatur lainnya, adalah faktor epigenetik utama 
+yang mempengaruhi aktivitas gen.
+Jadi, apakah yang dimaksud dengan metilasi DNA? Metilasi DNA 
+adalah modifikasi epigenetik yang berkarakteristik baik yang memainkan 
+peran kunci dalam regulasi gen. Ini melibatkan penambahan kovalen dari 
+gugus metil pada karbon posisi ke-5 dari cincin sitosin dari suatu gen, 
+misalnya pada mamalia. Metilasi dalam daerah promoter gen penekan 
+tumor menyebabkan gen tersebut tidak aktif, dan metilasi dalam gen itu 
+sendiri dapat memicu peristiwa mutasi.
+BAB 2 Genetik dan Pewarisan Sifat 
+117
+Metilasi sering terjadi pada histon H3 (13) dan H4 pada residu lisin 
+(K) dan arginin (A) tertentu, merupakan salah satu metode penting untuk 
+modifikasi protein histon. Metilasi lisin histon dapat menyebabkan aktivasi 
+dan juga dapat menyebabkan penghambatan, biasanya tergantung pada 
+situasi di mana ia berada. Misalnya, H3K9, H3K27, dan H4K20 dikenal 
+sebagai penanda ‘inaktivasi’ yang penting, yaitu tanda repressor, karena 
+hubungan antara metilasi ini dan pembentukan heterokromatin. Namun, 
+metilasi H3K4 dan H3K36 dianggap sebagai tanda ‘aktivasi’. Asetilasi, 
+yang dalam banyak kasus terjadi pada residu lisin konservatif di terminal 
+N, juga merupakan cara penting untuk memodifikasi protein histon, 
+misalnya, asetilasi residu lisin 9 dan 14 dari histon H3 serta lisin 5, 8, 12, 
+dan 16 dari histon H4. Kedua asetilasi tersebut terkait dengan aktivasi atau 
+pembukaan kromatin. Sebaliknya, deasetilasi residu lisin menyebabkan 
+kompresi kromatin dan inaktivasi transkripsi gen. Modifikasi histon yang 
+berbeda dapat saling mempengaruhi dan dapat berinteraksi dengan 
+metilasi DNA.
+Sekelompok metiltransferase DNA (Dnmts) mengkatalisis metilasi 
+DNA, mentransfer kelompok metil dari S-adenosil metionin (SAM) ke 
+karbon kelima residu sitosin pada 5mC (Gambar 1). Dnmt1 berfungsi 
+selama replikasi DNA untuk menyalin pola metilasi DNA dari untai DNA 
+induk ke untai DNA anak yang baru disintesis. Sebaliknya, Dnmt3a dan 
+Dnmt3b memiliki kemampuan untuk membentuk pola metilasi baru pada 
+DNA yang tidak dimodifikasi, yang disebut Dnmt de novo (Gambar 2.43). 
+Ketiga Dnmts berkontribusi pada pengembangan embrio. Ekspresi Dnmt 
+sangat berkurang saat sel mencapai diferensiasi terminal. Ini tampaknya 
+menunjukkan pola metilasi DNA yang stabil pada sel postmitotik. 
+Biologi untuk SMA/MA Kelas XII
+118
+T T G A C A G C C G T
+T T G A C A G C C G T
+ Gambar 2.43 Jalur metilasi DNA. 
+Sebuah kelompok dari DNA metiltransferase (Dnmts) mengkatalisis transfer kelompok metil dari S-adenil metionin (SAM) ke 
+karbon kelima dari residu sitosin untuk membentuk 5-metil sitosin. (5mC). (a) Dnmt3a dan Dnmt3b adalah Dnmts “de novo” yang 
+mentransfer kelompok metil (merah) ke DNA telanjang. (b) Dnmt1 adalah Dnmt pemeliharaan yang menjaga pola metilasi DNA 
+selama replikasi. Ketika DNA mengalami replikasi semikonservatif, untai DNA induk mempertahankan pola metilasi DNA yang 
+asli. (abu). Dnmt1 berasosiasi ketika replikasi dan dengan tepat mereplikasi pola metilasi DNA yang asli dengan menambahkan 
+grup metil (merah) pada untai anak yang baru terbentuk. (biru)”
+b. Modifikasi Kromatin
+Histon adalah unsur pembentuk nukleosom, dengan struktur berbentuk 
+oktamer yang membungkus DNA pada sel eukariot. Struktur yang 
+terbentuk dikenal sebagai kromatin. Histon mudah mengalami modifikasi 
+melalui proses dikenal sebagai posttranslational modification (PTM). Dua 
+kelompok mengubah struktur kromatin yaitu molekul kimia kecil (asetilasi, 
+fosforilasi, dan metilasi) dan peptida yang lebih besar (ubikuitilasi dan 
+sumoilasi).
+Mekanisme perubahan histone posttranslational (HPTM) yang 
+memengaruhi kromatin dapat berupa represi atau transkripsi gen. 
+Terdapat tiga model seperti di bawah ini (Gambar 2.44). Model pertama 
+menunjukkan histon yang mengalami perubahan yang mempengaruhi 
+struktur kromatin, dan model kedua dapat menghambat ikatan faktor 
+terhadap kromatin, dan model ketiga menciptakan tempat ikatan untuk 
+protein tertentu.
+BAB 2 Genetik dan Pewarisan Sifat 
+119
+mod
+ Gambar 2.44 
+Model  menunjukan bagaimana histone posttranslational modification berpengaruh terhadap kromatin. Dikutip dari 
+Kouzarides T, Berger SL. Chromatin modifications and their mechanism of action. In : Allis CD eds., Epigenetics. Cold Spring 
+Harbour Laboratory Press 2007, p. 191-209.
+c. Non-Coding RNA
+Kumpulan DNA (genome) seseorang dapat memiliki daerah RNA coding 
+dan non-coding. RNA coding berfungsi untuk menghasilkan protein 
+sedangkan RNA non-coding adalah RNA yang tidak dapat diterjemahkan 
+menjadi protein. RNA non-coding berfungsi untuk mengontrol ekspresi 
+genetik dengan cara menempel pada daerah RNA coding. 
+RNA non-coding, RNA yang tidak dapat diterjemahkan menjadi protein, 
+dapat dibagi menjadi dua kategori. Kategori pertama terdiri dari RNA non-
+coding rantai pendek seperti short interfering RNA (siRNA), microRNA 
+(miRNA), dan piwi-interacting RNA (piRNA) dan RNA non-coding panjang 
+(seperti lncRNA).  Keempat non coding RNA ini dapat berperan dalam 
+menghambat proses translasi dengan cara mendegradasi mRNA atau 
+memodifikasi protein histon untuk mengaktifkan atau menonaktifkan gen. 
+Dalam beberapa tahun terakhir, banyak penelitian telah menunjukkan 
+bahwa RNA non-coding berperan penting dalam modifikasi epigenetik 
+dan dapat mengontrol ekspresi pada tingkat gen dan kromosom untuk 
+mengendalikan diferensiasi sel. 
+Biologi untuk SMA/MA Kelas XII
+120
+Setelah mempelajari mengenai epigenetik, coba kalian lakukan 
+kegiatan berikut. 
+AKTIVITAS 2.20
+Ayo berpikir kritis
+Akibat perubahan metilasi, efek epigenetik serupa juga terjadi pada 
+manusia. Selama musim dingin 1944–1945 menjelang akhir Perang 
+Dunia II, pekerja kereta api di Belanda melakukan pemogokan untuk 
+mencoba mencegah Nazi mengirimkan lebih banyak tentara. Sebaliknya, 
+Nazi menghentikan semua pasokan makanan. Selama “Musim Dingin 
+Belanda Dilanda Kelaparan”, lebih dari 20.000 orang meninggal. Para 
+dokter kemudian menemukan bahwa keturunan pada wanita hamil 
+muda saat itu banyak yang mengalami masalah kesehatan saat dewasa, 
+seperti obesitas, kadar trigliserida dan kolesterol yang tinggi, diabetes 
+tipe 2, dan skizofrenia. Jika dibandingkan dengan saudara mereka yang 
+berada dalam kandungan dengan kondisi makanan tersedia dengan 
+mudah, memiliki tingkat kematian 10% lebih tinggi setelah usia 68 
+tahun. Sebuah kolaborasi antara laboratorium di Belanda dan Amerika 
+Serikat pada tahun 2018 membandingkan orang dewasa tersebut. Para 
+peneliti menyimpulkan bahwa perbedaan antara saudara kandung 
+dalam metilasi DNA dari gen-gen tertentu menyebabkan kondisi medis 
+jangka panjang yang merugikan.
+Coba, kalian cari tahu apakah penyebab hal tersebut? Diskusikan 
+bersama dengan teman kelompok kalian. Kemudian, presentasikan 
+hasil diskusi kalian di depan kelas. 
+BAB 2 Genetik dan Pewarisan Sifat 
+121
+UJI KOMPETENSI
+Pilihlah salah satu jawaban dengan cara memberi tanda silang pada huruf 
+a, b, c, d, dan e
+1.	 Promoter adalah segmen DNA yang berfungsi sebagai …
+a.	 tempat protein represor berikatan sehinga transkripsi tidak terjadi
+b.	 tempat protein represor berikatan sehingga transkripsi dapat terjadi
+c. 	 tempat awal terbentuknya proses replikasi DNA
+d.	 tempat awal RNA polimerase berikatan untuk proses translasi
+e.	 tempat awal RNA polimerase berikatan untuk proses transkripsi
+2.	 Genom adalah …
+a.	 kumpulan molekul DNA yang tersimpan secara sistematis di dalam sel
+b.	 kumpulan molekul RNA yang tersimpan secara sistematis di dalam sel
+c. 	 materi genetika di dalam suatu individu atau spesies, bersifat berubah-
+ubah sesuai umur individu tersebut
+d.	 materi genetika di dalam suatu individu atau spesies, bersifat tetap 
+tidak dipengaruhi waktu
+e.	 total informasi genetika yang dimiliki oleh suatu individu dan tersimpan 
+di dalam kromosom
+ 
+3.	 Kodon 5’ ACA 3’ ; 5’ ACU 3’ dan 5’ ACC 3’ dapat dikenali oleh antikodon...
+a.	 5’ IGU 3’                	 d.   5’ UGU 3’	 	
+	
+e.   5’ IGC 3’
+b.	 5’ GGU 3’              	 c.	 5’ UGI 3’ 
+4.	 Perhatikan gambar berikut ini.
+Pada gambar di atas, rantai bertanda (*) adalah
+a.	 Promoter                	
+d.   Lagging strand	
+	
+e.   Leading strand
+b.	 Fragmen Okazaki		
+c. 	 Template
+Biologi untuk SMA/MA Kelas XII
+122
+5.	 Salah satu perbedaan antara DNA dan RNA adalah ….
+a. 	 DNA: Menterjemahkan kode genetik; RNA: Menyusun kode genetik
+b. 	 DNA: Membentuk kodon; RNA: Membentuk kodogen
+c. 	 DNA: Mengandung basa urasil; RNA:Tidak mengandung basa urasil
+d. 	 DNA: Arsitek sintesa protein; RNA: Pelaksana sintesa protein
+e. 	 DNA: Berupa rantai tunggal; RNA: Berupa rantai ganda
+ 
+6.	 RNA ada 3 macam, yaitu r-RNA, m-RNA, dan t-RNA. Ketiganya mempunyai 
+komponen penyusun yang sama, tetapi fungsinya berbeda. Fungsi m-RNA 
+adalah ….
+a. 	 melakukan translasi dengan membawa pesan dari DNA
+b. 	 membantu DNA membentuk DNA baru di dalam inti sel
+c. 	 membawa pesan dari DNA dan disampaikan ke ribosom
+d. 	 menterjemahkan maksud r-RNA untuk dibuat rangkaian polinukleotida
+e. 	 menggabung-gabungkan asam amino dari t-RNA untuk dirangkai 
+menjadi protein
+ 
+7.	 Selama berlangsungnya tahap translasi pada sintesis protein terjadi 
+peristiwa…
+a. 	 Duplikasi rantai DNA	 	
+	
+	
+	
+d. 	 Pengenalan daerah gen DNA
+b. 	 Membukanya rantai DNA	
+	
+	
+e. 	 Penerjemahan mRNA oleh tRNA
+c. 	 Pencetakan mRNA oleh DNA
+8.	 Berikut ini bukan merupakan proses yang terjadi pada sintesis protein 
+adalah ....
+a. 	 RNAd keluar dari inti sel menuju ribosom
+b. 	 RNAd dibentuk oleh DNA di dalam sitoplasma
+c. 	 RNAt membawa asam amino menuju ribosom
+d. 	 DNA merancang sintesis protein
+e. 	 Di dalam ribosom terdapat RNAr
+ 
+9.	 Perhatikan diagram sintesis protein berikut!
+RNA duTA
+BAB 2 Genetik dan Pewarisan Sifat 
+123
+Pada diagram tersebut A, B, dan C berturut-turut adalah ….
+a. RNA duTA, RNA transfer, dan protein
+b. DNA, RNA transfer, dan polipeptida
+c.  RNA transfer, RNA duta, dan RNA ribosom
+d. Kodogen, kodon, dan anticodon
+e. Kodogen, RNA ribosom, dan asam amino
+ 
+10. Perhatikan gambar tahapan-tahapan mitosis berikut.
+(1)
+(2)
+(3)
+(4)
+Urutan tahapan-tahapan pembelahan mitosis yang tepat adalah ….
+a.   1-2-3-4                
+c.  3-2-4-1  
+ 
+e.  4-2-1-3
+b.   3-4-2-1                
+d.   2-3-4-1
+11. Fase metaphase mempunyai ciri-ciri sebagai berikut ....
+a. Kromosom bergerak ke arah kutub melalui benang gelendong
+b. Plasma sel mengalami penyempitan di bagian equator
+c. Plasma sel membentuk sekat di bagian equator
+d. Kromosom mulai tampak jelas, selaput inti menghilang
+e. Terbentuk benang gelendng dan kromosom tersusun pada bidang 
+pembelahan
+ 
+12. Membran nukleus dan nukleolus menghilang pada fase ....
+a. anafase 
+ 
+ 
+c.  profase 
+ 
+ 
+e. telophase
+b. metafase  
+ 
+d. interfase
+ 
+13. Perhatikan hal berikut ini.
+1. tujuan pembelahan  
+2. tempat pembelahan  
+3. susunan kromosom
+4. tahapan pembelahan
+5. besarnya ukuran sel yang membelah
+Mitosis dan meiosis dapat dibedakan dalam hal ….
+a. 1, 2, 3 dan 4 
+ 
+c. 1, 2 dan 5  
+ 
+e. nomor 5 saja
+b.    1, 2, 3 dan 5           d.  1, 3, dan 5
+ 
+Biologi untuk SMA/MA Kelas XII
+124
+14.	Gen-gen di bawah ini menyatakan bulu yang diwarisi oleh beberapa 
+hewan.
+Gen A bulu keriting (dominan) dan gen a bulu lurus (resesif)
+Gen B bulu hitam (dominan) dan gen b bulu putih (resesif)
+Hewan yang mewarisi gen AaBb akan memiliki fenotip ….
+a.	 lurus hitam	
+	
+	
+	
+	
+	
+b.	 keriting hitam	
+	
+c.	 lurus putih
+d.	 keriting putih
+e.	 keriting abu-abu
+ 
+15.	Tanaman mawar berbunga merah (dominan) disilangkan dengan tanaman 
+mawar berbunga putih (resesif), ternyata dihasilkan (F1) tanaman yang 
+semuanya berbunga….
+a.	 100% berbunga merah
+b.	 100% berbunga putih
+c.	 75% berbunga merah : 25% berbunga putih
+d.	 50% berbunga merah : 50% berbunga putih
+e.	 25% merah : 50% merah muda : :25% putih
+ 
+16.	Pada percobaan Mendel, tanaman kapri dengan fenotip tinggi dan bunga 
+di ketiak batang (TTBB) disilangkan dengan tanaman kapri dengan fenotip 
+pendek dan bunga di ujung batang (ttbb). Jika F1 mengalami penyerbukan 
+sendiri, peluang munculnya genotip Ttbb sebesar ….
+a.	 6,25%	 	
+	
+	
+	
+	
+b.	 12,5%	 	
+	
+c.	 25%
+d.	 50%
+e.	 75%
+17.	Tanaman labu bulat (B) dominan terhadap kisut, tinggi dominan (T) 
+terhadap rendah (t). Tanaman labu dengan genotip BbTt disilangkan Bbtt 
+dan menghasilkan keturunan sebanyak 240 tanaman.  Labu berfenotip 
+bulat tinggi akan dihasilkan sebanyak ….
+a.	 30
+b.	 60
+c.	 90
+d.	 120
+e.	 180
+ 
+BAB 2 Genetik dan Pewarisan Sifat 
+125
+18.	Diketahui seorang ayah dengan gen Aa (normal carrier) dan seorang ibu 
+juga dengan gen Aa (normal carrier). Dari perkawinan keduanya diperoleh 
+empat orang anak. Perbandingan anak-anaknya menjadi ….
+a.	 3 albino, 1normal
+b.	 3 normal, 1 albino
+c.	 tidak ada yang normal
+d.	 tidak ada yang albino
+e.	 semua albino
+ 
+19.	Duplikasi kromosom X pada laki-laki menghasilkan XXY yang muncul sekali 
+dalam 200 kelahiran. Orang dengan kelainan ini menderita sindrom ….
+a.	 Patau
+b.	 Turner
+c.	 Down
+d.	 Edwards
+e.	 Klinefelter
+ 
+20.	Di bawah ini yang termasuk penyebab mutasi yang termasuk faktor fisika 
+adalah ….
+a.	 kolkisin dan formalin
+b.	 bakteri dan virus
+c.	 sinar UV dan sinar radioaktif
+d.	 disinfektan dan sinar radioaktif
+e.	 virus dan formalin
+Biologi untuk SMA/MA Kelas XII
+126
+REFLEKSI
+Untuk meninjau ulang keseluruhan proses pembelajaran, lakukan refleksi 
+dengan menjawab pertanyaan-pertanyaan berikut!
+1.	
+Apa sajakah yang sudah kalian pahami pada pembelajaran ini?
+2.	
+Apa sajakah yang belum kalian pahami pada pembelajaran ini?
+3.	
+Apakah yang menyebabkan kalian belum menguasai bagian tertentu 
+pada pembelajaran ini?
+4.	
+Upaya yang akan kalian dilakukan untuk mengatasi bagian yang belum 
+dikuasai pada pembelajaran ini?
+5.	
+Apa saja manfaat yang kalian peroleh pada pembelajaran ini?
+PENGAYAAN
+Gen Buat Orang Korea Tidak Bau Badan
+Bau badan atau bau ketiak memang terkadang menjengkelkan. Ada beberapa 
+orang yang punya masalah ini sehingga membuat mereka tidak percaya diri. 
+Pada suhu udara yang panas, keringat biasanya tidak terhindarkan. Berbagai 
+hal pun dilakukan demi tidak bau badan. Namun tahukah Anda kalau ternyata 
+orang Korea tak punya masalah dengan bau badan? Di musim panas, orang 
+Korea tidak perlu khawatir tentang bau badan dan ketiak ketika mereka 
+berkeringat. Menurut penelitian di Universitas Bristol, orang Korea bermutasi 
+secara genetik dalam soal bau badan. Penelitian menyebut bahwa mereka 
+memiliki masalah keringat yang lebih sedikit dibanding orang pada umumnya.
+Mengutip The Korea Times, hal ini disebabkan oleh gen bau badan, 
+ABCC11. Studi menyebut hanya 0,006 persen orang Korea yang memiliki gen 
+gen ABCC11, yang menjadi penyebab utama di balik masalah bau. Penelitian 
+ini didasarkan pada Allel Frequency Database (ALFRED), database gen yang 
+dirancang oleh Universitas Yale. Para peneliti mengatakan rasio Korea adalah 
+yang terendah di dunia.
+“Gen ABCC11 pada dasarnya adalah satu-satunya penentu apakah Anda 
+menghasilkan bau ketiak atau tidak,” kata Ian Day, seorang ahli epidemiologi 
+genetika di University of Bristol yang menerbitkan sebuah makalah tentang 
+gen ABCC11 pada Live science. “Penelitian menunjukkan bahwa saat ini hanya 
+BAB 2 Genetik dan Pewarisan Sifat 
+127
+2 persen orang Eropa tidak memiliki gen bau badan, sebagian besar orang Asia 
+Timur dan hampir semua orang Korea hanya sedikit yang punya gen ini.” Hal 
+serupa ternyata juga dibenarkan oleh Dr. Joshua Zeichner, direktur penelitian 
+kosmetik dan klinis di Departemen Dermatologi, Rumah Sakit Mount Sinai. 
+“Sebagian besar pasien Korea mengalami mutasi yang disebut ABCC11 
+yang mengubah komposisi keringat sehingga mereka tidak menghasilkan 
+bau badan.”
+Bau badan dihasilkan ketika keringat dipecah oleh bakteri yang hidup 
+secara alami di kulit. Tergantung pada komposisi keringat, bau mungkin 
+berbeda atau tidak berbau sama sekali ketika dipecah oleh bakteri. Mutasi 
+sama sekali tidak mengubah produksi keringat, untuk jadi basah itu sendiri 
+tidak terpengaruh.
+Sumber: CNN Indonesia (2020)
+Setelah membaca uraian di atas, jawablah pertanyaan-pertanyaan berikut.
+1.	
+Apa yang menyebabkan orang korea tidak memiliki bau badan? Jelaskan!
+2.	
+Bagaimana dengan orang Indonesia (Asia Tenggara), apakah memiliki gen 
+bau badan? Cobalah lakukan studi literatur lanjutan!
+Biologi untuk SMA/MA Kelas XII
+128
+Ini bukan yang terkuat dari spesies 
+yang bertahan, juga bukan yang 
+paling cerdas, tetapi yang paling 
+responsif terhadap perubahan.
+--Charles Darwin

@@ -1,0 +1,2120 @@
+1
+Bab I  LARUTAN DAN KOLOID
+Bab
+I
+LARUTAN 
+DAN KOLOID
+Setelah mempelajari bab ini, kalian akan mampu menguasai materi larutan 
+asam basa, kesetimbangan dalam larutan, sifat koligatif larutan, dan koloid 
+melalui berbagai aktivitas individu dan kelompok.
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XII
+Penulis	 : 	Galuh Yuliani, dkk
+ISBN	
+: 	978-602-427-968-4 (jil.2)
+2
+Kimia untuk SMA/MA Kelas XII
+LARUTAN 
+DAN 
+KOLOID
+KOLOID
+Jenis Koloid
+Sifat Koloid
+Cara Pembuatan 
+Koloid
+LARUTAN
+ASAM BASA
+Sifat dan Konsep 
+Asam Basa
+Kekuatan dan pH 
+Asam Basa
+Kekuatan Asam Basa
+pH Asam Basa
+Asam Basa Lemah
+Hidrolisis Garam
+Larutan Penyangga
+Titrasi Asam Basa
+Stoikiometri Larutan
+Konsentrasi Larutan
+Penurunan Tekanan Uap
+Penurunan Titik Beku
+Kenaikan Titik Didih
+Tekanan Otomatis
+Kelarutan dan Hasil 
+Kali Kelarutan
+Konsep 
+Asam Basa
+Arrhenius
+Bronsted-Lowry
+Lewis
+Sifat Asam 
+Basa
+KESETIMBANGAN 
+DALAM LARUTAN
+SIFAT KOLIGATIF 
+LARUTAN
+Kalian pasti pernah mendengar kata larutan dalam kehidupan sehari-
+hari. Dalam mata pelajaran baik IPA maupun Kimia, materi tentang 
+larutan pernah dipelajari. Apakah kalian masih ingat? Untuk mengingat 
+kembali mengenai hal tersebut, coba lakukan aktivitas berikut ini.
+Aktivitas 1.1
+Campurkan air dengan gula pasir, garam dapur, kapur tulis yang 
+telah dihaluskan, dan susu bubuk ke dalam empat gelas yang berbeda. 
+Amatilah kondisi campuran tersebut, seperti warna dan kejernihan 
+setiap campuran.
+Tuliskan hasil pengamatan kalian. Diskusikan bersama teman kalian. 
+Sampaikan perbedaan kondisi campuran tersebut di depan kelas dan 
+hubungkan dengan pengertian larutan.
+Mind Map
+3
+Bab I  LARUTAN DAN KOLOID
+Dari Aktivitas 1.1 di atas, kalian telah mengingat kembali mengenai 
+larutan dan perbedaannya dengan campuran lain. Larutan dapat 
+dibagi menjadi beberapa golongan. Berdasarkan daya hantar listriknya, 
+larutan dibagi menjadi dua kelompok yaitu larutan elektrolit dan 
+larutan nonelektrolit. Larutan elektrolit merupakan larutan yang 
+dapat menghantarkan arus listrik sedangkan larutan nonelektrolit 
+tidak dapat menghantarkan arus listrik. Sifat larutan ini digunakan 
+dengan kurang bijak oleh sebagian orang seperti terlihat pada Gambar 
+1.1. Menurut kalian, apakah menangkap ikan dengan setrum selaras 
+dengan sikap peduli terhadap lingkungan?
+Gambar 1.1	 Seorang warga sedang menyetrum ikan (KKP, 2016)
+Sumber: news.kkp.go.id (2016)
+Kegiatan yang ditampilkan dalam gambar 1.1 menunjukkan bahwa 
+air sungai dapat bersifat elektrolit karena dapat menghantarkan 
+arus listrik sehingga bisa menyetrum ikan. Larutan elektrolit dapat 
+4
+Kimia untuk SMA/MA Kelas XII
+menghantarkan arus listrik disebabkan oleh adanya ion-ion yang 
+bergerak bebas di dalam larutan. Ion-ion tersebut dapat dihasilkan dari 
+proses disosiasi ataupun ionisasi zat terlarut oleh air sebagai pelarut. 
+Apabila zat terlarut mengalami penguraian sempurna, maka larutan 
+tersebut disebut sebagai larutan elektrolit kuat. Sedangkan, apabila zat 
+terlarut pada larutan tersebut hanya sebagian yang terurai menjadi 
+ion-ionnya, maka larutan tersebut disebut larutan elektrolit lemah. 
+Dengan menggunakan elektrolit tester, larutan elektrolit kuat biasanya 
+ditandai dengan nyala lampu yang terang sedangkan larutan elektrolit 
+lemah ditandai dengan nyala lampu yang redup atau tidak menyala. 
+Pembahasan lebih lanjut mengenai larutan elektrolit akan kalian 
+dapatkan pada bab berikutnya.
+Air merupakan pelarut yang sangat efektif untuk melarutkan 
+senyawa ionik. Meskipun merupakan molekul elektrik netral, air 
+memiliki domain/kutub positif (atom H) dan domain/kutub negatif 
+(atom O). Ketika senyawa ionik seperti natrium klorida (NaCl) dilarutkan 
+dalam air, gaya elektrostatik antara kation dan anion akan terganggu. 
+Ion Na+ dan Cl– dipisahkan satu sama lain dengan proses hidrasi yaitu 
+proses tersebarnya molekul air di sekitar ion secara spesifik. Setiap ion 
+Na+ (kation) dikelilingi oleh sejumlah molekul air yang mengarahkan 
+kutub negatifnya (atom O dari H2O) ke arah kation Na+. Demikian 
+pula setiap ion Cl– (anion) dikelilingi oleh molekul air dengan kutub 
+positifnya (atom H dari H2O) berorientasi ke arah Cl– (Gambar 1.2). 
+Hidrasi membantu menstabilkan ion dalam larutan dan mencegah 
+kation bergabung kembali dengan anion.
+5
+Bab I  LARUTAN DAN KOLOID
+Gambar 1.2	 Proses hidrasi ion Na+ dan Cl– (Chang hal. 123) 
+Larutan asam, basa, dan garam merupakan larutan elektrolit. 
+Beberapa larutan asam, seperti asam klorida (HCl), asam nitrat (HNO3) 
+dan asam sulfat (H2SO4) merupakan larutan elektrolit kuat. Asam-asam 
+ini terionisasi sepenuhnya dalam air seperti terlihat pada persamaan 
+reaksi ionisasi HCl berikut ini.
+HCl(g) → H+(aq) + Cl–(aq)
+Penguraian suatu senyawa menjadi ion-ionnya dapat dikategorikan 
+menjadi dua jenis penguraian yaitu disosiasi dan ionisasi. Disosiasi 
+adalah proses pemisahan kation dan anion dari senyawa ionik 
+sedangkan ionisasi adalah proses pembentukan ion-ion dari senyawa 
+kovalen. Contoh dari proses disosiasi dan ionisasi zat terlarut dapat 
+dilihat melalui beberapa persamaan reaksi berikut ini.
+Disosiasi :
+NaCl(aq) → Na+(aq) + Cl–(aq)
+KOH(aq) → K+(aq) + OH–(aq)
+6
+Kimia untuk SMA/MA Kelas XII
+Ionisasi  :
+H2SO4(aq) → 2H+(aq) + SO4
+2–(aq)	
+NH3(g) + H2O(l) ⇌ NH4
++(aq) + OH–(aq)	
+CH3COOH(aq) ⇌ CH3COO-(aq) + H+(aq)
+Pada berbagai persamaan reaksi di atas, ada reaksi-reaksi yang 
+menggunakan tanda panah searah dan ada juga reaksi-reaksi yang 
+menggunakan tanda panah kesetimbangan. Tanda panah searah 
+menunjukkan bahwa proses disosiasi/ionisasi terjadi secara sempurna 
+sedangkan tanda panah kesetimbangan menunjukkan bahwa proses 
+ionisasi terjadi hanya sebagian. Konsep kesetimbangan yang telah 
+kalian pelajari di kelas XI akan sangat berguna dalam mempelajari bab 
+ini.
+Beberapa proses terpenting dalam sistem kimia dan biologi adalah 
+reaksi asam basa dalam pelarut air. Oleh karena itu, pada bagian ini 
+akan dibahas hal-hal yang berkaitan dengan asam basa.
+A.	 Sifat dan Konsep Asam Basa
+Gambar 1.3	 Seorang petani sedang menaburkan dolomit di kebun
+Sumber: ISTIMEWA/tabloidsinartani.com (2019)
+7
+Bab I  LARUTAN DAN KOLOID
+Perhatikan Gambar 1.3 di atas. Apakah kalian tahu tujuan petani 
+menaburkan dolomit tersebut? Diskusikan dengan teman kalian.
+Dalam 
+kehidupan 
+sehari-hari, 
+kalian 
+pasti 
+sangat 
+sering 
+berhubungan dengan produk yang bersifat asam maupun basa 
+misalnya seperti yang terlihat pada Gambar 1.4 di bawah ini.
+Gambar 1.4	 Beberapa zat dan produk yang bersifat asam dan basa 
+Pada saat kelas X atau SMP, kalian pernah mempelajari mengenai 
+sifat asam dan basa. Sifat asam atau basa dari suatu zat dapat 
+diidentifikasi melalui berbagai cara seperti tertera pada Tabel 1.1 
+berikut.
+Tabel 1.1 Perbandingan asam dan basa
+Asam
+Basa
+Rasa masam
+Rasa pahit 
+Bersifat korosif (merusak logam)
+Bersifat kaustik (licin di kulit)
+Mengubah warna lakmus biru 
+menjadi merah
+Mengubah warna lakmus merah 
+menjadi biru
+pH larutan < 7
+pH larutan > 7
+Selain berdasarkan sifat di atas, ada beberapa metode atau 
+cara yang bisa kalian lakukan secara mandiri salah satunya adalah 
+8
+Kimia untuk SMA/MA Kelas XII
+menggunakan indikator asam basa. Indikator asam basa adalah zat 
+yang memiliki penampakan berbeda ketika diberikan suasana asam 
+atau basa. Indikator asam basa dapat dibedakan menjadi dua jenis 
+berdasarkan sumbernya yaitu indikator alami dan indikator buatan. 
+Banyak bahan alami yang dapat kita gunakan untuk mengetahui sifat 
+asam atau basa dari suatu zat. Lakukan aktivitas berikut untuk menguji 
+sifat asam dan basa dari benda-benda di sekitar kalian.
+Aktivitas 1.2
+Untuk menguji kemampuan beberapa bahan alam dalam 
+mengidentifikasi asam basa, coba lakukan kegiatan berikut ini.
+ Buatlah kelompok terdiri dari 4-5 orang
+	 Cari literatur mengenai bahan alam apa saja yang dapat dijadikan 
+indikator asam basa
+ Buatlah minimal 5 indikator asam-basa dari bahan alam yang 
+paling mudah kalian temukan
+	 Ujilah asam cuka (mewakili asam) dan antasida (mewakili basa) 
+dengan masing-masing indikator yang telah disiapkan
+ Buat tabel dan catat setiap perubahan warna dalam tabel tersebut
+ Ujilah minimal 4 zat lain yang mudah kalian temukan, misalnya air 
+keran, air jeruk, pemutih pakaian, dan lain-lain.
+Konsep mengenai asam-basa berkembang sesuai dengan penemuan 
+dan konsep terbaru yang menyertainya. Pada bagian ini akan dibahas 
+tiga konsep asam basa yaitu menurut Arrhenius, Bronsted-Lowry, dan 
+Lewis.
+9
+Bab I  LARUTAN DAN KOLOID
+1.	 Asam Basa Arrhenius
+Konsep asam basa Arrhenius meninjau konsep larutan dalam pelarut 
+air. Air sendiri dapat mengalami swaionisasi sesuai persamaan reaksi 
+berikut:
+H2O(l) + H2O(l) ⇌ H3O+(aq) + OH–(aq)
+atau
+H2O(l) ⇌ H+(aq) + OH-(aq)
+Dari persamaan tersebut, air akan selalu memiliki jumlah H+ dan 
+OH- sama. Apabila suatu zat terlarut menambah jumlah H3O+ atau H+ 
+dalam air, maka larutan tersebut disebut larutan asam sedangkan 
+apabila menambah konsentrasi OH–, maka larutan tersebut disebut 
+larutan basa.
+HCl(g) + H2O(l) → H3O+(aq) + Cl–(aq)
+NaOH(aq) → Na+(aq) + OH–(aq)
+Dari persamaan reaksi di atas, kita dapat menyimpulkan bahwa 
+HCl merupakan asam karena menghasilkan ion H3O+ dalam air dan 
+NaOH termasuk basa karena menghasilkan OH–. 
+Selain memiliki sifat asam dan basa, dalam konsep Arrhenius ada 
+juga zat yang bersifat amfoter, yaitu zat yang dapat bereaksi dengan 
+asam dan basa. Contoh zat yang bersifat amfoter adalah Be(OH)2 dan 
+Al(OH)3. Perhatikan reaksi berikut ini.
+                  Al(OH)3(aq) ⇌ Al3+(aq) + 3OH–(aq)                     (suasana asam)
+                 Al(OH)3(aq) + H2O(l) ⇌ Al(OH)4
+–(aq) + H+(aq)   (suasana basa)
+Reaksi pertama menunjukkan bahwa Al(OH)3 bertindak sebagai 
+basa, sedangkan reaksi kedua menunjukkan bahwa Al(OH)3 yang 
+bertindak sebagai asam. Kedua sifat ini dapat muncul tergantung pada 
+kondisi yang berbeda.
+10
+Kimia untuk SMA/MA Kelas XII
+2.	 Asam Basa Brønsted-Lowry
+Definisi Arrhenius terbatas untuk larutan dengan pelarut air. Definisi 
+yang lebih luas diusulkan oleh ahli kimia Denmark bernama Johannes 
+Brønsted dan Thomas Lowry pada tahun 1932. Menurut konsep ini, 
+asam adalah donor proton (H+), sedangkan basa adalah akseptor proton 
+(H+). Konsep Brønsted-Lowry tidak memerlukan larutan asam dan basa 
+dalam air. Meskipun demikian, konsep asam basa Arrhenius tidak 
+bertentangan dengan konsep asam basa Brønsted-Lowry.
+Perhatikan contoh reaksi berikut ini.
+NH3(aq) + H2O(l) ⇌ NH4
++(aq) + OH–(aq)
+Ditinjau dari konsep Brønsted-Lowry, NH3 bertindak sebagai basa 
+karena NH3 menerima proton dari H2O sehingga membentuk ion NH4
++, 
+sedangkan H2O sebagai pendonor proton akan bertindak sebagai asam 
+seperti terlihat di bawah ini.
+Pasangan Konjugasi
+Pasangan Konjugasi
+Basa
+Basa
+Asam
+Asam
+NH3(aq) + H2O(l) ⇌ OH–(aq) + NH4
++(aq)
+Spesi-spesi (molekul atau ion) yang memiliki selisih satu proton 
+disebut sebagai pasangan asam basa terkonjugasi. Dari reaksi di atas, 
+NH3 dan NH4
++ adalah pasangan asam basa terkonjugasi karena molekul 
+NH3 memiliki selisih satu proton daripada NH4
++. Selain itu, molekul 
+H2O memiliki selisih satu proton dengan OH– sehingga keduanya juga 
+disebut pasangan asam basa terkonjugasi. Perhatikan bahwa spesi 
+yang bersifat asam dari pasangan tersebut selalu memiliki satu H+ lebih 
+banyak daripada basanya.
+Beberapa spesi dapat bersifat asam atau basa tergantung pada zat lain 
+yang dicampur dengannya. Misalnya, pada reaksi di bawah ini air (H2O) 
+berperilaku sebagai basa karena menerima proton dari molekul HCOOH.
+11
+Bab I  LARUTAN DAN KOLOID
+Pasangan Konjugasi
+Pasangan Konjugasi
+Asam
+Asam
+Basa
+Basa
+HCOOH(aq) + H2O(l) ⇌ H3O+(aq) + HCOO–(aq)
+Suatu spesi yang dapat bertindak sebagai donor dan akseptor 
+proton disebut spesi amfiprotik. 
+3.	 Asam-Basa Lewis
+Kedua konsep asam-basa sebelumnya, menekankan adanya ion yang 
+terlibat baik H+ maupun OH– serta donor-akseptor proton. Akan tetapi, 
+ada banyak reaksi yang tidak melibatkan kedua hal tersebut. 
+Untuk mejelaskan fenomena tersebut, G.N. Lewis mengajukan 
+teori mengenai asam basa. Dalam teorinya, Lewis mengatakan bahwa 
+asam adalah spesi yang menerima pasangan elektron bebas untuk 
+membentuk ikatan kovalen koordinasi sedangkan basa adalah spesi 
+yang memberikan pasangan elektron bebas agar ikatan kovalen 
+koordinasi terbentuk.
+terbentuk ikatan 
+kovalen koordinasi
+Pada contoh reaksi di atas, NH3 bertindak sebagai basa Lewis 
+karena menjadi sumber pasangan elektron ikatan kovalen koordinasi, 
+sedangkan BF3 bertindak sebagai asam Lewis karena menerima 
+pasangan elektron. 
+Dari konsep asam basa Lewis ini, suatu senyawa oksida dapat 
+ditentukan pula sifat asam atau basanya. Umumnya, oksida logam 
+bertindak sebagai basa sedangkan oksida nonlogam bertindak sebagai 
+asam. Misalnya, reaksi antara SO3 dengan CaO. Senyawa SO3 merupakan 
+12
+Kimia untuk SMA/MA Kelas XII
+oksida asam karena bertindak sebagai penerima pasangan elektron, 
+sedangkan CaO bersifat basa karena bertindak sebagai pemberi 
+pasangan elektron. 
+Ca2+
+O
+O
++
+O
+O
+S
+Ca2+
+O
+O–
+O–
+O
+Ayo Berlatih
+1.	 Tentukan apakah zat berikut merupakan asam atau basa 
+berdasarkan konsep Arrhenius!
+a.	
+HF
+b.	
+Ca(OH)2 
+c.	
+H2CO3 
+d.	
+Fe(OH)3 
+2.	 Tentukanlah asam, basa, asam konjugasi, dan basa konjugasi 
+dari reaksi-reaksi berikut!
+a. 	 HI + H3PO4 ⇌ H4PO4
++ + I– 
+b.	
+HSO4
+– + HNO3 ⇌ H2SO4 + NO3
+– 
+3.	 Pada pembentukan HCO3
+– dari OH– dan CO2, tentukan asam 
+Lewis dan basa Lewisnya. Gambarkan melalui struktur Lewis!
+B.	 Kekuatan dan pH Asam Basa
+Dalam mempelajari asam basa, kita perlu mengetahui kekuatan dan pH 
+asam basa. Kedua konsep tersebut akan membantu kita untuk memilih 
+asam atau basa mana yang sesuai untuk keperluan tertentu. 
+13
+Bab I  LARUTAN DAN KOLOID
+1.	 Kekuatan asam dan basa
+Kekuatan asam dipengaruhi oleh sejumlah faktor, seperti sifat asam 
+pelarut, temperatur, dan struktur molekulnya. Ketika membandingkan 
+kekuatan dua senyawa asam, kita dapat menggunakan pelarut, 
+temperatur dan konsentrasi yang sama sehingga kita hanya fokus pada 
+pengaruh struktur asam.
+Dilihat dari strukturnya, kekuatan asam dapat dilihat dari 
+kemudahannya untuk terionisasi. Kita ambil contoh umum untuk asam 
+sebagai HA dan reaksi ionisasinya dapat kita lihat di bawah ini.
+HA → H+ + A–
+Terdapat dua faktor yang mempengaruhi kemudahan ionisasi 
+pada asam. Salah satunya adalah kekuatan ikatan H–A. Semakin kuat 
+ikatannya, semakin sulit molekul HA untuk terurai dan kekuatan 
+asamnya menjadi lebih lemah. Faktor lainnya adalah polaritas dari 
+ikatan H–A. Perbedaan elektronegativitas antara H dan A akan 
+menghasilkan ikatan polar. Jika ikatan sangat polar, HA akan semakin 
+mudah terurai menjadi ion H+ dan A–. Jadi, tingkat kepolaran yang 
+tinggi menandakan asam yang lebih kuat. 
+Untuk asam halida, faktor kekuatan ikatan adalah faktor yang 
+paling berpengaruh terhadap kekuatan asamnya. Apabila diurutkan 
+kekuatan ikatan H–F > H–Cl > H–Br > H–I, sehingga urutan kekuatan 
+asam untuk asam halida menjadi H–F < H–Cl < H–Br < H–I. Dari hasil 
+eksperimen diketahui bahwa asam fluorida (HF) merupakan asam 
+lemah, sedangkan asam halida lain merupakan asam kuat.
+Selain asam halida, terdapat jenis asam lain yaitu asam okso yang 
+mengandung oksigen dalam senyawanya. Beberapa contoh asam okso 
+disajikan pada Gambar 1.5. Untuk asam okso, kekuatan asam lebih 
+ditentukan oleh keelektronegatifan dan banyaknya atom oksigen yang 
+terikat dengan atom pusat. 
+14
+Kimia untuk SMA/MA Kelas XII
+Gambar 1.5	 Struktur beberapa asam okso
+Pada Gambar 1.5 atom pusat N, S, dan P dapat dilambangkan sebagai 
+X. Semakin banyak oksigen yang terikat pada atom pusat X seperti pada 
+asam sulfat (H2SO4) dan asam sulfit (H2SO3), maka semakin kovalen 
+ikatan X–O dan semakin polar ikatan O–H. Hal ini menyebabkan H+ 
+lebih mudah lepas dan membuat zat tersebut semakin asam. Akan 
+tetapi, apabila jumlah O yang diikat oleh atom pusat X adalah sama, 
+maka penentu kekuatan asam kembali kepada elektronegativitas atom 
+pusat. Oleh karena itu, asam posfat (H3PO4) memiliki keasaman yang 
+lebih lemah dibandingkan dengan asam sulfat (H2SO4).
+Ayo Berlatih
+Bandingkan keasaman dari senyawa-senyawa berikut ini!
+a.	
+HClO3 dan HBrO3 
+b.	
+HClO3 dan HClO4
+2.	 pH asam dan basa
+Dalam menentukan asam atau basa, di awal bab ini kalian sudah 
+mengingat mengenai pH. Untuk memahami konsep pH secara utuh, 
+kita perlu mempelajari terlebih dahulu mengenai swaionisasi air. 
+15
+Bab I  LARUTAN DAN KOLOID
+Pernahkah kalian membayangkan berapa banyak molekul dalam 
+segelas air? Apabila satu tetes air diasumsikan sama dengan 1/20 ml. Coba 
+kalian hitung dalam setetes air tersebut berapa banyak molekul air?
+Lihat kembali persamaan reaksi swaionisasi air yang telah 
+dituliskan pada konsep Arrhenius. 
+H2O(l) + H2O(l) ⇌ H3O+(aq) + OH-(aq)
+atau
+H2O(l) ⇌ H+(aq) + OH-(aq)
+Dari hasil pengukuran pH, Air murni merupakan senyawa yang 
+bersifat netral. Hal ini disebabkan karena konsentrasi H3O+ dan OH– 
+sama. Pada kondisi asam, konsentrasi H3O+ lebih besar daripada 
+konsentrasi OH–, sedangkan pada kondisi basa konsentrasi H3O+ lebih 
+kecil daripada konsentrasi OH–. 
+Pada air murni dengan temperatur 25oC, konsentrasi H3O+ dan OH– 
+adalah 1 × 10–7 M. Dengan menggunakan konsep tetapan kesetimbangan, 
+dapat dituliskan persamaan berikut.
+Kc = [H3O+][ OH–] 
+Pada reaksi swaionisasi air koefisien H3O+ = OH–, maka [H3O+] = [OH–], 
+sehingga
+Kc = [H3O+]2 = [OH–] 2
+Kc = [1 × 10–7]2 = [1 × 10–7]2
+Kc = 1 × 10–14  
+Dari persamaan di atas, diketahui bahwa pada temperatur 25oC 
+nilai tetapan kesetimbangan swaionisasi air adalah 1 × 10–14 M. Tetapan 
+kesetimbangan (Kc) untuk proses ini kemudian disebut dengan Kw. 
+Untuk mencari nilai [H3O+] atau [OH–] pada kondisi tidak netral, 
+kalian dapat gunakan
+[H3O+] =
+Kw
+[OH–] 
+  dan [OH-] =
+Kw
+[H3O+] 
+Untuk perhitungan praktis, [H3O+] dapat pula diganti dengan [H+].
+16
+Kimia untuk SMA/MA Kelas XII
+Contoh
+Diketahui konsentrasi ion OH–  pada salah satu cairan pembersih adalah 
+0,0025 M. Hitunglah konsentrasi ion H3O+ dalam larutan tersebut!
+Jawab: 
+Untuk memudahkan proses perhitungan, maka konsentrasi ion OH–  
+yang berupa desimal dapat dinyatakan dalam bentuk 2,5 × 10–3 M.
+H
+=
+OH
+= 1 10
+2,5 10
+=0,4 10
+=4 10
+M
+14
+3
+11
+12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kw
+Konsentrasi H+ dan OH– di dalam larutan sangat kecil sehingga 
+kurang praktis digunakan untuk menentukan kondisi keasaman dari 
+suatu larutan. Seorang ilmuwan bernama Soren P. L. Sorensen (1909) 
+mengajukan suatu cara penentuan keasaman yang kemudian disebut 
+pH yang merupakan negatif logaritma dari konsentrasi ion hidrogen 
+dalam larutan (mol/l).
+pH = –log [H3O+] atau pH = –log [H+]
+Dengan menggunakan persamaan tersebut, pada temperatur 25oC 
+kita dapat simpulkan bahwa
+Larutan netral, [H+] = 1 × 10–7, pH = 7;
+Larutan asam, [H+] > 1 × 10–7, pH < 7;
+Larutan basa, [H+] < 1 × 10–7, pH > 7.
+Dengan melihat kecenderungan dari informasi sebelumnya, kita 
+dapat simpulkan bahwa pH meningkat seiring menurunnya [H+]. 
+Sebaliknya, apabila [H+] meningkat, maka pH akan semakin menurun.
+Apabila informasi yang kalian miliki adalah pH dan ingin 
+mengetahui nilai [H+], maka dapat menggunakan antilog
+[H+] = 10–pH dan [OH–] = 10–pOH  
+Alat untuk mengukur pH di laboratorium adalah pH meter. 
+Selain itu, indikator universal dapat memprediksi pH berdasarkan 
+17
+Bab I  LARUTAN DAN KOLOID
+perbandingan warna indikator yang telah dicelupkan ke dalam larutan 
+dengan warna standar seperti tertera pada Gambar 1.6 berikut ini.
+Gambar 1.6	 pH meter dan indikator universal 
+Sumber: N Rotteveel/Getty Images–Canva for education (2022)
+3.	 pH Asam Kuat dan Basa Kuat
+Di dalam larutan, asam dan basa kuat akan terurai sempurna. Oleh 
+karena itu, menentukan pH asam dan basa kuat relatif sederhana.
+Perhatikan contoh berikut ini. 
+HCl(aq) → H+(aq) + Cl–(aq) 
+Apabila konsentrasi HCl adalah 0,1 M, dengan menggunakan 
+perbandingan koefisien, maka [H+] dari larutan HCl tersebut adalah 0,1 
+M atau dapat ditulis [H+] = 1 × 10–1 M. 
+pH = –log [H+] = –log 1 × 10–1 = 1
+18
+Kimia untuk SMA/MA Kelas XII
+HCl memiliki valensi (jumlah H+) sama dengan 1, sehingga [H+] = [HCl]. 
+Untuk asam bervalensi lebih dari satu, maka dapat disederhanakan 
+menjadi:
+[H+] = [asam] × valensi
+Untuk basa kuat, hal tersebut berlaku juga, sehingga untuk mencari 
+[OH–] dari basa kuat dapat dituliskan sebagai
+[OH–] = [basa] × valensi
+Ayo Berlatih
+1. 	 Tentukanlah pH dari:
+a.	 HBr 0,01 M
+b.	 H2SO4 0,1 M
+c.	 22,4 ml gas HCl (STP) yang dialirkan ke dalam 1 l air
+d.	 5,6 gram KOH (Ar K = 39, O = 16, H = 1) yang dilarutkan ke 
+dalam air sehingga volumenya menjadi 2 l.
+e.	 1,71 gram Ba(OH)2 (Ar Ba = 137, O = 16, H = 1) yang 
+dilarutkan ke dalam air sehingga volumenya menjadi 500 
+ml.
+2.	
+Berapa pH dari larutan HCl 10 M dan 10–8 M?
+C.	 Kesetimbangan dalam Larutan
+Tidak semua zat terlarut dapat terurai dengan sempurna di dalam 
+larutannya. Asam lemah dan basa lemah serta garam yang sulit 
+larut dalam air mengalami penguraian sebagian. Di dalam larutan 
+tersebut terdapat kesetimbangan antara senyawa dengan ion-ion hasil 
+penguraiannya. Berikut ini kesetimbangan yang terdapat di dalam 
+larutan.
+19
+Bab I  LARUTAN DAN KOLOID
+1.	 Asam lemah dan basa lemah
+Asam lemah dan basa lemah sebenarnya sangat erat dengan kehidupan 
+kita sehari-hari. Pernahkah kalian menggunakan asam cuka ketika 
+makan mie bakso? Asam cuka adalah salah satu contoh asam lemah 
+yang sering kita temui. Selain itu, salah satu bahan pengawet yaitu 
+asam benzoat juga sering digunakan dalam berbagai produk makanan 
+dan minuman. Oleh karena itu, pembahasan mengenai asam lemah dan 
+basa lemah dapat dianggap sebagai usaha untuk mencoba memahami 
+keseharian kita.
+Asam lemah maupun basa lemah di dalam larutannya hanya terurai 
+sebagian menjadi ion-ionnya. Penguraian tersebut dapat dituliskan 
+melalui contoh sebagai berikut.
+HF(aq) + H2O(l) ⇌ H3O+(aq) + F–(aq)
+NH3(aq) + H2O(l) ⇌ NH4
++(aq) + OH–(aq)
+Persamaan tetapan kesetimbangan untuk reaksi pertama adalah 
+Kc 
+
+ 
+
+
+ 
+
+
+
+H O
+F
+HF
+H O
+3
+2
+, ingat bahwa [H2O] tetap sehingga Kc × [H2O] = 
+HF
+O
+F
+H3
++
+-
+6
+5
+5
+@
+?
+? .
+Untuk senyawa asam, Kc × [H2O] diganti dengan tetapan baru yang 
+dikenal dengan Ka.
+Dengan melihat persamaan reaksi ionisasi HF di atas, maka dapat 
+dilihat bahwa [H+] akan sama dengan [F–] karena koefisien kedua ion 
+tersebut sama sehingga persamaan tetapan kesetimbangan di atas 
+dapat diubah menjadi
+K
+K
+a
+a
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+H O
+F
+HF
+H O
+HF
+H O
+HF
+3
+3
+2
+3
+2
+.
+H O
+HF
+3
+
+
+
+
+
+Ka .
+Apabila digeneralisasi kepada asam-asam lemah lain, maka untuk 
+mencari [H+] suatu asam lemah dapat menggunakan persamaan
+H
+asamlemah
+
+
+
+
+
+Ka .
+20
+Kimia untuk SMA/MA Kelas XII
+Metode lain untuk menentukan [H+] dari asam lemah adalah dengan 
+menggunakan derajat ionisasi melalui langkah berikut. Derajat ionisasi 
+(α) adalah perbandingan jumlah zat yang mengalami penguraian 
+dengan jumlah zat awal.
+HF(aq)
++
+H2O(l)
+⇌
+H3O+(aq)
++
+F– (aq)
+Mula-mula          : [HF]awal
+-
+-
+Bereaksi              : α . [HF]awal
+~
+α . [HF]awal
+Kesetimbangan :
+α . [HF]awal
+Dengan memperhatikan langkah pada metode tersebut maka dapat 
+disimpulkan bahwa
+[H+] = α . [asam lemah]awal
+Aktivitas 1.3
+Coba kalian lakukan penurunan rumus mencari [OH–] dari basa lemah 
+dengan melihat penjelasan untuk asam lemah di atas.
+Pada asam dan basa lemah, nilai tetapan kesetimbangan dan nilai 
+derajat ionisasi dapat menentukan kekuatan asam dan basanya. Pada 
+senyawa asam lemah semakin besar nilai Ka dan α maka semakin kuat 
+sifat asamnya, sedangkan pada basa lemah semakin besar nilai Kb dan α 
+maka semakin kuat sifat basanya. Tabel 1.2 di bawah ini menunjukkan 
+nilai Ka dan Kb dari beberapa senyawa.
+Tabel 1.2 Nilai Ka dan Kb beberapa senyawa asam dan basa lemah pada 25 oC.
+Senyawa
+Ka
+Senyawa
+Kb 
+Asam fluorida, HF
+6,6 × 10–4 
+Amonia, NH3 
+1,8 × 10–5 
+Asam asetat, 
+CH3COOH
+1,8 × 10–5 
+Metilamina, 
+CH3NH2 
+4,4 × 10–4
+21
+Bab I  LARUTAN DAN KOLOID
+Senyawa
+Ka
+Senyawa
+Kb 
+Asam format, HCOOH
+1,7 × 10–4 
+Anilina, 
+C6H5NH2 
+3,8 × 10–10
+Asam benzoat, 
+C6H5COOH
+6,5 × 10–5 
+Etilamina, 
+C2H5NH2 
+5,6 × 10–4
+Asam sianida, HCN
+4,9 × 10–10 
+Piridin, C5H5N
+1,7 × 10–9 
+Asam nitrit, HNO2 
+4,5 × 10–4 
+Hidroksilamin, 
+HONH2 
+1,1 × 10–8 
+Fenol, C6H5OH
+1,3 × 10–10 
+Hidrazin, N2H4 
+1,3 × 10–6
+Ayo Berlatih
+1.	 Tentukanlah pH dari:
+a.	 Larutan HF 0,15 M
+b.	 0,77 mol hidrazin dalam 250 ml air
+c.	 0,976 gram asam benzoat yang dilarutkan ke dalam 500 ml 
+air. 
+d.	 13,7 ml gas amonia (diukur pada suhu 27oC dan 1 atm) yang 
+dialirkan ke dalam satu liter air. (R = 0,082 l.atm/mol.K)
+2.	 Dengan menggunakan Tabel 1.2, urutkanlah asam-asam lemah 
+tersebut dari asam terkuat menuju asam terlemah.
+3.	 Dengan menggunakan Tabel 1.2 juga, urutkanlah basa lemah 
+berdasarkan kenaikan kekuatan basanya!
+4.	 Asam cuka makan yang dijual di pasar memiliki kadar asam 
+asetat, CH3COOH, sebanyak 25%. Apabila massa jenis cuka 
+tersebut dianggap 1,2 g/ml, maka hitung pH larutan asam cuka 
+tersebut!
+22
+Kimia untuk SMA/MA Kelas XII
+2.	 Hidrolisis garam 
+Dalam kehidupan sehari-hari kalian pasti mengenal garam. Garam yang 
+paling banyak dikenal adalah garam dapur atau garam meja sebagai 
+bumbu utama dalam berbagai masakan yang memiliki rumus kimia 
+NaCl. Apakah kalian mengetahui contoh garam yang lain?   
+Garam merupakan gabungan ion dari sisa asam dan sisa basa. 
+Berdasarkan komponen ion-ion penyusunnya, garam dapat dibedakan 
+menjadi empat kelompok yaitu
+a.	 Garam dari ion sisa asam kuat dan basa kuat
+b.	 Garam dari ion sisa asam lemah dan basa kuat
+c.	
+Garam dari ion sisa asam kuat dan basa lemah
+d.	 Garam dari ion sisa asam lemah dan basa lemah
+Garam yang mudah larut dalam air akan terurai menjadi ion-ion 
+yang bergerak bebas seperti tertulis dalam contoh reaksi berikut ini
+NaCl(aq) → Na+(aq) + Cl–(aq)
+Na+(aq) + H2O(l) ↛ 
+Cl–(aq) + H2O(l) ↛
+Karena kedua ion di atas merupakan ion sisa basa kuat (Na+) dan 
+ion sisa asam kuat (Cl–), maka keduanya tidak dapat bereaksi dengan 
+air membentuk basa atau asamnya kembali.
+Berbeda dengan garam yang memiliki komponen ion sisa asam 
+atau basa lemah. Ion sisa ini akan beraksi dengan air membentuk asam 
+dan basanya kembali. Coba kalian perhatikan contoh garam amonium 
+klorida berikut.
+NH4Cl(aq) → NH4
++(aq) + Cl–(aq)
+Cl–(aq) + H2O(l) ↛ 
+NH4
++(aq) + H2O(l) ⇌ NH3(aq) + H3O+(aq) 
+23
+Bab I  LARUTAN DAN KOLOID
+Tetapan kesetimbangan untuk reaksi di atas adalah
+K
+K
+K
+K
+a
+a
+w
+b
+
+
+ 
+
+
+
+
+
+
+NH
+H O
+NH
+dengan
+3
+3
+4
+Kation amonium (NH4
++), yang merupakan ion sisa basa lemah, 
+bereaksi kembali dengan air menghasilkan ion H3O+ yang merupakan 
+penanda sifat asam. Dengan demikian dapat dilihat dari contoh tersebut 
+bahwa garam yang memiliki ion sisa basa lemah akan menyebabkan 
+munculnya sifat asam pada larutan.
+Contoh lain dapat dilihat pada larutan garam natrium asetat di 
+bawah ini.
+NaCH3COO(aq) ⟶ Na+(aq) + CH3COO–(aq)
+Na+(aq) + H2O(l) ↛
+CH3COO–(aq) + H2O(l) ⟶ CH3COOH(aq) + OH–(aq)
+Tetapan kesetimbangan dari reaksi tersebut adalah
+K
+K
+K
+K
+b
+b
+w
+a
+
+
+ 
+
+
+
+
+
+
+CH COOH
+OH
+CH COO
+dengan
+3
+3
+Dapat dilihat dari reaksi di atas bahwa keberadaan anion asetat 
+(CH3COO–), yang merupakan ion sisa asam lemah akan membuat 
+larutan bersifat basa. 
+Reaksi antara ion sisa asam lemah atau ion sisa basa lemah dengan 
+air disebut reaksi hidrolisis. Apabila salah satu ion pada garam yang 
+mengalami hidrolisis, peristiwa ini disebut hidrolisis sebagian. Akan 
+tetapi, jika kedua ion penyusun garam dapat mengalami hidrolisis, 
+maka peristiwa ini disebut hidrolisis total.
+Berdasarkan reaksi hidrolisis yang terjadi, garam akan memiliki 
+sifat netral, asam, atau basa. Sifat netral terjadi apabila pada senyawa 
+garam hanya mengandung ion sisa asam kuat dan basa kuat. Sifat 
+asam terjadi apabila salah satu komponen ion pada garam adalah ion 
+sisa basa lemah sedangkan sifat basa terjadi apabila hanya salah satu 
+komponen ion pada garam adalah sisa asam lemah.
+24
+Kimia untuk SMA/MA Kelas XII
+Untuk garam yang terdiri dari ion sisa asam lemah dan basa lemah, 
+sifat asam dan basa ditentukan oleh nilai Ka atau Kb. Apabila nilai Ka 
+yang lebih besar, maka larutan garam tersebut akan bersifat asam. 
+Sebaliknya, apabila nilai Kb yang lebih besar, maka larutan garam 
+tersebut akan bersifat basa.
+Untuk menentukan pH dari suatu garam dapat digunakan 
+persamaan tetapan kesetimbangan di atas. Persamaan tersebut dapat 
+ditulis ulang menjadi persamaan-persamaan sebagai berikut.
+Ayo Berlatih
+1.	 Tentukan jenis hidrolisis dan sifat dari masing-masing garam 
+berikut!
+a.	
+KF 
+b.	
+Ca(NO2)2 
+c.	
+(NH4)2CO3  
+d.	
+NH4NO3  
+e.	
+NaBr 
+2.	 Tentukanlah pH dari masing-masing larutan garam berikut!
+a.	
+NaCH3COO (Ka CH3COOH = 1 × 10–5) 
+b.	
+NH4NO3 (Kb NH3 = 1 × 10–5)
+c.	
+NH4F (Ka HF = 6 × 10–4, Kb NH3 = 1,8 × 10–5)
+25
+Bab I  LARUTAN DAN KOLOID
+3.	 Larutan Penyangga
+Pernahkah kalian mendengar istilah asidosis dan alkaliosis? Jika belum 
+pernah, coba lakukan aktivitas berikut.
+Aktivitas 1.4
+Cari satu teman untuk berbagi tugas mencari artikel atau sumber 
+mengenai asidosis dan alkaliosis. 
+Bandingkan informasi dari berbagai sumber dan kemudian 
+simpulkan apa yang dimaksud asidosis dan alkaliosis.
+Pernahkah kalian memikirkan ketika memakan makanan yang 
+rasanya asam, seperti rujak cuka, apakah darah kita akan menjadi asam? 
+Terdapat beberapa larutan penyangga dalam makhluk hidup yang 
+membuat pH cairan tubuh relatif tetap. Penyangga yang ada dalam 
+tubuh manusia terdapat dalam darah dan cairan intrasel. Keberadaan 
+penyangga ini memungkinkan manusia mempertahankan pH darah 
+dan pH di dalam sel. Selain terdapat dalam tubuh makhluk hidup, 
+penyangga juga terdapat dalam air laut.
+Aktivitas 1.5
+Cari informasi dari berbagai literatur mengenai komponen penyangga 
+yang terdapat dalam darah manusia, dalam cairan intrasel, dan air laut.
+Mengapa pH dalam darah manusia perlu dijaga? 
+Komponen utama dari suatu larutan penyangga adalah asam lemah 
+dengan basa konjugasinya atau basa lemah dengan asam konjugasinya. 
+Dengan komposisi tersebut, kehadiran sedikit asam kuat maupun basa 
+kuat tidak menyebabkan perubahan pH. 
+26
+Kimia untuk SMA/MA Kelas XII
+Komponen-komponen yang dapat membentuk penyangga adalah 
+	 Asam lemah dengan garamnya. Contoh: HCN dengan NaCN, NH3 
+dengan NH4Cl.
+	 Garam dengan garam lain yang memiliki hubungan konjugasi. 
+Contoh: NaH2PO4 dengan Na2HPO4.
+	 Asam lemah berlebih dengan basa kuat. Contoh: 100 ml HF 0,1 M 
+dengan 50 mL NaOH 0,1 M.
+	 Basa lemah berlebih dengan asam kuat. Contoh: 50 ml NH3 0,2 M 
+dengan 50 mL HCl 0,1 M.
+Penentuan pH suatu penyangga adalah dengan menggunakan 
+persamaan berikut ini.
+H
+asamlemah
+basakonjugasi
+OH
+basalem
+
+
+
+
+
+
+
+
+
+
+
+
+K
+K
+a
+b
+ah
+asamkonjugasi
+
+
+
+
+Ayo Berlatih
+1.	 Tentukanlah apakah campuran larutan berikut dapat 
+membentuk larutan penyangga?
+a.	
+50 ml H3PO4 0,1 M dengan 50 ml KH2PO4 0,1 M
+b.	
+50 ml NaOH 0,1 M dengan 50 ml H2SO4 0,1 M
+c.	
+50 ml HCl 0,1 M dengan 100 ml NH3 0,1 M
+d.	
+50 ml HNO2 0,1 M dengan 10 ml Ba(OH)2 0,1 M
+2.	 Tentukan pH dari campuran antara 20 ml HBr 0,1 M dengan 30 
+ml NH3 0,1 M (Kb = 1,8 × 10–5)!
+27
+Bab I  LARUTAN DAN KOLOID
+4.	 Stoikiometri larutan 
+Pada saat kelas XI kalian telah mempelajari perhitungan dalam kimia 
+yang disebut stoikiometri. Stoikiometri tersebut didasari oleh konsep 
+mol dan disesuaikan berdasarkan persamaan reaksi yang terjadi. Pada 
+kelas XII ini, kalian akan fokus pada reaksi-reaksi yang terjadi di dalam 
+larutan. 
+Dalam larutan, terdapat beberapa reaksi yang mungkin terjadi. 
+Reaksi-reaksi tersebut diantaranya adalah: 
+ Reaksi pengendapan
+Reaksi pengendapan terjadi jika salah satu produk reaksi tidak 
+larut di dalam air. Contoh zat yang tidak larut di dalam air, yaitu 
+CaCO3 dan BaCO3. 
+Untuk menghasilkan endapan CaCO3 kalian dapat mencoba 
+meniupkan udara pernafasan ke dalam larutan kalsium hidroksida, 
+Ca(OH)2, atau biasa disebut pula air kapur. Larutan kalsium 
+hidroksida yang semula jernih akan menjadi keruh setelah ditiup 
+dan membentuk endapan putih setelah didiamkan selama beberapa 
+saat. Endapan putih tersebut merupakan endapan kalsium karbonat. 
+Persamaan reaksi yang terjadi adalah:
+Ca(OH)2(aq) + CO2(g) → CaCO3(s) +  H2O(l)
+Pembahasan reaksi ini akan dibahas pada subbab berikutnya 
+yaitu kelarutan dan hasil kali kelarutan. 
+ Reaksi pembentukan gas
+Ada beberapa reaksi dalam larutan yang dapat menghasilkan 
+gas. Misalnya, reaksi antara natrium (logam alkali) dengan air 
+membentuk gas hidrogen. 
+Persamaan reaksinya:
+2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g)
+28
+Kimia untuk SMA/MA Kelas XII
+Gas hidrogen dapat pula dihasilkan dari reaksi antara logam 
+dengan asam. Persamaan reaksi umum untuk reaksi logam dengan 
+asam adalah sebagai berikut.
+L(s) + n H+(aq) → Ln+(aq) + n/2 H2(g)
+Huruf n pada reaksi tersebut menyatakan valensi dari logam 
+tersebut. Misalnya n akan bernilai satu untuk logam golongan alkali 
+dan bernilai dua untuk logam alkali tanah.
+Pada kenyataannya, tidak semua logam mudah bereaksi dengan 
+asam. Ada beberapa logam yang sulit untuk bereaksi terutama 
+dengan asam encer. Kereaktifan logam dengan asam ini disusun 
+berdasarkan deret kereaktifan logam seperti berikut ini.
+Li K Ba Sr Ca Na Mg Al Mn Zn Cr Fe Cd Co Ni Sn Pb 
+(H+) Sb Bi CU Hg Ag Pt Au
+Berdasarkan deret kereaktifan logam tersebut, terdapat logam-
+logam yang berada di sebelah kiri ion H+. logam-logam inilah yang 
+mudah bereaksi dengan asam encer dan kemudian disebut logam 
+aktif. Logam-logam yang berada di sebelah kanan H+ merupakan 
+logam-logam yang relatif sulit bereaksi dengan asam encer yang 
+kemudian dapat disebut logam inert. Bahkan, beberapa logam 
+sering kita sebut sebagai logam mulia seperti perak, Ag, dan emas, 
+Au. 
+Selain itu, reaksi yang dapat menghasilkan gas adalah reaksi 
+senyawa karbonat dengan asam menghasilkan gas CO2. Untuk 
+reaksi ini, kalian dapat melakukan percobaan sederhana yaitu 
+dengan mencampurkan soda kue dan asam cuka. Persamaan reaksi 
+yang terjadi adalah sebagai berikut.
+NaHCO3(s) + CH3COOH(aq) → CH3COONa(aq) + H2O(l) + CO2(g) 
+Reaksi ini akan lebih menarik apabila gas CO2 yang dihasilkan 
+digunakan untuk meniup balon. Gas CO2 inilah yang menjadi 
+penyebab kue mengembang pada saat dipanggang.
+29
+Bab I  LARUTAN DAN KOLOID
+Gas lain yang dapat dihasilkan adalah gas H2S dan SO2. Gas H2S 
+dapat dihasilkan dari reaksi antara garam sulfida dengan asam. 
+Gas SO2 dapat terbentuk dari reaksi garam sulfit dengan asam. 
+Persamaan reaksi yang terjadi adalah sebagai berikut.
+PbS(s) + 2HNO3(aq) → Pb(NO3)2(aq) + H2S(g) 
+Na2SO3(s) + 2HCl(aq) → SO2(g) + H2O(l) + NaCl(aq)
+Contoh
+Tentukan volume gas hidrogen pada kondisi standar yang dihasilkan 
+dari reaksi antara 25 ml HCl 0,1 M dengan 6,5 g logam Zn.
+Penyelesaian:
+Tulis persamaan reaksi yang sudah setara:
+2HCl(g) + Zn(s) → ZnCl2(aq) + H2(g)
+Tentukan masing-masing mol zat yang bereaksi.
+n H2 = ½ . n HCl = ½ . 2,5 × 10–3 mol = 1,25 × 10–3 mol = 1,25 mmol
+n Zn = 6,5 g  65 g/mol = 0,1 mol
+pereaksi pembatas pada reaksi tersebut adalah HCl.
+Dengan menggunakan perbandingan koefisien, maka dapat dihitung 
+mol hidrogen.
+n H2 = ½ × n HCl = ½ × 2,5 × 10–3 mol = 1,25 × 10–3 mol = 1,25 mmol
+V H2 = n H2 × Vm = 1,25 mmol ×  22,4 l/mol = 28 ml?
+ Reaksi netralisasi asam basa
+Reaksi netralisasi terjadi jika larutan asam dan basa dicampurkan. 
+Reaksi ini akan menghasilkan garam dan atau air. Secara molekuler, 
+pada reaksi tersebut terjadi penetralan ion H+ oleh OH– atau 
+30
+Kimia untuk SMA/MA Kelas XII
+sebaliknya. Bukti terjadinya reaksi penetralan ini ditunjukkan oleh 
+nilai pH mendekati 7 (pH ≈ 7). Contoh persamaan reaksi penetralan:
+HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l)
+Dalam proses pengerjaannya, perhitungan kimia dalam larutan 
+mirip dengan stoikiometri yang telah dipelajari sebelumnya. 
+Tahapan perhitungannya adalah:
+	
+Menuliskan persamaan reaksi setara.
+ Mengubah besaran yang diketahui ke dalam mol.
+ Menggunakan perbandingan koefisien dari persamaan reaksi 
+yang sudah setara untuk menentukan besaran yang tidak 
+diketahui dalam mol.
+ Mengubah mol ke dalam besaran yang diinginkan.
+Pencampuran 
+larutan 
+yang 
+mengandung 
+asam 
+basa 
+memungkinkan adanya perubahan pH larutan. Jika jumlah mol 
+asam dan basa dalam campuran sama, maka terjadi penetralan 
+sempurna sehingga pH larutan sama dengan 7. Akan tetapi, jika 
+jumlah mol salah satu pereaksi berlebih, maka sisa pereaksi akan 
+menentukan pH larutan hasil pencampuran.
+Ayo Berlatih
+Sebanyak 100 ml larutan Ca(NO3)2 0,1 M direaksikan dengan 100 ml 
+HCl 0,1 M. Tentukan:
+a.	
+Persamaan reaksi yang setara
+b.	
+Massa CaCl2 yang terbentuk
+c.	
+pH larutan awal dan setelah pencampuran
+31
+Bab I  LARUTAN DAN KOLOID
+5.	 Titrasi Asam Basa
+Titrasi adalah suatu metode penentuan konsentrasi zat di dalam larutan. 
+Titrasi dilakukan dengan cara mereaksikan suatu larutan dengan 
+larutan lain yang telah diketahui konsentrasinya. Reaksi dilakukan 
+tetes demi tetes hingga titik ekivalen tercapai. 
+Titrasi dapat dibedakan menjadi beberapa jenis bergantung pada 
+reaksinya. Jika di dalamnya terjadi reaksi asam basa, maka proses itu 
+disebut titrasi asam basa. Titrasi lainnya yaitu titrasi permanganometri 
+yang melibatkan permanganat, titrasi argentometri yang melibatkan 
+perak, dan titrasi iodometri yang melibatkan ion iodida. Pada penjelasan 
+berikut hanya akan dibahas mengenai titrasi asam basa.
+a.	 Indikator asam basa
+Titrasi asam basa sering melibatkan zat-zat yang tidak berwarna 
+sehingga sulit diketahui ketika tercapai titik ekivalen misalnya titrasi 
+yang menggunakan larutan HCl dan larutan NaOH. Kedua larutan 
+tersebut merupakan larutan tidak berwarna, bahkan larutan NaCl 
+sebagai produknya juga tidak berwarna.
+Untuk menandai titik ekivalen pada titrasi telah tercapai, maka 
+dapat digunakan indikator. Indikator ini harus berubah warna 
+pada saat titik ekivalen tercapai.
+Beberapa indikator memiliki trayek perubahan warna cukup 
+akurat akibat perubahan pH larutan, seperti indikator fenolftalein 
+(PP), alizarin kuning (AK), metil merah (MM), metil jingga (MJ), dan 
+brom timol biru (BTB). Gambar 1.7 memperlihatkan beberapa trayek 
+pH dan perubahan warna yang terjadi dari beberapa indikator.
+32
+Kimia untuk SMA/MA Kelas XII
+Gambar 1.7	 Trayek pH dan warna beberapa indikator (Anne Helmenstine, 2020)
+Indikator asam basa biasanya merupakan asam lemah  dari 
+molekul organik dengan rumus HIn. Ketika ion H+ ditambahkan 
+pada molekul HIn akan terbentuk warna tertentu yang berbeda 
+dengan ketika ion H+ terlepas dari molekul HIn menjadi In–. Indikator 
+PP dalam bentuk HIn (asam) merupakan larutan tak berwarna 
+sedangkan dalam bentuk In– (basa), indikator PP memiliki warna 
+merah jambu.
+b.	 Proses titrasi asam basa
+Pada proses titrasi, ada beberapa istilah yang perlu diketahui yaitu 
+titran/titer dan titrat. Titran atau titer adalah larutan yang menitrasi 
+sedangkan titrat adalah larutan yang dititrasi. Titrat dimasukkan 
+ke dalam labu erlenmeyer, sedangkan titran dimasukkan ke 
+dalam buret. Titran dituangkan tetes demi tetes ke dalam larutan 
+titrat hingga tercapai titik ekivalen (lihat Gambar 1.8). Alat yang 
+33
+Bab I  LARUTAN DAN KOLOID
+diperlukan untuk titrasi, di antaranya adalah labu erlenmeyer, 
+statif, buret, dan pipet volume.
+Gambar 1.8	 Set alat titrasi asam basa 
+Pengamatan warna larutan pada titrasi asam basa menggunakan 
+indikator asam basa akan selalu mengandung risiko kesalahan 
+karena keterbatasan mata dalam proses pengamatan. Untuk 
+mengatasi hal tersebut, maka lebih baik digunakan indikator 
+dengan trayek pH yang mendekati titik ekivalennya. 
+Titrasi asam basa pada dasarnya adalah reaksi penetralan. 
+Persamaan ion bersih reaksi penetralan tersebut adalah
+H+(aq) + OH–(aq) → H2O(l)
+34
+Kimia untuk SMA/MA Kelas XII
+Berikut akan diperlihatkan kurva titrasi asam kuat oleh basa 
+kuat, misalnya 50 ml larutan HCl 0,1 M oleh NaOH 0,1 M. Larutan 
+NaOH sebagai titran ditambahkan tetes demi tetes ke dalam larutan 
+HCl hingga terjadi perubahan warna indikator. Setiap penambahan 
+titran dengan volume tertentu, pH larutan dihitung kemudian 
+dibuat kurva seperti terlibat pada Gambar 1.9 berikut.
+pH
+14
+7
+0
+25
+50
+75
+NaOH (ml)
+Titik Ekuivalen
+Gambar 1.9	 kurva titrasi HCl oleh NaOH 
+Aktivitas 1.6
+Cari kurva titrasi asam lemah oleh basa kuat, asam kuat oleh basa lemah, 
+dan asam lemah oleh basa lemah dari berbagai sumber. Perhatikan 
+titik ekivalen masing-masing titrasi tersebut dan buat kesimpulan dari 
+hasil pengamatan kalian. 
+35
+Bab I  LARUTAN DAN KOLOID
+Kalian dapat melakukan perhitungan secara mandiri terkait titik 
+ekivalen dari campuran-campuran tersebut.
+6.	 Kelarutan dan Hasil Kali Kelarutan
+Dalam kehidupan sehari-hari, kita sering menggunakan garam dapur 
+yang sangat larut dalam air. Akan tetapi, ada garam-garam lain yang 
+hanya sedikit larut di dalam air. Jumlah maksimal zat terlarut yang 
+dapat larut dalam pelarut dan suhu tertentu disebut dengan kelarutan 
+(solubility) yang kemudian dilambangkan dengan s. Larutan yang 
+mengandung jumlah zat terlarut sama dengan nilai s disebut larutan 
+jenuh. Kelarutan, s, dinyatakan dalam mol/l.
+Garam-garam yang kurang larut, di dalam larutan jenuhnya 
+membentuk keadaan setimbang antara garam yang tidak larut dengan 
+ion-ionnya yang terlarut. Salah satu garam yang sulit larut dalam air 
+adalah BaSO4. 
+BaSO4(s) ⇌ Ba2+(aq) + SO4
+2–(aq)
+Tetapan kesetimbangan untuk reaksi tersebut adalah 
+K = 
+Ba
+SO
+BaSO
+2
+4
+2
+4
+
+
+
+ 
+
+
+
+Pada reaksi di atas, BaSO4 memiliki fasa padat sehingga konsentrasi 
+BaSO4 dianggap tetap. Persamaan kesetimbangan di atas menjadi
+K [BaSO4] = [Ba2+] [SO4
+2–]
+Ksp = [Ba2+] [SO4
+2–]
+Lambang sp pada Ksp berasal dari kata solubility product yang berarti 
+kelarutan produk. Dengan kata lain, hanya produk yang larut di dalam 
+air. Persamaan Ksp menyatakan perkalian konsentrasi ion-ion garam 
+dalam larutan jenuhnya. Seperti tetapan kesetimbangan lainnya, Ksp 
+dipengaruhi pula oleh suhu. Selain garam, senyawa yang sukar larut 
+adalah beberapa senyawa basa seperti Mg(OH)2, Pb(OH)2, dan Fe(OH)2. 
+Kedua golongan senyawa tersebut merupakan senyawa ionik.
+36
+Kimia untuk SMA/MA Kelas XII
+Secara umum, kesetimbangan yang terjadi dalam larutan jenuh 
+senyawa ionik yang sulit larut dalam air dituliskan dalam persamaan 
+berikut ini.
+PxQy(s) ⇌ xPy+(aq) + yQx–(aq)
+Ksp = [Py+]x [Qx–]y  
+Karena kesetimbangan terjadi pada larutan jenuh, maka terdapat 
+hubungan antara Ksp dengan s. 
+PxQy(s)
+⇌
+xPy+(aq)
++
+yQx-(aq)
+s
+xs
+ys
+Ksp = [xs]x [ys]y
+Nilai Ksp hanya bergantung pada temperatur, sama seperti tetapan 
+kesetimbangan lainnya. Tabel 1.3 menunjukkan nilai Ksp beberapa 
+senyawa ionik pada 25°C. 
+Tabel 1.3 Data Ksp beberapa senyawa kimia
+Zat terlarut
+Reaksi keseimbangan kelarutan
+Ksp
+Aluminium hidroksida
+AI(OH)3 (s) ⇌ AI3+(aq) + 3OH–(aq) 
+1,3 × 10–33
+Barium karbonat
+BaCO3(s) ⇌ Ba2+(aq) + CO3
+2–(aq)
+5,1 × 10–9
+Barium sulfat
+BaCO4(s) ⇌ Ba2+(aq) + SO4
+2–(aq)
+1,1 × 10–10
+Besi(III) hidroksida
+Fe(OH)3(s) ⇌ Fe3+(aq) + 3OH- (aq)
+4 × 10–38
+Kalsium fluorida
+CaF2(s) ⇌ Ca2+ (aq) + 2F–(aq)
+5,3 × 10–9
+Kalsium karbonat
+CaCO3(s) ⇌ Ca2+(aq) + CO3
+2–(aq)
+2,8 × 10–9
+Kalsium sulfat
+CaSO4(s) ⇌ Ca2+(aq) + SO4
+2–(aq)
+9,1 × 10–6
+Magnesium fluorida
+MgF2(­s) ⇌ Mg2+(aq) + 2F–(aq)
+3,7 × 10–8
+Magnesium fosfat
+Mg3(PO4)2(s) ⇌ 3Mg2+(aq) + 2PO4
+3–(aq)
+1 × 10–25
+Magnesium hidroksida
+Mg(OH)2(s) ⇌ Mg2+(aq) + 2OH–(aq) 
+1,8 × 10–11
+Magnesium karbonat
+MgCO3(s) ⇌ Mg2+(aq) + CO3
+2–(aq)
+3,5 × 10–8
+Perak bromida
+AgBr(s) ⇌ Ag+(aq) + Br(aq)
+5,0 × 10–13
+Perak iodida
+AgI(s) ⇌ Ag+(aq)+I–(aq)
+8,5 × 10–17
+Perak karbonat
+Ag2CO3(s) ⇌ 2Ag+(aq) + CO3
+2–(aq)
+8,5 × 10–12
+Perak klorida
+AgCI(s) ⇌ Ag+(aq) + CI–(aq)
+1,8 × 10–10
+Raksa(I) klorida
+Hg2CI2(s) ⇌ Hg2
+2+(aq) + 2CI–(aq)
+1,3 × 10–18
+Timbal(II) ioida
+PbI2(s) ⇌ Pb2+(aq) + 2I–(aq)
+7,1 × 10–9
+Timbal(II) kromat
+PbCrO4(s) ⇌ Pb2+(aq) + CrO4
+2–(aq)
+2,8 × 10–13
+37
+Bab I  LARUTAN DAN KOLOID
+Untuk senyawa-senyawa ionik yang sulit larut dalam air, 
+keberadaan ion senama/sejenis akan mempengaruhi kelarutannya. 
+Coba kalian prediksi apa yang akan terjadi ketika kalian memasukkan 
+larutan Na2SO4 ke dalam larutan BaSO4?
+Ingat kembali persamaan reaksi kesetimbangan BaSO4.
+BaSO4(s) ⇌ Ba2+(aq) + SO4
+2–(aq)
+Senyawa Na2SO4 merupakan garam yang mudah larut dalam air.
+Na2SO4(aq) → 2Na+(aq) + SO4
+2–(aq)
+Larutan Na2SO4 memiliki ion senama dengan larutan jenuh BaSO4 
+yaitu ion sulfat, SO4
+2–. Dengan adanya penambahan Na2SO4, jumlah ion 
+sulfat pada larutan jenuh BaSO4 akan semakin banyak. Berdasarkan 
+asas Le Chatelier, penambahan ion sulfat pada kesetimbangan di atas 
+akan menggeser kesetimbangan ke arah kiri sehingga mengurangi 
+jumlah BaSO4 yang larut. Dari penjelasan tersebut, keberadaan ion 
+senama akan semakin mengurangi kelarutan senyawa ionik yang 
+sukar larut dalam air. Penambahan ion senama pada larutan jenuh 
+akan menyebabkan terbentuknya endapan.
+Seperti dijelaskan pada sub bab sebelumnya, ada reaksi-reaksi yang 
+dapat menghasilkan endapan. Untuk meramalkan apakah dua senyawa 
+yang awalnya mudah larut dalam air dapat membentuk endapan ketika 
+direaksikan, maka perlu dilihat apakah hasil kali konsentrasi ion-ion 
+(Qsp) yang direaksikan melampaui nilai Ksp atau tidak.
+Cara menghitung Qsp mirip dengan menghitung Ksp yaitu dengan 
+mengalikan konsentrasi ion-ion penyusun senyawa sulit larut dalam 
+air. 
+Qsp = [Py+] × [Qx–]y  
+Apabila dua senyawa yang mengandung ion Py+ dan Qx– dicampurkan 
+membentuk senyawa PxQy yang sulit larut dalam air, maka akan ada 
+tiga kemungkinan yaitu:
+38
+Kimia untuk SMA/MA Kelas XII
+-	 Jika nilai Qsp > Ksp, campuran akan menghasilkan endapan;
+-	 Jika nilai Qsp < Ksp, campuran tidak akan menghasilkan endapan;
+-	 Jika nilai Qsp = Ksp, campuran akan menghasilkan larutan jenuh.
+Ayo Berlatih
+1.	 Tuliskan hubungan kelarutan dengan tetapan hasil kali 
+kelarutan untuk senyawa: 
+a.	
+AgCl 
+b.	
+PbI2 
+c.	
+Cr(OH)3  
+d.	
+Ca3(PO4)2  
+2.	 Apabila kelarutan CaSO4 dalam air pada suhu 25oC adalah 0,67 
+g/l, maka berapakah Ksp CaSO4 pada suhu tersebut?
+3.	 Hitunglah kelarutan AgBr dalam larutan NaBr 0,01 M! 
+Diketahui Ksp AgBr = 5 × 10–13.
+4.	 Sebanyak 200 ml larutan BaCl2 0,004 M ditambahkan pada 300 
+ml larutan Na2SO4 0,001 M. Perkirakan apakah campuran kedua 
+larutan ini akan menghasilkan endapan BaSO4! (Diketahui Ksp 
+BaSO4 = 1,5 × 10–9) 
+D.	 Sifat Koligatif Larutan
+Larutan memiliki beberapa sifat berbeda jika dibandingkan dengan zat 
+terlarut maupun pelarutnya. Untuk melihat perbedaan tersebut, coba 
+lakukan aktivitas berikut.
+39
+Bab I  LARUTAN DAN KOLOID
+Aktivitas 1.7
+Perhatikan data berikut ini kemudian diskusi bersama rekan kalian 
+mengenai fenomena berikut ini!
+Zat
+Titik Beku (oC)
+Titik Didih (OC)
+Air
+0
+100
+Larutan gula 0,2 M
+–0,372
+100,104
+Larutan urea 0,2 M
+–0,372
+100,104
+Larutan garam dapur 0,2 M
+–0,744
+100,208
+Larutan gula 0,4 M
+–0,744
+100,208
+Faktor apa yang mempengaruhi terjadinya fenomena tersebut?
+Apakah jenis zat terlarut berpengaruh terhadap perubahan tersebut?
+ Beberapa sifat yang muncul tersebut diakibatkan oleh interaksi 
+baru yang terbentuk antara pelarut-terlarut yang “mengganggu“ 
+interaksi sebelumnya. Sifat-sifat yang muncul ketika larutan terbentuk 
+disebut sifat koligatif larutan. Sifat ini tidak bergantung kepada jenis 
+zat terlarut, tetapi hanya bergantung kepada jumlahnya.
+Untuk dapat memahami sifat koligatif larutan, kalian perlu 
+mengingat kembali berbagai jenis konsentrasi diantaranya persen 
+massa, molaritas, molalitas, dan fraksi mol.Penjelasan tersebut dapat 
+diunduh pada tautan berikut ini http://bitly.ws/uDYk atau melalui 
+pindai qrcode berikut. 
+ 
+40
+Kimia untuk SMA/MA Kelas XII
+Gambar 1.10	Hubungan konsentrasi dengan larutan
+Terdapat empat jenis sifat koligatif larutan yaitu penurunan 
+tekanan uap, penurunan titik beku, kenaikan titik didih, dan tekanan 
+osmosis.
+41
+Bab I  LARUTAN DAN KOLOID
+Untuk melibatkan pengaruh jumlah zat terlarut terhadap sifat 
+koligatif larutan, seorang ilmuwan bernama Jacobus Henricus Van’t 
+Hoff memberikan satu faktor pengali terhadap jumlah zat terlarut 
+yang kemudian disebut dengan faktor Van’t Hoff. Rumusan Van’t Hoff 
+terhadap faktor tersebut adalah:
+i = 1 + (c – 1) ∝
+dimana i menunjukkan faktor van’t Hoff, c = jumlah ion, dan ∝ = 
+derajat ionisasi.
+Ayo Diskusi!
+Coba kalian tentukan bagaimana nilai faktor van’t Hoff, i, untuk 
+zat terlarut nonelektrolit, elektrolit kuat, dan elektrolit lemah.
+1.	 Penurunan Tekanan Uap Larutan (∆P)
+Menguap adalah proses terjadinya perubahan fasa cair membentuk 
+fasa gas. Suatu zat dikatakan mudah menguap jika gaya antarmolekul 
+pada fasa cairnya lemah. 
+Molekul-molekul pada fasa gas menyebabkan tekanan yang disebut 
+tekanan uap. Salah satu faktor yang mempengaruhi tekanan uap 
+adalah temperatur. Semakin tinggi temperatur zat cair, semakin besar 
+tekanan uapnya. Contohnya adalah tekanan uap air meningkat seiring 
+peningkatan temperatur. 
+Apakah kalian pernah mengamati apa yang terjadi dengan tekanan 
+uap jika ke dalam suatu pelarut (misalnya air) ditambahkan zat yang 
+tidak mudah menguap (misalnya gula pasir)?
+42
+Kimia untuk SMA/MA Kelas XII
+Gambar 1.11	Proses penguapan air murni dengan larutan
+Berdasarkan ilustrasi pada Gambar 1.11 tersebut, keberadaan 
+zat terlarut nonvolatil (tidak mudah menguap) dapat menurunkan 
+tekanan uap. Tekanan uap larutan lebih rendah dari tekanan uap 
+pelarut murninya. Coba kalian lakukan aktivitas berikut ini.
+Aktivitas 1.8
+Cari referensi faktor-faktor apa saja yang menyebabkan tekanan uap 
+larutan lebih rendah dari tekanan uap pelarut murninya? Hubungkan 
+dengan gaya antarmolekul zat terlarut-air dan air-air.
+Selain itu, untuk memahami bagaimana pelarutan zat non volatil 
+berpengaruh terhadap tekanan uap, maka lakukanlah aktivitas berikut.
+43
+Bab I  LARUTAN DAN KOLOID
+Aktivitas 1.9
+Pengaruh Zat Nonvolatil pada Pelarut
+Tujuan
+Menjelaskan sifat larutan zat yang tidak mudah menguap.
+Alat
+1.	 Gelas kimia
+2. 	 Kotak kaca dengan penutup
+Bahan
+1. 	 Aquades
+2. 	 Larutan gula 50% w/w
+Langkah Kerja
+1.	 Siapkan dua gelas kimia. Gelas pertama diisi aquades, gelas kedua 
+diisi larutan gula dengan volume yang sama.
+2.	 Simpan gelas kimia tersebut dalam kotak kaca  dan tutup rapat, 
+kemudian biarkan selama satu hari.
+3.	 Amati fenomena yang terjadi dalam kedua cairan itu.
+Pertanyaan
+1. 	 Fenomena apa yang kalian temukan pada kedua wadah itu?
+2. 	 Mengapa air murni pindah ke dalam gelas kimia yang berisi larutan 
+gula?
+3.	 Apakah kesimpulan dari percobaan ini? Diskusikan dengan teman 
+sekelompok kalian.
+44
+Kimia untuk SMA/MA Kelas XII
+Francois M. Raoult telah mengkaji larutan yang di dalamnya 
+terdapat zat terlarut non volatil sehingga ditemukan Hukum Raoult. 
+Hukum tersebut dapat dinyatakan dalam persamaan sebagai berikut.
+Plarutan = Xpelarut . Po
+pelarut 
+Plarutan = 
+n
+n
+n
+pelarut
+pelarut
+terlarut
++
+.i . P0
+pelarut
+Keterangan:
+Plarutan 	
+= tekanan uap larutan
+Xpelarut 	
+= fraksi mol pelarut
+Po
+pelarut 	
+= tekanan uap pelarut murni
+npelarut 	
+= mol pelarut
+nterlarut	
+= mol zat terlarut
+i 	 	
+= faktor Van’t Hoff
+Jika Plarutan dan Xpelarut diekstrapolasi, maka akan dihasilkan garis 
+linear dengan gradien menunjukkan Po
+pelarut (Gambar 1.12)
+P larutan (mmHg)
+X pelarut
+P0 pelarut
+0
+0,1
+0,3
+0,5
+0,7
+0,9
+0,2
+0,4
+0,6
+0,8
+1
+Gambar 1.12	Plot grafik antara Xpelarut dengan Plarutan 
+Penurunan tekanan uap larutan dapat dihitung dengan rumus
+∆P = Po
+pelarut – Plarutan 
+45
+Bab I  LARUTAN DAN KOLOID
+Kalian juga dapat menentukan ∆P dengan menggunakan hukum 
+Raoult. 
+Karena Xpelarut + Xterlarut = 1, maka Xpelarut = 1 –  Xterlarut 
+Plarutan  = (1 – Xterlarut) . Po
+pelarut
+Plarutan = P0
+pelarut – Xterlarut . Po
+pelarut
+Lakukan penataulangan, 
+Po
+pelarut – Plarutan = Xterlarut . Po
+pelarut
+Sehingga, 
+∆P = Xterlarut . Po
+pelarut
+∆P = 
+n
+n
+n
+terlarut
+pelarut
+terlarut
+.
+.
+i
+i
++
+ . Po
+pelarut
+2.	 Penurunan Titik Beku Larutan (∆Tf)
+Pada musim dingin di negara empat musim, ada beberapa aktivitas yang 
+umum dilakukan seperti terlihat pada Gambar 1.13 berikut. Apakah 
+kalian tahu mengapa aktivitas tersebut dilakukan? Silakan diskusikan 
+bersama rekan di kelas.
+Gambar 1.13	Menaburkan garam pada salju di jalan 
+Sumber: Milan Krausa/Getty Images/Canva for Education (2022)
+46
+Kimia untuk SMA/MA Kelas XII
+Sebelum kita membahas penurunan titik beku larutan, silakan 
+kalian lakukan aktivitas berikut.
+Aktivitas 1.10
+Pernahkah kalian meminum teh manis yang telah dibekukan? Apakah 
+rasa manis ada pada bongkahan es? Ataukah hanya di sebagian tempat? 
+Apabila belum pernah, coba kalian buktikan melalui aktivitas ini.
+-	
+Buatlah kelompok beranggotakan 4-5 orang
+-	
+Buatlah larutan teh manis kemudian bekukan dalam mesin 
+pendingin
+-	
+Setelah beku, ambil dan minum kemudian jawab pertanyaan di 
+atas.
+Membeku adalah proses perubahan wujud cair menjadi padat 
+dengan cara memaksimalkan interaksi antarmolekul. Akibatnya, 
+partikel-partikel suatu zat saling mendekat satu sama lain. Zat terlarut 
+yang dapat mengganggu proses pembekuan adalah zat terlarut yang 
+tidak larut dalam fasa padat pelarut. Keberadaan zat terlarut ini akan 
+mengganggu sehingga memerlukan temperatur lebih rendah agar 
+pelarut dapat membeku. Inilah penyebab terjadinya penurunan titik 
+beku. 
+47
+Bab I  LARUTAN DAN KOLOID
+Gambar 1.14	Kondisi partikel saat membeku
+Secara kuantitatif, penurunan titik beku berbanding lurus dengan 
+molalitas larutan, 
+∆Tf ≈ m
+∆Tf = Kf . m . i
+Kf adalah tetapan penurunan titik beku molal dan nilainya 
+tergantung pada jenis pelarut, dimana m adalah konsentrasi molal, dan 
+i adalah faktor Van’t Hoff. 
+48
+Kimia untuk SMA/MA Kelas XII
+Aktivitas 1.11
+Untuk mengetahui seberapa besar pengaruh zat terlarut terhadap titik 
+beku larutan, silakan kalian kunjungi tautan berikut ini.
+https://s.id/tflar
+3.	 Kenaikan Titik Didih Larutan (∆Tb)
+Kenaikan titik didih larutan ini sangat berhubungan dengan penurunan 
+tekanan uap. Hal ini terjadi karena kemiripan proses. Mendidih terjadi 
+ketika tekanan uap larutan sama dengan tekanan atmosfer. Dengan 
+adanya zat terlarut non volatil, proses mendidih sama terganggunya 
+seperti proses penguapan. Partikel-partikel pelarut harus memutuskan 
+interaksi pelarut-pelarut dan pelarut-terlarut agar dapat mendidih dan 
+menguap. Dengan demikian, proses mendidih menjadi lebih sulit dan 
+membutuhkan temperatur lebih tinggi agar dapat mendidih. Fenomena 
+inilah yang kemudian disebut sebagai kenaikan titik didih.
+Perhatikan Gambar 1.15 untuk ilustrasi perbedaan antara titik 
+didih air murni dengan larutan pada saat mendidih.
+49
+Bab I  LARUTAN DAN KOLOID
+Gambar 1.15	Proses mendidih pada air murni dan larutan
+Seperti penurunan titik beku larutan, kenaikan titik didih larutan 
+(∆Tb) juga berbanding lurus dengan molalitas larutan. 
+∆Tb ≈ m
+∆Tb = Kb . m . i
+Kb adalah tetapan kenaikan titik didih molal dan nilainya tergantung 
+pada jenis pelarut, m adalah konsentrasi molal, dan i adalah faktor 
+van’t Hoff.
+Hubungan antara tekanan uap, titik beku, dan titik didih dari 
+pelarut dan larutan dapat dilihat dalam diagram fasa. Gambar 1.16 
+menunjukkan diagram fasa air dan larutan.
+50
+Kimia untuk SMA/MA Kelas XII
+760
+0
+100
+Titik beku larutan
+Titik beku 
+pelarut H2O
+Larutan
+Pelarut murni
+Tekanan uap larutan
+Tekanan uap pelarut murni
+Titik didih 
+pelarut H2O
+Titik didih 
+larutan
+T (0C)
+Diagram P ― T Larutan
+GAS
+CAIR
+PADAT
+P (mmHg)
+Tf
+Tb
+P
+Gambar 1.16	Diagram fasa air dan larutan
+4.	 Tekanan Osmosis Larutan (π)
+Kalian mungkin penasaran mengapa air dari dalam tanah dapat 
+sampai di daun pohon tertinggi sekalipun? Padahal, kita tahu bahwa 
+air mengalir sesuai gravitasi dari tempat tinggi menuju tempat yang 
+rendah. Untuk menjawab hal tersebut coba kalian lakukan aktivitas 1.12 
+terlebih dahulu agar kalian temukan jawabannya dengan kemampuan 
+kalian.
+Gambar 1.17 berikut ini menunjukkan ilustrasi terjadinya proses 
+osmosis dan bagaimana tekanan osmosis bekerja.
+51
+Bab I  LARUTAN DAN KOLOID
+Gambar 1.17	Tekanan osmosis dilakukan untuk menghentikan proses osmosi
+Aktivitas 1.12
+Untuk mengetahui besarnya tekanan osmosis yang diberikan oleh suatu zat 
+terlarut, kalian dapat mengunjungi tautan berikut ini.
+https://s.id/tolar 
+Tekanan osmosis berbanding lurus dengan molaritas larutan dan 
+sangat dipengaruhi oleh temperatur. Persamaan matematis untuk 
+tekanan osmosis adalah seperti berikut ini.
+π = M . R . T . i 
+dengan M adalah konsentrasi molar, R tetapan (0,082 l.atm/mol.K), 
+T adalah temperatur larutan dalam Kelvin, dan i adalah faktor Van’t 
+Hoff. 
+52
+Kimia untuk SMA/MA Kelas XII
+Konsep tekanan osmosis ini dalam praktiknya digunakan untuk 
+mendapatkan air tawar dari air laut yang disebut proses reverse osmosis. 
+Proses ini digunakan di rumah untuk memurnikan air sumur dari ion 
+logam. Selain itu, pembuatan larutan infus juga sangat berhubungan 
+dengan tekanan osmosis.
+Ayo Berlatih
+Suatu larutan oralit dibuat dari campuran 34,2 gram sukrosa (Mr 
+= 342) dan 11,7 gram garam dapur (Mr = 58,5) dalam 1 l (liter) 
+larutan. Tentukan:
+-	
+Tekanan uap larutan pada 25 oC jika diketahui tekanan uap air 
+= 23,76 mmHg
+-	
+Titik didih larutan oralit tersebut (Kf = 1,86 oC/m)
+-	
+Titik beku larutan oralit tersebut (Kb = 0,52 oC/m)
+-	
+Tekanan osmotik larutan oralit tersebut pada 25 oC (R = 0,082 
+l.atm/mol.K)
+E.	 Koloid
+Koloid merupakan salah satu campuran heterogen dengan karakteristik 
+unik. Bahkan, karakter koloid tersebut menjadi dasar untuk membuat 
+produk modern yang kemudian disebut nanomaterial. Koloid memiliki 
+beberapa karakteristik yang berbeda dengan campuran lain seperti 
+tertera pada Tabel 1.4 berikut ini.
+53
+Bab I  LARUTAN DAN KOLOID
+Tabel 1.4 Perbedaan larutan, koloid, dan suspensi
+Aspek
+Larutan
+Koloid
+Suspensi
+Ukuran partikel
+< 1 nm
+1–100 nm
+>100 nm
+Homogenitas
+Homogen
+Heterogen
+Heterogen
+Kestabilan
+Stabil
+Stabil
+Tidak stabil
+Jumlah fasa
+1
+2
+2
+Penyaringan
+Tidak dapat 
+disaring
+Dapat disaring 
+dengan penyaring 
+ultra
+Dapat disaring
+Kondisi
+Jernih
+Keruh
+Keruh
+Komponen
+Pelarut dan zat 
+terlarut
+Medium 
+pendispersi dan 
+zat terdispersi
+Medium 
+pendispersi 
+dan zat 
+terdispersi
+Untuk membuktikan beberapa perbedaan yang disebutkan pada Tabel 
+1.4 di atas, coba kalian lakukan aktivitas berikut!
+Aktivitas 1.13
+Ikuti langkah-langkah berikut ini!
+1.	
+Siapkan 3 buah gelas transparan berukuran sama, beri label 
+berbeda untuk setiap gelas
+2.	
+Masukkan air jernih ke dalam setiap gelas hingga memenuhi 
+sekitar ¾ isi gelas
+3.	
+Ke dalam gelas pertama masukkan satu sendok teh garam dapur
+54
+Kimia untuk SMA/MA Kelas XII
+4.	
+Ke dalam gelas kedua masukkan satu sendok teh pasir bubuk
+5.	
+Ke dalam gelas ketiga masukkan satu sendok teh tepung terigu
+6.	
+Aduk masing-masing campuran selama 2 menit
+7.	
+Perhatikan kondisi campuran setiap 1 menit setelah diaduk seperti 
+warna, kejernihan, dan homogenitas campuran.
+8.	
+Simpan wadah ini untuk melakukan aktivitas berikutnya.
+9.	
+Diskusikan hasil dengan rekan kalian mengenai hasil pengamatan 
+kalian.
+1.	 Jenis-jenis koloid
+Koloid dibedakan menjadi beberapa jenis tergantung pada wujud zat 
+terdispersi dan medium pendispersi seperti tertera pada Tabel 1.5 
+berikut ini.
+Tabel 1.5 Jenis-jenis koloid
+Zat 
+terdispersi
+Medium 
+pendispersi
+Jenis
+Contoh
+Padat 
+Gas
+Aerosol padat
+Asap, debu atmosfer
+Cair
+Gas
+Aerosol cair
+Awan, spray 
+Gas
+Padat
+Buih padat
+Batu apung, spons
+Gas
+Cair
+Buih cair
+Buih sabun, krim 
+kocok
+Cair
+Padat
+Emulsi padat
+Jeli, mutiara
+Cair
+Cair
+Emulsi Cair
+Santan, susu
+Padat
+Padat
+Sol padat
+Kaca berwarna, intan
+Padat
+Cair
+Sol cair
+sol emas, tinta
+55
+Bab I  LARUTAN DAN KOLOID
+Selain berdasarkan wujud komponennya, koloid juga dapat 
+dibedakan jenisnya berdasarkan interaksi antara zat terdispersi dan 
+medium pendispersinya. Terdapat dua jenis koloid yaitu koloid liofil 
+dan liofob.
+Koloid liofil merupakan koloid yang zat terdispersinya menarik 
+medium pendispersinya. Hal ini disebabkan oleh kuatnya gaya tarik 
+antara partikel-partikel terdispersi dengan medium pendispersinya. 
+Koloid liofob merupakan koloid yang fase terdispersinya tidak menarik 
+medium pendispersinya. Pada koloid dengan medium pendispersi air 
+maka koloid liofil disebut hidrofil, sedangkan koloid liofob disebut 
+hidrofob.
+Beberapa contoh koloid hidrofil adalah sabun, detergen, agar-agar, 
+kanji, dan gelatin sedangkan contoh koloid hidrofob adalah sol Fe(OH)3, 
+sol belerang, sol-sol logam, dan sol-sol sulfida.
+Jenis koloid lofil dan liofob ini dalam kehidupan sehari-hari dapat 
+kalian jumpai pada sabun cuci piring. Sabun memiliki dua bagian 
+yaitu bagian hidrofil yang dapat berinteraksi kuat dengan air dan 
+bagian hidrofob yang dapat berinteraksi dengan senyawa-senyawa 
+nonpolar seperti minyak. Dengan cara kerja seperti itulah sabun 
+dapat mengangkat minyak pada permukaan-permukaan benda yang 
+dicuci dan kemudian saat dibasuh dengan air, kotoran akan ikut 
+terbuang.
+2.	 Sifat-sifat koloid
+Koloid memiliki sifat khas yang berbeda dari campuran lainnya. Akan 
+tetapi, perlu diingat bahwa tidak semua jenis koloid dapat dibuktikan 
+memiliki seluruh sifat yang disebutkan berikut ini.
+56
+Kimia untuk SMA/MA Kelas XII
+Aktivitas 1.14
+Aktivitas ini adalah lanjutan dari aktivitas koloid 1.13. 
+Sorotlah masing-masing dari tiga gelas yang berisi campuran tadi 
+dengan senter. Perhatikan cahaya senter tersebut. Apakah perbedaan 
+antara cahaya senter pada campuran pertama, kedua, dan ketiga. 
+Diskusikan bersama rekan-rekan kalian.
+a.	 Gerak Brown
+Gerak Brown adalah gerak acak dan terus menerus yang dialami 
+partikel koloid karena adanya tumbukan zat terdispersi dengan 
+medium pendispersi yang berbeda ukuran. Gerak ini ditemukan oleh 
+Robert Brown dan hanya dapat dilihat menggunakan mikroskop ultra.
+b.	 Efek Tyndall
+Pernahkah kalian bertanya mengapa langit berwarna biru saat siang 
+hari dan saat sore menjadi berwarna jingga? Hal ini disebabkan 
+oleh adanya efek Tyndall yang diambil dari nama penemunya yaitu 
+John Tyndall. Efek Tyndall adalah gejala penghamburan berkas 
+sinar (cahaya) oleh partikel-partikel koloid yang disebabkan karena 
+ukuran molekul koloid yang cukup besar. 
+c.	
+Adsorpsi
+Adsorpsi adalah peristiwa penyerapan partikel, ion, atau senyawa 
+lain pada permukaan partikel koloid yang disebabkan oleh luasnya 
+permukaan partikel. Muatan koloid dihasilkan sebagai akibat 
+dari sifat adsorpsi ini. Misalnya, koloid Fe(OH)3 bermuatan positif 
+karena permukaannya menyerap ion H+, sedangkan koloid As2S3 
+bermuatan negatif karena permukaannya menyerap ion S2–. Dalam 
+57
+Bab I  LARUTAN DAN KOLOID
+kehidupan sehari-hari, sifat ini digunakan dalam pemutihan gula 
+dan norit untuk mengobati sakit perut.
+d.	 Koagulasi
+Koagulasi adalah peristiwa penggumpalan partikel koloid akibat 
+terbentuk agregat. Koagulasi dapat terjadi karena proses fisis 
+seperti pemanasan, pendinginan dan pengadukan atau secara 
+kimia seperti penambahan elektrolit, pencampuran koloid yang 
+berbeda muatan. Contoh peristiwa koagulasi adalah penjernihan 
+air dengan bantuan tawas.  Untuk mencegah proses koagulasi 
+koloid dalam suatu produk, para produsen sering menggunakan 
+koloid pelindung. Contoh koloid pelindung adalah penambahan 
+gelatin pada es krim agar es krim tetap lembut.
+e.	 Dialisis 
+Dialisis adalah pemisahan koloid dari ion-ion pengganggu. Proses 
+ini dilakukan dengan cara mengalirkan cairan bercampur koloid 
+melalui selaput semipermeabel yang berfungsi sebagai penyaring. 
+Selaput ini hanya dapat dilewati cairan tetapi tidak dapat dilewati 
+partikel koloid. Contoh proses dialisis adalah proses cuci darah 
+untuk pasien gagal ginjal. 
+f.	
+Elektroforesis 
+Elektroforesis adalah peristiwa pemisahan partikel koloid yang 
+bermuatan dengan menggunakan arus listrik. Proses ini biasanya 
+dilakukan untuk memisahkan protein dan untuk menyaring debu 
+pada cerobong pabrik. 
+Aktivitas 1.15
+Tuliskan contoh-contoh lain dari jenis dan sifat koloid yang kalian 
+temukan dalam kehidupan sehari-hari!
+58
+Kimia untuk SMA/MA Kelas XII
+3.	 Cara pembuatan koloid
+Koloid dapat dibuat menggunakan dua metode utama yaitu dispersi 
+dan kondensasi. Metode dispersi dilakukan dengan memperkecil 
+partikel besar menjadi partikel berukuran koloid, sedangkan metode 
+kondensasi dilakukan dengan menggumpalkan partikel larutan agar 
+membentuk partikel berukuran koloid.
+Aktivitas 1.16
+Carilah berbagai sumber mengenai cara pembuatan koloid baik metode 
+dispersi maupun kondensasi yang lebih detail secara berkelompok.
+Proyek
+Buatlah produk yang merupakan koloid dalam kehidupan sehari-
+hari dengan mengikuti langkah-langkah berikut ini!
+1.	 Buatlah kelompok beranggotakan 4-5 orang
+2.	 Pilihlah salah satu produk di bawah ini untuk dilakukan dalam 
+proyek
+a.	
+Es krim
+b.	 Agar-agar atau puding
+c.	
+Kue bolu atau brownies 
+d.	 Yoghurt 
+e.	
+Selai 
+f.	
+Pasta gigi
+g.	
+Sabun
+59
+Bab I  LARUTAN DAN KOLOID
+3.	 Catatlah setiap alat dan bahan yang digunakan, proses 
+pembuatan, dan harga bahan yang digunakan.
+4.	 Buatlah video pembuatan setiap produk dari mulai pengenalan 
+bahan dan jumlah bahan yang digunakan hingga produk 
+tersebut dihasilkan.
+5.	 Masukkan setiap produk ke dalam kemasan yang sangat 
+menarik dan buatlah nama produk tersebut.
+6.	 Hitunglah jumlah kemasan yang dihasilkan dari bahan-bahan 
+awal dan tentukan perkiraan harga jual yang layak agar 
+menghasilkan keuntungan.
+7.	 Buatlah laporan pelaksanaan dari proyek yang telah dilakukan.
+8.	 Diskusikan setiap tahap proyek dengan guru kalian dan 
+hubungkan pula dengan konsep yang telah kalian pelajari!
+Selamat berkarya!
+Inti Sari
+Larutan dan koloid merupakan jenis campuran yang memiliki sifat 
+seperti yang telah dipelajari. Meskipun begitu, larutan memiliki 
+jumlah bahasan yang lebih luas. Konsep larutan yang dibahas 
+adalah asam basa, hidrolisis garam, larutan penyangga, titrasi asam 
+basa, stoikiometri larutan, kelarutan dan hasil kali kelarutan, serta 
+sifat koligatif larutan. Konsep koloid yang dibahas adalah jenis, sifat, 
+dan cara pembuatan koloid.
+60
+Kimia untuk SMA/MA Kelas XII
+Asam dan basa memiliki sifat khas masing masing dan 
+pengertiannya dapat ditinjau dari konsep Arrhenius, Bronsted-
+Lowry, dan Lewis. Kekuatan asam dapat ditentukan dari 
+keelektronegatifan dan polaritas ikatan. pH asam basa menjadi 
+solusi untuk menyebutkan konsentrasi ion H+ dan OH– yang sangat 
+kecil. Nilai pH dapat dihitung dari minus logaritma konsentrasi H+. 
+Asam dan basa dapat bereaksi membentuk garam. Sifat 
+garam ditentukan oleh asam dan basa penyusunnya. Garam dapat 
+mengalami hidrolisis apabila ada komponen ion yang berasal dari 
+asam atau basa lemah. 
+Larutan penyangga adalah larutan yang dapat mempertahankan 
+pH. Komponen penyangga dapat ditemukan di dalam tubuh makhluk 
+hidup baik di dalam darah maupun dalam cairan intrasel. Selain 
+pada tubuh makhluk hidup, penyangga juga dapat ditemukan di 
+dalam air laut.
+Stoikiometri pada larutan tidak jauh berbeda dengan stoikiometri 
+reaksi lainnya. Prinsipnya adalah penyetaraan reaksi dan konsep 
+mol. Perbedaan utamanya adalah pada stoikiometri larutan ada 
+penentuan pH larutan. Titrasi asam basa dapat digunakan untuk 
+menentukan konsentrasi zat asam atau basa yang belum diketahui 
+dengan menggunakan zat lain yang konsentrasinya telah diketahui. 
+Dari hasil titrasi maka dapat dibuat kurva titrasi. Setiap titrasi 
+memiliki titik ekivalen dan titik akhir titrasi yang berbeda.
+Zat terlarut yang ada dalam larutan tidak semuanya mudah 
+larut dalam air. Zat terlarut ini mengalami kesetimbangan antara 
+bagian yang tidak larut dengan ion-ionnya yang mudah larut. Untuk 
+senyawa-senyawa yang sulit larut ini ada konsep khusus yaitu 
+kelarutan dan hasil kali kelarutan (Ksp).
+61
+Bab I  LARUTAN DAN KOLOID
+Larutan memiliki sifat yang berbeda dari pelarut dan zat 
+terlarutnya yang disebut sifat koligatif larutan. Sifat ini hanya 
+bergantung pada jumlah zat terlarut. Terdapat empat sifat yaitu 
+penurunan tekanan uap, penurunan titik beku, kenaikan titik didih, 
+dan tekanan osmosis.
+Koloid banyak ditemukan dalam kehidupan sehari-hari. Koloid 
+dibagi menjadi delapan jenis berdasarkan wujud zat terdispersi 
+dan mediumnya. Koloid memiliki sifat khas seperti adsorpsi, efek 
+Tyndall, gerak Brown, dan elektroforesis. Koloid dapat dibuat 
+dengan cara dispersi maupun kondensasi.
+Ayo Refleksi
+Isilah formulir evaluasi diri pada tabel berikut dengan cara memberi 
+tanda centang pada kolom yang kalian pilih.
+No.
+Pertanyaan
+Tanggapan
+Ya
+Tidak
+1.
+Apakah kalian melakukan setiap aktivitas yang 
+disediakan?
+2.
+Apakah kalian mengerjakan setiap latihan soal 
+yang ada?
+3.
+Apakah kalian memahami setiap bagian?
+4.
+Apakah kalian bekerjasama dengan teman-
+teman dalam setiap aktivitas kelompok?
+5.
+Apakah kalian merasa senang dalam setiap 
+aktivitas?
+6.
+Tuliskan pendapat kalian mengenai Bab ini: 
+62
+Kimia untuk SMA/MA Kelas XII
+Ayo Cek Pemahaman
+Pilihan Ganda
+1.	 Jika diketahui larutan asam asetat yang memiliki konsentrasi 0,01 
+M hanya terionisasi sebanyak 4%, maka pH larutan tersebut adalah 
+sebesar ....
+A.	 0,6 
+B.	 1,4 
+C.	 2
+D.	 3,4
+E	
+4
+2.	 Sebanyak 15,6 g M(OH)3 tepat bereaksi dengan 29,4 g asam H2A. 
+Massa molar asam H2A adalah ... g/mol. (Ar M = 27, H = 1, O = 16)
+A.	 210
+B.	 156
+C.	 147
+D.	 98
+E.	 29,5 
+3.	 Reaksi berikut yang menunjukkan reaksi netralisasi asam basa 
+adalah ....
+A.	 H2SO4(aq) + H2O(l) → H3O+(aq) + SO4
+2–(aq)
+B.	 NH3(g) + H2O(l) → NH4
++(aq) + OH–(aq)  
+C.	 Ca(s) + 2H2O(aq) → Ca(OH)2(aq) + 2H2(g)
+D.	 SO3(g) + H2O(l) → H2SO4(aq)
+E.	 2NO2(g) + 2NaOH(aq) → 2NaNO3(aq) + H2O(l)
+63
+Bab I  LARUTAN DAN KOLOID
+4.	 Sebanyak 50 ml larutan KOH 0,2 M ditambahkan ke dalam 40 ml 
+larutan HCOOH 0,5 M (Ka = 2 × 10–4). Besarnya pH larutan setelah 
+dicampur adalah .... (log 2 = 0,3)
+A.	 10,3
+B.	 9,7
+C.	 7
+D.	 4,3
+E.	 3,7 
+5.	 Apabila larutan asam kuat ditambahkan suatu larutan basa kuat 
+maka hal berikut yang tidak terjadi adalah ....
+A.	 reaksi netralisasi
+B.	 penambahan molekul air
+C.	 berkurangnya ion H+ 
+D.	 bertambahnya ion OH– 
+E.	 penurunan pH larutan
+6.	 Diketahui hasil kali kelarutan Ag2CrO4 dan AgCl adalah....
+Ksp Ag2CrO4 = 2,5 × 10–12
+Ksp AgCl = 1,0 × 10–10
+Jika ke dalam larutan yang mengandung jumlah mol CrO4
+2– dan Cl– 
+yang sama ditambahkan larutan perak nitrat, maka pernyataan 
+yang benar adalah ....
+A.	 AgCl dan Ag2CrO4 mengendap secara bersamaan
+B.	 Ag2CrO4 mengendap pertama karena Ksp lebih kecil 
+C.	 Ag2CrO4 mengendap pertama karena kelarutan lebih kecil 
+D.	 AgCl mengendap pertama karena kelarutan lebih kecil 
+E.	 Tidak terbentuk endapan 
+64
+Kimia untuk SMA/MA Kelas XII
+7.	 Hal-hal berikut ini yang bukan merupakan aplikasi sifat adsorpsi 
+koloid adalah....
+A.	 proses penjernihan air dengan tawas
+B.	 proses penggumpalan karet
+C.	 penggunaan norit (obat sakit perut)
+D.	 pemutihan gula pasir
+E.	 penggunaan sabun pada proses mencuci pakaian
+Uraian
+1.	 Pada reaksi-reaksi berikut ini, berilah tanda setiap spesi sesuai 
+dengan sifatnya.
+a.	 H2C2O4 + ClO– ⇌ HC2O4
+– + HClO
+b.	 HPO4
+2– + NH4
++ ⇌ NH3 + H2PO4
+– 
+c.	
+HSO4
+– + H2O ⇌ H2SO4 + OH– 
+d.	 H2PO4
+– + H2O ⇌ H3PO4 + OH–
+e.	 H2PO4
+– + H2PO4
+– ⇌ H3PO4 + HPO4
+2– 
+f.	
+HCN + CO3
+2– ⇌ CN– + HCO3
+– 
+2.	 Seorang siswa melakukan titrasi 20 ml larutan HCl 0,1 M dengan 
+larutan NaOH 0,1 M. Bantulah siswa tersebut untuk:
+a.	 menghitung pH awal HCl dan pH setelah ditambah NaOH 
+sebanyak 5,0 ml; 8,0 ml; 9,5 ml; 10,0 ml; dan 15,0 ml.
+b.	 membuat grafik hubungan pH dengan volume NaOH.
+c.	
+menentukan indikator yang cocok untuk penentuan titik akhir 
+titrasi?
+3.	 Hitunglah pH pada titik ekivalen untuk titrasi-titrasi berikut ini:
+a.	 Natrium asetat 0,104 g (Kb =5,6 × 10–10) dalam 25 ml air oleh HCl 
+0,9996 M.
+b.	 50 ml HClO 0,0426 M (Ka =3,5 × 10–8) oleh NaOH 0,1028 M.
+c.	
+HI 0,205 M sebanyak 50 ml oleh larutan KOH dengan konsentrasi 
+0,356 M.

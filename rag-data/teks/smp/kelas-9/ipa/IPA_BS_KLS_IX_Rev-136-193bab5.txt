@@ -1,0 +1,2187 @@
+Listrik, Magnet, 
+dan Energi Alternatif
+Bab
+Bab5
+Apa yang akan 
+terjadi jika semua 
+mobil di dunia ini 
+bertenaga listrik?
+KEMENTERIAN PENDIDIKAN DASAR DAN MENENGAH
+REPUBLIK INDONESIA, 2025
+Ilmu Pengetahuan Alam
+untuk SMP/MTs Kelas IX (Edisi Revisi)
+Penulis : 	Cece Sutia, Victoriani Inabuy, Okky Fajar Tri Maryana
+	
+	
+Budiyanti Dwi Hardanie, Sri Handayani Lestari
+ISBN	
+: 	 978-634-00-2430-2 (jil.3)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+118
+Tujuan Pembelajaran
+Pada akhir pembelajaran bab ini, kamu mampu menjelaskan konsep dasar 
+listrik dan magnet beserta penerapannya dalam kehidupan sehari-hari. Kamu 
+juga dapat menyusun dan menguji rangkaian listrik sederhana secara mandiri 
+maupun kolaboratif. Selain itu, kamu dapat  memahami prinsip elektromagnetik 
+dan penggunaannya dalam berbagai teknologi, serta mampu mengidentifikasi 
+dan mengevaluasi berbagai sumber energi alternatif untuk mendukung 
+masa depan yang berkelanjutan. Sebagai bentuk penerapan pengetahuan, 
+kamu didorong untuk merancang purwarupa alat sederhana berbasis energi 
+alternatif. Selama proses pembelajaran, kamu juga diharapkan menunjukkan 
+sikap peduli terhadap lingkungan dan menerapkan perilaku hemat energi 
+dalam kehidupan sehari-hari.
+Peta Konsep
+Kata Kunci
+ Listrik 
+ Magnet 
+ Energi Alternatif
+ Elektromagnetik
+ Rangkaian Listrik
+Listrik, Magnet, dan Energi Alternatif
+mempelajari lebih dalam tentang
+Mengenal dan 
+memahami 
+tentang
+antara 
+lain
+Konsep-konsepnya 
+terdiri dari
+menyadari pentingnya
+Bagian yang dipelajari
+Listrik
+Magnet
+Generator
+Energi Alternatif
+Sejarah Magnet
+Gaya Magnet
+Elektromagnetik
+Induksi 
+Elektromagnetik
+Energi 
+Angin
+Listrik
+Statis
+Gaya 
+Listrik
+Medan 
+Listrik
+Listrik 
+Dinamis
+Arus 
+Listrik
+Daya 
+Listrik
+Rangkaian 
+Listrik
+Potensial 
+Listrik
+Energi 
+Nuklir
+Sel 
+Surya
+Terbagi menjadi
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+119
+Coba kamu perhatikan lingkungan sekitarmu. Banyak 
+aktivitas sehari-hari yang bergantung pada listrik, 
+magnet, dan sumber energi tertentu. Di rumah, lampu 
+menyala terang, televisi mengeluarkan suara dan 
+gambar, dan kipas angin yang berputar perlahan. 
+Semuanya membutuhkan listrik untuk bekerja. Namun, tahukah kamu dari 
+mana asal energi listrik tersebut? Mengapa listrik dapat menyetrum? Dan 
+apakah semua benda dapat menghantarkan listrik?
+Tak hanya listrik, magnet juga hadir dalam kehidupan kita tanpa kita 
+sadari. Pintu kulkas yang menutup rapat, mainan tempel, hingga alat rumah 
+tangga seperti tutup kotak bumbu, semuanya memanfaatkan magnet. Akan 
+tetapi, sebenarnya, apa itu magnet? Apa saja sifatnya? Mungkinkah kita 
+membuat magnet sendiri?
+Belakangan ini, kamu mungkin melihat semakin banyak kendaraan listrik 
+bermunculan, atau lampu jalan yang menggunakan tenaga surya. Mengapa 
+masyarakat semakin mendorong penggunaan energi yang ramah lingkungan? 
+Energi alternatif atau energi terbarukan menjadi harapan baru untuk masa 
+depan yang berkelanjutan. Namun, sumber energi apa saja yang termasuk 
+dalam kategori ini? Bagaimana cara kita menggunakannya?
+Pertanyaan-pertanyaan ini akan menjadi awal petualanganmu dalam 
+memahami konsep listrik, magnet, dan energi alternatif. Ayo kita mulai dengan 
+merefleksikan pengetahuan dan pengalaman awalmu melalui pertanyaan-
+pertanyaan berikut. Ingat, tidak ada jawaban benar atau salah. Semua jawaban 
+akan membantu guru dan teman-teman memahami lebih baik bagaimana 
+kita memulai pembelajaran ini.
+1.	
+Apa saja alat di rumahmu yang tidak dapat berfungsi tanpa listrik?
+2.	
+Pernahkah kamu mengalami tersengat listrik? Jika ya, ceritakan bagaimana 
+itu terjadi.
+3.	
+Menurutmu, dari mana asal energi listrik yang digunakan di rumah?
+4.	
+Apakah semua benda dapat menghantarkan listrik? Berikan contohnya.
+5.	
+Mengapa listrik bisa berbahaya jika tidak digunakan dengan hati-hati?
+6.	
+Sebutkan contoh benda atau alat di rumahmu yang menggunakan magnet!
+7.	
+Pernahkah kamu bermain dengan magnet? Apa yang terjadi saat dua 
+kutub magnet didekatkan?
+Belajar
+Belajar
+Siap-Siap
+Siap-Siap
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+120
+8.	
+Menurutmu, apakah semua logam dapat ditarik oleh magnet? Jelaskan 
+pendapatmu!
+9.	
+Apa yang terjadi jika magnet didekatkan ke TV, handphone, atau kompas?
+10.	 Apa yang terlintas di pikiranmu saat mendengar kata “elektromagnet”?
+11.	 Apa saja sumber energi yang kamu ketahui dan digunakan di rumah 
+atau sekolah?
+12.	 Apa dampaknya jika kita terus menggunakan energi dari minyak bumi 
+atau batu bara?
+13.	 Pernahkah kamu melihat atau menggunakan alat yang memanfaatkan 
+energi matahari atau angin? Ceritakan!
+14.	 Jika harus memilih satu energi alternatif untuk daerah tempat tinggalmu, 
+apa yang akan kamu pilih? Mengapa?
+15.	 Menurutmu, apa makna kata “terbarukan”? Apakah semua energi dapat 
+diperbarui?
+Dari pertanyaan di atas, manakah yang kamu merasa kesulitan dalam 
+menjawabnya?
+A.	 Listrik
+Coba kamu perhatikan sekeliling rumahmu. Lampu menyala terang, televisi 
+menampilkan gambar dan suara, kipas angin berputar perlahan—semuanya 
+membutuhkan listrik untuk bekerja. Akan tetapi, tahukah kamu dari mana 
+listrik itu berasal?
+Pernahkah kamu merasakan kesetrum saat mencolokkan kabel ke stop 
+kontak? Apakah rasanya seperti tersengat? Mengapa hal itu bisa terjadi? 
+Apakah semua benda bisa menghantarkan listrik? Apakah tubuh manusia juga 
+termasuk? Melalui pertanyaan-pertanyaan ini, kita akan mulai mempelajari 
+dunia listrik—mulai dari gejala sederhana seperti listrik statis hingga 
+pemanfaatan listrik dalam kehidupan sehari-hari. Mari kita selami bersama 
+cara listrik bekerja, cara kita menggunakannya dengan bijak, dan perannya 
+dalam menciptakan masa depan yang berkelanjutan.
+1.	 Listrik Statis
+Perhatikan Gambar 5.1. Mengapa rambut bisa berdiri setelah digosok 
+dengan sisir plastik? Apakah mungkin kita bisa menggerakkan benda tanpa 
+menyentuhnya?   
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+121
+Gambar 5.1 Seorang anak sedang menyisir rambut sehingga helai-helai rambutnya berdiri.  
+Cobalah kamu lakukan percobaan sederhana ini: sisirlah rambut yang 
+kering menggunakan sisir plastik secara berulang. Perhatikan beberapa 
+helai rambut yang tertarik ke arah sisir dan berdiri tegak. Kamu juga dapat 
+menggosokkan lembar plastik mika pada rambut, lalu mendekatkannya ke 
+potongan kertas kecil. Potongan kertas tersebut tiba-tiba bergerak-gerak, 
+seolah menari.
+Fenomena ini bukan sihir, melainkan merupakan gejala listrik statis, 
+yaitu kondisi ketika muatan listrik berpindah dari satu benda ke benda 
+lainnya akibat gesekan. Berbeda dengan listrik yang mengalir melalui kabel 
+di rumah, listrik statis tidak memerlukan sumber listrik seperti baterai atau 
+stop kontak. Ia terjadi secara alami melalui gesekan antarbenda tertentu.
+Akan tetapi, apakah semua benda dapat menunjukkan gejala listrik statis? 
+Tidak. Benda-benda tertentu seperti plastik, kain wol, kaca, atau rambut kering 
+lebih mudah menunjukkan fenomena ini karena sifat permukaannya yang 
+memungkinkan terjadinya perpindahan muatan. Sifat ini dikenal sebagai 
+kemampuan benda untuk menarik atau melepas elektron saat bergesekan 
+dengan benda lain.
+Untuk memahaminya lebih jauh, mari kita ingat kembali struktur dasar 
+atom. Setiap atom memiliki inti yang terdiri dari proton (bermuatan positif) 
+dan neutron (netral) serta dikelilingi oleh elektron (bermuatan negatif). Ketika 
+dua benda digosokkan, elektron dapat berpindah dari satu benda ke benda 
+lain, meninggalkan salah satu benda bermuatan positif (karena kehilangan 
+elektron) dan satunya bermuatan negatif (karena kelebihan elektron). Jika 
+dua benda yang bermuatan listrik didekatkan, ada dua keadaan yang dapat 
+Sisir
+Elektron
+Proton
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+122
+terjadi. Pertama adalah benda dengan muatan yang berbeda akan saling 
+tarik-menarik. Keadaan kedua adalah ketika benda dengan muatan yang 
+sama akan saling tolak-menolak.
+Gambar 5.2 Listrik yang bermuatan negatif 
+(kelebihan elektron) menarik potongan kertas kecil.
+Interaksi ini adalah dasar dari 
+fenomena listrik statis yang dapat 
+kamu amati sendiri di rumah. Dengan 
+memahami prinsip ini, kamu sedang 
+memasuki dunia mikroskopis yang 
+menjelaskan pengaruh muatan 
+tersembunyi terhadap benda-benda 
+di sekitar kita.
+Lihatlah Gambar 5.2. Gambar tersebut memperlihatkan dua benda yang 
+saling tarik-menarik. Ini terjadi karena terdapat perbedaan muatan listrik 
+pada kedua benda tersebut. Misalnya, ketika sisir yang telah digosok menjadi 
+bermuatan negatif didekatkan ke potongan kertas, sebagian ujung kertas 
+menjadi bermuatan positif, sehingga keduanya saling tertarik. Fenomena 
+ini menggambarkan hukum dasar dalam kelistrikan: muatan berbeda tarik-
+menarik, muatan sejenis tolak-menolak.
+Namun, muncul pertanyaan penting: Bagaimana kita dapat mengetahui 
+apakah suatu benda bermuatan positif atau negatif? Untuk menjawabnya, kita 
+perlu alat bantu yang dapat mendeteksi adanya muatan listrik pada suatu 
+benda, sekaligus memberi petunjuk tentang jenis muatannya. Salah satu alat 
+sederhana tetapi sangat berguna untuk keperluan ini adalah elektroskop.
+Pernahkah kamu memperhatikan percikan kecil seperti kilatan api 
+yang muncul dari aspal saat truk besar melintas? Atau percikan cahaya di 
+sepanjang rel ketika kereta api melaju kencang? Fenomena ini bukan sekadar 
+efek visual biasa, melainkan gejala listrik statis. Fenomena ini merupakan 
+hasil dari akumulasi dan pelepasan muatan listrik yang berbeda antara dua 
+permukaan yang bergesekan kuat, seperti ban dan jalanan atau roda logam 
+dan rel.
+Gejala listrik statis seperti ini, meski tampak sepele, dapat berbahaya 
+dalam kondisi tertentu, misalnya di lingkungan yang mudah terbakar. Karena 
+itulah para ilmuwan terdorong untuk merancang alat pendeteksi muatan 
+listrik yang dikenal sebagai elektroskop. Alat ini membantu kita mengamati 
+apakah suatu benda bermuatan listrik, sekaligus mengenali jenis muatannya 
+(positif atau negatif) dengan cara yang aman dan sederhana.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+123
+Tujuan:
+Setelah melakukan aktivitas ini, kamu dapat:
+1.	
+mengamati gejala listrik statis melalui percobaan elektroskop sederhana, 
+2.	
+menjelaskan prinsip kerja elektroskop sebagai alat pendeteksi muatan listrik, 
+3.	
+menentukan jenis muatan (positif atau negatif) pada benda berdasarkan 
+interaksi dengan elektroskop, dan 
+4.	
+melatih keterampilan observasi, penalaran ilmiah, dan kerja sama dalam 
+kelompok eksperimen.
+Gambar 5.3 Elektroskop Sederhana untuk Menentukan Muatan Listrik Benda
+Alat dan bahan:
+1.	
+Stoples kaca kecil bertutup logam/plastik (diameter sekitar 6–8 cm)
+2.	
+Klip kertas besar atau paku kecil ditambah kawat tembaga tipis
+3.	
+Aluminium foil (dipotong dua daun kecil, sekitar 1×3 cm)
+4.	
+Isolasi/perekat (selotip)
+5.	
+Sedotan plastik/kaca akrilik/PVC sebagai batang penggosok
+6.	
+Kain wol/selendang sintetis/balon untuk menggosok (sumber muatan)
+7.	
+Stirofoam/kardus kecil sebagai dudukan penyangga (isolasi)
+8.	
+Gunting dan paku/pisau kecil untuk melubangi tutup
+9.	
+Protractor kertas (busur derajat) ditempel di dinding stoples untuk mengukur 
+sudut bukaan daun (opsional) 
+10.	 Higrometer mini atau aplikasi cuaca untuk melihat kelembapan (opsional) 
+Langkah-langkah:
+A. 	 Merakit elektroskop
+1.	
+Lubangi tutup stoples (diameter ±2–3 mm) di bagian tengah.
+2.	
+Bentuk klip kertas menjadi batang lurus; di salah satu ujungnya pasang 
+kait kecil.
+Aktivitas 5.1
+Ayo Selidiki
+Dekati dengan sisir bermuatan
+Foil alumunium
+Penggaris direkatkan pada botol
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+124
+3.	
+Gantungkan dua daun aluminium foil pada kait sehingga saling bertumpu 
+pada ujungnya (bentuk huruf V tertutup).
+4.	
+Masukkan batang melalui lubang tutup; ujung atas batang menonjol di 
+luar (untuk disentuh/didekati sumber muatan), ujung bawah berada di 
+dalam stoples menggantungkan daun.
+5.	
+Kencangkan posisi batang di lubang (isolasi panas/lem tembak tipis) 
+agar tidak menyentuh tepi lubang (mencegah kebocoran muatan).
+6.	
+Pasang tutup pada stoples; pastikan daun bergerak bebas dan tidak 
+menyentuh dinding.
+B. 	 Mengisi muatan (konduksi)
+7.	
+Gosok sisir/batang plastik (PVC/akrilik) dengan kain wol ±15–20 detik.
+8.	
+Sentuhkan ujung sisir/batang yang bermuatan ke ujung atas batang 
+logam elektroskop selama 1–2 detik, lalu angkat.
+9.	
+Amati: daun foil akan terbuka (tolak‑menolak).
+C. 	 Menginduksi muatan (tanpa menyentuh)
+10.	 Dekatkan ujung batang bermuatan ke dekat ujung atas elektroskop (tanpa 
+menyentuh).
+11.	 Amati: daun akan membuka karena redistribusi muatan (induksi).
+12.	 Grounding: sentuh perlahan bagian atas batang dengan jari saat batang 
+bermuatan masih didekatkan (mengalirkan muatan ke bumi). Lalu angkat 
+jari lebih dulu, baru jauhkan batang; amati efeknya pada daun (Opsional).
+Sekarang, saatnya kamu mencoba membuat elektroskop sendiri. Lihat Gambar 
+5.3 yang menunjukkan elektroskop sederhana yang dapat dibuat dari bahan-bahan 
+seperti botol bekas, kawat, dan aluminium foil. Bersama teman-temanmu, cobalah 
+merakit alat tersebut. Lalu, ujilah dengan mendekatkan sisir plastik atau batang 
+kaca yang telah digosok ke rambut atau kain wol. Apakah lembaran aluminium 
+foilnya bergerak? Apakah membuka atau tetap diam?
+Sebelum mencoba, carilah informasi dari berbagai sumber. Bagaimana cara 
+membuat benda bermuatan? Apakah semua benda dapat bermuatan jika digosok? 
+Setelah itu, lakukan pengamatan dan jawab pertanyaan-pertanyaan berikut.
+a.	
+Apa yang terjadi ketika foil alumunium didekati sisir bermuatan negatif?
+b.	
+Bagaimana foil bereaksi saat didekati batang kaca bermuatan positif?
+c.	
+Mengapa foil tetap terbuka walaupun sisir sudah menjauh?
+Diskusikan temuanmu bersama guru dan teman-teman sekelas. Bandingkan 
+hasil pengamatanmu dengan prinsip interaksi muatan: muatan sejenis saling 
+tolak, muatan berbeda saling tarik. 
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+125
+Pada dasarnya, dalam suhu ruang normal, atom-atom dalam benda 
+berada dalam keadaan netral, yaitu jumlah proton dan elektronnya seimbang. 
+Namun, melalui gesekan atau gangguan lainnya, muatan dapat berpindah, 
+menyebabkan benda menjadi bermuatan positif atau negatif. Inilah prinsip 
+dasar dari gejala listrik statis.
+Sekarang, jika kita sudah tahu bahwa dua benda bisa saling tarik atau 
+tolak berdasarkan jenis muatannya, muncul pertanyaan baru: Seberapa besar 
+kekuatan tarik atau tolak tersebut?
+Untuk dapat menjawabnya, kamu akan mempelajari konsep gaya listrik, 
+yang dijelaskan dalam subbab berikutnya.
+2.	 Gaya Listrik
+Apakah mungkin dua benda bisa saling tarik-menarik atau tolak-menolak 
+tanpa saling menyentuh? Seberapa kuat gaya yang terjadi antara keduanya?
+Pada akhir abad ke-18, ketika ilmu pengetahuan mulai berkembang pesat 
+di Eropa, banyak ilmuwan tertarik untuk memahami fenomena alam melalui 
+pendekatan ilmiah dan matematis. Salah satu tokoh penting dalam sejarah 
+fisika listrik adalah Charles Augustin de Coulomb (1736–1806), seorang insinyur 
+militer dan fisikawan asal Prancis. Sebelum era Coulomb, fenomena listrik 
+dan gaya tarik-menarik antara benda bermuatan masih dipahami secara 
+kualitatif tanpa dasar rumus yang pasti. Coulomb terdorong oleh keinginan 
+untuk menjelaskan secara kuantitatif penyebab dua benda bermuatan saling 
+memengaruhi satu sama lain.
+Pada tahun 1785, Coulomb memublikasikan 
+hasil eksperimen pentingnya yang menjadi 
+fondasi hukum Coulomb. Hukum ini merupakan 
+sebuah hukum fisika yang menyatakan bahwa 
+gaya listrik antara dua muatan berbanding lurus 
+dengan besar kedua muatan dan berbanding 
+terbalik dengan kuadrat jarak antara mereka. 
+Penemuan ini menjadi tonggak penting dalam 
+teori listrik statis.
+Gambar 5.4 Charles-Augustin de Coulomb 
+Sumber: Hippolyte Lecomte/en.wikipedia.org (1894)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+126
+Untuk membuktikan hukum tersebut, Coulomb 
+merancang dan menggunakan alat yang sangat 
+sensitif yang disebut neraca puntir (torsion balance). 
+Alat ini memungkinkan pengukuran gaya tarik 
+atau tolak yang sangat kecil antara dua benda 
+bermuatan. Neraca puntir terdiri dari batang ringan 
+yang digantung dengan kawat tipis yang dapat 
+berputar ketika diberi gaya. Dengan mengukur 
+sudut puntiran kawat, Coulomb dapat menentukan 
+besar gaya listrik secara akurat. Gambar 5.5 
+memperlihatkan ilustrasi alat dan eksperimen yang 
+dilakukan Coulomb.
+Penelitian Coulomb bukan hanya memberikan 
+rumus dasar tentang interaksi listrik, melainkan 
+juga menginspirasi perkembangan teori medan 
+dan hukum-hukum elektromagnetik oleh ilmuwan 
+berikutnya seperti Michael Faraday dan James 
+Clerk Maxwell. Karena jasanya, satuan muatan 
+listrik dalam Sistem Internasional (SI) diberi nama 
+“Coulomb (C)” untuk menghormatinya.
+Gambar 5.5 Eksperimen 
+Percobaan Coulomb untuk 
+Menentukan Muatan Listrik 
+Sumber: www.teylersmuseum.nl (1876)
+Kamu dapat juga melakukan percobaan sederhana untuk dapat 
+menentukan gaya listrik pada benda yang bermuatan. Lakukanlah Aktivitas 
+5.2 berikut dengan penuh semangat. 
+Aktivitas 5.2
+Ayo Amati
+Tujuan:
+Setelah melakukan aktivitas ini, kamu mampu:
+1.	
+mengamati interaksi gaya tarik atau tolak antara dua benda bermuatan listrik,
+2.	
+menjelaskan bahwa gaya listrik dapat bekerja tanpa kontak langsung 
+antarbenda,
+3.	
+menyimpulkan hubungan antara jenis muatan dan arah gaya listrik yang 
+ditimbulkan, dan
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+127
+4.	
+mengembangkan keterampilan kerja ilmiah, 
+seperti merumuskan hipotesis dan menguji 
+melalui pengamatan sederhana.
+Alat dan bahan:
+1.	
+Dua balon ukuran sama (tiup sedang, 
+diameter ±15–20 cm)
+2.	
+Tali/benang nilon (±50–60 cm tiap balon) 
+dan selotip/perekat
+3.	
+Statif/gantungan (bisa mistar yang dijepit 
+di dua penyangga)
+4.	
+Kain wol/sweter sintetis/rambut kering 
+untuk menggosok
+5.	
+Mistar atau meteran 
+6.	
+Timer/jam 
+7.	
+Busur derajat kertas ditempel di belakang 
+untuk mengukur sudut deviasi (opsional) 
+Keselamatan: 
+Hindari meniup balon berlebihan; jauhkan dari wajah saat menggosok; perhatikan 
+alergi lateks; statis aman (arus sangat kecil).
+Langkah-langkah:
+1.	
+Siapkan gantungan: pasang mistar/penyangga horizontal. Ikat dua balon 
+dengan panjang tali sama (±50–60 cm).
+2.	
+Atur jarak awal antartitik gantung menjadi 30 cm. Pastikan balon diam (tidak 
+berayun).
+3.	
+Gosok kedua balon dengan kain wol selama 30 detik (durasi sama).
+4.	
+Gantungkan kembali balon pada gantungannya dan amati: apakah balon 
+tolak‑menolak (menjauh) atau tarik‑menarik (mendekat)?
+5.	
+Ukur indikator jarak antarpusat balon (cm) saat stabil; atau
+	
+beri skor interaksi 1–5 (1= sangat lemah, 5= sangat kuat).
+6.	
+Ulangi langkah 2–5 untuk jarak gantung 20 cm.
+7.	
+Variasi banyak muatan: ulangi langkah 2–6 dengan waktu gosok 60 detik.
+8.	
+Inversi muatan: gosok salah satu balon dengan bahan berbeda (misalnya 
+kaca dan sutra) lalu amati kemungkinan tarik‑menarik (Opsional).
+9.	
+Catat semua data ke dalam Tabel Pengamatan.
+Gambar 5.6 Gaya Listrik pada Dua 
+Balon yang Bermuatan
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+128
+Apakah hasil analisis percobaanmu pada Aktivitas 5.2 sama dengan hasil 
+temuan dari Coulomb?
+Berdasarkan percobaan dengan menggunakan neraca puntir, Coulomb 
+menyimpulkan bahwa besar gaya listrik antara dua benda bermuatan adalah 
+berbanding terbalik dengan kuadrat jarak kedua muatan atau dapat disajikan 
+dalam persamaan berikut.
+Seperti yang sudah kita pelajari sebelumnya, jika muatan positif dan muatan 
+negatif pada suatu benda tidak sama jumlahnya, maka akan timbul gejala listrik 
+statis. Dua benda bermuatan akan tarik-menarik atau tolak-menolak apabila 
+didekatkan. Tarikan dan tolakan ini kita sebut sebagai gaya listrik. Untuk 
+mengetahui lebih lanjut terkait gaya listrik, mari rancang percobaan seperti pada 
+gambar. Amati apa yang terjadi pada kedua balon selama waktu tertentu ketika 
+diletakkan pada jarak yang berbeda-beda. Catat hasil pengamatanmu pada tabel 
+berikut.
+No
+Waktu Menggosok Balon dengan 
+Kain Wol atau Rambut yang Kering
+Jarak pisah
+Kuat Interaksi Kedua Balon 
+(Tuliskan angka 1-5, dengan 
+angka 5 adalah terkuat)
+1
+30 detik
+a.	 30 cm
+b.	 20 cm
+2
+60 detik
+a.	 30 cm
+b.	 20 cm
+Berdasarkan percobaanmu, jawab pertanyaan-pertanyaan berikut.
+a.	
+Bagaimana pengaruh variasi jarak kedua statif terhadap interaksi kedua balon? 
+b.	
+Apakah jarak mempengaruhi besarnya gaya tolak-menolak atau gaya tarik-
+menarik kedua balon? 
+c.	
+Bagaimana pengaruh lamanya waktu menggosok terhadap interaksi kedua 
+balon? 
+d.	
+Apakah besarnya gaya tolak-menolak atau gaya tarik-menarik antara kedua 
+balon dipengaruhi oleh besarnya muatan?
+Diskusikan dengan guru dan teman sekelasmu. 
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+129
+	
+F  
+1
+r2	
+(1)
+Kemudian, besar gaya listrik sebanding dengan perkalian muatan partikel 
+atau F  q1 q2  dapat dilihat pada Gambar 5.7.
++
++
+Fe
+r
+(a) Tolak-menolak
++
+-
+(b) Tarik-menarik
+r
+Fe
+Gambar 5.7 Ilustrasi Gaya Coulomb pada Muatan Listrik
+Rumusan Gaya Coulomb (Fc) secara matematis dapat dituliskan sebagai berikut.
+	
+Fc = k
+q1q2
+r2
+	
+	
+	
+	
+(2)
+Keterangan: 
+Fc = gaya Coulomb (newton) 
+k  = konstanta = 9 x 109 Nm2/C2 
+r   = jarak antara dua muatan (meter) 
+q1 = besar muatan listrik pertama (coulomb) 
+q2 = besar muatan listrik kedua (coulomb)
+Persamaan (2) menunjukkan bahwa semakin jauh jarak antarbenda 
+bermuatan maka gaya listrik yang dirasakan akan semakin kecil.
+Setelah memahami bahwa dua muatan listrik dapat saling berinteraksi 
+melalui gaya tarik atau tolak tanpa harus bersentuhan langsung, muncul 
+pertanyaan penting: bagaimana gaya ini dapat “dirasakan” oleh muatan 
+lain dari kejauhan? Jawabannya terletak pada konsep medan listrik. Sama 
+seperti bumi memiliki medan gravitasi yang memengaruhi benda di 
+sekitarnya, muatan listrik juga menciptakan medan di ruang sekitarnya 
+yang dapat memengaruhi muatan lain yang berada dalam jangkauannya. 
+Untuk memahami bagaimana medan listrik ini bekerja dan bagaimana cara 
+menggambarkannya, mari kita pelajari lebih lanjut dalam subbab berikutnya.
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+130
+3.	 Medan Listrik
+Jika gaya listrik dapat bekerja tanpa sentuhan, dari mana asal kekuatannya? 
+Bagaimana suatu muatan bisa “merasa” kehadiran muatan lain dari kejauhan?
+Pernahkah kamu menjatuhkan benda dan melihatnya langsung jatuh 
+ke bawah? Itu karena bumi memiliki medan gravitasi, yaitu pengaruh yang 
+membuat semua benda bermassa tertarik ke arah pusat bumi. Hal serupa 
+juga terjadi pada muatan listrik. Ketika sebuah benda memiliki muatan, ia 
+menciptakan daerah pengaruh di sekitarnya, yang disebut sebagai medan 
+listrik.
+Medan listrik dapat didefinisikan sebagai daerah di sekitar benda 
+bermuatan yang masih dapat memberikan gaya listrik kepada muatan lain 
+yang berada di dalamnya. Jadi, meskipun dua muatan tidak bersentuhan 
+langsung, keberadaan medan listrik memungkinkan terjadinya interaksi 
+berupa gaya tarik atau gaya tolak.
+Untuk memvisualisasikan medan ini, kita dapat menggunakan garis-garis 
+gaya listrik, garis imajiner yang menunjukkan arah dan kekuatan medan. 
+Gambar 5.8 menunjukkan bahwa: garis medan yang keluar dari muatan 
+menunjukkan bahwa muatan tersebut positif. Sedangkan garis medan yang 
+masuk ke muatan menunjukkan bahwa muatan tersebut negatif.
+Gambar 5.8 Garis Medan Listrik Dua Muatan
+Semakin rapat garis-garis gaya listrik pada suatu daerah, semakin kuat 
+medan listrik di daerah tersebut. Dengan memahami medan listrik, kamu 
+tidak hanya dapat menggambarkan bagaimana muatan memengaruhi 
+lingkungannya, tetapi juga menjelaskan bagaimana gaya Coulomb dapat 
+“merambat” melalui ruang kosong.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+131
+Untuk mengetahui besar kuat 
+medan listrik muatan Q, sebuah 
+muatan uji positif (qo) yang muatannya 
+jauh lebih kecil diletakkan di dekat 
+muatan tersebut dengan jarak r 
+seperti pada Gambar 5.9. 
+Berdasarkan hukum Coulomb, 
+muatan qo tersebut akan mendapatkan 
+gaya tolak dari muatan Q. Besarnya 
+gaya tolak dapat dihitungan dengan 
+rumus sebagai berikut.
++
+r
+q0
+Q
+E
+++ +
+++ +
+Gambar 5.9 Muatan Q Didekati Muatan Tes q0
+	
+	
+	
+	
+Fc = k
+(Q)(q0 )
+r2
+	
+(3)
+Kuat medan listrik (E) didefinisikan sebagai besarnya gaya listrik (F) yang 
+bekerja pada satu muatan uji (q0). Besarnya kuat medan listrik yang dialami 
+oleh muatan uji tersebut dapat dihitung dengan rumus berikut.
+E = F
+q0
+E =kQ
+r2
+E = q0
+k
+(Q)(q0 )
+r2
+Dengan demikian, dapat disimpulkan bahwa besar kuat medan istrik 
+pada suatu titik yang berjarak r dari muatan Q adalah:
+	
+E =kQ
+r2 	
+(4)
+Keterangan:
+E = medan listrik (N/C) 
+F = gaya Coulomb (newton) 
+Q, q = besar muatan istrik (coulomb)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+132
+Setelah memahami bahwa setiap muatan menciptakan medan listrik yang 
+dapat memengaruhi muatan lain di sekitarnya, kini muncul pertanyaan: apa 
+yang sebenarnya dibutuhkan agar sebuah muatan dapat bergerak dalam 
+medan tersebut? Benda yang berada di medan gravitasi memiliki energi 
+potensial tergantung posisinya. Demikian pula muatan listrik dalam medan 
+listrik juga memiliki energi potensial. Konsep ini dikenal sebagai potensial 
+listrik, yang menggambarkan seberapa besar energi yang dimiliki atau 
+dibutuhkan sebuah muatan saat berada pada suatu titik dalam medan listrik. 
+Untuk memahami bagaimana energi ini bekerja dan mengapa potensial 
+listrik penting dalam kehidupan sehari-hari, termasuk dalam sistem saraf 
+dan teknologi, mari kita pelajari lebih lanjut pada bagian berikut.
+4.	 Potensial Listrik
+Apa yang sebenarnya kamu rasakan saat tersetrum? Mengapa tubuh bisa 
+merespons kejutan listrik, padahal kulit termasuk isolator?
+Pernahkah kamu secara tidak sengaja menyentuh stop kontak (biasanya 
+pada stop kontak tertulis tegangan 220 volt) dan merasa seperti ada kejutan 
+kecil yang mengalir di tanganmu? Sensasi tersetrum itu disebabkan oleh 
+perpindahan listrik dari stop kontak ke tubuhmu akibat perbedaan tegangan 
+listrik, atau yang disebut juga sebagai beda potensial listrik. Meski kulit dan 
+tubuh tergolong sebagai bahan sulit menghantarkan listrik atau bersifat 
+isolator, jika tegangan listrik yang diterima cukup besar, maka sengatan 
+listrik akan terasa pada tubuh. Sengatan listrik tersebut disebabkan karena 
+listrik mengalir pada tubuh kita atau biasa dikenal sebagai arus listrik. Secara 
+sederhana, arus listrik adalah aliran muatan listrik yang terjadi pada suatu 
+penghantar (seperti kawat tembaga) akibat adanya perbedaan potensial listrik 
+atau tegangan. Konsep arus listrik akan diperdalam pada bagian selanjutnya.
+Potensial listrik menggambarkan seberapa besar energi yang dimiliki 
+suatu muatan listrik di suatu titik dalam medan listrik. Semakin besar beda 
+potensial antara dua titik, semakin besar pula dorongan bagi muatan listrik 
+untuk bergerak. Hubungan antara energi listrik, muatan, dan beda potensial 
+dirumuskan sebagai:
+	
+ΔV = W
+Q 	
+(5)
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+133
+Keterangan:
+ΔV = beda potensial listrik (volt)
+W 	= energi listrik (joule)
+Q 	 = muatan listrik (coulomb)
+Tubuh pada dasarnya termasuk isolator, tetapi ada bagian yang secara 
+alamiah memproduksi dan merespons dengan singkat beda potensial listrik. 
+Bagian tersebut adalah kumpulan jaringan-jaringan saraf. Saraf di dalam 
+tubuh dapat menimbulkan dan menyalurkan impuls-impuls (respons-respons 
+singkat) listrik yang kecil. Aliran-aliran listrik kecil di dalam jaringan saraf 
+membawa informasi dari pancaindra yang nanti akan diolah di otak.
+Biolistrik merupakan bidang ilmu yang mempelajari tentang aliran impuls 
+listrik pada makhluk hidup khususnya manusia. Beda potensial/tegangan pada 
+jaringan saraf berbeda dengan yang kita bayangkan. Listrik pada jaringan 
+saraf bukan listrik yang mengalir seperti pada kabel listrik di rumah-rumah, 
+melainkan komposisi ion yang terdapat dalam tubuh.
+Gambar 5.10 Ilustrasi Pengukuran Muatan Listrik pada Sel Saraf Tidak Bermyelin dengan Menggunakan 
+Alat Ukur Potensial Listrik Voltmeter
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+134
+Setiap manusia memiliki sistem saraf yang dapat mengontrol gerak 
+otot. Sistem saraf terdiri atas sel-sel saraf yang berfungsi untuk menerima, 
+mengolah, dan mengirim rangsangan atau impuls yang diterima pancaindra. 
+Setiap sel saraf terdiri atas tiga bagian, yaitu badan sel saraf, dendrit, dan akson 
+atau neurit. Selain ketiga bagian tersebut, pada sel saraf juga terdapat bagian 
+tambahan berupa selubung myelin. Myelin sebenarnya bukan bagian sel saraf, 
+melainkan terdiri atas sel pembentuk myelin yang berfungsi menyelubungi 
+akson. Berdasarkan keberadaan myelin, terdapat dua macam neuron, yaitu 
+neuron yang berselubung myelin dan neuron yang tidak berselubung myelin.
+Gambar 5.11 Ilustrasi Perambatan Muatan Listrik (Na+) pada Sel-Sel Saraf di Dalam Tubuh Manusia
+Setelah memahami bahwa beda potensial atau tegangan dapat mendorong 
+muatan listrik untuk bergerak, kini saatnya kita mempelajari listrik dinamis, 
+yaitu listrik yang mengalir secara terus-menerus melalui suatu penghantar. 
+Jika pada listrik statis muatan hanya berpindah sesaat dan kemudian berhenti, 
+pada listrik dinamis terjadi aliran muatan yang berkesinambungan, yang 
+kita kenal sebagai arus listrik. Arus ini menjadi dasar bagi hampir seluruh 
+teknologi kelistrikan yang kita gunakan sehari-hari—mulai dari menyalakan 
+lampu, mengisi daya ponsel, hingga menggerakkan motor listrik. Bagaimana 
+arus listrik dapat mengalir, dan apa saja faktor yang memengaruhinya? Mari 
+kita pelajari lebih lanjut.
+A. 	Saat neurotransmitter dilepaskan dari 
+sel saraf lain, impuls (rangsangan) akan 
+diteruskan ke sel saraf berikutnya. 
+Neurotransmitter mengakibatkan muatan 
+positif Na+ masuk ke dalam sel saraf.
+B. Saat muatan positif Na+ masuk ke 
+dalam sel saraf melewati membran sel, 
+rangsangan listrik mengalir ke ujung 
+akhir sel saraf.
+C. 	Saat rangsangan telah mencapai ujung sel 
+saraf, neurotransmitter akan dilepaskan 
+kembali menuju sel saraf lain atau sel 
+tujuan.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+135
+5.	 Listrik Dinamis
+Kabel yang sering kamu lihat pada tiang listrik berfungsi sebagai penghantar 
+listrik dari suatu ujung ke ujung kabel lainnya. Kabel biasanya terbuat dari 
+bahan tembaga atau perak di bagian dalamnya dan dilapisi bahan plastik 
+atau karet di bagian luarnya. Hal tersebut berkaitan dengan kemampuan 
+bahan untuk menghantarkan listrik. Daya hantar listrik yang dimiliki setiap 
+bahan berbeda-beda. Bahan yang paling baik untuk menghantarkan listrik 
+adalah tembaga dan perak. Sedangkan plastik dan karet merupakan bahan 
+yang tidak dapat menghantarkan listrik. 
+Berdasarkan kemampuan menghantarkan listrik, benda dibagi menjadi 
+tiga jenis: jenis pertama adalah konduktor. Konduktor merupakan bahan yang 
+mampu menghantarkan arus listrik dengan baik. Tembaga, perak, dan emas 
+merupakan contoh dari konduktor listrik. Kedua, isolator listrik adalah bahan 
+yang sangat buruk untuk menghantarkan listrik karena di dalam bahan ini 
+elektron sulit mengalir. Contoh bahan isolator antara lain karet, kayu, dan 
+plastik. Tipe yang ketiga adalah bahan semikonduktor. Salah satu sifat dari 
+bahan ini adalah jika berada pada suhu tinggi bersifat sebagai konduktor, 
+sementara pada suhu rendah bersifat sebagai isolator. Karbon, silikon, dan 
+germanium merupakan contoh bahan semikonduktor listrik. Pada bidang 
+elektronika, karbon biasa digunakan untuk membuat transistor yang kemudian 
+dirangkai menjadi rangkaian listrik terpadu seperti pada Gambar 5.12 yang 
+serupa dengan bagian dalam scanner.
+(a)
+(b)
+(c)
+Gambar 5.12 (a) Transistor, (b) Dioda, (c) Papan Sirkuit Komponen Scanner
+Sumber: (a) Windell Oskay/flickr.com (2007)
+Sumber: (b) Vonvon/commons.wikimedia.org (2010)
+Sumber: Mister rf/commons.wikimedia.org (2023)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+136
+Ketiga jenis bahan tersebut sesungguhnya dibedakan berdasarkan 
+kemampuan untuk menghantarkan listrik. Kemampuan suatu bahan untuk 
+menghantarkan listrik akan semakin baik apabila hambatan jenis bahan 
+tersebut semakin kecil. Beberapa nilai hambatan jenis bahan dapat dilihat 
+pada Tabel 5.1.
+Tabel 5.1 Hambatan Jenis Bahan
+Bahan
+Hambatan Jenis pada 
+Suhu 20 0C (Ωm)
+Konduktor
+Alumunium
+2,82 x 10-8
+Tembaga
+1,72 x 10-8
+Emas
+2,44 x 10-8
+Besi
+9,71 x 10-8
+Konstantan
+49 x 10-8
+Nikrom
+100 x 10-8
+Platina
+10,6 x 10-8
+Perak
+1,59 x 10-8
+Tungsten
+5,65 x 10-8
+Semikonduktor
+Karbon (grafit)
+3,5 x 10-5
+Germanium (murni)
+5 x 10-4
+Silikon (murni)
+6,4 x 102
+Isolator
+Kaca
+1010–1014
+Kuarsa 
+7,5 x 1017
+Besar hambatan setiap jenis kawat akan berbanding lurus dengan panjang 
+kawat serta hambatan jenisnya (ρ) dan berbanding terbalik dengan luas 
+penampang kawat tersebut.
+	
+R = ρ L
+A	
+(6)
+Keterangan: 
+R 	= hambatan kawat (Ω) 
+ρ 	= hambatan jenis kawat (Ωm)
+L 	= panjang kawat (m)
+A = luas penampang kawat (m2)
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+137
+Setelah memahami bahwa tidak semua bahan dapat menghantarkan 
+listrik dengan baik, kini saatnya kita mempelajari bagaimana listrik benar-
+benar mengalir dalam suatu rangkaian. Aliran muatan listrik inilah yang 
+disebut sebagai arus listrik. Arus listrik hanya dapat terjadi jika terdapat 
+sumber tegangan (beda potensial) dan jalur penghantar yang memungkinkan 
+listrik bergerak dari satu titik ke titik lain. Konsep ini sangat penting karena 
+menjadi dasar bagi semua perangkat elektronik yang kita gunakan sehari-hari, 
+mulai dari lampu, kipas angin, hingga telepon. Mari kita pelajari lebih lanjut 
+bagaimana arus listrik terbentuk dan bagaimana kita dapat mengukurnya.
+6.	 Arus Listrik
+Jika elektron bergerak dari kutub negatif ke kutub positif, mengapa arus 
+listrik justru disepakati mengalir sebaliknya?
+Setelah memahami bahwa beda potensial dapat mendorong muatan 
+listrik untuk bergerak, kini saatnya kamu mempelajari konsep inti dari listrik 
+dinamis, yaitu arus listrik. Dalam fisika, arus litrik didefinisikan sebagai aliran 
+muatan listrik yang bergerak melalui suatu penghantar. Namun menariknya, 
+arah arus listrik yang disepakati secara konvensional justru berlawanan 
+dengan arah aliran elektron.
+Secara alami, elektron mengalir dari tempat yang kelebihan elektron 
+(berpotensial rendah/kutub negatif) ke tempat yang kekurangan elektron 
+(berpotensial tinggi/kutub positif). Namun, berdasarkan kesepakatan ilmuwan 
+sejak dahulu, arah arus listrik konvensional dianggap mengalir dari kutub 
+positif ke kutub negatif yaitu dari potensial tinggi ke potensial rendah.
+Pada rangkaian listrik tertutup, arus listrik hanya dapat mengalir jika terdapat 
+sumber tegangan yang menciptakan beda potensial antarujung rangkaian. 
+Besarnya arus listrik yang mengalir dapat dihitung dengan mengukur jumlah 
+muatan listrik yang berpindah dalam satu satuan waktu. Secara matematis, 
+kuat arus listrik (I) dirumuskan sebagai:
+	
+I =
+q
+t 	
+   (7)
+Keterangan: 
+I 	= arus listrik (ampere) 
+q 	= muatan listrik (coulomb) 
+t 	= waktu (detik)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+138
+Artinya, semakin banyak muatan yang berpindah dalam waktu tertentu, 
+semakin besar arus listrik yang mengalir. Konsep ini menjadi dasar dalam 
+perancangan berbagai alat listrik mulai dari pengisi daya ponsel hingga 
+sistem kelistrikan rumah tangga.
+Pada rangkaian listrik tertutup, pembawa muatan listrik adalah elektron 
+sehingga besarnya muatan ditentukan oleh jumlah elektron, yaitu:
+q = N.e
+ Sehingga: I = N.e
+t
+Keterangan: 
+I 	= Arus listrik (ampere) 
+N	= jumlah muatan listrik 
+e 	= muatan elektron (coulomb) 
+t 	= waktu (detik)
+Setelah memahami bahwa arus listrik merupakan aliran muatan yang 
+terjadi akibat beda potensial, pertanyaan berikutnya adalah: bagaimana 
+arus listrik dapat mengalir dalam suatu sistem? Untuk itu, dibutuhkan jalur 
+penghantar yang membentuk lintasan tertutup, sehingga muatan dapat 
+bergerak terus-menerus dari sumber tegangan, melalui beban, lalu kembali ke 
+sumber. Jalur inilah yang disebut sebagai rangkaian listrik. Dalam kehidupan 
+sehari-hari, berbagai alat elektronik bekerja berdasarkan jenis dan susunan 
+rangkaian tertentu, baik rangkaian seri maupun rangkaian paralel. Mari kita 
+pelajari lebih lanjut bagaimana arus mengalir dalam berbagai jenis rangkaian, 
+serta bagaimana karakteristik dan manfaat dari tiap susunan.
+7.	 Hukum Ohm dan Rangkaian Listrik
+Mengapa ketika satu lampu di rumah padam, lampu lainnya tetap menyala? 
+Namun, saat satu lampu pada rangkaian senter putus, semua lampu langsung 
+mati?
+Sebelum membahas lebih lanjut tentang rangkaian listrik, kamu harus 
+mengetahui tentang hubungan antara arus, tegangan, dan hambatan listrik 
+yang sering dikenal sebagai hukum Ohm. Hukum Ohm menyatakan bahwa 
+pada kondisi suhu tetap, kuat arus listrik (I) yang mengalir melalui suatu 
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+139
+konduktor berbanding lurus dengan beda potensial/tegangan (V) di ujung-
+ujungnya dan berbanding terbalik dengan hambatan (R) konduktor tersebut. 
+Hubungan ketiganya dituliskan sebagai
+V = I . R
+Satuan yang digunakan adalah volt (V) untuk tegangan, ampere (A) 
+untuk arus, dan ohm (Ω) untuk hambatan. Pada bahan ohmik, grafik V – I 
+membentuk garis lurus (kemiringan = R). Contoh singkat: jika sebuah resistor 
+R = 200 Ω diberi tegangan V = 6 V, maka arus yang mengalir I = V/R = 6/200 
+= 0,03 A = 30 mA.
+Nah, agar arus listrik dapat mengalir dan menjalankan suatu perangkat, 
+dibutuhkan rangkaian listrik, yaitu jalur tertutup tempat muatan listrik 
+mengalir dari sumber tegangan, melewati beban (seperti lampu), lalu kembali 
+ke sumber. Berdasarkan susunan penghantarnya, rangkaian listrik dibedakan 
+menjadi dua jenis utama: rangkaian seri dan rangkaian paralel.
+Pada rangkaian seri, semua komponen listrik disusun dalam satu jalur 
+tanpa percabangan. Artinya, arus listrik hanya memiliki satu lintasan untuk 
+mengalir. Jika salah satu sambungan terputus atau salah satu lampu rusak, 
+seluruh rangkaian akan terputus dan semua lampu akan padam. Contoh 
+sederhana dari rangkaian seri dapat kamu temukan pada lampu hias lawas 
+atau senter dengan dua lampu berurutan.
+Gambar 5.13 (a) Rangkaian Seri pada Senter dan (b) Rangkaian Paralel pada Stop Kontak
+(a)
+(b)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+140
+Pada rangkaian paralel terdapat percabangan kabel, sehingga arus listrik 
+memiliki lebih dari satu jalur untuk mengalir. Jika salah satu jalur terputus 
+atau satu lampu rusak, arus tetap dapat mengalir melalui jalur lainnya, dan 
+lampu-lampu yang tersisa tetap menyala. Inilah prinsip yang digunakan dalam 
+instalasi listrik rumah tangga, agar kerusakan di satu titik tidak langsung 
+memadamkan seluruh sistem.
+Pemahaman tentang kedua jenis rangkaian ini penting, karena masing-
+masing memiliki keunggulan dan kekurangan tergantung pada kebutuhan. 
+Rangkaian seri lebih sederhana dan hemat kabel, tetapi kurang andal jika 
+salah satu komponen rusak. Sebaliknya, rangkaian paralel lebih stabil dan 
+fleksibel, tetapi lebih kompleks dalam penyusunan.
+a.	
+Rangkaian hambatan listrik seri
+Pada rangkaian seri kuat arusnya bernilai sama tetapi tegangannya 
+berbeda. Rangkaian seri dapat dilihat pada Gambar 5.14.
+R1
+I1
+V1
+V2
+I2
+V
+R2
+Gambar 5.14 Rangkaian Hambatan Listrik Seri
+I1 = I2 = ... = In
+V1 ≠ V2 ≠ ... ≠ Vn
+Vs = Is.Rs
+Vs = (I1.R1) + (I2.R2) + ... + (In.Rn)
+karena
+Is = I1 = I2
+maka, Rs
+Rs = R1 + R2 + ... + Rn
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+141
+b.	 Rangkaian hambatan listrik paralel
+Pada rangkaian paralel, tegangan listrik bernilai sama tetapi besar kuat 
+arusnya berbeda. Rangkaian paralel dapat dilihat pada Gambar 5.15.
+R1
+R2
+I1
+I2
+I3
+V1
+V2
+Gambar 5.15 Rangkaian Hambatan Listrik Paralel 
+V1 = V2 = ... Vn
+I1 ≠ I2 ≠ ... ≠ In
+Ip = I1 + I2
+Ip = 
+Vp
+Rp
+ = 
+V1
+R1
+ = 
+V2
+R2
+karena
+Vp = V1 = V2
+maka,
+1
+Rp = 
+1
+R1 + 
+1
+R2 + ... + 
+1
+Rn 
+Untuk menguji bentuk rangkaian listrik, kamu dapat melakukan Aktivitas 
+5.3 berikut dengan penuh semangat.
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+142
+Aktivitas 5.3
+Ayo Analisis
+Tujuan:
+Setelah melakukan aktivitas ini, kamu mampu:
+1.	
+merancang dan menyusun rangkaian listrik sederhana secara seri dan paralel,
+2.	
+mengamati perbedaan nyala lampu dan aliran arus pada berbagai bentuk 
+rangkaian,
+3.	
+menjelaskan kelebihan dan kekurangan tiap jenis rangkaian listrik dalam 
+kehidupan sehari-hari, dan
+4.	
+melatih keterampilan merancang, menguji, dan mengevaluasi sistem sederhana 
+secara kolaboratif dan reflektif.
+Alat dan Bahan:
+Baterai
+Aluminium foil
+Kabel penghubung
+Lampu LED
+Lakban
+Pensil
+1. Rangkaian seri 
+dengan 1 LED
+2. Rangkaian seri 
+dengan sakelar 2 LED
+3. Rangkaian seri 
+dengan sakelar 3 LED
+Gambar 5.16 Alat, Bahan, dan Diagram Aktivitas Percobaan Rangkaian Listrik
+Hampir setiap saat kita menggunakan rangkaian listrik dalam peralatan 
+sehari-hari, mulai dari telepon genggam, setrika hingga lemari es. Salah satu 
+rangkaian listrik terpenting yang kita gunakan setiap hari adalah rangkaian listrik 
+untuk menerangi rumah dengan lampu.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+143
+Suatu hari, kamu diminta untuk merancang rangkaian listrik di rumah barumu. 
+Rangkaian listrik yang diinginkan adalah rangkaian listrik untuk menyalakan 
+beberapa lampu sekaligus hanya dengan satu sakelar. 
+Langkah-langkah:
+Sebelum merancang, mari lakukan percobaan sederhana membuat rangkaian 
+listrik dengan goresan pensil sebagai penghantarnya berikut. 
+1.	
+Siapkan alat dan bahan terlebih dahulu. 
+2.	
+Kemudian buatlah rangkaian 1, 2, dan 3 seperti pada gambar 5.16. 
+3.	
+Gunakan alumunium foil sebagai sakelar penghubung untuk rangkaian 2 dan 3. 
+4.	
+Amati nyala lampu LED pada tiap rangkaian. 
+5.	
+Berdasarkan pengamatanmu, rangkaian mana yang sesuai dengan yang kamu 
+inginkan untuk rumah barumu? 
+Setelah memahami cara arus listrik mengalir dalam suatu rangkaian, 
+baik secara seri maupun paralel, kini muncul pertanyaan penting: dari mana 
+asal arus listrik tersebut? Agar arus dapat mengalir secara terus-menerus 
+dalam rangkaian tertutup, dibutuhkan suatu sumber energi listrik yang dapat 
+menyediakan beda potensial secara konstan. Inilah yang disebut sebagai 
+sumber arus listrik, seperti baterai, aki, atau generator. Setiap sumber arus 
+memiliki karakteristik dan cara kerja yang berbeda, tergantung pada jenis 
+arus yang dihasilkan. Mari kita pelajari lebih dalam tentang berbagai jenis 
+sumber arus listrik dan peran pentingnya dalam kehidupan sehari-hari.
+8.	 Sumber Arus Listrik
+Dari mana asalnya energi listrik yang mengalir ke lampu, ponsel, atau motor 
+listrik? Apakah semua sumber listriknya bekerja dengan cara yang sama?
+Listrik merupakan bentuk energi. Sesuai dengan hukum kekekalan energi, 
+energi listrik tidak muncul begitu saja, tetapi harus dihasilkan dari bentuk 
+energi lain. Oleh karena itu, untuk dapat menghidupkan alat-alat elektronik, 
+kita membutuhkan sumber arus listrik, yaitu alat yang dapat mengubah 
+energi lain, seperti energi kimia, mekanik, atau cahaya, menjadi energi listrik.
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+144
+Secara umum, sumber arus listrik dibagi menjadi dua jenis, yaitu sumber 
+arus searah (DC – Direct Current) dan sumber arus bolak-balik (AC – Alternating 
+Current).
+a.	
+Sumber arus searah (DC – Direct Current)
+Sumber ini menghasilkan arus listrik yang mengalir satu arah saja, 
+yaitu dari kutub positif ke kutub negatif. Contoh sumber arus DC adalah 
+baterai, aki, dan sel surya. Arus DC banyak digunakan dalam perangkat 
+elektronik seperti ponsel, kalkulator, atau senter.
+b.	 Sumber arus bolak-balik (AC – Alternating Current)
+Sumber ini menghasilkan arus yang mengalir secara bergantian arah 
+(bolak-balik), biasanya dengan frekuensi tertentu. Contoh utama dari 
+arus AC adalah listrik dari PLN yang digunakan untuk peralatan rumah 
+tangga seperti televisi, kulkas, dan mesin cuci.
+Perbedaan antara kedua jenis sumber arus ini tidak hanya terletak 
+pada arah aliran arusnya, tetapi juga pada cara menghasilkan dan 
+aplikasinya dalam kehidupan sehari-hari. Memahami perbedaan ini sangat 
+penting untuk memilih sumber listrik yang sesuai dengan kebutuhan 
+dan perangkat yang digunakan. Tabel 5.2 menyajikan jenis sumber arus 
+listrik, contoh sumber arus, dan perubahan energi yang terjadi.
+Tabel 5.2 Jenis Sumber Arus Listrik
+Jenis sumber arus listrik
+Sumber arus
+Proses perubahan energi
+DC (Direct Current)
+Elemen volta
+Kimia → listrik
+Elemen kering (baterai)
+Kimia → listrik
+Akumulator (Accu/aki)
+Kimia → listrik
+Solar sel
+Kalor → listrik
+Dinamo DC
+Gerak → listrik
+AC (Alternating Current)
+Dinamo AC
+Gerak → listrik
+Generator
+Gerak → listrik
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+145
+Elemen volta, baterai, dan akumulator adalah sumber arus DC yang 
+dihasilkan dari reaksi kimia, sehingga disebut juga sebagai elektrokimia. 
+Berdasarkan dapat atau tidaknya diisi ulang, sumber arus listrik dibedakan 
+menjadi elemen primer dan elemen sekunder. Sebutan bagi sumber arus listrik 
+yang tidak dapat diisi ulang ketika energinya habis adalah elemen primer, 
+contohnya seperti baterai kering dan elemen volta. Sebutan bagi sumber 
+arus listrik yang dapat diisi ulang ketika energinya habis adalah elemen 
+sekunder, contohnya seperti akumulator dan baterai Li-ion yang digunakan 
+pada telepon genggam atau kamera.
+Setelah memahami berbagai sumber arus listrik dan arus listrik dalam 
+suatu rangkaian, kini saatnya kita mempelajari seberapa besar kemampuan 
+listrik dalam melakukan kerja atau menghasilkan energi. Dalam kehidupan 
+sehari-hari, kita sering melihat label daya pada peralatan listrik, seperti 
+“60 watt” pada lampu atau “1000 watt” pada setrika. Besarnya daya listrik 
+menunjukkan seberapa cepat energi listrik digunakan atau diubah menjadi 
+bentuk energi lain, seperti cahaya, panas, atau gerak. Untuk memahami 
+hal ini lebih dalam, mari kita pelajari konsep daya listrik, bagaimana cara 
+menghitungnya, dan mengapa memahami daya penting untuk penggunaan 
+listrik yang efisien.
+9.	 Daya Listrik
+Mengapa satu lampu lebih terang dari lampu lainnya, padahal menggunakan 
+sumber listrik yang sama? Apa arti angka “60 watt” atau “1000 watt” pada 
+alat-alat listrik?
+Dalam kehidupan sehari-hari, kamu sering menemukan alat-alat listrik 
+yang mencantumkan nilai daya, seperti lampu 5 watt, setrika 300 watt, atau 
+penanak nasi 600 watt. Akan tetapi, apa sebenarnya makna dari angka-
+angka tersebut? Secara fisika, daya listrik adalah besarnya energi listrik yang 
+digunakan atau diserap dalam suatu rangkaian setiap detik. Jika dilihat dari 
+konsep usaha, daya listrik juga dapat diartikan sebagai jumlah usaha untuk 
+memindahkan muatan per satuan waktu. Artinya, semakin besar daya sebuah 
+alat, semakin cepat ia menggunakan energi listrik dari sumbernya. Secara 
+matematis, daya listrik (P) dapat dihitung dengan menggunakan rumus berikut.
+	
+P = 
+E
+t
+	
+(8)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+146
+Keterangan: 
+P = Daya listrik (watt)  
+E = Energi listrik (joule) 
+t = waktu (detik)
+Karena dalam rangkaian listrik kita sering bekerja dengan arus dan 
+tegangan, rumus daya juga dapat ditulis sebagai berikut:
+	
+P = V × I	
+(9)
+dengan:
+V	 = beda potensial atau tegangan listrik (volt)
+I	 = kuat arus listrik (ampere)
+Pemahaman tentang daya listrik sangat penting, tidak hanya untuk 
+efisiensi penggunaan energi, tetapi juga untuk mencegah beban berlebih pada 
+rangkaian listrik di rumah yang bisa menyebabkan korsleting atau kerusakan 
+alat. Dengan mengerti konsep daya, kamu juga dapat membandingkan 
+konsumsi energi antaralat elektronik dan belajar untuk menghemat energi 
+listrik secara bijak.
+Daya listrik yang kita pelajari sebelumnya ternyata tidak hanya terbatas 
+pada menyalakan lampu atau alat rumah tangga, tetapi juga dapat dikonversi 
+menjadi bentuk energi lain, seperti energi gerak. Salah satu contoh nyata 
+dari penerapan konsep ini adalah pada mobil listrik. Dalam sistem ini, energi 
+listrik yang tersimpan di dalam baterai digunakan untuk menggerakkan 
+motor listrik, yang kemudian menghasilkan putaran untuk menggerakkan 
+roda mobil. Proses ini memungkinkan mobil bergerak tanpa bahan bakar 
+fosil sehingga lebih ramah lingkungan.
+Mobil listrik memanfaatkan prinsip transformasi energi, yaitu energi listrik 
+diubah menjadi energi kinetik (gerak) dengan efisiensi tinggi. Daya listrik 
+yang dikeluarkan dari baterai menentukan seberapa besar energi yang bisa 
+digunakan untuk menghasilkan percepatan atau mempertahankan kecepatan 
+kendaraan. Gambar 5.17 menunjukkan bentuk dan susunan baterai yang 
+digunakan dalam mobil listrik, yang berfungsi sebagai penyimpan utama 
+energi listrik.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+147
+Gambar 5.17 Baterai pada Mobil Listrik 
+Dengan memahami hubungan antara daya, energi, dan transformasinya, 
+kita dapat melihat bahwa konsep-konsep listrik yang dipelajari tidak hanya 
+berlaku di kelas, tetapi juga menjadi dasar dari teknologi masa depan yang 
+lebih bersih dan efisien.
+Ayo Uji Kemampuan
+Jawablah pertanyaan-pertanyaan berikut dengan penjelasan yang logis dan 
+menggunakan bahasa yang mudah dipahami. Diskusikan bersama temanmu atau 
+dalam kelompok kecil jika perlu.
+1.	
+Fenomena Alam dan Listrik Statis
+Petir adalah salah satu gejala alam yang luar biasa. Menurut pendapatmu, 
+apakah petir termasuk fenomena listrik statis?
+a.	
+Jika iya, jelaskan secara sederhana dan runtut bagaimana petir bisa 
+terjadi mulai dari awan hingga menyambar permukaan bumi.
+b.	
+Apa yang menyebabkan awan dapat bermuatan listrik?
+c.	
+Mengapa petir lebih sering terjadi saat hujan lebat?
+2.	
+Mengenal Konduktor dan Isolator di Sekitarmu
+Cobalah amati benda-benda yang ada di rumah, sekolah, atau sekitarmu.
+a.	
+Tuliskan tiga contoh bahan konduktor yang kamu temukan, dan jelaskan 
+mengapa benda itu termasuk konduktor!
+b.	
+Tuliskan pula tiga contoh bahan isolator di sekitarmu dan peran 
+pentingnya dalam mencegah bahaya listrik!
+c.	
+Bonus: Adakah benda yang termasuk semikonduktor? Jika ada, di mana 
+kamu menemukannya?
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+148
+3.	
+Arus Listrik dalam Kehidupan Sehari-hari 
+Pernahkah kamu melihat lampu yang meredup saat terlalu banyak alat 
+listrik yang digunakan bersamaan?
+a.	
+Jelaskan mengapa hal ini bisa terjadi, dengan mengaitkan konsep arus 
+listrik dan rangkaian!
+b.	
+Menurutmu, mana yang lebih aman untuk digunakan di rumah: rangkaian 
+seri atau rangkaian paralel? Jelaskan alasannya!
+4.	
+Energi Listrik dan Transformasinya
+Listrik dapat diubah menjadi berbagai bentuk energi lain.
+a.	
+Sebutkan tiga contoh alat yang mengubah energi listrik menjadi bentuk 
+energi lain (panas, cahaya, gerak, dan lain-lain)!
+b.	
+Jelaskan bentuk energi hasil perubahan tersebut dan bagian alat yang 
+menjalankan fungsi tersebut!
+c.	
+Menurutmu, mengapa penting bagi kita memahami transformasi energi 
+listrik dalam kehidupan sehari-hari?
+B. 	 Magnet
+Pernahkah kamu memperhatikan pintu kulkas yang dapat tertutup rapat 
+dengan sendirinya? Atau mainan tempel yang dapat menempel kuat di 
+pintu logam? Semua itu dapat terjadi karena adanya magnet. Magnet banyak 
+digunakan dalam kehidupan sehari-hari, misalnya, dalam penutup tas atau 
+dompet yang bisa menempel otomatis, mainan edukatif yang saling menempel, 
+hingga alat dapur seperti tutup kotak bumbu yang tidak mudah lepas. Bahkan 
+bel rumah dan kipas angin juga memanfaatkan prinsip kerja magnet agar 
+dapat berfungsi dengan baik. Namun, tahukah kamu apa sebenarnya yang 
+dimaksud dengan magnet? Dari mana asal magnet? Apakah sifat kemagnetan 
+suatu bahan bisa hilang? Mungkinkah kita membuat magnet sendiri? Untuk 
+menjawab semua pertanyaan tersebut, mari kita pelajari materi tentang 
+magnet dengan semangat dan rasa ingin tahu. Siapkan dirimu untuk 
+menemukan berbagai konsep menarik dan aplikasinya dalam kehidupan!
+1.	 Sejarah Magnet
+Apakah kamu pernah melihat batu yang dapat menarik benda logam seperti 
+paku atau jarum? Menurutmu, bagaimana orang zaman dahulu pertama kali 
+menemukan bahwa ada batu yang dapat menarik logam?
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+149
+Sejak zaman kuno, manusia telah mengetahui adanya mineral atau batuan 
+berwarna logam yang dapat menarik partikel besi. Batuan semacam ini 
+disebut magnetik, atau sering juga disebut batu bermuatan. Salah satu tokoh 
+awal yang mencatat fenomena ini adalah Thales, seorang filsuf Yunani yang 
+hidup pada abad ke-6 SM. Ia mengamati bahwa bijih besi tertentu memiliki 
+sifat khusus yang dapat menarik benda logam. Namun, kemungkinan besar 
+pengetahuan tentang sifat ini telah dikenal jauh sebelum masa Thales.
+Dalam berbagai catatan kuno, batuan ini kemudian dikenal dengan 
+sebutan magnet. Kata ”magnet” sendiri berasal dari bahasa Yunani magnítis 
+líthos yang berarti 'batu Magnesia'. Kata "Magnesia" merujuk pada sebuah 
+wilayah di Asia Kecil yang kaya akan endapan mineral magnetik.
+Magnet tersusun dari logam seperti besi dan baja. Magnet juga dapat 
+dibuat dalam berbagai bentuk dan biasanya dinamai sesuai bentuknya, seperti 
+terlihat pada Gambar 5.18.
+Gambar 5.18 Contoh Magnet U dan Magnet Batang
+Magnet selalu memiliki dua kutub, yaitu kutub utara dan kutub selatan. 
+Kutub-kutub yang sejenis akan tolak-menolak bila didekatkan. Sedangkan 
+kutub-kutub yang berbeda jenis akan tarik-menarik bila didekatkan. Kutub-
+kutub ini selalu ada pada setiap magnet walaupun magnet tersebut dipotong 
+menjadi beberapa bagian magnet kecil. Perhatikan interaksi dua magnet pada 
+Gambar 5.19 berikut!
+(a)
+(b)
+Gambar 5.19 Interaksi antara Dua Kutub Magnet (a) Beda Jenis dan (b) Sejenis
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+150
+Dari mana asalnya kekuatan magnet? Apa bedanya dengan gaya listrik? 
+Gaya listrik muncul karena adanya interaksi antara muatan listrik, baik yang 
+diam maupun bergerak. Berbeda halnya dengan gaya magnet, gaya magnet 
+justru muncul karena gerakan muatan listrik, terutama elektron.
+Di dalam atom, elektron tidak hanya diam di tempat, tetapi bergerak 
+mengelilingi inti atom dalam lintasan tertentu (orbit), sekaligus berputar pada 
+porosnya sendiri (spin). Pada beberapa bahan tertentu seperti besi, baja, atau 
+nikel, gerakan-gerakan ini dapat tersusun secara teratur dan saling sejajar. 
+Jika ini terjadi, medan magnet dari tiap atom saling memperkuat satu sama 
+lain dan akhirnya membuat medan magnet yang lebih besar, menghasilkan 
+efek magnetik pada benda tersebut. Fenomena inilah yang kita sebut sebagai 
+magnet.
+Gambar 5.20 
+(a) Atom Tersusun Secara Acak; (b) Atom Tersusun Secara Teratur
+(a)
+(b)
+Pada Gambar 5.20 (a), kutub utara dan selatan partikel elementer magnet 
+pada benda tersebar secara acak sehingga benda tersebut tidak memiliki sifat 
+magnet. Sebaliknya, pada beberapa jenis logam seperti besi dan baja, partikel 
+magnet elementer dapat tersusun secara teratur dalam arah tertentu sehingga 
+benda tersebut memiliki sifat magnet, seperti terlihat pada Gambar 5.20 (b).
+Bagaimana kamu dapat mendeteksi keberadaan medan magnet di sekitar 
+suatu benda? Salah satu cara sederhana adalah dengan menggunakan pasir 
+besi atau serbuk besi. Ketika serbuk besi ditaburkan di atas kertas yang 
+diletakkan di atas magnet, kamu akan melihat pola tertentu yang terbentuk. 
+Pola-pola ini disebut garis gaya magnet dan digunakan untuk menggambarkan 
+medan magnet.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+151
+Medan magnet adalah daerah di sekitar magnet yang masih dipengaruhi 
+oleh gaya magnet. Gambar 5.21 memperlihatkan serbuk besi membentuk pola 
+yang berbeda-beda tergantung pada bentuk magnet—apakah itu magnet jarum, 
+batang, atau tapal kuda (U). Dari gambar tersebut, kamu dapat mengamati 
+bahwa medan magnet paling kuat berada di ujung-ujung kutub magnet. Hal 
+ini terlihat dari garis-garis gaya magnet yang sangat rapat, serta banyaknya 
+serbuk besi yang berkumpul di sana. Rapatnya garis gaya menunjukkan 
+bahwa gaya magnet di area tersebut lebih besar. Apakah kamu menemukan 
+pola yang serupa dengan yang terlihat pada Gambar 5.21? Coba perhatikan 
+bentuk magnet dan bentuk medan magnet yang dihasilkan, lalu bandingkan!
+Gambar 5.21 Pola Serbuk Besi yang Ditebarkan di Sekitar Magnet Batang 
+Sumber: Windell Oskay/flickr.com (2010)
+Fakta
+Sains
+Tahukah kamu apa itu sampah elektronik? Benar sekali! Barang-barang 
+elektronik bekas yang sudah tidak dipakai lagi oleh pemiliknya disebut 
+sebagai sampah elektronik. Sampah elektronik di dunia jumlahnya terus 
+bertambah. PBB memprediksi jumlah sampah elektronik pada tahun 2030 
+akan mencapai 74 juta ton. Hal ini akan semakin memburuk karena banyak 
+negara di dunia yang belum memiliki kebijakan nasional yang mengatur 
+tentang sampah elektronik, termasuk Indonesia. Padahal pada tahun 2019 
+jumlah sampah elektronik di Indonesia mencapai 1.618 kilo ton dan tidak 
+satu pun didaur ulang. Melihat permasalahan di atas, kamu ditugaskan 
+untuk menjalankan pabrik daur ulang dan bertanggung jawab atas divisi 
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+152
+pemrosesan baja yang berharga. Sayangnya, sampah tersebut tidak dipilah 
+dengan baik oleh petugas kebersihan. Plastik, alumunium, baja, dan kertas 
+semuanya menumpuk menjadi satu.
+Gambar 5.22 Tumpukan Barang Elektronik Bekas 
+Sumber: Zoran Milich/vox.com (2016)
+Untuk menguji seberapa efektif metode pemisahan sampah yang kamu 
+rancang, lakukanlah Aktivitas 5.4 pengujian berikut.
+Kamu harus menemukan metode untuk mengambil besi dari tumpukan 
+sampah tersebut agar dapat diproses dengan benar lalu dibawa ke pabrik 
+daur ulang untuk mewujudkan tujuan pembangunan berkelanjutan. Hal 
+ini sesuai dengan Sustainable Development Goals (SDGs) atau Tujuan 
+Pembangunan Berkelanjutan (TPB) yang menjadi kesepakatan dunia. Ada 
+17 tujuan global untuk membuat kehidupan manusia dan bumi lebih baik. 
+Dalam bab ini kita menyinggung SDG 11 dan SDG 12 karena keduanya 
+relevan dengan topik listrik dan pemanfaatan energi. SDGs nomor 11 yaitu 
+menjadikan kota dan pemukiman manusia aman, tangguh, inklusif, dan 
+berkelanjutan. Sedangkan SDGs nomor 12 yaitu untuk memastikan pola 
+konsumsi dan produksi yang berkelanjutan.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+153
+Tujuan:
+Setelah melakukan aktivitas ini, kamu diharapkan mampu:
+1.	
+mengamati dan membandingkan kemampuan berbagai bentuk magnet dalam 
+menarik logam dari campuran sampah,
+2.	
+menjelaskan prinsip kerja gaya magnet dalam memisahkan material 
+berdasarkan sifat kemagnetannya,
+3.	
+menganalisis hasil percobaan dan menyajikannya dalam bentuk tabel dan grafik,
+4.	
+menumbuhkan kesadaran akan pentingnya pemilahan dan daur ulang sampah 
+elektronik sebagai bagian dari solusi berkelanjutan (SDGs 11 dan 12), dan
+5.	
+melatih keterampilan kerja ilmiah, kolaboratif, dan berpikir kritis terhadap 
+isu lingkungan sekitar.
+Alat dan bahan:
+1.	
+Magnet tiga jenis (contoh: batang, U/tapal kuda, jarum/lingkar)
+2.	
+Gabungan magnet (2–3 magnet disatukan) untuk uji lanjutan (Opsional) 
+3.	
+Klip kertas logam (±100 buah)
+4.	
+Potongan plastik, potongan kertas, potongan kayu (masing‑masing ±50–100)
+5.	
+Nampan/wadah untuk mencampur bahan; pembatas karton tipis (untuk uji 
+jarak)
+6.	
+Stopwatch/timer; pinset; spidol/label; (opsional) timbangan digital.
+7.	
+Lembar Tabel 5.3 (lihat langkah 5) dan kertas grafik.
+Langkah-langkah:
+1.	
+Campur klip kertas logam dengan potongan plastik, kertas, kayu di dalam 
+nampan (acak merata).
+2.	
+Siapkan timer (set 10 detik per uji) dan lembar Tabel 5.3.
+3.	
+Dekatkan berbagai jenis magnet berdasarkan bentuknya ke atas tumpukan 
+ratusan klip kertas, potongan kertas, potongan plastik, dan potongan kayu. 
+ 
+Aktivitas 5.4
+Ayo Analisis
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+154
+ 
+Gambar 5.23 Aktivitas Percobaan Mendekatkan Magnet pada Klip Kertas yang Terbuat dari Logam
+4.	
+Satukan Magnet 1+2+3 (atau 1+2) dan ulang uji 4 kali. Catat hasil pada kolom 
+Gabungan Magnet 1, 2, 3.
+5.	
+Catat hasil pengujian kemudian buatlah laporan dalam bentuk tabel dan 
+grafik berikut.
+Tabel 5.3 Jumlah Klip Kertas yang Berhasil Dipindahkan Tiap Magnet
+Magnet 1
+Magnet 2
+Magnet 3
+Gabungan 
+Magnet 1,2,3
+Percobaan 1
+Percobaan 2
+Percobaan 3
+Percobaan 4
+Rata-rata
+a.	
+Grafik 1. Jumlah rata-rata klip kertas yang berhasil dipindahkan tiap 
+magnet terhadap jenis magnet
+b.	
+Grafik 2. Jumlah rata-rata klip kertas yang berhasil dipindahkan tiap 
+magnet pada setiap percobaan
+6.	
+Jawablah pertanyaan-pertanyaan berikut:
+a.	
+Benda apa saja yang berhasil dipindahkan oleh magnet? 
+b.	
+Magnet mana yang mampu memindahkan klip kertas paling banyak? 
+c.	
+Apakah dengan menggabungkan magnet mampu meningkatkan kekuatan 
+magnet? 
+d.	
+Sesuaikah hasil pengujian nya dengan hipotesis mu!
+7.	
+Presentasikan hasil pengujian dan jawabanmu di depan teman-teman dan 
+guru.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+155
+2.	 Perkembangan Elektromagnet 
+Bagaimana hubungan antara listrik dan magnet 
+pertama kali ditemukan?
+Mungkinkah medan magnet dihasilkan dari arus 
+listrik?
+Pada tahun 1820, Hans Christian Oersted 
+menemukan bahwa kawat dapat menolak jarum 
+kompas apabila dialiri arus listrik. Penemuan ini 
+menunjukkan bahwa di sekitar kawat yang dialiri 
+arus listrik timbul medan magnet. Temuan Oersted 
+ini menjadi titik awal pemahaman bahwa listrik dan 
+magnet saling berkaitan. Saat arus listrik mengalir 
+melalui sebuah kawat, arus ini membangkitkan 
+medan magnet di sekeliling kawat tersebut. Medan 
+magnet ini berbentuk melingkar, mengelilingi kawat 
+seperti cincin tak terlihat seperti yang ditunjukkan 
+pada gambar 5.25 (a). Jika kawat itu dililitkan 
+menjadi sebuah kumparan (yang disebut solenoid), 
+medan magnet yang dihasilkan menjadi lebih kuat 
+dan memiliki arah yang jelas. Bahkan, bentuk 
+medan magnet tersebut menyerupai medan magnet 
+dari batang magnet biasa, lengkap dengan kutub 
+utara dan kutub selatan seperti yang ditunjukkan 
+pada gambar 5.25 (b).
+Kemudian pada tahun 1821, Michael Faraday 
+membuat suatu penemuan penting. Dua tahun 
+sebelumnya, Oersted telah menemukan bahwa jarum 
+magnet kompas biasa dapat menyimpang jika arus 
+listrik dialirkan dalam kawat yang tidak berjauhan. 
+Hal ini membuat Michael Faraday menyimpulkan 
+bahwa, jika magnet didekatkan, yang akan bergerak 
+adalah kawat yang dialiri listrik. Berdasarkan dugaan 
+ini, Michael Faraday berhasil membuat suatu skema 
+yang jelas bahwa kawat akan terus-menerus berputar 
+berdekatan dengan magnet sepanjang arus listrik 
+Gambar 5.24 Hans Christian 
+Oersted 
+Sumber: nationalmaglab.org (2025)
+(a)
+Sumber: Giancoli, Physics
+Gambar 5.25 
+(a) Skema Percobaan Osterd 
+yang Menunjukkan Medan 
+Magnet di Sekitar Kawat Lurus; 
+(b) Medan Magnet di Sekitar 
+Kumparan Solenoid
+(b)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+156
+yang dialirkan ke kawat. Sesungguhnya penemuan Faraday ini merupakan 
+motor listrik pertama, suatu skema pertama membuat sesuatu benda bergerak 
+dengan menggunakan arus listrik. Meskipun masih sangat primitif, penemuan 
+Michael Faraday ini merupakan “nenek moyang” dari semua motor listrik yang 
+digunakan dunia saat ini.
+Penemuannya membuat suatu benda bergerak menggunakan arus listrik 
+adalah pembuka jalan yang luar biasa untuk penemuan-penemuan motor listrik 
+selanjutnya. Namun, penemuan tersebut  masih terbatas dalam kegunaan praktis 
+karena belum ada metode untuk menggerakkan arus listrik selain dari baterai 
+kimia sederhana yang ada pada saat itu. Faraday yakin, pasti ada suatu cara 
+penggunaan magnet untuk menggerakkan listrik. Ia terus-menerus mencari jalan 
+bagaimana menemukan metode tersebut. 
+Gambar 5.26 Michael Faraday 
+Sumber: 
+Hulton Deutsch/gettyimages.ae (2016)
+Namun pada tahun 1831, Faraday menemukan 
+bahwa apabila magnet dilalui lewat sepotong 
+kawat, arus akan mengalir di kawat sedangkan 
+magnet bergerak. Keadaan ini disebut “pengaruh 
+elektromagnetik” dan penemuan ini disebut hukum 
+Faraday, penemuannya yang terpenting dan terbesar. 
+Jadi, gagasan elektromagnetik adalah prinsip kerja 
+dari kendaraan listrik, yaitu ketika listrik dapat diubah 
+menjadi energi gerak atau sebaliknya. 
+3.	 Gaya Magnet/Gaya Lorentz
+Mengapa kawat yang dialiri arus dapat bergerak saat berada di dekat magnet? 
+Apa yang menyebabkan motor listrik dapat berputar? Bagaimana gaya magnet 
+bekerja pada benda yang dialiri listrik?
+Gaya Lorentz adalah nama yang diberikan untuk gaya yang dialami oleh 
+penghantar listrik (seperti kawat) yang berada di dalam medan magnet dan 
+dialiri arus listrik. Nama Lorentz diambil dari seorang fisikawan Belanda 
+bernama Hendrik Antoon Lorentz, yang melakukan penelitian penting terkait 
+interaksi antara medan magnet dan arus listrik. Melalui penelitiannya, 
+Lorentz menemukan bahwa ketika arus listrik mengalir melalui suatu kawat 
+penghantar yang diletakkan dalam medan magnet, kawat tersebut mengalami 
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+157
+gaya dorong yang dapat menyebabkan gerakan. Fenomena ini dikenal sebagai 
+gaya Lorentz dan menjadi prinsip dasar dalam pengoperasian berbagai 
+peralatan listrik seperti kipas angin, blender, motor listrik, dan alat-alat 
+rumah tangga lainnya. Gaya Lorentz tidak hanya menjelaskan gerakan kawat 
+dalam medan magnet, tetapi juga menjadi dasar pengembangan teknologi 
+elektromekanik yang sangat luas penggunaannya di era modern.
+4.	 Menentukan Arah Gaya Lorentz
+Untuk menentukan arah gaya Lorentz dapat kita gunakan kaidah tangan 
+kanan atau kaidah putaran sekrup.
+Gambar 5.27 Arah Gaya Lorentz Menggunakan Kaidah Tangan Kanan
+Besar gaya Lorentz sebanding dengan kuat medan magnet, arus listrik, 
+dan panjang kawat. Bila kedudukan gaya, kuat medan magnet dan arus listrik 
+saling tegak lurus, maka besarnya gaya Lorentz dapat  diperoleh dengan 
+menggunakan rumus (10) berikut ini. Rumus ini berlaku untuk panjang 
+kawat 1 meter.
+Besar gaya Lorentz dapat dihitung dengan rumus:
+	
+F = I.L.B sinθ	
+(10)
+Keterangan:
+F = gaya Lorentz (newton) 
+I = kuat arus listrik (ampere) 
+L = panjang kawat (meter) 
+B = kuat medan magnet (Wb/m2) atau tesla (T) 
+θ = besar sudut antara arah I dan B (Dianggap membentuk 	
+	
+	
+	
+sudut tegak lurus, 90 derajat)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+158
+5.	 Induksi Elektromagnetik
+Pernahkah kamu mengayuh sepeda lalu lampu depannya menyala tanpa 
+baterai? Bagaimana cara menghasilkan arus istrik tanpa menggunakan baterai? 
+Apa yang terjadi jika magnet digerakkan masuk ke dalam kumparan kawat 
+dari bahan konduktor seperti tembaga?
+Gambar 5.28 Induksi 
+Elektromagnetik oleh Magnet
+Kumparan
+Galvometer
+Arah Gerak Magnet
+Magnet
+Induksi elektromagnetik merupakan fenomena munculnya arus listrik 
+akibat perubahan fluks magnetik. Proses induksi elektromagnetik melibatkan 
+konduktor yang diletakkan dengan posisi tertentu dan medan magnet. Cara 
+lainnya adalah kumparan kawat konduktor yang digerakkan di dalam medan 
+magnet yang tetap. Hal tersebut menyebabkan kehadiran tegangan atau gaya 
+gerak listrik (GGL) pada konduktor. Gambar 5.28 merupakan ilustrasi induksi 
+elektromagnetik yang dihasilkan dengan menggerakkan sebuah magnet ke 
+dalam kumparan kawat konduktor, yang awalnya tidak berarus. Arus listrik 
+akan muncul pada kumparan akibat adanya perubahan medan magnet yang 
+masuk ke kumparan tersebut.
+Susunan magnet dan kabel di atas merupakan percobaan induksi 
+elektromagnetik yang dilakukan oleh Michael Faraday pada tahun 1830. 
+Hasilnya menunjukkan bahwa energi listrik dapat diproduksi menggunakan 
+medan magnet, dan bukan hanya berasal dari baterai. Dari sini, ia 
+mengemukakan hukum Faraday dalam induksi elektromagnetik, yaitu setiap 
+perubahan medan magnet pada kumparan akan menyebabkan GGL yang 
+diinduksi oleh kumparan tersebut. Tegangan GGL induksi di dalam rangkaian 
+tertutup adalah sebanding dengan kecepatan perubahan fluks terhadap waktu 
+yang dapat dirumuskan menjadi:
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+159
+	
+Δφ
+Δt
+∈ = –Ν
+	
+(11)
+Keterangan:
+∈ = merupakan GGL induksi (volt)
+N = jumlah lilitan kumparan 
+ΔΦ = perubahan fluks magnetik (weber) 
+∆t = selang waktu (s)
+Tanda negatif menunjukkan arah GGL induksi berdasarkan hukum Lenz 
+(hukum fisika tentang arah induksi).
+Prinsip induksi elektromagnetik yang ditemukan oleh Michael Faraday 
+inilah yang menjadi dasar kerja berbagai alat pembangkit listrik. Ketika magnet 
+atau kumparan digerakkan sehingga arah dan besar fluks magnetik berubah, 
+sesuai dengan hukum Lenz, prinsip ini kemudian dikembangkan menjadi 
+teknologi yang mampu mengubah energi gerak menjadi energi listrik, yaitu 
+generator. Salah satu contoh nyata dari induksi elektromagnetik yang sering 
+ditemui adalah dinamo sepeda. Saat roda sepeda berputar, magnet di dalam 
+dinamo juga ikut berputar dekat dengan kumparan kawat. Perubahan posisi 
+magnet ini menyebabkan munculnya arus listrik yang kemudian digunakan 
+untuk menyalakan lampu sepeda.
+6.	 Generator 
+Generator adalah sebuah alat yang berfungsi mengubah energi gerak (mekanik) 
+menjadi energi listrik (elektrik). Prinsip kerja generator didasarkan pada 
+induksi elektromagnetik, yaitu munculnya arus listrik ketika kumparan kawat 
+atau medan magnet digerakkan secara relatif satu terhadap yang lain. Sumber 
+energi gerak untuk menggerakkan generator sangat beragam. Misalnya, pada 
+pembangkit listrik tenaga angin, energi gerak berasal dari tiupan angin 
+yang memutar baling-baling turbin. Pada pembangkit listrik tenaga air 
+(PLTA), aliran air yang deras digunakan untuk memutar turbin. Sementara 
+itu, pada generator diesel, energi gerak diperoleh dari pembakaran bahan 
+bakar seperti solar untuk menggerakkan poros mesin. Dengan memanfaatkan 
+gerakan ini, generator mampu menghasilkan listrik yang sangat dibutuhkan 
+dalam kehidupan sehari-hari, baik untuk rumah tangga, industri, maupun 
+transportasi. Generator menjadi bukti nyata bahwa ilmu tentang magnet 
+dan arus listrik dapat dimanfaatkan dalam teknologi yang sangat penting 
+bagi manusia.
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+160
+Gerakan Rotor
+Pembangkit Listrik AC
+Arus Induksi
+Stator
+Rangka Stator 
+terdapat 
+Magnet
+Magnet
+Sikat
+Ring
+Rotor
+Loop
+Gambar 5.29 Generator Listrik Bolak-Balik (Alternating Current) Sederhana 
+Perlu diingat bahwa generator tidak mampu memproduksi listrik, 
+melainkan hanya mengubah bentuk energi ke bentuk lain. Prinsipnya adalah 
+memanfaatkan energi gerak sesuai hukum Faraday yang berbunyi berikut ini.
+“Apabila terjadi perubahan medan magnet yang terhubung ke sebuah 
+kawat loop tertutup maka akan menimbulkan gaya gerak listrik.”
+a.	
+Cara kerja generator
+Pada dasarnya, gaya gerak listrik didapatkan dari memanfaatkan perubahan 
+magnet. Sumber untuk mendapatkan energi kinetik tersebut bisa berasal 
+dari kincir angin yang memanfaatkan embusan angin, kincir air yang 
+memanfaatkan aliran air, hingga mesin yang menggunakan bahan bakar diesel.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+161
+Proses perubahan energi gerak 
+menjadi energi listrik terjadi karena 
+elektron dapat bergerak akibat adanya 
+medan magnet. Pada generator listrik, 
+slip ring yang berbentuk dua cincin 
+logam memiliki peran penting dalam 
+menyalurkan arus listrik yang dihasilkan. 
+Generator AC slip ring mempunyai 
+bentuk cincin full, sedangkan motor DC 
+mempunyai bentuk cincin belah.
+b.	
+Bagian-bagian generator
+Untuk mengubah energi kinetik menjadi 
+listrik diperlukan komponen utama 
+generator seperti yang ditunjukkan 
+Gambar 5.30.
+•	
+Rangka stator yaitu badan utama 
+atau body generator yang terbuat dari baja kuat.
+•	
+Stator adalah bagian yang menempel pada rangka generator dan terdapat 
+lilitan stator yang berfungsi sebagai induksi gaya gerak listrik. 
+•	
+Rotor adalah komponen generator yang berputar, terdapat kutub magnet 
+dengan lilitan yang terbuat dari tembaga.
+•	
+Slip ring berbentuk menyerupai cincin, berjumlah dua buah, ikut berputar 
+dengan rotor dan poros generator, dan bahan utamanya terbuat dari 
+tembaga atau kuningan. Komponen inilah yang berperan mentransfer 
+listrik dari motor.
+Generator AC memiliki berbagai ukuran tergantung dengan kebutuhan, 
+misalnya generator PLTA mempunyai ukuran besar karena kapasitasnya 
+hingga ribuan kilowatt. Sementara itu, bentuk dinamo sepeda lebih kecil 
+dan sederhana karena sekadar berfungsi untuk menyalakan lampu sepeda.
+Gambar 5.30 Cara Kerja Generator
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+162
+Ayo Uji Kemampuan
+Jawablah pertanyaan-pertanyaan berikut dengan penjelasan yang logis dan 
+menggunakan bahasa yang mudah dipahami. Diskusikan bersama temanmu atau 
+dalam kelompok kecil jika perlu.
+1.	
+Apa yang dimaksud dengan magnet alami dan magnet buatan? Berikan 
+masing-masing satu contoh!
+2.	
+Sebutkan tiga benda di sekitarmu yang dapat ditarik magnet dan tiga benda 
+yang tidak dapat ditarik magnet!
+3.	
+Jelaskan mengapa kutub senama magnet saling tolak dan kutub tidak senama 
+saling tarik!
+4.	
+Apa perbedaan antara medan magnet batang dan medan magnet tapal kuda 
+jika dilihat dari garis-garis gaya magnetnya? Jelaskan!
+5.	
+Jelaskan bagaimana prinsip elektromagnet dapat dimanfaatkan dalam 
+kehidupan sehari-hari! Berikan contohnya!
+6.	
+Seseorang mencoba membuat elektromagnet dengan menggulung kawat 
+pada batang paku dan mengalirkannya dengan baterai. Namun, magnet tidak 
+bekerja. Apa kemungkinan penyebabnya? Jelaskan solusi yang dapat dilakukan!
+7.	
+Bandingkan prinsip kerja kompas dan motor listrik berdasarkan hubungan 
+antara listrik dan magnet!
+8.	
+Menurutmu, apa kelebihan dan kekurangan penggunaan elektromagnet 
+dibandingkan dengan magnet permanen dalam alat-alat industri? Jelaskan!
+9.	
+Rancanglah sebuah alat pemilah sampah logam dari bahan plastik atau kertas 
+yang memanfaatkan gaya magnet. Jelaskan prinsip kerja dan bagian-bagiannya!
+C. 	 Energi Alternatif/Terbarukan
+Mengapa saat ini banyak bermunculan mobil-mobil/kendaraan yang digerakkan 
+dengan energi listrik? Mengapa saat ini rumah-rumah atau jalan-jalan banyak 
+dipasang lampu-lampu berdaya rendah? Mengapa banyak sekali seruan-seruan 
+untuk menghemat energi? Tahukah kamu sumber-sumber energi apa saja 
+yang dapat digunakan dalam jangka panjang? Jenis energi tersebut dikenal 
+sebagai sumber energi alternatif atau energi terbarukan.
+ Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+163
+1.	 Sumber Listrik Tenaga Angin
+Bagaimana angin yang tidak terlihat bisa digunakan untuk menyalakan lampu 
+atau mengisi baterai?
+Angin bukan hanya sekadar hembusan udara yang menyegarkan. Di 
+balik gerakannya, angin menyimpan energi kinetik yang sangat besar. Energi 
+inilah yang dimanfaatkan dalam pembangkit listrik tenaga angin atau biasa 
+dikenal sebagai pembangkit listrik tenaga bayu (PLTB) untuk menghasilkan 
+listrik. Prinsip kerjanya cukup sederhana tetapi efektif: energi gerak dari 
+angin memutar baling-baling turbin, yang kemudian menggerakkan poros 
+dan mengaktifkan generator listrik.
+Pembangkit listrik tenaga angin biasanya dibangun di wilayah yang 
+memiliki tiupan angin konstan, seperti di tepi pantai, dataran tinggi, atau 
+padang rumput yang luas. Keunggulan utama dari sumber energi ini adalah 
+tidak menghasilkan polusi, tidak mengeluarkan emisi karbon, dan dapat terus 
+diperbarui selama angin tetap berhembus.
+Gambar 5.31 Pembangkit Listrik Tenaga Bayu 
+Sumber: Barb Landro/pexels.com (2024)
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+164
+Perhatikan skema pembangkit listrik tenaga bayu pada Gambar 5.32. 
+Pertama, angin akan memutar bilah turbin. Kemudian bilah turbin ini akan 
+memutar sebuah generator, lalu menghasilkan listrik. Sebuah Pembangkit 
+Listrik Tenaga Bayu dapat terdiri atas satu buah turbin angin atau beberapa 
+turbin angin yang gaya listriknya digabungkan dan disalurkan ke satu unit 
+penyalur listrik. Gaya listrik kemudian dialirkan melalui kabel transfusi dan 
+didistribusikan ke rumah-rumah, kantor, sekolah, dan gedung lainnya.
+Gambar 5.32 Skema Pembangkit Listrik Kincir Bayu
+1
+11
+10
+9
+12
+13
+14
+5
+6
+2
+4
+3
+7
+8
+1. 	
+Penutup bagian depan
+2.	
+Sirip kincir angin
+3.	
+Dudukan sirip kincir angin
+4.	
+Body dan Generator
+5.	
+Tiang penyangga sirip ekor
+6.	
+Sirip ekor
+7.	
+Pipa penyangga
+8.	
+Kawat pengikat
+9.	
+Fondasi kincir angin
+10.	 Fondasi
+11.	
+Baut pengeras kawat pengikat
+12.	 Inverter
+13.	 Sistem Pengontrol
+14.	 Baterai/aki
+Sistem 
+Pengontrol
+Aki
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+165
+2.	 Sel Surya
+Bagaimana mungkin sinar matahari yang terasa hangat di kulit dapat diubah 
+menjadi listrik untuk menyalakan lampu atau mengisi baterai?
+Sel surya atau solar cell adalah suatu perangkat atau komponen yang 
+dapat mengubah energi cahaya matahari menjadi energi listrik dengan 
+menggunakan prinsip efek photovoltaic. Efek photovoltaic ini ditemukan 
+oleh Henry Becquerel pada tahun 1839. Efek photovoltaic adalah suatu 
+fenomena munculnya tegangan listrik karena adanya hubungan atau kontak 
+dua elektrode yang dihubungkan dengan sistem padatan atau cairan saat 
+mendapatkan energi cahaya. Oleh karena itu, sel surya sering disebut juga 
+dengan sel photovoltaic (PV). 
+Gambar 5.33 Sel Surya
+Arus listrik timbul karena adanya energi foton cahaya matahari yang 
+diterimanya berhasil membebaskan elektron-elektron dalam sambungan 
+semikonduktor tipe N dan tipe P untuk mengalir. Sel surya ini juga memiliki 
+kaki positif dan kaki negatif yang terhubung ke rangkaian atau perangkat 
+yang memerlukan sumber listrik sama seperti dioda foto (photodiode).
+Cahaya Matahari
+Panel Surya
+Baterai
+Panel Kontrol
+Peralatan Elektronik
+Penerangan
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+166
+Pada dasarnya, sel surya merupakan dioda foto yang memiliki permukaan 
+yang sangat besar. Permukaan luas sel surya tersebut menjadikan perangkat 
+sel surya ini lebih sensitif terhadap cahaya yang masuk dan menghasilkan 
+tegangan dan arus yang lebih kuat dari dioda foto pada umumnya. Contohnya, 
+sebuah sel surya yang terbuat dari bahan semikonduktor silikon mampu 
+menghasilkan tegangan setinggi 0,5V dan arus setinggi 0,1A saat padanan 
+expose itu terpapar cahaya matahari.
+Saat ini telah banyak perangkat sel surya yang diaplikasikan ke berbagai 
+macam penggunaan, mulai dari sumber listrik untuk kalkulator, mainan, 
+pengisi baterai, pembangkit listrik, dan bahkan sebagai sumber energi untuk 
+menggerakkan satelit yang mengorbit bumi. Berikut ini adalah struktur dasar, 
+bentuk, dan simbol sel surya.
+Simbol Sel Surya
+Bentuk Sel Surya
+Struktur Sel Surya
+Cahaya Matahari
+Semikonduktor tipe-N
+Semikonduktor tipe-P
+Terminal Positif
+Terminal Negatif
+Gambar 5.34 Struktur Dasar dan Simbol Sel Surya
+3.	 Tenaga Nuklir
+Bagaimana mungkin sebutir kecil zat bisa menghasilkan energi yang cukup 
+untuk menyalakan kota?
+Pembangkit listrik tenaga nuklir atau PLTN adalah sebuah pembangkit 
+daya termal yang menggunakan satu atau beberapa reaktor nuklir sebagai 
+sumber panasnya. Prinsip kerja sebuah PLTN hampir sama dengan sebuah 
+pembangkit listrik tenaga uap atau PLTU karena menggunakan uap bertekanan 
+tinggi untuk memutar turbin. Putaran turbin inilah yang diubah menjadi 
+energi listrik (lihat gambar 5.35). 
+ Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+167
+Struktur penahanan
+Pemampat
+Bejana
+Reaktor
+Batang
+Kendali
+Kondenser
+Generator
+Gambar 5.35 Skema Sistem Pembangkit Listrik Tenaga Nuklir (PLTN)
+Perbedaan antara PLTN dan PLTU ialah sumber panas yang digunakan 
+untuk menghasilkan panas. Sumber panas dari sebuah PLTN adalah uranium. 
+Reaksi pembelahan (fisi) inti uranium menghasilkan energi panas yang sangat 
+besar.
+Gambar 5.36 Pembangkit Listrik Tenaga Nuklir 
+Sumber: Stefan Kühn/commons.wikimedia.org (2005)
+Generator uap
+Turbin
+llmu Pengetahuan Alam 
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+untuk SMP/MTs Kelas IX (Edisi Revisi)
+168
+Daya sebuah PLTN berkisar antara 40 MWe sampai mencapai 2000 MWe, 
+dan untuk PLTN yang dibangun pada tahun 2005 mempunyai sebaran daya 
+dari 600 MWe sampai 1200 MWe. Hingga tahun 2015 terdapat 437 PLTN yang 
+beroperasi di dunia, yang secara keseluruhan menghasilkan daya sekitar 
+1/6 dari energi listrik dunia. Sampai saat ini, sekitar 66  unit PLTN sedang 
+dibangun di berbagai negara, antara lain Tiongkok sebanyak 28 unit, Rusia 
+sebanyak 11  unit, India sebanyak 7  unit, Uni Emirat Arab sebanyak 4  unit, 
+Korea Selatan sebanyak 4 unit, Pakistan dan Taiwan masing-masing sebanyak 
+2 unit.
+PLTN dikategorikan berdasarkan jenis reaktor yang digunakan. Pada 
+pembangkit yang memiliki beberapa unit reaktor terpisah, setiap reaktor 
+memungkinkan penggunaan bahan bakar seperti uranium dan plutonium.
+Gambar 5.37 Pembangkit Listrik Tenaga Nuklir Uni Emirat Arab 
+Sumber: Dahlia Nehme, Nafisa Eltahir, dan Rania El Gamal/sweetcrudereports.com (2020)
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+169
+Setelah mengikuti aktivitas ini, kamu akan mampu:
+1.	
+mengidentifikasi dan merangkum informasi dari artikel ilmiah populer tentang 
+penggunaan energi terbarukan di Indonesia maupun dunia;
+2.	
+mengembangkan kemampuan komunikasi tertulis untuk menyampaikan 
+gagasan utama dari informasi yang dibaca secara ringkas dan jelas,
+3.	
+menganalisis konsep keberlanjutan energi terbarukan dan membandingkannya 
+dengan sumber energi fosil dari segi ketersediaan dan dampak lingkungan;
+4.	
+mengevaluasi potensi sumber energi terbarukan di daerah tempat tinggalnya 
+berdasarkan kondisi geografis dan sumber daya alam setempat, dan
+5.	
+membangun kesadaran kritis terhadap isu energi dan lingkungan, serta 
+menumbuhkan tanggung jawab sebagai warga yang peduli masa depan 
+berkelanjutan.
+1.	
+Kliping Energi Terbarukan di Sekitarmu
+Carilah satu artikel berita dari media cetak atau daring yang membahas 
+penggunaan sumber energi terbarukan di Indonesia atau dunia (contoh: 
+energi surya, angin, air, biomassa, atau panas bumi).
+a.	
+Tempelkan atau lampirkan klipingnya.
+b.	
+Ringkas isi beritanya dalam 3–5 kalimat.
+c.	
+Apa pesan utama yang kamu dapat dari berita tersebut?
+2. 	 Analisis Keberlanjutan Energi Terbarukan
+Mengapa energi seperti angin, matahari, atau air disebut sumber energi 
+yang berkelanjutan?
+a.	
+Jelaskan apa yang membuatnya tidak akan habis dalam waktu dekat.
+b.	
+Bandingkan dengan bahan bakar fosil seperti minyak dan batu bara.
+3. 	 Potensi Energi Daerahmu
+Coba amati lingkungan tempat tinggalmu.
+a.	
+Sebutkan 2–3 jenis sumber energi alternatif yang berpotensi besar 
+dikembangkan di daerahmu!
+b.	
+Jelaskan alasanmu, berdasarkan kondisi alam (angin, panas matahari, 
+sumber air, lahan pertanian, dll).
+c.	
+Jika dikembangkan dengan baik, menurutmu energi apa yang paling 
+cocok untuk masa depan wilayahmu?
+Aktivitas 5.5
+Ayo Komunikasikan
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+170
+Ayo Uji Kemampuan
+Jawablah pertanyaan-pertanyaan berikut dengan penjelasan yang logis dan 
+menggunakan bahasa yang mudah dipahami. Diskusikan bersama temanmu atau 
+dalam kelompok kecil jika perlu.
+1.	
+Apa yang dimaksud dengan energi alternatif? Sebutkan tiga contoh sumber 
+energi alternatif!
+2.	
+Mengapa energi matahari dan angin disebut sebagai energi terbarukan? 
+Jelaskan secara singkat!
+3.	
+Bandingkan dua sumber energi berikut ini: panel surya dan pembangkit listrik 
+tenaga air! Apa kelebihan dan kekurangan masing-masing?
+4.	
+Bagaimana energi alternatif dapat membantu mengurangi dampak pemanasan 
+global? Jelaskan keterkaitannya!
+5.	
+Di daerahmu, sumber energi alternatif apa yang paling memungkinkan 
+dikembangkan? Jelaskan berdasarkan kondisi geografis atau lingkungan sekitar!
+6.	
+Jika kamu diminta merancang alat penerangan sederhana yang tidak 
+menggunakan listrik PLN, alat apa yang akan kamu buat? Jelaskan cara 
+kerjanya dan bahan-bahan yang dibutuhkan!
+Projek
+Akhir Bab
+Merancang Lampu Bertenaga Surya
+Meskipun kita hidup di era teknologi canggih dan kecerdasan buatan (AI), 
+kenyataannya masih banyak wilayah di Indonesia yang belum mendapatkan 
+penerangan listrik yang memadai. Banyak anak seusiamu kesulitan belajar atau 
+mengerjakan tugas di malam hari karena tidak ada cukup cahaya. Sebagai generasi 
+muda yang peduli dan kreatif, kamu tentu ingin membantu mengatasi kesenjangan 
+ini. Melalui projek ini, kamu diajak merancang dan membuat lampu bertenaga 
+surya sederhana sebagai solusi penerangan ramah lingkungan.
+Projek ini akan menunjukkan kepadamu bahwa cahaya matahari sebagai 
+sumber energi yang terbarukan dan tak terbatas dapat diubah menjadi energi 
+listrik melalui panel surya. Energi ini kemudian disimpan dalam baterai dan 
+digunakan untuk menyalakan lampu LED, bahkan tanpa sambungan ke listrik PLN.
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+171
+Langkah-Langkah Projek: Merancang Lampu Bertenaga Surya
+1.	
+Bentuk kelompok kerja
+	
+Bentuklah kelompok yang terdiri atas 3–4 orang. Tentukan pembagian peran 
+dalam kelompok secara adil, misalnya: perancang desain, perakit alat, pencatat 
+data, dan penyaji laporan.
+2.	
+Rancang desain alat
+	
+Gambar rancangan alat yang akan dibuat. Pastikan desain mencakup posisi 
+panel surya, letak baterai dan lampu, serta jalur kabel. Gunakan bahan yang 
+aman dan mudah ditemukan, seperti kotak bekas, botol plastik, atau wadah 
+kardus.
+3.	
+Kumpulkan alat dan bahan 
+Siapkan komponen berikut:
+•	
+Panel surya mini (±6V 1W)
+•	
+Modul charger (misalnya TP4056)
+•	
+Baterai isi ulang Li-ion 3.7 V
+•	
+LED (lampu hemat energi)
+•	
+Sakelar kecil
+•	
+Kabel jumper atau kabel serabut
+•	
+Wadah/tempat untuk menyusun rangkaian
+•	
+Lem tembak, isolasi, atau cable ties/ikat kabel
+•	
+(Opsional) Multimeter untuk pengukuran
+4.	
+Rakit rangkaian lampu surya
+•	
+Sambungkan panel surya ke modul charger.
+•	
+Hubungkan modul charger ke baterai isi ulang.
+•	
+Sambungkan baterai ke sakelar dan lampu LED.
+•	
+Pastikan semua sambungan sesuai polaritas (+ dan –).
+•	
+Rapikan kabel dan susun komponen dalam wadah dengan rapi dan aman.
+5.	
+Uji coba alat di bawah sinar matahari
+	
+Letakkan panel surya di tempat yang terkena sinar matahari langsung selama 
+3–6 jam. Setelah itu, coba nyalakan lampu di tempat gelap menggunakan 
+sakelar. Catat apakah lampu menyala dan berapa lama dapat bertahan.
+6. 
+Catat hasil dan refleksi kelompok
+•	
+Catat waktu pengisian dan waktu nyala lampu.
+•	
+Dokumentasikan proses kerja: ambil foto atau buat sketsa langkah-
+langkahnya.
+•	
+Tulis refleksi tentang tantangan yang dihadapi dan bagaimana kalian 
+mengatasinya.
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+172
+7.	
+Buat laporan dan presentasikan hasilnya 
+Susun laporan sederhana atau poster yang berisi:
+•	
+Tujuan dan manfaat alat
+•	
+Skema rangkaian dan foto alat
+•	
+Hasil uji coba
+•	
+Simpulan dan refleksi kelompok 
+Presentasikan hasil projek kalian kepada teman-teman di kelas.
+Melalui projek ini, kalian tidak hanya belajar tentang prinsip konversi energi 
+dan rangkaian listrik, tetapi juga mengembangkan kepedulian sosial dan semangat 
+berbagi. Kalian berlatih bekerja sama, berpikir kreatif, dan menghadirkan solusi 
+nyata dari permasalahan lingkungan dan sosial di sekitar kita. Mari berinovasi 
+bersama. Dari langkah kecil ini, kalian bisa memberi cahaya untuk masa depan 
+yang lebih terang.
+Selain Projek “Merancang Lampu Bertenaga Surya”, kalian juga dibolehkan 
+untuk melakukan projek lain seperti membuat prototipe pembangkit listrik tenaga 
+air (PLTA) atau projek lain yang relevan. Tentunya kalian harus berkonsultasi 
+dengan gurumu di kelas.
+Uji Kompetensi
+Jawablah pertanyaan berikut secara lengkap dan jelas!
+1.	
+Jelaskan perbedaan antara listrik statis dan listrik dinamis, serta berikan 
+masing-masing satu contoh peristiwa dalam kehidupan sehari-hari!
+2.	
+Buatlah sebuah sistem rangkaian listrik dengan ketentuan berikut.
+a.	
+Jumlah lampu adalah sebanyak lima buah.
+b.	
+Tiga lampu tersusun paralel dan dua lampu tersusun seri.
+3.	
+Sebutkan tiga faktor yang memengaruhi besar kecilnya gaya listrik antara 
+dua muatan! Jelaskan pengaruh tiap faktor terhadap gaya yang timbul!
+4.	
+Bagaimana prinsip kerja elektromagnet digunakan dalam alat-alat berikut.
+a.	
+Bel listrik
+b.	
+Motor listrik 
+(Deskripsikan konsep dasar gaya Lorentz atau induksi elektromagnetik 
+pada tiap alat!)
+Bab 5 |  Listrik, Magnet, dan Energi Alternatif
+173
+5. 	 Jelaskan perbedaan medan magnet dan medan listrik berdasarkan:
+a.	
+arah gaya,
+b.	
+asal medan, dan
+c.	
+respons terhadap muatan/benda.
+6. 	 Mengapa penggunaan energi terbarukan (seperti surya dan angin) penting 
+untuk masa depan Indonesia? Sertakan dua alasan berdasarkan aspek 
+lingkungan dan keberlanjutan energi!
+7. 	 Seorang peserta didik menghubungkan lampu dan baterai dalam suatu 
+rangkaian, tetapi lampu tidak menyala. Tuliskan dua kemungkinan kesalahan 
+yang dapat terjadi dan cara memperbaikinya!
+8. 	 Sebuah lampu 12 W dan 24 W dihubungkan ke baterai.
+a.	
+Berapakah kuat arus listrik yang mengalir pada lampu tersebut?
+b.	
+Jika lampu dinyalakan selama tiga jam, berapa besar energi listrik yang 
+digunakan dalam satuan joule?
+9. 	 Jelaskan bagaimana energi listrik dapat dihasilkan dari air terjun! Sebutkan 
+komponen utama pembangkit dan perubahan energi yang terjadi!
+10. 	Coba amati kondisi lingkungan tempat tinggalmu.
+a.	 Sumber energi terbarukan apa yang paling potensial dikembangkan di 
+daerahmu?
+b.	 Jelaskan alasanmu berdasarkan kondisi geografis dan kebutuhan 
+masyarakat sekitar.
+Pengayaan
+Studi Kasus: Motor Listrik atau Panel Surya?
+Situasi: 
+Sebuah desa terpencil di daerah pegunungan sulit dijangkau listrik PLN. Dua 
+solusi ditawarkan: menggunakan motor listrik berbasis generator diesel atau 
+sistem panel surya dan baterai.
+Tugasmu:
+1.	
+Bandingkan kelebihan dan kekurangan tiap solusi berdasarkan aspek biaya, 
+ketersediaan energi, lingkungan, dan keberlanjutan.
+2.	
+Pilih salah satu solusi dan buat argumentasi tertulis mengapa kamu 
+memilihnya.
+3.	
+Jika kamu seorang anak yang tinggal di desa tersebut, bagaimana kamu dapat 
+membantu masyarakat dalam memanfaatkan teknologi tersebut?
+llmu Pengetahuan Alam untuk SMP/MTs Kelas IX (Edisi Revisi)
+174
+Setelah mempelajari bab ini, luangkan waktu untuk merenungkan dan menjawab 
+pertanyaan-pertanyaan berikut.
+1.	
+Konsep apa yang paling kamu pahami dan paling menarik dalam bab ini? 
+Mengapa?
+2.	
+Aktivitas atau percobaan mana yang paling membantumu memahami konsep 
+listrik atau magnet? Jelaskan alasannya!
+3.	
+Apa hal baru yang kamu pelajari tentang energi alternatif yang belum kamu 
+ketahui sebelumnya?
+4.	
+Bagian mana dalam bab ini yang paling menantang bagimu? Bagaimana 
+kamu mengatasinya?
+5.	
+Jika kamu mengulang kembali pembelajaran bab ini, apa yang akan kamu 
+lakukan secara berbeda?
+6.	
+Bagaimana pemahamanmu tentang listrik dan energi bisa kamu terapkan 
+dalam kehidupan sehari-hari?
+7.	
+Menurutmu, apa peranmu sebagai generasi muda dalam mendukung 
+penggunaan energi terbarukan?
+8.	
+Topik apa yang ingin kamu pelajari lebih lanjut setelah bab ini?
+9.	
+Apakah kamu tertarik untuk menciptakan alat atau projek sains berbasis 
+listrik atau energi alternatif di masa depan?
+10.	 Beri tanda (3) pada kolom yang sesuai. 1 = belum paham, 2 = mulai paham, 
+3 = cukup paham, 4 = sangat paham.
+Aspek
+1
+2
+3
+4
+Membedakan arus, tegangan, hambatan (hukum Ohm)
+Menghitung R_eq seri/pararel dan memprediksi arus
+Menjelaskan hubungan listrik-magnet (Oersted/Faraday)
+Menilai pilihan energi alternatif untuk konteksku
+11.	 Perhatikan pernyataan-pernyataan berikut dan pilihlah angka 1 = tidak pernah, 
+2 = jarang, 3 = sering, 4 = selalu. Beri tanda (3)
+Pernyataan Perilaku
+1
+2
+3
+4
+Saya mematikan lampu/kipas saat meninggalkan ruangan.
+Saya mencabut charger setelah baterai penuh.
+Saya memilih mode hemat energi/kecerahan seperlunya 
+pada perangkat
+Saya mengurangi waktu layar saat tidak diperlukan.
+Refleksi
+Akhir Bab

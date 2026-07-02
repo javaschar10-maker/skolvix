@@ -1,0 +1,1564 @@
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Fisika untuk SMA/MA Kelas XI
+Penulis 
+: Marianna Magdalena Radjawane, Alvius Tinambunan, Lim Suntar Jono
+ISBN 
+: 978-623-472-721-0 (jil.1)
+Kinematika
+BAB 2
+Tujuan Pembelajaran
+Setelah mempelajari bab ini kalian dapat 
+Menguraikan 
+besaran-besaran 
+isis 
+dan 
+karakteristik gerak pada gerak lurus beraturan 
+(GLB), gerak lurus berubah beraturan (GLBB), 
+gerak parabola maupun gerak melingkar 
+beraturan, kemudian menerapkan konsep 
+gerak tersebut dalam menyelesaikan masalah 
+baik 
+menggunakan 
+persamaan 
+ataupun 
+penafsiran graik.
+Kata-Kata Kunci:
+• 
+Posisi
+• 
+Jarak
+• 
+Perpindahan
+• 
+Kecepatan 
+• 
+Kelajuan
+• 
+Percepatan
+• 
+Gerak lurus beraturan
+• 
+Gerak lurus berubah beraturan
+• 
+Gerak peluru
+• 
+Gerak melingkar beraturan
+• 
+Sudut tempuh
+• 
+Kecepatan sudut
+• 
+Kecepatan linear
+• 
+Percepatan sentripetal
+Sumber: Alexandr Ivanov/Pexels.com (2021)
+28
+Fisika untuk SMA/MA Kelas XI
+Pernahkah kalian berpikir tentang hubungan antara panjang landasan 
+pacu bandara dengan ukuran pesawat terbang?  Ketika pesawat terbang 
+menjatuhkan bantuan dari suatu ketinggian tertentu untuk suatu wilayah 
+tertentu, apakah posisi pesawat harus tepat di atas wilayah tersebut? Semua 
+pertanyaan tersebut berhubungan dengan gerak yang akan dibahas dalam 
+bab ini.
+Peta Konsep
+Kinematika
+mencakup
+dapat berupa
+memiliki besaran
+perpaduan
+terdiri atas
+memiliki
+besaran
+Gerak Lurus
+Posisi
+Sudut
+Tempuh
+Kecepatan
+Sudut
+Kecepatan
+Linear
+Percepatan
+Sentripetal
+Gerak Parabola
+Jarak
+Perpindahan
+Gerak
+Lurus
+Beraturan
+Gerak
+Lurus
+Berubah
+Beraturan
+Kelajuan
+Kecepatan
+Percepatan
+Gerak Melingkar
+Gerak Melingkar 
+Beraturan
+29
+ Bab 2 | Kinematika
+Jenis-jenis gerak dapat diamati dalam bidang olahraga. Lari 100 m 
+menunjukkan gerak lurus. Gerak bola basket merupakan gerak parabola. 
+Lempar cakram melibatkan gerak melingkar beraturan. 
+Global Positioning System (GPS) memerlukan minimal tiga satelit untuk 
+menentukan posisi suatu benda. Setiap satelit mencatat jarak dari satelit 
+ke benda tersebut. Sekurang-kurangnya diperlukan dua data satelit untuk 
+menentukan titik lokasi benda dengan tepat.
+A. Pengertian Gerak 
+ 
+Subbab ini membahas posisi dan kerangka acuan yang bersesuaian dengann-
+ya serta hubungannya dengan pengertian gerak. 
+1. Kerangka Acuan dan Posisi 
+ 
+Kalian dan ibu kalian berbelanja keperluan berbeda di pasar yang sama. 
+Bagaimana kalian menginformasikan posisi kalian kepada ibu kalian? Pilot 
+pesawat terbang perlu menginformasikan posisinya kepada petugas ATC se-
+cara berkala agar tiba di tujuan.  Perhatikan konteks yang lebih sempit untuk 
+menjelaskan posisi.    
+Gambar 2.1 Cara kerja GPS
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.2 Gerak lurus pada lomba lari 100 m
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+30
+Fisika untuk SMA/MA Kelas XI
+Kalian berada di rumah Tenri. Bagaimana menjelaskan posisi kalian 
+jika rumah Lanny menjadi patokan? Jika rumah Siti menjadi patokan? 
+Ternyata, posisi dapat ditentukan dengan lebih dari satu cara karena 
+penggunaan patokan yang berbeda. 
+“Patokan disebut sebagai kerangka acuan.”
+2. Gerak sebagai Perubahan Posisi 
+ 
+Coba kalian lakukan kegiatan berikut ini untuk memahami hubungan antara 
+gerak dengan posisi.   
+“Benda bergerak jika posisi awal berbeda dengan posisi akhir.”
+Ayo, Berdiskusi!
+Gunakan Gambar 2.3 untuk melengkapi Tabel 2.1. Sondang berada di 
+rumah Siti lalu pergi ke toko. (Perhatikan penulisan bentuk vektor).
+Tabel 2.1 Posisi Awal, Posisi Akhir dan Perubahan Posisi Sondang
+Ayo, Berdiskusi!
+Perhatikan Gambar 2.3. 
+Gambar 2.3 Posisi berbagai bangunan di suatu jalan dan arah mata angin
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Kerangka 
+acuan
+Posisi
+Awal
+Posisi 
+Akhir 
+Perubahan 
+Posisi
+Rumah Kezia
+Rumah Lanny
+Rumah Tenri
+31
+ Bab 2 | Kinematika
+Aktivitas 2.1
+Perhatikan denah berikut ini. Seorang siswa berjalan dari Puskesmas ke 
+Museum Fisika. Lengkapi Tabel 2.2 untuk menentukan posisi awal, posisi 
+akhir dan perubahan posisi berdasarkan dua titik acuan berbeda.
+Gambar 2.4 Denah jalan di suatu kawasan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tabel 2.2 Posisi Awal, Posisi Akhir dan Perubahan Posisi Berdasarkan Denah Kawasan
+Tahukah Kalian
+Dua pesawat, yaitu United Airlines dan US Airways, hampir 
+bertabrakan di landasan pacu Providence, Rhode Island karena cuaca 
+berkabut. Pilot pesawat United Airlines masuk dalam jalur yang 
+salah setelah mendarat.  Dalam percakapan dengan pihak ATC ada 
+perbedaan persepsi tentang posisi pesawat karena menggunakan 
+acuan berbeda.  Beruntung pilot pesawat US Airways menolak untuk 
+lepas landas karena mendengarkan percakapan pilot United Airlines 
+dengan staf ATC bahwa baru saja ada pesawat kargo lepas landas 
+dengan posisi yang sangat dekat dengannya. 
+Kerangka 
+acuan
+Posisi
+Awal
+Posisi 
+Akhir 
+Perubahan 
+Posisi
+Tugu Kota
+Kantor Pos
+32
+Fisika untuk SMA/MA Kelas XI
+B. Besaran-Besaran Gerak 
+ 
+Kalian akan mendalami besaran-besaran gerak, hubungan antar besaran 
+dalam perumusan gerak dan representasi gerak dengan menggunakan besa-
+ran-besaran isis.
+ 
+3. Perpindahan dan Jarak
+Ayo, Berpikir Kritis!
+Helikopter digunakan sebagai sarana transportasi baik di kota 
+metropolitan maupun di pegunungan. Gambar 2.5a menunjukkan 
+sebuah kota yang dipenuhi gedung bertingkat Gambar 2.5b 
+menunjukkan suatu kawasan pegunungan. Coba kalian bandingkan 
+rute perjalanan dari A ke B dan dari D ke C dengan menggunakan 
+helikopter dan tanpa helikopter. Jelaskan jawaban kalian.
+Gambar 2.5a Kota metropolitan
+Sumber: Marianna MR/Kemdikbudristek (2022)
+Gambar 2.5b Pegunungan
+Sumber: Irmawan (2018)
+Perhatikan Gambar 2.6. Seekor semut ingin mengambil gula yang jatuh di 
+lantai. Semut melalui lintasan yang berwarna biru. Rute merah merupakan 
+rute terpendek yang dapat dilalui semut karena langsung menghubungkan 
+titik awal dan titik akhir. Rute merah disebut sebagai perpindahan atau 
+perubahan posisi awal dan akhir dari semut. Rute biru disebut sebagai jarak 
+yaitu panjang lintasan yang dilalui oleh semut.
+Ayo, Cek Pemahaman!
+Apakah seseorang yang mengelilingi lapangan, dimulai pada suatu 
+titik dan kembali ke titik tersebut, dikatakan bergerak? Jelaskan 
+jawaban kalian. 
+33
+ Bab 2 | Kinematika
+Bagaimana menentukan jarak dan perpindahan? Perhatikan diagram 
+gerak dalam Gambar 2.7 untuk menentukan  jarak dan perpindahan yang 
+dialami oleh seorang pengendara sepeda. 
+“Perpindahan adalah perubahan posisi awal dan posisi akhir.
+Jarak adalah panjang lintasan yang ditempuh.”
+Gambar 2.6 Rute semut mencari makanan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Jarak tempuh = 10 + 15 + 25 + 10 =  60 km.
+Perpindahan = 10 km ke barat.
+Gambar 2.7 Posisi pengendara sepeda terhadap waktu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Aktivitas 2.2
+Posisi sepeda dalam Gambar 2.7 dapat dinyatakan dalam graik posisi 
+terhadap waktu. Lengkapi tabel dan buat graiknya.
+1. 
+Bagaimana ciri graik jika benda bergerak ke arah timur (positif)?
+2. 
+Bagaimana ciri graik jika benda bergerak ke arah barat (negatif)?
+3. 
+Apa yang diamati pada graik jika terjadi perubahan arah gerak benda? 
+4. 
+Bagaimana bentuk graik jika posisi benda tetap sama atau benda 
+tidak bergerak?
+5. 
+Bagaimana menentukan jarak dan perpindahan dari graik?
+Jawablah pertanyaan berikut ini.
+Tabel 2.3 Posisi sepeda terhadap waktu
+Lintasa
+Waktu Tempuh (Jam)
+Posisi (Km)
+OA
+AB
+BC
+34
+Fisika untuk SMA/MA Kelas XI
+Gambar 2.8 Graik Posisi terhadap waktu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berkolaborasi!
+Kalian bekerja sama untuk menyelesaikan tugas ini. Perhatikan 
+perjalanan suatu kendaraan yang ditunjukkan oleh graik posisi 
+terhadap waktu. Graik terdiri atas beberapa segmen. Untuk 
+keseluruhan perjalanan tentukan jarak dan perpindahan kendaraan. 
+Tentukan arah gerak dan perubahan posisi yang terjadi dalam setiap 
+segmen.
+Gambar 2.9 Graik Posisi terhadap waktu dari suatu kendaraan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berteknologi!
+Karakteristik gerak dapat ditunjukkan oleh graik posisi terhadap waktu, 
+seperti yang ditunjukkan oleh Gambar 2.8. Apa yang terjadi dengan gerak 
+benda pada titik puncak graik?
+Gunakan Microsoft Excel untuk menggambar graik dari Aktivitas 2.3. 
+-2
+-4
+35
+ Bab 2 | Kinematika
+2. Kecepatan dan Kelajuan
+Kecepatan (velocity) dan kelajuan (speed) menyatakan gerak benda. 
+Kecepatan merupakan besaran vektor yang ditentukan oleh perpindahan 
+dan selang waktu yang diperlukan  untuk berpindah. Kelajuan merupakan 
+besaran skalar yang ditentukan oleh jarak dan selang waktu yang diperlukan 
+untuk menempuh jarak tersebut. Perhatikan kedua persamaan berikut ini.
+Perpindahan
+Kecepatanrata
+rata
+Selang waktu
+−
+=
+(2.1)
+(2.2)
+a. 
+Perkirakan  jarak tempuh yang dipersingkat dari Galala ke Rumah 
+Tiga dengan menggunakan penggaris dan skala.
+b. 
+Harga bahan bakar per liter adalah Rp 7650. Perkiraan rata-
+rata jarak tempuh suatu mobil tertentu  adalah 12 km untuk 
+penggunaan 1 liter bahan bakar, hitung penghematan biaya 
+karena jarak tempuh yang lebih pendek.
+c. 
+Cari informasi banyak kendaraan yang melintasi jembatan Merah 
+Putih setiap hari secara rata-rata. Tentukan penghematan biaya 
+secara rata-rata setiap hari.  
+d. 
+Adakah jalan pintas yang kalian temui di lokasi kalian? Berapa 
+penghematan biaya setiap kali melintasi rute tersebut?
+Gambar 2.10 Peta pulau Ambon
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Jembatan Merah Putih terletak di pulau Ambon, membentang di 
+atas teluk Ambon. Perhatikan peta dalam Gambar 2.10. Garis ungu 
+mewakili panjang jembatan yang melintasi teluk. 
+Literasi Finansial
+36
+Fisika untuk SMA/MA Kelas XI
+Ayo, Berkolaborasi!
+Perhatikan Gambar 2.11 . Motor bergerak dengan kecepatan 45 km/
+jam ke barat dan bis dengan kecepatan 50 km/jam ke barat. Jawablah 
+pertanyaan berikut.
+1. 
+Apakah supir bis melihat bahwa ibu yang dibonceng bergerak 
+terhadapnya? 
+2. 
+Apakah bapak yang membonceng ibu melihat bahwa ibu yang 
+diboncengnya bergerak terhadapnya?
+Gerak ibu menurut supir bis ternyata berbeda dengan gerak ibu 
+menurut bapak yang memboncengnya. Gerak relatif ibu terhadap 
+bapak berbeda dengan gerak relatif ibu terhadap supir bis.
+“Gerak bersifat relatif karena ditentukan oleh kerangka acuan yang 
+mengamati fenomena tersebut.”
+Gambar 2.11 Gerak motor dan bis
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+3. Gerak Relatif
+Dua orang berbeda melihat seseorang bergerak. Apakah keduanya 
+menyimpulkan hal yang sama tentang gerak suatu benda? Ayo, lakukan 
+kegiatan berikut ini.
+37
+ Bab 2 | Kinematika
+Ayo, Cermati!
+Untuk memperdalam pemahaman bahwa gerak bersifat relatif, 
+perhatikan ketiga gambar dalam Gambar 2.12 kemudian  lengkapi 
+Tabel 2.3 (keadaan b telah diisi sebagai contoh).
+Gambar 2.12 Kecepatan pesawat akibat kecepatan udara
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tabel 2.4 Kecepatan Pesawat Terhadap Udara dan Tanah
+Berdasarkan Gambar 2.11 tuliskan kecepatan supir bis terhadap 
+kecepatan ibu sebagai penjumlahan vektor kecepatan.
+Jika dikatakan pesawat bergerak dengan kecepatan 800 km/jam maka 
+pertanyaannya terhadap kerangka acuan tanah atau udara.  Pada umumnya 
+jika dituliskan kecepatan 20 km/jam, tanpa penjelasan tambahan, maka itu 
+berarti terhadap kerangka acuan tanah.      
+Kecepatan benda terhadap suatu kerangka acuan yang berbeda sebenarnya 
+merupakan hasil penjumlahan vektor kecepatan. 
+Jadi,
+pt
+pu
+ut
+v
+v
+v
+=
++
+
+
+
+Dengan : 
+pt
+v
+
+ = kecepatan pesawat terhadap tanah,
+pu
+v
+
+ = kecepatan pesawat terhadap udara,
+ut
+v
+
+  = kecepatan udara terhadap tanah.
+(2.3)
+Ayo, Cermati!
+Keadaan
+v pesawat terhadap
+ udara (km/jam)
+v pesawat terhadap
+ udara (km/jam)
+v pesawat terhadap
+tanah(km/jam)
+a
+b
+800 km/jam timur
+40 km/jam timur
+840 km/jam timur
+c
+38
+Fisika untuk SMA/MA Kelas XI
+Ayo, Berteknologi! (Alternatif)
+Penjumlahan dua vektor yang tegak lurus dapat menggunakan tautan 
+dalam ophysics.  Pilih menu vector addition.
+Ayo, Cek Pemahaman!
+Jika kecepatan pesawat terhadap udara adalah vpu maka kecepatan 
+udara terhadap pesawat adalah vup. Menurut kalian, bagaimana 
+hubungan antara vup dan vpu. 
+4. Kecepatan dan Kelajuan Sesaat 
+ 
+Pernahkah kalian mengamati spedometer pada kendaraan bergerak? Selama 
+perjalanan speedometer yang berfungsi dengan baik dapat menunjukan  an-
+gka-angka yang berbeda. Spedometer ialah alat yang menunjukan kelajuan 
+kendaraan bermotor pada saat tertentu. 
+Sungai Kapuas, berlokasi di Kalimantan, merupakan sungai terpanjang 
+di Indonesia dengan panjang 1143 km. Kelajuan maksimum arus 
+sungai 1,25 m/s, terhadap tanah. Kota Pontianak dipisahkan sejauh 
+0,41 km oleh sungai Kapuas. Feri menyeberangi sungai Kapuas dengan 
+kelajuan 1,33 m/s.
+Tentukan :
+a. 
+besar dan arah kecepatan feri terhadap tanah. Kalian dapat 
+menggambarkan penjumlahan vektor dengan menggunakan 
+penggaris dan busur. 
+b. 
+jarak pada tepi sungai yang merupakan perbedaan titik tiba feri 
+karena arus sungai. Gunakan penggaris untuk menentukannya.
+Ayo, Berkolaborasi!
+39
+ Bab 2 | Kinematika
+Kelajuan sesaat adalah kelajuan pada 
+suatu waktu tertentu atau kelajuan 
+pada suatu titik dari lintasan benda. 
+Kecepatan pada waktu tertentu disebut 
+sebagai kecepatan sesaat.
+Rambu batas kecepatan sering dipasang 
+di jalan tol. Arti maksimum 80 km/jam 
+adalah kelajuan sesaat mobil tidak 
+boleh melebihi 80 km/jam. Radar gun 
+adalah suatu alat yang digunakan polisi 
+untuk mendeteksi kelajuan mobil. 
+Gambar 2.13 Speedometer menunjukan 
+kelajuan sesaat pada kendaraan bermotor
+Sumber: Kemdikbudristek/Alvius (2022)
+5. Kecepatan dan Kelajuan Rata-Rata 
+ 
+Secara matematis kecepatan rata-rata dan kelajuan rata-rata diberikan oleh 
+persamaan berikut.
+Perpindahan
+Kecepatanrata
+rata
+Selang waktu
+−
+=
+Jika benda bergerak sepanjang sumbu-x dan posisinya dinyatakan 
+dengan koordinat × persamaannya dapat ditulis:
+   
+akhir
+awal
+akhir
+awal
+x
+x
+x
+v
+t
+t
+t
+−
+∆
+=
+=
+∆
+−
+Dengan : 
+v = kecepatan rata-rata (m/s),  
+  
+ 
+akhir
+awal
+x
+x
+x
+∆=
+−
+= perpindahan (m),  
+  
+ 
+akhir
+awal
+t
+t
+t
+∆=
+−
+= selang waktu (s)
+Jarak total
+kelajuan rata
+rata
+selang waktu
+−
+=
+x
+v
+t
+=
+Dengan : 
+ v = kelajuan rata-rata (m/s),  
+ x = jarak total (m), 
+t  = selang waktu (s).
+Gambar 2.14  Rambu Batas Kecepatan 
+Mobil dan Radar Gun
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Kelajuan rata-rata
+40
+Fisika untuk SMA/MA Kelas XI
+Perhatikan kembali Gambar 2.7 yang akan digunakan untuk 
+menunjukkan kelajuan rata-rata dan kecepatan rata-rata. 
+Cara menentukan kelajuan rata-rata dan kecepatan rata-rata sepeda 
+untuk seluruh perjalanan diberikan berikut  ini.
+Kelajuan rata-rata adalah 
+10km 15km 15km 10km 10km
+17,1km / jam
+1jam
+0,5 jam+2 jam
+x
+v
+t
++
++
++
++
+=
+=
+=
++
+Perpindahan adalah -10 km dan waktu total adalah 3,5 jam, maka 
+kecepatan rata-rata adalah
+akhir
+awal
+akhir
+awal
+10km
+0km
+2,86km/jam
+3,5 jam
+x
+x
+x
+v
+t
+t
+t
+−
+∆
+−
+−
+=
+=
+=
+= −
+∆
+−
+Tanda negatif menunjukkan arah gerak ke barat.
+Ayo, Berteknologi! (Opsional)
+Gunakan Microsoft Excel untuk menggambar graik dari Aktivitas 2.3.
+Aktivitas 2.3
+Perhatikan kembali Gambar 2.7. Lengkapi tabel dan buat graik 
+kecepatan terhadap waktu. Jawablah pertanyaan berikut ini.
+1. Bagaimana ciri graik jika kecepatan benda berarah positif?
+2. Bagaimana ciri graik jika kecepatan benda berarah negatif?
+3. Bagaimana menentukan jarak dan perpindahan dari graik? (Tinjau 
+berdasarkan per segmen graik)
+41
+ Bab 2 | Kinematika
+6. Percepatan
+Apa yang dimaksud dengan percepatan? Perhatikan graik kecepatan 
+terhadap waktu dari Usain Bolt, pelari yang beberapa kali memegang rekor 
+dunia lari 100 m, dalam Olimpiade 2008. Berapa kecepatan maksimum 
+Usain dan berapa lama dia mempertahankannya? Apakah Usain Bolt berlari 
+semakin cepat atau semakin lambat? Pada selang waktu berapa Usain 
+Bolt mengalami perubahan kecepatan dan berapa perubahan kecepatan 
+tersebut?
+Gambar 2.15. Graik kecepatan terhadap waktu dari Usain Bolt
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+1. Berapa perubahan kecepatan dari t = 2 s hingga t = 4 s? 
+2. Berapa perubahan kecepatan dari t = 4 s hingga t = 6 s? 
+3. Berapa perubahan kecepatan dari t = 8,2 s hingga t = 8,4 s? 
+4. Apakah perubahan kecepatan Usain Bolt selalu sama dalam selang 
+waktu yang sama?
+“Percepatan adalah perubahan kecepatan, yaitu selisih kecepatan akhir dengan 
+kecepatan awal, dalam suatu waktu tertentu.”
+Secara matematis percepatan ditulis:
+0
+t
+v
+a
+t
+v
+v
+a
+t
+∆
+= ∆
+−
+=
+∆
+
+
+
+
+
+Dengan : 
+a
+=
+percepatan (m/s
+2)
+0v
+=
+kecepatan awal (m/s),
+tv
+=
+kecepatan akhir (m/s),
+∆t
+=
+selang waktu(s).t
+(2.3)
+Ayo, Cermati!
+42
+Fisika untuk SMA/MA Kelas XI
+Dari graik juga terlihat bahwa Usain Bolt tidak selalu berlari makin cepat. 
+Menjelang inish Usain Bolt berlari makin lambat. Jika percepatan suatu benda 
+searah dengan kecepatannya atau geraknya, maka gerak benda semakin 
+cepat. Jika  percepatan suatu benda berlawanan arah dengan kecepatannya 
+atau geraknya, maka gerak benda semakin lambat.
+Ayo, Berpikir Kritis!
+Pikirkan suatu situasi dimana kelajuan konstan tetapi kecepatan 
+berubah. (Petunjuk: kecepatan merupakan besaran vektor).
+Ayo, Cek Pemahaman!
+Apakah ketiga mobil 
+mengalami percepatan?                               
+Jelaskan jawaban kalian.
+Gambar 2.16 Kecepatan mobil pada keadaan yang berbeda
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+C. Gerak Lurus 
+ 
+Lintasan benda yang bergerak mer-
+upakan titik-titik yang dilalui oleh ben-
+da tersebut. Gerak benda berdasarkan 
+bentuk lintasan dibedakan atas gerak 
+lurus, gerak lengkung (parabola/pelu-
+ru), dan gerak melingkar. Gerak lurus 
+adalah gerak suatu benda yang lin-
+tasannya berupa garis lurus. Misalnya, 
+Gambar 2.17 Cheetah sedang berlari
+sumber : Alvius Tinambunan/Kemendikbudristek (2022) 
+gerak pelari cepat atau benda jatuh ke bawah. Cheetah merupakan hewan da-
+rat yang tercepat di bumi. Cheetah terdapat di bagian timur dan selatan Benua 
+Afrika serta Iran di Asia. Cheetah dapat mengalami perubahan kelajuan dari 0 
+km/jam menjadi 120 km/jam dalam waktu 3 detik. Kelajuan 120 km/jam, yang 
+merupakan kelajuan maksimal, hanya dapat dipertahankan selama 30 detik. 
+Setelah itu kelajuannya berkurang.
+43
+ Bab 2 | Kinematika
+Ayo, Berdiskusi!
+Carilah artikel dan temukan penyebab cheetah dapat berlari secepat 
+itu. Selidiki apakah berkaitan dengan struktur alat geraknya atau 
+pernapasannya atau hal lainnya. 
+Aktivitas 2.4
+Buatlah graik kecepatan terhadap waktu yang menggambarkan gerak 
+cheetah. Informasi tambahan adalah kecepatan cheetah berkurang 
+dari 120 km/jam hingga berhenti dalam waktu 40 detik. Selidiki 
+gerak cheetah pada setiap segmen graik, apa yang terjadi dengan 
+kecepatannya dalam selang waktu tertentu.
+Ayo, Berkolaborasi!
+Hasil dari percobaan dengan menggunakan ticker timer, berupa 
+cetakan titik-titik pada kertas dan susunan peralatan percobaan 
+diberikan dalam Gambar 2.18.  Waktu tempuh antara dua titik selalu 
+sama. Pada percobaan kertas dikaitkan pada trolley yang bergerak 
+lurus pada suatu lintasan.
+Analisis hasil percobaan 1, 2 dan 3 dan simpulkan gerak ketiga 
+benda tersebut. Hubungkan dengan kecepatan dan percepatan benda.
+Gambar 2.18 Data dari ticker timer dan peralatan ticker timer
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+44
+Fisika untuk SMA/MA Kelas XI
+Perhatikan graik yang dibuat berdasarkan  Aktivitas 2.4 dan hasil analisis 
+dari Gambar 2.18 untuk menyimpulkan dua jenis gerak lurus.  Keduanya 
+adalah gerak lurus dengan kecepatan tetap disebut gerak lurus beraturan 
+(GLB) dan gerak lurus dengan percepatan tetap disebut gerak lurus berubah 
+beraturan (GLBB).
+1. Gerak Lurus Beraturan (GLB)  
+Untuk memahami gerak lurus beraturan lakukan Aktivitas 2.5 berikut 
+ini.
+Ayo, Berteknologi! (Kegiatan alternatif)
+Kegiatan Percobaan
+Aktivitas 2.5
+Lakukanlah percobaan secara berkelompok untuk menyelidiki gerak 
+lurus beraturan.
+1. 
+Siapkan papan luncur, mobil-mobilan baterai, pewaktu ketik (ticker 
+timer), catu daya, pita ticker timer, gunting dan kertas graik.
+2. 
+Susun rangkaian percobaan seperti pada Gambar 2.19. 
+3. 
+Hidupkan catu daya, ticker timer, dan mobil-mobilan (usahakan 
+kecepatannya tetap dan bergerak pada lintasan lurus). 
+4. 
+Setelah 5 detik matikan ticker timer, kemudian ambilah pita ticker 
+timer. Buanglah beberapa titik hitam pada bagian pita yang paling 
+dekat dengan mobil-mobilan.
+5. 
+Potonglah pita dengan setiap potongan berisi 5 ketukan/titik.
+6. 
+Susunlah potongan-potongan pita tadi secara berjajar pada kertas 
+graik.
+7. 
+Buatlah graik v – t untuk gerak mobil-mobilan tersebut!
+8. 
+Amatilah graik tersebut. Diskusikan dalam kelompok dan apa 
+kesimpulan dari percobaan tersebut?
+Gambar 2.19. Rangkaian percobaan GLB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+45
+ Bab 2 | Kinematika
+Data hasil ketikan pada pita kertas ticker timer diberikan seperti dalam 
+Gambar 2.20. Selang waktu antara dua titik selalu sama.
+Hal ini menunjukkan bahwa jarak yang ditempuh mobil-mobilan setiap 
+selang waktu yang sama adalah sama. Garis yang menghubungkan puncak- 
+puncak pita menunjukkan graik hubungan antara kecepatan (v)  terhadap 
+waktu (t) yang berupa garis lurus horizontal.
+Perhatikan Gambar 2.22 yang menunjukkan graik jarak terhadap waktu 
+untuk GLB.
+Gerak lurus beraturan (GLB) dideinisikan sebagai gerak suatu benda 
+dengan kecepatan tetap (besar maupun arahnya). Sebuah mobil yang bergerak 
+dengan kecepatan tetap 50 km/jam menunjukkan bahwa setiap jam mobil itu 
+berpindah  sejauh 50 km. Jika selama bergerak arahnya tetap maka dapat 
+dikatakan bahwa setiap jam mobil menempuh jarak sejauh 50 km.
+Pada Gerak Lurus Beraturan tidak terdapat kecepatan sesaat karena 
+kecepatan selalu tetap. Kecepatan rata-rata sama dengan kecepatan sesaat. 
+Dapat dituliskan.
+x
+v
+t
+∆
+= ∆
+Gambar 2.20 Hasil ketikan ticker timer untuk GLB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.21. Graik (v-t) hasil potongan pita ticker timer untuk GLB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.22. Graik (x-t) hasil potongan pita ticker timer untuk GLB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Kecepatan
+Waktu
+46
+Fisika untuk SMA/MA Kelas XI
+Untuk posisi awal x0 pada saat t = 0 maka
+0
+t
+x
+x
+x
+∆=
+−
+
+ dan 
+0
+t
+t
+∆= −
+0
+0
+x
+x
+vt
+x
+x
+vt
+−
+=
+=
++
+Pada posisi awal x
+∆ = 0, secara umum hubungan antara perpindahan (∆x) 
+dengan kecepatan (v) dituliskan sebagai berikut.
+x
+vt
+∆=
+
+
+Dengan : 
+ x
+∆ = perpindahan (m), 
+   t    = selang waktu (s),  
+  v
+   = kecepatan (m/s). 
+Persamaan (2.4) berlaku juga untuk jarak tempuh dan kelajuan. 
+Perhatikan kembali graik v - t yang menunjukkan gerak dengan kecepatan 
+konstan.
+Perpindahan yang dialami benda yang melakukan gerak lurus beraturan 
+sama dengan luas bidang di bawah kurva kecepatan (v) terhadap waktu (t). 
+Untuk graik kelajuan terhadap waktu maka jarak yang ditempuh oleh benda 
+yang melakukan gerak lurus beraturan sama dengan luas bidang di bawah 
+kurva kelajuan (v) terhadap waktu (t).
+Graik posisi terhadap waktu (graik × – t) pada GLB  akan menghasilkan 
+besar kecepatan yang selalu sama, seperti ditunjukkan pada Gambar 2.24.
+(2.4)
+Gambar 2.23. Graik v-t pada GLB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.24 (a.)  Graik x-t pada GLB tanpa posisi awal x0 (b) Graik x-t pada GLB dengan posisi awal
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+47
+ Bab 2 | Kinematika
+Kemiringan (gradien) graik menyatakan besar kecepatan benda tersebut. 
+Makin curam kemiringannya makin besar kecepatannya. Kemiringan graik 
+secara matematis merupakan nilai tan α, α adalah sudut antara garis graik 
+dengan sumbu t (waktu) atau
+tan
+x
+v
+t
+α
+∆
+=
+= ∆
+Ayo, Cek Pemahaman!
+Dua buah mobil yang terpisah sejauh 75 km bergerak lurus beraturan 
+saling mendekati pada saat yang bersamaan, masing-masing dengan 
+kecepatan 90 km/jam dan 60 km/jam. Kapan dan dimana kedua mobil 
+tersebut berpapasan.
+2. Gerak Lurus Berubah Beraturan (GLBB) 
+ 
+Perhatikan kembali gerak cheetah. Selain gerak lurus beraturan (GLB) cheetah 
+juga mengalami gerak lurus berubah beraturan (GLBB). Cheetah mengalami 
+perubahan kecepatan secara teratur sehingga geraknya disebut sebagai gerak 
+lurus berubah beraturan. Perubahan kecepatan yang teratur menunjukkan 
+percepatan tetap. GLBB dibedakan atas dua, yaitu GLBB dipercepat dan GLBB 
+diperlambat.
+Gambar 2.25  Graik kecepatan terhadap waktu pada GLBB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Berkolaborasi!
+Apa yang dimaksud dengan percepatan tetap? Coba kalian amati 
+graik pada Gambar 2.25 berikut ini.
+Buktikan 
+percepatan 
+OP 
+= 
+percepatan PQ 
+Apakah graik OQ menunjukkan 
+GLBB?
+48
+Fisika untuk SMA/MA Kelas XI
+Bagaimana hasil percobaan ticker timer yang direkam pada pita kertas 
+ticker timer menunjukkan GLBB? Perhatikan Gambar 2.26a. Percepatan 
+merupakan kemiringan dari graik kecepatan terhadap waktu sebagaimana 
+yang ditunjukkan oleh Gambar 2.26b.
+Bagaimana 
+perumusan 
+untuk 
+perpindahan dan jarak pada GLBB? 
+Kalian dapat menggunakan graik 
+kecepatan terhadap waktu. Perhatikan 
+Gambar 2.27.
+Perpindahan = luas trapesium
+0
+1 (
+)
+2
+t
+x
+v
+v t
+=
++
+Ingat bahwa  vt = v0 + at, substitusikan pada (2.5) sehingga
+0
+0
+2
+0
+1 (
+)
+2
+1
+2
+x
+v
+v
+at t
+x
+v t
+at
+=
++
++
+=
++
+Dari persamaan 2.6 dan deinisi perpindahan 
+0
+t
+x
+x
+x
+∆=
+−
+
+ diperoleh:
+2
+0
+0
+0
+0
+0
+1
+1
+(
+)
+2
+2
+tx
+x
+v
+v
+at t
+x
+v t
+at
+=
++
++
++
+=
++
++
+Persamaan ini dapat digunakan untuk mencari kecepatan benda yang 
+berpindah sejauh x
+∆ dalam waktu t.
+Dengan : 
+x
+∆   = perpindahan (m), 
+v0      = kecepatan awal (m/s), 
+vt      = kecepatan akhir (m/s), 
+a       = percepatan (m/s2),
+t        = waktu (s).
+Gambar 2.26a. Graik (v-t) hasil potongan 
+pita ticker timer utk GLBB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.26b. Graik (v-t) 
+dengan percepatan a = tan θ
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.27  Menentukan perpindahan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(2.5)
+(2.6)
+49
+ Bab 2 | Kinematika
+Perumusan GLBB yang lain diberikan sebagai berikut. 
+Dari persamaan 
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+1
+1
+2
+2
+t
+t
+t
+t
+t
+v
+v
+v
+v
+at
+t
+a
+v
+v
+v
+v
+x
+x
+v t
+at
+x
+v
+a
+a
+a
+−
+=
++
+→=
+−
+−
+
+
+
+
+=
++
++
+=
++
++
+
+
+
+
+
+
+
+
+Diperoleh:
+2
+2
+0
+2
+tv
+v
+a x
+−
+=
+∆
+Lihat kembali Gambar 2.25 dan tentukan perpindahan selama 20 detik. 
+Gunakan Persamaan 2.5 sehingga diperoleh
+0
+1
+1
+(
+)
+(0
+40)
+20
+400
+2
+2
+t
+x
+v
+v t
+m
+=
++
+=
++
+×
+=
+Benda yang mengalami GLBB akan memiliki percepatan yang tetap. Graik 
+percepatan terhadap waktu (graik a - t) digambarkan dengan garis lurus 
+horizontal yang sejajar dengan sumbu waktu (t), seperti pada Gambar 2.28.
+Graik perpindahan benda (x) terhadap waktu (t) untuk benda yang 
+bergerak lurus berubah beraturan (GLBB) ditunjukkan seperti pada Gambar 
+2.29.
+(2.7)
+Gambar 2.28. Graik (a-t) untuk GLBB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.29. (a) Graik (x-t) untuk GLBB dipercepat     (b) Graik (x – t) untuk GLBB diperlambat
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+50
+Fisika untuk SMA/MA Kelas XI
+Ayo, Berkolaborasi!
+Perhatikan dan gunakan Gambar 2.30 untuk menjawab pertanyaan 
+berikut ini. 
+a. 
+Tentukan kecepatan sebagai fungsi dari waktu. Petunjuk: kalian 
+ingat kembali fungsi linier yang berupa garis lurus.  
+b. 
+Tentukan juga fungsi perpindahan sebagai waktu dengan 
+menggunakan Persamaan 2.5.
+Gambar 2.30 Soal graik kecepatan terhadap waktu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+3. Jarak Henti (Stopping Distance) 
+ 
+Pemerintah membuat peraturan PP no 43 tahun 1993 pasal 63 bahwa 
+batas kecepatan maksimum di jalan tol dalam kota adalah 80 km/jam dan 
+di luar kota adalah 100 km/jam dan menetapkan harus menjaga jarak 
+aman. Mengapa demikian?
+Perhatikan Gambar 2.31.
+Waktu reaksi adalah waktu yang diperlukan untuk menanggapi informasi 
+yang diterima dari panca indra. Waktu pengereman adalah waktu yang 
+diperlukan untuk membuat kendaraan berhenti.
+Gambar 2. 31 Jarak henti kendaraan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+51
+ Bab 2 | Kinematika
+Waktu (detik)
+Posisi (m)
+1
+2
+3
+4
+5
+6
+Gambar 2.32 Kemiringan pada Graik posisi waktu
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Aktivitas 2.6
+Coba kalian gunakan persamaan 2.6 untuk membuat graik dari soal 
+cerita GLBB. Mobil yang mula-mula diam mengalami percepatan 2 m/s
+2 
+selama 6 detik. Lengkapi tabel untuk membuat graik
+Kalian mendapatkan bahwa graik 
+berbentuk parabola karena posisi 
+atau 
+perpindahan 
+atau 
+jarak 
+merupakan fungsi kuadrat.   
+Bagaimana 
+kalian 
+menentukan 
+kecepatan dari graik posisi terhadap 
+waktu 
+untuk 
+GLBB? 
+Kecepatan 
+merupakan kemiringan graik pada 
+suatu titik. 
+Tabel 2.4 Posisi terhadap Waktu
+Ayo, Berdiskusi!
+Perhatikan graik dalam Gambar 2.33 dan jawab pertanyaan-
+pertanyaan ini.
+a. 
+Tentukan posisi sebagai fungsi 
+dari waktu. 
+b. 
+Tentukan 
+besar 
+dan 
+arah 
+kecepatan pada saat waktu 
+t = 3 detik
+c. 
+Tentukan 
+besar 
+dan 
+arah 
+kecepatan pada saat waktu 
+t = 7 detik
+Graik 2.33 Graik Posisi terhadap waktu untuk GLBB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+52
+Fisika untuk SMA/MA Kelas XI
+Ayo, Berteknologi! (Alternatif)
+Gunakan tautan dalam https://ophysics.com/k6.html klik Kinematics 
+lalu klik Uniform Acceleration in One Dimension untuk mempelajari 
+graik lebih lanjut.
+4. Gerak Vertikal
+Lemparkan benda ke atas dan amati gerak yang terjadi pada benda. Gambar 
+2.34 menunjukkan arah kecepatan dan arah percepatan gravitasi dan Gambar 
+2.35 menunjukkan graik yang bersesuaian dengan peristiwa tersebut. Gerak 
+jatuh bebas adalah gerak yang hanya dipengaruhi oleh percepatan gravitasi 
+bumi.
+Gambar 2.34 Diagram gerak vertikal 
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.35 Graik v-t untuk gerak vertikal
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Tahukah Kalian
+Liem Swie King, pemain bulutangkis 
+legendaris Indonesia yang menjadi juara 
+dunia, menciptakan teknik jump smash. 
+King melompat untuk mencegat kok 
+dan memukulnya secara keras (smash). 
+Teknik ini ditiru dan digunakan oleh 
+pemain bulutangkis lainnya di seluruh 
+dunia. Untuk dapat melompat tinggi 
+diperlukan energi kinetik yang besar 
+karena energi kinetik berubah menjadi 
+energi potensial.
+Gambar 2.36 Liem Swie King dengan 
+jump smash
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+53
+ Bab 2 | Kinematika
+D. Gerak Parabola
+Seorang pemain basket melakukan tembakan ke arah jaring dengan cara 
+mendorong bola miring ke atas karena posisi jaring lebih tinggi daripada 
+posisi awal bola. Akibatnya, lintasan bola berbentuk parabolik. 
+Lakukan Aktivitas 2.7 dan Aktivitas 2.8  untuk mempelajari konsep gerak 
+parabola.
+Gambar 2.38 Percobaan gerak parabola
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.37 Lintasan bola basket yang ditembakkan pemain basket
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Ayo, Cek Pemahaman!
+Gambarkan graik ketinggian sebagai fungsi dari waktu berdasarkan 
+Persamaan 2.6 untuk gerak vertikal ke atas.
+Aktivitas 2.7
+Tempatkan satu koin pada tepi meja dengan sebagian koin berada di 
+luar meja (koin 1). Tempatkan koin 2 di belakang koin 1. Sentilah koin 2 
+sehingga mengenai koin 1 dan keduanya jatuh. Amati lintasan kedua koin 
+dan gambarkan. Dengarkan juga bunyi keduanya untuk menentukan 
+apakah keduanya tiba di lantai pada saat bersamaan atau tidak. 
+54
+Fisika untuk SMA/MA Kelas XI
+Aktivitas 2.8 (Alternatif)
+Simak eksperimen dari tautan berikut: 
+https://www.youtube.com/watch?v=0ePLissTYSc. 
+yang 
+serupa 
+dengan Aktivitas 2.7 tetapi menggunakan peralatan laboratorium.  
+Hasil eksperimen menunjukkan bahwa kedua koin tiba pada waktu 
+bersamaan. Waktu jatuh ditentukan oleh komponen gerak vertikal 
+saja. Komponen gerak horizontal tidak memengaruhi komponen gerak 
+vertikal. 
+Coba kalian perhatikan Gambar 2.39. Gerak parabola merupakan  perpaduan 
+gerak lurus beraturan (GLB) pada arah horizontal dengan gerak lurus berubah 
+beraturan (GLBB) pada arah vertikal. Hambatan udara dapat diabaikan dan 
+hanya  gravitasi saja yang  memengaruhi gerak parabola.
+Gerak parabola juga akan dialami oleh partikel bermuatan listrik dalam 
+medan listrik seperti yang ditunjukkan oleh Gambar 2.40.
+Lakukan Aktivitas 2.9 berikut ini untuk mempelajari gerak parabola lebih 
+lanjut.
+Gambar 2.39 Gerak parabola merupakan perpaduan GLB dan GLBB
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.40  Gerak parabola akibat medan listrik
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+55
+ Bab 2 | Kinematika
+Aktivitas 2.9
+Lakukan 
+suatu 
+penyelidikan 
+untuk 
+menentukan 
+faktor 
+yang 
+memengaruhi jarak horizontal benda. Buatlah susunan buku dan 
+bidang miring sebagaimana yang ditunjukkan dalam Gambar 2.41. 
+Sediakan suatu kelereng atau bola pingpong atau yang lainnya.  Gunakan 
+penggaris dan alat pengukur waktu.
+1. 
+Ukur ketinggian tumpukan buku h untuk menentukan kecepatan 
+horizontal.  
+2. 
+Ukur ketinggian y untuk menentukan waktu jatuh.  
+3. 
+Tentukan jarak horizontal R dengan penggaris. 
+1. 
+Bagaimana menentukan kecepatan horizontal jika diketahui ketinggian 
+tumpukan h?
+2. 
+Bagaimana menentukan waktu jatuh jika diketahui ketinggian y?
+3. 
+Bagaimana menentukan jarak horizontal R dengan menggunakan y 
+dan h?
+4. 
+Apakah ada perbedaan hasil R yang diukur dan yang diperoleh dari 
+teori?
+5. 
+Mengapa harus ada jarak antara dasar bidang miring dengan tepi 
+meja?
+6. 
+Apa yang harus diubah dalam percobaan agar  R makin jauh?
+Gambar 2.41 Penyelidikan gerak parabola
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Pertanyaan
+y
+h
+56
+Fisika untuk SMA/MA Kelas XI
+Gambar 2.43 Gerak bola
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.42 Komponen kecepatan pada gerak parabola
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Berikut ini diberikan beberapa contoh 
+soal gerak parabola yang memerlukan 
+perumusan GLB dan GLBB. 
+1. 
+Sebuah bola yang berada di pinggir 
+meja didorong dengan kecepatan 
+awal 2 m/s (lihat Gambar 2.43). 
+Tentukan 
+kelajuan 
+bola 
+ketika 
+menumbuk 
+tanah 
+dan 
+jarak 
+horizontal bola.
+Untuk menentukan jarak horizontal diperlukan waktu tempuh, 
+Untuk menentukan waktu tempuh gunakan persamaan
+2
+2
+2
+1
+1
+1
+10
+2
+2
+2
+0,2
+0,2
+10
+h
+gt
+t
+t
+t
+=
+→=
+×
+×
+=
+=
+→=
+jarak horizontal diperoleh dengan menggunakan persamaan GLB
+2
+0,2
+2 0,2
+m
+x
+v t
+s
+m
+s
+=
+=
+×
+=
+Pada setiap titik dalam lintasan parabola, kecepatan membentuk sudut 
+dengan horizontal sehingga 
+vx = v cos θ  dan  vy = v sin θ
+(2.8)
+1. Analisis Gerak Parabola  
+Gambar 2.42 menunjukkan vektor kecepatan horizontal dan vertikal.
+a. 
+Dari permukaan tanah ke ketinggian maksimum gerak benda diperlambat 
+dalam arah vertikal.
+b. 
+Dari ketinggian maksimum ke permukaan tanah gerak benda dipercepat 
+dalam arah vertikal.
+c. 
+Kecepatan benda tetap sepanjang arah horizontal.  
+d. 
+Pada ketinggian maksimum kecepatan vertikal adalah nol.                                             
+e. 
+Waktu tempuh dari tanah ke tanah lagi sama dengan dua kali waktu tanah 
+ke ketinggian maksimum. 
+1 m/s
+57
+ Bab 2 | Kinematika
+kecepatan awal komponen horizontal 
+ 
+v0x = v0 cos θ = 40 cos60° = 40 × 1
+2 = 20 m/s
+kecepatan awal komponen vertikal 
+ 
+v0y = v0 sin θ = 40 sin60° = 40 × 1
+2
+3 = 20 3  m/s
+waktu mencapai ketinggian maksimum adalah 
+ 
+vy = v0y - gt → 0 = 20 3 - 10t
+ 
+t = 20 3
+10 = 2 3 s 
+Waktu untuk mencapai tanah adalah dua kali waktu mencapai ketinggian 
+maksimum
+ 
+t’ = 2 × t = 2 × 2 3 = 4 3 s
+Jarak horizontal maksimum adalah
+ 
+x =v0x   t’ = 20 m/s  × 4 3  s = 80 3 m
+3. 
+Sebuah peluru ditembakkan dengan sudut elevasi 30
+o dan kecepatan awal 
+60 m/s. Tentukan kecepatan peluru pada saat t = 2 detik. 
+kecepatan awal komponen horizontal :
+ 
+v0x   = v0  cos θ = 60 cos30° = 60 × 
+1
+2 3 =30 3 m/s
+kecepatan awal komponen vertikal :
+ 
+v0y = v0 sin θ = 60 sin30° = 60 × 
+1
+2 =30 m/s
+Kecepatan vertikal pada saat t = 2 detik   
+ 
+vy =v0y   - gt → vy = 30 - 10 × 2 = 10 m/s
+Kecepatan horizontal pada saat t = 2 detik  
+ 
+vx = v0x  = 30 3 m/s
+Kecepatan pada saat t, dengan menggunakan teorema Phytagoras
+ 
+Arah vektor kecepatan diperoleh dengan persamaan
+ 
+1
+1
+1
+tan
+tan
+3 3
+3 3
+y
+x
+v
+v
+θ
+θ
+−
+
+=
+=
+→
+=
+
+
+
+
+2. 
+Sebuah peluru ditembakkan dengan 
+sudut elevasi 60
+o dan kecepatan 
+awal 40 m/s (lihat gambar). Hitung 
+berapa detik peluru itu sampai di 
+titik tertinggi dan jarak maksimum 
+yang dicapai peluru jika g = 10 m/s
+2.
+Gambar 2.44  Lintasan parabola dari peluru
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+58
+Fisika untuk SMA/MA Kelas XI
+Ayo, Cek Pemahaman!
+Bola ditendang dengan sudut tertentu. Jika angin memengaruhi gerak 
+bola dalam arah horizontal apakah gerak bola tetap merupakan gerak 
+parabola? Jelaskan.
+E. Gerak Melingkar Beraturan  
+Kalian pasti pernah berkendara melalui jalan yang menikung. Gerak kenda-
+raan pada umumnya diperlambat jika menikung. Gerak martil menyerupai 
+gerak motor ketika menikung. Kedua gerak tersebut merupakan gerak mel-
+ingkar karena lintasannya berupa lingkaran. Gerak melingkar dibedakan atas 
+gerak melingkar beraturan dan gerak melingkar berubah beraturan. Kalian 
+akan belajar gerak melingkar beraturan dalam subbab ini.
+Gambar 2.46 Gerak martil
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+Gambar 2.45 Gerak motor dalam sirkuit lingkaran
+Sumber: Foto oleh Pixabay dari Pexels.com 2016
+Perhatikan 
+lintasan 
+benda 
+dalam 
+Gambar 2.46 (perhatikan juga besaran-
+besarannya). 
+Mobil 
+berputar 
+pada 
+lintasan 
+melingkar. 
+Percepatan 
+sentripetal diberikan oleh persamaan : 
+Dengan : 
+r = jari-jari (m), 
+θ = sudut tempuh (rad),
+ω = kecepatan sudut (rad/s),
+v = kecepatan linier (m/s),
+sa = percepatan sentripetal (m/s2). 
+Gambar 2.47 Gerak melingkar beraturan
+sumber : Alvius Tinambunan/Kemendikbudristek (2022)
+(2.9)
+2
+s
+v
+a
+r
+=
+
+Besaran-Besaran Gerak Melingkar Beraturan
+59
+ Bab 2 | Kinematika
+Ayo, Cek Pemahaman!
+Buktikan bahwa 
+v =  ω r 
+dimana v adalah kelajuan linier, ω adalah kecepatan sudut dan r 
+adalah jari-jari lingkaran. Petunjuk tentukan v sebagai jarak tempuh 
+dibagi dengan waktu. Waktu untuk mengelilingi satu  putaran adalah 
+T dan banyak putaran dalam satu detik adalah frekuensi. 
+Benda bergerak jika mengalami perubahan posisi dan gerak bersifat 
+relatif karena bergantung pada kerangka acuan. Besaran-besaran 
+gerak adalah posisi, perpindahan, jarak, kecepatan, kelajuan dan 
+percepatan. Gerak lurus dibedakan atas gerak lurus beraturan dan 
+gerak lurus berubah beraturan. Gerak peluru merupakan perpaduan 
+gerak lurus beraturan dalam arah horizontal dan gerak lurus berubah 
+beraturan dalam gerak lurus berubah beraturan dimana gerak 
+horizontal dan vertikal tidak saling memengaruhi. Gerak melingkar 
+beraturan terjadi karena perubahan  arah gerak tanpa perubahan 
+besar kecepatan. 
+Intisari
+1. Apakah kalian sudah memahami dan dapat menerapkan konsep-
+konsep gerak dalam penyelesaian masalah?  
+2. Apakah kalian sudah bisa menemukan penerapan konsep-konsep 
+gerak dalam kehidupan sehari-hari?
+3. Materi apa yang memerlukan penguatan pemahaman?
+Releksi
+Ayo, Berdiskusi!
+Perhatikan kembali gambar 2.44. Besaran apa yang berubah? 
+Mengapa? Kemana arah percepatan sentripetal?
+60
+Fisika untuk SMA/MA Kelas XI
+1. Suatu pesawat terbang dipercepat 5 m/s2 selama 32 detik sebelum naik ke 
+atas.
+a. 
+Tentukan jarak tempuh pesawat sebelum lepas landas. 
+b. 
+Perhatikan tabel berikut ini. Tentukan kemungkinan jenis pesawat.
+c. 
+Cari informasi panjang landasan pacu di Indonesia, tentukan dua 
+kemungkinan bandara dimana pesawat itu berada.
+2. Jelaskan apa yang terjadi dengan gerak benda, seperti yang ditunjuk pada 
+graik di bawah ini.
+Asesmen
+Proyek
+Desain suatu penyelidikan untuk menunjukkan bahwa jarak tempuh 
+berbanding lurus dengan kuadrat waktu. Petunjuk, gunakan bidang 
+miring dan kelereng atau bola kecil. Tentukan variabel bebas, variabel 
+kontrol dan variabel terikat. Tuliskan hasil pengamatan dalam tabel.  
+ATR 72
+70
+1500
+Boeing 777
+313 - 396
+2500 - 3000
+Airbus A 320
+180
+1900
+Airbus 380
+555
+3000
+Jenis Pesawat
+Kapasitas Penumpang
+Panjang Landasan 
+Pacu (m)
+61
+ Bab 2 | Kinematika
+3. 
+Tes lompatan vertikal dilakukan untuk menguji kekuatan kaki. Pada 
+beberapa cabang olahraga lompatan vertikal berperan besar.
+a. 
+Sebutkan lima cabang olahraga yang memerlukan lompatan vertikal
+b. 
+Jika waktu selama di udara adalah 0,3 detik tentukan ketinggian 
+lompatan
+c. 
+Pemain polo air juga melakukan lompatan vertikal dari air. Apa 
+perbedaan pengaruh melompat dari air dan dari tanah terhadap 
+ketinggian lompatan?    
+4. 
+Bola bermassa 80 gram, ditendang dari tanah dengan kecepatan awal v₀ 
+dan sudut 60
+o. Pada ketinggian maksimum energi kinetik bola adalah 36 
+joule. Tentukan :
+a. 
+kecepatan awal,
+b. 
+waktu untuk mencapai ketinggian maksimum,
+c. 
+jarak horizontal maksimum,
+d. 
+kecepatan pada saat t = 2 detik.
+5. Suatu pesawat menjatuhkan sebuah paket dari ketinggian 10.000 m dan 
+kelajuannya pada saat paket dilepaskan adalah 800 km/jam.
+a. Dengan menganggap pengaruh gesekan udara sangat kecil, tentukan 
+jarak maksimum paket tersebut dari titik pelepasan.
+b. Perhatikan lingkaran yang menyatakan wilayah kemungkinan paket 
+ditemukan dan garis hitam yang menyatakan skala jarak. Apakah 
+hasil yang diperoleh dari a sesuai dengan yang terdapat di peta?
+“Apa yang kita ketahui hanya merupakan suatu tetes tetapi apa yang 
+tidak kita ketahui merupakan suatu samudra” 
+(Isaac Newton)

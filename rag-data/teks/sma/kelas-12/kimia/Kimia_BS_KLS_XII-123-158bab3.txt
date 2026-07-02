@@ -1,0 +1,1128 @@
+109
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+Bab
+III
+Setelah mempelajari bab ini, kalian akan mampu memahami pentingnya 
+senyawa organik, mampu menjelaskan sifat fisika dan kimia, reaksi, dan 
+kegunaan senyawa organik, serta mampu menerapkan tata nama senyawa 
+organik.
+GUGUS FUNGSI 
+DALAM SENYAWA 
+KARBON
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Kimia untuk SMA/MA Kelas XII
+Penulis	 : 	Galuh Yuliani, dkk
+ISBN	
+: 	978-602-427-968-4 (jil.2)
+110
+Kimia untuk SMA/MA Kelas XII
+Kalian pasti pernah mengonsumsi obat-obatan saat sakit. Dokter akan 
+membuatkan resep obat untuk meredakan gejala penyakit yang diderita 
+pasien. Apakah kalian pernah mengecek kemasan obat yang kita 
+konsumsi? Senyawa apa yang terdapat dalam obat yang dikonsumsi? 
+Dari mana senyawa-senyawa obat tersebut diperoleh? 
+Jika kita perhatikan, kemasan obat menampilkan informasi 
+mengenai senyawa yang terdapat dalam obat tersebut berikut khasiat 
+dan efek sampingnya. Misalnya, senyawa yang terkandung dalam obat 
+pereda nyeri berbeda dengan obat antibiotik. Begitu pula senyawa 
+dalam obat anti-alergi berbeda dengan obat pereda demam.
+Tahukah kalian bahwa senyawa dalam obat-obatan yang kita konsumsi 
+adalah senyawa karbon? Selain digunakan sebagai senyawa obat, apakah 
+Mind Map
+Senyawa 
+Organik
+Gugus 
+Fungsi
+Reaksi 
+Spesifik 
+pada Gugus 
+Fungsi
+Manfaat 
+senyawa 
+organik
+Material Fungsional
+Aditif Makanan
+Obat dan Kosmetika
+Kesehatan
+Esterifikasi/Trans-
+esterifikasi
+Oksidasi
+Reduksi
+Adisi (penambahan)
+Eliminasi (penghilangan)
+Substitusi (penggantian)
+Mempengaruhi 
+kereaktifan senyawa 
+organik dalam Reaksi
+Mengandung atom lain 
+seperti H, O, N, dan 
+halogen
+Bisa ditemuhan dalam 
+makhluk hidup
+Tersusun dalam rantai 
+carbon
+Menentukan sifat 
+fisika senyawa organik 
+(misalnya titik didih)
+GUGUS FUNGSI 
+DALAM SENYAWA 
+KARBON
+Macam-Macam 
+Gugus Fungsi dan 
+Tata Nama IUPAC
+Amina (-NH2)
+Amida (-CO-NH2)
+Tiol (-SH)
+Gugus Fungsi 
+yang mengandung 
+oksigen
+Gugus Fungsi 
+yang mengandung 
+nitrogen
+Gugus Fungsi yang 
+mengandung ikatan 
+rangkap karbon-
+karbon
+Alkena (-C=C-)
+Alkuna (-C C-)
+Gugus Fungsi 
+yang mengandung 
+belerang
+Alkohol (-OH)
+Eter (-O-)
+Aldehina (-CHO)
+Keton (-C=O)
+Asam karboksilat (-COOH)
+Ester (-COO-)
+111
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+ada kegunaan lain dari senyawa-senyawa karbon? Pada bab ini, kita akan 
+mempelajari karakteristik senyawa karbon yang ada di sekitar kita.
+Aktivitas 3.1
+Senyawa aktif yang dapat dimanfaatkan untuk mengobati penyakit 
+dapat diperoleh dengan beberapa cara. Untuk mengetahui hal tersebut, 
+mari kita simak artikel berikut!
+"https://www.republika.co.id/berita/r97b7d383/pemerintah-
+dorong-industri-farmasi-optimalkan-produksi-obat-di-dalam-negeri"
+A.	 Senyawa Organik Tersusun atas Rantai Karbon
+Pada Bab 4 Buku Kimia kelas XI, kalian telah mempelajari struktur dan 
+sifat senyawa hidrokarbon. Hidrokarbon merupakan senyawa karbon 
+paling sederhana karena hanya tersusun dari atom hidrogen dan 
+karbon. Senyawa tersebut umumnya ditemukan sebagai komponen 
+minyak bumi dan terbentuk dari material penyusun makhluk hidup 
+yang telah melewati proses termal dan fisik di bawah permukaan 
+bumi. Oleh sebab itu, hidrokarbon digolongkan pula sebagai senyawa 
+organik.
+Secara umum, senyawa yang berasal dari makhluk hidup 
+digolongkan sebagai senyawa organik. Saat ini telah dikenal lebih dari 
+9 juta senyawa kimia dan 80% di antaranya adalah senyawa organik. 
+Akan tetapi, apakah senyawa organik hanya tersusun dari karbon 
+dan hidrogen? Unsur apa saja yang terdapat dalam senyawa organik? 
+Mari kita diskusikan secara berkelompok!
+112
+Kimia untuk SMA/MA Kelas XII
+Aktivitas 3.2
+Diskusikanlah hal-hal berikut ini dalam kelompok!
+a.	 Senyawa apa saja yang menyusun tubuh makhluk hidup?
+b.	 Manakah yang merupakan senyawa organik dan manakah yang 
+bukan merupakan senyawa organik?
+c.	
+Unsur apa saja yang menyusun senyawa senyawa organik dalam 
+tubuh makhluk hidup?
+d.	 Catat hasil diskusi tersebut kemudian diskusikan dengan gurumu!
+Ayo Berlatih
+Kerjakan soal-soal berikut ini 
+1.	 Apa yang dimaksud dengan senyawa organik?
+2.	 Gambarkan struktur senyawa organik penyusun tubuh makhluk 
+hidup!
+B.	 Gugus Fungsi sebagai Pusat Aktif pada Senyawa Organik
+Karbon dan hidrogen adalah penyusun utama senyawa organik. 
+Namun demikian, beberapa kelompok senyawa organik mengandung 
+atom elektronegatif seperti oksigen, nitrogen, belerang, fosfor, halogen, 
+bahkan logam. Atom-atom tersebut biasanya terikat langsung pada 
+atom karbon. Hal ini menyebabkan adanya perubahan kepolaran dari 
+atom karbon yang mengikat atom elektronegatif tersebut. Perubahan 
+kepolaran ini mengakibatkan karakteristik ikatan di sekitar atom 
+karbon tersebut berubah jika dibandingkan saat atom karbon tersebut 
+masih berikatan dengan hidrogen. Untuk dapat memahami hal tersebut, 
+mari kita ingat kembali materi terkait ikatan kimia yang telah kalian 
+pelajari di kelas XI!
+113
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+Aktivitas 3.3
+Berikut adalah struktur etana dan etanol, diskusikanlah hal-hal berikut 
+dalam kelompok!
+	
+	
+Etanol
+OH
+Etana
+Senyawa mana yang lebih polar?
+Apa yang menyebabkan senyawa tersebut bersifat lebih polar?
+Senyawa mana yang memiliki titik didih lebih tinggi?
+Apa yang menyebabkan senyawa tersebut memiliki titik didih lebih 
+tinggi?
+Catat hasil diskusi tersebut kemudian diskusikan dengan gurumu!
+Sifat fisika dan kimia suatu senyawa berubah akibat adanya atom 
+karbon yang mengikat atom elektronegatif, jika dibandingkan dengan 
+hidrokarbon yang bersesuaian. Mari kita perhatikan Tabel 3.1! Tabel 
+3.1 memperlihatkan data titik didih beberapa senyawa organik dengan 
+jumlah atom karbon yang sama. Secara umum, senyawa-senyawa pada 
+kelompok yang sama memiliki titik didih meningkat seiring dengan 
+penambahan jumlah karbon. 
+Tabel 3.1 Titik didih beberapa senyawa organik
+Alkana
+Titik Didih 
+(oC)
+–42
+–1
+36
+69
+114
+Kimia untuk SMA/MA Kelas XII
+Alkohol
+Titik Didih 
+(oC)
+97
+118
+138
+157
+Asam 
+karboksilat
+Titik Didih 
+(oC)
+141
+164
+186
+205
+Eter
+Titik Didih 
+(oC)
+–24
+35
+90
+Pentana yang memiliki 5 atom karbon memiliki titik didih lebih tinggi 
+dibanding propana yang memiliki 3 atom karbon. Begitu pula heksanol 
+(alkohol dengan 6 karbon) memiliki titik didih lebih tinggi dari butanol 
+(alkohol dengan 4 karbon). Akan tetapi, jika kita bandingkan beberapa 
+kelompok senyawa dengan jumlah karbon sama, keberadaan atom 
+oksigen dalam senyawa meningkatkan titik didih senyawa tersebut. 
+Sebagai contoh, pada kelompok senyawa dengan empat karbon, 
+1-butanol, asam butanoat, dan dietil eter memiliki titik didih lebih tinggi 
+dibandingkan dengan butana. Hal ini disebabkan adanya interaksi antar 
+molekul yang lebih kuat akibat adanya gugus fungsi dalam senyawa, 
+misalnya ikatan hidrogen pada  1-butanol dan asam butanoat serta 
+interaksi dipol-dipol pada dietil eter. Kedua interaksi tersebut jauh lebih 
+kuat dibandingkan gaya dispersi London yang terdapat pada butana. 
+Interaksi yang lebih kuat tersebut menyebabkan senyawa yang memiliki 
+gugus fungsi memiliki titik didih lebih tinggi dibandingkan alkana yang 
+bersesuaian. Coba kalian jelaskan mengapa heksana memiliki titik didih 
+lebih rendah dibandingkan heksanol!
+115
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+Senyawa dengan gugus fungsi berbeda menunjukkan sifat kimia 
+dan kereaktifan yang berbeda pula. Propanal dan aseton memiliki 
+rumus molekul sama, yaitu C3H6O. Akan tetapi keduanya memiliki 
+gugus fungsi berbeda. Propanal memiliki gugus aldehida sedangkan 
+aseton memiliki gugus keton. Kedua senyawa tersebut menunjukkan 
+kereaktifan berbeda terhadap pereaksi Fehling yang mengandung 
+kompleks ion Cu2+. Propanal mampu mereduksi Cu2+ menjadi Cu+, 
+ditandai dengan terbentuknya endapan merah bata, tembaga(I) oksida 
+(Cu2O) sedangkan aseton tidak bereaksi, ditandai dengan larutan yang 
+tetap berwarna biru, seperti nampak pada Gambar 3.1. 
+Struktur molekul propanal dan aseton menunjukkan bahwa kedua 
+senyawa tersebut memiliki cara penyusunan atom yang berbeda. 
+Ikatan ganda (ikatan rangkap dua) karbon-oksigen pada propanal 
+terletak pada ujung rantai dan mengikat atom hidrogen, sedangkan 
+ikatan ganda karbon-oksigen pada aseton berada di tengah dan tidak 
+mengikat atom hidrogen. Hal ini menunjukkan bahwa perbedaan cara 
+mengatur atom-atom dalam molekul (isomer) menentukan kereaktifan 
+senyawa tersebut dalam reaksi.
+Gambar 3.1	 Hasil reaksi larutan Fehling dengan propanal (kiri) dan aseton (kanan).
+H
+O
+O
+Propanal
+Aseton
+116
+Kimia untuk SMA/MA Kelas XII
+Uraian di atas menunjukkan bahwa sifat fisika dan kimia senyawa 
+organik dipengaruhi susunan atom-atom di dalam molekul. Atom atau 
+kelompok atom tersebut dinamakan Gugus Fungsi. Saat ini dikenal 
+lebih dari 20 gugus fungsi dalam molekul organik akan tetapi 12 gugus 
+fungsi diantaranya banyak ditemukan di alam ditunjukkan pada Tabel 
+3.2. 
+Tabel 3.2 Gugus fungsi dalam senyawa organik
+No.
+Gugus
+Nama Gugus
+(Rumus Umum)
+Contoh dan Nama Senyawa
+1.
+Alkena
+(CnH2n)
+Etena
+2.
+Alkuna
+(CnH2n-2)
+Etuna
+3.
+Alkil Halida
+(CnH2n+1X)
+Metil klorida
+4.
+Alkohol
+(CnH2n+2O)
+Etanol
+5.
+Eter
+(CnH2n+2O)
+Dietil eter
+6.
+Aldehida
+(CnH2nO)
+Asetaldehida
+7.
+Keton
+(CnH2nO)
+Aseton
+117
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+8.
+Asam Karboksilat
+(CnH2nO2)
+Asam Asetat
+9.
+Ester
+(CnH2nO2)
+Metil Asetat
+10.
+Amina
+(CnH2n+3N)
+Metil amina
+11.
+Amida
+(CnH2nNO2)
+Etanamida
+12.
+Tiol
+(CnH2n+2S)
+Metanatiol
+Mari kita perhatikan lingkungan sekitar! 
+Senyawa organik dapat ditemui dengan mudah di sekitar kita. Vitamin 
+C atau asam askorbat adalah molekul organik yang kalian kenal baik. 
+Vitamin C memiliki gugus ester dalam senyawanya. Selain itu, pakaian 
+yang kalian kenakan berasal dari bahan katun yang tersusun dari polimer 
+glukosa. Glukosa memiliki gugus fungsi alkohol dalam senyawanya. 
+Tidak hanya itu, vanilin yang berasal dari tumbuhan Vanilla planifolia 
+adalah senyawa yang dikenal memiliki gugus aldehida. Struktur asam 
+askorbat, glukosa, dan vanilin ditunjukkan pada gambar 3.2.
+a
+b
+c
+Gambar 3.2	 Struktur asam askorbat (a), glukosa (b), dan vanilin (c).
+118
+Kimia untuk SMA/MA Kelas XII
+Aktivitas 3.4
+Coba kalian cari kemasan obat, produk kosmetik, atau perlengkapan 
+mandi yang terdapat di rumah masing-masing kemudian amati label 
+komposisinya! 
+Tuliskan senyawa yang tercantum dalam label komposisi produk 
+tersebut kemudian carilah struktur molekul senyawa tersebut melalui 
+internet!
+Perhatikan struktur senyawa tersebut! Apakah senyawa tersebut 
+merupakan senyawa organik?
+Gambarkan struktur senyawa organik tersebut dengan jelas!
+Lingkari gugus fungsi dalam senyawa tersebut kemudian tuliskan 
+nama gugus fungsi tersebut!
+Catat hasil penelusuran kalian dan diskusikan dalam kelas!
+Gugus fungsi dalam struktur senyawa organik dimanfaatkan oleh 
+ahli kimia untuk menentukan struktur molekul senyawa organik secara 
+keseluruhan. Hal ini dimungkinkan karena gugus fungsi dapat dikenali 
+melalui beberapa reaksi spesifik yang dapat dilakukan terhadap 
+gugus fungsi tersebut. Contohnya adalah propanal yang mengandung 
+gugus aldehida dapat dibedakan dari aseton yang memiliki gugus 
+keton melalui reaksi dengan reagen Fehling. Reaksi-reaksi yang dapat 
+dilakukan terhadap gugus fungsi akan kita pelajari pada sub bab D.
+Seiring perkembangan ilmu pengetahuan dan teknologi, ilmuwan 
+mulai meninggalkan metode identifikasi secara kimia (menggunakan 
+berbagai reagen uji) karena memerlukan sampel dalam jumlah banyak, 
+prosedur yang panjang, serta kemungkinan kesalahan interpretasi yang 
+tinggi. Saat ini, peneliti menentukan struktur molekul organik melalui 
+119
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+metode analisis instrumentasi. Metode ini akurat, memerlukan sampel 
+dalam jumlah sedikit, dapat dilakukan dengan waktu yang singkat, 
+serta relatif mudah dilakukan. Kalian akan mengenal beberapa metode 
+analisis ini dalam pembelajaran kimia lebih lanjut.
+Ayo Berlatih
+Berikut adalah beberapa struktur senyawa yang ditemukan dari 
+tumbuhan. Lingkari gugus fungsi dalam senyawa tersebut kemudian 
+tuliskan namanya!
+a.	 Asam Absisat, hormon pertumbuhan tanaman
+b.	 α-Mangostin, senyawa dari kulit buah manggis (G. mangostana)
+C.	 Tata Nama Senyawa Organik
+Pada Bab 4 Buku Kimia Kelas XI, kalian telah mempelajari cara memberi 
+nama hidrokarbon berdasarkan aturan yang ditetapkan oleh IUPAC 
+(International Union of Pure and Applied Chemistry). Penamaan senyawa 
+organik secara umum mengikuti cara penamaan hidrokarbon, seperti 
+yang telah kalian pelajari pada Sub bab 3.C.
+120
+Kimia untuk SMA/MA Kelas XII
+Akan tetapi, terdapat sedikit perbedaan pada penamaan senyawa 
+organik akibat adanya gugus fungsi dalam senyawa tersebut. Penamaan 
+senyawa organik perlu memperhatikan prioritas gugus fungsi, seperti 
+ditunjukkan Tabel 3.3.
+Tabel 3.3 Prioritas Gugus Fungsi dalam Penamaan Senyawa Organik
+No.
+Prioritas
+Golongan
+Rumus
+Nama sebagai 
+cabang
+Nama sebagai 
+rantai induk
+1
+Prioritas meningkat 
+Asam 
+karboksilat
+-COOH
+Karboksil
+Asam -oat
+2
+Ester
+-COO-
+R-oksikarbonil
+alkil -oat
+3
+Nitril
+-CN
+Siano-
+-nitril
+4
+Aldehida
+-COH
+Formil
+-al
+5
+Keton
+-C=O-
+Okso-
+-on
+6
+Alkohol
+-OH
+Hidroksi
+-ol
+7
+Amina
+-NH2
+Amino
+-amina
+8
+Alkoksi
+-OR’
+-
+-oksi
+9
+Halida
+-X
+(F, Cl, Br, 
+I)
+-
+Halo -ana
+Tabel 3.2 menunjukkan urutan prioritas gugus fungsi dalam 
+senyawa dan contoh senyawa sederhana yang memuat satu gugus 
+fungsi. Jika dalam senyawa terdapat lebih dari satu gugus fungsi, 
+gugus fungsi dengan prioritas lebih tinggi akan ditempatkan dalam 
+rantai utama sedangkan gugus fungsi dengan prioritas lebih rendah 
+akan bertindak sebagai cabang. Mari kita perhatikan cara penamaan 
+senyawa berikut!
+121
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+1.	 Terdapat 7 karbon pada 
+rantai utama. Rantai utama 
+diberi nama heptan.
+2.	 Terdapat gugus -OH (alkohol) 
+dan 
+ditempatkan 
+pada 
+karbon nomor 2. Senyawa 
+ini akan berakhiran -ol 
+(Tabel 3.2 nomor 6)
+3.	 Nama 
+senyawa 
+tersebut 
+adalah 2-heptanol.
+1.	 Terdapat 7 karbon pada rantai utama. 
+Rantai utama diberi nama heptan.
+2.	 Terdapat gugus -OH (alkohol) dan 
+keton (C=O) dalam senyawa sehingga 
+gugus keton (C=O) menjadi prioritas 
+dan ditempatkan pada karbon nomor 
+2. Senyawa ini akan berakhiran -on 
+(tabel 3.2 nomor 5)
+3.	 Gugus 
+-OH 
+(alkohol) 
+ditempatkan 
+sebagai cabang pada karbon nomor 
+6. Sehingga senyawa teserbut akan 
+memiliki cabang -hidroksi.
+4.	 Nama 
+senyawa 
+tersebut 
+adalah 
+6-hidroksi-2-heptanon.
+1.	
+Terdapat 4 karbon pada 
+rantai utama. Rantai utama 
+diberi nama butan.
+2.	
+Terdapat 
+gugus 
+-COO- 
+(ester) 
+dan 
+ditempatkan 
+pada karbon nomor 1. 
+Senyawa ini akan diberi 
+nama alkil -oat (Tabel 3.2 
+nomor 2). 
+3.	
+Terdapat 2 karbon pada 
+rantai cabang dan diberi 
+nama etil.
+4.	
+Nama 
+senyawa 
+tersebut 
+adalah etil butanoat.
+1.	 Terdapat 4 karbon pada rantai utama. 
+Rantai utama diberi nama butan.
+2.	 Terdapat gugus -COO- (ester) dan kloro 
+(-Cl) dalam senyawa sehingga gugus 
+ester (-COO-) menjadi prioritas dan 
+ditempatkan pada karbon nomor 1. 
+Senyawa ini akan diberi nama alkil 
+-oat (Tabel 3.2 nomor 2)
+3.	 Gugus 
+-Cl 
+(kloro) 
+ditempatkan 
+sebagai cabang pada karbon nomor 
+3. Sehingga senyawa teserbut akan 
+memiliki cabang -kloro.
+4.	 Terdapat 2 karbon pada rantai cabang 
+dan diberi nama etil.
+5.	 Nama senyawa tersebut adalah etil 
+3-klorobutanoat.
+122
+Kimia untuk SMA/MA Kelas XII
+Ayo Berlatih
+	
+Tentukan nama senyawa berikut berdasarkan aturan IUPAC!
+1.	
+2.	
+	
+Periksa, apakah nama senyawa berikut sudah benar menurut 
+aturan IUPAC?
+1.	 3,4-dimetoksi-2,5-dimetilheksana
+2.	 3-etil-6-hidroksi-4-metiloktanal
+D.	 Reaksi-Reaksi Spesifik pada Gugus Fungsi
+Seperti telah dijelaskan pada Sub bab 3.B, gugus fungsi merupakan 
+sekelompok atom yang menentukan kereaktifan senyawa organik. 
+Reaksi yang terjadi pada gugus fungsi tertentu akan berbeda dengan 
+reaksi yang terjadi pada gugus fungsi yang lain. Mari kita lakukan 
+percobaan berikut!
+Aktivitas 3.5
+Mari kita lakukan percobaan berikut!
+Tujuan Percobaan: Mengidentifikasi gugus fungsi yang terdapat dalam 
+senyawa organik
+Alat dan Bahan:
+1.	 Alkohol medis 
+2.	 Cairan penghapus cat kuku
+123
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+3.	 Larutan gula pasir 5%
+4.	 Cuka makan 5%
+5.	 Glukotest/larutan Fehling/Benedict
+6.	 Kertas lakmus merah dan biru
+7.	 Tabung reaksi
+8.	 Penangas air
+Cara kerja:
+1.	 Masukkan 5-10 tetes alkohol medis ke dalam tabung reaksi! 
+2.	 Celupkan glukotest pada larutan tersebut! Jika kalian menggunakan 
+larutan Fehling/Benedict, tambahkan 3 tetes ke dalam labu 
+reaksi kemudian hangatkan dalam penangas air. Amati dan catat 
+perubahan yang terjadi! 
+3.	 Ulangi langkah 1-2 untuk menguji cairan penghapus cat kuku, 
+larutan gula pasir 5%, dan cuka makan 5%!
+4.	 Diskusikan hasil pengamatan kalian dalam kelompok dan 
+presentasikan di depan kelas!
+5.	 Berdasarkan hasil yang diperoleh pada percobaan ini, gugus fungsi 
+apa saja yang terdapat pada setiap senyawa yang diuji? Pereaksi 
+manakah yang dapat membedakan gugus fungsi tersebut dengan 
+gugus fungsi yang lain?
+Kalian telah melakukan percobaan untuk membuktikan bahwa 
+setiap gugus fungsi menunjukkan sifat kimia yang khas. Sifat tersebut 
+dapat ditunjukkan melalui reaksi spesifik yang dapat dilakukan 
+terhadap gugus fungsi. Untuk itu, mari kita pelajari reaksi-reaksi yang 
+khas pada setiap gugus fungsi!
+Seperti halnya reaksi pada senyawa hidrokarbon, reaksi-reaksi 
+pada senyawa organik meliputi reaksi substitusi, eliminasi, dan redoks. 
+124
+Kimia untuk SMA/MA Kelas XII
+Akan tetapi, terdapat beberapa reaksi yang diberi nama khusus sesuai 
+dengan produk yang diperoleh atau pereaksi yang digunakan dalam 
+reaksi tersebut. Mari kita pelajari reaksi-reaksi berikut!
+	
+Reaksi Substitusi
+Reaksi substitusi dilakukan untuk mengganti suatu gugus dengan 
+gugus lain. Reaksi ini biasa dilakukan terhadap alkil halida dan 
+alkohol. Alkil halida dapat mengalami substitusi (penggantian 
+gugus halida oleh gugus lain) dengan beragam reagen, baik anion 
+maupun senyawa netral sehingga alkil halida dapat digunakan 
+untuk memperoleh senyawa lain yang lebih beragam. Beberapa 
+reaksi substitusi yang dapat dilakukan terhadap alkil halida 
+ditunjukkan pada beberapa reaksi berikut.
+1.	
+Alkil halida dapat diubah menjadi alkohol saat direaksikan 
+dengan OH–.
+2.	
+Alkil halida dapat diubah menjadi eter jika direaksikan dengan 
+garam alkoksida.
+3.	
+Alkil halida dapat diubah menjadi amina jika direaksikan 
+dengan NH3.
+125
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+4.	
+Alkohol dapat diubah menjadi alkil halida jika direaksikan 
+dengan HX.
+	
+Reaksi Eliminasi
+Reaksi eliminasi ditandai dengan pembentukan ikatan rangkap 
+dalam molekul. Eliminasi dapat terjadi jika alkil halida direaksikan 
+dengan basa kuat sedangkan eliminasi alkohol dilakukan dengan 
+adanya asam kuat. Produk yang terbentuk pada reaksi eliminasi 
+adalah alkena yang mengikat gugus alkil lebih banyak (alkena 
+yang lebih tersubstitusi). Hal ini sesuai dengan aturan Zaytsev yang 
+dikemukakan oleh Aleksander Mikhaylovich Zaytsev (1841-1910, 
+Gambar 3.3). 
+Gambar 3.3	 Aleksander Mikhaylovich Zaytsev
+Sumber: Unknown Author/commons.wikimedia.com (2018)
+126
+Kimia untuk SMA/MA Kelas XII
+5.	
+Eliminasi alkil halida menjadi alkena.
+6.	
+Eliminasi alkohol menjadi alkena.
+Ayo Berlatih
+Kerjakan soal-soal berikut ini 
+1.	 Tunjukkan reaksi mana yang merupakan reaksi substitusi dan 
+mana yang merupakan reaksi eliminasi terhadap alkil halida!
+a. 
+b. 
+2.	 Gambarkan struktur molekul organik yang terbentuk dari 
+reaksi berikut!
+a. 
+b. 
+127
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+ Reaksi Adisi
+Reaksi adisi dapat dilakukan untuk mengubah ikatan rangkap 
+dalam molekul organik menjadi ikatan tunggal. Reaksi adisi 
+biasanya terjadi pada senyawa-senyawa yang memiliki ikatan 
+rangkap seperti alkena, alkuna, aldehida, keton, serta turunan 
+asam karboksilat. 
+7.	
+Adisi hidrogen terhadap alkena.
+8.	
+Adisi HX terhadap alkena.
+9.	
+Adisi air (hidrasi) terhadap alkena.
+	
+Reaksi Reduksi/Oksidasi
+Oksidasi dilakukan terhadap suatu gugus fungsi untuk mengubahnya 
+menjadi gugus fungsi lain dengan tingkat oksidasi lebih tinggi. 
+Oksidasi alkohol primer akan menghasilkan aldehida, dan jika 
+dilakukan oksidasi tuntas maka akan diperoleh asam karboksilat. 
+Oksidasi alkohol sekunder akan menghasilkan keton. Sedangkan 
+alkohol tersier tidak dapat teroksidasi. 
+128
+Kimia untuk SMA/MA Kelas XII
+a.	 Oksidasi alkohol oleh PCC (piridinium kloro kromat)
+ 
+    Alkohol Primer	
+	
+	
+           Aldehida
+   
+Alkohol Sekunder	
+                         Keton
+b.	 Oksidasi alkohol oleh asam kromat (HCrO4) dan Kalium 
+permanganat (KMnO4)
+    
+      Alkohol Primer                                       Asam Karboksilat
+            Alkohol Sekunder	
+                       Keton
+	
+129
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+Ayo Berlatih
+Gambarkan struktur molekul A, B, C, dan D yang terbentuk pada 
+reaksi berikut!
+Aldehida atau keton dapat direduksi baik dengan litium 
+alumunium hidrida (LiAlH4) maupun natrium borohidrida (NaBH4). 
+Reduksi aldehida akan menghasilkan alkohol primer sedangkan 
+reduksi keton akan menghasilkan alkohol sekunder. 
+Aldehida dapat mengalami oksidasi sedangkan keton tidak. 
+Oleh karena itu reaksi ini dapat dimanfaatkan untuk membedakan 
+senyawa yang memiliki gugus fungsi aldehida dengan keton. 
+Aldehida dapat dioksidasi oleh KMnO4 membentuk asam karboksilat 
+dan endapan coklat MnO2 dan dioksidasi oleh reagen Tollens 
+(kompleks Ag+) menghasilkan cermin perak (Ag). 
+c.	 Reduksi aldehida/keton membentuk alkohol 
+       Aldehida	
+	
+	
+	
+           alkohol primer
+130
+Kimia untuk SMA/MA Kelas XII
+        Keton	
+	
+	
+                         alkohol sekunder
+d.	 Oksidasi aldehida oleh KMnO4
+ 
+     Aldehida	
+          Garam karboksilat
+e.	 Oksidasi aldehida oleh pereaksi Tollens
+e.	 Oksidasi aldehida oleh reagen Tollens
+  
+    Aldehida	
+	
+                                Garam karboksilat    cermin perak
+	
+Reaksi Esterifikasi dan Trans-esterifikasi
+Esterifikasi adalah reaksi yang dapat dilakukan untuk memperoleh 
+ester melalui reaksi antara asam karboksilat dengan alkohol dengan 
+katalis asam, seperti ditunjukkan Gambar 3.5.
+ 
+      Asam karboksilat	
+ 	
+	
+ Ester
+Gambar 3.4	 Esterifikasi asam propanoat dengan etanol menghasilkan etil propanoat.
+Ester sering digunakan sebagai penambah aroma buah pada 
+makanan. Berikut adalah beberapa ester beraroma buah yang 
+mudah ditemui di sekitar kita.
+131
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+Tabel 3.4. Senyawa ester beraroma buah
+Aroma
+Ester
+Aroma
+Ester
+Pisang
+isopentil asetat
+Nanas
+etil butirat
+Rum
+isobutil 
+propionat
+Jeruk
+oktil asetat
+Pear
+propil asetat
+Apel
+metil butirat
+Ester dapat dibuat menjadi ester lain jika direaksikan dengan 
+alkohol pada suasana asam. Reaksi ini disebut transesterifikasi 
+seperti ditunjukkan Gambar 3.6.
+  Ester 1	
+	
+	
+	
+     	
+     Ester 2
+Gambar 3.5	 Reaksi transesterifikasi.
+Aktivitas 3.6
+Praktikum
+Reaksi Penyabunan
+Alat dan Bahan:
+1.	 Minyak nabati: minyak kelapa (VCO), minyak sawit, minyak zaitun, 
+minyak jagung, minyak kedelai.
+2.	 NaOH/KOH.
+3.	 Air suling.
+4.	 Minyak esensial/pewangi/parfum. 
+5.	 Pewarna makanan.
+6.	 Zat aditif. 
+7.	 Masker. 
+8.	 Kacamata (goggle).
+132
+Kimia untuk SMA/MA Kelas XII
+9.	 Sarung tangan karet.
+10.	 Neraca.
+11.	 Sendok plastik-polipropilen. 
+12.	 Gelas plastic. 
+13.	 Wadah plastik. 
+14.	 Kain – Untuk menutup cetakan setelah diisi sabun.
+15.	 Plastik tipis – Untuk melapisi cetakan.
+16.	 Cetakan atau loyang panjang.
+17.	 Pengaduk kayu atau blender.
+18.	 Kain.
+Cara kerja :
+1.	 Siapkan cetakan yang telah dilapisi plastik tipis.
+2.	 Timbang 250 g minyak sawit, 140 g minyak kelapa, 100 g minyak 
+jagung kemudian campurkan dalam satu wadah.
+3.	 Timbang 75,5 g NaOH kemudian masukkan ke dalam 210 g air 
+perlahan-lahan sambil diaduk.
+4.	 Masukkan larutan NaOH tersebut ke dalam campuran minyak 
+nabati diikuti pengadukan dengan cepat hingga semua tercampur 
+rata. Pengadukan dapat dibantu dengan menggunakan blender. 
+Pengadukan cepat dihentikan jika campuran sudah mengental.
+5.	 Tambahkan 10 ml pewangi atau parfum aduk perlahan hingga 
+merata kemudian tambahkan beberapa tetes pewarna hingga 
+diperoleh intensitas warna yang sesuai.
+6.	 Tuang hasil sabun ini ke dalam cetakan kemudian tutup dengan 
+kain untuk insulasi. 
+7.	 Simpan sabun dalam cetakan tadi selama satu hingga dua hari.
+8.	 Keluarkan sabun dari cetakan, potong sesuai selera. Simpan 
+sekurang-kurangnya 3 minggu sebelum dipakai.
+133
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+	
+Reaksi Saponifikasi/Penyabunan
+Jika ester yang digunakan pada reaksi tersebut memiliki struktur 
+hidrokarbon rantai panjang dengan basa kuat (seperti KOH atau 
+NaOH) maka produk yang terbentuk sabun (garam dari asam 
+karboksilat) dan gliserol. Oleh karena itu, proses ini disebut reaksi 
+saponifikasi (reaksi penyabunan) seperti ditunjukkan pada 
+Gambar 3.7.
+Ester	
+	
+	
+	
+ 	
+     Sabun
+Gambar 3.6	 Reaksi saponifiksi (penyabunan).
+Di industri, reaksi penyabunan biasa dilakukan untuk memperoleh 
+sabun padat dari trigliserida (minyak atau lemak). Reaksi 
+ini menghasilkan produk samping, yaitu gliserol, yang dapat 
+dimanfaatkan kembali untuk berbagai keperluan di bidang industri 
+kosmetik dan makanan. Reaksi pembuatan sabun dari trigliserida 
+ditunjukkan pada gambar 3.8.
+  Trigliserida	
+	
+	
+	
+Gliserol    	
+     Sabun
+Gambar 3.7	 Reaksi saponifikasi terhadap trigliserida
+134
+Kimia untuk SMA/MA Kelas XII
+Aktivitas 3.7
+Praktikum
+Reaksi Esterifikasi: Pembuatan Minyak Wintergreen
+Minyak wintergreen (metil salisilat) merupakan senyawa penting 
+yang diperoleh dari Gandaria, Gaultheria punctate (Famili Ericaceae). 
+Senyawa ini memiliki khasiat sebagai pereda nyeri (minyak angin, 
+balsam dan koyo), perasa pada minuman Root Beer, bahkan parfum. 
+Senyawa ini dapat disintesis secara sederhana melalui konversi asam 
+asetil salisilat (Aspirin®) dengan metanol dalam suasana sedikit asam. 
+Reaksi ini dapat berlangsung dengan metanol pada suasana asam 
+sesuai persamaan reaksi:
+Alat dan Bahan:
+1.	 Tablet Aspirin komersial.
+2.	 Metanol.
+3.	 Akuades.
+4.	 Diklorometana.
+5.	 Na2SO4.
+6.	 Larutan jenuh Na2CO3.
+7.	 Lumpang dan alu.
+8.	 Kertas saring.
+9.	 Corong.
+10.	 Corong pisah.
+11.	 Spatula.
+135
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+12.	 Labu erlenmeyer 50 ml.
+13.	 Termometer.
+14.	 Penangas air.
+15.	 Pemanas.
+16.	 Kaki tiga.
+17.	 Klem dan statif.
+Cara kerja :
+1.	 Gerus dan hancurkan tablet Aspirin® komersial sehingga diperoleh 
+padatan yang mengandung sekitar 1,5 gram asam asetilsalisilat 
+(catat massa tablet Aspirin® yang digerus).
+2.	 Larutkan dengan 10 ml metanol kemudian saring.
+3.	 Bilas padatan yang tertinggal di kertas saring dengan 10 ml metanol. 
+Pindahkan larutan ke dalam labu erlenmeyer 50 ml kemudian 
+tambahkan 1 ml H2SO4 perlahan-lahan. 
+4.	 Hangatkan larutan pada suhu 60oC selama 90 menit. 
+5.	 Setelah selesai, dinginkan campuran reaksi kemudian pindahkan 
+ke dalam corong pisah. 
+6.	 Tambahkan 5 ml larutan Na2CO3 jenuh perlahan-lahan kemudian 
+tambahkan kembali beberapa tetes hingga gelembung gas tidak 
+terbentuk lagi. 
+7.	 Lakukan ekstraksi 2 kali dengan diklorometana. 
+8.	 Gabungkan semua fasa organik kemudian tambahkan 1 spatula 
+Na2SO4 anhidrat dan aduk.
+9.	 Dekantasi atau saring padatan yang terdapat dalam larutan 
+kemudian uapkan pelarut di atas penangas air.
+E.	 Beberapa Senyawa Organik Penting dan Manfaatnya
+a.	 Alkohol dan Eter
+Metanol dan etanol adalah alkohol penting dalam industri. Keduanya 
+digunakan sebagai pelarut dalam berbagai proses industri. Metanol 
+136
+Kimia untuk SMA/MA Kelas XII
+komersial diperoleh dari reaksi antara karbon monoksida dan gas 
+H2 (syn gas) pada suhu dan tekanan tinggi. 
+     
+         Syn gas	
+	
+	
+	
+	
+ 	
+         metanol
+Campuran karbon monoksida dan hidrogen yang diperlukan 
+dalam  produksi metanol dapat dihasilkan melalui pembakaran 
+parsial batu bara dengan adanya air. Perbandingan karbon 
+monoksida terhadap hidrogen yang benar dapat diperoleh dengan 
+mengatur jumlah air yang ditambahkan ke dalam proses ini.
+Etanol diperoleh dari hasil fermentasi karbohidrat oleh bakteri. 
+Fermentasi menghasilkan etanol 12-15% karena konsentrasi 
+etanol yang lebih tinggi akan membunuh bakteri. Konsentrasi 
+etanol dapat ditingkatkan hingga 95% melalui distilasi. Etanol 
+digunakan juga sebagai aditif bahan bakar kendaraan. Saat ini, 
+etanol dihasilkan dari fermentasi jagung dan biji-bijian sehingga 
+akan terjadi kompetisi dengan kebutuhan pangan. Fermentasi 
+etanol memerlukan biaya tinggi sehingga etanol untuk kebutuhan 
+industri lebih umum disintesis melalui adisi katalitik air terhadap 
+etilena (C2H4).
+                       
+Etilena	
+	
+	
+	
+	
+                       Etanol
+Metanol lebih toksik dari etanol. Metanol dapat menyebabkan 
+kebutaan jika dikonsumsi dalam jumlah besar. Oleh karena 
+itu, metanol biasanya ditambahkan ke dalam etanol yang akan 
+137
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+digunakan dalam proses industri sehingga tidak layak konsumsi. 
+Dewasa ini cukup marak terjadi jual beli minuman yang ditambah 
+alkohol industri. Hal ini berbahaya karena dapat menimbulkan 
+gangguan kesehatan, bahkan kematian.
+Fenol dan gliserol adalah alkohol yang juga berguna di 
+kehidupan sekitar kita. Fenol merupakan alkohol aromatik yang 
+diperoleh dari oksidasi benzena. Fenol merupakan bahan baku 
+dalam produksi banyak bahan dan senyawa yang berguna seperti 
+plastik, deterjen, herbisida, berbagai obat, dan kosmetik. Fenol 
+secara langsung dapat digunakan sebagai antiseptik dan desinfektan 
+karena kemampuannya untuk membunuh bakteri.
+Gliserol (1,2,3-propanatriol) dihasilkan sebagai produk samping 
+pada produksi sabun. Setiap ton sabun menghasilkan 25 kg griserol. 
+Gliserol ditambahkan ke dalam produk kosmetika sebagai agen 
+pelembab. Selain itu, gliserol diaplikasikan pula sebagai plasticizer, 
+zat antibeku, serta pelumas yang larut air.
+	
+b.	 Aldehida dan Keton
+Formaldehida, asetaldehida, dan aseton adalah beberapa aldehida 
+atau keton sederhana dan banyak dimanfaatkan dalam proses 
+industri. Dalam bidang kesehatan, formaldehida digunakan sebagai 
+desinfektan dan larutan antiseptik karena kemampuannya untuk 
+membunuh mikroorganisme penyebab infeksi. Formaldehida 
+pun digunakan dalam pembuatan tinta, resin, plastik, material 
+artifisial, hingga beberapa bagian pada kendaraan bermotor. 
+Asetaldehida dikenal sebagai bahan baku pembuatan asam asetat, 
+desinfektan, parfum, dan obat-obatan. Selain itu, aseton adalah 
+keton paling sederhana dan banyak digunakan sebagai pelarut 
+dalam pembuatan tinta, cat, dan zat warna lain serta digunakan 
+pula dalam pemrosesan tekstil. Aldehida dan keton aromatik, 
+138
+Kimia untuk SMA/MA Kelas XII
+seperti benzaldehida, vanilin, dan asetofenon, pun digunakan 
+dalam pembuatan banyak senyawa aktif. 
+c.	
+Asam Karboksilat dan Turunannya
+Asam karboksilat sangat bermanfaat dalam kehidupan sehari-
+hari. Asam asetat dan asam sitrat banyak digunakan sebagai 
+penyedap makanan. Asam akrilat, asam tereftalat, dan asam 
+adipat dimanfaatkan dalam industri pembuatan polimer. Beberapa 
+turunan asam karboksilat pun memiliki kegunaan penting, misalnya 
+ester, dimanfaatkan sebagai aditif makanan dan parfum. 
+Inti Sari
+Senyawa organik banyak ditemukan dari makhluk hidup. Senyawa 
+organik tersusun atas rantai karbon dan mengikat atom lain seperti 
+hidrogen, oksigen, nitrogen, halogen, dan belerang. Senyawa 
+organik banyak ditemukan di sekitar kita dan dimanfaatkan dalam 
+bidang kesehatan, obat dan kosmetika, aditif pada makanan, serta 
+material fungsional (lapisan anti lengket dan lapisan anti peluru).
+Susunan atom-atom yang terdapat dalam senyawa organik 
+sangat menentukan sifat fisika maupun kimia dari senyawa 
+tersebut. Sekelompok atom yang mempengaruhi sifat-sifat senyawa 
+organik dinamakan Gugus Fungsi. Terdapat beberapa gugus fungsi 
+yang umum dalam senyawa organik, yaitu gugus fungsi yang 
+mengandung ikatan rangkap karbon-karbon (alkena dan alkuna), 
+gugus fungsi yang mengandung oksigen (alkohol, eter, aldehida, 
+keton, asam karboksilat, dan ester), gugus fungsi yang mengandung 
+nitrogen (amina dan amida), serta gugus fungsi yang mengandung 
+belerang (tiol). 
+139
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+Penamaan senyawa organik ditentukan berdasarkan aturan 
+IUPAC (International Union of Pure and Applied Chemistry). Gugus 
+fungsi yang terdapat dalam senyawa menentukan rantai induk 
+senyawa organik serta gugus samping yang terikat pada rantai 
+tersebut. Nama senyawa organik disusun secara berurutan mulai 
+dari posisi cabang, nama cabang, serta nama rantai utama. Gugus 
+fungsi bertindak pula sebagai pusat reaksi dalam senyawa organik. 
+Secara umum, reaksi yang dapat dilakukan pada senyawa organik 
+meliputi reaksi substitusi (penggantian), eliminasi (penghilangan), 
+adisi (penambahan), reduksi, dan oksidasi. Selain itu, terdapat pula 
+reaksi yang diberi nama sesuai dengan produk yang akan diperoleh, 
+misalnya reaksi esterifikasi yang merupakan reaksi pembentukan 
+ester dari alkohol dan asam karboksilat serta reaksi penyabunan 
+yang dikenal sebagai reaksi pembentukan sabun (garam dari asam 
+karboksilat) dari ester atau trigliserida.
+140
+Kimia untuk SMA/MA Kelas XII
+Ayo Refleksi
+Isilah formulir evaluasi diri pada tabel berikut dengan cara memberi 
+tanda centang (√) pada kolom yang kalian pilih. 
+No.
+Pertanyaan
+Tanggapan
+Ya
+Tidak
+1.
+Apakah kalian melakukan setiap aktivitas yang 
+disediakan?
+2.
+Apakah kalian mengerjakan setiap latihan soal yang 
+ada?
+3.
+Apakah kalian memahami setiap bagian?
+4.
+Apakah kalian bekerjasama dengan teman-teman 
+dalam setiap aktivitas kelompok?
+5.
+Apakah kalian merasa senang dalam setiap 
+aktivitas?
+Tuliskan pendapat kalian mengenai Bab ini: 
+141
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+Ayo Cek Pemahaman
+Pilihan Ganda
+1.	 Berikut adalah pernyataan yang berkaitan dengan senyawa organik, 
+kecuali...
+A.	 Memiliki rantai utama terdiri atas atom karbon
+B.	 Dapat ditemukan dari sumber mineral dan batuan
+C.	 Strukturnya mengandung atom H dan O
+D.	 Dapat diekstrak dari tumbuhan dan hewan
+E. 	 Dapat dibakar menghasilkan karbondioksida
+2.	 Bahan berikut tersusun atas senyawa organik, yaitu...
+	
+A.	 Plastik
+	
+B.	 Kuningan
+	
+C.	 Emas
+	
+D.	 Kriolit
+	
+E.	 Air 
+3.	 Senyawa 2-propanol dan 2-propanon  memiliki 3 atom karbon 
+dalam molekulnya. Senyawa 2-propanol memiliki titik didih pada 
+suhu 83oC sedangkan 2-propanon mendidih pada 56oC. Hal ini 
+disebabkan oleh...
+A.	 2-propanol merupakan senyawa yang lebih polar dibanding 
+2-propanon
+B.	 2-propanol memiliki tekanan uap lebih kecil dari 2-propanon
+C.	 2-propanol memiliki massa molekul lebih besar dari 2-propanon
+D.	 2-propanol memiliki ikatan antarmolekul lebih kuat dibanding 
+2-propanon
+E.	 2-propanol memiliki gugus alkohol sedangkan 2-propanon 
+memiliki gugus keton
+142
+Kimia untuk SMA/MA Kelas XII
+4.	 Berikut adalah struktur parasetamol, senyawa yang terdapat dalam 
+tablet anti-radang. Gugus fungsi yang terdapat dalam parasetamol 
+adalah...
+A.	 Aldehida
+B.	 Amida
+C.	 Alkena
+D.	 Keton
+E.	 Asam karboksilat
+5.	 Berikut adalah struktur asam amino sistein yang menyusun protein 
+dalam tubuh manusia. Gugus fungsi berikut terdapat dalam sistein, 
+yaitu...
+A.	 Keton
+B.	 Alkohol
+C.	 Amina
+D.	 Alkena
+E.	 Eter
+6.	 Perhatikan struktur senyawa berikut! Nama yang tepat untuk 
+senyawa tersebut berdasarkan aturan IUPAC adalah...
+A.	 1-propanon
+B.	 Metil propanoat
+C.	 Etil metil keton
+D.	 1-metoksipropanon
+E.	 3-butanon
+143
+Bab III GUGUS FUNGSI DALAM SENYAWA KARBON
+7.	 Beta klorohidrin adalah senyawa penting dalam pembuatan beberapa 
+senyawa obat. Nama IUPAC untuk beta klorohidrin adalah...
+A.	 1-hidroksi-2-kloroetana
+B.	 Asam etanoat
+C.	 2-kloroetanol
+D.	 Kloroetanal
+E.	 1-kloro etil alkohol
+8.	 Perhatikan reaksi berikut! 
+	
+Reaksi tersebut menunjukkan...
+A. 	 Reaksi eliminasi
+B. 	 Reaksi eliminasi
+C. 	 Reaksi adisi
+D. 	 Reaksi oksidasi
+E. 	 Reaksi reduksi
+9.	 Produk yang terbentuk dari reaksi berikut adalah...
+A.	 1-bromopropana
+B. 	 2-bromopropana 
+C. 	 2-bromopropena
+D.	 1,2-dibromopropana
+E. 	 1,2-dibromopropena
+10.	 Senyawa yang dihasilkan jika 1-butanol direaksikan dengan 
+piridinium klorokromat adalah...
+A.	 Asam butanoat
+B.	 Butanon
+C.	 Butanal
+D.	 1-klorobutana
+E.	 Butena
+144
+Kimia untuk SMA/MA Kelas XII
+Uraian
+1. 	 Gambarkan struktur senyawa berikut!
+a. 	 4,6-dimetil-2-heptanon
+b. 	 asam 2-etil-4-hidroksipentanoat
+c. 	 1,3-dikloro-4-metilheptanol
+2. 	 Gambarkan struktur senyawa A dan B yang dihasilkan dari reaksi 
+berikut!
++
++
++
+HBr
+KOH
+KBr
+A
+B
+A

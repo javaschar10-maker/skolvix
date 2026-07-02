@@ -1,0 +1,2015 @@
+Bab V
+Manfaat Gelombang dan 
+Cahaya bagi Manusia
+Bagaimana cahaya matahari dan bintang-bintang di langit dapat 
+sampai ke permukaan bumi?"
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2024
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VIII (Edisi Revisi)
+Penulis : Okky Fajar Tri Maryana, dkk.
+ISBN 
+: 978-623-388-560-7 (jil.2 PDF)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+136
+Pada bab ini kalian akan mempelajari konsep gelombang dan cahaya. 
+Setelah memahaminya dengan baik, pada akhir kegiatan di bab ini kalian 
+akan diajak membuat proyek yang akan meningkatkan daya kreativitas 
+dan semangat bekerja sama. Proyek tersebut adalah pembuatan purwarupa 
+kamera obscura, yaitu nenek moyang dari kamera digital saat ini. Keren, 
+bukan? Ayo, pelajari bab ini dengan antusias!
+• gelombang
+• cahaya
+• optik
+• kamera
+Tujuan Pembelajaran
+Kata Kunci
+Peta Konsep
+Manfaat Gelombang dan Cahaya
+Ultrasonik
+Gelombang Bunyi
+Infrasonik
+Audiosonik
+dibagi menjadi
+diterapkan pada 
+konsep
+Gelombang 
+Longitudinal
+Gelombang 
+Transversal
+Getaran sebagai 
+Sumber Gelombang
+Berdasarkan bentuknya 
+dibagi menjadi
+di dalamnya 
+memahami
+Gelombang
+Cahaya
+konsep pokok 
+yang dibahas
+Sifat-Sifat 
+Cahaya
+Indra 
+Penglihatan
+Alat-Alat 
+Optik
+mengenal
+memahami
+penerapan 
+teknologi
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+137
+Galaksi adalah kumpulan dari miliaran bintang. Ada begitu banyak galaksi di 
+alam semesta kita, Galaksi Andromeda adalah galaksi terdekat dengan Galaksi 
+Bimasakti kita dengan jarak 2,5 juta tahun cahaya, yaitu jarak yang ditempuh 
+cahaya berkecepatan 300.000 km/detik selama 2,5 juta tahun lamanya. Galaksi 
+Andromeda adalah salah satu dari galaksi yang masih dapat dilihat dengan 
+mata telanjang pada malam yang cerah tanpa cahaya bulan dan polusi cahaya 
+berupa kilauan lampu. Bagaimana mata kita dapat melihat Galaksi Andromeda 
+yang jaraknya begitu jauh? Bagaimana cara kita melihat bentuknya dengan lebih 
+jelas? Foto Galaksi Andromeda yang indah di atas adalah hasil dari teknologi 
+perpaduan antara teropong dan kamera canggih. Prinsip kerja kedua alat 
+tersebut berkaitan dengan konsep sains pada bab ini.
+Bersiap untuk Menjelajah
+Pernahkah kalian menggunakan kamera 
+digital untuk mengabadikan kegiatan-
+kegiatan seru bersama keluarga atau 
+teman-teman? Tahukah kalian apa yang 
+menjadikan sebuah foto begitu indah 
+untuk dilihat? Bagaimana prinsip kerja 
+kamera digital dalam mengabadikan 
+sebuah momen kejadian menjadi bentuk 
+gambar di bidang kertas?
+Gambar 5.2  Kamera digital, alat yang 
+dapat menangkap bayangan objek.
+Gambar 5.1  Galaksi 
+Andromeda, galaksi 
+terdekat dengan Bimasakti
+Sumber: NASA/nasa.gov (2012)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+138
+A. 
+Gelombang
+Cobalah kalian amati sebuah kolam, lalu lemparkan sebuah batu kecil ke air 
+kolam tersebut. Apakah yang kalian saksikan? Jika di tepian kolam tersebut ada 
+sampah dedaunan, apakah dedaunan tersebut ikut bergerak naik turun mengikuti 
+gerakan air walaupun dedaunan tersebut berada jauh dari lemparan batu?
+Gambar 5.3  Gelombang/riak air yang terjadi saat batu 
+dilemparkan ke air kolam. 
+Sumber: Wichudapa/shutterstock.com
+1. Mengapa muncul gelombang?
+Peristiwa ikut bergeraknya dedaunan di tepian kolam adalah contoh fenomena 
+perambatan getaran air akibat lemparan batu. Fenomena ini disebut juga sebagai 
+gelombang, lebih tepatnya gelombang pada permukaan air. Getaran permukaan 
+air yang ditimbulkan oleh lemparan batu yang tercemplung ke dalam kolam 
+merambat melalui media air hingga mencapai posisi dedaunan. Singkatnya, 
+gelombang adalah getaran yang merambat.
+Selain gelombang pada permukaan air, ada juga gelombang seismik atau 
+biasa dikenal sebagai gempa. Pernahkah kalian merasakannya? Akibat gempa, 
+banyak bangunan hancur karena tidak sanggup menghadapi getaran yang 
+terjadi. Nah, dapatkah kalian menyebutkan contoh-contoh gelombang lainnya 
+yang mudah ditemukan dalam kehidupan sehari-hari?
+Sebelum melangkah lebih lanjut, sentuhlah pangkal tenggorokanmu saat 
+kalian berbicara. Apakah kalian merasakan sesuatu yang bergetar? Mengapa 
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+139
+saat mulutmu mengeluarkan suara disertai dengan getaran pada tenggorokan? 
+Suara yang kalian keluarkan bersumber dari getaran pita suara yang ada di 
+tenggorokan. Jika kalian berteriak lebih keras, apakah pita suaramu terasa 
+lebih bergetar? Sekarang, coba berikan sedikit tekanan pada tenggorokanmu 
+dan mulailah berteriak. Apakah yang terjadi?
+Berbicara atau berteriak adalah akibat dari fenomena pita suara yang 
+bergetar. Semua benda akan bergetar apabila diberi gangguan. Apa bentuk 
+gangguan yang diberikan saat kalian berteriak? Mengapa kalian dapat men-
+dengar dengan jelas ketika temanmu berteriak?
+Gelombang suara atau bunyi yang dikeluarkan oleh temanmu adalah 
+gelombang mekanik yang merambat melalui medium udara. Variasi tekanan 
+dalam medium udara menyebabkan kalian dapat mendengar beragam jenis suara. 
+Gelombang bunyi terbentuk ketika sumber getaran, seperti suara manusia atau 
+instrumen musik, mendorong partikel-partikel udara di sekitarnya, menciptakan 
+perubahan tekanan udara secara berturut-turut. Ketika gelombang bunyi tersebut 
+mencapai gendang telinga manusia, gendang telinga akan bergetar sesuai 
+dengan perubahan tekanan udara yang terjadi. Gendang telinga ini kemudian 
+mengubah getaran-getaran tersebut menjadi sinyal listrik yang dikirimkan ke 
+otak melalui saraf auditori. Di otak, sinyal listrik ini ditafsirkan sebagai suara 
+oleh indra pendengaran manusia.
+Gambar 5.4  Seorang anak berteriak mengeluarkan gelombang 
+suara atau bunyi. 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+140
+Benda dikatakan bergetar/berosilasi jika benda tersebut bergerak bolak-
+balik secara teratur melalui titik seimbangnya. Pernahkah kalian melihat jam 
+dinding yang masih menggunakan bandul untuk menjalankan jarum detiknya? 
+Menurutmu apakah bandul tersebut dapat dikatakan bergetar? Di manakah letak 
+titik kesetimbangannya? Dapatkah kalian menentukan simpangannya? Apakah 
+semua benda yang bergerak bolak-balik disebut bergetar? Saat kamu berjalan 
+bolak-balik di depan kelas, dapatkah disebut bergetar? Mengapa demikian? Coba 
+carilah contoh-contoh lain dari fenomena sehari-hari yang termasuk getaran! 
+Apakah getaran tersebut dapat dilihat oleh mata telanjang atau tidak?
+Gambar 5.4 menunjukkan gerakan bandul yang bergetar/berosilasi yang 
+merupakan penyederhanaan dari bandul jam dinding yang kalian lihat. Bandul 
+mula-mula berada dalam keadaan diam pada 
+kedudukan O. Posisi ini disebut sebagai posisi 
+atau kedudukan seimbang. Bandul tersebut ke-
+mudian ditarik ke kedudukan A dengan sudut 
+simpangan kecil (sekitar 10º). Pada saat bandul 
+dilepaskan dari kedudukan A, bandul akan ber-
+gerak teratur melalui titik A-O-B-O-A. Gerakan 
+dari titik A hingga kembali ke titik A itu disebut 
+gerak bolak-balik dalam satu kali getaran. Salah 
+satu ciri dari getaran adalah adanya amplitudo 
+atau simpangan terbesar (O–A atau O–B).
+A
+O
+B
+Gambar 5.5  Bandul yang 
+Bergetar atau Berosilasi.
+Aktivitas 5.1 
+Ayo Bereksperimen
+Ayunan Bandul Buah
+Kalian akan membuat bandul yang bergetar atau berosilasi secara beraturan 
+dengan gerak bolak-balik yang simpangannya kecil tetapi mampu bertahan 
+lama.
+ 
+Carilah satu buah yang jatuh di pekarangan sekolah yang ukurannya cukup 
+besar dan masih memiliki tangkai di pangkalnya. Jika tidak menemukannya, 
+kalian bisa menggantinya dengan benda apa pun. Ikatlah seutas tali sepanjang 
+20 cm pada ujung tangkai dan gantungkan buah tersebut di tempat yang
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+141
+tinggi. Apa yang kalian lakukan agar ayunan bandul buahnya memiliki 
+sudut simpangan kecil (misalkan 10º)? 
+ 
+Hitunglah gerak bolak-balik bandul buah tersebut selama 10 dan 30 
+detik! Lakukan pula hal yang sama dengan tali sepanjang 60 cm. Catatlah 
+hasil pengamatanmu pada tabel berikut.
+Tabel 5.1  Hasil Pengamatan Getaran Bandul Buah dengan Sudut Simpangan 10°.
+Panjang Tali 
+(cm)
+Waktu Getar 
+(t dalam 
+detik)
+Banyak 
+Getaran 
+Bandul (n)
+Waktu untuk 1 
+Kali Getaran
+T = t
+n
+Jumlah 
+Getaran dalam 
+1 Detik
+f = n
+t
+20 cm
+10
+10
+10
+Nilai rata-rata
+60 cm
+30
+30
+30
+Nilai rata-rata
+ 
+Berdasarkan data pada tabel di atas, berapakah waktu rata-rata yang 
+dibutuhkan untuk melakukan satu getaran dengan panjang tali 20 cm? 
+Bandingkan dengan panjang tali 60 cm, manakah yang lebih cepat? Apakah 
+panjang tali berpengaruh? Mengapa demikian?
+Waktu yang diperlukan suatu benda untuk menempuh satu kali getaran 
+penuh disebut sebagai periode, dilambangkan dengan T dalam satuan detik. 
+Sedangkan banyaknya getaran yang terjadi selama satu detik disebut frekuensi, 
+dilambangkan dengan f dengan satuan hertz (Hz). Periode dan frekuensi adalah 
+parameter gelombang yang penting untuk diketahui dan dipahami.
+Kalian telah memahami bahwa getaran sesungguhnya adalah bentuk energi 
+gerak suatu benda. Sebagian besar fenomena getaran dimanfaatkan untuk 
+kebutuhan manusia, contohnya piston pada mesin kendaraan yang berfungsi 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+142
+untuk menggerakkan roda. Dapatkah kalian menyebutkan contoh manfaat 
+getaran lainnya?
+Ketika batu dilemparkan ke dalam kolam, sesungguhnya batu tersebut 
+membawa energi potensial dari ketinggian tertentu ditambah dengan energi 
+kinetik akibat lemparanmu. Energi tersebut berubah menjadi getaran air di 
+sekitar batu saat tercemplung. Energi getaran kemudian diteruskan ke segala 
+penjuru kolam sehingga kalian akan melihat pola-pola melingkar, seperti pada 
+Gambar 5.3.
+Menurutmu, apakah energi getaran yang dirambatkan pada permukaan 
+air dapat diperbesar sehingga membuat gerakan dedaunan di tepian kolam 
+menjadi lebih bergejolak? Lalu, apakah rambatan energi getaran tersebut dapat 
+ditingkatkan atau dipercepat?
+2. Jenis-Jenis Gelombang
+Berdasarkan bentuknya, gelombang dibagi menjadi dua jenis, yaitu gelombang 
+transversal seperti pada gelombang air atau tali dan gelombang longitudinal 
+seperti pada gelombang slinki atau pegas dan gelombang suara. Gambar berikut 
+menunjukkan perbedaan keduanya.
+(a) Gelombang Transversal
+(b) Gelombang Longitudinal
+A
+y
+lembah
+bukit
+t (s)
+λ
+λ
+B
+B'
+F'
+F
+C
+D'
+D
+E
+G
+λ
+λ
+rapatan
+regangan
+1
+2
+1
+2
+Gambar 5.6  Perbedaan Gelombang Transversal dan Longitudinal
+Secara ringkas, gelombang transversal adalah gelombang yang arah getar 
+partikel penyusun mediumnya tegak lurus dengan arah penjalaran gelombang. 
+Sedangkan gelombang longitudinal adalah gelombang yang arah getar partikel 
+penyusun mediumnya sejajar dengan arah penjalaran gelombang. 
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+143
+Perhatikan Gambar 5.6(a). Jika kita menjumlahkan jarak bukit (titik A–C) 
+dan jarak lembah (titik C–E) maka akan didapatkan satu panjang gelombang 
+transversal, atau disebut sebagai lambda (λ). Bisa pula satu lambda dinyatakan 
+dengan jarak dari titik B ke F (B–C–D–E–F) atau jarak dua puncak terdekat. 
+Adapun jarak B ke B', D ke D', dan F ke F' atau jarak simpangan terjauh dari titik 
+keseimbangannya disebut amplitudo.
+Seperti halnya getaran, gelombang memiliki periode dan frekuensi (dengan 
+besaran yang sama pula). Periode (T) adalah banyaknya waktu yang diperlukan 
+untuk menciptakan satu panjang gelombang penuh, sedangkan frekuensi (f) 
+adalah banyaknya gelombang yang terjadi dalam satu detik, sehingga kita 
+mempunyai hubungan yang dinyatakan dalam persamaan berikut. 
+f = 1
+T
+(5.1)
+Keterangan:
+f = frekuensi (hertz, Hz)
+T = periode (sekon, s)
+Bagaimana cara menentukan satu panjang gelombang untuk gelombang 
+longitudinal pada Gambar 4.6(b)? Pada gelombang longitudinal, satu panjang 
+gelombang adalah penjumlahan jarak satu rapatan dengan jarak satu regangan 
+(1 λ = 1 rapatan + 1 regangan). 
+Banyak sekali contoh gelombang dalam kehidupan sehari-hari. Beberapa 
+di antaranya dapat dilihat jelas oleh mata manusia, contohnya gelombang air 
+atau ombak serta gelombang pada tali dan slinki. Beberapa lainnya tidak dapat 
+dilihat oleh mata tetapi dapat dirasakan perambatannya, contohnya gelombang 
+suara dan gempa. Gelombang-gelombang ini disebut juga gelombang mekanik 
+karena perambatan getarannya memerlukan medium.
+Selain itu, ada pula gelombang yang tak kasat mata dan tidak dapat dirasakan 
+perambatannya, seperti gelombang radio, microwave, gelombang televisi, dan 
+gelombang elektromagnetik. Gelombang elektromagnetik adalah gelombang 
+yang muncul akibat getaran medan listrik dan magnet. Gelombang ini dalam 
+perambatannya juga tidak memerlukan medium. Apa buktinya? Sinar matahari 
+termasuk gelombang elektromagnetik yang dapat sampai ke bumi meski melewati 
+ruang angkasa yang hampa udara.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+144
+Fakta Sains
+Gelombang Rontgen
+Sinar rontgen adalah nama lain dari sinar-X. Sinar ini ditemukan oleh Wilhelm 
+Conrad Röntgen, seorang 昀椀sikawan asal Jerman. Dikatakan sinar-X karena 
+saat ditemukan, Röntgen tidak mengetahui jenis sinar tersebut. Sinar-X 
+merupakan salah satu bentuk gelombang elektromagnetik. Sinar-X memiliki 
+panjang gelombang lebih pendek daripada cahaya tampak, sehingga kita 
+tidak dapat melihat sinar-X. Panjang gelombang yang pendek inilah yang 
+membuat sinar-X mampu menembus benda padat tergantung seberapa 
+padat material benda tersebut. Saat ini, sinar-X digunakan di rumah sakit 
+untuk melihat keadaan tulang dan organ dalam tubuh. 
+Sinar-X bekerja dengan cara menembus jaringan dan otot tubuh menuju 
+tulang dan organ penting. Tulang memiliki material penyusun yang sangat 
+padat sehingga tidak dapat ditembus oleh sinar-X. Tulang yang tidak dapat 
+ditembus oleh sinar-X ditampilkan dalam bentuk gambar berwarna putih 
+seperti ditunjukkan pada Gambar 5.7. Secara sederhana, hal ini seperti saat 
+kamu bermain bayangan dengan tangan pada dinding. Bayangan tersebut 
+terbentuk karena tanganmu menghalangi cahaya dari lampu ke dinding.
+Gambar 5.7  Foto Hasil dari Gelombang Rontgen
+Sumber: Hellerhoff/wikimedia.org (2010)
+Sumber Emory University/news.emory.edu (2023)
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+145
+Aktivitas 5.2 
+Ayo Bereksperimen
+Membuat Gelombang Tali
+Ambillah seutas tali atau pita yang cukup tebal dengan panjang tiga meter. 
+Ajaklah salah seorang temanmu untuk memegang salah satu ujung tali 
+tersebut dan mintalah ia untuk memegang stopwatch.
+Gambar 5.8  Percobaan gelombang tali sederhana
+ 
+Pada ujung tali yang kalian pegang, buatlah gerakan naik turun berulang-
+ulang. Kalian bisa memperkirakan banyak getaran naik turun tiap detiknya 
+menggunakan stopwatch. Apakah kalian melihat bentuk seperti bukit dan 
+lembah gelombang dengan jelas? Apa yang dirasakan oleh temanmu pada 
+ujung tali lainnya? Untuk menjawab pertanyaan-pertanyaan di atas, kalian 
+dapat mengisi tabel berikut.
+Tabel 5.2  Hasil Pengamatan Cepat Rambat Gelombang Tali Sepanjang Tiga Meter
+Banyak 
+getaran di 
+ujung tali 
+per detik 
+(frekuensi, Hz)
+Jumlah 
+puncak 
+gelombang 
+yang terlihat
+(n)
+Jumlah 
+gelombang 
+(n/2)
+Panjang 
+gelombang = 
+panjang tali 
+dibagi jumlah 
+gelombang 
+(meter)
+Periode (detik) = 
+jumlah gelombang 
+dibagi waktu 
+tempuh yang 
+tercatat di 
+stopwatch
+1 getaran per 
+detik
+2 getaran per 
+detik
+3 getaran per 
+detik
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+146
+ 
+Dari tabel yang telah kalian isi, kalian dapat menentukan kecepatan 
+rambat gelombang tali dengan rumus berikut.
+v = λ
+T atau v = λ × f
+(5.2)
+Keterangan:
+v = cepat rambat gelombang tali (m/s)
+λ = panjang gelombang tali (m)
+T = periode (s)
+f  = frekuensi (Hz)
+ 
+Dari Tabel 5.2, apakah kalian mendapatkan nilai cepat rambat gelombang 
+untuk tiap-tiap frekuensi? Tuliskanlah masing-masing nilai cepat rambatnya. 
+Faktor-faktor apakah yang berpengaruh terhadap cepat rambat gelombang?
+3. Gelombang Bunyi
+Mengapa ada bunyi yang lemah dan keras? Apakah penyebabnya? Kalian sudah 
+mengetahui bahwa bunyi adalah gelombang longitudinal. Medium apakah yang 
+menjadi perantara bunyi? Agar dapat memahami lebih baik tentang bunyi, 
+kalian dapat melakukan aktivitas berikut.
+Aktivitas 5.3 
+Ayo Berkreasi
+Membuat Peluit Sederhana
+Pada percobaan ini kalian diajak 
+membuat peluit sederhana dari sedotan. 
+Kalian bisa menggunakan sedotan bekas 
+minuman yang dibeli di kantin sekolah.
+Gambar 5.9  Sedotan minuman yang 
+dipotong segitiga pada ujungnya.
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+147
+ 
+Potonglah sedotan menjadi tiga bagian dengan panjang yang berbeda-
+beda (misalnya 5 cm, 10 cm, dan 15 cm). Pada setiap potongan, gunting 
+salah satu ujungnya membentuk segitiga. Tekan-tekan ujung sedotan yang 
+berbentuk segitiga tersebut, letakkan pada ujung bibir, lalu tiuplah.
+ 
+Apakah peluit buatanmu menghasilkan bunyi? Apa yang menyebabkan 
+munculnya bunyi tersebut?  Apakah terdapat perbedaan bunyi pada ketiga 
+potongan sedotan?
+4. Bunyi bagi Makhluk Hidup
+Apakah semua bunyi dapat terdengar oleh telinga manusia? Apakah kalian 
+dapat mendengar suara daun yang membentur tanah saat jatuh? Jika tidak, 
+berarti suara benturan antara daun dengan permukaan tanah memiliki getaran 
+kurang dari 20 getaran per detik atau frekuensinya kurang dari 20 hertz. Pada 
+frekuensi tersebut manusia tidak dapat mendengar bunyi. Kita baru dapat 
+mendengarkan bunyi ketika benda menghasilkan frekuensi 20 hertz atau lebih.
+Berdasarkan terdengar atau tidaknya, bunyi dibagi menjadi tiga rentang 
+frekuensi, yaitu infrasonik, audiosonik, dan ultrasonik. Bunyi infrasonik memiliki 
+frekuensi kurang dari 20 Hz. Bunyi ini hanya mampu didengar oleh hewan-hewan 
+tertentu, seperti jangkrik dan anjing. Kemudian, bunyi yang memiliki frekuensi 
+dalam rentang 20-20.000 Hz termasuk bunyi audiosonik. Pada frekuensi inilah 
+manusia dapat mendengar bunyi. Selanjutnya, bunyi dengan frekuensi di atas 
+20.000 Hz disebut sebagai bunyi ultrasonik. Kelelawar, lumba-lumba, dan anjing 
+adalah contoh hewan yang dapat mendengar bunyi ultrasonik.
+Fakta Sains
+Seperti yang kita ketahui, ada hewan-hewan yang seolah dapat melihat 
+dalam gelap, contohnya kelelawar dan lumba-lumba. Kelelawar dapat 
+menangkap mangsa dalam gelap dan lumba-lumba dapat berenang di laut 
+dengan kondisi penglihatan yang terbatas (lihat Gambar 5.10). Kemampuan 
+kedua hewan tersebut seolah dapat melihat dalam gelap disebut ekolokasi. 
+Ekolokasi terdiri dari kata echo yang artinya gema dan location berarti lokasi. 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+148
+Gambar 5.10  Kelelawar dan lumba-lumba termasuk hewan yang memiliki 
+kemampuan ekolokasi. 
+Ekolokasi terjadi ketika hewan menggunakan gema untuk mengenali 
+lokasi suatu benda atau mangsa. Kelelawar dapat mengeluarkan suara 
+dengan frekuensi ultrasonik di atas 20 kHz. Suara itu akan dipantulkan 
+kembali setelah mengenai suatu objek. Suara yang dipantulkan itu akan 
+didengar oleh kelelawar sehingga kelelawar dapat mendeteksi keberadaan 
+objek tersebut. Fenomena ini seperti saat kalian berteriak di ruang kosong 
+kemudian kalian akan mendengar pantulan suara kalian sendiri. 
+Ayo Uji Kemampuan
+1. 
+Berdasarkan Aktivitas 5.1, tuliskan semua variabel/parameter bandul 
+sederhana yang telah kalian lakukan!
+2. 
+Berdasarkan hasil pada Aktivitas 5.1, apakah panjang tali yang diguna-
+kan pada bandul berpengaruh terhadap periode getaran? Bagaimanakah 
+hubungannya?
+3. 
+Apakah panjang tali yang digunakan pada bandul berpengaruh terhadap 
+frekuensi getaran?
+4. 
+Berikan contoh gelombang transversal lainnya!
+5. 
+Buatlah gra昀椀k hubungan antara panjang sedotan dan suara yang 
+dikeluarkan pada Aktivitas 5.1!
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+149
+Soal Literasi dan Numerasi
+Berdasarkan infogra昀椀s berikut, jawablah pertanyaan-pertanyaannya!
+Tsunami adalah rangkaian 
+gelombang ombak raksasa yang 
+timbul karena adanya pergeseran 
+di dasar laut. Kecepatan gelombang 
+tsunami bergantung pada kedalaman 
+laut.
+TANDA-TANDA:
+1. Terasa getaran atau gempa
+2. Penyurutan air secara tiba-tiba
+3. Suara dentuman atau gemuruh 
+dari arah laut
+4. Gelombang laut yang berbeda
+SEGERA LAKUKAN:
+1. Cari informasi terbaru
+2. Pergi ke tempat tinggi
+3. Jauhi pantai
+4. Prioritaskan keselamatan jiwa
+FAKTOR PENYEBAB:
+1. Gempa bumi di bawah laut
+2. Letusan gunung berapi
+3. Longsor bawah laut
+4. Hantaman meteor
+   
+UPAYA MITIGASI:
+1. Pemetaan kawasan rawan 
+tsunami dengan skala yang 
+cukup memadai
+2. Pembuatan green belt di 
+kawasan pantai
+3. Pemetaan tata ruang
+4. Pembuatan jalur dan tempat 
+evakuasi sampai dengan 
+sistem peringatan dini 
+tsunami
+Gambar 5.11  Infogra昀椀s tentang tsunami
+1. 
+Berdasarkan infogra昀椀k, apa yang harus dilakukan pertama kali ketika 
+merasakan getaran atau gempa?
+a. 
+Mencari informasi terbaru 
+c. 
+Menjauh dari pantai
+b. 
+Pergi ke tempat tinggi 
+d. 
+Prioritaskan keselamatan jiwa
+2. 
+Mengapa penting untuk segera pergi ke tempat tinggi setelah merasakan 
+getaran atau gempa?
+a. 
+Untuk menghindari suara dentuman
+b. 
+Untuk menghindari penyurutan air laut
+c. 
+Untuk menghindari gelombang tsunami
+d. 
+Untuk menghindari longsor bawah laut
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+150
+3. 
+Menurut infogra昀椀k, yang bukan faktor penyebab tsunami adalah ....
+a. 
+Gempa bumi di bawah laut
+b. 
+Letusan gunung berapi
+c. 
+Longsor bawah laut
+d. 
+Perubahan iklim
+4. 
+Berdasarkan infogra昀椀k, ada empat faktor penyebab tsunami. Jika dalam 
+suatu dekade tercatat 20 peristiwa tsunami dan 40% di antaranya 
+disebabkan oleh gempa bumi di bawah laut, berapa jumlah peristiwa 
+tsunami yang disebabkan oleh gempa bumi di bawah laut?
+a. 
+6 kali 
+c. 
+10 kali
+b. 
+8 kali 
+d. 
+12 kali
+Ayo Bere昀氀eksi
+Sebelum melanjutkan ke subbab berikutnya, ini saatnya kalian berhenti 
+sejenak dan kembali melihat pertanyaan-pertanyaan yang kalian diskusikan 
+di awal bab ini. 
+1. 
+Apakah kalian sudah memahami pengertian getaran dan gelombang? 
+Apakah kalian mengerti perbedaan di antara keduanya?
+2. 
+Adakah pertanyaan baru berkaitan dengan subbab gelombang yang 
+ingin kalian temukan jawabannya?
+Berdiskusi dengan teman dan guru dapat membantumu melengkapi 
+pemahaman pada materi ini. Mencari tahu dari sumber belajar lain pun 
+dapat kalian lakukan. Ayo semangat, belajar sains itu sangat menarik.
+E. 
+Cahaya dan Alat Optik
+Pernahkah kalian berpikir tentang cahaya bintang yang tampak berkelip di 
+malam yang cerah? Mengapa bintang-bintang itu tampak seperti titik-titik yang 
+menyala? Jika jarak bintang begitu jauh, mengapa sinarnya bisa sampai ke mata 
+kita? Carilah jawabannya dengan mempelajari subbab ini dengan antusias.
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+151
+1. Sifat-Sifat Cahaya
+Bintang-bintang bercahaya yang bertaburan di malam hari sungguh sangat indah 
+dipandang. Bintang-bintang tersebut seperti halnya matahari, memancarkan 
+cahayanya sendiri, bukan hasil pantulan. Berdasarkan sumber cahayanya, 
+semua benda dibagi menjadi dua, yaitu benda yang mampu memancarkan 
+cahayanya sendiri dan benda yang tidak dapat memancarkan cahaya sendiri. 
+Benda yang tidak dapat memancarkan cahayanya sendiri, seperti bulan, tampak 
+bercahaya akibat proses pemantulan cahaya. Dapatkah kalian mencari contoh 
+benda-benda lain yang dapat memancarkan cahaya sendiri dan yang tidak? Saat 
+kalian memerhatikan bintang di langit yang berkerlip terang, cobalah lakukan 
+aktivitas sederhana berikut!
+Aktivitas 5.4 
+Ayo Bereksperimen
+Mengintip Cahaya Bintang
+Kalian akan mencoba mengintip kerlip bintang dengan salah satu mata. 
+Lakukanlah langkah-langkah berikut.
+1. 
+Carilah tiga lembar kertas yang tebal dengan ukuran 20 cm × 20 cm. 
+2. 
+Buatlah satu buah lubang pada masing-masing kertas dengan ukuran 
+sebesar diameter pensil (lihat Gambar 5.12). 
+3. 
+Pilihlah waktu dan tempat di mana kalian dapat melihat kerlip bintang 
+dengan jelas.
+4. 
+Carilah bintang yang paling terang sehingga dapat dilihat melalui lubang 
+salah satu kertas.
+5. 
+Ambil selembar kertas lain dan sejajarkan dengan lubang kertas pertama 
+pada jarak satu jengkal sehingga bintang tersebut masih dapat terlihat 
+jelas. Apakah kalian dapat melihat cahaya bintang yang sama terang 
+menggunakan dua penghalang kertas? 
+6. 
+Ambil selembar kertas lain, geser sedikit kertas yang paling dekat dengan 
+mata sehingga dua lubang kertas lainnya menjadi tidak sejajar! Apakah 
+kalian masih dapat melihat cahaya bintang yang diamati tadi? Jika tidak, 
+mengapa bisa demikian? Dapatkah kalian menyimpulkannya?
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+152
+Gambar 5.12  Percobaan mengamati fenomena perambatan cahaya
+Catatan: Jika kalian tidak dapat melihat bintang dengan jelas, kalian dapat 
+menggantinya dengan api lilin sebagai sumber cahaya.
+Percobaan yang telah kalian lakukan menunjukkan bahwa cahaya yang 
+dipancarkan bintang merambat lurus hingga mencapai mata. Meski kalian 
+mengubah posisi saat melihat, kerlip bintang akan tetap terlihat sama terang 
+dengan frekuensi kerlip yang sama selama tidak ada yang menghalangi cahayanya. 
+Hal tersebut menunjukkan salah satu sifat cahaya, yaitu merambat lurus.
+Saat kalian melihat kerlip bintang, bawalah sebuah cermin kecil dan 
+selembar kertas putih. Coba arahkan cermin ke langit sehingga kalian bisa 
+melihat bintang yang bersinar terang di dalam cermin. Mengapa bisa demikian? 
+Sekarang, gantilah cermin dengan selembar kertas putih. Apakah kalian bisa 
+melihat bintang pada kertas tersebut? Mengapa demikian?
+Salah satu sifat cahaya lainnya adalah dapat dipantulkan jika menumbuk 
+permukaan bidang benda. Pemantulan cahaya dapat berupa pemantulan baur/
+tidak teratur dan pemantulan teratur. Pemantulan baur dapat terjadi jika cahaya 
+dipantulkan oleh bidang yang tidak rata/tidak halus, seperti kertas, kayu, dan 
+tembok. Sedangkan, pemantulan teratur terjadi jika cahaya dipantulkan oleh 
+bidang yang rata dan licin seperti cermin. Pada pemantulan baur dan teratur, 
+sudut pantulan cahaya besarnya akan selalu sama dengan sudut datangnya 
+cahaya terhadap garis normal (Gambar 5.13). Garis normal adalah garis vertikal 
+yang tegak lurus bidang permukaan di titik sinar datang itu jatuh.
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+153
+Bidang pantul
+Garis 
+normal
+Sudut 
+datang
+Sudut 
+pantul
+Sinar 
+datang
+Sinar 
+pantul
+Pemantulan teratur
+Pemantulan baur (difus)
+Hukum Pemantulan Cahaya
+Gambar 5.13  Pemantulan Baur dan Teratur
+Sekarang, kita akan menyelidiki sifat cahaya lainnya. Apakah di dekat 
+sekolah/tempat tinggalmu masih ada sungai yang airnya bersih dan jernih? 
+Apakah terlihat batu-batuan di dasar sungai? Jika iya, cobalah kalian ambil batu 
+tersebut jika sungainya tidak terlalu dalam. Menurutmu, apakah kedalaman 
+batu tersebut sama antara saat batu dilihat dari atas air dengan kedalaman 
+sebenarnya saat kalian mengambilnya di dalam air? Jika tidak sama, mengapa 
+bisa demikian? Coba lakukan aktivitas berikut yang akan membantu kalian 
+dalam menemukan jawabannya.
+Aktivitas 5.5 
+Ayo Bereksperimen
+Sulap Mematahkan Pensil
+Ambillah sebuah gelas kaca berukuran sedang. 
+Isilah dengan air minum sebanyak dua per tiga 
+tinggi gelas. Masukkan sebuah pensil ke dalam gelas 
+tersebut. Lihatlah pensil dari atas gelas. Bagaimana 
+penampakan pensil tersebut? Kemudian, lihatlah dari 
+sisi kanan dan kiri gelas. Tuliskanlah pengamatanmu!
+Gambar 5.14  Fenomena pembiasan 
+pensil di dalam gelas.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+154
+Fenomena yang kalian amati pada aktivitas di atas adalah salah satu sifat 
+lain yang dimiliki cahaya, yaitu dapat dibiaskan. Dibiaskan bermakna bahwa 
+perambatan cahaya dapat dibelokkan dari arah sumber awal. Sifat pembiasan 
+dapat terjadi ketika cahaya melalui dua medium yang memiliki kerapatan optik 
+(atau disebut juga ‘indeks bias’) yang berbeda. Kecepatan cahaya akan menurun 
+saat ia merambat dari medium dengan kerapatan rendah (seperti udara) ke 
+medium yang lebih rapat (seperti air atau kaca). Semakin besar perubahan 
+kecepatan cahaya saat melalui dua medium berbeda, akan semakin besar pula 
+efek pembiasan yang terjadi. Namun, pembiasan tidak akan terjadi saat cahaya 
+masuk dengan posisi tegak lurus bidang batas kedua medium. Mengapa demikian?
+Pernahkah kalian berpikir bagaimana cahaya bintang di langit malam 
+yang cerah bisa sampai ke bumi? Bukankah jarak bintang-bintang tersebut 
+begitu jauh? Bagaimana cahaya bintang-bintang itu merambat hingga bumi? 
+Apakah memerlukan medium untuk merambat? Apakah kekuatan sinarnya 
+akan berkurang?
+Cahaya bintang yang kalian lihat pada malam hari bukanlah cahaya yang 
+dipancarkan pada hari saat cahaya bintang tersebut terlihat. Cahaya bintang yang 
+kalian lihat adalah pancaran cahaya jutaan tahun sebelumnya. Cahaya bintang 
+merambat lurus ke segala arah menembus ruang dan waktu karena salah satu 
+sifat cahaya lainnya adalah cahaya termasuk gelombang elektromagnetik. Artinya, 
+perambatan cahaya tidak memerlukan medium seperti halnya gelombang tali atau 
+suara. Kekuatan cahaya dapat berkurang semenjak ia dipancarkan oleh bintang 
+sebagai sumber cahaya. Mengapa demikian? Karena saat merambat, cahaya 
+bintang membawa energi gelombang elektromagnetik yang dapat berkurang 
+selama perjalanan, meski hanya sedikit. Kira-kira apa yang menyebabkan 
+energi gelombang elektromagnetik cahaya bintang berkurang? Dapatkah kalian 
+menyebutkan contoh gelombang elektromagnetik dalam kehidupan sehari-hari?
+Pada Gambar 5.15, dapatkah kalian menunjukkan gelombang elektro magnetik 
+manakah yang memiliki panjang gelombang terpendek? Kemudian amati posisi 
+gelombang elektromagnetik cahaya tampak. Cahaya tampak memi liki panjang 
+gelombang di pertengahan. Cahaya tampak termasuk gelombang elektromagnetik 
+yang dapat kita lihat melalui mata telanjang, seperti cahaya pelangi. Mengapa 
+bisa demikian? Mengapa mata kita tidak dapat melihat gelombang radio?
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+155
+Gambar 5.15  Pembagian gelombang elektromagnetik berdasarkan panjang 
+gelombangnya dalam satuan nanometer (1/1.000.000.000 m). 
+Sumber: NASA/wikipedia.org (2007)
+2. Indra Penglihatan
+Tahukah kalian, mengapa kita dapat melihat benda-benda pada siang hari 
+dengan sangat jelas? Mengapa saat malam hari tanpa penerangan kita tidak 
+dapat melihat dengan jelas? Mengapa kita bisa melihat bermacam-macam 
+warna benda? Mengapa orang yang buta warna sulit membedakan beberapa 
+warna? Semua hal tersebut membuktikan ada kaitan antara cahaya dan indra 
+penglihatan kita sebagai manusia.
+Secara prinsip, kita dapat melihat benda yang berwarna-warni karena ada 
+cahaya tampak yang diterima oleh mata kita. Cahaya tampak tersebut mengenai 
+benda lalu terpantul menuju mata kita. Oleh sebab itu, kita bisa melihat benda-
+benda di sekitar dengan beraneka warna. Jika tidak ada sumber cahaya yang 
+memantul ke mata kita, kita tidak dapat melihat apa pun, segalanya menjadi 
+serbagelap. Indra penglihatan dan sumber cahaya di sekitar kita merupakan 
+bukti anugerah dari Tuhan Yang Maha Esa yang perlu kita syukuri dan pelihara.
+Warna-warna cahaya yang dapat dilihat oleh mata sangat bergantung pada 
+panjang gelombang cahaya yang masuk ke mata. Misalkan, cahaya hijau yang 
+memiliki panjang gelombang sekitar 500 nm (nanometer) akan dapat terlihat 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+156
+apabila benda-benda yang berwarna hijau menyerap semua spektrum cahaya 
+selain panjang gelombang 500 nm. Jadi, dapat disimpulkan bahwa suatu benda 
+dipersepsi atau dilihat memiliki warna tertentu adalah karena benda tersebut 
+menyerap cahaya warna lain dan memantulkan warna cahaya dengan panjang 
+gelombang rentang tertentu. Sifat ini terkait dengan sifat-sifat optik dan struktur 
+molekuler pada benda tersebut.
+Selain dari gelombang cahaya yang memantul ke mata, kita juga perlu 
+memahami struktur mata itu sendiri. Karena tanpa mata yang sehat, kita juga 
+tidak dapat melihat benda-benda dengan berbagai warna.
+Organ mata manusia merupakan kebesaran Tuhan Yang Maha Esa. Mata 
+tersusun atas beberapa bagian yang saling melengkapi. Mata kita dibalut oleh 
+tiga lapis jaringan yang memiliki fungsi dan ketebalan berbeda. Lapisan luar 
+adalah lapisan sklera. Lapisan inilah yang membentuk kornea. Kemudian, 
+lapisan tengah disebut sebagai lapisan koroid. Lapisan ini membentuk iris mata. 
+Terakhir, lapisan ketiga yang disebut lapisan dalam atau retina mata. Untuk 
+lebih jelasnya, perhatikanlah gambar berikut!
+Sklera
+Iris
+Pupil
+Kornea
+Lensa
+Aqueous humor
+Otot siliaris
+Vitreous 
+humor
+Bintik buta
+Saraf optik
+Pembuluh 
+darah
+Retina
+Koroid
+Gambar 5.16  Bagian-Bagian Mata
+Sumber: macrovector/shutterstock.com
+Lapisan sklera membentuk putih mata dan bersambung dengan bagian 
+depan yang bening yang disebut kornea. Cahaya dari sumber masuk ke mata 
+melalui kornea. Lapisan kornea mata terluar bersifat kuat dan tembus cahaya. 
+Kornea memiliki fungsi melindungi bagian sensitif yang berada di belakangnya 
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+157
+dan membantu memfokuskan bayangan pada retina. Setelah melewati kornea, 
+selanjutnya cahaya menuju pupil. Pupil adalah bagian berwarna hitam yang 
+merupakan jalan masuk cahaya ke dalam mata. Pupil dikelilingi oleh iris. 
+Sekarang, kalian mengetahui bahwa warna mata sebenarnya adalah warna 
+iris. Setelah melewati pupil, cahaya merambat menuju lensa mata. Lensa mata 
+bersifat 昀氀eksibel. Otot siliar yang ada di dalam mata akan membantu mengubah 
+kecembungan lensa matamu.
+Cahaya yang melewati lensa mata akan mengalami pembiasan atau 
+pembelokan agar cahaya jatuh tepat di retina. Retina merupakan sel yang sensitif 
+terhadap cahaya, berupa sel saraf penerima rangsang cahaya atau disebut sel 
+fotoreseptor. Retina terdiri atas dua macam sel fotoreseptor, yaitu sel batang dan 
+kerucut. Sel kerucut membuat kalian dapat melihat berbagai warna, sedangkan 
+sel batang akan menunjukkan responsnya ketika berada di tempat yang redup. 
+Cacat/kekurangan pada sel kerucut akan berpengaruh terhadap kemampuan 
+seseorang dalam membedakan warna, atau dikenal sebagai buta warna.
+3. Alat Optik
+Mata manusia dapat mengalami gangguan penglihatan. Untuk itu, manusia 
+menciptakan alat-alat yang dapat membantu dalam penglihatan. Dapatkah 
+kalian menyebutkan apa saja alat bantu penglihatan itu dan apa fungsinya?
+Sel kerucut
+Sel optik
+Retina
+Cahaya
+Sel batang
+Gambar 5.17  Sel Kerucut dan Sel Batang pada Retina Mata
+Sumber: Sakurra/shutterstock.com
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+158
+Salah satu alat bantu penglihatan, atau dikenal sebagai alat optik, yang akan 
+kita bahas berikut ini adalah teleskop. Teleskop adalah alat optik yang dapat 
+membuat benda-benda yang berada pada tempat yang sangat jauh menjadi 
+terlihat lebih jelas, contohnya untuk melihat bintang. Perhatikan Gambar 5.18! 
+Teleskop sederhana merupakan kombinasi antara dua lensa cembung yang 
+terletak pada bagian dalam badan teropong. Lensa yang lebih besar disebut 
+sebagai lensa objektif, sedangkan yang lebih kecil adalah lensa okuler (lensa 
+yang berada di dekat mata). Lensa objektif membentuk sebuah bayangan dan 
+kemudian bayangan tersebut akan diperbesar oleh lensa okuler.
+Lensa objektif
+(lensa cembung)
+Sinar 
+datang
+Lensa okuler
+(lensa cembung)
+Gambar 5.18  Prinsip Kerja Teleskop.
+Saat sedang meneropong benda langit seperti bintang atau galaksi, kita 
+memerlukan perbesaran teropong yang lebih tinggi. Untuk jarak jutaan tahun 
+cahaya, teleskop yang digunakan pun harus berukuran besar seperti yang 
+dimiliki oleh Badan Penerbangan dan Antariksa Amerika Serikat, NASA. Teleskop 
+tersebut memiliki kemampuan untuk melihat galaksi Andromeda dengan lebih 
+jelas. Menariknya, teleskop tersebut mengorbit di luar angkasa dan dikontrol 
+oleh stasiun pengontrol di bumi.
+Gambar 5.19  Teleskop Hubble milik 
+NASA dapat melihat galaksi yang 
+berjarak jutaan tahun cahaya.
+Sumber: shutterstock.com/Juergen Faelchle
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+159
+Tahukah kalian, bagaimana foto Galaksi Andromeda pada bagian awal 
+buku ini dapat direkam? Ya, benar. Kita memerlukan teknologi optik lain, yaitu 
+kamera. Pada prinsipnya, kamera bekerja seperti halnya mata kita. Kamera 
+membutuhkan pantulan cahaya yang masuk ke dalam sistem lensanya. Gambar 
+yang ditangkap kemudian direkam dalam medium yang sensitif terhadap cahaya 
+(lihat Gambar 5.20). Kalau dahulu kita mengenalnya dengan rol 昀椀lm, tetapi 
+saat ini gambar-gambar yang ditangkap lensa kamera telah dapat dikonversi 
+menjadi data digital sehingga dapat langsung ditampilkan pada layar kamera. 
+Bayangan
+Film
+Lensa
+Aperture
+Pengatur 
+fokus
+Shutter
+Pengatur 
+fokus
+Gambar 5.20  Pembentukan bayangan pada kamera manual.
+Sumber: commons.wikimedia.org/Martin Taylor (2005)
+Untuk dapat merekam gambar Galaksi Andromeda, kamera digital perlu 
+dikombinasikan dengan teropong sebagai alat untuk menangkap pantulan 
+cahaya yang berjarak sangat jauh. Teleskop yang terkenal untuk mendapatkan 
+foto-foto galaksi di luar angkasa adalah teleskop Hubble yang dimiliki oleh 
+NASA. Hingga kini NASA memiliki teleskop tercanggih bernama teleskop luar 
+angkasa James Webb, guna melihat objek yang terlalu redup untuk ditangkap 
+oleh teleskop Hubble.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+160
+Fakta Sains
+Teleskop Hubble dan Penerusnya Teleskop James Webb
+Teleskop James Webb (JWST) adalah penerus dari misi besar teleskop Hubble 
+yang telah berhasil memberikan gambaran luar biasa tentang alam semesta 
+kita selama lebih dari tiga dekade. JWST diluncurkan pada 25 Desember 
+2021 dan diharapkan dapat mengungkap misteri alam semesta yang belum 
+bisa dijelajahi oleh Hubble. Nama James Webb diambil dari nama seorang 
+pimpinan NASA periode 1961-1968, yaitu James E. Webb, yang berperan 
+besar selama misi Mercury, Gemini, dan Program Apollo.
+JWST adalah hasil dari kerja sama internasional yang dipimpin oleh 
+NASA, dengan kontribusi signi昀椀kan dari European Space Agency (ESA) dan 
+Canadian Space Agency (CSA). Teleskop ini menggunakan cermin utama 
+berdiameter 6,5 meter, jauh lebih besar daripada Hubble yang hanya 
+berukuran 2,4 meter. Diameter yang besar ini memungkinnya mengumpulkan 
+lebih banyak cahaya dan melihat lebih ke dalam alam semesta.
+Gambar 5.21  Teleskop James Webb
+Sumber: NASA GSFC, CIL, Adriana Manrique Gutierrez/昀氀ickr.com (2021)
+Salah satu inovasi terbesar JWST adalah kemampuannya untuk mengamati 
+spektrum inframerah. Teknologi ini memungkinkan JWST menembus debu 
+kosmik yang bisa menghalangi pandangan teleskop lain dan mengungkap
+  Bab V Manfaat Gelombang dan Cahaya 
+bagi Manusia
+161
+objek yang sebelumnya tidak terlihat, seperti bintang dan galaksi yang 
+terbentuk di awal alam semesta. Untuk menjaga sensitivitas instrumennya, 
+JWST dilengkapi dengan perisai matahari seukuran lapangan tenis, yang 
+melindunginya dari cahaya dan panas matahari.
+Misi utama JWST meliputi mencari tanda-tanda kehidupan di planet lain, 
+mengamati pembentukan dan evolusi galaksi, serta mempelajari bintang-
+bintang dan sistem planetnya. Dengan kapabilitasnya, JWST diharapkan dapat 
+menjawab beberapa pertanyaan mendasar tentang asal-usul alam semesta.
+Meski JWST sering dijuluki sebagai “penerus Hubble”, kedua teleskop 
+ini lebih berperan sebagai pelengkap daripada menggantikan satu sama 
+lain. Hubble terus beroperasi di orbit bumi, fokus pada cahaya tampak dan 
+ultraviolet, sementara JWST akan melihat alam semesta dalam inframerah 
+pada jarak sekitar 1,5 juta kilometer dari bumi. Perbedaan ini memungkinkan 
+keduanya bersama-sama memberikan gambaran yang lebih lengkap tentang 
+alam semesta, mulai dari bintang dan planet di tata surya kita sendiri hingga 
+galaksi paling jauh dan tertua yang dapat diamati.
+Teleskop James Webb membuka bab baru dalam ilmu astronomi. Dengan 
+teknologi canggihnya, teleskop ini diharapkan tidak hanya melanjutkan 
+warisan Hubble dalam mengungkap keajaiban alam semesta, tetapi juga 
+mengungkap rahasia baru yang selama ini tersembunyi dalam gelapnya 
+ruang angkasa.
+Sumber: NASA/science.nasa.gov (2021); ESA/esa.int (2021)
+Ayo Uji Kemampuan
+1. 
+Dapatkah kalian menyebutkan sifat-sifat cahaya dan cara membukti-
+kannya?
+2. 
+Bagaimana cara melihat dan merekam gambar Galaksi Andromeda 
+yang terdapat pada bagian awal bab ini? Jelaskan dengan pengetahuan 
+yang kalian dapat!
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+162
+Projek Akhir Bab
+Carilah informasi tentang sejarah dan cara membuat kamera obscura 
+sederhana. Gunakan bahan-bahan yang mudah diperoleh. Kalian juga 
+dapat menggunakan berbagai media layar untuk mendapatkan pantulan 
+gambar yang lebih jelas, misalkan tembok atau layar dari kain. Gambar 5.21 
+menunjukkan contoh kamera obscura sederhana. Tuliskan semua tahap 
+pembuatannya disertai hasil gambar pantulannya. Tuliskan pula kendala 
+yang kalian hadapi saat membuatnya beserta solusinya. Selamat mencoba 
+dan berkreasi!
+Ruang gelap
+Lubang kecil 
+agar cahaya 
+masuk
+Objek 
+sebenarnya
+A
+Bayangan 
+terbalik
+Gambar 5.22  Kamera obscura sederhana dengan bahan-bahan sederhana 
+berupa kotak kayu yang dilubangi.
+Ayo Bere昀氀eksi
+Di sinilah akhir dari petualangan kita mempelajari manfaat gelombang dan 
+cahaya bagi manusia. Sekarang, saatnya kalian melihat lagi sejauh mana 
+pengetahuan dan pemahaman yang kalian dapat. Apakah ada pertanyaan 
+yang belum terjawab setelah kalian mempelajari bab ini?
+1. 
+Apakah hal terpenting yang kalian pelajari pada bab ini?
+2. 
+Kegiatan pembelajaran manakah yang paling menambah pemahaman 
+kalian tentang konsep cahaya?
+3. 
+Sikap apakah yang kalian kembangkan dalam bab ini dikaitkan dengan 
+berbagai Pro昀椀l Pelajar Pancasila?
+Bab VI
+Pemisahan Campuran
+di Sekitar Kita
+Bagaimana cara memperoleh garam dari air laut?
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2024
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VIII (Edisi Revisi)
+Penulis : Okky Fajar Tri Maryana, dkk.
+ISBN 
+: 978-623-388-560-7 (jil.2 PDF)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+164
+Sepanjang pembelajaran dalam bab ini akan melatih kemampuanmu untuk 
+menjadi pelajar Indonesia yang bernalar kritis. Adapun saat menyelesaikan 
+projek akhir bab, kalian akan berkesempatan untuk menunjukkan rasa 
+syukur kepada Tuhan Yang Maha Esa melalui inisiatif menyelesaikan 
+permasalahan lingkungan yang dapat dituntaskan dengan menggunakan 
+metode pemisahan campuran yang tepat.
+• zat
+• campuran
+• sifat 昀椀sik
+• campuran homogen
+• campuran heterogen
+Tujuan Pembelajaran
+Kata Kunci
+Peta Konsep
+Campuran
+Campuran Homogen
+Campuran Heterogen
+Metode Pemisahan 
+Campuran
+Partikel Tidak 
+Larut/Heterogen
+Partikel Larut/
+Homogen
+Larutan
+• Partikel penyusun tidak 
+dapat dibedakan oleh 
+mata.
+• Memiliki komposisi 
+partikel penyusun yang 
+sama dalam setiap 
+bagian campuran.
+• Partikel penyusun dapat 
+dibedakan oleh mata.
+• Memiliki komposisi 
+partikel penyusun yang 
+tidak sama dalam setiap 
+bagian campuran.
+Air teh,
+larutan 
+gula
+Campuran air 
+dan minyak, 
+campuran air 
+dan pasir
+• Dekantasi
+• Pengayakan/
+penyaringan
+• Sentrifugasi
+• Pemisahan 
+magnetis
+• Evaporasi dan 
+kristalisasi
+• Distilasi/
+penyulingan
+• Kromatogra昀椀
+Suspensi
+Koloid
+ciri-cirinya:
+ciri-cirinya:
+bentuknya
+bentuknya
+contohnya
+contohnya
+dibedakan menjadi
+contohnya
+contohnya
+untuk memisahkan 
+campuran dengan
+dipisahkan melalui
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+165
+Meski menjadi negara dengan garis pantai terpanjang di dunia, ternyata 
+Indonesia bukanlah negara penghasil garam terbesar di dunia. Bahkan, Indonesia 
+diketahui sebagai pengimpor garam. Bagaimana hal ini bisa terjadi? Bagaimana 
+garam dapat dipisahkan dari air laut? 
+Apakah garam hanya dapat dibuat di 
+daerah pantai?
+Ayo, mulailah mengamati permasa­
+lahan di lingkungan sekitarmu dan 
+pelajari bab ini dengan cermat.
+ 
+Sebelum membahas bab ini lebih lanjut, diskusikan dengan teman di 
+sebelahmu untuk menjawab pertanyaan­pertanyaan berikut.
+1. 
+Anton tidak sengaja menjatuhkan kotak berisi kacang hijau ke dalam baskom 
+berisi tepung terigu. Usulkan cara agar Anton dapat memisahkan kacang 
+hijau dan tepung terigu.
+2. 
+Udara yang sangat panas membuat Lintang ingin membuat es teh manis. 
+Ia memasukkan es batu, gula pasir, dan bubuk teh ke dalam gelas berisi 
+air putih secara bersamaan. Menurutmu, apa yang akan terjadi? Apakah 
+Lintang berhasil membuat es teh manis?
+3. 
+Gula dapat larut dalam air. Jika gula terus­menerus ditambahkan ke dalam 
+air yang jumlahnya tetap, apa yang akan terjadi? 
+4. 
+Pak Buyung mendapatkan oleh­oleh dari teman kerjanya berupa kopi bubuk 
+khas Lampung. Jika ingin membuat kopi tanpa ampas, apa yang harus Pak 
+Buyung lakukan? 
+Setelah berdiskusi, kalian dapat bertukar teman diskusi untuk melengkapi 
+jawaban atau mencari informasi baru yang belum kalian ketahui sebelumnya. 
+A. 
+Campuran di Sekitar Kita
+Apa yang terlintas di pikiranmu ketika mendengar atau membaca kata 
+“campuran”? Menurutmu, mengapa kalian perlu mempelajarinya? Untuk 
+mengenali campuran di sekitarmu, lakukan aktivitas berikut. 
+Pertanyaan apakah yang ingin 
+kalian temukan jawabannya 
+dalam bab ini?
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+166
+Aktivitas 6.1 
+Ayo Amati
+Mengenal Campuran di Sekitar Kita
+A. Perhatikanlah gambar berikut!
+a
+c
+b
+d
+Gambar 6.1  Rujak, campuran pasir dan kerikil, air kopi, dan air teh adalah 
+contoh campuran di sekitar kita.
+Sumber: (a) Shan/pixabay.com, (b) Anita Tóth/pixabay.com, (c) Karolina Grabowska/pixabay.com,       
+(d) Couleur/pixabay.com
+1. 
+Dapatkah kalian menemukan persamaan dari keempat gambar 
+yang diberikan? Apa persamaannya?
+2. 
+Dari persamaan tersebut, menurutmu apakah campuran itu?
+Diskusikan jawabanmu dengan teman­temanmu. Apakah kalian me­
+nemukan jawaban yang sama?
+B. 
+Berdasarkan pendapatmu mengenai campuran, sekarang carilah 
+campuran lain yang ada di sekitarmu. Adakah campuran yang kalian 
+temukan? Gambarkan campuran tersebut! 
+1. 
+Mengapa kalian menyebutnya campuran? Jelaskan alasannya!
+2. 
+Dari aktivitas kedua ini, apakah pendapatmu tentang campuran 
+masih sama? Jika ada yang berubah, tuliskan kembali arti campuran 
+yang kalian temukan saat ini!
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+167
+Diskusikan kembali dengan teman­temanmu. Apakah kalian mendapat­
+kan kesimpulan yang sama?
+Setelah melakukan Aktivitas 6.1, kalian tentu sudah mendapatkan gambaran 
+mengenai campuran yang akan kita pelajari di bab ini. Campuran bukanlah 
+benda atau zat yang sulit ditemukan. Setiap hari kita bertemu dengan campuran. 
+Campuran bisa jadi sangat bermanfaat bagi kehidupan kita. Ayo cari tahu lebih 
+lanjut. 
+1. Apakah Campuran Itu?
+Lakukan aktivitas berikut bersama teman kelompokmu untuk lebih memahami 
+tentang de昀椀nisi campuran.
+Aktivitas 6.2 
+Ayo Bereksperimen
+Membedakan Campuran
+Alat dan bahan:
+1. 
+4 buah gelas
+2. 
+3 buah sendok makan
+3. 
+Kertas label
+4. 
+Pulpen atau pensil
+5. 
+Air bersih 
+6. 
+Gula pasir
+7. 
+Minyak goreng
+8. 
+Pasir
+Langkah percobaan:
+1. 
+Isi keempat gelas dengan air bersih hingga setengah tinggi gelas. Beri 
+tanda tiap gelas dengan kertas label, tuliskan angka 1 hingga 4 untuk 
+masing­masing gelas.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+168
+Gambar 6.2  Empat gelas diberi tanda angka.
+2. 
+Pada gelas nomor 2, masukkan 4 sendok makan gula pasir. Pada gelas 
+nomor 3, masukkan 4 sendok makan minyak goreng, dan pada gelas 
+nomor 4, masukkan 4 sendok makan pasir.
+Gambar 6.3  Tiga gelas diberi zat tambahan.
+3. 
+Aduk ketiga gelas tersebut dan amati. Gambarkan hasil pengamatanmu.
+4. 
+Catat hasil pengamatanmu, apakah gula, minyak, dan pasir masih dapat 
+terlihat?
+5. 
+Bandingkan dengan gelas nomor 1 sebagai gelas kontrol. Apa saja 
+perbedaan yang tampak?
+6. 
+Dari hasil pengamatan, menurutmu gelas mana yang disebut campuran 
+dan bukan campuran?
+Campuran terdiri atas dua atau lebih zat dan tidak membentuk zat baru. 
+Meski secara 昀椀sik terlihat berbeda dengan zat penyusunnya, tetapi campuran 
+dapat dipisahkan kembali menjadi zat­zat penyusunnya dengan metode yang 
+tepat, tanpa harus melakukan perubahan kimia pada campuran tersebut.
+Mengenali campuran sangat mudah. Setumpuk sampah di rumahmu adalah 
+campuran. Ia berasal dari berbagai zat yang berkumpul menjadi satu. Sebelum 
+diolah, campuran sampah ini dipisahkan dan dikelompokkan berdasarkan 
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+169
+jenisnya, misalnya plastik, kertas, kaleng, dan kaca. Udara yang kalian hirup 
+sehari­hari juga merupakan campuran. Udara adalah campuran dari berbagai 
+gas yang ada di alam yang kemudian masuk ke tubuhmu melalui hidung.
+a
+b
+Gambar 6.4  Contoh campuran di sekitar kita: (a) campuran berbagai benda dalam 
+sampah dan (b) campuran gas di udara.
+Sumber: (a) Hans/pixabay.com, (b) UN Women/昀氀ickr.com
+Minuman berkarbonasi juga merupakan salah satu contoh campuran. 
+Minuman ini terbuat dari air, gula, gas CO2, dan bahan­bahan lain yang tercampur 
+secara homogen. Homogen artinya semua zat penyusun tercampur sempurna 
+dengan pelarutnya, sehingga setiap bagian campuran memiliki komposisi yang 
+sama. Keadaan sebaliknya dari homogen disebut heterogen. 
+2. Terdiri atas Apakah Campuran Itu?
+Seperti penjelasan sebelumnya, campuran terdiri atas lebih dari satu zat. 
+Perhatikan Gambar 6.1. Dapatkah kalian menyebutkan zat­zat yang ada di 
+dalam setiap campuran itu? 
+Sifat campuran sama dengan sifat zat­zat pembentuknya. Larutan gula yang 
+kalian buat membawa sifat air dan gula. Oleh karena itu, saat akan memisahkan 
+campuran, kalian harus mengetahui sifat bawaan setiap zat penyusunnya agar 
+dapat menentukan cara yang tepat untuk memisahkannya. Namun, sebelum 
+mengetahui sifat bawaan setiap zat penyusun campuran, kalian harus dapat 
+mengenali zat­zat penyusunnya terlebih dahulu. Ayo lakukan aktivitas berikut 
+untuk melatih kemampuanmu dalam mengenali zat penyusun suatu campuran. 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+170
+Aktivitas 6.3 
+Ayo Identi昀椀kasi
+Mengenali Zat Penyusun Campuran
+Aktivitas ini dibagi dalam lima level yang diurut berdasarkan tingkat kesu­
+litannya. Kalian dapat memilih urutan tantangan yang akan diselesaikan. 
+Kalian dianggap berhasil menuntaskan aktivitas ini apabila dapat menyele­
+saikan paling sedikit tiga tantangan. Selamat mencoba!
+Level 1: Memisahkan campuran bola
+1. 
+Kerjakan level ini secara individu. 
+2. 
+Pisahkan campuran bola yang sudah disiapkan gurumu. 
+3. 
+Tuliskan zat penyusun dari campuran bola tersebut.
+Level 2: Memisahkan campuran sampah anorganik
+1. 
+Kerjakan level ini secara berkelompok dengan partisipasi seluruh kelas. 
+2. 
+Kumpulkan sampah anorganik bersama teman sekelasmu dalam satu 
+kotak. 
+3. 
+Bagi campuran sampah tersebut sebanyak jumlah kelompok yang 
+terbentuk dalam kelasmu. 
+4. 
+Dalam setiap kelompok, pisahkan sampah berdasarkan bahan utamanya. 
+5. 
+Tuliskan zat penyusun campuran sampah anorganik tersebut dalam 
+tabel berikut. Nomor 1 dalam tabel adalah contoh.
+No.
+Zat Penyusun
+Bahan Utama
+1.
+Kotak susu
+Kertas
+Level 3: Memisahkan campuran berbentuk cairan berendapan
+1. 
+Kerjakan level ini secara berpasangan. 
+2. 
+Pisahkan cairan yang telah disiapkan gurumu. 
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+171
+3. 
+Cari cara yang tepat untuk memisahkannya, gunakan alat­alat yang ada 
+di sekitarmu jika diperlukan. 
+4. 
+Tuliskan zat penyusun cairan tersebut. 
+Level 4: Memisahkan campuran serbaputih
+1. 
+Kerjakan level ini secara berkelompok. 
+2. 
+Amati terlebih dahulu campuran yang telah disiapkan gurumu. Amati 
+juga alat­alat yang tersedia (botol air mineral bekas lengkap dengan 
+tutup botolnya, pisau/cutter, dan corong plastik). 
+3. 
+Bersama kelompokmu, diskusikan bagaimana cara untuk memisahkan 
+campuran serbuk putih itu menggunakan bahan­bahan yang disediakan. 
+4. 
+Lakukanlah pemisahan sesuai kesepakatan kelompokmu. 
+5. 
+Tuliskan zat penyusun campuran tersebut. 
+Level 5: Memisahkan campuran cair yang lengket
+1. 
+Kerjakan level ini secara berkelompok. 
+2. 
+Amati terlebih dahulu campuran yang telah disiapkan gurumu. Amati 
+juga alat­alat yang tersedia (botol air mineral bekas lengkap dengan tutup 
+botolnya, selang kecil, pisau/cutter, corong plastik, dan botol semprot). 
+3. 
+Bersama kelompokmu, diskusikan bagaimana cara memisahkan 
+campuran cair yang lengket itu menggunakan alat yang disediakan. 
+Kalian tidak perlu menggunakan semua alat yang tersedia. 
+4. 
+Lakukanlah pemisahan sesuai kesepakatan kelompokmu. 
+5. 
+Tuliskan zat penyusun campuran tersebut. 
+Ayo Bere昀氀eksi
+1. 
+Dari tantangan yang telah kalian lakukan pada Aktivitas 6.3, bagian 
+mana yang paling kalian sukai? Jelaskan alasannya!
+2. 
+Menurutmu, manakah yang lebih kalian sukai, bekerja sendiri atau 
+bersama kelompok? 
+3. 
+Hal menarik apa yang kalian dapatkan selama melakukan Aktivitas 
+6.3 tersebut?
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+172
+Mengenali dan membedakan zat penyusun suatu campuran sangat penting 
+sebelum kita melakukan pemisahan pada campuran. Setelah mengetahui zat­
+zat penyusunnya, kalian perlu mencari tahu hal penting selanjutnya, yaitu 
+sifat­sifat zat penyusun tersebut. Sifat­sifat zat penyusun inilah yang nanti akan 
+menentukan metode pemisahan campuran yang dapat kalian pilih. Sifat zat 
+penyusun tidak berubah saat bercampur dengan zat lain. Namun, campuran 
+yang terbentuk bisa jadi berbeda dengan sifat zat­zat penyusunnya. Misalnya, 
+saat air dan garam dicampurkan, campuran yang terbentuk membawa sifat 
+garam yang asin, tetapi bentuknya mengikuti sifat air, yaitu cair. Sifat zat yang 
+penting untuk diketahui adalah sifat-sifat 昀椀siknya, misalnya kelarutan, titik 
+didih, dan titik lebur. Untuk mengingat kembali mengenai sifat­sifat zat, kalian 
+dapat mempelajarinya di Buku Siswa Ilmu Pengetahuan Alam Kelas VII dalam 
+Bab Zat dan Perubahannya. 
+Fakta Sains
+Tahukah kalian bahwa zat terlarut tidak lenyap saat larut dalam cairan 
+pelarut. Misalkan kalian melarutkan gula dalam segelas air, gula itu tetap ada 
+dalam gelas, gula hanya berubah bentuk. Coba kalian timbang sejumlah gula 
+sebelum mencampurkannya ke dalam segelas air. Kalian akan menemukan 
+bahwa berat campuran terbentuk sama dengan berat segelas air ditambah 
+dengan berat gula sebelum dilarutkan.
+Pelarut
+Zat Terlarut
+Larutan
++
+=
+Gambar 6.5  Total massa larutan selalu sama dengan massa pelarut ditambah 
+masa zat terlarut
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+173
+Ayo Uji Kemampuan
+1. 
+Gunakan kata-katamu sendiri untuk menjelaskan de昀椀nisi campuran 
+yang kalian dapatkan dari berbagai aktivitas di subbab A ini.
+2. 
+Tentukan benar atau salah dari pernyataan­pernyataan berikut.
+a. 
+Campuran memiliki sifatnya sendiri yang mungkin sama dengan 
+sifat zat­zat penyusunnya.
+b. 
+Dalam satu gelas air teh manis terdapat tiga zat penyusun.
+c. 
+Air dan minyak yang digabungkan tidak disebut campuran karena 
+tidak dapat bersatu dengan sempurna.
+d. 
+Meski tidak dapat terlihat dengan mata, air gula sebetulnya adalah 
+campuran karena terdiri atas dua zat penyusun.
+3. 
+Temukan tiga campuran di kantin sekolahmu. Identi昀椀kasi zat penyusun 
+dari ketiga campuran tersebut.
+4. 
+Berdasarkan sifat zat terlarut yang tidak hilang saat dilarutkan, 
+lengkapilah tabel berikut ini.
+Berat Pelarut (g)
+Berat Zat Terlarut (g)
+Berat Campuran 
+dalam Bentuk 
+Larutan (g)
+100
+27
+78
+295
+250
+277
+B. 
+Pembagian Campuran
+Campuran dibedakan menjadi dua kategori, yaitu campuran homogen dan 
+heterogen. Suatu campuran disebut homogen jika zat­zat penyusunnya tersebar 
+secara merata sehingga tidak dapat dibedakan secara langsung oleh mata. 
+Adapun campuran heterogen adalah campuran yang zat­zat penyusunnya tidak 
+tersebar merata sehingga sangat mudah dibedakan secara langsung. Dapatkah 
+kalian mengelompokkan campuran­campuran yang sudah dipelajari di subbab 
+A ke dalam dua kategori ini? 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+174
+Mari kenali berbagai bentuk campuran homogen dan heterogen yang sering 
+ditemui di sekitar kita.
+1. Larutan
+Larutan merupakan jenis campuran yang paling mudah dikenali. Larutan 
+terbentuk dari zat yang dilarutkan ke dalam zat pelarutnya. Perhatikan kembali 
+Aktivitas 6.2. Dalam larutan gula, gula larut dalam air sehingga air disebut 
+sebagai zat pelarut gula.
+Larutan tidak hanya terbentuk dari zat padat yang dilarutkan dalam zat cair. 
+Larutan juga dapat dibentuk dengan melarutkan zat cair ke dalam zat cair atau 
+zat gas ke dalam zat cair. Saat larut, zat terlarut tidak lenyap begitu saja. Ini dapat 
+dibuktikan dengan menimbang zat terlarut dan pelarut sebelum dicampurkan. 
+Massa larutan merupakan jumlah massa zat terlarut dan pelarutnya.
+Perhatikan gambar di samping. Air soda 
+adalah larutan yang terdiri atas gula, perasa, 
+pewarna, dan gas karbon dioksida dengan 
+pelarut air. Gula merupakan zat padat, 
+perasa dan pewarna umumnya berbentuk 
+cair, sedangkan karbon dioksida adalah zat 
+gas. Jadi, dalam larutan air soda, terdapat 
+tiga bentuk zat yang terlarut dalam air.
+Gambar 6.6  Air soda merupakan larutan.
+Sumber: Eddy Tor Channarong/shutterstock.com
+Larutan memiliki konsentrasi tertentu berdasarkan jumlah zat terlarut 
+yang ditambahkan ke dalam zat pelarut dengan volume tertentu. Suatu 
+larutan dikatakan larutan encer jika jumlah zat terlarutnya sedikit. Jika zat 
+terlarut terus ditambahkan, larutan akan menjadi pekat. Jika zat terlarut terus­
+menerus ditambahkan hingga titik tertentu sehingga pelarut tidak lagi dapat 
+melarutkannya, larutan ini disebut sebagai larutan jenuh. Contoh larutan jenuh 
+adalah karamel yang merupakan hasil pelarutan sejumlah besar gula di dalam 
+air. Contoh lain dari larutan jenuh adalah larutan garam jenuh dan larutan 
+logam jenuh. Gambar 6.7 mengilustrasikan keadaan konsentrasi larutan.
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+175
+Encer
+Pekat
+Jenuh
+Zat terlarut sedikit, 
+semua dapat larut.
+Zat terlarut banyak, 
+sudah tidak dapat 
+larut lagi.
+Zat terlarut berlebihan, 
+sebagian mengendap di 
+dasar gelas.
+GULA
+Gambar 6.7  Keadaan Konsentrasi Larutan
+Zat pelarut bukan hanya air. Tabel berikut adalah contoh larutan dengan zat 
+pelarut dan pasangan zat terlarutnya.
+Tabel 6.1  Contoh Larutan dan Penyusunnya
+Zat Terlarut
+Zat Pelarut
+Kegunaan 
+Gas karbon dioksida
+Air
+Minuman berkarbonasi
+Natrium klorida
+Air
+Cairan pembersih lensa
+Metanol
+Alkohol murni
+Cairan pembersih cat minyak
+Kelarutan suatu zat dapat dipengaruhi oleh berbagai kondisi. Lakukanlah 
+aktivitas berikut untuk lebih memahami pernyataan ini. 
+Aktivitas 6.4 
+Ayo Bereksperimen
+Luas Permukaan dan Kelarutan
+1. 
+Buat dugaan awal, mana yang lebih cepat larut, gula pasir atau gula batu? 
+2. 
+Siapkan alat dan bahan berikut.
+a. 
+2 buah gula kotak/gula batu dengan ukuran yang sama (ukur dengan 
+timbangan untuk memastikan beratnya sama). 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+176
+b. 
+Jika tidak ada gula kotak/gula batu, dapat menggunakan gula pasir 
+dengan berat yang sama (misalnya masing­masing 20 gram). 
+c. 
+2 buah gelas berisi air dengan suhu dan volume yang sama.
+d. 
+2 lembar kertas saring yang sudah diukur beratnya.
+e. 
+Timbangan
+f. 
+Sendok atau pengaduk
+3. 
+Hancurkan 1 buah gula kotak/gula batu. Jika menggunakan gula pasir, 
+tumbuk gula pasir agar lebih halus. 
+4. 
+Masukkan gula yang sudah ditimbang ke dalam setiap gelas.
+5. 
+Aduk selama 10 detik dengan kecepatan dan kekuatan yang sama. 
+6. 
+Saring dan timbang gula yang tersisa pada kertas saring dan catat 
+hasilnya.
+Gambar 6.8  Gula berbentuk kotak dan serbuk dilarutkan dalam kondisi 
+yang sama.
+Pertanyaan:
+1. 
+Gula berbentuk kotak yang dihancurkan atau gula pasir yang ditumbuk 
+memiliki luas permukaan yang lebih besar. Jelaskan apa dampak luas 
+permukaan yang lebih besar ini pada kelarutan gula dalam air?
+2. 
+Menurutmu, mengapa suhu dan banyaknya air yang digunakan harus 
+sama? 
+3. 
+Apa yang terjadi jika dua gula berbentuk kotak yang luas permukaannya 
+sama dimasukkan ke dalam dua gelas yang suhu airnya berbeda?  
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+177
+Gula yang luas permukaannya lebih besar akan lebih mudah larut. Demikian 
+juga, suhu air yang lebih tinggi akan mempermudah proses pelarutan gula. Pada 
+saat semua gula larut dalam air, gula sudah tidak dapat diamati lagi oleh mata. 
+Oleh karena itu, larutan gula termasuk campuran homogen. 
+2. Suspensi
+Dalam Aktivitas 6.2, campuran antara air dan pasir tidak disebut sebagai larutan, 
+tetapi suspensi. Coba kembali amati hasil pengamatan kalian. Apa perbedaan 
+campuran air dan pasir dengan larutan air dan gula?
+Partikel gula dalam larutan gula ukurannya relatif sama dengan partikel 
+air sebagai pelarutnya sehingga gula dapat dilarutkan sempurna. Pada suspensi 
+pasir, partikel pasir lebih besar daripada partikel air sehingga saat diaduk 
+partikel pasir ini masih dapat terlihat. Jika suspensi ini didiamkan selama 
+beberapa waktu, pasir kembali terpisah dengan air dan membentuk endapan 
+di dasar gelas. Contoh suspensi yang lain adalah beberapa jenis obat­obatan dan 
+cat minyak. Suspensi dapat dipisahkan dengan metode penyaringan sederhana.
+Gambar 6.9  Campuran pasir dalam air yang membentuk suspensi.
+3. Koloid
+Campuran koloid merupakan jenis campuran di antara larutan dan suspensi. 
+Meski memiliki sifat yang hampir mirip dengan suspensi, saat campuran 
+koloid didiamkan, kemampuannya menahan zat terlarut relatif lebih lama 
+dibandingkan suspensi. Susu dan tinta adalah salah satu contoh koloid. Tabel 
+berikut menunjukkan contoh koloid berdasarkan tipe­tipenya.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+178
+Tabel 6.2  Contoh Koloid Berdasarkan Tipenya
+Tipe Koloid
+Wujud 
+Partikel 
+Wujud Media 
+Pendispersi
+Contoh
+Sol
+Padat
+Cair
+Darah, tinta, cat minyak
+Emulsi
+Cair
+Cair
+Susu, mayones, losion
+Buih
+Gas
+Cair
+Busa pencukur, krim kocok
+Gel
+Cair
+Padat
+Jeli, gel rambut
+Aerosol
+Cair
+Gas
+Kabut, awan, hair spray
+Aerosol padat
+Padat
+Gas
+Asap, debu di udara
+Adakah contoh koloid lain yang ada di sekitarmu? Termasuk tipe apakah koloid 
+tersebut? 
+Ayo Uji Kemampuan
+1. 
+Kelompokkan jenis campuran ini ke dalam campuran homogen atau 
+heterogen.
+a. 
+Larutan gula 
+d. 
+Tinta
+b. 
+Pasta gigi 
+e. 
+Lumpur sungai
+c. 
+Air sirop
+2. 
+Mengapa partikel terlarut dalam suspensi dapat mengendap, sedangkan 
+koloid tidak? 
+3. 
+Perhatikan keterangan pada 
+label obat di samping!
+Gambar 6.10  Obat lambung 
+harus dikocok sebelum diminum
+Sumber: Budiyanti Dwi Hardanie/
+Kemendikbudristek (2024)
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+179
+Menurutmu, mengapa obat­obatan seperti obat lambung di atas perlu 
+dikocok sebelum dikonsumsi?
+4. 
+Dari gambar berikut, tentukan gelas mana yang berisi larutan, suspensi, 
+dan koloid?
+(a)
+(b)
+(c)
+Sedimen
+Pendispersi
+Partikel 
+pelarut
+Partikel 
+terlarut
+Gambar 6.11  Perbedaan larutan, suspensi, dan koloid
+5. 
+Untuk menguji kelarutan suatu padatan yang belum diketahui, Arini 
+dan Bisma menempatkan padatan tersebut dalam gelas berisi 200 ml 
+air. Mereka bereksperimen dengan mengubah­ubah suhu air untuk 
+melihat kelarutan padatan tersebut. Hasil pengamatan Arini dan Bisma 
+ditunjukkan oleh tabel berikut. 
+Suhu (°C)
+25
+30
+45
+55
+65
+70
+75
+Padatan terlarut (g)
+17
+20
+32
+40
+46
+49
+52
+a. 
+Gambarkan diagram garis yang menjelaskan hubungan antara 
+padatan terlarut dengan perubahan suhu. 
+b. 
+Prediksi jumlah padatan terlarut pada suhu 35°C dan 85°C.
+c. 
+Buat kesimpulan dari pengamatan Arini dan Bisma.
+Ayo Bere昀氀eksi
+Sebelum melanjutkan ke subbab terakhir pada bab ini, saatnya kalian 
+berhenti sejenak. Lihatlah kembali pertanyaan­pertanyaan yang kalian 
+tuliskan pada awal bab ini. 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+180
+1. Apakah semua pertanyaan tersebut sudah terjawab? Apakah ada 
+pertanyaan baru berkaitan dengan bab ini yang ingin kalian temukan 
+jawabannya? 
+2. Apakah kalian sudah dapat membedakan antara campuran homogen 
+dan heterogen? Menurutmu, bagaimana cara memisahkan zat penyusun 
+dalam campuran homogen dan heterogen?
+Berdiskusi dengan teman dan guru dapat membantumu melengkapi 
+pemahaman pada materi ini. Mencari tahu dari sumber belajar lain pun 
+dapat kalian lakukan. Ayo, lanjutkan kembali mempelajari materi pemisahan 
+campuran!
+C. 
+Metode Pemisahan Campuran
+Kalian sudah mempelajari berbagai jenis campuran yang banyak dijumpai di 
+lingkungan sekitar. Ada kalanya, kita perlu melakukan pemisahan pada campuran 
+untuk tujuan tertentu. Pemisahan campuran dapat dilakukan dalam skala rumah 
+tangga, lingkungan tempat tinggal, bahkan skala besar dalam proses industri.
+Pemisahan campuran dilakukan untuk berbagai tujuan. Beberapa di 
+antaranya adalah untuk memurnikan suatu zat, menghilangkan endapan yang 
+mengganggu, dan memisahkan suatu zat agar dapat dimanfaatkan kembali. 
+Sifat campuran akan memengaruhi metode pemisahan yang dipilih agar tujuan 
+tercapai.
+1. Pemisahan Campuran pada Partikel Tidak Larut
+Pemisahan campuran pada partikel tidak larut dilakukan pada campuran 
+berjenis suspensi dan koloid, karena partikel zat yang dilarutkan lebih besar 
+dibandingkan partikel zat pelarutnya. Beberapa metode pemisahannya dijelaskan 
+sebagai berikut.
+a. Dekantasi
+Metode dekantasi dilakukan untuk memisah kan suspensi. Suspensi dibiarkan 
+cukup lama sehingga sebagian besar sedimen/endapan terkumpul di dasar 
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+181
+wadah. Cairan di atas sedimen kemudian 
+dituangkan dengan hati­hati ke dalam wadah 
+lain. Gambar di samping menunjukkan cara 
+melakukan metode dekantasi.
+Gambar 6.12  Metode Dekantasi
+b. Pengayakan dan Penyaringan
+Pengayakan adalah metode pemisahan 
+yang sangat sederhana dan umum 
+dilakukan dengan peralatan yang mu­
+dah didapat. Tujuannya adalah untuk 
+memisahkan partikel kecil dari partikel 
+yang lebih besar. Lubang pada ayakan 
+diatur sesuai kebutuhan pemisahan. 
+Gambar di samping merupakan contoh 
+metode pengayakan pasir yang lazim 
+dilakukan tukang bangunan. Dapatkah 
+kalian menyebutkan contoh lainnya?
+Sedimen
+Air
+Gambar 6.13  Pengayakan pasir oleh 
+pekerja bangunan.
+Sumber: touch1976/shutterstock.com
+Metode penyaringan juga menggunakan prinsip yang sama dengan 
+pengayakan, pembedanya hanya ukuran partikel yang akan dipisahkan. 
+Penyaringan digunakan untuk memisahkan partikel yang jauh lebih kecil 
+dibandingkan pengayakan. Alat yang digunakan umumnya kertas atau kain 
+penyaring yang memiliki pori­pori kecil. Metode ini digunakan misalnya pada 
+penyaringan serbuk kopi agar didapatkan air kopi yang bebas endapan dan 
+masker untuk menyaring partikel debu.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+182
+Fakta Sains
+Teh celup menggunakan metode penya­
+ringan. Secara kasat mata, hanya tampak 
+warna cokelat yang keluar dari teh 
+celup dan berbaur dengan air panas. 
+Padahal, saat dicelupkan ke air panas, 
+teh celup mengeluarkan partikel teh 
+dengan ukuran yang sangat kecil yang 
+dapat menembus pori­pori kemasan teh 
+kemudian terlarut bersama air.
+Gambar 6.14  Teh celup 
+mengaplikasikan metode penyaringan.
+Sumber: svitlana/unsplash.com
+c. 
+Sentrifugasi
+Metode sentrifugasi memanfaatkan gerak partikel dalam proses pemisahannya. 
+Contohnya pada proses pengeringan pakaian menggunakan mesin pengering 
+seperti terlihat pada gambar berikut. Pakaian yang basah diputar dengan sangat 
+cepat sehingga partikel­partikel air terhempas keluar melalui lubang­lubang di 
+dinding tabung, kemudian mengalir ke pembuangan mesin cuci. Proses yang 
+sama juga digunakan pada proses pemisahan komponen darah dan susu.
+Selang 
+pembuangan 
+air
+Air terhempas keluar 
+melalui lubang-
+lubang kecil
+berputar
+Pemintal
+Pakaian basah
+Gambar 6.15  Tabung dalam mesin cuci menggunakan prinsip sentrifugasi.
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+183
+Fakta Sains
+Sentrifugasi diaplikasikan pada alat yang disebut centrifuge atau mesin 
+sentrifugal. Pada pemeriksaan darah di laboratorium medis, darah yang 
+diambil dari seseorang ditempatkan dalam tabung centrifuge. Ketika tabung 
+diputar dengan cepat, partikel­partikel yang lebih berat seperti sel darah 
+merah akan terdorong ke bawah dan membentuk lapisan padat di dasar 
+tabung. Sementara, plasma darah yang lebih ringan berada di atas sel darah 
+merah. Dengan demikian, lapisan sel darah merah dan plasma darah dapat 
+dipisahkan dengan hati­hati untuk analisis lebih lanjut.
+Proses pemisahan plasma dan sel darah merah dalam laboratorium 
+medis dapat membantu dalam mendiagnosis beberapa penyakit, seperti 
+anemia, infeksi di dalam tubuh, dan gangguan pembekuan darah. 
+Gambar 6.16  Proses pemisahan plasma darah dengan metode sentrifugasi.
+Sumber: Retama/wikimedia.org (2008)
+d. Pemisahan Magnetis
+Magnet dapat mengangkat besi dan baja. Magnet tidak berfungsi pada plastik, 
+kaca, dan kertas atau karton. Dengan demikian, magnet menjadi cara termudah 
+untuk memisahkan besi dan baja dari bahan­bahan nonmagnet. 
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+184
+Gambar 6.17  Magnet digunakan untuk memisahkan benda­benda yang 
+mengandung besi dan baja dalam tumpukan sampah logam.
+Sumber: dvande/shutterstock.com
+Mari lakukan percobaan pada aktivitas berikut untuk memisahkan campuran 
+pasir dengan metode pemisahan magnetis. 
+Aktivitas 6.5 
+Ayo Bereksperimen
+Penyaringan Magnetis
+Percobaan ini dilakukan untuk memisahkan partikel besi dari campuran 
+pasir menggunakan magnet.
+Alat dan bahan:
+1. 
+Campuran pasir dan pasir besi
+2. 
+Wadah kosong untuk pasir besi 
+3. 
+Lembaran kertas koran
+4. 
+Selembar kertas
+5. 
+Magnet
+6. 
+Plastik es batu
+Langkah percobaan:
+1. 
+Ambil campuran pasir­besi secukupnya di atas lembaran kertas koran 
+dan ratakan.
+2. 
+Letakkan selembar kertas di atas campuran tersebut.
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+185
+3. 
+Masukkan magnet ke dalam plastik es dan gunakan magnet tersebut 
+untuk memisahkan campuran, lakukan secara hati­hati.
+4. 
+Tempatkan besi yang terangkat oleh magnet ke dalam wadah yang bersih.
+Pertanyaan:
+1. 
+Mengapa selembar kertas ditempatkan di atas campuran pasir­besi?
+2. 
+Mengapa magnet ditempatkan dalam kantong plastik?
+3. 
+Bagaimana teknik serupa pada percobaan ini dapat digunakan dalam 
+industri?
+2. Pemisahan Campuran pada Partikel Larut
+Pemisahan campuran pada partikel larut dilakukan untuk partikel zat yang 
+lebih kecil dibandingkan pemisahan campuran pada partikel tak larut. Beberapa 
+metode pemisahannya dijelaskan sebagai berikut.
+a. Evaporasi dan Kristalisasi
+Penyaring tidak dapat memisahkan partikel zat terlarut dalam larutan karena 
+partikelnya terlalu kecil untuk ditangkap oleh 昀椀lter apa pun. Namun, kristal murni 
+dari zat terlarut (disebut residu) akan tertinggal jika pelarut dipanaskan hingga 
+menguap. Mendidihkan larutan mempercepat proses penguapan. Prinsip inilah 
+yang digunakan pada metode evaporasi dan kristalisasi. Salah satu pemanfaatan 
+metode ini adalah pada proses pembuatan garam dari air laut.
+Gambar 6.18  Metode kristalisasi digunakan pada proses pembuatan garam
+Sumber: obenbleibenstuttgart/pixabay.com
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+186
+b. Distilasi/Penyulingan
+Distilasi juga melibatkan proses penguapan 
+seperti halnya evaporasi. Tujuannya untuk 
+mengumpulkan pelarut yang menguap dan tidak 
+membiarkannya lepas ke udara. Pelarut yang 
+menguap didinginkan atau dikondensasikan 
+kembali menjadi cairan kemudian dikumpulkan. 
+Cairan ini disebut dengan distilat, sementara zat 
+yang tersisa di wadah aslinya disebut residu. Air 
+keran yang tidak murni karena mengandung 
+zat­zat lain seperti kotoran, padatan terlarut, 
+昀氀uorida, dan klorin, perlu didistilasi untuk 
+memperoleh air murni atau air suling.
+Gambar 6.19  Metode distilasi digunakan untuk 
+mendapatkan minyak atsiri dari bahan alam.
+Sumber: Alberto Reyes/pixabay.com
+c. 
+Kromatogra昀椀
+Kromatogra昀椀 adalah teknik yang digunakan untuk memisahkan warna pada 
+tinta, pewarna makanan, dan campuran warna lainnya. Metode kromatogra昀椀 
+didasarkan pada perbedaan kecepatan rambat antara partikel­partikel yang 
+bercampur. Media yang digunakan berupa kertas minyak atau kertas saring, 
+seperti terlihat pada gambar berikut. 
+Gambar 6.20  Contoh hasil kromatogra昀椀 pada tinta warna-warni.
+Sumber: Martin Leigh/gettyimages.com
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+187
+Pada Gambar 6.20, titik noda campuran zat warna ditotolkan pada bagian 
+bawah kertas. Kertas kemudian diletakkan menggantung di bibir gelas yang 
+sudah diisi sedikit air dengan bagian bawah kertas tercelup sedikit ke dalam 
+air. Warna yang berbeda akan bergerak dengan sendirinya menjadi terpisah­
+pisah di sepanjang kertas tersebut. Agar lebih memahami metode kromatogra昀椀, 
+lakukan aktivitas berikut bersama kelompokmu.
+Aktivitas 6.6 
+Ayo Bereksperimen
+Kromatogra昀椀
+Alat dan bahan:
+1. 
+2 set spidol warna dengan merek berbeda
+2. 
+Pipet tetes
+3. 
+Air
+4. 
+Gelas beker
+5. 
+Kertas saring
+Langkah percobaan:
+1. 
+Susun alat dan bahan seperti gambar di 
+samping. 
+2. 
+Buatlah titik di tengah kertas saring meng­
+gunakan salah satu spidol.
+3. 
+Dengan menggunakan pipet tetes, tetesi 
+titik yang kalian buat dengan air. Ulangi 
+langkah ini jika dibutuhkan agar cincin 
+warna dapat menyebar di atas kertas 
+saring. Kuncinya adalah kesabaran.
+Gambar 6.21  Kertas saring 
+yang ditetesi tinta
+4. 
+Lakukan langkah yang sama untuk spidol warna yang berbeda. 
+5. 
+Lakukan pula untuk spidol dengan merek yang berbeda. 
+6. 
+Tuliskan hasil pengamatanmu dalam bentuk tabel berikut dan tempelkan 
+hasil kromatogra昀椀 pada kolom yang tersedia.
+Pipet tetes 
+berisi air
+Kertas 
+saring
+Gelas 
+beker
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+188
+Tabel 6.3  Pengamatan Hasil Kromatogra昀椀
+Merek 
+Spidol
+Warna-Warna yang Terpisah
+Hasil 
+Kromatogra昀椀
+Warna 1
+Warna 2
+Warna 3
+Warna 4
+Merek A 
+(contoh)
+hitam
+merah
+hijau
+…
+Pertanyaan:
+1. 
+Jelaskan proses pemisahan warna yang kalian amati. Apakah ada 
+perbedaan kecepatan persebaran warna pada tinta dari beragam spidol 
+yang kalian amati?
+2. 
+Merek mana yang pemisahan warnanya lebih cepat?
+3. 
+Merek mana yang pigmen warnanya terpisah lebih banyak? 
+4. 
+Bandingkan hasil kerjamu dengan temanmu. Apakah ada perbedaan?
+Ayo Uji Kemampuan
+1. 
+Bagaimana caramu memisahkan air dari campuran air­pasir?
+2. 
+Pilih metode pemisahan yang tepat untuk permasalahan berikut! 
+a. 
+Simon menjatuhkan wadah berisi tumpukan mur dan baut dari 
+bahan logam di lapangan rumput.
+b. 
+Bu Fatimah menyortir buah­buahan hasil panen agar yang terlalu 
+kecil tidak ikut dikirim ke toko swalayan. 
+c. 
+Peternak lebah perlu mengambil madu dari sarang lebah sebelum 
+memasukkannya ke dalam botol. 
+3. 
+Lengkapi tabel berikut untuk membedakan metode pemisahan campuran 
+dari partikel yang tidak larut. 
+  Bab VI Pemisahan Campuran
+di Sekitar Kita
+189
+Metode Pemisahan
+Penjelasan Singkat
+Contoh
+Penyaringan
+…
+…
+…
+…
+Larutan air­pasir yang 
+tampak endapan pasir 
+di dasar wadah
+…
+Campuran diletakkan 
+dalam tabung reaksi 
+kemudian dimasukkan 
+ke dalam mesin sentri­
+fugal, lalu diputar 
+dengan kecepatan 
+tertentu.
+…
+4. 
+Rancanglah tahapan untuk menghasilkan air bersih dari air laut. 
+5. 
+Lengkapi tabel berikut untuk membedakan metode pemisahan campuran 
+dari partikel yang larut. 
+Metode Pemisahan
+Penjelasan Singkat
+Contoh
+…
+Campuran dididihkan 
+sehingga pelarutnya 
+menguap. Zat terlarut 
+akan terlihat di dasar 
+gelas beker.
+…
+…
+…
+…
+…
+…
+…
+Projek Akhir Bab
+Subbab pemisahan campuran menjadi penutup pada bab ini. Mari pastikan 
+pemahamanmu semakin baik melalui projek ini. Kalian akan merancang 
+metode pemisahan yang bermanfaat untuk menjawab permasalahan di 
+sekitarmu, misalnya mengolah air limbah di rumah atau sekolah, memisahkan 
+air murni dari air laut, atau mengatasi polusi udara dan tanah.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+190
+ 
+Gunakan panduan penyelidikan yang sudah kalian pelajari di kelas 
+VII. Pada projek kali ini, kalian hanya perlu membuat rancangan aktivitas 
+penyelidikan, termasuk saran pelaksanaan. Diharapkan hasil projek ini 
+dapat membantu menyelesaikan permasalahan yang terjadi di daerahmu. 
+Ayo, berkontribusi aktif menjadi bagian dari solusi!
+Ayo Bere昀氀eksi
+Kamu telah sampai di akhir bab. Bagaimana keseruan mempelajari campuran 
+dan cara memisahkannya? Ayo periksa kembali pertanyaan­pertanyaan 
+yang telah kalian tulis di awal dan tengah bab. Masihkah ada pertanyaan 
+yang belum terjawab? Adakah informasi baru yang kalian temukan dari 
+sumber­sumber belajar lain? Pastikan kalian berdiskusi dengan teman dan 
+guru untuk melengkapi pemahamanmu.
+Selamat, kalian telah berperan aktif menjaga lingkungan sekitar 
+dengan mempraktikkan konsep pemisahan campuran yang dipelajari 
+dalam bab ini. Kalian juga telah menyumbangkan gagasan-gagasan 
+mengenai pemanfaatan metode pemisahan campuran dalam kehidupan 
+sehari-hari. Lanjutkan rasa ingin tahu kalian dan kepedulian terhadap 
+masalah-masalah yang ada di sekitar. Selalu berusaha terlibat dalam 
+upaya menjaga bumi kita tercinta.

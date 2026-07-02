@@ -1,0 +1,1354 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VII
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-602-244-883-9 (Jil.1)
+Bab 4
+Bentuk Aljabar
+Mengapa ada penggunaan 
+huruf di matematika?
+Matematika untuk SMP/MTs Kelas VII
+124
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+ 
+√
+Menyatakan kuantitas yang berubah-ubah dan kuantitas yang 
+tidak diketahui dengan variabel
+ 
+√
+Mengidentifikasi konstanta, koefisien, variabel dan suku 
+pada bentuk aljabar, dan mengaitkan masing-masing dengan 
+konteksnya
+ 
+√
+Menginterpretasikan nilai dari suatu bentuk aljabar yang 
+diperoleh dari substitusi suatu nilai ke variabel
+ 
+√
+Mengubah bentuk aljabar ke bentuk aljabar ekuivalen dengan 
+menggunakan sifat-sifat dan operasi aljabar
+ 
+√
+Memodelkan suatu permasalahan menjadi suatu bentuk aljabar 
+dan menggunakannya untuk menyelesaikan permasalahan 
+tersebut 
+Pengantar bab
+Gambar 4.1 Alat Infus
+Infus digunakan dalam medis untuk pemberian cairan dan obat yang 
+dilakukan secara langsung ke dalam pembuluh darah. Dokter dan 
+perawat harus memperhitungkan jumlah tetesan per menit. Cara 
+menentukan jumlah tetesan per menit adalah dengan mengalikan 
+Bab 4 | Bentuk Aljabar
+125
+faktor tetes, yaitu banyak tetes per mililiter, dengan volume infus 
+(dalam mililiter), kemudian dibagi dengan lama pemberian infus (dalam 
+jam) dikali 60 untuk mengubah dalam menit. Alih-alih menggunakan 
+kata-kata yang panjang, ini dapat dinyatakan dalam rumus D =
+dv
+60n, 
+dengan D menyatakan jumlah tetesan per menit, d menyatakan faktor 
+tetes (banyak tetes per mL), v menyatakan volume infus (mL) dan n 
+menyatakan lama pemberian infus (jam). Penggunaan bentuk aljabar 
+menyampaikan informasi matematika dengan cara yang lebih ringkas 
+dan dapat dimengerti melintasi bahasa yang digunakan.
+Pada bab ini kalian akan diperkenalkan dengan bentuk aljabar. 
+Pertama-tama kalian akan mempelajari unsur-unsur bentuk aljabar, 
+sifat-sifat dan operasi aljabar. Setelah itu, kalian akan mempelajari 
+kegunaan lain dari bentuk aljabar untuk memodelkan suatu masalah 
+dan melakukan interpretasi perhitungan kalian sebagai solusi dari 
+permasalahan tersebut. 
+Pertanyaan Pemantik
+ 
+■
+Apakah manfaat dari mempelajari bentuk aljabar?
+ 
+■
+Bagaimana cara yang baik dalam memilih huruf atau simbol 
+sebagai suatu variabel?
+ 
+■
+Bagaimana perbedaan dan persamaan sifat-sifat dan operasi 
+aljabar dengan sifat-sifat dan operasi bilangan yang sudah pernah 
+dipelajari?
+ 
+■
+Bagaimana memodelkan suatu permasalahan dengan 
+menggunakan bentuk aljabar?
+Kata Kunci
+Bentuk aljabar, variabel, koefisien, konstanta, suku, komutatif, asosiatif, 
+distributif, bentuk faktor, bentuk jabaran, pemodelan.
+Matematika untuk SMP/MTs Kelas VII
+126
+Bagan Materi
+Masih ingatkah kalian mengenai hal-hal berikut ini?
+1. 
+Sifat-sifat operasi bilangan yaitu sifat komutatif, asosiatif, dan 
+distributif. 
+2. 
+Urutan operasi yang melibatkan tanda kurung, perkalian, pembagian, 
+penjumlahan, dan pengurangan.
+3. 
+Faktor-faktor prima dari suatu bilangan bulat.
+4. 
+Kelipatan persekutuan terkecil dari dua bilangan bulat atau lebih.
+5. 
+Nilai keseluruhan dan nilai per unit.
+6. 
+Luas dan keliling bangun datar seperti segitiga, segi empat, dan segi 
+banyak. 
+A. Unsur-Unsur Bentuk Aljabar
+Melalui eksplorasi berikut, kalian akan mempelajari mengenai definisi 
+bentuk aljabar dan unsur-unsur bentuk aljabar. Setelah itu kalian 
+Unsur-unsur Aljabar
+(variabel, koeﬁsien,
+konstanta dan suku)
+Pemodelan
+Operasi Aljabar
+(penjumlahan,
+pengurangan, perkalian
+dan pembagian)
+Sifat Aljabar
+(komutatif, asosiatif
+dan distributif)
+Bentuk
+Aljabar
+Ayo Mengingat Kembali
+Bab 4 | Bentuk Aljabar
+127
+akan menggunakan bentuk aljabar tersebut untuk menyelesaikan 
+permasalahan dan menginterpretasikan artinya.
+Ayo Bereksplorasi
+Eksplorasi
+4.1
+Pola korek api
+Suatu hari, Nyoman menyusun suatu pola yang membentuk gabungan 
+persegi. Susunan pola persegi tersebut disusun menggunakan korek 
+api. Nyoman memberikan tantangan kepada Arief untuk menghitung 
+banyaknya korek api yang digunakan ketika diberitahukan suatu pola 
+tertentu dengan cepat. 
+Arief berhasil menemukan jawabannya dan dapat menjawabnya 
+tanpa perlu menghitung satu per satu korek api tersebut. Mari 
+kita cermati lebih dalam mengenai pola persegi dan jawaban Arief 
+menggunakan tabel berikut ini.
+Pola dari Nyoman
+Ekspresi matematika dari Arief 
+(banyak korek api yang digunakan)
+A
+B
+C
+1 + (1 × 3)
+1
+1
+3
+1 + (2 × 3)
+1
+2
+3
+1 + (3 × 3)
+1
+3
+3
+1 + (4 × 3)
+1
+4
+3
+Tiga kolom terakhir pada tabel di atas adalah pemecahan bilangan-
+bilangan dari jawaban Arief. Setiap bilangan-bilangan tersebut 
+Matematika untuk SMP/MTs Kelas VII
+128
+menyatakan suatu karakteristik pada pola persegi yang dibuat oleh 
+Nyoman. Lakukanlah hal-hal berikut dan lengkapilah tabel di bawah 
+ini.
+a. 
+Tulislah judul kolom yang tepat untuk menggantikan huruf-
+huruf A, B, dan C pada kolom-kolom tersebut sesuai dengan 
+karakteristik yang kalian temukan dari pola persegi tersebut.
+b. 
+Tentukan apakah nilai-nilai pada kolom tersebut selalu tetap 
+atau berubah-ubah.
+Judul 
+kolom
+Judul kolom sesuai karakteristik pola 
+persegi
+Apakah nilainya tetap 
+atau berubah-ubah?
+A
+...
+...
+B
+...
+...
+C
+...
+...
+Ayo kita fokus hanya ke kolom yang nilainya berubah-ubah. Dari 
+pola bilangan yang ada, maka kita dapat dengan mudah melihat bahwa 
+perhitungan banyak korek api pada masing-masing pola akan berubah 
+sesuai dengan perubahan bilangan tersebut. Kita dapat membuat 
+ekspresi-ekspresi matematika di bawah ini menjadi hanya satu ekspresi 
+matematika umum sebagai berikut:
+1 + (1 × 3)
+1 + (2 × 3)
+1 + (3 × 3)
+1 + (4 × 3)
+↓
+1 + ( _____________________________ × 3)
+Isi dengan judul kolom yang sesuai
+Ekspresi matematika umum di atas terlihat tidak efisien karena 
+ada bagian yang dinyatakan dengan gabungan kata atau kalimat. 
+Akan lebih mudah jika kita mengganti kalimat tersebut hanya dengan 
+Bab 4 | Bentuk Aljabar
+129
+menggunakan sebuah huruf. Dalam hal ini, ayo kita gunakan huruf n, 
+maka ekspresi matematikanya akan menjadi:
+1 + (__ × 3) = 1 + 3__
+Ekspresi matematika yang menggunakan huruf ini disebut sebagai 
+bentuk aljabar. Di dalam istilah formal matematika, kita menyebut 
+huruf n tersebut sebagai variabel. Kalian juga dapat menggunakan 
+simbol untuk menyatakan suatu variabel. 
+Pada saat melakukan operasi perkalian suatu bilangan dengan 
+variabel maka tanda perkalian dapat dihilangkan dengan meletakkan 
+bilangannya di depan variabel seperti pada n × 3 yang menjadi 3n.
+Mari kita melihat unsur-unsur pada bentuk aljabar 1 + 3n. 
+Koeﬁsien
+1 + 3n
+Variabel
+Suku
+}
+}
+Konstanta
+Suku adalah bilangan, variabel atau campuran perkalian bilangan dan 
+variabel yang dipisahkan oleh operasi penjumlahan dan pengurangan.
+Konstanta adalah bilangan yang nilainya tetap.
+Koefisien adalah bilangan yang menyatakan faktor pengali dari suatu 
+variabel.
+Variabel adalah suatu huruf atau simbol yang digunakan untuk 
+menyatakan suatu kuantitas yang berubah-ubah atau kuantitas yang 
+tidak diketahui.
+Matematika untuk SMP/MTs Kelas VII
+130
+Tahukah Kalian?
+?
+Penemu aljabar adalah Al-Khawarizmi. 
+Nama lengkapnya adalah Abu Abdullah 
+Muhammad bin Musa Al-Khawarizmi. Al-
+Khawarizmi dijuluki sebagai Bapak Aljabar. 
+Penemuan bentuk aljabar pertama kali 
+digunakan untuk menyelesaikan persamaan 
+linear dan kuadratik yang dihubungkan 
+dengan perspektif geometris. Bukan hanya 
+ahli di bidang Matematika, Al-Khawarizmi 
+juga ahli dalam bidang ilmu astronomi dan 
+geografi.
+Ayo Mencoba
+Jika kalian yang mendapatkan tantangan dari Nyoman, ayo gunakan 
+bentuk aljabar yang telah diperoleh pada kegiatan Eksplorasi 4.1 untuk 
+menjawab tantangan Nyoman. Berapa banyak korek api yang digunakan 
+untuk membuat pola persegi seperti pada Eksplorasi 4.1 yang memiliki:
+1. 
+5 persegi
+2. 
+10 persegi
+3. 
+33 persegi
+Dalam suatu konteks lain, kalian dapat membuat suatu bentuk 
+aljabar dengan menggunakan lebih dari satu variabel. Permasalahan 
+berikut ini akan membantu kalian melihat manfaat penggunaan lebih 
+dari satu variabel.
+Ayo Berpikir Kritis
+Berikut ini adalah informasi mengenai sekolah kalian yang dinyatakan 
+dalam bentuk variabel.
+g = banyak guru di sekolah
+m = banyak guru matematika di sekolah
+Gambar 4.2 Al-Khawarizmi
+Sumber: Michel Bakni/commons.
+wikimedia.org, 2020
+Bab 4 | Bentuk Aljabar
+131
+l = banyak siswa laki-laki di sekolah
+p = banyak siswa perempuan di sekolah
+j = banyak jam pelajaran per hari
+w = waktu per jam pelajaran
+1. 
+Jelaskan apa yang dinyatakan oleh masing-masing bentuk aljabar 
+berikut:
+a. 
+g + l + p
+b. 
+j × w
+c. 
+(l + p) ÷ g
+2. 
+Gunakan variabel-variabel di atas untuk menyatakan bentuk 
+aljabar dari hal-hal berikut:
+a. 
+Total jam pelajaran per minggu
+b. 
+Banyak guru yang tidak mengajar matematika
+c. 
+Persentase siswa perempuan di sekolah
+3. 
+ 
+Tulislah minimal 3 bentuk aljabar baru yang menyatakan suatu 
+kondisi di sekolah kalian. Kalian diperbolehkan membuat variabel-
+variabel baru. Kemudian, carilah informasi mengenai nilai dari 
+variabel-variabel tersebut dengan bertanya kepada guru kalian. 
+Setelah itu, lengkapilah tabel berikut ini.
+Bentuk aljabar
+Nilai
+Arti
+...
+...
+...
+...
+...
+...
+...
+...
+...
+Ayo Berkomunikasi
+Bersiaplah untuk membagikan bentuk aljabar yang kalian bentuk 
+kepada teman-teman kalian di kelas. 
+Ayo Berpikir Kreatif
+Matematika untuk SMP/MTs Kelas VII
+132
+Pada permasalahan di atas, kalian telah mencoba untuk menentukan 
+huruf yang akan digunakan sebagai variabel. Pertanyaannya adalah 
+apakah ada suatu ketentuan khusus dalam menentukan huruf yang 
+akan digunakan sebagai variabel?
+Ayo Bekerja Sama
+Di dalam matematika, ada kesepakatan huruf-huruf tertentu digunakan 
+sebagai variabel untuk menyatakan suatu hal tertentu secara spesifik. 
+Bekerja samalah dengan teman kalian untuk mencari huruf-huruf 
+tersebut dan hal apa yang dinyatakan oleh masing-masing huruf 
+tersebut. Bagikan hasil penelusuran kalian dengan teman sekelas kalian.
+Latihan 4.1
+1. 
+Tulislah suku-suku, koefisien, variabel, dan konstanta yang ada 
+pada masing-masing bentuk aljabar berikut ini.
+a. 
+2x + 1
+b. 
+−5x + 5
+c. 
+−x −3
+d. 
+3x −y + 10
+2. 
+Tentukan nilai dari masing-masing bentuk aljabar berikut ini 
+untuk m = 3.  
+a. 
+m + 2
+b. −2m + 7
+c. 
+−3m −1
+d. 
+10 −5m
+3. 
+ 
+Rahmat membawa keluarganya untuk berlibur ke sebuah taman 
+bermain. Setiap orang harus membeli tiket untuk masuk ke dalam 
+Literasi Finansial
+Bab 4 | Bentuk Aljabar
+133
+taman bermain. Tiket dibedakan menjadi 2 jenis, yaitu tiket anak-
+anak dan tiket untuk orang dewasa. Total harga tiket yang dibayar 
+oleh Rahmat dapat dinyatakan dalam bentuk aljabar 3a + 2b.
+Jika variabel a menyatakan harga satuan tiket anak-anak dan 
+variabel b menyatakan harga satuan tiket untuk orang dewasa.
+a. 
+Berapa banyak anak-anak yang ikut berlibur?
+b. 
+Berapa banyak orang dewasa yang ikut berlibur?
+c. 
+Jika harga satuan tiket anak-anak adalah Rp20.000,00 dan 
+harga satuan tiket untuk orang dewasa adalah Rp30.000,00, 
+berapa total harga tiket yang perlu dibayar oleh Rahmat dan 
+keluarganya untuk berlibur ke taman bermain ini?
+d. 
+Jika 
+biaya 
+parkir 
+kendaraan 
+harganya 
+tetap 
+sebesar 
+Rp25.000,00, tulislah bentuk aljabar yang menyatakan total 
+pengeluaran Rahmat dan keluarganya untuk berlibur ke 
+taman bermain ini.
+4. 
+Cakra pergi ke toko sembako untuk membeli minyak goreng, 
+beras, dan tepung terigu. Jika harga 1 liter minyak goreng adalah 
+Rp14.500,00, 1 kg beras adalah Rp10.000,00, dan 1 kg tepung terigu 
+adalah Rp15.000,00.
+a. 
+Buatlah bentuk aljabar dari jumlah uang yang perlu dibayar 
+oleh Cakra saat membeli x liter minyak goreng, y kg beras, dan 
+z kg tepung terigu.
+b. 
+Gunakan bentuk aljabar pada bagian a), berapa jumlah uang 
+yang perlu dibayar oleh Cakra jika membeli 2 liter minyak 
+goreng, 3 kg beras, dan 2 kg tepung terigu?
+c. 
+Gunakan bentuk aljabar pada bagian a), berapa jumlah uang 
+yang perlu dibayar oleh Cakra jika membeli 4 liter minyak 
+goreng dan 3 kg tepung terigu?
+Literasi Finansial
+Matematika untuk SMP/MTs Kelas VII
+134
+5. 
+Huruf x digunakan sebagai variabel yang menyatakan banyak 
+kubus di dalam satu buah kantong kertas. Pasangkan dengan tepat 
+bentuk aljabar berikut dengan gambar di bawah ini.
+2x + 4
+4x + 2
+4x + 5
+ 2x + 5
+a.
+c.
+b.
+d.
+6. 
+Berikut ini adalah daerah segi empat yang dikelilingi dengan ubin.
+Ukuran 1
+Ukuran 2
+Ukuran 3
+a. 
+Deskripsikan dalam bentuk kalimat tentang banyak ubin yang 
+digunakan untuk membentuk daerah segi empat pada setiap 
+ukuran di atas.
+b. 
+Nyatakan deskripsi banyak ubin pada bagian a) dalam bentuk 
+aljabar. Gunakan huruf untuk menyatakan suatu variabel 
+tertentu dan berikan arti untuk variabel yang kalian gunakan.
+c. 
+Berapa banyak ubin yang digunakan untuk membentuk 
+daerah segi empat dengan ukuran 10.
+Bab 4 | Bentuk Aljabar
+135
+7. 
+Perhatikan pola-pola susunan kubus berikut ini
+Petunjuk
+i
+Kalian dapat menggunakan jawaban nomor 6 untuk menemukan 
+bentuk aljabar dari banyak kubus. Temukan persamaan dan 
+perbedaan permasalahan nomor 6 dan nomor 7.
+Pola 1
+Pola 2
+Pola 3
+a. 
+Tulislah bentuk aljabar yang menyatakan banyak kubus untuk 
+membentuk pola-pola susunan kubus di atas. Gunakan huruf 
+untuk menyatakan suatu variabel tertentu dan berikan arti 
+untuk variabel yang kalian gunakan.
+b. 
+Jelaskan bagaimana kalian tahu bahwa bentuk aljabar yang 
+kalian peroleh sudah benar.
+8. 
+Tulislah suatu konteks yang dapat dinyatakan dengan masing-
+masing bentuk aljabar berikut.
+a. 
+2r
+b. 
+t + 1
+c. 
+12m + 5
+d. 
+10.000p −5.000
+e. 
+35 −3k
+Ayo Berpikir Kreatif
+Matematika untuk SMP/MTs Kelas VII
+136
+Ayo Berefleksi
+Ayo merefleksikan kembali hal-hal apa saja yang telah kalian pelajari.
+1. 
+Apakah kalian sudah dapat menggunakan variabel untuk menyatakan 
+nilai yang berubah-ubah dan nilai yang tidak diketahui?
+2. 
+Apakah kalian sudah dapat menginterpretasikan arti dari unsur-
+unsur bentuk aljabar?
+3. 
+Apakah kalian sudah dapat menghitung nilai dari suatu bentuk 
+aljabar dengan melakukan substitusi nilai ke variabel dan 
+menginterpretasikan arti dari nilai yang diperoleh?
+B. Sifat-Sifat dan Operasi Aljabar
+Melalui eksplorasi berikut, kalian akan mempelajari mengenai sifat-
+sifat dan operasi aljabar untuk mengubah berbagai bentuk aljabar 
+ke bentuk aljabar yang ekuivalen sesuai dengan tujuan pengubahan 
+bentuk tersebut.
+Ayo Bereksplorasi
+Eksplorasi
+4.2
+Pola ubin kolam renang
+Perusahaan konstruksi kolam renang mendapatkan permintaan untuk 
+membuat kolam renang berbentuk persegi dengan berbagai ukuran 
+yang dikelilingi oleh ubin. 
+Gambar 4.3 Kolam Renang Berbentuk Persegi
+Bab 4 | Bentuk Aljabar
+137
+Salah satu komponen biaya yang perlu dihitung pastinya termasuk 
+banyak ubin yang akan digunakan dalam pembuatan kolam renang 
+tersebut. Oleh karena itu, perusahaan ingin mengetahui berapa banyak 
+ubin yang digunakan berdasarkan ukuran sisi dari kolam renang. 
+Diketahui bahwa ubin yang digunakan adalah ubin khusus yang 
+berukuran 1 m × 1 m.
+Rani, seorang karyawan di perusahaan tersebut, mencoba untuk 
+menghitung banyak ubin yang akan digunakan. Berikut adalah sketsa 
+yang Rani buat dengan menggunakan variabel s untuk menyatakan 
+ukuran sisi kolam renang. 
+1
+1
+1
+S
+S
+Gambar 4.4 Sketsa Rani
+1. 
+Menurut kalian, bagaimana bentuk aljabar dari banyak ubin yang 
+dapat dibentuk dari ide sketsa Rani?
+2. 
+Tulislah bentuk aljabar dari luas kolam renang.
+Petunjuk
+i
+Perkalian dua bilangan yang sama misalnya 3 × 3 dapat dituliskan 
+juga sebagai 32. Kalian juga dapat melakukan hal yang sama pada 
+bentuk aljabar untuk perkalian dua variabel yang sama. Masih 
+ingatkah kalian mengenai rumus luas persegi?
+3. 
+Empat rekan kerja Rani yang bekerja dalam satu tim yang sama 
+juga mencoba untuk melakukan perhitungan banyak ubin. Berikut 
+ini adalah bentuk aljabar yang ditemukan oleh masing-masing 
+rekan kerja Rani. Variabel n menyatakan banyak ubin dan variabel 
+s menyatakan ukuran sisi kolam renang.
+Matematika untuk SMP/MTs Kelas VII
+138
+a. 
+Joko:  n = 4(s + 1)
+b. 
+Wisnu: n = s + s + s + s + 4
+c. 
+Riska: n = 4(s + 2)
+d. 
+Ayu: n = 2(s + 2) + 2s
+Buatlah sketsa dari masing-masing ide dari keempat rekan kerja 
+Rani.
+4. 
+Jika ukuran sisi dari kolam renang yang akan dibuat adalah 10 m. 
+a. 
+Hitunglah banyak ubin yang akan digunakan dengan 
+menggunakan semua bentuk aljabar pada nomor 1 dan 3.
+b. 
+Hitunglah luas kolam renang.
+5. 
+Menurut kalian, bentuk aljabar mana saja pada nomor 3 yang 
+ekuivalen dengan bentuk aljabar Rani berdasarkan hasil 
+perhitungan pada nomor 4? Jelaskan jawaban kalian.
+Melalui Eksplorasi 4.2, kalian telah melihat bahwa ada banyak cara 
+untuk menuliskan bentuk aljabar untuk menyatakan konteks yang 
+sama. Kalian juga dapat melakukan substitusi nilai ke variabel pada 
+setiap bentuk aljabar dan membandingkan nilai dari bentuk aljabar 
+yang diperoleh. Jika nilainya sama maka dapat disimpulkan mereka 
+mempunyai bentuk aljabar yang ekuivalen.
+Ayo Berpikir Kritis
+Apakah ada kekurangan dari metode substitusi untuk menentukan 
+bentuk aljabar yang ekuivalen? Berikan contohnya.
+Metode substitusi adalah metode yang bersifat uji coba untuk 
+mengecek ekuivalensi bentuk aljabar. Jadi, bagaimana kalian dapat 
+mengetahui dengan persis bahwa suatu bentuk aljabar mempunyai 
+bentuk yang ekuivalen dengan bentuk aljabar lainnya? Untuk menjawab 
+pertanyaan ini, kita perlu mempelajari sifat-sifat dan operasi aljabar.
+Pada Eksplorasi 4.2, bentuk-bentuk aljabar berikut ini adalah bentuk 
+aljabar yang ekuivalen satu dengan yang lainnya untuk menyatakan 
+Bab 4 | Bentuk Aljabar
+139
+konteks banyak ubin meskipun mempunyai bentuk aljabar yang 
+berbeda-beda.
+4s + 4
+4(s + 1)
+s + s + s + s + 4
+2(s + 2) + 2s
+Bentuk aljabar juga mempunyai sifat-sifat dan operasi yang sama 
+dengan sifat-sifat dan operasi bilangan. Salah satu sifat yang penting 
+adalah sifat distributif. Sifat distributif memiliki aturan berikut ini:
+a(b + c) = a × b + a × c 
+     = ab + ac
+a(b −c) = a × b −a × c
+     = ab −ac
+Pada saat melakukan operasi perkalian antara dua variabel yang 
+berbeda maka tanda perkalian dapat dihilangkan dengan menuliskan 
+kedua variabel berdempet seperti pada a × b yang menjadi ab dan a × c 
+yang menjadi ac.
+Dengan menggunakan sifat distributif maka:
+ 4(s + 1) = 4s + 4
+Kita menyebut a(b + c),  a(b −c) dan 4(s + 1) sebagai bentuk faktor, 
+dan ab + ac, ab −ac dan 4s + 4 sebagai bentuk jabaran. 
+Sifat distributif juga dapat digunakan untuk mengubah bentuk 
+jabaran ke bentuk faktor seperti berikut ini.
+4s + 4 = 4(s + 1)
+Suku 4s dan 4 memiliki faktor umum 4 sehingga sifat distributif ini 
+dapat digunakan.
+Kalian akan mempelajari lebih dalam sifat distributif melalui 
+eksplorasi berikut ini.
+Matematika untuk SMP/MTs Kelas VII
+140
+Ayo Bereksplorasi
+Eksplorasi
+4.3
+Luas Kolam Renang
+Ada kolam renang yang dibagi menjadi beberapa bagian dengan tujuan 
+penggunaan yang berbeda-beda. Ada bagian untuk anak-anak, bagian 
+untuk perenang biasa, bagian perenang andal, atau bagian untuk 
+menyelam.
+Diagram di bawah menunjukkan pembagian kolam renang menjadi 
+beberapa bagian. Satuan pengukurannya dalam meter.
+a.
+30
+10
+X
+c.
+2
+3
+X
+X
+b.
+25
+X
+X
+d.
+a
+b
+c
+1. 
+Tuliskan dua bentuk aljabar yang berbeda namun ekuivalen untuk 
+menyatakan area kolam renang dari masing-masing diagram.
+2. 
+Jelaskan bagaimana diagram dan bentuk aljabar yang diperoleh 
+memberikan gambaran mengenai sifat distributif.
+3. 
+Pada bentuk aljabar yang diperoleh dari diagram c), terdapat 
+bentuk aljabar yang memiliki 4 suku. Dari keempat suku ini, ada 
+dua suku yang sejenis (dalam hal ini adalah suku yang memiliki 
+variabel yang sama). Gunakan sifat distributif dengan mengubah 
+Bab 4 | Bentuk Aljabar
+141
+bentuk jabaran menjadi bentuk faktor untuk menjumlahkan kedua 
+suku sejenis ini sehingga bentuk aljabarnya menjadi 3 suku saja.
+4. 
+Bandingkan jawaban kalian dengan teman-teman kalian. Apakah 
+ada bentuk aljabar yang berbeda menurut kalian?
+Melalui Eksplorasi 4.3, kalian dapat melihat bahwa sifat distributif 
+dapat membantu kalian untuk menjabarkan atau memfaktorkan suatu 
+bentuk aljabar ke bentuk aljabar lain yang ekuivalen.
+Setelah menggunakan sifat distributif untuk menjabarkan suatu 
+bentuk aljabar, terkadang akan menghasilkan suku yang sejenis. Suku 
+sejenis adalah suku yang memiliki variabel yang sama atau suku 
+konstanta dalam bentuk aljabar. 
+Penjumlahan dan pengurangan suku-suku sejenis ini dapat kalian 
+lakukan dengan menggunakan sifat distributif dengan mengubah 
+bentuk jabaran ke bentuk faktor seperti contoh-contoh berikut ini.
+5x + 7x = (5 + 7)x
+= 12x
+15n −2n = (15 −2)n
+= 13n
+Meskipun tanpa menggunakan sifat distributif, penjumlahan dan 
+pengurangan suku-suku sejenis ini sebenarnya merupakan suatu 
+perhitungan yang sangat intuitif dan relevan dengan kehidupan sehari-
+hari kalian.
+Ayo Berpikir Kreatif
+1. 
+Tulislah sebuah analogi atau contoh kejadian sehari-hari untuk 
+masing-masing bentuk penjumlahan dan pengurangan suku 
+sejenis berikut sehingga dapat dipahami dengan baik.
+2x + 3x = 5x
+7p −4p = 3p
+Matematika untuk SMP/MTs Kelas VII
+142
+2. 
+Tulislah sebuah analogi atau contoh kejadian sehari-hari untuk 
+masing-masing bentuk penjumlahan dan pengurangan suku tidak 
+sejenis berikut sehingga dapat dipahami dengan baik bahwa 
+operasi tersebut tidak mungkin dilakukan.
+2x + 3y = 5?
+10a −2b = 8?
+Mulai dari Eksplorasi 4.1 hingga Eksplorasi 4.3, secara tidak langsung 
+kalian juga sudah menggunakan sifat komutatif dan asosiatif di dalam 
+proses berpikir dan melakukan operasi aljabar. 
+Sifat komutatif memiliki aturan berikut ini:
+Penjumlahan 
+: a + b = b + a 
+Perkalian 
+ 
+: ab = ba
+Sifat asosiatif memiliki aturan berikut ini:
+Penjumlahan 
+: (a + b) + c = a + (b + c)
+Perkalian 
+ 
+: (ab)c = a(bc)
+Ayo Mencoba
+Ayo gunakan semua sifat-sifat dan operasi aljabar yang telah kalian 
+pelajari untuk membuktikan bahwa s + s + s + s + 4 dan 2(s + 2) + 2s 
+mempunyai bentuk yang ekuivalen dengan 4s + 4.
+• 
+Berikan keterangan sifat-sifat yang kalian gunakan pada setiap 
+tahapan pembuktian.
+• 
+Bandingkan tahapan pengerjaan dan penggunaan sifat-sifat dan 
+operasi aljabar kalian dengan teman-teman kalian.
+Bab 4 | Bentuk Aljabar
+143
+Ayo Menggunakan Teknologi
+Kalian dapat memindai QR code atau 
+menggunakan tautan berikut ini untuk 
+mengakses program interaktif untuk simulasi 
+penjumlahan suku sejenis dan substitusi nilai ke 
+variabel serta menguji kemampuan kalian untuk 
+menggunakan sifat-sifat dan operasi aljabar. 
+Latihan 4.2
+1. 
+Tulislah setiap bentuk aljabar berikut dalam bentuk jabaran.
+a. 
+3(x + 2)
+b. 
+8(2x −5)
+c. 
+2x(x + 5)
+d. (x + 1)(x + 3)
+2. 
+Tulislah setiap bentuk aljabar berikut dalam bentuk faktor.
+a. 
+12x + 6
+b. 
+x2 + 2x
+c. 
+x + x + x + 3
+d. 
+x2 + 5x + 6
+3. 
+Seorang siswa menuliskan jawabannya untuk membuktikan 
+bahwa 2(y + 3) + y mempunyai bentuk yang ekuivalen dengan 
+3y + 6.
+ 
+ 
+ 
+  2(y + 3) + y = 2y + 6 + y  
+(1)
+ 
+ 
+ 
+ 
+ 
+= 2y + y + 6  
+(2)
+ 
+ 
+ 
+ 
+ 
+= (2 + 1)y + 6 
+(3)
+= 3y + 6 
+ 
+Sifat-sifat apa yang digunakan pada tahapan (1), (2), dan (3)?
+https://phet.colorado.edu/sims/
+html/expression-exchange/latest/
+expression-exchange_en.html
+Matematika untuk SMP/MTs Kelas VII
+144
+4. 
+Lengkapilah tabel nilai bentuk-bentuk aljabar di bawah ini dengan 
+nilai variabel x yang diberikan pada tabel.
+x
+−1
+0
+1
+2
+(2x + 3) + (4x −7)
+6x −4
+Berdasarkan hasil pada tabel di atas
+a. 
+Apakah bentuk aljabar (2x + 3) + (4x −7) ekuivalen dengan 
+bentuk aljabar 6x −4?
+b. 
+Jika menurut kalian kedua bentuk aljabar tersebut ekuivalen, 
+maka buktikan dengan menggunakan sifat-sifat dan operasi 
+aljabar.
+5. 
+Hitunglah penjumlahan dan pengurangan suku sejenis dengan 
+koefisien berbentuk pecahan berikut ini dengan menggunakan 
+sifat distributif.
+a. 
+1
+2x + 1
+2x
+b. 
+2
+3a + 1
+4a
+c. 
+3
+2t −1
+2t
+d. 
+1
+3m −1
+2m
+e. 
+1
+2b2 + 1
+5b2
+6. 
+ 
+Tiga dari bentuk-bentuk aljabar berikut mempunyai bentuk yang 
+ekuivalen. Tentukan bentuk aljabar mana yang tidak ekuivalen 
+dengan ketiga bentuk aljabar tersebut dan jelaskan mengapa.
+Ayo Berpikir Kritis
+Bab 4 | Bentuk Aljabar
+145
+a. 
+5x −2x + 3
+b. 
+3(x + 1)
+c. 
+2x −5x + 3
+d. 
+3x + 3
+7. 
+ 
+Tulislah 3 bentuk aljabar yang ekuivalen dengan masing-masing 
+bentuk aljabar berikut ini.
+a. 
+2x + 4
+b. 
+5k −2
+8. 
+ 
+Berikan sepasang tanda kurung sehingga bentuk aljabar di ruas 
+kiri ekuivalen dengan bentuk aljabar di ruas kanan.
+a. 
+5n + 3 −3n = 2n + 15
+b. 
+5n + 3 −3n = 5n
+c. 
+5n + 3 −3n = 5n2
+9. 
+Jabarkan, dan jumlahkan atau kurangkan suku-suku sejenis pada 
+bentuk-bentuk aljabar berikut ini.
+a. 
+(2x + 2) + (x + 5)
+b. (7x −2) + (−3x + 5)
+c. 
+(5x −1) −(2x + 3)
+d. (−3x −2) −(−2x −1)
+e. 
+3(x + 10) + 4(3x −2)
+f. 
+7(2x + 6) −3(3x + 8)
+g. 
+1
+2(5x −1) + 3
+2(x −2)
+h. 
+1
+3(4x + 7) −1
+6(5x −11)
+Ayo Berpikir Kreatif
+Ayo Berpikir Kreatif
+Matematika untuk SMP/MTs Kelas VII
+146
+10. 
+Retno melakukan investasi melalui deposito dengan bunga 4% per 
+tahun. Retno berencana untuk tidak menarik uangnya sepanjang 
+tahun. Retno menuliskan sebuah bentuk aljabar P + 0, 04P untuk 
+menyatakan banyak uang pada akhir tahun pertama.
+a. 
+Jelaskan mengapa bentuk aljabar tersebut benar.
+b. 
+Tulislah bentuk aljabar yang ekuivalen dalam bentuk faktor.
+c. 
+Jika Retno melakukan investasi sebesar Rp10.000.000,00, 
+berapa banyak uang yang dimiliki Retno pada akhir tahun 
+pertama?
+Ayo Berefleksi
+Ayo merefleksikan kembali hal-hal apa saja yang telah kalian pelajari.
+1. 
+Apakah kalian sudah dapat menghitung nilai dari suatu bentuk 
+aljabar dengan melakukan substitusi nilai ke variabel dan 
+menginterpretasikan arti dari nilai yang diperoleh?
+2. 
+Apakah kalian sudah dapat mengubah bentuk aljabar ke bentuk 
+aljabar ekuivalen dengan menggunakan sifat-sifat dan operasi 
+aljabar?
+C. Pemodelan dengan Bentuk Aljabar
+Kalian telah mempelajari berbagai bentuk aljabar yang digunakan 
+untuk menyatakan suatu pola dan beberapa situasi sederhana. Pada 
+bagian ini kalian akan memodelkan suatu situasi ke bentuk aljabar 
+dalam konteks yang lebih beragam.
+Literasi Finansial
+Bab 4 | Bentuk Aljabar
+147
+Ayo Bereksplorasi
+Eksplorasi
+4.4
+Jarak dan Waktu ke Sekolah
+Jarak antara rumah Wisnu dan sekolah adalah 5.000 m. Wisnu diantar 
+oleh ayahnya menggunakan sepeda motor yang bergerak dengan 
+kecepatan 15 m per detik. Tentukan:
+a. 
+Bentuk aljabar dari jarak yang telah ditempuh oleh Wisnu 
+setelah t detik.
+b. 
+Bentuk aljabar dari jarak tersisa yang perlu ditempuh oleh 
+Wisnu supaya sampai di sekolah.
+c. 
+Jarak yang telah ditempuh oleh Wisnu setelah 2 menit.
+d. 
+Jarak tersisa yang perlu ditempuh oleh Wisnu supaya sampai 
+di sekolah setelah 2 menit berangkat dari rumah.
+e. 
+Jarak yang telah ditempuh oleh Wisnu setelah 3 menit.
+f. 
+Jarak tersisa yang perlu ditempuh oleh Wisnu supaya sampai 
+di sekolah setelah 3 menit berangkat dari rumah.
+Pada Eksplorasi 4.4, kalian telah memodelkan suatu situasi menjadi 
+bentuk aljabar yang melibatkan satu variabel. Dalam permasalahan ini, 
+variabel t digunakan sebagai pengganti suatu kuantitas yang berubah-
+ubah dari waktu ke waktu. Kalian dapat menggunakan bentuk aljabar 
+yang diperoleh untuk menganalisis suatu kondisi jika variabel tersebut 
+berubah dari suatu nilai ke nilai lainnya.
+Ayo Mencoba
+Wisnu bersepeda mengelilingi kota. Pada 30 menit pertama, Wisnu 
+bersepeda dengan kecepatan 8 m per detik. Setelah merasa lelah, Wisnu 
+bersepeda dengan kecepatan 4 m per detik hingga selesai. Tentukan:
+a. 
+Bentuk aljabar dari total jarak yang ditempuh oleh Wisnu 
+setelah t menit bersepeda.
+b. 
+Jarak yang ditempuh oleh Wisnu setelah 45 menit bersepeda.
+Matematika untuk SMP/MTs Kelas VII
+148
+c. 
+Jarak yang ditempuh oleh Wisnu setelah 20 menit bersepeda.
+d. 
+Bandingkan jawaban bagian c) kalian dengan teman-teman 
+kalian. Apakah ada yang berbeda? Diskusikan mengapa 
+perbedaan tersebut dapat terjadi.
+Ayo Bereksplorasi
+Eksplorasi
+4.5
+Berat Buah-buahan
+Sari membeli berbagai jenis buah-buahan di pasar dan membungkusnya 
+ke dalam kantong-kantong plastik yang terpisah. Jika berat buah jeruk 
+adalah t kg, maka tentukan bentuk aljabar dari berat buah-buah lainnya.
+a. 
+Berat buah apel adalah 3 kg lebih berat dari berat buah jeruk.
+b. 
+Berat buah belimbing adalah 2 kg lebih ringan dari berat buah 
+jeruk.
+c. 
+Berat buah anggur adalah 5 kg lebih ringan dari berat buah 
+belimbing.
+d. 
+Berat buah rambutan adalah 3 kg lebih berat dari berat buah 
+anggur.
+e. 
+Urutkan berat buah dari yang paling ringan hingga paling 
+berat. Jelaskan cara kalian dalam menentukan urutannya.
+f. 
+Jika berat buah jeruk adalah 3 kg, tentukan berat buah lainnya.
+g. 
+Berikan penjelasan mengenai jawaban kalian pada bagian f).
+Pada Eksplorasi 4.5, kalian telah memodelkan suatu situasi menjadi 
+bentuk aljabar dengan melibatkan banyak variabel sekaligus. Dalam 
+permasalahan ini, variabel t digunakan sebagai pengganti suatu 
+kuantitas yang tidak diketahui. Ketika kuantitas dari variabel t tersebut 
+diketahui maka variabel-variabel lain akan dapat kalian temukan 
+Ayo Berpikir Kritis
+Bab 4 | Bentuk Aljabar
+149
+dengan mudah. Setiap bentuk aljabar mempunyai arti tertentu sehingga 
+tidak semua nilai dapat disubstitusikan menggantikan suatu variabel. 
+Penguatan Karakter
+Kalian harus selalu berhati-hati menginterpretasikan model yang 
+terbentuk dan nilai yang diperoleh dalam proses pemecahan masalah.
+Ayo Mencoba
+Seorang bayi bernama Linda memiliki tinggi badan L cm. Tulislah bentuk 
+aljabar untuk menyatakan tinggi badan dari anggota keluarganya:
+a. 
+Endah, kakak perempuan dari Linda, memiliki tinggi badan 2 kali dari 
+tinggi badan Linda.
+b. 
+Rizki, kakak laki-laki dari Linda, memiliki tinggi badan 13 cm lebih 
+tinggi dari tinggi badan Endah.
+c. 
+Ibunya Linda memiliki tinggi badan 30 cm lebih pendek dari 4 kali dari 
+tinggi badan Linda.
+d. 
+Ayahnya Linda memiliki tinggi badan 30 cm lebih pendek dari 2 kali 
+dari tinggi badan Rizki.
+e. 
+Jika tinggi badan Linda adalah 48 cm, maka tentukan tinggi badan 
+masing-masing anggota keluarga Linda.
+f. 
+Apakah jawaban pada bagian e) masuk akal? Berikan alasan kalian.
+Permasalahan di atas mempunyai konstruksi kalimat yang lebih 
+kompleks dan sekaligus melibatkan penggunaan banyak variabel. 
+Kalian akan menemukan hal serupa pada permasalahan lainnya 
+sehingga harus sering melatih diri untuk menerjemahkan masalah ke 
+bentuk matematis (bentuk aljabar) sebagai tahapan awal pemecahan 
+masalah.
+Matematika untuk SMP/MTs Kelas VII
+150
+Ayo Berpikir Kritis
+Ayo kita coba teka-teki matematika sederhana. Ikutilah instruksi 
+perhitungan berikut ini secara berurutan.
+1. 
+Pilihlah bilangan apa pun secara acak.
+2. 
+Kalikan bilangan tersebut dengan 2.
+3. 
+Tambahkan dengan 6.
+4. 
+Bagilah dengan 2.
+5. 
+Kurangkan dengan bilangan yang kalian pilih di awal.
+6. 
+Catat bilangan yang kalian peroleh.
+7. 
+Ulangi beberapa kali tahapan nomor 1 hingga 6 namun dengan 
+bilangan awal yang berbeda.
+Apakah kalian melihat suatu hasil yang unik? Ayo pecahkan rahasia 
+teka-teki matematika ini dengan menggunakan bentuk aljabar, sifat-sifat 
+dan operasi aljabar.
+Ayo Berpikir Kreatif
+Buatlah aturan kalian sendiri untuk mendapatkan teka-teki matematika 
+seperti di atas. Kalian juga dapat mengembangkan teka-teki matematika 
+yang mungkin dibentuk menggunakan ilmu yang telah kalian pelajari di 
+bab ini. Pastikan kalian juga menyiapkan penjelasan cara kerja teka-teki 
+matematika kalian.
+1. 
+Arief membeli y buah apel. Tulislah bentuk aljabar dari banyak 
+buah apel dari setiap situasi berikut.
+a. 
+Nyoman mempunyai buah apel 5 kali lebih banyak dari Arief. 
+b. 
+Arief memakan 2 buah apel.
+c. 
+Nyoman membuat jus apel menggunakan 4 buah apel. 
+d. 
+Total buah apel yang dimiliki oleh Arief dan Nyoman.
+Latihan 4.3
+Bab 4 | Bentuk Aljabar
+151
+e. 
+Arief dan Nyoman bersama-sama membagikan buah apel yang 
+mereka miliki kepada 6 temannya. Apa bentuk aljabar dari 
+banyak buah apel yang dimiliki oleh setiap teman mereka?
+2. 
+Malik naik bus setiap hari Senin hingga Jumat untuk pergi ke 
+sekolah dan juga waktu pulang ke rumah. Biaya satu kali naik bus 
+adalah n rupiah. Malik diberikan uang Rp50.000,00 per minggu 
+oleh orang tuanya untuk biaya transportasi. Tulislah bentuk aljabar 
+untuk setiap kondisi berikut pada bagian a) hingga e).
+a. 
+Biaya bus per hari.
+b. 
+Biaya bus per minggu.
+c. 
+Sisa uang Malik pada akhir minggu.
+d. 
+Uang yang dimiliki Malik setelah pulang ke rumah pada hari 
+Senin.
+e. 
+Uang yang dimiliki Malik saat istirahat siang pada hari Rabu.
+f. 
+Apa yang terjadi jika n adalah Rp6.000,00?
+3. 
+Ayu memiliki berat badan p kg. Tulislah bentuk aljabar dari kondisi 
+berikut pada bagian a) hingga c).
+a. 
+Berat badan Tanti 10 kg lebih ringan dari berat badan Ayu.
+b. 
+Berat badan Kevin 3 kg lebih ringan dari 2 kali berat badan 
+Ayu.
+c. 
+Berat badan Winda 8 kg lebih berat dari setengah berat badan 
+Ayu.
+d. 
+Jika berat badan Ayu adalah 40 kg. Berapakah berat badan 
+Tanti, Kevin, dan Winda? 
+Literasi Finansial
+Matematika untuk SMP/MTs Kelas VII
+152
+4. 
+Bayu sering menggunakan layanan ojek online. Bayu selalu 
+membandingkan biaya layanan dari berbagai ojek online untuk 
+mencari harga yang paling murah. Tulislah bentuk aljabar dari 
+biaya perjalanan menggunakan berbagai layanan ojek online pada 
+bagian a) hingga c).
+a. 
+Perusahaan Gogo menetapkan biaya administrasi tetap sebesar 
+Rp5.000,00 dan tarif per km sebesar Rp1.500,00.
+b. 
+Perusahaan Gaga tidak mempunyai biaya administrasi, namun 
+tarif per km sebesar Rp2.000,00.
+c. 
+Perusahaan Gugu menetapkan biaya administrasi tetap 
+sebesar Rp3.000,00 dan tarif per km sebesar Rp1.800,00.
+d. 
+Jika Bayu akan menggunakan layanan ojek online termurah 
+untuk berangkat ke sekolah dari rumahnya yang sejauh 5 km, 
+layanan ojek online mana yang akan digunakan Bayu?
+e. 
+Jika Bayu akan menggunakan layanan ojek online termurah 
+untuk pergi ke rumah saudaranya sejauh 20 km, layanan ojek 
+online mana yang akan digunakan Bayu?
+5. 
+Pada tanggal 5 Agustus 2020, Rara membagikan teka-teki 
+matematika berikut ini kepada teman-teman sekelasnya.
+• 
+Pilihlah satu angka dari 1 hingga 9.
+• 
+Kalikan angka ini dengan 2.
+• 
+Tambahkan dengan 5.
+• 
+Kalikan dengan 50.
+• 
+Jika tanggal ulang tahun kalian sudah lewat maka 
+tambahkan dengan 1770. Jika belum maka tambahkan 
+dengan 1769.
+• 
+Kurangkan dengan tahun lahir kalian.
+a. 
+Jika saat ini adalah tahun 2020, ikutilah langkah di atas 
+menggunakan tanggal dan bulan hari ini.
+Literasi Finansial
+Bab 4 | Bentuk Aljabar
+153
+b. 
+Pada bagian a), kalian akan mendapatkan bilangan 3 digit. 
+Perhatikan digit pertama, dan dua digit terakhir. Informasi 
+apa yang dapat kalian peroleh dari digit-digit tersebut?
+c. 
+Jika n menyatakan angka yang kalian pilih di awal. Gunakan 
+ekspresi matematika untuk menjelaskan cara kerja teka-teki 
+ini.
+d. 
+Apakah teka-teki Rara dapat digunakan pada tahun ini? Jika 
+tidak, bagaimana kalian dapat memodifikasi teka-teki Rara 
+sehingga dapat digunakan untuk tahun ini?
+Ayo Berefleksi
+ 
+Ayo merefleksikan kembali hal-hal apa saja yang telah kalian pelajari.
+1. 
+Apakah saya sudah dapat memodelkan suatu permasalahan menjadi 
+suatu bentuk aljabar dan menggunakannya untuk menyelesaikan 
+permasalahan tersebut?
+2. 
+Apakah saya sudah dapat menghitung nilai dari suatu bentuk 
+aljabar dengan melakukan substitusi nilai ke variabel dan 
+menginterpretasikan arti dari nilai yang diperoleh?
+Uji Kompetensi
+1. 
+Rani menuliskan bentuk aljabar 3p + 1 untuk situasi gambar di 
+bawah ini.
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VII
+154
+a. 
+Apa arti dari variabel p dari bentuk aljabar tersebut?
+b. 
+Apa arti dari angka 3?
+c. 
+Apa arti dari angka 1?
+d. 
+Lengkapi tabel berikut ini jika diketahui berbagai nilai p.
+p
+1
+3
+13
+45
+72
+100
+3p + 1
+2. 
+Tulislah bentuk aljabar dari total kubus untuk masing-masing 
+gambar di bawah ini. Asumsikan bahwa banyak kubus di setiap 
+kantong kertas adalah sama banyak.
+a.
+c.
+b.
+d.
+3. 
+Tulislah setiap bentuk aljabar berikut dalam bentuk jabaran.
+a. 
+2(x + 10)
+b. 
+3(4x −3)
+c. 
+5x(x + 1)
+d. (x −2)(x + 5)
+4. 
+Tulislah setiap bentuk aljabar berikut dalam bentuk faktor.
+a. 
+5x + 10
+b. 
+x2 −4x
+c. 
+x + x + 2
+d. 
+x2 + 6x + 8
+Bab 4 | Bentuk Aljabar
+155
+5. 
+Perhatikan persegi panjang di bawah ini.
+Jelaskan arti dari bentuk aljabar berikut ini.
+a. 
+5x
+b. 
+2(x + 5)
+c. 
+x + x + 5 + 5
+6. 
+Gunakan sifat-sifat dan operasi aljabar untuk menentukan apakah 
+pasangan-pasangan bentuk aljabar berikut ekuivalen.
+a. 
+5x dan 13x −7x
+b. 
+6(5 + 3x) −10x dan 8x + 30
+c. 
+9x −17x dan 8x
+d. 
+8 −3(3 −5x) dan −1 −15x
+7. 
+Jabarkan dan jumlahkan atau kurangkan suku-suku sejenis pada 
+bentuk-bentuk aljabar berikut ini.
+a. 
+(−9x −5) + (3x + 10)
+b. (5x −1) + (−5x −7)
+c. 
+(25x −13) −(10x + 7)
+d. (−4x −1) −(−6x −4)
+e. 
+−2(2x + 5) + 8(3x −1)
+f. 
+11(3x + 2) −5(14x + 2)
+g. 
+1
+3(2x + 5) + 1
+6(x −9)
+h. 
+1
+6(4x −6) −1
+6(15x + 13)
+x cm
+5 cm
+Matematika untuk SMP/MTs Kelas VII
+156
+8. 
+Perhatikan pola berikut ini.
+Pola 1
+Pola 2
+Pola 3
+a. 
+Tulislah dua bentuk aljabar ekuivalen yang menyatakan 
+banyaknya titik pada susunan pola di atas.
+b. 
+Gunakan kata-kata dan diagram untuk menjelaskan mengapa 
+bentuk aljabar tersebut benar.
+9. 
+Panitia OSIS sebuah sekolah ingin mengadakan acara pentas seni. 
+Panitia berhasil mengumpulkan sponsor untuk memberikan 
+bantuan dana untuk acara pentas seni.
+• 
+Ada 3 sponsor yang memberikan dana masing-masing 
+sebesar Rp500.000,00.
+• 
+Ada 5 sponsor yang memberikan dana masing-masing 
+sebesar Rp1.000.000,00 dan tambahan sponsor sebesar 
+Rp100.000,00 untuk setiap jenis lomba seni yang 
+diselenggarakan.
+• 
+Ada 10 sponsor yang memberikan dana masing-masing 
+sebesar Rp200.000,00 untuk setiap jenis lomba seni yang 
+diselenggarakan.
+a. 
+Tulislah bentuk aljabar dari banyak dana dari masing-masing 
+jenis sponsor di atas.
+b. 
+Tulislah bentuk aljabar dari total dana yang dikumpulkan 
+oleh panitia jika x menyatakan banyak jenis lomba seni yang 
+diselenggarakan.
+c. 
+Tulislah bentuk aljabar yang ekuivalen dengan bagian b).
+d. 
+Deskripsikan arti dari setiap unsur dalam bentuk aljabar yang 
+ekuivalen pada bagian c).
+Literasi Finansial
+Bab 4 | Bentuk Aljabar
+157
+e. 
+Jika lomba seni yang diselenggarakan adalah lomba band, 
+lomba menyanyi, lomba seni drama, lomba tari, dan lomba 
+membaca puisi, berapa total dana yang terkumpul dari 
+sponsor?
+10. Panitia OSIS menjual tiket untuk konser musik yang merupakan 
+acara tahunan sekolah. Rani menjual a tiket. Bagas menjual 3 kali 
+dari tiket yang dijual oleh Rani. Cakra menjual 4 tiket lebih sedikit 
+dari tiket yang dijual oleh Rani. Malik menjual 10 tiket lebih banyak 
+dari Rani.
+a. 
+Tulislah bentuk aljabar dari banyak tiket yang dijual oleh 
+Bagas, Cakra, dan Malik.
+b. 
+Tulislah bentuk aljabar dari total tiket yang terjual oleh Rani, 
+Bagas, Cakra, dan Malik.
+c. 
+Jika ada 10 tiket yang tidak terjual, tulislah bentuk aljabar dari 
+banyak tiket secara keseluruhan.
+d. 
+Jika tiket yang dijual oleh Rani sebanyak 12 tiket. Berapa 
+banyak tiket secara keseluruhan?
+Pengayaan
+Seandainya kalian mempunyai uang sebesar Rp5.000.000,00 dan kalian 
+akan menggunakan uang ini sebagai modal usaha.
+a. 
+Buatlah daftar produk apa saja yang akan kalian jual, biaya 
+pembuatan per produk, dan harga jual per produk. Tentukan 
+juga variabel untuk menyatakan kuantitas per produk.
+b. 
+Buatlah daftar biaya-biaya lain (termasuk biaya listrik, 
+biaya air, biaya sewa, atau lainnya) yang perlu dibayar saat 
+menjalankan usaha ini. Tentukan juga variabel yang akan 
+kalian gunakan jika ada.
+Literasi Finansial
+Matematika untuk SMP/MTs Kelas VII
+158
+c. 
+Buatlah bentuk aljabar dari biaya total untuk menjalankan 
+usaha ini. Sebisa mungkin carilah besar biaya yang sesuai 
+dengan kondisi nyata saat ini.
+d. 
+Buatlah bentuk aljabar dari banyak uang yang diperoleh dari 
+penjualan produk tersebut.
+e. 
+Buatlah bentuk aljabar dari profit atau keuntungan dari 
+penjualan produk tersebut.
+f. 
+Tentukanlah banyaknya produk yang akan kalian buat dan 
+jual per hari atau per bulan. Apakah banyak produk yang akan 
+kalian buat ini masuk akal? Jelaskan alasan kalian.
+g. 
+Berapa keuntungan yang dapat kalian peroleh per hari atau 
+per bulan dengan anggapan produk yang dibuat selalu terjual 
+semua dan kuantitasnya selalu sama per hari atau per bulan?
+h. 
+Berapa hari atau bulan yang diperlukan agar kalian 
+mendapatkan modal usaha kembali?
+i. 
+Lakukan bagian d) hingga h) dengan asumsi bahwa banyak 
+produk yang terjual kurang dari banyak produk yang dibuat. 
+Kalian dapat menentukan sendiri seberapa banyak produk 
+yang terjual.

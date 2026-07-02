@@ -1,0 +1,2000 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VII
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-602-244-883-9 (Jil.1)
+Bab 6
+Data dan Diagram
+Untuk apa data dikumpulkan 
+dan ditampilkan?
+Matematika untuk SMP/MTs Kelas VII
+186
+Tujuan Pembelajaran
+Setelah mempelajari bab ini, diharapkan kalian dapat:
+ 
+√
+Melakukan investigasi data dengan merumuskan pertanyaan, 
+mengumpulkan data, mengolah dan menginterpretasikannya 
+untuk menjawab pertanyaan
+ 
+√
+Membedakan jenis data dan menentukan diagram yang sesuai 
+dengan jenis data
+ 
+√
+Menggunakan diagram batang dan diagram lingkaran untuk 
+menyajikan dan menginterpretasikan data
+ 
+√
+Melakukan estimasi berdasarkan data yang tersaji dalam bentuk 
+diagram batang dan diagram lingkaran
+KARTU PELAJAR
+SMP NEGERI 5
+Nama
+: Putri 
+: 123042022
+: 23 April 2010
+: Jl. Pahlawan No.63
+Tanggal Lahir 
+Alamat
+NIS
+Gambar 6.1 Kartu Pelajar
+Setiap orang dalam kehidupan sehari-hari termasuk dalam 
+pekerjaannya, sering kali bertemu dengan berbagai bentuk informasi 
+yang disebut data. Di mana data-data yang didapat biasanya menolong 
+mereka untuk menjawab pertanyaan-pertanyaan berikut, antara lain:
+ 
+■
+Berapa banyak minuman botol yang laku terjual di mini market 
+dekat rumah dalam 1 minggu? Bagaimana variasi jenis minuman 
+botol yang terjual?
+ 
+■
+Produk apakah yang biasa dibeli oleh para remaja SMP di mini 
+market?
+ 
+■
+Apakah dengan menerapkan aturan kerja dari rumah, akan 
+menurunkan jumlah kasus positif Covid-19 di daerah kalian?
+ 
+■
+Provinsi manakah yang warganya didominasi oleh sumber daya 
+manusia usia produktif pada tahun 2021? 
+Bab 6 | Data dan Diagram
+187
+Pemerintah, pengusaha, dan setiap orang dalam mengambil 
+keputusan yang baik, pasti juga memerlukan data yang baik supaya 
+keputusan yang diambil tepat dan sesuai kondisi nyata. 
+Statistika adalah cabang ilmu dari matematika yang erat kaitannya 
+dengan pengumpulan, pengorganisasian, tampilan, analisis, dan 
+interpretasi data yang biasanya disajikan dalam bentuk numerik.
+Dalam kehidupan sehari-hari siswa SMP seringkali muncul 
+berbagai pertanyaan seputar karakteristik kebanyakan siswa SMP. 
+Misalnya:
+1. 
+Lagu apa yang paling banyak didengar oleh anak-anak SMP 
+sekarang?
+2. 
+Media apa yang paling sering digunakan untuk mendengarkan 
+musik oleh siswa SMP?
+3. 
+Apakah rata-rata tinggi badan kelompok siswa perempuan di kelas 
+lebih tinggi dari kelompok siswa laki-laki?
+4. 
+Apakah saya menggunakan waktu lebih banyak untuk mengakses 
+media sosial dalam sehari dibandingkan teman-teman saya?
+Untuk 
+menjawab 
+pertanyaan-pertanyaan 
+tersebut, 
+kalian 
+bisa melakukan investigasi statistika dengan mengumpulkan data, 
+menganalisisnya, dan menginterpretasikan analisis hasilnya.
+Pertanyaan Pemantik
+ 
+■
+Bagaimana pengorganisasian data dapat menolong saya dalam 
+menganalisi data?
+ 
+■
+Bagaimana diagram dapat memberikan informasi yang berguna 
+dari suatu distribusi data?
+ 
+■
+Bagaimana saya menggunakan diagram untuk membandingkan 
+dua kelompok data?
+Matematika untuk SMP/MTs Kelas VII
+188
+Kata Kunci
+Distribusi data, data numerik, data kategorik, line plot, tabel frekuensi, 
+diagram batang, diagram garis, diagram lingkaran.
+Bagan Materi
+Ayo Mengingat Kembali
+Masih ingatkah kalian piktogram dan diagram batang di bawah ini? 
+bagaimana hubungan kedua gambar ini?
+Gambar 6.2 Piktogram dan Diagram Batang Buah-Buahan yang Paling Disukai
+Data
+Data
+Kategorik
+Data
+Numerik
+Diagram
+Batang
+Diagram
+Garis
+Diagram
+Lingkaran
+Diagram
+Statistika
+Mangga
+Buah yang paling
+disukai
+Frekuensi
+Jeruk
+Apel
+Durian
+Matoa
+= 2 anak
+Mangga
+0
+2
+4
+6
+8
+10
+12
+Jeruk
+Buah yang Paling Disukai
+Apel
+Durian
+Matoa
+Bab 6 | Data dan Diagram
+189
+A. Investigasi Statistika
+Sering kali para siswa SMP membandingkan siapa pemain sepakbola 
+yang paling hebat? Atau makanan apa yang menjadi favorit anak-anak 
+SMP di sekolah kalian? Atau kelas mana yang tampil lebih baik saat 
+pengambilan nilai tes sit-up untuk pelajaran olahraga?
+Untuk menjawab pertanyaan-pertanyaan di atas menggunakan 
+investigasi statistika, tentunya kalian perlu melakukan formulasi 
+pertanyaan yang dapat menjawab pertanyaan-pertanyaan tersebut. 
+Misalnya untuk mencari tahu siapa pemain sepakbola yang paling hebat, 
+kita dapat bertanya, “Berapakah rata-rata jumlah gol yang dihasilkan 
+selama 1 musim kompetisi?” Untuk mencari makanan favorit, bisa 
+dengan memformulasikan pertanyaan menjadi “Makanan apa yang 
+paling banyak disebutkan oleh siswa SMP?” Atau untuk pertanyaan 
+mengenai kelas mana yang tampil lebih baik saat pengambilan nilai 
+tes sit up untuk pelajaran olahraga, dapat diformulasikan dengan 
+pertanyaan “Kelas mana yang memiliki rata-rata jumlah sit up yang 
+lebih baik?”
+Tabel 6.1 Formulasi Pertanyaan dalam Investigasi Statistika
+Kelompok A
+Kelompok B
+Siapa pemain sepakbola yang paling 
+hebat?
+Berapakah rata-rata jumlah gol 
+yang dihasilkan selama 1 musim 
+kompetisi?
+Makanan apa yang menjadi favorit 
+anak-anak SMP di sekolah kalian?
+Makanan apa yang paling banyak 
+disebutkan oleh siswa SMP?
+Kelas mana yang tampil lebih baik 
+pengambilan nilai tes sit-up di 
+pelajaran olahraga?
+Kelas mana yang memiliki rata-rata 
+jumlah sit up yang lebih baik?”
+Setelah kalian memformulasikan pertanyaan, maka langkah 
+selanjutnya adalah melakukan pengumpulan data yang terkait dengan 
+pertanyaan. Lalu, data yang terkumpul dapat diolah menjadi bentuk 
+diagram atau mencari nilai ukuran pemusatannya. Langkah terakhir 
+adalah kalian dapat menganalisis hasilnya dan menjawab pertanyaan 
+Matematika untuk SMP/MTs Kelas VII
+190
+awal secara statistika, seperti pada tampilan diagram alur investigasi 
+statistika berikut.
+Formulasi
+Pertanyaan
+Investigasi
+Statistika
+Pengumpulan
+Data
+Analisis
+Data
+Interpretasi
+Hasil
+Gambar 6.3 Alur Proses Investigasi Statistika
+Eksplorasi
+6.1
+Formulasi Pertanyaan, Pengumpulan, 
+Pengolahan, dan Interpretasi Data
+Sebagai pelajar SMP, kalian tentu mempunyai kartu pelajar. Di kartu 
+pelajar biasanya dicantumkan identitas kalian sebagai pelajar di 
+sekolah masing-masing, misalnya tercantum nama lengkap siswa, 
+nomor identitas siswa, dan tanggal lahir siswa. Pernahkah kalian 
+memperhatikan nama lengkap kalian dan teman-teman sekelas di 
+kartu pelajar? Apakah ada teman kalian yang namanya sangat panjang 
+sampai tidak mungkin ditulis secara lengkap pada kartu pelajar? Ada 
+seorang siswi dengan nama terpanjang terdiri atas 17 kata yang tinggal 
+di daerah Yogyakarta, nama lengkapnya adalah Aiwinur Siti Diah Ayu 
+Mega Ningrum Dwi Pangestuti Lestasi Endang Pamikasih Sri Kumala 
+Sari Dewi Puspita Anggraini. Dengan nama sepanjang ini tentu saja 
+tidak akan bisa ditulis secara lengkap, baik di kartu pelajar maupun di 
+kartu lainnya seperti kartu tanda penduduk. 
+Biasanya panjang nama dari seseorang, tidak lebih dari 30 huruf. 
+Bagaimana dengan panjang nama kalian dan teman-teman sekelas 
+kalian?
+Pada Eksplorasi 6.1 ini kalian akan menjawab pertanyaan, 
+“Berapa panjang nama siswa di kelas saya?” Kita akan mulai dengan 
+mengumpulkan data seputar panjangnya nama siswa. Jika seorang siswi 
+bernama Metta Widyanti, artinya panjang namanya adalah 13 huruf 
+karena terdiri dari 5 huruf untuk Metta dan 8 huruf untuk Widyanti. 
+Bab 6 | Data dan Diagram
+191
+Nah, jika kalian ingin mengetahui kebanyakan berapa banyak huruf 
+yang ada di nama lengkap kalian dan teman-teman sekelas kalian,
+ 
+■
+Data apa yang perlu kalian kumpulkan dan bagaimana cara 
+mengumpulkannya?
+ 
+■
+Bagaimana kalian akan mengolah data tersebut?
+ 
+■
+Jika ada seorang siswa baru bergabung ke dalam kelas kalian 
+hari ini, bagaimana kalian menggunakan hasil analisis untuk 
+memperkirakan panjang nama siswa tersebut?
+Salah satu diagram sederhana untuk menampilkan data adalah 
+line plot. Diagram ini menggunakan garis bilangan yang menyertakan 
+semua nilai dalam kumpulan data. Lalu, tempatkan tanda X di atas 
+setiap nilai data pada garis bilangan. Untuk lebih jelasnya, mari kita 
+gunakan line plot untuk data banyaknya huruf dari nama siswa kelas 
+7A.
+Line plot di bawah ini yang menunjukkan banyaknya huruf di 
+nama siswa-siswa kelas 7A di Sekolah Indonesia Raya. 
+Panjang Nama Siswa di Kelas 7A
+Banyaknya Huruf
+6
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19 20
+21
+22
+23 24
+25
+26
+27
+28 29
+30
+31
+32
+Gambar 6.4 Diagram Line Plot Panjang Nama Siswa 7A
+Dari line plot di atas, cobalah menjawab beberapa pertanyaan berikut.
+1. 
+Ada berapa siswa di kelas 7A yang memiliki nama sama panjang 
+dengan Metta Widyanti?
+2. 
+Berapakah jumlah siswa yang ada di kelas 7A?
+Matematika untuk SMP/MTs Kelas VII
+192
+3. 
+ 
+Jika Rahma Kusni adalah siswa kelas 7A, maka berapakah teman 
+Rahma yang memiliki nama yang sama panjang dengannya? Ada 
+berapa banyak siswa di kelas 7A yang memiliki panjang nama dua 
+kali dari nama Rahma? 
+4. 
+Ada berapa banyak siswa yang memiliki panjang nama lebih dari 
+20 huruf?
+5. 
+ 
+Seandainya kalian adalah siswa yang memiliki panjang nama yang 
+terpendek, sebutlah 2 nama yang mungkin untuk menjadi nama 
+kalian.
+Data yang sama, kali ini ditampilkan dalam diagram batang sebagai 
+berikut.
+Gambar 6.5 Diagram Batang Panjang Nama Siswa 7A
+6. 
+Apakah persamaan dan perbedaan dari kedua diagram di atas?  
+Untuk menjelaskan bagaimana data terdistribusi, kalian dapat 
+melihat di daerah mana kebanyakan data terletak, berapa beda 
+frekuensi antar data dan data mana yang memiliki frekuensi paling 
+banyak dan paling sedikit. 
+7. 
+Bagaimana kalian mencari total banyaknya huruf di seluruh nama 
+siswa 7A menggunakan kedua diagram di atas?
+Ayo Berpikir Kritis
+Ayo Berpikir Kreatif
+6
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+7
+8
+9
+10
+11
+12
+13
+14 15
+16
+17
+18 19
+20 21
+22 23
+24 25 26 27 28
+Panjang Nama Siswa Kelas 7A
+Frekuensi
+Bab 6 | Data dan Diagram
+193
+8. 
+Pratama Imam Raphael Jayaputra berkata, “Nama saya memiliki 
+huruf yang paling banyak, tapi batang yang menunjukkan panjang 
+nama saya ternyata salah satu yang terpendek di diagram batang 
+ini. Kenapa?”
+Bagaimana kalian menjelaskan pada Pratama mengenai hal ini?
+Latihan 6.1
+1. 
+ 
+Sekarang, kumpulkanlah data banyaknya huruf dari nama teman-
+teman sekelas kalian. Tampilkanlah distribusi datanya dalam line 
+plot dan diagram batang.
+2. 
+Jelaskan persamaan dan perbedaan antara distribusi data siswa 
+kelas 7A dengan distribusi data kelas kalian. Beberapa contoh 
+pengamatan yang bisa dilakukan.: 
+a. 
+Di kelas 7A, panjang nama siswa yang terbanyak adalah 13 
+huruf, yaitu ada sebanyak 6 siswa. Bagaimana dengan kelas 
+kalian? 
+b. 
+Di kelas 7A, 19 dari 27 siswa atau sekitar 70% memiliki panjang 
+nama antara 10 sampai 20 huruf. Bagaimana dengan kelas 
+kalian?
+3. 
+Jika diagram batang panjang nama siswa kelas 7A diubah menjadi 
+diagram batang data kelompok seperti gambar berikut. Cobalah 
+membuat diagram batang data kelompok juga untuk data kelas 
+kalian.
+ 
+Ayo Berpikir Kritis
+Ayo Bekerja Sama
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VII
+194
+Banyaknya Huruf
+Panjang Nama Siswa Kelas 7A
+Frekuensi
+6 - 10
+11 - 15
+16 - 20
+21 - 25
+26 - 30
+2
+4
+6
+8
+10
+12
+14
+Gambar 6.6 Diagram Batang Data Kelompok Panjang Nama Siswa 7A
+Ayo Berefleksi
+1. 
+Apakah saya sudah bisa memformulasikan pertanyaan investigasi 
+statistika?
+2. 
+Apakah saya sudah bisa melakukan pengumpulan data sederhana?
+3. 
+Apakah saya sudah dapat menampilkan data menggunakan diagram 
+line plot dan diagram batang?
+B. Macam-Macam Data
+Data diperlukan oleh berbagai badan pemerintah, perusahaan, 
+organisasi atau siapa pun untuk dianalisis sehingga mendapatkan 
+gambaran apa yang sedang terjadi. Informasi ini sangat berguna untuk 
+membuat kesimpulan dan mengambil keputusan tentang apa yang 
+harus dilakukan di masa mendatang.
+Berdasarkan bentuknya, data dapat dibagi menjadi 2 kelompok 
+jenis data:
+Kategorik
+Numerik
+DATA
+Gambar 6.7 Klasifikasi Jenis Data
+Bab 6 | Data dan Diagram
+195
+Data Kategorik: Data yang berbentuk kualitatif, biasanya bukan 
+berbentuk bilangan, misalnya 
+1. 
+Nama provinsi: Sumatra Selatan, Jawa Timur, Maluku Utara, Papua 
+Barat
+2. 
+Nama negara: Indonesia, Singapura, Finlandia
+3. 
+Urutan nomor kelas: 7-1, 7-2, 7-3, dan seterusnya
+4. 
+dan lainnya.
+Data Numerik: Data yang selalu berbentuk angka, misalnya tinggi 
+badan, panjang nama, jumlah medali dalam olimpiade, jumlah gol 
+dalam pertandingan sepakbola, suhu badan, dan lainnya.
+Tahukah Kalian?
+?
+ 
+Ternyata ada data yang berbentuk bilangan, namun tidak termasuk 
+dalam data numerik. Coba diskusikan dahulu dengan teman sekelas 
+kalian sebelum membaca penjelasannya di bawah ini.
+Untuk urutan kelas data 7-1, 7-2, 7-3, walaupun jawabannya berupa 
+bilangan yaitu urutan kelas, jenis data ini adalah data kategorik, bukan 
+numerik karena bilangan pada peringkat tidak dapat dioperasikan 
+dengan operasi matematika seperti operasi tambah atau kurang. 
+Contoh data kategorik lainnya yang berupa bilangan adalah nomor 
+absen siswa di kelas kalian.
+Eksplorasi
+6.2
+Membedakan Jenis Data
+Saat ini kita hidup di era digital dan teknologi. Salah satunya ditandai 
+dengan kemajuan teknologi internet yang semakin mudah diakses 
+oleh setiap orang. Sampai Januari 2021, ternyata 73,7% dari jumlah 
+penduduk di Indonesia sudah menjadi pengguna internet. Bagaimana 
+dengan kalian? Apakah kalian termasuk salah satu pengguna internet 
+di Indonesia?
+Matematika untuk SMP/MTs Kelas VII
+196
+Salah satu kegiatan yang paling banyak dilakukan di Indonesia 
+adalah mengakses media sosial. Tahukah kalian media sosial mana 
+yang paling banyak diakses oleh para pengguna internet di Indonesia? 
+Menurut data di laman We are social, Hootsuite, berikut platform media 
+sosial yang paling banyak diakses oleh pengguna internet di Indonesia 
+pada Januari 2021.
+YouTube
+Media Sosial yang paling banyak digunakan pada Januari 2021
+Persentase penggunaan Internet pada pengguna berusia 16 sampai dengan 64 tahun
+dalam satu bulan terakhir.
+93,8 %
+87,7 %
+86,6 %
+85,5 %
+63,6 %
+52,4 %
+44,3 %
+39,4 %
+38,7 %
+35,6 %
+28,5 %
+26,2 %
+25,4 %
+24,3 %
+18,4 %
+17,1 %
+WhatsApp
+Instagram
+Facebook
+Twitter
+Fb Messenger
+LINE
+Linkedin
+TikTok
+Pinterest
+Telegram
+Wechat
+Snapchat
+Skype
+Tumblr
+Reddit
+Gambar 6.8 Jenis Media Sosial yang Diakses Pengguna Internet di Indonesia
+Sumber: https://datareportal.com/reports/digital-2021-indonesia
+Mari kita klasifikasikan data-data yang kita peroleh dari bacaan di 
+atas, apakah masuk dalam data kategorik atau numerik? 
+1. 
+Banyak pengguna internet di Indonesia
+2. 
+Urutan media sosial terbanyak yang digunakan di Indonesia
+3. 
+Lamanya waktu mengakses internet per hari di Indonesia
+4. 
+Macam media sosial yang diakses oleh pengguna internet di 
+Indonesia 
+Bagaimana dengan lingkungan sekitar kalian? Media sosial 
+manakah yang paling sering kalian gunakan dan juga teman-teman 
+Bab 6 | Data dan Diagram
+197
+kalian? Jawaban dari pertanyaan ini, akan menjadi data kategorik atau 
+data yang berupa kata-kata.
+Jika kalian ingin mencari tahu lebih lanjut mengenai berapa jam 
+dalam sebulan kalian dan teman-teman mengakses media sosial, maka 
+jawaban dari pertanyaan ini akan berupa data numerik.
+Latihan 6.2
+1. 
+Dari pertanyaan di bawah ini, manakah pertanyaannya yang 
+memberikan jawaban berupa data kategorik? Manakah pertanyaan 
+yang jawabannya berupa data numerik?
+a. 
+Di kota manakah kalian dilahirkan?
+b. 
+Pada bulan apa kalian dilahirkan?
+c. 
+Berapakah lamakah waktu yang kalian gunakan untuk 
+membaca buku setiap harinya?
+d. 
+Apakah permainan online favorit kalian?
+e. 
+Berapakah skor tertinggi yang berhasil kalian dapatkan dalam 
+permainan online itu?
+f. 
+Siapakah atlet sepakbola favorit kalian?
+g. 
+Aplikasi apa saja yang kalian unduh pada tahun 2021 kemarin?
+h. 
+Ada berapa banyak aplikasi permainan online yang ada dalam 
+gawai kalian?
+2. 
+Dari data di bawah ini, klasifikasikanlah, apakah masuk ke dalam 
+data kategorik atau data numerik?
+a. 
+Jumlah medali emas yang diperoleh negara-negara di 
+olimpiade 2020 Tokyo
+b. 
+Bulan kelahiran siswa kelas 7
+c. 
+Banyaknya anggota keluarga di rumah kalian
+d. 
+Judul website yang sering dikunjungi oleh siswa kelas 7
+e. 
+Banyaknya lagu yang diunduh oleh siswa kelas 7 dalam sehari
+f. 
+Jenis lagu yang diunduh oleh siswa kelas 7
+Matematika untuk SMP/MTs Kelas VII
+198
+3. 
+Saat suasana pandemi seperti ini, penting bagi kita menjaga 
+protokol kesehatan dan meningkatkan sistem imun. Salah satu 
+cara meningkatkan sistem imun adalah dengan berolahraga 
+secara rutin dan teratur. Masuk ke dalam data kategorik atau data 
+numerikkah data-data di bawah ini?
+a. 
+Jenis olahraga favorit siswa kelas 7
+b. 
+Banyaknya siswa kelas 7 yang berolahraga pada hari Sabtu
+c. 
+Lamanya waktu (dalam jam) siswa kelas 7 berolahraga dalam 
+sehari
+d. 
+Skor dalam pertandingan bulutangkis
+e. 
+Kelompok usia tim sepakbola
+f. 
+Peringkat Indonesia di Asian Games dari tahun ke tahun
+4. 
+Sebutkanlah 2 contoh data jenis numerik dan 2 contoh data 
+kategorik.
+5. 
+Siswa kelas 7B dari Sekolah Indonesia Raya memiliki pertanyaan:
+a. 
+Berapakah aplikasi permainan online yang ada dalam gawai 
+kalian?
+b. 
+Permainan online manakah yang menjadi favorit kalian?
+Mereka mengumpulkan datanya, lalu menampilkan data tersebut 
+dalam tabel frekuensi dan menggambar diagram batangnya untuk 
+menunjukkan sebaran datanya.
+Ayo Berpikir Kreatif
+Bab 6 | Data dan Diagram
+199
+Tabel 6.2 Tabel Banyak  
+Aplikasi Online
+Banyaknya aplikasi 
+permainan online 
+dalam gawai
+Banyak 
+Siswa
+0
+1
+1
+3
+2
+7
+3
+10
+4
+8
+5
+2
+6
+1
+0
+1
+2
+3
+4
+5
+6
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Banyak Aplikasi Permainan Online
+dalam Gawai Siswa 7B
+Banyak Aplikasi
+Jumlah Siswa
+Gambar 6.9 Diagram Banyak  
+Aplikasi Online
+Tabel 6.3 Tabel Jenis  
+Aplikasi Online
+Aplikasi 
+Permainan Online 
+Favorit
+Banyak 
+Siswa
+Mobile Legends
+12
+Wormszone.io
+6
+PUBG Mobile
+5
+Among Us!
+4
+Hago
+3
+Candy Crush Saga
+1
+Mobile
+legend
+Worms
+Zone
+PUBG
+Among
+Us
+Hago
+Candy
+Crush
+2
+4
+6
+8
+10
+12
+Aplikasi Permainan Online Favorit
+Nama Aplikasi
+Jumlah Siswa
+Gambar 6.10 Diagram Jenis  
+Aplikasi Online
+Dari kedua data dan tabel di atas, tentukanlah pertanyaan mana 
+saja yang bisa dijawab melalui informasi di atas. Jika dapat di jawab, 
+tentukanlah jawabannya. Jika pertanyaan di bawah ini tidak dapat 
+Matematika untuk SMP/MTs Kelas VII
+200
+dijawab, jelaskan mengapa dan informasi apakah yang kalian perlukan 
+agar kalian bisa menjawab pertanyaan tersebut.
+a. 
+Diagram manakah yang menunjukkan data kategorik?
+b. 
+Diagram manakah yang menunjukkan data numerik?
+c. 
+Berapakah jumlah siswa kelas 7B?
+d. 
+Aplikasi apakah yang paling favorit di kelas 7B?
+e. 
+Berapakah jumlah aplikasi permainan online yang ada di 
+gawai siswa kelas 7B?
+f. 
+Berapa jumlah siswa yang memilih Aplikasi Among Us! sebagai 
+permainan favoritnya?
+g. 
+Berapakah jumlah aplikasi terbanyak yang dimiliki siswa 7B?
+h. 
+Berapakah banyaknya aplikasi yang dimiliki kebanyakan 
+siswa kelas 7B?
+i. 
+Jika Dillan adalah siswa kelas 7B, berapakah aplikasi yang dia 
+miliki?
+j. 
+Aplikasi manakah yang menjadi favorit siswa perempuan di 
+kelas 7B?
+Ayo Berefleksi
+Apakah saya sudah bisa membedakan data mana yang merupakan data 
+kategorik dan mana yang merupakan data numerik?
+C. Diagram dalam Statistika 
+Pada saat buku ini ditulis, kita semua sedang mengalami pandemi 
+Covid-19 gelombang ke-3 atau Covid-19 varian Omicron. Mengapa kita 
+dianggap sedang menghadapi gelombang ke-3 pandemi? Dari diagram 
+berikut, apakah kalian mengetahui jawabannya?
+Bab 6 | Data dan Diagram
+201
+Gambar 6.11 Jumlah Kasus Terkonfirmasi Harian di Indonesia per 23 Februari 2022
+Sumber: https://covid19.go.id/peta-sebaran
+Ketika membaca diagram, hal yang pertama harus dilihat adalah 
+judul diagram dan keterangan pada setiap sumbu. Dari diagram di 
+atas, kita dapat melihat bahwa pada sumbu horizontal terbaca periode 
+waktu harian, sedangkan pada sumbu vertikal menunjukkan jumlah 
+kasus terkonfirmasi harian.
+Pada diagram di atas kita dapat melihat bahwa Indonesia 
+menghadapi gelombang ke-1 pandemi Covid-19 pada periode Desember 
+2020 sampai dengan Februari 2021, gelombang ke-2 pada Juni sampai 
+Agustus 2021, dan gelombang ke-3 yang dimulai pada pertengahan 
+Januari 2022. Dengan diagram, kita dapat dengan cepat memahami 
+situasi pandemi Covid-19 yang terjadi di Indonesia. Pernahkah kalian 
+melihat diagram perkembangan pandemi di daerah kalian?
+Penggunaan diagram adalah cara yang sangat efektif untuk 
+menampilkan data atau informasi numerik. Koran biasanya selalu 
+mengeluarkan informasi berupa diagram untuk menunjukkan kepada 
+kita jenis data tertentu. Penggunaan diagram membuat data lebih 
+mudah dipahami daripada informasi tertulis. Foto-foto dan gambar 
+seringkali lebih cepat dibaca dan dicerna daripada paragraf tulisan.
+Namun, tanpa keterampilan membaca diagram, kalian bisa salah 
+mengartikan diagram itu atau tidak terlalu mengerti dengan apa yang 
+ditampilkan oleh diagram itu. Pada subbab ini kalian akan mempelajari 
+bagaimana menggunakan diagram, membacanya dengan akurat dan 
+memahami informasi apa yang bisa diperoleh dan informasi yang tidak 
+bisa diperoleh dari diagram yang disajikan.
+80,000
+70,000
+60,000
+50,000
+40,000
+80,000
+20,000
+10,000
+0
+Apr
+Jul
+Okt
+Jan 2021
+Apr
+Jul
+Okt
+Jan 2022
+Matematika untuk SMP/MTs Kelas VII
+202
+Setiap diagram seharusnya memiliki fitur judul, label pada setiap 
+sumbu atau bagian, skala pada sumbu atau bagian yang sama besar. 
+Skala ini juga harus konsisten dan satuan yang digunakan terlihat 
+pada diagram. Serta legenda, meskipun tidak selalu harus ada, namun 
+sangat penting ketika ingin menunjukkan dua atau lebih elemen pada 
+diagram.
+Eksplorasi
+6.3
+Membaca dan Menginterpretasikan 
+Diagram
+Mari kita lihat diagram berikut. Dari judulnya, kita mendapatkan 
+informasi bahwa diagram ini bercerita mengenai pemakaian kuota 
+internet untuk pembelajaran jarak jauh atau yang sering disingkat 
+menjadi PJJ untuk periode Juli sampai dengan Desember 2020.
+Keterangan pada sumbu horizontal menyebutkan urutan bulan. 
+Angka 7 artinya bulan ke-7 atau Juli, sedangkan angka 8 menunjukkan 
+bulan ke-8 atau Agustus dan seterusnya.
+Keterangan pada sumbu vertikal menunjukkan jumlah kuota 
+internet yang terpakai. Kalian bisa memperhatikan bahwa jarak antar 
+skala selalu konsisten, dimulai dari 0, 2, 4, 6, 8 dan 10. Selalu berjarak 
+konsisten dan dimulai dari angka 0.
+Gambar 6.12 Diagram Batang Penggunaan Kuota Internet untuk Pembelajaran Jarak Jauh
+7
+8
+9
+10
+11
+12
+2
+4
+6
+8
+10
+12
+Penggunaan Kuota Internet untuk PJJ
+Juli - Desember 2021
+Bulan Ke
+Kuota Internet yang terpakai (GB)
+Bab 6 | Data dan Diagram
+203
+Ayo Mencoba
+Mari mendiskusikan pertanyaan di bawah ini berdasarkan informasi dari 
+grafik penggunaan internet.
+1. 
+Pada bulan ke-8, berapakah kuota internet yang terpakai?
+2. 
+Pada bulan November, berapakah kuota internet yang digunakan?
+3. 
+Pada bulan ke berapakah yang menggunakan kuota internet sebesar 
+7 GB?
+4. 
+Bulan apakah yang paling banyak menggunakan kuota internet? 
+Berapa GB yang digunakan pada bulan tersebut?
+Ayo Berpikir Kritis
+5. 
+Jika kalian mendapatkan bantuan kuota internet 8 GB dari 
+Kemdikbud, pada bulan keberapakah kalian perlu membeli tambahan 
+kuota? 
+Setelah kalian mempelajari diagram batang di atas, pernahkah 
+kalian melihat diagram batang rangkap atau double bar graph? Diagram 
+batang rangkap ini biasanya sangat membantu ketika kalian ingin 
+membandingkan 2 kumpulan data.
+Olimpiade 
+musim 
+panas 
+diselenggarakan 4 tahun sekali. 
+Diagram 
+batang 
+di 
+samping 
+menunjukkan perolehan medali 
+emas yang diperoleh oleh negara 
+Amerika, Cina, Jepang, Inggris, 
+dan Rusia.
+Brasil menjadi tuan rumah 
+Olimpiade tahun 2016 dan Jepang 
+menjadi tuan rumah Olimpiade 
+pada tahun 2020, walaupun pada 
+pelaksanaannya sempat mundur 
+menjadi 
+2021 
+karena 
+adanya 
+pandemi Covid-19.
+Gambar 6.13 Diagram Batang Perolehan 
+Medali Emas di Olimpiade Musim Panas
+AS
+China
+Japan
+Inggris
+Raya
+Rusia
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Perolehan Medali Emas
+Olimpiade Musim Panas
+Negara
+Jumlah Medali
+2016, Brazil
+2020, Jepang
+Matematika untuk SMP/MTs Kelas VII
+204
+Batang yang berwarna merah menunjukkan banyaknya medali 
+emas yang diperoleh negara-negara tersebut pada Olimpiade 2016, 
+sedangkan batang yang berwarna biru menunjukkan medali emas 
+yang diperoleh pada Olimpiade 2020.
+Mari mendiskusikan pertanyaan di bawah ini berdasarkan 
+informasi dari diagram perolehan medali emas pada Olimpiade di atas.
+1. 
+Berapakah medali emas yang diperoleh oleh Inggris pada Olimpiade 
+2016? Berapa perolehan medali Inggris pada Olimpiade 2020?
+2. 
+Negara manakah yang meraih medali emas paling banyak pada 
+Olimpiade 2016?
+3. 
+Negara manakah yang meraih medali emas paling banyak pada 
+Olimpiade 2020?
+4. 
+Negara manakah yang mengalami peningkatan jumlah medali dari 
+Olimpiade 2016 ke Olimpiade 2020?
+5. 
+Negara manakah yang mengalami penurunan jumlah medali dari 
+Olimpiade 2016 ke Olimpiade 2020?
+6. 
+Negara manakah yang menjadi runner-up pada Olimpiade 2016?
+7. 
+Negara manakah yang menjadi runner-up pada Olimpiade 2020? 
+Latihan 6.3
+1. 
+Diagram di sebelah kanan 
+merupakan Diagram Batang 
+Rangkap Penjualan Sepatu 
+Pria dan Wanita di 3 toko:  
+A, B, dan C. 
+a. 
+Toko manakah yang 
+paling banyak menjual 
+sepatu pria?
+b. 
+Toko manakah yang 
+paling banyak menjual 
+sepatu wanita?
+Gambar 6.14 Diagram Batang Banyaknya 
+Sepatu Terjual
+A
+B
+C
+20
+40
+60
+80
+100
+120
+Jumlah Pasang Sepatu Terjual
+Nama Toko
+Sepatu terjual (pasang)
+Sepatu Pria
+Sepatu Wanita
+Bab 6 | Data dan Diagram
+205
+c. 
+Lebih banyak berapa pasangkah, penjualan sepatu pria di toko 
+A dari toko C?
+d. 
+Lebih banyak berapa pasangkah, penjualan sepatu wanita di 
+toko B dari toko C?
+2. 
+Dari diagram batang jumlah pengunjung Taman Wisata selama 
+tahun 2018 sampai 2019, jawablah pertanyaan berikut:
+a. 
+Berapakah jumlah pengunjung pada tahun 2021?
+b. 
+Berapakah selisih jumlah pengunjung tahun 2019 dan 2020?
+c. 
+Melihat diagram batang ini, apakah kalian menemukan pola 
+pertumbuhan jumlah pengunjung wisata setiap tahunnya? 
+Jelaskan.
+d. 
+Jika pola ini berlanjut, berapakah jumlah pengunjung Taman 
+Wisata pada tahun 2022?
+e. 
+Apabila skala pada sumbu vertikal diubah dari 50.000 menjadi 
+200.000, menurut kalian akan berubah seperti apakah tampilan 
+diagram ini?  
+3. 
+Perhatikan diagram hasil ulangan matematika Eko, Bella, dan 
+Totok.
+a. 
+Bella berkata, “Nilai ulanganku 3 kali lebih bagus dari nilai 
+Eko, karena panjang batang pada diagram nilaiku 3 kali lebih 
+panjang dari Eko.” Setujukah kalian dengan Bella? Jelaskan.
+Gambar 6.15 Diagram Batang Jumlah Pengunjung Taman Wisata
+2018
+2019
+2020
+2021
+50.000
+100.000
+150.000
+200.000
+250.000
+Jumlah Pengunjung Taman Wisata
+Matematika untuk SMP/MTs Kelas VII
+206
+b. 
+Adakah yang salah dengan diagram ini? 
+Gambar 6.16 Diagram Batang Nilai Ulangan
+4. 
+Diagram di sebelah kanan 
+menjelaskan banyaknya mobil 
+berdasarkan 
+warnanya 
+di 
+tempat parkir sebuah taman. 
+Jawablah pertanyaan berikut.
+a. 
+Berapa banyakkah mobil 
+berwarna putih?
+b. 
+Berapa banyakkah mobil 
+berwarna kuning?
+c. 
+Mobil warna apakah yang 
+paling banyak ditemui?
+d. 
+Berapakah selisih 
+banyaknya antara mobil 
+warna merah dengan 
+warna hijau?
+e. 
+Berapakah jumlah seluruh 
+mobil yang sedang parkir di taman?
+Ayo Berpikir Kritis
+Eko
+Bella
+Totok
+40
+50
+60
+70
+80
+90
+100
+Nilai Ulangan Matematika
+Siswa
+Gambar 6.17 Diagram Batang Jumlah Mobil di 
+Tempat Parkir
+Merah
+Hitam
+Putih
+Hijau
+Kuning
+Lainnya
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+Jumlah Mobil Berdasarkan Warna di Tempat Parkir
+Warna Mobil
+Jumlah Mobil
+Bab 6 | Data dan Diagram
+207
+f. 
+Mengapa terdapat kategori “lainnya” pada diagram? Jelaskan.
+Ayo Berefleksi
+1. 
+Apakah saya sudah memahami apa saja keterangan yang perlu ada 
+dalam suatu diagram?
+2. 
+Apakah saya memahami perbedaan diagram batang tunggal dan 
+diagram batang ganda?
+3. 
+Apakah saya sudah dapat menyebutkan ciri–ciri diagram yang kurang 
+tepat?
+D. Diagram Batang
+Salah satu cara menampilkan data secara sederhana adalah dengan 
+menggunakan diagram batang. Diagram batang, umumnya digunakan 
+pada data kategorik, di mana data-data tersebut dibagi ke dalam 
+beberapa grup lalu kita menghitung frekuensi dari setiap grup. Untuk 
+lebih memudahkan kalian dalam mengelompokkan data, kalian dapat 
+menggunakan tabel frekuensi. Tabel frekuensi juga akan membuat 
+data yang kalian perlukan jadi lebih mudah dibaca.
+Diagram batang harus mencantumkan beberapa fitur sebagai 
+berikut:
+1. 
+Judul
+2. 
+Label pada sumbu horizontal dan vertikal yang jelas dengan skala 
+yang konsisten
+3. 
+Lebar tiap batang sama
+4. 
+Adanya jarak antar batang
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VII
+208
+Eksplorasi
+6.4
+Mengumpulkan dan Menampilkan Data 
+dalam Diagram Batang
+Pada saat Asian Games 2018, Jakarta dan Palembang menjadi tuan 
+rumah ajang olahraga terbesar Asia ini. Siswa kelas 7C dan 7D dari 
+Sekolah Merah Putih ingin mengadakan acara nonton bareng Asian 
+Games 2018 ini. Untuk menentukan cabang olahraga yang akan mereka 
+lihat, mereka mengadakan survei. Tabel berikut adalah hasil survei 
+kelas 7C dan 7D.
+Tabel 6.4 Tabel Distribusi Frekuensi Pilihan Cabang Olahraga Siswa Kelas 7C dan 7D
+Pilihan Cabang 
+Olahraga
+Kelas 7C
+Kelas 7D
+Turus
+Frekuensi
+Turus
+Frekuensi
+Bulu tangkis
+ 
+  
+13
+  
+8
+Bola Basket
+ 
+ 
+10
+ 
+  
+12
+Bola Voli
+  
+6
+  
+8
+Atletik
+ 
+3
+5
+Renang
+ 
+2
+1
+Mari kita mulai menggambar diagram batang untuk data pada tabel 
+di atas. Data ini cocok menggunakan diagram batang karena bentuk 
+data kategorik, yaitu cabang olahraga. Karena ada 2 kelompok data, 
+yaitu kelas 7C dan kelas 7D, maka kita akan menggunakan diagram 
+batang rangkap.
+1. 
+Tentukan dulu judul diagram dan label pada kedua sumbu, 
+horizontal dan vertikal.
+2. 
+Pastikan menggunakan skala vertikal yang tetap dan berjarak 
+sama, dimulai dari 0.
+3. 
+Gambarlah batang untuk cabang bulu tangkis untuk kelas 7C yang 
+menunjukkan frekuensi 13, lalu gambarlah batang yang menempel 
+dengan yang sebelumnya untuk kelas 7D, yang menunjukkan 
+Bab 6 | Data dan Diagram
+209
+frekuensi 8. Berikan label “Bulu tangkis” di bawah sumbu horizontal 
+dan kedua batang.
+4. 
+Berikan jarak untuk menggambar batang cabang kedua, yaitu 
+Basket untuk kelas 7C dan 7D.
+5. 
+Ulangi Langkah 3 dan 4 untuk cabang olahraga lainnya.
+Gambar 6.18 Diagram Batang Ganda Pilihan Cabang Olahraga Siswa kelas 7C dan kelas 7D
+Tahukah Kalian?
+?
+Pernahkah kalian melihat diagram garis? Pada Gambar 6.14, kalian dapat 
+melihat diagram garis. Data akan lebih baik ditampilkan dalam bentuk 
+diagram garis, ketika pada sumbu horizontal menjelaskan mengenai 
+urutan waktu, bisa berupa jam, bulan, atau tahun.
+Menurut kalian, bagaimanakah cara mengubah diagram batang 
+menjadi diagram garis?
+Bulu
+tangkis
+Basket
+Voli
+Atletik
+Renang
+2
+4
+6
+8
+10
+12
+14
+16
+20
+Pilihan Cabang Olahraga
+Nonton Bareng ASIAN Games 2018
+Cabang Olahraga
+Banyak Siswa
+Kelas 7C
+Kelas 7D
+Matematika untuk SMP/MTs Kelas VII
+210
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Kasus Baru Positif Covid 19 di DKI Jakarta
+Gambar 6.19 Diagram Batang dan Garis Kasus Baru Positif Covid-19 di DKI Jakarta pada Januari 
+2022
+ Latihan 6.4
+1. 
+Untuk mengetahui cara siswa kelas 7E berangkat menuju sekolah, 
+dilakukan survei. Hasil survei ditampilkan pada tabel berikut.
+Tabel 6.5 Tabel Distribusi Frekuensi Cara Siswa Berangkat ke Sekolah
+Cara ke Sekolah
+Turus
+Frekuensi
+Berjalan kaki
+  
+7
+Bus/angkutan umum
+  
+9
+Ojek online
+ 
+  
+11
+Kendaraan pribadi
+5
+Gambarlah diagram batang dari tabel di atas.
+2. 
+Banyak peneliti bidang sains mengkhawatirkan level gas CO2 pada 
+atmosfer bumi yang mengakibatkan masalah perubahan iklim. 
+Diagram di bawah ini menunjukkan level emisi CO2 pada tahun 
+7000
+6000
+5000
+4000
+3000
+2000
+1000
+0
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+Kasus Baru Positif Covid 19 di DKI Jakarta
+Bab 6 | Data dan Diagram
+211
+1990 dan 1998. Batang dengan warna terang menunjukkan tahun 
+1990 dan warna gelap menunjukkan tahun 1998.
+a. 
+Negara manakah yang berhasil menurunkan level emisi CO2?
+b. 
+Negara manakah yang mengalami kenaikan level emisi CO2?
+Pada diagram, kita bisa melihat bahwa di negara USA 
+mengalami kenaikan level emisi CO2 dari tahun 1990 ke tahun 
+1998 sebesar 11%. Tahukah kalian cara mendapatkan hasil 
+11% tersebut?
+Level emisi CO2 pada tahun 1990 di USA = 6049 juta ton 
+Level emisi CO2 pada tahun 1998 di USA = 6727 juta ton 
+Kenaikan level emisi CO2 di USA = 6727 – 6049 – 678 juta ton 
+Maka persentase kenaikan level emisi CO2 di USA = 
+c. 
+Berapakah persentase perubahan level emisi CO2 untuk negara 
+Jerman?
+Amerika
+Rusia
+Jepang
+Kanada
+Australia
+EU Total
+Jerman
+6049
+6727
+Emisi di 1990 (Juta Ton CO  )
+3040
+1962
+1213
+1331
+621
+692
+423
+485
+4208
+4041
+1209
+1020
+218
+236
+Belanda
+2
+Emisi di 1998 (Juta Ton CO  )
+2
+Gambar 6.20 Diagram Batang Ganda Level Emisi CO2 yang Dihasilkan  
+Pada Tahun 1990 dan 1998
+3. 
+Pengguna internet di Indonesia pada Januari 2021, ada sebanyak 
+202,6 juta atau sekitar 73,7% dari populasi penduduk Indonesia. 
+Angka ini melonjak drastis dari Januari 2020, di mana jumlah 
+pengguna internet di Indonesia ada sebanyak 175,4 juta atau 64% 
+dari populasi penduduk Indonesia pada waktu itu. Salah satu 
+kegiatan berselancar di dunia maya yang banyak dilakukan adalah 
+mengakses media sosial. 
+Matematika untuk SMP/MTs Kelas VII
+212
+Jumlah pengguna media sosial di Indonesia sendiri juga mengalami 
+peningkatan dari 160 juta pengguna pada Januari 2020, menjadi 
+170 juta pengguna pada Januari 2021.
+Tabel berikut menunjukkan jenis media sosial dan banyaknya 
+pengguna internet di Indonesia yang mengakses media sosial 
+tersebut (dalam persen).
+Tabel 6.6 Tabel Persentase Jumlah Pengguna Internet Indonesia yang Mengakses 
+Media Sosial Tertentu
+Media Sosial
+2020
+2021
+YouTube
+88%
+93,8%
+WhatsApp
+84%
+87,7%
+Instagram
+82%
+86,6%
+Facebook
+79%
+85,5%
+TikTok
+25%
+38,7%
+a. 
+Buatlah diagram batang dari tabel di atas dengan sumbu 
+vertikal dalam persen.
+b. 
+Berapakah banyaknya pengguna internet di Indonesia yang 
+mengakses YouTube pada tahun 2020?
+c. 
+Berapakah banyaknya pengguna internet di Indonesia yang 
+mengakses YouTube pada tahun 2021?
+d. 
+Berapakah jumlah kenaikan pengguna YouTube dari tahun 
+2020 ke 2021? Berapakah persentase kenaikannya?
+e. 
+Apakah jawaban akan sama jika kalian langsung mengurangi 
+persentase pada tahun 2021 dengan persentase pada tahun 
+2020? Jelaskan.
+4. 
+Di tengah situasi pandemi, penting sekali untuk kita menjaga 
+kesehatan kita masing-masing. Salah satu cara menjaga kesehatan 
+adalah memastikan bahwa kita mendapatkan asupan makanan 
+dengan kalori yang cukup, tidak berlebihan sehingga dapat 
+menyebabkan kegemukan atau juga tidak kekurangan agar kita 
+Bab 6 | Data dan Diagram
+213
+memiliki badan yang sehat. Jumlah kebutuhan kalori per hari 
+dapat diperoleh dengan menghitung BMR dan tingkat aktivitas 
+harian seseorang. Rumus yang paling banyak digunakan oleh 
+ahli gizi untuk menghitung BMR adalah Rumus Harris-Benedict. 
+Rumus ini dihitung berdasarkan usia, jenis kelamin, berat badan, 
+dan tinggi badan.
+ 
+■
+Untuk laki-laki: (88,4 + 13,4 x berat dalam kilogram) + (4,8 x 
+tinggi dalam sentimeter) - (5,68 x usia dalam tahun)
+ 
+■
+Untuk wanita: (447,6 + 9,25 x berat dalam kilogram) + (3,10 x 
+tinggi dalam sentimeter) - (4,33 x usia dalam tahun)
+Hasil perhitungan BMR kemudian dikalikan dengan angka aktivitas 
+harian rata-rata orang tersebut. Angka ini berkisar antara 1,2–1,9 
+tergantung dari seberapa tinggi aktivitas harian seseorang. Semakin 
+jarang seseorang melakukan aktivitas fisik, semakin rendah pula angka 
+aktivitas hariannya. Sebagai contoh, seorang siswa laki-laki berusia 17 
+tahun dengan berat badan 70 kg, tinggi 173 cm dengan tingkat aktivitas 
+harian tergolong sedang karena berolahraga tiap sore, maka BMR pria 
+ini adalah:
+(88, 4 + 13, 4 × 70) + (4, 8 × 173) −(5, 68 × 17) = 1.760, 2 kalori
+Karena siswa laki-laki ini termasuk melakukan kegiatan fisik 
+dalam taraf sedang, angka aktivitas hariannya berada di angka 1,5. 
+Artinya, untuk menjaga tubuh agar tetap bekerja dengan baik, jumlah 
+kebutuhan kalori per hari siswa ini adalah 1.760,2 x 1,5 = 2.640.3 kalori. 
+Jika kalian ingin menurunkan berat badan dengan cara yang sehat, 
+kalian perlu membakar lebih banyak kalori daripada yang dikonsumsi. 
+Kalian bisa menyiasatinya dengan makan makanan berkalori 
+rendah dan meningkatkan intensitas olahraga. Namun, jika ingin 
+menambah berat badan, kalian perlu asupan kalori yang lebih banyak 
+daripada jumlah yang kalian bakar setiap hari. Siasati hal ini dengan 
+mengonsumsi makanan yang kaya akan nutrisi, tidak hanya tinggi 
+kalori. Sedangkan untuk mempertahankan berat badan yang ideal, 
+kalian perlu menyeimbangkan jumlah kalori yang kalian konsumsi 
+dengan yang dibakar melalui aktivitas fisik.
+Matematika untuk SMP/MTs Kelas VII
+214
+Dalam 
+laman 
+https://www.myfitnesspal.com/exercise/lookup, 
+kalian dapat memeriksa jumlah kalori yang terbakar melalui kegiatan 
+olahraga tertentu, antara lain:
+Tabel 6.7 Jumlah Kalori yang Terbakar
+Jenis Aktivitas Olahraga
+Jumlah Kalori yang 
+Terbakar
+30 menit
+60 menit
+Lari sedang 11 km/jam
+403
+805
+Joging ringan 8 km/jam
+280
+560
+Jalan santai 3,2 km/jam
+85
+170
+Jalan cepat 8 km/jam
+272
+544
+Berenang, gaya dada
+350
+700
+Buatlah diagram batang ganda dari informasi pada tabel di atas.
+Ayo Berefleksi
+1. 
+Apakah saya sudah dapat menggambar diagram batang sederhana?
+2. 
+Apakah saya sudah dapat menggambar diagram batang ganda?
+3. 
+Apakah saya sudah memahami informasi apa saja yang perlu saya 
+tampilkan pada diagram batang?
+E. Diagram Lingkaran
+Diagram lingkaran cukup berbeda dari diagram yang telah kita lihat 
+sebelumnya. Diagram lingkaran tidak memiliki sumbu vertikal atau 
+horizontal. Biasanya diagram ini digunakan untuk menampilkan 
+bagian atau bagian yang berbeda yang membentuk satu keseluruhan 
+dari suatu objek atau peristiwa. Diagram lingkaran terdiri atas juring-
+juring lingkaran. 
+Bab 6 | Data dan Diagram
+215
+Eksplorasi
+6.5
+Menentukan Persentase pada Diagram 
+Lingkaran 
+Perhatikan diagram lingkaran mengenai kapasitas hard disk di bawah 
+ini.
+Kapasitas Hard Disk
+Terpakai
+Tidak
+Terpakai
+Gambar 6.21 Diagram Lingkaran Kapasitas Hard Disk
+Membaca diagram lingkaran seperti gambar di atas, bisa jadi 
+terasa lebih sulit karena terbatasnya jumlah informasi. Kita dapat 
+menentukan proporsi atau persentase setiap ruang juring dari 
+kapasitas yang sudah terpakai dan yang tidak terpakai. Namun, kita 
+tidak mengetahui seberapa besar ukuran hard disk. Saat menggambar 
+diagram lingkaran, hal yang penting adalah semakin banyak informasi 
+yang dapat kalian tampilkan, maka semakin mudah diagram lingkaran 
+ini dibaca. 
+Ketika kalian ingin membaca diagram lingkaran seperti di atas, 
+maka kalian memerlukan sebuah busur derajat. Ingat bahwa besar 
+sudut pusat dalam suatu lingkaran adalah 360o.
+Langkah-langkah menggambar diagram lingkaran:
+a. 
+Tentukan besar sudut pusat dari setiap juring pada diagram.
+b. 
+Ubahlah setiap sudut tersebut sebagai bentuk pecahan atau 
+proporsi dari sudut total 360o, nyatakan dalam bentuk yang 
+paling sederhana.
+c. 
+Kalikanlah pecahan tersebut dengan 100%. Ini disebut sebagai 
+persentase.
+Matematika untuk SMP/MTs Kelas VII
+216
+Jika sudut pusat dari bagian “terpakai” dari diagram lingkaran 
+kapasitas hard disk di atas adalah 216o, maka persentase kapasitas 
+terpakai adalah  
+Sudut pusat dari bagian “tidak terpakai” adalah 144o. Untuk 
+menghitung persentase dari bagian ini yaitu 216
+360 × 100
+Jika kapasitas total hard disk adalah 500 TB atau Terra byte, maka 
+kita bisa menghitung bagian hard disk yang terpakai dan belum 
+terpakai.
+Terpakai = 60% × 500TB = 300TB
+Belum terpakai = 40% × 500TB = 200TB
+Latihan 6.5
+1. 
+Perhatikan diagram lingkaran di bawah ini kemudian jawablah 
+pertanyaan berikut.
+a. 
+Berapakah persentase siswa laki-laki yang mengikuti lomba 
+matematika?
+b. 
+Berapakah persentase siswa perempuan yang mengikuti 
+lomba matematika?
+c. 
+Berapakah jumlah total persentase?
+d. 
+Dengan menggunakan busur derajat, tentukanlah besar sudut 
+juring yang menunjukkan banyaknya siswa laki-laki yang 
+mengikuti lomba.
+Gambar 6.22 Peserta Lomba Matematika
+Siswa
+Perempuan
+45%
+55%
+Siswa
+Laki-laki
+Bab 6 | Data dan Diagram
+217
+e. 
+Lalu, hitunglah besar sudut pusat juring yang menunjukkan 
+banyaknya siswa laki-laki.  
+Bandingkanlah jawaban d dengan e.
+2. 
+Tabel di bawah ini menunjukkan banyaknya kaus yang terjual 
+berdasarkan warnanya saat bazar sekolah dalam rangka 
+merayakan HUT RI. Lengkapilah tabel berikut, lalu gambarlah 
+diagram lingkarannya.
+Tabel 6.8 Penjualan Kaus pada HUT RI
+Warna 
+Kaus yang 
+Terjual
+Banyaknya
+Pecahan
+Sudut Pusat
+Merah
+9
+9
+30
+9
+30 × 360 = 1800
+Putih
+12
+Hitam
+6
+Kuning
+3
+3. 
+Diagram lingkaran di samping 
+menunjukkan sebaran jumlah 
+suara 
+yang 
+diterima 
+tiap 
+kandidat 
+dalam 
+pemilihan 
+ketua OSIS di SMP Pancasila.
+a. 
+Tentukanlah jumlah 
+semua suara yang masuk.
+b. 
+Berapakah suara yang 
+diperoleh oleh Rizki?
+c. 
+Berapakah suara yang 
+diperoleh oleh Noer?
+d. 
+Siapakah yang memenangkan pemilihan ini?
+e. 
+Siapakah yang memperoleh suara paling sedikit?
+f. 
+Berapa persenkah suara yang diterima Danu?
+g. 
+Berapa persenkah suara yang diterima Karno?
+h. 
+Hitunglah sudut pusat dari setiap juring pada diagram ini.
+Gambar 6.23 Jumlah Suara pada Pemilihan 
+Ketua OSIS
+Danu (18)
+Indah (4)
+Rizki (11)
+Karno (5)
+Noer (7)
+Matematika untuk SMP/MTs Kelas VII
+218
+i. 
+Jika angka-angka pada diagram ini dihapus, bisakah kalian 
+mengetahui siapa yang terpilih sebagai ketua OSIS? Jelaskan.  
+4. 
+Diagram di samping menunjukkan pengeluaran bulanan keluarga 
+Pak Broto dan jenis pengeluarannya dalam persen. 
+a. 
+Manakah jenis pengeluaran yang terbesar?
+b. 
+Manakah jenis pengeluaran yang terkecil?
+c. 
+Berapa persenkah pengeluaran untuk transportasi?
+d. 
+Berapakah sudut pusat untuk pos tabungan?
+e. 
+Berapakah sudut pusat untuk pengeluaran transportasi?
+f. 
+Apakah dari diagram lingkaran di samping kalian bisa 
+mengetahui berapa rupiah jumlah total pengeluaran Pak 
+Broto?
+Ayo Berefleksi
+1. 
+Apakah saya sudah dapat menghitung besar sudut pusat dari tiap 
+sektor pada diagram lingkaran?
+2. 
+Apakah saya sudah dapat menghitung banyaknya frekuensi dari tiap 
+sector, jika sudut pusatnya dan frekuensi keseluruhannya diketahui?
+3. 
+Apakah saya sudah dapat menggambar diagram lingkaran sesuai 
+dengan data yang akan ditampilkan?
+Ayo Berpikir Kritis
+Ayo Berpikir Kritis
+Bab 6 | Data dan Diagram
+219
+F. Memilih Diagram yang Tepat
+Setelah kalian belajar tentang diagram batang baik tunggal maupun 
+berganda, diagram lingkaran, dan sedikit mengenai diagram garis, 
+maka pada subbab ini kita akan belajar mengenai cara memilih diagram 
+yang lebih tepat sesuai dengan jenis data dan situasinya.
+Tabel 6.9 Penggunaan Diagram Batang, Garis, dan Lingkaran
+Diagram Batang
+Diagram Garis
+Diagram Lingkaran
+Memudahkan 
+kita untuk 
+membandingkan 
+data dalam bentuk 
+numerik satu sama 
+lain.
+Hampir serupa 
+dengan diagram 
+batang, hanya 
+saja pada diagram 
+garis menampilkan 
+perubahan data dari 
+waktu ke waktu. 
+Menunjukkan 
+bagaimana satu 
+bagian dari set 
+data dibandingkan 
+dengan seluruh set. 
+Setiap bagian adalah 
+persentase dari 
+keseluruhan data.
+Eksplorasi
+6.6
+Diagram Batang, Garis atau Lingkaran?
+Untuk lebih jelas lagi, mari kita lihat contoh berikut ini.
+1. 
+Ketika kalian ingin membandingkan jumlah pengguna media sosial 
+TikTok di 5 kelas berbeda di sekolah kalian, maka kalian sebaiknya 
+menggunakan diagram batang. 
+2. 
+Ketika kalian ingin membandingkan jumlah pengguna media 
+sosial TikTok sekaligus Line di 5 kelas berbeda di sekolah kalian, 
+maka kalian sebaiknya menggunakan diagram batang ganda. 
+3. 
+Ketika kalian ingin membandingkan berapa jam rata-rata waktu 
+yang kalian dan teman-teman sekelas kalian gunakan untuk 
+mengakses TikTok setiap harinya selama 1 minggu, maka kalian 
+sebaiknya menggunakan diagram garis. 
+4. 
+Ketika kalian ingin membandingkan berapa jam rata-rata waktu 
+yang digunakan oleh kelas 7A dan kelas 7B untuk mengakses 
+Matematika untuk SMP/MTs Kelas VII
+220
+TikTok setiap harinya selama 1 minggu, maka kalian sebaiknya 
+menggunakan diagram garis ganda. 
+5. 
+Saat kalian ingin melihat persentase waktu rata-rata yang 
+digunakan selama beraktivitas di dunia maya seperti membaca 
+e-mail, mendengarkan lagu, menonton video streaming, membaca 
+berita, dan chatting, maka dengan bantuan diagram lingkaran kita 
+dapat secara cepat melihat kegiatan yang mana yang waktunya 
+melebihi dari 50% total aktivitas berselancar di dunia maya.
+6. 
+Ketika kalian ingin melihat apakah siswa yang menyukai olahraga 
+sepakbola lebih dari separuh dari total seluruh siswa di kelas 
+kalian, maka diagram lingkaran adalah bentuk yang sesuai 
+karena pada diagram lingkaran kalian dapat dengan sangat cepat 
+mengidentifikasi bagian sektor lingkaran yang besarnya lebih dari 
+setengah lingkaran.  
+Latihan 6.6
+1. 
+Diagram apakah yang akan kalian gunakan untuk menampilkan 
+data pengeluaran penggunaan listrik keluarga kalian tiap 
+bulannya? Jelaskan.
+2. 
+Diagram apakah yang akan kalian gunakan untuk membandingkan 
+jumlah baju yang terjual di 3 toko baju berbeda pada bulan Januari 
+dan Februari? Jelaskan. 
+3. 
+Diagram apakah yang akan kalian gunakan untuk membandingkan 
+suhu tertinggi di 5 kota di Indonesia?
+4. 
+Diagram apakah yang akan kalian gunakan untuk menunjukkan 
+pengeluaran bulanan keluarga kalian untuk listrik selama 1 tahun?
+5. 
+Memilih diagram yang tepat dapat membantu kalian membaca 
+dan memahami data dengan lebih mudah sesuai dengan tujuan 
+analisis. Di bawah ini terdapat 4 tujuan berbeda dari tiap jenis 
+diagram. Tulislah nama diagram dan pasangan pada bagian bawah 
+setiap gambar.
+a. 
+Membandingkan jumlah tertentu
+b. 
+Membandingkan 2 tipe data yang berubah dari waktu ke waktu
+Bab 6 | Data dan Diagram
+221
+c. 
+Menunjukkan bagian yang berhubungan dengan jumlah 
+keseluruhan
+d. 
+Mencatat perubahan data dari waktu ke waktu
+Ayo Berefleksi
+Apakah saya dapat membedakan kapan sebaiknya data ditampilkan 
+dalam diagram batang, diagram garis atau diagram lingkaran?
+25%
+10%
+15%
+1.
+2.
+3.
+4.
+30%
+20%
+Matematika untuk SMP/MTs Kelas VII
+222
+Uji Kompetensi
+1. 
+Tentukanlah jenis data di bawah ini, apakah termasuk dalam 
+bentuk data kategorik atau data numerik?
+a. 
+Banyaknya anggota keluarga di rumah
+b. 
+Grup musik band favorit di kelas kalian  
+c. 
+Peringkat Indonesia di Olimpiade musim panas
+d. 
+Lamanya waktu yang digunakan untuk belajar dalam seminggu
+e. 
+Jumlah gol yang dicetak oleh Christiano Ronaldo setiap 
+tahunnya
+f. 
+Banyaknya waktu yang digunakan untuk membaca buku
+2. 
+Gambarlah line plot dari data berikut:
+a. 
+4, 2, 7, 3, 5, 5, 3, 4, 5
+b. 
+40, 43, 51, 46, 49, 51, 43, 57, 40, 44, 52, 48, 57, 53, 55, 39, 42, 51
+Kemudian jelaskanlah sebaran datanya dengan kata-kata kalian 
+sendiri. Apakah ada data yang termasuk berbeda jauh dari 
+kumpulan datanya? Data yang manakah itu?
+3. 
+Indonesia adalah negara besar yang terdiri atas banyak suku. 
+Tercatat ada 1.340 suku yang ada di Indonesia. Setiap suku 
+memiliki ciri khas masing-masing termasuk makanan pokoknya. 
+Ada suku dengan makanan pokok berupa singkong, nasi, jagung, 
+sagu, dan masih banyak lainnya. Setiap makanan memiliki jumlah 
+kalori yang terkandung dalam makanan-makanan tersebut. Kalian 
+dapat menghitung kebutuhan kalori harian sehingga kalian dapat 
+menjalani gaya hidup sehat, tidak kekurangan gizi atau tidak 
+berlebih sehingga menjadi obesitas. Berikut jumlah kalori per 100 
+gram dari beberapa makanan pokok suku bangsa di Indonesia. 
+Tabel 6.10 Jumlah Kalori per 100 gram
+Nama Makanan
+Jumlah Kalori per 100 gram
+Singkong
+160
+Kentang
+77
+Nasi
+355
+Bab 6 | Data dan Diagram
+223
+Nama Makanan
+Jumlah Kalori per 100 gram
+Jagung
+95
+Sagu
+354
+https://www.myfitnesspal.com/food/search
+Gambarlah diagram batang dari tabel jumlah kalori pada makanan.
+4. 
+Salah satu bentuk keamanan digital, misalnya untuk akun email 
+atau media sosial, maka kalian diwajibkan membuat password. 
+Panjang password yang disyaratkan paling sedikit terdiri dari 
+6 angka, meskipun dapat lebih panjang untuk keamanan ekstra. 
+Jangan pernah memakai password yang sama untuk semua akun 
+kalian karena jika seseorang menemukan kata sandi pada satu 
+akun kalian, maka akun-akun kalian lainnya akan terancam. 
+Gunakanlah kombinasi angka, simbol, huruf kapital, dan huruf 
+kecil agar password-mu semakin sulit diretas. Dari sebuah survei 
+mengenai panjang password yang digunakan untuk akun email 
+siswa, diperoleh hasil sebagai berikut:
+Gambar 6.24 Diagram Lingkaran Panjang Password Email Siswa
+a. 
+Ada berapa macam panjang password email siswa di kelas ini?
+b. 
+Berapa persenkah siswa yang memiliki panjang password 
+sebanyak 8-angka? Bisakah kalian langsung mengetahui 
+jawabannya dari diagram lingkaran di atas tanpa menghitung?
+c. 
+Hitunglah besar sudut yang mewakili bagian panjang password 
+6-angka.
+20
+8-angka
+6-angka
+9-angka
+7-angka
+Panjang Password Email
+3
+5
+12
+Matematika untuk SMP/MTs Kelas VII
+224
+d. 
+Hitunglah besar sudut yang mewakili bagian panjang password 
+9-angka.
+Password sangat tidak disarankan mengambil dari tanggal 
+kelahiran kalian, misalnya kalian lahir pada 9 April 2014, maka 
+jangan membuat password 09042014 yang panjangnya 8 angka. 
+Dari diagram di atas ternyata separuh kelas menggunakan 
+password dengan panjang 8 angka. Kemungkinan mereka 
+menggunakan tanggal lahir mereka sebagai password. Kira-
+kira apakah kalian bisa menduga, mengapa panjang password 
+kedua terpanjang berikutnya adalah 6-angka? Jelaskan.
+5. 
+Gambarlah diagram lingkaran dari data makanan favorit para 
+siswa berikut ini.
+20 siswa menyukai mi goreng
+55 siswa menyukai ayam goreng
+25 siswa menyukai ikan bakar
+40 siswa menyukai gado-gado
+60 siswa menyukai rendang
+Hitunglah besar sudut pusat dari setiap bagian.
+6. 
+Jawablah pertanyaan berikut berdasarkan diagram batang ganda 
+di bawah ini yang menunjukkan perolehan medali emas, perak, 
+dan perunggu Indonesia dalam ajang Pesta Olahraga Se-Asia 
+Tenggara SEA Games. 
+Ayo Berpikir Kritis
+Bab 6 | Data dan Diagram
+225
+Gambar 6.25 Diagram Batang Ganda Perolehan Medali Indonesia di SEA Games
+(https://databoks.katadata.co.id/datapublish/2019)
+a. 
+Pada SEA Games tahun berapakah Indonesia memperoleh 64 
+medali emas?
+b. 
+Pada SEA Games tahun berapakah Indonesia memperoleh 
+medali emas paling banyak?
+c. 
+Pada SEA Games tahun berapa sajakah Indonesia memperoleh 
+jumlah medali perak yang hampir sama banyak?
+d. 
+Pada SEA Games tahun berapa sajakah Indonesia memperoleh 
+jumlah medali emas di atas 70 medali?
+e. 
+Pada SEA Games tahun berapakah jumlah medali perak 
+yang diperoleh Indonesia lebih banyak dari jumlah medali 
+perunggunya?
+f. 
+Pada SEA Games 2013 medali emas yang diraih Indonesia 
+kira-kira hanya sepertiga dari perolehan medali emas tahun 
+sebelumnya. Pada SEA Games tahun berapakah jumlah 
+perolehan medali emas Indonesia hampir dua kali dari 
+perolehan medali emas tahun sebelumnya?
+g. 
+Pada SEA Games tahun berapa sajakah Indonesia memperoleh 
+jumlah medali perunggu yang relatif sama banyak?
+Perolehan Medali Indonesia di SEA Games
+Medali
+2011
+2013
+2015
+2017
+2019
+0
+50
+182
+151
+143
+84
+110
+47
+61
+74
+38
+63
+90
+72
+84
+111
+64
+100
+Emas
+Perak
+Perunggu
+150
+200
+Matematika untuk SMP/MTs Kelas VII
+226
+7. 
+Ketika kalian mendapatkan uang jajan dari orang tua kalian, 
+apakah uang jajan tersebut kalian habiskan? Atau kalian sisihkan 
+sebagian untuk ditabung?
+Apabila kalian membiasakan menabung dan bergaya hidup hemat, 
+maka kalian membentuk kebiasaan yang baik sejak sekarang. 
+Saat kalian menabung di bank, kalian akan mendapatkan bunga. 
+Berikut data tingkat suku bunga deposito untuk jangka waktu 12 
+bulan di beberapa bank di Indonesia per tanggal 9 Maret 2022. 
+Tingkat suku bunga selalu dinyatakan dalam persen.
+Tabel 6.11 Tingkat Suku Bunga Deposito Jangka 12 Bulan
+ Nama Bank
+Tingkat Suku Bunga 
+Deposito
+Bank Mandiri
+2,50 %
+BNI 1946
+2,50 %
+BRI
+2,50 %
+BCA
+1,90 %
+Bank Maspion
+4,75 %
+https://pusatdata.kontan.co.id/bungadeposito
+Walaupun data di atas berbentuk persen, kalian tidak dapat 
+menggunakan diagram lingkaran untuk merepresentasikan data 
+di atas. Mengapa demikian? Jelaskan.
+8. 
+Diagram lingkaran di bawah ini menunjukkan komposisi dari 
+suatu makanan.
+Karbohidrat
+Lemak
+Protein
+Vitamin &
+Mineral
+2x
+3x
+7x
+72x
+Gambar 6.26 Diagram Lingkaran Komponen Makanan
+Bab 6 | Data dan Diagram
+227
+a. 
+Tentukanlah nilai x (dalam derajat)
+b. 
+Berapa persenkah banyaknya vitamin dan mineral dalam 
+komponen makanan ini?
+c. 
+Jika makanan ini mengandung 120 gram karbohidrat, berapa 
+gramkah berat total dari makanan ini?
+Pengayaan
+Dalam perayaan HUT Kemerdekaan Indonesia, para pengurus OSIS 
+akan mengadakan beberapa perlombaan antar kelas di sekolah. 
+Namun, karena keterbatasan waktu, mereka hanya akan mengadakan 
+3 jenis perlombaan. 
+Untuk menentukan jenis perlombaan yang akan dipertandingkan, 
+lakukanlah investigasi statistik dengan langkah-langkah sebagai 
+berikut.
+1. 
+Formulasikan pertanyaan yang sesuai dengan pelaksanaan lomba 
+di sekolah kalian. Contoh: tiga perlombaan manakah yang paling 
+diinginkan oleh para siswa di sekolah kalian?
+2. 
+Buatlah kuesioner untuk pengumpulan data. Setelah jadi, 
+bagikanlah kuesioner itu ke seluruh siswa. Jika memungkinkan, 
+kalian dapat menggunakan formulir digital sehingga mempercepat 
+proses pembagian kuesioner.
+Contoh kuesioner:
+Kuesioner
+Untuk perayaan HUT RI, lomba manakah yang akan kamu pilih untuk 
+diadakan di sekolah? Pilihlah hanya 1 perlombaan saja yang kamu paling 
+inginkan.
+ 
+□
+Tarik tambang
+ 
+□
+Balap egrang
+ 
+□
+Sepakbola sarung
+ 
+□
+Panjat pinang
+ 
+□
+Makan kerupuk
+ 
+□
+Masukkan sumpit ke botol

@@ -1,0 +1,1485 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi  
+Republik Indonesia, 2023
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi)
+Penulis: Dicky Susanto, dkk. 
+ISBN: 978-623-118-558-7
+Perbandingan 
+Trigonometri
+3
+Bab
+Mengapa perbandingan trigonometri 
+berguna dalam kehidupan sehari-hari?
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+72
+Tujuan Pembelajaran 	
+Setelah mempelajari bab ini, diharapkan kamu dapat memahami bahwa 
+perbandingan trigonometri menunjukkan hubungan antara sudut dan sisi 
+pada segitiga siku-siku. Selain itu, kamu diharapkan mampu menerapkan 
+perbandingan trigonometri dalam permasalahan.
+Kata Kunci 	
+•	
+perbandingan trigonometri 
+•	
+sinus (sin)
+•	
+cosinus (cos)
+•	
+tangen (tan)
+Peta Materi 	
+Perbandingan Trigonometri
+Penamaan sisi
+segitiga siku-siku
+Perbandingan
+trigonometri
+tangen
+Kegunaan
+perbandingan
+trigonometri tangen
+Pemanfaatan
+Perbandingan Trigonometri
+Memanfaatkan
+sinus dan cosinus
+Sudut istimewa
+perbandingan
+trigonometri
+Trigonometri
+73
+
+ Bab 3 | Perbandingan Trigonometri
+Coba lihat gambar dan keterangan gunung tertinggi di Indonesia dan di 
+dunia berikut ini.
+Gunung Tertinggi di Indonesia 
+Puncak Jaya atau Carstensz 
+Pyramid
+4.884 m
+Gambar 3.1 Puncak Jaya
+Sumber: Alfindra Primaldhi/commons.wikimedia.org (2007)
+Gunung Tertinggi di Dunia 
+Gunung Everest 
+8.849 m
+Gambar 3.2 Gunung Everest
+Sumber: Vyacheslav Argenberg/commons.wikimedia.org (2009)
+Tinggi Gunung Everest hampir dua kali lipat dibanding tinggi Gunung 
+Puncak Jaya, sungguh menakjubkan! Apakah 
+pernah terpikir di benakmu bagaimanakah cara 
+manusia menentukan tinggi gunung?
+Jawabannya adalah dengan trigonometri. 
+Untuk mengukur tinggi gunung maupun gedung 
+pencakar langit, seorang insinyur memerlukan 
+alat bernama Teodolit. Alat teodolit adalah 
+salah satu contoh alat yang menerapkan 
+prinsip trigonometri dan yang berguna bagi 
+permasalahan sehari-hari manusia.
+Trigonometri merupakan suatu metode 
+mengukur secara tidak langsung yang memanfaatkan pola perbandingan 
+antara sudut dan sisi segitiga. Istilah trigonometri berasal dari kata Yunani 
+trigono, yang berarti segitiga, dan metri, yang berarti pengukuran. Pada 
+Bab 3, kamu akan mempelajari jenis-jenis perbandingan trigonometri pada 
+segitiga siku-siku dan menyelesaikan permasalahan matematika dalam 
+kehidupan sehari-hari menggunakan prinsip perbandingan trigonometri.
+Gambar 3.3 Teodolit 
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+74
+Untuk siap mempelajari perbandingan 
+trigonometri, kamu perlu mengingat teorema 
+Pythagoras yang berlaku pada segitiga siku-
+siku.
+Pada segitiga siku-siku berlaku persamaan 
+berikut:
+a²+ b²= c2
+Kamu juga perlu mengingat mengenai rasio (perbandingan).
+Apa itu rasio atau nilai perbandingan?
+Rasio adalah nilai/bilangan yang 
+menjelaskan keterkaitan antara dua hal.
+Misalnya, diketahui nilai perbandingan 
+tinggi penggaris dengan pohon adalah 
+1
+100. Jika tinggi penggaris 3 cm dan tinggi 
+bayangan 6 cm, kita dapat mengambil 
+kesimpulan bahwa tinggi pohon adalah 300 
+cm dan tinggi bayangan pohon adalah 600 
+cm.
+Terakhir, kamu juga perlu mengingat konsep kesebangunan segitiga. 
+Konsep ini juga mempunyai hubungan dekat dengan konsep rasio atau 
+perbandingan.
+Dua segitiga dapat memenuhi syarat kesebangunan jika:
+•	
+setiap pasang sudut yang berpadanan sama besar atau
+•	
+setiap pasang sisi yang berpadanan sebanding (mempunyai nilai rasio 
+yang sama) atau
+•	
+dua pasang sisi yang berpadanan sebanding dan sudut apit dari kedua 
+sisi tersebut sama besar.
+Ayo, Mengingat Kembali
+A
+C
+b
+c
+a
+B
+Gambar 3.4 Teorema Pythagoras
+P
+R
+BP
+BR
+Gambar 3.5 Pohon dan Penggaris
+75
+
+ Bab 3 | Perbandingan Trigonometri
+Segitiga ADE dan segitiga ABC adalah dua segitiga yang sebangun.
+Segitiga MNO dan segitiga QRS juga merupakan contoh segitiga 
+sebangun. 
+	
+A
+B
+C
+D
+E
+Gambar 3.6 Segitiga Sebangun 1
+	
+	
+4cm
+5cm
+N
+O
+M
+3cm
+Q
+R
+S
+8cm
+10cm
+6cm
+Gambar 3.7 Segitiga Sebangun 2
+A.	 Perbandingan Trigonometri
+Panjang garis keliling bumi adalah 40.030 km. 
+Tahukah kamu kalau 2.000 tahun yang lalu 
+seorang matematikawan telah menemukan 
+perkiraan bilangan yang sama? Tonton video 
+dengan memindai QR code-nya dan lihat aksi 
+nyata manfaat perbandingan trigonometri. Kamu 
+dapat menyetel fungsi terjemah otomatis dari 
+YouTube jika dirasa perlu.
+Bayangan dan perbandingan sudut 
+bayangan telah terbukti bermanfaat dalam kisah 
+Eratosthenes yang kamu tonton. Kamu dapat 
+membaca ringkasan terjemahan video mengenai 
+Eratosthenes dalam lampiran. Ayo, sekarang 
+kamu lakukan kegiatan eksplorasi dengan 
+perbandingan bayangan.
+Mengapa segitiga-segitiga pada Gambar 3.6 dan 3.7 dikatakan sebangun?
+Ayo, Berdiskusi
+Pindai QR code berikut 
+untuk menonton video. 
+https://buku.kemdikbud.
+go.id/s/gwoana
+Pindai QR code berikut 
+untuk membaca ringkasan 
+terjemahan video 
+mengenai Eratosthenes. 
+https://buku.kemdikbud.
+go.id/s/wvfcu6
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+76
+Eksplorasi   3.1	
+Bayangan dan Tinggi Badan
+Ayo, Bereksplorasi
+Gambar 3.8 menunjukkan tiga orang dengan tinggi yang berbeda sedang 
+berdiri membelakangi sumber cahaya. Dapat dilihat ketiga bayangan 
+memiliki panjang yang beragam. Orang dewasa memiliki bayangan yang 
+lebih panjang karena ia lebih tinggi.
+1.	
+Gunakan penggaris dan ukur tinggi badan dan bayangan anak kecil, 
+remaja, dan orang dewasa pada Gambar 3.8.
+Anak kecil
+Remaja
+Orang dewasa
+Tinggi badan
+_____ cm
+_____ cm
+_____ cm
+Tinggi bayangan
+_____ cm
+_____ cm
+_____ cm
+2.	
+Cari nilai perbandingan tinggi badan dan bayangan setiap orangnya. 
+Sebelum melakukan penghitungan matematikanya, coba pikirkan 
+apakah nilai perbandingannya akan sama atau berbeda?
+Gambar 3.8 Bayangan Tiga Orang
+Anak Kecil
+Remaja
+Orang Dewasa
+Kamu dapat melakukan kegiatan berikut dengan mengumpulkan data 
+bayangan dan tinggi badan tiga orang yang berbeda secara mandiri. Pastikan 
+kamu punya waktu yang cukup untuk melakukan percobaan mandiri ini.
+Ayo, Mencoba
+77
+
+ Bab 3 | Perbandingan Trigonometri
+Nilai perbandingan tinggi badan dan bayangan
+Anak kecil
+Remaja
+Orang dewasa
+Apakah yang kamu temukan? Menurutmu, mengapa bisa demikian?
+3.	
+Tarik garis dari ujung kepala setiap orangnya ke ujung kepala 
+bayangannya.
+4.	
+Gunakan busurmu dan ukur sudut yang terbentuk antara bayangan dan 
+garis miring yang kamu tarik pada langkah 3.
+Apakah yang kamu temukan? Menurutmu, mengapa bisa demikian?
+Anak kecil
+Remaja
+Orang dewasa
+Besarnya Sudut
+5.	
+Jika kamu mengetahui tinggi anak kecil, apakah tinggi orang dewasa 
+dapat dicari? 
+1.	 Penamaan Sisi Segitiga Siku-siku
+Prinsip nilai perbandingan yang digunakan untuk mencari tinggi orang 
+dewasa dapat diterapkan untuk mencari tinggi sebuah gedung pencakar 
+langit maupun tinggi gunung. Perbandingan trigonometri secara sederhana 
+adalah perbandingan nilai segitiga siku-siku yang istimewa dan berguna. 
+Ketiga sisi dalam segitiga siku-siku mempunyai nama tertentu.
+Nilai perbandingan 
+ditemukan dengan 
+membagi tinggi badan 
+dengan tinggi bayangan.
+Petunjuk
+i
+Diskusikanlah jawaban diskusi dan pastikan setiap dari kalian menjelaskan 
+pemikiran kalian untuk bekerja sama mencari jawaban yang tepat.
+Ayo, Bekerja Sama
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+78
+Tiga nama untuk setiap sisi segitiga adalah:
+Latihan   3.1	
+1.	
+Tentukan nama yang tepat 
+untuk setiap sisi segitiga siku-
+siku pada Gambar 3.13!
+2.	
+Putri menamakan sisi segitiga sebagai berikut.
+Sisi depan adalah sisi m. 
+Sisi samping adalah sisi n. 
+Sisi miring (hipotenusa) adalah sisi o.   
+Coba tuliskan anjuran untuk Putri 
+memperbaiki pemahamannya! Dalam 
+anjuranmu, pastikan ada penjelasan 
+alasannya.
+1. Sisi depan 
+Gambar 3.9 Sisi Depan
+Definisi: sisi yang 
+berada tepat di depan 
+sudut θ.
+2. Sisi samping
+Definisi: sisi yang 
+berada di samping 
+sudut θ.
+Gambar 3.10 Sisi Samping
+3. Sisi miring (hipotenusa) 
+Definisi: sisi yang 
+berada di seberang 
+sudut siku-siku.
+Gambar 3.11 Sisi Miring
+Menggunakan contoh di kegiatan eksplorasi, yang 
+mana sisi depan, sisi samping, dan sisi miring 
+segitiganya?
+Gambar 3.12 Contoh Bayangan
+Ѳ
+Ayo, Berpikir Kritis
+Gambar 3.13 Segitiga 
+dengan Sisi XYZ
+x
+z
+y
+45º
+30º
+m
+n
+o
+79
+
+ Bab 3 | Perbandingan Trigonometri
+2.	 Satu Jenis Perbandingan Trigonometri: Tan θ
+Kamu sudah mencari nilai perbandingan tinggi badan dan bayangan dari 
+setiap orang. Pada Eksplorasi 3.1 ditemukan bahwa nilai perbandingannya 
+sama (yaitu sekitar 0,57) dan besar sudut yang terbentuk juga sama (30◦).
+Nilai perbandingan ini mempunyai nama khusus, yaitu tangen atau 
+disingkat tan. Jadi, tangen suatu sudut dapat ditentukan dengan membagi 
+panjang sisi depan dengan sisi samping segitiga.
+Gambar 3.14 Tangen adalah perbandingan sisi depan terhadap sisi samping
+Catatan: ada dua jenis perbandingan trigonometri lainnya, yaitu sinus 
+dan cosinus. Kamu akan mempelajarinya lebih dalam di subbab B.
+Contoh yang kamu kerjakan menunjukkan bahwa tan 30◦= 0, 57. 
+Perhatikan bahwa nilai tan 30◦ merupakan nilai perbandingan.
+Berdasarkan Eksplorasi 3.1 kamu dapat melihat bahwa  nilai tan hanya 
+ditentukan oleh besarnya sudut. Jika sudut berubah maka nilai tan pasti 
+berubah. Jadi, untuk sudut yang besarnya sama proporsionalitas merupakan 
+konsep yang penting dalam memahami perbandingan trigonometri.
+Ѳ
+sisi depan
+sisi samping
+Dapatkah kamu memikirkan kegiatan-kegiatan yang memerlukan nilai 
+perbandingan yang tetap atau konsep proporsionalitas?
+Ayo, Berpikir Kreatif
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+80
+Latihan   3.2	
+1.	
+15cm
+7cm
+70º
+Apakah kamu dapat mencari nilai perbandingan tan 
+70o? Jelaskan Mengapa!
+2.	
+Bagilah tugas dengan teman sekelasmu untuk membuat 3 segitiga siku-
+siku yang salah satu sudutnya sebesar 40◦. Pastikan ukuran ketiga 
+segitiga tersebut berbeda-beda. Tandai sudut siku-siku dan sudut 40◦ 
+serta nama setiap sisinya.
+3.	
+Carilah nilai perbandingan sisi depan dan sisi samping sudut 40◦ 
+menggunakan salah satu segitiga yang sudah dibuat.
+4.	
+Carilah nilai tan 40o menggunakan salah satu segitiga yang sudah dibuat. 
+5.	
+Diskusikan dengan teman sekelasmu: Apakah jawaban nomor 2 dan 3 
+setiap dari kalian sama? Apakah nilai tan 40o berupa nilai perbandingan? 
+Jelaskan alasanmu.
+3.	 Kegunaan Perbandingan Trigonometri Tan θ
+Dengan mengetahui nilai perbandingan tinggi anak kecil dan bayangannya 
+(tan θ), kamu dapat mencari panjang bayangan anak remaja dan tinggi orang 
+dewasa yang sebenarnya.
+Gambar 3.15 Segitiga-Segitiga Sebangun dari Bayangan Tiga Orang
+Jika ada lebih dari 3 orang dalam kelompokmu, berikan tugas umum kepada 
+anggota keempat seperti “pemeriksa akhir” yang bertugas memeriksa 
+ketepatan hasil gambar segitiga.
+Ayo, Bekerja Sama
+Anak Kecil
+Remaja
+Orang Dewasa
+114 cm
+200 cm
+Ѳ
+Ѳ
+148 cm
+Ѳ
+305 cm
+81
+
+ Bab 3 | Perbandingan Trigonometri
+Ketiga gambar yang ada pada Gambar 3.15 adalah segitiga sebangun, sehingga 
+dapat ditulis:
+Untuk mencari panjang bayangan remaja:
+Panjang bayangan remaja adalah 259,65 cm.
+Cara pertama: menggunakan perbandingan segitiga sebangun.
+tinggi anak kecil
+panjang bayangan anak kecil =
+tinggi anak remaja
+panjang bayangan anak remaja
+114 cm
+200 cm = 148 cm
+xcm
+x cm = 148 ⇥200 cm
+114 cm
+x cm = 29.600 cm
+114 cm
+x cm = 259, 65 cm
+Cara kedua: memanfaatkan perbandingan trigonometri.
+Diketahui bahwa tan 30o = 0,57.
+tan ✓=
+sisi depan
+sisi samping
+tan ✓= 148 cm
+x cm
+tan 30◦= 148 cm
+x cm
+0, 57 = 148 cm
+x cm
+x = 259, 65 cm
+Ѳ
+148 cm
+Remaja
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+82
+Latihan   3.3	
+1.	
+Gunakan contoh yang baru disampaikan untuk mencari tinggi orang 
+dewasa.
+a.	
+Cari tinggi orang dewasa dengan menggunakan perbandingan 
+segitiga sebangun.
+b.	
+Cari tinggi orang dewasa dengan memanfaatkan perbandingan 
+trigonometri.
+2.	
+Diketahui kedua segitiga di samping 
+adalah segitiga sebangun dengan 
+perbandingan sisi tan θ = 0,47;
+a.	
+Jika sisi b = 12 cm, hitung panjang 
+sisi c!
+b.	
+Diketahui segitiga FDE mempunyai 
+ukuran  dari segitiga CAB. Hitung 
+panjang sisi c dan sisi f!
+Latihan   3.4	 
+1.	
+Diketahui tan 
+ .  
+Gambarlah sebuah segitiga siku-siku yang memenuhi nilai perbandingan 
+tersebut. Berikan label dan panjang sisi depan serta sisi sampingnya 
+dalam cm!
+2.	
+Cari panjang x !
+A
+B
+c
+a
+b
+C
+F
+D
+E
+f
+d
+e
+Hati-hati jangan salah satuannya!
+•	
+Bisa menggunakan kalkulator
+•	
+Bisa menggunakan website GeoGebra
+Ayo, Menggunakan Teknologi
+83
+
+ Bab 3 | Perbandingan Trigonometri
+a.	
+b.	
+c.	
+3.	
+Soal ini terdiri atas empat bagian.
+Bagian pertama: 
+Perhatikan segitiga berikut dan tentukan nama sisinya berdasarkan 
+sudut 60o!
+a.	
+Sisi berwarna merah adalah sisi__________.
+b.	
+Sisi berwarna hijau adalah sisi __________.
+c.	
+Sisi berwarna biru adalah sisi __________.
+Bagian kedua: 
+Segitiga berikut adalah segitiga yang sama dengan segitiga pada soal 
+pertama. Sekarang, tentukan nama sisinya 
+berdasarkan sudut 30o!
+a.	
+Sisi berwarna merah adalah sisi __________.
+b.	
+Sisi berwarna hijau adalah sisi __________.
+c.	
+Sisi berwarna biru adalah sisi __________.
+Bagian ketiga: 
+Segitiga berikut adalah segitiga yang sama dengan segitiga pada soal 
+pertama dan kedua. Sekarang, tentukan nama 
+sisi berdasarkan sudut yang ditentukan!
+a.	
+Sisi depan sudut 30o berwarna _______.
+b.	
+Sisi depan sudut 60o berwarna _______.
+c.	
+Sisi samping sudut 30o berwarna _______.
+Ada cara untuk mencari panjang x tanpa menggunakan kalkulator sama 
+sekali. Apakah kamu tahu caranya? 
+Ayo, Berpikir Kreatif
+22,7 cm
+x cm
+62º
+18º
+72º
+3 m
+x m
+18 cm
+x cm
+32º
+58º
+60º
+merah
+hijau
+biru
+30º
+merah
+hijau
+biru
+60º
+30º
+merah
+hijau
+biru
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+84
+Bagian keempat: 
+Gunakan jawabanmu pada soal nomor pertama untuk menyelesaikan 
+permasalahan berikut.
+a.	
+Apakah sisi depan sudut 30o dan 60o sama atau berbeda? Mengapa 
+demikian?
+b.	
+Apakah sisi samping sudut 30o dan 60o sama atau berbeda? Mengapa 
+demikian?
+c.	
+Apakah sisi miring sudut 30o dan 60o sama atau berbeda? Mengapa 
+demikian?
+4.	
+Diketahui tan 
+ .
+a.	
+Gambarlah dua segitiga siku-siku yang berbeda, namun tetap 
+memenuhi nilai perbandingan tersebut.
+b.	
+Apakah ada lebih dari dua segitiga yang memenuhi nilai 
+perbandingan tersebut? Jelaskan alasanmu.
+5.	
+Seorang ahli perencana kota perlu membangun jalan dari titik B ke titik A.
+a.	
+Cari panjang jalan yang 
+perlu ia rencanakan untuk 
+menghubungkan titik B ke A.
+b.	
+Cari nilai perbandingan antara 
+jarak titik C ke A dengan jarak 
+titik C ke B. Catatan: nilai Ini 
+adalah nilai perbandingan 
+trigonometri sinus.
+c.	
+Cari nilai perbandingan antara 
+jarak titik A ke B dengan jarak 
+titik C ke B.  Catatan: nilai ini 
+adalah nilai perbandingan 
+trigonometri cosinus.
+d.	
+Jika segitiga ABC dan segitiga 
+ADC sebangun, cari panjang 
+CD!
+A
+814 m
+1151 m
+x
+C
+B
+D
+85
+
+ Bab 3 | Perbandingan Trigonometri
+6.	
+Seorang teknisi sedang memperbaiki 
+sebuah menara pemancar yang 
+mempunyai tinggi 150 meter. Jarak 
+antara titik B dan D adalah 125 meter.
+a.	
+Jika sudut yang terbentuk oleh kedua 
+tangga adalah 60◦, hitung jarak BC.
+b.	
+Cari juga jarak CD.
+7.	
+Standar sudut mendarat pesawat yang direkomendasikan untuk 
+kenyamanan dan kemulusan adalah 3o. Jika 
+pesawat sedang berada di ketinggian 200 
+meter, berapa jarak antara posisi pesawat 
+sekarang dengan posisi pendaratannya yang 
+ideal?
+8.	
+Seorang ahli bangun perlu mengukur 
+lebar sungai untuk mempersiapkan 
+pembangunan jembatan. Pertama, ahli 
+bangun tersebut memberikan tanda di 
+titik awalnya dan melihat ada pohon 
+besar di seberang sungai. Ia kemudian 
+berjalan sambil mengukur jarak, 
+sampai posisinya sejajar dengan 
+pohon. Jarak yang baru saja ia tempuh 
+adalah 400 meter. Ia kemudian kembali ke titik awal dan mengukur 
+sudut perputaran arah ke posisi pohon dengan teodolit. Ia mendapatkan 
+sudut sebesar 31o.
+a.	
+Tentukan panjang rancangan jembatan yang seharusnya berdasarkan 
+informasi yang ada.
+b.	
+Untuk memastikan penghitungannya tepat, ahli bangun memilih 
+titik awal yang berbeda dan mengukur jarak serta sudutnya. Ia 
+mendapatkan sudut perputaran 36o serta jarak 330,8 meter. Tanpa 
+melakukan penghitungan matematika, berikan penjelasan apakah 
+strategi yang digunakan ahli bangun tersebut tepat atau tidak tepat.
+C
+D
+B
+A
+E
+Kamu mungkin perlu 
+menggambar segitiga siku-
+siku berdasarkan konteks 
+pertanyaan terlebih dahulu.
+Petunjuk
+i
+31º
+titik awal
+400 m
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+86
+9.	
+Dimas sedang mencoba mencari tinggi tiang bendera. Dengan bantuan 
+teman dan alat busur, ia memperkirakan sudut yang terbentuk antara 
+kepala dan ujung tiang bendera adalah 34o.
+a.	
+Jarak antara Dimas dan tiang bendera adalah 52 m. Cari panjang sisi 
+depan berdasarkan sudut dan jarak yang diketahui.
+b.	
+Teman Dimas beranggapan bahwa jawaban di bagian a merupakan 
+tinggi tiang bendera yang sesungguhnya. Dimas tidak setuju dengan 
+pernyataan itu. Bagaimana pendapatmu? Jelaskan alasannya.  
+Pengayaan 	
+Proyek Membuat Klinometer	
+Pada subbab pertama, kamu telah melihat 
+kegunaan perbandingan trigonometri 
+untuk mengukur tinggi objek yang 
+besar tanpa harus mengukurnya secara 
+langsung. Kamu akan merakit sebuah 
+alat bernama klinometer yang berfungsi 
+mengukur sudut kemiringan, elevasi 
+(tingkat kenaikan), atau depresi (tingkat 
+penurunan). Kemudian, kamu akan 
+melakukan percobaan mengukur tinggi objek di lingkunganmu.
+Untuk membuat klinometer, siapkan alat dan bahan berikut.
+•	
+Selotip dan gunting
+•	
+1 sedotan
+•	
+1 busur
+•	
+1 tali atau benang sepanjang 30 cm
+•	
+1 pemberat (berupa klip kertas, koin, atau panah yang terbuat dari 
+karton)
+•	
+1 kertas tebal (karton atau potongan kardus) dengan ukuran kurang 
+lebih 15 x 25 cm
+sudut
+elevasi
+sudut pandang
+horizontal
+sudut
+depresi
+Gambar 3.16 Sudut Elevasi dan Sudut 
+Depresi
+87
+
+ Bab 3 | Perbandingan Trigonometri
+Langkah membuat klinometer:
+•	
+Dengan selotip, lekatkan ujung tali tepat 
+di tengah/pusat busur
+•	
+Tempel atau kaitkan pemberat pada 
+ujung tali yang lain
+•	
+Tempel busur pada salah satu sudut 
+kertas tebal (lihat contoh Gambar 3.17).
+•	
+Tempelkan sedotan sepanjang sisi 
+panjang kertas tebal (lihat contoh Gambar 3.17).
+•	
+Coba gunakan klinometer dengan menggunakan sedotan untuk melihat 
+beberapa objek di kejauhan.
+Mengukur Tinggi dengan Klinometer
+Ikuti langkah-langkah ini untuk mengukur tinggi objek menggunakan 
+klinometer yang baru kamu buat.
+1.	
+Pilih 2 objek yang dapat jelas dilihat.
+2.	
+Jalan membelakangi dan menjauhi objek sekitar 10-15 langkah.
+3.	
+Ukur jarak antara kakimu dengan titik dasar objek. Catat jaraknya pada 
+tabel berikut.
+4.	
+Tanpa berpindah, gunakan klinometer untuk melihat titik puncak (titik 
+tertinggi) objek melalui sedotan.
+5.	
+Dengan tidak bergerak, minta teman sekelas untuk membacakan angka 
+sudut pada busur.
+Gambar 3.17 Klinometer Sederhana
+Coba pikirkan dan tuliskan caramu menghitung sudut elevasi atau sudut 
+depresinya!
+Ayo, Berpikir Kritis
+Apakah sudut yang disebutkan merupakan sudut elevasi? Diskusikan 
+dengan teman sekelasmu.
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+88
+6.	
+Tuliskan sudut elevasinya pada tabel dan hitung tan ✓ dengan metode 
+apapun.
+Dengan semua informasi yang kamu miliki saat ini, kamu seharusnya 
+dapat menghitung tinggi objek. Apabila kamu kesulitan, coba ilustrasikan 
+informasi yang kamu miliki pada tabel berikut.
+Objek 1: ________
+Objek 2: ________
+Jarak
+Sudut elevasi ( ✓ )
+tan ✓
+Tinggi objek
+Ilustrasi objek 1
+Ilustrasi objek 2
+B.	Pemanfaatan Perbandingan Trigonometri
+Piramida adalah bangunan 
+menakjubkan yang dibangun sekitar 
+4.500 tahun yang lalu. Bayangkan 
+banyak pekerja dan persiapan 
+yang diperlukan untuk membuat 
+bangunan seperti ini, tanpa tersedia 
+alat canggih seperti zaman sekarang.
+Dalam ilustrasimu, pastikan ada 
+segitiga siku-siku.
+Petunjuk
+i
+Gambar 3.18 Piramida di Mesir
+Sumber: Jeremy Bishop/unsplash.com 
+89
+
+ Bab 3 | Perbandingan Trigonometri
+Jika digambar secara sederhana, ukuran 
+piramida ditentukan oleh tinggi, panjang 
+setengah diagonal alas, dan besar sudut 
+seperti pada Gambar 3.19. Segitiga yang 
+ada di gambar adalah segitiga siku-siku. 
+Pada Piramida Giza, piramida yang tertua 
+dan terbesar di dunia, sudut ✓ adalah 
+sebesar 41o.
+Eksplorasi   3.2	
+Tinggi dan Setengah Diagonal Alas Piramida
+Ayo, Bereksplorasi
+Gunakan imajinasimu untuk menjawab beberapa pertanyaan yang berkaitan 
+dengan Gambar 3.19. Jika perlu kamu boleh menggambar bayanganmu 
+untuk membantu menjawab. Sebelum menjawab pertanyaan-pertanyaan 
+tandai sisi sisi depan, sisi samping, dan sisi miring (hipotenusa) dari segitiga 
+siku-siku yang ada dalam Gambar 3.19. Perhatikan posisi sudut θ.
+1.	
+Jika sudut tetap sama tetapi ingin dibangun piramida yang lebih tinggi, 
+maka apa yang akan terjadi dengan alasnya?
+2.	
+Jika tinggi piramida tetap sama tetapi alasnya berubah, maka apa yang 
+akan terjadi dengan sudutnya?
+3.	
+Jika alas piramida tetap sama  tetapi tingginya berubah, maka apa yang 
+terjadi dengan sudutnya?
+4.	
+Buatlah kesimpulan sehubungan dengan pertanyaan 1-3.
+Gambar 3.19 Tinggi dan setengah 
+diagonal alas Piramida
+setengah
+diagonal alas
+tinggi
+Ѳ
+Setelah berpikir dan bekerja mandiri, diskusikan jawabanmu bersama 
+dengan teman sekelas.
+•	
+Jika sudut ✓ dibuat lebih besar, bagaimana perubahan nilai perbandingan 
+sisi depan dan sisi sampingnya ( tan ✓ )?
+•	
+Jika sudut ✓ dibuat lebih besar, bagaimana perubahan nilai perbandingan 
+sisi depan dan sisi miring segitiga siku-siku?
+Ayo, Berdiskusi
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+90
+1.	 Perbandingan Trigonometri dalam Piramida
+Pada awal bab, kamu juga diminta menghitung nilai perbandingan selain 
+perbandingan nilai tangen.
+•	
+Nilai perbandingan sisi depan terhadap sisi miring disebut sebagai 
+sinus.
+•	
+Nilai perbandingan sisi samping terhadap sisi miring disebut 
+sebagai cosinus.
+Simak dua skenario berikut untuk melihat penerapan perbandingan 
+sinus dan cosinus dalam piramida.
+Seorang pengagum piramida ingin 
+membuat replika piramida. Ia tahu 
+✓= 41◦ dan panjang rusuk piramida 
+adalah 600 m. Untuk membangun 
+replika, ia juga perlu mengetahui 
+tinggi piramidanya.
+setangah 
+diagonal alas
+tinggi
+Ѳ
+Saya ingin membuat
+replika piramida
+Gambar 3.20 Membuat replika piramida
+Seorang sejarawan ingin membuat 
+lorong bawah tanah agar ia dapat 
+masuk ke bagian tengah piramida. Ia 
+mengetahui bahwa ✓= 41◦.
+setengah diagonal
+alas
+tinggi
+Ѳ
+Gambar 3.21 Membuat lorong bawah tanah
+•	
+Jika sudut ✓ dibuat lebih besar, bagaimana perubahan nilai perbandingan 
+sisi samping dan sisi miring segitiga siku-siku?
+91
+
+ Bab 3 | Perbandingan Trigonometri
+sisi depan
+sisi miring
+Ѳ
+sisi samping
+sisi miring
+Ѳ
+Perbandingan trigonometri sinus  
+sebuah sudut ✓ (sin ✓) pada segitiga 
+siku-siku adalah nilai perbandingan 
+antara sisi depan sudut ✓ dan sisi 
+miring.
+sin ✓= sisi depan
+sisi miring
+Dalam permasalahan piramida, 
+perbandingan trigonometri sin 
+dapat membantu kita mencari tinggi 
+piramida.
+Dengan menggunakan kalkulator, 
+kita menemukan bahwa sin 41o = 0,66 
+(dibulatkan).
+Tinggi piramida adalah 396 m.
+Perbandingan trigonometri cosinus  
+sebuah sudut ✓ (cos ✓) pada segitiga 
+siku-siku adalah nilai perbandingan 
+antara sisi samping sudut ✓ dan sisi 
+miring.
+cos ✓= sisi samping
+sisi miring
+Dalam permasalahan piramida, 
+perbandingan trigonometri cos dapat 
+membantu kita mencari setengah 
+diagonal alas dasar piramida.
+Dengan menggunakan kalkulator, kita 
+menemukan bahwa cos 41◦= 0, 75 
+(dibulatkan).
+Panjang lorong bawah tanah yang 
+perlu digali adalah 450 m.
+Tahukah Kamu?
+?
+Segitiga siku-siku memenuhi teorema Pythagoras, yaitu bahwa kuadrat 
+sisi miringnya sama dengan jumlah kuadrat masing-masing sisi lainnya. 
+sin 41◦= tinggi piramida (sisi depan)
+rusuk piramida (sisi miring)
+sin 41◦=
+x m
+600 m
+0, 66 =
+x m
+600 m
+x = 0, 66 ⇥600 m
+x = 396 m
+cos 41◦= sisi samping
+sisi miring
+cos 41◦= setengah diagonal alas
+rusuk piramida
+0, 75 =
+x m
+600 m
+x = 0, 75 ⇥600 m
+x = 450 m
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+92
+Ternyata, teorema Pythagoras dapat dituliskan dalam bentuk trigonometri. 
+Menarik, bukan?
+a
+b
+α
+β
+c
+Bagaimana menyatakan Teorema Pythagoras dalam bentuk trigonometri?  
+a2 + b2 = c2
+Perhatikan bahwa jika kamu membagi kedua ruas dengan c2 maka didapatkan 
+persamaan sebagai berikut:
+	
+             
+a2
+c2 + b2
+c2 + c2
+c2
+	
+    
+a
+c
+b
+c
+
+
+
+  
+
+
+ 
+2
+2
+1
+sin
+cos
+
+
+
+ 
+ 
+2
+2
+1
+        sin
+cos
+2
+2
+1
+
+
+
+
+Tahukah Kamu?
+?
+Kamu sudah memahami ketiga perbandingan trigonometri. Kamu dapat 
+melihat hubungan antara ketiganya. 
+Apa perbedaan antara perbandingan trigonometri sin, cos, dan tan?
+Apa persamaan antara perbandingan trigonometri sin, cos, dan tan?
+Ayo, Berefleksi
+93
+
+ Bab 3 | Perbandingan Trigonometri
+a
+b
+θ
+c
+Perhatikan gambar segitiga siku-siku di atas. Kamu telah mengetahui 
+perbandingan trigonometri yang berlaku:
+sin  a
+c
+cos  b
+c
+tan  a
+b
+Nilai apa yang kamu peroleh dari  sin
+cos
+θ
+θ
+?
+sin
+cos
+sin
+cos
+
+
+
+
+
+
+1
+          = a
+c
+c
+b
+×
+          = a
+b
+          = tan θ 
+Jadi, dapat dinyatakan bahwa: 
+tan
+sin
+cos
+
+
+
+
+Sebaiknya persamaan terakhir dimasukkan ke dalam kotak
+Wanimbo sedang bermain layangan. Ia berhasil menaikkan layangan sampai 
+ketinggian 3,5 m sambil memegang ujung layangan pada ketinggian 60 cm dari 
+permukaan tanah. Layangannya juga membentuk sudut ∠ KIT sebesar 20◦. 
+Coba cari panjang tali layangan yang sudah diulurkan Wanimbo. 
+Pikirkan, perbandingan trigonometri mana (di antara sin, cos, atau tan) 
+yang akan bermanfaat untuk menyelesaikan permasalahan ini?
+Ayo, Berpikir Kritis
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+94
+Simak jawaban salah seorang siswa di SMA 78 Kota Sukaberkah bernama 
+Surya (fiktif): Saya perlu memanfaatkan perbandingan trigonometri sinus karena 
+saya mengetahui ketinggian layangan dan mencari panjang tali layangan.
+Latihan   3.5	
+1.	
+Sebuah segitiga siku-siku PQR, mempunyai besaran  
+∠P = 53,2
+o dan besaran ∠Q = 36,8
+o.
+a.	
+Cari nilai sin 53,2. Uraikan cara dan proses 
+berpikirmu
+b.	
+Nilai perbandingan panjang sisi QR dan QP sama 
+dengan nilai ________. 
+ 
+ i. Cos 53,2	
+	
+ii. Cos 36,8
+2.	
+4
+5
+3
+Jika  ∠A = θ dan cos θ = 4
+5, tandai ∠A pada gambar 
+segitiga di samping.  
+3.	
+Jika  ∠M = θ dan sin θ =
+5
+13, tandai ∠M 
+pada gambar segitiga di samping.
+Jawaban Surya tidak tepat. Bersama dengan teman sekelompokmu, diskusikan 
+apa yang tidak tepat dari solusi Surya. Pastikan setiap anggota mengerti apa 
+yang salah kemudian carilah jawaban yang benar. 
+Ayo,   Berdiskusi & Bekerja Sama
+P
+R
+3
+36,8º
+53,2º
+4
+5
+Q
+13
+12
+5
+95
+
+ Bab 3 | Perbandingan Trigonometri
+4.	
+Kerjakan secara mandiri: 
+Tuliskan arti sin θ sebagai nilai perbandingan dengan kata-katamu 
+sendiri. Jika dirasa perlu, kamu boleh menambahkan gambar. 
+Kerjakan bersama dua atau tiga teman sekelas: 
+Bandingkan jawabanmu dengan teman sekelasmu. Berikan masukan 
+untuk definisi temanmu atau/dan merevisi definisimu sendiri.
+Kerjakan bersama-sama satu kelas (dipimpin guru): 
+Bagikan secara lisan definisi yang menurutmu baik kepada seluruh kelas. 
+Guru akan merangkum definisi dan kegiatan ini.
+5.	
+Kerjakan secara mandiri: 
+Tuliskan arti cos θ sebagai nilai perbandingan dengan kata-katamu 
+sendiri! Jika dirasa perlu, kamu boleh menambahkan gambar.
+Kerjakan bersama teman sekelas: 
+Bandingkan jawabanmu dengan teman sekelasmu. Berikan masukan 
+untuk definisi temanmu atau/dan merevisi definisimu sendiri.
+Kerjakan bersama-sama satu kelas (dipimpin guru): 
+Bagikan secara lisan definisi yang menurutmu baik kepada seluruh kelas. 
+Guru akan merangkum definisi dan kegiatan ini.
+2.	 Tiga Serangkai Perbandingan Trigonometri
+Ketika matematikawan zaman kuno mempelajari segitiga, mereka 
+menemukan pola nilai perbandingan (rasio) panjang sisi segitiga siku-
+siku yang sudah kamu pelajari di subbab lalu dan subbab ini. Ada tiga 
+perbandingan trigonometri yang sudah kamu pelajari yaitu sinus, cosinus, 
+dan tangen.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+96
+sin 30o = 0,5
+30º
+sisi miring
+sisi depan
+Gambar 3.22  
+Sin 30o
+cos 43o = 0,73
+43º
+sisi samping
+sisi miring
+Gambar 3.23  
+Cos 43o
+tan 55o = 1.43
+55º
+sisi depan
+sisi samping
+Gambar 3.24  
+Tan 55o
+   
+Coba simulasi perbandingan 
+trigonometri di GeoGebra. Kamu 
+dapat mengaksesnya melalui 
+tautan berikut.
+https://buku.kemdikbud.
+go.id/s/2i9kwi
+•	
+Geser panel sampai kamu mendapatkan sudut 40o.
+•	
+Tarik salah satu titik putih pada segitiga untuk memperbesar/memperkecil 
+ukurannya.
+•	
+Perhatikan nilai perbandingan di bagian atas, apakah nilainya sama atau 
+berubah? Jelaskan alasanmu kepada teman sekelompok. 
+Pindai QR code di samping 
+untuk diteruskan ke simulasi 
+pada aplikasi GeoGebra. 
+Ayo, Menggunakan Teknologi
+Tahukah Kamu?
+?
+Selain tiga perbandingan trigonometri yang sudah kamu pahami, ada lagi 
+tiga perbandingan trigonometri yang jarang digunakan. 
+Apa yang dimaksud dengan sin, cos, tan sebagai nilai perbandingan?
+Ayo, Mengingat Kembali
+97
+
+ Bab 3 | Perbandingan Trigonometri
+a
+b
+α
+β
+c
+Ketiga perbandingan trigonometri tersebut adalah:
+•	
+secan (sec)
+ sec  c
+b
+           
+1
+cos
+•	
+cosecan (csc)
+csc  c
+a
+          
+1
+sin
+•	
+cotangen (cot)
+cot  b
+a
+          
+1
+tan
+3.	 Sudut Istimewa Perbandingan Trigonometri
+Sudut istimewa dalam perbandingan trigonometri adalah sudut-sudut yang 
+nilai perbandingannya dapat ditentukan secara eksak. Sudut istimewa akan 
+sangat berguna dan banyak digunakan pada pelajaran Fisika.
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+98
+Eksplorasi   3.3	
+Sudut Istimewa Trigonometri
+Kamu akan melengkapi tabel berikut dengan nilai perbandingan 
+trigonometrinya. Pikirkan bagaimana kamu menggunakan segitiga siku-siku 
+yang memuat sudut-sudut tersebut dalam tabel.
+30o
+45o
+60o
+sin
+cos
+tan
+Simak panduan berikut. 
+Mencari nilai perbandingan trigonometri 30o dan 60o:
+1.	
+Gambar sebuah segitiga sama sisi dengan panjang setiap sisinya 2 satuan. 
+Beri variabel A, B, C untuk masing-masing sudutnya.
+2.	
+Belah segitiga tersebut menjadi dua bagian dengan garis vertikal di 
+tengah-tengah bangunnya.
+3.	
+Gambar ulang satu bagian segitiganya dan tandai panjang sisi dan 
+besaran sudut yang diketahui.
+4.	
+Cari panjang sisi yang belum diketahui menggunakan Teorema 
+Pythagoras.
+5.	
+Cari nilai perbandingan sin, cos, dan tan untuk sudut istimewa 30o dan 
+60o.
+Ayo, Bereksplorasi
+Coba bagi tugas saling memeriksa pekerjaan kalian. Jika jawabannya berbeda, 
+coba cari apa yang kurang tepat dan cari solusinya.
+Ayo, Bekerja Sama
+99
+
+ Bab 3 | Perbandingan Trigonometri
+Mencari nilai perbandingan trigonometri 45o:
+1.	
+Gambar sebuah segitiga siku-siku sama kaki dengan panjang 1 satuan.
+2.	
+Cari panjang sisi miringnya menggunakan Teorema Pythagoras.
+3.	
+Cari nilai perbandingan sin, cos, dan tan untuk sudut istimewa 45o.
+Latihan   3.6	
+1.	
+Sebuah segitiga siku-siku memiliki dua sisi yang panjangnya 8 cm. 
+Berapa panjang sisi miringnya?
+2.	
+Sebuah segitiga siku-siku mempunyai sudut 30o dan 60o.
+a.	
+Tuliskan panjang setiap sisi segitiganya yang memungkinkan.
+b.	
+Nia berkata segitiga ini memiliki panjang sisi seperti berikut:  
+5
+√
+3 cm, 5 cm, dan 15 cm. Menurutmu, apakah panjang sisi yang 
+dikemukakan Nia memungkinkan? Jelaskan mengapa.
+Latihan   3.7	
+1.	
+Cari panjang sisi x dan z.	 
+2.	
+Segitiga ABC memiliki panjang sisi sebagai berikut.
+Sisi AC = 5
+Sisi CB = 12
+Sisi AB = 13	
+	
+13
+A
+C
+B
+12
+5
+9,2
+x
+z
+30º
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+100
+a.	
+Tentukan nama setiap sisi segitiga siku-siku berikut.
+b.	
+Cari hasil sin θ.
+c.	
+Cari hasil cos θ.
+3.	
+KLM adalah segitiga dengan besar 
+sudut dan panjang seperti pada 
+gambar di samping. KLM adalah 
+segitiga dengan besar sudut dan 
+panjang seperti pada gambar di 
+samping.
+a.	
+Tentukan hasil perbandingan 
+trigonometri berdasarkan 
+sudut yang ditentukan.
+sin 56,3o =
+sin 33,7o =
+cos 56,3o =
+cos 33,7o =
+b.	
+Dua pasang nilai perbandingan trigonometri yang mana yang 
+hasilnya sama? Mengapa demikian?
+Pada sudut istimewa perbandingan trigonometri sin 30o dan cos 60o 
+bernilai sama. Temukan alasan mengapa ada pola seperti ini secara 
+mandiri atau bersama-sama dengan teman sekelasmu.
+Ayo, Berpikir Kritis
+4.	
+Cari panjang x, y, dan z ! 
+z
+x
+y
+8
+45º
+60º
+K
+L
+M
+33,7º
+3
+2
+56,3º
+√13
+101
+
+ Bab 3 | Perbandingan Trigonometri
+5.	
+Dari jarak 120 m, seorang  
+pengukur tanah menemukan 
+sudut yang terbentuk antara 
+garis permukaan dan puncak 
+gedung adalah 30o. Gunakan 
+perbandingan trigonometri 
+untuk mencari tinggi gedung tersebut. Cari hasilnya dengan 
+membulatkan ke satuan meter terdekat.
+6.	
+Terdapat susunan beberapa segitiga 
+siku-siku seperti berikut.
+a.	
+Desi berkata, ia perlu mencari 
+sin 30o untuk mencari panjang x
+. Apakah kamu setuju dengan 
+Desi?
+b.	
+Cari panjang x.
+7.	
+Gambar persegi panjang dengan 
+panjang diagonal dua kali dari lebarnya. Tentukan sudut-sudut dalam 
+segitiga siku-siku yang dibentuk oleh panjang, lebar, dan diagonal 
+persegi panjang.
+8.	
+Seorang laki-laki sedang  
+berjalan di sebuah area hijau. Ia berpapasan dengan sebatang pohon dan 
+sebuah tiang listrik. Jika tinggi tiang 50 meter dengan sudut antara 
+laki-laki dan puncak tiang 45o dan sudut antara pohon dengan puncak 
+tiang 60o, berapa jarak antara seorang laki-laki tersebut dan pohon?
+30º
+z
+120 m
+y
+30º 30º
+30º
+30º
+4
+x
+45º
+60º
+50m
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+102
+Tahukah Kamu?
+?
+Istilah co- dalam matematika berkaitan dengan komplemen sudut.  Pada 
+segitiga siku-siku dengan sudut α dan β berlaku α + β = 90⁰  sehingga β adalah 
+komplemen dari sudut α.  
+a
+b
+α
+β
+c
+Perbandingan-perbandingan trigonometri yang dibuat adalah sebagai 
+berikut: 
+cos
+sin
+
+
+
+
+b
+c
+csc
+sec
+
+
+
+
+c
+a
+cot
+tan
+
+
+
+
+b
+a
+Dapatkah kamu melihat hubungan antara istilah co- dengan 
+perbandingan trigonometri? Hal ini memudahkan kamu untuk menentukan 
+perbandingan trigonometri jika salah satu sudut dalam segitiga siku-siku 
+diketahui.
+103
+
+ Bab 3 | Perbandingan Trigonometri
+103
+Uji Kompetensi 	
+1.	
+Jika cos x = 20
+29 , berapa nilai sin x dan tan x ?    
+2.	
+Pilih salah satu gambar dari Gambar 3.15 sebagai gambar soal. 
+Selidikilah panjang bayangan di pagi hari dan siang hari. Bagaimana 
+hubungan antara perubahan panjang bayangan, sudut, dan 
+perbandingan trigonometri tangen?
+3.	
+Demi keamanan, tangga seharusnya diletakkan dengan sudut kemiringan 
+75o. Diketahui, tinggi satu lantai pada gedung berikut adalah 3,2 meter. 
+Jika tangga perlu disediakan tepat di luar jendela lantai 3, berapakah 
+panjang tangga yang diperlukan? 
+4.	
+Tomi berkata bahwa sinus dari salah satu sudut lancip  
+pada segitiga siku-siku selalu sama dengan cosinus dari sudut lancip 
+lainnya. Dengan kata lain,  
+cos B = sin A. Apakah pernyataan Tomi benar? Apa bukti dan 
+penjelasannya?
+x
+C
+A
+B
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+104
+104
+5.	
+Jelaskan bagaimana perbandingan trigonometri bermanfaat untuk (pilih 
+salah satu):
+a.	
+Mengukur tinggi tugu ikonik 
+daerah di Indonesia seperti 
+Jam Gadang, di Bukittinggi, 
+Sumatra Barat. Kamu boleh 
+membuat gambar untuk 
+mendukung penjelasanmu. 
+b.	
+Mengukur lebar sungai untuk  
+pembangunan jembatan 
+misalnya jembatan Youtefa di 
+Papua. Kamu boleh membuat 
+gambar untuk mendukung 
+penjelasanmu.
+Gambar 3.25 Jam Gadang
+Sumber: Crisco 1492/commons.wikimedia.org (2017)
+Gambar 3.26 Jembatan Youtefa
+Sumber: PUPR/commons.wikimedia.org (2019)
+105
+
+ Bab 3 | Perbandingan Trigonometri
+105
+Asesmen Diri 	
+Pertanyaan Asesmen Diri
+Bisa 
+mandiri
+Bisa 
+dengan 
+bantuan
+Belum 
+bisa
+1.	
+Apakah saya sudah bisa 
+mengidentifikasi nama setiap sisi 
+segitiga siku-siku?
+2.	
+Apakah saya sudah bisa menjelaskan 
+cara mencari sin θ, cos θ, dan tan θ?
+3.	
+Apakah saya sudah bisa menyelesaikan 
+permasalahan matematika dengan 
+menerapkan perbandingan 
+trigonometri?
+4.	
+Apakah saya sudah bisa menjelaskan 
+manfaat perbandingan trigonometri 
+dalam kehidupan sehari-hari?
+Pengayaan 	
+Masih ingat nama gunung tertinggi di dunia yang disebutkan pada awal bab? 
+Ya, Gunung Everest. Setelah mempelajari tentang trigonometri, apakah kamu 
+dapat membayangkan cara manusia mengukur tinggi Gunung Everest?
+ 
+Tonton video dengan memindai QR codenya dan 
+lihat aksi nyata manfaat perbandingan trigonometri 
+dalam menentukan tinggi Gunung Everest. Kamu 
+bisa menyetel fungsi terjemah otomatis dari 
+YouTube jika dirasa perlu. 
+https://buku.kemdikbud.
+go.id/s/8fb2m2
+Matematika untuk SMA/MA/SMK/MAK Kelas X (Edisi Revisi) 
+106
+106
+Refleksi 	
+Ada tiga jenis perbandingan trigonometri yaitu sinus, cosinus, dan tangen. 
+Masing-masing perbandingan dapat dimanfaatkan untuk menyelesaikan 
+permasalahan sehari-hari mulai dari jarak landas pesawat sampai pada 
+pengukuran objek yang tidak dapat secara fisik diukur ketinggiannya. Ada 
+juga perbandingan trigonometri untuk sudut-sudut istimewa yang ditemukan 
+pada segitiga siku-siku sama kaki dan segitiga sama sisi. Ayo refleksikan 
+pembelajaranmu dengan menjawab pertanyaan berikut.
+1.	
+Apakah itu perbandingan trigonometri?
+2.	
+Apakah itu sin θ, cos θ, dan tan θ?
+3.	
+Apa manfaat perbandingan trigonometri? Berikan contoh dua kejadian 
+dalam kehidupan nyata.

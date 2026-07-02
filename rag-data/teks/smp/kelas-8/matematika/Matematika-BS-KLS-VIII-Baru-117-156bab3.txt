@@ -1,0 +1,3005 @@
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+Republik Indonesia, 2022
+Matematika untuk SMP/MTs Kelas VIII
+Penulis: Mohammad Tohir, dkk. 
+ISBN: 978-602-427-919-6 (Jil.2)
+Bab 3
+PERSAMAAN LINIER 
+DAN PERTIDAKSAMAAN 
+LINIER SATU VARIABEL
+Mengapa dibutuhkan suatu 
+persamaan dan pertidaksamaan?
+Matematika untuk SMP/MTs Kelas VIII
+98
+Pengantar bab
+Tahukah Kalian?
+?
+Gambar 3.1 Kebun Apel di kota wisata Batu – Jawa Timur
+Apakah kalian pernah mengunjungi kebun apel sekaligus memetik 
+buahnya? Kemungkinan ada yang pernah dan ada yang belum. Secara 
+tidak sadar ketika kalian mengelilingi kebun apel dan berjalan sepan-
+jang kebun untuk mengetahui ukuranya, maka kalian akan dapat me-
+nemukan keliling dan luas kebun apel tersebut. Selain itu,  kalian juga 
+akan mengetahui harga 1 ton apel, jika harga 1 kg apel dari hasil panen 
+adalah Rp. 7.000,00. Solusi dari penyelesaian seperti ilustrasi di atas 
+merupakan penerapan dari persamaan linier satu variabel dalam ke-
+hidupan sehari-hari.
+Tujuan Pembelajaran
+Setelah mempelajarai bagian ini, kalian diharapkan dapat:
+ 
+√Menemukan kebenaran dari sebuah kalimat, baik kalimat terbuka 
+atau tertutup
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+99
+ 
+√Membuat simulasi untuk memodelkan kalimat terbuka dan 
+tertutup
+ 
+√Memodelkan masalah matematika yang berkaitan dengan 
+persamaan dan pertidaksamaan linier satu variabel
+ 
+√Menentukan solusi persamaan dan pertidaksamaan linier satu 
+variabel menggunakan aturan penjumlahan dan pengurangan
+ 
+√Menentukan solusi persamaan dan pertidaksamaan linier satu 
+variabel menggunakan aturan perkalian dan pembagian
+ 
+√Memecahkan masalah sehari-hari yang berkaitan dengan 
+persamaan linier satu variabel
+ 
+√Memecahkan masalah sehari-hari yang berkaitan dengan 
+pertidaksamaan linier satu variabel
+Pertanyaan Pemantik
+ 
+■
+Bagaimana saja bentuk kalimat terbuka dan tertutup?
+ 
+■
+Apakah memungkinkan mengubah suatu pernyataan dalam 
+bentuk model matematika?
+ 
+■
+Berapa nilai variabel pada persamaan dan persamaan  linier 
+variabel?
+ 
+■
+Apakah ada perbedaan antara hasil penyelesaian bentuk 
+persamaan dan pertidaksamaan linier variabel?
+Kata Kunci
+ 
+■
+Kalimat terbuka dan tertutup
+ 
+■
+Model matematika
+ 
+■
+Persamaan linier
+ 
+■
+Pertidaksamaan linier
+Matematika untuk SMP/MTs Kelas VIII
+100
+Peta Konsep
+Persamaan
+dan Pertidaksamaaan
+Linier Satu Variabel
+Penerapan Persamaan
+Linier Satu Variabel
+dalam Kehidupan
+sehari-hari
+Pernyataan
+Persamaan Linier
+Satu Variabel
+Pertidaksamaan
+Linier Satu
+Variabel
+Kalimat
+Tertutup
+Penyelesaian
+Persamaan
+Linier Satu
+Variabel
+Kalimat
+Terbuka
+Penyelesaian
+Pertidaksamaan
+Linier Satu
+Variabel
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+101
+Pada materi tentang bentuk aljabar pada kelas VII sebelumnya, kalian 
+sudah belajar terkait ekspesi  bentuk aljabar seperti bentuk x
+2
+5
++
+ 
+ 
+●
+Variabel adalah huruf atau simbol yang digunakan untuk 
+menyatakan suatu besaran atau nilai yang tidak diketahui dan 
+nilainya dapat berubah.
+ 
+●
+Koeisien adalah bilangan yang mewakili pengali variabel.
+ 
+●
+Konstanta adalah bilangan yang memiliki nilai tetap.
+A. Memahami Konsep Persamaan Linier Satu 
+Variabel
+Operasi penghitungan aljabar menjadi informasi dasar yang harus 
+dipahami terlebih dahulu. Selain itu, konsep-konsep di bagian ini akan 
+berguna untuk berbagai hal, utamanya digunakan untuk memecahkan 
+masalah di bagian selanjutnya dan menyelesaikan permasalahan nyata 
+dalam kehidupan sehari-hari. Sebelum memahami konsepnya, coba 
+perhatikan kegiatan eksplorasi berikut ini.
+Perhatikan percakapan antara dua siswa, Humam dan Aldo, yang 
+sedang tanya jawab tebak-tebakan di halaman berikut ini.
+Humam 
+: "Aldo,  Siapakah presiden ketiga Republik Indonesia?"
+Ayo Mengingat Kembali
+2 x +5
+Variabel
+Koefisien
+Konstanta
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+102
+Aldo 
+: "Itu pertanyaan sederhana, Mam. Presiden ketiga RI ini  
+adalah Bapak BJ Habibie."
+Humam 
+: "Mantab,  Apakah  kamu tahu nama lengkapnya?"
+Aldo:  
+: Nama lengkapnya  adalah "Prof. Dr. Ir. H. B.J. Habibi, 
+kurang lebih, begitu. Sekarang giliranku, siapakah WR. 
+Supratman?"
+Humam 
+: "WR. Supratman adalah pencipta lagu kebangsaan 
+Indonesia Raya dan dinyanyikan saat ikrar sumpah 
+pemuda".
+Aldo 
+: "Jawabanmu luar biasa, Mam. Bagaimana kalau sekarang, 
+pertanyaan tentang matematika, karena katanya kamu 
+pandai matematika.  "Suatu  bilangan jika dikalikan 
+tiga dan kemudian dikurangi dengan lima sama dengan 
+sepuluh. Bilangan berapakah itu?"
+Humam 
+: "Ehmm, sebentar Al. Bilangan yang kamu maksud adalah 
+5, bukan? 5 dikali 3, lalu dikurangi 5 sama dengan 10. 
+Benar kan? Sekarang giliranku untuk bertanya kepadamu 
+yang kata bu guru selalu mendapat nilai memuaskan. 
+Bilangan yang dikalikan dengan tiga perempat kemudian 
+dikurangi dengan kelipatannya dan ditambah satu sama 
+dengan enam. Bilangan berapakah itu?" 
+Aldo 
+: "Ohh, curang kamu Mam, sulit sekali pertanyaanmu.  Tapi 
+tenang, saya hitung bilangan yang ada dalam pikiranmu 
+adalah empat. Karena 4 dikalikan dengan 4
+3 , kemudian 
+dikurangi dengan 2 kali 4 serta ditambah 1, maka hasilnya 
+empat. Benarkah tebakanku? 
+Humam 
+: "Itu hampir benar. Jawaban yang benar adalah negatif 
+empat (
+)
+4
+-
+."
+Aldo 
+ : "Sama sajalah, tidak cukup buruk jawabanku."
+Simak percakapan Humam dan Aldo di atas. Berdasarkan beberapa 
+pernyataan yang diungkapkan oleh mereka, kita dapat membaginya 
+menjadi tiga kategori, yaitu.
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+103
+1. 
+Kalimat yang belum dapat diterima nilai kebenarannya
+ 
+●
+Siapa Presiden ketiga Republik Indonesia?
+ 
+●
+Siapakah WR. Supratman?
+ 
+●
+Bilangan dikalikan tiga dan kemudian dikurangi dengan lima 
+sama dengan sepuluh.
+ 
+●
+Bilangan yang dikalikan dengan tiga perempat  kemudian 
+dikurangi dengan kelipatan angka dan angka yang sama 
+dengan enam ditambahkan.
+Beberapa kalimat di atas merupakan pernyataan yang tidak dapat 
+dianggap benar atau salah. Coba jelaskan! Mengapa?
+2. 
+Pernyataan yang bernilai Benar 
+ 
+●
+Presiden ketiga Republik Indonesia adalah Prof. Dr. Ir H. B. J. 
+Habibie.
+ 
+●
+Pencipta lagu Indonesia Raya adalah WR. Supratman.
+ 
+●
+5 dikali 3, lalu dikurangi 5 sama dengan 10.
+3. 
+Pernyataan yang bernilai Salah
+ 
+●
+4 dikalikan dengan 4
+3 , kemudian dikurangi dengan 2 kali 4 
+serta ditambah 1, maka hasilnya empat. 
+Pernyataan (2) dan Pernyataan (3) adalah kelompok pernyataan pesan 
+(deklaratif) yang hanya dapat dinyatakan benar atau salah, tetapi 
+tidak keduanya. Kalimat yang hanya dapat dikatakan benar atau salah 
+disebut kalimat tertutup.
+Perhatikan beberapa kalimat berikut:
+1. 
+Bilangan prima terkecil adalah 3.
+2. 
+Jika a adalah bilangan asli, maka 2a + 6 adalah bilangan ganjil.
+3. 
+Empat merupakan bilangan ganjil.
+4. 
+Jayapura merupakan ibu kota provinsi Papua.
+5. 
+Pegunungan Lantimojong berada di Sulawesi Utara.
+Berdasarkan beberapa kalimat di atas, mana yang termasuk 
+pernyataan benar atau salah?
+Ayo Berpikir Kritis
+Matematika untuk SMP/MTs Kelas VIII
+104
+1. Menentukan Kalimat Terbuka dan Tertutup
+Gambar 3.2 Peta Indonesia
+Perhatikan pada Gambar 3.2. peta Indonesia dapat diketahui bahwa 
+Negara Indonesia memiliki banyak daerah dan beberapa pulau yang 
+penduduknya beraneka ragam, tetapi memiliki tujuan yang sama 
+seperti semboyan Bhinneka Tunggal Ika. Selanjutnya,  coba perhatikan 
+beberapa kalimat di bawah ini.
+(1). Kota Y adalah  ibu kota Pemerintah Darurat Republik Indonesia.
+(2). Provinsi S terletak di pulau Kalimantan.
+(3). Kota K adalah salah satu ibu kota provinsi di pulau Sulawesi.
+(4). Dua ditambah a sama dengan delapan.
+(5). p + 28 = 40
+(6). x + 4 = 20
+Berdasarkan beberapa kalimat di atas, dapatkah kalian menentukan 
+nilai kebenarannya?
+Kita tidak dapat menentukan nilai kebenaran dari beberapa 
+kalimat di atas. Hal ini dikarenakan masih terdapat unsur-unsur yang 
+belum diketahui nilainya. Sehingga, jika detail dari pernyataan di atas 
+diperinci untuk menemukan kebenarannya, maka beberapa kalimat 
+Indonesia
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+105
+di atas dapat diketahui bahwa kalimat (1) menyesuaikan nilai kota Y, 
+kalimat (2) menyesuaikan pada Provinsi S, kalimat (3) sesuai dengan 
+kondisi  kota K, kalimat (4) menyesuaikan dengan nilai a, kalimat (5) 
+sesuai dengan nilai p, dan kalimat (6) sesuai dengan nilai x.
+Terdapat dua asumsi yang bisa kalian peroleh dari beberapa 
+kalimat di atas. Namun, jika Anda  mengubahnya ke dalam bentuk 
+kalimat tertutup, maka kalimat tersebut akan memiliki kesimpulan 
+benar atau salah.
+Pembahasan
+Jika Y diganti dengan Bukittinggi, maka kalimat (1) menjadi kalimat 
+tertutup dan bernilai benar. Tetapi, jika Y diganti dengan Yogyakarta, 
+maka kalimat (1) bernilai salah.
+Pada kalimat (2), jika S diganti dengan Pontianak, maka menjadi 
+kalimat tertutup dan bernilai benar. Namun jika S diganti dengan 
+Makassar, maka kalimat tersebut bernilai salah.  
+Kalimat (3) menjadi kalimat tertutup dan bernilai benar, jika K 
+diganti menjadi  Gorontalo. Tetapi jika K  diganti dengan Banjarmasin, 
+maka kalimat tersebut bernilai salah. 
+Jika a diganti dengan 6, maka kalimat (4) menjadi kalimat tertutup 
+dan bernilai benar. Pada kalimat (4) tersebut, jika dua ditambah a sama 
+dengan 8 dimodelkan dalam bentuk matematika, maka
+Nilai a diganti angka 6, menjadi
+Namun, jika  a
+6
+!
+, maka bernilai salah.
+Pada kalimat (5), akan menjadi kalimat tertutup dan bernilai benar, 
+jika p diganti dengan 12. 
+Nilai p diganti dengan angka 12,
+a
+2
+8
++
+=
+2
+6
+8
+8
+8
++
+=
+=
+p
+28
+40
++
+=
+12
+28
+40
+40
+40
++
+=
+=
+Matematika untuk SMP/MTs Kelas VIII
+106
+Tetapi, jika p
+12
+!
+, maka bernilai salah.
+Jika x diganti dengan angka 16, maka kalimat (6) menjadi kalimat 
+tertutup dan bernilai benar. Tetapi, jika  x
+16
+!
+, maka bernilai salah.
+x
+4
+20
++
+=
+Nilainya x diganti dengan angka 16, 
+16
+4
+20
+20
+20
++
+=
+=
+  
+Kalimat tertutup adalah pernyataan yang hanya dapat dikatakan benar 
+atau salah, tidak keduanya.  
+Kalimat terbuka adalah pernyataan yang tidak dapat dinilai benar atau 
+salah. Karena masih ada elemen dengan nilai yang tidak diketahui.
+Contoh 3.1
+Untuk menentukan apakah pernyataan berikut termasuk kalimat 
+terbuka atau tertutup. Lengkapi tabel di bawah ini menggunakan 
+tanda centang (), serta berikan alasan kalian. 
+Definisi
+No
+Pernyataan
+Terbuka
+Tetutup
+Alasan
+1.
+Tiga dikurangi p sama dengan 
+dua
+2.
+y merupakan bilangan prima 
+yang lebih dari empat
+3.
+x
+7
+9
++
+=
+4.
+b
+4
+10
+2
++
+5.
+Negatif dua ditambah lima sama 
+dengan tiga
+6.
+5 2
+3
+7
+-
+=
+^ h
+7.
+a
+2
+6
+36
+1
+-
+8.
+Indonesia memiliki 34 provinsi
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+107
+Alternatif penyelesaian
+Supaya pernyataan menjadi kalimat tertutup dan memiliki 
+nilai benar, pernyataan terbuka yang mengandung variabel 
+harus diganti dengan satu atau lebih anggota himpunan yang 
+ditentukan. Himpunan yang menggantikan nilai-nilai variabel 
+disebut Himpunan Penyelesaian.
+Bagaimana kalian menentukan bahwa unsur-unsur pada kalimat (1), 
+(3), (4), dan (7) yang masih terdapat nilai yang belum diketahui menjadi 
+kalimat yang bernilai benar?  Diskusikan dengan teman sebangku kalian, 
+selanjutnya tukarkan jawaban kalian dengan teman sekelas yang lain!
+No
+Pernyataan
+Terbuka
+Tetutup
+Alasan
+1.
+Tiga dikurangi p sama 
+dengan dua
+
+Memiliki variabel p 
+yang belum diketahui 
+nilainya
+2.
+y merupakan bilangan 
+prima yang lebih dari 
+empat
+
+Sudah jelas nilai 
+kebenarannya (salah)
+3.
+x
+7
+9
++
+=
+
+Memiliki variabel x 
+yang belum diketahui 
+nilainya
+4.
+b
+4
+10
+2
++
+
+Memiliki variabel b 
+yang belum diketahui 
+nilainya
+5.
+Negatif dua ditambah 
+lima sama dengan tiga
+
+Sudah jelas nilai 
+kebenarannya (benar)
+6.
+5 2
+3
+7
+-
+=
+^ h
+
+Sudah jelas nilai 
+kebenarannya (benar)
+7.
+a
+2
+6
+36
+1
+-
+
+Memiliki variabel a 
+yang belum diketahui 
+nilainya
+8.
+Indonesia memiliki 34 
+provinsi
+
+Sudah jelas nilai 
+kebenarannya (salah)
+Ayo Bekerja Sama
+Matematika untuk SMP/MTs Kelas VIII
+108
+Tahukah Kalian?
+?
+Himpunan adalah daftar atau kumpulan objek yang memiliki kesamaan 
+karakteristik. Objek dalam suatu himpunan tersebut dapat berupa apa 
+saja mulai dari angka, huruf, bentuk dan suatu nama, tempat, atau 
+lukisan, yang biasanya memiliki kesamaan tertentu. Daftar anggota atau 
+elemen suatu himpunan ditempatkan di dalam sepasang kurung kurawal 
+{ }.
+Misalkan:
+ 
+●
+P
+kumpulan hewan berkaki empat
+= "
+,
+P dapat berisi kambing, sapi, kerbau, gajah, dan sebagainya.
+ 
+●
+N
+kumpulan bilangan Asli kurang dari 8
+= "
+,
+N berisi 1, 2, 3, 4, 5, 6, 7
+ 
+●
+Kumpulan kopi Nusantara
+Contoh 3.2
+1. 
+Tentukan nilai x pada beberapa persamaan berikut.
+a. x
+4
+10
++
+=
+b. 
+x
+3
+5
+9
++
+=
+, dengan x ! himpunan bilangan asli
+Alternatif penyelesaian
+a. Nilai yang benar adalah 6. Jadi penyelesaiannya adalah  
+,
+x
+6
+=
+ dan ditulis himpunan penyelesaian 
+6
+= " ,.  
+b. Berdasarkan perhitungan, diketahui bahwa nilai 
+.
+x
+3
+4
+=
+Karena x yang dimaksud dalam soal adalah anggota 
+himpunan bilangan asli dan 3
+4 bukan anggota bilangan asli, 
+maka tidak ada pengganti x yang memenuhi persamaan 
+tersebut. Himpunan penyelesaian dari persamaan tersebut 
+dapat ditulis 4 atau { }.
+2. 
+a merupakan bilangan genap kurang dari 10, maka pernyataan 
+tersebut dapat ditulis 
+, , , ..., .
+a
+2 4 6
+8
+!
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+109
+Alternatif penyelesaian
+Pengganti a supaya pernyataan tersebut bernilai benar 
+adalah , , ,
+2 4 6 dan .8 
+Jadi, himpunan penyelesaiannya adalah 
+, , ,
+.
+2 4 6 8
+"
+, 
+2. Menemukan bentuk umum dari Persamaan Linier 
+Satu Variabel
+Berikut diberikan beberapa kalimat yang dihubungkan oleh tanda 
+persamaan =
+] g atau tanda pertidaksamaan 
+,
+,
+,
+.
+1
+2
+#
+$
+^
+h Berdasarkan 
+pemahaman kalian sebelumnya, pasangkan kalimat terbuka tersebut 
+dengan pasangan yang sesuai.
+x
+7
+9
++
+=
+○
+c
+6
+10
+2
++
+○
+○
+Persamaan linier dengan satu variabel
+x
+x
+4
+3
+6
+8
+-
+=
+-
+○
+a
+2
+4
+32
+1
+-
+○
+○
+Persamaan linier  dengan dua variabel
+x
+y
+10
+110
++
+=
+○
+m
+8
+=
+○
+○
+Persamaan kuadrat dengan satu variabel
+p
+2
+10
+=
+○
+y
+y
+3
+3
+4
+8
+-
+-
+=
++
+○
+○
+Pertidaksamaan linier satu variabel
+m
+m
+13
+2
+9
+#
+-
+○
+x
+4
+0
+2 -
+=
+○
+Berdasarkan kegiatan di atas, dapatkah kalian menemukan 
+karakteristik dari persamaan linier dengan satu variabel?
+Ayo Bereksplorasi
+Matematika untuk SMP/MTs Kelas VIII
+110
+Contoh 3.3
+1. 
+Buatlah pernyataan di bawah ini menjadi suatu persamaan.
+a. Suatu bilangan r dan 9, jika dijumlahkan sama dengan 25.
+b. Selisih antara bilangan z dan 5 adalah 4.
+c. Hasil kali p dengan 3 sama dengan 45. 
+2. 
+Sebanyak 96 siswa tereliminasi di babak penyisihan sebagai 
+siswa berprestasi. Babak kualiikasi ini memungkinkan 24 
+siswa untuk maju ke babak berikutnya. Tulislah persamaan 
+yang dapat digunakan untuk menentukan jumlah awal siswa 
+yang terlibat dalam memilih siswa berprestasi.
+Alternatif penyelesaian 
+1. 
+Persamaan dari beberapa pernyataan di atas adalah
+a. r
+9
+25
++
+=
+ 
+Jadi, persamaannya adalah r
+9
+25
++
+=
+.
+b. z
+5
+4
+-
+=
+Jadi, persamaannya adalah z
+5
+4
+-
+=
+.
+c. 
+p
+3
+45
+=
+Jadi, persamaannya adalah p
+3
+45
+=
+.
+2. 
+Misalkan variabel s adalah banyak siswa awal yang terlibat 
+dalam pemilihan siswa berprestasi, maka kalimat di atas  
+dapat ditulis menggunakan persamaan 
+.
+s
+96
+24
+-
+=
+Jadi, persamaannya adalah 
+.
+s
+96
+24
+-
+=
+Kalimat
+Jumlah 
+siswa 
+semula yang 
+mengikuti 
+seleksi siswa 
+berprestasi
+Berkurang
+Jumlah 
+siswa yang 
+tereliminasi
+Sama 
+dengan
+Jumlah 
+siswa yang 
+tersisa
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+111
+Isikan tabel berikut berdasarkan beberapa persamaan yang kalian 
+temukan sebelumnya.
+No
+Persamaan
+Variabel
+Pangkat 
+variabel 
+tertinggi
+Pangkat 
+variabel 
+terendah
+keterangan
+1
+x
+7
+9
++
+=
+x
+1
+1
+Variabel = x
+Koeisien = 1
+Konstanta = 7 dan 9
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Setelah mengisi tabel di atas, selanjutnya perhatikan karakteristik pada 
+persamaan linier satu variabel. Kemudian lakukan kegiatan berikutnya.
+Ayo Bekerja Sama
+Diskusikan dengan teman satu meja kalian. Bagaimana bentuk umum 
+dari persamaan linier satu variabel dan berikan alasannya.
+Ayo Mencoba
+Matematika untuk SMP/MTs Kelas VIII
+112
+1. 
+Analisis beberapa pernyataan di bawah ini, untuk menentukan 
+nilai kebenarannya.
+a. 
+Dua pertiga dari 27 adalah 18.
+b. 
+-24 merupakan perkalian dari -7 dan 3.
+c. 
+Terdapat 1800 detik dalam 2
+1 jam.
+d. 
+Bangun yang memiliki enam simetri lipat adalah segienam.
+2. 
+Jika nilai setiap variabel di bawah ini merupakan bilangan asli, 
+tunjukkan himpunan penyelesaian dari masing-masing kalimat 
+terbukanya. 
+a. 
+m adalah hasil dari kelipatan 7 yang kurang dari 24
+b. 
+k
+2
+-
+^
+h membagi 12.
+c. 
+t merupakan bilangan genap yang habis dibagi 2.
+d. 
+Kelipatan 2 dan 3 yang kurang dari 18 adalah a.
+3. 
+Ubah kalimat berikut menjadi pernyataan matematika yang 
+memuat variabel.
+a. 
+25 adalah hasil penjumlahan dari x dan 18.
+b. 
+44 sama dengan 6 lebihnya dari t.
+c. 
+15 adalah hasil bagi dari p dengan 3.
+d. 
+Keliling segitiga sama sisi adalah 24 cm.
+4. 
+Ahmad dan Dhoni adalah teman dekat yang akan membeli buku 
+dengan mengumpulkan uang saku  selama beberapa hari. Uang 
+Ahmad adalah Rp. 108.000,00. Total uang kaduannya Rp 220.000,00. 
+Tuliskan persamaan yang kalian gunakan untuk menentukan 
+jumlah uang Dhoni.
+Ayo Berpikir Kritis
+5. 
+Orang dewasa biasanya mengambil sekitar 24.000 napas per hari. 
+Tulislah persamaan yang menunjukkan berapa kali seseorang 
+bernapas dalam satu menitnya.
+Soal Laihan
+3.1
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+113
+B. Menyelesaikan  Persamaan Linier  Satu 
+Variabel
+Saat menyelesaikan persamaan linier satu variabel yang bertujuan 
+untuk menyederhanakan persamaan dengan hanya menyisakan 
+variabel pada salah satu ruas. Setiap langkah yang digunakan untuk 
+menyederhanakan persamaan tersebut, akan menghasilkan persamaan 
+yang ekuivalen. Apa itu persamaan yang ekuivalen?
+Pertimbangkan persamaan berikut.
+1. 
+x
+2
+1
+3
+-
+=
+2. 
+x
+2
+8
++
+=
+3. 
+x
+2
+2
+10
+-
+=
+Bagaimana penyelesaian akhir yang ditetapkan untuk setiap 
+persamaan di atas? Semua persamaan memiliki tahapan penyelesaian 
+yang setara. Persamaan di atas disebut sebagai persamaan yang sama 
+atau persamaan yang ekuivalen. Persamaan setara dapat dimodelkan 
+sebagai timbangan yang seimbang. Jika kedua lengan itu ditambahkan 
+atau dikurangi dengan menggunakan beban yang sama, tetapi 
+timbangan tetap seimbang.
+Ayo Bereksplorasi
+Bagaimana cara menyelesaikan persamaan linier satu variabel 
+menggunakan aturan penjumlahan dan pengurangan? Konsep 
+persamaan dapat diterapkan pada konsep kesetimbangan. Timbangan 
+dikatakan seimbang jika berat benda yang dibebankan di lengan kiri 
+sama dengan berat benda yang dibebankan di lengan kanan. Lihat 
+gambar timbangan di bawah ini.
+Gambar 3.3 Timbangan yang memiliki beban sama
+(a)
+(b)
+(c)
+Matematika untuk SMP/MTs Kelas VIII
+114
+Pada Gambar 3.3. di halaman sebelumnya, Apa yang dapat kalian 
+temukan berdasarkan kondisi timbangan yang ditunjukkan seperti 
+gambar?
+Gambar 
+3.3(a) 
+menunjukkan 
+bahwa 
+timbangan 
+mencapai 
+kesetimbangan jika kedua lengan memiliki beban yang sama. Jika 
+kedua lengan ditambahkan dengan beban berwarna kuning dengan 
+kondisi yang sama, ternyata masih seimbang. Begitu juga jika beban 
+semula pada Gambar 3.3(b) dikurangi dengan ukuran yang sama, 
+kondisi timbangan juga masih seimbang (Gambar 3.3(c)). Berdasarkan 
+ilustrasi tersebut apa yang dapat kalian temukan terkait persamaan, 
+khususnya persamaan linier satu variabel?
+Untuk informasi lebih lanjut terkait penyelesaian persamaan linier satu 
+variabel, kerjakan beberapa kegiatan berikut:
+1. 
+Siapkan kelereng dan balok kayu kecil, kemudian letakkan benda-
+benda tersebut pada kedua lengan timbangan seperti Gambar 3. 
+4 di bawah ini. Ilustrasi tersebut bertujuan untuk menyelesaikan 
+persamaan x
+2
+4
+8
++
+=
+.
+Gambar 3.4 Kondisi timbangan menyatakan persamaan x
+2
+4
+8
++
+=
+a. 
+Jelaskan bagaimana Gambar 3.4 di atas mengilustrasikan 
+persamaan x
+2
+4
+8
++
+=
+.
+b. 
+Berdasarkan ilustrasi pada Gambar 3.4 tunjukkan bahwa satu 
+ sama dengan berapa  ? Bagaiman kalian menemukannya?
+c. 
+Memperhatikan pada poin (a) dan (b). Tentukanlah nilai x .
+Ayo Mencoba
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+115
+2. 
+Pada Gambar 3.5(a) dan 3.5(b) di bawah ini, timbangan manakah 
+yang mengilustrasikan persamaan n
+1
+9
++
+=
+? Jelaskan.
+Gambar 3.5 Kondisi timbangan yang menyatakan suatu persamaan
+3. 
+Setelah kalian memahami cara menentukan solusi dari persamaan 
+linier di atas, lengkapi tabel di bawah ini dengan memperhatikan 
+contoh yang diberikan sebelumnya.
+Persamaan
+Tahapan
+Penyelesaian
+Bukti/Alasan
+x
+1
+5
++
+=
+x
+x
+x
+1
+5
+1
+5
+4
+1
+1
++
+=
++
+=
+=
+-
+-
+x
+4
+=
+x
+benar
+1
+5
+1
+5
+5
+5
+4
++
+=
++
+=
+=
+^
+h
+m
+4
+15
++
+=
+a
+6
+3
+=
+-
+x
+8
+16
+-
+=
+p
+17
+6
+=
+-
+x
+20
+8
+4
+=
+-
+Ayo Berteknologi
+Pindai QR code atau gunakan tautan pada halaman berikut ini untuk 
+mengakses program interaktif untuk simulasi menentukan nilai dari 
+variabel dalam suatu persamaan. Program interaktif tersebut juga dapat 
+digunakan untuk menguji kemampuan kalian dalam menggunakan 
+operasi aljabar dalam persamaan linier satu variabel.
+(a)
+(b)
+Matematika untuk SMP/MTs Kelas VIII
+116
+http://ringkas.kemdikbud.go.id/PersamaanLinier
+ 
+●
+Ruas kiri adalah persamaan di sebelah kiri tanda sama dengan =
+] g .
+ 
+●
+Ruas kanan adalah persamaan di sebelah kanan tanda sama dengan  
+=
+] g .
+ 
+●
+Solusi Persamaan adalah nilai variabel yang membuat persamaan 
+menjadi benar, yaitu membuat ruas kiri sama dengan ruas kanan.
+Misalkan:
+Pada persamaan x
+3
+8
+14
++
+=
+ di atas diketahui bahwa satu-satunya nilai 
+variabel x yang membuat persamaan tersebut benar adalah x
+2
+=
+.
+Perhatikan ketika x
+2
+=
+ maka Ruas kiri  
+Sehingga, terbukti benar bahwa penyelesaian persamaan di atas adalah 
+x
+2
+=
+, karena mengakibatkan Ruas kiri = Ruas kanan.
+Contoh 3.4
+1. 
+Tentukan nilai x pada persamaan x
+4
+9
+29
++
+=
+.
+Petunjuk
+i
+3x + =
+8 14
+Ruas Kiri
+Ruas Kanan
+Ruas kanan
+x
+3
+8
+3
+2
+8
+6
+8
+14
+#
+=
++
+=
++
+=
++
+=
+=
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+117
+Alternatif penyelesaian
+Selanjutnya, mengecek nilai x
+5
+=
+ ke dalam persamaan 
+x
+4
+9
+29
++
+=
+4
+5
+7
+29
+#
++
+=
+. Sehingga Ruas kiri = Ruas kanan
+2. 
+Tentukan nilai p pada persamaan 
+p
+13
+7
+34
+-
+=
+.
+Alternatif penyelesaian
+Selanjutnya, mengecek nilai p
+3
+=-
+ ke dalam persamaan 
+p
+13
+7
+34
+-
+=
+(
+)
+13
+7
+3
+34
+#
+-
+-
+=
+. Sehingga Ruas kiri = Ruas kanan
+3. 
+Tentukan nilai x pada persamaan 
+.
+x
+5
+4
+3
+2
++
+=-
+Alternatif penyelesaian
+(
+)
+(
+)
+(
+)
+(
+)
+setiap ruas dikurangi
+penyederhanaan
+setiap ruas dibagi
+penyederhanaan
+x
+x
+x
+x
+x
+9
+3
+4
+9
+29
+4
+9
+29
+4
+20
+4
+20
+5
+9
+9
+4
+4
++
+=
++
+=
+=
+=
+=
+-
+-
+(
+)
+(
+)
+(
+)
+(
+)
+setiap ruas dikurangi
+penyederhanaan
+setiap ruas dibagi
+penyederhanaan
+p
+p
+p
+p
+p
+13
+7
+34
+13
+7
+34
+3
+7
+21
+7
+21
+7
+3
+13
+13
+7
+7
+-
+=
+-
+=
+-
+=
+-
+=
+-
+=-
+-
+-
+-
+-
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+setiap ruas dikali
+penyederhanaan
+setiap ruas dikurangi
+penyederhanaan
+setiap ruas dibagi
+x
+x
+x
+x
+x
+x
+x
+5
+4
+5
+4
+3
+2
+5
+4
+3
+2
+4
+3
+10
+4
+3
+10
+3
+4
+13
+4
+13
+4
+13
+5
+5
+3
+3
+4
+4
+#
+#
++
+=-
++
+=-
++
+=-
++
+=-
+=-
+= -
+= -
+-
+-
+Matematika untuk SMP/MTs Kelas VIII
+118
+Selanjutnya, mengecek nilai x
+4
+13
+= -
+ ke dalam persamaan 
+ sehingga Ruas kiri = Ruas kanan
+Coba kalian temukan bentuk persamaan linier satu variabel lain yang 
+memiliki bentuk serupa, tetapi tidak sama dengan beberapa persamaan 
+sebelumnya. Analisis penyelesaiannya dengan memperhatikan contoh 
+yang sudah diberikan.
+Solusi dari persamaan x
+x
+x
+3
+4
+7
++
+=
+, secara umum dipahami sebagai 
+bentuk penjumlahan yang menghasilkan x
+x
+7
+7
+-
+ dan benar untuk semua 
+x anggota bilangan riil. Maka persamaan 
+|
+x
+2
+1
+7
+-
+ dapat dikatakan 
+benar jika harga x
+3
+-
+, karena itu himpunan penyelesaiannya adalah
+3
+! +. Bagaimana kira-kira penyelesaian persamaan di bawah ini?
+a. 
+| ,
+x
+x 2
+-
+ 
+b. 
+x
+x
+3
+1
+2
+-
++
+=-
+]
+g
+6
+@
+,
+c. 
+(
+)
+(
+)
+.
+x
+x
+5
+3
+6
+4
+9
+7
+-
+-
+=
+-
+-
+ 
+Apakah terdapat solusi untuk setiap persamaan tersebut? Jelaskan 
+jawaban kalian dan diskusikan dengan teman kalian.
+1. 
+Anjani mengupas 10 buah jambu biji dan Nyoman mengupas 7 
+buah jambu biji dari keranjang buah yang telah disediakan Ibu 
+Ratih untuk membuat rujak buah. Mereka berdua menyisakan 16 
+,
+x
+5
+4
+3
+2
+5
+4
+3
+2
+5
+13
+3
+2
+5
+10
+2
+2
+2
+4
+13
+#
++
+=-
++
+=-
+-
++
+=-
+-
+=-
+-
+=-
+-
+Ayo Berpikir Kreatif
+Ayo Berpikir Kritis
+Soal Laihan
+3.2
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+119
+buah jambu biji dalam keranjang. Perhatikan beberapa pernyataan 
+berikut, apakah bernilai benar atau salah dan berikan alasannya.
+a. 
+Misalkan total jambu biji adalah b, maka b
+10
+7
+16
+-
++
+=
+ 
+merupakan bentuk persamaannya.
+b. 
+Banyak buah yang dikupas adalah 17 buah.
+c. 
+Apabila Nyoman mengupas 3 buah jambu biji lagi, maka 
+persamaannya menjadi b
+20
+16
+-
+=
+.
+d. 
+Jambu biji sebelum dikupas yang terdapat dalam keranjang 
+sebanyak 36 buah.
+2. 
+Tentukan nilai x yang menjadikan beberapa persamaan di bawah 
+ini bernilai benar.
+a. 
+x
+13
+1
++
+=
+b. 
+x
+5
+3
+28
++
+=
+c. 
+x
+8
+1
+7
+-
+=
+d. 
+x
+3
+5
+10
++
+=-
+e. 
+x
+3
+2
+9
+-
+=
++
+3. 
+Pada segitiga di bawah ini, gunakan bentuk penyelesaian persamaan 
+untuk menentukan nilai m. Selanjutnya, gunakan busur derajat 
+sebagai pembuktian kebenaran jawab dalam mengukur setiap 
+sudutnya.
+4. 
+Terdapat banyak manfaat mempelajari materi 
+IPA, salah satunya untuk dapat menentukan 
+titik lebur suatu unsur kimia. 
+Titik lebur suatu zat adalah suhu dimana zat 
+tersebut dapat berubah wujud dari padat 
+menjadi cair. Jika titik lebur brom 30
+1 titik lebur 
+nitrogen. Tulis dan selesaikan persamaan 
+untuk menemukan titik lebur nitrogen.
+2m0
+(m+10)0
+m0
+Ayo Berpikir Kritis
+35
+Bromine
+79.904
+Br
+Titik Lebur Bromin -7°C
+Matematika untuk SMP/MTs Kelas VIII
+120
+5. 
+Suhu Celcius dapat ditentukan dengan mengubah suhu ke 
+Fahrenheit. Kalian dapat mengubah suhu dari Celcius ke Fahrenheit 
+dan sebaliknya menggunakan rumus berikut:
+Menurut BMKG pada Agustus 2022 adalah suhu rata-rata di 
+Papua 25,6°C. Jelaskan bagaimana kalian dapat menemukan suhu 
+Fahrenheit dari suhu rata-rata di Papua.
+C. Menemukan Konsep Pertidaksamaan Linier 
+Satu Variabel
+Aktivitas kehidupan sehari-hari seringkali dijumpai beberapa aturan 
+yang berupa visual atau pernyataan, baik tertulis dan tidak tertulis. 
+Misalkan informasi pada tampilan google maps berikut.
+Gambar 3.6 Rute Perjalanan dari Aceh Menuju Lampung 
+Sumber: https://bit.ly/RuteAcehLampung
+(
+)
+C
+F
+9
+5
+32
+=
+-
+Ayo Bereksplorasi
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+121
+Berdasarkan Gambar 3.6. Didapatkan informasi bahwa Rute 
+perjalanan dari Aceh ke Lampung tidak lebih dari 44 jam dengan 
+menggunakan mobil via jalur darat. Selain itu, juga didapatkan informasi 
+bahwa jarak antara Aceh dan Lampung adalah kurang dari 2.047 km. 
+Pada saat menempuh perjalanan melewati jalan tol juga terlihat tanda 
+seperti gambar disamping. Tanda tersebut merupakan rambu-rambu 
+yang dipasang di jalan tol yang berarti kecepatan maksimal adalah 100 
+km/jam dan kecepatan minimal adalah 60 km/jam. 
+Perhatikan gambar dan informasi yang sudah 
+kalian dapatkan sebelumnya. Jika terdapat beberapa 
+pertanyaan, berapa waktu perjalanan minimal yang 
+dibutuhkan untuk bepergian dari Aceh ke Lampung? 
+Berapa jarak maksimal yang ditempuh dari Aceh ke 
+Lampung?  Berapakah kecepatan yang diperbolehkan 
+sebuah mobil untuk melewati jalan tol yang terdapat 
+tanda disamping?
+Kalian akan dapat menjawab pertanyaan tersebut 
+setelah mempelajari materi pada bagian ini.
+Ayo Berpikir Kreatif
+Memperhatikan pada kegiatan Ayo Bereksplorasi di atas, salah satu 
+informasinya adalah membutuhkan waktu tempuh yang tidak lebih 
+dari 44 jam untuk melakukan perjalan dari Aceh ke Lampung. Jika 
+dimisalkan waktu tempuh adalah t, maka model matematika yang 
+didapatkan adalah t
+44
+1
+. Coba kalian temukan model matematika 
+yang lain berdasarkan kegiatan sebelumnya. 
+Model matematika dari waktu tempuh tidak lebih dari 44 jam, 
+dapat ditulis menjadi 
+t
+44
+1
+ atau t
+43
+#
+Untuk lebih memahami, bentuk tersebut dapat digambarkan pada 
+garis bilangan sebagai berikut.
+Matematika untuk SMP/MTs Kelas VIII
+122
+t
+44
+1
+t
+43
+#
+Pada model matematika t
+43
+#
+ , terdapat bentuk t
+43
+=
+ dan 
+t
+44
+1
+  Pada t
+44
+1
+ sudah digambarkan pada garis bilangan di atas. 
+Selanjutnya gambaran untuk t
+43
+=
+, ditunjukkan pada gambar berikut.
+Berdasarkan ilustrasi di atas, bagaimana kalian menemukan 
+himpunan penyelesaian dari pernyataan tidak kurang dari 27 
+menggunakan himpunan pasangan berurutan. Temukan beberapa 
+alternatif yang dapat kalian temukan!
+Pada penyelesaian yang ditunjukkan di kegiatan Ayo Berpikir Kreatif, 
+himpunan penyelesaian dari pertidaksamaan t
+43
+#
+ merupakan 
+semua bilangan riil yang dibatasi pada pertidaksamaan tersebut dan 
+dapat dinyatakan dengan “semua bilangan riil yang kurang dari atau 
+sama dengan 43”. Sehingga, himpunan penyelesaiannya tak terhingga 
+jumlahnya dan tidak dapat disebutkan satu-satu. Berikut ditunjukkan 
+visualisasi himpunan penyelesaian yang ditunjukkan pada garis 
+bilangan, notasi interval dan notasi pembentuk himpunan.
+Garis Bilangan
+Notasi interval
+Notasi pembentuk 
+himpunan
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+(
+,
+)
+43
+3
+-
+}
+x x
+43
+#
+"
+Perhatikan beberapa pertidaksamaan dan himpunan penyelesaiannya 
+dalam bentuk garis bilangan berikut.
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+Tahukah Kalian?
+?
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+123
+x
+4
+$
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+x
+4
+2
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+x
+3
+#-
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+x
+3
+1-
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+Perhatikan titik atau bulatan pada garis bilangan di atas. Jika 
+bilangan yang ditanyakan terletak pada suatu titik yang diwakili oleh 
+bulatan penuh (•), maka bilangan pada titik tersebut adalah anggota 
+himpunan penyelesaian. Sedangkan,  Jika  bilangan pada suatu titik 
+diwakili oleh bulatan kosong (°), maka bilangan pada titik tersebut 
+tidak termasuk anggota himpunan penyelesaian.
+Berdasarkan beberapa simbol yang sudah ditunjukkan sebelumnya, 
+perlu kalian ketahui bahwa dalam menyatakan simbol tersebut dapat 
+menggunakan beberapa kata berikut.
+Simbol Pertidaksamaan
+Simbol
+<
+>
+≤
+≥
+kata
+Kurang dari
+Lebih dari
+• Kurang dari 
+sama dengan
+• Hanya
+• Paling banyak
+• Lebih dari 
+sama dengan
+• Setidaknya
+• Paling sedikit
+Contoh 3.5
+1. 
+Modelkan beberapa kalimat berikut menjadi bentuk 
+pertidaksamaan linier satu variabel.
+a. Bilangan k dikurang 4 hasilnya kurang dari sama dengan 9
+b. -16 merupakan kurang dari sama dengan 4 lebihnya dari 2p
+Matematika untuk SMP/MTs Kelas VIII
+124
+Alternatif penyelesaian
+a. k dikurang 4 hasilnya kurang dari sama dengan 9 
+  
+k -4 
+ 
+ 
+ 
+# 
+ 
+  9
+Dengan demikian, bentuk pertidaksamaan linier di atas 
+adalah k
+4
+9
+#
+-
+b. -16 merupakan kurang dari sama dengan 4 lebihnya dari 2p
+      -16  
+ 
+ 
+     #  
+  
+    4 + 2p
+Dengan demikian, bentuk pertidaksamaan linier di atas 
+p
+4
+2
+16
+$
++
+-
+2. 
+Gambarlah himpunan penyelesaian dari pertidaksamaan 
+x
+5
+2-
+ dengan garis bilangan.
+Alternatif penyelesaian 
+Berikut adalah gambar garis bilangan yang memperlihatkan 
+pertidaksamaan x
+5
+2-
+ 
+Himpunan penyelesaian yang sudah ditunjukkan dari beberapa 
+permasalahan sebelumnya merupakan anggota himpunan bilangan asli. 
+Berdasarkan himpunan penyelesaian sebelumnya terdapat penyelesaian 
+.
+t
+43
+#
+ Apakah t
+43
+#
+ dan 
+t
+43 #
+ merupakan dua pertidaksamaan 
+yang ekuivalen? Apakah x
+5
+2-
+ dan 
+x
+5 1
+-
+ juga merupakan dua 
+persamaan yang ekuivalen? Jelaskan jawaban kalian.
+1. 
+Tuliskan makna dari garis bilangan berikut, sehingga menunjukkan 
+bentuk pertidaksamaan yang sesuai.
+a. 
+8
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+Ayo Berpikir Kritis
+Soal Laihan
+3.3
+20
+16
+12
+8
+4
+-4
+0
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+125
+b. 
+2. 
+Modelkan beberapa permasalahan berikut menjadi bentuk 
+pertidaksamaan linier satu variabel. 
+a. 
+Sekolah menyelenggarakan proyek penguatan proil pelajar 
+Pancasila pada tema kearifan lokal untuk melakukan observasi 
+menggunakan lima bus yang dapat mengangkut hanya 290 
+penumpang. 
+b. 
+Kegiatan penanaman pohon yang dilakukan oleh anggota OSIS 
+setidaknya dua ratus lima puluh meter di sepanjang jalan di 
+depan sekolah.
+c. 
+Pak Doni adalah seorang kuli bangunan kontrak yang sedang 
+mengerjakan proyek pemerintah dengan penghasilan tidak 
+lebih dari Rp. 3.600.000 setiap bulannya.
+d. 
+Andy memarkir sepeda motor di lapangan sekolah yang 
+banyaknya paling sedikit tiga ratus lima puluh sepeda motor
+e. 
+Pak Doni akan membuat kolam berbentuk balok yang 
+ditunjukkan seperti gambar di bawah. Volume kolam tersebut 
+tidak kurang dari 60 m2.
+3. 
+Ubahlah 
+kalimat 
+di 
+bawah 
+ini 
+menjadi 
+bentuk 
+model 
+pertidaksamaan linier satu variabel. 
+a. 
+Dua kali dari bilangan y lebih dari 
+2
+5
+-
+b. 
+Bilangan 9 lebihnya dari z tidak lebih dari 21
+-2
+-3
+-4
+-5
+-6
+-8
+-7
+(x+2)m
+3m
+5m
+Matematika untuk SMP/MTs Kelas VIII
+126
+4. 
+Bilangan 
+-5 
+merupakan 
+salah 
+satu 
+penyelesaian 
+dari 
+pertidaksamaan linier satu variabel berikut. Tunjukkan bahwa -5 
+tersebut apakah berlaku pada setiap  pertidaksamaan berikut.
+a. 
+x
+14
+9
+2
++
+ 
+b. 
+p
+1
+2
+9
+#
+-
+-
+c. 
+r
+2
+3
+$
++
+-
+5. 
+Nadia mendapat nilai 97, 82, 89 dan 99 pada 4 tes formatif 
+mata pelajaran matematika. Untuk mendapatkan nilai A dalam 
+matematika, rata-rata nilai tes harus sembilan puluh atau lebih. 
+Berapa nilai matematika pada tes ke-5 Nadia untuk mendapatkan 
+nilai A? Tuliskan pertidaksamaan yang mewakili ilustrasi Nadia di 
+atas.
+D. Menyelesaikan Masalah terkait 
+Pertidaksamaan Linier Satu Variabel
+Ayo Bereksplorasi
+Pertidaksamaan juga sering dijumpai dalam masalah sehari-hari. 
+Perhatikan masalah berikut:
+“Kalian harus berusia di bawah 16 tahun untuk menjadi 
+Pramuka Penggalang. Ketika masuk jenjang SMP dan 
+belajar selama 3 tahun ini, maka kalian masih memenuhi 
+syarat untuk menjadi anggota Pramuka Penggalang.”
+Permasalahan di atas mungkin tanpa kesulitan dapat diubah 
+menjadi bentuk pertidaksamaan linier. Jika x adalah usia kalian 
+sekarang, bentuk pertidaksamaan mana yang menunjukkan bahwa 
+kalian memenuhi syarat untuk menjadi anggota dari 4 pertidaksamaan 
+berikut yang mengilustrasikan masalah di atas.
+a. 
+x
+3
+16
+2
++
+b. 
+x
+3
+16
+1
++
+c. 
+x
+3
+16
+$
++
+d. 
+x
+3
+16
+#
++
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+127
+Bagaimana cara kalian menjelaskan bentuk pertidaksamaan di 
+atas? Pertidaksamaan manakah yang tepat untuk memodelkan pada 
+ilustrasi sebelumnya? Tentukan nilai x yang sesuai. Untuk memahami 
+bagaimana menjawab pertanyaan yang diberikan, kalian dapat 
+mempelajari bagian ini.
+Pertidaksamaan linier satu variabel memiliki beberapa karakteristik 
+yang dapat kalian gunakan untuk menemukan solusi permasalahannya. 
+Berikut ditunjukkan karakteristik dari pertidaksamaan linier satu 
+variabel.
+1. 
+Bentuk pertidaksamaan linier, jika ruas kanan dan ruas kiri 
+dijumlahkan atau dikurangi dengan bilangan yang sama maka 
+tanda pertidaksamaan tetap. Perhatikan ilustrasi berikut.
+Contoh 
+Contoh 
+Catatan: sifat di atas juga berlaku untuk tanda pertidaksamaan ≥ dan ≤
+2. 
+Perbedaan mendasar antara persamaan dan pertidaksamaan 
+linier satu variabel adalah pada operasi perkalian dan pembagian 
+dengan bilangan bukan nol. Berikut ditunjukkan karakteristik 
+pertidaksamaan linier satu variabel pada operasi perkalian dan 
+pembagian. 
+a. 
+Jika ruas kanan dan ruas kiri dikalikan atau dibagi dengan 
+bilangan positif, maka tanda pertidaksamaan tetap. Perhatikan 
+ilustrasi berikut.
+Tahukah Kalian?
+?
+,
+,
+Jika a
+b maka a
+b
+Jika a
+b maka a
+b
+c
+c
+c
+c
+1
+1
+2
+2
++
++
++
++
+4
+2
+4
+2
+1
+7
+5
+5
+1
+1
+1
+-
+- +
++
+,
+,
+Jika a
+b maka a
+b
+Jika a
+b maka a
+b
+c
+c
+c
+c
+1
+1
+2
+2
+-
+-
+-
+-
+2
+6
+2
+6
+3
+1
+5
+5
+1
+1
+1
+-
+-
+-
+Matematika untuk SMP/MTs Kelas VIII
+128
+Contoh 
+Contoh 
+Catatan: sifat di atas juga berlaku untuk tanda pertidaksamaan ≥ dan ≤
+b. 
+Jika ruas kanan dan ruas kiri dikalikan atau dibagi dengan 
+bilangan negatif, maka tanda pertidaksamaan berubah. 
+Perhatikan ilustrasi pada halaman berikut.
+Contoh 
+Contoh 
+Catatan: sifat di atas juga berlaku untuk tanda pertidaksamaan ≥ dan ≤
+Setelah mengamati beberapa bentuk pertidaksamaan, bandingkan 
+dan jelaskan bagaimana perbedaan penyelesaian dari persamaan dan 
+pertidaksamaan linier satu variabel.
+,
+,
+Jika a
+b maka a
+b
+Jika a
+b maka a
+b
+c
+c
+c
+c
+$
+$
+$
+$
+1
+1
+2
+2
+4
+2
+4
+2
+12
+6
+3
+3
+>
+>
+>
+$
+$
+,
+,
+Jika a
+b maka a
+b
+Jika a
+b maka a
+b
+c
+c
+c
+c
+1
+1
+2
+2
+6
+9
+6
+9
+2
+3
+3
+3
+>
+>
+>
+-
+-
+-
+,
+,
+Jika a
+b maka a
+b
+ac
+bc
+Jika a
+b maka a
+b
+ac
+bc
+c
+c
+c
+c
+$
+$
+$
+$
+1
+1
+2
+2
+2
+1
+-
+-
+-
+-
+-
+-
+-
+-
+]
+]
+]
+]
+g
+g
+g
+g
+4
+2
+4
+2
+12
+6
+3
+3
+>
+>
+$
+$
+1
+-
+-
+-
+-
+]
+]
+g
+g
+,
+,
+Jika a
+b maka a
+b
+a
+b
+Jika a
+b maka a
+b
+a
+b
+c
+c
+c
+c
+c
+c
+c
+c
+1
+1
+2
+2
+2
+1
+-
+-
+-
+-
+-
+-
+-
+-
+6
+9
+6
+9
+2
+3
+3
+3
+>
+>
+1
+-
+-
+-
+-
+-
+Ayo Berpikir Kritis
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+129
+Contoh 3.6
+1. 
+Tentukan himpunan penyelesaian dari beberapa 
+pertidaksamaan di bawah ini.
+a. x
+4
+2
+1
+-
+b. 
+x
+13
+14
+#
++
+c. 
+x
+2
+5
+2
+1
+-
+-
+d. 
+(
+)
+x
+x
+6
+3
+2
+2
+8
+$
+-
+-
+-
+-
+^
+h
+Alternatif penyelesaian 
+a. 
+Sehingga, himpunan penyelesaiannya adalah 
+.
+x
+2
+1
+b. 
+Sehingga, himpunan penyelesaiannya adalah x
+1
+$-
+ 
+c. 
+Sehingga, himpunan penyelesaiannya adalah 
+,
+atau
+x
+x
+2
+7
+3 5
+>
+>
+-
+-
+x
+x
+x
+4
+2
+4
+2
+2
+4
+4
+1
+1
+1
+-
+-
+-
+-
++
++
+x
+x
+x
+13
+14
+13
+14
+1
+14
+14
+#
+#
+#
++
++
+-
+-
+-
+,
+atau
+x
+x
+x
+x
+x
+x
+2
+5
+2
+2
+5
+2
+2
+7
+2
+7
+2
+7
+3 5
+5
+5
+2
+2
+<
+<
+<
+>
+>
+>
+-
+-
+-
+-
+-
+-
+-
+-
++
++
+-
+-
+Matematika untuk SMP/MTs Kelas VIII
+130
+d. 
+Sehingga, himpunan penyelesaiannya adalah x
+0
+#
+ 
+2. 
+Buatlah garis bilangan yang menunjukkan hasil dari 
+penyelesaian pertidaksamaan linier pada poin 1.
+a. x
+2
+1
+b. x
+1
+$-
+c. 
+,
+atau
+x
+x
+2
+7
+3 5
+>
+>
+-
+-
+d. x
+0
+#
+Ayo Bekerja Sama
+Kalian telah melakukan pengamatan dan analisis terhadap langkah-
+langkah dalam menyelesaikan pertidaksamaan linier satu variabel. 
+Sebagai upaya meningkatkan pemahaman, diskusikan beberapa 
+pertanyaan berikut dengan kelompok kalian. 
+(
+)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+6
+3
+2
+2
+8
+6
+18
+2
+2
+16
+6
+18
+2
+18
+6
+18
+2
+18
+6
+2
+4
+0
+4
+4
+4
+0
+0
+18
+18
+2
+2
+$
+$
+$
+$
+$
+$
+#
+#
+-
+-
+-
+-
+-
++
+-
++
+-
++
+-
++
+-
++
+-
++
+-
+-
+-
+-
+-
+-
+-
+-
++
++
+^
+h
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+x<2
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+131
+1. 
+Apakah terdapat perbedaan strategi dalam menyelesaikan 
+persamaan dan pertidaksamaan linier satu variabel? Bagaimana 
+saja perbedaannya?
+2. 
+Bagaimana pendapat kalian terkait pertidaksamaan x
+3
+5
+2
++
+ dan 
+x
+5
+3
+2
+-
+, apakah termasuk pertidaksamaan yang setara? Jelaskan.
+3. 
+Perhatikan segitiga di bawah ini.
+7dm
+7dm
+x
+a. 
+Bagaimana bentuk pertidaksamaan yang terbentuk dari 
+keliling segitiga tersebut?
+b. 
+Berapakah nilai x , jika keliling segitiga tersebut hanya 
+dm
+25
+1. 
+Pak Ahmad akan membangun rumah pada sebidang tanah 
+berbentuk persegi panjang yang memiliki ukuran panjang 
+m
+20
+ 
+dan lebar 
+y
+m
+6
+1
+-
+^
+h
+ dengan luas tanah total hanya 
+m
+100
+2 .
+a. 
+Berdasarkan informasi sebelumnya, tentukan lebar tanah 
+yang dimiliki Pak Ahmad?
+b. 
+Pak Ahmad mengundang ahli bangunan untuk konsultasi dan 
+menghasilkan perhitungan bahwa biaya yang dibutuhkan 
+untuk membangun rumah untuk m
+1
+2 adalah Rp. 2.000.000,00. 
+Berapakah total biaya yang harus dikeluarkan pak Ahmad 
+dalam membangun rumah?
+2. 
+Pada setiap hari Senin, Kamis, dan 
+Minggu Taman Safari menampilkan 
+pertunjukkan 
+atraksi 
+lumba-lumba. 
+Untuk menjaga kesehatan dan nutrisi 
+lumba-lumba, setiap harinya diberikan 
+makan ikan hanya 15 kg. Jika perawat 
+Soal Laihan
+3.4
+Matematika untuk SMP/MTs Kelas VIII
+132
+lumba-lumba selalu menggunakan timba untuk memberi makan 
+sebagai tempat ikan yang hanya memuat 3 kg per timba.
+a. 
+Jika x dimisalkan sebagai timba. Tulislah bentuk pertidaksamaan 
+linier berdasarkan ilustrasi tersebut.
+b. 
+Tentukan banyak timba yang dibutuhkan untuk memberi 
+makan kembali lumba-lumba, jika pada hari itu lumba-lumba 
+sudah menghabiskan 10 kg ikan.
+3. 
+Tentukan 
+himpunan 
+penyelesaian 
+dari 
+pertidaksamaan 
+x
+6
+2
+4
+10
+1
+1
+-
+. Dimana x merupakan anggota bilangan bulat.
+4. 
+Mobil pick up hanya dapat membawa muatan seberat 2.000 kg. 
+Pengemudi dan kernek memiliki berat total 150 kg. Mobil pick up 
+tersebut akan mengangkut kotak yang berisi 50 kg.
+a. 
+Tunjukkan banyak kotak yang dapat diangkut dalam sekali 
+perjalanan?
+b. 
+Jika mobil pick up harus membawa 350 kotak, berapa kali 
+pengangkutan kotak yang harus dilakukan sampai semua 
+kotak terangkut?
+5. 
+Humam memiliki uang Rp180.000,00 yang akan digunakan untuk 
+membeli jeruk. Untuk harga 1 kg jeruk adalah Rp15.000,00. 
+Buatlah penyelesaian dari pertidaksamaan yang mengilustrasikan 
+banyaknya jeruk yang dapat Humam beli.
+Berdasarkan beberapa aktivitas yang telah kalian lakukan terkait 
+persamaan dan pertidaksamaan linier satu variabel, berikan penjelasan 
+pada beberapa pertanyaan di bawah ini.
+a. 
+Apakah setiap bentuk kalimat tertutup dan terbuka yang 
+kalian jumpai dapat diilustrasikan dalam model matematika?
+b. 
+Bagaimana menemukan himpunan penyelesaian dari 
+persamaan dan pertidaksamaan linier satu variabel?
+Ayo Berefleksi
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+133
+c. 
+Apakah terdapat perbedaan dalam menyelesaikan 
+permsalahan terkait persamaan dan pertidaksamaan linier 
+satu variabel?
+Uji Kompetensi Bab 3
+A. 
+Pilihlah jawaban pada soal berikut dengan jawaban yang benar 
+dan tepat
+1. 
+Garis bilangan di bawah ini, yang menunjukkan bentuk 
+pertidaksamaan 
+x
+7
+3
+28
+#
+-
++
+^
+h
+ adalah …
+a. 
+b. 
+c. 
+d. 
+2. 
+Doni akan melakukan praktikum IPA untuk membuktikan berat 
+besi. Terdapat tiga besi yang akan ditimbang dengan berat setiap 
+besi sama. Mula-mula Doni menempatkan beban 8 gram pada 
+lengan yang satu untuk menimbang sebatang besi pada lengan 
+yang lain. Hasil percobaan Doni ditunjukkan pada gambar berikut.
+Selanjutnya, Doni mencoba menimbang ketiga besi dengan 
+menempatkan beban 20 gram pada lengan yang lain. Seperti 
+ditunjukkan oleh gambar berikut.
+-4
+-5
+-6
+-7
+-8
+-10
+-9
+10
+9
+8
+7
+6
+4
+5
+-4
+-5
+-6
+-7
+-8
+-10
+-9
+10
+9
+8
+7
+6
+4
+5
+Matematika untuk SMP/MTs Kelas VIII
+134
+Berdasarkan beberapa ilustrasi di atas, kemungkinan berat 
+sebatang besi adalah …
+a. 
+5 g
+b. 
+6 g
+c. 
+7 g
+d. 
+8 g
+3. 
+Pak Aldo akan membuat pagar yang mengelilingi taman segitiga 
+yang ditunjukkan seperti gambar disamping. Jika luas taman 
+tersebut setidaknya 
+m
+60
+2 .  Kemungkinan nilai minimal dari c 
+adalah ...
+a. 
+9 meter
+b. 
+11 meter
+c. 
+10 meter
+d. 
+8 meter
+12 meter
+c meter
+Bab 3 | Persamaan Linier dan Pertidaksamaan Linier Satu Variabel
+135
+4. 
+Ayah Dhoni seorang marketing dari suatu showroom mobil yang 
+dibayar setiap bulan berdasarkan mobil yang terjual setiap 
+bulannya. Terdapat aturan showroom bahwa untuk menjadi 
+atasan, gaji rata-rata tiap bulan setidaknya Rp2.000.000,00 per 6 
+bulan. Sedangkan, gaji Ayah Dhoni selama 5 bulan pertama adalah 
+Rp1.800.000,00, Rp2.300.000,00, Rp1.500.000,00, Rp2.000.000,00, 
+dan Rp 2.500.000,00. Gaji yang harus diterima Ayah Dhoni di bulan 
+keenam untuk menjadi atasan adalah ...
+a. 
+Rp1.900.000,00
+b. 
+Rp2.000.000,00
+c. 
+Rp2.100.000,00
+d. 
+Rp2.200.000,00
+5. 
+Pada acara Dies Natalis di sekolah, kelas kalian berniat membuat 
+stand minuman. Minuman yang dijual adalah jus buah seharga 
+Rp10.000,00 setiap gelas. Karena stand bazar dilombakan, maka 
+harus dihias dengan bagus yang menghabiskan biaya Rp80.000,00. 
+Selesai bazar ternyata mendapatkan uang Rp600.000,00. Jika 
+keuntungan didapat dari hasil penjualan dikurangi biaya menghias 
+stand, berapa banyak jus buah yang laku terjual . . .
+a. 
+52 gelas
+b. 
+54 gelas
+c. 
+56 gelas
+d. 
+58 gelas
+B. Kerjakan soal-soal berikut dengan baik dan benar
+1. 
+Harga sepasang sepatu dua kali lipat dari harga sepasang sandal. 
+Arjuna membelikan tujuh pasang sepatu dan delapan pasang 
+sandal untuk dijual kembali dengan total bayar Rp660.000,00. 
+Tentukan harga sepasang sepatu berdasarkan informasi tersebut.
+2. 
+Segitiga sama kaki memiliki satu sisi dengan panjang lima kali 
+panjang sisi lainnya. Jika keliling segitiga sama kaki paling tidak 60 
+cm, berapa panjang minimal setiap sisi segitiga?
+3. 
+Pak Amri berencana membangun rumah di atas sebidang tanah 
+berbentuk persegi panjang dengan panjang 18 m dan lebar 
+.
+y
+3
+1
++
+^
+h
+Jika luas tanah Pak Amri hanya 180 m2 tentukan.
+Matematika untuk SMP/MTs Kelas VIII
+136
+a. 
+Lebar tanah Pak Amri yang dapat dibangun rumah.
+b. 
+Biaya maksimal untuk konstruksi bangunan membutuhkan 
+Rp9.000.000,00 setiap 2 m2. Berapa biaya maksimal yang harus 
+dikeluarkan Pak Amri untuk membangun rumah?
+4. 
+Humam memiliki mobil pick up yang hanya dapat membawa 
+muatan maksimal 1 ton dan harus membawa buah naga 10 kotak. 
+Untuk mengirimkan dua jenis buah, Humam harus menempatkan 
+kotak berwarna merah sebagai tempat buah naga seberat 25 kg, 
+dan kotak biru sebagai tempat buah jeruk seberat 50 kg. 
+a. 
+Berapa banyak kotak yang bisa dibawa Humam dalam satu 
+kali perjalanan?
+b. 
+Berapa kali pengangkutan minimal yang dilakukan oleh 
+Humam untuk membawa 195 kotak berisi jeruk?
+5. 
+Tentukan penyelesaian dari beberapa pertidaksamaan berikut!
+a. 
+x
+x
+2
+6
+8
+5
+$
+-
++
+b. 
+x
+15
+2
+1
+5
+>
++
+c. 
+p
+8
+2
+3
+2
+#
++
+d. 
+y
+2
+2
+8
+6
+<
++

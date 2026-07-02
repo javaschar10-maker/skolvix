@@ -1,0 +1,3469 @@
+BAB 4 Inovasi Bioteknologi 
+191
+Inovasi 
+Bioteknologi
+Bagaimana perkembangan teknologi 
+mendasari kerja inovasi bioteknologi?
+BAB
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2022
+Biologi 
+untuk SMA Kelas XII
+Penulis	
+Shilviani Dewi, dkk.
+ISBN 	
+978-602-427-958-5 (jil.2)
+4
+Biologi untuk SMA/MA Kelas XII
+192
+Tujuan Pembelajaran
+Pada bab ini, kalian akan diajak untuk dapat:
+1.	
+menafsirkan definisi bioteknologi. 
+2.	
+mengidentifikasi peran bioteknologi dalam kehidupan manusia. 
+3.	
+memberikan contoh peranan bioteknologi dalam pemecahan masalah. 
+4.	
+menganalisis perbedaan bioteknologi konvensional dan bioteknologi modern.
+5.	
+menganalisis cabang-cabang ilmu yang terlibat dalam bioteknologi.
+6.	
+memberikan saran inovasi pembuatan tempe dengan bahan nonkedelai 
+dan pemanfaatan bioteknologi pada bidang lain.
+7.	
+memberi saran inovasi pembuatan tempe berprotein sempurna dan 
+pemanfaatan bioteknologi pada bidang lain
+8.	
+mengevaluasi pemanfaatan bioteknologi konvensional dan modern.
+9.	
+mengevaluasi pemanfaatan bioteknologi modern melalui rekayasa genetika 
+dan kultur jaringan
+10.	 memberikan argumentasi pemanfaatan bioteknologi modern. 
+11.	 mengevaluasi pemanfaatan bioteknologi berdasarkan bioetika.
+Kata Kunci
+bioproses, bioetika, kultur jaringan, kloning, penyuntingan gen, rekayasa genetika, 
+transgenik, stem cell.
+Peta Materi
+Inovasi 
+Bioteknologi
+Pengertian
+Konvensional
+Teknologi Fermentasi
+Steril
+Aplikasi
+Pangan: Tempe, Kecap, 
+Yoghurt
+ Kultur Jaringan
+Lingkungan: Lumpur Aktif 
+IPAL
+ Antibodi Monoklonal
+Energi: Biogas, Alkohol
+Transgenik
+Medis: Antibiotik Penisilin
+Vaksin
+Kloning
+ Sel Punca
+Penyuntingan Gen
+Aplikasi
+Kondisi
+Nonsteril
+Teknologi Rekayasa Genetika 
+Modern
+Jenis
+Bioetika
+BAB 4 Inovasi Bioteknologi 
+193
+Makanan dan kesehatan merupakan komponen pendukung yang sangat 
+esensial di masa pandemi Covid-19. Kandungan asam amino yang tinggi pada 
+makanan dapat meningkatkan imunitas sehingga mampu bertahan dari 
+serangan virus Covid-19. 
+Tempe merupakan salah satu makanan yang mengandung asam amino 
+tinggi. Pada proses pembuatan tempe diterapkan rekayasa pengolahan kedelai 
+oleh agen biologi berupa jamur Rhizopus sp.. Jamur tersebut mensekresikan 
+enzim proteolitik sebagai aktivator fermentasi sehingga dihasilkan tempe. 
+Pembuatan tempe merupakan salah satu praktek bioteknologi. 
+Proses pembuatan tempe semakin berkembang, salah satunya dari bahan 
+yang digunakan. Awalnya, bahan untuk membuat tempe berupa kedelai lokal. 
+Oleh karena kebutuhan kedelai lokal meningkat dan tidak bisa dipenuhi 
+ketersediaannya, muncullah teknologi rekayasa genetika yang menghasilkan 
+kedelai transgenik sebagai bahan pembuatan tempe.  Kedelai transgenik 
+merupakan salah satu contoh produk dari teknologi rekayasa genetika. 
+Jika kalian cermati, proses pembuatan tempe dengan bahan kedelai lokal 
+termasuk contoh bioteknologi konvensional. Adapun proses rekayasa genetika 
+yang menghasilkan kedelai transgenik termasuk contoh bioteknologi modern.
+Selain mengonsumsi makanan yang mengandung asam amino tinggi, 
+kegiatan vaksinasi juga digalakkan pada masa pandemi Covid-19. Vaksin yang 
+digunakan antara lain Sinofax, Astrazeneca, dan Modena. Proses pembuatan 
+vaksin tersebut merupakan salah satu sumbangan nyata bioteknologi untuk 
+menyelamatkan kehidupan.
+Ayo Mengingat Kembali
+Di kelas sebelumnya, kalian telah mempelajari pengelompokkan 
+makhluk hidup dan peranannya. Fungi merupakan salah satu makhluk 
+hidup yang dipelajari pada bab tersebut. Apakah kalian masih ingat 
+peran Fungi? Salah satu peran Fungi atau jamur, yaitu mampu mengubah 
+kedelai menjadi bahan olahan berupa tempe yang mempunyai rasa dan 
+kualitas gizi tinggi. 
+Biologi untuk SMA/MA Kelas XII
+194
+A.	 Definisi Bioteknologi
+Dengan mengenal dan memanfaatkan produk bioteknologi, kalian akan 
+lebih mudah memahami apakah itu bioteknologi Ada banyak sekali produk 
+bioteknologi dan sudah biasa kita manfaatkan dalam hidup sehari-hari. Apakah 
+kalian dapat mengenali dan memanfaatkan produk-produk bioteknologi? 
+Coba kalian lakukan aktivitas berikut ini!
+AKTIVITAS 4.1 
+Ayo Mengidentifikasi Produk Bioteknologi
+1.	
+Buatlah kelompok beranggotakan 3 – 4 orang.
+2.	
+Lakukan observasi bahan makanan yang tersimpan di kulkas dan 
+rak di dapur di masing-masing rumah kalian.
+3. 
+Identifikasi bahan makanan yang kalian temukan. Apakah kalian 
+menemukan tempe, tape, kecap, yoghurt, dan mentega?  
+4.	
+Perhatikan gambar berikut ini dengan cermat. 
+	
+	
+	
+	
+	Gambar 4.1 Macam-macam produk bioteknologi.
+	
+	
+	
+5.	
+Dari pengamatan gambar, adakah permasalahan yang ditemukan? 
+Apakah 
+kalian 
+dapat 
+mengidentifikasi 
+bahan 
+dasar, 
+agen 
+biologi, pada setiap produk makanan? Diskusikan bersama 
+anggota kelompok.
+6.	
+Tuliskan hasil diskusi kalian pada tabel berikut.
+No.
+Jenis Produk
+Bahan Dasar
+Agen Biologis
+1.
+2.
+3.
+4.
+BAB 4 Inovasi Bioteknologi 
+195
+7.	
+Lakukan analisis dari hasil diskusi yang telah dilakukan.
+8.	
+Buat laporan berdasarkan hasil observasi dan analisis kalian.
+9.	
+Presentasikan laporan kalian di depan kelas.
+Pada Aktivitas 4.1, kalian menemukan ciri-ciri jenis produk bioteknologi, 
+bahan, dan agen biologi. Temuan ini menunjukkan bahwa bioteknologi 
+tersusun atas bahan dasar, agen biologi, dan produk.  Berdasarkan hal 
+tersebut dapat dirumuskan bahwa bioteknologi merupakan penerapan 
+prinsip-prinsip ilmiah dan rekayasa pengolahan bahan oleh agen-agen biologi 
+seperti mikroorganisme, tumbuhan, hewan, manusia, dan enzim untuk 
+menghasilkan barang dan jasa untuk memenuhi kebutuhan manusia. Secara 
+skematis bioteknologi dapat digambarkan sebagai berikut ini.
+Prinsip ilmiah 
+dan rekayasa 
+pengolahan 
+bahan
+Mikroorganisme,
+tumbuhan, hewan, 
+enzim, hormone,
+dan lain-lain
+Produk
+Agen
+biologi
+Bahan
+mentah
+	 Gambar 4.2  Skema Bioteknologi
+	 	
+Setelah memahami bioteknologi dan komponennya, kalian akan belajar 
+sejarah perkembangan bioteknologi. Penemuan apa saja yang tercatat dalam 
+sejarah bioteknologi? Untuk itu lakukan aktivitas berikut.
+Biologi untuk SMA/MA Kelas XII
+196
+AKTIVITAS 4.2
+Penemuan Bioteknologi
+1.	
+Buatlah kelompok beranggotakan 3 – 4 orang.
+2.	
+Lakukan pencarian studi literasi melalui media internet macam-
+macam penemuan bioteknologi dalam kurun waktu 2018 – 2022.
+3.	
+Isikan hasilnya pada tabel berikut ini!  
+No
+Tahun
+Penemuan
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+4.	
+Presentasikan temuan kalian di depan kelas agar dapat dilengkapi 
+oleh kelompok lainnya.
+Pada aktivitas 4.2 di atas kalian telah mengenal penemuan bioteknologi 
+dalam kurun 5 tahun terakhir. Tabel berikut ini menggambarkan penemuan-
+penemuan penting secara lengkap pada Bioteknologi.
+Tabel 4.1 Sejarah Penemuan dalam Bioteknologi.
+No
+Tahun
+Penemuan
+1
+6000 SM
+Pemanfaatan mikroorganisme untuk membuat roti, alkohol, keju.
+2
+1857
+Louis Pasteur menemukan teknik fermentasi mikroorganisme.
+3
+1917
+Ereky memperkenalkan istilah bioteknologi.
+4
+1943
+Penisilin diproduksi dalam skala industri.
+5
+1944
+Avery, Macleod, McCarty mendemonstrasikan DNA/bahan gen.
+6
+1953
+Watson dan Crick menemukan struktur DNA.
+7
+1970
+Enzim restriksi endonuklease diisolasi.
+BAB 4 Inovasi Bioteknologi 
+197
+8
+1972
+Khorana berhasil mensintesis secara kimiawi seluruh gen tRNA.
+9
+1973
+Boyer dan Cohen memaparkan teknologi DNA rekombinan.
+10
+1975
+Kohler dan Milstein menjabarkan produksi antibodi monoklonal.
+11
+1976
+Perkembangan teknik-teknik untuk menentukan sekuen DNA.
+12
+1978
+Genetech menghasilkan insulin manusia dalam E. coli.
+13
+1980
+Mikroorganisme hasil rekayasa genetika dapat dipatenkan.
+14
+1982
+Vaksin hewan DNA rekombinan disetujui di Eropa.
+15
+1983
+Plasmid Ti dipakai untuk transformasi DNA rekombinan.
+16
+1988
+Metode PCR dipublikasikan oleh Karry Mullis.
+17
+1997
+Kloning sel inti pada mamalia dengan menggunakan sel domba.
+18
+1999
+Kode genetik lengkap dari kromosom manusia telah diuraikan.
+19
+2000
+Penyelesaian Human Genome Project.
+20
+2002
+Padi transgenik beta karoten mulai diproduksi.
+21
+2003
+Pemetaan genom manusia telah selesai dilakukan.
+22
+2004
+Penggunaan antibodi monoklonal untuk terapi kanker.
+23
+2006
+Penggunaan vaksin untuk papillomavirus di 82 negara.
+24
+2007
+Penemuan teknik stem cell dari sel kulit manusia.
+25
+2009
+Sekunesing genom virus H1N1.
+26
+2010
+Penemuan genom artifisial dapat bereplikasi secara otonom.
+27
+2012
+Draft genom tanaman gandum telah selesai dianalisis.
+28
+2013
+Vaksin atau antibodi untuk HIV dan sel iPS untuk terapi kanker.
+29
+2014
+Ditemukan darah sintetis.
+30
+2015
+Ditemukan vaksin Ebola dan pengeditan genom dengan CRIPR.
+31
+2016
+Ditemukan pankreas buatan (Minimet 670G).
+32
+2017
+Pengeditan embrio manusia dengan CRIPR, kloning kuda.
+33
+2018
+Stem cell menyembuhkan mata yang buta.
+34
+2019
+Penemuan obat cystic fibrosis.
+35
+2020
+Vaksin mRNA Pfizer dan Modena untuk Covid-19.
+36
+2021
+Rekayasa DNA bayi untuk cegah HIV, Internet of Behavior (IoB).
+37
+2022
+Ditemukan komputasi kuantum dan Human Augmentation.
+Sumber: disarikan dari berbagai buku Bioteknologi.
+Biologi untuk SMA/MA Kelas XII
+198
+B.	 Manfaat Bioteknologi
+Produk bioteknologi yang mudah ditemukan dalam kehidupan sehari-hari di 
+antaranya tempe, tape, dan kecap, serta nata de coco. Dengan memanfaatkan 
+bioteknologi, air kelapa dapat diubah menjadi bahan pangan baru, yaitu nata 
+de coco. Perhatikan gambar berikut. 
+	Gambar 4.3 Bahan, jenis bakteri dan produk nata de coco.
+	
+Berdasarkan contoh di atas, bioteknologi dapat dimanfaatkan untuk 
+menciptakan bahan pangan baru. Tak hanya itu, bioteknologi juga bermanfaat 
+di berbagai bidang kehidupan. Ayo berpetualang untuk menemukan manfaat 
+bioteknologi pada berbagai bidang kehidupan.
+AKTIVITAS 4.3 
+Pemanfaatan Bioteknologi di Berbagai Bidang Kehidupan
+1.	
+Bentuklah kelompok beranggotakan 3 – 4 orang.
+2.	
+Lakukan pengamatan secara virtual produk bioteknologi pada 
+link berikut:
+a.	
+https://www.youtube.com/watch?v=squxzYLMvMM
+b.	
+https://www.youtube.com/watch?v=qI8xHpcxfnA&t=276s
+c.	
+https://www.youtube.com/watch?v=yDvG2rZav5E&t=68s
+d.	
+https://www.youtube.com/watch?v=XidGCK9Vhus
+3.	
+Tuliskan hasil pengamatan virtual kalian pada tabel berikut.
+No.
+Bidang
+Kehidupan
+Permasalahan 
+yang Dipecahkan
+Bahan
+Dasar
+Agen 
+Bioteknologi
+Hasil/
+Produk
+1.
+2.
+3.
+4.
+BAB 4 Inovasi Bioteknologi 
+199
+4. 
+Berdasarkan hasil pengamatan, kelompokkan macam permasalahan 
+kehidupan dan alternatif solusinya dengan bioteknologi. Diskusikan 
+bersama anggota kelompok.
+5. 
+Buat laporan hasil diskusi kalian dan presentasikan di depan kelas.
+Pada Aktivitas 4.3, kalian telah menemukan manfaat bioteknologi pada 
+berbagai bidang kehidupan. Berikut manfaat bioteknologi sebagai pemecahan 
+masalah di berbagai bidang kehidupan. 
+1. 
+Masalah pencemaran lingkungan dapat diatasi melalui:
+a. 
+Teknologi bioremediasi, yaitu teknologi pengolahan air limbah 
+dengan memanfaatkan bakteri aerob, yaitu Bacillus sp., dan bakteri 
+anaerob Acinetobacter sp., Staphylococcus sp., Cardiobacterium sp., dan 
+Mycoplasma sp.. Bioremediasi juga digunakan untuk mengolah polutan 
+minyak di laut dengan memanfaatkan Marinobacter, Oceanobacter, 
+Alcanivorax, Thalassospira, Stappia, Bacillus, Novosphingobium, 
+Pseudomonas, Sphingobium, dan Rhodobacter. 
+Lumpur aktif 
+berlebihan
+Pembuat 
+gelembung udara
+Tangki aerasi
+Tangki aerasi
+Air campuran
+Air
+campuran
+masuk
+Lumpur aktif dikembalikan
+Tangki
+pengendap
+Air limbah hasil
+pengolahan
+Batas cairan
+ Gambar 4.4 Teknik Bioremediasi pada  IPAL
+ 
+b. 
+Teknologi biodegradasi, yaitu teknologi untuk menghancurkan plastik 
+dengan memanfaatkan bakteri Pseudomonas aeruginosa, Pseudomonas 
+putida,  Pseudomonas chlororaphis, dan Pseudomonas fluorescens 
+untuk plastik PE, PVC, dan PP serta bakteri Ideonella sakaiensis untuk 
+plastik PET.
+Biologi untuk SMA/MA Kelas XII
+200
+2. 
+Masalah produktivitas pertanian dan perkebunan dapat diatasi melalui:
+a. 
+Teknologi kultur jaringan, yaitu teknologi untuk penyediaan bibit 
+unggul dalam jumlah banyak dan seragam, serta memproduksi 
+alkaloid dan metabolit sekunder lain yang di antaranya dapat 
+digunakan  sebagai bahan kosmetik dan obat. 
+b. 
+Teknologi bioinsektisida, yaitu teknologi untuk pemberantasan hama 
+tanaman yang ramah lingkungan, efektif, dan efisien.  
+c. 
+Teknologi rekayasa genetika (trans gebik), yaitu teknologi untuk 
+menghasilkan tanaman transgenik di antaranya tanaman tahan 
+hama, tahan pada tanah berkadar garam tinggi, maupun mampu 
+hidup di tanah kering.
+ 
+ 
+ 
+ 
+  
+Ti plasmid dengan T-DNA 
+berisi gen asing yang akan 
+disisipkan ke tumbuhan
+Sel tumbuhan
+Sel tumbuhan 
+dengan susunan 
+DNA yang baru
+Kanamisin
+Kultur sel
+Plantlet
+Tanaman 
+transgenik
+Gen asing
+Daerah penyisioan DNA
+  
+ Gambar 4.5 Teknologi tanaman transgenik
+  
+3. 
+Masalah kesehatan dapat diatasi dengan: 
+a. 
+Teknologi hibridoma, yaitu teknologi untuk memproduksi antibodi 
+monoklonal yang berfungsi mendeteksi antigen yang sulit terdeteksi 
+seperti pada sel kanker. Berikut ini gambar teknologi hibridoma.
+ 
+ 
+ 
+    
+Antigen disuntikkan pada tikus                     Sel B
+Kultur sel tumor                          sel tumor               
+Sel hibrid 
+ditumbuhkan
+pada kultur
+Terbentuk antibodi monokral
+kedua sel bersatu
+membentuk hibrid
+ 
+ 
+ 
+ 
+ Gambar 4.6 Teknologi hibridoma pada antibodi monoklonal.
+BAB 4 Inovasi Bioteknologi 
+201
+b.	
+Teknologi rekayasa genetika, yaitu teknologi untuk memproduksi: 
+1)	
+Interferon, jenis protein yang membantu mengatur kerja sistem 
+kekebalan tubuh. Interferon berperan melawan infeksi virus, 
+pengaktifan sel-sel imun, dan menghambat pertumbuhan 
+sel tumor.
+2)	
+Hormon insulin dari E. colli yang disisipi gen insulin untuk 
+menyembuhkan penderita diabetes melitus.
+3)	
+Antibiotik untuk membunuh patogen berupa bakteri dan jamur.
+c.	
+Teknologi stem cell, yaitu teknologi untuk penyembuhan penderita 
+stroke atau penyakit lain yang disebabkan kerusakan pada 
+jaringan tubuh.
+4.	
+Masalah reproduksi dan pertumbuhan ternak dapat diatasi dengan:
+a.	
+Teknologi inseminasi buatan (IB), yaitu teknologi yang memanfaatkan 
+sifat unggul hewan secara maksimal dengan cara mengambil dan 
+memasukkan sperma ke saluran kelamin betina sehingga dihasilkan 
+anakan yang bersifat unggul. 
+b.	
+Teknologi transfer embrio (TE), yaitu teknologi pemindahan embrio 
+yang bersifat unggul pada induk yang tidak harus unggul sehingga 
+dihasilkan anakan yang bersifat unggul.
+c.	
+Teknologi kriopreservasi embrio (KE), yaitu teknologi penyimpanan 
+embrio dalam bentuk beku yang bertujuan untuk menyimpan, 
+pemeliharaan, menjamin, dan mempertahankan kelangsungan 
+hidup sel.
+d.	
+Teknologi transplantasi nukleus (kloning), yaitu teknologi untuk 
+menghasilkan individu duplikasi (identik dengan induknya).
+e.	
+Teknologi rekayasa genetika, yaitu teknologi untuk menghasilkan 
+hormon pertumbuhan seperti recombinant Bovine Somatotropic (rBST).
+5.	
+Masalah energi yang ramah lingkungan dapat diatasi dengan teknologi 
+bioproses fermentasi untuk memproduksi bioetanol, biodiesel, dan biogas. 
+Biologi untuk SMA/MA Kelas XII
+202
+Digester
+Permukaan tanah
+Tangki
+limbah
+Tangki
+bertekanan
+Biogas
+Kamar
+gas
+biogas
+ Gambar 4.7 Produksi biogas. 
+6. 
+Masalah inovasi jenis tanaman baru dan penganekaragaman bahan 
+minuman dan makanan olahan dapat diatasi melalui:
+a. 
+Teknologi bioproses fermentasi, yang menghasilkan tempe, kecap, 
+mentega, keju, tape, yoghurt, dan anggur.
+b. 
+Teknologi rekayasa genetika yang di antaranya menghasilkan golden 
+rice dan jagung serta kapas transgenik.
+7. 
+Masalah identifikasi 
+(post mortem) korban 
+kecelakaan dan bencana 
+alam, maupun penentuan 
+ayah biologi seorang anak 
+diatasi dengan teknologi 
+pencocokan DNA. 
+Teknologi ini digunakan 
+untuk mengidentifikasi 
+dan mencocokkan 
+DNA mitokondria dari 
+korban dengan anggota 
+keluarganya. Perhatikan 
+gambar berikut
+14
+14
+15
+16
+17
+17
+10
+9
+9
+11
+11
+14
+10
+8
+8
+10
+10
+22
+Ayah???
+Ibu
+Anak
+Terduga ayah adalah ayah biologis anak
+Gambar 4.8 
+Identifikasi kecocokan DNA 
+ 
+BAB 4 Inovasi Bioteknologi 
+203
+C. Jenis Bioteknologi
+Kalian telah mengetahui definisi dan manfaat bioteknologi dalam kehidupan 
+manusia. Kini saatnya, kalian belajar tentang jenis-jenis bioteknologi. Ayo 
+kembangkan cara berpikir kritis kalian dengan melakukan aktivitas berikut.
+AKTIVITAS 4.4
+Ayo Membandingkan Proses Pembuatan Tempe dan Rekayasa 
+Genetika pada Tanaman Transgenik
+1. 
+Bentuklah kelompok beranggotakan 3 – 4 orang.
+2. 
+Amati dan bandingkan bagan tahapan proses pembuatan tempe 
+dan rekayasa genetika pada tanaman transgenik berikut!
+Kedelai
+Dibersihkan dan direndam
+selama 1 malam
+Buang kulitnya
+Dicuci
+Dikukus selama 1 jam
+Didinginkan
+Diberi ragi 
+tempe
+Dibungkus
+Fermentasi
+semalam
+Dianginkan dan
+diletakkan di atas rak
+Dibiarkan 
+selama semalam
+Tempe
+Bakteri
+Plasmid
+Bagian plasmid 
+yang dapat membawa 
+gen baru
+Gen yang akan 
+disisipkan 
+ke dalam 
+plasmid
+Gen yang
+disisipkan
+Plasmid dengan 
+gen baru
+Kromosom
+Plasmid dimasukkan 
+kembali ke dalam bakteri
+Sel tumbuhan akan
+tumbuh pada jaringan
+tumbuhan dewasa
+Plasmid memasukkan 
+gen baru ke dalam
+kromosom sel tumbuhan
+ Gambar 4.9 Proses pembuatan tempe.        
+ 
+  Gambar 4.10 Teknologi transgenik.
+ 
+3. 
+Perbedaan apa saja yang kalian temukan? Tuliskan perbedaan yang 
+ditemukan pada tabel berikut.
+No
+Variabel
+Pembeda
+Tahapan Pembuatan
+Tempe
+Tahapan Pembuatan
+Tanaman Transgenik
+1
+2
+3
+4. 
+Diskusikan macam perbedaan yang kalian temukan antara proses 
+pembuatan tempe dan rekayasa genetika pada tanaman transgenik.
+5. 
+Buatlah laporan hasil perbandingan dan diskusi kalian. Kemudian, 
+presentasikan di depan kelas.
+Biologi untuk SMA/MA Kelas XII
+204
+Pada Aktivitas 4.4, kalian telah menemukan perbedaan teknologi 
+pembuatan tempe (contoh produk bioteknologi konvensional) dan teknologi 
+tanaman kedelai transgenik (contoh produk bioteknologi modern). Perbedaan 
+bioteknologi konvensional dan modern tidak hanya pada jenis teknologi yang 
+diterapkan saja. Namun, masih ada beberapa variabel pembeda lainnya. 
+Perhatikan tabel berikut ini.
+Tabel 4.2 Perbedaan Bioteknologi Konvensional dan Modern.
+No.
+Variabel
+Pembeda
+Bioteknologi
+Konvensional
+Modern
+1.
+Waktu
+Mulai 6000 SM
+1953 
+2.
+Produk/
+temuan  penanda
+Minuman fermentasi: 
+anggur, bir, dan sake
+Penemuan struktur DNA oleh 
+Watson & Crick
+3.
+Kondisi proses
+Nonsteril
+Steril
+4.
+Teknologi
+Bioproses (fermentasi)
+Rekayasa genetika (transgenik 
+dan kloning)
+5.
+Sifat organisme / 
+agen biologi
+Asli atau alami
+Berubah atau termodifikasi
+6.
+Produk
+Tempe, tape, yoghurt, 
+nata de coco
+Tanaman dan hewan transgenik, 
+interferon, antibodi monoklonal, 
+serta hormon insulin sintetis
+Sumber: Deden Indra Dinata, 2013
+Dalam dimensi lain, bioteknologi dibagi dalam kelompok bidang yang 
+diasosiasikan dengan warna. Bioteknologi merah untuk bidang kesehatan. 
+Bioteknologi hijau untuk bidang pertanian dan peternakan. Bioteknologi putih 
+untuk bidang industri. Bioteknologi biru untuk bidang akuatik mencakup 
+perairan dan kelautan.
+Perkembangan artificial intelligence (AI) di tahun 1970 mampu menjangkau 
+aplikasi komputasi pada teknik rekayasa genetika sehingga muncul jenis 
+bioteknologi baru, yaitu bioinformatika. Bioinformatika merupakan bidang 
+multidisiplin yang mengkaji masalah biologi menggunakan komputasi 
+(komputer). Bioinformatika memiliki peran dalam   genomik struktural (studi 
+tentang penyusunan dan urutan  gen), genomik fungsional (studi tentang 
+peranan gen dan protein dalam biokimia), dan proteomik (studi molekuler 
+pada keseluruhan protein yang dihasilkan dari ekspresi gen di dalam sel, 
+terutama struktur dan fungsinya) sehingga mampu memproduksi kebutuhan 
+penting yang bermanfaat bagi manusia. Secara skematis bioinformatika dapat 
+digambarkan sebagai berikut.
+BAB 4 Inovasi Bioteknologi 
+205
+BIOINFORMATIKA
+BIG
+BIG
+DATA
+DATA
+Pengembangan dan
+implementasi alat
+Interpretasi dan
+analisis data
+Penyusunan statistik
+dan agoritma baru
+Pengolahan 
+big data
+Inovasi minuman
+dan kesehatan
+Prediksi
+struktur protein
+ Gambar 4.11 Teknologi bioinformatika.
+ 
+Untuk lebih mengenal bioinformatika dalam membantu memecahkan 
+permasalahan di kehidupan manusia, lakukan aktivitas literasi berikut!
+AKTIVITAS 4.5
+Bioinformatika dalam Bioteknologi
+Apakah kalian tahu Indonesia kaya akan keanekaragaman hayati? Jika 
+dibandingkan dengan negara lain di dunia, keanekaragaman hayati 
+Indonesia berada pada peringkat berapa?  Apakah Indonesia sudah 
+memiliki bank data yang lengkap dari keanekaragaman hayati? Apakah 
+manfaat bank data tersebut?
+Indonesia termasuk tiga negara terkaya dalam keanekaragaman hayati 
+di dunia. Namun sampai tahun 2022, belum semua spesies makhluk 
+Biologi untuk SMA/MA Kelas XII
+206
+hidup di Indonesia teridentifikasi ciri-cirinya menjadi suatu peta bank 
+data yang lengkap. Bank data keanekaragaman hayati dapat digunakan 
+sebagai pedoman dalam mengelola dan melestarikannya. Untuk 
+mengetahui bagaimana bank data keanekaragaman hayati di Indonesia, 
+kalian dapat membuka link berikut.
+http://lipi.go.id/berita/indonesia-butuh-basis-data-keanekaragaman-
+hayati-/5241
+Selain 
+permasalahan 
+keanekaragaman 
+hayati, 
+apakah 
+kalian 
+mengetahui penyakit mematikan yang belum ditemukan obatnya? 
+Apakah ada penemuan baru untuk menyembuhkannya? Apakah 
+langkah penyembuhan penyakit mematikan dapat dilakukan dengan 
+terapi gen?  
+Contoh penyakit mematikan yang disebabkan infeksi virus menular 
+di antaranya flu burung (H5N1), HIV(AIDS), dan Covid-19, serta kanker. 
+Selama ini, penyakit tersebut belum ditemukan obat yang tepat. Obat-
+obatan yang diberikan hanya untuk menghilangkan atau mengurangi 
+dampak infeksi dan menghambat kecepatan infeksi virusnya. Penyakit-
+penyakit ini merusak struktur dan fungsi gen sehingga tidak bisa 
+disembuhkan dengan obat-obatan. Penemuan teknologi terapi gen dan 
+teknologi sel punca memberi harapan untuk penyembuhan. Untuk 
+mengetahui lebih jauh mengenai terapi gen dan sel punca, kalian dapat 
+membuka link berikut!
+https://www.sehatq.com/tindakan-medis/terapi-gen
+Metode penyembuhan dengan terapi gen dan pemetaan keanekaragaman 
+hayati membutuhkan bank data gen. Untuk itu, dibutuhkan teknologi yang 
+dapat merekam urutan gen dan analisis ekspresi gen sehingga dapat dijadikan 
+instrumen dalam bioteknologi. Salah satu instrumen yang dimaksud adalah 
+bioinformatika.
+Bioinformatika mampu mengelola informasi biologis, penyejajaran 
+sekuens (sequence alignment), prediksi struktur untuk meramalkan bentuk 
+struktur  protein  maupun struktur sekunder  RNA, analisis  filogenetik, dan 
+analisis ekspresi gen. 
+Aplikasi bioinformatika mampu memunculkan teknologi rekayasa 
+genetika, kultur jaringan, DNA rekombinan, pengembangbiakan stem cell, dan 
+kloning. Teknologi-teknologi ini mampu menyembuhkan penyakit-penyakit 
+BAB 4 Inovasi Bioteknologi 
+207
+genetik maupun kronis (kanker dan HIV-AIDS). Penerapan teknologi stem cell 
+terbukti menyembuhkan penderita stroke dan penyakit yang mengakibatkan 
+kehilangan atau kerusakan pada jaringan tubuh. 
+Kalian telah mengetahui definisi dan jenis-jenis bioteknologi baik 
+berdasarkan macam teknologi yang diterapkan dan bidang yang diilustrasikan 
+dengan warna. Coba tunjukkan kreativitas kalian melalui aktivitas berikut!
+AKTIVITAS 4.6
+Pohon Bioteknologi
+1.	
+Bentuklah kelompok yang beranggotakan 3 – 4 orang.
+2.	
+Buatlah gambar pohon bioteknologi dengan bagian sebagai berikut.
+a.	
+Akar utama terdiri atas 2 struktur dasar pembangun 
+bioteknologi, yaitu bahan dan agen biologi.  
+b.	
+Cabang akar utama 1 atau akar lateral (ke samping) untuk 
+bahan berupa macam jenis bahan.  
+c.	
+Cabang akar utama 2 untuk agen biologi berupa jenis-jenis 
+agen biologi. 
+d.	
+Bagian batang utama berupa bioteknologi. 
+e.	
+Bagian cabang batang utama berupa jenis bioteknologi, yaitu 
+bioteknologi konvensional dan modern.
+f.	
+Bagian ranting terdiri atas macam teknologi yang digunakan.
+g.	
+Bagian daun berupa contoh produk.
+3.	
+Diskusikan 
+permasalahan 
+yang 
+muncul 
+dalam 
+pembuatan 
+rancangan model pohon bioteknologi dan temukan solusinya.
+4.	
+Cermati bersama gambar hasil kerja kalian, terutama kelengkapan 
+dan ketepatan alur gambarnya. 
+5.	
+Buatlah video presentasi gambar pohon bioteknologi dalam bentuk 
+PowerPoint dengan ponsel atau laptop kalian dengan durasi waktu 
+2 – 3 menit.
+6.	
+Unggah video presentasi kalian di media sosial, seperti Facebook, 
+Instagram, atau Youtube.
+7.	
+Kirimkan link dan capture video presentasi yang kalian unggah 
+pada guru pengampu.
+Biologi untuk SMA/MA Kelas XII
+208
+Setelah melakukan Aktivitas 4.6, kalian semakin memahami bangunan 
+bioteknologi sebagai ilmu. Salah satu model pohon bioteknologi dapat 
+digambarkan sebagai berikut!
+Biji & Ubi
+Mikroorganisme
+Tumbuhan
+Hewan
+Susu
+Limbah cair
+Hormon & enzim
+Virus
+Jamur
+Bakteri
+Tumbuhan
+Hewan
+Manusia
+Mo
+Bahan
+Agen biologi
+Bioteknologi
+Bahan
+Konveksional
+Moderen
+Bioremidiasi
+Kloning
+Kultur jaringan
+IB
+Hibridoma
+Antibodi monoklonal
+Bioinformatika
+Stem cell
+Regenerasi sel dewasa
+Penyembuhan penyakit
+Rekayasa genetika
+Insulin
+Golden rice
+Interferon
+Limbah minyak
+Limbah cair
+Biogas
+Bioetanol
+Fermentasi energi
+Fermentasi Pangan
+Yoghurt
+Mentega
+Nata de coco
+Tape        
+Kecap
+Tempe
+Bioetika
+	Gambar 4.12 Pohon bioteknologi
+	
+Gambar model pohon bioteknologi di atas, menggambarkan secara lengkap 
+dari macam bahan dasar, macam agen biologi yang berperan, jenis bioteknologi, 
+macam teknologi yang diterapkan, dan macam produk-produknya. Gambar 
+tersebut dapat dijadikan ringkasan pemahaman bioteknologi.
+D.	 Cabang Ilmu yang Berperan dalam Bioteknologi
+Bioteknologi tidak mungkin berdiri sendiri, hal ini diindikasikan dengan 
+macam-macam agen biologi dan teknologi yang terlibat. Cabang ilmu yang 
+membangun bioteknologi antara lain biokimia, genetika, biologi molekul, 
+mikrobiologi, enzimologi, ilmu pangan, rekayasa teknologi pangan, dan 
+rekayasa biokimia. Adapun ilmu nonbiologi yang berperan dalam bioteknologi, 
+yaitu kimia, fisika, dan ilmu komputer.
+BAB 4 Inovasi Bioteknologi 
+209
+Bioteknologi
+Bioteknologi
+Pertanian
+Bioteknologi
+Industri
+Bioteknologi
+Kesehatan
+Bioteknologi
+Lingkungan
+Mikrobiologi
+Biologi Molekuler
+Bio Kimia
+Genetika
+Rekayasa Kimia
+Elektronika
+Ilmu Pangan
+Rekayasa Mekanik
+Teknologi Pangan
+Komputer
+	Gambar 4.13 Cabang ilmu yang membangun bioteknologi.
+	
+Untuk mendalami pemahaman aplikasi macam cabang ilmu yang 
+membangun bioteknologi secara lebih khusus, lakukan aktivitas berikut.
+AKTIVITAS 4.7
+Menganalisis Produk Bioteknologi dengan Cabang Ilmu 
+pendukungnya
+1.	
+Bentuklah kelompok beranggotakan 3 – 4 orang.
+2.	
+Pilih satu produk penemuan bioteknologi yang kalian kenal.
+3.	
+Lakukan analisis terkait dengan bahan, macam agen biologi, dan 
+aktivitas agen biologi dalam proses pembentukan produk tersebut.
+4.	
+Kaitkan setiap poin hasil analisis kalian dengan cabang ilmu 
+pendukungnya.
+5.	
+Diskusikan hasil analisis kalian dan tulislah hasilnya pada 
+tabel berikut.
+Temuan 
+Bioteknologi
+Hasil Analisis 
+Macam
+Ilmu/Cabang
+Bahan
+Baku 
+Agen
+Biologi
+Aktivitas 
+Agen Biologi
+6.	
+Tampilkan hasil analisis kalian dalam bentuk pohon kontribusi 
+cabang ilmu pada bioteknologi. Di mana akar berupa bioteknologi, 
+Biologi untuk SMA/MA Kelas XII
+210
+	
+batang utamanya berupa produk bioteknologi, cabang batangnya 
+berupa temuan analisis dari bahan baku, temuan analisis dari agen 
+biologi, temuan analisis dari aktivitas agen biologi. Adapun ranting 
+dan daunnya berupa masing-masing cabang ilmu dari bahan baku, 
+agen biologi, dan aktivitas agen biologi.
+7.	
+Buatlah video presentasi pohon kontribusi cabang ilmu biologi 
+pada bioteknologi dalam bentuk PowerPoint.
+8.	
+Unggah video presentasi kalian di media sosial, seperti Facebook, 
+Instagram, atau Youtube.
+9.	
+Kirimkan link dan capture video presentasi ke guru pengajar.
+Pada Aktivitas 4.7, kalian telah memahami bangunan ilmu-ilmu yang 
+berkontribusi dalam bioteknologi. Salah satu model pohon kontribusi cabang 
+ilmu pada bioteknologi dapat digambarkan sebagai berikut.
+B
+I
+O
+T
+E
+K
+N
+O
+L
+O
+G
+I
+BAHAN
+PROSES
+PRODUK
+Tempe kedelai
+Tempe lamtoro
+Tempe kacang hijau
+Tempe kacang tanah
+Tempe koro
+Mycologi
+Bakteriologi
+Botani
+Biokimia
+Enzimologi
+Kedelai
+Kacang hijau
+Lamtoro
+Lamtoro
+Koro
+Kacang tanah
+Brokia - AA
+Amilum Meltosa
+Lemak As lemak & Glisenol
+Protease
+Amilase
+Lipase
+Pitase
+Bakteri
+Perendaman
+Laktat & asetat
+Rhyzopus oryzae
+Rhyzopus oligosporus
+	Gambar 4.14 Pohon kontribusi cabang ilmu bioteknologi pada kasus bioteknologi tempe. 
+	
+Pada Gambar 4.14 terlihat bahwa bahan utama tempe berupa kedelai 
+dipelajari dalam botani.  Agen biologi jamur Rhizopus sp. dipelajari pada 
+BAB 4 Inovasi Bioteknologi 
+211
+mikologi. Enzim untuk fermentasi dipelajari pada enzimologi. Bakteri asam 
+laktat dan asetat pada perendaman kedelai dipelajari pada bakteriologi. 
+Gambar model pohon kontribusi cabang ilmu pada bioteknologi di atas dapat 
+dijadikan ringkasan pemahaman kontribusi cabang ilmu pada bioteknologi.
+E.	 Aplikasi Bioteknologi Konvensional
+Aplikasi bioteknologi konvensional banyak diminati masyarakat, salah satunya 
+tempe. Tempe dihasilkan melalui proses fermentasi oleh jamur Rhizopus sp. 
+pada bahan kedelai. Apakah bahan nonkedelai dapat dijadikan bahan dalam 
+pembuatan tempe? 
+Selama ini, kedelai menjadi bahan utama pembuatan tempe. Jika terjadi 
+kelangkaan kedelai atau melonjaknya harga kedelai, apakah bahan utama 
+tempe tersebut dapat diganti dengan biji-bijian lainnya? Coba kalian lakukan 
+aktivitas 4.8 berikut.
+AKTIVITAS 4.8. 
+Menemukan Bahan Lain untuk Pembuatan Tempe
+1.	
+Bentuklah kelompok beranggotakan 3 – 4 orang.
+2.	
+Baca dengan cermat jurnal di link berikut!
+	
+https://uisi.ac.id/assets/upload/media/7fe6c2beb8317acc05b9a305e90769dc.pdf
+3.	
+Permasalahan apakah yang kalian temukan? 
+a.	
+Apakah kalian menemukan bahan lain untuk pembuatan tempe? 
+b.	
+Apakah ada perbedaan protein kedelai dan nonkedelai untuk 
+bahan untuk membuat tempe?
+4.	
+Pilih 4 bahan yang terdiri 1 bahan kedelai dan 3 bahan nonkedelai 
+yang mudah ditemukan.
+5.	
+Rancang langkah pembuatan tempe dengan pengulangan 3 kali 
+pada setiap jenis bahan. Untuk membuat tempe, kalian dapat 
+mambaca dari link berikut.
+	
+https://www.masakapahariini.com/resep/cara-membuat-tempe-sendiri/
+6.	
+Rancang langkah pengamatan kualitas tempe, terkait dengan 
+variabel lama waktu fermentasi, tekstur, lama simpan, dan rasa 
+tempe dengan mambaca di link berikut.
+	
+https://ejournal.unib.ac.id/index.php/agroindustri/article/download/7280/3905
+7.	
+Tulis hasil pengamatan kalian pada tabel berikut!
+Biologi untuk SMA/MA Kelas XII
+212
+a.	
+Tabel 1. Lama waktu fermentasi tempe.
+Perlakuan
+A (kedelai)
+B(……)
+C(……)
+D (…..)
+1
+2
+3
+Rerata
+b.	
+Tabel 2. Tekstur tempe.
+Perlakuan
+A (kedelai)
+B(……)
+C(……)
+D (…..)
+1
+2
+3
+Rerata
+c.	
+Tabel 3. Rasa tempe. 
+Perlakuan
+A (kedelai)
+B(……)
+C(……)
+D (…..)
+1
+2
+3
+Rerata
+d.	
+Tabel 4. Lama simpan tempe.
+Perlakuan
+A (kedelai)
+B(……)
+C(……)
+D (…..)
+1
+2
+3
+Rerata
+8.	
+Jawab pertanyaan-pertanyaan berikut ini. 
+a.	
+Bagaimana hubungan antara jenis bahan dengan lama waktu 
+fermentasi tempe?
+b.	
+Bagaimana hubungan antara jenis bahan dengan tekstur tempe?
+c.	
+Bagaimana hubungan antara jenis bahan dengan rasa tempe?
+d.	
+Bagaimana hubungan antara jenis bahan dengan lama 
+simpan tempe?
+e.	
+Apakah semua jenis biji yang digunakan untuk membuat tempe 
+dapat menghasilkan tempe yang baik?
+9.	
+Presentasikan hasil penelitian kalian di depan kelas.
+BAB 4 Inovasi Bioteknologi 
+213
+Berdasarkan Aktivitas 4.8, kalian telah membuktikan bahwa bahan 
+nonkedelai dapat digunakan untuk membuat tempe. Bahan nonkedelai untuk 
+pembuatan tempe, antara lain kacang gude, lamtoro gung, biji saga, kedelai 
+hitam, kacang arab, kacang merah, kacang hijau, kacang bogor, koro benguk, 
+koro pedang, biji nangka, dan jagung. Adapun kandungan proteinnya terlihat 
+pada grafik berikut. 
+Kacang gude 
+ 
+Lamtoro gung 
+ 
+Kacang tanah 
+ 
+Kacang hijau
+Kacang bogor 
+ 
+Koro benguk  
+ 
+Koro pedang  
+ 
+Kedelai
+38,04%
+31,35%
+20,80%
+28,50%
+22,20%
+18,30%
+16,05%
+7,94%
+Kandungan
+Protein
+Bahan
+Pembuat
+Tempe
+ Gambar 4.15 Grafik kandungan protein pada berbagai jenis biji.
+	
+Sumber: Tabel Komposisi Zat Gizi Pangan Indonesia Persatuan Ahli Gizi Indonesia (2009).
+Bioteknologi tempe membutuhkan agen biologi untuk fermentasi, yaitu 
+Rhizophus oryzae dan Rhizopus oligosporus. Agen biologi ini berbentuk 
+inokulum berupa R. oryzae atau R. oligosporus yang dicampur kedelai dan 
+ditebarkan pada daun jati atau daun waru yang telah dilayukan dan disebut 
+usar atau laru tempe.
+	Gambar 4.16 (a) Usar/laru tempe  (b) Rhizopus oryzae   (c) Rhizopus oligosporus.
+	
+(a)
+(b)
+(c)
+Biologi untuk SMA/MA Kelas XII
+214
+Selain 
+usar, 
+agen 
+biologi 
+lain 
+berupa 
+bakteri 
+laktat 
+dan 
+asetat bekerja secara fermentatif 
+saat 
+perendaman 
+kedelai 
+untuk 
+menciptakan kondisi asam sampai 
+pH 2.5 - 3.5. 
+Pemberian 
+usar 
+mengawali 
+fermentasi pada kedelai ditandai 
+dengan 
+pertumbuhan 
+hifa 
+yang 
+mengikat biji kedelai. Waktu untuk fermentasi berkisar 48 – 72 jam dengan 
+kisaran suhu 350C - 400C. Fermentasi dilakukan oleh enzim protease, lipase, 
+amilase, dan fitase yang ada pada biji kedelai. Untuk mengetahui bahan yang 
+dipecah oleh enzim tersebut dapat dilihat pada infografis berikut.
+Ringkasan Aktivitas Agen Biologi pada Tempe
+Hifa jamur menghasilkan:
+Enzim protease
+Enzim amilase
+Enzim Lipase
+Enzim Fitase
+Suhu 35–40oC
+Waktu 48–72 jam
+Protease:
+Protein menjadi asam amino
+Lipase:
+Lemak menjadi asam lemak dan gliserol
+Amilase:
+Amilum menjadi maltose
+Fitase:
+Asam fitat menjadi inositol, K, P
+ Gambar 4.18 Ringkasan proses fermentasi oleh enzim
+ 
+Setelah memahami bioproses pembuatan tempe, kalian dapat membuat 
+inovasi melalui aktivitas berikut.
+AKTIVITAS 4.9.
+Tempe Berprotein Sempurna
+1. 
+Baca hasil observasi berikut!
+ 
+Studi Status Gizi Indonesia (SSGI) 2021 menyebutkan bahwa 
+kasus stunting di Indonesia mencapai 24,4%. Stunting merupakan 
+permasalahan gizi kronis yang disebabkan kurangnya asupan gizi 
+terutama protein dalam jangka waktu yang lama pada anak balita. 
+ 
+Anjuran kecukupan protein sebesar 1 gram/kg berat badan (BB) 
+perhari. Standar asupan protein terdiri 0,5 gram/kg BB protein 
+hewani dan 0,5 gram/kg BB protein nabati. Kekurangan asupan
+Fermentasi I
+Bakteri asetat
+dan bakteri laktat
+pH: 2,5 – 3,5
+24 – 36 jam
+  Gambar 4.17 Ringkasan fermentasi pada 
+saat perendaman.
+ 
+ 
+BAB 4 Inovasi Bioteknologi 
+215
+	
+protein 
+menghambat 
+pertumbuhan 
+sehingga 
+menyebabkan 
+stunting. 
+	
+Para ibu di masyarakat dalam menyiapkan menu asupan protein 
+balita biasanya hanya dengan tempe saja. Pola makan seperti ini 
+menjadi penyebab kurang terpenuhinya kebutuhan protein hewani. 
+2.	
+Diskusikan bersama kelompok mengenai hal-hal berikut untuk 
+menemukan solusi inovatif.
+a.	
+Bagaimana memperkaya kandungan protein pada tempe 
+sehingga mengandung protein hewani?
+b.	
+Bahan apa saja yang dapat digunakan untuk memperkaya 
+kandungan protein hewani tempe?
+c.	
+Alasan penggunaan bahan pengaya protein hewani pada tempe 
+dengan kemungkinan optimalisasi fermentasi oleh Rhizopus sp. 
+pada proses pembuatan tempe.
+3.	
+Pilih satu alternatif yang dapat ditambahkan pada pembuatan 
+tempe (misalnya, tepung putih telur dari telur pecah). Kemudian, 
+rancang dan lakukan langkah-langkah dalam:
+a.	
+penyiapan bahan dan kadar perlakuan
+b.	
+penyiapan subjek penelitian
+c.	
+cara memperoleh data:
+1) 
+uji fisik tepung tempe (warna, tekstur, dan rasa)
+2)	
+cara uji kadar protein tempe (metode Kjeldahl)
+3)	
+pengujian daya tahan tempe
+4.	
+Buat video presentasi proses dan hasil penelitian dengan durasi 
+5 – 6 menit. Kemudian, unggah di media sosial dan kirimkan link 
+presentasi kalian ke guru pengajar.
+Biologi untuk SMA/MA Kelas XII
+216
+F. Aplikasi Bioteknologi Modern
+Hidup di abad 21 yang bertumpu pada budaya teknologi informasi dan 
+kecerdasan buatan, semakin mendorong lahirnya produk-produk baru pada 
+bioteknologi modern. Produk bioteknologi modern apakah yang kalian kenali? 
+Untuk mengenal lebih jauh produk-produk bioteknologi modern, lakukan 
+aktivitas berikut!
+AKTIVITAS 4.10
+Mengenal Produk Bioteknologi Modern
+1. 
+Bentuklah kelompok beranggotakan 3 – 4 orang.
+2. 
+Amati infografis di bawah ini. Kemudian, temukan macam bidang 
+dan jenis produk bioteknologi modern berikut.
+Tikus di injeksi 
+dengan antigen
+Limfa 
+diambil
+Suspensi 
+limposit B
+Fusi sel menghasilkan 
+hibridoma
+Suspensi 
+sel mieloma
+Sel hibridoma
+yang dibiakkan
+dalam satu kultur
+Seleksi sel 
+hibridoma yang
+menghasilkan 
+antibodi
+Sel-sel antibodi
+monoklonal
+kan
+PLASMID
+MID
+Virus
+Protein
+permukaan
+Plasmid
+bakteri
+Lapisan protein
+gen virus
+Plasmid mengandung
+lapisan protein gen virus
+Bakteri memperbanyak 
+diri/menebar dan 
+menghasilkan lapisan
+protein virus
+Vaksin
+Menginjeksi pada manusia/hewan
+Imunitas pada
+virus
+Memecah
+DNA Virus
+Lapisan 
+protein
+virus
+Bakteri
+tumbuh
+Bakteri tidak
+berbahaya
+PLA
+in
+b
+Bak
+Bak
+tum
+Lapisan protein virus
+  Gambar 4.19 Tahapan pembuatan    
+ 
+    
+  Gambar 4.20 Tahapan pembuatan
+ 
+ antibodi monoklonal.             vaksin.
+BAB 4 Inovasi Bioteknologi 
+217
+Mengambil kelenjar 
+mamae dari domba
+betina lain
+Mengambil sel telur 
+yang ada dalam ovarium 
+domba betina
+Nukleus donor
+Sel telur
+Mengeluarkan 
+nukleus sel telur 
+yang haploid
+Dua sel disatukan 
+dengan sengatan 
+listrik
+Sel yang 
+disatukan 
+mulai 
+membelah
+Embrio
+Embrio dimasukkan 
+ke dalam rahim domba
+Embrio berkembang 
+menjadi seekor domba  ‘Dolly”
+kleu d
+s ono
+u
+loid
+yan
+isa k
+ai
+be
+S
+d
+m
+m
+o
+r
+Em
+Domba kloning
+ s
+nukleus
+yang ha
+atuk
+a
+p
+tan
+n
+N
+loid
+an
+omba
+Bakteri
+Plasmid
+Bagian plasmid 
+yang dapat membawa 
+gen baru
+Gen yang akan 
+disisipkan ke 
+dalam plasmid
+Gen yang
+disisipkan
+Plasmid dengan 
+gen baru
+Kromosom
+Plasmid 
+dimasukkan 
+kembali ke 
+dalam bakteri
+Sel tumbuhan akan 
+tumbuh pada jaringan 
+tumbuhan dewasa
+Plasmid 
+memasukkan 
+gen baru ke 
+dalam
+kromosom 
+sel tumbuhan
+Gen y
+disis
+ Gambar 4.21. Tahapan pembuatan   
+ 
+ 
+ Gambar 4.22 Kloning domba Dolly.
+     tanaman transgenik.
+3. 
+Tulis hasil pengamatan kalian pada tabel berikut.
+No
+Jenis Produk
+Teknologi
+Bidang Kehidupan
+1
+2
+3
+4
+4. 
+Diskusikan pertanyaan berikut bersama kelompok kalian. 
+a. 
+Ada berapa jenis produk bioteknologi modern dan berapa 
+bidang kehidupan yang memanfaatkan produknya?
+b. 
+Macam 
+teknologi 
+apa 
+sajakah 
+yang 
+digunakan 
+untuk 
+menghasilkan produk bioteknologi modern?
+c. 
+Berikan saran kalian untuk pengembangan produk dan bidang 
+manfaat dari produk bioteknologi modern!
+5. 
+Tulis jawaban hasil diskusi kalian dalam bentuk PowerPoint dan 
+presentasikan di depan kelas!
+Biologi untuk SMA/MA Kelas XII
+218
+Pada Aktivitas 4.10, kalian telah belajar menemukan dan menuliskan saran 
+untuk pengembangan produk dan bidang manfaat dari produk bioteknologi. 
+Selanjutnya, kalian akan mempelajari berbagai contoh penerapan bioteknologi 
+modern dalam kehidupan manusia. 
+1.	 Kultur Jaringan 
+Pernahkah kalian mendatangi kebun bibit tanaman dan menjumpai 
+ribuan bibit tanaman dengan bentuk dan ukuran seragam? Perhatikan 
+gambar di bawah ini.  
+	
+	
+	
+	
+	Gambar 4.23  Bibit Kelapa dan Jati Hasil Kultur Jaringan.
+	
+	
+	
+Apakah kalian berpikir, bagaimana cara menghasilkannya? Ternyata, 
+bibit tersebut dihasilkan melalui teknologi kultur jaringan. Teknologi 
+kultur jaringan merupakan teknik yang salah satunya dapat digunakan 
+untuk penyediaan bibit unggul dalam jumlah banyak dan dalam waktu 
+yang singkat. Kultur jaringan juga dapat dimanfaatkan untuk perbaikan 
+sifat dan menghasilkan metabolit sekunder sebagai bahan obat dan 
+kosmetik. Apakah prinsip pada kultur jaringan? Untuk menemukan 
+jawabnya mari lakukan aktivitas berikut.
+AKTIVITAS 4.11
+Mengenal Teknologi Kultur Jaringan
+1.	
+Bentuklah kelompok beranggotakan 3 – 4 orang.
+2.	
+Baca dengan cermat jurnal di link berikut.
+	
+https://www.youtube.com/watch?v=qBB51meS4Cs
+3.	
+Diskusikan pertanyaan-pertanyaan berikut.
+BAB 4 Inovasi Bioteknologi 
+219
+a.	
+Apakah dasar teori untuk kultur jaringan?
+b.	
+Apakah syarat mutlak keberhasilan kultur jaringan?
+c.	
+Teknik 
+perbanyakan 
+pada 
+kultur 
+jaringan 
+merupakan 
+perbanyakan secara apa?
+d.	
+Jenis tanaman apa sajakah yang dapat diperbanyak dengan 
+kultur jaringan? 
+e.	
+Apakah keuntungan penerapan teknik kultur jaringan?
+f.	
+Berikan saran perbaikan terkait proses dan pemanfaatan 
+kultur jaringan bagi kehidupan?
+4.	
+Tuliskan jawaban hasil diskusi kalian dalam bentuk PowerPoint 
+dan presentasikan di depan kelas.
+Pada Aktivitas 4.11, kalian telah memahami bahwa kultur 
+jaringan  merupakan metode untuk mengisolasi sekelompok  sel    dari 
+organ tumbuhan yang ditumbuhkan secara aseptik agar memperbanyak 
+diri dan tumbuh menjadi individu baru  dengan  sifat yang sama dengan 
+induknya. Adapun prinsip teknologi kultur jaringan, yaitu perbanyakan 
+tumbuhan secara  vegetatif dalam kondisi  aseptik  dengan medium dan 
+kondisi tertentu sehingga teknik ini disebut kultur in vitro. 
+Teori yang mendasari teknik kultur jaringan, yaitu teori sel dan 
+totipotensi. Sel merupakan unit reproduksi yang menyatakan bahwa setiap 
+sel berasal dari sel. Sel merupakan hasil reproduksi dari sel sebelumnya. 
+Jadi, satuan terkecil dalam reproduksi adalah sel. Adapun teori totipotensi 
+menyatakan bahwa setiap sel memiliki kapasitas untuk beregenerasi 
+membentuk tanaman secara utuh dengan sifat yang sama persis dengan 
+induknya. Kultur jaringan terdiri atas beberapa tahapan, yaitu:
+a.	
+Penyiapan media
+Jenis media yang umum disiapkan berupa media dasar Murashige 
+dan Skoog (MS). Media MS dapat digunakan untuk hampir seluruh 
+jenis tanaman. 
+b.	
+Inisiasi
+Inisiasi adalah pengambilan eksplan dari bagian tanaman. Eksplan 
+berasal dari jaringan meristematis pada daun, tunas, cabang, batang, 
+akar, embrio, kotiledon, hipokotil, dan epikotil. 
+Biologi untuk SMA/MA Kelas XII
+220
+	
+	
+	
+	
+	Gambar 4.24 Proses Inisiasi
+	
+	
+	
+c.	
+Sterilisasi
+Sterilisasi dilakukan dengan penyemprotan etanol pada media, 
+eksplan, dan peralatan untuk mencegah terjadinya kontaminasi. 
+Dengan demikian, eksplan dapat tumbuh dengan baik. 
+d.	
+Multiplikasi
+Multiplikasi merupakan penanaman eksplan pada media.  Pada tahap 
+ini akan terjadi proliferasi sel eksplan membentuk kalus.
+e.	
+Pemanjangan akar dan tunas
+Pengakaran adalah proses pertumbuhan akar pada kalus yang diikuti 
+pemanjangan tunas sehingga kalus berubah menjadi tanaman kecil 
+yang disebut planlet.
+f.	
+Aklimatisasi
+Aklimatisasi merupakan proses memindahkan planlet ke polybag yang 
+diberi sungkup. Setelah bibit mampu beradaptasi dengan lingkungan 
+barunya maka secara bertahap sungkup dilepas dan pemeliharaan 
+bibit dilakukan seperti pemeliharaan bibit generatif.
+Secara urut dan sederhana, proses kultur jaringan dapat digambarkan 
+sebagai berikut.
+BAB 4 Inovasi Bioteknologi 
+221
+ 
+ 
+Eksplan
+Potongan
+eksplan
+(2–3 cm)
+Sterilisasi eksplan
+dengan alkohol 70%
+NaOCl 5%
+Tahap inisiasi, untuk
+menghindari pencoklatan
+disubkultur setiap 12–24 jam
+selama 5 hari
+Subkultur 
+berulang
+Tahap elongasi tunas
+Tahap indusi tunas
+Tanaman 
+induk
+Aklimatisasi
+(2–4 minggu)
+Pustekkom Kemdikbud
+ Gambar 4.25 Proses Kultur Jaringan
+ 
+Teknologi kultur jaringan mempunyai beberapa keuntungan yaitu:
+a. 
+menghasilkan bibit tanaman dalam jumlah banyak dan waktu yang 
+singkat dengan sifat sama persis dengan induknya.
+b. 
+menghasilkan sifat bibit tanaman yang unggul.
+c. 
+bibit tanaman terhindar dari hama penyakit.
+d. 
+pengadaan bibit tanaman tidak tergantung musim
+Berikut contoh bibit tanaman hasil kultur jaringan.
+a. 
+Benih padi Biosalin 1 dan 2 yang toleran pada tanah dan air berkadar 
+garam tinggi.
+ 
+ 
+ 
+ 
+ Gambar 4.26. Padi Biosalin dan Kedelai Dering I
+ 
+ 
+ 
+Biologi untuk SMA/MA Kelas XII
+222
+b.	
+Benih kedelai Dering 1 yang toleran pada kekeringan dan tanah 
+masam, produktivitas tinggi, dan cepat masak. 
+c.	
+Benih varietas tebu Giant sugarcane yang adaptif pada iklim basah, 
+unggul secara rendemen, dan daya hablur tinggi.
+	
+	
+	
+	
+	Gambar 4.27 Tebu Giant Sugarcane dan pisang Abaca.
+	
+	
+	
+d.	
+Benih pisang Abaca (Musa textilis) unggul yang tahan layu dan batang 
+berserat tinggi. 
+Di bidang kesehatan, tanaman hasil kultur jaringan digunakan untuk 
+menghasilkan metabolit sekunder dan alkaloid yang berguna sebagai 
+obat. Perhatikan tabel berikut.
+	
+	
+Tabel 4.3 Jenis Tanaman, Jenis Metabolit dan Fungsi Metabolit Sekunder.
+No
+Tanaman
+Metabolit Sekunder
+Fungsi
+1
+Papaver somniferum
+Kodein (alkaloid)
+Analgesik
+2
+Dioscorea deltoidea
+Diosgenin (steroid)
+Antiinflamasi
+3
+Cinchona ledgeriana
+Kuinin (alkaloid)
+Antimalaria
+4
+Digitalis lantana
+Digoksin
+Kardiotonik
+5
+Datura stramonium
+Skopolamin
+Antihipertensi
+6
+Catharanthus roseus
+Vinkristin
+Antileukemia
+7
+Curcuma sp.
+Curcumin
+Antihipertensi
+8
+Chrysanthemum sp. 
+Piretrin
+Insektisida
+9
+Chinchona ledgeriana
+Kuinin (alkaloid)
+Pemanis 
+10
+Thaumatococcus sp. 
+Taumatin (kalkon)
+Pemanis
+11
+Lithosperum erythrorhizon
+Shikonin
+Pewarna  kosmetik
+BAB 4 Inovasi Bioteknologi 
+223
+Selain memberikan keuntungan, kultur jaringan juga mempunyai 
+kelemahan antara lain:
+a.	
+membutuhkan biaya yang relatif besar, terkait dengan pengadaan 
+laboratorium.
+b.	
+memerlukan keahlian khusus dalam pengerjaannya.
+c.	
+bibit tanaman yang dihasilkan cenderung lemah pada akar.
+Setelah mempelajari kultur jaringan secara lengkap, kini saatnya 
+kalian mengetahui analisis ekonominya. Coba, kalian lakukan aktivitas 
+4.12 literasi finansial berikut.
+AKTIVITAS 4.12
+Menganalisis Usaha Kultur Jaringan
+Setiap aktivitas kehidupan manusia mempunyai implikasi ekonomi 
+dan sosial, termasuk mempraktikkan usaha pembibitan dengan teknik 
+kultur jaringan. Berikut dipaparkan analisis usaha pembibitan tanaman 
+jati dan pisang dengan menggunakan kultur jaringan. 
+Tabel 4.4 Analisis Keuangan Usaha Kultur Jaringan.
+No
+Tanaman
+Jenis
+Penerimaan
+(Rp)
+Biaya
+(Rp)
+Pendapatan
+(Rp)
+1
+Jati
+Botol
+102.500.000
+ 64.216.970
+38.283.030
+Polibag
+15.100.000
+ 21.910.101
+(6.810.101)
+Pendapatan total tanaman jati
+31.472.929
+2
+Pisang
+Botol
+106.570.950
+ 69.450.000
+37.120.950
+Polibag
+39.138.876
+ 71.274.000
+(32.135.124)
+Pendapatan total tanaman pisang
+4.985.826
+Pendapatan total pembibitan tanaman
+36.458.755
+	
+	
+Sumber: Zakia Arifka Janah/UIN Syarif Hidayatulah (2014)
+1.	
+Lakukan analisis data berdasarkan tabel di atas.
+a.	
+Berapa persen keuntungan yang diperoleh jika yang diusahakan 
+hanya bibit tanaman jati saja?
+b.	
+Berapa persen keuntungan yang diperoleh jika yang diusahakan 
+hanya bibit tanaman pisang saja?
+Biologi untuk SMA/MA Kelas XII
+224
+c.	
+Berapa persen keuntungan yang diperoleh jika yang diusahakan 
+bibit tanaman jati dan pisang?
+d.	
+Pada bibit tanaman jati dan pisang, langkah apa yang dapat 
+dilakukan agar keuntungan ekonominya menjadi lebih tinggi?
+e.	
+Usaha-usaha apakah yang dapat dilakukan terkait dengan 
+teknik pemasaran agar dapat meningkatkan penerimaan, 
+terutama untuk bibit jati jenis polybag dan pisang jenis botol?
+2.	
+Presentasikan hasil analisis kalian di depan kelas.
+2.	 Rekayasa Genetika
+Pernahkah kalian menjumpai beras berwarna emas, brokoli dan tomat 
+berwarna ungu seperti pada Gambar 4.28? Tahukah kalian apa penyebab 
+dan bagaimana proses terjadinya? Beras, brokoli, dan tomat yang memiliki 
+warna tidak semestinya disebabkan oleh rekayasa genetika. 
+	 	
+ 	 	
+	Gambar 4.28 Organisme Hasil Rekayasa Genetika.
+	
+	
+	
+Rekayasa 
+genetika 
+merupakan 
+teknologi 
+yang 
+mengubah 
+susunan genetik melalui transfer gen-gen antarspesies untuk meng­
+hasilkan  organisme  dengan susunan DNA baru atau spesies baru yang 
+berasal dari spesies yang bahkan hubungan kekerabatannya jauh. 
+Bagaimanakah tahapan rekayasa genetika? Untuk menjawabnya, lakukan 
+aktivitas 4.13 berikut.
+BAB 4 Inovasi Bioteknologi 
+225
+AKTIVITAS 4.13
+Mengenal Tahapan Rekayasa Genetika
+1. 
+Perhatikan bagan proses rekayasa genetika berikut!
+Bakteri
+Plasmid
+Penyisipan gen
+Gen
+Gen yang
+diinginkan
+Bakteri
+rekombinan
+Sel yang
+berisi gen
+yang diinginkan
+Copy gen
+Klon bakteri
+rekombinan
+Copy protein
+Memasukkan plasmid
+kedalam sel bakteri
+Perbanyakan sel bakteri
+Protein untuk
+membuat salju
+Protein untuk melarutkan 
+gumpalan darah dalam terapi 
+serangan jantung
+Gen untuk mengubah bakteri
+agar dapat membersihkan limba
+Gen disisipkan
+pada tanaman
+ Gambar 4.29 Tahapan rekayasa genetika.
+ 
+ 
+2. 
+Jawablah pertanyaan-pertanyaan berikut.
+a. 
+Proses apakah yang terjadi pada tahap pertama rekayasa 
+genetika dan teknologi apa yang digunakan pada tahap ini?
+b. 
+Apakah yang dimaksud dengan plasmid dan apa fungsinya?
+c. 
+Apa peran plasmid dalam pemasangan dan penyisipan gen ke 
+sel inang?
+d. 
+Apakah langkah setelah terbentuk DNA rekombinan hingga 
+akhirnya melakukan pemanenan produk?
+3. 
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas!
+Pada Aktivitas 4.13, kalian telah mengenal tahapan rekayasa 
+genetika secara sederhana. Untuk memahami lebih lengkap, berikut 
+deskripsi tahapan rekayasa genetika yang dilakukan dengan metode DNA 
+rekombinan secara berurutan.
+Biologi untuk SMA/MA Kelas XII
+226
+a.	
+Isolasi atau pemurnian DNA dilakukan dengan menghancurkan sel 
+dan memisahkan  DNA dari bahan sel lainnya.
+b.	
+Pemotongan DNA menggunakan enzim restriksi endonuklease  sampai 
+mendapatkan fragmen yang diinginkan (cDNA).
+c.	
+Transfer DNA diawali dengan pemasangan cDNA pada cincin plasmid. 
+Plasmid adalah molekul DNA kecil berbentuk melingkar pada bakteri 
+yang terpisah dari kromosom dan berfungsi sebagai vektor atau 
+pembawa gen. Plasmid melakukan penyisipan gen ke genom  sel inang 
+dengan bantuan enzim ligase.
+d.	
+Identifikasi dan seleksi DNA hasil rekombinasi seperti yang diinginkan.
+e.	
+Melakukan klon sel yang mengandung DNA rekombinan dan 
+menghasilkan produk yang sesuai ekspresi gen yang ditransfer 
+sehingga akhirnya dilakukan pemanenan produk.
+ 
+Agrobacterium tumefaciens
+DNA mengandung gen
+yang diinginkan
+Plasmid TI
+rekombinan
+Sel tanaman
+Potongan 
+gen yang 
+diinginkan
+disisipkan
+ke plasmid
+Sisi plasmid yang
+disebut T DNA 
+dipotong oleh 
+enzim restriksi
+Disisipkan
+ke sel-sel
+tanaman
+Menghasilkan
+Tanaman 
+baru
+T DNA membawa gen-gen
+baru di dalam kromosom 
+tanaman
+Plasmid
+TI
+	Gambar 4.30 Tahapan transgenik pada tanaman.
+	
+3.	 Individu Transgenik (GMO)
+GMO (Genetically Modified Organism) adalah organisme yang DNA-nya 
+telah diubah menggunakan teknologi DNA rekombinan. Munculnya GMO 
+membawa dampak positif dan negatif. Dampak positif GMO, antara lain:
+a.	
+GMO tanaman pangan pada kentang lebih tahan terhadap serangan 
+virus. Pada jagung, padi, kapas, kedelai, dan kanola lebih tahan 
+terhadap serangan insekta dan herbisida. Pada golden rice lebih kaya 
+protein, provitamin A, dan β karoten. 
+b.	
+GMO untuk kesehatan seperti E. colli penghasil hormon insulin untuk 
+mengobati dan menyembuhkan penyakit diabetes mellitus. 
+BAB 4 Inovasi Bioteknologi 
+227
+Adapun dampak negatif yang ditimbulkan GMO, antara lain:
+a.	
+mengganggu keseimbangan ekologi. Contohnya, kapas Bt mengandung 
+protein cry (paratoxin) yang dapat membunuh serangga sehingga 
+rantai makanan terputus. 
+b.	
+lebih berkualitas sehingga dapat mengakibatkan tanaman asli punah 
+atau plasma nutfah tererosi. 
+c.	
+menyebabkan alergi. Reaksi alergi disebabkan modifikasi gen tertentu 
+dari donor. Contohnya, pada kacang Brazil.
+d.	
+penyebab resistensi antibiotik. Tanaman transgenik yang mempunyai 
+gen penanda resisten antibiotik dari mikroba dapat menyebabkan 
+manusia yang mengonsumsinya menjadi resisten terhadap antibiotik. 
+Contohnya, tomat Flavr Savr.
+4.	 Kloning
+Apakah kalian pernah melihat orang mencangkok tanaman? Kegiatan 
+ini merupakan contoh sederhana praktik kloning. Kloning merupakan 
+praktik perbanyakan makhluk hidup secara vegetatif untuk menghasilkan 
+keturunan yang identik dengan induknya tanpa proses pembuahan. 
+Berdasarkan kelompok makhluk hidup yang mengalami kloning, ada 
+tiga macam, yaitu:
+a.	
+Kloning pada hewan
+Pernahkah kalian melihat video domba Dolly? Bagaimana domba 
+Dolly dihasilkan dengan teknologi kloning? Mari lakukan aktivitas 
+4.14 berikut.
+Biologi untuk SMA/MA Kelas XII
+228
+AKTIVITAS 4.14
+Mengenal Tahapan Kloning pada Domba Dolly
+1.	
+Cermati gambar di bawah ini.
+Mengambil kelenjar 
+mamae dari domba
+betina lain
+Nukleus donor
+Sel telur
+Dua sel disatukan 
+menggunakan sengatan 
+listrik
+Embrio
+Embrio dimasukkan 
+ke dalam rahim domba
+Embrio berkembang 
+menjadi seekor domba  ‘Dolly”
+Mengeluarkan  nukleus 
+sel telur yang haploid
+Sel yang 
+disatukan 
+mulai 
+membelah
+Mengambil sel telur  yang ada 
+dalam ovarium domba betina
+	Gambar 4.31 Teknologi transfer inti pada domba Dolly.
+	
+2.	
+Jawablah pertanyaan berikut.
+a.	
+Apakah kalian menemukan bahwa domba donor dan resipien 
+berjenis kelamin sama? Jika ya, mengapa?
+b.	
+Apa yang dilakukan pada sel kelenjar susu domba donor, dan 
+pada sel telur domba resipien?
+c.	
+Energi apakah yang digunakan untuk menyatukan nukleus 
+dari sel donor dengan sel telur resipien yang sudah 
+dihilangkan intinya?
+d.	
+Mengapa sel yang sudah disatukan mampu membelah dan 
+membentuk embrio?
+e.	
+Mengapa domba hasil kloning yang tumbuh dalam rahim 
+domba resipien sifatnya sama dengan domba donor?
+3.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+b.	
+Kloning pada tumbuhan
+Penerapan kloning pada tumbuhan secara sederhana dilakukan 
+dengan mencangkok dan menyetek. Cara tersebut dapat digunakan 
+BAB 4 Inovasi Bioteknologi 
+229
+untuk memperoleh tanaman yang memiliki sifat persis dengan 
+induknya. Adapun penerapan kloning secara modern dilakukan 
+dengan kultur jaringan.
+c.	
+Kloning pada manusia
+Kloning 
+pada 
+hewan 
+dan 
+tumbuhan 
+merupakan 
+hal 
+yang 
+lumrah. Namun, kloning manusia pasti mengundang pertanyaan. 
+Bagaimanakah proses kloning pada manusia? Apakah kloning 
+manusia diterima masyarakat? Apakah kloning manusia melanggar 
+bioetika? Mari lakukan aktivitas berikut.
+AKTIVITAS 4.15
+Mengenal Tahapan Kloning pada Manusia
+1.	
+Perhatikan dan cermati gambar atau bagan di bawah ini!
+Donor sel telur
+Sel telur
+Inti sel dikeluarkan
+Aliran listrik untuk 
+memasukkan sel 
+kedalam sel telur
+Manusia yang 
+akan di-klon
+Sel
+Sel yang sudah 
+bersatu dengan 
+sel telur
+Embrio
+Embrio ditumbuhkan 
+dalam rahim donor
+Bayi hasil klon 
+dilahirkan
+	Gambar4.32 Kloning pada manusia.
+	
+2.	
+Jawablah pertanyaan-pertanyaan berikut ini!
+a.	
+Bagian sel mana yang diambil pada sel donor dan sel telur 
+resipien untuk disatukan pada kloning manusia?
+b.	
+Bagaimana susunan kromosom pada inti sel donor? Haploid 
+atau diploid dan mengapa?
+c.	
+Mengapa inti sel donor yang dimasukkan pada sel telur 
+resipien setelah distimulasi aliran listrik mampu membelah 
+menjadi embrio?
+Biologi untuk SMA/MA Kelas XII
+230
+d. 
+Mengapa embrio yang berkembang di dalam rahim donor 
+mempunyai sifat sama dengan si pendonor?
+e. 
+Mengapa jenis kelamin antara donor dan resipien harus 
+sama? Jika ternyata antara 2 perempuan dapat menghasilkan 
+keturunan 
+baru, 
+kemungkinan 
+masalah 
+apakah 
+yang 
+akan muncul?
+f. 
+Menurut 
+pendapat 
+kalian, 
+apakah 
+kloning 
+manusia 
+melanggar bioetika?
+3. 
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas!
+Berdasarkan tujuannya, kloning dapat dibedakan sebagai berikut. 
+a. 
+Kloning DNA rekombinan, yaitu perpindahan sebagian rantai DNA 
+yang diinginkan dari suatu organisme pada satu elemen replikasi 
+genetik. Contohnya penyisipan DNA dalam plasmid bakteri untuk 
+mengklon satu gen.
+b. 
+Kloning 
+reproduktif, 
+yaitu 
+teknologi 
+yang 
+digunakan 
+untuk 
+menghasilkan hewan yang sama.
+c. 
+Kloning terapeutik, yaitu kloning untuk memproduksi embrio manusia 
+sebagai bahan dalam penelitian yang bertujuan untuk mendapatkan 
+sel batang (sel punca) yang difungsikan dalam mempelajari 
+perkembangan manusia dan dalam penyembuhan penyakit.
+Pasien
+Biopsi sel
+somatik
+Oosit berinti
+Transfer Inti
+Transplantasi
+Sel darah induk
+Sel pankreas
+Sel otot jantung
+Sel ginjal
+Sel hati
+Sel syaraf
+Sel puncak embrionik
+ Gambar 4.33 Kloning Terapeutik. 
+ 
+BAB 4 Inovasi Bioteknologi 
+231
+VACCINE
+COVID-19
+E
+CORONAVIRUS
+VACCINE
+COVID-19
+A
+V
+O
+E
+CORONAVIRUS
+VACCINE
+COVID-19
+A
+V
+O
+E
+V
+CO
+CORONAVIRUS
+Perbanyakan makhluk hidup secara kloning memiliki dampak positif 
+dan negatif. Berikut dampak positif dari kloning. 
+a.	
+Kloning menjadi pilihan untuk menyelamatkan gen yang hilang dari 
+hewan yang mati secara teratur. 
+b.	
+Resipien transfer embrio tidak dibatasi waktu dan tempat. 
+c.	
+Embrio dapat disimpan dalam waktu yang lama.
+Adapun dampak negatif kloning, antara lain: 
+a.	
+Keterbatasan resipien menerima embrio.
+b.	
+Belum ada rekam medis penggunaan embrio yang menginformasikan 
+dampak positif dan negatifnya.
+c.	
+Muncul pewarisan sifat mitokondria dan modifikasi epigenetik yang 
+tidak diharapkan dan disebabkan oleh prosedur kloning.
+5.	 Vaksin
+Tiga tahun telah berlalu, yaitu 2019 – 2022, Indonesia mengalami wabah 
+Covid-19 yang mengganggu aktivitas kehidupan. Solusi manjur yang 
+mampu menghentikan pandemi Covid-19 dilakukan dengan vaksinasi. 
+Vaksinasi merupakan proses pemberian vaksin ke dalam tubuh. Vaksinasi 
+akan diikuti dengan imunisasi. Imunisasi adalah proses pembentukan zat 
+kekebalan tubuh (antibodi) terhadap penyakit tertentu melalui vaksinasi. 
+Adapun imunitas atau daya tahan tubuh merupakan sistem perlindungan 
+tubuh terhadap serangan penyakit.
+Vaksin adalah zat, senyawa, atau mikroorganisme yang 
+berfungsi membentuk kekebalan tubuh terhadap suatu 
+penyakit. 
+Kandungan 
+vaksin 
+dapat 
+berupa bakteri atau virus yang telah 
+dilemahkan atau dimatikan, bisa juga 
+berupa bagian dari bakteri atau virus 
+tersebut. Vaksin dapat diberikan 
+dalam bentuk suntikan, tetes 
+minum, 
+atau 
+melalui 
+uap 
+(aerosol). 
+	
+Gambar 4.34 
+Vaksin Covid-19.
+ 
+Biologi untuk SMA/MA Kelas XII
+232
+Jenis vaksin yang digunakan untuk meredakan pandemi Covid-19 
+antara lain Sinovac, Sinopham, Astrazeneca, Moderna, Novavax, dan 
+Pfizer. Tahukah kalian, Indonesia telah mengembangkan pembuatan 
+vaksin untuk Covid-19? Vaksin apakah yang dihasilkan? Mari lakukan 
+aktivitas berikut.
+AKTIVITAS 4.16
+Mengenal Pembuatan Vaksin Covid-19 di Indonesia
+1.	
+Perhatikan dan cermati video pada link berikut.
+	
+https://www.youtube.com/watch?v=628XpPiTdN4
+2.	
+Jawablah pertanyaan-pertanyaan berikut.
+a.	
+Apakah nama 2 vaksin Covid-19 yang dibuat di Indonesia?
+b.	
+Apakah dasar untuk membuat vaksin nusantara?
+c.	
+Apakah dasar untuk membuat vaksin merah putih?
+d.	
+Ada berapa tahap pembuatan vaksin dan sampai tahap mana 
+proses pembuatan 2 vaksin di Indonesia?
+3.	
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+Pada Aktivitas 4.16, kalian telah memahami 3 metode pembuatan 
+vaksin, yaitu:
+a.	
+vaksin yang dilemahkan dan hidup,  yaitu memasukkan virus yang 
+tidak aktif atau lemah sehingga tidak menyebabkan penyakit. 
+b.	
+vaksin mati, yaitu memasukkan virus atau bakteri dalam kondisi mati, 
+namun struktur tubuhnya utuh sehingga tidak dapat menyebabkan 
+penyakit. 
+c.	
+vaksin mRNA yang merupakan komponen materi genetik yang 
+direkayasa agar menyerupai kuman atau virus tertentu.
+Pada umumnya, proses pembuatan vaksin melalui tahapan yang 
+cukup panjang. Berikut 6 tahapan pembuatan vaksin.
+a.	
+Eksplorasi 
+Tahap pertama dilakukan pada sel hidup yang harus dikontrol secara 
+konsisten untuk mendapatkan karakterisasi dari sifat kimia, fisika, 
+dan biologi termasuk mencari cara virus menyerang sel tubuh. Setelah 
+BAB 4 Inovasi Bioteknologi 
+233
+ditemukan prinsip pengendalian virus maka kandidat vaksin dibuat 
+untuk diujicobakan.
+b.	
+Uji praklinis
+Selanjutnya, dilakukan uji praklinis secara in vitro di tingkat sel pada 
+kandidat virus. Apabila pengujian berhasil, dilanjutkan ke uji pada 
+tikus dan monyet. Tujuannya adalah untuk mengetahui efektivitas 
+dan keamanan serta mengkaji efek samping tertentu dari vaksin.
+c.	
+Uji coba klinis tahap I
+Setelah lolos uji praklinis dan dinyatakan aman bagi manusia, 
+dilakukan uji klinis pada orang dewasa yang sehat. Tujuannya untuk 
+memastikan keamanan dan efektivitas vaksin pada manusia.
+d.	
+Uji coba klinis tahap II 
+Pada tahap ini, kandidat vaksin diujikan pada manusia sehat dengan 
+sampel antara 100 - 500 orang dengan usia dan kondisi kesehatan yang 
+lebih beragam. Uji ini untuk mengkaji dan mengevaluasi efektivitas, 
+keamanan, dan dosis vaksin yang tepat, serta menilai respons sistem 
+kekebalan tubuh terhadap vaksin yang diberikan.
+e.	
+Uji coba klinis tahap III efikasi
+Uji fase tiga, yaitu uji dengan sampel 1.000 - 5.000 orang dengan kondisi 
+yang bervariasi. Tujuannya adalah untuk memastikan keamanan, 
+efektivitas, serta keuntungan yang melebihi risiko penggunaan 
+dengan memantau respon kekebalan tubuh dan efek samping vaksin 
+dalam jangka waktu tertentu. Salah satu indikasi keberhasilan pada 
+fase ini, yaitu klaim efektivitas yang diukur dengan tingkat efikasi. 
+Nilai efikasi Pfizer 94 – 95%, Sinovac 65,3%, Moderna 94,5%, dan 
+Astrazeneca 62 – 75%.
+f.	
+Tahap VI
+Setelah dinyatakan lulus semua uji klinis, vaksin bisa mendapatkan 
+izin edar dari BPOM. 
+6.	 Stem cell
+Dewasa ini berkembang teknologi sel punca (stem cell) untuk terapi 
+penyembuhan penyakit. Apakah kalian tahu, apa itu sel punca? Coba 
+lakukan aktivitas berikut. 
+Biologi untuk SMA/MA Kelas XII
+234
+AKTIVITAS 4.17
+Mengenal Sel Punca pada Manusia 
+1. 
+Perhatikan gambar di bawah ini!
+Proses Perkembangan Manusia
+Embrio
+1 sel
+Embrio
+3 hari
+Embrio
+5–7 hari
+Embrio
+4 minggu
+Embrio
+6 minggu
+Bayi
+Dewasa
+Stem 
+Embrionik
+(ES)
+Sel punca 
+germinal 
+(GS)
+Sel punca 
+jaringan
+lunak
+Sel punca 
+plasenta
+Sel punca 
+jaringan dewasa
+Sel germinal
+tumor
+Embrio sel
+Kanker
+Sel punca embrional
+Sel punca dewasa
+ Gambar 4.35 Sel Punca Pada Manusia
+ 
+Kultur Sel Punca
+Sel otot
+Sel darah
+Sel usus
+Sel hati
+Sel jantung
+Sel syaraf
+ Gambar 4.36 Teknologi sel punca pada manusia
+ 
+2. 
+Jawablah pertanyaan pertanyaan berikut!
+a. 
+Ada berapa macam sel punca pada gambar di atas, sebutkan?
+b. 
+Sel punca yang dikulturkan terdiferensiasi dan terspesialisasi 
+membentuk jaringan apa saja?
+3. 
+Sajikan jawaban kalian dalam bentuk PowerPoint dan presentasikan 
+di depan kelas.
+BAB 4 Inovasi Bioteknologi 
+235
+Sel punca adalah sel dasar yang belum mengalami diferensiasi 
+dan spesialisasi sehingga memiliki potensi untuk berkembang menjadi 
+berbagai jenis sel baru yang menggantikan sel yang rusak, jika dikulturkan 
+pada media yang sesuai dan distimulasi oleh jenis sel yang diinginkan. Sel-
+sel yang menjadi sumber sel punca, yaitu:
+a.	
+Sel embrionik 
+Sel embrio yang berusia 3 - 5 hari dapat menjadi sumber sel punca 
+karena bersifat pluripotent, yaitu sel masih mampu membelah dan 
+berkembang menjadi bermacam-macam sel tubuh. Sumber lainnya 
+berupa cairan ketuban dan tali pusat. 
+b.	
+Sel dewasa 
+Sel dewasa dapat dijadikan sumber sel punca setelah mengalami 
+genetic reprogramming agar bersifat pluripotent. Sumber sel dewasa 
+yang dapat digunakan, yaitu sel sumsum tulang. Sel sumsum tulang 
+dapat membentuk sel tulang dan sel otot jantung. 
+Teknologi sel punca mempunyai manfaat, antara lain:
+a.	
+memperbaiki sel mati sehingga dapat menyembuhkan luka. 
+b.	
+memproduksi protein sitokin untuk memperbaiki sel rambut dan kulit. 
+c.	
+berdiferensiasi dan membelah diri menghasilkan sel baru yang 
+akan menggantikan tugas sel mati sehingga dapat digunakan 
+untuk menyembuhkan penyakit kardiovaskular, seperti stroke dan 
+jantung koroner.
+d.	
+menyeimbangkan imunitas pada penyakit autoimun. 
+Di samping memberikan manfaat yang cukup besar, teknologi sel 
+punca dapat memberikan dampak negatif, antara lain sebagai berikut.
+a.	
+Embryonic stem cell: (1) bersifat tumorigenik, artinya sel yang tak 
+terdiferensiasi menjadi kontaminan yang memicu kanker. (2) bersifat 
+allogenic, yaitu berpotensi menimbulkan reaksi penolakan. 
+b.	
+Umbilical cord blood stem cell: (1) menyebabkan penyakit genetik 
+dari donor dan muncul ketika dewasa. (2) Jumlah sel punca terbatas 
+sehingga jumlah sel punca yang diperlukan resipien lebih banyak dari 
+yang tersedia dari donor. Jumlah sel yang dibutuhkan berbanding 
+lurus dengan usia, berat badan, dan status penyakit.
+Biologi untuk SMA/MA Kelas XII
+236
+c.	
+Adult stem cell: (1) jumlahnya sedikit, jarang ditemukan pada jaringan 
+dewasa sehingga sulit mendapatkan  adult stem cell  dalam jumlah 
+banyak. (2) masa hidupnya tidak selama  embryonic stem cell. (3) 
+Bersifat multipoten, sehingga diferensiasi tidak seluas embryonic 
+stem cell.
+7.	 Penyuntingan Genom
+Pemetaan genom manusia yang berisi deretan basa nitrogen sejak 1977 - 
+2003 berhasil memetakan 3,3 milyar basa nitrogen. Deretan basa nitrogen 
+genom manusia sekarang menjadi bank DNA untuk penyuntingan 
+genom. Penyuntingan genom (Genome Editing with Engineered Nucleases, 
+GEEN) merupakan rekayasa genetik melalui penyisipan, penggantian, 
+atau pembuangan (sebagian) DNA pada genom organisme dengan 
+memanfaatkan enzim nuklease. 
+Enzim nuklease yang digunakan adalah nuklease direkayasa sehingga 
+dapat memotong bagian double helix DNA pada tempat tertentu, seperti 
+yang diperlihatkan pada gambar berikut.
+Cas9
+Spacer
+Scaffold
+gRNA
+5’
+3’
+Perbaikan templet homolog
+3’
+5’
+3’
+5’
+Target + PAM
+Target Pemotongan
+(Formasi DSB)
+Enzim Nuclease dan DNA
+yang akan dipotong
+FLAG
+FLAG
+FLAG
+HDR
+Sumber: Deden Indra Dinata, 2013
+	Gambar 4.37.Enzim nuklease memotong DNA.
+	
+	
+	
+Sumber: Deden Indra Dinata (2013)
+	
+BAB 4 Inovasi Bioteknologi 
+237
+     
+Ada beberapa macam enzim nuklease, yaitu:
+a.	
+Meganuklease
+b.	
+Nuklease jemari zink (Zinc Finger Nucleases/ZFN)
+c.	
+Nuklease efektor serupa aktivator transkripsi (transcription activator-
+like effector nucleases/TALEN)
+d.	
+CRISPR-Cas (Clustered Regularly Interspaced Short Palindromic Repeats)
+CRISPR/Cas9 terdiri atas 2 varian, yaitu RuvC dan HNH. RuvC berperan 
+memotong untai DNA nonkomplementer, sedangkan HNH berperan 
+memotong untai komplementer. RuvC dan HNH bekerja bersama 
+menghasilkan double-strand break (DSB) pada DNA target. 
+Selain protein Cas9 ada single guide RNA (sgRNA) yang berperan 
+dalam penyuntingan DNA target. sgRNA membawa sekuens scaffold yang 
+memungkinkannya berjangkar pada Cas9 dan sekuens spacer 20 pasangan 
+basa komplementer dari gen target. sgRNA memandu kompleks CRISPR/
+Cas9 ke lokasi genom yang diinginkan. Pengeditan genom tergantung pada 
+2 jalur khusus, yaitu non-homologous end-joining (NHEJ) atau Homology-
+Directed Repair (HDR).
+Jalur NHEJ merupakan penyisipan dan penghilangan secara acak dari 
+pasangan basa pada lokasi pengeditan sehingga menghasilkan frameshift 
+mutation  dan membentuk stop kodon prematur atau polipeptida 
+nonfungsional. 
+Jalur HDR menggunakan daerah homolog dari untai DNA yang belum 
+diedit sebagai template untuk mengoreksi DNA yang rusak. Langkah ini 
+dapat menghasilkan pengeditan genom sesuai keinginan.
+Secara sederhana mekanisme kerja CRISPR/Cas9 sebagai berikut.
+a.	
+Ketika bakteri mendeteksi adanya infeksi DNA virus, bakteri merespon 
+dengan mensintesis dua tipe RNA pendek.  
+b.	
+RNA I mempunyai urutan yang sesuai dengan DNA virus. 
+c.	
+RNA II berikatan dengan protein Cas9 dengan urutan yang sesuai 
+sgRNA untuk menemukan target, yaitu DNA virus.
+d.	
+Selanjutnya, Cas9 memotong DNA virus penginfeksi.
+Perhatikan gambar berikut, untuk melihat mekanisme kerja CRISPR/
+Cas9 dalam penyuntingan.
+Biologi untuk SMA/MA Kelas XII
+238
+PAM
+DNA
+guide RNA
+≈20 nucleotides
+Protein Cas9
+CRISP–Cas9
+PAM
+DNA
+guide RNA
+≈20 nucleotides
+Katalisasi protein Cas9
+pengeditan dasar
+C
+Domain Pengeditan
+Rantai DNA terpotong
+Gen
+NHEJ
+(penghilangan gen)
+Dirupsi gen
+Deaminasi sitosin
+menjadi urasil
+Proses perbaikan
+Mutasi nonsense
+Insersi pada gen normal
+Penyuntingan templet
+HDR
+Perbaikan mutasi
+HDR
+Penyuntingan templet
+T
+Alexandra C. Chadwick. Arteriosclerosis, Thrombosis, and Vascular Biology. 
+CRISPR-Cas9 Genome Editing for Treatment of Atherogenic Dyslipidemia, 
+Volume: 38, Issue: 1, Pages: 12-18, DOI: (10.1161/ATVBAHA.117.309326) 
+© 2017 American Heart Association, Inc.
+	Gambar 4.38 Mekanisme kerja CRISPR/Cas9.
+	
+Sistem CRISPR/Cas9 memiliki potensi untuk pemulihan fungsi 
+gen sehingga dapat mengobati berbagai penyakit genetik. Melalui 
+pengeditan polimorfisme nukleotida tunggal (SNP) dapat digunakan 
+untuk melumpuhkan gen yang menyebabkan penyakit, memperkenalkan 
+mutasi pelindung, atau menambahkan transgen terapi. 
+Sistem CRISPR/Cas9 mempunyai manfaat terutama untuk bidang 
+kesehatan sebagai berikut.
+a.	
+Mengedit genom sel T autolog untuk terapi kanker pada kasus 
+myeloma multiple melanoma, sarkoma sinovial, dan liposarkoma.
+b.	
+Mengkatalisis perbaikan genom, salah satunya β-hemoglobinopati 
+pada penyakit Thalasemia.  
+c.	
+Mengobati penyakit darah seperti purpura pasca transfusi, anemia 
+Fanconi, dan penyakit von Willebrand.
+d.	
+Mengedit gen sel CD4+ menjadi makrofag yang resisten virus HIV. 
+BAB 4 Inovasi Bioteknologi 
+239
+e.	
+Menurunkan protein inti dan protein kapsid virus hepatitis B (HBV) 
+untuk penghambatan karsinogenesis.
+f.	
+Mengidentifikasi komponen toksik infeksi virus hepatitis C. 
+g.	
+Menurunkan proliferasi pada infeksi virus dan memulihkan jalur 
+apoptosis sel. 
+h.	
+Memperbaiki fungsi gen dan penggerak gen untuk menyembuhkan 
+penyakit demam dengue, Chikungunya, demam kuning, dan malaria.
+i.	
+Mempelajari dan mencari perawatan untuk berbagai gangguan 
+neurologis, 
+seperti 
+penyakit 
+Parkinson, 
+amyotrophic 
+lateral 
+sclerosis, penyakit Huntington, schizophrenia, distrofi otot Duchenne, 
+penyakit metabolik, dan retinitis pigmentosa.
+G.	 Harapan dan Kenyataan Bioteknologi Modern
+Berikut harapan-harapan yang muncul pada produk bioteknologi modern 
+untuk memenuhi kebutuhan manusia.
+1.	
+Bidang kesehatan
+a.	
+Ditemukan pengobatan cara baru untuk penyakit jantung dan 
+pembuluh darah, kanker, serta diabetes.
+b.	
+Dihasilkan antibiotik yang lebih baik dan murah.
+c.	
+Ditemukan vaksin untuk penyakit hepatitis, influenza, rabies, dan 
+penyakit parasitik: malaria dan penyakit tidur.
+d.	
+Adanya pengujian laboratorium yang cepat untuk membantu 
+mendiagnosis secara akurat untuk berbagai penyakit. 
+e.	
+Adanya perbaikan metode identifikasi kecocokan DNA dalam 
+transplantasi jaringan dan organ.
+f.	
+Ditemukan teknik pengoreksi jenis dan urutan asam amino untuk 
+mengobati penyakit turunan, seperti hemofilia.
+2.	
+Bidang pertanian dan produksi pangan. Diharapkan dapat menghasilkan:
+a.	
+tanaman baru varietas unggul.
+b.	
+tanaman yang tahan kekeringan, kebekuan, salinitas tinggi, dan 
+tekanan-tekanan lingkungan lainnya.
+c.	
+substansi yang mempercepat pertumbuhan ternak.
+Biologi untuk SMA/MA Kelas XII
+240
+d.	
+vaksin untuk ternak.
+e.	
+makanan ternak dengan harga lebih murah.
+3.	
+Produksi energi, ditemukannya:
+a.	
+renewable fuels termasuk gas CH4, H2, serta alkohol untuk penggunaan 
+domestik dan industri.
+b.	
+substansi dan jenis mikroba yang membantu ekstraksi minyak dari 
+perut bumi.
+4.	
+Industri, ditemukannya:
+a.	
+sumber/bahan dasar untuk produksi plastik, cat, serat sintetis, 
+dan perekat.
+b.	
+mikroba yang mengekstraksi metal dari batuan.
+c.	
+sistem-sistem baru untuk mengontrol polusi.
+Kenyataan-kenyataan yang dirasakan pada penerapan bioteknologi 
+modern di antaranya:
+1.	
+Penerapan dan pemanfaatan bioteknologi di Indonesia secara rata-rata 
+masih tertinggal dari negara-negara maju.
+2.	
+Realita secara umum:
+a.	
+Produk-produk bioteknologi telah mencapai pasaran terutama di 
+negara-negara maju.
+b.	
+Beberapa produk nonpangan telah mencapai pasaran, seperti 
+biopestisida dan enzim, tanaman herbisida resisten.
+c.	
+Produk yang belum terlihat, yaitu tanaman tahan kekeringan, 
+kebekuan, dan salinitas.
+d.	
+Dalam bidang kesehatan terjadi kemajuan pesat, seperti pemanfaatan 
+bioteknologi untuk mendiagnosis dan pengobatan, walaupun 
+penaklukan penyakit masih jauh dari komplit.
+Adapun kendala-kendala yang dialami dalam penerapan bioteknologi 
+modern di antaranya:
+1.	
+Industrialisasi yang memasuki taraf “tertarik” atau yang mencoba 
+jumlahnya masih sangat terbatas.
+2.	
+Kurangnya sumber daya manusia baik kuantitas maupun kualitas, sarana 
+dan prasarana serta program yang tumpang tindih.
+BAB 4 Inovasi Bioteknologi 
+241
+3.	
+Komersialisasi dari produk-produk bioteknologi terkait dengan regulasi, 
+penerimaan konsumen, dan hak kepemilikan intelektual.
+Kalian 
+telah 
+mempelajari 
+penerapan 
+bioteknologi 
+modern 
+dalam 
+kehidupan 
+manusia. 
+Tentunya, 
+penerapan 
+bioteknologi 
+modern tersebut memiliki kelebihan dan kekurangan. Oleh karena 
+itu, 
+kalian 
+dapat 
+melakukan 
+analisis 
+menggunakan 
+model 
+SWOT. 
+SWOT 
+merupakan 
+singkatan 
+dari 
+strengths 
+(kekuatan), 
+weaknesses 
+(kelemahan),  opportunities  (peluang),  dan  threats  (ancaman). Coba, kalian 
+lakukan aktivitas berikut.
+AKTIVITAS 4.18.
+Menganalisis Penerapan Bioteknologi Modern
+1.	
+Lakukan analisis penerapan bioteknologi modern dengan model 
+SWOT dalam tabel berikut.
+Penerapan Bioteknologi Modern
+Opportunity
+Threat
+ Strenght
+Weakness
+2.	
+Sajikan hasil analisis SWOT kalian dalam bentuk PowerPoint dan 
+presentasikan di depan kelas.
+H.	 Bioetika
+Pernahkah kalian melakukan penelitian menggunakan hewan uji coba, 
+seperti tikus Wistar? Jika pernah, apakah penggunaan hewan uji coba dapat 
+menyakitinya? Bagaimana langkah aman dalam menggunakan hewan uji 
+coba? Apakah ada kode etik menggunakan hewan uji coba untuk penelitian? 
+Kode etik untuk memperlakukan hewan dalam penelitian disebut etik klirens. 
+Penerapan etik klirens merupakan salah satu praktik dari bioetika.
+Bioetika merupakan penerapan etika dalam ilmu biologi, obat, 
+pemeliharaan kesehatan, dan bidang terkait berdasarkan data ilmiah, biologis, 
+Biologi untuk SMA/MA Kelas XII
+242
+dan medis. Ruang lingkup bioetika termasuk kloning, terapi gen, rekayasa 
+genetika manusia, dan manipulasi biologi dasar melalui perubahan DNA, 
+RNA, dan protein. 
+Prinsip dasar bioetika, yaitu menghormati orang, kebaikan dan keadilan 
+serta tidak merugikan martabat manusia dan kesucian hidup. Di bidang 
+medis, bioetika memberikan prioritas tertinggi pada otonomi, di mana pasien 
+memiliki kebebasan memilih pengobatannya sendiri.
+1.	 Bioetika pada Tumbuhan dan Sumber Daya Alam 
+Pengembangan dan penggunaan GMO masih kontroversial. Peraturan 
+mengenai peluncuran, pengembangan, dan produksi komersial GMO 
+terkait dengan risiko lingkungan dan kesehatan ada dalam Regulation 
+and Risk Assessment dan ‘‘The Natural’’ and Crossing Species Borders. 
+Peraturan ini dimaksudkan untuk memastikan keamanan lingkungan 
+dan menangani serta memberikan sarana bagi GMO agar tidak merugikan 
+keanekaragaman 
+hayati 
+dengan 
+mempertimbangkan 
+risiko 
+pada 
+kesehatan manusia. 
+2.	 Bioetika pada Hewan Uji Coba dan Penelitian Subjek Manusia 
+Syarat mutlak penelitian yang melibatkan hewan uji coba dan manusia 
+diperlukan ethical clearance. Etik klirens merupakan pedoman bagi peneliti 
+untuk menjunjung tinggi nilai integritas, kejujuran, dan keadilan dalam 
+melakukan penelitian. Penggunaan hewan uji coba harus memegang 
+prinsip utama 3R, yaitu:
+a.	
+Replacement atau penggantian dengan metode mensubstitusi hewan 
+dengan program komputer, kultur sel atau hewan coba dengan 
+tingkatan sensitivitas lebih rendah.
+b.	
+Reduction atau pengurangan dengan strategi meminimalisir jumlah 
+hewan dan perlakuan tanpa mengurangi validitas data.
+c.	
+Refinement atau perbaikan terkait modifikasi pemeliharaan dan 
+prosedur penelitian untuk mencegah hewan sakit dan stres.
+Adapun penelitian dengan subjek manusia harus memegang 3 prinsip 
+dasar, yaitu:
+BAB 4 Inovasi Bioteknologi 
+243
+a.	
+Prinsip menghormati harkat martabat manusia yang memiliki 
+kebebasan berkehendak dan bertanggung jawab secara pribadi 
+terhadap keputusannya sendiri. 
+b.	
+Prinsip berbuat baik dan tidak merugikan dengan mengupayakan 
+manfaat maksimal dengan kerugian minimal yang mensyaratkan 
+bahwa: (a) risiko harus wajar dibanding manfaat yang diharapkan. 
+(b) desain penelitian harus ilmiah. (c) peneliti mampu melaksanakan 
+dan menjaga kesejahteraan subjek penelitian. 
+c.	
+Prinsip do no harm (tidak merugikan), yaitu menentang tindakan 
+dengan sengaja merugikan subjek penelitian. 
+d.	
+Prinsip keadilan yang mengacu pada kewajiban memperlakukan 
+setiap orang dengan moral yang benar dan layak untuk memperoleh 
+haknya terkait keadilan yang merata, seimbang dalam hal beban dan 
+manfaat yang diperoleh subjek dari penelitian.
+AKTIVITAS 4.19.
+Mengevaluasi Bioteknologi Modern dengan Bioetika
+1.	
+Bacalah artikel berikut.
+Rekayasa DNA Bayi untuk Cegah HIV, Etiskah?
+Ilmuwan China, He Jiankui mengklaim berhasil merekayasa DNA bayi 
+antiinfeksi HIV. Dua bayi kecil, bernama Lulu dan Nana terlahir dan 
+terlihat normal seperti bayi pada umumnya. Lulu dan Nana dilahirkan 
+melalui fertilisasi in vitro (IVF) dengan menyuntikkan protein dan 
+“instruksi operasi gen” untuk memodifikasi gen pada embrionya. 
+Proses ini dilakukan untuk menyingkirkan gen yang menjadi pintu 
+masuk infeksi HIV. Selanjutnya, dilakukan pemeriksaan perkembangan 
+proses pengeditan gen. Lalu, embrio ditanam pada rahim ibunya, Grace. 
+Walaupun kehamilan berlangsung normal, perkembangannya dipantau 
+secara ketat dengan peralatan ultrasound dan tes darah. 
+Setelah lahir, Jiankui kembali memastikan keselarasan seluruh genom 
+Lulu dan Nana serta  membuktikan operasi gen ini aman, tidak ada gen 
+yang diubah kecuali yang mencegah infeksi HIV. Kedua bayi tersebut 
+aman dan sehat seperti bayi lainnya. 
+Biologi untuk SMA/MA Kelas XII
+244
+Sebelum sampai pada lompatan besar ini, peneliti dari Southern 
+University of Science and Technology of China ini telah bereksperimen 
+dengan embrio tikus dan monyet selama beberapa tahun. Pada tahap 
+selanjutnya, ia dan timnya memodifikasi embrio tujuh pasangan yang 
+identitasnya dirahasiakan. Grace adalah hasil operasinya yang berhasil. 
+Tujuan operasi ini, bukan untuk menyembuhkan atau mencegah 
+penyakit turunan, tetapi untuk memberikan sifat unik pada Nana dan 
+Lulu, yakni kemampuan melawan kemungkinan infeksi HIV. Perlu 
+diketahui, Mark (ayah Lulu dan Nana) seorang pengidap AIDS. Memiliki 
+anak yang mewarisi penyakitnya merupakan masalah besar bagi Mark 
+dan Grace. Terlebih lagi, menurut Jiankui, orang-orang seperti Mark 
+di negara-negara berkembang sering mengalami diskriminasi. Jiankui 
+mengaku itulah dorongan terbesarnya untuk melakukan rekayasa 
+genetik terhadap embrio Nana dan Lulu.
+Sumber: Fadrik Aziz Firdausi (2018)/ https://tirto.id/daBP (dengan pengubahan seperlunya) 
+2.	
+Bagi kelas dalam 2 kelompok besar, yaitu kelompok pro dan kontra. 
+Lalu, masing-masing kelompok besar dibagi menjadi kelompok 
+kecil yang terdiri atas 2 – 3 orang.
+3.	
+Jawablah pertanyaan berikut bersama kelompok kecil kalian.
+a.	
+Apakah tindakan Jiankui merekayasa gen Lulu dan Nana 
+melanggar bioetika dan tak bertanggungjawab? Berikan 
+alasannya!
+b.	
+Mengapa penelitian rekayasa genetika hanya diizinkan 
+untuk terapi penyembuhan dan mencegah penyakit serius 
+yang belum ditemukan metode pengobatannya, bukan untuk 
+mengubah atau mengganti susunan gen pada manusia? Berikan 
+alasannya?
+4.	
+Sampaikan jawaban kelompok kalian di depan kelas. Kelompok 
+lain bisa melakukan debat atas jawaban yang diberikan. Lakukan 
+secara bergantian. 
+BAB 4 Inovasi Bioteknologi 
+245
+Pada Aktivitas 4.19, kalian menjadi lebih memahami batasan yang 
+diperbolehkan dan dilarang dalam bioetika. Etika yang dilanggar, yaitu 
+mengubah gen bawaan atau sifat bawaan pada embrio yang seharusnya 
+tidak tahan serangan HIV-AIDS dihilangkan atau diedit. Hal ini berarti 
+melanggar sifat hakiki yang diberikan Tuhan sehingga tidak menghargai 
+kehormatan dan harkat serta martabat manusia ciptaan Tuhan.
+Bagaimanapun perkembangan bioteknologi harus tetap menghargai 
+dan menghormati harkat serta martabat manusia, kebaikan dan keadilan, 
+serta tidak merugikan, martabat manusia, dan kesucian hidup.
+Refleksi 
+1.	
+Apakah yang sudah kalian lakukan terhadap produk bioteknologi 
+kontroversial yang tidak aman bagi kesehatan dan lingkungan?
+2.	
+Apakah kalian akan mengubah sikap dan perilaku dengan 
+mengkampanyekan produk-produk bioteknologi yang aman bagi 
+kesehatan dan lingkungan? 
+3.	
+Inovasi apakah yang dapat kalian lakukan untuk menjaga keamanan 
+produk bioteknologi bagi kesehatan dan lingkungan?
+4.	
+Bagaimanakah seharusnya kalian bersikap pada inovasi teknologi 
+biologi yang melibatkan manusia sebagai subjeknya?
+Biologi untuk SMA/MA Kelas XII
+246
+UJI KOMPETENSI
+Jawablah soal-soal berikut ini sesuai karakteristiknya masing-masing!
+1.	 Perhatikan gambar berikut ini!
+	
+	
+	
+Berdasarkan gambar produk bioteknologi di atas, tentukan apakah 
+pernyataan berikut ini benar atau salah!
+Penyataan
+Benar
+Salah
+Tape, tempe dan kecap merupakan produk bioteknologi 
+konvensional
+Agen biologi dalam pembuatan tempe dan kecap termasuk 
+kelompok jamur
+Agen biologi untuk pembuatan keju dan yoghurt termasuk 
+kelompok bakteri atau monera
+Teknologi yang digunakan untuk membuat tape, tempe, kecap, 
+yoghurt dan anggur adalah bioproses fermentasi
+Kondisi dalam proses pembuatan tempe, tape dan kecap 
+termasuk kondisi nonsteril
+Tape berasal dari bahan dasar berupa singkong kukus, agen 
+biologinya berupa Saccharomyces sp. dan peranan agen 
+biologinya mengubah gula menjadi alkohol
+2.	 Agen biologi pada proses pembuatan tempe menghasilkan bermacam 
+enzim yang akan mengubah zat-zat makanan yang terkandung pada kedelai 
+menjadi senyawa atau zat gizi yang lebih mudah larut dan diserap tubuh. 
+BAB 4 Inovasi Bioteknologi 
+247
+Buatlah bagan atau skema proses pemecahan macam macam zat makanan, 
+jenis enzimnya dan hasil zat gizi yang dihasilkan? 
+3. 	 Simaklah penjelasan berikut ini!
+	
+Pembuatan tempe yang terstandar diharapkan dapat memberi solusi 
+terhadap permasalahan mutu tempe yang kurang konstan bila dilakukan 
+dengan metode tradisional. Teknologi “Quick Tempeh” alias “Tempe Cepat” 
+merupakan hasil penelitian ilmiah yang dilakukan di Institut Pertanian 
+Bogor. Teknologi ini memperhatikan perbedaan kualitas kedelai lokal dan 
+impor, tahapan pengasaman, pemilihan kultur jamur dan pengelolaan 
+air limbahnya, terutama jika dilakukan di perkotaan. Khusus teknik 
+pengasamannya yang dipilih adalah asam glukonat yang diperoleh 
+dari senyawa glucono delta-lactone atau sering disingkat sebagai GDL. 
+Penerapan teknologi yang sudah siap aplikasi ini direncanakan untuk dapat 
+diimplementasikan dalam skala luas.
+	
+Berdasarkan artikel di atas tentukan pernyataan berikut ini benar atau salah!
+Penyataan
+Benar
+Salah
+Kedelai impor sebagai bahan dalam pembuatan tempe 
+umumnya merupakan tanaman transgenik
+Proses pembuatan tempe dengan teknologi fermentasi 
+merupakan penerapan bioteknologi konvensional.
+Proses pembuatan kedelai transgenik dilakukan dengan 
+teknologi rekayasa genetika
+Kultur murni Jamur Rhizopus oligosporus sebagai agen 
+biologi dalam pembuatan tempe merupakan hasil 
+rekayasa genetika
+Pengelolaan limbah proses pembuatan tempe dapat 
+dilakukan dengan teknologi bioremediasi
+Seluk beluk penerapan teknologi tempe cepat  dapat 
+digunakan untuk mempelajari manfaat bioteknologi dalam 
+pemecahan masalah di bidang pertanian, pangan dan 
+lingkungan.
+4.  	Perhatikan komponen-komponen bioteknologi berikut ini!
+	
+Produk: 1. Yoghurt 2. Antibodi monoklonal, 3. Padi Biosalin, 4.Nata de coco, 
+5. Domba Dolly, 6. Golden rice, 7. Kapas Bollgard, 8 Kedelai Roundup Ready. 
+9. Tebu Giant sugance, 10. Alkohol (biofuel), IPAL
+	
+Teknologi: a. fermentasi, b. bioremediasi. c. rekayasa genetika. e.kultur 
+jaringan, f. Kloning, g. stem cell, h.penyuntingan genom.
+	
+Macam bioteknologi: A. Konvensional, B. Modern
+	
+Bidang kehidupan: 1) Pangan, 2) Pertanian, 3) Peternakan, 4) Lingkungan 
+5) Kesehatan, 7) Energi
+	
+Jodohkan masing masing komponen bioteknologi di atas dengan 
+memasukkannya pada kolom dan baris tabel berikut ini!
+Biologi untuk SMA/MA Kelas XII
+248
+No
+Nama Produk
+Macam Teknologi
+Janis Bioteknolgi
+Bidang kehidupan
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+5.	 Tahapan Kultur Jaringan
+	
+Perhatikan gambar berikut ini!
+	
+	
+	
+Berikan nama tahapan dan peristiwa yang terjadi pada kultur jaringan 
+sesuai nomor yang tertera!
+Nomor Gambar
+Nama Tahapan
+6. 	 Peranan kultur jaringan
+	
+Kultur jaringan dalam perkembangan tidak hanya digunakan untuk 
+menyiapkan bibit yang bersifat unggul dari induk aslinya, namun setelah 
+penerapan rekayasa genetika pada tanaman sekarang lebih banyak 
+digunakan untuk mengembangkan bibit dalam jumlah banyak dan seragam 
+pada tanaman transgenik. Berikut ini hasil kultur jaringan pada tanaman 
+transgenik, kecuali ….
+BAB 4 Inovasi Bioteknologi 
+249
+a.	 Benih padi Biosalin 1 dan 2 yang adaptif pada air dengan kadar 
+garam tinggi.
+b.	 Benih Kedelai Dering 1 yang toleran kekeringan, toleran masam, 
+produktivitas tinggi dan cepat masak. 
+c.	 Benih ubi jalar (sweet potato) yang berwarna kuning dan ungu dengan 
+kandungan glukosa tinggi. 
+d.	 Kentang hitam (Coleus tuberosus), yang mengandung   asam 
+triterpenoid adalah asam betulinic, asam oleanolic, dan asam ursolik 
+yang berperan sebagai antikanker dan antitumor.
+e.	 Mangga yang mengandung glukomanan yang dapat membunuh 
+sel kanker.
+	
+Perhatikan gambar berikut ini!
+	
+	
+	
+Pasangan antara nomor/label 1,2,3 dan X pada gambar dengan tahapan 
+yang benar adalah …..
+Nomor /label pada gambar
+Tahapan rekayasa genetika
+	
+Perhatikan infografis rekayasa genetika pada manusia berikut ini!
+Biologi untuk SMA/MA Kelas XII
+250
+	
+	
+     
+        Kloning Manusia		
+	
+	
+   	   Stem Cell
+	
+	
+	
+Penyuntingan Gen
+	
+Saran yang tepat untuk pemanfaatan ketiga teknologi pada manusia di 
+atas adalah ….
+a.	 Stem cell sebaiknya hanya diperuntukkan penyembuhan penyakit yang 
+menyebabkan rusaknya atau hilangnya jaringan tubuh dan belum 
+ditemukan metode dan jenis obat untuk penyembuhan,
+b.	 Kloning manusia sebaiknya hanya dijadikan alternatif untuk transplantasi 
+organ tubuh
+c.	 Kloning manusia sebaiknya digunakan untuk membantu pasangan 
+suami isteri untuk mendapatkan keturunan dari gen kedua orang tuanya
+d.	 Stem cell sebaiknya hanya dapat digunakan untuk memperbaiki sifat gen 
+yang rusak karena infeksi virus
+e.	 Penyuntingan gen sebaiknya diperuntukkan untuk merubah sifat asli 
+manusia sehingga menyimpang dari sifat gen yang dibawa oleh kedua 
+orang tuanya.
+BAB 4 Inovasi Bioteknologi 
+251
+	
+Tentukan pernyataan berikut ini benar atau salah!
+a.	 Kultur jaringan menggunakan prinsip totipotensi sel meristem yang 
+dimanfaatkan untuk menghasil bibit yang bersifat unggul, seragam 
+dan dalam waktu yang singkat (B/S)
+b.	 DNA rekombinan salah satunya digunakan untuk menghasilkan 
+hormon insulin dengan pencangkokan DNA pankreas pada DNA bakteri 
+E. coli melalui perantara plasmid (B/S)
+c.	 Bakteri Agrobacterium tumefaciens dapat disisipkan pada DNA tanaman 
+agar tahan terhadap antibiotik kanamisin (B/S)
+d.	 Perbanyakan ternak dengan teknik kloning dapat dilakukan dengan 
+kloning terapeutik (B/S)
+e.	 x yang bersumber pada sel embrionik yang bersifat pluripotent, jika 
+ada salah satu sel tidak dapat berkembang dapat menjadi tumorigenik 
+yang dapat menyebabkan kanker (B/S)
+Tentukan pernyataan  berikut ini benar atau salah!
+a.	 Ditemukannya teknik kultur jaringan dikarenakan kebutuhan akan bibit 
+tanaman yang bersifat unggul, seragam dan dalam jumlah banyak 
+sehingga menghemat waktu, lahan dan biaya (B/S)
+b.	 Diterapkannya teknik DNA rekombinan pada tanaman padi biosalin 
+I dan II karena untuk menghasilkan tanaman yang bergizi tinggi, 
+adaptasi terhadap lingkungan yang berkadar garam tinggi serta 
+responsif terhadap  pupuk (B/S)
+c.	 Penerapan teknik hibridoma pada pembuatan antibody monoclonal 
+diharapkan dapat mengenali berbagai antigen dan hanya melawan 
+antigen tertentu (B/S)
+d.	 Pengujian kandidat vaksin fase tiga dengan sampel 1.000 - 5.000 orang 
+karena tujuannya untuk memastikan keamanan, efektivitas, serta 
+keuntungan yang melebihi risiko penggunaan dengan memantau 
+respons kekebalan tubuh dan efek samping vaksin dalam jangka waktu 
+tertentu (B/S)
+e.	 Penyuntingan gen dapat terjadi karena adanya enzim nuklease 
+terekayasa dapat memotong bagian double helix DNA pada tempat 
+tertentu, sedangkan enzim ligase akan menyambungkannya dengan 
+gen tujuannya (B/S)
+Tentukan pernyataan berikut benar atau salah!
+a.	 Produk tanaman dengan teknik kultur jaringan jika dikonsumsi dapat 
+menimbulkan alergi dan keracunan sehingga dianggap melanggar 
+bioetika (B/S)
+b.	 Kloning manusia yang mengubah sifat yang berbeda dari warisan sifat 
+kedua orang tuanya tidak diijinkan oleh bioetika (B/S)
+Biologi untuk SMA/MA Kelas XII
+252
+c.	 Penyuntingan gen yang menghasilkan manusia yang tahan terhadap 
+virus HIV dapat diterima secara etik untuk mencegah penyakit HIV (B/S)
+d.	 Penyuntikan hormon pertumbuhan dan antibiotik hasil rekayasa 
+genetika melebihi dosis anjuran pada ayam pedaging merupakan 
+tindakan yang kurang bertanggungjawab karena dapat menyebabkan 
+alergi dan kebal pada antibiotik pada pengonsumsinya dalam jangka 
+waktu yang panjang (B/S)
+e.	 Pemanfaatan insektisida dapat menyebabkan kekebalan pada hama 
+dan alergi bagi yang mengkonsumsinya merupakan tindakan yang 
+membahayakan kesehatan (B/S)
+BAB 4 Inovasi Bioteknologi 
+253
+PENGAYAAN
+Pasar Bioteknologi di Era Post Genomik
+Di era post genomic, setelah genom selesai disekuens untuk proses analisis 
+dan identifikasi fungsi gen dan sebagainya, diperlukan software khusus. 
+Semakin menumpuknya data genom makhluk hidup maka program untuk 
+mengumpulkan, mensistemasi, dan melakukan anotasi atau identifikasi fungsi 
+gen harus semakin canggih.
+Produk teknologi baru bioinformatika mempunyai pasar yang menjanjikan 
+untuk komersialisasi software. Selain permintaan produk teknologi untuk 
+diagnostik lainnya yang muncul bersamaan dengan proyek genom, seperti 
+DNA chips, DNA microarray, dan protein microarray berada pada kurva 
+naik. Ke depan, perusahaan-perusahaan di bidang sekuensing dan analisis 
+data genomik diramalkan akan bermetamorfosis menjadi industri farmasi 
+(farmacogenomica). Hal ini dikarenakan analisis data genomik menjadi jalan 
+pintas handal untuk penemuan obat, dibanding metode konvensional yang try 
+and error dan time-consuming. 
+Pasar era post genomik ini memacu Jepang untuk unjuk gigi. Sumbangan 
+Jepang untuk proyek genom manusia cukup signifikan. Sejak tahun 1997 
+sampai sekarang, sedikitnya Jepang menyumbangkan 12 spesies mikroba yang 
+genomnya telah selesai dibaca. Selain itu, beberapa makhluk hidup tingkat 
+tinggi, seperti padi dan sapi sedang dalam proses pembacaan. Untuk tahun 
+2010, Jepang menargetkan dapat menyelesaikan 100 mikroba yang genomnya 
+selesai dibaca. Walaupun dalam penerapan komersialisasi hasil penelitian 
+Jepang lebih lambat daripada Amerika Serikat, tetapi nampaknya ini hanya 
+soal waktu saja. 
+Setelah membaca uraian di atas, jawablah pertanyaan-pertanyaan berikut!
+1.	
+Apakah uraian di atas menginspirasi kalian untuk melakukan inovasi 
+teknologi terkait kesehatan dan lingkungan? Jika ya, bagian atau kalimat 
+apakah yang menginspirasi?
+2.	
+Temukan dan rancanglah macam inovasi yang berbasis kecerdasan buatan 
+untuk membantu memecahkan permasalahan di bidang kesehatan dan 
+lingkungan?
+Biologi untuk SMA/MA Kelas XII
+254
+Mungkin hasil paling berharga 
+dari semua pendidikan adalah 
+kemampuan untuk melakukan hal 
+yang harus dikerjakan ketika hal itu 
+memang harus dikerjakan, entah 
+mereka menyukainya atau tidak.
+--Thomas Henry Huxley
+255
+Glosarium
+abiogenesis 
+paham yang menjelaskan munculnya kehidupan dari benda mati.
+adaptasi 
+kemampuan makhluk hidup dalam penyesuaian diri terhadap kondisi 
+lingkungan yang baru.
+anabolisme
+penyusunan zat dari senyawa/molekul sederhana menjadi senyawa 
+kompleks yang membutuhkan energi.
+apoenzim
+bagian enzim yang tersusun atas protein.
+ATP  (adenosine 
+triphosphate)
+molekul yang membebaskan energi ketika ikatan fosfatnya terhidrolisis.
+ATP sintase
+enzim yang mengkatalis pembentukan ATP dari ADP dan fosfat.
+aklimatisasi	
+suatu upaya penyesuaian fisiologis atau adaptasi dari suatu organisme 
+terhadap suatu lingkungan baru yang akan dimasuki.
+artificial intelligence
+simulasi dari kecerdasan yang dimiliki manusia yang dimodelkan di 
+dalam mesin. 
+antibodi monoklonal antibodi yang spesifik mengenali satu antigen dan diproduksi dengan 
+menggabungkan sel B (suatu sel imun) yang normal.
+antibiotik
+obat yang hanya diresepkan untuk melawan bakteri.
+analogi
+organ-organ tubuh yang mempunyai fungsi sama tetapi bentuk asalnya 
+berbeda.
+alel
+gen-gen yang terdapat pada lokus yang bersesuaian.
+antikodon
+urutan tiga (3) basa yang merupakan komplemen dari kodon dan 
+terdapat pada RNA-t.
+amitosis 
+pembelahan sel yang terjadi secara spontan tanpa melalui tahap-tahap 
+pembelahan sel.
+biogenesis 
+paham yang menjelaskan munculnya kehidupan dari kehidupan 
+sebelumnya.
+biodegradasi
+proses di mana bahan organik diuraikan oleh enzim yang dihasilkan 
+oleh organisme hidup.
+bioproses
+cabang ilmu teknik yang menggarap proses‐proses konversi biomassa 
+tumbuhan, hewan,atau mikroorganisme melalui reaksi biokimia. 
+bioremidiasi
+proses penguraian limbah organik maupun anorganik polutan dari 
+sampah dengan menggunakan organisme.
+bioetika
+ilmu pengetahuan untuk mempertahankan hidup dan terpusat pada 
+penggunaan ilmu-ilmu biologis untuk memperbaiki mutu hidup.
+bioinformatika
+ilmu yang mempelajari penerapan teknik komputasional untuk 
+mengelola dan menganalisis informasi.
+bidang ekuator
+pertengahan dari sel, garis horisontal.
+crossing over
+pindah 
+silang 
+yang 
+memungkinkan 
+terbentuknya 
+rekombinan 
+(kombinasi gen baru).
+dekarboksilasi 
+oksidatif
+reaksi pembentukan Asetil KoA dari asam piruvat dengan melepaskan 
+karbon dioksida dan NADH.
+DNA
+atau deoxyribo nucleic acid merupakan asam nukleat yang menyimpan 
+semua informasi tentang genetika.
+DNA templet
+DNA cetakan dalam pembetukan molekul komplementer RNA-d.
+double helix
+pita ganda benang DNA yang saling komplemen.
+diploid
+keadaan sel yang kromosomnya berpasangan (2n).
+enzim
+zat yang berfungsi mempercepat reaksi, namun tidak mengalami 
+perubahan selama reaksi sehingga dapat digunakan berulang.
+evolusi 
+perubahan atau perkembangan pada makhluk hidup secara berangsur-
+angsur dalam kurun waktu yang lama. 
+Biologi untuk SMA/MA Kelas XII
+256
+fenotip
+bentuk organisme yang dapat diamati merefleksikan pengaruh genetik 
+dan lingkungan.
+filial
+keturunan yang diperoleh sebagai hasil dari perkawinan parental. 
+Keturunan pertama disingkat F1, keturunan kedua disingkat F2, 
+keturunan ketiga disingkat F3, dan seterusnya.
+fermentasi
+proses produksi energi dalam sel secara anaerob.
+fotofosforilasi 
+nonsiklik
+proses perubahan energi cahaya (foton) menjadi ATP dan NADPH 
+dengan air sebagai donor elektron dan melibatkan FS II dan FS I.
+fotofosforilasi siklik
+proses perubahan energi cahaya (foton) menjadi energi kimia (ATP) yang 
+hanya melibatkan FS I.
+fosforilasi oksidatif
+proses konversi NADH dan FADH2 menjadi ATP yang terjadi melalui 
+transpor elektron dan kemiosmosis dengan bantuan ATP sintase.
+gonosom
+kromosom yang menentukan jenis kelamin.
+genom
+rangkaian lengkap informasi genetik yang dimiliki oleh organisme.
+gen
+susunan genetik yang berisi perintah dan tersimpan dalam kumpulan 
+pesan-pesan kimia yang berfungsi sebagai penentu sifat.
+gen letal
+gen yang dapat menyebabkan kematian dalam keadaan homozigotik.
+genotip
+susunan gen yang dimiliki individu.
+gen dominan
+gen yang mengekspresikan dirinya dalam fenotip ketika dipasangkan 
+dengan gen dominan lainnya maupun gen resesif.
+gen resesif
+gen yang terekspresikan pada fenotip ketika berpasangan dengan gen 
+resesif lainnya tetapi tidak dengan gen dominan.
+gamet
+sel haploid (sperma dan ovum) yang bersatu pada fertilisasi membentuk 
+zigot.
+genetic drift 
+kejadian acak yang mengubah distribusi dan frekuensi   alel dalam suatu 
+populasi.
+gene flow 
+perpindahan alel dari satu populasi ke populasi lain, baik secara imigrasi 
+atau emigrasi. 
+gene pool
+kumpulan total gen dalam sebuah populasi.
+glikolisis
+serangkaian reaksi kimia yang memecah molekul glukosa menjadi 2 
+molekul asam piruvat.
+gen intermediet
+gen yang pengaruhnya sama kuat dengan alelnya.
+gametogenesis
+proses pembentukan gamet/sel kelamin.
+gelendong 
+pembelahan
+disebut juga benang spindel, yaitu struktur berbentuk seperti benang-
+benang yang menghubungkan kutub-kutub pembelahan.
+haploid
+sifat kromosom yang tidak berpasangan. 
+heterozigot
+zigot dengan dua alel yang berbeda untuk ciri tertentu.
+homozigot
+zigot dengan alel yang identik untuk ciri tertentu.
+hibrid
+individu atau keturunan hasil persilangan induk dengan susunan gen 
+berbeda.
+hibridoma
+teknologi penggabungan  antara sel limfosit dengan sel kanker.
+homologi
+organ-organ makhluk hidup yang memiliki bentuk asal yang sama, 
+kemudian berubah strukturnya sehingga memiliki fugsi yang berbeda.
+inhibotor
+zat-zat yang berfungsi menghambat biasanya pada kerja enzim.
+interfase
+sel dalam keadaan istirahat dari proses pembelahan, namun 
+mempersiapkan pembelahan dengan mengadakan replikasi DNA.
+interkinesis
+tahap di antara dua pembelahan meiosis.
+katabolisme
+desimilasi yang merupakan rangkaian reaksi kimia yang berkaitan 
+dengan proses pembongkaran, penguraian atau pemecahan molekul/
+senyawa kompleks menjadi molekul/senyawa yang lebih sederhana 
+dengan bantuan enzim.
+257
+kemiosmosis
+peristiwa perpindahan ion H+ menuruni gradien konsentrasinya melalui 
+ATP sintase.
+koenzim
+molekul organik yang menyusun bagian nonprotein dari sebuah enzim. 
+kofaktor
+molekul anorganik yang menyusun bagian nonprotein dari sebuah 
+enzim.
+kromosom
+benang-benang dalam inti sel yang mampu menyerap warna dan 
+pembawa sifat menurun.
+kromosom homolog pasangan kromosom yang memiliki gen dan lokus yang sama.
+kodominan
+alel yang tidak seluruhnya dapat menutupi ekspresi alel resesif.
+kultur jaringan
+teknologi untuk memperoleh  bibit unggul dengan cara menumbuhkan 
+sebagian jaringan tumbuhan pada media khusus.
+kloning
+proses pembiakan vegetatif atau kultur jaringan pada hewan dan 
+manusia.
+kariokinesis
+pembagian inti.
+kromatin
+benang–benang halus penyusun kromosom, yang memiliki kemampuan 
+menyerap zat warna. 
+kromatid
+belahan kromosom yang terjadi karena adanya duplikasi.
+lokus
+letak atau tempat gen dalam kromosom.
+meiosis
+pembelahan sel yang menghasilkan empat sel anakan yang masing-
+masing sel anakan mengandung separuh kromosom dari kromosom 
+induknya. 
+mitosis
+pembelahan sel yang menghasilkan dua sel anakan dan setiap sel 
+anakan mengandung jumlah kromosom yang sama dengan kromosom 
+induknya.
+NADH 
+koenzim yang berfungsi sebagai pengangkut elektron universal, 
+terbentuk dari NAD+ (nicotinamide adenine dinucleotide) yang mengikat 
+elektron berenergi tinggi (e-) dan satu proton (H+) dari hasil reaksi 
+pembongkaran ikatan kimia pada zat makanan.
+NADPH
+koenzim yang berfungsi sebagai pengangkut elektron, terbentuk ketika 
+NADP+ (nicotinamide adenine dinucleotide phosphate) menerima elektron 
+dan proton membentuk NADPH.
+nukleosida
+nukleotida yang kehilangan satu unsur penyusunnya.
+nukleotida
+unit terkecil penyusun DNA atau RNA yang tersusun atas molekul gula 
+(deoksiribosa, basa nitrogen dan asam fosfat).
+nondisjunction
+peristiwa gagalnya satu kromosom atau lebih untuk berpisah ke arah 
+kutub yang berlawanan pada saat meiosis I maupun meiosis II.
+oogenesis
+proses pembentukan ovum.
+pautan
+peristiwa dua gen atau lebih yang terletak pada kromosom yang sama 
+dan tidak dapat memisah secara bebas pada waktu pembelahan meiosis.
+replikasi
+proses penggandaan DNA menjadi dua DNA yang identik.
+reaksi terang
+tahap fotosintesis yang menggunakan energi cahaya untuk membentuk 
+ATP dan NADPH.
+reaksi gelap
+tahap 
+fotosintesis 
+yang 
+berfungsi 
+membentuk 
+zat 
+makanan 
+menggunakan energi yang dihasilkan pada reaksi terang.
+respirasi aerob 
+proses pembentukan energi (ATP) dari zat makanan yang membutuhkan 
+oksigen.
+respirasi anaerob
+proses pembentukan energi (ATP) dari zat makanan tanpa menggunakan 
+oksigen.
+respirasi seluler
+proses pembentukan energi (ATP) dari zat makanan.
+rubisco
+enzim yang diperlukan untuk menggabungkan ribulosa bifosfat (RuBP) 
+dengan karbon dioksida pada reaksi gelap (siklus Calvin).
+Biologi untuk SMA/MA Kelas XII
+258
+RuBP (ribulose 
+biphosphate)
+molekul yang berfungsi mengikat CO2 pada siklus Calvin (reaksi gelap).
+rekayasa genetika
+usaha manusia menciptakan varietas baru dengan teknologi memotong 
+dan menyambung gen.
+reduksi 
+terjadinya pengurangan atau penyusutan jumlah kromosom.
+rekombinansi DNA
+proses transfer segmen DNA dari satu organisme  ke DNA organisme 
+lain.
+sentromer 
+bagian kromosom yang yang membagi kromosom menjadi dua lengan.
+seleksi alam
+perbedaan kemampuan untuk hidup dan bereproduksi dari suatu 
+individu yang diakibatkan oleh perbedaan kecocokan fenotipe yang 
+dimiliki organisme tersebut dengan lingkungan.
+siklus asam sitrat
+siklus yang diawali terbentuknya asam sitrat, terdiri atas reaksi-reaksi 
+kimia untuk mengurai asetil KoA menghasilkan NADH, FADH2, dan ATP 
+dengan menghasilkan produk sampingan berupa CO2.
+siklus Krebs
+tahap kedua dari tahapan respirasi sel, yang diawali dengan proses 
+glikolisis. 
+sterilisasi
+upaya untuk membunuh mikroorganisme termasuk dalam bentuk 
+spora.
+stem cell
+sel yang belum memiliki fungsi khusus sehingga dapat mengubah, 
+menyesuaikan, dan memperbanyak diri bergantung lokasi sel tersebut 
+berada.
+sitokinesis
+pembelahan sitoplasma yang diikuti pembentukan sekat sehingga 
+memisahkan dua inti menjadi dua sel anakan. 
+spermatogenesis
+proses pembentukan sperma.
+transpor elektron
+tahap akhir respirasi aerob di mana elektron-elektron yang berasal dari 
+NADH dan FADH2 dipindahkan melalui rantai transpor elektron untuk 
+dikonversi menjadi ATP, hingga akhirnya diterima oleh akseptor elektron 
+yang terakhir, yaitu oksigen. 
+transkripsi
+proses pencetakan RNAd oleh benang DNA.
+translasi
+proses penerjemahan kodon menjadi asam amino oleh RNA-t pada 
+sintesis protein.
+tumbuhan C3
+tumbuhan yang menghasilkan molekul berkarbon tiga pada proses 
+fiksasi karbon, salah satu fase selama siklus Calvin.
+tumbuhan C4
+tumbuhan yang menghasilkan molekul berkarbon empat pada proses 
+fiksasi karbon, salah satu fase pada siklus Calvin.
+tumbuhan CAM 
+(crassulacean acid 
+metabolism)
+tumbuhan yang melakukan fiksasi karbon dioksida pada malam hari 
+karena stomata menutup pada siang hari.
+tetrad
+bentuk ikatan dari kromatid karena kromosom homolog mengganda, 
+terdiri atas empat kromatid pada satu sentromer.
+vaksin
+bibit penyakit  yang dilemahkan atau dimatikan yang bertujuan untuk 
+memperoleh imunitas.

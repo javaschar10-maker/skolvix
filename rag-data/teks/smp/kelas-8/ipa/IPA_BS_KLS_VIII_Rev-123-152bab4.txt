@@ -1,0 +1,895 @@
+Bab IV
+Teknologi Penerapan
+Tekanan pada Zat
+Bisakah kita menjelajah laut dalam selama berbulan-bulan lamanya? 
+Bagaimana caranya?
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, DAN TEKNOLOGI 
+REPUBLIK INDONESIA, 2024
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VIII (Edisi Revisi)
+Penulis : Okky Fajar Tri Maryana, dkk.
+ISBN 
+: 978-623-388-560-7 (jil.2 PDF)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+106
+Pada bab ini kalian akan mempelajari konsep tekanan pada berbagai 
+zat, khususnya zat cair, guna membuat rancangan replika kapal selam 
+penyelamatan. Projek tersebut dapat menjadi misi kalian dalam melatih 
+kreativitas dan sikap tolong-menolong di dalam kehidupan.
+• tekanan
+• zat cair
+• berat
+• kapal selam
+Tujuan Pembelajaran
+Kata Kunci
+Peta Konsep
+Tekanan pada Zat
+Penerapannya di 
+dalam Kehidupan
+Tekanan Darah 
+pada Manusia
+Pengangkutan Air 
+pada Tumbuhan
+Pompa Hidrolik
+Luas 
+Permukaan
+Gaya
+Hukum Archimedes
+Hukum Pascal
+Hidrostatis
+Balon Udara
+Pengangkutan 
+Nutrisi pada 
+Tumbuhan
+pada zat cair 
+yang diam
+penerapannya 
+pada
+ditentukan 
+dari
+Zat Padat
+Zat Cair
+Zat Gas
+terbagi menjadi
+ditentukan 
+dari
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+107
+Gambar 4.1  Kapal selam tak berawak buatan Amerika Serikat
+Sumber: Boeing/Innovation Quarterly (2023)
+Kapal selam buatan Amerika Serikat di atas merupakan kapal selam diesel tak 
+berawak tercanggih dan memiliki jangkauan 9.600 kilometer. Dengan berat 
+hanya 50 ton, kapal selam ini dapat menjelajah di dalam laut selama berbulan-
+bulan. Selain dilengkapi dengan sistem navigasi paling maju, kapal selam ini 
+dapat menyelam hingga kedalaman 3.400 meter dengan kecepatan tertinggi 
+mencapai 8 knot (15 km/jam). Dilengkapi oleh sistem radar dan monitor yang 
+canggih, kapal selam ini dapat membantu umat manusia dalam menjelajah luas 
+dan dalamnya kekayaan bahari. Sangat cocok untuk negara-negara kepulauan 
+seperti Indonesia. 
+Saat ini Indonesia juga sedang meningkatkan teknologi bawah laut. Nah, 
+apa yang membuat kapal selam dapat bergerak di dalam air? Mengapa kapal 
+selam dengan bobot berton-ton tidak tenggelam ke dasar laut?
+Bersiap untuk Menjelajah
+Apa yang kalian rasakan saat menginjak batu-batu kerikil di pinggir jalan tanpa 
+alas kaki? Apakah sama dengan menginjak batu-batu besar yang ada di pinggir 
+sungai? Jika tidak, apa alasannya?
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+108
+Gambar 4.2  Menginjak kerikil kecil tanpa alas kaki terasa lebih sakit dibandingkan 
+menginjak baru besar
+A. 
+Tekanan pada Zat Padat
+Gaya yang diberikan oleh kaki dan luas permukaan benda yang disentuh 
+kaki sangat menentukan besarnya tekanan yang dirasakan. Kalian dapat 
+membuktikannya dengan menginjak batu kerikil kecil dan batu besar dengan 
+tanpa alas kaki, seperti pada Gambar 4.2. Batu kerikil luas permukaannya 
+lebih kecil dibandingkan batu besar. Menginjak batu kerikil terasa lebih sakit 
+dibandingkan batu besar. Terbukti bahwa semakin kecil luas permukaan 
+sentuh maka semakin besar tekanan yang dirasakan. Sederhananya, tekanan 
+berbanding terbalik dengan luas permukaan sentuh. Akhirnya, kalian dapat 
+memahami bahwa tekanan menyatakan gaya per satuan luas atau tekanan 
+adalah penyebaran gaya pada suatu permukaan.
+P = F
+A
+ 
+(4.1)
+Keterangan:
+P = tekanan (N/m2 atau pascal, Pa)
+F = gaya (newton, N)
+A = luas bidang sentuh (m2)
+Gambar 4.3  Menginjak batu besar 
+tekanannya lebih kecil dibanding kerikil.
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+109
+Perlu diketahui bahwa tekanan pada suatu zat dibagi menjadi tiga, yaitu 
+tekanan zat padat, zat cair, dan gas. Sebelum kita lanjut membahas tekanan zat 
+cair dan gas, agar lebih memahami konsep tekanan kalian dapat melakukan 
+Aktivitas 4.1 berikut.
+Aktivitas 4.1 
+Ayo Identi昀椀kasi
+Menurutmu apabila seorang wanita menggunakan dua jenis sepatu yang 
+berbeda, yaitu sepatu hak tinggi dan sepatu olahraga seperti pada gambar 
+berikut, manakah yang memberikan tanda lebih jelas di tanah liat atau 
+pasir? Dengan menggunakan konsep tekanan, berikanlah alasanmu!
+Gambar 4.4  Sepatu berhak tinggi dengan sepatu olahraga memiliki perbedaan 
+tekanan
+Sumber: macrovector/freepik.com
+Ayo Uji Kemampuan
+1. 
+Sebuah mobil bak memiliki berat kosong 100.000 N. Jika mobil bak 
+tersebut memiliki 4 buah roda dan masing-masing area tanah yang 
+bersentuhan dengan roda adalah 0,4 m2, berapakah tekanan yang 
+dirasakan pada masing-masing roda?
+2. 
+Pernahkah terpikir olehmu, mengapa truk-truk besar memiliki lebih 
+dari empat roda?
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+110
+B. 
+Tekanan pada Zat Cair
+Pernahkah kalian mendengar istilah ‘Laut Mati’? Tahukah kalian jika kita 
+berenang di Laut Mati maka kita akan terapung meskipun kita tidak bisa 
+berenang? Mengapa bisa demikian?
+Gambar 4.5  Orang terapung di Laut Mati, Jordania 
+Sumber: Octavio Ruiz Cervera/wikimedia.org (2010)
+1. Tekanan Hidrostatis
+Laut Mati di negara Jordania sebenarnya adalah danau yang sangat luas dengan 
+kadar garam yang sangat tinggi. Semakin besar massa jenis zat cair, semakin 
+besar pula tekanan yang dihasilkan. Itulah yang terjadi pada Laut Mati. Massa 
+jenis air di Laut Mati lebih tinggi daripada air laut pada umumnya, bahkan 
+lebih tinggi dibandingkan tubuh manusia. Itulah sebabnya, tubuh manusia 
+akan terapung di Laut Mati.
+Jika kalian menyelam, tentu akan merasakan tekanan di telingamu, bukan? 
+Semakin dalam menyelam, tekanan di telingamu akan semakin terasa. Apa yang 
+menyebabkan fenomena tersebut? Selain massa jenis, kedalaman suatu zat cair 
+juga berpengaruh pada besar tekanan zat cair. Inilah yang disebut tekanan 
+hidrostatis. Semakin dalam zat cair, semakin besar tekanan yang dihasilkan.
+Pada bagian sebelumnya, kita sudah memahami bahwa tekanan merupakan 
+besarnya gaya per satuan luas permukaan tempat gaya itu bekerja. Pada zat 
+cair, gaya (F) disebabkan oleh berat zat cair (W) yang berada di atas benda, 
+sehingga persamaan matematisnya:
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+111
+P = F
+A
+ = W
+A
+ 
+(4.2)
+Berat zat cair yang berada di atas benda dapat diuraikan menjadi: 
+W = m × g di mana m = ρ × V dan V = h × A
+Maka persamaan 4.3 dapat ditulis menjadi:
+P = F × g × h × A
+A
+ = ρ × g × h 
+(4.3)
+Keterangan:
+P = tekanan hidrostatis (N/m2)
+m = massa zat cair (kg)
+ρ = massa jenis zat cair (kg/m3)
+g = percepatan gravitasi (m/s2)
+h = tinggi zat cair (m)
+V = volume zat cair (m3)
+Untuk lebih jelasnya, kalian dapat memerhatikan ilustrasi pada Gambar 4.5 di 
+bawah ini.
+P = ρgh
+P = 0
+h
+Gambar 4.6  Tekanan hidrostatis pada permukaan dan dasar sebuah kolam air.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+112
+Manusia diperkirakan mampu menyelam hingga kedalaman sekitar 20 
+meter. Lebih dalam dari itu, tekanan air akan semakin besar (>240.000 Pa) 
+dan paru-paru manusia tidak akan dapat menahannya. Perancangan struktur 
+bangunan, seperti kilang minyak di laut lepas, dermaga di pelabuhan, dan 
+bendungan untuk Pembangkit Listrik Tenaga Air (PLTA), perlu memperhitungkan 
+tekanan hidrostatis. Kapal selam juga dirancang sedemikian rupa dengan 
+memperhitungkan tekanan hidrostatis air laut sehingga dapat menyelam sampai 
+ke kedalaman ratusan meter tanpa mengalami kebocoran.
+Dam
+Generator
+Turbin
+Gambar 4.7  Struktur bendungan mampu menahan tekanan air yang besar.
+Aktivitas 4.2 
+Ayo Bereksperimen
+Menara Air Hidrostatis
+Alat dan bahan:
+1. 
+Sebuah botol bekas air mineral ukuran 1,5 liter
+2. 
+Pisau atau gunting
+3. 
+Selotip atau lem
+4. 
+Air
+5. 
+Pewarna makanan (opsional)
+6. 
+Penggaris atau meteran
+Gambar 4.8  Botol air minum bekas yang memancarkan 
+air dari lubang dengan berbagai ketinggian. 
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+113
+Langkah percobaan:
+1. 
+Buatlah lubang kecil di sisi botol pada ketinggian yang berbeda-beda 
+(misalnya 5 cm, 10 cm, 15 cm, dan 20 cm dari dasar botol).
+2. 
+Tutup lubang dengan selotip.
+3. 
+Isi botol dengan air hingga penuh. Jika menggunakan pewarna makanan, 
+tambahkan beberapa tetes ke dalam air agar lebih mudah diamati.
+4. 
+Lepas selotip satu per satu dari lubang paling atas hingga paling bawah.
+5. 
+Perhatikan bagaimana air mengalir keluar dari lubang-lubang yang telah 
+dibuat. Air akan mengalir dengan kecepatan yang berbeda bergantung 
+pada kedalamannya.
+Amati dan catat bagaimana kecepatan air yang keluar dari setiap lubang. 
+Gunakan penggaris atau meteran untuk mengukur jarak semprotan air dari 
+setiap lubang. Buatlah kesimpulan dari aktivitas ini. Diskusikan dengan guru 
+dan temanmu di depan kelas.
+2. Hukum Archimedes
+Kita telah mengetahui bahwa tekanan hidrostatis merupakan jawaban dari 
+pertanyaan, mengapa manusia dapat mengapung dengan mudah di Laut Mati. 
+Massa jenis dan ketinggian zat cair berpengaruh langsung terhadap tekanan 
+hidrostatis. Hal inilah yang menjadi poin penting yang harus diperhitungkan 
+dalam merancang kapal selam, meliputi perancangan struktur dan pemilihan 
+bahan pembuatannya. 
+Gambar 4.9  Kapal selam dirancang agar mampu menahan tekanan hidrostatis 
+bawah laut.
+Sumber: Vasya21/goodfon.com (2023)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+114
+Menurutmu bahan apa yang sesuai untuk pembuatan kapal selam? Salah 
+satunya adalah baja. Baja merupakan logam yang terbuat dari campuran besi 
+dan karbon. Dengan demikian, massa jenis yang dihasilkan lebih besar daripada 
+massa jenis air laut sehingga baja dapat menahan tekanan hidrostatis bawah laut.
+Saat bermain di kolam renang, apakah kalian pernah mencoba mengangkat 
+tubuh teman kalian di dalam air? Terasa lebih ringan, bukan? Mengapa bisa 
+demikian? Apakah massa tubuh teman kalian berkurang saat di dalam air? 
+Sebenarnya yang terjadi bukan massa benda yang berkurang, massa benda 
+akan selalu sama di mana pun benda itu berada. Benda di dalam air akan terasa 
+lebih ringan karena adanya gaya apung (Fa) yang mendorong benda ke atas atau 
+berlawanan dengan arah gaya berat benda.
+Fa
+W
+Gambar 4.10  Gaya yang bekerja pada batu yang tenggelam; gaya berat benda 
+mengarah ke bawah sementara gaya apung mengarah ke atas.
+Secara matematis, dapat dituliskan:
+Fa = Wbu – Wba
+(4.4)
+sehingga:
+Wba = Wbu – Fa
+(4.5)
+Keterangan:
+Fa = gaya apung (N)
+Wba = berat benda di air (N)
+Wbu = W = m × g = berat benda di udara atau berat benda sesungguhnya (N)
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+115
+Benda Terapung
+Fa > W,
+di mana 
+W = m × g
+Benda Melayang
+Fa = W
+Benda Tenggelam
+Fa < W
+Fa
+W
+Fa
+W
+Fa
+W
+Hukum Archimedes
+Gambar 4.11  Fenomena hukum Archimedes ketika tiga jenis benda dimasukkan ke 
+dalam air. 
+Perhatikanlah gambar di atas. Archimedes mempelajari fenomena ini dan 
+menghasilkan hukum Archimedes yang berbunyi:
+“Jika benda dicelupkan ke dalam zat cair maka benda itu akan mendapat 
+gaya ke atas yang sama besar dengan berat zat cair yang didesak oleh 
+benda tersebut.”
+Menurut Archimedes, benda menjadi lebih ringan bila diukur di dalam air 
+daripada di udara karena di dalam air benda mendapat gaya ke atas. Ketika di 
+udara, benda memiliki berat mendekati yang sesungguhnya. Berat zat cair yang 
+didesak atau dipindahkan benda adalah:
+Wcp = mp × g
+di mana massa zat cair:
+mp = ρc × Vcp
+sehingga berat zat cair yang didesak oleh benda 
+adalah:
+Wcp = ρc × Vcp × g
+Berarti, menurut hukum Archimedes, besar gaya 
+ke atas adalah:
+Fa = ρc × Vcp × g
+(4.6)
+Vcp
+Gambar 4.12  Volume zat 
+cair yang dipindahkan
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+116
+Keterangan:
+Fa = gaya apung (N)
+ρc = massa jenis zat cair (kg/m3)
+g 
+= percepatan gravitasi (m/s2)
+Vcp = volume zat cair yang dipindahkan (m3)
+Persaman 4.6 di atas dikenal sebagai hukum Archimedes. Perhatikan 
+kembali Gambar 4.11 di atas. Melalui hukum Archimedes kita dapat mengetahui 
+jawaban dari pertanyaan, mengapa balok kayu dapat terapung di permukaan 
+air, sedangkan batu tenggelam. Hal ini karena balok kayu memiliki massa 
+jenis yang lebih kecil dan volume yang lebih besar, sehingga gaya ke atas yang 
+melawan balok kayu untuk tenggelam lebih besar dibandingkan berat balok itu 
+sendiri (Fa > W). Sedangkan, batu akan tenggelam karena gaya beratnya lebih 
+besar daripada gaya apung di dalam air (Fa < W).
+ρ kayu = 
+370–720 kg/m3
+ρ batu apung = 
+700–1.200 kg/m3 
+ρ air = 997 kg/m3
+ρ batu kerikil = 
+1.800 kg/m3
+Gambar 4.13  Keadaan balok kayu dan batu kerikil ketika berada di air. Batu 
+apung bisa mengapung, tenggelam, atau melayang bergantung pada massa 
+jenisnya yang bervariatif
+Hukum Archimedes juga sangat berguna sebagai dasar pembuatan kapal laut 
+atau kapal selam. Suatu benda dapat terapung atau tenggelam bergantung pada 
+besarnya gaya berat (W) dan gaya apung (Fa). Jika gaya apung maksimum lebih 
+besar daripada gaya berat maka benda akan terapung. Begitu pula sebaliknya, 
+jika gaya apung maksimum lebih kecil daripada gaya berat maka benda akan 
+tenggelam. Namun, jika gaya apung maksimum sama dengan berat benda 
+maka benda akan melayang. Gaya apung maksimum adalah gaya apung jika 
+seluruh benda berada di bawah permukaan zat cair. Jadi, kapal selam perlu 
+menyesuaikan gaya beratnya dengan gaya apung yang timbul.
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+117
+Ada pertanyaan yang menarik. Mengapa kapal laut yang terbuat dari logam 
+tidak tenggelam, bahkan yang berbobot besar sekalipun? Saat kapal laut dalam 
+posisi tegak, kapal laut memindahkan air laut dalam jumlah yang cukup besar 
+dikarenakan volume badan kapal bagian bawah yang besar. Dengan demikan, 
+kapal laut mendapat gaya ke atas yang lebih besar daripada berat kapal laut 
+sehingga bisa terapung.
+Badan kapal 
+(terbuat dari 
+logam)
+Lambung kapal 
+(ruang berisi 
+udara) 
+Gambar 4.14  Lambung kapal membuat kapal laut yang terbuat dari logam dapat 
+mengapung di permukaan air.
+Beda halnya dengan kapal laut, kapal selam dapat terapung, melayang, 
+dan tenggelam di lautan. Kapal selam memiliki kemampuan memasukkan dan 
+mengeluarkan air dari dalam badan kapal. Saat kapal selam menuju dasar 
+laut, air laut dimasukkan ke dalam badan kapal agar kapal menjadi lebih 
+berat, sehingga beratnya lebih besar daripada gaya angkat ke atas. Sebaliknya, 
+saat kapal selam ingin mengapung ke permukaan, air dari dalam badan kapal 
+dikeluarkan sehingga berat kapal selam menjadi lebih kecil daripada gaya angkat 
+ke atas. Namun, jika kapal selam ingin berada stabil pada kedalaman tertentu, 
+air dalam badan kapal disesuaikan volumenya sehingga berat total dari kapal 
+selam menjadi sama dengan gaya angkat ke atas. Pada kondisi ini kapal selam 
+melayang di dalam air. Perhatikan gambar berikut untuk lebih jelasnya.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+118
+Gambar 4.15  Prinsip kerja kapal selam saat terapung, melayang, dan tenggelam.
+Aktivitas 4.3 
+Ayo Bereksperimen
+Kapal Kertas Hukum Archimedes
+Kalian akan diajak untuk mengamati dan memahami hukum Archimedes 
+tentang gaya apung melalui pengujian kapal kertas.
+Alat dan bahan:
+1. 
+Kertas A4 (atau kertas tahan air untuk 
+hasil yang lebih baik)
+2. 
+Wadah berisi air (bisa bak mandi atau 
+ember lebar)
+3. 
+Koin logam atau kerikil kecil
+4. 
+Penggaris atau meteran
+Gambar 4.16  Kapal kertas 
+dengan koin di dalamnya 
+mengapung di permukaan air.
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+119
+Langkah percobaan:
+1. 
+Lipat kertas A4 menjadi bentuk kapal. 
+2. 
+Isi wadah dengan air yang cukup sehingga kapal kertas bisa mengapung 
+bebas. 
+3. 
+Letakkan kapal kertas di permukaan air dan amati.
+4. 
+Letakkan satu koin atau beban kecil pada kapal kertas dan amati apakah 
+kapal masih bisa mengapung. 
+5. 
+Tambahkan beban secara bertahap hingga kapal mulai tenggelam. Catat 
+jumlah beban maksimal yang dapat ditopang kapal sebelum mulai 
+tenggelam. 
+Pertanyaan:
+1. 
+Diskusikan mengapa kapal kertas bisa mengapung dan mengapa akhirnya 
+tenggelam setelah diberi beban hingga batas tertentu!
+2. 
+Cobalah membuat kapal dari bahan lain yang lebih tahan air atau ubah 
+desain kapal untuk melihat berapa banyak beban yang dapat ditopang 
+sebelum tenggelam!
+3. 
+Diskusikan konsep desain kapal nyata dan bagaimana prinsip-prinsip 
+昀椀sika diterapkan untuk memastikan kapal dapat mengapung dan mampu 
+menopang beban yang sangat berat!
+Fakta Sains
+Suku Bajo sebagai Penyelam yang Andal
+Suku Bajo, sering disebut sebagai “Sea Nomads” atau “Gipsi Laut”, memiliki 
+kemampuan luar biasa dalam menyelam dan hidup berdampingan 
+dengan laut. Suku ini tersebar di bagian timur Indonesia, Malaysia, Brunei 
+Darussalam, hingga Filipina Selatan. Suku ini dikenal karena keahliannya 
+menyelam hingga kedalaman 70 meter hanya dengan satu tarikan napas 
+dan menggunakan kacamata renang sederhana yang terbuat dari kayu. 
+Keunikan ini bukan hanya mengagumkan, tetapi juga menginspirasi banyak 
+cerita dan penelitian, termasuk inspirasi bagi 昀椀lm “Avatar: The Way of Water” 
+karya James Cameron.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+120
+Gambar 4.17  Anak-anak Bajo hidup berdampingan dengan laut.
+Sumber: Torben Venning/wikimedia.org (2010)
+Masyarakat Suku Bajo telah menunjukkan adaptasi genetik yang luar 
+biasa. Mereka memiliki limpa yang lebih besar dibandingkan dengan orang 
+di daratan, yang memungkinkan mereka untuk menyelam lama di dasar 
+laut tanpa bantuan alat. Sebuah penelitian mengungkapkan bahwa limpa 
+yang lebih besar ini memberikan keuntungan dalam menyelam, karena 
+berfungsi sebagai reservoir oksigen bagi tubuh.
+Ketika seorang penyelam, seperti anggota Suku Bajo, menyelam ke 
+dalam air, gaya apung yang bekerja pada tubuh mereka bergantung pada 
+massa jenis tubuh dibandingkan dengan massa jenis air. Jika massa jenis 
+tubuh lebih rendah daripada massa jenis air, penyelam akan mengapung. 
+Sebaliknya, jika massa jenis tubuh lebih tinggi, penyelam akan tenggelam.
+Suku Bajo memiliki teknik khusus dalam mengatur volume paru-paru 
+sehingga memengaruhi massa jenis tubuh dan membantu mereka mengon-
+trol kedalaman saat menyelam. Ketika berada di air, mereka mengambil 
+napas dalam-dalam untuk mengurangi massa jenis tubuh dan mengapung 
+di permukaan. Kemudian, ketika ingin menyelam, mereka mengembuskan 
+sebagian udara dari paru-paru untuk meningkatkan massa jenis tubuh. Di 
+kedalaman tertentu, mereka dapat menjaga keseimbangan antara gaya 
+apung dan berat tubuh untuk melayang di bawah permukaan air tanpa 
+banyak usaha.
+Sumber: Tim Editor/era.id (2022); Dini Daniswari/regional.kompas.com (2022)
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+121
+Ayo Uji Kemampuan
+1. 
+Menurutmu, bagaimanakah cara agar dapat mengapung di permukaan 
+air saat berenang?
+2. 
+Mengapa seseorang yang menyelam ke dalam air yang terlalu dalam 
+dapat membahayakan tubuhnya? Bagian tubuh apa saja yang dapat 
+rusak? Jelaskan sesuai materi yang telah kalian dapat!
+3. 
+Bagaimana peralatan selam membantu kita berada lama di dalam air? 
+Jelaskan!
+4. 
+Sebuah perusahaan ingin merancang kapal laut yang mampu membawa 
+beban maksimal tanpa tenggelam. Kapal tersebut harus mengapung 
+di permukaan air laut dengan massa jenis 1.025 kg/m³. Kapal memiliki 
+volume total 500 m³. Tentukan massa maksimal beban yang dapat dibawa 
+oleh kapal tersebut tanpa tenggelam sepenuhnya! Jelaskan langkah-
+langkah penyelesaiannya dengan menerapkan hukum Archimedes!
+Ayo Bere昀氀eksi
+Sebelum melanjutkan ke subbab berikutnya, ini saatnya kalian berhenti 
+sejenak dan melihat kembali pertanyaan-pertanyaan yang telah kalian 
+diskusikan di awal bab ini. 
+1. 
+Apakah kalian sudah memahami pengertian tekanan pada zat padat 
+dan cair? Apakah kalian mengerti perbedaan di antara keduanya?
+2. 
+Apa saja hal yang ingin kalian ketahui lebih lanjut terkait dengan tekanan 
+zat padat dan cair?
+Berdiskusi dengan teman dan guru dapat membantumu melengkapi 
+pemahaman pada materi ini. Mencari tahu dari sumber belajar lain pun 
+dapat kalian lakukan. Ayo semangat, belajar sains itu sangat menarik.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+122
+C. 
+Tekanan Gas
+Perhatikan gambar di samping. Kalian 
+bisa melakukan percobaan menantang ter-
+sebut. Mula-mula, isilah gelas dengan air 
+hingga setengah bagian gelas, kemudian 
+tutup mulut gelas dengan selembar karton 
+tebal. Baliklah gelas tersebut dengan cepat 
+sehingga posisinya seperti pada gambar. 
+Apakah air di dalam gelas tidak tumpah? 
+Apa penyebab air tidak tumpah? Apakah 
+ketebalan kertas dan banyaknya air ber-
+pengaruh? Diskusikan bersama guru dan 
+kawan-kawan di kelas.
+Tekanan Udara
+Tekanan Air
+Gelas berisi air
+Kertas
+Gambar 4.18  Tekanan udara pada 
+kertas karton mampu menahan air 
+agar tidak tumpah.
+Hal menarik lain yang berkaitan dengan tekanan gas adalah besar gaya yang 
+dihasilkannya. Kalian dapat melakukan Aktivitas 4.4 yang menarik berikut.
+Aktivitas 4.4 
+Ayo Bereksperimen
+Membuat Balon Menggelembung Sendiri
+Isikan labu erlenmeyer dengan air secu-
+kupnya, kemudian pasangkan balon karet 
+sebagai tutupnya. Panaskan labu seperti 
+terlihat pada gambar di samping. Perhatikan 
+perubahan yang terjadi pada balon. Apakah 
+balon menjadi mengem bang? Mengapa 
+demikian? Apakah balon tersebut akan 
+meledak jika pemanasan terus dilakukan? 
+Tuliskanlah hasil penga matanmu.
+Gambar 4.19  Kondisi balon karet 
+pada erlenmeyer sebelum dan 
+sesudah dipanaskan.
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+123
+Bagaimana jika erlenmeyer dengan balon yang mengembang tersebut 
+dimasukkan ke dalam air dingin? Balon karet akan terlihat menyusut, bukan? Apa 
+yang menyebabkannya? Perambatan kalor pada partikel gas dalam erlenmeyer 
+akan merambat menuju air dingin. Pergerakan partikel gas semakin lama 
+menjadi lambat sehingga terjadi penyusutan. Penyusutan ini menyebabkan 
+tekanan gas di dalam erlenmeyer menjadi semakin rendah dibanding tekanan 
+gas di luar balon karet.
+Prinsip yang sama juga diterapkan pada balon udara seperti pada gambar 
+di samping. Massa jenis total dari balon udara lebih rendah dibanding massa 
+jenis udara di sekitarnya sehingga balon udara dapat terbang. Massa jenis balon 
+udara tersebut dikendalikan oleh besar temperatur udara di dalam balon dengan 
+menggunakan pembakar yang ada di bawah lubang balon. Dengan demikian, 
+seorang pilot balon udara haruslah lihai mengontrol temperatur udara di dalam 
+balon udara.
+Untuk membuat balon udara bergerak ke atas, udara dalam balon perlu 
+dipanaskan dengan pembakar sehingga berat balon menjadi lebih kecil 
+dibandingkan dengan gaya angkat ke atas. Perlu diingat bahwa udara panas 
+lebih ringan dari udara dingin. Bagaimana jika balon udara bergerak turun? 
+Udara dalam balon dapat dikurangi agar suhu udara dalam balon menurun. Gaya 
+ke atas pada balon adalah sama dengan berat udara dingin yang dipindahkan 
+oleh balon tersebut. Coba kalian ingat kembali hukum Archimedes yang telah 
+dipelajari sebelumnya.
+Gambar 4.20  Balon udara yang sedang mengudara akibat pembakaran di bagian 
+bawahnya.
+Sumber: fabrikasimf/freepik.com
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+124
+Ayo Uji Kemampuan
+Bagaimanakah prinsip kerja dari balon udara? Apakah balon udara dapat 
+pecah saat di udara? Berikanlah penjelasannya dengan singkat dan jelas!
+D. 
+Penerapan Tekanan Zat
+1. Hukum Pascal
+Pernahkan kalian melihat bagaimana seorang supir truk mengganti ban truk nya 
+yang bocor? Alat apakah yang ia gunakan untuk mengangkat bagian sisi truk 
+sehingga ban yang bocor dapat diganti? Saat di tempat pencucian mobil, apakah 
+kalian memerhatikan bagaimana mobil diangkat sehingga bagian kolong mobil 
+dapat dibersihkan? Alat apakah yang digunakan?
+Gambar 4.21  Pompa hidrolik digunakan untuk mengangkat mobil.
+Sumber: Schumak Equipment/Indiamart (2020)
+Mobil di tempat pencucian diangkat dengan mudah menggunakan pompa 
+hidrolik. Pompa hidrolik memanfaatkan prinsip tekanan. Walau hanya berisi 
+udara atau minyak, namun pompa hidrolik dapat mengangkat mobil yang sangat 
+berat. Penyebabnya adalah tekanan yang diberikan pada zat cair dalam ruang 
+tertutup akan diteruskan ke segala arah dengan besar yang sama. Hal tersebut 
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+125
+merupakan bunyi dari hukum Pascal. Hukum Pascal dikemukakan oleh Blaise 
+Pascal (1623–1662), seorang ahli matematika dan geometri. Coba perhatikan 
+gambar berikut untuk memahami penerapan hukum Pascal pada pompa hidrolik.
+F1
+F2
+A1
+A2
+P
+P
+P
+Gambar 4.22  Penerapan hukum Pascal pada pompa hidrolik.
+Jika pada penampang dengan luas A1 diberi gaya dorong F1, maka akan dihasilkan 
+tekanan P dengan rumus:
+P = F1
+A1
+(4.7)
+Menurut hukum Pascal, tekanan P tersebut diteruskan ke segala arah dengan 
+sama besar, termasuk ke luas penampang A2, sehingga pada penampang A2 
+berlaku:
+P = F2
+A2
+(4.8)
+Secara matematis, diperoleh persamaan pada dongkrak hidrolik sebagai berikut.
+P1 = P2, maka
+F1
+A1
+ = F2
+A2
+   atau   F2 = A2
+A1
+ × F1 
+(4.9)
+Keterangan:
+P = tekanan (N/m2)
+F1 dan F2 = gaya yang diberikan pada penampang 1 dan 2 (N)
+A1 dan A2 = luas penampang 1 dan 2 (m2)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+126
+Pada pompa hidrolik terdapat dua luas penampang yang berbeda, yaitu 
+luas penampang kecil (A1) dan besar (A2), seperti ditunjukkan pada Gambar 4.21. 
+Misalnya, pada penampang kecil yang memiliki luas (A1) 1 cm2 diberi gaya yang 
+kecil (F1) pula, yaitu 10 N, sehingga menghasilkan tekanan (P) sebesar 10 N/ cm2. 
+Tekanan 10 N/cm2 ini akan diteruskan menuju penampang besar dengan luas 
+(A2) 100 cm2, sehingga muncul gaya sebesar:
+F = A
+A
+F
+2
+2
+1
+1
+2
+2
+=100cm
+1 cm
+10N
+=1.000N
+×
+×
+Berdasarkan contoh tersebut dapat dilihat bahwa hanya dengan memberikan 
+gaya 10 N pada penampang kecil mampu dihasilkan gaya 1.000 N pada penampang 
+besar. Berdasarkan prinsip inilah pompa hidrolik dapat dengan mudah 
+mengangkat mobil yang cukup berat.
+2. Tekanan pada Makhluk Hidup
+Cobalah lakukan percobaan seperti pada Gambar 4.22. Gambar tersebut me-
+nunjukkan proses penyerapan air di dalam tumbuhan. Kalian dapat mengganti 
+sayuran sawi putih dengan benda-benda lain yang mudah menyerap air seperti 
+kertas tisu. Apa yang dapat kalian pelajari dari percobaan ini?
+Gambar 4.23  Percobaan untuk menguji pengangkutan zat di dalam tumbuhan.
+Sumber: pagingfunmums/sciencemicroblogs (2015)
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+127
+Tahukah kalian bahwa tumbuhan memiliki sistem pengangkutan yang 
+terdiri atas xilem dan 昀氀oem yang berbentuk seperti tabung pipa yang sangat 
+kecil? Melalui xilem, air dan mineral yang telah diserap oleh akar diangkut 
+menuju bagian batang dan daun tumbuhan. Lalu, zat makanan akan diangkut 
+melalui 昀氀oem ke bagian tumbuhan lain yang memerlukan.
+a. 
+Pengangkutan Air pada Tumbuhan
+Susunan jaringan pada akar terdiri atas jaringan terluar hingga terdalam. Air 
+masuk ke dalam tumbuhan melalui jaringan-jaringan tersebut. Rambut-rambut 
+akar menyerap air dari tanah atau media tanam. Melalui proses osmosis, air 
+masuk ke dalam sel epidermis. Kemudian berturut-turut air akan melalui korteks, 
+endodermis, dan perisikel. Selanjutnya, air masuk melalui jaringan xilem yang 
+berada di dalam akar. Dari xilem akar, air akan bergerak menuju xilem yang 
+ada di batang dan daun.
+Xilem
+Korteks
+Akar
+Endodermis
+Epidermis
+Rambut akar
+Air
+Gambar 4.24  Jalur pengangkutan air ketika masuk ke dalam akar.
+Sumber: Aryodhimar Khairu Trihasmoro & Bari Ardoko/Kemendikbudristek (2021)
+Bagaimana air dapat naik dari akar ke bagian tumbuhan lain yang lebih 
+tinggi tanpa proses pemompaan? Amati gambar berikut untuk memahami 
+pergerakan air dari akar menuju daun.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+128
+Atmosfer
+Stomata
+Molekul air
+Transpirasi
+Kohesi dan adhesi 
+dalam xilem
+Xilem
+Adhesi
+Kohesi
+Dinding 
+xilem
+Molekul air
+Xilem
+Akar
+Rambut akar
+Molekul air
+Tanah
+Gambar 4.25  Pengangkutan air dari akar menuju daun.
+Sumber: Aryodhimar Khairu Trihasmoro & Bari Ardoko/Kemendikbudristek (2021)
+Daya kapilaritas batang menyebabkan air dapat diangkut dari akar ke 
+bagian tumbuhan lain yang lebih tinggi, lalu diedarkan ke seluruh tubuh. Daya 
+kapilaritas ini dapat dibuktikan menggunakan pipa kapiler seperti pada Gambar 
+4.23. Pada gambar tersebut, tampak bahwa ketinggian air di tiap-tiap pipa kapiler 
+berbeda-beda. Semakin kecil diameter pipa, semakin tinggi ketinggian air.
+Gambar 4.26  Percobaan daya kapilaritas menggunakan pipa kapiler
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+129
+Daya kapilaritas yang dimiliki batang dipengaruhi oleh gaya kohesi dan 
+adhesi. Kohesi merupakan kecenderungan suatu molekul untuk berikatan 
+dengan molekul lain yang sejenis. Sedangkan adhesi adalah kecenderungan 
+suatu molekul untuk berikatan dengan molekul lain yang tidak sejenis. Air 
+dimanfaatkan oleh tumbuhan dalam proses fotosintesis. Pada daun, air juga 
+mengalami penguapan. Penguapan air oleh daun disebut traspirasi. Penggunaan 
+air oleh bagian daun akan menyebabkan terjadinya tarikan terhadap air yang 
+berada pada bagian xilem sehingga air yang ada di akar dapat naik ke daun.
+b. 
+Pengangkutan Nutrisi pada Tumbuhan
+Agar kebutuhan nutrisi di setiap bagian tumbuhan terpenuhi, dibutuhkan 
+suatu proses pengangkutan nutrisi hasil fotosintesis berupa gula dan asam 
+amino ke seluruh tubuh tumbuhan. Pengangkutan hasil fotosintesis dari daun 
+ke seluruh tubuh tumbuhan terjadi melalui pembuluh 昀氀oem. Pengangkutan 
+zat-zat hasil fotosintesis dimulai dari sumbernya, yaitu daun (daerah yang 
+memiliki konsentrasi gula tinggi) ke bagian tanaman lain yang dituju (daerah 
+yang memiliki konsentrasi gula rendah) dengan dibantu oleh sirkulasi air yang 
+mengalir melalui pembuluh xilem dan 昀氀oem (perhatikan Gambar 4.26).
+Tekanan gula rendah, 
+tekanan air rendah
+Tekanan gula tinggi, 
+tekanan air tinggi
+Floem
+Xilem
+Gula
+Gula
+Air
+Air
+Sel 
+penyimpanan
+Sel sumber
+Lempeng tapis
+Aliran air
+Sumber gula
+Gambar 4.27  Pengangkutan nutrisi hasil fotosintesis pada tumbuhan.
+Sumber: Aryodhimar Khairu Trihasmoro & Bari Ardoko/Kemendikbudristek (2021)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+130
+c. 
+Tekanan Darah pada Sistem Peredaran Darah Manusia
+Tekanan pada pembuluh darah manusia memiliki 
+prinsip kerja seperti hukum Pascal. Hal ini karena 
+tekanan pada pembuluh darah merupakan tekanan 
+yang berada pada ruang tertutup. Ketika jantung 
+memompa darah, darah akan mengalir melalui 
+pembuluh darah. Saat mengalir dalam pembuluh 
+darah, darah memberikan dorongan pada dinding 
+pembuluh darah yang disebut dengan tekanan 
+darah. Agar tekanan darah tetap terjaga, pembuluh 
+darah harus tetap terisi penuh oleh darah. Tekanan 
+darah diukur dengan menggunakan sebuah alat 
+bernama sphygmomanometer, ada pula yang 
+menyebutnya dengan tensimeter.
+Gambar 4.28  Sphygmomanometer digunakan untuk 
+mengukur tekanan darah. 
+Sumber: freepik/freepik.com
+Tekanan darah diukur pada bagian pembuluh nadi (arteri) besar yang biasanya 
+dilakukan di lengan atas, seperti pada gambar berikut.
+Gambar 4.29  Cara mengukur tekanan darah menggunakan stetoskop.
+Sumber: Aryodhimar Khairu Trihasmoro & Bari Ardoko/Kemendikbudristek (2021)
+Pada proses pengukuran tekanan darah juga berlaku hukum Pascal. Menurut 
+Pascal, tekanan yang diberikan kepada zat cair dalam ruang tertutup akan 
+diteruskan ke segala arah dengan besar yang sama. Dengan demikian, tekanan 
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+131
+darah yang berada pada bagian aorta, akan sama dengan tekanan yang ada pada 
+arteri atau pembuluh nadi yang ada di lengan atas atau bagian tubuh lainnya.
+d. 
+Tekanan Gas pada Proses Pernapasan Manusia
+Setiap menit, paru-paru dapat menyerap sekitar 250 ml O2 dan mengeluarkan 
+CO2 sebanyak 200 ml. Proses pertukaran antara O2 dengan CO2 terjadi secara 
+difusi, yaitu perpindahan zat terlarut dari daerah yang memiliki konsentrasi 
+dan tekanan parsial tinggi ke daerah yang memiliki konsentrasi dan tekanan 
+parsial rendah. 
+Tekanan parsial adalah tekanan yang diberikan oleh gas tertentu dalam 
+campuran gas tersebut. Pada sistem peredaran darah, tekanan parsial antara O2 
+dan CO2 bervariasi pada setiap organ. Darah yang masuk ke paru-paru melalui 
+arteri pulmonalis memiliki tekanan O2 yang lebih rendah dan tekanan CO2 yang 
+lebih tinggi dibandingkan udara di dalam alveoli (bentuk jamak: alveolus). 
+Gambar 4.30  Difusi gas pada proses pernapasan dan sirkulasi darah.
+Sumber: Aryodhimar Khairu Trihasmoro & Bari Ardoko/Kemendikbudristek (2021)
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+132
+Pada saat darah tiba di jaringan tubuh, O2 dalam darah tersebut mengalami 
+difusi menuju jaringan tubuh. Kandungan CO2 dalam jaringan tubuh lebih besar 
+daripada kandungan CO2 dalam darah, sehingga CO2 dalam jaringan tubuh 
+mengalami difusi ke dalam darah. Setelah melepaskan O2 dan membawa CO2 
+dari jaringan tubuh, darah kembali menuju jantung dan dipompa lagi ke paru-
+paru (perhatikan Gambar 4.29).
+Aktivitas 4.5 
+Ayo Berkreasi
+Membuat Paru-Paru Buatan
+Kalian akan coba mengamati cara kerja paru-paru manusia melalui pem-
+buatan model paru-paru dengan bahan-bahan sederhana.
+Alat dan bahan:
+1. 
+Botol plastik bekas air mineral ukuran 1,5 liter
+2. 
+Dua buah balon ukuran sedang
+3. 
+Satu buah balon ukuran kecil (untuk diafragma)
+4. 
+Sedotan plastik atau pipet
+5. 
+Pita perekat atau selotip
+6. 
+Gunting
+Langkah percobaan:
+1. 
+Gunakan gunting untuk memotong bagian bawah botol plastik. Pastikan 
+botol dalam keadaan bersih dan kering sebelum dipotong.
+2. 
+Ambil dua balon ukuran sedang, potong bagian lehernya.
+3. 
+Ikatkan leher balon tersebut ke mulut dua sisi sedotan atau pipet dengan 
+menggunakan pita perekat. Pastikan kedua balon terpasang dengan 
+rapat, tidak ada udara yang keluar. 
+4. 
+Masukkan sedotan yang terpasang balon ke dalam botol plastik yang 
+telah dipotong bagian bawahnya. Posisi balon berada di dalam botol.
+5. 
+Ambil balon ukuran kecil, potong bagian lehernya. Kemudian, tarik dan 
+lebarkan potongan balon tersebut hingga menutupi bagian bawah botol 
+yang terbuka. Ini akan berfungsi sebagai diafragma.
+  Bab IV Teknologi Penerapan Tekanan pada Zat
+133
+Pipa kaca
+Balon
+Ditutup dengan 
+potongan karet 
+balon
+Diikat dengan 
+karet gelang
+Botol plastik yang 
+dipotong bagian 
+bawahnya
+Gambar 4.31  Paru-paru buatan dengan bahan-bahan sederhana.
+Demonstrasi cara kerja:
+Untuk menunjukkan cara kerja paru-paru buatan, tarik dan dorong balon 
+kecil (diafragma). Ketika diafragma ditarik ke bawah, udara akan masuk me-
+lalui sedotan dan mengembangkan kedua balon di dalam botol (paru-paru). 
+Sebaliknya, ketika diafragma didorong ke atas, paru-paru akan mengempis.
+Tuliskan hasil pengamatan dan kesimpulan yang kalian dapat. Persentasikan 
+hasil percobaan tersebut di depan kelas.
+Projek Akhir Bab
+Bayangkan kalian bekerja di suatu perusahaan kapal selam yang beroperasi 
+khusus untuk mendukung penelitian dasar laut Indonesia. Rancanglah suatu 
+kapal selam yang memiliki kemampuan membawa peralatan canggih untuk 
+pemetaan dasar laut Indonesia serta para ilmuwan yang akan bekerja selama 
+kurun waktu yang cukup lama. Oleh karena itu, kapal selam buatanmu 
+harus mampu membawa beban berat dengan aman dan mampu menyelam 
+lebih lama di dasar laut. 
+ 
+Sebagai awal dari cita-cita kalian tersebut, cobalah rancang model kapal 
+selam menggunakan botol plastik dan bahan-bahan lain di sekitarmu. Selama 
+percobaan, catatlah data-data percobaan yang kalian lakukan, kemudian 
+buatlah laporan lengkap.
+Ilmu Pengetahuan Alam (Edisi Revisi)
+untuk SMP/MTs Kelas VIII
+134
+Ayo Bere昀氀eksi
+Di sinilah akhir dari petualangan kita mempelajari Bab Teknologi Penerapan 
+Tekanan pada Zat. Sekarang, saatnya kalian melihat lagi sejauh mana 
+pengetahuan dan pemahaman yang kalian dapat. 
+1. 
+Apakah ada pertanyaan yang belum terjawab setelah kalian mempelajari 
+bab ini?
+2. 
+Apa hal terpenting yang kalian pelajari pada bab ini?
+3. 
+Kegiatan pembelajaran manakah yang paling menambah pemahaman 
+kalian tentang konsep tekanan zat cair?
+4. 
+Sikap apakah yang kalian kembangkan dalam bab ini dikaitkan dengan 
+berbagai Pro昀椀l Pelajar Pancasila?

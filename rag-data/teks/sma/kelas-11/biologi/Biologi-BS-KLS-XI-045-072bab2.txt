@@ -1,0 +1,727 @@
+Sumber gambar: kawalingpinoy.com/lalaine manalo (2018)
+Tahukah Kalian, bagaimana manusia dapat menambahkan rasa pada makanan yang 
+berasal dari hewan maupun tumbuhan? Bagaimana zat perasa dan zat lainnya dapat 
+masuk maupun keluar dari dan ke dalam sel penyusun jaringan organisme?
+Bab 2
+Pergerakan Zat melalui 
+Membran Sel
+Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi 
+Republik Indonesia, 2022
+Biologi untuk SMA/MA Kelas XI
+Penulis: Rini Solihat, dkk. 
+ISBN: 978-602-427-893-9
+Biologi untuk SMA/MA Kelas XI
+30
+Tujuan Pembelajaran
+Setelah mempelajari Bab ini, Kalian diharapkan mampu 
+menjelaskan pergerakan zat melalui membran plasma/membran 
+sel melalui kegiatan penyelidikan.
+Kata Kunci
+•	 Difusi
+•	 Difusi terfasilitasi 
+•	 Gradien konsentrasi
+•	 Membran plasma/membran sel 
+•	 Osmosis
+•	 Pergerakan zat
+•	 Transpor pasif
+•	 Transpor aktif
+Bab 2 | Pergerakan Zat melalui Membran Sel
+31
+Pergerakan zat antara sel dan lingkungan sekitarnya
+Pasif
+Aktif
+Contoh:  
+transpor 
+air dari 
+tanah yang 
+diserap 
+oleh akar 
+tanaman
+Mengikuti 
+gradient 
+konsentrasi
+Melawan 
+gradient 
+konsentrasi
+Osmosis
+Difusi 
+Sederhana
+Direct Active 
+Transport
+Indirect Active 
+Transport
+Difusi 
+Terfasilitasi
+Protein 
+Kanal
+Protein 
+Transporter
+dikendalikan
+terjadi
+meliputi
+meliputi
+terjadi
+sifat pergerakan zat
+Membran plasma/
+membran sel
+Contoh:  
+transpor 
+oksigen dan 
+karbon dioksida 
+antara alveolus 
+dengan kapiler 
+darah.
+Contoh:  
+transpor  
+Na+ - K+
+Contoh:  
+transpor  
+glukosa di  
+sel-sel epitel
+Contoh:  
+transpor senyawa-
+senyawa protein
+Contoh:  
+transpor 
+asetilkolin
+Peta Konsep
+Biologi untuk SMA/MA Kelas XI
+32
+Pernahkah Kalian makan manisan mangga? Apakah ada produk 
+makanan olahan serupa dengan manisan buah mangga seperti Gambar 
+pengantar Bab 2? Apakah Kalian tahu bagaimana cara membuatnya? 
+Manisan mangga terbuat dari mangga mentah, namun ketika sudah 
+menjadi manisan, daging buahnya menjadi lebih lunak. Menurut 
+Kalian mengapa demikian? Telusuri literatur tentang cara pembuatan 
+manisan buah atau tanyakan cara membuat manisan tersebut kepada 
+keluarga di rumah. Apa saja tahapan untuk membuat manisan mangga 
+basah? Tahapan manakah yang menyebabkan manisan mangga lebih 
+lunak dan lebih manis? Apakah yang sebenarnya terjadi ketika tahap 
+tersebut dilakukan? 
+i
+Ayo Mengingat Kembali
+  
+Di Bab I Kalian mengetahui bahwa setiap unit sel organisme 
+diselubungi oleh membran plasma. Salah satu fungsi membran 
+plasma adalah mengendalikan pergerakan zat yang masuk dan 
+keluar sel. Fungsi tersebut didukung oleh struktur membran 
+plasma, benarkah demikian?
+Pergerakan zat yang berupa molekul kecil dan ion dari dalam 
+sel ke luar sel atau sebaliknya terjadi melalui membran plasma. 
+Bagaimanakah keterkaitan antara struktur membran plasma dengan 
+proses pergerakan zat? Mengapa pertukaran zat melalui membran 
+plasma penting untuk organisme?
+Ayo Bereksplorasi
+ 
+Aktivitas 2.1
+Jika Kalian lupa hubungan antara struktur dan fungsi membran 
+plasma, pelajari kembali model struktur membran plasma pada 
+Gambar 2.1 berikut! 
+Bab 2 | Pergerakan Zat melalui Membran Sel
+33
+Gambar 2.1 Model struktur membran plasma.
+Berdasarkan Gambar 2.1, jawablah pertanyaan-pertanyaan 
+berikut!
+1.	 Berdasarkan kemampuannya dalam berikatan dengan zat 
+tertentu, ada dua bagian di struktur membran plasma. Bagian 
+apakah yang dimaksud?
+2.	 Apa sajakah komponen struktur membran plasma yang dapat 
+Kalian identifikasi di kedua bagian struktur membran? 
+3.	 Apakah Kalian mengetahui fungsi spesifik dari setiap 
+komponen struktur membran plasma tersebut? Jika belum 
+tahu, Kalian dapat membaca referensi dari sumber pustaka 
+yang lain dan jangan lupa untuk mencatat sumber pustaka 
+tersebut.
+Biologi untuk SMA/MA Kelas XI
+34
+Setelah melaksanakan Aktivitas 2.2, Kalian sudah mengetahui 
+bahwa setiap komponen struktur membran plasma diketahui 
+memiliki fungsi yang spesifik. Selain dukungan fungsi spesifik 
+komponen struktur membran tersebut, adakah faktor lain yang 
+memengaruhi proses transpor zat melintasi membran plasma?
+Terdapat dua cara utama agar zat dapat bergerak melintasi 
+membran plasma. Sifat pergerakan zat tersebut dibedakan berdasarkan 
+penggunaan energi sel (Jones et al., 2007; Kennedy et al., 2009; 
+Thibodeau & Patton, 2000; Morgan & Carter, 2005). Cermati diagram 
+analogi penggunaan energi sel dalam pergerakan zat berikut ini, 
+apakah persamaan dan perbedaan dari Gambar 2.2 (a) dan 2.1(b)?
+Gambar 2.2 Analogi penggunaan energi dalam pergerakan zat  
+ketika melintasi membran plasma
+Apakah yang menentukan digunakan atau tidaknya energi sel 
+dalam peristiwa transpor zat melintasi membran plasma/membran 
+sel? Apakah ada hubungannya dengan struktur membran plasma yang 
+dilintasi zat? Apakah ada hubungan dengan jenis dan konsentrasi zat 
+yang melintasi membran plasma?
+A.	Transpor Pasif
+1.	 Osmosis
+Tahukah Kalian bahwa manisan mangga dibuat dari mangga muda 
+yang daging buahnya masih keras lalu direndam di dalam air gula? 
+Setelah beberapa saat direndam dalam larutan gula, daging buah 
+(a) Tranpor pasif
+(b) Tranpor aktif
+Bab 2 | Pergerakan Zat melalui Membran Sel
+35
+mangga menjadi agak lunak. Apakah lunaknya daging buah mangga 
+yang diolah menjadi manisan terjadi karena perendaman dalam 
+larutan gula? Mengapa demikian? Apakah terjadi perubahan struktur 
+sel penyusun daging buah mangga tersebut sebelum dan sesudah 
+direndam larutan gula?
+Untuk 
+mengetahui 
+jawaban 
+dari 
+pertanyaan-pertanyaan 
+tersebut, Kalian dapat merencanakan penyelidikan bersama anggota 
+kelompokmu. Lakukan Aktivitas 2.4, jika Kalian sudah memiliki 
+dugaan sementara terhadap jawaban pertanyaan-pertanyaan tersebut. 
+Namun, jika masih belum yakin terhadap dugaan sementara yang 
+Kalian rumuskan, lakukan Aktivitas 2.3 terlebih dahulu.
+Ayo Bereksplorasi
+ 
+Aktivitas 2.2
+Bacalah literatur pendukung tentang proses pembuatan manisan 
+dari bahan buah-buahan dan penelitian-penelitian yang dilakukan 
+terkait pembuatan manisan tersebut. Kalian dapat menggunakan 
+bahan bacaan yang ada di perpustakaan atau menelusuri bahan 
+bacaan melalui mesin pencari di website yang terpercaya melalui 
+internet.
+Berikut adalah tautan contoh sumber bahan bacaan yang 
+dapat Kalian telusuri melalui tautan: http://ringkas.kemdikbud.
+go.id/TeknologiPengolahan
+Sumber: repository.ipb.ac.id (2022)
+Biologi untuk SMA/MA Kelas XI
+36
+Untuk tautan lain dapat Kalian lihat melalui tautan berikut ini:
+http://repository.pertanian.go.id/
+https://ejournal.undiksha.ac.id/index.php/JJPKK/article/view/22155
+Berdasarkan penelusuran Kalian terhadap literatur yang 
+ada, tahapan apa sajakah yang harus dilakukan saat pembuatan 
+manisan buah? Apakah yang menyebabkan buah yang muda 
+menjadi lebih lunak dan lebih manis ketika diolah menjadi 
+manisan?
+Berdasarkan penelusuran literatur yang sudah dilakukan, 
+selanjutnya kalian merencanakan kegiatan penyelidikan tentang 
+proses yang terjadi ketika pengolahan manisan buah dilakukan. 
+Kalian sudah mengetahui ada faktor-faktor yang memengaruhi 
+proses pengolahan manisan buah tersebut. Apa sajakah faktor-
+faktor yang memengrauhi proses pengolahan manisan buah 
+tersebut? Benarkah terdapat pergerakan zat dari dan keluar dari 
+sel sel penyusun daging buah tersebut ketika pengolahan manisan 
+buah dilakukan?
+Ayo Mencoba 
+Ayo Berkomunikasi 
+Aktivitas 2.4
+Sewaktu di SMP Kalian telah mengetahui bahwa jika ingin 
+melakukan aktivitas penyelidikan terdapat tahapan yang harus 
+dipersiapkan. Jika kalian akan melakukan penyelidikan terkait 
+pengolahan manisan buah basah, apa sajakah persiapan yang 
+harus disiapkan? Variabel apa sajakah yang harus Kalian amati? 
+Bagaimana Kalian akan menyelidikinya?
+1.	 Rancanglah penyelidikan bersama dengan teman dalam satu 
+kelompok Kalian di kelas. 
+2.	 Diskusikan dan konsultasikan rencana penyelidikan yang 
+akan Kalian lakukan dengan Bapak/Ibu Guru di kelas.
+Bab 2 | Pergerakan Zat melalui Membran Sel
+37
+Berikut contoh tabel rencana penyelidikan yang dapat Kalian 
+gunakan!
+Tabel 2.1 Rencana Penyelidikan
+Judul 
+Rumusan Masalah
+Tujuan
+Alat dan Bahan
+Waktu penyelidikan
+Prosedur penyelidikan
+Rencana penyajian data
+Ayo Mencoba 
+Aktivitas 2.5
+Setelah Kalian menyusun rancangan penyelidikan dan mendapat 
+masukan dari guru Kalian, lakukan penyelidikan Kalian. 
+Penyelidikan dapat Kalian lakukan di laboratorium sekolah 
+dengan bimbingan guru. Bagaimana hasil penyelidikan Kalian? 
+Apakah yang Kalian pahami dari hasil penyelidikan Kalian 
+terkait konsep transpor zat? Apakah benar transpor zat melintasi 
+membran plasma/membran sel penting untuk organisme? 
+1.	 Sampaikan temuan Kalian dalam diskusi kelas!
+2.	 Buatlah laporan hasil penyelidikan kelompok Kalian secara 
+tertulis!
+Setelah Kalian melakukan penyelidikan tentang proses osmosis, 
+pelajari dengan cermat Gambar 2.6 untuk memperkuat pemahaman 
+Kalian!
+Biologi untuk SMA/MA Kelas XI
+38
+Ayo Berpikir kritis
+ 
+Aktivitas 2.6
+Gambar 2.3 Representasi proses osmosis
+Berdasarkan Gambar 2.3 jawab pertanyaan berikut ini!
+1.	 Bandingkan konsentrasi molekul air dalam tabung U yang terpisah 
+oleh membran semi permiabel. Apakah sama atau berbeda? 
+2.	 Bagaimana kecenderungan air akan berpindah tempat (potensial 
+air) dalam tabung U tersebut menurut Kalian?
+3.	 Sebutkan arah perpindahan molekul air yang terlihat ketika osmosis 
+terjadi!
+4.	 Apakah yang terjadi dengan molekul zat terlarut yang ada di dalam 
+tabung U tersebut?
+Diskusikan jawaban Kalian tentang proses osmosis ini dengan teman 
+dalam satu kelompok di kelas. Sampaikan hasil diskusi Kalian kepada 
+bapak/ibu guru.
+Bab 2 | Pergerakan Zat melalui Membran Sel
+39
+Berdasarkan Gambar 2.3 Kalian dapat melihat bahwa ada 
+pergerakan molekul air. Pergerakan molekul air terjadi karena gerak 
+acak molekul serta kondisi larutan yang konsentrasi larutannya lebih 
+encer menuju larutan yang konsentrasinya lebih pekat. Pergerakan 
+molekul air melalui membran semi permiabel itulah yang kita kenal 
+sebagai proses osmosis. 
+Osmosis dikenal sebagai proses yang terjadi di tingkat seluler dalam 
+organisasi makhluk hidup. Bagaimanakah osmosis terjadi dalam sel 
+hewan dan tumbuhan? Apakah ada perbedaan respons sel hewan 
+dan sel tumbuhan terhadap perbedaan konsentrasi zat terlarut di 
+lingkungan sekitarnya?
+Ayo Berpikir kritis
+ 
+Aktivitas 2.7
+Berdasarkan Gambar 2.4, bagaimana perbandingan antara konsentrasi 
+zat terlarut di luar membran sel dan zat terlarut di dalam sel? Mengapa 
+hal tersebut dapat terjadi?
+Gambar 2.4 Representasi diagram sel dalam kondisi yang berbeda:  
+(a) hipertonik, (b) hipotonik, (c) isotonik 
+Perbedaan konsentrasi zat terlarut di dalam dan di luar sel 
+menyebabkan perbedaan osmolaritas. Osmolaritas menggambarkan 
+konsentrasi total zat terlarut dalam suatu larutan. Tiga istilah yang 
+digunakan untuk menjelaskan osmolaritas relatif antar larutan adalah 
+hipertonik, hipotonik dan isotonik. (Morgan & Carter, 2005; Kennedy 
+et al., 2009).
+Biologi untuk SMA/MA Kelas XI
+40
+Isotonik terjadi jika konsentrasi zat terlarut di lingkungan luar sel 
+sama dengan konsentrasi zat terlarut dalam sel (Kennedy et al., 2009). 
+Lebih lanjut dikemukakan bahwa hipotonik terjadi jika konsentrasi zat 
+terlarut dalam sel lebih rendah dibandingkan konsentrasi zat terlarut di 
+lingkungan luar sel. Bagaimana dengan hipertonik? Hipertonik terjadi 
+jika konsentrasi zat terlarut di dalam sel lebih tinggi dibandingkan 
+konsentrasi zat terlarut di lingkungan luar sel.
+Kalian sudah tahu bahwa osmosis terjadi dalam sel organisme hidup. 
+Untuk mengetahui perbedaan respons sel hewan dan sel tumbuhan 
+terhadap perbedaan konsentrasi zat terlarut di lingkungan sekitarnya, 
+ayo lakukan Aktivitas 2.8!
+Ayo Berpikir kritis
+ 
+Aktivitas 2.8
+ 
+Bandingkan kondisi sel hewan dan sel tumbuhan dalam kondisi 
+konsentrasi larutan yang berbeda melalui Gambar 2.5 (a) , (b), dan 
+(c). Cermati arah pergerakan H2O dan kondisi struktur sel ketika 
+osmosis terjadi.  
+(a) Sel hewan dan sel tumbuhan dalam larutan isotonik.
+Bab 2 | Pergerakan Zat melalui Membran Sel
+41
+ (b) Sel hewan dan sel tumbuhan dalam larutan hipotonik.
+(c) Sel hewan dan sel tumbuhan dalam larutan hipertonik.
+Gambar 2.5 Representasi sel hewan dan sel tumbuhan dalam berbagai 
+konsentrasi larutan yang berbeda.
+Biologi untuk SMA/MA Kelas XI
+42
+Berdasarkan Gambar 2.5, coba bandingkan kondisi sel tumbuhan 
+dan sel hewan dalam larutan yang memiliki konsentrasi zat terlarut 
+berbeda.Tuliskan jawaban Kalian dalam Tabel 2.2 berikut ini.
+Tabel 2.2 Perbandingan Sel Tumbuhan dan Sel Hewan yang Ada dalam  
+Larutan dengan Konsentrasi yang Berbeda
+Sel
+Ukuran sel
+Konsentrasi larutan
+Arah perpindahan 
+molekul air
+Isotonik
+Hipotonik
+Hipertonik
+Ayo Bereksplorasi
+ 
+Ayo Berkomunikasi 
+Aktivitas 2.9
+Untuk memperkuat pemahaman Kalian tentang osmosis, coba 
+cermati penjelasan osmosis di tautan berikut https://youtu.be/
+SrON0nEEWmo tentang The Naked Egg and Osmosis. Bagaimana 
+penyelidikan yang Kalian amati? Apakah Kalian tertarik untuk 
+melakukan penyelidikan serupa dengan yang Kalian simak dalam 
+video tersebut?
+1.	 Rumuskan pertanyaan-pertanyaan terkait percobaan osmosis 
+yang ditunjukkan dalam video yang ingin Kalian ketahui 
+jawabannya. Pertanyaan-pertanyaan tersebut dapat terkait 
+dengan faktor-faktor yang memengaruhi osmosis.
+2.	 Apakah pertanyaan Kalian dapat dijawab dengan melakukan 
+penyelidikan? Gunakan penjelasan dari literatur/bahan 
+bacaan terpercaya yang dapat mendukung pendapat Kalian.
+3.	 Pilih satu pertanyaan untuk diselidiki jawabannya, dan 
+konsultasikan kepada bapak/ibu guru di kelas.
+4.	 Setelah 
+pertanyaan 
+Kalian 
+terpilih, 
+buatlah 
+rencana 
+penyelidikan untuk menjawab pertanyaan Kalian.
+Berikut contoh tabel rencana penyelidikan yang dapat Kalian 
+gunakan!
+Bab 2 | Pergerakan Zat melalui Membran Sel
+43
+Tabel 2.3 Rencana Penyelidikan 
+Judul Penyelidikan
+Rumusan Masalah
+Latar belakang pemilihan masalah
+Alat dan Bahan
+Prosedur penyelidikan
+Rencana penyajian data
+Kemungkinan permasalahan yang 
+dihadapi ketika melaksanakan 
+penyelidikan.
+1.	 Selanjutnya, diskusikan rencana penyelidikan yang sudah 
+Kalian rancang dengan teman dalam satu kelompok, tuliskan 
+tantangan/permasalahan yang mungkin akan Kalian hadapi 
+untuk melakukan rencana penyelidikan tersebut
+2.	 Konsultasikan rencana penyelidikan hasil diskusi dalam 
+kelompok kepada Bapak atau Ibu guru. Sampaikan alasan 
+Kalian mengapa mengambil keputusan untuk melakukan 
+rencana penyelidikan tersebut.
+Ayo Mencoba
+ 
+Aktivitas 2.10
+1.	 Lakukanlah penyelidikan secara berkelompok berdasarkan 
+rencana penyelidikan Aktivitas 2.9 yang sudah disetujui oleh 
+guru Kalian.  
+2.	 Tuliskan kesulitan yang Kalian hadapi ketika melakukan 
+penyelidikan dan konsultasikan kepada ibu atau bapak guru 
+untuk mencari solusinya.
+3.	 Buatlah laporan tertulis mengikuti panduan penyusunan 
+laporan di sekolah Kalian. 
+4.	 Siapkan bahan untuk presentasi laporan dalam diskusi kelas.
+Biologi untuk SMA/MA Kelas XI
+44
+2.	 Difusi Sederhana
+Berdasarkan materi sebelumnya Kalian sudah mengetahui bahwa 
+zat yang melakukan pergerakan pada osmosis adalah molekul air. 
+Bagaimana dengan transpor zat lainnya? Apakah zat lain selain air 
+dapat melintasi membran plasma? Bagaimana transpor zat tersebut 
+terjadi?
+Ayo Berpikir kritis
+ 
+Ayo Mencoba 
+Aktivitas 2.11
+ 
+Siapakah yang suka minum teh panas? Apakah Kalian membuat teh 
+panas Kalian sendiri? Apakah Kalian pernah memikirkan fenomena 
+menarik yang terlihat ketika teh tersebut diseduh dengan air panas? 
+Ayo amati Gambar 2.6 dengan saksama! Kalian dapat berdiskusi dengan 
+teman Kalian untuk melakukan Aktivitas 2.11!
+	
+(a)	
+(b)	
+(c)	
+(d)
+Gambar 2.6 Proses penyeduhan teh celup dalam air panas.
+Sumber: Geofanny Lius (2022)
+1.	 Bandingkan Gambar 2.6 a, b, c, dan d.
+2.	 Adakah hal yang ingin Kalian tanyakan terkait Gambar 2.6? tuliskan 
+pertanyaan Kalian dalam buku catatan. 
+3.	 Menurut Kalian, apakah yang menyebabkan perubahan warna air 
+mulai dari Gambar 2.6 a sampai terlihat perubahannya seperti di 
+Gambar 2.6 d? 
+4.	 Faktor-faktor apakah yang memengaruhi proses tersebut?
+5.	 Untuk meyakinkan Kalian terkait proses ini, Kalian dapat melakukan 
+hal serupa di Gambar 2.6 dan mengamati fenomena yang terjadi.
+6.	 Sampaikan hasil pengamatan serta hasil diskusi Kalian kepada 
+ibu atau bapak guru! Apakah fenomena yang kalian amati sendiri  
+sesuai dengan gambar 2.6?
+Bab 2 | Pergerakan Zat melalui Membran Sel
+45
+Pergerakan zat dari konsentrasi yang tinggi ke konsentrasi yang 
+lebih rendah itu dikenal sebagai difusi (Kennedy et al., 2009). Aktivitas 
+2.11 yang Kalian lakukan merupakan salah satu contoh terjadinya 
+proses difusi. Amati Gambar 2.7 dengan saksama, apakah yang terjadi 
+ketika difusi? 
+Gambar 2.7 Model diagram difusi.
+Difusi merupakan pergerakan zat (selain air) melintasi membran 
+dari konsentrasi yang tinggi ke konsentrasi yang lebih rendah. Coba 
+amati Gambar 2.8 dengan saksama!
+Ayo Berpikir kritis
+ 
+Aktivitas 2.12
+ 
+Gambar 2.8 Representasi grafik proses difusi sederhana.
+Biologi untuk SMA/MA Kelas XI
+46
+Berdasarkan Gambar 2.8, jawablah pertanyaan-pertanyaan 
+berikut!
+1.	 Variabel (keterangan) apakah yang ditunjukkan oleh sumbu x 
+dan sumbu y dalam grafik tersebut?
+2.	 Perhatikan arah pergerakan zat, dari titik mana zat itu mulai 
+bergerak? 
+3.	 Perhatikan titik A dan titik B lalu bandingkan konsentrasi 
+zat di kedua titik tersebut! Di titik manakah konsentrasi zat 
+terlihat lebih tinggi? Di titik manakah konsentrasi zat terlihat 
+lebih rendah?
+4.	 Perhatikan garis merah di Gambar 2.8, garis tersebut 
+menunjukkan gradien konsentrasi zat, bagaimana hubungan 
+antara pergerakan zat dan gradien konsetrasi?  
+Latihan 2.1
+Setelah Kalian menjawab pertanyaan-pertanyaan pada Aktivitas 
+2.12, dapatkah Kalian mendeskripsikan dengan kalimat sendiri 
+apa yang dimaksud dengan difusi sederhana? 
+Difusi adalah .…
+Setelah memahami konsep difusi sederhana, selanjutnya Kalian 
+cari tahu apakah difusi terjadi dalam organisme? Apakah difusi 
+dalam organisme penting? Sebutkan contoh lain difusi dalam 
+organisme!
+Bab 2 | Pergerakan Zat melalui Membran Sel
+47
+Ayo Berpikir kritis
+ 
+Aktivitas 2.13
+ 
+Amati Gambar 2.9 dengan  saksama!
+Gambar 2.9 Representasi diagram pertukaran oksigen dan karbondioksida 
+melalui difusi Paru paru manusia.
+Berdasarkan Gambar 2.9 diskusikan dan jawablah pertanyaan-
+pertanyaan berikut!
+1.	 Bandingkan konsentrasi oksigen di dalam alveolus dan sel 
+darah merah di dalam pembuluh kapiler, manakah yang 
+konsentrasi oksigennya lebih tinggi?
+2.	 Bandingkan konsentrasi karbon dioksida di alveolus dan 
+dalam sel darah merah dalam pembuluh  kapiler, manakah 
+yang konsentrasi karbon dioksidanya lebih tinggi?
+3.	 Bagaimana perpindahan atau pergerakan oksigen dan karbon 
+dioksida?
+4.	 Apakah yang akan terjadi jika pertukaran oksigen dan karbon 
+dioksida di alveolus dan kapiler darah tersebut terganggu? 
+Biologi untuk SMA/MA Kelas XI
+48
+Faktor apa sajakah yang dapat menyebabkan gangguan 
+pertukaran oksigen dan karbon dioksida? Perkuat pendapat 
+Kalian dengan penjelasan konsep dari literatur/bahan bacaan 
+yang tersedia
+Oksigen dan karbon dioksida dalam paru-paru dan pembuluh 
+kapiler manusia merupakan contoh difusi yang terjadi di tingkat 
+organisasi seluler dalam organisme. Dapatkah Kalian menyebutkan 
+fenomena lain difusi sederhana dalam kehidupan sehari-hari?
+3.	 Difusi Terfasilitasi
+Selain difusi sederhana yang telah dijelaskan sebelumnya, ada difusi 
+lain yaitu difusi terfasilitasi (facilitated diffusion). Cermati ada dua 
+kata yang tersusun yaitu difusi dan terfasilitasi. Sebelumnya Kalian 
+telah memahami konsep difusi. Bagaimana dengan terfasilitasi? 
+Apa yang dimaksud dengan difusi terfasilitasi? Zat apa sajakah yang 
+pergerakannya difasilitasi? Mengapa zat tertentu  harus  “difasilitasi” 
+pergerakannya? 
+Ayo Berpikir kritis
+ 
+Aktivitas 2.14
+ 
+Pelajari Gambar 2.10 berikut ini. Ingat kembali struktur membran 
+plasma yang sudah Kalian pelajari di bab sebelumnya.
+Gambar 2.10 Representasi model difusi terfasilitasi glukosa. 
+Lingkungan luar sel
+membran sel
+lingkungan dalam sel
+Bab 2 | Pergerakan Zat melalui Membran Sel
+49
+Apakah Kalian tahu peran glukosa dalam tubuh? Glukosa berperan 
+sebagai sumber energi sel. 
+Berdasarkan Gambar 2.10 jawab pertanyaan berikut ini!
+1.	 Bagaimana perbandingan konsentrasi glukosa di luar dan di 
+dalam sel?
+2.	 Perhatikan arah panah pergerakan glukosa, dari mana glukosa 
+bergerak? 
+3.	 Komponen apa dari struktur membran plasma yang dilalui 
+glukosa ketika bergerak?
+4.	 Mengapa pergerakan glukosa harus difasilitasi oleh komponen 
+tertentu dari struktur membran plasma?
+5.	 Mungkinkah terjadi gangguan terhadap pergerakan glukosa? 
+Apakah yang terjadi jika terdapat gangguan terhadap proses 
+pergerakan glukosa ketika melintasi membran plasma?
+Molekul glukosa diketahui memiliki ukuran “terlalu besar” untuk 
+melalui membran plasma tanpa bantuan. Terdapat komponen khusus 
+dari struktur membran plasma yang membantu pergerakannya. 
+Difusi terfasilitasi terjadi karena adanya bantuan (difasilitasi oleh) 
+saluran transpor membran Gambar 2.10. Saluran transpor membran 
+ini berupa glikoprotein yang memungkinkan zat tertentu melintasi 
+membran plasma.  Saluran ini hampir selalu spesifik untuk molekul 
+tertentu atau jenis molekul tertentu. 
+Sebagai contoh dikenal transporter glukosa (Glucose Transporters/
+GLUT). GLUT merupakan suatu protein yang dapat mengangkut 
+glukosa dari luar sel masuk ke dalam sel dan berperan penting dalam 
+menjaga homeostatis glukosa tubuh. Glukosa transporter-2 (GLUT-
+2) terdapat pada pankreas, hati dan ginjal (Teodhora et al., 2021). 
+Apakah konsentrasi glukosa di aliran darah terus menerus lebih tinggi 
+dibandingkan konsentrasi glukosa dalam sel?
+Biologi untuk SMA/MA Kelas XI
+50
+Latihan 2.1
+Berdasarkan jawaban Kalian terhadap pertanyaan-pertanyaan 
+tersebut, dapatkah Kalian menjelaskan perbedaan antara difusi 
+sederhana dan difusi terfasilitasi? 
+Tabel 2.4 Perbedaan Difusi Sederhana dan DIfusi Terfasilitasi.
+Hal pembeda
+Difusi sederhana
+Difusi terfasilitasi
+1. ……………………
+2 ………………………
+dst.
+B.	Transpor Aktif
+Setelah sebelumnya Kalian memahami transpor zat yang terjadi secara 
+pasif, berikut ini Kalian akan mempelajari transpor zat yang dilakukan 
+secara aktif, atau dikenal sebagai transpor aktif. Adakah yang sudah 
+tahu apa yang dimaksud dengan transpor aktif? Zat apa saja yang harus 
+menggunakan transpor aktif dalam pergerakannya? Untuk  menjawab 
+rasa ingin tahumu, ayo lakukan Aktivitas 2.15!
+Ayo Berpikir kritis
+ 
+Ayo Berkerja Sama 
+Aktivitas 2.15
+ 
+Perhatikan Gambar 2.11 dengan saksama!
+Gambar 2.11 Representasi perbedaan transpor aktif dan difusi
+Bab 2 | Pergerakan Zat melalui Membran Sel
+51
+Berdasarkan Gambar 2.11, jawablah dan diskusikan pertanyaan-
+pertanyaan berikut!
+1.	 Berdasarkan konsentrasi zatnya, darimanakah pergerakan 
+zat yang terjadi secara transpor aktif?
+2.	 Perhatikan gradien konsentrasinya, ketika transpor aktif 
+terjadi apakah zat bergerak searah dengan penurunan gradien 
+konsentrasi atau “melawan” gradien konsentrasi? 
+3.	 Faktor apakah yang menyebabkan perpindahan zat secara 
+transpor aktif?
+4.	 Zat apa sajakah yang perpindahannya dilakukan dengan cara 
+transpor aktif? 
+5.	 Apakah transpor aktif terjadi dalam sel? Di bagian manakah 
+dari organ tubuh transpor aktif zat terjadi?
+Perhatikan Gambar 2.12 dengan saksama!
+Gambar 2.12 Representasi diagram proses transpor aktif zat  
+ion Natrium dan ion Kalium.
+Berdasarkan Gambar 2.12, jawablah pertanyaan-pertanyaan 
+berikut!
+1.	 Bagaimana konsentrasi molekul zat Natrium di dalam sel?
+2.	 Bagaimana arah perpindahan molekul zat Natrium tersebut?
+3.	 Bagaimana konsentrasi molekul zat kalium di dalam sel?
+4.	 Bagaimana arah perpindahan molekul zat kalium tersebut?
+5.	 Apakah struktur yang membantu molekul zat Natrium dan 
+kalium berpindah melintasi membran sel?
+Biologi untuk SMA/MA Kelas XI
+52
+Diketahui bahwa terdapat saluran transmembran yang berupa 
+protein yang membantu perpindahan ion Natrium dan ion Kalium. 
+Saluran ini menggunakan energi yang dilepaskan dari hidrolisis ATP 
+(adenosin trifosfat) untuk memompa tiga ion natrium keluar dan 
+dua ion kalium ke dalam sel. ATP adalah molekul energi, dan ketika 
+hidrolisis terjadi, ATP dipecah untuk melepaskan energi yang disimpan 
+dalam ikatan kimianya. Transpor yang secara langsung menggunakan 
+ATP untuk energi dikenal sebagai  transpor aktif primer. Dapatkah 
+Kalian menyebutkan contoh lain transportasi aktif yang terjadi dalam 
+sel makhluk hidup?
+Untuk memperkuat pemahaman Kalian tentang transpor aktif, coba 
+cermati Gambar 2. 13!
+Gambar 2.13 Representasi gambar transpor aktif di sel akar rambut tanaman.
+Bab 2 | Pergerakan Zat melalui Membran Sel
+53
+Refleksi
+Setelah mempelajari materi transpor zat melalui membran 
+sel/membran plasma melalui berbagai aktivitas di Bab ini, hal 
+penting apa yang telah Kalian pahami? Keterampilan apa saja 
+yang sudah Kalian kuasai? Apakah masih ada materi yang belum 
+Kalian pahami? Apa yang akan Kalian lakukan untuk mengatasi 
+permasalahan tersebut?
+Uji Kompetensi
+Perhatikan gambar berikut untuk menjawab pertanyaan 1-3!
+Perhatikan gambar di atas! Salah satu cara untuk memproduksi air 
+minum dari air laut adalah dengan cara menerapkan prinsip osmosis 
+terbalik. Osmosis terbalik merupakan salah satu tipe filtrasi. Air laut 
+didorong masuk melalui membran semipermeabel dengan pemberian 
+tekanan oleh alat pemompa (pumping station).
+Biologi untuk SMA/MA Kelas XI
+54
+1.	 Berdasarkan analisismu mengenai proses filtrasi yang tertera pada 
+gambar di atas, di bagian mana terdapat garam dengan konsentrasi 
+tertinggi? Jelaskan mengapa hal tersebut dapat terjadi!
+2.	 Mengapa proses pembuatan air minum yang berasal dari air laut 
+menggunakan prinsip osmosis terbalik, bukan dengan menggunakan 
+jenis transportasi lainnya (osmosis biasa, difusi, dan transpor aktif)? 
+3.	 Bagaimana peran alat pompa pada proses tersebut?
+4.	 Sudah 2 hari suhu tubuh Andi meningkat hingga Suhu tubuhnya 
+mencapai 39oC. Andi juga sering memuntahkan makanan yang 
+ia makan dan buang air besar secara terus-menerus. Hal ini 
+berdampak pada tubuh Andi yang terasa lemas. Oleh karena itu, Ibu 
+Andi membawa Andi ke rumah sakit. Setibanya di rumah sakit, Andi 
+langsung diinfus agar tubuh Andi tidak kekurangan cairan dan zat-
+zat yang dibutuhkan. Menurutmu, seperti apa kondisi cairan yang 
+dimasukkan ke dalam tubuh Andi (hipotonis/ isotonis/ hipertonis) 
+terhadap darah Andi? Jelaskan mengapa demikian?
+5.	 Perhatikan gambar di bawah ini!
+ 
+Seorang siswa melakukan penelitian untuk mengukur konsentrasi 
+suatu zat terlarut di bagian intraseluler dan ekstraseluler selama 
+beberapa waktu. Datanya ditampilkan dalam gambar di atas. 
+Menurut siswa tersebut, gmbar itu merupakan hasil aktivitas 
+transpor aktif. Menurut kalian, apakah pendapat siswa tersebut 
+benar? Jelaskan alasannya!
+Bab 2 | Pergerakan Zat melalui Membran Sel
+55
+6.	 Perhatikan gambar di bawah ini!
+ 
+Kalian melakukan eksperimen di laboratorium untuk menentukan 
+apakah sel bakteri mengambil laktosa menggunakan transpor 
+aktif, difusi terfasilitasi, atau keduanya. Kalian menambahkan 
+penghambat ATP ke dalam kultur dan mengukur rasio laktosa di 
+dalam sel vs di luar sel dari waktu ke waktu. Bacalah pernyataan-
+pernyataan berikut ini dan tentukan apakah pernyataan tersebut 
+benar atau salah dengan memberi tanda centang (√) pada  kolom!
+Pernyataan
+Benar
+Salah
+Jenis transportasi yang digambarkan grafik 
+adalah traspor aktif dan difusi terfasilitasi.
+Pada awal reaksi, konsentrasi laktosa di dalam 
+sel lebih rendah dibandingkan di luar sel.
+Inhibitor tidak memberikan pengaruh apapun 
+terhadap laju transpor.
+Seiring berjalannya waktu, konsentrasi laktosa 
+di dalam sel lebih tinggi dibandingkan di luar 
+sel.
+Laju transpor lebih cepat saat tidak ada 
+inhibitor.
+Biologi untuk SMA/MA Kelas XI
+56
+Pengayaan
+Pernahkah Kalian sakit? Pernahkah Kalian diberikan antibiotik oleh 
+dokter? Menurut Kalian bagaimana antibiotik yang Kalian minum dapat 
+mencapai targetnya di dalam tubuh?
+Sumber: pexels/Artem Podrez
+Pelajari bagaimana “nasib” obat di dalam tubuh manusia melalui 
+video dan juga artikel berikut ini: s.id/1roWZ (tautan lengkap: 
+https://www.news-medical.net/life-sciences/What-is-Pharmacokinetics.
+aspx#:~:text=Pharmacokinetics%20is%20)
+Berdasarkan sumber yang sudah Kalian baca dan sumber tayangan 
+videonya diketahui ternyata ada hubungan antara membran plasma 
+dengan “perjalanan” obat di dalam tubuh manusia. 
+Terdapat beberapa tahapan yang dilalui obat termasuk dari jenis 
+antibiotik di dalam tubuh di antaranya absorpsi, distribusi, metabolisme, 
+dan ekskresinya. Tahap absorpsi obat di tingkat seluler terjadi melalui 
+beragam cara, di antaranya transpor aktif dan transpor pasif. Ternyata 
+transpor membran merupakan salah satu proses penting dalam 
+Farmakokinetik.
+Penelitian tentang membran plasma khususnya untuk mening­kat­kan 
+efektivitas pengujian obat, menangani resistensi obat, termasuk resistensi 
+bakteri terhadap antibiotik dan resistensi sel kanker terhadap kemoterapi 
+menjadi sangat penting. Organisasi Kesehatan Dunia telah menyatakan 
+resistensi antibiotik sebagai salah satu dari sepuluh besar ancaman 
+kesehatan 
+masyarakat 
+global 
+yang 
+dihadapi 
+umat 
+manusia 
+(Organisasi Kesehatan Dunia, 2019). 
+Apakah para peneliti di Indonesia telah melakukan penelitian di 
+bidang Farmakokinetik ini? Apakah penelitian tersebut penting dilakukan 
+di Indonesia? Apakah kalian ada yang tertarik untuk menjadi peneliti di 
+bidang tersebut?

@@ -1,0 +1,1001 @@
+Saat malam yang indah penuh Bintang dan Bulan terang benderang, kamu 
+tentu berpikir betapa indah dan menakjubkannya luar Angksa. Kamu tentu 
+mengetahui cara untuk menuju luar angkasa adalah dengan menggunakan 
+roket yang berukuran sangat besar. Mungkinkah manusia dapat ke luar 
+angkasa tanpa menggunakan roket?
+Gerak dan Gaya 
+dalam Teknologi
+Bab
+Bab
+Bab
+Bab
+Bab
+IV
+KEMENTERIAN PENDIDIKAN, KEBUDAYAAN, RISET, 
+DAN TEKNOLOGI REPUBLIK INDONESIA, 2023
+Ilmu Pengetahuan Alam 
+untuk SMP/MTs Kelas VII (Edisi Revisi)
+Penulis: Victoriani Inabuy, dkk. 
+ISBN: 978-623-118-457-3 (jil.1 PDF)
+112
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+Kata Kunci
+Bab ini akan mengenalkan kamu kepada konsep gerak dan gaya dalam 
+kehidupan sehari-hari dan kemajuan dunia teknologi saat ini. Pada bagian 
+akhir Bab kamu akan menerapkan konsep gerak dan gaya dengan membuat 
+teknologi peluncuran roket penyelamatan secara menarik. Proyek tersebut 
+dapat menjadi misi pertama kamu dalam melatih kreativitas dan sikap tolong-
+menolong di dalam kehidupan. Untuk itu, ayo, pelajari bab ini dengan antusias!
+• 
+gerak
+• 
+perpindahan
+• 
+kecepatan
+• 
+percepatan
+• 
+gaya
+Peta Konsep
+Gerak dan  
+Gaya dalam  
+Teknologi
+Gaya
+Hukum I Newton
+memiliki tiga 
+prinsip
+Resultan Gaya
+Gaya Gesek
+Hukum II Newton
+Hukum III Newton
+Macam-Macam 
+Gaya
+Gaya Mesin
+Gaya Gravitasi
+Gaya Magnet 
+dan Gaya 
+Listrik
+Gaya Pegas
+Gaya Otot
+Perpindahan dan 
+Jarak Tempuh
+Kecepatan dan 
+Kelajuan
+Percepatan
+Gerak Relatif
+Gerak Benda
+jika ada 
+percepatan
+di dalamnya 
+terdapat
+perubahannya 
+adalah
+perlu 
+menentukan
+untuk 
+membedakan
+di dalamnya 
+memahami
+inti  
+konsep
+berkaitan dengan 
+dua benda
+diantaranya terdiri
+113
+Bab IV  Gerak dan Gaya dalam Teknologi
+Apakah yang ingin kamu temukan jawabannya 
+dalam bab ini?
+1. 
+............................................................................
+ 
+............................................................................
+2. 
+............................................................................
+ 
+............................................................................
+Sebelum mempelajari lebih lanjut, ayo, ukur pemahamanmu melalui aktivitas 
+berikut! 
+1.  
+Jika kamu mendorong bola di tanah datar, apa yang akan terjadi pada 
+gerakan bola setelah beberapa saat? Mengapa menurutmu terjadi 
+demikian?
+2. 
+Apa yang kamu ketahui tentang gaya? Sebutkan beberapa contoh gaya 
+yang kamu tahu!
+3. 
+Pernahkah kamu mendengar tentang gaya gravitasi? Apa yang kamu 
+ketahui tentangnya?
+4. 
+Mengapa saat bersepeda melawan angin terasa lebih berat dibandingkan 
+saat sepeda dengan arah angin?
+5. 
+Mengapa saat kita berlari di pantai yang berpasir, kakinya terasa lebih 
+berat dibandingkan saat berlari di jalan yang keras?
+ 
+Di antara pertanyaan di atas, pertanyaan nomor berapakah yang kamu 
+tidak tahu sama sekali atau tidak yakin dengan jawabanmu?
+A. Gerak Benda
+Bagaimana caramu datang ke sekolah? Apakah naik mobil? Motor? Atau 
+berjalan kaki? Tahukah kamu berapa jarak yang ditempuh dari rumah kamu? 
+Berapa lama waktu yang diperlukan?
+ 
+Cobalah kamu berpindah tempat duduk dari posisi awal kamu duduk di 
+kelas menuju posisi duduk pada barisan paling depan, kemudian lanjutkan 
+ke barisan paling belakang. Hitunglah banyaknya langkah menuju posisi 
+tersebut, kemudian ukurlah waktu yang diperlukannya dengan menggunakan 
+jam tangan. Bandingkanlah banyaknya jumlah langkah dan waktu untuk 
+114
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+menuju kedua posisi terdepan maupun ke belakang tersebut. Hasil informasi 
+yang kamu dapatkan tersebut nanti akan dikenalkan dan dijelaskan pada 
+bahasan lebih lanjut di Bab ini.
+1. 
+Perpindahan dan Jarak Tempuh Benda
+Ketika kamu berangkat dari rumah menuju ke sekolah atau berpindah posisi 
+dari tempat duduk depan ke tempat duduk pada bagian belakang, kamu 
+dikatakan telah bergerak. Jadi, apa sesungguhnya gerak itu menurutmu?
+ 
+Makhluk hidup bergerak dengan kemauan dirinya sendiri untuk mencari 
+makanan. Lemari bergerak karena didorong. Gerak semua benda tersebut 
+memerlukan besar perpindahan yang diperlukan dari satu posisi ke posisi 
+lainnya atau panjang lintasan yang dilalui gerak benda yang dikenal dengan 
+jarak tempuh.
+ 
+Kita dapat menggambarkan gerak sebuah benda secara mendetail setelah 
+kita mampu mendeinisikan besaran-besaran gerak untuk benda tersebut. 
+Dengan mengetahui besaran gerak tersebut, kita akan mengetahui pada saat 
+tertentu benda berada di mana dan bergerak ke arah mana.
+ 
+Besaran-besaran gerak yang pertama kali perlu diketahui adalah posisi, 
+perpindahan, dan jarak tempuh. Agar dapat menjelaskan gerak benda secara 
+lengkap, kita memerlukan bantuan sumbu koordinat. Tentu kamu sudah kenal 
+dengan sumbu koordinat kartesian dengan lambang sumbu x dan y, bukan?
+–4
+–3
+–2
+–1
+1
+1
+2
+3
+4
+–4
+2
+–3
+3
+–2
+4
+–1
+x
+y
+Gambar 4.1 
+Sumbu koordinat dalam 
+arah x dan y.
+ 
+Jumlah sumbu koordinat yang digunakan bergantung pada arah gerak 
+yang akan kita bahas. Jika benda hanya bergerak pada lintasan berupa garis 
+lurus maka kita cukup menggunakan satu sumbu koordinat (misalkan pada 
+115
+Bab IV  Gerak dan Gaya dalam Teknologi
+sumbu-x). Gerak semacam ini sering disebut gerak satu dimensi (satu arah 
+pandang). Dapakah kamu menuliskan contoh benda yang bergerak dalam satu 
+dimensi di dalam kehidupan sehari-hari?
+ 
+Pada bab ini kita akan membatasi pada gerak satu dimensi dengan posisi 
+dilambangkan simbol x. Misalkan rumahmu sebagai posisi awal (x0) karena 
+tempat mulaimu bergerak dan sekolah sebagai posisi akhir (xt). Jadi apakah 
+kamu tahu pengertian posisi itu?
+ 
+Besar total perpindahan yang kamu lakukan adalah pengurangan nilai 
+dari posisi akhir terhadap posisi awal. Jika rumahmu sebagai posisi awal dan 
+sebagai titik acuan maka rumahmu dapat diberikan angka 0 meter. Adapun 
+posisi sekolah terhadap rumahmu misalkan memiliki nilai 100 meter seperti 
+yang ditunjukkan pada Gambar 4.2. Dapat dengan mudah kamu hitung total 
+perpindahanmu dari rumah ke sekolah adalah sebesar 100 m (100 m – 0 m).
+ 
+Ungkapan tersebut dapat dirumuskan sebagai berikut.
+∆x = xt – x0  (1)
+Keterangan:
+∆x  = Perubahan posisi, satuannya meter (m)
+x0  = Posisi awal, satuannya meter (m)
+xt   = Posisi akhir, satuannya meter (m)
+Gambar 4.2 
+Contoh besar perpindahan 
+yang dilakukan dari rumah 
+ke sekolah.
+ 
+Saat kamu tiba di sekolah, tiba-tiba kamu merasakan sakit perut. Ibu guru 
+memerintahkanmu untuk segera pulang ke rumah. Sehingga dalam pengertian 
+Sains, jika kamu kembali ke posisi semula saat kamu mulai bergerak tadi 
+Rumah
+Sekolah
+x0
+xt
+100 m
+116
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+kamu tidak melakukan perpindahan. Mengapa demikian? Dapatkah kamu 
+menjelaskannya? Gambar 4.3 mungkin dapat membantu kamu menjawab 
+pertanyaan tersebut.
+ 
+Berbeda dengan perpindahan yang kamu lakukan, nilai jarak tempuh 
+tidaklah nol, tetapi bernilai 200 m. Mengapa menjadi bernilai 200 meter? 
+Dapatkah kamu membedakan perpindahan dan jarak tempuhkan?
+ 
+Sebelum kamu kembali pulang ke rumah karena sakit perut, terlihat 
+seorang teman sudah duduk di kelas sambil membaca buku pelajaran. Ibu 
+guru mengatakan, temanmu tersebut sudah tiba lebih awal di sekolah. Padahal 
+rumah temanmu itu masih berada di dalam satu komplek perumahan dan tidak 
+jauh dari rumahmu. Mengapa temanmu dapat sampai lebih dulu daripada 
+kamu padahal kalian berdua berangkat pada waktu yang bersamaan?
+ 
+Setelah diselidiki ternyata temanmu 
+tersebut menempuh jalan yang berbeda 
+darimu. Ia menggunakan sepeda dan 
+melalui 
+jalan-jalan 
+pintas 
+menuju 
+sekolah. Dari sini dapat dikatakan bahwa 
+kamu dan temanmu tersebut memiliki 
+jarak tempuh yang berbeda. Bisa jadi, saat 
+kamu berjalan kaki, kamu menempuh 
+jarak yang lebih panjang untuk menuju 
+sekolah. Berdasarkan cerita di atas, kamu 
+sudah dapat memahami pengertian jarak 
+tempuh, bukan?
+Gambar 4.4 Dua orang siswa yang 
+menempuh jarak yang berbeda saat 
+menuju sekolah. 
+Gambar 4.3 Besar total 
+perpindahan ketika 
+kembali ke posisi awal 
+keberangkatan/mulai 
+bergerak.
+Rumah
+Sekolah
+dtotal
+ = 0∆
+x0
+xt
+100 m
+117
+Bab IV  Gerak dan Gaya dalam Teknologi
+ 
+Kemudian, 
+pada 
+suatu 
+hari, 
+kamu 
+berangkat 
+sekolah 
+dengan 
+menggunakan sepeda. Selama kamu mengendarai sepeda menuju ke sekolah, 
+kamu melintasi seseorang yang sedang diam di tepi jalan raya. Orang tersebut 
+melihat bahwa kamu sedang bergerak bersama sepeda terhadap sebuah kota 
+yang kamu tinggali. Kamu yang sedang berada di atas sepeda akan melihat 
+bahwa pengamat bergerak juga dengan arah yang berlawanan dengan arah 
+gerak sepeda. Jadi, sebuah benda dikatakan bergerak tergantung dari pengamat 
+dan titik acuan yang dipergunakan. Hal tersebut menunjukkan bahwa gerak 
+benda bersifat relatif atau tidak mutlak.
+2. 
+Apakah Kita Semua Bergerak Relatif?
+Saat kamu mengendarai sepeda menuju sekolah 
+dan melihat bahwa orang yang diam dipinggir jalan 
+seakan-akan bergerak. Menurutmu apakah orang 
+yang dipinggir jalan benar-benar bergerak? Kamu 
+telah mengetahui bahwa gerak adalah perubahan 
+jarak dan/atau posisi benda terhadap titik acuan 
+yang pilih. Saat kamu melihat orang di pinggir 
+jalan, apakah ia bergerak? Apakah termasuk gerak 
+nyata atau gerak semu?
+ 
+Gerak semu adalah benda yang sebenarnya diam tetapi oleh pengamat 
+teramati bahwa benda tersebut seolah-olah bergerak. Gerak semu biasanya 
+diakibatkan oleh keadaan pengamat yang sedang berada dalam suatu sistem 
+yang bergerak. Contoh gerak semu yaitu pada saat kita naik bus, pohon-
+pohonan di tepi jalan seperti bergerak berlari meninggalkan kita. Padahal 
+sebenarnya, yang bergerak adalah bus saat kita sedang berada di dalamnya. 
+Jadi kita semua bergerak relatif.
+3. 
+Mengapa Waktu Tiba Bisa Berbeda?
+Saat kamu tiba di sekolah dengan menggunakan sepeda, Kamu melihat jam 
+dinding di depan gerbang sekolah. Jarum jam baru menunjukkan pukul 
+06.15 WIB. Padahal biasanya jika berjalan kaki, kamu tiba pukul 06.45 WIB. 
+Itu artinya dengan menggunakan sepeda hanya memerlukan waktu 30 lebih 
+awal. Mengapa bisa terjadi demikian? 
+ 
+Jarak yang ditempuh suatu benda diukur dari seberapa jauh benda 
+itu telah bergerak dari titik acuan sebagai posisi awal. Kamu juga telah 
+Gambar 4.5 
+Ilustrasi gerak relatif antara 
+pengamat dan benda.
+Sumber: siam.pukkato/
+shutterstock.com
+118
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+mengetahui bahwa perpindahan adalah seberapa jauh suatu benda berpindah 
+dihitung dari titik awal acuan, tanpa memperhatikan bentuk lintasan, apakah 
+berkelok-kelok atau lurus. Semuanya diukur dengan menarik garis lurus dari 
+posisi awal hingga posisi akhir benda seperti yang ditunjukkan pada Gambar 4.2.
+ 
+Jika jarak tempuh sepeda dibandingkan dengan waktu yang diperlukan, 
+maka akan didapatkan sebuah infomasi penting lainnya dalam konsep 
+gerak yaitu yang dikenal sebagai kelajuan atau biasanya orang-orang sering 
+menyebutnya sebagai kecepatan. Padahal secara sains keduanya berbeda. 
+Nanti kamu akan mendapatkan penjelasannya lebih lanjut.
+ 
+Dengan membandingkan jarak tempuh terhadap waktu, maka kamu 
+akan mendapatkan nilai kelajuan sebuah benda ketika bergerak. Kelajuan 
+dapat ditulis dalam persamaan berikut.
+  
+s
+v
+t
+=
+   (2)
+ 
+Keterangan:
+v  = Kelajuan, satuannya m/s
+s  = Jarak tempuh, satuannya meter (m)
+t  = waktu, satuannya adalah sekon atau detik (s)
+ 
+Ingatlah kembali, apakah saat mengendari sepeda ketika menuju sekolah 
+laju sepeda tersebut terasa cepat atau lambat? Atau berubah-ubah?
+ 
+Kelajuan yang konstan atau bernilai tetap adalah kelajuan gerak suatu 
+benda ketika setiap bagian jarak itu ditempuh dalam waktu yang sama, 
+seperti yang ditunjukkan pada Persamaan 2. Kelajuan tetap atau konstan 
+ini biasanya hanya bisa terjadi dalam waktu sesaat atau sebentar saja, dalam 
+hitungan detik atau menit. Maka dari itu, laju tetap ini sering disebut laju 
+sesaat. Pada kenyatannya, sangat sulit untuk membuat sebuah benda melaju 
+dengan konstan dalam waktu yang lama. Untuk itu diperlukan konsep yang 
+lebih praktis, yang dikenal sebagai kelajuan rata-rata.
+ 
+Kelajuan rata-rata ialah kelajuan gerak benda yang menempuh jarak 
+perpindahan tertentu di mana tidak setiap bagian dari jarak itu ditempuh 
+dalam waktu yang realatif sama. Untuk kelajuan rata-rata berlaku persamaan 
+berikut.
+119
+Bab IV  Gerak dan Gaya dalam Teknologi
+s
+v
+t
+= å
+å
+    
+(3)
+Keterangan:
+v 
+= Kelajuan rata-rata, satuan dalam m/s
+s
+å = Jumlah jarak yang ditempuh, satuan dalam meter (m)
+t
+å = Jumlah waktu, satuannya adalah sekon atau detik (s)
+4. 
+Apakah Kelajuan Sama Dengan Kecepatan? Mengapa Orang 
+Jarang Menyebutkan Kelajuan?
+Menurutmu apakah kelajuan dan kecepatan itu adalah hal yang sama? 
+Perhatikanlah contoh persoalan berikut ini. Jika kamu melangkah ke kanan 
+sejauh 100 m dalam sumbu x, kemudian kembali melangkah ke kiri sejauh 
+50 m ditempuh dalam waktu 25 sekon. Berapakah total jarak tempuh yang 
+kamu lakukan? Berapakah perpindahan yang terjadi?
+ 
+Jadi benarkah kelajuan berbeda dengan kecepatan? Kelajuan adalah 
+seberapa cepat sebuah jarak ditempuh dalam waktu tertentu tanpa 
+memperhitungkan arah, karena kelajuan termasuk besaran skalar (besaran 
+di dalam Sains yang hanya memiliki nilai besar dan satuan). Adapun kecepatan 
+adalah besarnya perpindahan persatuan waktu. Kecepatan adalah besaran 
+vektor, yaitu besaran yang memiliki nilai besar dan satuan dan juga harus 
+dinyatakan arah ke mana benda tersebut bergerak.
+5. 
+Bagaimana Kita Menghitung Kecepatan Sebuah Benda?
+Jika mobil yang menjemputmu tiba lebih awal dan diketahui melalui jalan 
+yang persis sama jarak tempuhnya seperti saat mengantarkanmu ke sekolah 
+sehari-hari. Itu artinya mobilmu dapat tiba lebih awal daripada biasanya. 
+Kira-kira apa yang terjadi dengan mobil tersebut?
+ 
+Dari ilustrasi di atas tentu kamu dapat memahami apa yang dimaksud 
+dengan kecepatan bukan? Menurutmu bagaimana kita dapat menghitung 
+kecepatan sebuah benda ketika bergerak?
+ 
+Jika kamu dapat mengungkapkan besaran gerak dalam variabel waktu 
+(detik atau jam), maka kamu dapat menentukan kondisi benda tersebut di 
+masa depan. Dalam satu detik, satu jam, atau satu hari kemudian benda yang 
+120
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+bergerak tersebut akan berada di mana, bergerak dengan kecepatan berapa 
+dan ke arah mana dapat dihitung dengan mudah. Kecepatan rata-rata dapat 
+dinyatakan oleh persamaan berikut.
+akhir
+awal
+akhir
+awal
+x
+x
+x
+v
+t
+t
+t
+∆
+−∆
+∆
+=
+=
+∆
+−
+  (4)
+Keterangan:
+ = Kecepatan rata-rata, satuannya m/s
+ = Selisih jarak yang ditempuh, satuannya meter (m)
+ = Selang waktu, satuannya adalah sekon atau detik (s)
+Balapan Berpindah Posisi
+Ajaklah dua orang temanmu untuk adu balap pindah posisi tempat duduk. 
+Kamu dapat menyusun empat bangku dengan jarak yang berbeda-beda. 
+Ajak temanmu untuk melakukan hal yang sama. Kamu dapat mengetahui 
+jarak tempuh dari bangku pertama hingga bangku ketiga atau terakhir 
+dengan menghitung banyaknya langkah kaki yang diperlukan. Saat 
+kamu dan temanmu adu balap pindah posisi dari satu bangku ke bangku 
+terakhir dengan berjalan cepat, gunakan stopwatch atau jam tangan untuk 
+mengetahui berapa lama waktu yang diperlukan untuk mencapai bangku 
+terakhir. Apakah kamu mendapatkan kelajuan dari gerakan langkah 
+kaki yang kamu lakukan? Bandingkan dengan kelajuan langkah kaki 
+temanmu!
+Gambar 4.6 Ilustrasi balapan berpindah posisi.
+Ayo Bereksperimen
+Aktivitas 4.1
+121
+Bab IV  Gerak dan Gaya dalam Teknologi
+Fakta Sains
+Gambar 4.7 Bugatti Chiron Super Sport 300+
+Sumber: Dylan Johnson/commons.wikimedia.org (2020)
+Mobil Tercepat di Dunia
+Apakah kalian pernah naik mobil dengan kecepatan tinggi? Bagaimanakah 
+rasanya? Seberapa cepat mobil atau kendaraan yang kalian tumpangi? 
+Nah, tahukah kamu mobil tercepat di dunia yang dapat melintas di jalan 
+raya yang tercatat hingga hari ini? Mobil tersebut adalah Bugatti Chiron 
+Super Sport 300+. Sebuah mobil sport produksi Bugatti Automobiles SAS 
+(grup otomotif negara Jerman bernama Volks Wagen (VW)) di pabriknya di 
+Molsheim, Prancis, dan dijual dengan merek Bugatti ini mampu mencapai 
+kecepatan 490 km/jam (Jika diubah ke dalam meter per detik, dapatkah 
+kamu menentukannya?) Jumlah produksi Bugatti Chiron Super Sport 300+ 
+sangat terbatas, hanya 30 unit dengan harga mulai € 3,5 juta (3,5 juta euro) 
+atau sekitar 54,3 miliar rupiah untuk setiap unitnya.
+ 
+Menurutmu kira-kira faktor apa saja yang membuat mobil tersebut 
+dapat melaju begitu begitu cepat? Apa saja yang membuat mobil tersebut 
+menjadi mahal harganya? Diskusikan dengan temamu.
+ 
+Kamu juga dapat mencari kembali kendaraan lain yang bergerak cepat 
+di darat maupun di udara. Temukanlah informasi yang menyebabkan 
+kenapa kendaraan tersebut dapat bergerak cepat.
+6. 
+Adakah Faktor Lain dari Gerak Benda Selain Kecepatan?
+Selama bergerak, kecepatan sebuah benda berubah-ubah. Perubahan tersebut 
+dapat berupa perubahan nilai saja, perubahan arah saja, atau perubahan nilai 
+dan arah. Perubahan tersebut ada yang cepat dan ada yang lambat. Besaran 
+yang digunakan untuk mengukur perubahan dinamakan percepatan.
+122
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+ 
+Ambillah sebuah benda dan luncurkanlah pada bidang miring licin 
+dengan sudut kemiringan relatif besar sehingga benda dapat meluncur ke 
+bawah. Amatilah benda tersebut saat meluncur? Apakah terjadi penambahan 
+kecepatan? Jika tidak terlalu tampak, buat lintasan yang lebih panjang lagi 
+dengan sudut yang lebih besar. Mengapa benda tersebut melucur dengan 
+semakin cepat hingga menyentuh lantai?
+ 
+Hasil percobaan sederhana tersebut menujukan bahwa benda telah 
+mengalami percepatan. Percepatan adalah besarnya pertambahan kecepatan 
+tiap satuan waktu. Percepatan dapat dituliskan dengan persamaan berikut.
+(
+)
+(
+)
+1
+0
+0
+t
+v
+v
+a
+t
+t
+−
+=
+−
+    (5)
+Keterangan:
+a =  Percepatan gerak benda, satuannya m/s2
+vo  =  Kecepatan awal, satuannya m/s
+vt  =  Kecepatan akhir, satuannya m/s
+to =  Waktu awal, satuannya sekon atau detik (s)
+tt =  Waktu akhir, satuannya sekon atau detik (s) 
+ 
+Untuk gerak dipercepat beraturan nilai a positif. Adapun untuk gerak 
+diperlambat beraturan nilai a negatif. Contoh gerak diperlambat adalah ketika 
+mobil direm saat tiba di sekolah.
+Balap Mobil-mobilan Buatan Sendiri
+Buatlah mobil-mobilan dengan tenaga pendorongnya adalah tiupan angin. 
+Kamu dapat menggunakan alat dan bahan seperti kantung plastik atau 
+kain bekas untuk layar, botol air mineral bekas, tutup botol plastik, batang 
+kayu, gunting, dan lem.
+ 
+Rancanglah bentuk dan ukuran layar yang paling kokoh sehingga 
+mobil-mobilan dapat bergerak cepat akibat tiupan angin. Pertama, kamu 
+dapat memulai dari ukuran layar persegi 5 × 5 cm kemudian buat ukuran 
+layar tersebut lebih besar sesuai dengan rancangan terbaikmu. 
+Ayo Bereksperimen
+Aktivitas 4.2
+123
+Bab IV  Gerak dan Gaya dalam Teknologi
+ 
+Ajaklah temanmu untuk membuat 
+mobil-mobilan dengan ukuran layar 
+yang berbeda, atau ukuran ban yang 
+berbeda. Setelah mobil-mobilan tersebut 
+jadi, timbanglah masing-masing mobil 
+yang sudah dibuat dengan timbangan 
+yang tersedia di sekolah. Catatlah berat 
+masing-masin mobil.
+ 
+Kamu dapat melakukan balapan dengan teman-temanmu. Tentukanlah 
+jarak yang ditempuh arena balap, gunakan stopwatch atau jam tangan 
+untuk menghitung waktu tempuh. Jarak tempuh arena balap dapat 
+kamu mulai dari jarak 1 m saat mobil-mobilan balapan. Gunakan kipas 
+angin untuk memberikan hembusan angin pada layar mobil. Agar 
+memudahkanmu, kamu dapat mengisi informasi rancangan mobil-
+mobilanmu, pada tabel berikut. Salinlah Tabel 4.1 pada buku catatanmu, 
+kemudian isilah tabel tersebut untuk mendapatkan analisis dari percobaan 
+Aktivitas 4.2 ini
+Tabel 4.1 Balapan Mobil-mobilan Jarak Tempuh 1 meter
+Nama
+Layar 
+(cm2)
+Diameter 
+Roda (cm)
+Berat 
+Mobil 
+(gram)
+Waktu 
+Tempuh 
+(detik)
+Kecepatan  
+(m/detik)
+Mobil 1
+5 × 5
+3 
+Mobil 2
+10 × 10
+5
+Mobil 3
+15 × 15
+7
+….
+….
+Gambar 4.8 Ilustrasi mobil-mobilan 
+dengan tenaga pendorong angin.
+1. 
+Faktor-faktor apakah yang memengaruhi sebuah benda dapat 
+bergerak cepat?
+2. 
+Jika sebuah benda bergerak dengan sangat cepat, apakah keuntungan 
+dan kerugian atau resiko yang akan muncul?
+3. 
+Buatlah graik dari Tabel 4.1 yang telah didapatkan pada Aktivitas 4.2.
+Ayo Uji Kemampuan
+124
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+Releksi
+Sebelum melanjutkan ke subbab berikutnya, ini saatnya kamu berhenti 
+sejenak dan kembali melihat pertanyaan-pertanyaan yang kamu tuliskan 
+pada awal bab ini.
+1. 
+Apakah kamu sudah memahami pengertian gerak? Apakah kamu 
+mengerti perbedaan di antara kecepatan dan percepatan?
+2. 
+Berdiskusi dengan teman dan guru dapat membantumu melengkapi 
+pemahaman pada materi ini. Mencari tahu dari sumber belajar lain 
+pun dapat kalian lakukan. Ayo, semangat belajar tentang subbab 
+selanjutnya, ya!
+B. Gaya
+Apa yang kamu lakukan ketika ada sebuah meja menghalangi pintu masuk ke 
+kelasmu? Tentu kamu akan menggesernya sehingga dapat masuk ke dalam 
+kelas, bukan? Bagaimana caramu menggesernya sehingga meja tersebut 
+berubah posisi? Apakah mendorong meja tersebut atau menariknya? Apakah 
+kamu memerlukan bantuan teman untuk mendorongnya? 
+Gambar 4.9 Seorang siswa 
+sedang mendorong sebuah 
+meja di dalam kelas.
+1. 
+Pengertian Gaya
+Apa yang kamu dan temanmu lakukan terhadap meja tersebut adalah 
+memberikan gaya pada meja. Kamu sudah memahami bahwa gaya adalah 
+sesuatu berupa dorongan atau tarikan yang dapat menyebabkan benda 
+bergerak. Tidak hanya itu, gaya juga dapat menyebabkan perubahan arah, 
+bentuk dan kecepatan sebuah benda.
+125
+Bab IV  Gerak dan Gaya dalam Teknologi
+ 
+Bagaimana kamu mengetahui besar dorongan atau tarikan yang 
+diperlukan untuk dapat menggeser meja tersebut dari depan pintu? Parameter 
+apa saja yang perlu kamu ketahui?
+2. 
+Apakah Gaya Dapat Bernilai Nol?
+Untuk dapat menjawabnya, silakan kamu melakukan aktivitas berikut! 
+Doronglah sebuah meja ke salah satu arah. Kemudian minta salah seorang 
+temanmu untuk mendorong dari arah yang berlawanan. Kalian dapat saling 
+mendorong sekuat tenaga. Apakah meja tersebut tetap diam saja di posisinya? 
+Jika ya, maka benda tersebut memiliki nilai gaya sebesar nol. Mengapa 
+demikian?
+ 
+Gaya dapat mengubah arah gerak, maka gaya termasuk besaran vektor. 
+Kalian dapat melukiskan gaya yang bekerja pada meja tersebut melalui dua 
+garis yang saling berlawanan. Jika gaya yang diberikan sama besar maka gaya 
+total yang dirasakan meja saling meniadakan dari arah kanan maupun dari 
+arah kiri.
+3. 
+Apakah Paduan atau Resultan Gaya Itu?
+Gaya-gaya yang dirasakan oleh meja yang berlawanan arah, kita tuliskan F1 
+dan –F2. Tanda minus pada F2 menunjukkan arah berlawanan. Besar gabungan 
+kedua gaya tersebut adalah jumlah kedua gaya. Hal ini dikenal sebagai paduan 
+gaya/resultan gaya. Arah resultan untuk kasus gaya pada meja yang didorong 
+tersebut total kedua gaya yang saling berlawanan. Resultan kedua gaya adalah:
+R = F1 + (–F2)  (6)
+ 
+Arah dan resultan kedua gaya adalah nol. Jika ada gaya-gaya yang segaris 
+dan searah lebih dari satu maka besar resultan gaya-gaya tersebut adalah 
+jumlah semua gaya itu.
+R = F1 + F2 + F3 + ………. dan seterusnya. (7)
+4. 
+Macam-Macam Gaya
+Ada berbagai macam gaya yang dapat langsung kita rasakan dalam kehidupan 
+sehari-hari. Dapakah kamu menyebutkan contoh-contoh gaya otot, gaya pegas, 
+gaya magnet, gaya mesin, gaya listrik, gaya gravitasi dan gaya gesekan. 
+126
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+Gambar 4.10  Contoh (a) gaya otot, (b) gaya pegas, (c) gaya magnet, (d) gaya mesin,  
+(e) gaya gravitasi, (f) gaya gesekan, dan (a) gaya dorong.
+5. 
+Mengapa Saat Mendorong Meja atau Sebuah Benda Terasa 
+Sedikit Getaran dan Terdengar Suatu Bunyi?
+Pada saat kalian mendorong meja tadi, apakah kalian merasakan sedikit 
+getaran? Ataukah kalian mendengar bunyi saat mendorong? Kira-kira apa 
+yang terjadi?
+ 
+Peristiwa tersebut terjadi akibat dari gaya gesek yang muncul antara kaki 
+meja dengan lantai. Apakah gaya gesek itu? Gaya gesek adalah gaya yang 
+ditimbulkan oleh dua benda yang saling bergesekan dan arahnya berlawanan 
+dengan arah gerak benda. Gaya gesek dapat dipengaruhi oleh kekasaran 
+permukaan benda dan berat benda, tetapi tidak dipengaruhi luas permukaan 
+benda.
+ 
+Selidikilah, mengapa saat pertama kali mendorong meja tersebut, terasa 
+sedikit lebih berat dibandingkan ketika meja sudah bergerak? 
+6. 
+Mengapa Ketika Mendorong Benda Pertama Kali Terasa Lebih 
+Berat Dibandingkan dengan Mendorong Saat Benda Sudah 
+Mulai Bergerak?
+Saat mulai mendorong benda, sesungguhnya kamu sedang merasakan gaya 
+gesek statis dan kinetis dari benda tersebut. Gaya gesek yang terjadi pada saat 
+benda belum bergerak sama sekali disebut gaya gesek statis. Adapun gaya 
+gesek yang terjadi setelah benda bergerak disebut gaya gesek kinetis.
+(a)
+(d)
+(b)
+(e)
+(c)
+(f)
+(g)
+127
+Bab IV  Gerak dan Gaya dalam Teknologi
+ 
+Pada saat meja kayu yang ditarik belum bergerak, gaya gesek yang timbul 
+adalah gaya gesek statis. Setelah meja kayu bergerak, antara balok kayu pada 
+permukaan meja dengan lantai atau kaca tetap ada gaya gesek. Gaya gesek 
+tersebut disebut gaya gesek kinetis.
+7. 
+Apakah Gaya Gesek Menguntungkan?
+Beberapa contoh berikut adalah gaya gesek yang menguntungkan. Sepatu 
+dan sandal dari bahan karet yang tidak licin jika dipakai akan menahan 
+pemakainya untuk tidak terpeleset. Kemudian, ban mobil, ban sepeda motor 
+dibuat dari karet keras dan bentuknya didesain sehingga akan memperbesar 
+gaya gesek antara ban dengan jalan raya untuk mempercepat laju kendaraan. 
+Cari tahu dan tuliskan contoh gaya gesek yang menguntungkan lainnya!
+Gambar 4.11 
+Contoh gaya gesek 
+dalam kehidupan 
+sehari-hari
+8. 
+Apakah Ada Gaya Gesek yang Merugikan?
+Gaya gesek dapat pula menimbulkan kerugian, di antaranya adalah gir dan 
+rantai pada sepeda motor yang sering bergesekan. Gesekan yang lama akan 
+membuatnya aus dan rusak. Usaha untuk mengurangi gesekan yang terjadi 
+dapat dilakukan dengan memberikan oli sebagai pelicin antarpermukaan.
+ 
+Kereta api cepat Shinkansen di Jepang berjalan di atas rel magnet. Rel 
+model ini dibuat dengan tujuan untuk menghilangkan gaya gesek antara kereta 
+dengan rel. Tuliskanlah gaya gesek lainnya yang merugikan di kehidupan 
+sehari-hari!
+9. 
+Adakah Hukum yang Melandasi Gaya terhadap Benda?
+Semua benda yang ada di alam ini berada dalam kondisi diam, atau bergerak 
+dengan tidak terjadi secara tiba-tiba atau tidak ada penyebabnya. Meski ada 
+penyebabnya, proses gerak sebuah benda pun tidak terjadi secara bebas.
+128
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+ 
+Benda yang bergerak selalu mengikuti aturan yang sudah pasti. Benda 
+yang dilempar dalam arah mendatar selalu bergerak melengkung ke bawah 
+atau tanah. Benda yang dilepas dari ketinggian tertentu akan bergerak jatuh 
+kalau tidak ada dorongan lain yang membelokkan arah gerak benda tersebut. 
+Bumi selalu bergerak mengelilingi Matahari pada orbitnya yang sudah 
+tertentu. Paku yang didekatkan ke magnet akan ditarik ke arah magnet. Dapat 
+kita katakan bahwa gerak benda umumnya bersifat determinisitik yang artinya 
+dapat dihitung di mana lintasan yang akan diambil, ke mana arah kecepatan 
+pada tiap titiknya, dan berapa percepatan yang terjadi di tiap saat.
+ 
+Melalui sifat yang dapat dihitung atau diramalkan (deterministik) 
+tersebut tentu ada hukum alam yang dibaliknya. Dengan hukum tersebut kita 
+dapat memperkirakan ke mana benda akan bergerak jika diberikan dorongan 
+tertentu. Tahukah kamu hukum alam tersebut?
+ 
+Pada abad ke-17 atau sekitar tahun 1600-an, seorang pemikir sekaligus 
+ilmuan bernama Isaac Newton merumuskan hukum-hukum gerak yang 
+sangat luar biasa. Newton menemukan bahwa persoalan gerak yang terjadi 
+di alam semesta dapat diterangkan dengan hanya tiga hukum yang sederhana. 
+Karya besar Newton tersebut dituliskan dalam buku yang sangat termashyur, 
+yaitu Philosophiae Naturalis Principia Mathematica (Gambar 4.9). 
+Gambar 4.12 Sir Isaac Newton (1643 – 1727) dan gambar sampul buku Philosophiae 
+Naturalis Principia Mathematica.
+Sumber: Godfrey Kneller/wikimedia.org (2021); Zhaladshar/wikisource.org (2006)
+Aktivitas 4.3 yang dapat 
+diakses saat kamu memindai 
+kode berikut ini.
+Pindai
+https://buku.kemdikbud.go.id/s/BS128
+129
+Bab IV  Gerak dan Gaya dalam Teknologi
+ 
+Mengapa pada aktivitas 4.3 terjadi sulap yang demikian? Untuk dapat 
+menjawabnya dengan tepat, kamu perlu mengetahui Hukum Newton.
+10. Hukum I Newton
+Jika resultan atau jumlah gaya-gaya yang bekerja pada benda bernilai 
+nol atau tidak ada gaya yang bekerja sama sekali pada benda, benda itu 
+akan diam selamanya (tidak bergerak) atau akan bergerak lurus beraturan 
+dengan kecepatan tetap. Fenomena tersebut dijabarkan dalam Hukum I 
+Newton. Hukum tersebut berbicara tentang konsep kelembaman benda atau 
+dikenal juga sebagai sifat kemalasan benda untuk mengubah posisinya. Dari 
+pengertian hukum tersebut, kamu tentu dapat memahami apa yang dimaksud 
+dengan kelembaman, bukan?
+ 
+Semua benda cenderung mempertahankan keadaannya, benda yang 
+diam tetap diam dan benda yang bergerak tetap bergerak dengan kecepatan 
+konstan. Hukum I Newton pada prinsipnya menginformasikan kepada 
+kita tentang adanya keberadaan besaran yang dinamai massa. Akibat sifat 
+kelembaman ini maka benda cenderung mempertahankan keadaan geraknya. 
+Keadaan gerak dapat direpresentasikan atau diterangkan oleh nilai kecepatan. 
+Jadi, secara sederhana sifat kelembaman suatu benda sebenarnya adalah 
+mengukur kecenderungan benda mempertahankan kecepatannya.
+ 
+Semakin besar kelembaman benda maka semakin malas benda 
+tersebut bergerak atau mempertahankan sifat kelembamannya. Untuk dapat 
+menggerakannya diperlukan pengganggu yang lebih besar untuk mengubah 
+kecepatan benda. Semakin besar massa suatu benda maka benda tersebut 
+semakin lembam. Itulah penyebabnya bahwa kita sangat sulit mendorong benda 
+yang memiliki massa lebih besar daripada benda yang memiliki massa lebih kecil.
+Gambar 4.13  
+Contoh penerapan 
+hukum ke-1 
+Newton
+Mobil di Lampu Merah
+Pendulum yang berayun
+Olah Raga Ski
+Roket yang Meluncur
+Bola Sepak yang Diam
+Kereta Luncur  
+(Roller Coaster)
+130
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+“Bola dan Kemiringan”
+Bahan-bahan yang diperlukan:
+1.  
+Sebuah papan yang panjang dan dapat diatur kemiringannya.
+2.  
+Bola-bola dengan ukuran yang sama tetapi berasal dari bahan 
+dengan massa yang berbeda (contoh: karet, plastik, besi).
+3.  
+Stopwatch.
+4.  
+Pita pengukur.
+5.  
+Penggaris dan busur
+Ikutilah langkah-langkah berikut:
+1.  
+Atur papan pada sudut kemiringan tertentu (misalnya 30 derajat).
+2.  
+Letakkan bola pertama di bagian atas bidang miring dan biarkan 
+ia bergulir ke bawah. Gunakan stopwatch untuk mengukur berapa 
+lama bola tersebut memerlukan waktu untuk mencapai bagian bawah 
+papan.
+3.  
+Ulangi langkah sebelumnya untuk setiap bola dengan massa yang 
+berbeda.
+4.  
+Catat waktu yang dibutuhkan oleh setiap bola untuk mencapai dasar 
+bidang miring.
+5.  
+Analisis data yang diperoleh.
+Diskusikan dan jawablah pertanyaan berikut:
+1.  
+Apakah bola dengan massa yang berbeda memiliki waktu yang 
+berbeda untuk mencapai bagian bawah bidang miring? Mengapa?
+Ayo Bereksperimen
+Aktivitas 4.4
+11. Hukum II Newton
+Kamu telah mengetahui bahwa Hukum I Newton belum membahas penyebab 
+benda bergerak atau berhenti. Sebuah benda tidak mungkin bergerak sendiri 
+tanpa adanya suatu sebab yang menyebabkan benda tersebut dapat bergerak. 
+ 
+Sebelum melanjutkan pembahasan pada subbab ini, lakukanlah  Aktivitas 
+4.4 berikut:
+131
+Bab IV  Gerak dan Gaya dalam Teknologi
+2.  
+Bagaimana pengaruh gaya berat pada masing-masing bola terhadap 
+percepatannya di sepanjang bidang miring?
+3.  
+Prediksikan apa yang akan terjadi jika kemiringan papan diubah? 
+ 
+Aktivitas 4.4 akan memberikan pengalaman praktis kepadamu untuk 
+memahami penyebab gerak suatu benda dalam konteks gerakan di sepanjang 
+bidang miring. Untuk itu Kita memerlukan hukum selanjutnya yang mampu 
+menjelaskan perubahan keadaan gerak benda. 
+ 
+Hukum tersebut menyatakan bahwa benda dapat diubah keadaan 
+geraknya jika pada benda diberi gaya. Gaya yang bekerja berkaitan langsung 
+dengan perubahan keadaan gerak benda. Hukum tersebut dikenal dengan 
+nama Hukum II Newton.
+ 
+Besaran penting dari Hukum II Newton adalah yang disebut sebagai 
+percepatan. Percepatan sebuah benda sebanding dengan gaya yang diberikan 
+pada benda tersebut dan berbanding terbalik dengan massa benda itu. Arah 
+percepatan benda sama dengan arah gaya itu.
+ 
+Ketika kamu mendorong meja di depan kelas maka meja tersebut 
+bergerak sesuai dengan harapanmu. Pada Aktivitas 4.4 yang telah dilakukan 
+yang menyebabkan benda menggelinding ke bawah adalah gaya gravitasi yang 
+besarnya telah diketahui. Gerak meja dan bola tersebut memenuhi Hukum II 
+Newton yang dituangkan dalam rumus:
+F = m . a     (8)
+Keterangan:
+F  = Gaya, dengan satuan Newton
+m = massa benda, satuan kilogram (kg)
+a  = percepatan gerak benda, satuan m/s2
+12. Hukum III Newton
+Ketika suatu benda memberikan gaya pada benda kedua, benda kedua juga 
+akan memberikan gaya yang sama besar tetapi berlawanan arah. Penahkah 
+kamu melihat fenomena tersebut di dalam kehidupan sehari-hari?
+132
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+Penyiram Air yang Menari-nari
+Kali ini kamu diminta untuk membantu petugas taman sekolah untuk 
+membuat penyiram tanaman yang praktis, Alat ini dibuat agar tanaman-
+tanaman di sekolahmu menjadi lebih segar dan tumbuh lebat.
+ 
+Untuk membantu petugas taman kau dapat merancang suatu penyiram 
+tanaman dengan menerapkan Hukum III Newton yang telah kamu pelajari. 
+ 
+Kamu diajak untuk dapat membuat suatu alat percobaan teknologi 
+sederhana yang bermanfaat untuk lingkungan sekitarmu.
+ 
+Perhatikan Gambar 4.14 berikut. Bahan dasar yang kamu perlukan dapat 
+berupa kardus kotak susu atau kaleng susu bekas, tali, penggaris, paku, dan palu. 
+Ayo Berkreasi
+Aktivitas 4.5
+ 
+Apakah kamu pernah mencangkul atau menggali tanah? Saat melakukan 
+aktivitas mencangkul atau menggali tanah, kamu akan merasa tanganmu 
+mendapatkan gaya balik dari tanah yang dicangkul. Kamu memberikan gaya 
+ke tanah dengan pacul (aksi), dan tanah memberikan gaya balik ke tanganmu 
+(reaksi). Hal inilah yang menyebabkan memacul menjadi aktivitas yang sangat 
+melelahkan.
+ 
+Hukum yang mengatur konsep tersebut sering disebut dengan 
+“Hukum Aksi-Reaksi”. Secara sederhana bunyi Hukum III Newton tersebut 
+menyatakan, “Untuk setiap aksi gaya akan ada gaya reaksi yang sama besar 
+tetapi  berlawanan arah”
+ 
+Perlu ditekankan, bahwa “gaya aksi” dan “gaya reaksi” bekerja pada 
+benda yang berbeda. Jika benda pertama melakukan gaya pada benda kedua 
+(gaya aksi), maka benda kedua melakukan gaya yang sama besar pada benda 
+pertama tetapi arahnya berlawanan (gaya reaksi). Ingat peristiwa pacul dan 
+tanah. Hukum tersebut mengungkapkan keberadaan gaya reaksi yang sama 
+besar dengan gaya aksi, tetapi berlawanan arah.
+ 
+Ungkapan di atas dapat dituliskan dengan rumus,
+Faksi = – Freaksi   (9)
+133
+Bab IV  Gerak dan Gaya dalam Teknologi
+Gambar 4.14 Alat penyiram dari 
+kotak/kaleng susu bekas.
+Lubang dengan 
+paku miringkan 
+ke satu arah.
+Tali
+Satu lubang 
+pada tiap 
+sudut.
+ 
+Buatlah beberapa lubang pada bagian bawah kaleng dengan mengatur 
+jaraknya. Isilah air hingga tingginya mencapai setengah ukuran kardus/kaleng. 
+Untuk dapat mengamati tarian putaran penyiram air, isikan data pada tabel 
+berikut.
+Tabel 4.2 Data Pengamatan Tarian Putaran Penyiram Air
+Tinggi Air 
+(cm)
+Banyaknya 
+putaran Kardus
+Waktu hingga kardus 
+berhenti (Menit)
+Kecepatan Putar Kardus 
+(Putaran/Menit)
+Melalui tabel di atas apakah kamu melihat perbedaan kecepatan putar dengan 
+tinggi air pada kardus susu/kaleng? Amati dan berikanlah penjelasannya!
+Membuat Roket Korek Api
+Roket pada prinsipnya adalah kendaraan dengan prinsip kerja peluncuran 
+penerapan Hukum III Newton. Jika kamu dapat mengatur/membuat teknik 
+peluncuran yang baik maka roket akan meluncur dan terbang tinggi sesuai 
+arah yang kamu inginkan. Untuk lebih memahami teknologi roket, rancang 
+Proyek Akhir Bab
+Mau coba soal yang 
+lebih menantang, 
+kamu dapat 
+memindai kode QR 
+berikut ini.
+"Telusuri tantangan 
+berikut", kamu 
+dapat memindai 
+tautan berikut ini. 
+Pindai
+Pindai
+https://buku.kemdikbud.
+go.id/s/BS33
+https://buku.kemdikbud.
+go.id/s/FAM
+134
+Ilmu Pengetahuan Alam untuk SMP/MTs Kelas VII (Edisi Revisi)
+Di  sinilah akhir dari petualangan kita mempelajari Bab Gerak dan Gaya 
+dalam Teknologi. Sekarang saatnya kamu  melihat lagi  pertanyaan-
+pertanyaan yang  kamu tulis pada awal bab, apakah ada pertanyaan yang 
+belum terjawab?
+1. 
+Apakah hal terpenting yang kamu pelajari pada bab ini?
+2. 
+Kegiatan pembelajaran yang mana yang paling menambah 
+pemahamanmu  tentang konsep Gerak dan Gaya?
+3. 
+Sikap apakah yang kamu kembangkan dalam bab ini? Sikap apa itu?
+Releksi
+dan buatlah roket korek api seperti pada Gambar 4.15. Setelah berhasil 
+meluncur berikan sedikit beban pada roket yang berhasil meluncur. 
+Misalnya, kamu dapat menambahkan tebal alumunium foilnya. Variasikan 
+berat beban yang diberikan agar kamu tahu berapa berat beban maksimal. 
+Kemudian jawablah pertanyaan berikut.
+1. 
+Apakah roket apimu dapat meluncur dengan baik?
+2. 
+Jika terkendala, apakah penyebabnya?
+3. 
+Tuliskanlah hasil analisismu tentang bagaimana tips dan trik agar korek 
+api dapat meluncur tinggi dan sesuai arah yang diinginkan.
+Gambar 4.15  Roket korek api 
+dengan bahan alumunium foil dan 
+klip kertas.
+ 
+Proyek seru ini akan membantumu mengembangkan daya kreativitas 
+dan keteknikan untuk membuat benda-benda teknologi yang bermanfaat bagi 
+manusia. Pupuklah rasa penasaran dan pantang menyerah dalam membuat 
+proyek ini sehingga kamu akan menjadi pribadi yang semakin baik saat 
+dewasa nanti. 

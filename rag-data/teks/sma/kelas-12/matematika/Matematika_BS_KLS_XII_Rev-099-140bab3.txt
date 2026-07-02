@@ -1,0 +1,2636 @@
+Bab 3
+Bab 3
+Kaidah Pencacahan
+Kaidah Pencacahan
+Ketika kamu ingin membuka kunci pengaman, mengatur posisi duduk, 
+atau memilih teman dalam kelompok, mengapa cara menghitung jumlah 
+kemungkinan 
+susunannya 
+bisa 
+berbeda-beda? 
+Kapan 
+kamu 
+perlu 
+memperhatikan urutan atau tidak?
+?
+KEMENTERIAN PENDIDIKAN DASAR DAN MENENGAH
+REPUBLIK INDONESIA, 2025
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+Penulis: Mohammad Tohir, dkk 
+ISBN: 978-634-00-3118-8 (jil.3 PDF)
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+82
+Tujuan Pembelajaran 	
+Setelah kamu mempelajari bab ini, diharapkan dapat mendeskripsikan aturan 
+pengisian tempat, baik aturan penjumlahan maupun perkalian. Selain itu, 
+kamu juga diharapkan dapat melakukan analisis konsep dan bentuk permutasi 
+dan kombinasi serta mengaplikasi konsep permutasi dan kombinasi tersebut 
+dalam menyelesaikan masalah kontekstual.
+Kata Kunci 	
+	
+ࡋ
+Aturan penjumlahan 
+	
+ࡋ
+Aturan perkalian 
+	
+ࡋ
+Permutasi 
+	
+ࡋ
+Kombinasi
+Peta Konsep 	
+Permutasi
+Kombinasi
+Aturan Pengisian Tempat
+ Penerapan Permutasi dan Kombinasi dalam
+Menyelesaikan Masalah Kontekstual
+Mempelajari
+Aturan penjumlahan 
+dan perkalian
+Aturan Perkalian
+Urutan 
+diperhatikan
+Memilih dan menata benda dari banyak 
+benda yang ada
+Urutan tidak 
+diperhatikan
+Kaidah 
+Pencacahan
+Bab 3 | Kaidah Pencacahan
+83
+A.	 Aturan Pengisian Tempat 
+Ayo, Bereksplorasi
+∑
+Arkana adalah seorang duta literasi 
+sekolah, dia memiliki program kerja 
+untuk menata ruang baca di sekolah 
+menjadi menarik dan rapi. Selama ini, 
+ruang baca di perpusatakaan sekolah 
+belum tertata dengan rapi. Dia melihat 
+kondisi rak buku di ruang baca seperti 
+pada Gambar 3.1. Terdapat buku yang 
+miring, menumpuk, dan berbeda warna 
+serta ukurannya, sehingga terlihat tidak 
+rapi. 
+Ketika menjalankan program kerja Arkana akan kembali menata buku-
+buku ini di rak sesuai jenis, warna, atau ukuran. Terdapat 3 tingkat rak buku 
+yang menentukan jenis buku, yaitu buku pelajaran, novel, dan buku teks. 
+Selanjutnya, ada 4 warna buku yaitu merah, biru, kuning, dan hitam serta ada 
+2 ukuran buku, A4 dan A5 . Coba kamu amati dan perhitungkan, berapa banyak 
+kemungkinan Arkana dapat menyusun buku-buku tersebut berdasarkan 
+kriteria yang ada?
+Ayo, Mencoba
+Rak perpustakaan sudah ditata dengan rapi. Jika kamu akan membaca satu 
+buku dari beberapa buku yang sudah ditata oleh Arkana berdasarkan kriteria 
+yang ada, berapa banyak pilihan buku yang dapat kamu dapatkan?
+Coba analisislah dengan mengisi pengelompokan kriteria buku yang digunakan 
+Arkana.
+Tabel 3.1 Pengelompokan Kriteria Buku
+Jenis
+…
+…
+novel
+Warna
+…
+…
+…
+…
+Ukuran
+…
+…
+Gambar 3.1 Susunan Buku di Rak
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+84
+1.	
+Perhatikan pengelompokan tersebut, berapa banyak kemungkinan kamu 
+memilih buku jika hanya berfokus pada jenis buku?
+2.	
+Bagaimana jika kamu memilih dua kriteria sekaligus, misalnya warna dan 
+ukuran?
+Aturan Penjumlahan 	
+Perhatikan kegiatan Ayo, Mencoba sebelumnya, jika kamu kelompokkan 
+secara terpisah maka terdapat 3 jenis buku, 4 warna buku, dan 2 ukuran buku. 
+Pengelompokan tersebut jelas berbeda dan saling lepas, sehingga didapatkan 
+banyak pilihan buku yang dibaca adalah
+3 + 4 + 2 = 9 cara
+Secara matematis,
+Misalkan terdapat k kejadian yang saling lepas, dengan ketentuan:
+Kejadian ke-1 terjadi dalam n1 cara berbeda
+Kejadian ke-2 terjadi dalam n2 cara berbeda
+	
+⋮
+Kejadian ke-k terjadi dalam nk cara berbeda, maka
+banyak cara terjadinya seluruh kejadian tersebut adalah
+n1 + n2 + ⋯ + nk  cara berbeda
+Contoh
+3.1
+Zaydan ingin mengikuti kegiatan FLS3N (Festival Lomba Seni dan Sastra Siswa 
+Nasional) yang terdiri dari 7 bidang lomba dan O2SN (Olimpiade Olahraga 
+Siswa Nasional) yang terdiri dari 9 bidang lomba tingkat kabupaten. Akan 
+tetapi, syarat keikutsertaan lomba adalah mewakili sekolah pada satu bidang 
+lomba untuk seluruh kegiatan. Tentukan banyak cara Zaydan memilih bidang 
+lomba yang sesuai.
+Alternatif penyelesaian:
+Diketahui:
+Kegiatan FLS3N	 : 7 bidang lomba
+Kegiatan O2SN	 : 9 bidang lomba
+Bab 3 | Kaidah Pencacahan
+85
+Karena kasus di atas termasuk aturan penjumlahan, maka banyak cara 
+memilih bidang lomba adalah 7 + 9 = 16 cara.
+Aturan Perkalian  	
+Aturan perkalian terdiri dari tiga cara, sebagai berikut.
+1.	
+Aturan Tabel
+	
+Humam memiliki 5 kemeja dan 3 celana. Dengan menggunakan aturan 
+tabel, banyaknya pasangan kemeja dan celana yang bisa dipakai Humam 
+ditunjukkan sebagai berikut.
+Tabel 3.2 Pasangan Kemeja dan Celana
+Kemeja (K)
+K1
+K2
+K3
+K4
+K5
+Celana
+(C)
+C1
+C1K1
+C1K2
+C1K3
+C1K4
+C1K5
+C2
+C2K1
+C2K2
+C2K3
+C2K4
+C2K5
+C3
+C3K1
+C3K2
+C3K3
+C3K4
+C3K5
+Coba analisis beberapa pertanyaan berikut.
+a.	
+Jika Humam memiliki 1 kemeja dan 1 celana, berapa banyak pilihan 
+berpakaian yang mungkin?
+b.	
+Bagaimana jika Humam memiliki 2 kemeja dan 1 celana? Atau 2 
+kemeja dan 2 celana?
+c.	
+Jika kamu punya 5 kemeja dan 3 celana seperti Humam, berapa 
+banyak pasangan kemeja dan celana berbeda yang bisa kamu pakai?
+	
+Berdasarkan aturan Tabel 3.2 didapat 15 cara memakai kemeja dan celana. 
+Hal tersebut didapat dari 5 × 3 = 15, sehingga dapat disimpulkan bahwa 
+jika terdapat m kemeja dan n celana, maka ada m × n kemungkinan.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+86
+2.	
+Aturan Diagram Cabang
+Contoh
+3.2
+Ahmad akan liburan ke Malang (M), dia berangkat dari kota asalnya yaitu 
+Kudus (K), melalui kabupaten Lamongan (L), kemudian kota Surabaya (S). Jika 
+banyak jalan dari Kudus ke kabupaten Lamongan ada dua jalan. Kemudian 
+dari kabupaten Lamongan ke Kota Surabaya ada tiga jalan. Sedangkan dari 
+Kota Surabaya ke Malang ada dua jalan. Berapa banyak rute perjalanan yang 
+bisa dilalui Ahmad?
+Alternatif penyelesaian:
+Permasalahan tersebut dapat diketahui dengan mendaftar kemungkinan rute 
+perjalanan yang dapat dilalui oleh Ahmad ketika melakukan perjalanan dari 
+kota Kudus ke kota Malang. 
+M1
+M2
+M1
+M2
+M1
+M2
+M1
+M2
+M1
+M2
+M1
+M2
+K, L1, S1, M1
+K, L1, S1, M2
+K, L1, S2, M1
+K, L1, S2, M2
+K, L1, S3, M1
+K, L1, S3, M2
+K, L2, S1, M1
+K, L2, S1, M2
+K, L2, S2, M1
+K, L2, S2, M2
+K, L2, S3, M1
+K, L2, S3, M2
+S1
+S1
+S2
+S2
+S3
+S3
+K
+L1
+L2
+Berdasarkan aturan diagram cabang didapat 12 rute perjalanan yang bisa 
+dilewati dari Kudus (K) ke Malang (M) melalui kabupaten Lamongan (L) dan 
+Bab 3 | Kaidah Pencacahan
+87
+Surabaya (S). Rute perjalanan tersebut didapat dengan operasi perkalian yaitu 
+2 × 3 × 2 = 12.
+3.	
+Aturan Perkalian Terurut
+Contoh
+3.3
+Terdapat lima angka yaitu 3, 4, 5, 6, dan 7. Tentukan banyak bilangan tiga 
+angka yang bisa dibuat dari lima angka tersebut.
+Alternatif penyelesaian
+	
+Apabila angka boleh berulang
+5
+5
+5
+	
+5 × 5 × 5 = 125 bilangan
+Apabila angka tidak boleh berulang
+5
+4
+3
+  5 × 4 × 3 = 60 bilangan
+Berdasarkan aturan pengisian tempat (aturan perkalian) yang sudah 
+dijelaskan sebelumnya dapat disimpulkan bahwa aturan tersebut merupakan 
+kejadian yang saling bebas. Seperti yang terjadi pada aturan diagram cabang 
+bahwa rute perjalanan dari Kudus ke Kabupaten Lamongan terdapat p cara, 
+dari kabupaten Lamongan ke Kota Surabaya terdapat q cara, dan dari Kota 
+Surabaya ke Malang terdapat r cara. Banyak rute perjalanan yang dapat dilalui 
+yaitu sebanyak p × q × r cara atau bisa ditulis pqr cara.
+Secara matematis,
+Misalkan terdapat k kejadian yang saling bebas, dengan ketentuan:
+Kejadian ke-1 terjadi dalam n1 cara berbeda
+Kejadian ke-2 terjadi dalam n2 cara berbeda
+	
+⋮
+Kejadian ke-k terjadi dalam nk cara berbeda, maka
+banyak cara terjadinya seluruh kejadian tersebut adalah
+n1 × n2 × ... × nk cara berbeda
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+88
+Ayo, Berkomunikasi
+Choirul merupakan siswa yang memiliki minat tinggi terhadap teknologi, dia 
+ingin membantu usaha toko keluarganya untuk memudahkan mengecek harga 
+barang dan stok barang dengan membuat barcode. Barcode yang digunakan 
+adalah jenis UPC (Universal Product Code) yang terdiri dari 10 atau 12 digit 
+yang lebih sering digunakan untuk toko grosir dan eceran. Berikut contoh 
+barcode yang digunakan Choirul.
+Pada digit terakhir, yaitu x, y, dan z terdapat tiga 
+angka yang perlu di isi (0 – 9), tiga digit terakhir 
+tersebut menunjukkan kode dan jenis barang. 
+Barapa banyak kemungkinan susunan angka yang 
+dapat menggantikan x, y, dan z?
+Petunjuk
+1.	
+Perhatikan Gambar 3.2.
+2.	
+Pahami perintah yang ada dan analisis kemungkinan yang terjadi.
+3.	
+Diskusikan dengan temanmu mengenai permasalahan tersebut.
+4.	
+Buat argumentasi dan penjelasan berdasarkan hasil diskusi.
+5.	
+Presentasikan hasil diskusi kepada teman yang lain.
+Tahukah Kalian
+Aturan perkalian dari bilangan asli dapat dituliskan dalam bentuk berikut.
+1 × 2 × 3 × 4 × ... × n = n!
+Notasi n! dibaca n faktorial
+Beberapa catatan yang perlu diperhatikan
+0!	= 1
+1!	= 1
+2!	= 1 × 2 = 2 × 1! = 2
+Gambar 3.2 Barcode UPC 
+(Universal Product Code)
+0 1 2 3 4
+5 6x y z
+Bab 3 | Kaidah Pencacahan
+89
+3!	= 1 × 2 × 3 = 3 × 2! = 6
+4!	= 1 × 2 × 3 × 4 = 4 × 3! = 12 × 2! = 24
+dan seterusnya.
+Secara umum dituliskan
+!
+!
+n
+n n
+1
+=
+-
+^
+h atau 
+!
+!
+n
+n
+n
+1
+-
+=
+]
+g
+!
+!
+n
+n n
+n
+1
+2
+=
+-
+-
+^
+^h
+h atau 
+!
+!
+(
+)!
+n n
+n
+n
+1
+2
+-
+=
+-
+^
+h
+Ayo, Berpikir Kreatif
+Program kerja bidang sosial pada OSIS SMA Abhipraya akan menyiapkan 
+100 paket kado untuk acara amal sekolah. Setiap paket terdiri dari 1 jenis 
+makanan ringan, 1 jenis alat tulis, dan 1 hiasan kreatif. Misal tersedia 4 
+jenis makanan ringan: biskuit, cokelat, keripik, dan permen, 3 jenis alat 
+tulis: bolpoin warna, pensil, dan sticky note, serta 5 jenis hiasan: pita 
+merah, pita emas, stiker lucu, gantungan kunci mini, dan kartu ucapan. 
+Bagaimana kamu bisa membantu OSIS SMA Abhipraya untuk membuat 
+paket dengan minimal 2 tema dari beberapa tema yaitu "warna ceria", 
+"klasik minimalis", "ramah lingkungan" yang konsisten dan menarik? 
+Hitung jumlah paket yang berhasil dibuat dan jelaskan isi paketnya untuk 
+masing-masing tema?
+Latihan
+3.1
+1.	
+Ahmad ingin menggunakan salah satu bolpoin dari 5 bolpoin warna 
+merah, 2 bolpoin warna hitam, dan 4 bolpoin warna biru yang ada di 
+atas meja belajarnya. Tentukan banyak cara Ahmad dapat menggunakan 
+bolpoin tersebut untuk belajar.
+2.	
+Achmad dan Budi merupakan calon ketua OSIS di SMA Semangat 45. 
+Sementara itu, Citra, Danita, dan Erik adalah calon wakil ketua. Kemudian 
+terdapat Fitri dan Gina merupakan pesaing untuk sekretaris. Berilah 
+tanda centang (3) pada pernyataan yang Benar atau Salah.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+90
+Pernyataan
+Benar
+Salah
+Jumlah pilihan ketua adalah 2 siswa.
+Setelah memilih ketua, setiap kandidat hanya 
+bisa berpasangan dengan 2 wakil ketua.
+Untuk setiap pasangan ketua dan wakil, terdapat 
+2 pilihan sekretaris.
+Total pasangan pengurus inti OSIS yang mungkin 
+adalah 12.
+Jika ditambahkan satu kandidat sekretaris baru, 
+total pemilihannya menjadi 18.
+3.	
+Arkan memiliki 5 potong kemeja, 4 celana panjang, dan 3 pasang sepatu 
+berbeda yang digunakan sehari-hari sebagai pakaian bekerja. Jika Arkan 
+membuat setelan yang berbeda saat mengenakannya dalam bekerja, 
+tentukan banyak setelan berbeda yang dibuat. 
+4.	
+Sepuluh orang siswa memiliki tinggi yang berbeda. Guru olahraga 
+menginginkan mereka berbaris menyamping dengan syarat tidak ada 
+siswa diapit oleh dua siswa lain yang lebih tinggi dari dirinya. Berapa 
+banyaknya cara membuat barisan sesuai ketentuan itu?
+5.	
+Klub bulu tangkis Tangkas mempunyai 24 anggota yang terbagi menjadi 
+dua kelompok umur, yaitu kelompok anak dan kelompok remaja. Kelompok 
+anak terdiri atas  15 pemain dengan 8 di antaranya adalah pemain putra. 
+Banyak anggota putri dalam klub bulu tangkis Tangkas ada 10 pemain. 
+Tentukan banyak formasi ganda campuran yang dapat dibentuk oleh klub 
+tersebut dengan masing-masing ketentuan berikut.
+a.	
+Kedua pemain berasal dari kelompok remaja.
+b.	
+Satu pemain dari masing-masing kelompok.
+Bab 3 | Kaidah Pencacahan
+91
+B.	 Permutasi
+Ayo, Bereksplorasi
+∑
+Kelas XII Tunas Bangsa memilih pengurus kelas pada tahun ajaran 2024–2025, 
+pengurus kelasnya terdiri dari ketua, wakil ketua, sekretaris, dan bendahara. 
+Contoh struktur pengurus kelas tampak disajikan seperti pada Gambar 3.3 
+berikut. 
+XII - SMA TUNAS BANGSA
+Kepala Sekolah
+Wali Kelas
+Ketua Kelas
+Wakil Ketua Kelas
+Sekretais
+Bendahara
+NAMA
+NAMA
+NAMA
+Gambar 3.3 Struktur Pengurus Kelas
+Pada kelas XII-A terdapat 8 siswa yang bersedia menjadi pengurus kelas. 
+Berdasarkan Gambar 3.3 di atas, diketahui bahwa terdapat posisi pengurus 
+yang belum terisi, yaitu ketua kelas, wakil ketua kelas, sekretaris, dan 
+bendahara. Jika yang terpilih menjadi ketua kelas dan wakil ketua kelas adalah 
+Roni dan Andi, maka berapa banyak cara yang mungkin dalam menyusun 
+susunan pengurus tersebut?
+Coba perhatikan.
+Banyak cara yang mungkin untuk mengisi susunan pengurus yang belum 
+terisi dapat ditunjukkan sebagai berikut.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+92
+Terdapat 8 siswa yang bersedia, dan terdapat 2 siswa yang sudah mengisi 
+susunan pengurus yaitu Roni dan Andi. Sehingga tersisa 6 siswa yang mungkin 
+mengisi 2 susunan pengurus lain yang belum terisi. 
+Tabel 3.3 Banyak Cara Susunan Pengurus
+Susunan Pengurus
+Bendahara
+Sekretaris
+Banyak Cara
+6
+5
+Jadi, banyak cara yang mungkin membuat susunan pengurus adalah 6 × 5 = 30 cara.
+Secara matematis, perhitungan banyaknya susunan pengurus tersebut dapat 
+dituliskan menggunakan konsep faktorial sebagai berikut.
+(
+)
+(
+)
+!
+!
+(
+)!
+!
+6
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+4
+6
+6
+2
+6
+#
+#
+#
+#
+#
+#
+#
+#
+#
+=
+=
+=
+-
+Hasil terakhir perhitungan, dapat dinotasikan sebagai
+!
+!
+P
+6
+2
+6
+2
+6
+-
+=
+Berdasarkan perhitungan tersebut kalian dapat mengetahui bahwa susunan 
+pengurus kelas yang belum terisi adalah sekretaris dan bendahara. Sekretaris 
+dan bendahara dapat diisi oleh 6 siswa yang bersedia sehingga kondisi tersebut 
+dapat dinyatakan sebagai banyaknya cara menyusun dua pengurus (sekretaris 
+dan bendahara) dari 6 siswa. Secara matematis hal ini dapat disebut sebagai 
+permutasi 2 dari 6 objek, yang dinotasikan dengan P2
+6 .
+DefinisiÚeɧȜʙʄŔsi
+Misalkan: 
+r adalah banyak objek yang diinginkan, dan
+n adalah banyak keseluruhan objek yang tersedia
+Permutasi r objek dari n RbMek umumnya adalah Mumlah kRnfigurasi 
+potensial dari r objek yang diambil dari n objek, di mana r ȱ n tidak 
+ditampilkan secara matematis dan merupakan syarat dalam setiap 
+kemungkinan susunan r objek: Elemen permutasi r yang berbeda dari n 
+adalah:
+Bab 3 | Kaidah Pencacahan
+93
+,
+P
+P
+P n r
+n n
+n
+n
+r
+1
+2
+1
+n
+r
+r
+n
+f
+=
+=
+=
+-
+-
+-
++
+^
+^
+^
+^
+h
+h
+h
+h
+!
+!
+P
+n
+r
+n
+r
+n =
+-
+Keterangan:
+P2
+6 dibaca Permutasi r objek dari n objek.
+n! dibaca n faktorial
+n! = n × (n - 1) × (n - 2) × ... × 2 × 1
+Ayo, Berpikir Kritis
+SMA Abhipraya memiliki klub Olimpiade Matematika yang akan mengikuti 
+olimpiade tingkat nasional. Anggota klub terdiri dari dua siswa laki-laki 
+dan tiga siswa perempuan. Sebagai persiapan, mereka diberikan try out 
+kemudian disusun peringkat berdasarkan nilai try out. Misal diasumsikan 
+bahwa tidak ada dua siswa dengan nilai try out yang sama. Setujukah 
+kamu bahwa banyak susunan peringkat berbeda yang mungkin dihasilkan 
+akan sama dengan banyak susunan ketika siswa laki-laki dan perempuan 
+di peringkat sendiri?
+Petunjuk
+Rumus umum di atas bisa dimodifikasi berdasarkan konteks yang lebih 
+khusus. Berikut beberapa permutasi khusus.
+1.	 Permutasi n Item dari n Objek
+Permutasi n item dari n objek yang disediakan dapat ditulis menjadi sebagai 
+berikut.
+	
+Pn
+n = (
+)!
+!
+n
+n
+n
+-
+	
+     	= 
+!
+!
+n
+0
+	
+     	=  
+!
+n
+1
+	
+     	= n!
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+94
+Contoh
+3.4
+Suatu permainan tradisonal Galasin (gobak sodor) terdiri dari 6 orang. 
+Tentukan banyak cara menyusun formasi yang terdiri atas 6 orang tersebut.
+Alternatif penyelesaian:
+Diketahui 6 pemain galasin. Banyak cara menyusun formasi yang tediri atas 6 
+orang adalah 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720 cara.
+Contoh
+3.5
+Klinik bersalin “Sehat Jaya” memiliki kamar bersalin yang hanya bisa 
+menampung 4 pasien yang akan melahirkan. Pada suatu hari, klinik tersebut 
+kedatangan 4 pasien yang akan melahirkan dalam waktu hampir bersamaan. 
+Berapa banyak cara yang dapat digunakan oleh bidan di klinik tersebut dalam 
+menampung 4 pasien?
+Alternatif penyelesaian:
+Karena ada 4 pasien yang akan menempati 4 kamar, maka terdapat 4! cara atau 
+dapat ditulis sebagai P4
+4 . Dengan demikian, dapat dihitung sebagai berikut.
+4! = 4 × 3 × 2 × 1
+4! = 24
+atau
+Pr
+n 	= (
+)!
+!
+n
+r
+n
+-
+P4
+4 	= (
+)!
+!
+4
+4
+4
+-
+	
+= 
+!
+!
+0
+4 
+	
+= 
+!
+1
+4
+	
+= 4!
+	
+= 4 × 3 × 2 × 1
+	
+= 24
+Jadi, banyak cara 4 pasien menempati ruang bersalinnya adalah ada 24 cara.
+Bab 3 | Kaidah Pencacahan
+95
+Ayo, Berkomunikasi
+Perhatikan Gambar 3.4 berikut.
+Gambar 3.4 Denah Perumahan Bunga Indah
+Heru dan Dino adalah sahabat karib yang selalu beraktivitas bersama. Suatu 
+hari mereka akan berenang sepulang sekolah. Diskusikan dengan temanmu, 
+berapa banyak kemungkinan Heru dan Dino menuju kolam renang? 
+Presentasikan hasil temuan kalian.
+Petunjuk
+a.	
+Perhatikan rumah Heru dan Dino. Jika mereka melewati Jalan Merdeka 
+untuk menuju kolam renang, berapa jalan yang akan mereka lewati?
+b.	
+Jika Heru dan Dino berangkat sendiri-sendiri dan sepakat untuk bertemu 
+langsung di kolam renang, jalan apa saja yang akan dilewati mereka?
+c.	
+Berdasarkan petunjuk sebelumnya, tuliskan dan hitung jalan apa saja 
+yang dilewati Heru dan Dino. 
+2.	 Permutasi dengan Objek yang Sama
+Misal terdapat susunan objek yang memiliki n unsur, di mana terdapat r1 
+unsur yang sama ke-1, r2 unsur yang sama ke-2 dan seterusnya sampai dengan 
+rk untuk unsur yang sama ke-k. Banyaknya permutasi pada aturan tersebut 
+dirumuskan sebagai berikut.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+96
+( , , ,
+)
+P
+P n r r
+r
+…
+,
+, ...,
+r r
+r
+n
+k
+1
+2
+k
+1
+2
+=
+ =
+!
+!
+...
+!
+P
+r
+r
+r
+n
+,
+, ...,
+n
+r r
+r
+k
+1
+2
+k
+1
+2
+#
+#
+#
+=
+Keterangan:
+n	 : banyak unsur keseluruhan
+rk	 : banyak unsur yang sama ke-k
+Contoh
+3.6
+Tentukan banyak susunan sepuluh huruf dari huruf KALIMANTAN.
+Alternatif penyelesaian:
+Banyaknya susunan 10 huruf yang diambil dari huruf KALIMANTAN, 
+permasalahan ini merupakan permasalahan yang berkaitan dengan permutasi 
+berulang.
+Misalkan banyak huruf yang sama adalah sebagai berikut.	
+r1 = munculnya huruf A, maka r1 = 3 
+r2 = munculnya huruf N, maka r2 = 2
+Dengan demikian,
+P ,
+, ...,
+r r
+r
+n
+k
+1
+2
+	= 
+!
+!
+!
+!
+…
+r
+r
+r
+n
+k
+1
+2
+#
+#
+#
+    P ,3 2
+10 	 = !
+!
+!
+3
+2
+10
+#
+	
+	
+	
+= 
+!
+!
+3
+2
+1
+10
+9
+8
+7
+6
+5
+4
+3
+#
+#
+#
+#
+#
+#
+#
+#
+#
+ 
+	
+	
+= 
+2
+10
+9
+8
+7
+6
+5
+4
+#
+#
+#
+#
+#
+#
+ 
+	
+	
+= 10 × 9 × 8 × 7 × 6 × 5 × 2
+	
+	
+= 302.400
+Jadi, banyaknya susunan huruf dari huruf KALIMANTAN ada 302.400 cara.
+Contoh
+3.7
+Perhatikan kata pertama pada semboyan Indonesia yaitu BHINNEKA. Tentukan 
+banyaknya susunan huruf berbeda yang dapat dibuat dari huruf-huruf pada 
+kata pertama semboyan tersebut. 
+Bab 3 | Kaidah Pencacahan
+97
+Alternatif penyelesaian:
+Diketahui banyak huruf pada semboyan tersebut ada 8 huruf. Karena termasuk 
+permutasi dengan objek yang sama atau pengulangan, maka terlebih dahulu 
+temukan huruf yang sama. Ditemukan hanya 1 huruf yang sama yaitu N, 
+sehingga r = 2.
+Sehingga,
+P ,
+, ...,
+r r
+r
+n
+k
+1
+2
+	= 
+!
+!
+!
+!
+…
+r
+r
+r
+n
+k
+1
+2
+#
+#
+#
+P , , , ,
+2 3 2 3 2
+18
+	= 
+!
+!
+2
+8 
+	
+	
+= 
+!
+!
+8
+7
+6
+5
+4
+3
+2
+2
+#
+#
+#
+#
+#
+#
+ 
+	
+	
+=	 8 × 7 × 6 × 5 × 4 × 3
+	
+	
+=	 20.160
+Jadi, banyaknya susunan berbeda dari huruf pada kata pertama semboyan 
+BHINNEKA ada 20.160 cara.
+3.	 Permutasi Siklis
+Jika 3 orang Ahmad (a), Choirul (b), dan Anam (c) duduk berjajar, maka posisi 
+duduk adalah abc, acb, bca, bac, cab, dan cba. Akan tetapi jika orang tersebut 
+duduk mengelilingi meja bundar, maka posisi abc, bca, dan cab adalah sama. 
+Demikian pula posisi acb, cba, dan bac sama. Dengan demikian tiga orang a, 
+b, dan c yang duduk melingkar hanya ada 2 posisi duduk, yaitu abc dan acb. 
+Masalah seperti ini disebut Permutasi Siklis.
+Gambar 3.5 Posisi duduk melingkar pada meja bundar.
+Berdasarkan gambar tiga orang yang duduk di meja bundar, dapat ditunjukkan 
+bahwa 
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+98
+	
+Banyak permutasi dari 3 objek yang berbeda adalah 3!.
+	
+Ada tiga jenis permutasi siklis yang sama.
+	
+Banyak susunan 3 objek berbeda dalam permutasi siklis adalah
+!
+!
+(
+)!
+3
+3
+3
+3
+2
+1
+2
+3
+1
+#
+#
+=
+=
+=
+-
+Secara umum, dapat ditentukan bahwa
+	
+Banyak permutasi dari n objek yang berbeda adalah n!.
+	
+Ada n jenis permutasi siklis yang sama.
+	
+Banyak susunan n objek berbeda dalam permutasi siklis adalah
+!
+...
+(
+)
+(
+)!
+n
+n
+n
+n
+n
+n
+1
+2
+3
+1
+1
+#
+#
+#
+#
+#
+=
+-
+=
+-
+Jika terdapat n objek disusun secara melingkar (siklis), maka banyak susunan 
+objek dapat ditentukan dengan aturan:
+!
+P
+n
+1
+siklis
+n
+=
+-
+^
+h
+Ayo, Berpikir Kritis
+Secara matematis, jika terdapat permutasi siklis n objek dari r objek 
+yang berbeda. Apa yang dapat kamu temukan dengan menggunakan 
+pemahaman yang sama? Jelaskan pendapatmu.
+Contoh
+3.8
+Terdapat empat orang yang melakukan diskusi dengan duduk secara melingkar. 
+Tentukan banyak susunan yang bisa dibentuk dari empat orang tersebut.
+Alternatif penyelesaian:
+P4 = (4 - 1)! = 3! = 3 × 2 × 1 = 6 susunan.
+Contoh
+3.9
+Terdapat lima orang laki-laki dan tiga orang perempuan duduk mengelilingi 
+pada suatu meja bundar, tentukan banyaknya cara duduk jika:
+a.	
+duduk bebas, dan
+b.	
+tidak ada perempuan yang duduk berdampingan.
+Bab 3 | Kaidah Pencacahan
+99
+Alternatif penyelesaian:
+Diketahui 5 orang laki-laki dan 3 orang perempuan duduk melingkar. 
+a.	
+Jika mereka duduk bebas, maka banyak cara dihitung sebagai berikut.
+	
+Psiklis
+n
+	= 
+!
+n
+n = (n - 1)!
+	
+Psiklis
+8
+	= (8 - 1)!
+	
+	
+= 7! = 7 × 6 × 5 × 4 × 3 × 2 × 1
+	
+	
+= 5.040
+	
+Jadi, banyak cara duduk apabila duduknya bebas adalah ada sebanyak 
+5.040 cara.
+b.	
+Setelah semua laki-laki duduk, perempuan mempunyai pilihan sebanyak 
+lima pRsisi *ambar di baZah, tanda ࡆ menunMukkan pRsisi yang sudah 
+ditempati oleh laki-laki.
+ 
+	
+Karena dua perempuan tidak boleh duduk berdampingan, maka 
+perempuan kedua mempunyai empat pilihan dan perempuan ketiga 
+mempunyai tiga pilihan, sehingga 4! × 5 × 4 × 3 = 4! × 60 = 24 × 60 = 1.440
+	
+Jadi, banyak cara duduk apabila tidak ada perempuan yang duduk 
+berdampingan adalah sebanyak 1.440 cara.
+Ayo, Menggunakan Teknologi
+Kamu telah belajar tentang cara menghitung banyaknya 
+susunan 
+dari 
+sekumpulan 
+objek 
+yang 
+berbeda 
+menggunakan rumus pada konsep permutasi. Selanjutnya, 
+mari 
+menjelajahi 
+teknologi 
+untuk 
+membantumu 
+memahami konsep permutasi secara lebih visual, cepat, dan 
+menyenangkan. Kunjungi tautan berikut atau pindai kode 
+respons cepat yang tersedia.
+Pindai
+https://bukupusbuk.
+id/s/mtk12permutasi
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+100
+Petunjuk
+1.	
+Buka pranala internet menggunakan gawai atau laptop.
+2.	
+Ketikkan tautan atau pindai kode respons cepat yang disediakan.
+3.	
+Supaya lebih mudah memahami, alihkan laman menjadi bahasa 
+Indonesia (opsional).
+4.	
+Kerjakan soal yang diberikan.
+5.	
+Kamu dapat menggunakan kalkulator yang disediakan di web tersebut.
+Latihan
+3.2
+1.	
+SMK Abisatya memiliki program kegiatan Rumah Terampil yang bertujuan 
+menambah kompetensi siswa untuk menghadapi dunia kerja yang 
+bekerjasama dengan Balai Latihan Kerja. Suatu hari terdapat 12 siswa 
+yang melakukan magang di sebuah perusahaan dengan mengendarai 
+empat mobil. Kapasitas mobil yang dikendarai secara berturut-turut yaitu 
+3, 3, 2, dan 4 orang. Berapa banyak kemungkinan mereka dapat terangkut 
+dari keempat mobil tersebut? 
+2.	
+Ada tujuh orang siswa akan membentuk barisan. Tentukan banyaknya 
+susunan barisan yang mungkin terjadi.
+3.	
+Cheria adalah petugas perpustakaan di suatu sekolah yang baru saja 
+kedatangan novel tiga jenis. Novel jenis A dan B ada 3 buku, sedangkan 
+novel jenis C ada 2 buku. Novel tersebut akan ditata secara rapi di rak 
+perpustakaan dengan beberapa kriteria. Berikan tanda centang (3) pada 
+pernyataan yang benar. 
+	 Terdapat 560 cara menyusun novel jika ditata secara acak.
+	 Jika novel jenis B ditata berdekatan, maka terdapat 60 cara menyusun 
+novel.
+Bab 3 | Kaidah Pencacahan
+101
+	 Terdapat 500 cara menyusun novel, jika tidak ada novel jenis A 
+berdekatan.
+	 Terdapat 30 cara menyusun novel, jika novel jenis C ditata 
+bersebelahan.
+4.	
+Ibukota Nusantara (IKN) akan segera digunakan untuk kegiatan kenegaraan 
+dan aktivitas perkantoran. Pak Ardy selaku pejabat yang ditugaskan untuk 
+membuat administrasi terkait public transportation, diminta mengusulkan 
+pelat nomor baru yang digunakan dikawasan IKN dan sekitarnya. Pelat 
+nomor baru yang diajukan Pak Ardy diawali dengan dua huruf KN, empat 
+angka berada di tengah dari 3, 4, 5, dan 6 dapat berulang dan diakhiri tiga 
+huruf berbeda yang terdiri dari huruf A, B, C, dan D seperti KN 3645 BCA. 
+Berapa banyak pelat nomor dari public transportation yang terbentuk?
+5.	
+Suyoko adalah seorang budayawan yang akan mengadakan pameran 
+karya-karya yang sudah pernah dibuat seperti lukisan, patung, dan lain 
+sebagainya. Terdapat 10 lukisan prioritas yang akan diletakkan pada 
+beranda utama galeri pamerannya. Jika Event Organizer (EO) sebagai 
+penanggung jawab kegiatan pameran menyarankan kepada Suyoko 
+dengan syarat berikut. 
+	
+a.	 Urutan lukisan tidak diperhitungkan.
+	
+b.	 Terdapat 4 lukisan favorit yang selalu berdampingan.
+	
+Berdasarkan pernyataan tersebut, tentukan banyak kemungkinan 
+susunan pemasangan lukisan tersebut.
+6.	
+Labuan Bajo terkenal dengan keindahan alamnya yang luar biasa, 
+termasuk pantai berpasir putih, air laut yang jernih, dan pulau-pulau kecil 
+yang indah. Kota ini juga merupakan pusat budaya Manggarai dengan 
+berbagai tradisi dan adat istiadat yang unik. Sebagai warga yang kreatif, 
+Putri mencoba menjual suvenir dari beberapa susunan huruf pembentuk 
+kata “LABUAN BAJO”. Berapa banyak susunan huruf sebagai suvenir hasil 
+karya Putri yang bisa dijual?
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+102
+C.	 Kombinasi
+Ayo, Bereksplorasi
+∑
+Pak Sauca sebagai Pembina ekstrakurikuler futsal di SMA Abhipraya diminta 
+kepala sekolah mengikuti lomba futsal antarsekolah yang akan diadakan 
+dalam rangka memeriahkan peringatan kemerdekaan HUT RI ke-80. Pak 
+Sauca akan memilih 5 siswa dari ekstrakurikuler futsal sebagai pemain inti 
+untuk mengikuti perlombaan dengan formasi seperti yang ditunjukkan pada 
+gambar berikut. 
+ 
+Gambar 3.6 Bagan Pemain Futsal
+Pak Sauca membuat strategi dengan menentukan 2 orang sebagai ȵDnN dalam 
+melakukan serangan terhadap lawan. Jika nama siswa yang mengikuti futsal 
+adalah Daus, Roni, Agus, Agung, dan Dika. Berapa banyak cara yang dapat 
+digunakan Pak Sauca dalam memilih dua orang sebagai ȵDnN?
+Berdasarkan kasus di atas, susunan ȵDnN yang mungkin adalah sebagai berikut.
+Daus – Roni
+Roni – Agus 
+Agus – Agung 
+Agung – Dika 
+Agung – Agus 
+dan seterusnya
+Pada susunan di atas diketahui bahwa terdapat beberapa pasangan yang 
+akan bertindak sebagai ȵDnN. Coba perhatikan pasangan Agus – Agung dan 
+Bab 3 | Kaidah Pencacahan
+103
+Agung – Agus, meskipun tertulis pada pasangan yang berbeda, sesungguhnya 
+pasangan tersebut berisi orang yang sama dalam penunjukkan sebagai ȵDnN. 
+Kasus di atas disebut sebagai kombinasi.
+DefinisiȲȜŸinŔsi
+Kombinasi adalah susunan dari suatu objek tertentu yang tidak 
+memperhatikan urutan. 
+Misalnya, kombinasi kata DOA akan sama dengan kombinasi kata ADO karena 
+memiliki huruf-huruf penyusun yang sama yaitu D, O, dan A.
+Secara formal dituliskan bahwa kombinasi k objek dari n objek yang 
+diketahui merupakan susunan k objek dari n objek yang diketahui (dengan 
+k ȱ n).
+Perhatikan kemungkinan susunan 2 pemain ȵDnN pada pemain futsal dari 5 
+orang pemain yang ada. Mengingat konsep permutasi sebelumnya, permutasi 
+2 objek dari 5 objek yang diketahui dituliskan P2
+5. Banyak susunannya yang 
+sama dari setiap pasangan 2 objek adalah 2! (pada kasus di atas, misalkan 
+susunan pasangan Agus – Agung sebenarnya orangnya sama dengan pasangan 
+Agung – Agus). Banyak kombinasi 2 objek dari 5 objek yang dinotasikan C2
+5 
+adalah sebagai berikut.
+C2
+5 	= 
+Banyaknya susunan yang sama
+Banyaknya permutasi
+bjek dari
+bjek
+2
+5
+q
+q
+ 
+	
+= 
+!
+P
+2
+2
+5
+ 
+	
+= (
+)
+!
+!
+5
+2
+2
+5
+-
+Secara umum, pengambilan k objek dari n objek yang berbeda menghasilkan 
+permutasi k objek dari n objek dituliskan Pk
+n. Banyaknya susunan yang 
+mungkin dan sama dari pengambilan k objek adalah k!, dengan demikian 
+banyaknya kombinasi dari k objek dari n objek berbeda dinotasikan dengan 
+Ck
+n adalah sebagai berikut.
+Ck
+n 	= 
+Banyaknya susunan yang sama
+Banyaknya permutasik
+bjek dari n bjek
+k q
+q
+ 
+	
+= 
+!k
+Pk
+n
+ 
+	
+= (
+)
+!
+!
+n
+k
+k
+n
+-
+!
+!
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+104
+Petunjuk
+Perhatikan bahwa apabila k > n, didefinisikan Ck
+n = 0. Apabila n = 0 dan 
+k bilangan bulat positif, maka Ck
+0 = 0. Hal tersebut akan berakibat bahwa      
+C0
+0  = 1. Fakta berikutnya untuk bilangan bulat non-negatif n berlaku C
+n
+0 
+= 1, C
+n
+1 = n, dan Cn
+n = 1.  
+Contoh
+3.10
+SMA Abisatya akan memilih 4 dari 10 siswa untuk menjadi perwakilan sekolah 
+dalam lomba debat antarsekolah. Keempat siswa akan mewakili tim sekolah 
+tanpa peran khusus masing-masing. Berapa banyak cara pemilihan dapat 
+dilakukan? 
+Alternatif penyelesaian:
+Perhatikan bahwa terdapat empat siswa yang akan menjadi perwakilan sekolah 
+dalam lomba debat antarsekolah dari total keseluruhan sepuluh siswa. Karena 
+peran 4 siswa tersebut tidak dipengaruhi urutan, maka menggunakan konsep 
+kombinasi dengan n = 10 dan r = 4. Sehingga dapat diuraikan sebagai berikut.
+(
+)!
+!
+!
+!
+.
+!
+!
+C
+10
+4
+4
+10
+4
+10
+9
+8
+7
+4
+3
+2
+1
+10
+9
+8
+7
+24
+5 040
+210
+6
+6
+4
+10
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+=
+-
+=
+=
+=
+=
+Jadi, banyak cara memilih siswa tersebut adalah ada 210 cara.
+Contoh
+3.11
+Pengurus OSIS SMA Abhipraya akan mengadakan kegiatan sosialisasi 
+antikekerasan dan bullying di sekolah. Berdasarkan anggota OSIS yang aktif 
+kegiatan, terdapat 7 siswa dan 6 siswi, tetapi yang dipilih oleh sekolah sebagai 
+duta antikekerasan dan bullying adalah 4 siswa dan 3 siswi. Berapa banyak 
+susunan siswa/i yang menjadi duta?
+Alternatif penyelesaian:
+Diketahui: 	 n1 = 7 dan r1 = 4
+	
+n2 = 6 dan r1 = 3
+Bab 3 | Kaidah Pencacahan
+105
+Banyaknya susunan siswa/i yang terbentuk menjadi duta
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+C
+C
+4
+3
+7
+3
+3
+6
+4
+3
+2
+1
+7
+6
+5
+4
+3
+3
+2
+1
+6
+5
+4
+3
+35
+20
+700
+4
+7
+3
+6
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+=
+=
+=
+=
+Jadi, banyaknya susunan siswa/i yang menjadi duta antikekerasan dan bullying 
+ada 700 susunan.
+Ayo, Berpikir Kritis
+Rino melakukan perhitungan terkait banyaknya jalan terpendek dari P ke 
+Q adalah 126 cara sesuai dengan gambar berikut.
+Q
+P
+Banyaknya cara tersebut didapatkan dengan menggunakan rumus berikut.
+(
+)!
+!
+!
+C
+n
+r
+r
+n
+r
+n
+#
+=
+-
+Setujukah kamu dengan pendapat Rino?
+Ayo, Menggunakan Teknologi
+Kunjungi tautan berikut untuk memahami dan belajar terkait permutasi 
+dan kombinasi.
+https://bukupusbuk.
+id/s/mtk12geoperkom
+Pindai
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+106
+Petunjuk
+1.	
+Gunakan tautan https://tinyurl.com/permutasikombinasi1 untuk 
+mengetahui hasil dari permutasi dan kombinasi.
+2.	
+Pada bagian permutasi di tautan tersebut, kalian dapat menentukan 
+hasil dari permutasi dengan menggerakkan titik (sleder) atau 
+mengetik nilai n dan nilai r pada kolom yang disediakan.
+3.	
+Pada bagian kombinasi di tautan tersebut, kalian dapat menentukan 
+hasil dari kombinasi dengan menggerakkan titik (sleder) atau 
+mengetik nilai n dan nilai r pada kolom yang disediakan.
+Kombinasi Berulang 	
+Ayo, Bereksplorasi
+∑
+Ahmad adalah seorang atlet lari yang sedang mempersiapkan kejuaraan 
+lari tingkat Nasional mewakili kota asalnya. Selama mengikuti TC (training 
+center), peserta membutuhkan asupan vitamin dan nutrisi yang cukup untuk 
+menjaga kesehatan. Oleh karena itu, panitia menyediakan buah-buahan yang 
+kaya vitamin seperti apel, jeruk, dan pisang dalam sebuah keranjang. Pelatih 
+merekomendasikan kepada Ahmad untuk mengonsumsi empat buah dalam 
+sehari. Jika terdapat empat buah dari setiap jenis buah dalam keranjang yang 
+disediakan, berapa banyak cara Ahmad memilih empat buah yang dapat 
+dikonsumsi? 
+ 
+Gambar 3.7 Ahmad dan Keranjang Buah
+Bab 3 | Kaidah Pencacahan
+107
+Berdasarkan uraian di atas, banyak cara Ahmad memilih buah ditunjukkan 
+seperti kejadian berikut.
+Diketahui:
+Apel	
+= 4 buah
+Jeruk	 = 4 buah
+Pisang	 = 4 buah
+Karena pelatih merekomendasikan setiap hari harus memakan 4 buah, maka
+Tabel 3.4 Kemungkinan Pilihan Buah
+4 buah apel
+3 buah jeruk dan 1 
+buah apel
+2 buah apel dan 2 buah 
+pisang
+4 buah jeruk
+3 buah jeruk dan 1 
+buah pisang
+2 buah apel, 1 jeruk, 1 
+pisang
+4 buah pisang
+3 buah pisang dan 1 
+buah jeruk
+2 buah jeruk dan 2 
+buah pisang
+3 buah apel dan 1 buah 
+jeruk
+3 buah pisang dan 1 
+buah apel
+2 buah jeruk, 1 apel, 1 
+pisang
+3 buah apel dan 1 buah 
+pisang
+2 buah apel dan 2 buah 
+jeruk
+2 buah pisang, 1 apel, 1 
+jeruk
+Tabel 3.4 di atas merupakan cara memilih empat buah yang harus dikonsumsi. 
+Apa yang dapat kamu temukan dan berapa banyak susunan yang mungkin?
+Pada persoalan tersebut sebenarnya dapat diketahui bahwa penyelesaiannya 
+adalah sama dengan permutasi 2 objek dari 6 objek dengan 2 jenis objek sama. 
+Sehingga, dapat dituliskan
+! !
+!
+!
+!
+cara
+4 2
+6
+4
+2
+1
+6
+5
+4
+3
+5
+15
+#
+#
+#
+#
+#
+=
+=
+=
+DefinisiȲȜŸinŔsi%eɧʙȊŔnǊ
+Misalkan ada r bola berwarna sama dan n kotak.
+i.	
+Maksimal satu bola dapat dimasukkan dalam setiap kotak. Banyak 
+cara untuk mendapatkan bola Cr
+n .
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+108
+ii.	
+Jika lebih dari satu bola yang mungkin ada di setiap kotak (tidak ada 
+batasan jumlah bola), maka jumlah cara mendapatkan bola Cr
+n
+r
+1
++
+- . 
+C
+C
+r
+n
+r
+n
+n
+r
+1
+1
+1
+=
++
+-
+-
++
+-
+Hal tersebut biasa disebut Teorema Stars and Bars (bintang dan garis).
+Teorema Stars and Bars
+Banyaknya cara memasukkan n benda yang identik ke dalam k kotak yang 
+berbeda adalah
+Ck
+n
+k
+1
+1
+-
++
+-
+Secara ekuivalen, banyaknya solusi bulat nonnegatif untuk persamaan
+x1 + x2 + x3 + ... + xk = n
+adalah
+Ck
+n
+k
+1
+1
+-
++
+-
+Contoh
+3.12
+Terdapat dua puluh apel dan lima belas jeruk untuk dibagikan kepada lima 
+orang anak. Jika lebih dari satu apel atau jeruk atau tidak ada sama sekali yang 
+dapat diperoleh oleh setiap anak, berapakah banyak cara yang dapat dibagi 
+terhadap buah tersebut?
+Alternatif penyelesaian:
+Soal ini termasuk contoh soal kombinasi berulang, untuk itu perhatikan 
+penyelesaian berikut.
+Bentuk umum dari kombinasi pengulangan: Cr
+n
+r
+1
++
+- .
+Diketahui:  n = 5, r1 = 20 (apel), dan r2 = 15 (jeruk)
+Membagi 20 apel kepada 5 anak
+Cr
+n
+r
+1
++
+-
+1
+1
+ = C20
+5
+20
+1
++
+- cara
+Membagi 15 jeruk kepada 5 anak
+Cr
+n
+r
+1
++
+-
+2
+2
+ = C15
+5
+15
+1
++
+- cara
+Bab 3 | Kaidah Pencacahan
+109
+Banyak cara pembagian dari kedua buah tersebut adalah sebagai berikut.
+C20
+5
+20
+1
++
+- × C15
+5
+15
+1
++
+- 	= C
+C
+20
+24
+15
+19
+#
+	
+	
+= (
+)
+!
+!
+(
+)
+!
+!
+24
+20 20
+24
+19
+15 15
+19
+#
+-
+-
+	
+	
+	
+= 
+!
+!
+!
+!
+23
+22
+21
+4
+3
+2
+1
+19
+18
+17
+16
+4
+3
+2
+1
+20
+24
+20
+15
+15
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+	
+	
+	
+= 23 × 22 × 21 × 19 × 6 × 17 × 2
+	
+	
+	= 10.626 × 3.876
+	
+	
+= 41.186.376
+Jadi, banyak cara pembagian yang dapat dilakukan ada 41.186.376 cara.
+Tahukah Kalian
+Kombinasi berulang juga dapat mengatasi masalah dalam perhitungan 
+jumlah jawaban persamaan linear. Kamu dapat menyatakan bahwa      
+x1 + x2 + ... + xr  = n adalah persamaan. Jika xi adalah bilangan bulat non-
+negatif, berapa banyak cara penyelesaian yang mungkin? Permasalahan ini 
+sesuai dengan pembagian menjadi r lokasi dari n item identik. Banyaknya 
+solusi adalah Cn
+n
+r
+1
++
+- .
+Contoh
+3.13
+Tentukan banyak solusi bilangan bulat non-negatif dari persamaan 
+x1 + x2 + x3 + x4 = 7.
+Alternatif penyelesaian:
+Soal ini bisa dikerjakan juga dengan aturan kombinasi berulang seperti 
+berikut.
+Diketahui x1 + x2 + x3 + x4 = 7, artinya adalah n = 7 dan r = 4.
+Cn
+n
+r
+1
++
+- = C7
+7
+4
+1
++
+-
+	
+	
+= C7
+10
+	
+	
+= 120
+Jadi, banyak solusi bilangan bulat non-negatif dari persamaan tersebut ada 
+120 cara.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+110
+Ayo, Berpikir Kritis
+Aysha dibelikan koper oleh ayahnya yang dilengkapi dengan kode kunci 
+pengaman (password) dari tiga angka. 
+1.	
+Setujukah kamu bahwa kode 012 sama dengan 021?
+2.	
+Ada berapa banyak kemungkinan kode kunci yang dapat dibuat?
+3.	
+Mengapa kode kunci pengaman dengan tiga angka lebih aman 
+dibanding dengan dua angka?
+Ayo, Menggunakan Teknologi
+Kunjungi tautan berikut atau pindai kode respons cepat supaya kamu 
+lebih memahami konsep kombinasi secara lebih visual, cepat, dan 
+menyenangkan.
+https://bukupusbuk.
+id/s/mtk12kombinasi
+Pindai
+Petunjuk
+1.	
+Buka pranala internet menggunakan gawai atau laptop.
+2.	
+Ketikkan tautan atau pindai kode respons cepat yang disediakan.
+3.	
+Supaya lebih mudah memahami, alihkan halaman laman ke dalam 
+bahasa Indonesia (opsional).
+4.	
+Kerjakan soal yang diberikan.
+Bab 3 | Kaidah Pencacahan
+111
+Latihan
+3.3
+1.	
+Tentukan benar atau salah dari beberapa pernyataan berikut dengan 
+memberikan tanda centang (3) pada tabel yang tersedia.
+Pernyataan
+Benar
+Salah
+Memilih 3 siswa dari 10 siswa untuk menjadi 
+pengurus kelas adalah contoh dari penggunaan 
+kombinasi.
+Jika terdapat 5 siswa dan hanya tersedia 3 
+kursi, maka banyak cara siswa tersebut duduk 
+adalah kombinasi C3
+5 .
+Kombinasi dapat digunakan untuk menghitung 
+banyak cara memilih anggota dari suatu 
+kelompok.
+Terdapat 7 buku, banyak cara memilih 3 buku 
+untuk dibaca ada 35 cara.
+2.	
+Pak Anam sebagai guru pembimbing Olimpiade Matematika akan 
+mengadakan tes terbuka yang bertujuan meningkatkan kreativitas 
+siswanya. Ia meminta 8 siswa untuk membuat masing-masing satu soal 
+matematika sesuai dengan kemampuan dan ketertarikannya. Setelah 
+semua soal terkumpul, Pak Anam akan memilih 5 soal terbaik untuk 
+dibahas lebih lanjut dalam diskusi kelompok. Berapa banyak cara berbeda 
+Pak Anam dapat memilih 5 soal dari 8 soal yang tersedia?
+3.	
+Sebagai bentuk penghargaan dan menghormati jasa pendahulu dalam 
+rangka memperingati HUT RI ke-80, SMA Abhipraya mendelegasikan 
+3 siswa untuk mengikuti lomba cerdas cermat yang diadakan oleh 
+pemerintah kabupaten. Terdapat 6 siswa yang berkeinginan mengikuti 
+lomba tersebut, sehingga guru akan memilih tiga siswa yang berhak 
+mewakili sekolah. Tentukan pernyataan berikut benar atau salah dengan 
+memberikan tanda centang (3) pada tabel yang tersedia.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+112
+Pernyataan
+Benar
+Salah
+Jika guru memilih 3 siswa dari 6 siswa secara 
+acak, maka terdapat 20 cara berbeda.
+Jika guru memilih 3 siswa dari 6 siswa dengan 
+memperhatikan urutan pemilihan, maka 
+terdapat 120 cara berbeda.
+Jika guru memilih 2 siswa dari 6 siswa dan 1 
+siswa dari 3 siswa yang tersisa, maka terdapat 
+60 cara berbeda.
+4.	
+AA Bakery merupakan suatu toko kue yang menyediakan 5 jenis kue yaitu 
+cokelat, vanilla, stroberi, bluberi, dan pandan. Sebagai bentuk promo 
+kemerdekaan, AA Bakery akan membuat paket kue yang terdiri dari 3 
+kue berbeda. Berapa banyak kemungkinan paket kue berbeda yang dapat 
+dibuat oleh toko roti tersebut. Berikan tanda centang (3) pada pernyataan 
+yang benar.
+	 Terdapat 10 paket kue berbeda yang dapat dibuat toko tersebut.
+	 Karena urutan kue tidak dipertimbangkan maka terdapat 5 paket kue 
+berbeda.
+	 Paket kue yang berbeda hanya terdiri oleh 2 jenis kue.
+	 Terdapat 10 paket kue berbeda yang dapat dibuat toko tersebut.
+5.	
+Yanti adalah desainer pakaian yang akan memadukan pernak-pernik 
+dengan gaya kekinian. Terdapat 5 jenis pernak-pernik berwarna merah, 
+kuning, biru, hijau, dan putih. Jika Yanti hanya memadukan tiga warna 
+pernak-pernik dengan desainnya yang sekarang, berapa banyak jenis 
+pernak-pernik yang bisa dihasilkan?
+Bab 3 | Kaidah Pencacahan
+113
+D.	 Penerapan Permutasi dan Kombinasi 
+Tahukah Kalian
+Permutasi dan kombinasi bukanlah konsep baru dalam dunia matematika. 
+Sejak ribuan tahun silam, para ilmuwan dari berbagai peradaban telah 
+mengembangkan dan menerapkan konsep ini untuk memecahkan berbagai 
+persoalan nyata. Catatan paling awal datang dari Tiongkok sekitar tahun 
+1000 SM, ketika konsep permutasi digunakan dalam penyusunan heksagram 
+<i -ing, sebagai bagian dari sistem ramalan dan filRsRfi 7iRngkRk kunR
+Di dunia Arab, seorang matematikawan sekaligus kriptografer bernama 
+Al-Khalil ibn Ahmad al-Farahidi (718–786 M) mengembangkan teknik 
+permutasi dalam bukunya .itDEDO0XڲDnnDIÃtDOڱDZti\\D atau The Book 
+of Cryptographic Messages. Ia menggunakan permutasi untuk menyusun 
+semua kemungkinan kombinasi huruf Arab dalam analisis linguistik 
+dan penyandian, menMadikannya pelRpRr aZal kriptRgrafi berbasis 
+kombinatorial.
+Sementara itu, matematikawan besar Bhaskara II (1114–1185 M) dari India, 
+dalam karya terkenalnya Lilavati telah menjelaskan prinsip kombinasi 
+melalui barisan aritmatika dan operasi tempat bilangan. Ia mengajarkan 
+bagaimana hasil perkalian bertingkat dapat membentuk pola variasi 
+bilangan, menunjukkan pemahaman mendalam tentang struktur bilangan 
+dan perhitungannya.
+Pada tahun 1677, seorang ahli lonceng asal Inggris bernama Fabian Stedman 
+memperkenalkan konsep permutasi dalam konteks perubahan dering 
+lonceng gereja (change ringing). Ia menjelaskan banyak kemungkinan 
+dering lonceng dalam urutan berbeda, menjadikan permutasi relevan 
+dalam seni dan budaya masyarakat Inggris kala itu.
+Kontribusi besar berikutnya datang dari matematikawan Italia, Joseph-
+Louis Lagrange (1736–1813), yang pada era 1770-an menyadari pentingnya 
+permutasi dalam menyelesaikan masalah persamaan matematika. Hal 
+ini kemudian dikembangkan oleh Évariste Galois (1811–1832), seorang 
+jenius muda asal Prancis yang menciptakan teori Galois, menghubungkan 
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+114
+struktur permutasi dengan teori grup dan penyelesaian persamaan 
+polinomial. Tragisnya, Galois meninggal dalam duel pada usia 20 tahun. 
+Namun, warisannya masih hidup dalam aljabar modern.
+Tak kalah menarik, sejarah juga mencatat bahwa teori peluang yang 
+melandasi konsep permutasi dan kombinasi berkembang dari dunia 
+perjudian. Tahun 1654, seorang bangsawan dan penjudi Prancis bernama 
+Chevalier de Méré meminta bantuan Blaise Pascal (1623–1662) untuk 
+memecahkan teka-teki tentang peluang menang dalam permainan 
+dadu. Pascal lalu berdiskusi intens dengan rekannya, Pierre de Fermat 
+(1607–1665), dan dari sinilah lahir dasar-dasar teori probabilitas modern. 
+Kisah mereka bukan hanya menggugah, tetapi juga membuktikan bahwa 
+matematika mampu menjawab persoalan nyata dari kehidupan sehari-
+hari.
+Ayo, Bereksplorasi
+∑
+Perhatikan Gambar 3.6 sebelumnya. Diketahui bahwa tim futsal SMA 
+Abhipraya sering melakukan pertandingan futsal. Selanjutnya, mereka 
+akan mengikuti perlombaan futsal berikutnya dalam tajuk Bupati Cup. Ada 
+10 pemain yang tersedia dan hanya 5 pemain yang akan dimainkan dengan 
+posisi kiper, anchor, ȵDnN, dan pivot. Jika hanya terdapat 2 pemain yang bisa 
+menjadi kiper, 3 pemain cocok menjadi anchor, 4 pemain bisa menjadi pivot, 
+dan sisanya diatur untuk posisi ȵDnN. Berapa banyak susunan berbeda yang 
+mungkin? Apa saja yang kamu temukan?
+Tuliskan temuanmu pada tabel berikut ini.
+Kiper
+nƂǝȲɧ
+`ȊŔnȄ
+ÚiʶȲʄ
+Jelaskan secara terperinci
+Bab 3 | Kaidah Pencacahan
+115
+Setelah melakukan aktivitas, kamu akan menemukan banyak cara menemukan 
+susunan pemain yang berbeda sesuai ketentuan. Jika Pak Sauca sebagai 
+Pembina dan juga pelatih futsal berharap menang, dia akan melakukan 
+strategi pola serangan dalam 3 langkah berikut.
+a.	
+Bola dimulai dari anchor.
+b.	
+Dilanjutkan kepada salah satu ȵDnN.
+c.	
+Kemudian dieksekusi oleh pivot yang menendang ke gawang.
+Apakah tim futsal SMA Abhipraya akan memenangkan pertandingan? Jelaskan 
+alasanmu.
+Ayo, Berpikir Kritis
+Pada akhir pertandingan ternyata tim futsal SMA Abhipraya mendapatkan 
+skor imbang dengan lawannya. Hal tersebut memunculkan kesempatan adu 
+penalti antara dua tim tersebut. Tim futsal SMA Abhipraya mendapatkan 
+kesempatan 5 tendangan utama, jika Pak Sauca ingin menganalisis banyak 
+kemungkinan hasil tendangan tim yang terdiri dari kombinasi jumlah gol 
+yang berhasil atau tidak. Bantulah Pak Sauca untuk menemukan peluang 
+mencetak gol atau gagal. Diskusikan dengan temanmu, apakah lebih baik 
+menaruh penendang terbaik di awal, tengah, atau terakhir?  
+Definisi%inȲȜiŔȊ¢eʺʄȲn
+Berdasarkan aktivitas eksplorasi, hasil pertandingan yang merupakan 
+peluang mencetak gol atau gagal termasuk salah satu penerapan kombinasi 
+yang disebut %inRmial 1eZtRn 3enentuan kRefisien Yariabel a dan b pada 
+penjabaran (a + b)n menggunakan konsep kombinasi. Secara umum dapat 
+dituliskan dalam formula di bawah ini, untuk n bilangan bulat positif 
+berlaku:
+	
+(a + b)n = 
+C a
+b
+r
+n
+n
+r
+r
+r
+n
+0
+-
+=/
+	
+(a + b)n = 
+...
+C a
+C a
+b
+C a
+b
+C a
+b
+C b
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+n
+0
+1
+1
+2
+2
+2
+3
+3
+3
++
++
++
++
++
+-
+-
+-
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+116
+Menggunakan aturan segitiga pascal, secara sistematis berlaku
+C0
+0
+(a + b)o
+C0
+1
+C1
+1
+(a + b)1
+C0
+2
+C1
+2
+C2
+2
+(a + b)2
+C0
+3
+C1
+3
+C2
+3
+C3
+3
+(a + b)3
+C0
+4
+C1
+4
+C2
+4
+C3
+4
+C4
+4
+(a + b)4
+C0
+5
+C1
+5
+C2
+5
+C3
+5
+C4
+5
+C5
+5
+(a + b)5
+C0
+6
+C1
+6
+C2
+6
+C3
+6
+C4
+6
+C5
+6
+C6
+6
+(a + b)6
+C0
+7
+C1
+7
+C2
+7
+C3
+7
+C4
+7
+C5
+7
+C6
+7
+C7
+7
+(a + b)7
+Sehingga secara umum, berlaku
+(a + b)n = 
+C a
+b
+r
+n
+n
+r
+r
+r
+n
+0
+-
+=/
+Contoh
+3.14
+7entukan kRefisien suku yang memuat x6 dari penjabaran (2 + x)8.
+Alternatif penyelesaian:
+Menggunakan aturan 
+(a + b)n = 
+C a
+b
+r
+n
+n
+r
+r
+r
+n
+0
+-
+=/
+ 
+8ntuk kRefisien x6 dari (2 + x)8 terbentuk dari (2)8-6(x)6, sehingga untuk 
+menentukan kRefisien x6 melalui substitusi nilai n = 8 dan r = 6.
+(a + b)n 	= 
+C a
+b
+r
+n
+n
+r
+r
+r
+n
+0
+-
+=/
+ 
+(2 + x)6 	= 
+C
+x
+2
+r
+6
+8
+8
+6
+6
+6
+8
+-
+=/
+ 
+	
+	
+= (
+)!
+!)
+!
+x
+8
+6
+6
+8
+2
+2
+6
+#
+#
+#
+-
+	
+	
+= 
+!
+!
+x
+2
+8
+7
+2
+6
+6
+2
+6
+#
+#
+#
+#
+#
+ 
+	
+= 
+x
+2
+56
+2
+2
+6
+#
+#
+Bab 3 | Kaidah Pencacahan
+117
+	
+= 28 × 22 × x6
+	
+= 112x6
+'engan demikian, kRefisien dari x6 adalah 112.
+Contoh
+3.15
+Pada pertandingan futsal antarkelas dalam rangka classmeeting pasca 
+pelaksanaan Sumatif Akhir Semester (SAS), tim futsal kelas XII-A harus 
+menjalani adu penalti dengan 5 penendang. Wali kelas XII-A sebagai pelatih 
+ingin menganalisis komposisi susunan penendang sehingga mendapatkan 
+peluang keberhasilan dalam mencetak gol dengan alternatif berikut.
+a.	
+Banyak susunan penendang di mana tepat 3 penendang berhasil.
+b.	
+Peluang tepat 4 penendang mencetak gol, jika peluang setiap penendang 
+adalah 0,8.
+Bantulah wali kelas XII-A dalam mengenalisis adu penalti tersebut.
+Alternatif penyelesaian:
+a.	
+Diketahui n = 5 dan r = 3. Karena diminta tepat 3 penendang, maka banyak 
+susunannya terletak pada kRefisien binRmial saat peluang berhasil, yaitu
+(
+)!
+!)
+!
+!
+!
+C
+C
+5
+3
+3
+5
+2
+5
+4
+2
+5
+4
+10
+3
+3
+r
+n
+3
+5
+#
+#
+#
+#
+#
+=
+=
+-
+=
+=
+=
+Jadi, banyak susunan tepat 3 penendang berhasil ada 10 cara.
+b.	
+Diketahui
+n = 5
+r = 4
+p = 0,8
+q = 1 - p = 0,2
+Sehingga, 
+P(r)	= C p q
+r
+n
+r
+n
+r
+- 
+P(4)	= 
+( , ) ( , )
+C
+0 8
+0 2
+4
+5
+4
+5
+4
+-
+	
+= 5 × (0,8)4 × (0,2)1
+	
+= 5 × 0,4096 × 0,2
+	
+= 0,4096
+Dengan demikian, peluang tepat 4 penendang mencetak gol adalah 0,4096.
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+118
+Latihan
+3.4
+1.	
+Tim futsal SMA Abhipraya dijadwalkan mengikuti 3 pertandingan awal 
+dalam turnamen dengan sistem poin. Peluang menang untuk setiap 
+pertandingan diperkirakan sebesar 0,6 berdasarkan data latihan dan 
+uji coba. Tentukan peluang tim futsal memenangkan tepat 2 dari 3 
+pertandingan pertama.
+2.	
+SMA Abhiparaya akan mengadakan simulasi kebencanaan. Pada simulasi 
+evakuasi kebencanaan, dari 12 siswa yang diminta merespons, peluang 
+seorang siswa menyelesaikan evakuasi sesuai prosedur adalah 0,7. Berapa 
+peluang tepat 8 siswa mengikuti evakuasi dengan benar?
+3.	
+Putri sedang mengikuti try out UTBK di sekolah. Pada saat simulasi, dia 
+akan mengerjakan 5 soal pilihan ganda. Dari pengalaman sebelumnya, 
+peluang dia menjawab benar satu soal adalah 1 banding 2. Jika peluang 
+model jawaban ditulis sebagai  (b + 2s)5. Tentukan banyak cara Putri dapat 
+menjawab tepat 2 soal benar.
+Ayo, Bereﬂeksi 
+Berilah tanda centang (3) pada kotak yang sesuai dengan pemahamanmu 
+setelah mempelajari materi kaidah pencacahan.
+No.
+Pernyataan
+Sudah
+Belum
+1.
+0engidentifikasi perbedaan antara aturan 
+perkalian dan aturan penjumlahan.
+2.
+Menyelesaikan permasalahan sehari-hari terkait 
+aturan pengisian tempat.
+3.
+Menjelaskan konsep permutasi. 
+4.
+Menerapkan konsep permutasi dalam 
+menyelesaikan masalah matematika.
+5.
+Menjelaskan konsep kombinasi.
+6.
+Menerapkan konsep kombinasi dalam 
+menyelesaikan masalah matematika.
+Bab 3 | Kaidah Pencacahan
+119
+No.
+Pernyataan
+Sudah
+Belum
+7.
+Membedakan permasalahan yang berkaitan dengan 
+penerapan konsep permutasi dan kombinasi.
+8.
+Membandingkan secara sistematis antara 
+penerapan permutasi dan kombinasi, serta 
+menjelaskan langkah-langkah penyelesaian 
+masalah secara logis dan terperinci.
+Uji Kompetensi Bab 3 	
+1.	
+Provider INDOSELULER akan mengeluarkan produk baru dengan nomor 
+kartu sebagai nomor cantik yang terdiri dari 12 digit. Seorang karyawan 
+ahli IT pada provider tersebut diberi tugas untuk menyusun nomor kartu 
+dengan kode SUefi[ (empat nomor awal sebagai identitas INDOSELULER) 
+yaitu 0844 dan empat digit terakhir yang merupakan angka cantik yaitu 
+2112. Karyawan tersebut hanya diperbolehkan menggunakan angka 2, 3, 
+4, 5, 6, 7, 8, dan 9 untuk menyusun nomor kartu. Banyak nomor kartu yang 
+dapat dibuat dibuat oleh karyawan tersebut ada ....
+a.	
+5.472 nomor	
+	
+	
+	
+d.	
+1.680 nomor	
+	
+	
+b.	
+4.096 nomor	
+	
+	
+	
+e.	
+840 nomor	 	
+	
+c.	
+2.401 nomor
+2.	
+Seorang pedagang boneka gemar menata barang dagangannya sehingga 
+nampak tersusun rapi, variatif dan menarik pembeli. Pada satu etalase, 
+dijual barang dengan tipe sama, yaitu 3 boneka warna merah, 4 boneka 
+warna biru, dan 5 boneka warna kuning. Jika pedagang itu menata 
+boneka-boneka tersebut dengan boneka kuning harus berdampingan, 
+banyak cara menata ke-12 boneka ada ....
+a.	
+280 cara	
+	
+	
+	
+	
+d.	
+2.720 cara
+b.	
+560 cara	
+	
+	
+	
+	
+e.	
+5.440 cara
+c.	
+720 cara
+3.	
+Diketahui angka 0, 1, 2, 3, dan 4 akan dibuat bilangan tiga angka yang 
+kurang dari 400 dan tidak ada angka yang berulang. Banyak kemungkinan 
+bilangan berbeda yang dapat dibuat ada ....
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+120
+a.	
+64	 	
+	
+	
+	
+	
+d.	
+27
+b.	
+48	 	
+	
+	
+	
+	
+e.	
+24
+c.	
+36
+4.	
+Swalayan AAmart mengeluarkan kupon hadiah dengan kode berbentuk 
+bilangan yang disusun dari angka 1, 2, 2, 6, dan 8. Jika kupon-kupon 
+tersebut disusun berdasarkan kodenya mulai dari yang terkecil sampai 
+dengan yang terbesar, maka kupon dengan kode lebih besar daripada 
+62000 sebanyak ....
+a.	
+60	 	
+	
+	
+	
+	
+	
+d.	
+20
+b.	
+24	 	
+	
+	
+	
+	
+	
+e.	
+19
+c.	
+21
+5.	
+Firlana akan membuat email baru. Untuk keperluan itu, dia memerlukan 
+sebuah kata sandi (password) yang terdiri dari sembilan karakter. Kata 
+sandi dikatakan baik jika merupakan gabungan antara huruf dan angka. 
+Firlana akan menggunakan namanya pada enam karakter awal atau akhir 
+secara berturut-turut. Kemudian ditambahkan tiga buah angka berbeda 
+dari 0, 1, 2, 3, …, dan 9 secara acak, misal FIRLANA123, FIRLANA321, 
+046FIRLANA dan lain-lain. Banyak cara penyusunan kata sandi tersebut 
+ada ....
+a.	
+5.040	
+	
+	
+	
+	
+	
+d.	
+720
+b.	
+2.880	
+	
+	
+	
+	
+	
+e.	
+360
+c.	
+1.440
+6.	
+Terdapat sepuluh orang pergi ketempat wisata dengan mengendarai 3 
+mobil berkapasitas 4 orang dan tiga orang diantarannya adalah pemilik 
+mobil. Jika setiap mobil dikemudikan oleh pemiliknya dan di setiap mobil 
+minimal ada satu penumpang selain pengemudi, banyaknya kemungkinan 
+komposisi berbeda untuk menempatkan penumpang di ketiga mobil 
+tersebut ada ....
+a.	
+1.190	
+	
+	
+	
+	
+	
+d.	
+700
+b.	
+1.050	
+	
+	
+	
+	
+	
+e.	
+560
+c.	
+840
+Bab 3 | Kaidah Pencacahan
+121
+7.	
+Pengurus OSIS SMA Abhipraya yang terdiri dari 6 siswa akan mengadakan 
+rapat persiapan untuk memperingati HUT RI ke-80. Mereka mengadakan 
+rapat pada kursi bundar dan duduk secara melingkar. Berapa banyak cara 
+6 siswa duduk secara melingkar jika ketua, sekertaris, dan bendahara 
+harus duduk terpisah?
+8.	
+Guru IPA menjelaskan bahwa kenyamanan belajar dipengaruhi oleh 
+kualitas udara, yang tergantung pada suhu (t) dan kelembaban (h). 
+Dalam penelitian kecil di kelas, ditemukan bahwa pengaruh suhu dua 
+kali lebih besar dibanding kelembaban, dan model total pengaruhnya 
+adalah (2t + h)5. Jika suatu waktu suhu memberi pengaruh 3 bagian dan 
+kelembaban 2 bagian. Berapakah total kontribusi kombinasi tersebut?
+9.	
+Pada suatu Olimpiade Matematika, peserta diwajibkan mengerjakan 5 
+soal dari 8 soal yang tersedia. Tentukan banyaknya jenis pilihan soal yang 
+mungkin dikerjakan.
+10.	 Bu Norma sebagai guru Biologi akan melakukan eksperimen kelas, yaitu 
+mengetahui pertumbuhan kecambah. Siswa diminta menanam 6 kecambah 
+di tempat berbeda. Jika peluang tumbuh optimal setiap kecambah adalah 
+0,65. Pasangkan beberapa pernyataan berikut pada jawaban yang sesuai.
+Pernyataan
+Jawaban
+1)	
+Banyaknya susunan yang mungkin jika 
+tepat 2 kecambah tumbuh optimal.
+ࡐ
+ࡐ
+a. 	 15
+2)	
+Rumus peluang bahwa tepat 3 
+kecambah tumbuh optimal.
+ࡐ
+ࡐ
+b. 	 C3
+6
+3)	
+Nilai peluang tepat 3 kecambah 
+tumbuh optimal, dibulatkan 4 desimal.
+ࡐ
+ࡐ
+c. 	
+C2
+6
+4)	
+Banyak cara memilih posisi 
+kecambah yang tumbuh optimal saat 
+tepat 3 yang tumbuh optimal.
+ࡐ
+ࡐ
+d. 	
+,
+,
+C
+0 65
+0 35
+2
+6
+3
+3
+^
+^
+h
+h
+ࡐ
+e. 	 0,2355
+ࡐ
+f. 	 6 × 0,65 × 0,35
+ࡐ
+g. 	
+,
+,
+C
+0 65
+0 35
+2
+6
+2
+4
+^
+^
+h
+h
+Matematika untuk SMA/MA/SMK/MAK Kelas XII (Edisi Revisi)
+122
+Refleksi 	
+Setelah mempelajari bab ini, berikan tanggapan atas beberapa pertanyaan di 
+bawah ini.
+1.	
+Berdasarkan konsep yang sudah dipelajari (aturan penjumlahan, aturan 
+perkalian, permutasi, dan kombinasi), mana yang paling relevan atau 
+pernah kamu temui dalam kehidupan sehari-hari? Ceritakan satu contoh 
+pengalaman di mana kamu tanpa sadar menggunakan salah satu konsep 
+ini.
+2.	
+Bagaimana kamu membedakan kapan urutan itu penting dan kapan 
+tidak saat mempelajari permutasi dan kombinasi? Ceritakan di mana 
+kamu merasa bingung dan bagaimana kamu akhirnya bisa memahami 
+perbedaannya.
+3.	
+Apa saja strategi belajar yang kamu gunakan untuk memahami materi 
+kaidah pencacahan? Apakah semua strategi tersebut membantumu untuk 
+belajar secara optimal?
+4.	
+Bagaimana pemahamanmu tentang kaidah pencacahan mengubah cara 
+pandangmu dalam mengambil keputusan atau menyusun rencana di 
+masa depan?
