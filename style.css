@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 
 :root {
-    --bg-main: #0F172A;
-    --bg-card: #1E293B;
-    --primary-accent: #38BDF8;
+    --bg-main: #050d1a;
+    --bg-card: rgba(255, 255, 255, 0.03);
+    --primary-accent: #00d4ff;
     --gamify-accent: #F59E0B;
     --text-main: #F8FAFC;
     --text-muted: #94A3B8;
@@ -35,6 +35,13 @@ body {
     color: var(--text);
     min-height: 100vh;
     padding: 16px;
+    letter-spacing: -0.01em;
+}
+
+h1,
+h2,
+h3 {
+    letter-spacing: -0.03em;
 }
 
 .container {
@@ -88,11 +95,13 @@ body {
 
 /* ===== CARD ===== */
 .card {
-    background: var(--card);
+    background: var(--bg-card);
     border: 1px solid var(--card-border);
     border-radius: var(--radius);
     padding: 20px;
     margin-bottom: 16px;
+    backdrop-filter: blur(24px);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
 }
 
 .card h2 {
@@ -224,7 +233,7 @@ body {
     font-weight: 700;
     cursor: pointer;
     text-align: center;
-    transition: transform 0.1s ease, opacity 0.2s ease;
+    transition: transform 0.1s ease, opacity 0.2s ease, box-shadow 0.2s ease;
 }
 
 .btn:active {
@@ -239,6 +248,11 @@ body {
 .btn-secondary {
     background: rgba(255, 255, 255, 0.05);
     color: var(--text);
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 212, 255, 0.15);
 }
 
 .btn:disabled {
@@ -463,7 +477,7 @@ body {
     text-align: center;
     cursor: pointer;
     color: var(--text);
-    transition: all 0.15s ease;
+    transition: all 0.2s ease;
 }
 
 .persona-select-card:hover:not(:disabled) {
@@ -471,12 +485,14 @@ body {
 }
 
 .persona-select-card.active {
-    border-color: var(--cyan);
+    border-color: #00d4ff;
     background: rgba(0, 212, 255, 0.1);
+    box-shadow: inset 0 0 10px rgba(0, 212, 255, 0.2);
 }
 
 .persona-select-card.locked {
     opacity: 0.4;
+    filter: grayscale(1);
     cursor: not-allowed;
 }
 
@@ -945,12 +961,9 @@ body {
 .dashboard-box:hover,
 .ruang-belajar-box:hover {
     border-color: #00d2ff !important;
-    /* Garis biru muda neon tajam */
-    /* Efek radiasi luar dan dalam disamakan dengan Arena */
     box-shadow: 0 0 20px rgba(0, 210, 255, 0.25),
         inset 0 0 10px rgba(0, 210, 255, 0.1) !important;
-    transform: translateY(-1px) !important;
-    /* Efek membal/naik saat disentuh */
+    transform: translateY(-2px) !important;
 }
 
 /* ========================================================
