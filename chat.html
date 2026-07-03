@@ -7,7 +7,11 @@
     <title>Chat AI — Skolvix</title>
     <link rel="stylesheet" href="style.css">
     <style>
-        /* ─── CHAT PAGE SPECIFIC ─── */
+        :root {
+            --primary-accent: #0b3b6b;
+            /* biru tua, lebih kontras */
+        }
+
         body {
             background: var(--bg-main);
             padding: 16px;
@@ -26,7 +30,6 @@
             flex-direction: column;
         }
 
-        /* Header chat */
         .chat-header {
             display: flex;
             align-items: center;
@@ -35,6 +38,8 @@
             border-bottom: 1px solid var(--border-subtle);
             margin-bottom: 16px;
             flex-shrink: 0;
+            flex-wrap: wrap;
+            gap: 8px;
         }
 
         .chat-header-left {
@@ -50,7 +55,6 @@
             font-size: 20px;
             cursor: pointer;
             padding: 4px 8px;
-            transition: color 0.2s;
         }
 
         .chat-header-left .back-btn:hover {
@@ -83,13 +87,13 @@
             margin: 0;
         }
 
-        .chat-header .persona-selector {
+        .persona-selector {
             display: flex;
             gap: 6px;
             flex-wrap: wrap;
         }
 
-        .chat-header .persona-chip {
+        .persona-chip {
             padding: 4px 10px;
             border-radius: 20px;
             border: 1px solid var(--border-subtle);
@@ -101,18 +105,30 @@
             transition: all 0.2s;
         }
 
-        .chat-header .persona-chip.active {
+        .persona-chip.active {
             background: var(--primary-accent);
             border-color: var(--primary-accent);
             color: white;
         }
 
-        .chat-header .persona-chip:hover:not(.active) {
+        .persona-chip:hover:not(.active) {
             border-color: var(--primary-accent);
             color: var(--text-main);
         }
 
-        /* Messages area */
+        .persona-selector-mobile select {
+            padding: 6px 12px;
+            border-radius: 20px;
+            border: 1px solid var(--border-subtle);
+            background: var(--bg-card);
+            color: var(--text-main);
+            font-size: 13px;
+            font-weight: 600;
+            font-family: var(--font-body);
+            outline: none;
+            cursor: pointer;
+        }
+
         .chat-messages {
             flex: 1;
             overflow-y: auto;
@@ -122,20 +138,6 @@
             gap: 12px;
             min-height: 300px;
             max-height: calc(100vh - 220px);
-        }
-
-        .chat-messages::-webkit-scrollbar {
-            width: 4px;
-        }
-
-        .chat-messages::-webkit-scrollbar-track {
-            background: rgba(255, 255, 255, 0.03);
-            border-radius: 999px;
-        }
-
-        .chat-messages::-webkit-scrollbar-thumb {
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 999px;
         }
 
         .chat-msg {
@@ -251,7 +253,6 @@
             }
         }
 
-        /* Input area */
         .chat-input-area {
             display: flex;
             gap: 10px;
@@ -273,7 +274,6 @@
             font-size: 14px;
             font-family: var(--font-body);
             outline: none;
-            transition: border-color 0.2s;
         }
 
         .chat-input-area input:focus {
@@ -308,7 +308,6 @@
             cursor: not-allowed;
         }
 
-        /* Empty state */
         .chat-empty {
             flex: 1;
             display: flex;
@@ -334,15 +333,8 @@
             margin-bottom: 8px;
         }
 
-        .chat-empty p {
-            font-size: 14px;
-            max-width: 360px;
-            line-height: 1.6;
-        }
-
-        /* Responsive */
         @media (max-width: 600px) {
-            .chat-header .persona-selector {
+            .persona-selector {
                 display: none;
             }
 
@@ -354,73 +346,27 @@
                 max-width: 92%;
                 font-size: 13px;
             }
-
-            .chat-input-area input {
-                font-size: 13px;
-            }
-
-            .chat-input-area button {
-                padding: 10px 14px;
-                font-size: 13px;
-            }
         }
 
         @media (min-width: 601px) {
-            .chat-header .persona-selector-mobile {
+            .persona-selector-mobile {
                 display: none;
             }
-        }
-
-        /* Mobile persona selector (dropdown style) */
-        .persona-selector-mobile {
-            position: relative;
-        }
-
-        .persona-selector-mobile select {
-            padding: 6px 12px;
-            border-radius: 20px;
-            border: 1px solid var(--border-subtle);
-            background: var(--bg-card);
-            color: var(--text-main);
-            font-size: 13px;
-            font-weight: 600;
-            font-family: var(--font-body);
-            outline: none;
-            cursor: pointer;
-            appearance: none;
-            -webkit-appearance: none;
-            padding-right: 28px;
-            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%2394A3B8' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
-            background-repeat: no-repeat;
-            background-position: right 10px center;
-        }
-
-        .persona-selector-mobile select:focus {
-            border-color: var(--primary-accent);
-        }
-
-        .persona-selector-mobile select option {
-            background: var(--bg-card);
-            color: var(--text-main);
         }
     </style>
 </head>
 
 <body>
-
     <div class="chat-container">
-
-        <!-- ─── HEADER ─── -->
         <header class="chat-header">
             <div class="chat-header-left">
-                <button class="back-btn" id="backBtn" title="Kembali ke Dashboard">←</button>
+                <button class="back-btn" id="backBtn">←</button>
                 <div class="ai-avatar" id="chatAvatar">🧠</div>
                 <div class="ai-info">
                     <h3 id="chatPersonaName">Kak Alex</h3>
+                    <p id="chatPersonaStatus">Si Paling Logis</p>
                 </div>
             </div>
-
-            <!-- Desktop persona selector -->
             <div class="persona-selector" id="personaSelectorDesktop">
                 <button class="persona-chip" data-persona="kakAlex">🧠 Alex</button>
                 <button class="persona-chip" data-persona="kakTara">🎉 Tara</button>
@@ -429,8 +375,6 @@
                 <button class="persona-chip" data-persona="kakSaga">🌌 Saga</button>
                 <button class="persona-chip" data-persona="kakVictor">👑 Victor</button>
             </div>
-
-            <!-- Mobile persona selector -->
             <div class="persona-selector-mobile" id="personaSelectorMobile">
                 <select id="personaSelect">
                     <option value="kakAlex">🧠 Kak Alex</option>
@@ -443,7 +387,6 @@
             </div>
         </header>
 
-        <!-- ─── CHAT MESSAGES ─── -->
         <div class="chat-messages" id="chatMessages">
             <div class="chat-empty" id="chatEmpty">
                 <div class="empty-icon">💬</div>
@@ -452,30 +395,21 @@
             </div>
         </div>
 
-        <!-- ─── TYPING INDICATOR ─── -->
         <div class="typing-indicator" id="typingIndicator" style="display:none;">
             <span>AI sedang mengetik</span>
-            <div class="dots">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
+            <div class="dots"><span></span><span></span><span></span></div>
         </div>
 
-        <!-- ─── INPUT AREA ─── -->
         <div class="chat-input-area">
             <input type="text" id="chatInput" placeholder="Tanyakan sesuatu tentang pelajaran..." />
             <button id="sendBtn">Kirim</button>
         </div>
-
     </div>
 
-    <!-- ─── SCRIPTS ─── -->
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <script src="supabase-config.js"></script>
     <script src="feedback-personas.js"></script>
     <script src="chat.js"></script>
-
 </body>
 
 </html>

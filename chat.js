@@ -1,6 +1,6 @@
-// chat.js — Logika chat AI Skolvix
+// chat.js — Logika Chat AI Skolvix
 
-const EDGE_FUNCTION_URL = "https://yqbkkiqbsfaueaaezey.supabase.co/functions/v1/rag-chat";
+const EDGE_FUNCTION_URL = "https://yqbkkxibgsfaueaaezey.supabase.co/functions/v1/groq-test";
 
 let selectedPersona = localStorage.getItem("skolvix_persona") || "kakAlex";
 let isSending = false;
@@ -16,7 +16,7 @@ const PERSONA_LIST = [
     { key: "kakAlex", emoji: "🧠", nama: "Kak Alex", type: "Si Paling Logis" },
     { key: "kakTara", emoji: "🎉", nama: "Kak Tara", type: "Si Pemandu Sorak" },
     { key: "ibuDian", emoji: "🌸", nama: "Ibu Dian", type: "Si Penyayang" },
-    { key: "kakRey", emoji: "😒", nama: "Kak Rey", type: "Si Tsundere" },
+    { key: "kakRey", emoji: "😒", nama: "Kak Rey", type: "Si Cuek" },
     { key: "kakSaga", emoji: "🌌", nama: "Kak Saga", type: "Si Filsuf Stoik" },
     { key: "kakVictor", emoji: "👑", nama: "Kak Victor", type: "Si Perfeksionis" }
 ];
@@ -29,12 +29,18 @@ function renderPersonas() {
         });
     }
     const mobileSelect = document.getElementById("personaSelect");
-    if (mobileSelect) mobileSelect.value = selectedPersona;
+    if (mobileSelect) {
+        mobileSelect.value = selectedPersona;
+    }
 
     const persona = PERSONA_LIST.find(p => p.key === selectedPersona) || PERSONA_LIST[0];
-    document.getElementById("chatAvatar").textContent = persona.emoji;
-    document.getElementById("chatPersonaName").textContent = persona.nama;
-    document.getElementById("chatPersonaStatus").textContent = persona.type;
+    const avatar = document.getElementById("chatAvatar");
+    const name = document.getElementById("chatPersonaName");
+    const status = document.getElementById("chatPersonaStatus");
+
+    if (avatar) avatar.textContent = persona.emoji;
+    if (name) name.textContent = persona.nama;
+    if (status) status.textContent = persona.type;
 
     localStorage.setItem("skolvix_persona", selectedPersona);
 }
@@ -45,7 +51,7 @@ function addMessage(role, content, sumber = null) {
     div.className = `chat-msg ${role}`;
 
     const persona = PERSONA_LIST.find(p => p.key === selectedPersona) || PERSONA_LIST[0];
-    const labelText = role === "user" ? "👤 Kamu" : `🤖 ${persona.nama}`;
+    const labelText = role === "user" ? " Kamu" : ` ${persona.nama}`;
     const label = document.createElement("div");
     label.className = "msg-label";
     label.textContent = labelText;
@@ -147,3 +153,5 @@ document.getElementById("backBtn").addEventListener("click", () => {
 });
 
 renderPersonas();
+
+

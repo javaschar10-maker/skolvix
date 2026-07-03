@@ -95,3 +95,4 @@ Tabel utama saat ini: `user_progress`
 - [02-07-2026] index.html: Membersihkan efek 3D tilt menjadi 2D Floating Glassmorphic padat untuk visual tajam berstandar HD.
 - [02-07-2026] index.html: Menyematkan integrasi fetch dynamic database (Top 5 Liga Perintis), Animasi Breathing CSS, dan Script Lenis Smooth Scroll.
 - [02-07-2026] app.html & app.js: Integrasi sistem Supabase untuk Authentication sederhana (Username), Daily Reset (Energy & Streak), dan Time-based Persona Greetings.
+- [03-07-2026] materi/belajar.js: Overhaul total data konten — DAFTAR_PELAJARAN diperluas dari 5 menjadi 13 mata pelajaran (termasuk Biologi, Fisika, Kimia, Ekonomi, Sejarah, Sosiologi, Geografi). DAFTAR_BAB digenerate otomatis dari 200+ file PDF di rag-data/pdf-bab/ mencakup 46 kombinasi kelas|pelajaran. renderPelajaranOptions() ditambahkan logika filter penjurusan: Kelas 7-10 menampilkan IPA/IPS, Kelas 11-12 menampilkan pelajaran spesifik.
