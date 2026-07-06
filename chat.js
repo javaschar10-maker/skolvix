@@ -1,6 +1,6 @@
 // chat.js — Logika Chat AI Skolvix
 
-const EDGE_FUNCTION_URL = "https://yqbkkxibgsfaueaaezey.supabase.co/functions/v1/groq-test";
+const EDGE_FUNCTION_URL = "https://yqbkkxibgsfaueaaezey.supabase.co/functions/v1/rag-chat";
 
 let selectedPersona = localStorage.getItem("skolvix_persona") || "kakAlex";
 let isSending = false;
