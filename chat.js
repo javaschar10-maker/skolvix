@@ -95,10 +95,18 @@ async function sendQuestion() {
     messagesContainer.scrollTop = messagesContainer.scrollHeight;
 
     try {
+        // 🔥 Tambahkan timezone dari browser agar sapaan akurat
+        const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
         const response = await fetch(EDGE_FUNCTION_URL, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ pertanyaan: question, persona: selectedPersona, username: username })
+            body: JSON.stringify({
+                pertanyaan: question,
+                persona: selectedPersona,
+                username: username,
+                timezone: timezone // ✅ kirim timezone ke Edge Function
+            })
         });
 
         const data = await response.json();
@@ -153,5 +161,3 @@ document.getElementById("backBtn").addEventListener("click", () => {
 });
 
 renderPersonas();
-
-
