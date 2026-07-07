@@ -19,7 +19,9 @@ const SUBJECT_LABELS = {
     "ipa": "IPA - Sains Umum",
     "ips": "IPS - Ilmu Pengetahuan Sosial",
     "bahasa-indonesia": "Bahasa Indonesia - Umum",
-    "bahasa-inggris": "Bahasa Inggris - General"
+    "bahasa-inggris": "Bahasa Inggris - General",
+    "PPKN": "PPKn - General"
+
 };
 
 function shuffleArray(array) {

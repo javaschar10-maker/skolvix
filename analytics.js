@@ -9,7 +9,9 @@ const SUBJECT_LABELS = {
     "ipa": "IPA",
     "ips": "IPS",
     "bahasa-indonesia": "B. Indonesia",
-    "bahasa-inggris": "B. Inggris"
+    "bahasa-inggris": "B. Inggris",
+    "PPKN": "PPKn - General"
+
 };
 
 // Normalisasi nama bab dari database ke key standar
