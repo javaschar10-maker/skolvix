@@ -14,7 +14,7 @@ const chatEmpty = document.getElementById("chatEmpty");
 
 const PERSONA_LIST = [
     { key: "kakAlex", emoji: "🧠", nama: "Kak Alex", type: "Si Paling Logis" },
-    { key: "kakTara", emoji: "🎉", nama: "Kak Tara", type: "Si Pemandu Sorak" },
+    { key: "kakTara", emoji: "🎉", nama: "Kak Tara", type: "Si Ceria" },
     { key: "ibuDian", emoji: "🌸", nama: "Ibu Dian", type: "Si Penyayang" },
     { key: "kakRey", emoji: "😒", nama: "Kak Rey", type: "Si Cuek" },
     { key: "kakSaga", emoji: "🌌", nama: "Kak Saga", type: "Si Filsuf Stoik" },
