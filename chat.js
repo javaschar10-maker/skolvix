@@ -20,6 +20,39 @@ const PERSONA_LIST = [
     { key: "kakSaga", emoji: "🌌", nama: "Kak Saga", type: "Si Filsuf Stoik" },
     { key: "kakVictor", emoji: "👑", nama: "Kak Victor", type: "Si Perfeksionis" }
 ];
+// ============================================================
+// 💾 MEMORI CHAT (Session-based) — 7 pesan terakhir
+// ============================================================
+const CHAT_HISTORY_KEY = 'skolvix_chat_history';
+const MAX_HISTORY = 7; // 🔥 Simpan 7 pesan terakhir
+
+function getChatHistory() {
+    try {
+        const history = sessionStorage.getItem(CHAT_HISTORY_KEY);
+        return history ? JSON.parse(history) : [];
+    } catch (e) {
+        return [];
+    }
+}
+
+function saveChatHistory(messages) {
+    try {
+        const trimmed = messages.slice(-MAX_HISTORY);
+        sessionStorage.setItem(CHAT_HISTORY_KEY, JSON.stringify(trimmed));
+    } catch (e) {
+        console.error('Gagal simpan riwayat chat:', e);
+    }
+}
+
+function addMessageToHistory(role, content) {
+    const history = getChatHistory();
+    history.push({ role, content });
+    saveChatHistory(history);
+}
+
+function clearChatHistory() {
+    sessionStorage.removeItem(CHAT_HISTORY_KEY);
+}
 
 function renderPersonas() {
     const desktopContainer = document.getElementById("personaSelectorDesktop");
@@ -95,17 +128,23 @@ async function sendQuestion() {
     messagesContainer.scrollTop = messagesContainer.scrollHeight;
 
     try {
-        // 🔥 Tambahkan timezone dari browser agar sapaan akurat
+        // 🔥 Ambil riwayat chat dari sessionStorage
+        const chatHistory = getChatHistory();
+
+        // 🔥 Tambahkan pertanyaan user ke riwayat
+        const messagesToSend = [...chatHistory, { role: 'user', content: question }];
+
+        // 🔥 Ambil timezone
         const timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 
         const response = await fetch(EDGE_FUNCTION_URL, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
-                pertanyaan: question,
+                messages: messagesToSend, // 🔥 Kirim seluruh riwayat + pertanyaan baru
                 persona: selectedPersona,
                 username: username,
-                timezone: timezone // ✅ kirim timezone ke Edge Function
+                timezone: timezone
             })
         });
 
@@ -124,6 +163,9 @@ async function sendQuestion() {
         }
 
         addMessage("ai", data.jawaban, data.sumber);
+        // 🔥 Simpan percakapan ke sessionStorage (pertanyaan + jawaban)
+        addMessageToHistory('user', question);
+        addMessageToHistory('assistant', data.jawaban);
     } catch (error) {
         typingIndicator.style.display = "none";
         addMessage("ai", "❌ Gagal terhubung ke AI. Periksa koneksi internetmu.");
