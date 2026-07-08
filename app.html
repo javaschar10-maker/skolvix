@@ -857,6 +857,98 @@
         html.force-arena #tab-arena {
             display: block !important;
         }
+
+        /* ─── KUIS AI CONTROLS — GLASSMORPHISM ─── */
+        .quiz-ai-controls {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 14px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            margin-bottom: 12px;
+        }
+
+        .ai-form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .ai-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .ai-select,
+        .ai-input {
+            padding: 10px 12px;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            background: #1a2639;
+            /* solid, tidak transparan */
+            color: #fff;
+            font-size: 14px;
+            font-family: var(--font-body);
+            outline: none;
+            transition: border-color 0.2s ease;
+            width: 100%;
+            -webkit-appearance: none;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7'%3E%3Cpath fill='%2394a3b8' d='M6 7L0 0h12z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 12px center;
+            background-size: 12px 7px;
+        }
+
+        .ai-select option {
+            background: #1a2639;
+            color: #fff;
+        }
+
+        .ai-select:focus,
+        .ai-input:focus {
+            border-color: var(--primary-accent);
+            box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.1);
+        }
+
+        .ai-input::placeholder {
+            color: var(--text-muted);
+            opacity: 0.6;
+        }
+
+        /* Sembunyikan spinner number (biar bersih) */
+        .ai-input[type="number"] {
+            -moz-appearance: textfield;
+        }
+
+        .ai-input[type="number"]::-webkit-inner-spin-button,
+        .ai-input[type="number"]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        /* Tombol */
+        .quiz-ai-controls .btn {
+            grid-column: span 2;
+        }
+
+        /* Mobile */
+        @media (max-width: 600px) {
+            .quiz-ai-controls {
+                grid-template-columns: 1fr;
+                gap: 12px;
+                padding: 16px;
+            }
+
+            .quiz-ai-controls .btn {
+                grid-column: span 1;
+            }
+        }
     </style>
     <script>
         if (new URLSearchParams(location.search).get('tab') === 'arena') {
@@ -1082,147 +1174,260 @@
             <!-- ═══ TAB: ARENA ═══ -->
             <div class="tab-panel" id="tab-arena">
 
-                <!-- Pilih Kuis -->
+                <!-- 🔥 KUIS AI (Premium) -->
                 <div class="arena-section">
-                    <h2>📚 Pilih Kuis</h2>
-                    <p class="subtitle">Pilih mata pelajaran yang ingin kamu kerjakan.</p>
-                    <div class="carousel arena-carousel" id="subjectGrid">
-                        <button class="subject-card carousel-item" data-subject="matematika"
-                            data-file="soal-matematika-bab1.json">
-                            <div class="subject-emoji">🔢</div>
-                            <div class="subject-name">Matematika</div>
-                            <div class="subject-desc">Bilangan Bulat - Bab 1</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="ipa" data-file="soal-ipa-umum.json">
-                            <div class="subject-emoji">🔬</div>
-                            <div class="subject-name">IPA</div>
-                            <div class="subject-desc">Sains Umum</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="ips" data-file="soal-ips-umum.json">
-                            <div class="subject-emoji">🌍</div>
-                            <div class="subject-name">IPS</div>
-                            <div class="subject-desc">Ilmu Pengetahuan Sosial</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="bahasa-indonesia"
-                            data-file="soal-bahasa-indonesia-umum.json">
-                            <div class="subject-emoji">📖</div>
-                            <div class="subject-name">B. Indonesia</div>
-                            <div class="subject-desc">Umum</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="bahasa-inggris"
-                            data-file="soal-bahasa-inggris-umum.json">
-                            <div class="subject-emoji">🇬🇧</div>
-                            <div class="subject-name">B. Inggris</div>
-                            <div class="subject-desc">General English</div>
-                        </button>
-                        <button class="subject-card carousel-item"
-                            data-subject="Pendidikan Pancasila dan Kewarganegaraan" data-file="soal-ppkn-umum.json">
-                            <div class="subject-emoji">🦅</div>
-                            <div class="subject-name">PPKN</div>
-                            <div class="subject-desc">Pendidikan Pancasila</div>
+                    <h2>🔥 Kuis AI <span class="badge-premium"
+                            style="font-size:12px;background:linear-gradient(135deg,#f59e0b,#ff9500);padding:2px 10px;border-radius:20px;color:#fff;margin-left:8px;">Premium</span>
+                    </h2>
+                    <p class="subtitle">Soal dibuat otomatis oleh AI dari materi yang kamu pilih. Butuh langganan
+                        premium.</p>
+                    <div class="quiz-ai-controls">
+                        <!-- BARIS 1: Kelas + Mapel -->
+                        <div class="ai-form-group">
+                            <label class="ai-label">📚 Kelas</label>
+                            <select id="aiKelasSelect" class="ai-select">
+                                <option value="7">Kelas 7</option>
+                                <option value="8">Kelas 8</option>
+                                <option value="9">Kelas 9</option>
+                                <option value="10">Kelas 10</option>
+                                <option value="11">Kelas 11</option>
+                                <option value="12" selected>Kelas 12</option>
+                            </select>
+                        </div>
+                        <div class="ai-form-group">
+                            <label class="ai-label">📖 Mata Pelajaran</label>
+                            <select id="aiMapelSelect" class="ai-select">
+                                <option value="">Pilih mapel</option>
+                            </select>
+                        </div>
+
+                        <!-- BARIS 2: Topik + Jumlah Soal + Durasi -->
+                        <div class="ai-form-group">
+                            <label class="ai-label">✏️ Topik (opsional)</label>
+                            <input type="text" id="aiTopikInput" class="ai-input"
+                                placeholder="Contoh: sel, bilangan bulat">
+                        </div>
+                        <div class="ai-form-group">
+                            <label class="ai-label">📊 Jumlah Soal</label>
+                            <select id="aiJumlahSelect" class="ai-select">
+                                <option value="5">5 soal</option>
+                                <option value="6">6 soal</option>
+                                <option value="7">7 soal</option>
+                                <option value="8">8 soal</option>
+                                <option value="9">9 soal</option>
+                                <option value="10" selected>10 soal</option>
+                                <option value="11">11 soal</option>
+                                <option value="12">12 soal</option>
+                                <option value="13">13 soal</option>
+                                <option value="14">14 soal</option>
+                                <option value="15">15 soal</option>
+                            </select>
+                        </div>
+                        <div class="ai-form-group">
+                            <label class="ai-label">⏱️ Durasi (detik)</label>
+                            <input type="number" id="aiTimerInput" class="ai-input" value="120" min="30" max="1000"
+                                step="1" placeholder="30-1000">
+                        </div>
+
+                        <!-- BARIS 3: Tombol (span 2 kolom) -->
+                        <button class="btn btn-primary" id="startQuizAiBtn"
+                            style="grid-column:span 2;padding:14px;font-size:16px;font-weight:700;">
+                            🚀 Mulai Kuis AI (1 Energi)
                         </button>
                     </div>
-                    <button class="btn btn-primary mt-10 hidden" id="startQuizBtn" style="margin-top:16px;">Mulai
-                        Kuis
-                        (1 Energi)</button>
-                    <p class="empty-energy-msg hidden" id="noEnergyMsg">
-                        Energi kamu habis. Tunggu reset besok jam 00:00, atau lanjut baca materi (gratis tanpa
-                        batas).
-                    </p>
-                </div>
 
-                <hr class="section-divider-futuristic">
+                    <!-- Pilih Kuis -->
+                    <div class="arena-section">
+                        <h2>📚 Pilih Kuis</h2>
+                        <p class="subtitle">Pilih mata pelajaran yang ingin kamu kerjakan.</p>
+                        <div class="carousel arena-carousel" id="subjectGrid">
+                            <button class="subject-card carousel-item" data-subject="matematika"
+                                data-file="soal-matematika-bab1.json">
+                                <div class="subject-emoji">🔢</div>
+                                <div class="subject-name">Matematika</div>
+                                <div class="subject-desc">Bilangan Bulat - Bab 1</div>
+                            </button>
+                            <button class="subject-card carousel-item" data-subject="ipa"
+                                data-file="soal-ipa-umum.json">
+                                <div class="subject-emoji">🔬</div>
+                                <div class="subject-name">IPA</div>
+                                <div class="subject-desc">Sains Umum</div>
+                            </button>
+                            <button class="subject-card carousel-item" data-subject="ips"
+                                data-file="soal-ips-umum.json">
+                                <div class="subject-emoji">🌍</div>
+                                <div class="subject-name">IPS</div>
+                                <div class="subject-desc">Ilmu Pengetahuan Sosial</div>
+                            </button>
+                            <button class="subject-card carousel-item" data-subject="bahasa-indonesia"
+                                data-file="soal-bahasa-indonesia-umum.json">
+                                <div class="subject-emoji">📖</div>
+                                <div class="subject-name">B. Indonesia</div>
+                                <div class="subject-desc">Umum</div>
+                            </button>
+                            <button class="subject-card carousel-item" data-subject="bahasa-inggris"
+                                data-file="soal-bahasa-inggris-umum.json">
+                                <div class="subject-emoji">🇬🇧</div>
+                                <div class="subject-name">B. Inggris</div>
+                                <div class="subject-desc">General English</div>
+                            </button>
+                            <button class="subject-card carousel-item"
+                                data-subject="Pendidikan Pancasila dan Kewarganegaraan" data-file="soal-ppkn-umum.json">
+                                <div class="subject-emoji">🦅</div>
+                                <div class="subject-name">PPKN</div>
+                                <div class="subject-desc">Pendidikan Pancasila</div>
+                            </button>
+                        </div>
+                        <button class="btn btn-primary mt-10 hidden" id="startQuizBtn" style="margin-top:16px;">Mulai
+                            Kuis
+                            (1 Energi)</button>
+                        <p class="empty-energy-msg hidden" id="noEnergyMsg">
+                            Energi kamu habis. Tunggu reset besok jam 00:00, atau lanjut baca materi (gratis tanpa
+                            batas).
+                        </p>
+                    </div>
 
-                <!-- Minigames -->
-                <div class="arena-section">
-                    <h2>🎮 Minigames</h2>
-                    <p class="subtitle">Games untuk mengasah kemampuan. Butuh energi, tapi hadiahnya worth it!</p>
-                    <div class="carousel arena-carousel">
-                        <a href="mathdash.html" class="minigame-card carousel-item">
-                            <div class="minigame-emoji">⚡</div>
-                            <div class="minigame-name">Math Dash</div>
-                            <div class="minigame-desc">Hitung cepat 15 soal dalam 5 detik per soal</div>
-                            <div class="minigame-cost">2 Energi</div>
-                        </a>
-                        <a href="tebakistilah.html" class="minigame-card carousel-item">
-                            <div class="minigame-emoji">🧩</div>
-                            <div class="minigame-name">Tebak Istilah</div>
-                            <div class="minigame-desc">Baca definisi, tebak istilahnya!</div>
-                            <div class="minigame-cost">1 Energi</div>
-                        </a>
-                        <a href="flappyowl.html" class="minigame-card carousel-item">
-                            <div class="minigame-emoji">🦉</div>
-                            <div class="minigame-name">Flappy Owl</div>
-                            <div class="minigame-desc">Terbang melewati gedung, kumpulkan energi!</div>
-                            <div class="minigame-cost">Gratis ⚡</div>
-                        </a>
+                    <hr class="section-divider-futuristic">
+
+                    <!-- Minigames -->
+                    <div class="arena-section">
+                        <h2>🎮 Minigames</h2>
+                        <p class="subtitle">Games untuk mengasah kemampuan. Butuh energi, tapi hadiahnya worth it!</p>
+                        <div class="carousel arena-carousel">
+                            <a href="mathdash.html" class="minigame-card carousel-item">
+                                <div class="minigame-emoji">⚡</div>
+                                <div class="minigame-name">Math Dash</div>
+                                <div class="minigame-desc">Hitung cepat 15 soal dalam 5 detik per soal</div>
+                                <div class="minigame-cost">2 Energi</div>
+                            </a>
+                            <a href="tebakistilah.html" class="minigame-card carousel-item">
+                                <div class="minigame-emoji">🧩</div>
+                                <div class="minigame-name">Tebak Istilah</div>
+                                <div class="minigame-desc">Baca definisi, tebak istilahnya!</div>
+                                <div class="minigame-cost">1 Energi</div>
+                            </a>
+                            <a href="flappyowl.html" class="minigame-card carousel-item">
+                                <div class="minigame-emoji">🦉</div>
+                                <div class="minigame-name">Flappy Owl</div>
+                                <div class="minigame-desc">Terbang melewati gedung, kumpulkan energi!</div>
+                                <div class="minigame-cost">Gratis ⚡</div>
+                            </a>
+                        </div>
+                    </div>
+
+                    <hr class="section-divider-futuristic">
+
+                    <!-- Pilih Guru AI -->
+                    <div class="arena-section">
+                        <h2>👨‍🏫 Pilih Guru AI</h2>
+                        <p class="subtitle">Guru ini akan memberi feedback setelah kamu menyelesaikan kuis.</p>
+                        <div class="carousel arena-carousel" id="personaSelectGrid">
+                            <!-- diisi oleh JS -->
+                        </div>
                     </div>
                 </div>
 
-                <hr class="section-divider-futuristic">
-
-                <!-- Pilih Guru AI -->
-                <div class="arena-section">
-                    <h2>👨‍🏫 Pilih Guru AI</h2>
-                    <p class="subtitle">Guru ini akan memberi feedback setelah kamu menyelesaikan kuis.</p>
-                    <div class="carousel arena-carousel" id="personaSelectGrid">
-                        <!-- diisi oleh JS -->
+                <!-- ═══ TAB: KOMUNITAS ═══ -->
+                <div class="tab-panel" id="tab-komunitas">
+                    <div class="card">
+                        <h2>📊 Leaderboard</h2>
+                        <p class="subtitle">Peringkat terbaik di Skolvix</p>
+                        <div id="leaderboardList">Memuat...</div>
                     </div>
                 </div>
+
+                <!-- ═══ TAB: PROFIL ═══ -->
+                <div class="tab-panel" id="tab-profil">
+                    <div class="card profil-header">
+                        <div class="profil-avatar" id="profilAvatar">?</div>
+                        <div class="profil-info">
+                            <h2 id="profilUsername">User</h2>
+                            <p>Pelajar Skolvix</p>
+                        </div>
+                    </div>
+
+                    <div class="card badge-section">
+                        <h3>🏆 Badge Kamu</h3>
+                        <div class="badge-list" id="badgeList">
+                            <!-- diisi oleh JS -->
+                        </div>
+                    </div>
+
+                    <div class="logout-section">
+                        <a href="index.html" class="btn-logout">🚪 Keluar</a>
+                    </div>
+                </div>
+
             </div>
-
-            <!-- ═══ TAB: KOMUNITAS ═══ -->
-            <div class="tab-panel" id="tab-komunitas">
-                <div class="card">
-                    <h2>📊 Leaderboard</h2>
-                    <p class="subtitle">Peringkat terbaik di Skolvix</p>
-                    <div id="leaderboardList">Memuat...</div>
-                </div>
-            </div>
-
-            <!-- ═══ TAB: PROFIL ═══ -->
-            <div class="tab-panel" id="tab-profil">
-                <div class="card profil-header">
-                    <div class="profil-avatar" id="profilAvatar">?</div>
-                    <div class="profil-info">
-                        <h2 id="profilUsername">User</h2>
-                        <p>Pelajar Skolvix</p>
-                    </div>
-                </div>
-
-                <div class="card badge-section">
-                    <h3>🏆 Badge Kamu</h3>
-                    <div class="badge-list" id="badgeList">
-                        <!-- diisi oleh JS -->
-                    </div>
-                </div>
-
-                <div class="logout-section">
-                    <a href="index.html" class="btn-logout">🚪 Keluar</a>
-                </div>
-            </div>
-
         </div>
-    </div>
 
-    <!-- WELCOME POPUP -->
-    <div class="welcome-overlay hidden" id="welcomeOverlay">
-        <div class="welcome-popup">
-            <button class="welcome-close" id="welcomeCloseBtn">&times;</button>
-            <div class="welcome-emoji" id="welcomeEmoji">🧠</div>
-            <div class="welcome-name" id="welcomeName">Kak Alex</div>
-            <p class="welcome-msg" id="welcomeMsg">Selamat datang kembali!</p>
-            <button class="btn btn-primary" id="welcomeOkBtn" style="margin-top:16px;width:100%;">Mulai
-                Belajar!</button>
+        <!-- WELCOME POPUP -->
+        <div class="welcome-overlay hidden" id="welcomeOverlay">
+            <div class="welcome-popup">
+                <button class="welcome-close" id="welcomeCloseBtn">&times;</button>
+                <div class="welcome-emoji" id="welcomeEmoji">🧠</div>
+                <div class="welcome-name" id="welcomeName">Kak Alex</div>
+                <p class="welcome-msg" id="welcomeMsg">Selamat datang kembali!</p>
+                <button class="btn btn-primary" id="welcomeOkBtn" style="margin-top:16px;width:100%;">Mulai
+                    Belajar!</button>
+            </div>
         </div>
-    </div>
 
-    <!-- Supabase CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="supabase-config.js"></script>
-    <script src="feedback-personas.js"></script>
-    <script src="greetings.js"></script>
-    <script src="app.js"></script>
+        <!-- KUIS AI: Dynamic Mapel -->
+        <script>
+            const aiMapelData = {
+                smp: [
+                    { value: 'matematika', label: 'Matematika' },
+                    { value: 'ipa', label: 'IPA' },
+                    { value: 'ips', label: 'IPS' },
+                    { value: 'bindo', label: 'B. Indonesia' },
+                    { value: 'binggris', label: 'B. Inggris' },
+                    { value: 'ppkn', label: 'PPKn' }
+                ],
+                sma: [
+                    { value: 'matematika', label: 'Matematika' },
+                    { value: 'fisika', label: 'Fisika' },
+                    { value: 'kimia', label: 'Kimia' },
+                    { value: 'biologi', label: 'Biologi' },
+                    { value: 'ekonomi', label: 'Ekonomi' },
+                    { value: 'sejarah', label: 'Sejarah' },
+                    { value: 'sosiologi', label: 'Sosiologi' },
+                    { value: 'geografi', label: 'Geografi' },
+                    { value: 'bindo', label: 'B. Indonesia' },
+                    { value: 'binggris', label: 'B. Inggris' },
+                    { value: 'ppkn', label: 'PPKn' }
+                ]
+            };
+
+            function updateAiMapelOptions() {
+                const kelasSelect = document.getElementById('aiKelasSelect');
+                const mapelSelect = document.getElementById('aiMapelSelect');
+                if (!kelasSelect || !mapelSelect) return;
+
+                const kelas = parseInt(kelasSelect.value);
+                const data = (kelas >= 7 && kelas <= 10) ? aiMapelData.smp : aiMapelData.sma;
+
+                mapelSelect.innerHTML = data.map(m =>
+                    '<option value="' + m.value + '">' + m.label + '</option>'
+                ).join('');
+            }
+
+            document.addEventListener('DOMContentLoaded', function () {
+                const kelasSelect = document.getElementById('aiKelasSelect');
+                if (kelasSelect) {
+                    kelasSelect.addEventListener('change', updateAiMapelOptions);
+                    // Trigger with default kelas 12
+                    updateAiMapelOptions();
+                }
+            });
+        </script>
+
+        <!-- Supabase CDN -->
+        <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+        <script src="supabase-config.js"></script>
+        <script src="feedback-personas.js"></script>
+        <script src="greetings.js"></script>
+        <script src="app.js"></script>
 
 
 </body>
