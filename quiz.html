@@ -6,24 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kuis - Skolvix</title>
     <link rel="stylesheet" href="style.css?v=2.0">
-    <style>
-        .timer-display {
-            display: none;
-            position: absolute;
-            top: 12px;
-            right: 16px;
-            font-size: 28px;
-            font-weight: 700;
-            color: var(--gold);
-            font-family: var(--font-display);
-            letter-spacing: 0.5px;
-            transition: color 0.3s;
-        }
-
-        .timer-display.warning {
-            color: var(--red);
-        }
-    </style>
 </head>
 
 <body>
@@ -37,8 +19,7 @@
         </div>
 
         <!-- TAMPILAN SOAL -->
-        <div class="card" id="quizCard" style="position:relative;">
-            <div class="timer-display" id="timerDisplay"></div>
+        <div class="card" id="quizCard">
             <div class="quiz-progress">Soal <span id="soalKe">1</span> dari <span id="totalSoal">10</span></div>
             <div class="quiz-subject-tag" id="subjectTag"></div>
             <div class="quiz-question" id="pertanyaan">Memuat soal...</div>

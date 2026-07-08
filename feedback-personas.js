@@ -169,15 +169,12 @@ const FEEDBACK_TEMPLATES = {
  * @param {string} namaUser
  * @returns {string}
  */
-function getFeedback(personaKey, jumlahBenar, totalSoal, namaUser) {
+function getFeedback(personaKey, jumlahBenar, namaUser) {
   const persona = FEEDBACK_TEMPLATES[personaKey] || FEEDBACK_TEMPLATES.kakAlex;
 
-  // Hitung persentase
-  const persentase = totalSoal > 0 ? (jumlahBenar / totalSoal) * 100 : 0;
-
-  let kategori = "rendah";
-  if (persentase >= 80) kategori = "tinggi";      // 80-100%
-  else if (persentase >= 60) kategori = "sedang"; // 60-79%
+  let kategori = "rendah"; // 0-5 benar
+  if (jumlahBenar >= 8) kategori = "tinggi";       // 8-10 benar
+  else if (jumlahBenar >= 6) kategori = "sedang";  // 6-7 benar
 
   const list = persona[kategori];
   const template = list[Math.floor(Math.random() * list.length)];
