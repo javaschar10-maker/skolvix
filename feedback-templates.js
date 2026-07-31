@@ -341,5 +341,5 @@ function getFeedback(personaKey, score, maxScore, userName = "User", topicName =
 }
 
 
-// ─── AMBIL FUNGSI DARI MODULE ───
-import { FEEDBACK_TEMPLATES, CLOSING_TEMPLATES, getFeedback } from './feedback-templates.js';
+// ─── EKSPOR ───
+export { FEEDBACK_TEMPLATES, getFeedback };
