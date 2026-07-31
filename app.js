@@ -30,6 +30,7 @@ document.addEventListener("click", (e) => {
   const card = e.target.closest(".subject-card");
   if (!card) return;
 
+
   // Hapus active dari semua card
   document.querySelectorAll(".subject-card").forEach(c => c.classList.remove("active"));
   card.classList.add("active");

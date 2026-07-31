@@ -1,6 +1,4 @@
-// quizai.js - Logika kuis AI untuk Skolvix
-// Ini adalah file terpisah dari quiz.js untuk menghindari konflik.
-
+// quizai.js - Logika kuis AI (terpisah dari quiz.js)
 let soalData = null;
 let currentIndex = 0;
 let userAnswers = [];
@@ -11,10 +9,7 @@ let isTimeout = false;
 
 const PERSONA_AKTIF = localStorage.getItem("skolvix_persona") || "kakAlex";
 
-// ─── DETEKSI MODE ───
-// Mode AI selalu true di file ini
-const mode = 'ai';
-
+// ─── UTILITY ───
 function shuffleArray(array) {
     const arr = [...array];
     for (let i = arr.length - 1; i > 0; i--) {
@@ -24,13 +19,10 @@ function shuffleArray(array) {
     return arr;
 }
 
-// ============================================================
-// ⏱️ TIMER (Sama seperti sebelumnya)
-// ============================================================
+// ─── TIMER ───
 function startTimer(duration) {
     const timerDisplay = document.getElementById('timerDisplay');
     if (!timerDisplay) return;
-
     timerDisplay.style.display = 'block';
     timeLeft = duration;
     timerDisplay.textContent = timeLeft + 's';
@@ -40,12 +32,10 @@ function startTimer(duration) {
     timerInterval = setInterval(() => {
         timeLeft--;
         timerDisplay.textContent = timeLeft + 's';
-
         if (timeLeft <= 10) {
             timerDisplay.style.color = '#ff4d6d';
             timerDisplay.classList.add('warning');
         }
-
         if (timeLeft <= 0) {
             clearInterval(timerInterval);
             timerDisplay.textContent = '⏰';
@@ -63,14 +53,10 @@ function stopTimer() {
         timerInterval = null;
     }
     const timerDisplay = document.getElementById('timerDisplay');
-    if (timerDisplay) {
-        timerDisplay.style.display = 'none';
-    }
+    if (timerDisplay) timerDisplay.style.display = 'none';
 }
 
-// ============================================================
-// 🧠 RENDER & LOGIKA SOAL (Sama seperti sebelumnya)
-// ============================================================
+// ─── RENDER SOAL ───
 function renderSoal() {
     const soal = soalData.soal[currentIndex];
     document.getElementById("soalKe").textContent = currentIndex + 1;
@@ -130,6 +116,7 @@ function pilihJawaban(idx, isBenar, chosenText, soal) {
     }, delay);
 }
 
+// ─── FINISH QUIZ ───
 async function finishQuiz(timeout = false) {
     stopTimer();
 
@@ -165,7 +152,7 @@ async function finishQuiz(timeout = false) {
         bab: soalData.bab || 'AI Generated',
         skor_persen: skorPersen,
         koin_didapat: koinDidapat,
-        mode: "ai",
+        mode: quizMode,
         durasi: durasi
     }]);
 
@@ -178,7 +165,6 @@ async function finishQuiz(timeout = false) {
     document.getElementById("koinGain").textContent = "+" + koinDidapat + " Koin IQ";
     document.getElementById("koinDisplay").textContent = koinBaru;
 
-    // 🔥 Feedback pakai persentase (totalSoal)
     const feedbackText = getFeedback(PERSONA_AKTIF, benar, totalSoal, user.username);
     document.getElementById("feedbackBox").textContent = feedbackText;
 
@@ -201,9 +187,7 @@ async function finishQuiz(timeout = false) {
     });
 }
 
-// ============================================================
-// 🏆 BADGE, REVIEW, FEEDBACK (Sama seperti sebelumnya)
-// ============================================================
+// ─── REVIEW ───
 function buildReviewSection() {
     const container = document.getElementById("reviewSection");
     container.innerHTML = "<h3 style='margin-bottom:12px;font-family:var(--font-display);'>Pembahasan Soal</h3>";
@@ -237,6 +221,7 @@ function buildReviewSection() {
     });
 }
 
+// ─── BADGE ───
 async function checkAndUnlockBadges(user, benar, koinBaru, dapatPerfect) {
     const badges = user.badges || [];
     let updated = false;
@@ -251,9 +236,33 @@ async function checkAndUnlockBadges(user, benar, koinBaru, dapatPerfect) {
     }
 }
 
-// ============================================================
-// 🚀 LOADER (Load Soal AI & Mulai Timer)
-// ============================================================
+// ─── GENERATE SOAL AI ───
+async function generateSoalAI(mapel, kelas, jumlah, topik) {
+    const btn = document.getElementById("startQuizAiBtn");
+    btn.disabled = true;
+    btn.textContent = "⏳ Menghasilkan soal...";
+
+    try {
+        const query = topik ? `materi ${topik} ${mapel} kelas ${kelas}` : `materi ${mapel} kelas ${kelas}`;
+        const response = await fetch(
+            'https://yqbkkxibgsfaueaaezey.supabase.co/functions/v1/generate-soal',
+            {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ mapel, kelas, jumlah, topik })
+            }
+        );
+        if (!response.ok) throw new Error('Gagal generate soal');
+        const data = await response.json();
+        if (!data.soal || data.soal.length === 0) throw new Error('Soal kosong');
+        return data.soal;
+    } finally {
+        btn.disabled = false;
+        btn.textContent = "🚀 Mulai Kuis AI (1 Energi)";
+    }
+}
+
+// ─── LOADER ───
 window.addEventListener("load", async () => {
     if (!username) {
         window.location.href = "app.html";
@@ -261,52 +270,89 @@ window.addEventListener("load", async () => {
     }
 
     const soalJson = sessionStorage.getItem('quizSoalAI');
-    const durasi = parseInt(sessionStorage.getItem('quizTimer')) || 120;
-    const jumlah = parseInt(sessionStorage.getItem('quizJumlah')) || 10;
+    if (soalJson) {
+        // Ada soal di sessionStorage → tampilkan kuis
+        const durasi = parseInt(sessionStorage.getItem('quizTimer')) || 120;
+        const jumlah = parseInt(sessionStorage.getItem('quizJumlah')) || 10;
 
-    if (!soalJson) {
-        alert('Soal AI tidak ditemukan. Kembali ke dashboard.');
-        window.location.href = 'app.html';
+        try {
+            const rawSoal = JSON.parse(soalJson);
+            const formattedSoal = rawSoal.map(q => {
+                let opsi = q.pilihan;
+                if (typeof opsi === 'string') {
+                    try { opsi = JSON.parse(opsi); } catch (e) { opsi = []; }
+                }
+                if (!Array.isArray(opsi)) opsi = [];
+                let jawabanIndex = -1;
+                if (q.jawaban) {
+                    const map = { 'A': 0, 'B': 1, 'C': 2, 'D': 3 };
+                    jawabanIndex = map[q.jawaban.toUpperCase()];
+                    if (jawabanIndex === undefined) jawabanIndex = -1;
+                }
+                return {
+                    pertanyaan: q.soal,
+                    opsi: opsi,
+                    jawaban: jawabanIndex,
+                    penjelasan: q.penjelasan || '',
+                    _opsiAcak: null
+                };
+            });
+
+            soalData = {
+                bab: 'AI Generated - ' + (sessionStorage.getItem('quizMapel') || ''),
+                soal: shuffleArray(formattedSoal).slice(0, jumlah)
+            };
+            userAnswers = new Array(soalData.soal.length).fill(null);
+            document.getElementById("totalSoal").textContent = soalData.soal.length;
+            document.getElementById("subjectTag").textContent = '🤖 Kuis AI • ' + (sessionStorage.getItem('quizMapel') || '');
+
+            document.getElementById("formCard").classList.add("hidden");
+            document.getElementById("quizCard").classList.remove("hidden");
+
+            startTimer(durasi);
+            renderSoal();
+        } catch (e) {
+            console.error(e);
+            alert('Soal AI rusak, coba lagi.');
+            sessionStorage.removeItem('quizSoalAI');
+            window.location.reload();
+        }
         return;
     }
 
-    try {
-        const rawSoal = JSON.parse(soalJson);
-        const formattedSoal = rawSoal.map(q => {
-            let opsi = q.pilihan;
-            if (typeof opsi === 'string') {
-                try { opsi = JSON.parse(opsi); } catch (e) { opsi = []; }
-            }
-            if (!Array.isArray(opsi)) opsi = [];
-            let jawabanIndex = -1;
-            if (q.jawaban) {
-                const map = { 'A': 0, 'B': 1, 'C': 2, 'D': 3 };
-                jawabanIndex = map[q.jawaban.toUpperCase()];
-                if (jawabanIndex === undefined) jawabanIndex = -1;
-            }
-            return {
-                pertanyaan: q.soal,
-                opsi: opsi,
-                jawaban: jawabanIndex,
-                penjelasan: q.penjelasan || '',
-                _opsiAcak: null
-            };
-        });
+    // Tidak ada soal di sessionStorage → tampilkan form
+    document.getElementById("formCard").classList.remove("hidden");
+    document.getElementById("quizCard").classList.add("hidden");
+    document.getElementById("resultCard").classList.add("hidden");
 
-        soalData = {
-            bab: 'AI Generated - ' + (sessionStorage.getItem('quizMapel') || ''),
-            soal: shuffleArray(formattedSoal).slice(0, jumlah)
-        };
-        userAnswers = new Array(soalData.soal.length).fill(null);
-        document.getElementById("totalSoal").textContent = soalData.soal.length;
-        document.getElementById("subjectTag").textContent = '🤖 Kuis AI • ' + (sessionStorage.getItem('quizMapel') || '');
+    document.getElementById("startQuizAiBtn").addEventListener("click", async () => {
+        const kelas = document.getElementById("aiKelasSelect").value;
+        const mapel = document.getElementById("aiMapelSelect").value;
+        const topik = document.getElementById("aiTopikInput").value.trim();
+        const jumlah = parseInt(document.getElementById("aiJumlahSelect").value);
+        const durasi = parseInt(document.getElementById("aiTimerInput").value) || 120;
 
-        // 🔥 Mulai timer
-        startTimer(durasi);
-        renderSoal();
-    } catch (e) {
-        console.error(e);
-        alert('Soal AI rusak, coba lagi.');
-        window.location.href = 'app.html';
-    }
+        if (durasi < 30 || durasi > 1000) {
+            alert("Durasi harus antara 30-1000 detik.");
+            return;
+        }
+        if (!mapel) {
+            alert("Pilih mata pelajaran dulu!");
+            return;
+        }
+
+        try {
+            const soal = await generateSoalAI(mapel, kelas, jumlah, topik);
+            sessionStorage.setItem('quizSoalAI', JSON.stringify(soal));
+            sessionStorage.setItem('quizMode', 'ai');
+            sessionStorage.setItem('quizMapel', mapel);
+            sessionStorage.setItem('quizKelas', kelas);
+            sessionStorage.setItem('quizTimer', durasi.toString());
+            sessionStorage.setItem('quizJumlah', jumlah.toString());
+            window.location.reload();
+        } catch (error) {
+            console.error(error);
+            alert('Gagal generate soal AI: ' + error.message);
+        }
+    });
 });

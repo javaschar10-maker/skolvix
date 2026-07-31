@@ -1,0 +1,287 @@
+{
+    "mapel": "NAMA_MAPEL",
+    "jenjang": "KELAS",
+    "sumber_buku": "SUMBER_BUKU",
+    "soal": [
+        {
+            "id": 1,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 1 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 0,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 2,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 2 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 1,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 3,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 3 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 2,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 4,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 4 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 3,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 5,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 5 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 0,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 6,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 6 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 1,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 7,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 7 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 2,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 8,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 8 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 3,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 9,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 9 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 0,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 10,
+            "bab": "BAB_1",
+            "pertanyaan": "Soal 10 bab 1",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 1,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 1,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 1 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 0,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 2,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 2 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 1,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 3,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 3 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 2,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 4,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 4 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 3,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 5,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 5 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 0,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 6,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 6 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 1,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 7,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 7 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 2,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 8,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 8 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 3,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 9,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 9 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 0,
+            "penjelasan": "...",
+            "gambar": null
+        },
+        {
+            "id": 10,
+            "bab": "BAB_2",
+            "pertanyaan": "Soal 10 bab 2",
+            "opsi": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "jawaban": 1,
+            "penjelasan": "...",
+            "gambar": null
+        }
+    ]
+}

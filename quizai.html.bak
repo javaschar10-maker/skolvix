@@ -1,0 +1,483 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuis AI - Skolvix</title>
+    <link rel="stylesheet" href="style.css?v=2.0">
+    <style>
+        /* ─── TIMER ─── */
+        .timer-display {
+            display: none;
+            position: absolute;
+            top: 16px;
+            right: 16px;
+            font-size: 28px;
+            font-weight: 700;
+            color: var(--gold);
+            font-family: var(--font-display);
+            letter-spacing: 0.5px;
+            transition: color 0.3s;
+            background: rgba(0, 0, 0, 0.3);
+            padding: 4px 14px;
+            border-radius: 8px;
+            backdrop-filter: blur(4px);
+        }
+
+        .timer-display.warning {
+            color: #ff4d6d;
+            animation: pulse 0.5s ease infinite alternate;
+        }
+
+        @keyframes pulse {
+            0% {
+                opacity: 1;
+            }
+
+            100% {
+                opacity: 0.5;
+            }
+        }
+
+        /* ─── FORM KUIS AI ─── */
+        .quiz-ai-controls {
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 16px;
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            margin-bottom: 16px;
+        }
+
+        .ai-form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .ai-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .ai-select,
+        .ai-input {
+            padding: 10px 12px;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            background: #1a2639;
+            color: #fff;
+            font-size: 14px;
+            font-family: var(--font-body);
+            outline: none;
+            transition: border-color 0.2s ease;
+            width: 100%;
+            -webkit-appearance: none;
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='7'%3E%3Cpath fill='%2394a3b8' d='M6 7L0 0h12z'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 12px center;
+            background-size: 12px 7px;
+        }
+
+        .ai-select option {
+            background: #1a2639;
+            color: #fff;
+        }
+
+        .ai-select:focus,
+        .ai-input:focus {
+            border-color: var(--primary-accent);
+            box-shadow: 0 0 0 2px rgba(56, 189, 248, 0.1);
+        }
+
+        .ai-input::placeholder {
+            color: var(--text-muted);
+            opacity: 0.6;
+        }
+
+        .ai-input[type="number"] {
+            -moz-appearance: textfield;
+        }
+
+        .ai-input[type="number"]::-webkit-inner-spin-button,
+        .ai-input[type="number"]::-webkit-outer-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+
+        .flex-row {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        .flex-row .ai-form-group {
+            flex: 1;
+            min-width: 100px;
+        }
+
+        @media (max-width: 600px) {
+            .flex-row {
+                flex-direction: column;
+            }
+
+            .flex-row .ai-form-group {
+                min-width: unset;
+            }
+        }
+
+        .btn {
+            width: 100%;
+            padding: 14px;
+            border: none;
+            border-radius: 10px;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            text-align: center;
+            transition: transform 0.1s ease, opacity 0.2s ease;
+        }
+
+        .btn-primary {
+            background: var(--primary);
+            color: #fff;
+        }
+
+        .btn-primary:hover {
+            opacity: 0.85;
+        }
+
+        .btn-primary:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.05);
+            color: var(--text);
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .mt-10 {
+            margin-top: 10px;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        /* ─── HASIL ─── */
+        .result-score {
+            font-family: var(--font-display);
+            font-size: 48px;
+            font-weight: 800;
+            text-align: center;
+            color: var(--primary-light);
+            margin: 10px 0;
+        }
+
+        .result-score span {
+            font-size: 20px;
+            color: var(--text-dim);
+        }
+
+        .koin-gain {
+            text-align: center;
+            color: var(--gold);
+            font-weight: 700;
+            font-size: 18px;
+            margin-bottom: 16px;
+        }
+
+        .feedback-box {
+            background: rgba(29, 106, 229, 0.12);
+            border-left: 3px solid var(--primary);
+            border-radius: 8px;
+            padding: 12px 14px;
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 16px;
+        }
+
+        .review-section {
+            margin-top: 16px;
+            margin-bottom: 16px;
+        }
+
+        .review-item {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--card-border);
+            border-radius: 10px;
+            padding: 14px;
+            margin-bottom: 10px;
+        }
+
+        .review-item.review-wrong {
+            border-left: 3px solid var(--red);
+        }
+
+        .review-item.review-correct {
+            border-left: 3px solid var(--green);
+        }
+
+        .review-item-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 6px;
+        }
+
+        .review-number {
+            font-size: 11px;
+            font-weight: 700;
+            color: var(--text-dim);
+        }
+
+        .review-status {
+            font-size: 12px;
+            font-weight: 700;
+        }
+
+        .status-correct {
+            color: var(--green);
+        }
+
+        .status-wrong {
+            color: var(--red);
+        }
+
+        .review-question {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 8px;
+            line-height: 1.5;
+        }
+
+        .review-your-answer,
+        .review-correct-answer {
+            font-size: 13px;
+            margin-bottom: 4px;
+            color: rgba(255, 255, 255, 0.7);
+        }
+
+        .wrong-text {
+            color: var(--red);
+            font-weight: 600;
+        }
+
+        .correct-text {
+            color: var(--green);
+            font-weight: 600;
+        }
+
+        .review-explanation {
+            background: rgba(29, 106, 229, 0.08);
+            border-radius: 8px;
+            padding: 10px 12px;
+            font-size: 13px;
+            line-height: 1.6;
+            margin-top: 8px;
+            color: rgba(255, 255, 255, 0.8);
+        }
+
+        /* ─── KUIS ─── */
+        .quiz-progress {
+            font-size: 12px;
+            color: var(--text-dim);
+            margin-bottom: 8px;
+        }
+
+        .quiz-subject-tag {
+            display: inline-block;
+            background: rgba(0, 212, 255, 0.12);
+            color: var(--cyan);
+            border: 1px solid rgba(0, 212, 255, 0.25);
+            border-radius: 999px;
+            padding: 4px 12px;
+            font-size: 11px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        .quiz-question {
+            font-size: 17px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            line-height: 1.5;
+        }
+
+        .option {
+            display: block;
+            width: 100%;
+            text-align: left;
+            background: rgba(255, 255, 255, 0.05);
+            border: 2px solid transparent;
+            border-radius: 10px;
+            padding: 14px;
+            margin-bottom: 10px;
+            color: var(--text);
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .option:hover {
+            border-color: var(--primary-light);
+        }
+
+        .option.correct {
+            border-color: var(--green);
+            background: rgba(0, 229, 160, 0.2);
+        }
+
+        .option.wrong {
+            border-color: var(--red);
+            background: rgba(255, 77, 109, 0.2);
+        }
+
+        .option:disabled {
+            cursor: default;
+        }
+
+        .answer-feedback {
+            background: rgba(255, 255, 255, 0.04);
+            border: 1px solid var(--card-border);
+            border-radius: 10px;
+            padding: 14px;
+            margin-top: 14px;
+            display: flex;
+            gap: 10px;
+            align-items: flex-start;
+        }
+
+        .answer-feedback-icon {
+            font-size: 20px;
+            flex-shrink: 0;
+        }
+
+        .answer-feedback-text {
+            font-size: 13px;
+            line-height: 1.6;
+            color: rgba(255, 255, 255, 0.85);
+        }
+
+        .answer-feedback-text strong {
+            color: var(--text);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">⚡ Skolvix by javas</div>
+            <div class="user-stats">
+                <a href="app.html" class="stat-pill" style="text-decoration:none;color:var(--text-dim);">← Dashboard</a>
+            </div>
+        </div>
+
+        <!-- FORM KUIS AI -->
+        <div class="card" id="formCard">
+            <h2>🔥 Kuis AI <span class="badge-premium"
+                    style="font-size:12px;background:linear-gradient(135deg,#f59e0b,#ff9500);padding:2px 10px;border-radius:20px;color:#fff;margin-left:8px;">Premium</span>
+            </h2>
+            <p class="subtitle">Soal dibuat otomatis oleh AI dari materi yang kamu pilih.</p>
+
+            <div class="quiz-ai-controls">
+                <div class="flex-row">
+                    <div class="ai-form-group">
+                        <label class="ai-label">📚 Kelas</label>
+                        <select id="aiKelasSelect" class="ai-select">
+                            <option value="7">Kelas 7</option>
+                            <option value="8">Kelas 8</option>
+                            <option value="9">Kelas 9</option>
+                            <option value="10">Kelas 10</option>
+                            <option value="11">Kelas 11</option>
+                            <option value="12" selected>Kelas 12</option>
+                        </select>
+                    </div>
+                    <div class="ai-form-group">
+                        <label class="ai-label">📖 Mata Pelajaran</label>
+                        <select id="aiMapelSelect" class="ai-select">
+                            <option value="matematika">Matematika</option>
+                            <option value="ipa">IPA</option>
+                            <option value="ips">IPS</option>
+                            <option value="bindo">B. Indonesia</option>
+                            <option value="binggris">B. Inggris</option>
+                            <option value="ppkn">PPKn</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="flex-row">
+                    <div class="ai-form-group">
+                        <label class="ai-label">✏️ Topik (opsional)</label>
+                        <input type="text" id="aiTopikInput" class="ai-input" placeholder="Contoh: sel, bilangan bulat">
+                    </div>
+                    <div class="ai-form-group">
+                        <label class="ai-label">📊 Jumlah Soal</label>
+                        <select id="aiJumlahSelect" class="ai-select">
+                            <option value="5">5 soal</option>
+                            <option value="6">6 soal</option>
+                            <option value="7">7 soal</option>
+                            <option value="8">8 soal</option>
+                            <option value="9">9 soal</option>
+                            <option value="10" selected>10 soal</option>
+                            <option value="11">11 soal</option>
+                            <option value="12">12 soal</option>
+                            <option value="13">13 soal</option>
+                            <option value="14">14 soal</option>
+                            <option value="15">15 soal</option>
+                        </select>
+                    </div>
+                    <div class="ai-form-group">
+                        <label class="ai-label">⏱️ Durasi (detik)</label>
+                        <input type="number" id="aiTimerInput" class="ai-input" value="120" min="30" max="1000" step="1"
+                            placeholder="30-1000">
+                    </div>
+                </div>
+                <button class="btn btn-primary" id="startQuizAiBtn">🚀 Mulai Kuis AI (1 Energi)</button>
+            </div>
+        </div>
+
+        <!-- TAMPILAN SOAL -->
+        <div class="card hidden" id="quizCard" style="position:relative;">
+            <div class="timer-display" id="timerDisplay"></div>
+            <div class="quiz-progress">Soal <span id="soalKe">1</span> dari <span id="totalSoal">10</span></div>
+            <div class="quiz-subject-tag" id="subjectTag"></div>
+            <div class="quiz-question" id="pertanyaan">Memuat soal...</div>
+            <div id="opsiContainer"></div>
+            <div class="answer-feedback hidden" id="answerFeedback">
+                <div class="answer-feedback-icon" id="feedbackIcon"></div>
+                <div class="answer-feedback-text" id="feedbackText"></div>
+            </div>
+        </div>
+
+        <!-- TAMPILAN HASIL -->
+        <div class="card hidden" id="resultCard">
+            <h2 class="text-center">Hasil Kuis</h2>
+            <div class="result-score" id="resultScore">0<span>/100</span></div>
+            <div class="koin-gain" id="koinGain">+0 Koin IQ</div>
+            <div class="feedback-box" id="feedbackBox"></div>
+            <button class="btn btn-secondary mt-10" id="toggleReviewBtn">Lihat Pembahasan Soal</button>
+            <div class="review-section hidden" id="reviewSection"></div>
+            <button class="btn btn-primary mt-10" id="backToHomeBtn">Kembali ke Dashboard</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="supabase-config.js"></script>
+    <script src="feedback-personas.js"></script>
+    <script src="quizai.js"></script>
+</body>
+
+</html>

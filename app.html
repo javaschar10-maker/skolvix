@@ -1082,79 +1082,57 @@
             <!-- ═══ TAB: ARENA ═══ -->
             <div class="tab-panel" id="tab-arena">
 
-                <!-- 🔥 KUIS AI (Premium) -->
-                <div class="arena-section">
-                    <h2>🔥 Kuis AI <span class="badge-premium"
-                            style="font-size:12px;background:linear-gradient(135deg,#f59e0b,#ff9500);padding:2px 10px;border-radius:20px;color:#fff;margin-left:8px;">Premium</span>
-                    </h2>
-                    <p class="subtitle">Soal dibuat otomatis oleh AI dari materi yang kamu pilih. Butuh langganan
-                        premium.</p>
-                    <div class="quiz-ai-controls" style="display:flex;flex-wrap:wrap;gap:10px;margin-bottom:12px;">
-                        <select id="aiKelasSelect"
-                            style="padding:8px 12px;border-radius:10px;border:1px solid var(--border-subtle);background:var(--bg-card);color:var(--text-main);">
-                            <option value="7">Kelas 7</option>
-                            <option value="8">Kelas 8</option>
-                            <option value="9">Kelas 9</option>
-                            <option value="10">Kelas 10</option>
-                            <option value="11">Kelas 11</option>
-                            <option value="12">Kelas 12</option>
-                        </select>
-                        <select id="aiMapelSelect"
-                            style="padding:8px 12px;border-radius:10px;border:1px solid var(--border-subtle);background:var(--bg-card);color:var(--text-main);">
-                            <option value="matematika">Matematika</option>
-                            <option value="ipa">IPA</option>
-                            <option value="ips">IPS</option>
-                            <option value="bindo">B. Indonesia</option>
-                            <option value="binggris">B. Inggris</option>
-                            <option value="ppkn">PPKn</option>
-                        </select>
-                        <button class="btn btn-primary" id="startQuizAiBtn" style="padding:8px 20px;">🚀 Mulai Kuis AI
-                            (1
-                            Energi)</button>
-                    </div>
-                </div>
-                <hr class="section-divider-futuristic">
+
 
                 <!-- Pilih Kuis -->
                 <div class="arena-section">
-                    <h2>📚 Pilih Kuis</h2>
-                    <p class="subtitle">Pilih mata pelajaran yang ingin kamu kerjakan.</p>
+                    <h2>📚 POJOK Belajar</h2>
+                    <p class="subtitle">Pilih TOOLS YG AKAN ANDA Gunakan</p>
                     <div class="carousel arena-carousel" id="subjectGrid">
-                        <button class="subject-card carousel-item" data-subject="matematika"
-                            data-file="soal-matematika-bab1.json">
-                            <div class="subject-emoji">🔢</div>
-                            <div class="subject-name">Matematika</div>
-                            <div class="subject-desc">Bilangan Bulat - Bab 1</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="ipa" data-file="soal-ipa-umum.json">
-                            <div class="subject-emoji">🔬</div>
-                            <div class="subject-name">IPA</div>
-                            <div class="subject-desc">Sains Umum</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="ips" data-file="soal-ips-umum.json">
-                            <div class="subject-emoji">🌍</div>
-                            <div class="subject-name">IPS</div>
-                            <div class="subject-desc">Ilmu Pengetahuan Sosial</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="bahasa-indonesia"
-                            data-file="soal-bahasa-indonesia-umum.json">
-                            <div class="subject-emoji">📖</div>
-                            <div class="subject-name">B. Indonesia</div>
-                            <div class="subject-desc">Umum</div>
-                        </button>
-                        <button class="subject-card carousel-item" data-subject="bahasa-inggris"
-                            data-file="soal-bahasa-inggris-umum.json">
-                            <div class="subject-emoji">🇬🇧</div>
-                            <div class="subject-name">B. Inggris</div>
-                            <div class="subject-desc">General English</div>
-                        </button>
-                        <button class="subject-card carousel-item"
-                            data-subject="Pendidikan Pancasila dan Kewarganegaraan" data-file="soal-ppkn-umum.json">
-                            <div class="subject-emoji">🦅</div>
-                            <div class="subject-name">PPKN</div>
-                            <div class="subject-desc">Pendidikan Pancasila</div>
-                        </button>
+                        <!-- Kartu Kuis (aktif) -->
+                        <div class="subject-card" onclick="window.location.href='quiz-generator.html'"
+                            style="cursor:pointer;">
+                            <div class="subject-emoji">📝</div>
+                            <div class="subject-name">Kuis</div>
+                            <div class="subject-desc">Pilih kelas & mapel</div>
+                        </div>
+
+                        <!-- Kartu Flashcard (coming soon) -->
+                        <div class="subject-card" style="opacity:0.5; cursor:not-allowed; pointer-events:none;">
+                            <div class="subject-emoji">🃏</div>
+                            <div class="subject-name">Flashcard</div>
+                            <div class="subject-desc">coming soon</div>
+                        </div>
+
+                        <!-- Kartu Cheatsheet (coming soon) -->
+                        <div class="subject-card" style="opacity:0.5; cursor:not-allowed; pointer-events:none;">
+                            <div class="subject-emoji">📄</div>
+                            <div class="subject-name">Cheatsheet</div>
+                            <div class="subject-desc">coming soon</div>
+                        </div>
+
+                        <!-- Kartu Ujian Lisan (coming soon) -->
+                        <div class="subject-card" style="opacity:0.5; cursor:not-allowed; pointer-events:none;">
+                            <div class="subject-emoji">🎤</div>
+                            <div class="subject-name">Ujian Lisan</div>
+                            <div class="subject-desc">coming soon</div>
+                        </div>
+
+                        <!-- Kartu PDF Extractor (coming soon) -->
+                        <div class="subject-card" style="opacity:0.5; cursor:not-allowed; pointer-events:none;">
+                            <div class="subject-emoji">🔍</div>
+                            <div class="subject-name">Pdf Extractor</div>
+                            <div class="subject-desc">coming soon</div>
+                        </div>
+
+                        <!-- Kartu Badge Generator (coming soon) -->
+                        <div class="subject-card" style="opacity:0.5; cursor:not-allowed; pointer-events:none;">
+                            <div class="subject-emoji">⏱️</div>
+                            <div class="subject-name">Pomodoro Timer</div>
+                            <div class="subject-desc">coming soon</div>
+                        </div>
                     </div>
+
                     <button class="btn btn-primary mt-10 hidden" id="startQuizBtn" style="margin-top:16px;">Mulai
                         Kuis
                         (1 Energi)</button>

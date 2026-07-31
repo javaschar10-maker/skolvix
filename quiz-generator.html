@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuis Generator - Skolvix</title>
+    <link rel="stylesheet" href="style.css?v=2.0">
+    <style>
+        /* ─── Halaman Kuis Generator ─── */
+        body {
+            background: #03045E;
+            color: #CAF0F8;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .back-link {
+            display: inline-block;
+            color: #00B4D8;
+            text-decoration: none;
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        .back-link:hover {
+            color: #48CAE4;
+        }
+
+        .card {
+            background: #023E8A;
+            border: 1px solid #0077B6;
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 20px;
+        }
+
+        .card h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 4px;
+        }
+
+        .card .subtitle {
+            color: rgba(202, 240, 248, 0.6);
+            font-size: 14px;
+            margin-bottom: 20px;
+        }
+
+        /* ─── Sumber Materi ─── */
+        .source-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .source-btn {
+            padding: 16px 12px;
+            border: 2px solid #0077B6;
+            border-radius: 12px;
+            background: rgba(0, 0, 0, 0.2);
+            color: #CAF0F8;
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.2s;
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .source-btn:hover {
+            border-color: #00B4D8;
+            background: rgba(0, 180, 216, 0.1);
+        }
+
+        .source-btn.active {
+            border-color: #48CAE4;
+            background: rgba(72, 202, 228, 0.15);
+        }
+
+        .source-btn .emoji {
+            font-size: 28px;
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .source-area {
+            display: none;
+            margin-top: 12px;
+        }
+
+        .source-area.active {
+            display: block;
+        }
+
+        .source-area textarea,
+        .source-area input[type="text"] {
+            width: 100%;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px solid #0077B6;
+            background: rgba(0, 0, 0, 0.2);
+            color: #CAF0F8;
+            font-family: inherit;
+            font-size: 14px;
+            resize: vertical;
+        }
+
+        .source-area textarea {
+            min-height: 100px;
+        }
+
+        .source-area input[type="file"] {
+            display: none;
+        }
+
+        .upload-area {
+            border: 2px dashed #0077B6;
+            border-radius: 12px;
+            padding: 30px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .upload-area:hover {
+            border-color: #00B4D8;
+            background: rgba(0, 180, 216, 0.05);
+        }
+
+        .upload-area.dragover {
+            border-color: #48CAE4;
+            background: rgba(72, 202, 228, 0.1);
+        }
+
+        /* ─── Format ─── */
+        .format-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px;
+            margin: 16px 0;
+        }
+
+        .format-group label {
+            display: block;
+            font-size: 12px;
+            font-weight: 600;
+            color: rgba(202, 240, 248, 0.6);
+            margin-bottom: 4px;
+        }
+
+        .format-group select,
+        .format-group input {
+            width: 100%;
+            padding: 10px 12px;
+            border-radius: 8px;
+            border: 1px solid #0077B6;
+            background: rgba(0, 0, 0, 0.2);
+            color: #CAF0F8;
+            font-size: 14px;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+        }
+
+        .btn-group .btn-option {
+            padding: 8px 16px;
+            border-radius: 8px;
+            border: 1px solid #0077B6;
+            background: rgba(0, 0, 0, 0.2);
+            color: #CAF0F8;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .btn-group .btn-option:hover {
+            border-color: #00B4D8;
+        }
+
+        .btn-group .btn-option.active {
+            border-color: #48CAE4;
+            background: rgba(72, 202, 228, 0.2);
+        }
+
+        /* ─── Tombol Generate ─── */
+        .btn-generate {
+            width: 100%;
+            padding: 14px;
+            border: none;
+            border-radius: 12px;
+            background: #00B4D8;
+            color: #03045E;
+            font-size: 16px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-generate:hover {
+            background: #48CAE4;
+            transform: translateY(-2px);
+        }
+
+        .btn-generate:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        /* ─── Loading ─── */
+        .loading {
+            text-align: center;
+            padding: 40px;
+            display: none;
+        }
+
+        .loading.active {
+            display: block;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #0077B6;
+            border-top-color: #00B4D8;
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+            margin: 0 auto 16px;
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* ─── Soal ─── */
+        .soal-container {
+            display: none;
+        }
+
+        .soal-container.active {
+            display: block;
+        }
+
+        .soal-card {
+            background: rgba(0, 0, 0, 0.2);
+            padding: 20px;
+            border-radius: 12px;
+            margin-bottom: 16px;
+        }
+
+        .soal-card .soal-number {
+            font-size: 12px;
+            color: rgba(202, 240, 248, 0.5);
+            margin-bottom: 8px;
+        }
+
+        .soal-card .soal-text {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 16px;
+            line-height: 1.5;
+        }
+
+        .soal-card .opsi-item {
+            display: block;
+            padding: 12px 16px;
+            margin-bottom: 8px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border-left: 3px solid transparent;
+        }
+
+        .soal-card .opsi-item:hover {
+            background: rgba(0, 180, 216, 0.1);
+        }
+
+        .soal-card .opsi-item.selected {
+            border-left-color: #00B4D8;
+            background: rgba(0, 180, 216, 0.1);
+        }
+
+        .soal-card .opsi-item.correct {
+            border-left-color: #90EF90;
+            background: rgba(144, 239, 144, 0.15);
+        }
+
+        .soal-card .opsi-item.wrong {
+            border-left-color: #FF4D6D;
+            background: rgba(255, 77, 109, 0.15);
+        }
+
+        .soal-card .explanation {
+            display: none;
+            margin-top: 12px;
+            padding: 12px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            font-size: 14px;
+            color: rgba(202, 240, 248, 0.8);
+        }
+
+        .soal-card .explanation.show {
+            display: block;
+        }
+
+        .soal-nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 16px;
+        }
+
+        .timer {
+            font-size: 20px;
+            font-weight: 700;
+            color: #48CAE4;
+            font-variant-numeric: tabular-nums;
+        }
+
+        .timer.warning {
+            color: #FF4D6D;
+        }
+
+        /* ─── Hasil ─── */
+        .result-container {
+            display: none;
+        }
+
+        .result-container.active {
+            display: block;
+        }
+
+        .result-score {
+            font-size: 48px;
+            font-weight: 800;
+            text-align: center;
+            margin: 16px 0;
+        }
+
+        .result-feedback {
+            background: rgba(0, 0, 0, 0.2);
+            padding: 16px;
+            border-radius: 12px;
+            margin: 16px 0;
+            font-size: 15px;
+            line-height: 1.6;
+            border-left: 4px solid #00B4D8;
+        }
+
+        .result-actions {
+            display: flex;
+            gap: 12px;
+            margin-top: 20px;
+        }
+
+        .result-actions .btn {
+            flex: 1;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            font-weight: 600;
+            cursor: pointer;
+            text-align: center;
+            text-decoration: none;
+            transition: all 0.2s;
+        }
+
+        .btn-primary {
+            background: #00B4D8;
+            color: #03045E;
+        }
+
+        .btn-primary:hover {
+            background: #48CAE4;
+            transform: translateY(-2px);
+        }
+
+        .btn-secondary {
+            background: rgba(255, 255, 255, 0.1);
+            color: #CAF0F8;
+        }
+
+        .btn-secondary:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        /* ─── Responsive ─── */
+        @media (max-width: 768px) {
+            .source-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .format-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .result-actions {
+                flex-direction: column;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 0 4px;
+            }
+
+            .card {
+                padding: 16px;
+            }
+
+            .soal-card .soal-text {
+                font-size: 16px;
+            }
+
+            .result-score {
+                font-size: 36px;
+            }
+        }
+
+        .hidden {
+            display: none !important;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <!-- ─── BACK LINK ─── -->
+        <a href="app.html?tab=arena" class="back-link">← Kembali ke POJOK Belajar</a>
+
+        <!-- ─── CARD UTAMA ─── -->
+        <div class="card">
+            <h1>📝 Kuis Generator</h1>
+            <p class="subtitle">Ubah materi belajarmu jadi soal kuis interaktif</p>
+
+            <!-- ─── 1. SUMBER MATERI ─── -->
+            <div style="margin-bottom: 16px;">
+                <p style="font-weight:600; margin-bottom:8px;">Pilih Sumber Materi</p>
+                <div class="source-grid">
+                    <button class="source-btn active" data-source="upload">
+                        <span class="emoji">📤</span>
+                        Upload PDF/Word
+                    </button>
+                    <button class="source-btn" data-source="teks">
+                        <span class="emoji">📝</span>
+                        Tempel Teks
+                    </button>
+                    <button class="source-btn" data-source="ai">
+                        <span class="emoji">🤖</span>
+                        Minta AI Cari
+                    </button>
+                </div>
+
+                <!-- Upload Area -->
+                <div class="source-area active" id="area-upload">
+                    <div class="upload-area" id="uploadArea">
+                        <div style="font-size:48px; margin-bottom:8px;">📄</div>
+                        <p><strong>Drag & drop file di sini</strong></p>
+                        <p style="font-size:13px; color:rgba(202,240,248,0.5);">atau klik untuk upload (PDF, DOCX, TXT)
+                        </p>
+                        <input type="file" id="fileInput" accept=".pdf,.docx,.txt">
+                    </div>
+                    <div id="filePreview" style="margin-top:8px; font-size:13px; color:rgba(202,240,248,0.6);"></div>
+                </div>
+
+                <!-- Tempel Teks -->
+                <div class="source-area" id="area-teks">
+                    <textarea id="textInput" placeholder="Tempel teks materi di sini..."></textarea>
+                    <div id="teksPreview" style="margin-top:8px; font-size:13px; color:rgba(202,240,248,0.6);"></div>
+                </div>
+
+                <!-- Minta AI Cari -->
+                <div class="source-area" id="area-ai">
+                    <input type="text" id="aiTopic" placeholder="Contoh: Bilangan Bulat, Sistem Tata Surya, Puisi...">
+                    <div id="aiPreview" style="margin-top:8px; font-size:13px; color:rgba(202,240,248,0.6);"></div>
+                </div>
+            </div>
+
+            <!-- ─── 2. FORMAT ─── -->
+            <div style="margin: 20px 0 16px;">
+                <p style="font-weight:600; margin-bottom:8px;">Atur Format Kuis</p>
+                <div class="format-grid">
+                    <div class="format-group">
+                        <label>Jumlah Soal</label>
+                        <div class="btn-group" id="jumlahGroup">
+                            <button class="btn-option active" data-value="5">5</button>
+                            <button class="btn-option" data-value="10">10</button>
+                            <button class="btn-option" data-value="15">15</button>
+                        </div>
+                    </div>
+                    <div class="format-group">
+                        <label>Jenis Soal</label>
+                        <div class="btn-group" id="jenisGroup">
+                            <button class="btn-option active" data-value="pilihan ganda">Pilihan Ganda</button>
+                            <button class="btn-option" data-value="esai">Esai</button>
+                        </div>
+                    </div>
+                    <div class="format-group">
+                        <label>Durasi (detik)</label>
+                        <input type="number" id="durasiInput" value="60" min="30" max="1000"
+                            style="width:100%; padding:8px 12px; border-radius:8px; border:1px solid #0077B6; background:rgba(0,0,0,0.2); color:#CAF0F8; font-size:14px;">
+                    </div>
+                </div>
+            </div>
+
+            <!-- ─── 3. GENERATE ─── -->
+            <button class="btn-generate" id="generateBtn">🚀 Generate Kuis</button>
+
+            <!-- Loading -->
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Sedang generate soal... tunggu sebentar ya</p>
+            </div>
+        </div>
+
+        <!-- ─── SOAL ─── -->
+        <div class="card soal-container" id="soalContainer">
+            <div id="soalContent"></div>
+            <div class="soal-nav">
+                <span class="timer" id="timerDisplay">⏱️ 60</span>
+                <button class="btn btn-primary" id="nextBtn" style="display:none;">Soal Berikutnya →</button>
+            </div>
+        </div>
+
+        <!-- ─── HASIL ─── -->
+        <div class="card result-container" id="resultContainer">
+            <div id="resultContent"></div>
+        </div>
+    </div>
+
+    <!-- ─── SCRIPTS ─── -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="supabase-config.js"></script>
+    <script type="module" src="feedback-templates.js"></script>
+    <script src="quiz-generator.js"></script>
+
+</body>
+
+</html>
