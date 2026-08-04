@@ -748,8 +748,8 @@
                 font-size: 24px;
             }
 
-            /* Beranda: 2-column grid on desktop */
-            #tab-beranda {
+            /* Beranda: 2-column grid on desktop (scoped to .active to avoid stale-UI overlap) */
+            #tab-beranda.active {
                 display: grid;
                 grid-template-columns: 1fr 1fr;
                 gap: 16px;
