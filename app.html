@@ -984,6 +984,35 @@
             <path d="M12 3l1.8 4.6L18.5 9.5l-4.7 1.9L12 16l-1.8-4.6L5.5 9.5l4.7-1.9L12 3z" />
             <path d="M19 15l.9 2.1L22 18l-2.1.9L19 21l-.9-2.1L16 18l2.1-.9L19 15z" />
         </symbol>
+        <symbol id="i-math" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+            stroke-linecap="round" stroke-linejoin="round">
+            <rect x="5" y="3" width="14" height="18" rx="2" />
+            <path d="M8 7h8" />
+            <path d="M8 12h.01M12 12h.01M16 12h.01M8 16h.01M12 16h.01M16 16h.01" />
+        </symbol>
+        <symbol id="i-science" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+            stroke-linecap="round" stroke-linejoin="round">
+            <path d="M10 2v6L4.5 17a3 3 0 003 5h9a3 3 0 003-5L14 8V2" />
+            <path d="M8.5 2h7" />
+            <path d="M7 15h10" />
+        </symbol>
+        <symbol id="i-globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+            stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="9" />
+            <path d="M3 12h18" />
+            <path d="M12 3c3 3.5 3 14.5 0 18-3-3.5-3-14.5 0-18z" />
+        </symbol>
+        <symbol id="i-lang" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+            stroke-linecap="round" stroke-linejoin="round">
+            <path d="M4 5h10M9 3v2M7 5c0 4 3 7 7 8" />
+            <path d="M11 9c-1.6 2.2-4.4 3.5-7 3.5" />
+            <path d="M13 21l4-10 4 10M14.5 17h5" />
+        </symbol>
+        <symbol id="i-flag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
+            stroke-linecap="round" stroke-linejoin="round">
+            <path d="M5 21V3" />
+            <path d="M5 4h14l-3.5 4L19 12H5" />
+        </symbol>
     </svg>
 
     <div id="skolvix-cosmic-bg">
@@ -1254,6 +1283,25 @@
             background: rgba(0, 212, 255, 0.1);
             border: 1px solid rgba(0, 212, 255, 0.25);
             color: var(--cyan);
+        }
+
+        /* ── Subject mapel cards (uniform height & clean text) ── */
+        .arena-section .subject-card {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 4px;
+            min-height: 118px;
+        }
+
+        .arena-section .subject-desc {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            max-width: 100%;
+            line-height: 1.4;
         }
 
         /* ── Login input ── */
@@ -1534,6 +1582,57 @@
                             <div class="subject-name">Pomodoro Timer</div>
                             <div class="subject-desc">coming soon</div>
                         </div>
+                    </div>
+
+                    <p class="subtitle" style="margin-top:4px;">Pilih Mapel untuk Kuis statis:</p>
+
+                    <div class="carousel arena-carousel">
+                        <button class="subject-card carousel-item" data-subject="matematika"
+                            data-file="soal-matematika-bab1.json">
+                            <div class="subject-emoji"><svg>
+                                    <use href="#i-math" />
+                                </svg></div>
+                            <div class="subject-name">Matematika</div>
+                            <div class="subject-desc">Bilangan Bulat - Bab 1</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="ipa" data-file="soal-ipa-umum.json">
+                            <div class="subject-emoji"><svg>
+                                    <use href="#i-science" />
+                                </svg></div>
+                            <div class="subject-name">IPA</div>
+                            <div class="subject-desc">Sains Umum</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="ips" data-file="soal-ips-umum.json">
+                            <div class="subject-emoji"><svg>
+                                    <use href="#i-globe" />
+                                </svg></div>
+                            <div class="subject-name">IPS</div>
+                            <div class="subject-desc">Ilmu Pengetahuan Sosial</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="bahasa-indonesia"
+                            data-file="soal-bahasa-indonesia-umum.json">
+                            <div class="subject-emoji"><svg>
+                                    <use href="#i-book" />
+                                </svg></div>
+                            <div class="subject-name">B. Indonesia</div>
+                            <div class="subject-desc">Umum</div>
+                        </button>
+                        <button class="subject-card carousel-item" data-subject="bahasa-inggris"
+                            data-file="soal-bahasa-inggris-umum.json">
+                            <div class="subject-emoji"><svg>
+                                    <use href="#i-lang" />
+                                </svg></div>
+                            <div class="subject-name">B. Inggris</div>
+                            <div class="subject-desc">General English</div>
+                        </button>
+                        <button class="subject-card carousel-item"
+                            data-subject="Pendidikan Pancasila dan Kewarganegaraan" data-file="soal-ppkn-umum.json">
+                            <div class="subject-emoji"><svg>
+                                    <use href="#i-flag" />
+                                </svg></div>
+                            <div class="subject-name">PPKN</div>
+                            <div class="subject-desc">Pendidikan Pancasila</div>
+                        </button>
                     </div>
 
                     <button class="btn btn-primary mt-10 hidden" id="startQuizBtn" style="margin-top:16px;">Mulai
