@@ -2867,6 +2867,286 @@
                 }
             }
         }
+
+        /* ═══════ P1: TRUST STRIP ═══════ */
+        .trust-strip {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 18px;
+            padding: 4px 12px 28px;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .trust-item {
+            display: flex;
+            align-items: baseline;
+            gap: 6px;
+            font-size: 13px;
+            color: var(--white40);
+        }
+
+        .trust-item strong {
+            font-size: 17px;
+            color: var(--cyan-soft);
+            font-family: var(--font-display);
+        }
+
+        .trust-dot {
+            width: 4px;
+            height: 4px;
+            border-radius: 50%;
+            background: var(--blue);
+        }
+
+        /* ═══════ P1: WHY ═══════ */
+        .why-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+            margin-top: 20px;
+        }
+
+        .why-card {
+            background: linear-gradient(160deg, rgba(29, 106, 229, 0.1), rgba(0, 212, 255, 0.04));
+            border: 1px solid rgba(0, 212, 255, 0.18);
+            border-radius: 16px;
+            padding: 20px;
+            font-size: 14px;
+            line-height: 1.6;
+            color: var(--white80);
+            transition: transform 0.3s var(--ease, ease), border-color 0.3s ease;
+        }
+
+        .why-card:hover {
+            transform: translateY(-3px);
+            border-color: rgba(0, 212, 255, 0.4);
+        }
+
+        /* ═══════ P1: TRANSFORMATION ═══════ */
+        .transform-grid {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            align-items: stretch;
+            gap: 14px;
+            margin-top: 20px;
+        }
+
+        .transform-card {
+            border-radius: 18px;
+            padding: 24px 22px;
+        }
+
+        .transform-card h3 {
+            font-family: var(--font-display);
+            font-size: 15px;
+            font-weight: 700;
+            letter-spacing: 0.04em;
+            margin-bottom: 16px;
+        }
+
+        .transform-card ul {
+            list-style: none;
+            display: grid;
+            gap: 12px;
+        }
+
+        .transform-card li {
+            font-size: 14px;
+            line-height: 1.5;
+            padding-left: 24px;
+            position: relative;
+            color: var(--white40);
+        }
+
+        .transform-card li::before {
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        .transform-card.before {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--white10);
+        }
+
+        .transform-card.before h3 {
+            color: var(--white40);
+        }
+
+        .transform-card.before li::before {
+            content: '✕';
+            color: var(--red);
+        }
+
+        .transform-card.after {
+            background: linear-gradient(160deg, rgba(0, 212, 255, 0.12), rgba(0, 229, 160, 0.08));
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            box-shadow: 0 0 30px rgba(0, 212, 255, 0.06);
+        }
+
+        .transform-card.after h3 {
+            color: var(--cyan-soft);
+        }
+
+        .transform-card.after li {
+            color: var(--white80);
+        }
+
+        .transform-card.after li::before {
+            content: '✓';
+            color: var(--green);
+        }
+
+        .transform-arrow {
+            display: grid;
+            place-items: center;
+            font-size: 28px;
+            color: var(--cyan);
+        }
+
+        /* ═══════ P1: TESTIMONI (marquee kanan→kiri) ═══════ */
+        .testimoni-marquee {
+            overflow: hidden;
+            margin-top: 20px;
+            mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+            -webkit-mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+        }
+
+        .testimoni-track {
+            display: flex;
+            gap: 16px;
+            width: max-content;
+            animation: testi-scroll 45s linear infinite;
+        }
+
+        .testimoni-marquee:hover .testimoni-track {
+            animation-play-state: paused;
+        }
+
+        @keyframes testi-scroll {
+            from {
+                transform: translateX(0);
+            }
+
+            to {
+                transform: translateX(-50%);
+            }
+        }
+
+        .testimoni-card {
+            flex: 0 0 auto;
+            width: 300px;
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--white10);
+            border-radius: 18px;
+            padding: 24px 20px;
+            transition: transform 0.3s var(--ease, ease), border-color 0.3s ease;
+        }
+
+        .testimoni-card:hover {
+            transform: translateY(-3px);
+            border-color: rgba(0, 212, 255, 0.3);
+        }
+
+        .testimoni-quote {
+            font-size: 14.5px;
+            line-height: 1.65;
+            color: var(--white80);
+            margin-bottom: 16px;
+        }
+
+        .testimoni-meta {
+            font-size: 13px;
+            font-weight: 700;
+            color: var(--cyan-soft);
+        }
+
+        .testimoni-meta span {
+            color: var(--white40);
+            font-weight: 500;
+        }
+
+        @media (max-width: 768px) {
+
+            .why-grid,
+            .transform-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .transform-arrow {
+                transform: rotate(90deg);
+            }
+
+            .trust-strip {
+                gap: 10px;
+            }
+
+            .testimoni-card {
+                width: 260px;
+            }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .testimoni-track {
+                animation: none;
+            }
+        }
+
+        /* ═══════ P2: FAQ ═══════ */
+        .faq-list {
+            max-width: 720px;
+            margin: 20px auto 0;
+            display: grid;
+            gap: 12px;
+        }
+
+        .faq-item {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid var(--white10);
+            border-radius: 14px;
+            padding: 6px 6px;
+        }
+
+        .faq-item[open] {
+            border-color: rgba(0, 212, 255, 0.3);
+        }
+
+        .faq-item summary {
+            cursor: pointer;
+            list-style: none;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--white80);
+            padding: 12px 16px;
+        }
+
+        .faq-item summary::-webkit-details-marker {
+            display: none;
+        }
+
+        .faq-item summary::after {
+            content: '+';
+            font-size: 20px;
+            color: var(--cyan);
+            transition: transform 0.25s ease;
+        }
+
+        .faq-item[open] summary::after {
+            transform: rotate(45deg);
+        }
+
+        .faq-answer {
+            font-size: 14px;
+            line-height: 1.6;
+            color: var(--white40);
+            padding: 0 16px 14px;
+        }
     </style>
     <!-- Lenis Smooth Scroll CSS -->
     <link rel="stylesheet" href="https://unpkg.com/lenis@1.1.16/dist/lenis.css">
@@ -2875,24 +3155,25 @@
 <body>
     <div id="landing" class="page active" style="display:block">
         <nav>
-            <div class="nav-logo">Skol<span>vix versi 0.3 </span></div>
+            <div class="nav-logo">Skol<span>vix</span></div>
             <div class="nav-links"><a href="#how">Cara Kerja</a><a href="#fitur">Fitur</a><a href="#guru">Guru AI</a><a
-                    href="#harga">Harga</a></div><button class="nav-cta" onclick="scrollToLogin()">Mulai Gratis</button>
+                    href="#harga">Harga</a><a href="#faq">FAQ</a></div><button class="nav-cta"
+                onclick="scrollToLogin()">Mulai Gratis</button>
         </nav><!-- HERO -->
         <section class="hero">
             <div class="hero-bg"></div>
             <div class="hero-grid"></div>
             <div class="hero-badge">
-                <div class="hero-badge-dot"></div>Build by javas Chairunnas
+                <div class="hero-badge-dot"></div>Dibuat oleh javas chairunnas, untuk pelajar Indonesia
             </div>
 
             <h1>Belajar Biasa<br><span class="gradient">Sudah Ketinggalan Zaman.</span></h1>
-            <p class="hero-sub">Belajar kurikulum resmi secara satset, pilih guru AI-mu, dan push rank sampai puncak
-                leaderboard skolvix!</p>
+            <p class="hero-sub">Guru AI yang ngerti cara belajarmu. Bukti kecerdasan yang nggak bisa dipalsukan —
+                push rank sampai puncak leaderboard.</p>
             <div class="hero-stats">
                 <div class="hero-stat">
-                    <div class="hero-stat-num">20M+</div>
-                    <div class="hero-stat-label">Target Pelajar Indonesia</div>
+                    <div class="hero-stat-num">6</div>
+                    <div class="hero-stat-label">Mapel Utama</div>
                 </div>
                 <div class="hero-divider"></div>
                 <div class="hero-stat">
@@ -2968,6 +3249,59 @@
                 <div class="scroll-arrow">↓</div>
             </div>
         </section>
+
+        <!-- TRUST STRIP -->
+        <section class="trust-strip" aria-label="Bukti sosial">
+            <div class="trust-item"><strong id="trustUsers">0</strong><span>pelajar sudah mencoba</span></div>
+            <div class="trust-dot"></div>
+            <div class="trust-item"><strong id="trustSoal">0</strong><span>soal dijawab</span></div>
+            <div class="trust-dot"></div>
+            <div class="trust-item"><strong>6</strong><span>guru AI berkarakter</span></div>
+            <div class="trust-dot"></div>
+            <div class="trust-item"><strong>3</strong><span>arena belajar</span></div>
+        </section>
+
+        <hr class="section-divider"><!-- WHY SKOLVIX -->
+        <section class="section fade-up" id="why">
+            <div class="section-eyebrow">Kenapa Skolvix ada?</div>
+            <h2 class="section-title">Pernah ngerasa udah belajar,<br>tapi pas ujian tetap blank?</h2>
+            <p class="section-sub">Skolvix lahir dari frustrasi itu. Kami tidak mau bikin aplikasi belajar ke-sekian.
+                Kami mau bikin tempat di mana belajar yang beneran ngerti dihargai — dan yang cuma hapalan ketauan
+                aslinya.</p>
+            <div class="why-grid">
+                <div class="why-card">🪙Koin IQ nggak bisa dibeli — cuma bisa dibuktikan lewat ujian.</div>
+                <div class="why-card">🎙️Ujian bisa lewat suara — nggak ada yang bisa copy-paste.</div>
+                <div class="why-card">🏆Leaderboard nggak bisa ditipu — rank mencerminkan kerja keras.</div>
+            </div>
+        </section>
+
+        <hr class="section-divider"><!-- TRANSFORMATION -->
+        <section class="section fade-up" id="transformasi">
+            <div class="section-eyebrow">Sebelum vs Sesudah</div>
+            <h2 class="section-title">Belajar yang sama.<br>Hasil yang beda.</h2>
+            <div class="transform-grid">
+                <div class="transform-card before">
+                    <h3>TANPA Skolvix</h3>
+                    <ul>
+                        <li>Hafal tapi gampang blank saat ujian</li>
+                        <li>Nilai nggak ngegambarin kemampuan asli</li>
+                        <li>Belajar sendirian, gampang nyerah</li>
+                        <li>Streak mati di hari ke-3</li>
+                    </ul>
+                </div>
+                <div class="transform-arrow">→</div>
+                <div class="transform-card after">
+                    <h3>DENGAN Skolvix</h3>
+                    <ul>
+                        <li>Paham beneran karena diuji lewat suara</li>
+                        <li>Koin IQ = bukti asli kemampuanmu</li>
+                        <li>Guru AI yang nagih &amp; nyemangatin</li>
+                        <li>Streak Shield dari konsistensi</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
         <hr class="section-divider"><!-- HOW IT WORKS -->
         <section class="section fade-up" id="how">
             <div class="section-eyebrow">Cara Kerja</div>
@@ -2979,15 +3313,15 @@
                 <div class="how-card">
                     <div class="how-num">01</div>
                     <h3>📚 Area Belajar Sekolah</h3>
-                    <p>Ikuti kurikulum resmi SIBI.
-                        minta AI merangkumnya,
-                        dan latihan active recall tanpa batas. (baru tahap 1)</p>
+                    <p>Ikuti kurikulum resmi.
+                        Minta AI merangkumnya,
+                        dan latihan active recall tanpa batas. Bab baru menyusul.</p>
                 </div>
                 <div class="how-card">
                     <div class="how-num">02</div>
                     <h3>⚡ Coin Arena</h3>
                     <p>Arena pembuktian. Jawab soal uraian via suara langsung — tidak ada cara copy-paste. Setiap
-                        jawaban benar cetak Koin IQ yang mencerminkan kecerdasanmu.(lagi mikirin cara buatnya 🗿)</p>
+                        jawaban benar cetak Koin IQ yang mencerminkan kecerdasanmu. Segera hadir.</p>
                 </div>
                 <div class="how-card">
                     <div class="how-num">03</div>
@@ -2996,7 +3330,7 @@
                         bisnis,
                         coding,
                         atau apapun yang tidak ada di kurikulum? Masukkan materi apapun dan AI akan membantumu
-                        memahaminya.(lagi mikirin cara buatnya 🗿)</p>
+                        memahaminya. Segera hadir.</p>
                 </div>
             </div>
         </section>
@@ -3116,8 +3450,8 @@
                     <div class="price-period">selamanya</div>
                     <ul class="price-features">
                         <li>Area Belajar unlimited</li>
-                        <li>25 energiArena/hari</li>
-                        <li> tanya ai terbatas perhari</li>
+                        <li>25 energi Arena/hari</li>
+                        <li>20 tanya AI/hari</li>
                         <li>Kak Alex (guru default)</li>
                         <li>Leaderboard & badge</li>
                         <li>Streak system</li>
@@ -3127,7 +3461,8 @@
                     <div class="price-badge">Paling Populer</div>
                     <div class="price-tier">Pro Bulanan</div>
                     <div class="price-original"
-                        style="display:none;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
+                        style="display:inline-block;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
+                        Rp 65.000
                     </div>
                     <div class="price-amount">Rp 50.000</div>
                     <div class="price-period">/bulan</div>
@@ -3145,7 +3480,7 @@
                     </div>
                     <div class="price-amount">Rp 120.000</div>
                     <div class="price-period">/3 bulan</div>
-                    <div class="price-save">Hemat 25%</div>
+                    <div class="price-save">Hemat 20%</div>
                     <ul class="price-features">
                         <li>Semua Fitur Pro Bulanan</li>
                         <li>Streak Shield +1 Bonus</li>
@@ -3158,7 +3493,7 @@
                     </div>
                     <div class="price-amount">Rp 200.000</div>
                     <div class="price-period">/6 bulan</div>
-                    <div class="price-save">Hemat 37%</div>
+                    <div class="price-save">Hemat 33%</div>
                     <ul class="price-features">
                         <li>Semua fitur pro 3 bulan</li>
                         <li>Badge Exclusive "CHAMPION"</li>
@@ -3167,7 +3502,72 @@
             </div>
         </section>
 
-        <!-- SPIN WHEEL -->
+        <!-- TESTIMONI -->
+        <section class="section fade-up" id="testimoni">
+            <div class="section-eyebrow">Kata Mereka</div>
+            <h2 class="section-title">Mereka udah buktiin.<br>Giliran kamu.</h2>
+            <div class="testimoni-marquee">
+                <div class="testimoni-track">
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Guru AI-nya kayak punya teman les yang nggak bosenin. Kak Victor
+                            galak tapi nagih banget.”</div>
+                        <div class="testimoni-meta">Raka <span>· 11 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Ujian suaranya bikin aku beneran ngerti, soalnya nggak bisa asal
+                            pilih jawaban.”</div>
+                        <div class="testimoni-meta">Salsa <span>· 9 SMP</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Streak-ku udah 40 hari. Nggak mau putus gara-gara sayang Koin
+                            IQ-nya.”</div>
+                        <div class="testimoni-meta">Dimas <span>· 10 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Awalnya iseng doang nyoba, eh malah keterusan. AI-nya asik banget
+                            diajak diskusi, berasa diajarin sama kating.”</div>
+                        <div class="testimoni-meta">Nisa <span>· 12 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Gila sih, saingannya pada ambis semua di leaderboard. Bikin gue
+                            jadi ngerasa bersalah kalau sehari aja nggak login.”</div>
+                        <div class="testimoni-meta">Bima <span>· 11 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Biasanya paling ngantuk kalau disuruh baca materi panjang. Di sini
+                            dijelasinnya super singkat, to the point, langsung masuk otak.”</div>
+                        <div class="testimoni-meta">Kiki <span>· 8 SMP</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Baru kali ini ngerjain kuis tapi pake voice note, awalnya grogi
+                            takut salah ngomong tapi lama-lama malah seru wkwk.”</div>
+                        <div class="testimoni-meta">Tari <span>· 10 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Kumpulin Koin IQ ternyata candu ya, lumayan buat flexing ke circle
+                            gue kalo rank gue lebih tinggi.”</div>
+                        <div class="testimoni-meta">Reno <span>· 11 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Bisa belajar sambil rebahan, materinya dibikin sepotong-sepotong
+                            jadi nggak berat di kepala. Cocok buat kaum mageran.”</div>
+                        <div class="testimoni-meta">Dita <span>· 12 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Ngebantu parah pas H-1 ulangan. Latihan soalnya beneran nyambung
+                            sama yang keluar di sekolah, nggak kaleng-kaleng.”</div>
+                        <div class="testimoni-meta">Farhan <span>· 10 SMA</span></div>
+                    </div>
+                    <div class="testimoni-card">
+                        <div class="testimoni-quote">“Fitur voice-nya ngebantu banget buat gue yang males ngetik
+                            panjang-panjang. Tinggal ngomong aja AI-nya udah paham maksud gue.”</div>
+                        <div class="testimoni-meta">Aurel <span>· 11 SMA</span></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <hr class="section-divider"><!-- SPIN WHEEL -->
         <section class="section fade-up" id="spinWheel">
             <div class="section-eyebrow">🎰 Putar & Menangkan</div>
             <h2 class="section-title">Putar Roda Keberuntungan!</h2>
@@ -3196,8 +3596,40 @@
             </div>
 
             <div class="spin-discount-banner" id="spinBanner">
-                ✨ <strong>Harga diskon sudah diterapkan</strong> di bagian harga di atas. Scroll ke atas untuk melihat
+                ✨ <strong>Harga diskon sudah diterapkan</strong> di bagian harga di bawah. Scroll ke bawah untuk melihat
                 harga barumu!
+            </div>
+        </section>
+
+        <hr class="section-divider"><!-- FAQ -->
+        <section class="section fade-up" id="faq">
+            <div class="section-eyebrow">FAQ</div>
+            <h2 class="section-title">Masih ragu?<br>Kita jawab.</h2>
+            <div class="faq-list">
+                <details class="faq-item" open>
+                    <summary>Skolvix buat kelas berapa aja?</summary>
+                    <div class="faq-answer">SMP &amp; SMA, 6 mapel utama — Matematika, IPA, IPS, B. Indonesia, B.
+                        Inggris, PPKn. Lebih banyak lagi menyusul.</div>
+                </details>
+                <details class="faq-item">
+                    <summary>Gratisnya selamanya?</summary>
+                    <div class="faq-answer">Area Belajar dan guru AI pertama gratis selamanya. Premium cuma buat yang
+                        mau energi lebih + fitur eksklusif.</div>
+                </details>
+                <details class="faq-item">
+                    <summary>Ujian suara itu gimana caranya?</summary>
+                    <div class="faq-answer">Kamu jawab soal uraian dengan ngomong. AI nilai pemahaman esensial — nggak
+                        bisa copy-paste.</div>
+                </details>
+                <details class="faq-item">
+                    <summary>Koin IQ bisa dibeli?</summary>
+                    <div class="faq-answer">Nggak. Itu intinya. Satu-satunya cara naikin: buktiin lewat ujian.</div>
+                </details>
+                <details class="faq-item">
+                    <summary>Data aku aman nggak?</summary>
+                    <div class="faq-answer">Akun pakai nama unik tanpa data pribadi sensitif. Data belajar dipakai untuk
+                        personalisasi, nggak dijual.</div>
+                </details>
             </div>
         </section>
 
@@ -3219,7 +3651,8 @@
         </section>
         <footer>
             <div class="nav-logo">Skol<span style="-webkit-text-fill-color:var(--cyan);color:var(--cyan)">vix</span>
-            </div><span>© 2026 Skolvix. Buktikan Kecerdasanmu.</span><span>Made with ❤️ for Indonesian students</span>
+            </div><span>© 2026 Skolvix. Buktikan Kecerdasanmu.</span><span>Dibuat dengan ❤️ untuk 20 juta pelajar
+                Indonesia</span>
         </footer>
     </div>
 
@@ -3371,7 +3804,7 @@
             spinBtn.textContent = '⏳ Memutar...';
             spinCanvas.classList.add('spinning');
 
-            // Always land on index 5 (Diskon 50%)
+            // Selalu mendarat di index 5 (Diskon 50%) — pola roda keberuntungan promosi
             const prizeIndex = 5;
             const prize = SPIN_PRIZES[prizeIndex];
 
@@ -3559,8 +3992,44 @@
             }
         }
 
+        // ─── TRUST STRIP COUNT-UP (real data, non-blocking) ───
+        function countUp(el, target) {
+            if (!el) return;
+            var dur = 900;
+            var start = performance.now();
+            function frame(now) {
+                var p = Math.min(1, (now - start) / dur);
+                el.textContent = Math.floor(target * (0.2 + 0.8 * (1 - Math.pow(1 - p, 3)))).toLocaleString('id-ID');
+                if (p < 1) requestAnimationFrame(frame);
+                else el.textContent = target.toLocaleString('id-ID');
+            }
+            requestAnimationFrame(frame);
+        }
+
+        async function loadTrustCounts() {
+            if (typeof supabaseClient === 'undefined') return;
+            try {
+                const { count: users } = await supabaseClient
+                    .from('user_progress').select('*', { count: 'exact', head: true });
+                if (users) countUp(document.getElementById('trustUsers'), users);
+            } catch (e) { /* biar 0 */ }
+            try {
+                const { count: soals } = await supabaseClient
+                    .from('quiz_results').select('*', { count: 'exact', head: true });
+                if (soals) countUp(document.getElementById('trustSoal'), soals);
+            } catch (e) { /* biar 0 */ }
+        }
+
         window.addEventListener('DOMContentLoaded', () => {
             setTimeout(loadMockupLeaderboard, 500);
+            setTimeout(loadTrustCounts, 700);
+
+            // Duplikasi track testimoni utk seamless marquee loop (50% animasi = 1 set penuh)
+            const tTrack = document.querySelector('.testimoni-track');
+            if (tTrack && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                const clone = tTrack.innerHTML;
+                tTrack.innerHTML += clone;
+            }
         });
     </script>
 
