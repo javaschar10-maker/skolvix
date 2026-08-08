@@ -3462,10 +3462,11 @@
                     <div class="price-tier">Pro Bulanan</div>
                     <div class="price-original"
                         style="display:inline-block;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
-                        Rp 180.000
+                        Rp 225.000
                     </div>
-                    <div class="price-amount">Rp 150.000</div>
+                    <div class="price-amount">Rp 170.000</div>
                     <div class="price-period">/bulan</div>
+                    <div class="price-save">Hemat 24,44%</div>
                     <ul class="price-features">
                         <li>Semua fitur gratis</li>
                         <li>75 Energi Arena/hari</li>
@@ -3478,9 +3479,9 @@
                     <div class="price-original"
                         style="display:none;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
                     </div>
-                    <div class="price-amount">Rp 360.000</div>
+                    <div class="price-amount">Rp 450.000</div>
                     <div class="price-period">/3 bulan</div>
-                    <div class="price-save">Hemat 20%</div>
+                    <div class="price-save">Hemat 33,33%</div>
                     <ul class="price-features">
                         <li>Semua Fitur Pro Bulanan</li>
                         <li>Streak Shield +1 Bonus</li>
@@ -3491,9 +3492,9 @@
                     <div class="price-original"
                         style="display:none;text-decoration:line-through;color:var(--white40);font-size:14px;margin-bottom:2px;">
                     </div>
-                    <div class="price-amount">Rp 600.000</div>
+                    <div class="price-amount">Rp 840.000</div>
                     <div class="price-period">/6 bulan</div>
-                    <div class="price-save">Hemat 33%</div>
+                    <div class="price-save">Hemat 37,78%</div>
                     <ul class="price-features">
                         <li>Semua fitur pro 3 bulan</li>
                         <li>Badge Exclusive "CHAMPION"</li>
@@ -3588,7 +3589,8 @@
                         atau bonus energi tambahan untuk kuis. Diskon otomatis diterapkan di bawah!</p>
                     <button class="spin-btn" id="spinBtn" onclick="spinWheel()">🎯 PUTAR SEKARANG</button>
                     <div class="spin-result-box" id="spinResult">
-                        <div class="spin-result-label">🎉 SELAMAT! KAMU MENDAPAT</div>
+                        <div class="spin-result-label">🎉Selamat! Kamu dapet diskon terbesar hari ini. Jangan sampai
+                            kelewatan ya!</div>
                         <div class="spin-result-prize" id="spinPrize"></div>
                         <div class="spin-result-desc" id="spinDesc"></div>
                     </div>
@@ -3596,7 +3598,7 @@
             </div>
 
             <div class="spin-discount-banner" id="spinBanner">
-                ✨ <strong>Harga diskon sudah diterapkan</strong> di bagian harga di bawah. Scroll ke bawah untuk melihat
+                ✨ <strong>Harga diskon sudah diterapkan</strong> di bagian harga di atas. Scroll ke atas untuk melihat
                 harga barumu!
             </div>
         </section>
@@ -3849,7 +3851,7 @@
         }
 
         function updatePricingWithDiscount(discountPercent) {
-            const plans = { 1: 150000, 3: 720000, 6: 1200000 };
+            const plans = { 1: 170000, 3: 450000, 6: 840000 };
             const discount = discountPercent / 100;
 
             for (const [months, original] of Object.entries(plans)) {
